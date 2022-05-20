@@ -32,5 +32,7 @@ module.exports = {
         },
         __key: "pages"
     }
-  ]
+  ],
+  pathPrefix: "/rtq-try-gatsby-md",
+
 };

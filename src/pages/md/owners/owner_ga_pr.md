@@ -1,7 +1,7 @@
 ---
-slug: "owners/owner_ga_pr"
+slug: "owners/owner-ga-pr"
 title: "owner_ga_pr"
-date: 2022-05-20 13:11:08
+date: 2022-05-20 15:52:56
 ---
 # Owner - Gifty Abhishek
 

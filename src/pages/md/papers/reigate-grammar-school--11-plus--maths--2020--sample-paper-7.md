@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school--11-plus--maths--2020--sample-paper-7"
 title: "reigate-grammar-school--11-plus--maths--2020--sample-paper-7"
-date: 2022-05-20 13:11:08
+date: 2022-05-20 15:52:56
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>

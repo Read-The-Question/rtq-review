@@ -1,7 +1,7 @@
 ---
-slug: "owners/owner_np_pr"
+slug: "owners/owner-np-pr"
 title: "owner_np_pr"
-date: 2022-05-20 13:11:08
+date: 2022-05-20 15:52:56
 ---
 # Owner - Nalini Prakash
 

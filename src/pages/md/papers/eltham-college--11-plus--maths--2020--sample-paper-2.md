@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college--11-plus--maths--2020--sample-paper-2"
 title: "eltham-college--11-plus--maths--2020--sample-paper-2"
-date: 2022-05-20 13:11:08
+date: 2022-05-20 15:52:56
 ---
 <div class='paper'>
 <h1>Eltham College</h1>

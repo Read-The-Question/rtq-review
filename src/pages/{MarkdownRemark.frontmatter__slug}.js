@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import { Helmet } from "react-helmet"
-import "../../styles/styles.css"
+import "../styles/styles.css"
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -21,7 +21,7 @@ export default function Template({
 
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
-        <h2>{frontmatter.date}</h2>
+        <h2>Built at: {frontmatter.date}</h2>
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}

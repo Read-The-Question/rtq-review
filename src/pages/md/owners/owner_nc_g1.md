@@ -1,7 +1,7 @@
 ---
-slug: "owners/owner_nc_g1"
+slug: "owners/owner-nc-g1"
 title: "owner_nc_g1"
-date: 2022-05-20 13:11:08
+date: 2022-05-20 15:52:56
 ---
 # Owner - Neel Chalke
 

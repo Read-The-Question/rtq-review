@@ -1,7 +1,7 @@
 ---
-slug: "sevenoaks-school--11-plus--maths--2014--sample-paper-5"
+slug: "papers/sevenoaks-school--11-plus--maths--2014--sample-paper-5"
 title: "sevenoaks-school--11-plus--maths--2014--sample-paper-5"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>

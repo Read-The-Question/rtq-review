@@ -1,7 +1,7 @@
 ---
-slug: "owner_ad"
-title: "owner_ad"
-date: 2022-05-20 08:04:34
+slug: "owners/owner_ad_pr"
+title: "owner_ad_pr"
+date: 2022-05-20 13:11:08
 ---
 # Owner - Arun Dalakoti
 
@@ -25676,6 +25676,101 @@ $3$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
+<p>D4788CA3-B338-4047-8521-069529293876</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Andy works out the sums of numbers as follows $1 + 2, 1 + 2 + 3, 1 + 2 + 3 + 4$ and so on. What is the first of these sums of numbers that is greater than $80$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This is a triangular number sequence.
+
+Let's start with numbers starting with $= 10$.
+
+As we need to find the sum adding up to $80$, let's start with first $10$ numbers.
+
+We also use the result from the previous calculation to save effort.
+
+| Number    |         Sum                                           | $> 80$
+|:------:   |:----------------------------------------------------: | :-----:
+|  $10$     | $1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = \red{55}$   |  No
+|  $11$     | $\text{Sum}(10) + 11 = \red{66}$                      |  No
+|  $12$     | $\text{Sum}(11) + 12 = \red{78}$                      |  No
+|  $11$     | $\text{Sum}(12) + 13 = \green{91}$                    |  Yes
+
+Answer $= 91$
+
+</div>
+<div class='working'>
+
+Is there any way other than using trial and error? This is a sum of whole numbers in a sequence and we can use the formula for the sum of whole numbers.
+
+$\text{Sum} = \dfrac {n (n+1)}{2}$ 
+
+Let's try for $n = 12$.
+
+$
+\begin{aligned}
+&= \dfrac { 12 (12 + 1)}{2} \\\\
+&= \dfrac { 12 \times 13 }{2} \\\\
+&= \dfrac { 6 \times 2 \times 13 }{2} \\\\
+&= \dfrac { 6 \times \cancel{2} \times 13 }{\cancel{2}} \\\\
+&= 6 \times 13 \\\\
+&= 78
+\end{aligned}
+$
+
+$78$ is less than $80$, so let's try for $n = 13$.
+
+$
+\begin{aligned}
+&= \dfrac { 13 (13 + 1)}{2} \\\\
+&= \dfrac { 13 \times 14 }{2} \\\\
+&= \dfrac { 13 \times 7 \times 2 }{2} \\\\
+&= \dfrac { 13 \times 7 \times \cancel{2} }{\cancel{2}} \\\\
+&= 13 \times 7 \\\\
+&= 91
+\end{aligned}
+$
+
+$91$ is greater than $80$.
+
+Answer $= 91$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$91$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
 <p>4E130AB1-83B7-43FA-A00A-F42FA9962CAD</p>
 </div>
 <div class='topics'>
@@ -25955,6 +26050,202 @@ $
 <div class='answer'>
 
 $3$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>6692F471-DA27-4415-ADF6-727EF20ED385</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a special code, words are replaced by the **product** of the **whole** numbers assigned to the letters. In the code, each letter is given a different number.
+
+For example:- if $\text{S} = 3$, $\text{P} = 4$ and $\text{Y} = 6$ then the word $\text{SPY} = 3 \times 4 \times 6 = 72$
+
+**Using this same method of creating our special code**, work out the answers to the following **four** questions.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $\text{TEE} = 20$, find the values of $\text{T}$ and $\text{E}$, if **neither** of the letters has the value $1$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+T \times E \times E &= 20 \\\\
+T \times 2E         &= 20 \\\\
+T \times E          &= \dfrac{20} {2} \\\\
+T \times E          &= \dfrac{10 \times 2} {2} \\\\
+T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
+T \times E          &= 10
+\end{aligned}
+$
+
+LCM of $10$ is $2$ and $5$
+
+So,
+
+T = $5$
+
+E = $2$
+
+$5 \times 2 \times 2 = 20$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5, \ 2$ 
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Then with those values for $\text{T}$ and $\text{E}$, if $\text{TEA} = 70$, find the value of $\text{A}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+T \times E \times A &= 70 \\\\
+5 \times 2 \times A &= 70 \\\\
+10 \times A         &= 70 \\\\
+A                   &= \dfrac {70} {10} \\\\
+A                   &= \dfrac {7 \cancel {0}} {1 \cancel {0}} \\\\
+A                   &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Now work out the value of the word $\text{SEAT}$ with the letter values you have, including those in the example at the start.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{SEAT} &= S \times E \times A  \times T \\\\
+            &= 3 \times 2 \times 7  \times 5 \\\\
+            &= 210
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$210$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Finally, if the value of the word $\text{FOAL} = 504$, work out the value of the word $\text{LOAF}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+FOAL and LOAF contain the same alphabets. LOAF is an anagram of FOAL
+
+So, LOAF = $504$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$504$
 
 </div>
 </div>

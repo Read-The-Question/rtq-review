@@ -1,7 +1,7 @@
 ---
-slug: "bancrofts-school--11-plus--maths--2021--sample-paper-7"
+slug: "papers/bancrofts-school--11-plus--maths--2021--sample-paper-7"
 title: "bancrofts-school--11-plus--maths--2021--sample-paper-7"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Bancroft's School</h1>

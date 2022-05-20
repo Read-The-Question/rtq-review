@@ -1,7 +1,7 @@
 ---
-slug: "tsequence"
+slug: "topics/tsequence"
 title: "tsequence"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 # Topic tsequence
 
@@ -29963,7 +29963,7 @@ $57$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>D4788CA3-B338-4047-8521-069529293876</p>
 </div>
@@ -30053,7 +30053,7 @@ $91$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ad_pr</p>
 </div>
 </div>
 </li>

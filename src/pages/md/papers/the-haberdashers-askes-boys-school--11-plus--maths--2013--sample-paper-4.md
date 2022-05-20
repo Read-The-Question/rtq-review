@@ -1,7 +1,7 @@
 ---
-slug: "the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4"
+slug: "papers/the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4"
 title: "the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>

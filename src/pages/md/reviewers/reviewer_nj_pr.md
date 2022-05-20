@@ -1,7 +1,7 @@
 ---
-slug: "reviewer_nj"
-title: "reviewer_nj"
-date: 2022-05-20 08:04:34
+slug: "reviewers/reviewer_nj_pr"
+title: "reviewer_nj_pr"
+date: 2022-05-20 13:11:08
 ---
 # Reviewer - Nitin Joshi
 

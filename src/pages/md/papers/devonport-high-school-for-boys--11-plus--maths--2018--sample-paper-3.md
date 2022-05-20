@@ -1,7 +1,7 @@
 ---
-slug: "devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3"
+slug: "papers/devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3"
 title: "devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Devonport High School for Boys</h1>

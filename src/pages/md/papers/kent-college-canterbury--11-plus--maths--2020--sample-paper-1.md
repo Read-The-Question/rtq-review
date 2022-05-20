@@ -1,7 +1,7 @@
 ---
-slug: "kent-college-canterbury--11-plus--maths--2020--sample-paper-1"
+slug: "papers/kent-college-canterbury--11-plus--maths--2020--sample-paper-1"
 title: "kent-college-canterbury--11-plus--maths--2020--sample-paper-1"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Kent College Canterbury</h1>

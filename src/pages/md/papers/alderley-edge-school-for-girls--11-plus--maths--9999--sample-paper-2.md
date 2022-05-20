@@ -1,7 +1,7 @@
 ---
-slug: "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2"
+slug: "papers/alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2"
 title: "alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Alderley Edge School for Girls</h1>

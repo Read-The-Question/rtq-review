@@ -1,7 +1,7 @@
 ---
-slug: "ttime"
+slug: "topics/ttime"
 title: "ttime"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 # Topic ttime
 
@@ -16910,11 +16910,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time performance lasted}          &= \text{End time} - \text{Start time} \\\\
-\text{Time}                             &= 9{:}11 \ \text{pm} - 7{:}35 \ \text{pm} \\\\
-                                        &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
-                                        &= 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
-                                        &= 96 \ \text{minutes}
+\text{Concert performance lasted}          &= \text{End time} - \text{Start time} \\\\
+                                           &= 9{:}11 \ \text{pm} - 7{:}35 \ \text{pm} \\\\
+                                           &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
+                                           &= 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
+                                           &= 96 \ \text{minutes}
 \end{aligned}
 $
 

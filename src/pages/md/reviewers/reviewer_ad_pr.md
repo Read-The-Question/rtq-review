@@ -1,7 +1,7 @@
 ---
-slug: "reviewer_ad"
-title: "reviewer_ad"
-date: 2022-05-20 08:04:34
+slug: "reviewers/reviewer_ad_pr"
+title: "reviewer_ad_pr"
+date: 2022-05-20 13:11:08
 ---
 # Reviewer - Arun Dalakoti
 

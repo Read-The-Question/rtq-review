@@ -1,7 +1,7 @@
 ---
-slug: "hampton-court-house--11-plus--maths--9999--sample-paper-2"
+slug: "papers/hampton-court-house--11-plus--maths--9999--sample-paper-2"
 title: "hampton-court-house--11-plus--maths--9999--sample-paper-2"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Hampton Court House</h1>

@@ -1,7 +1,7 @@
 ---
-slug: "tangle"
+slug: "topics/tangle"
 title: "tangle"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 # Topic tangle
 
@@ -5339,7 +5339,9 @@ $79 \degree$
 
 As per the diagram, the triangle is an isosceles triangle. 
 
-We know that angles opposite the equal side are always equal and the sum of all angles $= 180 \degree$
+We know that angles opposite the equal side are always equal.
+
+We also know that the sum of all angles $= 180 \degree$
 
 $
 \begin{aligned}

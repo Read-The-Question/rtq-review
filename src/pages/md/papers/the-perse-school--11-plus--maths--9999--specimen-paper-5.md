@@ -1,7 +1,7 @@
 ---
-slug: "the-perse-school--11-plus--maths--9999--specimen-paper-5"
+slug: "papers/the-perse-school--11-plus--maths--9999--specimen-paper-5"
 title: "the-perse-school--11-plus--maths--9999--specimen-paper-5"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>The Perse School</h1>

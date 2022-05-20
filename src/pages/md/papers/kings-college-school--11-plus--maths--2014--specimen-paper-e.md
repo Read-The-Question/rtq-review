@@ -1,7 +1,7 @@
 ---
-slug: "kings-college-school--11-plus--maths--2014--specimen-paper-e"
+slug: "papers/kings-college-school--11-plus--maths--2014--specimen-paper-e"
 title: "kings-college-school--11-plus--maths--2014--specimen-paper-e"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>King's College School</h1>
@@ -2368,7 +2368,9 @@ $79 \degree$
 
 As per the diagram, the triangle is an isosceles triangle. 
 
-We know that angles opposite the equal side are always equal and the sum of all angles $= 180 \degree$
+We know that angles opposite the equal side are always equal.
+
+We also know that the sum of all angles $= 180 \degree$
 
 $
 \begin{aligned}

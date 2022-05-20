@@ -1,7 +1,7 @@
 ---
-slug: "tage"
+slug: "topics/tage"
 title: "tage"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 # Topic tage
 
@@ -2697,9 +2697,9 @@ As per the question,
 
 Catherine’s age is a prime number.
 
-Bethany is older than Alison.
-
 Catherine’s age    $= 7$ years
+
+Bethany is older than Alison.
 
 Bethany’s age      $= 12$ years
 

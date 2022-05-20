@@ -1,7 +1,7 @@
 ---
-slug: "christs-hospital-school--11-plus--maths--2014--sample-paper-1"
+slug: "papers/christs-hospital-school--11-plus--maths--2014--sample-paper-1"
 title: "christs-hospital-school--11-plus--maths--2014--sample-paper-1"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Christ's Hospital School</h1>

@@ -1,7 +1,7 @@
 ---
-slug: "owner_ad"
-title: "owner_ad"
-date: 2022-05-20 08:04:34
+slug: "owners/owner_ad_g1"
+title: "owner_ad_g1"
+date: 2022-05-20 13:11:08
 ---
 # Owner - Arun Dalakoti
 

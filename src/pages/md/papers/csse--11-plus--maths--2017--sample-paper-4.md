@@ -1,7 +1,7 @@
 ---
-slug: "csse--11-plus--maths--2017--sample-paper-4"
+slug: "papers/csse--11-plus--maths--2017--sample-paper-4"
 title: "csse--11-plus--maths--2017--sample-paper-4"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>CSSE</h1>

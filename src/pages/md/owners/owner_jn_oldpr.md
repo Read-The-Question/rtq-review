@@ -1,7 +1,7 @@
 ---
-slug: "owner_jn"
-title: "owner_jn"
-date: 2022-05-20 08:04:34
+slug: "owners/owner_jn_oldpr"
+title: "owner_jn_oldpr"
+date: 2022-05-20 13:11:08
 ---
 # Owner - Jaishree Nair
 

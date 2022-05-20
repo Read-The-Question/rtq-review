@@ -1,7 +1,7 @@
 ---
-slug: "the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b"
+slug: "papers/the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b"
 title: "the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -637,24 +637,14 @@ It then grows by one quarter and one fifth of the height reached in the same way
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -673,64 +663,56 @@ If a plant is $1 \ \text{metre}$ tall at the end of the first month, how tall wi
 <div class='workings'>
 <div class='working'>
 
+As per the question,
 
-Growth in 
+To find out the height of the plant after five months, we should know the height of plant at the end of first, second, third and fourth month.
 
 $
-\begin{aligned}
-1 \ \text{month} &= 100 \text {cm} \\\\
-2 \ \text{month} &= 100 + \dfrac {100}{2}\\\\
-                 &= 100 + \dfrac {\cancel 100}{2}\\\\
-                 &= 100 + 50 \\
-                 &= 150  \ \text {cm} \\
-3 \ \text{month} &= 150 + \dfrac {150}{3}\\\\
-                 &= 150 + 50 \\
-        &= 200 \ \text {cm} \\
-4 \ \text{month} &= 200 + \dfrac {200}{4} \\
-        &= 200 + 50 \\
-        &= 250 \ \text {cm} \\
-5 \ \text{month} &= 250 + \dfrac {250}{5} \\
-        &= 250 + 50 \\
-        &= 300 \ \text {cm}\\
-        &= 3 \ \text {metres}
-\end{aligned}
+\begin {aligned}
+\text {Height of the plant at the end of the first month}       &= 1 \ \text {m} \\\\
+\text {Height of the plant at the end of the second month}      &= 1 + \dfrac {1} {2} \ \text {of} \ 1 \ \text {m} \\\\
+                                                                &= 1 + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {1 \times 2} {1 \times 2} + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {2} {2} + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {2 + 1} {2} \\\\
+                                                                &= \dfrac {3} {2} \\\\
+                                                                &= 1.5 \ \text {m} \\\\
+\text {Height of the plant at the end of the third month}       &= 1.5 + \dfrac {1} {3} \ \text {of} \ 1.5 \ \text {m} \\\\
+                                                                &= 1.5 + \dfrac {1} {3} \times 1.5 \\\\
+                                                                &= \dfrac {3} {2} + \dfrac {1} {3} \times \dfrac {3} {2} \\\\
+                                                                &= \dfrac {3} {2} + \dfrac {3} {6} \\\\
+                                                                &= \dfrac {3} {2} + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {3 + 1} {2} \\\\
+                                                                &= \dfrac {4} {2} \\\\
+                                                                &= 2 \ \text {m} \\\\
+\text {Height of the plant at the end of the fourth month}      &= 2 + \dfrac {1} {4} \ \text {of} \ 2 \ \text {m} \\\\
+                                                                &= 2 + \dfrac {1} {4} \times 2 \\\\
+                                                                &= 2 + \dfrac {2} {4} \\\\
+                                                                &= \dfrac {2 \times 4} {1 \times 4} + \dfrac {2} {4} \\\\
+                                                                &= \dfrac {8} {4} + \dfrac {2} {4} \\\\
+                                                                &= \dfrac {8 + 2} {4} \\\\
+                                                                &= \dfrac {10} {4} \\\\
+                                                                &= 2.5 \ \text {m} \\\\
+\text {Height of the plant at the end of the fifth month}       &= 2.5 + \dfrac {1} {5} \ \text {of} \ 2.5 \ \text {m} \\\\
+                                                                &= \dfrac {5} {2} + \dfrac {1} {5} \times \dfrac {5} {2} \\\\
+                                                                &= \dfrac {5} {2} + \dfrac {5} {10} \\\\
+                                                                &= \dfrac {5 \times 5} {2 \times 5} + \dfrac {5} {10} \\\\
+                                                                &= \dfrac {25} {10} + \dfrac {5} {10} \\\\
+                                                                &= \dfrac {25 + 5} {10} \\\\
+                                                                &= \dfrac {30} {10} \\\\
+                                                                &= \dfrac {3 \cancel {0}} {1 \cancel {0}} \\\\
+                                                                &= 3 \ \text {m}
+\end {aligned}
 $
 
-The plant will be $3 \text {metres}$ tall after five months.
-
+The plant will be $3 \ \text {m}$ tall after five months.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$
-\begin{aligned}
-1 \ \text{month} &= 1 \text {m} \\\\
-2 \ \text{month} &= 1 + \dfrac {1}{2}\\\\
-        &= 1 + 0.5\\
-        &= 1.5 \ \text {m} \\
-3 \ \text{month} &= 1.5 + \dfrac {1}{3} \times 1.5\\\\
-        &= 1.5 + \dfrac {1.5}{3}\\\\
-        &= 1.5 + .5 \\
-        &= 2 \ \text {m} \\
-4 \ \text{month} &= 2 + \dfrac {1}{4} \times 2\\\\
-        &= 2 + \dfrac {2}{4}\\\\
-        &= 2 + \dfrac {1}{2}\\
-        &= 2 + .5 \\
-        &= 2.5 \ \text {m} \\
-5 \ \text{month} &= 2.5 + \dfrac {1}{5} \times 2.5\\\\
-        &= 2.5 + \dfrac {2.5}{5}\\\\
-        &= 2.5 + .5\\
-        &= 3 \\
-        &= 3 \ \text {metres}
-\end{aligned}
-$
-
-</div>
-<div class='answer'>
-
-$3m$
+$3 \text {m}$
 
 </div>
 </div>
@@ -751,35 +733,6 @@ If a plant **grows** $90 \ \text{cm}$ in the third month, how tall was it after 
 <div class='workings'>
 <div class='working'>
 
-
-Let's assume that the original height of the plant was $x$
-
-Growth in 
-
-$
-\begin{aligned}
-1 \ \text{month} &= x \\
-2 \ \text{month} &= x + \dfrac {1x}{2} \\\\
-         &= \dfrac {(x \times 2)}{(1 \times 2)} + \dfrac {1x}{2} \\\\
-         &= \dfrac {2x}{2} + \dfrac {1x}{2} \\\\
-         &= \dfrac {3x}{2} \\\\
-\end{aligned}
-$
-
-As per the question, growth in $3$ months = $90 \text {cm}$
-
-
-$
-\begin{aligned}
-90 &= \dfrac {1}{3} \times \dfrac {3}{2}x \\\\
-   &= \dfrac {3}{6}x \\\\
-   &= \dfrac {1}{2}x \\\\
-x &= 90 \times 2 \\\\
-x &= 180 \text {cm}
-\end{aligned}
-$
-
-Total growth in $3$ months is $180 \text {cm}$
 
 
 </div>

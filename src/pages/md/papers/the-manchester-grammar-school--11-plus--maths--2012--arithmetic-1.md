@@ -1,7 +1,7 @@
 ---
-slug: "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1"
+slug: "papers/the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1"
 title: "the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -834,7 +834,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red question'>
+<div class='question_envelope rag_ad_red question'>
 <div class='uuid'>
 <p>8F20C671-EFDE-4929-8A63-E6C396CD2106</p>
 </div>
@@ -901,12 +901,12 @@ $121$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_red</p>
+<p>rag_ad_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red question'>
+<div class='question_envelope rag_ad_red question'>
 <div class='uuid'>
 <p>D74BAFDC-19D4-4AB6-AE64-3736F916FD8E</p>
 </div>
@@ -973,12 +973,12 @@ $105$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_red</p>
+<p>rag_ad_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>D4788CA3-B338-4047-8521-069529293876</p>
 </div>
@@ -1068,7 +1068,7 @@ $91$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ad_pr</p>
 </div>
 </div>
 </li>

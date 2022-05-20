@@ -1,7 +1,7 @@
 ---
-slug: "the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6"
+slug: "papers/the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6"
 title: "the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -223,7 +223,7 @@ as much as a nurse.
 <div class='workings'>
 <div class='working'>
 
-As per question,
+As per the question,
 
 $
 \begin{aligned}
@@ -324,11 +324,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time performance lasted}          &= \text{End time} - \text{Start time} \\\\
-\text{Time}                             &= 9{:}11 \ \text{pm} - 7{:}35 \ \text{pm} \\\\
-                                        &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
-                                        &= 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
-                                        &= 96 \ \text{minutes}
+\text{Concert performance lasted}          &= \text{End time} - \text{Start time} \\\\
+                                           &= 9{:}11 \ \text{pm} - 7{:}35 \ \text{pm} \\\\
+                                           &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
+                                           &= 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
+                                           &= 96 \ \text{minutes}
 \end{aligned}
 $
 
@@ -468,10 +468,9 @@ Give your answer in words.
 
 $
 \begin{aligned}
-&= 1 \text { Kilometre} \\\\
-&= 1000000 \ \text {millimetres} \\\\
-&= 10^6 \ \text {millimetres} \\\\
-&= \text {One million millimetres}
+1 \text { Kilometre}        &= 1000000 \ \text {millimetres} \\\\
+                            &= 10^6 \ \text {millimetres} \\\\
+                            &= \text {One million millimetres}
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
-slug: "tunitprompt"
+slug: "topics/tunitprompt"
 title: "tunitprompt"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 # Topic tunitprompt
 
@@ -3338,10 +3338,9 @@ Give your answer in words.
 
 $
 \begin{aligned}
-&= 1 \text { Kilometre} \\\\
-&= 1000000 \ \text {millimetres} \\\\
-&= 10^6 \ \text {millimetres} \\\\
-&= \text {One million millimetres}
+1 \text { Kilometre}        &= 1000000 \ \text {millimetres} \\\\
+                            &= 10^6 \ \text {millimetres} \\\\
+                            &= \text {One million millimetres}
 \end{aligned}
 $
 

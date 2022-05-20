@@ -1,7 +1,7 @@
 ---
-slug: "the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a"
+slug: "papers/the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a"
 title: "the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>

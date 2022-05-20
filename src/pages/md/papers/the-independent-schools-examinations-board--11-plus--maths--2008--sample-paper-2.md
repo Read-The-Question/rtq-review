@@ -1,7 +1,7 @@
 ---
-slug: "the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2"
+slug: "papers/the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2"
 title: "the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>The Independent Schools Examinations Board</h1>

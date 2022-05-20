@@ -1,7 +1,7 @@
 ---
-slug: "tnumber"
+slug: "topics/tnumber"
 title: "tnumber"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 # Topic tnumber
 
@@ -51187,7 +51187,7 @@ As per the question,
 
 $
 \begin{aligned}
-(a \times 2) + 10 &= 52 \\\\
+a \times 2 + 10   &= 52 \\\\
 2a + 10           &= 52 \\\\
 2a                &= 52 - 10 \\\\
 2a                &= 42 \\\\
@@ -71720,7 +71720,7 @@ Use the fact that $96815 \times 123 = 11908245$ to work out $96816  \times 123$
 <div class='workings'>
 <div class='working'>
 
-As per question,
+As per the question,
 
 $
 \begin{aligned}

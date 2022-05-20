@@ -1,7 +1,7 @@
 ---
-slug: "tfraction"
+slug: "topics/tfraction"
 title: "tfraction"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 # Topic tfraction
 
@@ -26352,9 +26352,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Distance walked (Halfway)}         &= \text{Total Distance} \div 2 \\\\
+\text{Distance walked (Halfway)}         &= \text{Total distance} \div 2 \\\\
                                          &= 1 \dfrac {3} {4} \div 2 \\\\
-                                         &= 1 \dfrac {3} {4} \times \dfrac {1}{2} \\\\
                                          &= \dfrac {7} {4} \times \dfrac {1} {2} \\\\
                                          &= \dfrac {7 \times 1} {4 \times 2} \\\\
                                          &= \dfrac {7} {8} \ \text{km}

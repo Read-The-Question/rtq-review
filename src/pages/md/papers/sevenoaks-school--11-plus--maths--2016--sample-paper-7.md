@@ -1,7 +1,7 @@
 ---
-slug: "sevenoaks-school--11-plus--maths--2016--sample-paper-7"
+slug: "papers/sevenoaks-school--11-plus--maths--2016--sample-paper-7"
 title: "sevenoaks-school--11-plus--maths--2016--sample-paper-7"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>
@@ -652,9 +652,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Distance walked (Halfway)}         &= \text{Total Distance} \div 2 \\\\
+\text{Distance walked (Halfway)}         &= \text{Total distance} \div 2 \\\\
                                          &= 1 \dfrac {3} {4} \div 2 \\\\
-                                         &= 1 \dfrac {3} {4} \times \dfrac {1}{2} \\\\
                                          &= \dfrac {7} {4} \times \dfrac {1} {2} \\\\
                                          &= \dfrac {7 \times 1} {4 \times 2} \\\\
                                          &= \dfrac {7} {8} \ \text{km}
@@ -1267,26 +1266,23 @@ A square has a perimeter of $5.6 \ \text{m}$. Calculate the area of the square.
 
 To find the area of the square, let's find the length of the sides.
 
-Let the Lenght of side of square $= a$
-
 $
 \begin{aligned}
 4 \times \text{Side}              &= \ \text{Perimeter of Square} \\\\
 4 \times \text{Side}              &= 5.6 \text{m} \\\\
-4 \times a                        &= 5.6 \\\\
-a                                 &= \dfrac {5.6} {4} \\\\
-a                                 &= \dfrac {1.4 \times 4} {4} \\\\
-a                                 &= \dfrac {1.4 \times \cancel{4}} {\cancel{4}} \\\\
-a                                 &= 1.4 \text{m}
+\text{Side}                       &= \dfrac {5.6} {4} \\\\
+\text{Side}                       &= \dfrac {1.4 \times 4} {4} \\\\
+\text{Side}                       &= \dfrac {1.4 \times \cancel{4}} {\cancel{4}} \\\\
+\text{Side}                       &= 1.4 \text{m}
 \end{aligned}
 $
 
 
-Now, Let's calculate the Area of Square.
+Now let's calculate the Area of Square.
 
 $
 \begin{aligned}
-\text {Area of a Square}            &= \text {Side} \times \text { Side} \\\\
+\text {Area of a square}            &= \text {Side} \times \text { Side} \\\\
                                     &= 1.4 \text{m} \times 1.4 \text{m} \\\\
                                     &= 1.96 \text{m}^2
 \end{aligned}
@@ -1663,7 +1659,7 @@ As per the question,
 
 $
 \begin{aligned}
-(a \times 2) + 10 &= 52 \\\\
+a \times 2 + 10   &= 52 \\\\
 2a + 10           &= 52 \\\\
 2a                &= 52 - 10 \\\\
 2a                &= 42 \\\\

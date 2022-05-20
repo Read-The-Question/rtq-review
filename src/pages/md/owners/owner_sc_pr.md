@@ -1,7 +1,7 @@
 ---
-slug: "owner_sc"
-title: "owner_sc"
-date: 2022-05-20 08:04:34
+slug: "owners/owner_sc_pr"
+title: "owner_sc_pr"
+date: 2022-05-20 13:11:08
 ---
 # Owner - Sahil Choudhary
 

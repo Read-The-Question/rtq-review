@@ -1,7 +1,7 @@
 ---
-slug: "tlcm"
+slug: "topics/tlcm"
 title: "tlcm"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 # Topic tlcm
 
@@ -1706,7 +1706,7 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red question'>
+<div class='question_envelope rag_ad_red question'>
 <div class='uuid'>
 <p>8F20C671-EFDE-4929-8A63-E6C396CD2106</p>
 </div>
@@ -1773,7 +1773,7 @@ $121$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_red</p>
+<p>rag_ad_red</p>
 </div>
 </div>
 </li>

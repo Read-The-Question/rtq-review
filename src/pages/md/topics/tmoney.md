@@ -1,7 +1,7 @@
 ---
-slug: "tmoney"
+slug: "topics/tmoney"
 title: "tmoney"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 # Topic tmoney
 
@@ -27135,7 +27135,7 @@ as much as a nurse.
 <div class='workings'>
 <div class='working'>
 
-As per question,
+As per the question,
 
 $
 \begin{aligned}
@@ -36145,24 +36145,14 @@ Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -36181,16 +36171,16 @@ If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ jo
 <div class='workings'>
 <div class='working'>
 
-Let's first find out how many quarter miles are in $2 \dfrac {1}{2} \ \text{mile}$.
+Let's first find out how many quarter miles are in $2 \dfrac {1} {2} \ \text{mile}$.
 
 $1$ mile = $4$ quarter miles (qm)
 
 $
 \begin{aligned}
-2 \dfrac {1}{2} \ \text{mile} \\
-&= \dfrac {5}{2} \\
-&= \dfrac {5}{2} \times 4 \ qm \\
-&= \dfrac {5}{\cancel{2}\raisebox{-0.9em}{1}} \times {\cancel{4}\raisebox{0.9em}{2}} qm \\
+2 \dfrac {1} {2} \ \text{mile} \\
+&= \dfrac {5} {2} \\
+&= \dfrac {5} {2} \times 4 \ qm \\
+&= \dfrac {5} {\cancel{2}\raisebox{-0.9em}{1}} \times {\cancel{4}\raisebox{0.9em}{2}} qm \\
 &= 10 \ qm \\
 \end{aligned}
 $

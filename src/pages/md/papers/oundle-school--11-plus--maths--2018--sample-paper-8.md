@@ -1,7 +1,7 @@
 ---
-slug: "oundle-school--11-plus--maths--2018--sample-paper-8"
+slug: "papers/oundle-school--11-plus--maths--2018--sample-paper-8"
 title: "oundle-school--11-plus--maths--2018--sample-paper-8"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Oundle School</h1>

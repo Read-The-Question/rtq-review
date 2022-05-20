@@ -1,7 +1,7 @@
 ---
-slug: "reviewer_sc"
-title: "reviewer_sc"
-date: 2022-05-20 08:04:34
+slug: "reviewers/reviewer_sc_pr"
+title: "reviewer_sc_pr"
+date: 2022-05-20 13:11:08
 ---
 # Reviewer - Sahil Choudhary
 

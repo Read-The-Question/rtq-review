@@ -1,7 +1,7 @@
 ---
-slug: "tinequality"
+slug: "topics/tinequality"
 title: "tinequality"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 # Topic tinequality
 

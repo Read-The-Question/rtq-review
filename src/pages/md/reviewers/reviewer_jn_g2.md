@@ -1,7 +1,7 @@
 ---
-slug: "reviewer_jn"
-title: "reviewer_jn"
-date: 2022-05-20 08:04:34
+slug: "reviewers/reviewer_jn_g2"
+title: "reviewer_jn_g2"
+date: 2022-05-20 13:11:08
 ---
 # Reviewer - Jaishree Nair
 

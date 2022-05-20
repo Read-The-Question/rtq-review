@@ -1,7 +1,7 @@
 ---
-slug: "dulwich-college--11-plus--maths--9999--specimen-paper-d"
+slug: "papers/dulwich-college--11-plus--maths--9999--specimen-paper-d"
 title: "dulwich-college--11-plus--maths--9999--specimen-paper-d"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Dulwich College</h1>

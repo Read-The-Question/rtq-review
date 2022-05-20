@@ -1,7 +1,7 @@
 ---
-slug: "st-francis-college--11-plus--maths--2017--sample-paper-1"
+slug: "papers/st-francis-college--11-plus--maths--2017--sample-paper-1"
 title: "st-francis-college--11-plus--maths--2017--sample-paper-1"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>St Francis' College</h1>

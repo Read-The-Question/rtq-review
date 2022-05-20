@@ -1,7 +1,7 @@
 ---
-slug: "the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b"
+slug: "papers/the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b"
 title: "the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -470,7 +470,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>6692F471-DA27-4415-ADF6-727EF20ED385</p>
 </div>
@@ -496,24 +496,14 @@ For example:- if $\text{S} = 3$, $\text{P} = 4$ and $\text{Y} = 6$ then the word
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -532,13 +522,14 @@ If $\text{TEE} = 20$, find the values of $\text{T}$ and $\text{E}$, if **neither
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-            20 &= T \times E \times E \\
-            20 &= T \times 2E\\
-\dfrac {20}{2} &= T \times E\\
-            10 &= T \times E\\
+T \times E \times E &= 20 \\\\
+T \times 2E         &= 20 \\\\
+T \times E          &= \dfrac{20} {2} \\\\
+T \times E          &= \dfrac{10 \times 2} {2} \\\\
+T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
+T \times E          &= 10
 \end{aligned}
 $
 
@@ -552,18 +543,12 @@ E = $2$
 
 $5 \times 2 \times 2 = 20$
 
-
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-T = $5$
-
-</div>
-<div class='answer'>
-
-E = $2$
+$5, \ 2$ 
 
 </div>
 </div>
@@ -584,23 +569,23 @@ Then with those values for $\text{T}$ and $\text{E}$, if $\text{TEA} = 70$, find
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-T \times E \times A &= 70 \\
+T \times E \times A &= 70 \\\\
 5 \times 2 \times A &= 70 \\\\
-A &= \dfrac {70}{10} \\\\
-A &= 7
+10 \times A         &= 70 \\\\
+A                   &= \dfrac {70} {10} \\\\
+A                   &= \dfrac {7 \cancel {0}} {1 \cancel {0}} \\\\
+A                   &= 7
 \end{aligned}
 $
-
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-A = $7$
+$7$
 
 </div>
 </div>
@@ -621,12 +606,11 @@ Now work out the value of the word $\text{SEAT}$ with the letter values you have
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-SEAT &= S \times E \times A  \times T \\
-     &= 3 \times 2 \times 7  \times 5 \\
-     &= 210 \\
+\text{SEAT} &= S \times E \times A  \times T \\\\
+            &= 3 \times 2 \times 7  \times 5 \\\\
+            &= 210
 \end{aligned}
 $
 
@@ -635,7 +619,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-SEAT = $210$
+$210$
 
 </div>
 </div>
@@ -656,7 +640,6 @@ Finally, if the value of the word $\text{FOAL} = 504$, work out the value of the
 <div class='workings'>
 <div class='working'>
 
-
 FOAL and LOAF contain the same alphabets. LOAF is an anagram of FOAL
 
 So, LOAF = $504$
@@ -666,8 +649,7 @@ So, LOAF = $504$
 <div class='answers'>
 <div class='answer'>
 
-LOAF = $504$
-
+$504$
 
 </div>
 </div>
@@ -679,7 +661,7 @@ LOAF = $504$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -710,24 +692,14 @@ Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -746,16 +718,16 @@ If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ jo
 <div class='workings'>
 <div class='working'>
 
-Let's first find out how many quarter miles are in $2 \dfrac {1}{2} \ \text{mile}$.
+Let's first find out how many quarter miles are in $2 \dfrac {1} {2} \ \text{mile}$.
 
 $1$ mile = $4$ quarter miles (qm)
 
 $
 \begin{aligned}
-2 \dfrac {1}{2} \ \text{mile} \\
-&= \dfrac {5}{2} \\
-&= \dfrac {5}{2} \times 4 \ qm \\
-&= \dfrac {5}{\cancel{2}\raisebox{-0.9em}{1}} \times {\cancel{4}\raisebox{0.9em}{2}} qm \\
+2 \dfrac {1} {2} \ \text{mile} \\
+&= \dfrac {5} {2} \\
+&= \dfrac {5} {2} \times 4 \ qm \\
+&= \dfrac {5} {\cancel{2}\raisebox{-0.9em}{1}} \times {\cancel{4}\raisebox{0.9em}{2}} qm \\
 &= 10 \ qm \\
 \end{aligned}
 $

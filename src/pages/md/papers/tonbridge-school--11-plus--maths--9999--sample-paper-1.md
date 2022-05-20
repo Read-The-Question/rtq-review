@@ -1,7 +1,7 @@
 ---
-slug: "tonbridge-school--11-plus--maths--9999--sample-paper-1"
+slug: "papers/tonbridge-school--11-plus--maths--9999--sample-paper-1"
 title: "tonbridge-school--11-plus--maths--9999--sample-paper-1"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Tonbridge School</h1>

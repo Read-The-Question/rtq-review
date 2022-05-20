@@ -1,7 +1,7 @@
 ---
-slug: "the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8"
+slug: "papers/the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8"
 title: "the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -592,9 +592,9 @@ As per the question,
 
 Catherine’s age is a prime number.
 
-Bethany is older than Alison.
-
 Catherine’s age    $= 7$ years
+
+Bethany is older than Alison.
 
 Bethany’s age      $= 12$ years
 

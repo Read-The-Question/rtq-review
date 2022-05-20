@@ -1,7 +1,7 @@
 ---
-slug: "owner_ej"
-title: "owner_ej"
-date: 2022-05-20 08:04:34
+slug: "owners/owner_ej_g1"
+title: "owner_ej_g1"
+date: 2022-05-20 13:11:08
 ---
 # Owner - Eshudhi Jangid
 

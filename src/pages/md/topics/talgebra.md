@@ -1,7 +1,7 @@
 ---
-slug: "talgebra"
+slug: "topics/talgebra"
 title: "talgebra"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 # Topic talgebra
 
@@ -29715,7 +29715,7 @@ As per the question,
 
 $
 \begin{aligned}
-(a \times 2) + 10 &= 52 \\\\
+a \times 2 + 10   &= 52 \\\\
 2a + 10           &= 52 \\\\
 2a                &= 52 - 10 \\\\
 2a                &= 42 \\\\
@@ -51771,7 +51771,7 @@ $6 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>6692F471-DA27-4415-ADF6-727EF20ED385</p>
 </div>
@@ -51797,24 +51797,14 @@ For example:- if $\text{S} = 3$, $\text{P} = 4$ and $\text{Y} = 6$ then the word
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -51833,13 +51823,14 @@ If $\text{TEE} = 20$, find the values of $\text{T}$ and $\text{E}$, if **neither
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-            20 &= T \times E \times E \\
-            20 &= T \times 2E\\
-\dfrac {20}{2} &= T \times E\\
-            10 &= T \times E\\
+T \times E \times E &= 20 \\\\
+T \times 2E         &= 20 \\\\
+T \times E          &= \dfrac{20} {2} \\\\
+T \times E          &= \dfrac{10 \times 2} {2} \\\\
+T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
+T \times E          &= 10
 \end{aligned}
 $
 
@@ -51853,18 +51844,12 @@ E = $2$
 
 $5 \times 2 \times 2 = 20$
 
-
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-T = $5$
-
-</div>
-<div class='answer'>
-
-E = $2$
+$5, \ 2$ 
 
 </div>
 </div>
@@ -51885,23 +51870,23 @@ Then with those values for $\text{T}$ and $\text{E}$, if $\text{TEA} = 70$, find
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-T \times E \times A &= 70 \\
+T \times E \times A &= 70 \\\\
 5 \times 2 \times A &= 70 \\\\
-A &= \dfrac {70}{10} \\\\
-A &= 7
+10 \times A         &= 70 \\\\
+A                   &= \dfrac {70} {10} \\\\
+A                   &= \dfrac {7 \cancel {0}} {1 \cancel {0}} \\\\
+A                   &= 7
 \end{aligned}
 $
-
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-A = $7$
+$7$
 
 </div>
 </div>
@@ -51922,12 +51907,11 @@ Now work out the value of the word $\text{SEAT}$ with the letter values you have
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-SEAT &= S \times E \times A  \times T \\
-     &= 3 \times 2 \times 7  \times 5 \\
-     &= 210 \\
+\text{SEAT} &= S \times E \times A  \times T \\\\
+            &= 3 \times 2 \times 7  \times 5 \\\\
+            &= 210
 \end{aligned}
 $
 
@@ -51936,7 +51920,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-SEAT = $210$
+$210$
 
 </div>
 </div>
@@ -51957,7 +51941,6 @@ Finally, if the value of the word $\text{FOAL} = 504$, work out the value of the
 <div class='workings'>
 <div class='working'>
 
-
 FOAL and LOAF contain the same alphabets. LOAF is an anagram of FOAL
 
 So, LOAF = $504$
@@ -51967,8 +51950,7 @@ So, LOAF = $504$
 <div class='answers'>
 <div class='answer'>
 
-LOAF = $504$
-
+$504$
 
 </div>
 </div>
@@ -51980,7 +51962,7 @@ LOAF = $504$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -52011,24 +51993,14 @@ Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -52047,16 +52019,16 @@ If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ jo
 <div class='workings'>
 <div class='working'>
 
-Let's first find out how many quarter miles are in $2 \dfrac {1}{2} \ \text{mile}$.
+Let's first find out how many quarter miles are in $2 \dfrac {1} {2} \ \text{mile}$.
 
 $1$ mile = $4$ quarter miles (qm)
 
 $
 \begin{aligned}
-2 \dfrac {1}{2} \ \text{mile} \\
-&= \dfrac {5}{2} \\
-&= \dfrac {5}{2} \times 4 \ qm \\
-&= \dfrac {5}{\cancel{2}\raisebox{-0.9em}{1}} \times {\cancel{4}\raisebox{0.9em}{2}} qm \\
+2 \dfrac {1} {2} \ \text{mile} \\
+&= \dfrac {5} {2} \\
+&= \dfrac {5} {2} \times 4 \ qm \\
+&= \dfrac {5} {\cancel{2}\raisebox{-0.9em}{1}} \times {\cancel{4}\raisebox{0.9em}{2}} qm \\
 &= 10 \ qm \\
 \end{aligned}
 $
@@ -54423,24 +54395,14 @@ It then grows by one quarter and one fifth of the height reached in the same way
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -54459,64 +54421,56 @@ If a plant is $1 \ \text{metre}$ tall at the end of the first month, how tall wi
 <div class='workings'>
 <div class='working'>
 
+As per the question,
 
-Growth in 
+To find out the height of the plant after five months, we should know the height of plant at the end of first, second, third and fourth month.
 
 $
-\begin{aligned}
-1 \ \text{month} &= 100 \text {cm} \\\\
-2 \ \text{month} &= 100 + \dfrac {100}{2}\\\\
-                 &= 100 + \dfrac {\cancel 100}{2}\\\\
-                 &= 100 + 50 \\
-                 &= 150  \ \text {cm} \\
-3 \ \text{month} &= 150 + \dfrac {150}{3}\\\\
-                 &= 150 + 50 \\
-        &= 200 \ \text {cm} \\
-4 \ \text{month} &= 200 + \dfrac {200}{4} \\
-        &= 200 + 50 \\
-        &= 250 \ \text {cm} \\
-5 \ \text{month} &= 250 + \dfrac {250}{5} \\
-        &= 250 + 50 \\
-        &= 300 \ \text {cm}\\
-        &= 3 \ \text {metres}
-\end{aligned}
+\begin {aligned}
+\text {Height of the plant at the end of the first month}       &= 1 \ \text {m} \\\\
+\text {Height of the plant at the end of the second month}      &= 1 + \dfrac {1} {2} \ \text {of} \ 1 \ \text {m} \\\\
+                                                                &= 1 + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {1 \times 2} {1 \times 2} + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {2} {2} + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {2 + 1} {2} \\\\
+                                                                &= \dfrac {3} {2} \\\\
+                                                                &= 1.5 \ \text {m} \\\\
+\text {Height of the plant at the end of the third month}       &= 1.5 + \dfrac {1} {3} \ \text {of} \ 1.5 \ \text {m} \\\\
+                                                                &= 1.5 + \dfrac {1} {3} \times 1.5 \\\\
+                                                                &= \dfrac {3} {2} + \dfrac {1} {3} \times \dfrac {3} {2} \\\\
+                                                                &= \dfrac {3} {2} + \dfrac {3} {6} \\\\
+                                                                &= \dfrac {3} {2} + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {3 + 1} {2} \\\\
+                                                                &= \dfrac {4} {2} \\\\
+                                                                &= 2 \ \text {m} \\\\
+\text {Height of the plant at the end of the fourth month}      &= 2 + \dfrac {1} {4} \ \text {of} \ 2 \ \text {m} \\\\
+                                                                &= 2 + \dfrac {1} {4} \times 2 \\\\
+                                                                &= 2 + \dfrac {2} {4} \\\\
+                                                                &= \dfrac {2 \times 4} {1 \times 4} + \dfrac {2} {4} \\\\
+                                                                &= \dfrac {8} {4} + \dfrac {2} {4} \\\\
+                                                                &= \dfrac {8 + 2} {4} \\\\
+                                                                &= \dfrac {10} {4} \\\\
+                                                                &= 2.5 \ \text {m} \\\\
+\text {Height of the plant at the end of the fifth month}       &= 2.5 + \dfrac {1} {5} \ \text {of} \ 2.5 \ \text {m} \\\\
+                                                                &= \dfrac {5} {2} + \dfrac {1} {5} \times \dfrac {5} {2} \\\\
+                                                                &= \dfrac {5} {2} + \dfrac {5} {10} \\\\
+                                                                &= \dfrac {5 \times 5} {2 \times 5} + \dfrac {5} {10} \\\\
+                                                                &= \dfrac {25} {10} + \dfrac {5} {10} \\\\
+                                                                &= \dfrac {25 + 5} {10} \\\\
+                                                                &= \dfrac {30} {10} \\\\
+                                                                &= \dfrac {3 \cancel {0}} {1 \cancel {0}} \\\\
+                                                                &= 3 \ \text {m}
+\end {aligned}
 $
 
-The plant will be $3 \text {metres}$ tall after five months.
-
+The plant will be $3 \ \text {m}$ tall after five months.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$
-\begin{aligned}
-1 \ \text{month} &= 1 \text {m} \\\\
-2 \ \text{month} &= 1 + \dfrac {1}{2}\\\\
-        &= 1 + 0.5\\
-        &= 1.5 \ \text {m} \\
-3 \ \text{month} &= 1.5 + \dfrac {1}{3} \times 1.5\\\\
-        &= 1.5 + \dfrac {1.5}{3}\\\\
-        &= 1.5 + .5 \\
-        &= 2 \ \text {m} \\
-4 \ \text{month} &= 2 + \dfrac {1}{4} \times 2\\\\
-        &= 2 + \dfrac {2}{4}\\\\
-        &= 2 + \dfrac {1}{2}\\
-        &= 2 + .5 \\
-        &= 2.5 \ \text {m} \\
-5 \ \text{month} &= 2.5 + \dfrac {1}{5} \times 2.5\\\\
-        &= 2.5 + \dfrac {2.5}{5}\\\\
-        &= 2.5 + .5\\
-        &= 3 \\
-        &= 3 \ \text {metres}
-\end{aligned}
-$
-
-</div>
-<div class='answer'>
-
-$3m$
+$3 \text {m}$
 
 </div>
 </div>
@@ -54537,35 +54491,6 @@ If a plant **grows** $90 \ \text{cm}$ in the third month, how tall was it after 
 <div class='workings'>
 <div class='working'>
 
-
-Let's assume that the original height of the plant was $x$
-
-Growth in 
-
-$
-\begin{aligned}
-1 \ \text{month} &= x \\
-2 \ \text{month} &= x + \dfrac {1x}{2} \\\\
-         &= \dfrac {(x \times 2)}{(1 \times 2)} + \dfrac {1x}{2} \\\\
-         &= \dfrac {2x}{2} + \dfrac {1x}{2} \\\\
-         &= \dfrac {3x}{2} \\\\
-\end{aligned}
-$
-
-As per the question, growth in $3$ months = $90 \text {cm}$
-
-
-$
-\begin{aligned}
-90 &= \dfrac {1}{3} \times \dfrac {3}{2}x \\\\
-   &= \dfrac {3}{6}x \\\\
-   &= \dfrac {1}{2}x \\\\
-x &= 90 \times 2 \\\\
-x &= 180 \text {cm}
-\end{aligned}
-$
-
-Total growth in $3$ months is $180 \text {cm}$
 
 
 </div>

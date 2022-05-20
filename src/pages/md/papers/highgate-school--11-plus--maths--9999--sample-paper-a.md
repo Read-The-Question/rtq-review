@@ -1,7 +1,7 @@
 ---
-slug: "highgate-school--11-plus--maths--9999--sample-paper-a"
+slug: "papers/highgate-school--11-plus--maths--9999--sample-paper-a"
 title: "highgate-school--11-plus--maths--9999--sample-paper-a"
-date: 2022-05-20 08:04:34
+date: 2022-05-20 13:11:08
 ---
 <div class='paper'>
 <h1>Highgate School</h1>

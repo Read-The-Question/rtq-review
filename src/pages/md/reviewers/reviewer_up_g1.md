@@ -1,7 +1,7 @@
 ---
-slug: "reviewer_up"
-title: "reviewer_up"
-date: 2022-05-20 08:04:34
+slug: "reviewers/reviewer_up_g1"
+title: "reviewer_up_g1"
+date: 2022-05-20 13:11:08
 ---
 # Reviewer - Uday Pandey
 

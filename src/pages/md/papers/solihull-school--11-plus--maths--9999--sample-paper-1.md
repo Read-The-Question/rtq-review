@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-20 17:23:14
+date: 2022-05-20 18:41:27
 ---
 <div class='paper'>
 <h1>Solihull School</h1>
@@ -2337,14 +2337,15 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 <div class='workings'>
 <div class='working'>
 
+$\text{Perimeter of a rectangle} = 2 \times (\text{length} + \text{width})$
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter}        &= 2 \times (\text{length} + \text{width}) \\\\
-                        &= 2 \times (14 + 9) \\\\
-                        &= 2 \times 23 \\\\
-                        &= 46 \ \text{cm}
+&= 2 \times (14 + 9) \\\\
+&= 2 \times 23 \\\\
+&= 46 \ \text{cm}
 \end{aligned}
 $
 
@@ -2376,13 +2377,14 @@ Find the area of the rectangle below.
 <div class='workings'>
 <div class='working'>
 
+$\text{Area of a rectangle} = \text{length} \times \text{width}$
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-                    &= 12 \times 8 \\\\
-                    &= 96 \ \text{cm}^2
+&= 12 \times 8 \\\\
+&= 96 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -2414,24 +2416,35 @@ A square has a perimeter of $36 \ \text{cm}$. Find its area.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\text{Perimeter of a square} = 4 \times (\text{side})$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+4 \times a  &= 36 \text{cm} \\\\
+a           &= \dfrac{36}{4} \text{cm} \\\\
+a           &= \dfrac{4 \times 9}{4} \\\\
+a           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
+a           &= 9 \text{cm}
+\end{aligned}
+$
+
+$\text{Area of a square} = \text{side}^2$
+
+$
+\begin{aligned}
+&= 9^2 \\\\
+&= 81 \text{cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$81 \text{cm}^2$
 
 </div>
 </div>

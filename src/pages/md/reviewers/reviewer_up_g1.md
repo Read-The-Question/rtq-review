@@ -1,10 +1,8 @@
 ---
 slug: "reviewers/reviewer-up-g1"
-title: "Uday Pandey - G1"
-date: 2022-05-20 17:23:14
+title: "Reviewer - Uday Pandey - G1"
+date: 2022-05-20 18:41:27
 ---
-# Reviewer - Uday Pandey
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_as_g1 question'>

@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-ak-pr"
-title: "Abhay Kandpal - PR"
-date: 2022-05-20 17:23:14
+title: "Owner - Abhay Kandpal - PR"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Abhay Kandpal
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_ak_pr question'>

@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-np-pr"
-title: "Nalini Prakash - PR"
-date: 2022-05-20 17:23:14
+title: "Owner - Nalini Prakash - PR"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Nalini Prakash
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_np_pr question'>

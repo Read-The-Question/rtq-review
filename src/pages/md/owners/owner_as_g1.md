@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-as-g1"
-title: "Akanksha Sachdeva - G1"
-date: 2022-05-20 17:23:14
+title: "Owner - Akanksha Sachdeva - G1"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Akanksha Sachdeva
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_as_g1 question'>

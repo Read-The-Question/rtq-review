@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic B"
-date: 2022-05-20 17:23:14
+date: 2022-05-20 18:41:27
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -666,7 +666,7 @@ $504$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>2B2789EB-87CB-4268-A450-11BE3B271963</p>
 </div>
@@ -718,23 +718,18 @@ If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ jo
 <div class='workings'>
 <div class='working'>
 
-Let's first find out how many quarter miles are in $2 \dfrac {1} {2} \ \text{mile}$.
-
-$1$ mile = $4$ quarter miles (qm)
-
 $
 \begin{aligned}
-2 \dfrac {1} {2} \ \text{mile} \\
-&= \dfrac {5} {2} \\
-&= \dfrac {5} {2} \times 4 \ qm \\
-&= \dfrac {5} {\cancel{2}\raisebox{-0.9em}{1}} \times {\cancel{4}\raisebox{0.9em}{2}} qm \\
-&= 10 \ qm \\
+\text{Quaters in 2 \dfrac {1} {2} miles} &= 2 \dfrac {1} {2} \times 4 \\\\
+                                         &= \dfrac {5} {2} \times 4 \\\\
+                                         &= \dfrac {5 \times 4} {2} \\\\
+                                         &= \dfrac {5 \times 2 \times 2} {2} \\\\
+                                         &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                                         &= 10
 \end{aligned}
 $
 
-There are $10$ quarter miles in $2 \dfrac {1}{2} \ \text{mile}$ 
-
-Now let's take the starting fare as $x$
+Let the starting fare $= x$
 
 QMC = $80$ pence
 
@@ -742,16 +737,15 @@ Total fare = starting charge + (quarter miles $\times 80p$)
 
 $
 \begin{aligned}
-\pounds 9.60 &= x + (10 \times 80p)\\
-             &= x + 800p \\
-             &= x + \pounds 8 \\
-    9.60 - 8 &= x \\
-           x &= \pounds 1.60  \\
+\pounds 9.60 &= x + (10 \times 80p) \\\\
+\pounds 9.60 &= x + 800p \\\\
+\pounds 9.60 &= x + \pounds \dfrac {800} {100} \\\\
+\pounds 9.60 &= x + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
+9.60 - 8     &= x \\\\
+x            &= 9.60 - 8 \\\\
+x            &= \pounds 1.60
 \end{aligned}
 $
-
-The starting charge is $\pounds 1.60$
-
 
 </div>
 </div>
@@ -779,37 +773,42 @@ If the starting charge at a third company is $\pounds 2.20$ and the Total Fare f
 <div class='workings'>
 <div class='working'>
 
-$6 \dfrac {1}{4} \ \text{mile} = \dfrac {25}{4} \ \text{mile}$ 
-
-Let's find how many quarter miles are there in $\dfrac {25}{4} \ \text{mile}$
-
-$= \dfrac {25}{4} \ \text{mile} \times 4$ 
-
-$= 25$ quarter miles
-
-Total fare = starting charge + (quarter miles $\times$ QMC)
-
 $
 \begin{aligned}
-\pounds 12.20 &= \pounds 2.20 + (25 \times \text {QMC})  \\
- 12.20 - 2.20 &= 25 \times QMC  \\
-           10 &= 25 \times QMC  \\\\
-\dfrac {\pounds 10} {25} &= QMC \\\\
-QMC &= \dfrac {10 \times 100p} {25} \\\\
-    &= \dfrac {10 \times \cancel{100p}\raisebox{0.9em}{4}} {\cancel{25}\raisebox{-0.9em}{1}} \\\\
-    &= 10 \times 4p \\
-    &= 40p \\
+\text{Quaters in 6 \dfrac {1} {4} miles} &= 6 \dfrac {1} {4} \times 4 \\\\
+                                         &= \dfrac {25} {4} \times 4 \\\\
+                                         &= \dfrac {25 \times 4} {4} \\\\
+                                         &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
+                                         &= 25
 \end{aligned}
 $
 
-The QMC is $40$ pence
+Total fare = starting charge + (quarter miles $\times$ QMC)
+
+Let the QMC $= q$
+
+$
+\begin{aligned}
+\pounds 12.20    &= \pounds 2.20 + (25 \times q) \\\\
+12.20 - 2.20     &= 25 \times q \\\\
+10               &= 25 \times q \\\\
+\dfrac {10} {25} &= q \\\\
+q                &= \dfrac {10} {25} \\\\
+q                &= \dfrac {10 \times 100 \text{p}} \\\\
+q                &= \dfrac {10 \times 25 \times 4} {25} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4} {\cancel {25}} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4 \text{p}} {\cancel {25}} \\\\
+q                &= 4 \times 10 \\\\
+q                &= 40 \text{p}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$40p$
+$40 \text{p}$
 
 </div>
 </div>
@@ -821,12 +820,12 @@ $40p$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
 <p>CB675361-E89C-4326-B83D-4EB89C1AB4FC</p>
 </div>
@@ -849,25 +848,14 @@ because $4 \ \text{cm} \times 2.5 = 10 \ \text{cm}$
 <div class='workings'>
 <div class='working'>
 
-
-
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -886,23 +874,21 @@ Find the length of a block if its width is $7 \ \text{cm}$.
 <div class='workings'>
 <div class='working'>
 
-Length = $2.5 \times$ width
+As per the question,
 
 $
 \begin{aligned}
-&= 2.5 \times 7 \\
-&= 17.5 \ \text{cm} \\
+\text{Length} &= 2.5 \times 7 \\\\
+              &= 17.5 \ \text{cm}
 \end{aligned}
 $
-
-Length of the block is $17.5$ cm.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$17.5$ cm
+$17.5 \ \text{cm}$
 
 </div>
 </div>
@@ -923,29 +909,23 @@ Find the width of a different block if its length is $50 \ \text{cm}$.
 <div class='workings'>
 <div class='working'>
 
-$length = 2.5 \times width$
-
-$width = \dfrac {length}{2.5 }$
-
 $
 \begin{aligned}
-&= \dfrac {50}{2.5} \\\\
-&= \dfrac {50 \times 10}{2.5 \times 10} \\\\
-&= \dfrac {500}{25} \\\\
-&= \dfrac {\cancel{500}\raisebox{0.9em}{20}}{\cancel{25}\raisebox{-0.9em}{1}} \\\\
-&= 20\ \text{cm} \\\\
+\text{Width} &= \dfrac {50} {2.5} \\\\
+             &= \dfrac {50 \times 10} {2.5 \times 10} \\\\
+             &= \dfrac {500} {25} \\\\
+             &= \dfrac {25 \times 20} {25} \\\\
+             &= \dfrac {\cancel {25} \times 20} {\cancel {25}} \\\\
+             &= 20 \ \text{cm}
 \end{aligned}
 $
-
-
-Width of the block is $20$ cm.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20$ cm
+$20 \ \text{cm}$
 
 </div>
 </div>
@@ -976,9 +956,8 @@ Let's take length as $l$ and width as $w$
 
 $
 \begin{aligned}
- 42 \text {cm} &= 2 (l \times w) \\
-\dfrac {42}{2} &= l \times w \\
-            21 &= l \times w \\
+\text{Perimeter of the rectangle} &= 2 \times (length \times width) \\\\
+42                                &= 
 \end{aligned}
 $ 
 
@@ -1052,7 +1031,7 @@ $15 \ \text {cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ad_amber</p>
 </div>
 </div>
 </li>

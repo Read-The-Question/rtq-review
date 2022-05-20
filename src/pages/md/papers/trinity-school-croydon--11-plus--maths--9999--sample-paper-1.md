@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-20 17:23:14
+date: 2022-05-20 18:41:27
 ---
 <div class='paper'>
 <h1>Trinity School Croydon</h1>
@@ -285,13 +285,7 @@ Write down the number ten and forty seven hundredth as a decimal.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 10 + \dfrac {47} {100} \\\\
-&= 10 + 0.47 \\\\
-&= 10.47
-\end{aligned}
-$
+$10.47$
 
 </div>
 </div>
@@ -677,20 +671,20 @@ a \times 3 + 15             &= 105 \\\\
 a                           &= \dfrac {90} {3} \\\\
 a                           &= \dfrac {3 \times 30} {3} \\\\
 a                           &= \dfrac {\cancel{3} \times 30} {\cancel{3}} \\\\
-a                           &= 3
+a                           &= 30
 \end{aligned}
 $
 
-The number = $3$
+The number = $30$
 
-Correct answer = $(3 + 15) \times 3 = 18 \times 3 = 54$
+Correct answer = $(30 + 15) \times 3 = 45 \times 3 = 135$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$54$
+$30, 135$
 
 </div>
 </div>
@@ -855,7 +849,9 @@ In this case, there are more fractions than percentages, so let's convert all th
 
 $\dfrac {4} {5}, \quad 0.9, \quad 0.1, \quad \dfrac {1} {100}, \quad \dfrac{2}{10}$
 
-$\dfrac {4 \times 20} {5 \times 20}, \quad \dfrac{9 \times 10} {10 \times 10}, \quad \dfrac {1 \times 10} {10 \times 10}, \quad \dfrac {1} {100}, \quad \dfrac{2 \times 10}{10 \time 10}$
+$\dfrac {4} {5}, \quad \dfrac{9} {10}, \quad \dfrac {1} {10}, \quad \dfrac {1} {100}, \quad \dfrac{2}{10}$
+
+$\dfrac {4 \times 20} {5 \times 20}, \quad \dfrac{9 \times 10} {10 \times 10}, \quad \dfrac {1 \times 10} {10 \times 10}, \quad \dfrac {1} {100}, \quad \dfrac{2 \times 10}{10 \times 10}$
 
 $\dfrac {80} {100}, \quad \dfrac{90} {100}, \quad \dfrac {10} {100}, \quad \dfrac {1} {100}, \quad \dfrac{20}{100}$
 
@@ -874,7 +870,7 @@ Smallest number = $\dfrac {1} {100}$
 <div class='answers'>
 <div class='answer'>
 
-$0.9, \dfrac {1} {100}$
+$ \text{Largest} = 0.9, \text{Smallest} = \dfrac {1} {100}$
 
 </div>
 </div>
@@ -901,28 +897,28 @@ LCM of $4,2,3,5,1 = 60$
 
 $
 \begin{aligned}
-&= \dfrac {3} {4} , \dfrac {1} {2} , \dfrac {4} {3} , \dfrac {4} {5} , 1 \\\\
-&= \dfrac {3 \times 15} {4 \times 15} , \dfrac {1 \times 30} {2 \times 30} , \dfrac {4 \times 20} {3 \times 20} , \dfrac {4 \times 12} {5 \times 12} , \dfrac {1 \times 60} {1 \times 60} \\\\
-&= \dfrac {45} {60} , \dfrac {30} {60} , \dfrac {80} {60} , \dfrac {48} {60} , \dfrac {60} {60}
+&= \dfrac {3} {4} , \quad \dfrac {1} {2} , \quad \dfrac {4} {3} , \quad \dfrac {4} {5} , \quad 1 \\\\
+&= \dfrac {3 \times 15} {4 \times 15} , \quad \dfrac {1 \times 30} {2 \times 30} , \quad \dfrac {4 \times 20} {3 \times 20} , \quad \dfrac {4 \times 12} {5 \times 12} , \quad \dfrac {1 \times 60} {1 \times 60} \\\\
+&= \dfrac {45} {60} , \quad \dfrac {30} {60} , \quad \dfrac {80} {60} , \quad \dfrac {48} {60} , \quad \dfrac {60} {60}
 \end{aligned}
 $
 
 Lets put them in ascending order now.
 
-$= \dfrac {30} {60} , \dfrac {45} {60} , \dfrac {48} {60} , \dfrac {60} {60} , \dfrac {80} {60}$
+$= \dfrac {30} {60} , \quad \dfrac {45} {60} , \quad \dfrac {48} {60} , \quad \dfrac {60} {60} , \quad \dfrac {80} {60}$
 
-$= \dfrac {1} {2} , \dfrac {3} {4} , \dfrac {4} {5} , 1 , \dfrac {4} {3}$
+$= \dfrac {1} {2} , \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 1 , \quad \dfrac {4} {3}$
 
-Largest number = $\dfrac {1} {2}$
+Largest number = $\dfrac {4} {3}$
 
-Smallest number = $\dfrac {4} {3}$
+Smallest number = $\dfrac {1} {2}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {2}, \dfrac {4} {3}$
+$\text{Largest} = \dfrac {4} {3}, \text{Smallest} =  \dfrac {1} {2}$
 
 </div>
 </div>
@@ -962,7 +958,7 @@ Smallest number = $0.087$
 <div class='answers'>
 <div class='answer'>
 
-$0.84, 0.087$
+$\text{Largest} = 0.84, \text{Smallest} =  0.087$
 
 </div>
 </div>

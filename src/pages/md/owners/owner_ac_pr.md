@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-ac-pr"
-title: "Chiliveru Aravind - PR"
-date: 2022-05-20 17:23:14
+title: "Owner - Chiliveru Aravind - PR"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Chiliveru Aravind
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_ac_pr question'>
@@ -562,14 +560,15 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 <div class='workings'>
 <div class='working'>
 
+$\text{Perimeter of a rectangle} = 2 \times (\text{length} + \text{width})$
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter}        &= 2 \times (\text{length} + \text{width}) \\\\
-                        &= 2 \times (14 + 9) \\\\
-                        &= 2 \times 23 \\\\
-                        &= 46 \ \text{cm}
+&= 2 \times (14 + 9) \\\\
+&= 2 \times 23 \\\\
+&= 46 \ \text{cm}
 \end{aligned}
 $
 
@@ -601,13 +600,14 @@ Find the area of the rectangle below.
 <div class='workings'>
 <div class='working'>
 
+$\text{Area of a rectangle} = \text{length} \times \text{width}$
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-                    &= 12 \times 8 \\\\
-                    &= 96 \ \text{cm}^2
+&= 12 \times 8 \\\\
+&= 96 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -639,24 +639,35 @@ A square has a perimeter of $36 \ \text{cm}$. Find its area.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\text{Perimeter of a square} = 4 \times (\text{side})$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+4 \times a  &= 36 \text{cm} \\\\
+a           &= \dfrac{36}{4} \text{cm} \\\\
+a           &= \dfrac{4 \times 9}{4} \\\\
+a           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
+a           &= 9 \text{cm}
+\end{aligned}
+$
+
+$\text{Area of a square} = \text{side}^2$
+
+$
+\begin{aligned}
+&= 9^2 \\\\
+&= 81 \text{cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$81 \text{cm}^2$
 
 </div>
 </div>
@@ -852,14 +863,15 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 <div class='workings'>
 <div class='working'>
 
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter}        &= 2 \times (\text{length} + \text{width}) \\\\
-                        &= 2 \times (22 + 9) \\\\
-                        &= 2 \times 31 \\\\
-                        &= 62 \ \text{cm}
+&= 2 \times (22 + 9) \\\\
+&= 2 \times 31 \\\\
+&= 62 \ \text{cm}
 \end{aligned}
 $
 
@@ -891,9 +903,12 @@ The perimeter of the rectangle below is $120 \ \text{cm}$. Find its *area*.
 <div class='workings'>
 <div class='working'>
 
+Let the length of the rectangle $= t \text{cm}$
+
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
 $
 \begin{aligned}
-\text{Perimeter}                            &= 2 \times (\text{length} + \text{width}) \\\\
 120                                         &= 2 \times (25 + t) \\\\
 2 \times (25 + t)                           &= 120 \\\\
 25 + t                                      &= \dfrac{120}{2} \\\\
@@ -902,6 +917,16 @@ $
 25 + t                                      &= 60 \\\\
 t                                           &= 60 - 25 \\\\
 t                                           &= 35 \ \text{cm}
+\text{width}                                &= 35 \ \text{cm}
+\end{aligned}
+$
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+$
+\begin{aligned}
+&= 25 \times 35 \\\\
+&= 875 \text{cm}^2
 \end{aligned}
 $
 
@@ -933,14 +958,17 @@ Find the *area* of the shape below:
 <div class='workings'>
 <div class='working'>
 
+The area of irregular shapes can be determined by dividing the given shape into smaller regular shapes.
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Area of shape}            &= \text{Area of large rectangle} + \text{Area of small rectangle} \\\\
+\text{Area of shape}            &= \text{Area of rectangle L} + \text{Area of rectangle R} \\\\
                                 &= \text{length1} \times \text{width1} + \text{length2} \times \text{width2} \\\\
-                                &= 17 \times 8 + 6 \times 3 \\\\
-                                &= 136 + 18 \\\\
+                                &= (17 - 6) \times 8 + 6 \times 11 \\\\
+                                &= 11 \times 8 + 6 \times 11 \\\\
+                                &= 88 + 66 \\\\
                                 &= 154 \ \text{cm}^2
 \end{aligned}
 $
@@ -973,25 +1001,25 @@ The square below has an area of $169 \ \text{cm}^2$. Find its perimeter.
 <div class='workings'>
 <div class='working'>
 
-Let the side of square be = $a \ \text{cm}$
+Let the side of square = $a \ \text{cm}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Area}         &= \text{side of square}^2 \\\\
-169                 &= a^2 \\\\
-a^2                 &= 169 \\\\
-a^2                 &= 13^2 \\\\
+\text{side} \times \text{side}         &= \text{Area} \\\\
+a \times a          &= 169 \\\\
+a \times a          &= 13 \times 13 \\\\
 a                   &= 13 \ \text{cm}
 \end{aligned}
 $
 
-Now the perimeter of the square,
+Let's find the perimeter of the square.
 
 $
 \begin{aligned}
-\text{Perimeter}        &= 4 \times \text{side of square} \\\\
+\text{Perimeter}        &= 4 \times \text{side} \\\\
+                        &= 4 \times a \\\\
                         &= 4 \times 13 \\\\
                         &= 52 \ \text{cm}
 \end{aligned}
@@ -1847,7 +1875,7 @@ How many $20 \ \text{cm}$ by $30 \ \text{cm}$ carpet tiles are needed to cover a
 
 It is really important to use the right units in calculations and convert where required.
 
-The wall measurement is given in metres while the tile measurement is given in cm.
+The Floor measurement is given in metres while the tile measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
@@ -1859,13 +1887,11 @@ $
                         &= \dfrac {5 \ \text{m} \times 6 \ \text{m} } { 20 \ \text{cm} \times 30 \ \text{cm} } \\\\
                         &= \dfrac {5 \times 100  \ \text{cm} \times 6 \times 100 \ \text{cm} } { 20 \ \text{cm} \times 30 \ \text{cm} } \\\\
                         &= \dfrac {5 \times 100 \times 6 \times 100 } { 20  \times 30 } \\\\
-                        &= \dfrac {500 \times 600 } { 600 } \\\\
-                        &= \dfrac {500 \times \cancel{600}} {\cancel{600}} \\\\
+                        &= \dfrac {5 \times 100 \times 2 \times 3 \times 10 \times 10 } { 2 \times 10  \times 3 \times 10 } \\\\
+                        &= \dfrac {500 \times \cancel{2} \times cancel{3} \times {100}} {\cancel{2} \cancel{10} \times \cancel{3} \times \cancel{10}} \\\\
                         &= 500
 \end{aligned}
 $
-
-Number of tiles $= 500$
 
 </div>
 </div>
@@ -1976,14 +2002,14 @@ Calculate $15.05 - 14.84$
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+Ensure to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    1   &    5 \ .    &    0    &    5 \\
-{}- 1   &    4 \ .    &    8    &    4 \\
+    &1   &    5 \ .    &    0    &    5 \\
+{}- &1   &    4 \ .    &    8    &    4 \\
 \hline
-        &    0 \ .    &    2    &    1
+    &   &    0 \ .    &    2    &    1
 \end{array}
 $
 
@@ -2025,7 +2051,7 @@ Calculate $31.6 \times 7$
 <div class='workings'>
 <div class='working'>
 
-Let's first multiply the numbers ignoring the decimal points
+Let's first multiply the numbers ignoring the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
@@ -2036,7 +2062,7 @@ $
 \end{array}
 $
 
-Let's account for the decimal point now.
+The total number of digits after the decimal point is one. Let's account for the decimal point now.
 
 $= 221.2$
 
@@ -2082,8 +2108,9 @@ $
 \begin{aligned}
 &= \dfrac{60}{100} \times 765 \\\\
 &= \dfrac{60 \times 765}{100} \\\\
-&= \dfrac{4590}{100} \\\\
-&= 45.9
+&= \dfrac{45900}{100} \\\\
+&= \dfrac{459\cancel{00}}{1\cancel{00}} \\\\
+&= 459
 \end{aligned}
 $
 
@@ -2092,7 +2119,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$45.9$
+$459$
 
 </div>
 </div>
@@ -2129,9 +2156,10 @@ How much money is collected?
 
 $
 \begin{aligned}
-\text{Total money collected}    &= 85 \times \pounds 1.30 \\\\
-                                &= 85 \times 1.3
-\text{Total money collected}    &= \pounds 110.5
+\text{Total money collected}    &= \text{No. of people} \times \text{Payment per person} \\\\
+                                &= 85 \times \pounds 1.30 \\\\
+                                &= 85 \times 1.3 \\\\
+\text{Total money collected}    &= \pounds 110.50
 \end{aligned}
 $
 
@@ -2140,7 +2168,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 110.5$
+$\pounds 110.50$
 
 </div>
 </div>
@@ -2179,9 +2207,10 @@ $
 \begin{aligned}
 &= 2.4 \times (3.7 +  1.3) \div 2 \\\\
 &= 2.4 \times 5 \div 2 \\\\
-&= 2.4 \times \dfrac{5}{2} \\\\
-&= 2.4 \times 2.5 \\\\
-&= 9.6
+&= 2 \times 1.2 \times \dfrac{5}{2} \\\\
+&= \cancel{2} \times 1.2 \times \dfrac{5}{\cancel{2}} \\\\
+&= 1.2 \times 5 \\\\
+&= 6
 \end{aligned}
 $
 
@@ -2190,7 +2219,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9.6$
+$6$
 
 </div>
 </div>
@@ -2219,22 +2248,10 @@ tfraction
 
 Fill in the missing numbers:
 
-$\dfrac{1}{2}$ of $20 = \dfrac{1}{4}$ of $\ldots$
-$\dfrac{3}{4}$ of $100 = \dfrac{1}{2}$ of $\ldots$
-$\dfrac{1}{3}$ of $60 = \dfrac{2}{3}$ of $\ldots$
-
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= \dfrac{1}{2} \times 20 \\\\
-&= \dfrac{1 \times 2}{2 \times 2} \times 20 \\\\
-&= \dfrac{2}{4} \times 20 \\\\
-&=\dfrac{1}{4} \times 40
-\end{aligned}
-$
 
 $
 \begin{aligned}
@@ -2263,7 +2280,98 @@ $40, 150, 30$
 
 </div>
 </div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
 
+$\dfrac{1}{2}$ of $20 = \dfrac{1}{4}$ of $\ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{1}{2} \times 20  &= \dfrac{1}{4} \times a \\\\
+\dfrac{1}{4} \times a   &= \dfrac{1}{2} \times 20 \\\\
+a                       &= \dfrac{1}{2} \times 20 \times 4 \\\\
+a                       &= \dfrac{1}{2} \times 20 \times 2 \times 2 \\\\
+a                       &= \dfrac{1}{\cancel{2}} \times 20 \times 2 \times \cancel{2} \\\\
+a                       &= 20 \times 2 \\\\
+a                       &= 40
+\end{aligned}
+$
+
+
+</div>
+<div class='working'>
+
+Let the missing number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{3}{4} \times 100 &= \dfrac{1}{2} \times a \\\\
+\dfrac{1}{2} \times a   &= \dfrac{3}{4} \times 100 \\\\
+a                       &= \dfrac{3}{4} \times 100 \times 2 \\\\
+a                       &= \dfrac{3}{4} \times 25 \times 4 \times 2 \\\\
+a                       &= \dfrac{3}{\cancel{4}} \times 25 \times \cancel{4} \times 2 \\\\
+a                       &= 3 \times 25 \times 2 \\\\
+a                       &= 150
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Let the missing number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{1}{3} \times 60  &= \dfrac{2}{3} \times a \\\\
+\dfrac{2}{3} \times a   &= \dfrac{1}{3} \times 60 \\\\
+a                       &= \dfrac{1}{3} \times 60 \times \dfrac{3}{2} \\\\
+a                       &= \dfrac{1}{3} \times 30 \times 2 \times \dfrac{3}{2} \\\\
+a                       &= \dfrac{1}{\cancel{3}} \times 30 \times \cancel{2} \times \dfrac{\cancel{3}}{\cancel{2}}  \\\\
+a                       &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+<div class='answer'>
+
+$150$
+
+</div>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
@@ -2633,7 +2741,7 @@ What is Jemma's number?
 <div class='workings'>
 <div class='working'>
 
-Let the number Jemma thinks $= a$
+Let the number Jemma thought $= a$
 
 As per the question,
 
@@ -2649,7 +2757,7 @@ a                   &= 4
 \end{aligned}
 $
 
-The number Jemma thinks $= 4$
+Jemma's number $= 4$
 
 </div>
 </div>
@@ -2701,11 +2809,11 @@ $
 \text{Weight of one match}      &= \dfrac{\text{Total weight} - \text{Weight of the box}}{\text{Number of matches}} \\\\
                                 &= \dfrac{45 - 12}{220} \\\\
                                 &= \dfrac{33}{220} \\\\
-                                &= \dfrac{3 \times 11}{20 \times 11} \\\\
-                                &= \dfrac{3 \times \cancel{11}}{20 \times \cancel{11}} \\\\
-                                &= \dfrac{3 \times 4}{20 \times 4} \\\\
-                                &= \dfrac{12}{100} \\\\
-\text{Weight of one match}      &= 0.12 \ \text{grams}
+                                &= \dfrac{3 \times 11}{2 \times 10 \times 11} \\\\
+                                &= \dfrac{3 \times \cancel{11}}{2 \times 10 \times \cancel{11}} \\\\
+                                &= \dfrac{3}{2} \times \dfrac{1}{10} \\\\
+                                &= \dfrac{1.5}{10} \\\\
+\text{Weight of one match}      &= 0.15 \ \text{grams}
 \end{aligned}
 $
 
@@ -2714,7 +2822,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.12 \ \text{grams}$
+$0.15 \ \text{grams}$
 
 </div>
 </div>
@@ -2779,7 +2887,7 @@ Number of oranges used $= 2a = 8$
 <div class='answers'>
 <div class='answer'>
 
-$8$
+$8 \ \text{oranges}$
 
 </div>
 </div>
@@ -2821,9 +2929,9 @@ This can be solved using ratios.
 
 $
 \begin{aligned}
-2 \ \text{Boys}             &: 3 \ \text{Girls} \\\\
-2 \times 21 \ \text{Boys}   &: 3 \time 21 \ \text{Girls} \\\\
-42 \ \text{Boys}            &: 63 \ \text{Girls}
+2 \ \text{boys}             &: 3 \ \text{girls} \\\\
+2 \times 21 \ \text{boys}   &: 3 \times 21 \ \text{girls} \\\\
+42 \ \text{boys}            &: 63 \ \text{girls}
 \end{aligned}
 $
 
@@ -2832,7 +2940,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$63 \ \text{Girls}$
+$63 \ \text{girls}$
 
 </div>
 </div>
@@ -2874,6 +2982,7 @@ Calculate the area of the larger triangle.
 As per the question,
 
 $
+\begin{aligned}
 \text{Area of shaded triangle}      &= \dfrac{4}{9} \times \text{Area of larger triangle} \\\\
 \text{Area of larger triangle}      &= \dfrac{9}{4} \times \text{Area of shaded triangle} \\\\
                                     &= \dfrac{9}{4} \times 52 \\\\
@@ -2882,6 +2991,7 @@ $
                                     &= \dfrac{9 \times 13 \times \cancel{4}}{\cancel{4}} \\\\
                                     &= 9 \times 13 \\\\
 \text{Area of larger triangle}      &= 117 \ \text{cm}^2
+\end{aligned}
 $
 
 </div>
@@ -2910,7 +3020,7 @@ $117 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tinfer
 </li>
 </ul>
 </div>
@@ -2957,7 +3067,7 @@ $32$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tinfer
 </li>
 </ul>
 </div>
@@ -3040,23 +3150,25 @@ $
 \dfrac{\dfrac{2 \times a}{4} \times \dfrac{2 \times a}{4} - 4 } {10}        &= 6 \\\\
 \dfrac{2 \times a}{2 \times 2} \times \dfrac{2 \times a}{2 \times 2} - 4    &= 6 \times 10 \\\\
 \dfrac{\cancel{2} \times a}{\cancel{2} \times 2} \times \dfrac{\cancel{2} \times a}{\cancel{2} \times 2} - 4    &= 60 \\\\
-\dfrac{a}{2} + \dfrac{a}{2} - 4                                             &= 60 \\\\
-\dfrac{a}{2} + \dfrac{a}{2}                                                 &= 64 \\\\
-\dfrac{a + a}{2}                                                            &= 60 + 4 \\\\
-\dfrac{2 \times a}{2}                                                       &= 64 \\\\
-\dfrac{\cancel{2} \times a}{\cancel{2}}                                     &= 64 \\\\
-a                                                                           &= 64
+\dfrac{a}{2} \times \dfrac{a}{2} - 4                                        &= 60 \\\\
+\dfrac{a}{2} \times \dfrac{a}{2}                                            &= 60 + 4 \\\\
+\dfrac{a \times a}{2 \times 2}                                              &= 64 \\\\
+\dfrac{a \times a}{4}                                                       &= 64 \\\\
+a \times a                                                                  &= 64 \times 4 \\\\
+a \times a                                                                  &= 256 \\\\
+a \times a                                                                  &= 16 \times 16 \\\\
+a                                                                           &= 16
 \end{aligned}
 $
 
-The number I think $=64$
+The number I think $=16$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$64$
+$16$
 
 </div>
 </div>
@@ -15656,13 +15768,7 @@ Write down the number ten and forty seven hundredth as a decimal.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 10 + \dfrac {47} {100} \\\\
-&= 10 + 0.47 \\\\
-&= 10.47
-\end{aligned}
-$
+$10.47$
 
 </div>
 </div>
@@ -15847,20 +15953,20 @@ a \times 3 + 15             &= 105 \\\\
 a                           &= \dfrac {90} {3} \\\\
 a                           &= \dfrac {3 \times 30} {3} \\\\
 a                           &= \dfrac {\cancel{3} \times 30} {\cancel{3}} \\\\
-a                           &= 3
+a                           &= 30
 \end{aligned}
 $
 
-The number = $3$
+The number = $30$
 
-Correct answer = $(3 + 15) \times 3 = 18 \times 3 = 54$
+Correct answer = $(30 + 15) \times 3 = 45 \times 3 = 135$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$54$
+$30, 135$
 
 </div>
 </div>
@@ -15925,7 +16031,9 @@ In this case, there are more fractions than percentages, so let's convert all th
 
 $\dfrac {4} {5}, \quad 0.9, \quad 0.1, \quad \dfrac {1} {100}, \quad \dfrac{2}{10}$
 
-$\dfrac {4 \times 20} {5 \times 20}, \quad \dfrac{9 \times 10} {10 \times 10}, \quad \dfrac {1 \times 10} {10 \times 10}, \quad \dfrac {1} {100}, \quad \dfrac{2 \times 10}{10 \time 10}$
+$\dfrac {4} {5}, \quad \dfrac{9} {10}, \quad \dfrac {1} {10}, \quad \dfrac {1} {100}, \quad \dfrac{2}{10}$
+
+$\dfrac {4 \times 20} {5 \times 20}, \quad \dfrac{9 \times 10} {10 \times 10}, \quad \dfrac {1 \times 10} {10 \times 10}, \quad \dfrac {1} {100}, \quad \dfrac{2 \times 10}{10 \times 10}$
 
 $\dfrac {80} {100}, \quad \dfrac{90} {100}, \quad \dfrac {10} {100}, \quad \dfrac {1} {100}, \quad \dfrac{20}{100}$
 
@@ -15944,7 +16052,7 @@ Smallest number = $\dfrac {1} {100}$
 <div class='answers'>
 <div class='answer'>
 
-$0.9, \dfrac {1} {100}$
+$ \text{Largest} = 0.9, \text{Smallest} = \dfrac {1} {100}$
 
 </div>
 </div>
@@ -15971,28 +16079,28 @@ LCM of $4,2,3,5,1 = 60$
 
 $
 \begin{aligned}
-&= \dfrac {3} {4} , \dfrac {1} {2} , \dfrac {4} {3} , \dfrac {4} {5} , 1 \\\\
-&= \dfrac {3 \times 15} {4 \times 15} , \dfrac {1 \times 30} {2 \times 30} , \dfrac {4 \times 20} {3 \times 20} , \dfrac {4 \times 12} {5 \times 12} , \dfrac {1 \times 60} {1 \times 60} \\\\
-&= \dfrac {45} {60} , \dfrac {30} {60} , \dfrac {80} {60} , \dfrac {48} {60} , \dfrac {60} {60}
+&= \dfrac {3} {4} , \quad \dfrac {1} {2} , \quad \dfrac {4} {3} , \quad \dfrac {4} {5} , \quad 1 \\\\
+&= \dfrac {3 \times 15} {4 \times 15} , \quad \dfrac {1 \times 30} {2 \times 30} , \quad \dfrac {4 \times 20} {3 \times 20} , \quad \dfrac {4 \times 12} {5 \times 12} , \quad \dfrac {1 \times 60} {1 \times 60} \\\\
+&= \dfrac {45} {60} , \quad \dfrac {30} {60} , \quad \dfrac {80} {60} , \quad \dfrac {48} {60} , \quad \dfrac {60} {60}
 \end{aligned}
 $
 
 Lets put them in ascending order now.
 
-$= \dfrac {30} {60} , \dfrac {45} {60} , \dfrac {48} {60} , \dfrac {60} {60} , \dfrac {80} {60}$
+$= \dfrac {30} {60} , \quad \dfrac {45} {60} , \quad \dfrac {48} {60} , \quad \dfrac {60} {60} , \quad \dfrac {80} {60}$
 
-$= \dfrac {1} {2} , \dfrac {3} {4} , \dfrac {4} {5} , 1 , \dfrac {4} {3}$
+$= \dfrac {1} {2} , \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 1 , \quad \dfrac {4} {3}$
 
-Largest number = $\dfrac {1} {2}$
+Largest number = $\dfrac {4} {3}$
 
-Smallest number = $\dfrac {4} {3}$
+Smallest number = $\dfrac {1} {2}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {2}, \dfrac {4} {3}$
+$\text{Largest} = \dfrac {4} {3}, \text{Smallest} =  \dfrac {1} {2}$
 
 </div>
 </div>
@@ -16032,7 +16140,7 @@ Smallest number = $0.087$
 <div class='answers'>
 <div class='answer'>
 
-$0.84, 0.087$
+$\text{Largest} = 0.84, \text{Smallest} =  0.087$
 
 </div>
 </div>

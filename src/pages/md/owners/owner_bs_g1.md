@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-bs-g1"
-title: "Banoth Sairam - G1"
-date: 2022-05-20 17:23:14
+title: "Owner - Banoth Sairam - G1"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Banoth Sairam
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_bs_g1 question'>

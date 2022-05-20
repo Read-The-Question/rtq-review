@@ -1,10 +1,8 @@
 ---
 slug: "reviewers/reviewer-ac-pr"
-title: "Chiliveru Aravind - PR"
-date: 2022-05-20 17:23:14
+title: "Reviewer - Chiliveru Aravind - PR"
+date: 2022-05-20 18:41:27
 ---
-# Reviewer - Chiliveru Aravind
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_bs_pr question'>

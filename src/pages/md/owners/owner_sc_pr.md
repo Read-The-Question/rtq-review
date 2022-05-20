@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-sc-pr"
-title: "Sahil Choudhary - PR"
-date: 2022-05-20 17:23:14
+title: "Owner - Sahil Choudhary - PR"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Sahil Choudhary
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_sc_pr question'>

@@ -1,0 +1,2648 @@
+---
+slug: "topics/topic-tunitprompt-pr"
+title: "Topic - Unitprompt - PR"
+date: 2022-05-20 18:41:27
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>2D142A42-5829-4132-A5C5-363CD6339B26</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bob is very proud of his new car. It is $370 \ \text{cm}$ long.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Convert $370 \ \text{cm}$ in to metres
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 370 \ \text {cm} \\\\
+&= \dfrac {370} {100} \ \text {m} \\\\
+&= 3.7 \ \text {m}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.7 \ \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Convert $370 \ \text{cm}$ into millimetres
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 370 \ \text {cm} \\\\
+&= 370 \times 10 \ \text {mm} \\\\
+&= 3700 \ \text {mm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3700 \ \text {mm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>AC61BB61-0D32-432C-A626-69C941176034</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are two containers and the amounts they hold
+
+![missing image](/papers/missing_image.svg)
+
+Which container holds the greater amounts?
+
+How much more does it hold?
+
+Give your answer in millimetres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Lets convert all units of volume into milliliters
+
+$
+\begin{aligned}
+&= 0.7 \times 1000 \text{milliliters} \\\\
+&= 700 \text{milliliters} \\\\
+\end{aligned}
+$
+
+As B compared to A, A contains more amount 
+$
+750 \text{ milliliters}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$750 \text{ milliliters}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>BF227024-E5C0-4BCC-BD28-9FF20E31D978</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A cup contains $250 \ \text{millimetres}$. Roughly how many litres is this?
+
+Put a ring round the best answer.
+
+$\text{One-quarter}  \qquad 2.5  \qquad 25$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+1 \ \text {millilitre}  &= \dfrac {1} {1000} \ \text {litres} \\\\
+250 \times 1 \ \text {millilitre}  &= 250 \times \dfrac {1} {1000} \ \text {litres} \\\\
+250 \ \text {millilitres}          &= \dfrac {250} {1000} \ \text {litres} \\\\
+250 \ \text {millilitres}          &= \dfrac {250} {250 \times 4} \ \text {litres} \\\\
+250 \ \text {millilitres}          &= \dfrac {\cancel {250}} {\cancel {250} \times 4} \ \text {litres} \\\\
+250 \ \text {millilitres}          &= \dfrac {1} {4} \ \text {litres} \\\\
+250 \ \text {millilitres}          &= 0.250 \ \text {litres}
+\end {aligned}
+$
+
+$0.250 \ \text {litres}$ is One quarter of a litre.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {One-quarter}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>366615BC-8C29-4BAC-A992-39C9C243AA0F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tunitprompt
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jon is using square ceramic tils, each $20 \ \text{cm} \times 20 \ \text{cm}$, to cover a rectangular worktop in his greenhouse.
+
+![missing image](/papers/missing_image.svg)
+
+He can fit exactly $6$ tiles along the shorter edge of the worktop and $15$ along the length.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many tiles will he use, altogether, to cover the worktop?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Tiles needed}    &= 15 \times 6 \\\\
+                        &= 90
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the length of the worktop? Give your answer in metres $(\text{m})$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Length of the worktop}    &= 15 \times 20 \ \text {cm} \\\\
+                                 &= 15 \times \dfrac {20} {100} \ \text {m} \\\\
+                                 &= \dfrac {15 \times 20} {100} \\\\
+                                 &= \dfrac {5 \times 3 \times 20} {5 \times 20} \\\\
+                                 &= \dfrac {\cancel {5} \times 3 \times \cancel {20}} {\cancel {5} \times \cancel {20}} \\\\
+                                 &= 3 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of the worktop? Give your answer in metre $(\text{m})$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Perimeter of the worktop}    &= 2 (\text {length} + \text {width}) \\\\
+                                    &= 2 (15 \times 20 \ \text {cm} + 6 \times 20 \ \text {cm}) \\\\
+                                    &= 2 (15 \times \dfrac {20} {100} \ \text {m} + 6 \times \dfrac {20} {100} \ \text {m}) \\\\
+                                    &= 2 (\dfrac {15 \times 20} {100} + \dfrac {6 \times 20} {100}) \\\\
+                                    &= 2 (\dfrac {300} {100} + \dfrac {120} {100}) \\\\
+                                    &= 2 (3 + 1.2) \\\\
+                                    &= 2 \times 4.2 \\\\
+                                    &= 8.4 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8.4 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of the worktop? Give your answer in square metres $(\text{m}^2)$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area of the worktop}    &= \text {length} \times \text {width} \\\\
+                               &= 15 \times 20 \ \text {cm} \times 6 \times 20 \ \text {cm} \\\\
+                               &= 15 \times \dfrac {20} {100} \ \text {m} \times 6 \times \dfrac {20} {100} \ \text {m} \\\\
+                               &= \dfrac {15 \times 20 \times 6 \times 20} {100 \times 100} \\\\
+                               &= \dfrac {300 \times 120} {10000} \\\\
+                               &= \dfrac {36000} {10000} \\\\
+                               &= 3.6 \ \text {m} ^ 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.6 \ \text {m} ^ 2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunit
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A bottle contains $0.35 \ \text{litres}$, how many *ml* is this?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.35 \ \text {litres} \\\\
+&= 0.35 \times 1000 \ \text {ml} \\\\
+&= 350 \ \text {ml}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$350 \ \text {ml}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A picture is $540 \ \text{mm}$ tall, what is this measurement in *cm*?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 540 \ \text {mm} \\\\
+&= \dfrac {540} {10} \ \text {cm} \\\\
+&= 54 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in *kg*.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 1029 \ \text {g} \\\\
+&= \dfrac {1029} {100} \ \text {kg} \\\\
+&= 1.029 \ \text {kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.029 \ \text {kg}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Add together $1 \ \text{mm}$, $0.1 \ \text{cm}$ and $0.1 \ \text{m}$. Give your answer in *cm*.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  1 \ \text {mm} + 0.1 \ \text {cm} + 0.1 \ \text {m} \\\\
+&=  \dfrac {1} {10} \ \text {cm} + 0.1 \ \text {cm} + 0.1 \times 100 \ \text {cm} \\\\
+&= 0.1 + 0.1 + 10 \\\\
+&= 10.2 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10.2 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The area of a postage stamp is calculated as:
+
+$2 \ \text{cm} \times 2.5 \ \text{cm} = 5 \ \text{cm}^2$
+
+What is the area of this stamo in $\text{mm}^2$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+2 \ \text{cm} \times 2.5 \ \text{cm}                        &= 5 \ \text{cm}^2 \\\\
+2 \times 10 \ \text{mm} \times 2.5 \times 10 \ \text{mm}    &= 5 \times 100 \ \text{mm}^2 \\\\\
+20 \ \text{mm} \times 25 \ \text{mm}                        &= 500 \ \text{mm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$500 \ \text{mm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>3482F384-C0E0-4164-8CFD-2035B993DC4E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3$ masses are measured to be $720 \ \text{g}$, $3.46 \ \text{kg}$, and $2 \ \text{kg } 53 \ \text{g}$. 
+What is their total mass, give your answer in grams. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text {kg} = 1000 \ \text {g}$
+
+$
+\begin{aligned}
+\text {Total mass} &= 720 \text{g} + 3.46 \text{kg} + 2  \text{kg} \ 53 \text{g} \\\\
+                   &= 720 \text{g} + 3460 \text{g} + 2053 \text{g} \\\\
+                   &= 6233 \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6233 \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I live $0.6$ miles from Goodison Park football stadium. There are $1760$ yards in a mile. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many yards away from Goodison Park do I live?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 1760 \times 0.6 \\\\
+&= 1056 \ \text{yards}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1056 \ \text{yards}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I live $4,400$ yards$ from Anfield football stadium. How many miles from Anfield football stadium do I live?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {4400} {1760} \\\\
+&= 2.5 \ \text {miles}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.5 \ \text {miles}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A kilometre is five eighths of a mile. How many kilometres away from Anfield do I live?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
+&= \dfrac {2.5 \times 5} {8} \\\\
+&= 1.5625 \ \text {km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.5625 \ \text {km}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>A08A53F2-4639-4CF6-B48B-30A2B0959606</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A twelve inch ruler is approximately $30 \ \text{cm}$ long. Use this fact to estimate each of the 
+following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The number of centimetres in $4 \ \text{inches}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+12 \ \text{inches} & = 30 \ \text {cm} \\\\
+1 \ \text{inches}  & = \dfrac {30} {12} \\\\
+4 \ \text{inches}  & = \dfrac {30} {12} \times 4 \\\\
+                   & = \dfrac {30 \times 4} {12} \\\\
+                   & = \dfrac {6 \times 5 \times 2 \times 2} {6 \times 2} \\\\
+                   & = \dfrac {\cancel {6} \times 5 \times 2 \times \cancel {2}} {\cancel {6} \times \cancel {2} } \\\\
+                   & = 5 \times 2 \\\\
+                   & = 10 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The number of inches in $5 \ \text{centimetres}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+12 \ \text {inches}                           & = 30 \ \text {cm} \\\\\
+\dfrac {12} {6}                               & = \dfrac {30} {6} \\\\\
+\dfrac {2 \times 6} {6}                       & = \dfrac {5 \times 6} {6} \\\\\
+\dfrac {2 \times \cancel {6}} {\cancel {6}}   & = \dfrac {5 \times \cancel {6}} {\cancel {6}} \\\\\
+2 \ \text {inches}                            & = 5 \ \text {cm} \\\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text{inches}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The number of centimetres in $9 \ \text{feet} 10 \ \text{inches}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+The measurement is given in multiple units and answer has to be in centimetres.
+
+$
+\begin{aligned}
+1 \ \text {feet}   & = 30 \ \text {cm} \\\\\
+1 \ \text {inches} & = 2.5 \ \text {cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+& = 9 \ \text{feet} 10 \ \text{inches} \\\\
+& = 9 \times 30 \ \text {cm} + 10 \times 2.5 \ \text {cm} \\\\
+& = 180 + 25 \\\\
+& = 295 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$295 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>4AED5958-F04F-45F1-A4E4-5E09C607BC13</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Convert $7.4 \ \text{kilograms}$ into grams.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \ \text{kilograms}   &= 1000 \ \text{grams} \\\\
+7.4 \ \text{kilograms} &= 1000 \times 7.4 \\\\
+                       &= 7400 \ \text{grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7400 \ \text{grams}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>AA1C5578-EC4D-41B3-8D56-14B948934F9D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Five miles is the same distance as eight kilometres. Use this fact to convert:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Converting $20$ miles into kilometers
+
+$
+\begin{aligned}
+&= \dfrac {20 \times 8} {5} \\\\
+&= \dfrac {5 \times 4 \times 8} {5} \\\\
+&= \dfrac {\cancel {5}  \times 4 \times 8} {\cancel {5} } \\\\
+&= 40 \text{ kilometers}
+\end{aligned}
+$
+
+Converting $40$ kilometers to miles
+
+$
+\begin{aligned}
+&= \dfrac {40 \times 5} {8} \\\\
+&= \dfrac {8 \times 5 \times 5} {8} \\\\
+&= \dfrac {\cancel {8} \times 5 \times 5} {\cancel {8} } \\\\
+&= 25 \text{ miles}
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$20 \ \text{miles}$ into kilometres
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$40 \ \text{kilometres}$ into miles.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>AFF5896F-8064-498C-8114-C2B6BAFEF3AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many millimetres are there in a kilometre? 
+Give your answer in words.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \text { Kilometre}        &= 1000000 \ \text {millimetres} \\\\
+                            &= 10^6 \ \text {millimetres} \\\\
+                            &= \text {One million millimetres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+One million millimetres
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>ADEAD8D0-2747-44BF-901C-F26BADA4C02C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Choose one of the following units to complete each statement below.
+
+$\text{km} \quad \text{m} \quad \text{cm} \quad \text{mm} \quad \text{l} \quad \text{ml}$
+
+Mandy's thumb is approximately $50 \ldots$ long.
+
+A glass could contain $250 \ldots$ of orange juice.
+
+A house could be $7.5 \ldots$ tall.
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {mm},\text {ml}, \text {km}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {mm},\text {ml}, \text {km}$ 
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down, in grams, the masses represented by the arrows on these scales. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$5 \ \text {g}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \ \text {g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$230 \ \text{g}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$230 \ \text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2.2 \ \text {g}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.2 \ \text {g}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>8A1BFE79-13B6-4A0B-B47B-91961D20F040</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a graph to convert between gallons and litres:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Showing clearly how you take your readings, use your graph to find:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+how many litres are equivalent to $4 \ \text{gallons}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$16.5 \ \text{litres}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16.5 \ \text{litres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+how many litres are equivalent to $1.8 \ \text{gallons}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+how many gallons are equivalent to $10 \ \text{litres}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2.8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+One day, Julie's Juice Bar sells $1000 \ \text{litres}$ of orange juice.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Use your answer to part (i) (c) to write $1000 \ \text{litres}$ as gallons.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+10 \ \text {litres}   &= 2.8 \ \text {gallons} \\\\
+1000 \ \text{litres}  &= 2.8 \times 1000 \\\\
+                      &= 2800 \ \text {gallons}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2800 \ \text {gallons}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+It takes $13$ oranges to make $1 \ \text{litre}$ of juice.
+
+How many oranges are needed to make $25 \ \text{litres}$ of juice?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Oranges needed} &= 13 \times 25 \\\\
+                       &= 325 \ \text{oranges}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$325 \ \text{oranges}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>815D7E74-0B4C-4E99-99F9-117582F86F67</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You are told that $1 \ \text{inch} = 2.5 \ \text{centimetres}$
+
+![missing image](/papers/missing_image.svg)
+
+Use this information to write:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7 \ \text{inches}$ in centimetres
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 \times 2.5 \\\\
+&= 17.5 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17.5 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$70  \ \text{inches}$ in metres
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 70 \times 2.5 \\\\
+&= 175 \ \text{cm}
+&= \dfrac {175} {1000} \\\\
+&= 0.175 \ \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.175 \ \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>AAF50B0C-7B6A-4176-B987-3E6426D91A8E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ten calculators have a total mass of $1500 \ \text{g}$. 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the mass of one calculator.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1500} {10} \\\\
+&= \dfrac {150\cancel{0}} {1\cancel{0}} \\\\
+&= 150 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \ \text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+What is the total mass of $100$ calculators?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1500} {100} \\\\
+&= \dfrac {15\cancel{00}} {1\cancel{00}} \\\\
+&= 15 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15 \ \text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Write your answer to part (ii) (a) in kilograms.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.15\ \text{kg}, 0.015 \ \text{kg}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.15\ \text{kg}, 0.015 \ \text{kg}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Each calculator costs $\pounds 5.19$
+
+What is the cost of $10$ calculators?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5.19 \times 10 \\\\
+&= \pounds 51.9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 51.9$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>7E1A8AB3-C593-4477-9220-607D3E76FDBE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsubtraction
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the difference between $2.7 \ \text{metres}$ and $32 \ \text{centimetres}$.
+
+Give your answer in metres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. 
+
+$
+\begin{aligned}
+&= 2.7 \ \text{metres} - 30 \ \text{cm} \\\\
+&= 2.7 \ \text{metres} - 0.3 \ \text{metres} \\\\
+&= 2.7  - 0.3  \\\\
+&= 2.4  \ \text{metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.4  \ \text{metres}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>E2AAD842-8F28-4315-8FD7-80B9E1231559</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The reading on the scale below shows the mass of a parcel.
+
+![missing image](/papers/missing_image.svg)
+
+Write down the mass:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+in kilograms
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2.4 \ \text {kg}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.4 \ \text {kg}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+in grams
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2.4 \times 1000 \\\\
+&= 2400 \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2400 \text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$1 \ \text{foot}$ is equal to $12 \ \text{inches}$. 
+Paul tiles a wall which is $10 \ \text{feet}$ long 
+and $6 \ \text{feet}$ high. 
+He uses square tiles which are $8 \ \text{inches}$ long on 
+each side. How many tiles does he need to tile the wall?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+The wall measurement is given in feet while the tile measurement is given in inches.
+
+Let's convert the wall measurements into inches.
+
+$
+\begin{aligned}
+\text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
+                        &= \dfrac {10 \ \text{feet} \times 6 \ \text{feet} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
+                        &= \dfrac {10 \times 12 \ \text{inches} \times 6 \times 12 \ \text{inches} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
+                        &= \dfrac {10 \times 12 \times 6 \times 12 } { 8 \times 8 } \\\\
+                        &= \dfrac {2 \times 5 \times 4 \times 3 \times 2 \times 3 \times 4 \times 3 } { 4 \times 2 \times 4 \times 2 } \\\\
+                        &= \dfrac {\cancel{2} \times 5 \times \cancel{4} \times 3 \times \cancel{2} \times 3 \times \cancel{4} \times 3 } { \cancel{4} \times \cancel{2} \times \cancel{4} \times \cancel{2} } \\\\
+                        &= 5 \times 3 \times 3 \times 3 \\\\
+                        &= 135
+\end{aligned}
+$
+
+Number of tiles $= 135$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$135$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>1A6AB009-2F49-47AF-BA34-6312AA658C67</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John the electrician needs to cut three lengths of wire from the $5 \ \text{metre}$ roll he has brought with him to do a job. The three lengths he cuts are $85 \ \text{cm}$, $2.5 \ \text{metre}$s and $650 \ \text{mm}$. How much wire (in cms) will he have left after cutting off his lengths?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the left over wire (in $\text {cm}$) $= w$.
+
+It is really important to use the right units in calculations and convert where required. The wire measurement are given in multiple units.
+
+Let's convert all the measurements into $\text{cm}$.
+
+As per the question,
+
+$
+\begin {aligned}
+85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w     &= 5 \ \text {metre} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + 65 \ \text {cm} + w         &= 500 \ \text {cm} \\\\
+85  + 250  + 65 + w                                               &= 500  \\\\
+400 + w                                                           &= 500 \\\\
+w                                                                 &= 500 - 400 \\\\
+w                                                                 &= 100 \ \text {cm}
+\end {aligned}
+$
+
+The left over wire length is = $100\ \text {cm}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>92ED95C5-5173-4603-A6B6-7ACBF5D59202</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When I emptied my pockets recently I found I had a mixture of $10 \text{p}$, $20 \text{p}$, $50 \text{p}$ and $\pounds 1$ coins. 
+When I counted the value of all the coins, the total amount came to $\pounds 7.20$ and there were equal numbers of each coin. 
+
+How many coins were there altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of coins of each denomination $= c$.
+
+It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+
+As per the question,
+
+$
+\begin{aligned}
+10 \times c + 20 \times c + 50 \times c + 100 \times c   &= \pounds 7.20 \\\\
+10c + 20c + 50c + 100c                                   &= 720 \\\\
+180c                                                     &= 720 \\\\
+c                                                        &= \dfrac {720} { 180} \\\\
+c                                                        &= \dfrac {180 \times 4} { 180} \\\\
+c                                                        &= \dfrac {\cancel{180} \times 4} { \cancel{180}} \\\\
+c                                                        &= 4
+\end{aligned}
+$ 
+
+There are $4$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}   &=  4 \times 4 \\\\
+                     &= 16 \ \text{coins}
+\end{aligned}
+$   
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>F990AB7B-48EF-4668-8814-D68C1917C568</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \text{mm}$ giving your answer in $\text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. The three lengths are given in multiple units.
+
+Let's convert all the measurements into the same unit $\text{cm}$.
+
+As per the question,
+
+$
+\begin{aligned}
+&= 1.4 \ \text{m} + 33 \ \text{cm} + 580 \ \text{mm} \\\\
+&= 140 \ \text{cm} + 33 \ \text{cm} + 58 \ \text{cm} \\\\
+&= 140 + 33  + 58  \\\\
+&= 231 \ \text{cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$231 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two bottles of water and three small bags of fruit cost a total of $\pounds 2.55$. If a bottle of water costs $15 \text{p}$ **more** than a bag of fruit, what is the cost of a bag of fruit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of a bottle of water (in pence) $= w$
+
+Let the cost of a bag of fruit (in pence) $= f$
+
+It is really important to use the right units in calculations and convert where required.
+
+The cost is given in pounds and pence. Let's convert all the costs into pence.
+
+As per the question,
+
+$
+\begin{aligned}
+2w + 3f      &= 255 \\\\
+w - f        &= 15
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+But which one should we eliminate? 
+
+If we look at the question again, we only need the 
+
+cost for a bag of fruit, so let's eliminate $w$ so we can directly calculate the value for $f$.
+
+Multiply the second equation by $2$.
+
+$
+\begin{aligned}
+w - f                           &= 15 \\\\
+w \times 2 - f  \times 2        &= 15 \times 2 \\\\
+2w - 2f                         &= 30
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2w + 3f             &= 255 \\\\
+2w - 2f             &= 30 \\\\
+2w + 3f - (2w - 2f) &= 255 - 30 \\\\
+2w + 3f - 2w + 2f   &= 225 \\\\
+5f                  &= 225 \\\\
+f                   &= \dfrac{225}{5} \\\\
+f                   &= 45 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bag of fruit $= 45 \ \text {pence}$.
+
+</div>
+<div class='working'>
+
+What if we eliminate $f$ instead?
+
+This approach is less efficient as we will have to calculate one extra value to get the answer.
+
+Let's eliminate to reduce it to just one variable. 
+
+Multiply the second equation by $3$.
+
+$
+\begin{aligned} 
+w - f                           &= 15 \\\\
+w \times 3 - f  \times 3        &= 15 \times 3 \\\\
+3w - 3f                         &= 45
+\end{aligned}
+$
+
+Add second equation to the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2w + 3f                 &= 255 \\\\
+3w - 3f                 &= 45 \\\\
+2w + 3f + (3w - 3f)     &= 255 + 45 \\\\
+2w + 3f + 3w - 3f       &= 300 \\\\
+5w                      &= 300 \\\\
+w                       &= \dfrac{300}{5} \\\\
+w                       &= 60 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bottle of water $= 60 \ \text{pence}$. 
+
+Let's substitute the value of $w$ in one of the initial equations to find the cost of a bag of fruit.
+
+$
+\begin{aligned} 
+w - f               &= 15 \\\\
+60 -f               &= 15 \\\\
+-f                  &= 15 - 60 \\\\
+-f                  &= -45 \\\\
+f                   &= 45 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bag of fruit $= 45 \ \text {pence}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45p$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>37279E76-7207-4B08-84B9-07B10F2972FD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add together $3.7\, metres$ and $64\, cm$ and then subtract $2\, metres$ $7\,cm$. Give your answer in metres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. The measurement is given in meters and centimeteres but the answer has to be in meters.
+
+$1 \ \text{m} = 100 \text{cm} \\\\
+\dfrac {1} {100} \ \text{m} = 1 \text{cm}$
+
+$
+\begin{aligned}
+&= 3.7 \ \text{m} + 64 \ \text{cm} - 2 \ \text {m} + 7 \ \text{cm}  \\\\
+&= 3.7 \ \text{m} + \dfrac {64} {100} \ \text{m} - 2 \ \text{m} + \dfrac {7} {100} \ \text{m} \\\\
+&= 3.7 \ \text{m} + 0.64 \text{m}  -  2 \text{m} + 0.07 \text{m} \\\\
+&= 4.34 \ \text{m} - 2.07 \ \text{m} \\\\
+&= 4.34 - 2.07 \text{m} \\\\
+&= 2.27 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.27 \ \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+</ul>

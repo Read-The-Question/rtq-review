@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-ga-g1"
-title: "Gifty Abhishek - G1"
-date: 2022-05-20 17:23:14
+title: "Owner - Gifty Abhishek - G1"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Gifty Abhishek
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_ga_g1 question'>

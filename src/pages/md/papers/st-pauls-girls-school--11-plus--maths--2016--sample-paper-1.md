@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-05-20 17:23:14
+date: 2022-05-20 18:41:27
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>
@@ -35,14 +35,14 @@ Calculate $15.05 - 14.84$
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+Ensure to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    1   &    5 \ .    &    0    &    5 \\
-{}- 1   &    4 \ .    &    8    &    4 \\
+    &1   &    5 \ .    &    0    &    5 \\
+{}- &1   &    4 \ .    &    8    &    4 \\
 \hline
-        &    0 \ .    &    2    &    1
+    &   &    0 \ .    &    2    &    1
 \end{array}
 $
 
@@ -84,7 +84,7 @@ Calculate $31.6 \times 7$
 <div class='workings'>
 <div class='working'>
 
-Let's first multiply the numbers ignoring the decimal points
+Let's first multiply the numbers ignoring the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
@@ -95,7 +95,7 @@ $
 \end{array}
 $
 
-Let's account for the decimal point now.
+The total number of digits after the decimal point is one. Let's account for the decimal point now.
 
 $= 221.2$
 
@@ -141,8 +141,9 @@ $
 \begin{aligned}
 &= \dfrac{60}{100} \times 765 \\\\
 &= \dfrac{60 \times 765}{100} \\\\
-&= \dfrac{4590}{100} \\\\
-&= 45.9
+&= \dfrac{45900}{100} \\\\
+&= \dfrac{459\cancel{00}}{1\cancel{00}} \\\\
+&= 459
 \end{aligned}
 $
 
@@ -151,7 +152,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$45.9$
+$459$
 
 </div>
 </div>
@@ -188,9 +189,10 @@ How much money is collected?
 
 $
 \begin{aligned}
-\text{Total money collected}    &= 85 \times \pounds 1.30 \\\\
-                                &= 85 \times 1.3
-\text{Total money collected}    &= \pounds 110.5
+\text{Total money collected}    &= \text{No. of people} \times \text{Payment per person} \\\\
+                                &= 85 \times \pounds 1.30 \\\\
+                                &= 85 \times 1.3 \\\\
+\text{Total money collected}    &= \pounds 110.50
 \end{aligned}
 $
 
@@ -199,7 +201,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 110.5$
+$\pounds 110.50$
 
 </div>
 </div>
@@ -238,9 +240,10 @@ $
 \begin{aligned}
 &= 2.4 \times (3.7 +  1.3) \div 2 \\\\
 &= 2.4 \times 5 \div 2 \\\\
-&= 2.4 \times \dfrac{5}{2} \\\\
-&= 2.4 \times 2.5 \\\\
-&= 9.6
+&= 2 \times 1.2 \times \dfrac{5}{2} \\\\
+&= \cancel{2} \times 1.2 \times \dfrac{5}{\cancel{2}} \\\\
+&= 1.2 \times 5 \\\\
+&= 6
 \end{aligned}
 $
 
@@ -249,7 +252,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9.6$
+$6$
 
 </div>
 </div>
@@ -278,22 +281,10 @@ tfraction
 
 Fill in the missing numbers:
 
-$\dfrac{1}{2}$ of $20 = \dfrac{1}{4}$ of $\ldots$
-$\dfrac{3}{4}$ of $100 = \dfrac{1}{2}$ of $\ldots$
-$\dfrac{1}{3}$ of $60 = \dfrac{2}{3}$ of $\ldots$
-
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= \dfrac{1}{2} \times 20 \\\\
-&= \dfrac{1 \times 2}{2 \times 2} \times 20 \\\\
-&= \dfrac{2}{4} \times 20 \\\\
-&=\dfrac{1}{4} \times 40
-\end{aligned}
-$
 
 $
 \begin{aligned}
@@ -322,7 +313,98 @@ $40, 150, 30$
 
 </div>
 </div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
 
+$\dfrac{1}{2}$ of $20 = \dfrac{1}{4}$ of $\ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{1}{2} \times 20  &= \dfrac{1}{4} \times a \\\\
+\dfrac{1}{4} \times a   &= \dfrac{1}{2} \times 20 \\\\
+a                       &= \dfrac{1}{2} \times 20 \times 4 \\\\
+a                       &= \dfrac{1}{2} \times 20 \times 2 \times 2 \\\\
+a                       &= \dfrac{1}{\cancel{2}} \times 20 \times 2 \times \cancel{2} \\\\
+a                       &= 20 \times 2 \\\\
+a                       &= 40
+\end{aligned}
+$
+
+
+</div>
+<div class='working'>
+
+Let the missing number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{3}{4} \times 100 &= \dfrac{1}{2} \times a \\\\
+\dfrac{1}{2} \times a   &= \dfrac{3}{4} \times 100 \\\\
+a                       &= \dfrac{3}{4} \times 100 \times 2 \\\\
+a                       &= \dfrac{3}{4} \times 25 \times 4 \times 2 \\\\
+a                       &= \dfrac{3}{\cancel{4}} \times 25 \times \cancel{4} \times 2 \\\\
+a                       &= 3 \times 25 \times 2 \\\\
+a                       &= 150
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Let the missing number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{1}{3} \times 60  &= \dfrac{2}{3} \times a \\\\
+\dfrac{2}{3} \times a   &= \dfrac{1}{3} \times 60 \\\\
+a                       &= \dfrac{1}{3} \times 60 \times \dfrac{3}{2} \\\\
+a                       &= \dfrac{1}{3} \times 30 \times 2 \times \dfrac{3}{2} \\\\
+a                       &= \dfrac{1}{\cancel{3}} \times 30 \times \cancel{2} \times \dfrac{\cancel{3}}{\cancel{2}}  \\\\
+a                       &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+<div class='answer'>
+
+$150$
+
+</div>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
@@ -746,7 +828,7 @@ What is Jemma's number?
 <div class='workings'>
 <div class='working'>
 
-Let the number Jemma thinks $= a$
+Let the number Jemma thought $= a$
 
 As per the question,
 
@@ -762,7 +844,7 @@ a                   &= 4
 \end{aligned}
 $
 
-The number Jemma thinks $= 4$
+Jemma's number $= 4$
 
 </div>
 </div>
@@ -814,11 +896,11 @@ $
 \text{Weight of one match}      &= \dfrac{\text{Total weight} - \text{Weight of the box}}{\text{Number of matches}} \\\\
                                 &= \dfrac{45 - 12}{220} \\\\
                                 &= \dfrac{33}{220} \\\\
-                                &= \dfrac{3 \times 11}{20 \times 11} \\\\
-                                &= \dfrac{3 \times \cancel{11}}{20 \times \cancel{11}} \\\\
-                                &= \dfrac{3 \times 4}{20 \times 4} \\\\
-                                &= \dfrac{12}{100} \\\\
-\text{Weight of one match}      &= 0.12 \ \text{grams}
+                                &= \dfrac{3 \times 11}{2 \times 10 \times 11} \\\\
+                                &= \dfrac{3 \times \cancel{11}}{2 \times 10 \times \cancel{11}} \\\\
+                                &= \dfrac{3}{2} \times \dfrac{1}{10} \\\\
+                                &= \dfrac{1.5}{10} \\\\
+\text{Weight of one match}      &= 0.15 \ \text{grams}
 \end{aligned}
 $
 
@@ -827,7 +909,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.12 \ \text{grams}$
+$0.15 \ \text{grams}$
 
 </div>
 </div>
@@ -892,7 +974,7 @@ Number of oranges used $= 2a = 8$
 <div class='answers'>
 <div class='answer'>
 
-$8$
+$8 \ \text{oranges}$
 
 </div>
 </div>
@@ -934,9 +1016,9 @@ This can be solved using ratios.
 
 $
 \begin{aligned}
-2 \ \text{Boys}             &: 3 \ \text{Girls} \\\\
-2 \times 21 \ \text{Boys}   &: 3 \time 21 \ \text{Girls} \\\\
-42 \ \text{Boys}            &: 63 \ \text{Girls}
+2 \ \text{boys}             &: 3 \ \text{girls} \\\\
+2 \times 21 \ \text{boys}   &: 3 \times 21 \ \text{girls} \\\\
+42 \ \text{boys}            &: 63 \ \text{girls}
 \end{aligned}
 $
 
@@ -945,7 +1027,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$63 \ \text{Girls}$
+$63 \ \text{girls}$
 
 </div>
 </div>
@@ -987,6 +1069,7 @@ Calculate the area of the larger triangle.
 As per the question,
 
 $
+\begin{aligned}
 \text{Area of shaded triangle}      &= \dfrac{4}{9} \times \text{Area of larger triangle} \\\\
 \text{Area of larger triangle}      &= \dfrac{9}{4} \times \text{Area of shaded triangle} \\\\
                                     &= \dfrac{9}{4} \times 52 \\\\
@@ -995,6 +1078,7 @@ $
                                     &= \dfrac{9 \times 13 \times \cancel{4}}{\cancel{4}} \\\\
                                     &= 9 \times 13 \\\\
 \text{Area of larger triangle}      &= 117 \ \text{cm}^2
+\end{aligned}
 $
 
 </div>
@@ -1023,7 +1107,7 @@ $117 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tinfer
 </li>
 </ul>
 </div>
@@ -1070,7 +1154,7 @@ $32$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tinfer
 </li>
 </ul>
 </div>
@@ -1267,23 +1351,25 @@ $
 \dfrac{\dfrac{2 \times a}{4} \times \dfrac{2 \times a}{4} - 4 } {10}        &= 6 \\\\
 \dfrac{2 \times a}{2 \times 2} \times \dfrac{2 \times a}{2 \times 2} - 4    &= 6 \times 10 \\\\
 \dfrac{\cancel{2} \times a}{\cancel{2} \times 2} \times \dfrac{\cancel{2} \times a}{\cancel{2} \times 2} - 4    &= 60 \\\\
-\dfrac{a}{2} + \dfrac{a}{2} - 4                                             &= 60 \\\\
-\dfrac{a}{2} + \dfrac{a}{2}                                                 &= 64 \\\\
-\dfrac{a + a}{2}                                                            &= 60 + 4 \\\\
-\dfrac{2 \times a}{2}                                                       &= 64 \\\\
-\dfrac{\cancel{2} \times a}{\cancel{2}}                                     &= 64 \\\\
-a                                                                           &= 64
+\dfrac{a}{2} \times \dfrac{a}{2} - 4                                        &= 60 \\\\
+\dfrac{a}{2} \times \dfrac{a}{2}                                            &= 60 + 4 \\\\
+\dfrac{a \times a}{2 \times 2}                                              &= 64 \\\\
+\dfrac{a \times a}{4}                                                       &= 64 \\\\
+a \times a                                                                  &= 64 \times 4 \\\\
+a \times a                                                                  &= 256 \\\\
+a \times a                                                                  &= 16 \times 16 \\\\
+a                                                                           &= 16
 \end{aligned}
 $
 
-The number I think $=64$
+The number I think $=16$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$64$
+$16$
 
 </div>
 </div>

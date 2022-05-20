@@ -1,10 +1,8 @@
 ---
 slug: "reviewers/reviewer-sc-pr"
-title: "Sahil Choudhary - PR"
-date: 2022-05-20 17:23:14
+title: "Reviewer - Sahil Choudhary - PR"
+date: 2022-05-20 18:41:27
 ---
-# Reviewer - Sahil Choudhary
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_ga_pr question'>

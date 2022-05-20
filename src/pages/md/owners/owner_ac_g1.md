@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-ac-g1"
-title: "Chiliveru Aravind - G1"
-date: 2022-05-20 17:23:14
+title: "Owner - Chiliveru Aravind - G1"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Chiliveru Aravind
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_ac_g1 question'>

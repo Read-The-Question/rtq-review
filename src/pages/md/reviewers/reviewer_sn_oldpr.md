@@ -1,10 +1,8 @@
 ---
 slug: "reviewers/reviewer-sn-oldpr"
-title: "Shilpa Narayan - OLDPR"
-date: 2022-05-20 17:23:14
+title: "Reviewer - Shilpa Narayan - OLDPR"
+date: 2022-05-20 18:41:27
 ---
-# Reviewer - Shilpa Narayan
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_up_oldpr question'>

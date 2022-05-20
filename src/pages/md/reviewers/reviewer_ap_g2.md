@@ -1,10 +1,8 @@
 ---
 slug: "reviewers/reviewer-ap-g2"
-title: "Anshruta Pandey - G2"
-date: 2022-05-20 17:23:14
+title: "Reviewer - Anshruta Pandey - G2"
+date: 2022-05-20 18:41:27
 ---
-# Reviewer - Anshruta Pandey
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_nm_g2 question'>

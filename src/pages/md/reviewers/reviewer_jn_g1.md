@@ -1,10 +1,8 @@
 ---
 slug: "reviewers/reviewer-jn-g1"
-title: "Jaishree Nair - G1"
-date: 2022-05-20 17:23:14
+title: "Reviewer - Jaishree Nair - G1"
+date: 2022-05-20 18:41:27
 ---
-# Reviewer - Jaishree Nair
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_np_g1 question'>

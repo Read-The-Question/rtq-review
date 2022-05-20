@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-ej-g1"
-title: "Eshudhi Jangid - G1"
-date: 2022-05-20 17:23:14
+title: "Owner - Eshudhi Jangid - G1"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Eshudhi Jangid
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_ej_g1 question'>

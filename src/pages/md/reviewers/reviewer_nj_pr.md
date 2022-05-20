@@ -1,10 +1,8 @@
 ---
 slug: "reviewers/reviewer-nj-pr"
-title: "Nitin Joshi - PR"
-date: 2022-05-20 17:23:14
+title: "Reviewer - Nitin Joshi - PR"
+date: 2022-05-20 18:41:27
 ---
-# Reviewer - Nitin Joshi
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_nc_pr question'>

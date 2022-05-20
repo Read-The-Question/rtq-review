@@ -1,0 +1,642 @@
+---
+slug: "topics/topic-tpercentage-oldpr"
+title: "Topic - Percentage - OLDPR"
+date: 2022-05-20 18:41:27
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_up_oldpr question'>
+<div class='uuid'>
+<p>D48EBB7F-6353-41D8-8F7E-D81284AECC1E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tmoney
+</li>
+<li>
+tinequality
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which sign makes each of the following statements true?
+
+$\large { \boxed{\phantom{5} > \phantom{5} } \quad \boxed{\phantom{5} < \phantom{5} } \quad \boxed{\phantom{5} = \phantom{5} } }$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0.022 \quad \ldots  \quad 0.2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.022 \quad \boxed{\green{<}}  \quad 0.2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.022 < 0.2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15\%$ of $\pounds 300\  \quad \ldots  \quad  20\%$ of $\pounds 240$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the first value.
+
+$
+\begin{aligned}
+&= 15\% \text{ of } \pounds 300 \\\\
+&= \dfrac{15}{100} \times 300 \\\\
+&= \dfrac{15 \times 300}{100}  \\\\
+&= \dfrac{15 \times 3\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 15 \times 3  \\\\
+&= \pounds 45
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 20\% \text{ of } \pounds 240 \\\\
+&= \dfrac{20}{100} \times 240 \\\\
+&= \dfrac{20 \times 240}{100}  \\\\
+&= \dfrac{2\cancel{0} \times 24\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 2 \times 24  \\\\
+&= \pounds 48
+\end{aligned}
+$
+
+Using the calculation above,
+
+$15\%$ of $\pounds 300\  \quad \boxed{\green{<}}  \quad  20\%$ of $\pounds 240$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15\%$ of $\pounds 300\  \quad <  \quad  20\%$ of $\pounds 240$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \ldots  \quad 25\%$ of $\pounds 64$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the first value.
+
+$
+\begin{aligned}
+&= \dfrac {2}{5} \text{ of } \pounds 40 \\\\
+&= \dfrac{2 \times 40}{5} \\\\
+&= \dfrac{2 \times 5 \times 8}{5} \\\\
+&= \dfrac{2 \times \cancel{5} \times 8}{\cancel{5}} \\\\
+&= 2 \times 8 \\\\
+&= \pounds 16
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 25\% \text{ of } \pounds 64 \\\\
+&= \dfrac{25}{100} \times 64 \\\\
+&= \dfrac{25 \times 64}{100}  \\\\
+&= \dfrac{1600}{100}  \\\\
+&= \dfrac{16\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= \pounds 16
+\end{aligned}
+$
+
+Using the calculation above,
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green{=}}  \quad 25\%$ of $\pounds 64$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_oldpr question'>
+<div class='uuid'>
+<p>450FEC63-5580-47DE-83CB-40719744776C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Zain wants to buy two chairs.
+ 
+Three shops advertise the same luxury chair.
+Each shop has a special offer. 
+
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+At which shop is the price of the two chairs the cheapest? 
+
+You **must** show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the cheapest price of $2$ chairs from each shop.
+
+**Shop A**
+
+If the price is reduced by $30 \%$, then the sale price will be $100 - 30 = 70 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop A}     &= 600 + 70\% \times 600 \\\\
+                                                &= 600 + \dfrac{70}{100} \times 600 \\\\
+                                                &= 600 + \dfrac{70 \times 600}{100} \\\\
+                                                &= 600 + \dfrac{70 \times 6\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}} \\\\
+                                                &= 600 + 70 \times 6 \\\\
+                                                &= 600 + 420 \\\\
+                                                &= \pounds 1020
+\end{aligned}
+$
+
+**Shop B**
+
+If the price is reduced by $\dfrac{1}{5}$, then the sale price will be $1 - \dfrac{1}{5} = \dfrac{4}{5}$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop B}     &= 550 + \dfrac{4}{5} \times 550 \\\\
+                                                &= 550 + \dfrac{4 \times 550}{5} \\\\
+                                                &= 550 + \dfrac{4 \times 5 \times 110}{5} \\\\
+                                                &= 550 + \dfrac{4 \times \cancel{5} \times 110}{\cancel{5}} \\\\
+                                                &= 550 + 4 \times 110 \\\\
+                                                &= 550 + 440 \\\\
+                                                &= \pounds 990
+\end{aligned}
+$
+
+**Shop C**
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop C}     &= \pounds 820
+\end{aligned}
+$
+
+Using the calculation above,
+
+Shop where the price is the cheapest $= \text{Shop C} = \pounds 820$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Shop C} = \pounds 820$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_jn_oldpr question'>
+<div class='uuid'>
+<p>12F567E6-42DC-4EE3-A2CE-D09D970305D7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The rate of VAT (value-added tax) in this country is $20\%$. In the shop CoCost, the price of a TV excluding VAT is 
+$\pounds 550$. Work out the cost of the TV after the VAT is added on.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+    \text{VAT} & = 20 \% \ \text{of} \ \pounds 550                                                \\\\
+               & = \dfrac {20} {100} \times 550                                                   \\\\
+               & = \dfrac {2 \cancel 0} {1 \cancel 0 \cancel 0} \times  \dfrac {55 \cancel 0} {1} \\\\
+               & = 2 \times 55                                                                    \\\\
+               & = \pounds  110                                                                   
+\end{aligned}
+$
+
+Total cost of TV = Price of TV + VAT
+
+$
+\begin{aligned}
+      & = \pounds 550 + \pounds 110 \\\\
+      & = \pounds 660               
+\end{aligned}
+$
+
+The cost of the TV after the VAT is added on $=\pounds 660$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 660$
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The price of a diamond ring, including VAT is $\pounds 1200$. Work out the cost of the ring before the VAT was added on. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_jn_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_oldpr question'>
+<div class='uuid'>
+<p>09B08DAF-540F-4115-B9CB-3DA13E21C2F3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tmoney
+</li>
+<li>
+tprofit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Neil lends Rodger $\pounds 4$. Rodger pays back $30 \%$ of this the next day. How much does he still owe Neil?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert pounds to pence.
+
+$
+\begin{aligned}
+\text{Total amount} &= \pounds 4 \\\\
+&= 4 \times 100 \text{p} \\\\
+&= 400 \text{p}
+\end{aligned}
+$
+
+Rodger pays back $30 \%$. So,
+
+$
+\begin{aligned}
+\text{Amount paid} &= 30\% \text{ of } 400 \\\\
+&= \dfrac {30} {100} \times 400 \\\\
+&= \dfrac {30 \times 400} {100} \\\\
+&= \dfrac {30 \times 4 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 30 \times 4 \\\\
+&= 120  \text{p} 
+\end{aligned}
+$
+
+Let's calculate the amount Rodger still owes Neil.
+
+$
+\begin{aligned}
+\text{Amount owed} &= 400 - 120 \\\\
+&= 280 \text{p} \\\\
+&= \pounds 2.80
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Can we do better than the previous solution? 
+
+If Rodger has paid back $30\%$ of the money, he still has $70\%$ to pay. 
+So we can directly calculate the amount owed and save on calculating the amount paid as well.
+
+$
+\begin{aligned}
+\text{Amount owed} &= 70\% \text{ of } 400 \\\\
+&= \dfrac {70} {100} \times 400 \\\\
+&= \dfrac {70 \times 400} {100} \\\\
+&= \dfrac {70 \times 4 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 70 \times 4 \\\\
+&= 280 \\\\
+&= 280 \text{p} \\\\
+&= \pounds 2.80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.80$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_oldpr question'>
+<div class='uuid'>
+<p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $15\%$ of $\pounds 3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 15\% \times \pounds 3 \\\\
+&= 15\% \times 300 \ \text{pence}\\\\
+&= \dfrac {15} {100} \times 300 \\\\
+&= \dfrac {15 \times 300} {100} \\\\
+&= \dfrac {15 \times 3 \times 100} {100} \\\\
+&= \dfrac {15 \times 3 \times 1\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
+&= 15 \times 3  \\\\
+&= 45 \ \text{pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \ \text{pence}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_oldpr question'>
+<div class='uuid'>
+<p>7B238D76-DC32-4173-81A3-114829891742</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tprofit
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the summer sales, prices of items are reduced by $15 \%$. What 
+would be the sale price of a coat that originally cost $\pounds 30$?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
+
+Let's use this to calculate the sale price.
+
+$
+\begin{aligned}
+\text{Sale price}               &= 85\% \text{ of } \pounds 30\\\\
+                                &= \dfrac {85 \times 30 } { 100 } \\\\
+                                &= \dfrac {85 \times 3\cancel{0} } { 10 \times 1\cancel{0} } \\\\
+                                &= \dfrac {85 \times 3 } { 10 } \\\\
+                                &= \dfrac {255 } { 10 } \\\\
+                                &= \pounds 25.50
+\end{aligned}
+$
+
+Sale price $= \pounds 25.50$
+
+</div>
+<div class='working'>
+
+We can also calculate the reduction in the price first and use that to calculate 
+the final sale price. This approach involves little extra work though.
+
+$
+\begin{aligned}
+\text{Original price}           &= \pounds 30 \\\\
+\text{Reduction on price}       &= 15\% \\\\
+                                &= 15\% \text{ of } \pounds 30\\\\
+                                &= \dfrac {15 \times 30 } { 100 } \\\\
+                                &= \dfrac {15 \times 3\cancel{0} } { 10 \times 1\cancel{0} } \\\\
+                                &= \dfrac {15 \times 3 } { 10 } \\\\
+                                &= \dfrac {45 } { 10 } \\\\
+                                &= \pounds 4.50
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Sale price}               &= \text{Original price} - \text{Reduction on price} \\\\
+                                &= 30 - 4.50 \\\\
+                                &= \pounds 25.50
+\end{aligned}
+$
+
+Sale price $= \pounds 25.50$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 25.50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_up_oldpr</p>
+</div>
+</div>
+</li>
+</ul>

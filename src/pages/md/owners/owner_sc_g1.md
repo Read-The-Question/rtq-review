@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-sc-g1"
-title: "Sahil Choudhary - G1"
-date: 2022-05-20 17:23:14
+title: "Owner - Sahil Choudhary - G1"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Sahil Choudhary
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_sc_g1 question'>

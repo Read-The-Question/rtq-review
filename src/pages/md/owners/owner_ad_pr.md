@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-ad-pr"
-title: "Arun Dalakoti - PR"
-date: 2022-05-20 17:23:14
+title: "Owner - Arun Dalakoti - PR"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Arun Dalakoti
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_ad_pr question'>
@@ -26246,6 +26244,165 @@ So, LOAF = $504$
 <div class='answer'>
 
 $504$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>2B2789EB-87CB-4268-A450-11BE3B271963</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On a taxi journey with one particular taxi company, the fare is worked out using a set starting charge plus a charge for each quarter of a mile travelled (the QMC).
+
+So if the starting charge is $\pounds 1$ and the QMC (charge for each quarter of a mile) is $50 \text{p}$ then the total fare for a one mile journey is given by
+
+Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ journey at another taxi company is $\pounds 9.60$ and the QMC (charge for each quarter of a mile) is $80\text{p}$, what is the starting charge?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Quaters in 2 \dfrac {1} {2} miles} &= 2 \dfrac {1} {2} \times 4 \\\\
+                                         &= \dfrac {5} {2} \times 4 \\\\
+                                         &= \dfrac {5 \times 4} {2} \\\\
+                                         &= \dfrac {5 \times 2 \times 2} {2} \\\\
+                                         &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                                         &= 10
+\end{aligned}
+$
+
+Let the starting fare $= x$
+
+QMC = $80$ pence
+
+Total fare = starting charge + (quarter miles $\times 80p$)
+
+$
+\begin{aligned}
+\pounds 9.60 &= x + (10 \times 80p) \\\\
+\pounds 9.60 &= x + 800p \\\\
+\pounds 9.60 &= x + \pounds \dfrac {800} {100} \\\\
+\pounds 9.60 &= x + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
+9.60 - 8     &= x \\\\
+x            &= 9.60 - 8 \\\\
+x            &= \pounds 1.60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the starting charge at a third company is $\pounds 2.20$ and the Total Fare for a $6 \dfrac {1}{4} \ \text{mile}$ journey is $\pounds 12.20$, what is the QMC?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Quaters in 6 \dfrac {1} {4} miles} &= 6 \dfrac {1} {4} \times 4 \\\\
+                                         &= \dfrac {25} {4} \times 4 \\\\
+                                         &= \dfrac {25 \times 4} {4} \\\\
+                                         &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
+                                         &= 25
+\end{aligned}
+$
+
+Total fare = starting charge + (quarter miles $\times$ QMC)
+
+Let the QMC $= q$
+
+$
+\begin{aligned}
+\pounds 12.20    &= \pounds 2.20 + (25 \times q) \\\\
+12.20 - 2.20     &= 25 \times q \\\\
+10               &= 25 \times q \\\\
+\dfrac {10} {25} &= q \\\\
+q                &= \dfrac {10} {25} \\\\
+q                &= \dfrac {10 \times 100 \text{p}} \\\\
+q                &= \dfrac {10 \times 25 \times 4} {25} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4} {\cancel {25}} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4 \text{p}} {\cancel {25}} \\\\
+q                &= 4 \times 10 \\\\
+q                &= 40 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \text{p}$
 
 </div>
 </div>

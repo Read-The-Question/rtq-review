@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-2"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-20 17:23:14
+date: 2022-05-20 18:41:27
 ---
 <div class='paper'>
 <h1>Solihull School</h1>
@@ -1721,14 +1721,15 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 <div class='workings'>
 <div class='working'>
 
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter}        &= 2 \times (\text{length} + \text{width}) \\\\
-                        &= 2 \times (22 + 9) \\\\
-                        &= 2 \times 31 \\\\
-                        &= 62 \ \text{cm}
+&= 2 \times (22 + 9) \\\\
+&= 2 \times 31 \\\\
+&= 62 \ \text{cm}
 \end{aligned}
 $
 
@@ -1760,9 +1761,12 @@ The perimeter of the rectangle below is $120 \ \text{cm}$. Find its *area*.
 <div class='workings'>
 <div class='working'>
 
+Let the length of the rectangle $= t \text{cm}$
+
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
 $
 \begin{aligned}
-\text{Perimeter}                            &= 2 \times (\text{length} + \text{width}) \\\\
 120                                         &= 2 \times (25 + t) \\\\
 2 \times (25 + t)                           &= 120 \\\\
 25 + t                                      &= \dfrac{120}{2} \\\\
@@ -1771,6 +1775,16 @@ $
 25 + t                                      &= 60 \\\\
 t                                           &= 60 - 25 \\\\
 t                                           &= 35 \ \text{cm}
+\text{width}                                &= 35 \ \text{cm}
+\end{aligned}
+$
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+$
+\begin{aligned}
+&= 25 \times 35 \\\\
+&= 875 \text{cm}^2
 \end{aligned}
 $
 
@@ -1802,14 +1816,17 @@ Find the *area* of the shape below:
 <div class='workings'>
 <div class='working'>
 
+The area of irregular shapes can be determined by dividing the given shape into smaller regular shapes.
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Area of shape}            &= \text{Area of large rectangle} + \text{Area of small rectangle} \\\\
+\text{Area of shape}            &= \text{Area of rectangle L} + \text{Area of rectangle R} \\\\
                                 &= \text{length1} \times \text{width1} + \text{length2} \times \text{width2} \\\\
-                                &= 17 \times 8 + 6 \times 3 \\\\
-                                &= 136 + 18 \\\\
+                                &= (17 - 6) \times 8 + 6 \times 11 \\\\
+                                &= 11 \times 8 + 6 \times 11 \\\\
+                                &= 88 + 66 \\\\
                                 &= 154 \ \text{cm}^2
 \end{aligned}
 $
@@ -1842,25 +1859,25 @@ The square below has an area of $169 \ \text{cm}^2$. Find its perimeter.
 <div class='workings'>
 <div class='working'>
 
-Let the side of square be = $a \ \text{cm}$
+Let the side of square = $a \ \text{cm}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Area}         &= \text{side of square}^2 \\\\
-169                 &= a^2 \\\\
-a^2                 &= 169 \\\\
-a^2                 &= 13^2 \\\\
+\text{side} \times \text{side}         &= \text{Area} \\\\
+a \times a          &= 169 \\\\
+a \times a          &= 13 \times 13 \\\\
 a                   &= 13 \ \text{cm}
 \end{aligned}
 $
 
-Now the perimeter of the square,
+Let's find the perimeter of the square.
 
 $
 \begin{aligned}
-\text{Perimeter}        &= 4 \times \text{side of square} \\\\
+\text{Perimeter}        &= 4 \times \text{side} \\\\
+                        &= 4 \times a \\\\
                         &= 4 \times 13 \\\\
                         &= 52 \ \text{cm}
 \end{aligned}
@@ -3241,7 +3258,7 @@ How many $20 \ \text{cm}$ by $30 \ \text{cm}$ carpet tiles are needed to cover a
 
 It is really important to use the right units in calculations and convert where required.
 
-The wall measurement is given in metres while the tile measurement is given in cm.
+The Floor measurement is given in metres while the tile measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
@@ -3253,13 +3270,11 @@ $
                         &= \dfrac {5 \ \text{m} \times 6 \ \text{m} } { 20 \ \text{cm} \times 30 \ \text{cm} } \\\\
                         &= \dfrac {5 \times 100  \ \text{cm} \times 6 \times 100 \ \text{cm} } { 20 \ \text{cm} \times 30 \ \text{cm} } \\\\
                         &= \dfrac {5 \times 100 \times 6 \times 100 } { 20  \times 30 } \\\\
-                        &= \dfrac {500 \times 600 } { 600 } \\\\
-                        &= \dfrac {500 \times \cancel{600}} {\cancel{600}} \\\\
+                        &= \dfrac {5 \times 100 \times 2 \times 3 \times 10 \times 10 } { 2 \times 10  \times 3 \times 10 } \\\\
+                        &= \dfrac {500 \times \cancel{2} \times cancel{3} \times {100}} {\cancel{2} \cancel{10} \times \cancel{3} \times \cancel{10}} \\\\
                         &= 500
 \end{aligned}
 $
-
-Number of tiles $= 500$
 
 </div>
 </div>

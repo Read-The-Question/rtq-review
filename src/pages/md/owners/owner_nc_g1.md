@@ -1,10 +1,8 @@
 ---
 slug: "owners/owner-nc-g1"
-title: "Neel Chalke - G1"
-date: 2022-05-20 17:23:14
+title: "Owner - Neel Chalke - G1"
+date: 2022-05-20 18:41:27
 ---
-# Owner - Neel Chalke
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_nc_g1 question'>

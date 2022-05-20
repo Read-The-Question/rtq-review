@@ -1,10 +1,8 @@
 ---
 slug: "reviewers/reviewer-up-g2"
-title: "Uday Pandey - G2"
-date: 2022-05-20 17:23:14
+title: "Reviewer - Uday Pandey - G2"
+date: 2022-05-20 18:41:27
 ---
-# Reviewer - Uday Pandey
-
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_nm_g2 question'>

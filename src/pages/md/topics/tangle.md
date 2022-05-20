@@ -1,7 +1,7 @@
 ---
 slug: "topics/tangle"
-title: "tangle"
-date: 2022-05-20 15:52:56
+title: "Angle"
+date: 2022-05-20 17:23:14
 ---
 # Topic tangle
 

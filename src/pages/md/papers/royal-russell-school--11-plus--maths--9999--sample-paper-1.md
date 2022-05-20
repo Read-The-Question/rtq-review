@@ -1,7 +1,7 @@
 ---
-slug: "papers/royal-russell-school--11-plus--maths--9999--sample-paper-1"
-title: "royal-russell-school--11-plus--maths--9999--sample-paper-1"
-date: 2022-05-20 15:52:56
+slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
+title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
+date: 2022-05-20 17:23:14
 ---
 <div class='paper'>
 <h1>Royal Russell School</h1>

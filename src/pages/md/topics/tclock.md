@@ -1,7 +1,7 @@
 ---
 slug: "topics/tclock"
-title: "tclock"
-date: 2022-05-20 15:52:56
+title: "Clock"
+date: 2022-05-20 17:23:14
 ---
 # Topic tclock
 

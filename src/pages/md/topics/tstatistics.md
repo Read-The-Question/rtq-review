@@ -1,7 +1,7 @@
 ---
 slug: "topics/tstatistics"
-title: "tstatistics"
-date: 2022-05-20 15:52:56
+title: "Statistics"
+date: 2022-05-20 17:23:14
 ---
 # Topic tstatistics
 

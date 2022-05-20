@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-g1"
-title: "owner_bs_g1"
-date: 2022-05-20 15:52:56
+title: "Banoth Sairam - G1"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Banoth Sairam
 

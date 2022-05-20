@@ -28,6 +28,8 @@ const headingStyles = {
 const listStyles = {
   marginBottom: 96,
   paddingLeft: 0,
+  listStyle: "decimal"
+
 }
 const listItemStyles = {
   fontWeight: 300,

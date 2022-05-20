@@ -1,7 +1,7 @@
 ---
-slug: "papers/st-pauls-girls-school--11-plus--maths--2017--sample-paper-2"
-title: "st-pauls-girls-school--11-plus--maths--2017--sample-paper-2"
-date: 2022-05-20 15:52:56
+slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-2"
+title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 2"
+date: 2022-05-20 17:23:14
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>

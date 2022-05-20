@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nm-g1"
-title: "owner_nm_g1"
-date: 2022-05-20 15:52:56
+title: "Neeraj Mani - G1"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Neeraj Mani
 

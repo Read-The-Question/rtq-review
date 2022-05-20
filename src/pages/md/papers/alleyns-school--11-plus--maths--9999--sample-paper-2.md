@@ -1,7 +1,7 @@
 ---
-slug: "papers/alleyns-school--11-plus--maths--9999--sample-paper-2"
-title: "alleyns-school--11-plus--maths--9999--sample-paper-2"
-date: 2022-05-20 15:52:56
+slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-2"
+title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 2"
+date: 2022-05-20 17:23:14
 ---
 <div class='paper'>
 <h1>Alleyn's School</h1>

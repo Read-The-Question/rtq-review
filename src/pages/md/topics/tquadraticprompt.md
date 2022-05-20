@@ -1,7 +1,7 @@
 ---
 slug: "topics/tquadraticprompt"
-title: "tquadraticprompt"
-date: 2022-05-20 15:52:56
+title: "Quadraticprompt"
+date: 2022-05-20 17:23:14
 ---
 # Topic tquadraticprompt
 

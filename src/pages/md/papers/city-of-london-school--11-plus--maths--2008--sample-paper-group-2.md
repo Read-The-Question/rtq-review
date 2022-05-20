@@ -1,7 +1,7 @@
 ---
-slug: "papers/city-of-london-school--11-plus--maths--2008--sample-paper-group-2"
-title: "city-of-london-school--11-plus--maths--2008--sample-paper-group-2"
-date: 2022-05-20 15:52:56
+slug: "papers/city-of-london-school-11-plus-maths-2008-sample-paper-group-2"
+title: "City Of London School - 11 Plus - Maths - 2008 - Sample Paper Group 2"
+date: 2022-05-20 17:23:14
 ---
 <div class='paper'>
 <h1>City of London School</h1>

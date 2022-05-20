@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-up-oldpr"
-title: "owner_up_oldpr"
-date: 2022-05-20 15:52:56
+title: "Uday Pandey - OLDPR"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Uday Pandey
 

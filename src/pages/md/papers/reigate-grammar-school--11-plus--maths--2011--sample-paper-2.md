@@ -1,7 +1,7 @@
 ---
-slug: "papers/reigate-grammar-school--11-plus--maths--2011--sample-paper-2"
-title: "reigate-grammar-school--11-plus--maths--2011--sample-paper-2"
-date: 2022-05-20 15:52:56
+slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
+title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
+date: 2022-05-20 17:23:14
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>

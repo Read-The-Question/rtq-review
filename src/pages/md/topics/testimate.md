@@ -1,7 +1,7 @@
 ---
 slug: "topics/testimate"
-title: "testimate"
-date: 2022-05-20 15:52:56
+title: "Estimate"
+date: 2022-05-20 17:23:14
 ---
 # Topic testimate
 

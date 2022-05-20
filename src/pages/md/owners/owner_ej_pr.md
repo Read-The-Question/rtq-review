@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-pr"
-title: "owner_ej_pr"
-date: 2022-05-20 15:52:56
+title: "Eshudhi Jangid - PR"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Eshudhi Jangid
 

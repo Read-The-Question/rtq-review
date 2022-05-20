@@ -1,7 +1,7 @@
 ---
 slug: "topics/tpercentageadvance"
-title: "tpercentageadvance"
-date: 2022-05-20 15:52:56
+title: "Percentageadvance"
+date: 2022-05-20 17:23:14
 ---
 # Topic tpercentageadvance
 

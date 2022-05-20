@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-pr"
-title: "owner_ak_pr"
-date: 2022-05-20 15:52:56
+title: "Abhay Kandpal - PR"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Abhay Kandpal
 

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-pr"
-title: "owner_ad_pr"
-date: 2022-05-20 15:52:56
+title: "Arun Dalakoti - PR"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Arun Dalakoti
 

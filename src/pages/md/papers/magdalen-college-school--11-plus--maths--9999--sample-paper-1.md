@@ -1,7 +1,7 @@
 ---
-slug: "papers/magdalen-college-school--11-plus--maths--9999--sample-paper-1"
-title: "magdalen-college-school--11-plus--maths--9999--sample-paper-1"
-date: 2022-05-20 15:52:56
+slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
+title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
+date: 2022-05-20 17:23:14
 ---
 <div class='paper'>
 <h1>Magdalen College School</h1>

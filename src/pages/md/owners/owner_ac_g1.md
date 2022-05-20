@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-g1"
-title: "owner_ac_g1"
-date: 2022-05-20 15:52:56
+title: "Chiliveru Aravind - G1"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Chiliveru Aravind
 

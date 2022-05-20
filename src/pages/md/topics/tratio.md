@@ -1,7 +1,7 @@
 ---
 slug: "topics/tratio"
-title: "tratio"
-date: 2022-05-20 15:52:56
+title: "Ratio"
+date: 2022-05-20 17:23:14
 ---
 # Topic tratio
 

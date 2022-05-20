@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ks-g1"
-title: "owner_ks_g1"
-date: 2022-05-20 15:52:56
+title: "Kriti Sharma - G1"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Kriti Sharma
 

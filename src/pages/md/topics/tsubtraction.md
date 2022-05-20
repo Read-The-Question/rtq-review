@@ -1,7 +1,7 @@
 ---
 slug: "topics/tsubtraction"
-title: "tsubtraction"
-date: 2022-05-20 15:52:56
+title: "Subtraction"
+date: 2022-05-20 17:23:14
 ---
 # Topic tsubtraction
 

@@ -1,7 +1,7 @@
 ---
 slug: "topics/tbusstop"
-title: "tbusstop"
-date: 2022-05-20 15:52:56
+title: "Busstop"
+date: 2022-05-20 17:23:14
 ---
 # Topic tbusstop
 

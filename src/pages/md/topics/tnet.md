@@ -1,7 +1,7 @@
 ---
 slug: "topics/tnet"
-title: "tnet"
-date: 2022-05-20 15:52:56
+title: "Net"
+date: 2022-05-20 17:23:14
 ---
 # Topic tnet
 

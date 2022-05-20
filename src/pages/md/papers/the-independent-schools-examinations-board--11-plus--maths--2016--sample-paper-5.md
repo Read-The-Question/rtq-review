@@ -1,7 +1,7 @@
 ---
-slug: "papers/the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5"
-title: "the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5"
-date: 2022-05-20 15:52:56
+slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
+title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
+date: 2022-05-20 17:23:14
 ---
 <div class='paper'>
 <h1>The Independent Schools Examinations Board</h1>

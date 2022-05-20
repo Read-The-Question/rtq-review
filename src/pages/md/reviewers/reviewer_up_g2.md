@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-g2"
-title: "reviewer_up_g2"
-date: 2022-05-20 15:52:56
+title: "Uday Pandey - G2"
+date: 2022-05-20 17:23:14
 ---
 # Reviewer - Uday Pandey
 

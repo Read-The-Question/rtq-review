@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-pr"
-title: "owner_bs_pr"
-date: 2022-05-20 15:52:56
+title: "Banoth Sairam - PR"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Banoth Sairam
 

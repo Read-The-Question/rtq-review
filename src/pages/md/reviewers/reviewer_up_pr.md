@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-pr"
-title: "reviewer_up_pr"
-date: 2022-05-20 15:52:56
+title: "Uday Pandey - PR"
+date: 2022-05-20 17:23:14
 ---
 # Reviewer - Uday Pandey
 

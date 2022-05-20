@@ -1,7 +1,7 @@
 ---
 slug: "topics/tpermutation"
-title: "tpermutation"
-date: 2022-05-20 15:52:56
+title: "Permutation"
+date: 2022-05-20 17:23:14
 ---
 # Topic tpermutation
 

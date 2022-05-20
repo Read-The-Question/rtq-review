@@ -1,7 +1,7 @@
 ---
 slug: "topics/tfakeratio"
-title: "tfakeratio"
-date: 2022-05-20 15:52:56
+title: "Fakeratio"
+date: 2022-05-20 17:23:14
 ---
 # Topic tfakeratio
 

@@ -1,7 +1,7 @@
 ---
 slug: "topics/ttime"
-title: "ttime"
-date: 2022-05-20 15:52:56
+title: "Time"
+date: 2022-05-20 17:23:14
 ---
 # Topic ttime
 

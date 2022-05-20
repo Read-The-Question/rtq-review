@@ -1,7 +1,7 @@
 ---
-slug: "papers/city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2"
-title: "city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2"
-date: 2022-05-20 15:52:56
+slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-2"
+title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 2"
+date: 2022-05-20 17:23:14
 ---
 <div class='paper'>
 <h1>City of London Freemen's School</h1>

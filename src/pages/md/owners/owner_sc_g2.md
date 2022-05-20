@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-g2"
-title: "owner_sc_g2"
-date: 2022-05-20 15:52:56
+title: "Sahil Choudhary - G2"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Sahil Choudhary
 

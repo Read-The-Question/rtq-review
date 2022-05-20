@@ -1,7 +1,7 @@
 ---
 slug: "topics/tgraph"
-title: "tgraph"
-date: 2022-05-20 15:52:56
+title: "Graph"
+date: 2022-05-20 17:23:14
 ---
 # Topic tgraph
 

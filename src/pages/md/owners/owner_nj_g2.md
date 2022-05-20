@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-g2"
-title: "owner_nj_g2"
-date: 2022-05-20 15:52:56
+title: "Nitin Joshi - G2"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Nitin Joshi
 

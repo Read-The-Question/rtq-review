@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-pr"
-title: "owner_nj_pr"
-date: 2022-05-20 15:52:56
+title: "Nitin Joshi - PR"
+date: 2022-05-20 17:23:14
 ---
 # Owner - Nitin Joshi
 

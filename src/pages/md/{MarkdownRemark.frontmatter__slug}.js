@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import { Helmet } from "react-helmet"
-import "../styles/styles.css"
+import "../../styles/styles.css"
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.

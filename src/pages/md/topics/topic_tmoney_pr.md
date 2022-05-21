@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-pr"
 title: "Topic - Money - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -861,7 +861,7 @@ $\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>08B091C3-398E-4C33-9232-9F1C961D0DD6</p>
 </div>
@@ -872,6 +872,9 @@ tmoney
 </li>
 <li>
 tcoin
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -886,21 +889,17 @@ How much more does she need to reach $\pounds 5$?
 <div class='working'>
 
 $
-\begin{aligned}
-\text{Ruby collected}   &= 35 \times 5 \\\\
-                        &= 175\text{p} \\\\ 
-                        &= \pounds \dfrac {175} {100} \\\\
-                        &= \pounds 1.75
-\end{aligned}
-$
-
-She need to collect,
-
-$
-\begin{aligned}
-&= 5 - 1.75 \\\\
-&= \pounds 3.25
-\end{aligned}
+\begin {aligned}
+\text {Amount collected}    &= 35 \times 5 \text {p} \\\\
+                            &= 35 \times \pounds \dfrac {5} {100} \\\\
+                            &= \dfrac {5 \times 35} {100} \\\\
+                            &= \dfrac {5 \times 5 \times 7} {5 \times 5 \times 4} \\\\
+                            &= \dfrac {\cancel {5} \times \cancel {5} \times 7} {\cancel {5} \times \cancel {5} \times 4} \\\\
+                            &= \dfrac {7} {4} \\\\
+                            &= \pounds 1.75 \\\\
+\text {Amount needed}       &= \pounds 5 - \pounds 1.75 \\\\
+                            &= \pounds 3.25
+\end {aligned}
 $
 
 </div>
@@ -917,12 +916,12 @@ $\pounds 3.25$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>98E30B30-DDF8-4611-BFF5-108696A59D3F</p>
 </div>
@@ -942,18 +941,17 @@ What change will I have from a $\pounds 5$ note?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
-
-Let's convert the total amount into pence.
-
 $
-\begin{aligned}
-\text{Change left}  &= 500 - (45 + 90) \\\\
-                    &= 500 - 135 \\\\
-                    &= 365 \\\\
-                    &= \pounds \dfrac {365} {100} \\\\
-                    &= \pounds 3.65
-\end{aligned}
+\begin {aligned}
+\text {Total cost}      &= 2 \times \text {Cost of a cake} + \text {Cost of a drink} \\\\
+                        &= 2 \times 45 \text {p} + 90 \text {p} \\\\
+                        &= 90 + 90 \\\\
+                        &= 180 \text {p} \\\\
+\text {Change left}     &= \pounds 5 - 180 \text {p} \\\\
+                        &= \pounds 5 - \pounds \dfrac {180} {100} \\\\
+                        &= 5 - 1.80 \\\\
+                        &= \pounds 3.20
+\end {aligned}
 $
 
 </div>
@@ -961,7 +959,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$/pounds3.65$
+$\pounds 3.20$
 
 </div>
 </div>
@@ -970,7 +968,7 @@ $/pounds3.65$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -9998,7 +9996,8 @@ $
 7 \ \text{tickets}    &=  \pounds58.10 \\\\
 1 \times 7 \ \text{tickets}    &=  \pounds 58.10  \\\\
 1 \  \text{ticket}  &= \dfrac{58.10}{7} \\\\
-1 \  \text{ticket}  &= \dfrac{\cancel{58.10} \  \ 8.30}{\cancel{7}} \\\\
+&=  \dfrac{7 \times 8.30 }{7} \\\\
+&= \dfrac{\cancel{7} \times  8.30}{\cancel{7}} \\\\
 1 \  \text{ticket}  &=\pounds 8.30
 \end{aligned}
 $
@@ -10106,9 +10105,10 @@ She only has $\pounds 3.20$. How much does she need to borrow to buy these thing
 <div class='workings'>
 <div class='working'>
 
+Money (to borrow) = Money(required) - Money (in hand) 
+
 $ 
 \begin{aligned}
-\text{Money (to borrow)} &= \text{Money(required)} - \text{Money (in hand)} \\\\
 &=   4.72 - 3.20 \\\\ 
 &=   \pounds 1.52 
 \end{aligned}
@@ -11298,14 +11298,13 @@ It is really important to use the right units in calculations and convert where 
 
 As per the question
 
-Cost of each pen $&= 35 \text{p}$
-
-Cost of $25$ pen $&= 25 \times$ The Cost of each pen.
-
 $
 \begin{aligned}
+\text{Cost of each pen} &= 35 \text{p} \\\\
+\text{Cost o}f 25 \text{pen} &= 25 \times \text{The Cost of each pen} \\\\
 &= 25 \times 35 \\\\
-&= 875 \text{p}
+&= 875  \text{p} \\\\
+&= \dfrac{875}{100} \\\\
 &= \pounds 8.75
 \end{aligned}
 $
@@ -11963,58 +11962,6 @@ $\pounds 0.95$
 
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>9777149C-D9F9-44DB-9A03-FA447A5348FA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $7$ tennis lessons cost $\pounds 167.65$ what is the cost of $1$ lesson?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question
-
-$
-\begin{aligned}
-\text{Cost of 1 lesson} &= \dfrac {167.65} {7} \\\\
-                        &= \dfrac {23.95 \times 7} {7} \\\\
-                        &= \dfrac {23.95 \times \cancel {7} } {\cancel {7} } \\\\
-                        &= \pounds 23.95
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds23.95$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>

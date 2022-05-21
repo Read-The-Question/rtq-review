@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <div class='paper'>
 <h1>St George's College</h1>
@@ -1513,7 +1513,7 @@ It is really important to use the right units in calculations and convert where 
 
 NO of sheets per ream = $500$
 
-mass of one sheet = $4.75 \text {grams}$
+mass of one sheet = $4.75 \  \text {grams}$
 
 As per the question,
 
@@ -1521,7 +1521,7 @@ $
 \begin{aligned}
 \text{Let mass be a for 500 number of sheets} \\
 \text{then}\ \ &   a = 500 \times 4.75 \\
-               &   a = 2375 \text{grams}
+               &   a = 2375 \  \text{grams}
 \end{aligned}
 $
 

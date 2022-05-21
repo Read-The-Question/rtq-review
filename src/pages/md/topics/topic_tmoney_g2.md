@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-g2"
 title: "Topic - Money - G2"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 17:59:23
 ---
 <ul class='question default-decimal'>
 <li>

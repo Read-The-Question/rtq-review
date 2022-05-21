@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-g1"
 title: "Topic - Profit - G1"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 17:59:23
 ---
 <ul class='question default-decimal'>
 <li>

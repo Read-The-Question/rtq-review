@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-all"
 title: "Topic - Perimeter - ALL"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -150,6 +150,83 @@ Length $= 9 \ \text{cm}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_red question'>
+<div class='uuid'>
+<p>5956440A-E503-4587-BFE7-D009144AE8EE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mr Bevestock has a square garden which is $81 \ \text{m}^2$.
+
+He decides to put a post every $1 \ \text{m}$ around the perimeter of his garden from which to hang decorations.
+
+How many posts will he need?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's the side of the square garden (in $\text{m}$) $= s$
+
+$\text{Area of square} = \text{side} \times \text{side}$
+
+As per the question,
+
+$
+\begin{aligned}
+s \times s      &= 81 \\\\
+s^2             &= 81 \\\\
+s               &= \sqrt{81} \\\\
+s               &= 9  \ \text{m}
+\end{aligned}
+$
+
+** INFER_DESCRIPTION_STARTS The $4$ corners will be counted twice, so ensure we account for that in the final calculation INFER_DESCRIPTION_ENDS **
+
+*Note: The $4$ corners will be counted twice, so ensure we account for that in the final calculation.*
+
+$
+\begin{aligned}
+\text{Tree height after second year}    &= 4 \times 9 - 4 \\\\
+                                        &= 36 - 4 \\\\
+                                        &= 32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_red</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>C0C8BAF7-9385-479F-9E5D-1E52D264A4D0</p>
@@ -199,9 +276,9 @@ $56 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_g1 question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>989BC4ED-FC98-4031-8AD1-C44D79F2C16F</p>
+<p>4DF761EB-54B2-4BB8-9796-883FC674AA98</p>
 </div>
 <div class='topics'>
 <ul>
@@ -211,55 +288,279 @@ tarea
 <li>
 tperimeter
 </li>
+<li>
+ttable
+</li>
 </ul>
 </div>
 <div class='question question'>
 
-Find the area of a square whose perimeter is $20 \ \text{cm}$.
+%empty%
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the side of the square (in $\text{cm}$) $= a$
+TODOWORKING
 
-As per the question,
+</div>
+<div class='working'>
 
-$
-\begin{aligned}
-4 \times a  &= 20 \\\\
-a           &= \dfrac {20} {4}  \\\\
-a           &= \dfrac {5 \times 4} {4}  \\\\
-a           &= \dfrac {5 \times \cancel {4}} {\cancel {4}}  \\\\
-a           &= 5 \ \text{cm}
-\end{aligned}
-$
-
-Now, let's find the area of the square.
-
-$
-\begin{aligned}
-\text{Area}     &= a \times a \\\\
-                &= 5 \times 5 \\\\
-                &= 25 \ \text{cm}^{2}
-\end{aligned}
-$
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$25 \ \text{cm}^{2}$
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I have a square piece of paper.
+
+The diagram shows information about this square labelled A.
+
+![missing image](/papers/missing_image.svg)
+
+I fold square $A$ **in half** to make rectangle $B$.
+
+![missing image](/papers/missing_image.svg)
+
+Then I fold rectangle $B$ **in half** to make square $C$.
+
+![missing image](/papers/missing_image.svg)
+
+Complete the table below to show the area and perimeter of each shape.
+
+![missing table](/papers/missing_table.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
 
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_g1</p>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>01001AB9-C745-43C6-A753-08240EF93473</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The **perimeter** of a regular hexagon is $42a + 18$.
+
+Write an expression for the length of **one** of its sides.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The **perimeter** of a different regular polygon is $75b - 20$
+
+The length of one of its sides is $15b - 4$
+
+How many sides does this regular polygon have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The **perimeter** of a square is $4(c - 9)$
+
+Find the perimeter of the square when $c = 15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -327,6 +628,784 @@ $24 \text{ cm}$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3D993C0F-FDE8-4BCE-8076-8B7738C8C533</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a shape made from ten square tiles. 
+
+Which labelled tile ($A, B, C, D$ or $E$) could be removed without changing the perimeter of the shape? 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A531AD7A-13E5-4A2C-A00F-6524D0467FF2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is some information about three different squares:
+
+The **area** of Vikram's square is $64 \ \text{cm}^2$. 
+
+The **length of a side** of Kim's square is $64 \ \text{cm}$.
+
+The **perimeter** of Ali's square is $64 \ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Who has the largest square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Who has the smallest square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>F97DEC41-DBB1-48C5-B63C-C00665B2D281</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Yusuf has $6$ equilateral triangles, each with a perimeter of $12 \ \text{cm}$.
+
+He fits them together to make a regular hexagon.
+
+What is the hexagon's perimeter?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Shreya has $4$ equilateral triangles, each with a perimeter of $12 \ \text{cm}$.
+
+She fits them together to make a  larger equilateral triangle.
+
+What is the perimeter of the larger equilateral triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6B229993-36BF-4B9F-BC5B-D9C358E8552C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a cross made from square tiles. 
+
+The area of the cross is $245 \ \text{cm}^2$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of one tile?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the length of one side of a tile?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of the cross?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>0BAEBC7B-30E9-4C81-8BF3-35BE82D1301D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangular garden is surrounded by a path of a fixed width.
+
+The perimeter of the garden is $24 \ \text{metres}$ **less** than the 
+distance along the outside edge of the path.
+
+What is the width of the path?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>448F8753-26E0-4337-98B2-743761686DBC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A square has a perimeter of $20 \ \text{cm}$. 
+
+What is the square's area?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A rectangle has a perimeter of $20 \ \text{cm}$. 
+
+Its length is $2 \ \text{cm}$ longer than its width. 
+
+What is the rectangle's area?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Another rectangle has a perimeter of $20 \ \text{cm}$. 
+
+Its length is $4$ times longer than its width. 
+
+What is the rectangle's area?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Another square has an area of $81 \ \text{cm}^2$. 
+
+What is the square's perimeter?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -443,6 +1522,414 @@ $54 \ \text{m}$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>52405CEB-6BF5-4540-B66B-59B339D30F72</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The coordinates of the 4 vertices of a quadrilateral are:
+
+$(a - 3, b) \ (a, b) \ (a - 3, b + 2) \ (a, b + 2)$ 
+
+What shape is this?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A square of side length $3 \ \text{cm}$ is divided into three
+rectangles of equal size.
+
+The middle rectangle is removed and replaced on the side of the 
+original square to form an octagon as shown.
+
+How many times bigger is the perimeter of the octagon than 
+the perimeter of the original square?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A1648258-BCE0-4F45-917A-44E8174AAC05</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the perimeter and the area of each of the following shapes, in which all the angles are rightangles, but which are
+**NOT DRAWN TO SCALE** :
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D3B97E1A-3FF1-4173-803D-C9E78AA7A6F1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use your ruler to measure the length and width of this rectangle *8as accurately as you can**.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use your answers to work out the **erimeter** of the rectangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -668,134 +2155,6 @@ $40 \ \text {cm} ^ 2$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>80790EEF-2304-4498-BB95-EF177366DBC9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the perimeter and area of the following shape:
-
-![missing image](/papers/missing_image.svg)
-
--  P = $9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
--  P = $14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
--  P = $18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
--  P = $18 \ \text{cm}^2, \ A = 14 \ \text{cm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Perimeter}   &= 2 \times \text {(l + b)}\\\\
-                    &= 2 \times (7 + 2) \\\\
-                    &= 2 \times 9 \\\\
-                    &= 18 \ \text {cm} \\\\
-\text {Area}        &= l \times b \\\\
-                    &= 7 \times 2 \\\\
-                    &= 14 \ \text {cm} ^ 2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$18,14$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>5A5A99FB-F341-46EE-95C4-A97BE92AF7E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the perimeter and area of the following shape:
-
-![missing image](/papers/missing_image.svg)
-
-%format% - P = $9 \ \text{cm}$, A = 14cm2
-%format% - P = $14 \ \text{cm}$, A = 18cm2
-%format% - P = $18 \ \text{cm}$, A = 14cm2
-%format% - P = 18cm2, A = $14 \ \text{cm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Perimeter}                                                   &= 2 \times (l + b) \\\\
-                                                                    &= 2 \times (7 + 2) \\\\
-                                                                    &= 2 \times 9 \\\\
-                                                                    &= 18 \text{cm} \\\\
-\text {Area}                                                        &= \text{l} \times \text {b} \\\\
-                                                                    &= 7 \times 2 \\\\
-                                                                    &= 14 \text{cm} ^ 2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$18,14$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
 </div>
 </div>
 </li>
@@ -1196,6 +2555,221 @@ $48 \ \text {cm} ^ 2$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>87A85138-F437-4970-BA90-ACB105CE6A2A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tsymmetry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The grid shows a variety of shapes: each labelled with a letter.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which shapes have the same area?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which shapes have the same perimeter?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The grid shows a different set of shapes: each labelled with a letter.
+
+![missing image](/papers/missing_image.svg)
+
+Which shape has been rotated to create shape $X$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which shape could have been reflected to create shape $Y$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>366615BC-8C29-4BAC-A992-39C9C243AA0F</p>
@@ -1398,155 +2972,67 @@ $3.6 \ \text {m} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_g1 question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>B40F0224-3A38-441B-8EC1-C720B33CE28F</p>
+<p>E156FCF4-8724-4DC6-AABF-2DABDD73B31C</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
+ttable
+</li>
+<li>
 tperimeter
+</li>
+<li>
+tarea
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-**For questions $\bold{12, 13}$ and $\bold{14}$, use this diagram.**
+Complete the empty boxes in the following table with the missing measurements for the rectangles.
 
-![missing image](/papers/missing_image.svg)
-
-Calculate the perimeter of this triangle
+![missing table](/papers/missing_table.svg)
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+TODOWORKING
 
-As per the diagram,
+</div>
+<div class='working'>
 
-$
-\begin{aligned}
-\text {Perimeter} &= 3 + 4 + 5 \\\\
-                  &= 12 \ \text{cm}
-\end{aligned}
-$
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12 \ \text{cm}$
+TODOANSWER
 
 </div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>B38F91FE-988F-49E4-A160-D55F591DA695</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If each side is $6 \ \text{centimetres}$ long, calculate the perimeter.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Perimeter}   &= 8 \times \text {side} \\\\
-                    &= 8 \times 6 \\\\
-                    &= 48 \ \text {cm} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
 <div class='answer'>
 
-$48 \ \text {cm}$
+TODOANSWER
 
 </div>
 </div>
 
 <div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+<p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g1</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_g1 question'>
+<div class='question_envelope rag_nm_red question'>
 <div class='uuid'>
-<p>8F284311-E84B-46BB-9357-8253847A7DBB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-What is the perimeter of the shape above?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Perimeter}   &= a + b + a + b + a \\\\
-                   &= a + a + a + b + b \\\\
-                   &= 3 a + 2 b
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 a + 2 b$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nm_g1 question'>
-<div class='uuid'>
-<p>A202F7A2-B7E9-47A2-8529-FED0F2ED6E6B</p>
+<p>66E9B7CE-E06F-43D2-94F9-6F0D8DA3D28F</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1556,18 +3042,11 @@ tarea
 <li>
 tperimeter
 </li>
-<li>
-tunitprompt
-</li>
 </ul>
 </div>
 <div class='question question'>
 
-Arafin has four rectangular tiles which he arranges as shown below, leaving a square hole in the middle of the tiles.
-
-![missing image](/papers/missing_image.svg)
-
-The hole in the middle has an area of $400 \ \text{cm}^2$
+%empty%
 
 </div>
 <div class='workings'>
@@ -1593,19 +3072,19 @@ The hole in the middle has an area of $400 \ \text{cm}^2$
 </div>
 <div class='question subquestion'>
 
-Calculate the width of one of the tiles.
+Find the area of rectangle shown below.
+
+![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the width of the tile (in $\text{cm}$) $= w$
-
 $
 \begin{aligned}
-w       &= \sqrt {\text {Area of the hole}} \\\\
-w       &= \sqrt {400} \\\\
-w       &= 20 \ \text{cm}
+\text {Area} &= \text {height} \times {width} \\\\
+             &= 20 \times 60 \\\\
+             &= 1200 \ \text {mm} ^2
 \end{aligned}
 $
 
@@ -1614,7 +3093,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20 \ \text{cm}$
+$1200 \ \text{mm} ^2$
 
 </div>
 </div>
@@ -1629,48 +3108,56 @@ $20 \ \text{cm}$
 </div>
 <div class='question subquestion'>
 
-The area of the four tiles combined is $12$ times as large as the area of the hole in the middle.
+George cuts the rectangle up into an exact number of right-angled triangles, each with sides as shown in the diagram below. 
 
-Calculate the length of one of the tiles.
+![missing image](/papers/missing_image.svg)
+
+Calculate the number of triangles that he cuts from the rectangle.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+The area of the rectangle $=1200 \ \text{mm} ^2$
+
+As per the question, George cuts the rectangle upto an exact number of right-angled triangles.
+
+Let's find the area of a triangle.
+
+Area of triangle $= \dfrac {1} {2} (\text {l} \times \text {w})$
 
 $
 \begin{aligned}
-\text {Area of four rectangular tiles}      &= 12 \times 400 \ \text{cm} ^2 \\\\
-\text {Area of one rectangular tile}        &= \dfrac {12 \times 400} {4} \\\\
-                                            &= \dfrac {12 \times 100 \times 4} {4} \\\\
-                                            &= \dfrac {12 \times 100 \times \cancel {4}} {\cancel {4}} \\\\
-                                            &= 12 \times 100 \\\\
-                                            &= 1200 \ \text {cm} ^2
+&= \dfrac {1} {2} \times 12 \times 5 \\\\
+&= \dfrac {1} {2} \times 60 \\\\
+&= \dfrac {60} {2} \\\\
+&= \dfrac {30 \times 2} {2} \\\\
+&= \dfrac {30 \times \cancel {2}} {\cancel {2}} \\\\
+&= 30 \ \text {mm} ^2
 \end{aligned}
 $
 
-Let the length of the tile (in $\text{cm}$) $= l$
+Let's calculate the no. of triangles that he cuts from the rectangle.
 
-Using the formula for area for a rectangle, we get
+Total no. of triangles $= \dfrac {\text {Area of rectangle}} {\text {Area of triangle}}$
 
 $
 \begin{aligned}
-l \times w      &= 1200 \\\\
-l \times 20     &= 1200 \\\\
-l               &= \dfrac {1200} {20} \\\\
-l               &= \dfrac {60 \times 20} {20} \\\\
-l               &= \dfrac {60 \times \cancel {20}} {\cancel {20}} \\\\
-l               &= 60 \ \text {cm}
+&= \dfrac {1200 \ \text {mm} ^2} {30 \ \text {mm} ^2} \\\\
+&= \dfrac {40 \times 30} {30} \\\\
+&= \dfrac {40 \times \cancel {30}} {\cancel {30}} \\\\
+&= 40
 \end{aligned}
 $
+
+No. of triangles George cuts $= 40$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$60 \ \text {cm}$
+$40$
 
 </div>
 </div>
@@ -1685,42 +3172,74 @@ $60 \ \text {cm}$
 </div>
 <div class='question subquestion'>
 
-Work out the perimeter of one of the tiles, giving your answer **in metres**. 
+Find the combined perimeter of all triangles that have been cut from the rectangle.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the perimeter of the tile (in $\text{cm}$) $= p$
-
-Using the formula for perimeter for a rectangle, we get
+Perimeter of triangle $= \text {Sum of all three sides}$
 
 $
 \begin{aligned}
-p   &= 2 \times (60 + 20) \\\\
-p   &= 2 \times 80 \\\\
-p   &= 160 \ \text {cm}
+&= 12 + 13 + 5 \\\\
+&= 40 \ \text {mm}
 \end{aligned}
 $
 
-$1 \ \text{cm} = \dfrac {1} {100} \text {m}$
+Combined perimeter of triangles $= \text{No. of triangles} \times \text{Perimeter of a triangle}$
 
 $
 \begin{aligned}
-160 \ \text{cm} &= 160 \times \dfrac {1} {100} \text {m} \\\\
-                &= \dfrac {160} {100} \\\\
-                &= 1.6 \text {m}
+&= 40 \times 30 \\\\
+&= 1200 \ \text {mm}
 \end{aligned}
 $
-
-Perimeter of one tile $= 1.6 \text {m}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1.6 \ \text {m}$
+$1200 \ \text {mm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Convert this distance from milimetres into meters.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \text {m}                                &= 1000 \ \text {mm} \\\\
+\dfrac {1} {1000} \text {m}                &= 1 \ \text {mm} \\\\
+\dfrac {1} {1000} \times 1200              &= 1 \times 1200 \\\\
+\dfrac {1200}{1000}                        &= 1200 \\\\
+\dfrac {12 \cancel {00}} {10 \cancel {00}} &= 1200 \\\\
+\dfrac {12} {10}                           &= 1200 \\\\
+1.2 \text {m}                              &= 1200 \ \text {mm} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.2 \text {m}$
 
 </div>
 </div>
@@ -1729,17 +3248,17 @@ $1.6 \ \text {m}$
 </li>
 </ul>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
 </div>
 <div class='rag'>
-<p>rag_nm_g1</p>
+<p>rag_nm_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_g1 question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>59ACA68F-2784-4A15-88AD-80DE61754F35</p>
+<p>5743D96D-D40B-4E87-8774-99FCA17BCEB5</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1749,11 +3268,15 @@ tarea
 <li>
 tperimeter
 </li>
+<li>
+tinfer
+</li>
 </ul>
 </div>
 <div class='question question'>
 
-A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
+The diagram shows a plan of the rectangular garden of local celebrity Louis Cowell-Cole, 
+with an L-shaped fish pond in the middle. The dimensions of the garden and the pond are shown below.
 
 ![missing image](/papers/missing_image.svg) 
 
@@ -1761,14 +3284,24 @@ A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 <div class='workings'>
 <div class='working'>
 
-%empty%
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
@@ -1781,29 +3314,30 @@ A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 </div>
 <div class='question subquestion'>
 
-Write down a formula for the perimeter of the rectangle in terms of $w$
-and $h$.
+Work out the area of the fish pond.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Perimeter of rectangle $=$ Sum of all sides of the rectangle
+TODOWORKING
 
-$
-\begin{aligned}
-&= \text {h} + \text {w} + \text {h} + \text {w} \\\\
-&= 2 \text {h} + 2 \text {w} \\\\
-&= 2 (h + w) \\\\
-\end{aligned}
-$
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2 (h + w)$
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
@@ -1818,34 +3352,155 @@ $2 (h + w)$
 </div>
 <div class='question subquestion'>
 
-The area of the rectangle is $55 \ \text{cm}^2$ and both $w$ and $h$ are prime numbers.
-
-Calculate the perimeter of the rectangle.
+Work out the area of the lawn.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Factors of $55 = 1, 5, 11, 55$
+TODOWORKING
 
-$5$ and $11$ are prime numbers.
+</div>
+<div class='working'>
 
-Perimeter $= 2 \text{(height + width)}$
-
-$
-\begin {aligned}
-&= 2 \times (5 + 11) \\\\
-&= 2 \times 16 \\\\
-&= 32 \ \text {cm}
-\end{aligned}
-$
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$32 \ \text {cm}$
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Louis wants to put a stone path around the edge of the garden, just **inside** the existing perimeter fence. 
+Each paving slab is a square with sides $1 \ \text{metre}$.
+
+Work out how many paving slabs are needed to complete this path.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Louis hires a builder to lay the path. The builder charges $\pounds 8$ per hour basic labour for the job, and then $\pounds 1.50$ per slab he lays.
+
+If he takes $3 \dfrac{1}{2}$ hours to finish the job, work out his overall fee.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Louis then decides to plant a row of bushes around the inside of the stone path. Each bush is to be planted $25 \ \text{cm}$ from 
+the edge of the path, and  $50 \ \text{cm}$m from its neighbouring bushes. The diagram below displays how this might look near a 
+corner of the garden.
+
+![missing image](/papers/missing_image.svg)
+
+Calculate how many bushes are required to complete this in total.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
@@ -1854,20 +3509,23 @@ $32 \ \text {cm}$
 </li>
 </ul>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_nm_g1</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_g1 question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>BDFE7C42-E5DA-4E12-8BA2-EE31FFE0FA8B</p>
+<p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tarea
+</li>
 <li>
 tperimeter
 </li>
@@ -1875,9 +3533,9 @@ tperimeter
 </div>
 <div class='question question'>
 
-Work out the perimeter of this shape. 
+Work out the area and perimeter of this shape. 
 
-Note: all angles are right angles but the diagram has not been drawn to scale. 
+Note: all angles are right angles.
 
 ![missing image](/papers/missing_image.svg)
 
@@ -1885,30 +3543,90 @@ Note: all angles are right angles but the diagram has not been drawn to scale.
 <div class='workings'>
 <div class='working'>
 
-Perimeter of the shape $=$ sum of all sides.
+TODOWORKING
 
-$
-\begin{aligned}
-&= 17 + 11 + 14 + 3 + 6 + 7 \\\\
-&= 58 \ \text {cm}
-\end{aligned}
-$
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$58 \ \text {cm}$
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
 
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-f</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_nm_g1</p>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the area and perimeter of this shape.
+
+Note: all angles are right angles but the diagram has not been drawn to scale.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -2078,9 +3796,123 @@ $2 (h + w)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_g1 question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>97A3E093-B7B6-443D-9FE2-CC20B3E4BA24</p>
+<p>9C1CE4D5-6F89-4AD3-9E52-080E3215A90A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The perimeter of this shape is $40 \ \text{units}$. The sides labelled $x$ are all the same length. Find the length of one of these sides.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_red question'>
+<div class='uuid'>
+<p>FC1EF0DD-4044-4163-A657-DE7690D303D8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A swimming pool has a length that is four times of its width.
+
+The length and width are both multiples of $5$.
+
+The perimeter is less than $150 \ \text{m}$.
+
+How many different widths could it have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>FF3797DE-4165-44A2-8E20-D81444DC08F6</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2094,296 +3926,41 @@ tperimeter
 </div>
 <div class='question question'>
 
-Four rectangles each of length $27 \ \text{cm}$ and width $13 \ \text{cm}$ are arranged to form the square shape shown below (the diagram is not drawn to scale)
+Krishani draws a rectangle with area $12 \ \text{cm} ^ {2}$ and its sides are whole number lengths. Its perimeter is $14  \ \text{cm}$. 
 
-![missing image](/papers/missing_image.svg)
-
-Find: 
+How long is the **longest** side?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+TODOANSWER
 
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the perimeter of this square shape.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Perimeter of square} &= 4 \times \text{Length of one side} \\\\
-                            &= 4 \times 40 \\\\
-                            &= 160 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$160 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the area of the shaded inner square. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-Length of shaded inner square $=$ Length of big square $- 2 \times$ width of rectangle.
-
-$40 - 2 \times 13 = 14 \ \text{cm}$
-
-$
-\begin{aligned}
-\text {Area of square} &= \text {Length} ^2 \\\\
-                       &= 14^2 \\\\
-                       &= 196 \ \text {cm} ^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$196 \ \text {cm} ^2$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-h</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>A4235F04-280E-476A-BD32-2553DE1134CA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgeometry
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This shape is made up of $3$ identical rectangles.
-
-![missing image](/papers/missing_image.svg)
-
-What is the perimeter of the shape?
-
--  $50 \ \text{m}$
--  $66 \ \text{m}$
--  $72 \ \text{m}$
--  $54 \ \text{m}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know, perimeter of a rectangle is $2(\text{Length} + \text{Width})$
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text{Perimeter of the shape}                  &= \text{Perimeter of 3 rectangles} - \text{4 Overlapping width} \\\\
-                                               &= 3 \times 2(8 + 3) - 4 \times 3 \\\\
-                                               &= 3 \times 2 \times 11 - 12 \\\\
-                                               &= 3 \times 22 - 12 \\\\
-                                               &= 66 - 12 \\\\
-                                               &= 54 \ \text{m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
 </div>
 <div class='answer'>
 
-$54 \ \text{m}$
+TODOANSWER
 
 </div>
 </div>
 
 <div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>DF8291DD-BFBC-4F7B-A1AB-30A8DDB08EFF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When $x = 1.5$ what is the value of the **perimeter** of the triangular area?
-![missing image](/papers/missing_image.svg)
-
-- $12$
-- $12.5$
-- $13$
-- $13.5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Perimeter of triangle}                   &= \text{Sum of all sides} \\\\
-                                               &= 3(x +1) + 2(x - 2) + 4x \\\\
-                                               &= 3(1.5 +1) + 2(1.5 - 2) + 4 \times 1.5 \\\\
-                                               &= 3 \times 2.5 + 2 \times (-0.5) + 6 \\\\
-                                               &= 7.5 - 1 + 6 \\\\
-                                               &= 6.5 + 6 \\\\
-                                               &= 12.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
-<div class='answer'>
-
-$12.5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nm_g1 question'>
-<div class='uuid'>
-<p>AA38A94F-9954-4B0A-859F-8177A118F2D7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Safiya draws a rectangle.
-
-She then adds $10 \ \text{cm}$ to each side.
-
-What has the perimeter increased by? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length $= l$.
-
-Let the width $= w$.
-
-As per the question,
-
-$
-\begin{aligned}
-\text {perimeter of rectangle}  &= 2 \times (l + w) \\\\
-                                &= 2 \times (l + 10 + w + 10) \\\\
-                                &= 2 \times (l + w + 20) \\\\
-                                &= 2 \times (l + w) + 40
-\end{aligned}
-$
-
-The perimeter is increased by $40$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \ \text {cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -2450,58 +4027,6 @@ $60 \ \text {cm}$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>1648937A-75AE-4330-9807-B4EC2425A3AC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{perimeter}                                            &= 9 + 4 + 7 + 6 + 2 + 10 \\\\
-                                                            &= 38 \\\\
-\text{area}                                                 &= (7 \times 4) + (2 \times 10) \\\\ 
-                                                            &= 28 + 20 \\\\
-                                                            &= 48
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$38cm, 48cm ^2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
 </div>
 </div>
 </li>
@@ -3053,6 +4578,197 @@ $12.90 \text {m}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6F5EEA8B-7879-4A6D-8E0E-5A0F1D927C2D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the area of this shape.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the perimeter of the shape.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_amber question'>
+<div class='uuid'>
+<p>BA88FA64-47CE-4CD6-8AA6-EEF0E91DC969</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the perimeter of the shape below? **[Diagram not to scale]**
+
+![missing image](/papers/missing_image.svg) 
+
+A: $36\ \text{cm}$ 
+
+B: $29\ \text{cm}$ 
+
+C: $26\ \text{cm}$ 
+
+D: $18\ \text{cm}$ 
+
+E: $\text{More information needed}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Perimeter of the shaded region} &= \text {Perimeter of first rectangle} + \text {Perimeter of second rectangle} \\\\
+                                       &= 2 \times (\text {length1} + \text {width1}) + 2 \times (\text {length2} + \text {width2}) \\\\
+                                       
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_amber</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>F39DD2AD-6A07-4797-A7BC-FA6F904C2A63</p>
@@ -3100,9 +4816,9 @@ $67 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_g1 question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>6F014D26-2CA6-44D6-B3C8-62FC95F45D0C</p>
+<p>CACA0E9B-E2D2-4542-A962-33B957140ABB</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3116,20 +4832,30 @@ tperimeter
 </div>
 <div class='question question'>
 
-A square has a perimeter of $20\ \text{cm}$.
+%empty%
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
@@ -3142,32 +4868,147 @@ A square has a perimeter of $20\ \text{cm}$.
 </div>
 <div class='question subquestion'>
 
-Find the length of the side of the square.
+Measure the dimensions of this rectangle giving your answers to the nearest whole centimetre.
+
+![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the side of the square $=a$
+TODOWORKING
 
-$\text{Perimeter} = 4 \times \text{side})$
+</div>
+<div class='working'>
 
-$
-\begin{aligned}
-20                 &= 4 \times \text {a} \\\\
-4 a                &= 20 \\\\
-\text{a}           &= \dfrac {20} {4} \\\\
-\text{a}           &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
-\text{a}           &= 5 \ \text {cm}
-\end{aligned}
-$
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5 \ \text {cm}$
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+length _____________cm
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+breadth ____________cm
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using these answers, calculate the perimeter of the rectangle above.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
@@ -3182,27 +5023,30 @@ $5 \ \text {cm}$
 </div>
 <div class='question subquestion'>
 
-Calculate the $\text{AREA}$ of the square.
+Calculate the area of the rectangle above. Write down the units of your answer.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{side} \times \text{side}$
+TODOWORKING
 
-$
-\begin{aligned}
-\text{Area}  &= 5 \times 5 \\\\
-             &= 25 \ \text {cm}^2
-\end{aligned}
-$
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$25 \ \text {cm}^2$
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
@@ -3211,10 +5055,10 @@ $25 \ \text {cm}^2$
 </li>
 </ul>
 <div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g1</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -3401,9 +5245,320 @@ $24 \text {cm}, \ 30 \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_g1 question'>
+<div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
-<p>FB0BA478-C8E7-46D4-B41D-FC926DEEE733</p>
+<p>D5857443-F743-4F2E-9478-B90894BA3122</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What are the length and width of a rectangle:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+whose perimeter is $48 \ \text{cm}$ and whose width is one half of its length?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of rectangle $=a$
+
+As per the question,
+
+Width $= \dfrac {1} {2} \times a$
+
+$
+\begin{aligned}
+\text {Perimeter} &= 2 \times (\text {length} + \text {width}) \\\\
+48                &= 2 \times (a + \dfrac {1} {2} \times a) \\\\
+48                &= 2 \times (a + \dfrac {a} {2}) \\\\
+48                &= 2 \times (\dfrac {a \times 2} {1 \times 2} + \dfrac {a} {2}) \\\\
+48                &= 2 \times (\dfrac {2 a} {2} + \dfrac {a} {2}) \\\\
+48                &= 2 \times \dfrac {2 a + a} {2} \\\\
+48                &= \dfrac {2 \times (3 a)} {2} \\\\
+48                &= \dfrac {\cancel {2} \times (3 a)} {\cancel {2}} \\\\
+3 a               &= 48 \\\\
+a                 &= \dfrac {48} {3} \\\\
+a                 &= \dfrac {16 \times 3} {3} \\\\
+a                 &= \dfrac {16 \times \cancel {3}} {\cancel {3}} \\\\
+a                 &= 16 \text { cm}
+\end{aligned}
+
+Length $=16 \text{ cm}$
+
+Width $=8 \text{ cm}$
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \text{ cm}, \ 8 \text{ cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+whose area is $48 \ \text{cm}^2$, perimeter is $32 \ \text{cm}$ and length is greater than width?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+whose area is $72 \ \text{cm}^2$, and width is twice its length?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of rectangle $=a$
+
+As per the question,
+
+Width $= 2 \times a$
+
+$
+\begin{aligned}
+\text {Area} &= \text {length} \times \text {width} \\\\
+72           &= a \times 2 a \\\\
+2 a^2        &= 72 \\\\
+a^2          &= \dfrac {72} {2} \\\\
+a^2          &= \dfrac {36 \times 2} {2} \\\\
+a^2          &= \dfrac {36 \times \cancel {2}} {\cancel {2}} \\\\
+a^2          &= 36 \\\\
+a            &= \sqrt 36 \\\\
+a            &= 6 \text { cm}
+\end{aligned}
+
+Length $=6 \text{ cm}$
+
+Width $=12 \text{ cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \text{ cm}, \ 12 \text{ cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B65AD6E5-5060-46ED-9C4A-F6B759ED1737</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Put a cross in the shape with the largest perimeter. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Put a ring around the shape with the smallest area.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_amber question'>
+<div class='uuid'>
+<p>89E47B93-00E0-4CFB-BD8B-1C27D2333057</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3414,37 +5569,22 @@ tperimeter
 </div>
 <div class='question question'>
 
-The diagram shows a rectangle. 
+A rectangle has a length of $50 \ \text{mm}$ and has the same area as a square with side $70 \ \text{mm}$.
 
-![missing image](/papers/missing_image.svg)
-
-The length of the rectangle is $2n + 1$. 
-
-The width of the rectangle is $3n - 9$. 
-
-Write down an expression for the perimeter of the rectangle. **Fully simplify your answer**.
+Calculate the perimeter of the rectangle.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-\text{Perimeter} &= 2 \times (\text{length} + \text{width})
 
-$
-\begin{aligned}
-\text {Perimeter of the rectangle} &= 2 \times ((2 n + 1) + (3 n - 9)) \\\\
-                                   &= 2 \times (2 n + 3n + 1 - 9) \\\\
-                                   &= 2 \times (5 n - 8) \\\\
-                                   &= 10 n - 16
-\end{aligned}
-$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10 n - 16$
+TODOANSWER
 
 </div>
 </div>
@@ -3453,64 +5593,7 @@ $10 n - 16$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>7EFE6F8B-568B-4697-AAD0-42218DA1A407</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The perimeter of a rectangle is $22 \ \text{cm}$. One of the sides has length $8 \ \text{cm}$. 
-Calculate the lengths of the other three sides.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Since opposite sides of a rectangle are equal so one of the side is of 8cm.
-
-$
-\begin{aligned}
-\text {Perimeter of rectangle}     &= 22 \\\\
-2 \times \text {(length + width)}  &= 22 \\\\
-2 \times (8 + \text {width})       &= 22 \\\\
-16 + 2 \times \text {width}        &= 22 \\\\
-2 \times \text {width}             &= 22 - 16 \\\\
-2 \times \text {width}             &= 6 \\\\
-\text {width}                      &= \dfrac {6} {2} \\\\
-\text {width}                      &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
-\text {width}                      &= 3
-\end{aligned}
-$
-
-Other three sides of rectangle are 3cm, 3cm, 8cm.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {3cm, \ 3cm, \ 8cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
+<p>rag_ad_amber</p>
 </div>
 </div>
 </li>
@@ -3563,289 +5646,149 @@ $4x + 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ks_g1 question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>A9164CFF-D274-477E-B9D2-26D22F572507</p>
+<p>554242DD-BFE9-4776-B2F0-63CA47327437</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tperimeter
 </li>
-<li>
-tarea
-</li>
 </ul>
 </div>
 <div class='question question'>
 
-The area of a square is $0.25 \ \text{m}^2$. What is the perimeter of the square, in metres? 
+The shape below is made up of square tiles. Which of tiles A, B, C, D or E could be removed so that the perimeter remained the same? Circle your answer.
+
+![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-l \times l                                              &= 0.25 \\\\
-l ^ 2                                                   &= 0.25 \\\\
-l                                                       &= \sqrt(0.25) \\\\
-l                                                       &= 0.5 \\\\
-\text{perimeter}                                        &= 4 \times l \\\\
-                                                        &= 4 \times 0.25 \\\\
-                                                        &= 1
-\end{aligned}
-$
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1$
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
 
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-6</p>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ks_g1</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ks_g1 question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>A8B52462-A833-4D1A-AD6D-8D8F5E26916D</p>
+<p>CFFB48B6-CD5A-478C-AD75-5E413E721EF1</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tperimeter
 </li>
-<li>
-talgebra
-</li>
-<li>
-tgeometry
-</li>
 </ul>
 </div>
 <div class='question question'>
 
-*You should solve the following questions by defining an unknown, forming an equation and solving it using an algebraic method*.
+Work out the perimeter of the following shape.
+
+**All the interior angles are right angles**.
+
+The shape is not drawn accurately.
+
+![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+TODOANSWER
 
 </div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Five times a number is eight less than three times the number.
-
-Find the number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $=x$
-
-As per the the question,
-
-$
-\begin{aligned}
-5x + 8                                           &= 3x \\\\
-5x - 3x                                          &= -2 \\\\
-x                                                &= -1                                            
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
 <div class='answer'>
 
-$-1$
+TODOANSWER
 
 </div>
 </div>
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-John thought of a number. He subtracted ten and then divided by three.
-
-The result was the same as when multiplying the original number by two.
-
-What number did John think of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $=x$
-
-As per the the question,
-
-$
-\begin{aligned}
-(x - 10) \div 3                                                &= 2x \\\\
-x- 10                                                          &= 6x \\\\
-x - 6x                                                         &= 10 \\\\
--5x                                                            &= 10 \\\\
-x                                                              &= 10 \div -2 \\\\
-x                                                              &= -5 \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The width of a rectangle is four times its height. 
-
-The perimeter is $12 \ \text{cm}$.
-
-Find the dimensions of the rectangle.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-width                                 &= 4 \times height \\\\
-2 (width + height)                    &= 12 \\\\
-2 (4 \times height + height)          &= 12 \\\\
-5 \times height                       &= 6 \\\\
-height                                &= 6 /div 5 \\\\
-                                      &= 1.2 \\\\
-width                                 &= 4 \times 1.2 \\\\
-                                      &= 4.8
-
-\end{aligned}
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.2,4.8$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ks_g1</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ks_g1 question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>EE39E7C4-5AC8-49F1-9A96-C9762A697117</p>
+<p>FA51B3C1-BB3F-4D3D-853B-BBD0E1B6A1C5</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-talgebra
-</li>
-<li>
-tarea
+tratio
 </li>
 <li>
 tperimeter
 </li>
-<li>
-tgeometry
-</li>
 </ul>
 </div>
 <div class='question question'>
 
-The perimeter of a rectangle is $14 \ \text{cm}$.
+The ratio of height to width on an old television screen is $3:4$.
 
-If the length of the rectangle is $2 \ \text{cm}$ longer than the width, calculate the **area** of the rectangle. 
+If the height of a television screen was $21 \ \text{cm}$, find the perimeter of the screen.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the breadth of rectangle $= x$
-
-As per the question,
-
 $
 \begin{aligned}
-\text {Length}                                          &= x + 2 \\\\
-2 \times (l + b)                                        &= 14 \\\\
-2 \times(x + x + 2)                                     &= 14 \\\\
-(2x + 2)                                                &= \dfrac {14} {2} \\\\
-(2x + 2)                                                &= \dfrac {7 \times 2} {2} \\\\
-(2x + 2)                                                &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-2x + 2                                                  &= 7 \\\\
-2x                                                      &= 7 - 2 \\\\
-2x                                                      &= 5 \\\\
-x                                                       &= \dfrac {5} {2} \\\\
-\text{length}                                           &= \dfrac {5} {2} + 2 \\\\
-                                                        &= \dfrac {5} {2} + \dfrac {2 \times 2} {1 \times 2} \\\\
-                                                        &= \dfrac {5} {2} + \dfrac {4} {2} \\\\
-                                                        &= \dfrac {5 + 4} {2} \\\\
-                                                        &= \dfrac{9}{2} \\\\
-\text {area}                                            &= \text {l} \times \text {b} \\\\
-                                                        &= \dfrac {5} {2} \times \dfrac {9} {2} \\\\
-                                                        &= \dfrac {5 \times 9} {2 \times 2} \\\\
-                                                        &= \dfrac {45} {4}
+\text{ratio is given as 3 : 4} \\\\
+\text{height}                                       &= 21 \\\\
+\text{width}                                        &= \dfrac{21 \times 4}{3} \\\\
+                                                    &= 7 \times 4 \\\\
+                                                    &= 28 \\\\
+\text{perimeter}                                    &= 2 (l + b) \\\\
+                                                    &= 2 (21 + 28) \\\\
+                                                    &= 2 (49) \\\\
+                                                    &= 98
 \end{aligned}
 $
 
@@ -3854,16 +5797,16 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{45}{4}$
+$98$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
+<p>oundle-school--11-plus--maths--2018--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ks_g1</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -4223,6 +6166,613 @@ $24 \ \text{cm}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the shape to the right is a square, work out the 
+value of $x$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A regular pentagon has the same side length as the square. What is its perimeter?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>32BCA416-0597-405C-BA53-8AFC48C560FA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the area of the triangle (remember to write down the correct units) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the perimeter of the rectangles $\text{p}$ and $\text{q}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>royal-russell-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>DE4B1C8C-7CBB-4A11-A51E-82FF5D2CD770</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+ttable
+</li>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I have a square piece of paper.
+
+The diagram shows information about this square labelled A.
+
+![missing image](/papers/missing_image.svg)
+
+I fold square A **in half** to make rectangle B.
+
+![missing image](/papers/missing_image.svg)
+
+Then I fold rectangle B **in half** to make square C.
+
+![missing image](/papers/missing_image.svg)
+
+Complete the table below to show the area and perimeter of each shape.
+
+|             |      Area      |   Perimeter  |
+|-------------|:--------------:|:------------:|
+| Square A    | $\cdots\ cm^2$ | $\cdots\ cm$ |
+| Rectangle B | $\cdots\ cm^2$ | $\cdots\ cm$ |
+| Square C    | $\cdots\ cm^2$ | $\cdots\ cm$ |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I start again with square A.
+
+![missing image](/papers/missing_image.svg)
+
+Then I fold it **in half** to make triangle D.
+
+![missing image](/papers/missing_image.svg)
+
+What is the **area** of triangle D?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+One of the statements below is true for the **perimeter** of triangle D. Tick the correct one. 
+
+The perimeter is less than $24\, cm$.
+
+The perimeter is $24\, cm$.
+
+The perimeter is greater than $24\, cm$. 
+
+Explain your answer.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>000F26CC-5C2D-4850-8657-54919DE2A725</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This design has one large square and two identical small squares.
+
+![missing image](/papers/missing_image.svg)
+
+Calculate the length of a side of the large square.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>D12205F1-6F25-4231-A122-B2A390DC96CE</p>
@@ -4399,6 +6949,63 @@ $1.96 \text{m}^2$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>954B239D-561E-432E-8792-5E69FD530CC8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square is divided into three congruent rectangles. The middle rectangle is removed and replaced on the side of the original square to form an octagon as shown. 
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg) 
+
+
+What is the ratio of the perimeter of the square to the perimeter of the octagon?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -5297,66 +7904,6 @@ $32 \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
-<div class='uuid'>
-<p>ACDF963B-EB59-486F-8F65-8C816CC51DDB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the area and perimeter of this shape. Give the units with your answer.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Area} &= \text {length} \times \text {width} \\\\
-             &= 9 \times 7 \\\\
-             &= 63 \text {m}^2
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Perimeter} &= 2 \times (\text {length} + \text {width}) \\\\
-                  &= 2 \times (9 + 7) \\\\
-                  &= 2 \times 16 \\\\
-                  &= 32 \text {m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$63 \text{m}^2, 32 \text {m}$ 
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
 <p>C9FC1C48-8736-4864-B73E-9615A9F76F7E</p>
@@ -5470,253 +8017,6 @@ $64$
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_g1 question'>
-<div class='uuid'>
-<p>7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the area of the parallelogram.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{The area of the parallelogram} &= \text{base}  \times \text{height} \\\\
-&=  18 \ \text{cm} \times  12 \ \text{cm} \\\\
-&=  216 \ \text{cm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$216 \ \text{cm}^2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the perimeter of the parallelogram.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{The perimeter of the parallelogram} &= 2 \times( \text{base} +  \text{side} ) \\\\
-&=   2 \times( 18 +  14 ) \\\\
-&=  2 \times 32 \\\\
-&=  64 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$64 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_g1 question'>
-<div class='uuid'>
-<p>DC2F2A73-6A15-47D6-9058-3966F167DE33</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The following grid is made of $1 \ \text{cm}$ squares. 
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the area of the shaded shape?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-The area of the shaded shape $=$ Area of rectangle + $2 \times$ Area of triangle. 
-
-$\text{Area} = \text{length} \times \text{width}$
-
-$
-\begin{aligned}
-\text{Area of rectangle} &= 2 \times 6 \\\\
-&=  12 \ \text{cm}^2
-\end{aligned}
-$
-
-$
-\begin{aligned}
-2 \times \text{(Area of triangle)} &= 2 \times (\dfrac{1}{2} \times 1 \times  6 ) \\\\
-&=  2 \times (\dfrac{1}{2} \times 6) \\\\
-&=  2 \times (\dfrac{6}{2}) \\\\
-&=  \cancel 2 \times (\dfrac{6}{ \cancel 2}) \\\\
-&= 6  \ \text{cm}^2
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{The area of the shaded shape} &=  \text{Area of rectangle} + 2 \times \text{Area of triangle} \\\\
-&= 12 + 6 \\\\
-&=  18 \ \text{cm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18 \ \text{cm}^2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Is the perimeter of the shape $18 \ \text{cm}$, more than $18 \ \text{cm}$, 
-or less than $18 \ \text{cm}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$18 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -5857,6 +8157,127 @@ $36$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A2279230-AADE-4793-B27A-4810B6805DE7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square piece of card has perimeter $28 \ \text{cm}$. 
+Ann cuts the card into two rectangles. 
+The perimeter of one of the rectangles is $16 \ \text{cm}$. 
+What is the  perimeter of the other rectangle?
+
+- $26$
+- $16$
+- $14$
+- $24$
+- $20$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>47EFAF0C-137C-44C4-BF63-3C7AD7B35914</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the diagram shown below, which square could be removed with the 
+perimeter of the shape remaining the same?
+
+![missing image](/papers/missing_image.svg)
+
+- $1$
+- $2$
+- $3$
+- $4$
+- $5$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE</p>
@@ -5884,23 +8305,25 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <div class='workings'>
 <div class='working'>
 
-The area of parallelogram $&= 38 \ \text{cm}^2$
 
-Breadth of parallelogram $&= 4 \ \text{cm}$
+The area of parallelogram $= 38 \ \text{cm}^2$
+
+Breadth of parallelogram $= 4 \ \text{cm}$
 
 Let length of parallelogram be 'a'
 
-Area of parallelogram $&=$ Length $\times$ Breadth.
+Area of parallelogram = Length \times Breadth.
 
-$38 &= 4 \times a$
+$38 = 4 \times$ a
 
-$a &= \dfrac{38}{4}$
+a $= \dfrac{38}{4}$
 
-$a &= \dfrac{4 \times 9.5}{4}$
+a $= \dfrac{4 \times 9.5}{4}$
 
-$a &= \dfrac{\cancel 4 \times 9.5}{\cancel4}$
+a $= \dfrac{\cancel 4 \times 9.5}{\cancel4}$
 
-$a &= 9.5 \ \text{cm}$
+a $= 9.5 \ \text{cm}$
+
 
 </div>
 </div>
@@ -5961,9 +8384,11 @@ As per the question,
 $\text{Perimeter} = 4 \times \text{side})$
 
 $
+\begin{aligned}
 \text{perimeter of square} &= 4 \times (14 + 6) \\\\
 &= 4 \times 20 \\\\
 &= 80 \ \text{cm}^2
+\end{aligned}
 $
 
 </div>
@@ -6084,6 +8509,448 @@ $44 \text { cm}$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C7E86479-B31F-4991-93EC-2154A3C5A2FE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a scale drawing of a rectangular school playground. 
+The distance between consecutive marks shown on the diagram is $25 \ \text{metres}$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the distance along the side $AB$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the perimeter of the playground.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Ginny runs round and round the perimeter of the playground in a clockwise direction. 
+She starts at the bottom left-hand corner labelled A on the diagram. Given that she runs a total distance of $1900 \ \text{m}$, draw a cross on the diagram to show where she finishes her run.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>DFB8F18B-6FCB-4527-8F2A-F126CF63FF3F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Farmer Fred needs to build a rectangular sheep pen.
+
+To save money, he decides to build it against his barn, so that he only needs to have fencing on three sides.
+
+![missing image](/papers/missing_image.svg)
+
+Here is the first plan:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+What length of fence does he need to make this pen?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+What is the area of this pen?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area} &= 8 \times 2 \\\\
+             &= 16\ \text{m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16\ \text{m}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+He decides to buy $15 \ \text{metres}$ of fence. 
+
+Here is his new plan
+
+![missing image](/papers/missing_image.svg)
+
+Find the length of his new pen.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Farmer Fred decides that he would like to build a square pen with his $15 \ \text{metres}$ of fence as shown below:
+
+![missing image](/papers/missing_image.svg)
+
+How long should each side be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Given that $1 \ \text{metre}$ of fence costs $\pounds 12$, 
+find how much it will cost Farmer Fred to buy $15 \ \text{metres}$ of fence.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -6323,6 +9190,381 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>405D4AAD-9D11-4939-A93A-534F1098034F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+Diagram NOT to scale
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the perimeter of the shape above.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find its area.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6855E337-9382-4955-A945-C9309C3BE90F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the area of the following shape which is made from rectangles.
+
+The shape is not drawn to scale.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the perimeter (the length around the **outside**) of the following shape. 
+
+Each small square is $1 \ \text{cm}$ by $1 \ \text{cm}$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>0C434C5A-79A3-42C3-B33C-785D8644C7DA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdraw
+</li>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The shaded shape has an area of $3$ hexagons and a perimeter of $14 \ \text{cm}$.
+
+Draw and shade in another shape which has an area of $4$ hexagons and a perimeter of $14 \ \text{cm}$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>8CFFC8B9-38B4-4B21-8408-CE0D03137FD7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The area of this rectangle is $24 \ \text{cm}^2$. What is its perimeter in cm?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>E7D1BED3-00FC-4923-94CA-88CE3E83BB8C</p>
@@ -6381,6 +9623,737 @@ $252 \ \text{cm} ^ 2$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6B9D5017-DB62-4D8E-872B-43FC3BA5B779</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+<li>
+tperimeter
+</li>
+<li>
+talgebra
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What are the values of $x$ and $y$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimetre of shape?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of the shape?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E4F1979A-9454-4E74-9A1B-1CC9A60608F7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+
+Nine identical squares are glued together to form the figure.
+
+![missing image](/papers/missing_image.svg)
+
+The perimeter of the figure is $160\ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the length of the side of each small square.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the area of each small square.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the area of the whole figure.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_amber question'>
+<div class='uuid'>
+<p>B9806591-4AF3-4EEE-80EA-DE8019E3D4F7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle has an area of $60 \ \text{cm}^2$. Its length is $11\ \text{cm}$ more than its width.
+
+What is the perimeter of the rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of rectangle $=a$
+
+Length $=11 + a$
+
+$
+\begin{aligned}
+\text{Area of the rectangle} &= length \times width \\\\
+60                           &= 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B1CB572A-B70E-480B-A348-9EC3B918B8D0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A small **square** patio is built on a rectangular lawn
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the remaining area of the lawn after the patio has been built?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of the lawn?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9F8D3497-1274-44CF-ACE4-F4D37A3C6FF6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagrams are drawn in cm squares.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which $2$ shapes have the same perimeter?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of shape $B$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2BD02379-91D7-400C-AEDB-388F5CE90A5F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This solid is made of centimetre cubes.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The solid is painted all over, including the base. What is the total area covered?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If it is taken apart and rebuilt into the cube below, how many centimetre cubes are left over?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>DA7A7F2F-2FDE-48A9-BFD2-42146EA2809A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The perimeter of this square is $36 \ \text{cm}$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion number'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the length of one of its sides?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is its area? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -6448,6 +10421,314 @@ $198 \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>35FADD8D-0E00-4135-B26F-D6754FF61BEB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jiggy Score has made $4$ full size copies of this triangle:
+
+He puts his $4$ triangles together to make the shape shown below.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of the shape?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The total area of his shape is $120 \ \text{cm}$²
+
+What is the area of one triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_amber question'>
+<div class='uuid'>
+<p>06F89797-84CD-4FEE-88BD-BC8E9E37331B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Below are some shapes drawn on a centimetre-squared grid.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of shape $E$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Perimeter of shape E} &= 14 \times 1 \\\\
+                            &= 14 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Which $2$ shapes will fit together to form a square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+What is the area of the square formed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which $2$ shapes will fit together to form a rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{C and F}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{C and F}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_amber</p>
 </div>
 </div>
 </li>
@@ -6658,6 +10939,233 @@ $27.2 \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>FBFCC86C-9879-45A4-8C5A-E70A07EBB116</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the area of the shape below, drawn on centimetre-squared paper.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On the centimetre-squared grids below, draw:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+a rectangle with perimeter $10 \ \text{cm}$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+a triangle with area $10 \ \text{cm}^2$
+
+%image
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E2628A71-F043-48AE-9019-A28D3EF75373</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the diagrams below, the square and rectangle have the same perimeter. 
+
+The square has an area of $64 \ \text{cm}^2$.
+
+The length of the rectangle is three times the width of the rectangle.
+
+Work out the length of the rectangle.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -6928,6 +11436,304 @@ $28.4 \ \text {kilometres}$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>DCBFED2B-425F-443D-B12E-0D873ADBA25C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The shape below is made from squares.
+
+![missing image](/papers/missing_image.svg)
+
+The perimeter of the shape is $100 \ \text{centimetres}$.
+
+Work out the area of the shape.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the area of the shape drawn on the centimetre-squared grid below.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3B258700-2792-46BF-9CE4-7A82E84147DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Shapes $A, B, C, D$ and $E$ are drawn on the grid below.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which shape has the smallest area?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which shape has the longest perimeter?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Draw all the lines of symmetry on each shape.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On the grid below, draw a quadrilateral with an area of $10$ squares which has exactly one line of symmetry.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -7291,6 +12097,320 @@ $18 \ \text {stickers}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>FFF55591-FE42-495C-829C-EEEE6AE53E54</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows two squares. The larger square has perimeter $16 \ \text{cm}$.
+
+![missing image](/papers/missing_image.svg)
+
+
+What is the **area** of the smaller, white square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D82964FC-A0B1-4790-AFE3-8F5B70075C0C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdraw
+</li>
+<li>
+ttable
+</li>
+<li>
+tnumber
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a pattern made with small equilateral triangles using centimetre dotted isometric paper.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete pattern $4$ on the isometric paper below.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the table showing the number of lines, dots and small triangles in each pattern.
+
+![missing table](/papers/missing_table.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many small triangles are there in pattern $6$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of pattern $10$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which pattern has $45$ dots?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_oldpr question'>
 <div class='uuid'>
 <p>74DBCD36-37BB-4856-BF34-7C3AA8E7DF0E</p>
@@ -7500,6 +12620,400 @@ $38 \ \text {cm} ^ 2$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B47F258B-B664-46F7-A478-546D5D3A016B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The distance all the way round the outside of my bicycle wheel is known as the circumference. It is about three times the distance across the middle of the wheel, known as the diameter.
+
+![missing image](/papers/missing_image.svg)
+
+So if Andrew has a wheel with diameter $50 \ \text{centimetres}$, its circumference would be about $150 \ \text{cm}$ or $1.5 \ \text{metres}$ and it would take $100$ turns of the wheel to travel a distance of $150 \ \text{m}$ and $1000$ turns to travel $1.5 \ \text{kilometres}$.
+
+Using this approximation that $\bold { \textbf{Circumference} = 3 \times \textbf{diameter} }$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many metres would Andrew travel in $60$ turns of the wheel?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's take the 
+
+Circumference as $c$
+
+Diameter as $d$
+
+$c = 3 \times d$
+
+Let's calculate first the distance travelled with one turn of the wheel.
+
+It's known that 
+
+$
+\begin{aligned}
+100 Turns &= 150 \ \text {m} \\\\
+1 Turn &= \dfrac {150}{100} \\\\
+       &= \dfrac {3}{2} \\\\
+       &= 1.5 \ \text {m} \\\\
+\end{aligned}
+$
+
+So,
+
+$
+\begin{aligned}
+60 \ \text {Turns} &= 60 \times 1.5 \ \text {m} \\\\
+                   &= 6 \times 15\\\\
+                   &= 90  \ \text {m} \\\\
+\end{aligned}
+$
+
+Andrew travels $90  \ \text {m}$ in $60$ turns of the wheel.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90  \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many turns of the wheel would it take him to cover $600 \ \text{m}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Distance travelled per turn of the wheel is $1.5 \ \text {m}$, as per the solution above.
+
+Distance travelled = No. of turns $\times$ circumference
+
+No. of turns $\times 1.5 \ \text {m} =$ Distance travelled
+
+Let's take the number of turns as $x$
+
+$
+\begin{aligned}
+x \times 1.5 &= 600  \\\\
+           x &= 600 \times 1.5 \\\\
+             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
+             &= \dfrac {6000}{15} \\\\
+             &= \dfrac {{\cancel{6000}\raisebox{0.9em}{400}}}{{\cancel{15}\raisebox{-0.9em}{1}}} \\\\
+           x &= 400 \ \text {Turns}\\\\
+\end{aligned}
+$
+
+It would take him $400$ Turns to cover $600 \ \text{m}$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$400$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Andrew enters a road race, the distance for which is $75 \ \text{km}$.
+
+How many turns of his front wheel does this race take?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Distance travelled per turn of the wheel is $1.5 \ \text {m}$
+
+Distance travelled = No. of turns $\times 1.5$
+
+Distance travelled $= 75 \ \text{km \ or} 75000 \ \text{m}$ 
+
+Let's take the number of turns as $x$
+
+$
+\begin{aligned}
+x \times 1.5 &= 75000 \ \text{m}  \\\\
+           x &= 75000 \times 1.5 \\\\
+             &= \dfrac {75000 \times 10}{1.5 \times 10}\\\\
+             &= \dfrac {750000}{15} \\\\
+             &= \dfrac {{\cancel{750000}\raisebox{0.9em}{50000}}}{{\cancel{15}\raisebox{-0.9em}{1}}} \\\\
+           x &= 50000 \ \text {Turns}
+\end{aligned}
+$
+
+It would take him $50000$ Turns to cover $75 \ \text{km}$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Andrew's great-great-grandfather took part in the same race over a hundred years ago, but the large wheel on his penny-farthing bicycle was $2 \ \text{metres}$ across.
+
+How many turns of this large wheel were required to complete the race?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Diameter of wheel $d = 2 \ \text{metres}$
+
+Circumference $c$as
+
+$\quad = 3 \times d$
+
+$\quad = 3 \times 2$
+
+$\quad = 6 \ \text{metres}$
+
+Distance travelled $= 75 \ \text{km \ or} 75000 \ \text{m}$ 
+
+Distance travelled = No. of turns $\times$ circumference
+
+Or,
+
+No. of turns = \dfrac {Distance travelled}{circumference}
+
+Let's take the No. of turns as $x$
+
+Let's substitute
+
+$
+\begin{aligned}
+x  &= \dfrac {75000}{6} \\
+   &= \dfrac {{\cancel{75000}\raisebox{0.9em}{12500}}}{{\cancel{6}\raisebox{-0.9em}{1}}} \\\\
+   &= 12500 \ \text {Turns}
+\end{aligned}
+$
+
+It would take him $12500$ Turns to cover $75 \ \text{km}$
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12500$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of Andrew's number of turns was his great-great-grandfathers number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+To cover the distance of $75 \ \text{km}$
+
+
+|          | Andrew | GG.Grandpa |
+|----------|--------|------------|
+| Diameter | 50cm   | 200cm      |
+| Turns    | 12500  | 50000      |
+
+Fraction $= \dfrac {\text {Andrew's Turn}}{\text {G.Grandpa's Turn}}$
+
+$
+\begin{aligned}
+&= \dfrac {12500}{50000} \\\\
+&= \dfrac {125 \cancel 00}{500 \cancel 00} \\\\
+&= \dfrac {{\cancel{125}\raisebox{0.9em}{5}}}{{\cancel{500}\raisebox{-0.9em}{100}}} \\\\
+&=\dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{100}\raisebox{-0.9em}{4}}} \\\\
+&=\dfrac {1}{4} \\\\
+\end{aligned}
+$
+
+Fraction $\dfrac {1}{4}$ or $4$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1}{4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Give a reason why this is.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+|          | Andrew | GG.Grandpa |
+|----------|--------|------------|
+| Diameter | 50cm   | 200cm      |
+| Turns    | 12500  | 50000      |
+
+
+Ratio of Diameter  $= \dfrac {\text {Andrew's wheel}}{\text {G.Grandpa's wheel}}$
+
+$
+\begin{aligned}
+&= \dfrac {50}{200} \\\\
+&= \dfrac {5 \cancel 0}{20 \cancel 0} \\\\
+&= \dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{20}\raisebox{-0.9em}{4}}} \\\\
+&=\dfrac {1}{4} \\\\
+\end{aligned}
+$
+
+Ratio of Turns $= \dfrac {\text {Andrew's Turn}}{\text {G.Grandpa's Turn}}$
+
+$=\dfrac {1}{4}$
+
+The ratio of diameter of both the wheels is equal to the ratio of the turns.
+
+
+
+</div>
+<div class='working'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+Ratio of Rurns and Diameters is smaller
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -7742,6 +13256,660 @@ $1200 \ \text{cm}^2$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_amber question'>
+<div class='uuid'>
+<p>CB675361-E89C-4326-B83D-4EB89C1AB4FC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The firm ***Owl Blocks*** makes rectangular wooden blocks in many sizes. For all of their blocks the length of the block is always $2.5$ times the width of the block. The height of the blocks isn't limited in any way.
+
+For example, if the width of a block is $4 \ \text{cm}$ then the length of the block would be $10 \ \text{cm}$ 
+
+because $4 \ \text{cm} \times 2.5 = 10 \ \text{cm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the length of a block if its width is $7 \ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Length} &= 2.5 \times 7 \\\\
+              &= 17.5 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17.5 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the width of a different block if its length is $50 \ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Width} &= \dfrac {50} {2.5} \\\\
+             &= \dfrac {50 \times 10} {2.5 \times 10} \\\\
+             &= \dfrac {500} {25} \\\\
+             &= \dfrac {25 \times 20} {25} \\\\
+             &= \dfrac {\cancel {25} \times 20} {\cancel {25}} \\\\
+             &= 20 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the length of a third block if the **__perimeter__** of one of its faces measured using its length and width is $42 \ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The face of the block is a rectangle. So,
+
+Perimeter of a rectangle 
+= $2 (length \times width)$
+= $42 \text {cm}$
+
+Let's take length as $l$ and width as $w$
+
+$
+\begin{aligned}
+\text{Perimeter of the rectangle} &= 2 \times (length \times width) \\\\
+42                                &= 
+\end{aligned}
+$ 
+
+As per question length is $2.5 \times width$
+
+$
+\begin{aligned}
+              21 &= (2.5 \times w) \times w \\
+                 &= 2.5 w + w  \\
+                 &= 3.5 w \\
+\dfrac {21}{3.5} &= w \\
+\dfrac {21 \times 10}{3.5 \times 10} &= w \\
+w &= \dfrac {210}{35} \\
+\end{aligned}
+$
+
+Let's use the canceling method and cancel with $7$
+
+$
+\begin{aligned}
+w &= \dfrac {\cancel{210}\raisebox{0.9em}{30}}{\cancel{35}\raisebox{-0.9em}{5}} \\\\
+w &= \dfrac {\cancel{30}\raisebox{0.9em}{6}}{\cancel{5}\raisebox{-0.9em}{1}} \\\\
+w &= 6 \text   {cm} \\
+\end{aligned}
+$
+
+Width is 6 cm. So,
+
+Length 
+
+$
+\begin{aligned}
+= 2.5 \times width \\
+= 2.5 \times 6 \\
+= (2 \times 6) + (0.5 \times 6) \\
+= 12 + 3.0 \\
+= 15 \text {cm}  \\
+\end{aligned}
+$
+
+
+Or,
+
+$
+\begin{aligned}
+= 2.5 \times 6 \\\\
+= \dfrac {25}{10} \times 6 \\\\
+= \dfrac {\cancel{25}\raisebox{0.9em}{5}}{\cancel{10}\raisebox{-0.9em}{2}} \times 6 \\\\
+= \dfrac {5} {\cancel{2}\raisebox{0.9em}{1}} \times {\cancel{6}\raisebox{0.9em}{3}} \\\\
+= 5 \times 3 \\\\
+= 15 \ \text {cm} \\\\
+\end{aligned}
+$
+
+Length is $15 \ \text {cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_ad_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_amber question'>
+<div class='uuid'>
+<p>F82A9A83-8990-460E-9DE9-6B7ACD86127F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tquadraticprompt
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle has an area of $70 \ \text{cm}^2$ and a perimeter of $38 \ \text{cm}$. What is the length of the **shortest** side of the rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text{cm}$) $= w$
+
+Let the length of the rectangle (in $\text{cm}$) $= l$
+
+Using the formula for area and perimeter for a rectangle, we get
+
+$
+\begin{aligned}
+l \times w          &= 70 \\\\
+2 \times (l + w)    &= 38 \\\\
+l + w               &= \dfrac {38}{2} \\\\
+l + w               &= 19
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
+
+- Both the numbers should be smaller than $19$
+- The product of the $2$ numbers is $70$ 
+- The sum of the $2$ numbers is $19$.
+
+Factors of $70 = 1, 2, 5, 7, 10, 14, 35, 70$
+
+| Factors   |  Sum  | Numbers $< 19$    |
+|:-------:  |:----: |:---------------:  |
+| $2, 35$   | $37$  |        No         |
+| $5, 14$   | $19$  |       Yes         |
+| $7, 10$   | $17$  |       Yes         |
+
+A quick check shows that $5$ and $14$ meets all the criteria above.
+
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+
+Width of the rectangle $= 5 \ \text{cm}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>AA02C779-6E49-4D2F-8D65-2EDC86AD2B21</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+talgebra
+</li>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sequence of rectangles is drawn and the first three rectangles are as follows, with their length and width shown in each case.
+
+![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+
+The perimeters and areas of each rectangle are noted in the table below.
+
+![missing table](/papers/missing_table.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Draw small sketches of the **next two** rectangles, marking the length and width on each sketch. 
+Write the perimeter and area of each rectangle in the answer boxes. 
+(Note: Your sketches do not need to be drawn to scale as they **will not** be marked for accuracy.)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What rectangle number has a perimeter of $162$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of rectangle number $30$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A0C3E285-9532-4A49-BF24-1FB2744FE099</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+tarea
+</li>
+<li>
+tgeometry
+</li>
+<li>
+tdraw
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)   
+
+The diagram opposite (which is NOT drawn to scale) shows triangle ABC with angle B $= 90˚$. AB $= 8\,cm$ and BC $= 12\,cm$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the figure by drawing in two lines to make rectangle ABCD
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the distance around (perimeter of) the rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of triangle ABC?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-pr"
 title: "Topic - Factor - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -86,7 +86,7 @@ What is the Highest Common Factor of $36$ and $60$?
 
 $
 \begin{aligned}
-\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\
+\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\\\
 \text {Factors of } 60                                      &=  1, 2, 3, 4, 5, 6, 10, \bold {12}, 15, 20, 30, 60
 \end{aligned}
 $
@@ -122,8 +122,8 @@ Which of the factors of $36$ are square numbers?
 $
 \begin{aligned}
 4   &= 2^2 \\\\
-9   &= 3^3 \\\\
-36  &= 6^6
+9   &= 3^2 \\\\
+36  &= 6^2
 \end{aligned}
 $
 
@@ -215,6 +215,63 @@ $2 \times 2 \times 2 \times 7$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What percentage of the integers $1 - 100$ inclusive are not a multiple of $10$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write down all the multiples of $10$ between $1$ and $100$ inclusive.
+
+Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
+
+There are total $10$ numbers between $1$ and $100$ inclusive that are multiples of $10$.
+
+So numbers that are not multiples of $10 = 100 - 10 = 90$. Using this we get,
+
+$
+\begin{aligned}
+\text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
+                    &= \dfrac {90 \times 100} {100} \\\\
+                    &= 90 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -2080,50 +2137,6 @@ $\dfrac{9}{20}$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>32D942BE-6B7A-4B62-A207-F11825B1D176</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The number $5$ is a factor of $65$ because it divides into $65$ without a remainder. 
-Write down the other three factors of $65$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Factors of $65 = 1, 13, 65$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 13, 65$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

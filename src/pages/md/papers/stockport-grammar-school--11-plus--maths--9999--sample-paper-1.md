@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <div class='paper'>
 <h1>Stockport Grammar School</h1>
@@ -638,7 +638,7 @@ $
 &= 6.3 \times 1000 \ \text{m} - 140 \ \text{m} \\\\
 &= 6300 \ \text{m} - 140 \ \text{m} \\\\
 &= 6160 \ \text{m} \\\\
-&= 6160 \times 100 \ \text{cm}
+&= 6160 \times 100 \ \text{cm} \\\\
 &= 616000 \ \text{cm}
 \end{aligned}
 $
@@ -2038,7 +2038,7 @@ Ingredient is needed to make $18$ pancakes = Each ingredient is needed to make $
 
 $
 \begin{aligned}
-\text{The quantity of plain flour needed to make 18 pancakes} &= \text{The quantity of plain flour used to make 6 Pancakes} \times 3 \\\\
+\text{The plain flour needed to make 18 pancakes} &= \text{The plain flour used to make 6 Pancakes} \times 3 \\\\
 &= 120 \ \text{gm} \times 3 \\\\
 &=  360 \ \text{gm}
 \end{aligned}
@@ -2046,7 +2046,7 @@ $
 
 $
 \begin{aligned}
-\text{The number of Eggs needed to make 18 pancakes} &= \text{The number of Eggs used to make 6 Pancakes} \times 3 \\\\
+\text{The Eggs needed to make 18 pancakes} &= \text{The Eggs used to make 6 Pancakes} \times 3 \\\\
 &= 3 \times 3 \\\\
 &= 9
 \end{aligned}
@@ -2054,7 +2054,7 @@ $
 
 $
 \begin{aligned}
-\text{The amount of milk needed to make 18 pancakes} &= \text{The  amount of milk used to make 6 Pancakes} \times 3 \\\\
+\text{The milk needed to make 18 pancakes} &= \text{The  milk used to make 6 Pancakes} \times 3 \\\\
 &= 210 \ \text{ml} \times 3 \\\\
 &= 630 \ \text{ml}
 \end{aligned}
@@ -2088,7 +2088,7 @@ How much of each ingredient is needed to make $8$ pancakes?
 
 $
 \begin{aligned}
-\text{ingredients required to make 8 pancakes} &= \text{ingredients required to make 6 pancakes} + \text{ingredients required to make 2 pancakes}  \\\\
+\text{ingredients required to make 8 pancakes} = \text{ingredients needed to make 6 pancakes} + \text{ingredients needed to make 2 pancakes}  \\\\
 \text{As per the requirement} \\\\
 \text{ingredients required to make 2 pancakes} &= \dfrac{\text{ingredients required to make 6 pancakes}}{3} \\\\
 \text{The quantity of plain flour used to make} 2 \text{Pancakes} &= \dfrac{120}{3} \\\\

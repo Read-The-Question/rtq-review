@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-g1"
 title: "Topic - Sequence - G1"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 17:59:23
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2454,6 +2454,64 @@ $25, 36$
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>DB0B19ED-782A-4134-B0D4-8FB4BE272409</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next fraction in the sequence: $\dfrac{5}{8}, \quad \dfrac{10}{16}, \quad \dfrac{15}{24}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+$
+\begin{matrix}
+    \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{1} {1} )}} 
+&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{2} {2} )}} 
+&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{3} {3} )}}  
+&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{4} {4} )}} \\\\
+\dfrac {5} {8},  &&    \dfrac {10} {16},  &&  \dfrac {15} {24},   && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next fraction}        &= \dfrac {5} {8} \times \dfrac{4} {4} \\\\
+                            &= \dfrac {5 \times 4} {8 \times 4} \\\\
+                            &= \dfrac {20} {32}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {20} {32}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

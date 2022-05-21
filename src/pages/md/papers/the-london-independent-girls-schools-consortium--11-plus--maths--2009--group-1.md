@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 1"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <div class='paper'>
 <h1>The London Independent Girls' Schools Consortium</h1>
@@ -407,11 +407,14 @@ Which number between $55$ and $65$ can be divided exactly by $9$?
 <div class='workings'>
 <div class='working'>
 
-Let's find a multiple of $9$ between $55$ and $65$.
 
-The multiple of $9$ are $ 9, 18, 27, 36, 45, 54, \bold {63}, 72, \dots$
-
-$= 63$
+$
+\begin{aligned}
+\text{Let's find a multiple of} \  9 \  \text{between} \  55  \ \text{and} \  65 \\\\
+\text{The multiple of} \ 9  \ \text{are} \  9, 18, 27, 36, 45, 54, \bold {63}, 72, \dots \\\\
+&= 63
+\end{aligned}
+$
 
 </div>
 </div>
@@ -558,7 +561,7 @@ As per the question,
 
 Let the distance between Madrid to Paris be 'a'.
 
-Total distance $&=$ distance of Lisbon to Madrid +  distance of Madrid to Paris + distance of Paris to MUnich 
+Total distance $=$ distance of Lisbon to Madrid +  distance of Madrid to Paris + distance of Paris to Munich 
 
 $
 \begin{aligned}
@@ -567,9 +570,9 @@ $
 a &= 2730 - 1465 \\\\
 a &= 1265 \ \text{km}
 \end{aligned}
+$
 
 The distance between Madrid to Paris is $1265 \ \text{km}$
-$
 
 </div>
 </div>

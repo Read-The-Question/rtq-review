@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-pr"
 title: "Topic - Clock - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -540,51 +540,6 @@ $1440 \degree$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>ACB903AE-471B-4194-A0AE-FF8761C03567</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Draw the hour and minute hands on this clock to show the time $22{:}30$.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10 : 30$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10:30$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-pr"
 title: "Topic - Time - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1206,6 +1206,188 @@ $40 \ \text {miles per hour}$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>5E77341D-320F-47AF-AB40-A78DD573EE26</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunit
+</li>
+<li>
+ttime
+</li>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On a long straight country road, there are four villages: Josham, Keston, Langham and Moreton, which are shown in the diagram below.
+
+![missing image](/papers/missing_image.svg)
+
+Distances between the village are shown by the arrows. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the distances from:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Keston to Langham;
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 26 \ \text{km} - 12 \ \text {km} \\\\
+&= 14 \ \text {km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14 \ \text {km}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Langham to Moreton, giving your answer **in metres**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 23 \ \text {km} - 14 \ \text {km} \\\\
+&= 9 \ \text {km} \\\\
+&= 9 \times 1000 \ \text{m} \\\\
+&= 9000\ \ text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9000\ \ text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey would take from Josham to Moreton in hours and minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {time} &= \dfrac {distance} {speed} \\\\
+             &= \dfrac {12 + 23} {14} \\\\
+             &= \dfrac {35} {14} \\\\
+             &= 2 \ \text {hours}, 5 \ \text{minutes} 
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {hours}, 5 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -5035,66 +5217,6 @@ $54 \ \text{mins}$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>B8B2E49B-8011-42BF-B6B2-E0E65544BF52</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-It takes $5$ teachers $9 \ \text{hours}$ to mark a set of examination papers. 
-How long would it take for $12$ teachers to mark the same set of examination papers?
-
-- $3.75 \ \text{hours}$
-- $3.5 \ \text{hours}$
-- $21.6 \ \text{hours}$
-- $20.5 \ \text{hours}$
-- $4 \ \text{hours}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-5 \ \text{teachers takes} \ 9 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
-\text{then} \ 1 \ \text{teachers takes} \  1.8 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
-\text{Now,} &=12 \times 1.8 \\\\
-&= 21.6 \ \text{hrs} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$21.6 \ \text{hrs}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
 <p>19C4B959-6C02-4D22-B36F-6E0A58FE85F7</p>
 </div>
 <div class='topics'>
@@ -5125,9 +5247,11 @@ Time take to go to school  $&= 42 \ \text{minutes}$
 
 $
 \begin{aligned}
-\time reached to school &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
+\text{Time of leaving home} &= 7.35 \ \text{am} \\\\
+\text{Time take to go to school}  &= 42 \ \text{minutes} \\\\
+\text{reached to school} &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
 &=  7 \ \text{hr} \ 60 \ \text{mins} + 17 \ \text{mins} \\\\
-&= 8 \ \text{hr} +  17 \ \text{mins}
+&= 8 \ \text{hr} +  17 \ \text{mins} \\\\
 &= 8.17 \ \text{am}
 \end{aligned}
 $

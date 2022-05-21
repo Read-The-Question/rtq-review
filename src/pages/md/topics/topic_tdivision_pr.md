@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-pr"
 title: "Topic - Division - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -364,6 +364,56 @@ $\pounds 1.720$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3258 \div 9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3258 \div 9 \\\\
+&= \dfrac {3258} {9} \\\\
+&= \dfrac {1086 \times 3} {3 \times 3} \\\\
+&= \dfrac {1086 \times \cancel {3} } {3 \times \cancel {3} } \\\\
+&= \dfrac {362 \times 3} {3} \\\\
+&= \dfrac {362 \times \cancel {3} } {\cancel {3} } \\\\
+&= 362
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$362$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

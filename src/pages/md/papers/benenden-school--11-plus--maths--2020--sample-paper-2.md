@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <div class='paper'>
 <h1>Benenden School</h1>
@@ -1680,7 +1680,7 @@ What is the Highest Common Factor of $36$ and $60$?
 
 $
 \begin{aligned}
-\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\
+\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\\\
 \text {Factors of } 60                                      &=  1, 2, 3, 4, 5, 6, 10, \bold {12}, 15, 20, 30, 60
 \end{aligned}
 $
@@ -1716,8 +1716,8 @@ Which of the factors of $36$ are square numbers?
 $
 \begin{aligned}
 4   &= 2^2 \\\\
-9   &= 3^3 \\\\
-36  &= 6^6
+9   &= 3^2 \\\\
+36  &= 6^2
 \end{aligned}
 $
 
@@ -1944,7 +1944,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>058B4392-6B5D-44A5-ACE4-51F653406441</p>
 </div>
@@ -2057,7 +2057,7 @@ $8 \dfrac{19} {20}$
 <p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

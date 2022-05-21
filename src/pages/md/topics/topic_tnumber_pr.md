@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-pr"
 title: "Topic - Number - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3239,7 +3239,7 @@ What is the Highest Common Factor of $36$ and $60$?
 
 $
 \begin{aligned}
-\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\
+\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\\\
 \text {Factors of } 60                                      &=  1, 2, 3, 4, 5, 6, 10, \bold {12}, 15, 20, 30, 60
 \end{aligned}
 $
@@ -3275,8 +3275,8 @@ Which of the factors of $36$ are square numbers?
 $
 \begin{aligned}
 4   &= 2^2 \\\\
-9   &= 3^3 \\\\
-36  &= 6^6
+9   &= 3^2 \\\\
+36  &= 6^2
 \end{aligned}
 $
 
@@ -3538,161 +3538,6 @@ $\text{Because 500 is not a multiple of 27}$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-You are given two numbers $0.35$ and $\dfrac{5}{8}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Convert $0.35$ into a fraction and simplify fully.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.35 \\\\
-&= \dfrac {35} {100} \\\\
-&= \dfrac {7 \times 5} {20 \times 5} \\\\
-&= \dfrac {7 \times \cancel{5}} {20 \times \cancel{5}} \\\\
-&= \dfrac {7} {20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {7} {20}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the sum of these two numbers, write the answer as a fraction in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.35 + \dfrac {5} {8} \\\\
-&= \dfrac {7} {20} + \dfrac {5} {8} \\\\
-&= \dfrac {7 \times 2} {20 \times 2} + \dfrac {5 \times 5} {8 \times 5} \\\\
-&= \dfrac {14} {40} + \dfrac {25} {40} \\\\
-&= \dfrac {14 + 25} {40} \\\\
-&= \dfrac {39} {40} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {39} {40}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the product of these two numbers, write the answer as a fraction in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.35 \times \dfrac {5} {8} \\\\
-&= \dfrac {7} {20} \times \dfrac {5} {8}                               \\\\
-&= \dfrac {7 \times 5} {20 \times 8}                                   \\\\
-&= \dfrac {7 \times 5} {5 \times 4 \times 8}                           \\\\
-&= \dfrac {7 \times \cancel {5}} {\cancel{5} \times 4 \times 8}       \\\\
-&= \dfrac {7} {4 \times 8}                                             \\\\
-&= \dfrac {7} {32}      
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {7} {32}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -4108,6 +3953,269 @@ $40 \ \text {cm} ^ 2$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>B4E2076D-5109-4020-882E-290B7C537FB7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A football club is planning a trip.
+
+The club hires $\bold{234}$ coaches. Each coach holds $\bold{52}$ passengers. 
+
+How many passengers is that altogether?
+
+Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total passengers}    &= 234 \times 52 \\\\
+                            &= 12168
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12168$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The club wants to put one first aid kit into each of the $\bold{234}$ coaches.
+
+These first aid kits are sold in $\bold{boxes\:\:of\:\: 18}$. 
+
+How many boxes does the club need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total boxes the club need}    &= \dfrac {234} {18} \\\\
+                                     &= \dfrac {13 \times 18} {18} \\\\
+                                     &= \dfrac {13 \times \cancel {18}} {\cancel {18}} \\\\
+                                     &= 13
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>1379DE70-C5AB-45C5-84C7-55AE20A0CA8E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You can buy a new calculator for $\bold{\pounds 1.25}$
+
+![missing image](/papers/missing_image.svg)
+
+In 1979 the same type of calculator cost $\bold{22\:\:times}$ as much as it costs now. 
+
+How much did the same type of calculator cost in 1979?
+
+Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Cost of calculator in} 1979   &= 1.25 \times 22 \\\\
+                                     &= \pounds 27.5
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 27.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>79795420-38FD-4AE7-84E8-377DBD4317D4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many triangles are there in this diagram?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>7D74ACBA-5E3A-4BCF-9ECA-55ED79C8FCFA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the sum of the prime numbers between $50$ and $60$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The prime numbers between $50$ and $60$ are $53$ and $59$.
+
+$
+\begin{aligned}
+&= 53 + 59 \\\\
+&= 112
+\end{aligned}
+$
+
+The sum of the prime numbers between $50$ and $60$ is $112$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$112$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -7489,6 +7597,113 @@ $8$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>D9649617-3FD7-4796-B3CC-D5D03A15DD17</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdraw
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The length of one statue mile is given as $1609.344 \ \text{metres}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle which of the following describes the position of the $6$ in the number above.
+
+- Units
+- Tenths
+- Hundredths
+- Hundreds
+- Thousands
+- Tens
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Hundreds}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Hundreds}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Round the number $1609.344$ to the nearest ten.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1610.344$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1610.344$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -15333,46 +15548,6 @@ $
 <div class='answer'>
 
 $897$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>51E50474-CE39-4138-906C-FC601A2C0B82</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the number $\text{‘forty five thousand, seven hundred and two’}$ in figures. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$45702$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45702$
 
 </div>
 </div>
@@ -23406,9 +23581,10 @@ She only has $\pounds 3.20$. How much does she need to borrow to buy these thing
 <div class='workings'>
 <div class='working'>
 
+Money (to borrow) = Money(required) - Money (in hand) 
+
 $ 
 \begin{aligned}
-\text{Money (to borrow)} &= \text{Money(required)} - \text{Money (in hand)} \\\\
 &=   4.72 - 3.20 \\\\ 
 &=   \pounds 1.52 
 \end{aligned}
@@ -23586,11 +23762,12 @@ Let's take the number verity thinks of $=a$
 
 $
 \begin{aligned}
-\text{a} \times 7 + 8  &= 71 \\\\
-\text{a} \times 7  &= 71 - 8 \\\\
-\text{a} &= \dfrac{63}{7} \\\\
-\text{a} &= \dfrac{\cancel{63} 9}{\cancel 7} \\\\
-\text{a} &= 9
+a \times 7 + 8  &= 71 \\\\
+a \times 7      &= 71 - 8 \\\\
+a               &= \dfrac{63}{7} \\\\
+a               &= \dfrac{7 \times 9}{7} \\\\
+a               &= \dfrac{\cancel 7 \times 9}{\cancel 7} \\\\
+a               &= 9
 \end{aligned}
 $
 
@@ -25197,7 +25374,7 @@ $
 &= 6.3 \times 1000 \ \text{m} - 140 \ \text{m} \\\\
 &= 6300 \ \text{m} - 140 \ \text{m} \\\\
 &= 6160 \ \text{m} \\\\
-&= 6160 \times 100 \ \text{cm}
+&= 6160 \times 100 \ \text{cm} \\\\
 &= 616000 \ \text{cm}
 \end{aligned}
 $
@@ -25489,7 +25666,7 @@ Ingredient is needed to make $18$ pancakes = Each ingredient is needed to make $
 
 $
 \begin{aligned}
-\text{The quantity of plain flour needed to make 18 pancakes} &= \text{The quantity of plain flour used to make 6 Pancakes} \times 3 \\\\
+\text{The plain flour needed to make 18 pancakes} &= \text{The plain flour used to make 6 Pancakes} \times 3 \\\\
 &= 120 \ \text{gm} \times 3 \\\\
 &=  360 \ \text{gm}
 \end{aligned}
@@ -25497,7 +25674,7 @@ $
 
 $
 \begin{aligned}
-\text{The number of Eggs needed to make 18 pancakes} &= \text{The number of Eggs used to make 6 Pancakes} \times 3 \\\\
+\text{The Eggs needed to make 18 pancakes} &= \text{The Eggs used to make 6 Pancakes} \times 3 \\\\
 &= 3 \times 3 \\\\
 &= 9
 \end{aligned}
@@ -25505,7 +25682,7 @@ $
 
 $
 \begin{aligned}
-\text{The amount of milk needed to make 18 pancakes} &= \text{The  amount of milk used to make 6 Pancakes} \times 3 \\\\
+\text{The milk needed to make 18 pancakes} &= \text{The  milk used to make 6 Pancakes} \times 3 \\\\
 &= 210 \ \text{ml} \times 3 \\\\
 &= 630 \ \text{ml}
 \end{aligned}
@@ -25539,7 +25716,7 @@ How much of each ingredient is needed to make $8$ pancakes?
 
 $
 \begin{aligned}
-\text{ingredients required to make 8 pancakes} &= \text{ingredients required to make 6 pancakes} + \text{ingredients required to make 2 pancakes}  \\\\
+\text{ingredients required to make 8 pancakes} = \text{ingredients needed to make 6 pancakes} + \text{ingredients needed to make 2 pancakes}  \\\\
 \text{As per the requirement} \\\\
 \text{ingredients required to make 2 pancakes} &= \dfrac{\text{ingredients required to make 6 pancakes}}{3} \\\\
 \text{The quantity of plain flour used to make} 2 \text{Pancakes} &= \dfrac{120}{3} \\\\
@@ -26200,28 +26377,21 @@ wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide
 
 As per the question,
 
-
-Area of the wall $&=$ length $\times$ breadth.
-
-$&=  8 \times 3$
-
-$&=  24 \ \text{m}^2$
-
-Area of the roll wallpaper $&=$ length $\times$ breadth.
-
-$&=10 \times 0.6$
-
-$&=  6 \ \text{m}^2$
-
-We need to cover  $24 \text{m}^2$  of the wall $&= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}}$
-
-$&=  \dfrac{24}{6}$
-
-$&=  \dfrac{4 \times 6}{6}$
-
-$&=  \dfrac{4 \times \cancel 6}{ \cancel 6}$
-
-$&= 4$
+$
+\begin{aligned}
+\text{Area of the wall} &= \text{length} \times \text{breadth} \\\\
+&=  8 \times 3 \\\\
+&=  24 \ \text{m}^2 \\\\
+\text{Area of the roll wallpaper} &= \text{length} \times \text{breadth} \\\\
+&=10 \times 0.6 \\\\
+&=  6 \ \text{m}^2 \\\\
+\text{We need to cover} \  24 \text{m}^2  \text|{of the wall} &= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}} \\\\
+&=  \dfrac{24}{6} \\\\
+&=  \dfrac{4 \times 6}{6} \\\\
+&=  \dfrac{4 \times \cancel 6}{ \cancel 6} \\\\
+&= 4
+\end{aligned}
+$
 
 </div>
 </div>
@@ -26376,66 +26546,6 @@ $\dfrac{11}{10}$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>B8B2E49B-8011-42BF-B6B2-E0E65544BF52</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-It takes $5$ teachers $9 \ \text{hours}$ to mark a set of examination papers. 
-How long would it take for $12$ teachers to mark the same set of examination papers?
-
-- $3.75 \ \text{hours}$
-- $3.5 \ \text{hours}$
-- $21.6 \ \text{hours}$
-- $20.5 \ \text{hours}$
-- $4 \ \text{hours}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-5 \ \text{teachers takes} \ 9 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
-\text{then} \ 1 \ \text{teachers takes} \  1.8 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
-\text{Now,} &=12 \times 1.8 \\\\
-&= 21.6 \ \text{hrs} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$21.6 \ \text{hrs}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
 <p>0C9827F9-2D97-4BEA-B8FF-C1F070B06641</p>
 </div>
 <div class='topics'>
@@ -26525,8 +26635,8 @@ $
 \begin{aligned}
 &= 0.76 \\\\
 &=  \dfrac{76}{100} \\\\
-&=  \dfrac{19 /times 4}{25 \times 4} \\\\
-&=  \dfrac{19 /times \cancel 4}{25 \times \cancel 4} \\\\
+&=  \dfrac{19 \times 4}{25 \times 4} \\\\
+&=  \dfrac{19 \times \cancel 4}{25 \times \cancel 4} \\\\
 &=  \dfrac{19}{25}
 \end{aligned}
 $
@@ -26636,11 +26746,11 @@ Find the value of $59.9 + 28.6$
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{array}{cccccccccccccc}
      &5   &    9 \ .    &    9   \\
 {}+  &2   &     8\ .    &    6   \\
-  
 \hline
      &8    &    8 \ .    &    5   
 \end{array}
@@ -26697,20 +26807,18 @@ As per thw question,
 
 Let the number be 'a'
 
-Multiplying 'a' with $2 &= 2 \times a$
-
-Adding $5$ to $2 \times a &= 2 \times a + 5$
-
 $
 \begin{aligned}
+\text{Multiplying 'a' with } \ 2 &= 2 \times a \\\\
+\text{Adding} \  5  \ \text{to}  \ 2 \times a &= 2 \times a + 5 \\\\
 2 \times a + 5 &= 19 \\\\
-2a + 5 &= 19 \\\\
-2a     &= 19 - 5 \\\\
-2a     &= 14 \\\\
-a      &= \dfrac{14}{2} \\\\
-a      &= \dfrac{7 \times 2}{2} \\\\
-a      &= \dfrac{7 \times \cancel 2}{\cancel 2} \\\\
-a      &= 7
+2a + 5         &= 19 \\\\
+2a             &= 19 - 5 \\\\
+2a             &= 14 \\\\
+a              &= \dfrac{14}{2} \\\\
+a              &= \dfrac{7 \times 2}{2} \\\\
+a              &= \dfrac{7 \times \cancel 2}{\cancel 2} \\\\
+a              &= 7
 \end{aligned}
 $
 
@@ -26845,7 +26953,7 @@ Between the two numbers, the total number of digits after the decimal point is t
 
 Let's account for the decimal point now. 
 
-$&= 8.32$
+$ = 8.32$
 
 </div>
 </div>
@@ -27147,9 +27255,9 @@ As per the question,
 
 There are $9$ cubes in each row.
 
-Number of rows $&= 3$
+Number of rows $= 3$
 
-Then total cubes in $3$ rows $&= 9 \times 3$
+Then total cubes in $3$ rows $= 9 \times 3$
 
 $=21$
 
@@ -28884,46 +28992,6 @@ $24,024$
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
-<p>7C19DA98-914F-4E7A-AFD9-38F202A08A32</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Round $567$ to the nearest $100$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$600$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$600$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
 <p>A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E</p>
 </div>
 <div class='topics'>
@@ -28957,64 +29025,6 @@ $
 <div class='answer'>
 
 $30$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>169B3F23-EB06-4E0D-9414-80C1BA4C87CC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The safety notice in a lift reads:
-
-$\boxed{\text{Maximum 6 persons 580 {kilograms}}}$
-
-The weights of the first five people to enter the lift are $90 \ \text{kg}$, 
-$80 \ \text{kg}$, $95 \ \text{kg}$,$115 \ \text{kg}$ and $89 \ \text{kg}$.
-
-What is the maximum weight of the sixth person in the lift if they all travel together safely?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the maximum weight of sixth person be $= a$
-
-As per the question
-
-$
-\begin{aligned}
-90 + 80 + 95 + 115 + 89 + a   &= 580 \\\\
-a + 469                       &= 580 \\\\
-a                             &= 580 - 469 \\\\
-a                             &= 111 \text{ kg}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$111 \text{ kg}$
 
 </div>
 </div>
@@ -29172,113 +29182,6 @@ $11908368$
 
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>8F25FCC6-B743-4F32-A515-AC5FD59ABF76</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-You are given the number $2864$. 
-
-You are allowed to swap the position of any two digits.
-
-For example, $2 8 6 4$ gives $2 6 8 4$
-
-or $2 8 6 4$ gives $4 8 6 2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the largest possible number you can make using one swap?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The largest digit in $2864$ is $8$.
-
-Swapping $2$ and $8$ will give us the largest number $= 8264$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8264$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the smallest possible number you can make using one swap?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As the smallest number $2$ is already in the thousands place, we take the second smallest number $4$  in the hundrends place. 
-
-Swapping $8$ and $4$ will give us the smallest number $= 2468$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2468$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
@@ -32708,11 +32611,14 @@ Which number between $55$ and $65$ can be divided exactly by $9$?
 <div class='workings'>
 <div class='working'>
 
-Let's find a multiple of $9$ between $55$ and $65$.
 
-The multiple of $9$ are $ 9, 18, 27, 36, 45, 54, \bold {63}, 72, \dots$
-
-$= 63$
+$
+\begin{aligned}
+\text{Let's find a multiple of} \  9 \  \text{between} \  55  \ \text{and} \  65 \\\\
+\text{The multiple of} \ 9  \ \text{are} \  9, 18, 27, 36, 45, 54, \bold {63}, 72, \dots \\\\
+&= 63
+\end{aligned}
+$
 
 </div>
 </div>

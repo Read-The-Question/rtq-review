@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-all"
 title: "Owner - Abhay Kandpal - ALL"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3290,6 +3290,458 @@ $\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top 
 
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>3C1A8ECE-FC50-4AC9-B755-F100FE9325E2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+ A man travels $200 \ \text{miles}$ at an average speed of $60 \ \text{miles per hour}$.
+ How long does the journey take in hours and minutes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Time}    &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
+                &= \dfrac {200 \ \text {miles}} {60 \ \text {miles per hour}} \\\\
+                &= \dfrac {2 \times 10 \times 10} {2 \times 3 \times 10} \\\\
+                &= \dfrac {\cancel {2} \times \cancel {10} \times 10} {\cancel {2} \times 3 \times \cancel {10}} \\\\
+                &= \dfrac {10} {3} \\\\
+                &= 3 \dfrac {1} {3} \ \text {hours} \\\\
+                &= 3 + \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
+                &= 3 + \dfrac {60} {3} \\\\
+                &= 3 + \dfrac {20 \times 3} {3} \\\\
+                &= 3 + \dfrac {20 \times \cancel {3}} {\cancel {3}} \\\\
+                &= 3 \ \text {hours} \ 20 \ \text {minutes}
+\end {aligned}
+$
+
+The journey took $3 \ \text {hours} \ 20 \ \text {minutes}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text {hours} \ 20 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>1560E53F-1121-4690-82F4-852BE2494204</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the missing angles $p, q$ and $r$.
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin {aligned}
+35 + 90 + p   &= 180 \\\\
+125 + p       &= 180 \\\\
+p             &= 180 - 125 \\\\
+p             &= 55 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
+
+$
+\begin {aligned}
+81 + 52 + q     &= 180 \\\\
+133 + q         &= 180 \\\\
+q               &= 180 - 133 \\\\
+q               &= 47 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram, the rhombus is having its opposite sides equal, So which means the angles opposite are also equal.
+
+As we know, the sum of angles in a triangle is $180 \degree$.
+
+Taking the lower triangle, we get
+
+$
+\begin {aligned}
+140 + 24 + r    &= 180 \\\\
+r + 164         &= 180 \\\\
+r               &= 180 - 164 \\\\
+r               &= 16 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>08B091C3-398E-4C33-9232-9F1C961D0DD6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ruby has collected thirty-five $5 \text{p}$ coins for charity.
+
+How much more does she need to reach $\pounds 5$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Amount collected}    &= 35 \times 5 \text {p} \\\\
+                            &= 35 \times \pounds \dfrac {5} {100} \\\\
+                            &= \dfrac {5 \times 35} {100} \\\\
+                            &= \dfrac {5 \times 5 \times 7} {5 \times 5 \times 4} \\\\
+                            &= \dfrac {\cancel {5} \times \cancel {5} \times 7} {\cancel {5} \times \cancel {5} \times 4} \\\\
+                            &= \dfrac {7} {4} \\\\
+                            &= \pounds 1.75 \\\\
+\text {Amount needed}       &= \pounds 5 - \pounds 1.75 \\\\
+                            &= \pounds 3.25
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.25$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>98E30B30-DDF8-4611-BFF5-108696A59D3F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I buy $2$ cakes for $45 \text{p}$ each and a drink for $90 \text{p}$. 
+What change will I have from a $\pounds 5$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total cost}      &= 2 \times \text {Cost of a cake} + \text {Cost of a drink} \\\\
+                        &= 2 \times 45 \text {p} + 90 \text {p} \\\\
+                        &= 90 + 90 \\\\
+                        &= 180 \text {p} \\\\
+\text {Change left}     &= \pounds 5 - 180 \text {p} \\\\
+                        &= \pounds 5 - \pounds \dfrac {180} {100} \\\\
+                        &= 5 - 1.80 \\\\
+                        &= \pounds 3.20
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>C0365365-4904-4D8E-B97D-7E9DF2D136D9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many $6 \ \text{cm}$ pieces of string can be 
+cut from a piece of string $50 \ \text{cm}$ long? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Number of pieces}    &= \dfrac {\text {Total length of the string}} {\text {Length of a piece}} \\\\
+                            &= \dfrac {50 \ \text {cm}} {6 \ \text {cm}} \\\\
+                            &= 8 \dfrac {2} {6} \\\\
+                            &= 8
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A triangle has a base of $6 \ \text{cm}$ and a height 
+of $4 \ \text{cm}$. It has the same area as another
+triangle of base length $8 \ \text{cm}$. How tall is the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+Let the height of the second triangle $= a$.
+
+As per the question,
+
+$
+\begin {aligned}
+\text{Area of first triangle}                                   &= \text{Area of second triangle} \\\\
+\dfrac {1} {2} \times 6 \ \text {cm} \times 4 \ \text {cm}      &= \dfrac {1} {2} \times 8 \ \text {cm} \times a \\\\
+\dfrac {1} {2} \times 24                                        &= \dfrac {8} {2} \times a \\\\
+\dfrac {24} {2} \times \dfrac {2} {8}                           &= a \\\\
+a                                                               &= \dfrac {24 \times 2} {2 \times 8} \\\\
+a                                                               &= \dfrac {3 \times 8 \times 2} {2 \times 8} \\\\
+a                                                               &= \dfrac {3 \times \cancel {8} \times \cancel {2}} {\cancel {2} \times \cancel {8}} \\\\
+a                                                               &= 3 \ \text {cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-g1"
 title: "Topic - Algebra - G1"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 17:59:23
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8039,6 +8039,89 @@ $8$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>DCA17542-5313-4830-8E8C-79DE88C98DEF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Albert, Brian and Charlie are dogs. Albert and Brian weigh $22 \ \text{kg}$ together. Brian and Charlie weigh $20 \ \text{kg}$ together. All three dogs weigh $30 \ \text{kg}$. How much does each dog weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weights of Albert, Brian, Charlie are A, B, C respectivley.
+
+As per the question,
+
+$
+\begin{aligned}
+A + B     &= 22    \ \text{kg}  \\\\
+B + C     &= 20     \ \text{kg} \\\\
+A + B + C &= 30 \ \text{kg}\\\\
+\end{aligned}
+$
+
+Lets, first find value of A
+
+$
+\begin{aligned}
+A + (B + C)  &= 30 \\\\
+A + 20       &= 30 \\\\
+A            &= 30 - 20 \\\\
+A            &= 10 \\\\
+\end{aligned}
+$
+
+Now finding the value of B,
+
+$
+\begin{aligned}
+A + B  &= 22 \\\\
+B      &= 22 - A \\\\
+B      &= 22 - 10 \\\\
+B      &= 11
+\end{aligned}
+$
+
+Finally the value of C is given by,
+
+$
+\begin{aligned}
+B + C &= 20 \\\\
+C     &= 20 - B \\\\
+C     &= 20 - 11 \\\\
+C     &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10, 11, 9$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>

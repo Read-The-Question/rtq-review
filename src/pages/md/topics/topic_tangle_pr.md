@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-pr"
 title: "Topic - Angle - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -308,7 +308,7 @@ $135 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>1560E53F-1121-4690-82F4-852BE2494204</p>
 </div>
@@ -316,6 +316,9 @@ $135 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+tdraw
 </li>
 </ul>
 </div>
@@ -333,39 +336,43 @@ Calculate the missing angles $p, q$ and $r$.
 <div class='workings'>
 <div class='working'>
 
-As we all know angle of semi-circle $= 180\degree$
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
 
 $
-\begin{aligned}
-35 + 90 + p   &=  180 \\\\
+\begin {aligned}
+35 + 90 + p   &= 180 \\\\
 125 + p       &= 180 \\\\
 p             &= 180 - 125 \\\\
-p             &= 55\degree
-\end{aligned}
-$
-
-b. As we all know sum of all angles in triangle $= 180\degree$
-
-$
-\begin{aligned}
-81 + 52 + q &= 180 \\\\
-133 + q     &= 180 \\\\
-q           &= 180 - 133 \\\\
-q           &= 47 \degree
-\end{aligned}
-$
-
-c. In third image take triangle ABC 
-
-Let the missing angle $= a$
-
-$
-\begin{aligned}
-140 + 24 + a   &= 180 \\\\
-164 + a        &= 180 \\\\
-a              &= 180 - 164 \\\\
-a              &= 16 \degree
-\end{aligned}
+p             &= 55 \degree
+\end {aligned}
 $
 
 </div>
@@ -373,16 +380,99 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$55\degree, 16\degree$
+$55 \degree$
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
+
+$
+\begin {aligned}
+81 + 52 + q     &= 180 \\\\
+133 + q         &= 180 \\\\
+q               &= 180 - 133 \\\\
+q               &= 47 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram, the rhombus is having its opposite sides equal, So which means the angles opposite are also equal.
+
+As we know, the sum of angles in a triangle is $180 \degree$.
+
+Taking the lower triangle, we get
+
+$
+\begin {aligned}
+140 + 24 + r    &= 180 \\\\
+r + 164         &= 180 \\\\
+r               &= 180 - 164 \\\\
+r               &= 16 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -2301,65 +2391,6 @@ $15\degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>71BF2B3D-3BE5-4C50-B05E-2EC50982167D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the size of the angles marked with the letters $a$ and $b$ .
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know, if two parallel lines are cut by a transversal, then the alternate interior angles are equal. So,
-
-As per the diagram,
-
-Angle $a$ and $b$ are two alternate interior angles.
-
-$
-\begin{aligned}
-a           &= 31 \degree \\\\
-b           &= 31 \degree + 35 \degree \\\\
-            &= 66 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$
-\begin{aligned}
-a &= 31 \degree \\
-b &= 66 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>05657E57-5AAE-47F6-9CCF-40E96CD77C36</p>
@@ -3451,6 +3482,7 @@ Which of the following could be the difference of the other two angles?
 
 As per the question 
 
+$
 \begin{aligned}
 \text{Sum of the angles of a quadrilateral} =360\degree \\\\
 \text{lets other two angle be 'a'} \\\\
@@ -3459,6 +3491,7 @@ a + a + 95 + 75 &= 360 \\\\
 2a + 170     &= 360 \\\\
 2a           &= 360 - 170 \\\\
 2a           &= 190
+$
 \end{aligned}
 
 </div>

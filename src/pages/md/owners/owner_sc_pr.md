@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-pr"
 title: "Owner - Sahil Choudhary - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3895,66 +3895,6 @@ $160$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>2FBBFEB4-886D-4E5F-A72B-7176F96FCF55</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together
-
-$25\%$ of $20$?
-
-$\dfrac{1}{5}$ of $30$
-
-and $\dfrac{2}{3}$ of $18$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 25\% \ \text{of} \ 20 + \dfrac{1} {5} \ \text{of} \ 30 + \dfrac{2} {3} \ \text{of} \ 18 \\\\
-&= \dfrac {25} {100} \times 20 + \dfrac{1} {5} \times 30 + \dfrac{2} {3} \times 18 \\\\
-&= \dfrac {25 \times 20} {100} + \dfrac{1 \times 30} {5} + \dfrac{2 \times 18} {3} \\\\
-&= \dfrac {25 \times 4 \times 5} {25 \times 4} + \dfrac{5 \times 6} {5} + \dfrac{2 \times 3 \times 6} {3} \\\\
-&= \dfrac {\cancel{25} \times \cancel{4} \times 5} {\cancel{25} \times \cancel{4}} + \dfrac{1 \times \cancel{5} \times 6} {\cancel{5}} + \dfrac{2 \times \cancel{3} \times 6} {\cancel{3}} \\\\
-&= 5 + 6 + 2 \times 6 \\\\
-&= 11 + 12 \\\\
-&= 23
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>F74409E6-423C-450E-BDFB-21338241A8A0</p>
 </div>
 <div class='topics'>
@@ -4143,67 +4083,6 @@ $0.21> \quad 0.201> \quad 0.021$
 <div class='answer'>
 
 $0.21> \quad 0.201> \quad 0.021$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>A4A02C1D-8BBA-436D-A1CF-94DD32988031</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together the following, giving your answer as a DECIMAL
-
-$\dfrac {2} {5}, \ 35\%$ and $0.604$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-The numbers are given in multiple formats. Let's convert all the numbers into decimals.
-
-$
-\begin{aligned}
-&= \dfrac {2} {5} + 35\% + 0.604 \\\\
-&= \dfrac {2 \times 2} {5 \times 2} + \dfrac {35} {100} + 0.604 \\\\
-&= \dfrac {4} {10} + 0.35 + 0.604 \\\\
-&= \dfrac {4} {10} + 0.954 \\\\
-&= 0.4 + 0.954 \\\\
-&= 1.354
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.354$
 
 </div>
 </div>
@@ -7019,46 +6898,6 @@ $897$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>51E50474-CE39-4138-906C-FC601A2C0B82</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the number $\text{‘forty five thousand, seven hundred and two’}$ in figures. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$45702$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45702$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>6AD5A951-0BD7-4634-81E4-6B0A6EF29F28</p>
 </div>
 <div class='topics'>
@@ -7292,54 +7131,6 @@ $
 <div class='answer'>
 
 $32 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>48808E0F-DECB-4D83-B293-06E1EB8FC2E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have $6$ blue counters and $4$ red counters in a bag. What is the probability of choosing a red counter when I take a counter out of the bag? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Probability of red counter}               &= \dfrac {\text{Total red counters}} {\text{Total counters}} \\\\
-                                                &= \dfrac {4} {10} \\\\
-                                                &= \dfrac {2 \times 2} {2 \times 5} \\\\
-                                                &= \dfrac {\cancel{2} \times 2} {\cancel{2} \times 5} \\\\
-                                                &= \dfrac {2} {5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2} {5}$
 
 </div>
 </div>

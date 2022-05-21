@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <div class='paper'>
 <h1>St George's College</h1>
@@ -558,7 +558,8 @@ $
 7 \ \text{tickets}    &=  \pounds58.10 \\\\
 1 \times 7 \ \text{tickets}    &=  \pounds 58.10  \\\\
 1 \  \text{ticket}  &= \dfrac{58.10}{7} \\\\
-1 \  \text{ticket}  &= \dfrac{\cancel{58.10} \  \ 8.30}{\cancel{7}} \\\\
+&=  \dfrac{7 \times 8.30 }{7} \\\\
+&= \dfrac{\cancel{7} \times  8.30}{\cancel{7}} \\\\
 1 \  \text{ticket}  &=\pounds 8.30
 \end{aligned}
 $
@@ -666,9 +667,10 @@ She only has $\pounds 3.20$. How much does she need to borrow to buy these thing
 <div class='workings'>
 <div class='working'>
 
+Money (to borrow) = Money(required) - Money (in hand) 
+
 $ 
 \begin{aligned}
-\text{Money (to borrow)} &= \text{Money(required)} - \text{Money (in hand)} \\\\
 &=   4.72 - 3.20 \\\\ 
 &=   \pounds 1.52 
 \end{aligned}
@@ -1337,12 +1339,12 @@ In a box of sweets there are $7$ toffees for every $12$ chocolates
 
 $
 \begin{aligned}
-\text{Let the toffees br 'a' for 72 chocolates} \\
-\text{then} \\
+\text{Let the toffees br 'a' for 72 chocolates} \\\\
+\text{then} \\\\
 & 12a   =   72\times 7 \\
 &   a   =   \dfrac{72\times 7}{12} \\\\
 &   a   =   \dfrac{\cancel{72} \ \ 6 \times 7}{\cancel{12}} \\\\
-&   a   =   42 \text{toffees}
+&   a   =   42  \ \text{toffees}
 \end{aligned}
 $
 
@@ -2032,11 +2034,12 @@ Let's take the number verity thinks of $=a$
 
 $
 \begin{aligned}
-\text{a} \times 7 + 8  &= 71 \\\\
-\text{a} \times 7  &= 71 - 8 \\\\
-\text{a} &= \dfrac{63}{7} \\\\
-\text{a} &= \dfrac{\cancel{63} 9}{\cancel 7} \\\\
-\text{a} &= 9
+a \times 7 + 8  &= 71 \\\\
+a \times 7      &= 71 - 8 \\\\
+a               &= \dfrac{63}{7} \\\\
+a               &= \dfrac{7 \times 9}{7} \\\\
+a               &= \dfrac{\cancel 7 \times 9}{\cancel 7} \\\\
+a               &= 9
 \end{aligned}
 $
 

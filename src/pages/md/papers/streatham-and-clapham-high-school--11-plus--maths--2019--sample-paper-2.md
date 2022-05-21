@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <div class='paper'>
 <h1>Streatham and Clapham High School</h1>
@@ -1652,28 +1652,21 @@ wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide
 
 As per the question,
 
-
-Area of the wall $&=$ length $\times$ breadth.
-
-$&=  8 \times 3$
-
-$&=  24 \ \text{m}^2$
-
-Area of the roll wallpaper $&=$ length $\times$ breadth.
-
-$&=10 \times 0.6$
-
-$&=  6 \ \text{m}^2$
-
-We need to cover  $24 \text{m}^2$  of the wall $&= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}}$
-
-$&=  \dfrac{24}{6}$
-
-$&=  \dfrac{4 \times 6}{6}$
-
-$&=  \dfrac{4 \times \cancel 6}{ \cancel 6}$
-
-$&= 4$
+$
+\begin{aligned}
+\text{Area of the wall} &= \text{length} \times \text{breadth} \\\\
+&=  8 \times 3 \\\\
+&=  24 \ \text{m}^2 \\\\
+\text{Area of the roll wallpaper} &= \text{length} \times \text{breadth} \\\\
+&=10 \times 0.6 \\\\
+&=  6 \ \text{m}^2 \\\\
+\text{We need to cover} \  24 \text{m}^2  \text|{of the wall} &= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}} \\\\
+&=  \dfrac{24}{6} \\\\
+&=  \dfrac{4 \times 6}{6} \\\\
+&=  \dfrac{4 \times \cancel 6}{ \cancel 6} \\\\
+&= 4
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1952,7 +1945,7 @@ $\dfrac{11}{10}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_red question'>
 <div class='uuid'>
 <p>B8B2E49B-8011-42BF-B6B2-E0E65544BF52</p>
 </div>
@@ -2007,12 +2000,12 @@ $21.6 \ \text{hrs}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_red question'>
 <div class='uuid'>
 <p>1C378342-8093-4F4F-9EBA-AF890BAF5C56</p>
 </div>
@@ -2051,7 +2044,7 @@ $
 \text{if , 'a' s the score of} \ 7  \text{th mathematics test then, a} &= 630-534  \\\\
 &= 96 \\\\
 \text{Now, mean of all} \ 7 \ \text{mathematics test scores of jane} \\\\
-&=\dfrac{ 89\%+89\%+89\%+89\%+89\%+89\%+90\%}{7} \\\\
+\dfrac{ 89\%+89\%+89\%+89\%+89\%+89\%+90\%}{7} \\\\
 &= \dfrac{630}{7} \\\\
 &= \dfrac{90 \times 7}{7} \\\\
 &= \dfrac{90 \times  \cancel 7}{\cancel 7} \\\\
@@ -2077,7 +2070,7 @@ $90\%$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_red</p>
 </div>
 </div>
 </li>
@@ -2176,6 +2169,7 @@ Which of the following could be the difference of the other two angles?
 
 As per the question 
 
+$
 \begin{aligned}
 \text{Sum of the angles of a quadrilateral} =360\degree \\\\
 \text{lets other two angle be 'a'} \\\\
@@ -2184,6 +2178,7 @@ a + a + 95 + 75 &= 360 \\\\
 2a + 170     &= 360 \\\\
 2a           &= 360 - 170 \\\\
 2a           &= 190
+$
 \end{aligned}
 
 </div>

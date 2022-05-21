@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-g2"
 title: "Topic - Algebra - G2"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 17:59:23
 ---
 <ul class='question default-decimal'>
 <li>

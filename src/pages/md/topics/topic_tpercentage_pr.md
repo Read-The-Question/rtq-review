@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-pr"
 title: "Topic - Percentage - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -622,153 +622,6 @@ $270$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>812FF640-E4A8-4932-850E-09DE0E46EB37</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the following:
-
-</div>
-
-
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{1}{6}$ of $\pounds 12.78$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= \dfrac {1} {6} \text{ of } \pounds 12.78\\\\
-&= \dfrac {1} {6} \times 12.78 \\\\
-&= \dfrac {1} {6} \times \dfrac {1278} {100} \\\\
-&= \dfrac {1 \times 6 \times 213} {6 \times 100} \\\\
-&= \dfrac {\cancel{6} \times 213} {\cancel{6} \times 100} \\\\
-&= \dfrac {213} {100} \\\\
-&= \pounds 2.13
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2.13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$40\%$ of $\pounds 120$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 40\% \text{ of } \pounds 120 \\\\
-&= \dfrac {40} {100} \times 120 \\\\
-&= \dfrac {40 \times 120} {100}  \\\\
-&= \dfrac {4\cancel{0} \times 12\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
-&= 4 \times 12  \\\\
-&= \pounds 48
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 48$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3 \dfrac{2}{3} - 1 \dfrac{1}{4}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 3 \dfrac {2} {3} - 1 \dfrac {1} {4} \\\\
-&= \dfrac {11} {3} - \dfrac {5} {4} \\\\
-&= \dfrac {11 \times 4} {\ \ 3 \times 4} - \dfrac {5 \times 3} {4 \times 3} \\\\
-&= \dfrac {44} {12} - \dfrac {15} {12} \\\\
-&= \dfrac {44-15} {12}  \\\\
-&= \dfrac {29} {12}  \\\\
-&= 2 \dfrac {5} {12}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \dfrac{5}{12}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>83FF262B-C3C2-446A-888D-017561433336</p>
@@ -1104,6 +957,63 @@ $27 \ \text {minutes}$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What percentage of the integers $1 - 100$ inclusive are not a multiple of $10$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write down all the multiples of $10$ between $1$ and $100$ inclusive.
+
+Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
+
+There are total $10$ numbers between $1$ and $100$ inclusive that are multiples of $10$.
+
+So numbers that are not multiples of $10 = 100 - 10 = 90$. Using this we get,
+
+$
+\begin{aligned}
+\text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
+                    &= \dfrac {90 \times 100} {100} \\\\
+                    &= 90 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -2926,66 +2836,6 @@ $\pounds \ 43.75$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>2FBBFEB4-886D-4E5F-A72B-7176F96FCF55</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together
-
-$25\%$ of $20$?
-
-$\dfrac{1}{5}$ of $30$
-
-and $\dfrac{2}{3}$ of $18$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 25\% \ \text{of} \ 20 + \dfrac{1} {5} \ \text{of} \ 30 + \dfrac{2} {3} \ \text{of} \ 18 \\\\
-&= \dfrac {25} {100} \times 20 + \dfrac{1} {5} \times 30 + \dfrac{2} {3} \times 18 \\\\
-&= \dfrac {25 \times 20} {100} + \dfrac{1 \times 30} {5} + \dfrac{2 \times 18} {3} \\\\
-&= \dfrac {25 \times 4 \times 5} {25 \times 4} + \dfrac{5 \times 6} {5} + \dfrac{2 \times 3 \times 6} {3} \\\\
-&= \dfrac {\cancel{25} \times \cancel{4} \times 5} {\cancel{25} \times \cancel{4}} + \dfrac{1 \times \cancel{5} \times 6} {\cancel{5}} + \dfrac{2 \times \cancel{3} \times 6} {\cancel{3}} \\\\
-&= 5 + 6 + 2 \times 6 \\\\
-&= 11 + 12 \\\\
-&= 23
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>7F7BEB1F-1352-462D-862B-8AEFB56B58F6</p>
 </div>
 <div class='topics'>
@@ -3069,67 +2919,6 @@ $\dfrac {17} {20}$
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>A4A02C1D-8BBA-436D-A1CF-94DD32988031</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together the following, giving your answer as a DECIMAL
-
-$\dfrac {2} {5}, \ 35\%$ and $0.604$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-The numbers are given in multiple formats. Let's convert all the numbers into decimals.
-
-$
-\begin{aligned}
-&= \dfrac {2} {5} + 35\% + 0.604 \\\\
-&= \dfrac {2 \times 2} {5 \times 2} + \dfrac {35} {100} + 0.604 \\\\
-&= \dfrac {4} {10} + 0.35 + 0.604 \\\\
-&= \dfrac {4} {10} + 0.954 \\\\
-&= 0.4 + 0.954 \\\\
-&= 1.354
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.354$
-
-</div>
-</div>
-
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
@@ -3884,56 +3673,6 @@ $\pounds 290$
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>33898C6C-BC5D-41EC-8049-B334ED8C6544</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a class of $40$ pupils, $14$ failed the physical fitness test. What percentage of the class failed the test?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Percentage of Pupil (Failed PI test)}      &= \dfrac {\text{No. of pupil (Failed PI test)}} {\text{Total pupil}} \times \text{Percentage} \\\\
-                                                 &= \dfrac{14}{40} \times 100 \% \\\\ 
-                                                 &= \dfrac{14 \times 100}{40} \\\\
-                                                 &= \dfrac{7 \times 2 \times 20 \times 5}{2 \times 20} \\\\
-                                                 &= \dfrac{7 \times \cancel {2} \times \cancel {20} \times 5}{ \cancel {2} \times \cancel {20} } \\\\
-                                                 &= 7 \times 5 \\\\
-                                                 &= 35 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$35 \%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
@@ -5008,76 +4747,6 @@ $78\%$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>1C378342-8093-4F4F-9EBA-AF890BAF5C56</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The mean of Jane’s six Mathematics test is $89 \%$. After her 
-seventh test the mean increased to $90 \%$. 
-What did Jane score in her seventh test?
-
-- $95 \%$
-- $89 \%$
-- $96 \%$
-- $90 \%$
-- $93 \%$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Since, mean of jane's mathematics test score is} &=89\% \\\\
-\text{Let the sum of the 6 mathematics mean test score be} \ \ 89\%+89\%+89\%+89\%+89\%+89\% =534\% \\\\
-\text{We need the mean of the all} \ \ 7 \ \text{mathematics test scores to be} \ \ 90\% \\\\
-\text{Let sum of  all seven test scores to be} \ \ 90\%  &= 7 \times 90 \\\\\
-&= 630 \\\\
-\text{if , 'a' s the score of} \ 7  \text{th mathematics test then, a} &= 630-534  \\\\
-&= 96 \\\\
-\text{Now, mean of all} \ 7 \ \text{mathematics test scores of jane} \\\\
-&=\dfrac{ 89\%+89\%+89\%+89\%+89\%+89\%+90\%}{7} \\\\
-&= \dfrac{630}{7} \\\\
-&= \dfrac{90 \times 7}{7} \\\\
-&= \dfrac{90 \times  \cancel 7}{\cancel 7} \\\\
-&= 90\% \\\\
-\text{So, jane must have scored} \  96\%  \ \text{in her} \ 7 \text{th test}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$90\%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
 <p>E03AFD46-F8E5-4DA8-9B71-1BF8355CF385</p>
 </div>
 <div class='topics'>
@@ -5101,6 +4770,7 @@ Find $30 \%$ of $120$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 &=  30\% \ \text{of} \ 120 \\\\
 &=  \dfrac{30}{100} \times 120 \\\\
@@ -5109,6 +4779,7 @@ Find $30 \%$ of $120$
 &=  \dfrac{36 \times \cancel{100}}1\cancel{100}} \\\\
 &=  36
 \end{aligned}
+$
 
 </div>
 </div>

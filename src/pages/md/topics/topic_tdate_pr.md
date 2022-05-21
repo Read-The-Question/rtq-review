@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdate-pr"
 title: "Topic - Date - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -85,9 +85,12 @@ The day before yesterday my daughter was $10$ years old. Next year she will be $
 <div class='workings'>
 <div class='working'>
 
-Date of Birth is $31$ December,
-
-The Date today is $1$ January.
+$
+\begin{aligned}
+\text{Date of birth of daughter}       &= 31 \ \text{December} \\\\
+\text{Today's date}                    &= 1 \ \text{January}
+\end{aligned}
+$
 
 </div>
 </div>

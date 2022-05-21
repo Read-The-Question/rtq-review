@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-all"
 title: "Topic - Order - ALL"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -130,64 +130,6 @@ $\dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_g1 question'>
-<div class='uuid'>
-<p>E2FF324D-1525-4E82-9829-9B13BB1CF5FA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle the largest fraction:
-
-$\dfrac{2}{3} \quad \dfrac{3}{4} \quad  \dfrac{3}{5} \quad  \dfrac{5}{6}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's convert all the numbers into decimals.
-
-$
-\begin{aligned}
-&= \dfrac{2}{3}, \quad \dfrac{3}{4}, \quad  \dfrac{3}{5}, \quad  \dfrac{5}{6} \\\\
-&= 0.66, \quad 0.75, \quad 0.6, \quad 0.83
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 0.6, \quad  0.66, \quad 0.75, \quad   0.83 \\\\
-&= \dfrac{3}{5},  \quad  \dfrac{2}{3},  \quad \dfrac{3}{4}, \quad \dfrac{5}{6}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {5} {6}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>2163EDE0-E8B5-49D8-B8A9-5068582C7723</p>
@@ -226,6 +168,249 @@ $3.55, 5.35, 5.53, 35.5, 53.5, 55.3$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>67351B88-F4DA-4AF6-B67A-0FEC531D6F81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put the following in order, starting with the smallest: 
+
+$3.44, 4.34, 34.4, 43.4, 44.3, 4.43$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C96ADD43-B646-4C02-A910-6FDC2DAE4914</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+ 
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the following decimal numbers in order from smallest to largest:
+
+$\boxed{\ 7.044 \ } \quad \boxed{\ 7.07 \ } \quad \boxed{\ 7.41  \ } \quad \boxed{\ 7.4004 \ }$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the difference between the largest and smallest of these four decimals.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2904D437-4DA5-4B96-BB77-BAEF6EFD6E35</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put these fractions in ascending order according to their size. (Ascending means smallest to largest)
+
+$
+\dfrac{4}{5} \quad
+\dfrac{3}{8} \quad
+\dfrac{3}{4} \quad
+\dfrac{1}{2} \quad
+\dfrac{2}{3}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -359,9 +544,9 @@ $\dfrac {1} {3}, \quad \dfrac {5} {12}, \quad 0.5, \quad 75 \%, \quad \dfrac {5}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_g1 question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>FD5A3E12-BE8F-4D26-AC89-A1DA76DF25F8</p>
+<p>20D373E0-99D2-4506-9F56-A2AF6A7F1E44</p>
 </div>
 <div class='topics'>
 <ul>
@@ -369,50 +554,208 @@ $\dfrac {1} {3}, \quad \dfrac {5} {12}, \quad 0.5, \quad 75 \%, \quad \dfrac {5}
 torder
 </li>
 <li>
-tnoexplanation
+tnumber
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Write the following numbers in order (smallest to largest):
-
-$4.41 \quad  0.414 \quad  0.4 \quad  0.1444 \quad  1.4$
+$9.3 \quad  21.56 \quad  0.8 \quad  17.5 \quad  9.04$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$0.1444, \quad  0.4, \quad  0.414, \quad  1.4, \quad  4.41$
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.1444, \quad  0.4, \quad  0.414, \quad  1.4, \quad  4.41$
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write these numbers in order, largest to smallest.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the total of the numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the difference between the largest and the smallest.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Divide the largest by $7$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g1</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_g1 question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>F62029F3-98C7-4AEC-8332-75828A0B6863</p>
+<p>A6CEDBC5-69E1-4D70-B016-7C5B0AD35309</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tfraction
-</li>
 <li>
 torder
 </li>
@@ -420,58 +763,47 @@ torder
 </div>
 <div class='question question'>
 
-Write the following fractions in order of size, from smallest to largest:
+Gryffindor house celebrated another Quidditch victory by playing a game of musical chairs. 
+When the music stopped HERMIONE, HARRY, RON, GINNY, FRED and CHARLIE managed to sit down on the six available chairs.
 
-$\dfrac{2}{3}, \quad \dfrac{5}{6}, \quad \dfrac{7}{12}$
+Can you work out the order they sat in (left to right) from the information below?
 
--   $\dfrac{7}{12}, \dfrac{2}{3}, \dfrac{5}{6}$
--   $\dfrac{7}{12}, \dfrac{5}{6}, \dfrac{2}{3}$
--   $\dfrac{2}{3}, \dfrac{7}{12}, \dfrac{5}{6}$
--   $\dfrac{5}{6}, \dfrac{2}{3}, \dfrac{7}{12}$
+- HARRY sat between RON and CHARLIE
+- GINNY was to the right of FRED
+- Three people sat between HARRY and GINNY
+- HERMIONE sat next to CHARLIE
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let's make the denominator the same for all the numbers, so we can compare them.
+TODOWORKING
 
-LCM for $3, 6, 12 = 12$
+</div>
+<div class='working'>
 
-$
-\begin{aligned}
-&= \dfrac {2} {3}, \quad \dfrac {5} {6}, \quad \dfrac {7} {12} \\\\
-&= \dfrac {2 \times 4} {3 \times 4}, \quad \dfrac {5 \times 2} {6 \times 2}, \quad \dfrac {7} {12} \\\\
-&= \dfrac {8} {12}, \quad \dfrac {10} {12}, \quad \dfrac {7} {12}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {7} {12}, \quad \dfrac {8} {12}, \quad \dfrac {10} {12} \\\\
-&= \dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}
-\end{aligned}
-$
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='option'>
-<p>A</p>
+<div class='answer'>
+
+TODOANSWER
+
 </div>
 <div class='answer'>
 
-$\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
+TODOANSWER
 
 </div>
 </div>
 
 <div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g1</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -1011,254 +1343,6 @@ $\text {B}, \text {E}, \text {G}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>30340F22-4D0A-4688-AA2E-85B3E019B213</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunit
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these lengths is longest?
-
-$42 \ \text{cm} \quad 0.4 \ \text{m} \quad 147 \ \text{mm} \quad 0.351 \ \text{m} \quad 33  \ \text{cm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, let's convert all the units to $\text {cm}$. 
-
-$
-\begin{aligned}
-&= 42 \ \text{cm}, \quad 0.4 \ \text{m}, \quad 147 \ \text{mm}, \quad 0.351 \ \text{m}, \quad 33  \ \text{cm} \\\\
-&= 42 \ \text{cm}, \quad 0.4 \times 100 \ \text{cm}, \quad \dfrac {147} {10} \ \text{cm}, \quad 0.351 \times 100 \ \text{cm}, \quad 33  \ \text{cm} \\\\
-&= 42 \ \text{cm}, \quad 40 \ \text{cm}, \quad 14.7 \ \text{cm}, \quad 35.1 \ \text{cm}, \quad 33  \ \text{cm}
-\end{aligned}
-$
-
-The longest length $= 42 \ \text{cm}$.
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>0D8E4B4B-CC0A-464D-B985-985AC893C475</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunit
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these lengths is longest?
-
-$42\ \text{cm} \quad 0.4\ \text{m} \quad  147\ \text{mm} \quad 0.351\ \text{m} \quad 33 \ \text{cm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, let's convert all the units to $\text{cm}$. 
-
-$
-\begin{aligned}
-&= 42 \ \text{cm}, \quad 0.4 \ \text{m}, \quad 147 \ \text{mm}, \quad 0.351 \ \text{m}, \quad 33  \ \text{cm} \\\\
-&= 42 \ \text{cm}, \quad 0.4 \times 100 \ \text{cm}, \quad \dfrac {147} {10} \ \text{cm}, \quad 0.351 \times 100 \ \text{cm}, \quad 33  \ \text{cm} \\\\
-&= 42 \ \text{cm}, \quad 40 \ \text{cm}, \quad 14.7 \ \text{cm}, \quad 35.1 \ \text{cm}, \quad 33  \ \text{cm}
-\end{aligned}
-$
-
-The longest length $= 42 \ \text{cm}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>F1714A09-DE83-40BB-B858-8620CDD58B7E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunit
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these lengths is longest?
-
-$157\ \text{mm} \quad 52\ \text{cm} \quad 0.451\ \text{m} \quad 43\ \text{cm} \quad 0.5 \ \text{m}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, let's can convert all the units to $\text {cm}$. 
-
-$
-\begin{aligned}
-&= 157 \ \text{mm}, \quad 52 \ \text{cm}, \quad 0.451 \ \text{m}, \quad 43 \ \text{cm}, \quad 0.5  \ \text{m} \\\\
-&= \dfrac {157} {10} \ \text{cm}, \quad 52 \ \text{cm}, \quad 0.451 \times 100 \ \text{cm}, \quad 43 \ \text{cm}, \quad 0.5 \times 100 \ \text{cm} \\\\
-&= 15.7 \ \text{cm}, \quad 52 \ \text{cm}, \quad 45.1 \ \text{cm}, \quad 43 \ \text{cm}, \quad 50  \ \text{cm}
-\end{aligned}
-$
-
-The longest length $= 52 \ \text{cm}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$52 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>5E27E4C1-9770-4014-B987-7640D59C1349</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Rearrange the order of the digits in $2965$ to make the smallest possible number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2569$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2569$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>47301465-B109-45B3-8338-D619296B1CE8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Rearrange the following numbers from the smallest to the largest.
-
-$0.601, 0.067, 0.161, 0.106$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.067, \quad 0.106, \quad 0.161, \quad 0.601$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.067, \quad 0.106, \quad 0.161, \quad 0.601$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE</p>
@@ -1320,9 +1404,9 @@ $\dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_g1 question'>
+<div class='question_envelope rag_nc_amber question'>
 <div class='uuid'>
-<p>93DF6EBE-0DD9-4615-82AC-50B838D89EAC</p>
+<p>4682F1A1-F16F-45C9-B592-45F9EB3CC113</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1333,274 +1417,85 @@ torder
 </div>
 <div class='question question'>
 
-Arrange the following fraction in numerical size order, starting with the smallest. 
+Which of the following is the largest?
 
-$\dfrac{3}{10}, \quad \dfrac{1}{5}, \quad \dfrac{3}{2}, \quad \dfrac{1}{20}, \quad \dfrac{1}{4}$
+A: $13\times14$
+
+B: $12\times15$
+
+C: $11\times16$
+
+D: $9\times18$
+
+E: $\text{they’re all equal}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let's make the denominator the same for all the numbers, so we can compare them.
+$
+\begin {aligned}
+&= 13 \times 14 \\\\
+&= 182 \\\\
+&= 12 \times 15 \\\\
+&= 180 \\\\
+&= 11 \times 16 \\\\
+&= 176 \\\\
+&= 9 \times 18 \\\\
+&= 162 \\\\
+&= \text {a. 13} \times {14}
+\end {aligned}
+$
 
-$
-\begin{aligned}
-&= \dfrac {3} {10}, \quad \dfrac {1} {5}, \quad \dfrac {3} {2}, \quad \dfrac {1} {20}, \quad \dfrac {1} {4} \\\\
-&= \dfrac {3 \times 2} {10 \times 2}, \quad \dfrac {1 \times 4} {5 \times 4}, \quad \dfrac {3 \times 10} {2 \times 10}, \quad \dfrac {1} {20}, \quad \dfrac {1 \times 5} {4 \times 5} \\\\
-&= \dfrac {6} {20}, \quad \dfrac {4} {20}, \quad \dfrac {30} {20}, \quad \dfrac {1} {20}, \quad \dfrac {5} {20}
-\end{aligned}
-$
+</div>
+<div class='working'>
 
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {1} {20}, \quad \dfrac {4} {20}, \quad \dfrac {5} {20}, \quad \dfrac {6} {20}, \quad \dfrac {30} {20} \\\\
-&= \dfrac {1} {20}, \quad \dfrac {1} {5}, \quad \dfrac {1} {4}, \quad \dfrac {3} {10}, \quad \dfrac {3} {2}
-\end{aligned}
-$
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {20}, \quad \dfrac {1} {5}, \quad \dfrac {1} {4}, \quad \dfrac {3} {10}, \quad \dfrac {3} {2}$
+a is the answer
 
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nm_g1 question'>
-<div class='uuid'>
-<p>F30EA1C5-85F5-4B57-A516-888B0C705885</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Arrange the following numbers from smallest to largest:
-
-$\dfrac{1}{3}, \quad 0.305, \quad 35\%, \quad \dfrac{3}{10}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals, or percentage.
-
-In this case, converting in percentages will be more convenient.
-
-$
-\begin{aligned}
-&= \dfrac {1} {3}, \quad 0.305, \quad 35 \%, \quad \dfrac {3} {10} \\\\
-&= \dfrac {1 \times 100} {3}, \quad \dfrac {305} {1000} \times 100, \quad 35 \%, \quad \dfrac {3 \times 100} {10} \\\\
-&= \dfrac {100} {3} \%, \quad 30.5 \%, \quad 35 \%, \quad \dfrac {3 \times 10 \cancel {0}} {1 \cancel {0}} \% \\\\
-&= 33.33 \%, \quad 30.5 \%, \quad 35 \%, \quad 30 \%
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 30 \%, \quad 30.5 \%, \quad 33.33 \%, \quad 35 \% \\\\
-&= \dfrac {3} {10}, \quad 0.305, \quad \dfrac {1} {3}, \quad 35 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {10}, \quad 0.305, \quad \dfrac {1} {3}, \quad 35 \%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nm_g1 question'>
-<div class='uuid'>
-<p>267D9071-E87F-4653-BFF9-135AC6C3D951</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the following in order of size, starting with the smallest:
-
-$2.3 \quad 2.32 \quad 2.03 \quad 2.302$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2.03 \quad 2.3 \quad 2.302 \quad 2.32$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.03 \quad 2.3 \quad 2.302 \quad 2.32$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-h</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>964A050F-9385-4777-A31A-90B6EF88B2EC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If the following fractions  are arranged in increasing order of size, which one is the smallest?
-
-- $\dfrac{1}{2}$
-- $\dfrac{3}{5}$
-- $\dfrac{4}{7}$
-- $\dfrac{5}{9}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-If two or more fraction has common numerator then fraction with larger denominator is the smallest.
-
-$
-\begin{aligned}
-&= \dfrac {1} {2} , \quad \dfrac {3} {5} , \quad \dfrac{4} {7} , \quad \dfrac {5} {9} \\\\
-&= \dfrac {1 \times 60} {2 \times 60} , \quad \dfrac {3 \times 20} {5 \times 20} , \quad \dfrac {4 \times 15} {7 \times 15} , \quad \dfrac{5 \times 12} {9 \times 12} \\\\
-&= \dfrac {60} {120} , \quad \dfrac {60} {100} , \quad \dfrac {60} {105} , \quad \dfrac {60} {108}
-\end{aligned}
-$
-
-Let's arrange them in increasing order of size.
-
-$
-\begin{aligned}
-&= \dfrac {60} {120}, \quad \dfrac {60} {108}, \quad \dfrac {60}{105}, \quad \dfrac {60} {100} \\\\
-&= \dfrac {1} {2}, \quad \dfrac {5} {9}, \quad \dfrac {4} {7}, \quad \dfrac {3} {5}
-\end{aligned}
-$
-
-The smallest fraction is $= \dfrac {1} {2}$
-
-</div>
-<div class='working'>
-
-Alternative Solution
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $2, 5, 7, 9 = 630$
-
-$
-\begin{aligned}
-&= \dfrac {1} {2} , \quad \dfrac {3} {5} , \quad \dfrac{4} {7} , \quad \dfrac {5} {9} \\\\
-&= \dfrac {1 \times 315} {2 \times 315} , \quad \dfrac {3 \times 126} {5 \times 126} , \quad \dfrac {4 \times 90} {7 \times 90} , \quad \dfrac{5 \times 70} {9 \times 70} \\\\
-&= \dfrac {315} {630} , \quad \dfrac {378} {630} , \quad \dfrac {360} {630} , \quad \dfrac {350} {630}
-\end{aligned}
-$
-
-Let's arrange them in increasing order of size.
-
-$
-\begin{aligned}
-&= \dfrac {315} {630}, \quad \dfrac {350} {630}, \quad \dfrac {360} {630}, \quad \dfrac {378} {630} \\\\
-&= \dfrac {1} {2}, \quad \dfrac {5} {9}, \quad \dfrac {4} {7}, \quad \dfrac {3} {5}
-\end{aligned}
-$
-
-The smallest fraction is $= \dfrac {1} {2}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
 </div>
 <div class='answer'>
 
-$\dfrac {1} {2}$
+TODOANSWER
 
 </div>
 </div>
 
 <div class='papername'>
-<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
+<p>rag_nc_amber</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_g1 question'>
+<div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
-<p>3306136E-D11A-4185-B4BA-DAE22322A70E</p>
+<p>14BD9B7E-6097-4379-8BAA-20AE4B0DF59E</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
+tdivision
+</li>
+<li>
+tmultiplication
+</li>
+<li>
 torder
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Write these numbers in order of size. Start with the smallest number. 
+%empty% 
 
 </div>
 <div class='workings'>
@@ -1626,20 +1521,30 @@ Write these numbers in order of size. Start with the smallest number.
 </div>
 <div class='question subquestion'>
 
-$0.56, \quad 0.067,  \quad 0.6,  \quad 0.65,  \quad 0.605$
+What is the remainder when $247$ is divided by $7$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$0.067, \quad 0.56, \quad 0.6, \quad 0.605, \quad 0.65$
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.067, \quad 0.56, \quad 0.6, \quad 0.605, \quad 0.65$
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
@@ -1654,7 +1559,45 @@ $0.067, \quad 0.56, \quad 0.6, \quad 0.605, \quad 0.65$
 </div>
 <div class='question subquestion'>
 
-$\dfrac{1}{2},  \quad \dfrac{2}{3},  \quad \dfrac{2}{5},  \quad \dfrac{3}{4}$
+Work out $23 \times 438$. Show all your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+           &            &   4   &   3   &   8 \\
+           &   \times   &       &   2   &   3 \\
+\hline     &   1        &   3   &   1   &   4 \\
+           &   8        &   7   &   6   &   0 \\
+\hline 1   &   0        &   0   &   7   &   4 
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10074$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Put the following list of fractions in order, starting with the smallest:
+
+$\dfrac{5}{7}\:\:\:\dfrac{19}{28}\:\:\:\dfrac{27}{35}\:\:\:\dfrac{9}{14}$
 
 </div>
 <div class='workings'>
@@ -1662,11 +1605,13 @@ $\dfrac{1}{2},  \quad \dfrac{2}{3},  \quad \dfrac{2}{5},  \quad \dfrac{3}{4}$
 
 Let's make the denominator the same for all the numbers, so we can compare them.
 
+LCM for $7, 28, 35, 14 = 140$
+
 $
 \begin{aligned}
-&= \dfrac {1} {2},  \quad \dfrac {2} {3},  \quad \dfrac {2} {5},  \quad \dfrac {3} {4} \\\\
-&= \dfrac {1 \times 30} {2 \times 30},  \quad \dfrac {2 \times 20} {3 \times 20},  \quad \dfrac {2 \times 12} {5 \times 12},  \quad \dfrac {3 \times 15} {4 \times 15} \\\\
-&= \dfrac {30} {60},  \quad \dfrac {40} {60},  \quad \dfrac {24} {60},  \quad \dfrac {45} {60}
+&= \dfrac {5} {7}, \quad \dfrac {19} {28}, \quad \dfrac {27} {35}, \quad \dfrac {9} {14} \\\\
+&= \dfrac {5 \times 20} {7 \times 20}, \quad \dfrac {19 \times 5} {28 \times 5}, \quad \dfrac {27 \times 4} {35 \times 4}, \quad \dfrac {9 \times 14} {14 \times 10} \\\\
+&= \dfrac {100} {140}, \quad \dfrac {95} {140}, \quad \dfrac {108} {140}, \quad \dfrac {126} {140}
 \end{aligned}
 $
 
@@ -1674,8 +1619,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {24} {60},  \quad \dfrac {30} {60},  \quad \dfrac {40} {60},  \quad \dfrac {45} {60} \\\\
-&= \dfrac {2} {5},  \quad \dfrac {1} {2},  \quad dfrac {2} {3},  \quad \dfrac {3} {4}
+&= \dfrac {95} {140}, \quad \dfrac {100} {140}, \quad \dfrac {108} {140}, \quad \dfrac {126} {140} \\\\
+&= \dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9} {14}
 \end{aligned}
 $
 
@@ -1684,7 +1629,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {2} {5},  \quad \dfrac {1} {2},  \quad dfrac {2} {3},  \quad \dfrac {3} {4}$
+$\dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9} {14}$
 
 </div>
 </div>
@@ -1693,392 +1638,10 @@ $\dfrac {2} {5},  \quad \dfrac {1} {2},  \quad dfrac {2} {3},  \quad \dfrac {3} 
 </li>
 </ul>
 <div class='papername'>
-<p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>B19AB548-0D27-40CB-939D-3640A4D2E0F5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Arrange these numbers in order, smallest first: 
-
-$7.02, \quad 7.12, \quad 7.102, \quad 7.012$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 7.02, \quad 7.12, \quad 7.102, \quad 7.012 \\\\
-&= 7.012, \quad 7.02, \quad 7.102, \quad 7.12
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7.012, \quad 7.02, \quad 7.102, \quad 7.12 $
-
-</div>
-</div>
-
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g2 question'>
-<div class='uuid'>
-<p>038DB52F-8E5F-49E9-B0AD-1E4841D9A89C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Place the following sets of numbers in order, **smallest first**. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$47, \quad 63, \quad 18, \quad 103, \quad 70$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$18, \quad 47, \quad 63, \quad 70, \quad 103$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18, \quad 47, \quad 63, \quad 70, \quad 103$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0.731, \quad 0.8, \quad 0.73 , \quad 0.711$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.711, \quad 0.73, \quad 0.731, \quad 0.8$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.711, \quad 0.73, \quad 0.731, \quad 0.8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1 \ \text{m} \ 43 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1 \ \text{m} \ 6 \ \text{cm}, \quad  1423 \ \text{mm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the units the same for all the numbers, so we can compare them.
-
-$
-\begin{aligned}
-&= 1 \ \text{m} \ 43 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1 \ \text{m} \ 6 \ \text{cm}, \quad  1423 \ \text{mm} \\\\
-&= 143 \ \text {cm}, \quad 140 \ \text {cm}, \quad  106  \ \text {cm}, \quad  142.3  \ \text {cm}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 106 \ \text {cm}, \quad 140 \ \text {cm}, \quad  142.3  \ \text {cm}, \quad  143  \ \text {cm} \\\\
-&= 1 \ \text{m} \ 6 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1423 \ \text{mm}, \quad  1 \ \text{m} \ 43 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1 \ \text{m} \ 6 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1423 \ \text{mm}, \quad  1 \ \text{m} \ 43 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g2</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>DAB0F53F-E4FB-494D-9B78-9232926F4778</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Arrange all these numbers in order of size, writing the smallest first. 
-
-$540, 452, 524, 425, 504$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$425, 452, 504, 524, 540$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$425, 452, 504, 524, 540$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using any of the digits $4,\ 5$ and $2$ only once in each answer, write down
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion TODO'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-an even $2$ digit number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$42$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-the largest $3$ digit number possible
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$542$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$542$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-the smallest $2$ digit number possible
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
+<p>rag_ad_amber</p>
 </div>
 </div>
 </li>
@@ -2123,180 +1686,6 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g2 question'>
-<div class='uuid'>
-<p>6EE94727-38BD-49E6-9DF7-819B3ADC4E51</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the four fractions below in order of size, smallest first
-
-$\dfrac{3}{4}\:\:\:\dfrac{1}{8}\:\:\:\dfrac{1}{3}\:\:\:\dfrac{3}{5}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $4, 8, 3, 5 = 120$
-
-$
-\begin{aligned}
-&= \dfrac {3} {4}, \quad \dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5} \\\\
-&= \dfrac{3 \times 30} {4 \times 30}, \quad \dfrac {1 \times 15} {8 \times 15}, \quad \dfrac {1 \times 40} {3 \times 40}, \quad \dfrac {3 \times 24} {5 \times 24} \\\\
-&= \dfrac {90} {120}, \quad \dfrac {15} {120}, \quad \dfrac {40} {120}, \quad \dfrac {72} {120}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {15} {120}, \quad \dfrac {40} {120}, \quad \dfrac {72} {120}, \quad \dfrac {90} {120} \\\\
-&= \dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5}, \quad \dfrac {3} {4}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5}, \quad \dfrac {3} {4}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g2</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>09479747-8FB8-481F-A4B4-A3396CB2F2E9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put these numbers in order from smallest to largest:
-
-$60\% \quad \dfrac{17}{25} \quad \dfrac{2}{3} \quad 0.66$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
-
-$
-\begin{aligned}
-&= 60 \%,  \quad \dfrac {17} {25}, \quad \dfrac {2} {3}, \quad 0.66 \\\\
-&= \dfrac {60} {100},  \quad \dfrac {17} {25}, \quad \dfrac {2} {3}, \quad \dfrac {66} {100} \\\\
-\end{aligned}
-$
-
-LCM for $100, 25, 3, 100 = 300$
-
-$
-\begin{aligned}
-&= \dfrac {60 \times 3} {100 \times 3},  \quad \dfrac {17 \times 12} {25 \times 12}, \quad \dfrac {2 \times 100} {3 \times 100}, \quad \dfrac {66 \times 3} {100 \times 3} \\\\
-&= \dfrac {180} {300},  \quad \dfrac {204} {300}, \quad \dfrac {200} {300}, \quad \dfrac {198} {300}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {180} {300},  \quad \dfrac {198} {300}, \quad \dfrac {200} {300}, \quad \dfrac {204} {300} \\\\
-&= 60 \%,  \quad 0.66, \quad \dfrac {2} {3}, \quad \dfrac {17} {25}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60 \%,  \quad 0.66, \quad \dfrac {2} {3}, \quad \dfrac {17} {25}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g2 question'>
-<div class='uuid'>
-<p>C618C7FA-F9F0-4238-A1D7-D67FD9B31F16</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down these numbers in order of size.
-
-Start with the smallest number first.
-
-$0.04 \quad 0.204 \quad 0.40 \quad 0.042 \quad 0.24$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.04, \quad 0.042, \quad 0.204, \quad 0.24, \quad 0.40$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.04, \quad 0.042, \quad 0.204, \quad 0.24, \quad 0.40$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g2</p>
 </div>
 </div>
 </li>
@@ -2438,75 +1827,6 @@ $-13$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>B88B846A-865E-44BA-90E3-A8A3C6065169</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put the following in order of size, **with the smallest first**.
-
-$0.43, \quad \dfrac{3}{7}, \quad \dfrac{2}{5}, \quad 44\%$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
-
-$
-\begin{aligned}
-&= 0.43,  \quad \dfrac {3} {7}, \quad \dfrac {2} {5}, \quad 44 \% \\\\
-&= \dfrac {43} {100},  \quad \dfrac {3} {7}, \quad \dfrac {2} {5}, \quad \dfrac {44} {100} \\\\
-\end{aligned}
-$
-
-LCM for $100, 7, 5, 100 = 700$
-
-$
-\begin{aligned}
-&= \dfrac {43 \times 7} {100 \times 7},  \quad \dfrac {3 \times 100} {7 \times 100}, \quad \dfrac {2 \times 140} {5 \times 140}, \quad \dfrac {44 \times 7} {100 \times 7} \\\\
-&= \dfrac {301} {700},  \quad \dfrac {300} {700}, \quad \dfrac {280} {700}, \quad \dfrac {308} {700}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {280} {700},  \quad \dfrac {300} {700}, \quad \dfrac {301} {700}, \quad \dfrac {308} {700} \\\\ 
-&= \dfrac {2} {5},  \quad \dfrac {3} {7}, \quad 0.43, \quad 44 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2} {5},  \quad \dfrac {3} {7}, \quad 0.43, \quad 44 \%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2760,253 +2080,6 @@ $\dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>BE93C1E8-2740-424A-BAA2-D767FEF4F4AE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the following numbers in order, starting with the lowest.
-
-$\dfrac{7}{8} \quad \dfrac{13} {15} \quad \dfrac{17}{20} \quad     \dfrac{25}{30} \quad \dfrac{11}{12}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $8, 15, 20, 30, 12 = 120$
-
-$
-\begin{aligned}
-&= \dfrac{7}{8}, \quad \dfrac{13}{15}, \quad \dfrac{17}{20} \quad\dfrac{25}{30} \quad \dfrac{11}{12} \\\\
-&= \dfrac{7 \times 15}{8 \times 15}, \quad \dfrac{13 \times 8}{15 \times 8}, \quad \dfrac{17 \times 6}{20 \times 6}, \quad\dfrac{25 \times 4}{30 \times 4} , \quad\dfrac{11 \times 10}{12 \times 10} \\\\
-&= \dfrac{105}{120}, \quad \dfrac{104}{120}, \quad \dfrac{102}{120}, \quad\dfrac{100}{120}, \quad\dfrac{110}{120}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac{100}{120}, \quad \dfrac{102}{120}, \quad  \dfrac{104}{120}, \quad \dfrac{105}{120}, \quad \dfrac{110}{120} \\\\
-&= \dfrac{25}{30}, \quad \dfrac{17}{20}, \quad \dfrac{13}{15}, \quad \dfrac{7}{8}, \quad \dfrac{11}{12} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{25}{30}, \quad \dfrac{17}{20}, \quad \dfrac{13}{15}, \quad \dfrac{7}{8}, \quad \dfrac{11}{12}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>B4B6A0C4-0E17-4C31-8F27-57901959FB2A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down, in ascending order, the factors of the following numbers. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$36$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1, 2, 3, 4, 6, 9, 12, 18, 36$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 2, 3, 4, 6, 9, 12, 18, 36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$150$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>DA67130B-7F57-413A-B265-65F0A75FEB6D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tfraction
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write these three quantities in order of size, starting with the $\underline{largest}$ first.
-
-$\dfrac{1}{6} , 0.15, 20\%$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-Let's convert all the numbers into fractions.
-
-$
-\begin{aligned}
-&= \dfrac {1} {6} , \quad 0.15 , \quad 20\% \\\\
-&= \dfrac {1} {6} , \quad \dfrac {15} {100} , \quad \dfrac {20} {100}
-\end{aligned}
-$
-
-Let's make the denominator the same for all the numbers.
-
-LCM of $6, 100, 100 = 300$
-
-$
-\begin{aligned}
-&= \dfrac {1 \times 50} {6 \times 50} , \quad \dfrac {15 \times 3} {100 \times 3} , \quad \dfrac {20 \times 3} {100 \times 3} \\\\
-&= \dfrac {50} {300} , \quad \dfrac {45} {300} ,  \quad \dfrac {60} {300}
-\end{aligned}
-$
-
-Let's put them in decending order now.
-
-$
-\begin{aligned}
-&= \dfrac {60} {300} , \quad \dfrac {50} {300} ,  \quad \dfrac {45} {300} \\\\
-&= 20\% , \quad \dfrac {1} {6} , \quad 0.15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20\% , \quad \dfrac {1} {6} , \quad 0.15$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>AA06A2AA-DA70-4A39-976A-D77520D6AB88</p>
@@ -3120,94 +2193,6 @@ Largest $= \dfrac {2} {5}$
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>173D1A24-A6E2-4456-A3BC-BFB68112A128</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write these three fractions in order of size, starting with the $\underline{largest}$ first. 
-
-$\dfrac{1}{3},\dfrac{3}{8},\dfrac{2}{5}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $3, 8, 5 = 120$
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} , \quad \dfrac {3} {8} , \quad \dfrac{2} {5} \\\\
-&= \dfrac {1 \times 40} {3 \times 40} , \quad \dfrac {3 \times 15} {8 \times 15} , \quad \dfrac {2 \times 24} {5 \times 24} \\\\
-&= \dfrac {40} {120} , \quad \dfrac {45} {120} , \quad \dfrac {48} {120}
-\end{aligned}
-$
-
-Let's put them in decending order now.
-
-$
-\begin{aligned}
-&= \dfrac {48} {120}, \quad \dfrac {45} {120}, \quad \dfrac {40}{120} \\\\
-&= \dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Alternative Solution
-
-If two or more fraction has common numerator then fraction with smallest denominator is the largest.
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} , \quad \dfrac {3} {8} , \quad \dfrac{2} {5} \\\\
-&= \dfrac {1 \times 6} {3 \times 6} , \quad \dfrac {3 \times 2} {8 \times 2} , \quad \dfrac {2 \times 3} {5 \times 3} \\\\
-&= \dfrac {6} {18} , \quad \dfrac {6} {16} , \quad \dfrac {6} {15}
-\end{aligned}
-$
-
-Let's put them in decending order now.
-
-$
-\begin{aligned}
-&= \dfrac {6} {15}, \quad \dfrac {6} {16}, \quad \dfrac {6}{18} \\\\
-&= \dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -3431,6 +2416,67 @@ $7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>59C2A49D-8D9D-4ED2-9CC8-AC30D8566C41</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpower
+</li>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put these values in order of size with the **smallest first**.
+
+$5^2\: \: \: 3^2\: \: \: 3^3\: \: \: 2^4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare we can convert all numbers into integers.
+
+$
+\begin{aligned}
+&=5^2,\: \: \: 3^2,\: \: \: 3^3,\: \: \: 2^4 \\\\
+&= 5 \times 5,\: \: \: 3 \times 3,\: \: \: 3 \times 3 \times 3,\: \: \: 2 \times 2 \times 2 \times 2 \\\\
+&= 25,\: \: \: 9,\: \: \: 27,\: \: \: 16 
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 9,\: \: \: 16,\: \: \: 25,\: \: \: 27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9,\: \: \: 16,\: \: \: 25,\: \: \: 27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>C83BAF7E-A28A-4228-B036-1BB050CB347F</p>
@@ -3558,6 +2604,297 @@ $\dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>0D7A1FCF-C0C2-461E-8BB0-A1568D3D420B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Cameron has four cards, each with a fraction written on it.
+
+$\boxed{\dfrac {7} {12}} \quad \boxed{\dfrac {1} {2}} \quad \boxed{\dfrac {6} {8}} \quad \boxed{\dfrac {2} {3}}$
+  
+Arrange the cards in descending order (largest first).
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Freddie has eight cards, each with a fraction written on it.
+
+$\boxed{\dfrac {1} {8}} \quad \boxed{\dfrac {1} {3}} \quad \boxed{\dfrac {1} {2}} \quad \boxed{\dfrac {2} {5}} \quad \boxed{\dfrac {3} {4}} \quad \boxed{\dfrac {7} {10}} \quad \boxed{\dfrac {6} {9}} \quad \boxed{\dfrac {1} {16}}$   
+
+Use these cards to complete each of the following equations.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$\boxed {\phantom {\dfrac {a} {b}}} + \boxed {\phantom {\dfrac {a} {b}}} = \boxed{1}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$\boxed {\phantom {\dfrac {a} {b}}} - \boxed {\phantom {\dfrac {a} {b}}} = \boxed{\dfrac {1} {5}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$\boxed {\phantom {\dfrac {a} {b}}} \times \boxed {\phantom {\dfrac {a} {b}}} = \boxed {\dfrac {3} {10}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$\boxed {\phantom {\dfrac {a} {b}}} \div \boxed {\phantom {\dfrac {a} {b}}} = \boxed{\dfrac {1} {2}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>30BB4D17-C37D-40B1-AF7F-3F86ECBCA8C0</p>
@@ -3661,6 +2998,241 @@ $\boxed {\dfrac {5} {6}} \quad \boxed {\dfrac {4} {5}} \quad \boxed {70\%} \quad
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A0D00897-FAB7-4461-A986-7C7E51444762</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The digits $3, 1, 9$ and $2$ can be arranged in any order to make four digit numbers. What is the difference between the largest and smallest numbers that you can make? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>30669B51-B241-43FE-8035-F118FD8B890C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Arrange the following numbers in order, starting with the smallest
+
+$\dfrac{1}{5} \quad  0.6 \quad   25\% \quad   0.21 \quad    \dfrac {13} {48} \quad    0.56 \quad    0.1348$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>FEA30CDA-E83F-4FC3-877C-DC0649B6C93C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+2% , 1 , 222  ,  0.202
+     5   1000 
+
+Write down which of the numbers above is
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The smallest 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The largest
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>C2E7E458-37BD-4223-A6E9-A4605F41B3BC</p>
@@ -3752,6 +3324,51 @@ $0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56$
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D14479E9-21AE-4F97-A23F-3E7D8C35496E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the following numbers in order of size, starting with the smallest. 
+
+0.26   0.3   0.038   0.38   0.308
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.038 \,\,\,\,  0.26  \,\,\,\,  0.3 \,\,\,\,  0.308 \,\,\,\,  0.38$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.038 \,\,\,\,  0.26  \,\,\,\,  0.3 \,\,\,\,  0.308 \,\,\,\,  0.38$ 
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -4295,6 +3912,110 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put a circle round the biggest number and a square round the smallest number in this list:
+
+$83\% \quad \dfrac{4}{5} \quad \dfrac{1}{3} \quad 0.333 \quad 0.825 \quad 30\% \quad 0.59 \quad 0.29 \quad \dfrac{29}{90}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>294B1C8E-3A75-4E3B-93E8-579CF1EB4C09</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put the following numbers in order starting with the smallest.
+
+$1.9, \quad \dfrac{26}{25}, \quad 1 \dfrac{3}{7}, \quad 150\%$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
@@ -4641,54 +4362,9 @@ $4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>72451A15-7547-4D75-9C09-DCFB7DF42FD8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdecimal
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle all numbers that are bigger than $0.45$
-
-$0.5 \quad 0.6 \quad 0.4 \quad 0.08 \quad 0.404$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.5, 0.6$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.5, 0.6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>2516CBC2-1DA0-4907-AFF5-DDE8C971594D</p>
+<p>0F966EC3-188D-4048-9DCF-CEC6B6FF7B61</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4702,53 +4378,41 @@ tfraction
 </div>
 <div class='question question'>
 
-Write these fractions in order of size from smallest to the largest.
+Write these fractions in order of size from the smallest to the largest.
 
-$
-\dfrac{5}{8},
-\quad \dfrac{2}{3}
-\quad \dfrac{1}{2}
-\quad \dfrac{7}{12}
-\quad \dfrac{17}{24}
-$
+$\dfrac{1}{2} \quad \dfrac{3}{8} \quad \dfrac{1}{3} \quad \dfrac{5}{12} \quad \dfrac{7}{24}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to decimals
+TODOWORKING
 
-$
-\begin{aligned}
-&= \dfrac {5} {8}, \quad \dfrac {2} {3},  \quad \dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {17} {24} \\\\
-&= 0.625, \quad 0.666, \quad 0.5, \quad 0.583, \quad 0.728
-\end{aligned}
-$
+</div>
+<div class='working'>
 
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 0.5, \quad 0.583, \quad 0.626, \quad 0.666, \quad 0.728 \\\\
-&= \dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {3}, \quad \dfrac {17} {24}
-\end{aligned}
-$
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {3}, \quad \dfrac {17} {24}$
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

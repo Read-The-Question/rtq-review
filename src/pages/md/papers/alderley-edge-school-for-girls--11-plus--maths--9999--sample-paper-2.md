@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <div class='paper'>
 <h1>Alderley Edge School for Girls</h1>
@@ -690,7 +690,7 @@ $\pounds 16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>08B091C3-398E-4C33-9232-9F1C961D0DD6</p>
 </div>
@@ -701,6 +701,9 @@ tmoney
 </li>
 <li>
 tcoin
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -715,21 +718,17 @@ How much more does she need to reach $\pounds 5$?
 <div class='working'>
 
 $
-\begin{aligned}
-\text{Ruby collected}   &= 35 \times 5 \\\\
-                        &= 175\text{p} \\\\ 
-                        &= \pounds \dfrac {175} {100} \\\\
-                        &= \pounds 1.75
-\end{aligned}
-$
-
-She need to collect,
-
-$
-\begin{aligned}
-&= 5 - 1.75 \\\\
-&= \pounds 3.25
-\end{aligned}
+\begin {aligned}
+\text {Amount collected}    &= 35 \times 5 \text {p} \\\\
+                            &= 35 \times \pounds \dfrac {5} {100} \\\\
+                            &= \dfrac {5 \times 35} {100} \\\\
+                            &= \dfrac {5 \times 5 \times 7} {5 \times 5 \times 4} \\\\
+                            &= \dfrac {\cancel {5} \times \cancel {5} \times 7} {\cancel {5} \times \cancel {5} \times 4} \\\\
+                            &= \dfrac {7} {4} \\\\
+                            &= \pounds 1.75 \\\\
+\text {Amount needed}       &= \pounds 5 - \pounds 1.75 \\\\
+                            &= \pounds 3.25
+\end {aligned}
 $
 
 </div>
@@ -746,12 +745,12 @@ $\pounds 3.25$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>98E30B30-DDF8-4611-BFF5-108696A59D3F</p>
 </div>
@@ -771,18 +770,17 @@ What change will I have from a $\pounds 5$ note?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
-
-Let's convert the total amount into pence.
-
 $
-\begin{aligned}
-\text{Change left}  &= 500 - (45 + 90) \\\\
-                    &= 500 - 135 \\\\
-                    &= 365 \\\\
-                    &= \pounds \dfrac {365} {100} \\\\
-                    &= \pounds 3.65
-\end{aligned}
+\begin {aligned}
+\text {Total cost}      &= 2 \times \text {Cost of a cake} + \text {Cost of a drink} \\\\
+                        &= 2 \times 45 \text {p} + 90 \text {p} \\\\
+                        &= 90 + 90 \\\\
+                        &= 180 \text {p} \\\\
+\text {Change left}     &= \pounds 5 - 180 \text {p} \\\\
+                        &= \pounds 5 - \pounds \dfrac {180} {100} \\\\
+                        &= 5 - 1.80 \\\\
+                        &= \pounds 3.20
+\end {aligned}
 $
 
 </div>
@@ -790,7 +788,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$/pounds3.65$
+$\pounds 3.20$
 
 </div>
 </div>
@@ -799,12 +797,12 @@ $/pounds3.65$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>C0365365-4904-4D8E-B97D-7E9DF2D136D9</p>
 </div>
@@ -827,11 +825,12 @@ cut from a piece of string $50 \ \text{cm}$ long?
 As per the question,
 
 $
-\begin{aligned}
-\text{pieces}  &= \dfrac {50} {6} \\\\
-               &= 8.3 \\\\
-               &= 8
-\end{aligned}
+\begin {aligned}
+\text {Number of pieces}    &= \dfrac {\text {Total length of the string}} {\text {Length of a piece}} \\\\
+                            &= \dfrac {50 \ \text {cm}} {6 \ \text {cm}} \\\\
+                            &= 8 \dfrac {2} {6} \\\\
+                            &= 8
+\end {aligned}
 $
 
 </div>
@@ -848,7 +847,7 @@ $8$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1332,7 +1331,7 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
 </div>
@@ -1356,23 +1355,23 @@ triangle of base length $8 \ \text{cm}$. How tall is the triangle?
 <div class='workings'>
 <div class='working'>
 
-Let the height of triangle 2 $= a$
+$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
-As per the question
+Let the height of the second triangle $= a$.
+
+As per the question,
 
 $
-\begin{aligned}
-\text{Area of triangle 1}                                       &= \text{Area of triangle 2} \\\\
-\dfrac {1} {2} \times 6 \times 4                                &=  \dfrac {1} {2} \times 8 \times a \\\\
-\dfrac {1} {2} \times 6 \times 2 times 2                        &=  \dfrac {1} {2} \times 2 \times 4 \times a \\\\
-\dfrac {1} {\cancel {2} } \times 6 \times \cancel {2} times 2   &=  \dfrac {1} {\cancel {2} } \times \cancel {2} \times 4 \times a \\\\
-12                                                              &= 4a \\\\
-4a                                                              &= 12 \\\\
-a                                                               &= \dfrac {12} {4} \\\\
-a                                                               &= \dfrac {4 \times 3} {4} \\\\
-a                                                               &= \dfrac {\cancel {4} \times 3} {\cancel {4} } \\\\\
-a                                                               &= 3 \text{ cm}
-\end{aligned}
+\begin {aligned}
+\text{Area of first triangle}                                   &= \text{Area of second triangle} \\\\
+\dfrac {1} {2} \times 6 \ \text {cm} \times 4 \ \text {cm}      &= \dfrac {1} {2} \times 8 \ \text {cm} \times a \\\\
+\dfrac {1} {2} \times 24                                        &= \dfrac {8} {2} \times a \\\\
+\dfrac {24} {2} \times \dfrac {2} {8}                           &= a \\\\
+a                                                               &= \dfrac {24 \times 2} {2 \times 8} \\\\
+a                                                               &= \dfrac {3 \times 8 \times 2} {2 \times 8} \\\\
+a                                                               &= \dfrac {3 \times \cancel {8} \times \cancel {2}} {\cancel {2} \times \cancel {8}} \\\\
+a                                                               &= 3 \ \text {cm}
+\end {aligned}
 $
 
 </div>
@@ -1380,7 +1379,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3 \text{ cm}$
+$3 \ \text{cm}$
 
 </div>
 </div>
@@ -1389,7 +1388,7 @@ $3 \text{ cm}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

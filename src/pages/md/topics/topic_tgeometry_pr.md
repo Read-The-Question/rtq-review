@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-pr"
 title: "Topic - Geometry - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -408,7 +408,7 @@ $79\degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
 </div>
@@ -432,23 +432,23 @@ triangle of base length $8 \ \text{cm}$. How tall is the triangle?
 <div class='workings'>
 <div class='working'>
 
-Let the height of triangle 2 $= a$
+$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
-As per the question
+Let the height of the second triangle $= a$.
+
+As per the question,
 
 $
-\begin{aligned}
-\text{Area of triangle 1}                                       &= \text{Area of triangle 2} \\\\
-\dfrac {1} {2} \times 6 \times 4                                &=  \dfrac {1} {2} \times 8 \times a \\\\
-\dfrac {1} {2} \times 6 \times 2 times 2                        &=  \dfrac {1} {2} \times 2 \times 4 \times a \\\\
-\dfrac {1} {\cancel {2} } \times 6 \times \cancel {2} times 2   &=  \dfrac {1} {\cancel {2} } \times \cancel {2} \times 4 \times a \\\\
-12                                                              &= 4a \\\\
-4a                                                              &= 12 \\\\
-a                                                               &= \dfrac {12} {4} \\\\
-a                                                               &= \dfrac {4 \times 3} {4} \\\\
-a                                                               &= \dfrac {\cancel {4} \times 3} {\cancel {4} } \\\\\
-a                                                               &= 3 \text{ cm}
-\end{aligned}
+\begin {aligned}
+\text{Area of first triangle}                                   &= \text{Area of second triangle} \\\\
+\dfrac {1} {2} \times 6 \ \text {cm} \times 4 \ \text {cm}      &= \dfrac {1} {2} \times 8 \ \text {cm} \times a \\\\
+\dfrac {1} {2} \times 24                                        &= \dfrac {8} {2} \times a \\\\
+\dfrac {24} {2} \times \dfrac {2} {8}                           &= a \\\\
+a                                                               &= \dfrac {24 \times 2} {2 \times 8} \\\\
+a                                                               &= \dfrac {3 \times 8 \times 2} {2 \times 8} \\\\
+a                                                               &= \dfrac {3 \times \cancel {8} \times \cancel {2}} {\cancel {2} \times \cancel {8}} \\\\
+a                                                               &= 3 \ \text {cm}
+\end {aligned}
 $
 
 </div>
@@ -456,7 +456,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3 \text{ cm}$
+$3 \ \text{cm}$
 
 </div>
 </div>
@@ -465,7 +465,7 @@ $3 \text{ cm}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

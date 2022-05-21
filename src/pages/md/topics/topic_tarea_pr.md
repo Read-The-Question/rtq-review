@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-pr"
 title: "Topic - Area - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5149,16 +5149,15 @@ Calculate the area of the rectangle.
 
 as per the question'
 
-Length of rectangle $&= 12 \ \text{cm}$
-
-Breadth of rectangle $&= 8 \ \text{cm}$
-
-Area of rectangle $&=$ Length $\times$ Breadth
-
-$&= 12 \times 8$
-
-$&= 96 \ \text{cm}^2$
-
+$
+\begin{aligned}
+\text{Length of rectangle} &= 12 \ \text{cm} \\\\
+\text{Breadth of rectangle} &= 8 \ \text{cm} \\\\
+\text{Area of rectangle} &= \text{Length} \times \text{Breadth} \\\\
+&= 12 \times 8 \\\\
+&= 96 \ \text{cm}^2 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
@@ -5342,9 +5341,11 @@ The area of the shaded inner square.
 As per the question,
 
 $
-\text{Area of the shaded inner square} &= side \times side \\\\
+\begin{aligned}
+\text{Area of the shaded inner square} &= \text{side} \times \text{side} \\\\
 &= 8 \times 8 \\\\
 &= 64 \ \text{cm}^2
+\end{aligned}
 $
 
 </div>

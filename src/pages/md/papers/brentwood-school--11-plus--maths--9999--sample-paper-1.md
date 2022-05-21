@@ -1,7 +1,7 @@
 ---
 slug: "papers/brentwood-school-11-plus-maths-9999-sample-paper-1"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <div class='paper'>
 <h1>Brentwood School</h1>
@@ -59,7 +59,7 @@ $358903$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>C975AC61-182A-4033-B6BF-F2639EFA1ED9</p>
 </div>
@@ -168,7 +168,7 @@ $\dfrac {9} {20}$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -387,7 +387,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E</p>
 </div>
@@ -537,7 +537,7 @@ $\dfrac {7} {32}$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -730,7 +730,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>62E0F078-7FB5-44EC-BC99-CC28C10BCB5C</p>
 </div>
@@ -777,7 +777,7 @@ $1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -849,14 +849,12 @@ $
 
 $
 \begin{aligned}
-\text{Next number 1}   &= 35 + 6 \\\\
-                       &= 41
-\text{Next number 2}   &= 41 + 6 \\\\
-                       &= 47
+\text{First missing number}    &= 35 + 6 \\\\
+                               &= 41 \\\\
+\text{Second missing number}   &= 41 + 6 \\\\
+                               &= 47
 \end{aligned}
 $
-
-$11, \quad 17, \quad 23, \quad 29, \quad 35, \quad 41, \quad 47$
 
 </div>
 </div>
@@ -905,14 +903,12 @@ $
 
 $
 \begin{aligned}
-\text{Next number 1}   &= 76 - 8 \\\\
-                       &= 68
-\text{Next number 2}   &= 68 - 8 \\\\
-                       &= 60
+\text{First missing number}    &= 76 - 8 \\\\
+                               &= 68 \\\\
+\text{Second missing number}   &= 68 - 8 \\\\
+                               &= 60
 \end{aligned}
 $
-
-$108, \quad 100, \quad 92, \quad 84, \quad 76, \quad 68, \quad 60$
 
 </div>
 </div>
@@ -961,14 +957,12 @@ $
 
 $
 \begin{aligned}
-\text{Next number 1}   &= 28 + 11 \\\\
-                       &= 39
-\text{Next number 2}   &= 39 + 13 \\\\
-                       &= 52
+\text{First missing number}    &= 28 + 11 \\\\
+                               &= 39 \\\\
+\text{Second missing number}   &= 39 + 13 \\\\
+                               &= 52
 \end{aligned}
 $
-
-$4, \quad 7, \quad 12, \quad 19, \quad 28, \quad 39, \quad 52$
 
 </div>
 </div>
@@ -1908,9 +1902,12 @@ The day before yesterday my daughter was $10$ years old. Next year she will be $
 <div class='workings'>
 <div class='working'>
 
-Date of Birth is $31$ December,
-
-The Date today is $1$ January.
+$
+\begin{aligned}
+\text{Date of birth of daughter}       &= 31 \ \text{December} \\\\
+\text{Today's date}                    &= 1 \ \text{January}
+\end{aligned}
+$
 
 </div>
 </div>

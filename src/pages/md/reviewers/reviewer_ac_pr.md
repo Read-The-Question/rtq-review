@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ac-pr"
 title: "Reviewer - Chiliveru Aravind - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -95,7 +95,7 @@ $
 &= 6.3 \times 1000 \ \text{m} - 140 \ \text{m} \\\\
 &= 6300 \ \text{m} - 140 \ \text{m} \\\\
 &= 6160 \ \text{m} \\\\
-&= 6160 \times 100 \ \text{cm}
+&= 6160 \times 100 \ \text{cm} \\\\
 &= 616000 \ \text{cm}
 \end{aligned}
 $
@@ -973,7 +973,7 @@ Ingredient is needed to make $18$ pancakes = Each ingredient is needed to make $
 
 $
 \begin{aligned}
-\text{The quantity of plain flour needed to make 18 pancakes} &= \text{The quantity of plain flour used to make 6 Pancakes} \times 3 \\\\
+\text{The plain flour needed to make 18 pancakes} &= \text{The plain flour used to make 6 Pancakes} \times 3 \\\\
 &= 120 \ \text{gm} \times 3 \\\\
 &=  360 \ \text{gm}
 \end{aligned}
@@ -981,7 +981,7 @@ $
 
 $
 \begin{aligned}
-\text{The number of Eggs needed to make 18 pancakes} &= \text{The number of Eggs used to make 6 Pancakes} \times 3 \\\\
+\text{The Eggs needed to make 18 pancakes} &= \text{The Eggs used to make 6 Pancakes} \times 3 \\\\
 &= 3 \times 3 \\\\
 &= 9
 \end{aligned}
@@ -989,7 +989,7 @@ $
 
 $
 \begin{aligned}
-\text{The amount of milk needed to make 18 pancakes} &= \text{The  amount of milk used to make 6 Pancakes} \times 3 \\\\
+\text{The milk needed to make 18 pancakes} &= \text{The  milk used to make 6 Pancakes} \times 3 \\\\
 &= 210 \ \text{ml} \times 3 \\\\
 &= 630 \ \text{ml}
 \end{aligned}
@@ -1023,7 +1023,7 @@ How much of each ingredient is needed to make $8$ pancakes?
 
 $
 \begin{aligned}
-\text{ingredients required to make 8 pancakes} &= \text{ingredients required to make 6 pancakes} + \text{ingredients required to make 2 pancakes}  \\\\
+\text{ingredients required to make 8 pancakes} = \text{ingredients needed to make 6 pancakes} + \text{ingredients needed to make 2 pancakes}  \\\\
 \text{As per the requirement} \\\\
 \text{ingredients required to make 2 pancakes} &= \dfrac{\text{ingredients required to make 6 pancakes}}{3} \\\\
 \text{The quantity of plain flour used to make} 2 \text{Pancakes} &= \dfrac{120}{3} \\\\
@@ -2548,28 +2548,21 @@ wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide
 
 As per the question,
 
-
-Area of the wall $&=$ length $\times$ breadth.
-
-$&=  8 \times 3$
-
-$&=  24 \ \text{m}^2$
-
-Area of the roll wallpaper $&=$ length $\times$ breadth.
-
-$&=10 \times 0.6$
-
-$&=  6 \ \text{m}^2$
-
-We need to cover  $24 \text{m}^2$  of the wall $&= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}}$
-
-$&=  \dfrac{24}{6}$
-
-$&=  \dfrac{4 \times 6}{6}$
-
-$&=  \dfrac{4 \times \cancel 6}{ \cancel 6}$
-
-$&= 4$
+$
+\begin{aligned}
+\text{Area of the wall} &= \text{length} \times \text{breadth} \\\\
+&=  8 \times 3 \\\\
+&=  24 \ \text{m}^2 \\\\
+\text{Area of the roll wallpaper} &= \text{length} \times \text{breadth} \\\\
+&=10 \times 0.6 \\\\
+&=  6 \ \text{m}^2 \\\\
+\text{We need to cover} \  24 \text{m}^2  \text|{of the wall} &= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}} \\\\
+&=  \dfrac{24}{6} \\\\
+&=  \dfrac{4 \times 6}{6} \\\\
+&=  \dfrac{4 \times \cancel 6}{ \cancel 6} \\\\
+&= 4
+\end{aligned}
+$
 
 </div>
 </div>

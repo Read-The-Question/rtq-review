@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2008-sample-paper-group-2"
 title: "City Of London School - 11 Plus - Maths - 2008 - Sample Paper Group 2"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <div class='paper'>
 <h1>City of London School</h1>
@@ -21,7 +21,7 @@ date: 2022-05-20 18:41:27
 <div class='topics'>
 <ul>
 <li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -242,7 +242,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tgraph
 </li>
 </ul>
 </div>
@@ -455,7 +455,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tgraph
 </li>
 </ul>
 </div>
@@ -598,7 +598,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+ttable
+</li>
+<li>
+tstatistics
 </li>
 </ul>
 </div>
@@ -658,7 +661,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tstatistics
 </li>
 </ul>
 </div>
@@ -710,7 +713,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tinfer
 </li>
 </ul>
 </div>
@@ -767,14 +770,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>B4E2076D-5109-4020-882E-290B7C537FB7</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -786,24 +789,14 @@ todo
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -828,24 +821,19 @@ Show your working.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Total passengers}    &= 234 \times 52 \\\\
+                            &= 12168
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$12168$
 
 </div>
 </div>
@@ -870,24 +858,21 @@ How many boxes does the club need?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Total boxes the club need}    &= \dfrac {234} {18} \\\\
+                                     &= \dfrac {13 \times 18} {18} \\\\
+                                     &= \dfrac {13 \times \cancel {18}} {\cancel {18}} \\\\
+                                     &= 13
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$13$
 
 </div>
 </div>
@@ -899,19 +884,19 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>1379DE70-C5AB-45C5-84C7-55AE20A0CA8E</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -931,24 +916,19 @@ Show your working.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Cost of calculator in} 1979   &= 1.25 \times 22 \\\\
+                                     &= \pounds 27.5
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 27.5$
 
 </div>
 </div>
@@ -957,7 +937,7 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -969,7 +949,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tnumber
+</li>
+<li>
+tinfer
 </li>
 </ul>
 </div>
@@ -1160,7 +1143,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tnumber
+</li>
+<li>
+tdraw
 </li>
 </ul>
 </div>
@@ -1329,7 +1315,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tarea
+</li>
+<li>
+tvolume
 </li>
 </ul>
 </div>
@@ -1458,7 +1447,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tmap
+</li>
+<li>
+tspeed
 </li>
 </ul>
 </div>
@@ -1589,7 +1581,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tinfer
 </li>
 </ul>
 </div>
@@ -1641,7 +1633,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+ttable
 </li>
 </ul>
 </div>
@@ -1697,14 +1689,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>79795420-38FD-4AE7-84E8-377DBD4317D4</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -1718,24 +1710,14 @@ How many triangles are there in this diagram?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$6$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$6$
 
 </div>
 </div>
@@ -1744,7 +1726,7 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -1756,7 +1738,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tdraw
+</li>
+<li>
+tsymmetry
 </li>
 </ul>
 </div>
@@ -1922,14 +1907,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>286BFED8-7256-45C4-AA5A-FC71136B6B5D</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-todo
+tspeed
 </li>
 </ul>
 </div>
@@ -1941,24 +1926,24 @@ I travel $1\ \text{mile}$ at $60\ \text{m.p.h.}$ and then $1\ \text{mile}$ at $3
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text {Average speed}   &= \dfrac {60 + 30} {2} \\\\
+                        &= \dfrac {90} {2} \\\\
+                        &= \dfrac {45 \times 2} {2} \\\\
+                        &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
+                        &= 45 \ \text {m.p.h}
+\end{aligned}
+$
 
-</div>
-<div class='working'>
-
-TODOWORKING
+My average speed is $= 45 \ \text {m.p.h}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$45 \ \text {m.p.h}$
 
 </div>
 </div>
@@ -1967,19 +1952,19 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>7D74ACBA-5E3A-4BCF-9ECA-55ED79C8FCFA</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -1991,24 +1976,23 @@ Find the sum of the prime numbers between $50$ and $60$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The prime numbers between $50$ and $60$ are $53$ and $59$.
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+&= 53 + 59 \\\\
+&= 112
+\end{aligned}
+$
 
-TODOWORKING
+The sum of the prime numbers between $50$ and $60$ is $112$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$112$
 
 </div>
 </div>
@@ -2017,19 +2001,22 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-todo
+tfactor
+</li>
+<li>
+tpercentage
 </li>
 </ul>
 </div>
@@ -2041,24 +2028,28 @@ What percentage of the integers $1 - 100$ inclusive are not a multiple of $10$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let's write down all the multiples of $10$ between $1$ and $100$ inclusive.
 
-</div>
-<div class='working'>
+Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
 
-TODOWORKING
+There are total $10$ numbers between $1$ and $100$ inclusive that are multiples of $10$.
+
+So numbers that are not multiples of $10 = 100 - 10 = 90$. Using this we get,
+
+$
+\begin{aligned}
+\text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
+                    &= \dfrac {90 \times 100} {100} \\\\
+                    &= 90 \%
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$90 \%$
 
 </div>
 </div>
@@ -2067,7 +2058,7 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -2079,7 +2070,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tfraction
 </li>
 </ul>
 </div>
@@ -2131,7 +2122,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tangle
 </li>
 </ul>
 </div>
@@ -2183,7 +2174,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tfactor
 </li>
 </ul>
 </div>
@@ -2233,7 +2224,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tfactor
 </li>
 </ul>
 </div>
@@ -2283,7 +2274,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tunit
 </li>
 </ul>
 </div>
@@ -2333,7 +2324,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tnumber
+</li>
+<li>
+tsequence
 </li>
 </ul>
 </div>
@@ -2576,7 +2570,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-todo
+tnumber
 </li>
 </ul>
 </div>

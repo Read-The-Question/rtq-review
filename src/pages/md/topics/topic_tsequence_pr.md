@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-pr"
 title: "Topic - Sequence - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -851,14 +851,12 @@ $
 
 $
 \begin{aligned}
-\text{Next number 1}   &= 35 + 6 \\\\
-                       &= 41
-\text{Next number 2}   &= 41 + 6 \\\\
-                       &= 47
+\text{First missing number}    &= 35 + 6 \\\\
+                               &= 41 \\\\
+\text{Second missing number}   &= 41 + 6 \\\\
+                               &= 47
 \end{aligned}
 $
-
-$11, \quad 17, \quad 23, \quad 29, \quad 35, \quad 41, \quad 47$
 
 </div>
 </div>
@@ -907,14 +905,12 @@ $
 
 $
 \begin{aligned}
-\text{Next number 1}   &= 76 - 8 \\\\
-                       &= 68
-\text{Next number 2}   &= 68 - 8 \\\\
-                       &= 60
+\text{First missing number}    &= 76 - 8 \\\\
+                               &= 68 \\\\
+\text{Second missing number}   &= 68 - 8 \\\\
+                               &= 60
 \end{aligned}
 $
-
-$108, \quad 100, \quad 92, \quad 84, \quad 76, \quad 68, \quad 60$
 
 </div>
 </div>
@@ -963,14 +959,12 @@ $
 
 $
 \begin{aligned}
-\text{Next number 1}   &= 28 + 11 \\\\
-                       &= 39
-\text{Next number 2}   &= 39 + 13 \\\\
-                       &= 52
+\text{First missing number}    &= 28 + 11 \\\\
+                               &= 39 \\\\
+\text{Second missing number}   &= 39 + 13 \\\\
+                               &= 52
 \end{aligned}
 $
-
-$4, \quad 7, \quad 12, \quad 19, \quad 28, \quad 39, \quad 52$
 
 </div>
 </div>
@@ -3086,64 +3080,6 @@ $64$
 </ul>
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>DB0B19ED-782A-4134-B0D4-8FB4BE272409</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the next fraction in the sequence: $\dfrac{5}{8}, \quad \dfrac{10}{16}, \quad \dfrac{15}{24}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-$
-\begin{matrix}
-    \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{1} {1} )}} 
-&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{2} {2} )}} 
-&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{3} {3} )}}  
-&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{4} {4} )}} \\\\
-\dfrac {5} {8},  &&    \dfrac {10} {16},  &&  \dfrac {15} {24},   && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Next fraction}        &= \dfrac {5} {8} \times \dfrac{4} {4} \\\\
-                            &= \dfrac {5 \times 4} {8 \times 4} \\\\
-                            &= \dfrac {20} {32}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {20} {32}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>

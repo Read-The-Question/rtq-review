@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-pr"
 title: "Topic - Noexplanation - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -396,7 +396,7 @@ What is the Highest Common Factor of $36$ and $60$?
 
 $
 \begin{aligned}
-\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\
+\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\\\
 \text {Factors of } 60                                      &=  1, 2, 3, 4, 5, 6, 10, \bold {12}, 15, 20, 30, 60
 \end{aligned}
 $
@@ -432,8 +432,8 @@ Which of the factors of $36$ are square numbers?
 $
 \begin{aligned}
 4   &= 2^2 \\\\
-9   &= 3^3 \\\\
-36  &= 6^6
+9   &= 3^2 \\\\
+36  &= 6^2
 \end{aligned}
 $
 
@@ -512,9 +512,12 @@ The day before yesterday my daughter was $10$ years old. Next year she will be $
 <div class='workings'>
 <div class='working'>
 
-Date of Birth is $31$ December,
-
-The Date today is $1$ January.
+$
+\begin{aligned}
+\text{Date of birth of daughter}       &= 31 \ \text{December} \\\\
+\text{Today's date}                    &= 1 \ \text{January}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2922,50 +2925,6 @@ $53018$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>32D942BE-6B7A-4B62-A207-F11825B1D176</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The number $5$ is a factor of $65$ because it divides into $65$ without a remainder. 
-Write down the other three factors of $65$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Factors of $65 = 1, 13, 65$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 13, 65$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

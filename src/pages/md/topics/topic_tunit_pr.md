@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-pr"
 title: "Topic - Unit - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -674,6 +674,188 @@ $40 \ \text{inches}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>5E77341D-320F-47AF-AB40-A78DD573EE26</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunit
+</li>
+<li>
+ttime
+</li>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On a long straight country road, there are four villages: Josham, Keston, Langham and Moreton, which are shown in the diagram below.
+
+![missing image](/papers/missing_image.svg)
+
+Distances between the village are shown by the arrows. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the distances from:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Keston to Langham;
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 26 \ \text{km} - 12 \ \text {km} \\\\
+&= 14 \ \text {km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14 \ \text {km}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Langham to Moreton, giving your answer **in metres**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 23 \ \text {km} - 14 \ \text {km} \\\\
+&= 9 \ \text {km} \\\\
+&= 9 \times 1000 \ \text{m} \\\\
+&= 9000\ \ text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9000\ \ text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey would take from Josham to Moreton in hours and minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {time} &= \dfrac {distance} {speed} \\\\
+             &= \dfrac {12 + 23} {14} \\\\
+             &= \dfrac {35} {14} \\\\
+             &= 2 \ \text {hours}, 5 \ \text{minutes} 
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {hours}, 5 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>46713943-D59E-4BE3-ADA0-E5CDEE05B15A</p>
@@ -1268,7 +1450,7 @@ It is really important to use the right units in calculations and convert where 
 
 NO of sheets per ream = $500$
 
-mass of one sheet = $4.75 \text {grams}$
+mass of one sheet = $4.75 \  \text {grams}$
 
 As per the question,
 
@@ -1276,7 +1458,7 @@ $
 \begin{aligned}
 \text{Let mass be a for 500 number of sheets} \\
 \text{then}\ \ &   a = 500 \times 4.75 \\
-               &   a = 2375 \text{grams}
+               &   a = 2375 \  \text{grams}
 \end{aligned}
 $
 

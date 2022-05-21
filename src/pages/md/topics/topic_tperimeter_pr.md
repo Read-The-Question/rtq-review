@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-pr"
 title: "Topic - Perimeter - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3880,23 +3880,25 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <div class='workings'>
 <div class='working'>
 
-The area of parallelogram $&= 38 \ \text{cm}^2$
 
-Breadth of parallelogram $&= 4 \ \text{cm}$
+The area of parallelogram $= 38 \ \text{cm}^2$
+
+Breadth of parallelogram $= 4 \ \text{cm}$
 
 Let length of parallelogram be 'a'
 
-Area of parallelogram $&=$ Length $\times$ Breadth.
+Area of parallelogram = Length \times Breadth.
 
-$38 &= 4 \times a$
+$38 = 4 \times$ a
 
-$a &= \dfrac{38}{4}$
+a $= \dfrac{38}{4}$
 
-$a &= \dfrac{4 \times 9.5}{4}$
+a $= \dfrac{4 \times 9.5}{4}$
 
-$a &= \dfrac{\cancel 4 \times 9.5}{\cancel4}$
+a $= \dfrac{\cancel 4 \times 9.5}{\cancel4}$
 
-$a &= 9.5 \ \text{cm}$
+a $= 9.5 \ \text{cm}$
+
 
 </div>
 </div>
@@ -3957,9 +3959,11 @@ As per the question,
 $\text{Perimeter} = 4 \times \text{side})$
 
 $
+\begin{aligned}
 \text{perimeter of square} &= 4 \times (14 + 6) \\\\
 &= 4 \times 20 \\\\
 &= 80 \ \text{cm}^2
+\end{aligned}
 $
 
 </div>

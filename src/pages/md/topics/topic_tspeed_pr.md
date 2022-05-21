@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-pr"
 title: "Topic - Speed - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -195,7 +195,7 @@ $68 \ \text {miles/hour}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>3C1A8ECE-FC50-4AC9-B755-F100FE9325E2</p>
 </div>
@@ -215,24 +215,32 @@ tspeed
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin{aligned}
-\text{Time}  &= \dfrac {\text{distance}} {\text{speed}} \\\\
-             &= \dfrac {200} {60} \\\\
-             &= \dfrac { 20 \cancel {0} } {6 \cancel {0} } \\\\
-             &= \dfrac { \cancel {2} \times 10 } {3 \times \cancel{2} } \\\\
-             &= \dfrac {10} {3} \\\\
-             &= 3.33 \times 60 \\\\
-             &= 199.8 \text{ minutes}
-\end{aligned}
+\begin {aligned}
+\text {Time}    &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
+                &= \dfrac {200 \ \text {miles}} {60 \ \text {miles per hour}} \\\\
+                &= \dfrac {2 \times 10 \times 10} {2 \times 3 \times 10} \\\\
+                &= \dfrac {\cancel {2} \times \cancel {10} \times 10} {\cancel {2} \times 3 \times \cancel {10}} \\\\
+                &= \dfrac {10} {3} \\\\
+                &= 3 \dfrac {1} {3} \ \text {hours} \\\\
+                &= 3 + \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
+                &= 3 + \dfrac {60} {3} \\\\
+                &= 3 + \dfrac {20 \times 3} {3} \\\\
+                &= 3 + \dfrac {20 \times \cancel {3}} {\cancel {3}} \\\\
+                &= 3 \ \text {hours} \ 20 \ \text {minutes}
+\end {aligned}
 $
+
+The journey took $3 \ \text {hours} \ 20 \ \text {minutes}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$199.8 \text{ minutes}$
+$3 \ \text {hours} \ 20 \ \text {minutes}$
 
 </div>
 </div>
@@ -241,7 +249,57 @@ $199.8 \text{ minutes}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>286BFED8-7256-45C4-AA5A-FC71136B6B5D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I travel $1\ \text{mile}$ at $60\ \text{m.p.h.}$ and then $1\ \text{mile}$ at $30\ \text{m.p.h.}$ What is my average speed in $\text{miles per hour}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Average speed}   &= \dfrac {60 + 30} {2} \\\\
+                        &= \dfrac {90} {2} \\\\
+                        &= \dfrac {45 \times 2} {2} \\\\
+                        &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
+                        &= 45 \ \text {m.p.h}
+\end{aligned}
+$
+
+My average speed is $= 45 \ \text {m.p.h}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \ \text {m.p.h}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -292,6 +350,188 @@ $40 \ \text {miles per hour}$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>5E77341D-320F-47AF-AB40-A78DD573EE26</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunit
+</li>
+<li>
+ttime
+</li>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On a long straight country road, there are four villages: Josham, Keston, Langham and Moreton, which are shown in the diagram below.
+
+![missing image](/papers/missing_image.svg)
+
+Distances between the village are shown by the arrows. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the distances from:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Keston to Langham;
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 26 \ \text{km} - 12 \ \text {km} \\\\
+&= 14 \ \text {km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14 \ \text {km}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Langham to Moreton, giving your answer **in metres**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 23 \ \text {km} - 14 \ \text {km} \\\\
+&= 9 \ \text {km} \\\\
+&= 9 \times 1000 \ \text{m} \\\\
+&= 9000\ \ text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9000\ \ text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey would take from Josham to Moreton in hours and minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {time} &= \dfrac {distance} {speed} \\\\
+             &= \dfrac {12 + 23} {14} \\\\
+             &= \dfrac {35} {14} \\\\
+             &= 2 \ \text {hours}, 5 \ \text{minutes} 
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {hours}, 5 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -813,7 +1053,7 @@ As per the question,
 
 Let the distance between Madrid to Paris be 'a'.
 
-Total distance $&=$ distance of Lisbon to Madrid +  distance of Madrid to Paris + distance of Paris to MUnich 
+Total distance $=$ distance of Lisbon to Madrid +  distance of Madrid to Paris + distance of Paris to Munich 
 
 $
 \begin{aligned}
@@ -822,9 +1062,9 @@ $
 a &= 2730 - 1465 \\\\
 a &= 1265 \ \text{km}
 \end{aligned}
+$
 
 The distance between Madrid to Paris is $1265 \ \text{km}$
-$
 
 </div>
 </div>

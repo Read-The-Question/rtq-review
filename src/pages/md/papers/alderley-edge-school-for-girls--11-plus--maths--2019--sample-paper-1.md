@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <div class='paper'>
 <h1>Alderley Edge School for Girls</h1>
@@ -2217,7 +2217,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>3C1A8ECE-FC50-4AC9-B755-F100FE9325E2</p>
 </div>
@@ -2237,24 +2237,32 @@ tspeed
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin{aligned}
-\text{Time}  &= \dfrac {\text{distance}} {\text{speed}} \\\\
-             &= \dfrac {200} {60} \\\\
-             &= \dfrac { 20 \cancel {0} } {6 \cancel {0} } \\\\
-             &= \dfrac { \cancel {2} \times 10 } {3 \times \cancel{2} } \\\\
-             &= \dfrac {10} {3} \\\\
-             &= 3.33 \times 60 \\\\
-             &= 199.8 \text{ minutes}
-\end{aligned}
+\begin {aligned}
+\text {Time}    &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
+                &= \dfrac {200 \ \text {miles}} {60 \ \text {miles per hour}} \\\\
+                &= \dfrac {2 \times 10 \times 10} {2 \times 3 \times 10} \\\\
+                &= \dfrac {\cancel {2} \times \cancel {10} \times 10} {\cancel {2} \times 3 \times \cancel {10}} \\\\
+                &= \dfrac {10} {3} \\\\
+                &= 3 \dfrac {1} {3} \ \text {hours} \\\\
+                &= 3 + \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
+                &= 3 + \dfrac {60} {3} \\\\
+                &= 3 + \dfrac {20 \times 3} {3} \\\\
+                &= 3 + \dfrac {20 \times \cancel {3}} {\cancel {3}} \\\\
+                &= 3 \ \text {hours} \ 20 \ \text {minutes}
+\end {aligned}
 $
+
+The journey took $3 \ \text {hours} \ 20 \ \text {minutes}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$199.8 \text{ minutes}$
+$3 \ \text {hours} \ 20 \ \text {minutes}$
 
 </div>
 </div>
@@ -2263,7 +2271,7 @@ $199.8 \text{ minutes}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -2957,7 +2965,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>1560E53F-1121-4690-82F4-852BE2494204</p>
 </div>
@@ -2965,6 +2973,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+tdraw
 </li>
 </ul>
 </div>
@@ -2982,39 +2993,43 @@ Calculate the missing angles $p, q$ and $r$.
 <div class='workings'>
 <div class='working'>
 
-As we all know angle of semi-circle $= 180\degree$
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
 
 $
-\begin{aligned}
-35 + 90 + p   &=  180 \\\\
+\begin {aligned}
+35 + 90 + p   &= 180 \\\\
 125 + p       &= 180 \\\\
 p             &= 180 - 125 \\\\
-p             &= 55\degree
-\end{aligned}
-$
-
-b. As we all know sum of all angles in triangle $= 180\degree$
-
-$
-\begin{aligned}
-81 + 52 + q &= 180 \\\\
-133 + q     &= 180 \\\\
-q           &= 180 - 133 \\\\
-q           &= 47 \degree
-\end{aligned}
-$
-
-c. In third image take triangle ABC 
-
-Let the missing angle $= a$
-
-$
-\begin{aligned}
-140 + 24 + a   &= 180 \\\\
-164 + a        &= 180 \\\\
-a              &= 180 - 164 \\\\
-a              &= 16 \degree
-\end{aligned}
+p             &= 55 \degree
+\end {aligned}
 $
 
 </div>
@@ -3022,16 +3037,99 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$55\degree, 16\degree$
+$55 \degree$
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
+
+$
+\begin {aligned}
+81 + 52 + q     &= 180 \\\\
+133 + q         &= 180 \\\\
+q               &= 180 - 133 \\\\
+q               &= 47 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram, the rhombus is having its opposite sides equal, So which means the angles opposite are also equal.
+
+As we know, the sum of angles in a triangle is $180 \degree$.
+
+Taking the lower triangle, we get
+
+$
+\begin {aligned}
+140 + 24 + r    &= 180 \\\\
+r + 164         &= 180 \\\\
+r               &= 180 - 164 \\\\
+r               &= 16 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

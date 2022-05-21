@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-pr"
 title: "Topic - Algebra - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1497,7 +1497,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>C0365365-4904-4D8E-B97D-7E9DF2D136D9</p>
 </div>
@@ -1520,11 +1520,12 @@ cut from a piece of string $50 \ \text{cm}$ long?
 As per the question,
 
 $
-\begin{aligned}
-\text{pieces}  &= \dfrac {50} {6} \\\\
-               &= 8.3 \\\\
-               &= 8
-\end{aligned}
+\begin {aligned}
+\text {Number of pieces}    &= \dfrac {\text {Total length of the string}} {\text {Length of a piece}} \\\\
+                            &= \dfrac {50 \ \text {cm}} {6 \ \text {cm}} \\\\
+                            &= 8 \dfrac {2} {6} \\\\
+                            &= 8
+\end {aligned}
 $
 
 </div>
@@ -1541,12 +1542,12 @@ $8$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
 </div>
@@ -1570,23 +1571,23 @@ triangle of base length $8 \ \text{cm}$. How tall is the triangle?
 <div class='workings'>
 <div class='working'>
 
-Let the height of triangle 2 $= a$
+$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
-As per the question
+Let the height of the second triangle $= a$.
+
+As per the question,
 
 $
-\begin{aligned}
-\text{Area of triangle 1}                                       &= \text{Area of triangle 2} \\\\
-\dfrac {1} {2} \times 6 \times 4                                &=  \dfrac {1} {2} \times 8 \times a \\\\
-\dfrac {1} {2} \times 6 \times 2 times 2                        &=  \dfrac {1} {2} \times 2 \times 4 \times a \\\\
-\dfrac {1} {\cancel {2} } \times 6 \times \cancel {2} times 2   &=  \dfrac {1} {\cancel {2} } \times \cancel {2} \times 4 \times a \\\\
-12                                                              &= 4a \\\\
-4a                                                              &= 12 \\\\
-a                                                               &= \dfrac {12} {4} \\\\
-a                                                               &= \dfrac {4 \times 3} {4} \\\\
-a                                                               &= \dfrac {\cancel {4} \times 3} {\cancel {4} } \\\\\
-a                                                               &= 3 \text{ cm}
-\end{aligned}
+\begin {aligned}
+\text{Area of first triangle}                                   &= \text{Area of second triangle} \\\\
+\dfrac {1} {2} \times 6 \ \text {cm} \times 4 \ \text {cm}      &= \dfrac {1} {2} \times 8 \ \text {cm} \times a \\\\
+\dfrac {1} {2} \times 24                                        &= \dfrac {8} {2} \times a \\\\
+\dfrac {24} {2} \times \dfrac {2} {8}                           &= a \\\\
+a                                                               &= \dfrac {24 \times 2} {2 \times 8} \\\\
+a                                                               &= \dfrac {3 \times 8 \times 2} {2 \times 8} \\\\
+a                                                               &= \dfrac {3 \times \cancel {8} \times \cancel {2}} {\cancel {2} \times \cancel {8}} \\\\
+a                                                               &= 3 \ \text {cm}
+\end {aligned}
 $
 
 </div>
@@ -1594,7 +1595,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3 \text{ cm}$
+$3 \ \text{cm}$
 
 </div>
 </div>
@@ -1603,7 +1604,7 @@ $3 \text{ cm}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -2388,9 +2389,12 @@ The day before yesterday my daughter was $10$ years old. Next year she will be $
 <div class='workings'>
 <div class='working'>
 
-Date of Birth is $31$ December,
-
-The Date today is $1$ January.
+$
+\begin{aligned}
+\text{Date of birth of daughter}       &= 31 \ \text{December} \\\\
+\text{Today's date}                    &= 1 \ \text{January}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -8101,89 +8105,6 @@ $3$
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
-<p>DCA17542-5313-4830-8E8C-79DE88C98DEF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Albert, Brian and Charlie are dogs. Albert and Brian weigh $22 \ \text{kg}$ together. Brian and Charlie weigh $20 \ \text{kg}$ together. All three dogs weigh $30 \ \text{kg}$. How much does each dog weigh?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the weights of Albert, Brian, Charlie are A, B, C respectivley.
-
-As per the question,
-
-$
-\begin{aligned}
-A + B     &= 22    \ \text{kg}  \\\\
-B + C     &= 20     \ \text{kg} \\\\
-A + B + C &= 30 \ \text{kg}\\\\
-\end{aligned}
-$
-
-Lets, first find value of A
-
-$
-\begin{aligned}
-A + (B + C)  &= 30 \\\\
-A + 20       &= 30 \\\\
-A            &= 30 - 20 \\\\
-A            &= 10 \\\\
-\end{aligned}
-$
-
-Now finding the value of B,
-
-$
-\begin{aligned}
-A + B  &= 22 \\\\
-B      &= 22 - A \\\\
-B      &= 22 - 10 \\\\
-B      &= 11
-\end{aligned}
-$
-
-Finally the value of C is given by,
-
-$
-\begin{aligned}
-B + C &= 20 \\\\
-C     &= 20 - B \\\\
-C     &= 20 - 11 \\\\
-C     &= 9
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10, 11, 9$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
 <p>4FD3FA7F-457F-4731-B4AE-15DCF80081B3</p>
 </div>
 <div class='topics'>
@@ -11058,12 +10979,12 @@ In a box of sweets there are $7$ toffees for every $12$ chocolates
 
 $
 \begin{aligned}
-\text{Let the toffees br 'a' for 72 chocolates} \\
-\text{then} \\
+\text{Let the toffees br 'a' for 72 chocolates} \\\\
+\text{then} \\\\
 & 12a   =   72\times 7 \\
 &   a   =   \dfrac{72\times 7}{12} \\\\
 &   a   =   \dfrac{\cancel{72} \ \ 6 \times 7}{\cancel{12}} \\\\
-&   a   =   42 \text{toffees}
+&   a   =   42  \ \text{toffees}
 \end{aligned}
 $
 
@@ -12536,28 +12457,21 @@ wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide
 
 As per the question,
 
-
-Area of the wall $&=$ length $\times$ breadth.
-
-$&=  8 \times 3$
-
-$&=  24 \ \text{m}^2$
-
-Area of the roll wallpaper $&=$ length $\times$ breadth.
-
-$&=10 \times 0.6$
-
-$&=  6 \ \text{m}^2$
-
-We need to cover  $24 \text{m}^2$  of the wall $&= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}}$
-
-$&=  \dfrac{24}{6}$
-
-$&=  \dfrac{4 \times 6}{6}$
-
-$&=  \dfrac{4 \times \cancel 6}{ \cancel 6}$
-
-$&= 4$
+$
+\begin{aligned}
+\text{Area of the wall} &= \text{length} \times \text{breadth} \\\\
+&=  8 \times 3 \\\\
+&=  24 \ \text{m}^2 \\\\
+\text{Area of the roll wallpaper} &= \text{length} \times \text{breadth} \\\\
+&=10 \times 0.6 \\\\
+&=  6 \ \text{m}^2 \\\\
+\text{We need to cover} \  24 \text{m}^2  \text|{of the wall} &= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}} \\\\
+&=  \dfrac{24}{6} \\\\
+&=  \dfrac{4 \times 6}{6} \\\\
+&=  \dfrac{4 \times \cancel 6}{ \cancel 6} \\\\
+&= 4
+\end{aligned}
+$
 
 </div>
 </div>
@@ -13297,57 +13211,6 @@ $\text{One orange and five apples}$
 
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>68B5F9D8-6802-4D8A-9E11-07B4B6B7DBB1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tquadraticprompt
-</li>
-<li>
-ttrialerror
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down two numbers which differ by $2$ and multiply to $168$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
- 14 - 12  & = 2 \\\\
- 14 \times 12 &= 168 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14, 12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>

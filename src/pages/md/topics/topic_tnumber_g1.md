@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-g1"
 title: "Topic - Number - G1"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 17:59:23
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1074,6 +1074,161 @@ $358903$
 </div>
 </div>
 
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You are given two numbers $0.35$ and $\dfrac{5}{8}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Convert $0.35$ into a fraction and simplify fully.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.35 \\\\
+&= \dfrac {35} {100} \\\\
+&= \dfrac {7 \times 5} {20 \times 5} \\\\
+&= \dfrac {7 \times \cancel{5}} {20 \times \cancel{5}} \\\\
+&= \dfrac {7} {20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {20}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the sum of these two numbers, write the answer as a fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.35 + \dfrac {5} {8} \\\\
+&= \dfrac {7} {20} + \dfrac {5} {8} \\\\
+&= \dfrac {7 \times 2} {20 \times 2} + \dfrac {5 \times 5} {8 \times 5} \\\\
+&= \dfrac {14} {40} + \dfrac {25} {40} \\\\
+&= \dfrac {14 + 25} {40} \\\\
+&= \dfrac {39} {40} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {39} {40}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the product of these two numbers, write the answer as a fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.35 \times \dfrac {5} {8} \\\\
+&= \dfrac {7} {20} \times \dfrac {5} {8}                               \\\\
+&= \dfrac {7 \times 5} {20 \times 8}                                   \\\\
+&= \dfrac {7 \times 5} {5 \times 4 \times 8}                           \\\\
+&= \dfrac {7 \times \cancel {5}} {\cancel{5} \times 4 \times 8}       \\\\
+&= \dfrac {7} {4 \times 8}                                             \\\\
+&= \dfrac {7} {32}      
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {32}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -11035,6 +11190,46 @@ $36043$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>51E50474-CE39-4138-906C-FC601A2C0B82</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the number $\text{‘forty five thousand, seven hundred and two’}$ in figures. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$45702$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45702$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>B4AD1FF4-F2A8-4086-8E1D-A4B559089B2B</p>
@@ -13743,6 +13938,211 @@ $370$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>7C19DA98-914F-4E7A-AFD9-38F202A08A32</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Round $567$ to the nearest $100$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$600$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$600$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>169B3F23-EB06-4E0D-9414-80C1BA4C87CC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The safety notice in a lift reads:
+
+$\boxed{\text{Maximum 6 persons 580 {kilograms}}}$
+
+The weights of the first five people to enter the lift are $90 \ \text{kg}$, 
+$80 \ \text{kg}$, $95 \ \text{kg}$,$115 \ \text{kg}$ and $89 \ \text{kg}$.
+
+What is the maximum weight of the sixth person in the lift if they all travel together safely?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the maximum weight of sixth person be $= a$
+
+As per the question
+
+$
+\begin{aligned}
+90 + 80 + 95 + 115 + 89 + a   &= 580 \\\\
+a + 469                       &= 580 \\\\
+a                             &= 580 - 469 \\\\
+a                             &= 111 \text{ kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$111 \text{ kg}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>8F25FCC6-B743-4F32-A515-AC5FD59ABF76</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You are given the number $2864$. 
+
+You are allowed to swap the position of any two digits.
+
+For example, $2 8 6 4$ gives $2 6 8 4$
+
+or $2 8 6 4$ gives $4 8 6 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the largest possible number you can make using one swap?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The largest digit in $2864$ is $8$.
+
+Swapping $2$ and $8$ will give us the largest number $= 8264$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8264$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the smallest possible number you can make using one swap?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As the smallest number $2$ is already in the thousands place, we take the second smallest number $4$  in the hundrends place. 
+
+Swapping $8$ and $4$ will give us the smallest number $= 2468$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2468$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

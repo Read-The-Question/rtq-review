@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-pr"
 title: "Owner - Chiliveru Aravind - PR"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3015,115 +3015,6 @@ $117 \ \text{cm}^2$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>01AA4848-AF2A-4CB2-B796-72FD6D297748</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-17 multiplied by itself gives a $3$-digit answer:
-
-$\boxed{1} \boxed{7} \ \times \ \boxed{1}\boxed{7} \ = \boxed{2}\boxed{8}\boxed{9}$
-
-Find the smallest $2$-digit number that can be multiplied by itself to give a $4$-digit answer, 
-and put all the numbers in the boxes below:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$31 \times 31 = 961$
-
-$32 \times 32 = 1024$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>0857A934-D725-44EE-B298-5854A27CA762</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write in the missing digits (one digit in each space): 
-
-$323 \times \ldots 7 = 1518 \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &           &   3   &   2   &   3 \\
-{}  & \times    &       &   4   &   7 \\
-\hline
-        &   2   &   2   &   6   &   1 \\
-+   1   &   2   &   9   &   2   &   0 \\
-    \hline
-    1   &   5   &   1   &   8   &   1
-\end{array}
-$
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF</p>
 </div>
 <div class='topics'>
@@ -3610,53 +3501,6 @@ $
 <div class='answer'>
 
 $740$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>7B4003E7-EBF5-425C-9D44-B0E047531A36</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate $1.1 \times (1.2 + 1.3) \times 2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 1.1 \times (1.2 + 1.3) \times 2 \\\\
-&= 1.1 \times 2.5 \times 2 \\\\
-&= 1.1 \times 5 \\\\
-&= 5.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5.5$
 
 </div>
 </div>

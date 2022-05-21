@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-all"
 title: "Owner - Banoth Sairam - ALL"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4188,7 +4188,7 @@ It is really important to use the right units in calculations and convert where 
 
 NO of sheets per ream = $500$
 
-mass of one sheet = $4.75 \text {grams}$
+mass of one sheet = $4.75 \  \text {grams}$
 
 As per the question,
 
@@ -4196,7 +4196,7 @@ $
 \begin{aligned}
 \text{Let mass be a for 500 number of sheets} \\
 \text{then}\ \ &   a = 500 \times 4.75 \\
-               &   a = 2375 \text{grams}
+               &   a = 2375 \  \text{grams}
 \end{aligned}
 $
 
@@ -5349,7 +5349,8 @@ $
 7 \ \text{tickets}    &=  \pounds58.10 \\\\
 1 \times 7 \ \text{tickets}    &=  \pounds 58.10  \\\\
 1 \  \text{ticket}  &= \dfrac{58.10}{7} \\\\
-1 \  \text{ticket}  &= \dfrac{\cancel{58.10} \  \ 8.30}{\cancel{7}} \\\\
+&=  \dfrac{7 \times 8.30 }{7} \\\\
+&= \dfrac{\cancel{7} \times  8.30}{\cancel{7}} \\\\
 1 \  \text{ticket}  &=\pounds 8.30
 \end{aligned}
 $
@@ -5457,9 +5458,10 @@ She only has $\pounds 3.20$. How much does she need to borrow to buy these thing
 <div class='workings'>
 <div class='working'>
 
+Money (to borrow) = Money(required) - Money (in hand) 
+
 $ 
 \begin{aligned}
-\text{Money (to borrow)} &= \text{Money(required)} - \text{Money (in hand)} \\\\
 &=   4.72 - 3.20 \\\\ 
 &=   \pounds 1.52 
 \end{aligned}
@@ -5925,12 +5927,12 @@ In a box of sweets there are $7$ toffees for every $12$ chocolates
 
 $
 \begin{aligned}
-\text{Let the toffees br 'a' for 72 chocolates} \\
-\text{then} \\
+\text{Let the toffees br 'a' for 72 chocolates} \\\\
+\text{then} \\\\
 & 12a   =   72\times 7 \\
 &   a   =   \dfrac{72\times 7}{12} \\\\
 &   a   =   \dfrac{\cancel{72} \ \ 6 \times 7}{\cancel{12}} \\\\
-&   a   =   42 \text{toffees}
+&   a   =   42  \ \text{toffees}
 \end{aligned}
 $
 
@@ -6568,11 +6570,12 @@ Let's take the number verity thinks of $=a$
 
 $
 \begin{aligned}
-\text{a} \times 7 + 8  &= 71 \\\\
-\text{a} \times 7  &= 71 - 8 \\\\
-\text{a} &= \dfrac{63}{7} \\\\
-\text{a} &= \dfrac{\cancel{63} 9}{\cancel 7} \\\\
-\text{a} &= 9
+a \times 7 + 8  &= 71 \\\\
+a \times 7      &= 71 - 8 \\\\
+a               &= \dfrac{63}{7} \\\\
+a               &= \dfrac{7 \times 9}{7} \\\\
+a               &= \dfrac{\cancel 7 \times 9}{\cancel 7} \\\\
+a               &= 9
 \end{aligned}
 $
 
@@ -7458,7 +7461,7 @@ $
 &= 6.3 \times 1000 \ \text{m} - 140 \ \text{m} \\\\
 &= 6300 \ \text{m} - 140 \ \text{m} \\\\
 &= 6160 \ \text{m} \\\\
-&= 6160 \times 100 \ \text{cm}
+&= 6160 \times 100 \ \text{cm} \\\\
 &= 616000 \ \text{cm}
 \end{aligned}
 $
@@ -8667,7 +8670,7 @@ Ingredient is needed to make $18$ pancakes = Each ingredient is needed to make $
 
 $
 \begin{aligned}
-\text{The quantity of plain flour needed to make 18 pancakes} &= \text{The quantity of plain flour used to make 6 Pancakes} \times 3 \\\\
+\text{The plain flour needed to make 18 pancakes} &= \text{The plain flour used to make 6 Pancakes} \times 3 \\\\
 &= 120 \ \text{gm} \times 3 \\\\
 &=  360 \ \text{gm}
 \end{aligned}
@@ -8675,7 +8678,7 @@ $
 
 $
 \begin{aligned}
-\text{The number of Eggs needed to make 18 pancakes} &= \text{The number of Eggs used to make 6 Pancakes} \times 3 \\\\
+\text{The Eggs needed to make 18 pancakes} &= \text{The Eggs used to make 6 Pancakes} \times 3 \\\\
 &= 3 \times 3 \\\\
 &= 9
 \end{aligned}
@@ -8683,7 +8686,7 @@ $
 
 $
 \begin{aligned}
-\text{The amount of milk needed to make 18 pancakes} &= \text{The  amount of milk used to make 6 Pancakes} \times 3 \\\\
+\text{The milk needed to make 18 pancakes} &= \text{The  milk used to make 6 Pancakes} \times 3 \\\\
 &= 210 \ \text{ml} \times 3 \\\\
 &= 630 \ \text{ml}
 \end{aligned}
@@ -8717,7 +8720,7 @@ How much of each ingredient is needed to make $8$ pancakes?
 
 $
 \begin{aligned}
-\text{ingredients required to make 8 pancakes} &= \text{ingredients required to make 6 pancakes} + \text{ingredients required to make 2 pancakes}  \\\\
+\text{ingredients required to make 8 pancakes} = \text{ingredients needed to make 6 pancakes} + \text{ingredients needed to make 2 pancakes}  \\\\
 \text{As per the requirement} \\\\
 \text{ingredients required to make 2 pancakes} &= \dfrac{\text{ingredients required to make 6 pancakes}}{3} \\\\
 \text{The quantity of plain flour used to make} 2 \text{Pancakes} &= \dfrac{120}{3} \\\\
@@ -10906,28 +10909,21 @@ wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide
 
 As per the question,
 
-
-Area of the wall $&=$ length $\times$ breadth.
-
-$&=  8 \times 3$
-
-$&=  24 \ \text{m}^2$
-
-Area of the roll wallpaper $&=$ length $\times$ breadth.
-
-$&=10 \times 0.6$
-
-$&=  6 \ \text{m}^2$
-
-We need to cover  $24 \text{m}^2$  of the wall $&= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}}$
-
-$&=  \dfrac{24}{6}$
-
-$&=  \dfrac{4 \times 6}{6}$
-
-$&=  \dfrac{4 \times \cancel 6}{ \cancel 6}$
-
-$&= 4$
+$
+\begin{aligned}
+\text{Area of the wall} &= \text{length} \times \text{breadth} \\\\
+&=  8 \times 3 \\\\
+&=  24 \ \text{m}^2 \\\\
+\text{Area of the roll wallpaper} &= \text{length} \times \text{breadth} \\\\
+&=10 \times 0.6 \\\\
+&=  6 \ \text{m}^2 \\\\
+\text{We need to cover} \  24 \text{m}^2  \text|{of the wall} &= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}} \\\\
+&=  \dfrac{24}{6} \\\\
+&=  \dfrac{4 \times 6}{6} \\\\
+&=  \dfrac{4 \times \cancel 6}{ \cancel 6} \\\\
+&= 4
+\end{aligned}
+$
 
 </div>
 </div>
@@ -11208,136 +11204,6 @@ $\dfrac{11}{10}$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>B8B2E49B-8011-42BF-B6B2-E0E65544BF52</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-It takes $5$ teachers $9 \ \text{hours}$ to mark a set of examination papers. 
-How long would it take for $12$ teachers to mark the same set of examination papers?
-
-- $3.75 \ \text{hours}$
-- $3.5 \ \text{hours}$
-- $21.6 \ \text{hours}$
-- $20.5 \ \text{hours}$
-- $4 \ \text{hours}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-5 \ \text{teachers takes} \ 9 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
-\text{then} \ 1 \ \text{teachers takes} \  1.8 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
-\text{Now,} &=12 \times 1.8 \\\\
-&= 21.6 \ \text{hrs} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$21.6 \ \text{hrs}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>1C378342-8093-4F4F-9EBA-AF890BAF5C56</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The mean of Jane’s six Mathematics test is $89 \%$. After her 
-seventh test the mean increased to $90 \%$. 
-What did Jane score in her seventh test?
-
-- $95 \%$
-- $89 \%$
-- $96 \%$
-- $90 \%$
-- $93 \%$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Since, mean of jane's mathematics test score is} &=89\% \\\\
-\text{Let the sum of the 6 mathematics mean test score be} \ \ 89\%+89\%+89\%+89\%+89\%+89\% =534\% \\\\
-\text{We need the mean of the all} \ \ 7 \ \text{mathematics test scores to be} \ \ 90\% \\\\
-\text{Let sum of  all seven test scores to be} \ \ 90\%  &= 7 \times 90 \\\\\
-&= 630 \\\\
-\text{if , 'a' s the score of} \ 7  \text{th mathematics test then, a} &= 630-534  \\\\
-&= 96 \\\\
-\text{Now, mean of all} \ 7 \ \text{mathematics test scores of jane} \\\\
-&=\dfrac{ 89\%+89\%+89\%+89\%+89\%+89\%+90\%}{7} \\\\
-&= \dfrac{630}{7} \\\\
-&= \dfrac{90 \times 7}{7} \\\\
-&= \dfrac{90 \times  \cancel 7}{\cancel 7} \\\\
-&= 90\% \\\\
-\text{So, jane must have scored} \  96\%  \ \text{in her} \ 7 \text{th test}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$90\%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
 <p>B6391AE6-AFDE-4F0B-865B-5BD6985A8B78</p>
 </div>
 <div class='topics'>
@@ -11365,6 +11231,7 @@ Which of the following could be the difference of the other two angles?
 
 As per the question 
 
+$
 \begin{aligned}
 \text{Sum of the angles of a quadrilateral} =360\degree \\\\
 \text{lets other two angle be 'a'} \\\\
@@ -11373,6 +11240,7 @@ a + a + 95 + 75 &= 360 \\\\
 2a + 170     &= 360 \\\\
 2a           &= 360 - 170 \\\\
 2a           &= 190
+$
 \end{aligned}
 
 </div>
@@ -11545,16 +11413,15 @@ Calculate the area of the rectangle.
 
 as per the question'
 
-Length of rectangle $&= 12 \ \text{cm}$
-
-Breadth of rectangle $&= 8 \ \text{cm}$
-
-Area of rectangle $&=$ Length $\times$ Breadth
-
-$&= 12 \times 8$
-
-$&= 96 \ \text{cm}^2$
-
+$
+\begin{aligned}
+\text{Length of rectangle} &= 12 \ \text{cm} \\\\
+\text{Breadth of rectangle} &= 8 \ \text{cm} \\\\
+\text{Area of rectangle} &= \text{Length} \times \text{Breadth} \\\\
+&= 12 \times 8 \\\\
+&= 96 \ \text{cm}^2 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
@@ -11603,6 +11470,7 @@ Find $30 \%$ of $120$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 &=  30\% \ \text{of} \ 120 \\\\
 &=  \dfrac{30}{100} \times 120 \\\\
@@ -11611,6 +11479,7 @@ Find $30 \%$ of $120$
 &=  \dfrac{36 \times \cancel{100}}1\cancel{100}} \\\\
 &=  36
 \end{aligned}
+$
 
 </div>
 </div>
@@ -11851,8 +11720,8 @@ $
 \begin{aligned}
 &= 0.76 \\\\
 &=  \dfrac{76}{100} \\\\
-&=  \dfrac{19 /times 4}{25 \times 4} \\\\
-&=  \dfrac{19 /times \cancel 4}{25 \times \cancel 4} \\\\
+&=  \dfrac{19 \times 4}{25 \times 4} \\\\
+&=  \dfrac{19 \times \cancel 4}{25 \times \cancel 4} \\\\
 &=  \dfrac{19}{25}
 \end{aligned}
 $
@@ -12024,11 +11893,11 @@ Find the value of $59.9 + 28.6$
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{array}{cccccccccccccc}
      &5   &    9 \ .    &    9   \\
 {}+  &2   &     8\ .    &    6   \\
-  
 \hline
      &8    &    8 \ .    &    5   
 \end{array}
@@ -12083,23 +11952,25 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <div class='workings'>
 <div class='working'>
 
-The area of parallelogram $&= 38 \ \text{cm}^2$
 
-Breadth of parallelogram $&= 4 \ \text{cm}$
+The area of parallelogram $= 38 \ \text{cm}^2$
+
+Breadth of parallelogram $= 4 \ \text{cm}$
 
 Let length of parallelogram be 'a'
 
-Area of parallelogram $&=$ Length $\times$ Breadth.
+Area of parallelogram = Length \times Breadth.
 
-$38 &= 4 \times a$
+$38 = 4 \times$ a
 
-$a &= \dfrac{38}{4}$
+a $= \dfrac{38}{4}$
 
-$a &= \dfrac{4 \times 9.5}{4}$
+a $= \dfrac{4 \times 9.5}{4}$
 
-$a &= \dfrac{\cancel 4 \times 9.5}{\cancel4}$
+a $= \dfrac{\cancel 4 \times 9.5}{\cancel4}$
 
-$a &= 9.5 \ \text{cm}$
+a $= 9.5 \ \text{cm}$
+
 
 </div>
 </div>
@@ -12354,20 +12225,18 @@ As per thw question,
 
 Let the number be 'a'
 
-Multiplying 'a' with $2 &= 2 \times a$
-
-Adding $5$ to $2 \times a &= 2 \times a + 5$
-
 $
 \begin{aligned}
+\text{Multiplying 'a' with } \ 2 &= 2 \times a \\\\
+\text{Adding} \  5  \ \text{to}  \ 2 \times a &= 2 \times a + 5 \\\\
 2 \times a + 5 &= 19 \\\\
-2a + 5 &= 19 \\\\
-2a     &= 19 - 5 \\\\
-2a     &= 14 \\\\
-a      &= \dfrac{14}{2} \\\\
-a      &= \dfrac{7 \times 2}{2} \\\\
-a      &= \dfrac{7 \times \cancel 2}{\cancel 2} \\\\
-a      &= 7
+2a + 5         &= 19 \\\\
+2a             &= 19 - 5 \\\\
+2a             &= 14 \\\\
+a              &= \dfrac{14}{2} \\\\
+a              &= \dfrac{7 \times 2}{2} \\\\
+a              &= \dfrac{7 \times \cancel 2}{\cancel 2} \\\\
+a              &= 7
 \end{aligned}
 $
 
@@ -12422,14 +12291,13 @@ It is really important to use the right units in calculations and convert where 
 
 As per the question
 
-Cost of each pen $&= 35 \text{p}$
-
-Cost of $25$ pen $&= 25 \times$ The Cost of each pen.
-
 $
 \begin{aligned}
+\text{Cost of each pen} &= 35 \text{p} \\\\
+\text{Cost o}f 25 \text{pen} &= 25 \times \text{The Cost of each pen} \\\\
 &= 25 \times 35 \\\\
-&= 875 \text{p}
+&= 875  \text{p} \\\\
+&= \dfrac{875}{100} \\\\
 &= \pounds 8.75
 \end{aligned}
 $
@@ -12488,9 +12356,11 @@ Time take to go to school  $&= 42 \ \text{minutes}$
 
 $
 \begin{aligned}
-\time reached to school &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
+\text{Time of leaving home} &= 7.35 \ \text{am} \\\\
+\text{Time take to go to school}  &= 42 \ \text{minutes} \\\\
+\text{reached to school} &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
 &=  7 \ \text{hr} \ 60 \ \text{mins} + 17 \ \text{mins} \\\\
-&= 8 \ \text{hr} +  17 \ \text{mins}
+&= 8 \ \text{hr} +  17 \ \text{mins} \\\\
 &= 8.17 \ \text{am}
 \end{aligned}
 $
@@ -12867,7 +12737,7 @@ Between the two numbers, the total number of digits after the decimal point is t
 
 Let's account for the decimal point now. 
 
-$&= 8.32$
+$ = 8.32$
 
 </div>
 </div>
@@ -13643,9 +13513,9 @@ As per the question,
 
 There are $9$ cubes in each row.
 
-Number of rows $&= 3$
+Number of rows $= 3$
 
-Then total cubes in $3$ rows $&= 9 \times 3$
+Then total cubes in $3$ rows $= 9 \times 3$
 
 $=21$
 
@@ -13861,9 +13731,11 @@ As per the question,
 $\text{Perimeter} = 4 \times \text{side})$
 
 $
+\begin{aligned}
 \text{perimeter of square} &= 4 \times (14 + 6) \\\\
 &= 4 \times 20 \\\\
 &= 80 \ \text{cm}^2
+\end{aligned}
 $
 
 </div>
@@ -13916,9 +13788,11 @@ The area of the shaded inner square.
 As per the question,
 
 $
-\text{Area of the shaded inner square} &= side \times side \\\\
+\begin{aligned}
+\text{Area of the shaded inner square} &= \text{side} \times \text{side} \\\\
 &= 8 \times 8 \\\\
 &= 64 \ \text{cm}^2
+\end{aligned}
 $
 
 </div>
@@ -14445,11 +14319,14 @@ Which number between $55$ and $65$ can be divided exactly by $9$?
 <div class='workings'>
 <div class='working'>
 
-Let's find a multiple of $9$ between $55$ and $65$.
 
-The multiple of $9$ are $ 9, 18, 27, 36, 45, 54, \bold {63}, 72, \dots$
-
-$= 63$
+$
+\begin{aligned}
+\text{Let's find a multiple of} \  9 \  \text{between} \  55  \ \text{and} \  65 \\\\
+\text{The multiple of} \ 9  \ \text{are} \  9, 18, 27, 36, 45, 54, \bold {63}, 72, \dots \\\\
+&= 63
+\end{aligned}
+$
 
 </div>
 </div>
@@ -14542,7 +14419,7 @@ As per the question,
 
 Let the distance between Madrid to Paris be 'a'.
 
-Total distance $&=$ distance of Lisbon to Madrid +  distance of Madrid to Paris + distance of Paris to MUnich 
+Total distance $=$ distance of Lisbon to Madrid +  distance of Madrid to Paris + distance of Paris to Munich 
 
 $
 \begin{aligned}
@@ -14551,9 +14428,9 @@ $
 a &= 2730 - 1465 \\\\
 a &= 1265 \ \text{km}
 \end{aligned}
+$
 
 The distance between Madrid to Paris is $1265 \ \text{km}$
-$
 
 </div>
 </div>

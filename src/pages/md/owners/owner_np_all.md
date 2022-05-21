@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-np-all"
 title: "Owner - Nalini Prakash - ALL"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -993,57 +993,6 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>3C1A8ECE-FC50-4AC9-B755-F100FE9325E2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
- A man travels $200 \ \text{miles}$ at an average speed of $60 \ \text{miles per hour}$.
- How long does the journey take in hours and minutes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Time}  &= \dfrac {\text{distance}} {\text{speed}} \\\\
-             &= \dfrac {200} {60} \\\\
-             &= \dfrac { 20 \cancel {0} } {6 \cancel {0} } \\\\
-             &= \dfrac { \cancel {2} \times 10 } {3 \times \cancel{2} } \\\\
-             &= \dfrac {10} {3} \\\\
-             &= 3.33 \times 60 \\\\
-             &= 199.8 \text{ minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$199.8 \text{ minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>174BEC63-0B02-473E-B51D-7B5AA1F6DFC3</p>
@@ -1315,85 +1264,6 @@ $6$
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>1560E53F-1121-4690-82F4-852BE2494204</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate the missing angles $p, q$ and $r$.
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we all know angle of semi-circle $= 180\degree$
-
-$
-\begin{aligned}
-35 + 90 + p   &=  180 \\\\
-125 + p       &= 180 \\\\
-p             &= 180 - 125 \\\\
-p             &= 55\degree
-\end{aligned}
-$
-
-b. As we all know sum of all angles in triangle $= 180\degree$
-
-$
-\begin{aligned}
-81 + 52 + q &= 180 \\\\
-133 + q     &= 180 \\\\
-q           &= 180 - 133 \\\\
-q           &= 47 \degree
-\end{aligned}
-$
-
-c. In third image take triangle ABC 
-
-Let the missing angle $= a$
-
-$
-\begin{aligned}
-140 + 24 + a   &= 180 \\\\
-164 + a        &= 180 \\\\
-a              &= 180 - 164 \\\\
-a              &= 16 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$55\degree, 16\degree$
-
-</div>
-</div>
-
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
@@ -1926,169 +1796,6 @@ $\pounds 16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>08B091C3-398E-4C33-9232-9F1C961D0DD6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ruby has collected thirty-five $5 \text{p}$ coins for charity.
-
-How much more does she need to reach $\pounds 5$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Ruby collected}   &= 35 \times 5 \\\\
-                        &= 175\text{p} \\\\ 
-                        &= \pounds \dfrac {175} {100} \\\\
-                        &= \pounds 1.75
-\end{aligned}
-$
-
-She need to collect,
-
-$
-\begin{aligned}
-&= 5 - 1.75 \\\\
-&= \pounds 3.25
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 3.25$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>98E30B30-DDF8-4611-BFF5-108696A59D3F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I buy $2$ cakes for $45 \text{p}$ each and a drink for $90 \text{p}$. 
-What change will I have from a $\pounds 5$ note?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-Let's convert the total amount into pence.
-
-$
-\begin{aligned}
-\text{Change left}  &= 500 - (45 + 90) \\\\
-                    &= 500 - 135 \\\\
-                    &= 365 \\\\
-                    &= \pounds \dfrac {365} {100} \\\\
-                    &= \pounds 3.65
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$/pounds3.65$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>C0365365-4904-4D8E-B97D-7E9DF2D136D9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many $6 \ \text{cm}$ pieces of string can be 
-cut from a piece of string $50 \ \text{cm}$ long? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{pieces}  &= \dfrac {50} {6} \\\\
-               &= 8.3 \\\\
-               &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>5882669A-98F2-45E1-9414-85C6288E9096</p>
@@ -2356,68 +2063,6 @@ $0$
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A triangle has a base of $6 \ \text{cm}$ and a height 
-of $4 \ \text{cm}$. It has the same area as another
-triangle of base length $8 \ \text{cm}$. How tall is the triangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the height of triangle 2 $= a$
-
-As per the question
-
-$
-\begin{aligned}
-\text{Area of triangle 1}                                       &= \text{Area of triangle 2} \\\\
-\dfrac {1} {2} \times 6 \times 4                                &=  \dfrac {1} {2} \times 8 \times a \\\\
-\dfrac {1} {2} \times 6 \times 2 times 2                        &=  \dfrac {1} {2} \times 2 \times 4 \times a \\\\
-\dfrac {1} {\cancel {2} } \times 6 \times \cancel {2} times 2   &=  \dfrac {1} {\cancel {2} } \times \cancel {2} \times 4 \times a \\\\
-12                                                              &= 4a \\\\
-4a                                                              &= 12 \\\\
-a                                                               &= \dfrac {12} {4} \\\\
-a                                                               &= \dfrac {4 \times 3} {4} \\\\
-a                                                               &= \dfrac {\cancel {4} \times 3} {\cancel {4} } \\\\\
-a                                                               &= 3 \text{ cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \text{ cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
 </div>
 </div>
 </li>
@@ -9803,7 +9448,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>DCA17542-5313-4830-8E8C-79DE88C98DEF</p>
 </div>
@@ -9881,7 +9526,7 @@ $10, 11, 9$
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -10940,51 +10585,6 @@ $\pounds 0.95$
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
-<p>ACB903AE-471B-4194-A0AE-FF8761C03567</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Draw the hour and minute hands on this clock to show the time $22{:}30$.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10 : 30$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10:30$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
 <p>E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC</p>
 </div>
 <div class='topics'>
@@ -11263,7 +10863,7 @@ $24,024$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>7C19DA98-914F-4E7A-AFD9-38F202A08A32</p>
 </div>
@@ -11298,7 +10898,7 @@ $600$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -11351,59 +10951,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>9777149C-D9F9-44DB-9A03-FA447A5348FA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $7$ tennis lessons cost $\pounds 167.65$ what is the cost of $1$ lesson?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question
-
-$
-\begin{aligned}
-\text{Cost of 1 lesson} &= \dfrac {167.65} {7} \\\\
-                        &= \dfrac {23.95 \times 7} {7} \\\\
-                        &= \dfrac {23.95 \times \cancel {7} } {\cancel {7} } \\\\
-                        &= \pounds 23.95
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds23.95$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>169B3F23-EB06-4E0D-9414-80C1BA4C87CC</p>
 </div>
@@ -11456,58 +11004,7 @@ $111 \text{ kg}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>68B5F9D8-6802-4D8A-9E11-07B4B6B7DBB1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tquadraticprompt
-</li>
-<li>
-ttrialerror
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down two numbers which differ by $2$ and multiply to $168$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
- 14 - 12  & = 2 \\\\
- 14 \times 12 &= 168 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14, 12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -11981,7 +11478,7 @@ $\times, -$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>72451A15-7547-4D75-9C09-DCFB7DF42FD8</p>
 </div>
@@ -12021,7 +11518,7 @@ $0.5, 0.6$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -12396,7 +11893,7 @@ $2, 21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>2516CBC2-1DA0-4907-AFF5-DDE8C971594D</p>
 </div>
@@ -12458,7 +11955,7 @@ $\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -13222,71 +12719,6 @@ $50 \text{ cm}$
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-todo
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-To bake 2 cakes, Jo uses
-
-| Quantity          | Ingredients         |
-|-------------------|---------------------|
-| $300 \ \text{g}$  | flour               |
-| $8$               | egss                |
-| $7$               | tablespoons of milk |
-| $38 \ \text{g}$   | coconut             |
-| $1.4 \ \text{ml}$ | vanilla essence     |
-
-Write down the amounts she needs for $5$ cakes 
-
-| Quantity   | Ingredients         |
-|------------|---------------------|
-|            | flour               |
-|            | egss                |
-|            | tablespoons of milk |
-|            | coconut             |
-|            | vanilla essence     |
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-| Quantity          | Ingredients         |
-|-------------------|---------------------|
-| $150 \ \text{g}$  | flour               |
-| $4$               | egss                |
-| $3.5$             | tablespoons of milk |
-| $19 \ \text{g}$   | coconut             |
-| $0.7 \ \text{ml}$ | vanilla essence     |
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>

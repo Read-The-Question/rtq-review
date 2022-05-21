@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-20 18:41:27
+date: 2022-05-21 18:02:37
 ---
 <div class='paper'>
 <h1>Streatham and Clapham High School</h1>
@@ -164,16 +164,15 @@ Calculate the area of the rectangle.
 
 as per the question'
 
-Length of rectangle $&= 12 \ \text{cm}$
-
-Breadth of rectangle $&= 8 \ \text{cm}$
-
-Area of rectangle $&=$ Length $\times$ Breadth
-
-$&= 12 \times 8$
-
-$&= 96 \ \text{cm}^2$
-
+$
+\begin{aligned}
+\text{Length of rectangle} &= 12 \ \text{cm} \\\\
+\text{Breadth of rectangle} &= 8 \ \text{cm} \\\\
+\text{Area of rectangle} &= \text{Length} \times \text{Breadth} \\\\
+&= 12 \times 8 \\\\
+&= 96 \ \text{cm}^2 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
@@ -222,6 +221,7 @@ Find $30 \%$ of $120$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 &=  30\% \ \text{of} \ 120 \\\\
 &=  \dfrac{30}{100} \times 120 \\\\
@@ -230,6 +230,7 @@ Find $30 \%$ of $120$
 &=  \dfrac{36 \times \cancel{100}}1\cancel{100}} \\\\
 &=  36
 \end{aligned}
+$
 
 </div>
 </div>
@@ -470,8 +471,8 @@ $
 \begin{aligned}
 &= 0.76 \\\\
 &=  \dfrac{76}{100} \\\\
-&=  \dfrac{19 /times 4}{25 \times 4} \\\\
-&=  \dfrac{19 /times \cancel 4}{25 \times \cancel 4} \\\\
+&=  \dfrac{19 \times 4}{25 \times 4} \\\\
+&=  \dfrac{19 \times \cancel 4}{25 \times \cancel 4} \\\\
 &=  \dfrac{19}{25}
 \end{aligned}
 $
@@ -699,11 +700,11 @@ Find the value of $59.9 + 28.6$
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{array}{cccccccccccccc}
      &5   &    9 \ .    &    9   \\
 {}+  &2   &     8\ .    &    6   \\
-  
 \hline
      &8    &    8 \ .    &    5   
 \end{array}
@@ -758,23 +759,25 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <div class='workings'>
 <div class='working'>
 
-The area of parallelogram $&= 38 \ \text{cm}^2$
 
-Breadth of parallelogram $&= 4 \ \text{cm}$
+The area of parallelogram $= 38 \ \text{cm}^2$
+
+Breadth of parallelogram $= 4 \ \text{cm}$
 
 Let length of parallelogram be 'a'
 
-Area of parallelogram $&=$ Length $\times$ Breadth.
+Area of parallelogram = Length \times Breadth.
 
-$38 &= 4 \times a$
+$38 = 4 \times$ a
 
-$a &= \dfrac{38}{4}$
+a $= \dfrac{38}{4}$
 
-$a &= \dfrac{4 \times 9.5}{4}$
+a $= \dfrac{4 \times 9.5}{4}$
 
-$a &= \dfrac{\cancel 4 \times 9.5}{\cancel4}$
+a $= \dfrac{\cancel 4 \times 9.5}{\cancel4}$
 
-$a &= 9.5 \ \text{cm}$
+a $= 9.5 \ \text{cm}$
+
 
 </div>
 </div>
@@ -1169,20 +1172,18 @@ As per thw question,
 
 Let the number be 'a'
 
-Multiplying 'a' with $2 &= 2 \times a$
-
-Adding $5$ to $2 \times a &= 2 \times a + 5$
-
 $
 \begin{aligned}
+\text{Multiplying 'a' with } \ 2 &= 2 \times a \\\\
+\text{Adding} \  5  \ \text{to}  \ 2 \times a &= 2 \times a + 5 \\\\
 2 \times a + 5 &= 19 \\\\
-2a + 5 &= 19 \\\\
-2a     &= 19 - 5 \\\\
-2a     &= 14 \\\\
-a      &= \dfrac{14}{2} \\\\
-a      &= \dfrac{7 \times 2}{2} \\\\
-a      &= \dfrac{7 \times \cancel 2}{\cancel 2} \\\\
-a      &= 7
+2a + 5         &= 19 \\\\
+2a             &= 19 - 5 \\\\
+2a             &= 14 \\\\
+a              &= \dfrac{14}{2} \\\\
+a              &= \dfrac{7 \times 2}{2} \\\\
+a              &= \dfrac{7 \times \cancel 2}{\cancel 2} \\\\
+a              &= 7
 \end{aligned}
 $
 
@@ -1237,14 +1238,13 @@ It is really important to use the right units in calculations and convert where 
 
 As per the question
 
-Cost of each pen $&= 35 \text{p}$
-
-Cost of $25$ pen $&= 25 \times$ The Cost of each pen.
-
 $
 \begin{aligned}
+\text{Cost of each pen} &= 35 \text{p} \\\\
+\text{Cost o}f 25 \text{pen} &= 25 \times \text{The Cost of each pen} \\\\
 &= 25 \times 35 \\\\
-&= 875 \text{p}
+&= 875  \text{p} \\\\
+&= \dfrac{875}{100} \\\\
 &= \pounds 8.75
 \end{aligned}
 $
@@ -1303,9 +1303,11 @@ Time take to go to school  $&= 42 \ \text{minutes}$
 
 $
 \begin{aligned}
-\time reached to school &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
+\text{Time of leaving home} &= 7.35 \ \text{am} \\\\
+\text{Time take to go to school}  &= 42 \ \text{minutes} \\\\
+\text{reached to school} &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
 &=  7 \ \text{hr} \ 60 \ \text{mins} + 17 \ \text{mins} \\\\
-&= 8 \ \text{hr} +  17 \ \text{mins}
+&= 8 \ \text{hr} +  17 \ \text{mins} \\\\
 &= 8.17 \ \text{am}
 \end{aligned}
 $
@@ -1962,7 +1964,7 @@ Between the two numbers, the total number of digits after the decimal point is t
 
 Let's account for the decimal point now. 
 
-$&= 8.32$
+$ = 8.32$
 
 </div>
 </div>
@@ -2798,9 +2800,9 @@ As per the question,
 
 There are $9$ cubes in each row.
 
-Number of rows $&= 3$
+Number of rows $= 3$
 
-Then total cubes in $3$ rows $&= 9 \times 3$
+Then total cubes in $3$ rows $= 9 \times 3$
 
 $=21$
 
@@ -3016,9 +3018,11 @@ As per the question,
 $\text{Perimeter} = 4 \times \text{side})$
 
 $
+\begin{aligned}
 \text{perimeter of square} &= 4 \times (14 + 6) \\\\
 &= 4 \times 20 \\\\
 &= 80 \ \text{cm}^2
+\end{aligned}
 $
 
 </div>
@@ -3071,9 +3075,11 @@ The area of the shaded inner square.
 As per the question,
 
 $
-\text{Area of the shaded inner square} &= side \times side \\\\
+\begin{aligned}
+\text{Area of the shaded inner square} &= \text{side} \times \text{side} \\\\
 &= 8 \times 8 \\\\
 &= 64 \ \text{cm}^2
+\end{aligned}
 $
 
 </div>

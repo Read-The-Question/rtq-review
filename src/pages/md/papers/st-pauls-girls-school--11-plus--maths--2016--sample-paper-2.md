@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-05-21 20:22:50
+date: 2022-05-21 20:37:28
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>

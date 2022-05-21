@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-g2"
 title: "Owner - Arun Dalakoti - G2"
-date: 2022-05-21 20:22:50
+date: 2022-05-21 20:37:28
 ---
 <ul class='question default-decimal'>
 <li>

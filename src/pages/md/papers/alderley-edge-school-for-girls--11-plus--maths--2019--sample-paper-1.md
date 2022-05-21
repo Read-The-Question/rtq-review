@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-21 20:22:50
+date: 2022-05-21 20:37:28
 ---
 <div class='paper'>
 <h1>Alderley Edge School for Girls</h1>

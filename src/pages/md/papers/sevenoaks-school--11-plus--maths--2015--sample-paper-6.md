@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>
@@ -371,7 +371,7 @@ $\ldots \quad 6 \quad 12 \quad 24 \quad \ldots$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is increasing by multiples of $2$. Hence, the sequence would be like:
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -379,7 +379,7 @@ $
 &&  \footnotesize{\maroonC{(\times 2)}}  
 &&  \footnotesize{\maroonC{(\times 2)}}   
 &&  \footnotesize{\maroonC{(\times 2)}}  \\
-\ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots\\\\
+\ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots 
 \end{matrix}
 $
 
@@ -424,27 +424,22 @@ The difference between the terms is increasing by $+3$. Hence, the sequence woul
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} &&  \footnotesize{\maroonC{(+3)}}  &&  
-\footnotesize{\maroonC{(+3)}}   &&  \footnotesize{\maroonC{(+3)}}  \\
-4,  &&      \ldots  &&      10,   &&      13,  &&      \ldots\\\\
+&   \footnotesize{\maroonC{(+3)}} 
+&&  \footnotesize{\maroonC{(+3)}}  
+&&  \footnotesize{\maroonC{(+3)}}   
+&&  \footnotesize{\maroonC{(+3)}}  \\
+4,  &&      \ldots  &&      10,   &&      13,  &&      \ldots 
 \end{matrix}
 $
 
-Missing numbers are 
-
 $
 \begin{aligned}
-&= 4 + 3 \\\\
-&= 7 \\\\
-&= 13 + 3 \\\\
-&= 16 \\\\
+\text{First missing number}       &= 4 + 3 \\\\
+                                  &= 7 \\\\
+\text{Second missing number}      &= 13 + 3 \\\\
+                                  &= 16
 \end{aligned}
 $
-
-The sequence is 
-
-$4 \quad 7 \quad 10 \quad 13 \quad 16$
-
 
 </div>
 </div>
@@ -478,26 +473,22 @@ The difference between the terms is decreasing. Every number is \dfrac{1}{2} of 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}} &&  \footnotesize{\maroonC{(\div 2)}}  &&  
-\footnotesize{\maroonC{(\div 2)}}   &&  \footnotesize{\maroonC{(\div 2)}}  \\
-\ldots,  &&      16  &&      8,   &&      4,  &&      \ldots\\\\
+&   \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}}   
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
+\ldots,  &&      16  &&      8,   &&      4,  &&      \ldots
 \end{matrix}
 $
 
-Missing numbers are 
-
 $
 \begin{aligned}
-&= 16 \times 2 \\\\
-&= 32 \\\\
-&= 4 \div 2 \\\\
-&= 2 \\\\
+\text{First missing number}       &= 16 \times 2 \\\\
+                                  &= 32 \\\\
+\text{Second missing number}      &= 4 \div 2 \\\\
+                                  &= 2
 \end{aligned}
 $
-
-The sequence is 
-
-$32 \quad 16 \quad 8 \quad 4 \quad 2$
 
 </div>
 </div>
@@ -531,9 +522,11 @@ The difference between the terms is decreasing by (-3). Hence, the sequence woul
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-3)}} &&  \footnotesize{\maroonC{(-3)}}  &&  
-\footnotesize{\maroonC{(-3)}}   &&  \footnotesize{\maroonC{(-3)}}  \\
-\ldots,  &&      6  &&      3,   &&      0,  &&      -3\\\\
+&   \footnotesize{\maroonC{(-3)}} 
+&&  \footnotesize{\maroonC{(-3)}}  
+&&  \footnotesize{\maroonC{(-3)}}   
+&&  \footnotesize{\maroonC{(-3)}}  \\
+\ldots,  &&      6  &&      3,   &&      0,  &&      -3
 \end{matrix}
 $
 
@@ -541,14 +534,10 @@ Missing number is
 
 $
 \begin{aligned}
-&= 6 +3  \\\\
-&= 9 \\\\
+\text{Missing number}       &= 6 +3  \\\\
+                            &= 9
 \end{aligned}
 $
-
-The sequence is 
-
-$9 \quad 6 \quad 3 \quad 0 \quad -3$
 
 </div>
 </div>

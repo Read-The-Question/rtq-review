@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -1748,7 +1748,15 @@ $0.201,0.021,0.21$
 <div class='workings'>
 <div class='working'>
 
-$0.21> \quad 0.201> \quad 0.021$
+$
+\begin{aligned}
+&= 0.201, \quad 0.021, \quad 0.21 \\\\
+&= 0.201, \quad 0.021, \quad 0.210 \\\\
+& \text{Let's put them in descending order now.} \\\\
+&= 0.210> \quad 0.201> \quad 0.021 \\\\
+&= 0.21> \quad 0.201> \quad 0.021
+\end{aligned}
+$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-all"
 title: "Topic - Ratio - All"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2123,24 +2123,14 @@ In $1$ tree, $2$ chimps can eat $3$ bananas in $4$ minutes.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2159,24 +2149,23 @@ Work out how long it would take for $2$ chimps to eat $6$ bananas.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Time taken to eat one banana} &= \dfrac {4} {3} \\\\
+\text{Tike taken to eat 6 bananas}  &= \dfrac {4 \times 6} {3} \\\\
+                                    &= \dfrac {4 \times 3 \times 2} {3} \\\\
+                                    &= \dfrac {4 \times \cancel {3} \times 2} {\cancel {3}} \\\\
+                                    &= 4 \times 2 \\\\
+                                    &= 8 \ \text{minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$8 \ \text{minutes}$
 
 </div>
 </div>
@@ -2198,24 +2187,24 @@ Work out how many chimps would be required to eat $21$ bananas in $8 \ \text{min
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{The same monkey will eat 6 bananas in 8 minutes} \\\\
+\text{Which means 1 monkey will eat 3 bananas in 8 minutes} \\\\
+&= \dfrac {2 \times 21} {6} \\\\
+&= \dfrac {2 \time 7 \times 3} {3 \times 2} \\\\
+&= \dfrac {\cancel{2} \time 7 \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
+&= 7
+\text{Hence, we need 7 monkey to eat 21 bananas in 8 minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$7$
 
 </div>
 </div>
@@ -2232,7 +2221,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
 </div>
@@ -2252,24 +2241,23 @@ Work out how long the plasters would last if the medical centre were having to t
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+12 \ \text {cut/day}  &= 30 \ \text{days} \\\\
+1 \ \text {cut/day}   &= \dfrac {30} {12} \\\\
+20 \ \text {cut/day}  &= \dfrac {30} {12} \times 20 \\\\
+                      &= \dfrac {6 \times 5 \times 10 \times 2} {6 \times 2} \\\\
+                      &= \dfrac {\cancel{6} \times 5 \times 10 \times \cancel{2}} {\cancel{6} \times \cancel{2}} \\\\ 
+                      &= 50 \ \text{days}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$50 \ \text{days}$
 
 </div>
 </div>
@@ -2278,7 +2266,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

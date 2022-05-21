@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-all"
 title: "Reviewer - Uday Pandey - All"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -29913,14 +29913,22 @@ $0.92, 0.9, 0.909$
 <div class='workings'>
 <div class='working'>
 
-$0.9 < \quad 0.909 < \quad 0.92$
+$
+\begin{aligned}
+&= 0.92, \quad 0.9, \quad 0.909 \\\\
+&= 0.920, \quad 0.900, \quad 0.909 \\\\
+& \text{Let's put them in descending order now.} \\\\
+&= 0.920> \quad 0.909> \quad 0.900 \\\\
+&= 0.92> \quad 0.909> \quad 0.9
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.9 < \quad 0.909 < \quad 0.92$
+$0.92> \quad 0.909> \quad 0.9$
 
 </div>
 </div>
@@ -31868,14 +31876,22 @@ $0.101, 0.011, 0.11$
 <div class='workings'>
 <div class='working'>
 
-$0.011 < \quad 0.101 < \quad 0.11$
+$
+\begin{aligned}
+&= 0.101, \quad 0.011, \quad 0.11 \\\\
+&= 0.101, \quad 0.011, \quad 0.110 \\\\
+& \text{Let's put them in descending order now.} \\\\
+&= 0.110> \quad 0.101> \quad 0.011 \\\\
+&= 0.11> \quad 0.101> \quad 0.011
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.011 < \quad 0.101 < \quad 0.11$
+$0.11> \quad 0.101> \quad 0.011$
 
 </div>
 </div>

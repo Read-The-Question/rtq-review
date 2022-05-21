@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-pr"
 title: "Topic - Geometry - PR"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -772,6 +772,111 @@ $60 \degree$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>D9231838-D731-4ED0-8FFC-95ED1A8B30CD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsymmetry
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle which of the following shapes has two both lines of symmetry and rotational symmetry of order $2$.
+
+![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Image 2, Rhombus}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Image 2, Rhombus}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Give the **full name** of the shape above which has exactly three lines of symmetry.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Triangle}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Triangle}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

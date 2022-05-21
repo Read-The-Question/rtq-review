@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 1"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -14,7 +14,7 @@ date: 2022-05-21 20:37:28
 </div>
 <ul class='question TODO'>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>1F0A2433-D525-48CE-81FF-096EB10509BF</p>
 </div>
@@ -56,12 +56,12 @@ $732$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>592A7270-AE5F-46DD-A5CD-5293B41C79F7</p>
 </div>
@@ -106,12 +106,12 @@ $11220$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>7A0547CE-4780-4C98-8F44-705D53000745</p>
 </div>
@@ -133,32 +133,15 @@ Work out $22\dfrac{1}{2} \div 5$.
 <div class='workings'>
 <div class='working'>
 
-Let's convert $22 \dfrac{1}{2}$ into a decimal.
-
 $
 \begin{aligned} 
 &= 22 \dfrac{1}{2} \div 5 \\\\ 
-&= 22.5 \div 5 \\\\
-&= 4.5
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-We can also convert $22 \dfrac{1}{2}$ into an improper fraction.
-
-Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
-
-$
-\begin{aligned} 
-&= 22 \dfrac{1}{2} \div 5 \\\\ 
-&= \dfrac{45}{2} \div 5 \\\\
-&= \dfrac{45}{2 \times 5} \\\\
-&= \dfrac{9 \times 5}{2 \times 5} \\\\
-&= \dfrac{9 \times \cancel{5}}{2 \times \cancel{5}} \\\\
-&= \dfrac{9}{2} \\\\
-&= 4 \dfrac{1}{2} \\\\
+&= \dfrac {45}{2} \times \dfrac {1}{5} \\\\
+&= \dfrac {45 \times 1} {2 \times 5} \\\\
+&= \dfrac {9 \times 5} {2 \times 5} \\\\
+&= \dfrac {9 \times \cancel{5}} {2 \times \cancel{5}} \\\\
+&= \dfrac {9} {2} \\\\
+&= 4 \dfrac {1} {2} \\\\
 &= 4.5
 \end{aligned}
 $
@@ -168,7 +151,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4.5$
+$\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
 
 </div>
 </div>
@@ -177,12 +160,12 @@ $4.5$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>23BA576A-774F-4E22-884E-3C38C9F35B7C</p>
 </div>
@@ -217,12 +200,12 @@ $1010001$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>30031157-8687-4B93-8985-5B4931D1E9A0</p>
 </div>
@@ -271,7 +254,7 @@ $-108$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -606,7 +589,7 @@ $100$ bricks
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
 </div>
@@ -655,7 +638,7 @@ $45 \ \text{pence}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -713,7 +696,7 @@ $42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>91042F17-061F-4256-AC8C-8BE46A41FCD2</p>
 </div>
@@ -756,7 +739,7 @@ $\dfrac {9} {25}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -917,7 +900,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>62028F5D-6918-47EE-9E20-6E995EF362A2</p>
 </div>
@@ -963,7 +946,7 @@ $30 \ \text{pence}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

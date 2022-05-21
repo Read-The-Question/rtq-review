@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -6365,9 +6365,9 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= u - (v + w) \\\\
-&= 2 - ((-5) + (-3)) \\\\
-&= 2 - (-5 - 3) \\\\
-&= 2 + 5 + 3 \\\\
+&= 2 - (-5 + (-3)) \\\\
+&= 2 - (-8) \\\\
+&= 2 + 8 \\\\
 &= 10
 \end{aligned}
 $
@@ -6403,7 +6403,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= v - w \\\\
-&= (-5) - (-3) \\\\
+&= -5 - (-3) \\\\
 &= -5 + 3 \\\\
 &= -2
 \end{aligned}
@@ -6440,7 +6440,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= u - (w - v) \\\\
-&= 2 - ((-3) - (-5)) \\\\
+&= 2 - (-3 - (-5)) \\\\
 &= 2 - (-3 + 5) \\\\
 &= 2 - 2 \\\\
 &= 0
@@ -9482,7 +9482,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
 </div>
@@ -9504,24 +9504,26 @@ Work out what time it is now if the time that has passed since nine o'clock this
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the time is $=a$
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+6a   &= 120 \\\\
+a    &= \dfrac {120} {6} \\\\
+a    &= 20 
+\end{aligned}
+$
 
-TODOWORKING
+So, 20 minutes before 11 ,
+
+$10 {:} 40$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$10 {:} 40$
 
 </div>
 </div>
@@ -9530,7 +9532,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -29612,8 +29614,6 @@ $
 
 For $570$ calculators the college needs,  $11$ whole boxes and $1$ more box for the remaining $20$ calculators = $12$ boxes.
 
-i.e., $11 + 1 = 12$ Boxes.
-
 </div>
 </div>
 <div class='answers'>
@@ -33536,7 +33536,7 @@ $\pounds 11.76$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_red question'>
 <div class='uuid'>
 <p>2512EA6E-6A08-448C-BB2A-C8D9924A368E</p>
 </div>
@@ -33584,7 +33584,7 @@ $42 \text{toffees}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_red</p>
 </div>
 </div>
 </li>
@@ -37912,9 +37912,10 @@ $
 \begin{aligned}
 a \times 5 -12 \div 3 + 17                                   &= 38 \\\\
 5a -12 \div 3 + 17                                           &= 38 \\\\
-\dfrac { 5a -12 }{3} + \dfrac {17}{1}                        &= 38 \\\\
-\dfrac { 5a -12 }{3} + \dfrac {17 \times 3 } {1 \times 3}    &= 38 \\\\
-\dfrac { 5a -12 + 51 }{3}                                    &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17}{1}                          &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17 \times 3} {1 \times 3}       &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {51} {3}                         &= 38 \\\\
+\dfrac {5a -12 + 51}{3}                                      &= 38 \\\\
 5a -12 + 51                                                  &= 38 \times 3 \\\\
 5a + 39                                                      &= 114 \\\\
 5a                                                           &= 114 - 39 \\\\
@@ -37925,6 +37926,8 @@ a                                                            &= \dfrac {15 \time
 a                                                            &= 15
 \end {aligned}
 $
+
+The number that Sam thought of $= 15$
 
 </div>
 </div>

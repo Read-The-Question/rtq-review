@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2017-sample-paper-8"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -1340,9 +1340,10 @@ $
 \begin{aligned}
 a \times 5 -12 \div 3 + 17                                   &= 38 \\\\
 5a -12 \div 3 + 17                                           &= 38 \\\\
-\dfrac { 5a -12 }{3} + \dfrac {17}{1}                        &= 38 \\\\
-\dfrac { 5a -12 }{3} + \dfrac {17 \times 3 } {1 \times 3}    &= 38 \\\\
-\dfrac { 5a -12 + 51 }{3}                                    &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17}{1}                          &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17 \times 3} {1 \times 3}       &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {51} {3}                         &= 38 \\\\
+\dfrac {5a -12 + 51}{3}                                      &= 38 \\\\
 5a -12 + 51                                                  &= 38 \times 3 \\\\
 5a + 39                                                      &= 114 \\\\
 5a                                                           &= 114 - 39 \\\\
@@ -1353,6 +1354,8 @@ a                                                            &= \dfrac {15 \time
 a                                                            &= 15
 \end {aligned}
 $
+
+The number that Sam thought of $= 15$
 
 </div>
 </div>

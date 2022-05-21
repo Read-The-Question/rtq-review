@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-all"
 title: "Topic - Time - All"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4660,7 +4660,7 @@ $2 \ \text {hours}, 5 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
 </div>
@@ -4682,24 +4682,26 @@ Work out what time it is now if the time that has passed since nine o'clock this
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the time is $=a$
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+6a   &= 120 \\\\
+a    &= \dfrac {120} {6} \\\\
+a    &= 20 
+\end{aligned}
+$
 
-TODOWORKING
+So, 20 minutes before 11 ,
+
+$10 {:} 40$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$10 {:} 40$
 
 </div>
 </div>
@@ -4708,7 +4710,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -11388,13 +11390,16 @@ Now,
 
 $
 \begin{aligned}
-\text {bill (Each Month) } &= \text {Total Bill (in a Year)} \div \text { Number of months (in a Year) } \\\\
-                                                 &= \pounds 375.84 \div 12 \\\\
-                                                 &= \pounds 31.32
+\text{Bill (Each month)}                        &= \dfrac {\text{Total Bill (in a year)}} {\text{ Number of months (in a year)}} \\\\
+                                                &= \dfrac {\pounds 375.84} {12} \\\\
+                                                &= \dfrac {\pounds375.84 \times 100} {12 \times 100} \\\\
+                                                &= \dfrac {37584} {1200} \\\\
+                                                &= \dfrac {12 \times 3132} {12 \times 100} \\\\
+                                                &= \dfrac {\cancel{12} \times 3132} {\cancel{12} \times 100} \\\\
+                                                &= \dfrac {3132} {100} \\\\
+                                                &= \pounds 31.32
 \end{aligned}
 $
-
-$\pounds 31.32$ is his bill each month.
 
 </div>
 </div>
@@ -11424,20 +11429,20 @@ How much does his electricity bill cost him over five years?
 
 $
 \begin{aligned}
-1 \text { year}             &=  \pounds 31.32 \\\\
-1 \times 5 \text { years}   &= \pounds 375.84 \times 5 \\\\
-5 \text { years}            &= \pounds 1879.2                                                  
+1 \ \text {year}             &= \pounds 375.84 \\\\
+1 \times 5 \ \text {years}   &= \pounds 375.84 \times 5 \\\\
+5 \ \text {years}            &= \pounds 1879.20                                                  
 \end{aligned}
 $
 
-$\pounds 1879.2$ is the Electricity bill cost him over five years.
+Over five years his electricity bill will cost him $= \pounds 1879.20$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1879.2$
+$\pounds 1879.20$
 
 </div>
 </div>

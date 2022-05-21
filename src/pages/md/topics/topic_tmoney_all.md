@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-all"
 title: "Topic - Money - All"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -21908,13 +21908,16 @@ Now,
 
 $
 \begin{aligned}
-\text {bill (Each Month) } &= \text {Total Bill (in a Year)} \div \text { Number of months (in a Year) } \\\\
-                                                 &= \pounds 375.84 \div 12 \\\\
-                                                 &= \pounds 31.32
+\text{Bill (Each month)}                        &= \dfrac {\text{Total Bill (in a year)}} {\text{ Number of months (in a year)}} \\\\
+                                                &= \dfrac {\pounds 375.84} {12} \\\\
+                                                &= \dfrac {\pounds375.84 \times 100} {12 \times 100} \\\\
+                                                &= \dfrac {37584} {1200} \\\\
+                                                &= \dfrac {12 \times 3132} {12 \times 100} \\\\
+                                                &= \dfrac {\cancel{12} \times 3132} {\cancel{12} \times 100} \\\\
+                                                &= \dfrac {3132} {100} \\\\
+                                                &= \pounds 31.32
 \end{aligned}
 $
-
-$\pounds 31.32$ is his bill each month.
 
 </div>
 </div>
@@ -21944,20 +21947,20 @@ How much does his electricity bill cost him over five years?
 
 $
 \begin{aligned}
-1 \text { year}             &=  \pounds 31.32 \\\\
-1 \times 5 \text { years}   &= \pounds 375.84 \times 5 \\\\
-5 \text { years}            &= \pounds 1879.2                                                  
+1 \ \text {year}             &= \pounds 375.84 \\\\
+1 \times 5 \ \text {years}   &= \pounds 375.84 \times 5 \\\\
+5 \ \text {years}            &= \pounds 1879.20                                                  
 \end{aligned}
 $
 
-$\pounds 1879.2$ is the Electricity bill cost him over five years.
+Over five years his electricity bill will cost him $= \pounds 1879.20$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1879.2$
+$\pounds 1879.20$
 
 </div>
 </div>
@@ -34515,7 +34518,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
 </div>
@@ -34564,7 +34567,7 @@ $45 \ \text{pence}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-pr"
 title: "Topic - Fraction - PR"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -9553,6 +9553,159 @@ $\dfrac {1} {9}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>7A0547CE-4780-4C98-8F44-705D53000745</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $22\dfrac{1}{2} \div 5$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+&= 22 \dfrac{1}{2} \div 5 \\\\ 
+&= \dfrac {45}{2} \times \dfrac {1}{5} \\\\
+&= \dfrac {45 \times 1} {2 \times 5} \\\\
+&= \dfrac {9 \times 5} {2 \times 5} \\\\
+&= \dfrac {9 \times \cancel{5}} {2 \times \cancel{5}} \\\\
+&= \dfrac {9} {2} \\\\
+&= 4 \dfrac {1} {2} \\\\
+&= 4.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>91042F17-061F-4256-AC8C-8BE46A41FCD2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write $0.36$ as a fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.36 \\\\
+&= \dfrac {36} {100} \\\\
+&= \dfrac {4 \times 9} {4 \times 25} \\\\
+&= \dfrac {\cancel{4} \times 9} {\cancel{4} \times 25} \\\\
+&= \dfrac {9} {25} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {9} {25}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>62028F5D-6918-47EE-9E20-6E995EF362A2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much is $\dfrac{3}{4}$ of $\dfrac{2}{5}$ of $\pounds 1$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{3}{4} \text{ of } \dfrac{2}{5} \text{ of } \pounds 1 \\\\
+&= \dfrac{3}{4} \times  \dfrac{2}{5} \times 100 \ \text{pence} \\\\
+&= \dfrac{3}{4} \times \dfrac{2}{5} \times 100 \\\\
+&= \dfrac{3 \times 2 \times 100} {4 \times 5} \\\\
+&= \dfrac{3 \times 2 \times 4 \times 5 \times 5} {4 \times 5} \\\\
+&= \dfrac{3 \times 2 \times \cancel{4} \times \cancel{5} \times 5} {\cancel{4} \times \cancel{5}} \\\\
+&= 3 \times 2  \times 5 \\\\
+&= 30 \ \text{pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \ \text{pence}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2016-sample-paper-7"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -292,13 +292,25 @@ Work out the sum of: $9, 99, 999$ and $9999$
 
 $
 \begin{array}{cccccccccccccc}
-          &  9  &  9  &  9  &  9 \\
-          &     &  9  &  9  &  9 \\
+          &     &     &     &  9 \\
           &     &     &  9  &  9 \\
-{}+       &     &     &     &  9 \\
+          &     &  9  &  9  &  9 \\
+{}+       &  9  &  9  &  9  &  9 \\
 \hline
        1  &  1  &  1  &  0  &  6
 \end{array}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+9 + 99 + 999 + 9999     &= 10 - 1 + 100 - 1 + 1000 - 1 + 10000 - 1 \\\\
+                        &= 10 + 100 + 1000 + 10000 - 4 \\\\
+                        &= 11110 - 4 \\\\
+                        &= 11106 
+\end{aligned}
 $
 
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-pr"
 title: "Topic - Ratio - PR"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -99,6 +99,56 @@ $\dfrac {2} {5}$
 
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+At the school medical centre, there are enough plasters to patch up $12$ cut knees per day for $30 \ \text{days}$. 
+Work out how long the plasters would last if the medical centre were having to treat $20$ boys with cut knees a day.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+12 \ \text {cut/day}  &= 30 \ \text{days} \\\\
+1 \ \text {cut/day}   &= \dfrac {30} {12} \\\\
+20 \ \text {cut/day}  &= \dfrac {30} {12} \times 20 \\\\
+                      &= \dfrac {6 \times 5 \times 10 \times 2} {6 \times 2} \\\\
+                      &= \dfrac {\cancel{6} \times 5 \times 10 \times \cancel{2}} {\cancel{6} \times \cancel{2}} \\\\ 
+                      &= 50 \ \text{days}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50 \ \text{days}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>

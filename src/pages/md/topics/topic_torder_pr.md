@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-pr"
 title: "Topic - Order - PR"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1472,14 +1472,22 @@ $0.92, 0.9, 0.909$
 <div class='workings'>
 <div class='working'>
 
-$0.9 < \quad 0.909 < \quad 0.92$
+$
+\begin{aligned}
+&= 0.92, \quad 0.9, \quad 0.909 \\\\
+&= 0.920, \quad 0.900, \quad 0.909 \\\\
+& \text{Let's put them in descending order now.} \\\\
+&= 0.920> \quad 0.909> \quad 0.900 \\\\
+&= 0.92> \quad 0.909> \quad 0.9
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.9 < \quad 0.909 < \quad 0.92$
+$0.92> \quad 0.909> \quad 0.9$
 
 </div>
 </div>
@@ -1517,14 +1525,22 @@ $0.101, 0.011, 0.11$
 <div class='workings'>
 <div class='working'>
 
-$0.011 < \quad 0.101 < \quad 0.11$
+$
+\begin{aligned}
+&= 0.101, \quad 0.011, \quad 0.11 \\\\
+&= 0.101, \quad 0.011, \quad 0.110 \\\\
+& \text{Let's put them in descending order now.} \\\\
+&= 0.110> \quad 0.101> \quad 0.011 \\\\
+&= 0.11> \quad 0.101> \quad 0.011
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.011 < \quad 0.101 < \quad 0.11$
+$0.11> \quad 0.101> \quad 0.011$
 
 </div>
 </div>
@@ -1562,7 +1578,15 @@ $0.201,0.021,0.21$
 <div class='workings'>
 <div class='working'>
 
-$0.21> \quad 0.201> \quad 0.021$
+$
+\begin{aligned}
+&= 0.201, \quad 0.021, \quad 0.21 \\\\
+&= 0.201, \quad 0.021, \quad 0.210 \\\\
+& \text{Let's put them in descending order now.} \\\\
+&= 0.210> \quad 0.201> \quad 0.021 \\\\
+&= 0.21> \quad 0.201> \quad 0.021
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1604,14 +1628,22 @@ $3.33, 3.03, 3.3, 3, 3.303$
 <div class='workings'>
 <div class='working'>
 
-$3.33< \quad 3.303< \quad 3.3< \quad 3.03< \quad 3$
+$
+\begin{aligned}
+&= 3.33, \quad 3.03, \quad 3.3, \quad 3, \quad 3.303 \\\\
+&= 3.330, \quad 3.030, \quad 3.300, \quad 3.0, \quad 3.303 \\\\
+&\text{Let's put them in descending order now.} \\\\
+&= 3.330> \quad 3.303> \quad 3.300> \quad 3.030> \quad 3.0 \\\\
+&= 3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3.33< \quad 3.303< \quad 3.3< \quad 3.03< \quad 3$
+3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
 
 </div>
 </div>
@@ -1646,7 +1678,15 @@ $7.7, 7.77, 7, 7.07, 7.707$
 <div class='workings'>
 <div class='working'>
 
-$7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7$
+$
+\begin{aligned}
+&= 7.7, \quad 7.77, \quad 7, \quad 7.07, \quad 7.707 \\\\
+&= 7.700, \quad 7.770, \quad 7.0, \quad 7.070, \quad 7.707 \\\\
+& \text{Let's put them in descending order now.} \\\\
+&= 7.770> \quad 7.707> \quad 7.700> \quad 7.070> \quad 7.0 \\\\
+&= 7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7
+\end{aligned}
+$
 
 </div>
 </div>

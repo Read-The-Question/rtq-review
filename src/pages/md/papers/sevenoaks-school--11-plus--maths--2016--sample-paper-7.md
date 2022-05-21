@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2016-sample-paper-7"
 title: "Sevenoaks School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>
@@ -432,8 +432,6 @@ $
 $
 
 For $570$ calculators the college needs,  $11$ whole boxes and $1$ more box for the remaining $20$ calculators = $12$ boxes.
-
-i.e., $11 + 1 = 12$ Boxes.
 
 </div>
 </div>
@@ -1172,9 +1170,7 @@ Find a formula for the perimeter, $P$, of the shape above.
 <div class='workings'>
 <div class='working'>
 
-As we know, Perimeter of a shape is sum of all sides of the shape. 
-
-Let's consider Length &= a& and Width $= b$.
+As we know, perimeter of a shape is sum of all sides of the shape. So,
 
 So,
 
@@ -1184,6 +1180,7 @@ P       &= a + a + b + b \\\\
         &= 2a + 2b \\\\
         &= 2 (a + b)
 \end{aligned}
+$
 
 </div>
 </div>
@@ -1216,7 +1213,7 @@ $
 P                 &= 2 (a + b) \\\\
                   &= 2 (5 + 10) \\\\
                   &= 2 \times 15 \\\\
-p                 &= 30 \ \text {cm}
+P                 &= 30 \ \text{cm}
 \end{aligned}
 $
 

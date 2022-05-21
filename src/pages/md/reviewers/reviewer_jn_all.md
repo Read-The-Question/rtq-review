@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-jn-all"
 title: "Reviewer - Jaishree Nair - All"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1538,9 +1538,9 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= u - (v + w) \\\\
-&= 2 - ((-5) + (-3)) \\\\
-&= 2 - (-5 - 3) \\\\
-&= 2 + 5 + 3 \\\\
+&= 2 - (-5 + (-3)) \\\\
+&= 2 - (-8) \\\\
+&= 2 + 8 \\\\
 &= 10
 \end{aligned}
 $
@@ -1576,7 +1576,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= v - w \\\\
-&= (-5) - (-3) \\\\
+&= -5 - (-3) \\\\
 &= -5 + 3 \\\\
 &= -2
 \end{aligned}
@@ -1613,7 +1613,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= u - (w - v) \\\\
-&= 2 - ((-3) - (-5)) \\\\
+&= 2 - (-3 - (-5)) \\\\
 &= 2 - (-3 + 5) \\\\
 &= 2 - 2 \\\\
 &= 0
@@ -24746,7 +24746,7 @@ How many $5 \ \text{cm}$ cubes can be packed into the rectangular box in part a)
 
 $
 \begin{aligned}
-\text{Number of cubes} &= \dfrac { \text{Volume of Rectangular box} } { \text{Volume of cube} } \\\\
+\text{Number of cubes} &= \dfrac { \text{Volume of rectangular box} } { \text{Volume of cube} } \\\\
                        &= \dfrac { 5 \times 20 \times 10 } { 5 \times 5 \times 5  } \\\\
                        &= \dfrac { 5 \times 4 \times 5 \times 2 \times 5 } { 5 \times 5 \times 5  } \\\\
                        &= \dfrac { \cancel{5} \times 4 \times \cancel{5} \times 2 \times \cancel{5} } { \cancel{5} \times \cancel{5} \times \cancel{5}  } \\\\
@@ -24755,7 +24755,7 @@ $
 \end{aligned}
 $
 
-Number of cubes that can be packed into the rectangular box in part a) $ = 8$
+Number of cubes that can be packed into the rectangular box in part a) $= 8$
 
 </div>
 </div>
@@ -25099,23 +25099,23 @@ $1, \quad 2, \quad 4, \quad 8, \quad 16, \quad \text{\textunderscore \textunders
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is in sequence of $2^n$ where $n$ is increasing by $1$. Hence, the sequence would be:
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2^0)}} 
-&&  \footnotesize{\maroonC{(+2^1)}}  
-&&  \footnotesize{\maroonC{(+2^2)}}   
-&&  \footnotesize{\maroonC{(+2^3)}}   
-&&  \footnotesize{\maroonC{(+2^4)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}} 
+&&  \footnotesize{\maroonC{(\times 2)}}  
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 1,  &&    2,  &&  4,  &&   8,  &&   16,   &&   \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing number}      &= 16 + 2^4 \\\\
-                           &= 16 + 16 \\\\
+\text{Missing number}      &= 16 \times 2 \\\\
+                           &= 16 \times 2 \\\\
                            &= 32
 \end{aligned}
 $
@@ -25203,7 +25203,8 @@ $
 &   \footnotesize{\maroonC{(34)}} 
 &&  \footnotesize{\maroonC{(21)}}  
 &&  \footnotesize{\maroonC{(13)}}   
-&&  \footnotesize{\maroonC{(8)}}  \\
+&&  \footnotesize{\maroonC{(8)}} 
+&&  \footnotesize{\maroonC{(5)}}  \\
 89,  &&    55,  &&  34,  &&   21,  &&   13,   &&   \ldots
 \end{matrix}
 $
@@ -26521,28 +26522,28 @@ $1,\:\: -2,\:\: 4,\:\: -8,\:\:\:\:\:\: 64,\:\: -128$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-it is in the sequence of $-2^n$, where n is increasing by $1$. Hence, the sequence would be:
+The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(-2^0)}} 
-&&  \footnotesize{\maroonC{(-2^1)}}  
-&&  \footnotesize{\maroonC{(-2^2)}}   
-&&  \footnotesize{\maroonC{(-2^3)}}   
-&&  \footnotesize{\maroonC{(-2^4)}}   
-&&  \footnotesize{\maroonC{(-2^5)}}   
-&&  \footnotesize{\maroonC{(-2^6)}}   
-&&  \footnotesize{\maroonC{(-2^7)}}  \\
+&   \footnotesize{\maroonC{(\times -2)}} 
+&&  \footnotesize{\maroonC{(\times -2)}}  
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}  \\
 1,  &&    -2,  &&  4,  &&  -8,  && \ldots,  && \ldots, &&   64,  &&   -128 
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}   &= -2^4 \\\\
-                          &= 16 \\\\
-\text{Second missing number}   &= -2^5 \\\\
-                          &= -32
+\text{First missing number}    &= -8 \times -2 \\\\
+                               &= 16 \\\\
+\text{Second missing number}   &= 16 \times -2 \\\\
+                               &= -32
 \end{aligned}
 $
 
@@ -39771,7 +39772,15 @@ $0.201,0.021,0.21$
 <div class='workings'>
 <div class='working'>
 
-$0.21> \quad 0.201> \quad 0.021$
+$
+\begin{aligned}
+&= 0.201, \quad 0.021, \quad 0.21 \\\\
+&= 0.201, \quad 0.021, \quad 0.210 \\\\
+& \text{Let's put them in descending order now.} \\\\
+&= 0.210> \quad 0.201> \quad 0.021 \\\\
+&= 0.21> \quad 0.201> \quad 0.021
+\end{aligned}
+$
 
 </div>
 </div>
@@ -40812,14 +40821,22 @@ $3.33, 3.03, 3.3, 3, 3.303$
 <div class='workings'>
 <div class='working'>
 
-$3.33< \quad 3.303< \quad 3.3< \quad 3.03< \quad 3$
+$
+\begin{aligned}
+&= 3.33, \quad 3.03, \quad 3.3, \quad 3, \quad 3.303 \\\\
+&= 3.330, \quad 3.030, \quad 3.300, \quad 3.0, \quad 3.303 \\\\
+&\text{Let's put them in descending order now.} \\\\
+&= 3.330> \quad 3.303> \quad 3.300> \quad 3.030> \quad 3.0 \\\\
+&= 3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3.33< \quad 3.303< \quad 3.3< \quad 3.03< \quad 3$
+3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
 
 </div>
 </div>
@@ -42659,7 +42676,15 @@ $7.7, 7.77, 7, 7.07, 7.707$
 <div class='workings'>
 <div class='working'>
 
-$7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7$
+$
+\begin{aligned}
+&= 7.7, \quad 7.77, \quad 7, \quad 7.07, \quad 7.707 \\\\
+&= 7.700, \quad 7.770, \quad 7.0, \quad 7.070, \quad 7.707 \\\\
+& \text{Let's put them in descending order now.} \\\\
+&= 7.770> \quad 7.707> \quad 7.700> \quad 7.070> \quad 7.0 \\\\
+&= 7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7
+\end{aligned}
+$
 
 </div>
 </div>
@@ -44937,7 +44962,7 @@ $\ldots \quad 6 \quad 12 \quad 24 \quad \ldots$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is increasing by multiples of $2$. Hence, the sequence would be like:
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -44945,7 +44970,7 @@ $
 &&  \footnotesize{\maroonC{(\times 2)}}  
 &&  \footnotesize{\maroonC{(\times 2)}}   
 &&  \footnotesize{\maroonC{(\times 2)}}  \\
-\ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots\\\\
+\ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots 
 \end{matrix}
 $
 
@@ -44990,27 +45015,22 @@ The difference between the terms is increasing by $+3$. Hence, the sequence woul
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} &&  \footnotesize{\maroonC{(+3)}}  &&  
-\footnotesize{\maroonC{(+3)}}   &&  \footnotesize{\maroonC{(+3)}}  \\
-4,  &&      \ldots  &&      10,   &&      13,  &&      \ldots\\\\
+&   \footnotesize{\maroonC{(+3)}} 
+&&  \footnotesize{\maroonC{(+3)}}  
+&&  \footnotesize{\maroonC{(+3)}}   
+&&  \footnotesize{\maroonC{(+3)}}  \\
+4,  &&      \ldots  &&      10,   &&      13,  &&      \ldots 
 \end{matrix}
 $
 
-Missing numbers are 
-
 $
 \begin{aligned}
-&= 4 + 3 \\\\
-&= 7 \\\\
-&= 13 + 3 \\\\
-&= 16 \\\\
+\text{First missing number}       &= 4 + 3 \\\\
+                                  &= 7 \\\\
+\text{Second missing number}      &= 13 + 3 \\\\
+                                  &= 16
 \end{aligned}
 $
-
-The sequence is 
-
-$4 \quad 7 \quad 10 \quad 13 \quad 16$
-
 
 </div>
 </div>
@@ -45044,26 +45064,22 @@ The difference between the terms is decreasing. Every number is \dfrac{1}{2} of 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}} &&  \footnotesize{\maroonC{(\div 2)}}  &&  
-\footnotesize{\maroonC{(\div 2)}}   &&  \footnotesize{\maroonC{(\div 2)}}  \\
-\ldots,  &&      16  &&      8,   &&      4,  &&      \ldots\\\\
+&   \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}}   
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
+\ldots,  &&      16  &&      8,   &&      4,  &&      \ldots
 \end{matrix}
 $
 
-Missing numbers are 
-
 $
 \begin{aligned}
-&= 16 \times 2 \\\\
-&= 32 \\\\
-&= 4 \div 2 \\\\
-&= 2 \\\\
+\text{First missing number}       &= 16 \times 2 \\\\
+                                  &= 32 \\\\
+\text{Second missing number}      &= 4 \div 2 \\\\
+                                  &= 2
 \end{aligned}
 $
-
-The sequence is 
-
-$32 \quad 16 \quad 8 \quad 4 \quad 2$
 
 </div>
 </div>
@@ -45097,9 +45113,11 @@ The difference between the terms is decreasing by (-3). Hence, the sequence woul
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-3)}} &&  \footnotesize{\maroonC{(-3)}}  &&  
-\footnotesize{\maroonC{(-3)}}   &&  \footnotesize{\maroonC{(-3)}}  \\
-\ldots,  &&      6  &&      3,   &&      0,  &&      -3\\\\
+&   \footnotesize{\maroonC{(-3)}} 
+&&  \footnotesize{\maroonC{(-3)}}  
+&&  \footnotesize{\maroonC{(-3)}}   
+&&  \footnotesize{\maroonC{(-3)}}  \\
+\ldots,  &&      6  &&      3,   &&      0,  &&      -3
 \end{matrix}
 $
 
@@ -45107,14 +45125,10 @@ Missing number is
 
 $
 \begin{aligned}
-&= 6 +3  \\\\
-&= 9 \\\\
+\text{Missing number}       &= 6 +3  \\\\
+                            &= 9
 \end{aligned}
 $
-
-The sequence is 
-
-$9 \quad 6 \quad 3 \quad 0 \quad -3$
 
 </div>
 </div>
@@ -45246,8 +45260,6 @@ $
 $
 
 For $570$ calculators the college needs,  $11$ whole boxes and $1$ more box for the remaining $20$ calculators = $12$ boxes.
-
-i.e., $11 + 1 = 12$ Boxes.
 
 </div>
 </div>
@@ -45485,9 +45497,7 @@ Find a formula for the perimeter, $P$, of the shape above.
 <div class='workings'>
 <div class='working'>
 
-As we know, Perimeter of a shape is sum of all sides of the shape. 
-
-Let's consider Length &= a& and Width $= b$.
+As we know, perimeter of a shape is sum of all sides of the shape. So,
 
 So,
 
@@ -45497,6 +45507,7 @@ P       &= a + a + b + b \\\\
         &= 2a + 2b \\\\
         &= 2 (a + b)
 \end{aligned}
+$
 
 </div>
 </div>
@@ -45529,7 +45540,7 @@ $
 P                 &= 2 (a + b) \\\\
                   &= 2 (5 + 10) \\\\
                   &= 2 \times 15 \\\\
-p                 &= 30 \ \text {cm}
+P                 &= 30 \ \text{cm}
 \end{aligned}
 $
 
@@ -48148,13 +48159,16 @@ Now,
 
 $
 \begin{aligned}
-\text {bill (Each Month) } &= \text {Total Bill (in a Year)} \div \text { Number of months (in a Year) } \\\\
-                                                 &= \pounds 375.84 \div 12 \\\\
-                                                 &= \pounds 31.32
+\text{Bill (Each month)}                        &= \dfrac {\text{Total Bill (in a year)}} {\text{ Number of months (in a year)}} \\\\
+                                                &= \dfrac {\pounds 375.84} {12} \\\\
+                                                &= \dfrac {\pounds375.84 \times 100} {12 \times 100} \\\\
+                                                &= \dfrac {37584} {1200} \\\\
+                                                &= \dfrac {12 \times 3132} {12 \times 100} \\\\
+                                                &= \dfrac {\cancel{12} \times 3132} {\cancel{12} \times 100} \\\\
+                                                &= \dfrac {3132} {100} \\\\
+                                                &= \pounds 31.32
 \end{aligned}
 $
-
-$\pounds 31.32$ is his bill each month.
 
 </div>
 </div>
@@ -48184,20 +48198,20 @@ How much does his electricity bill cost him over five years?
 
 $
 \begin{aligned}
-1 \text { year}             &=  \pounds 31.32 \\\\
-1 \times 5 \text { years}   &= \pounds 375.84 \times 5 \\\\
-5 \text { years}            &= \pounds 1879.2                                                  
+1 \ \text {year}             &= \pounds 375.84 \\\\
+1 \times 5 \ \text {years}   &= \pounds 375.84 \times 5 \\\\
+5 \ \text {years}            &= \pounds 1879.20                                                  
 \end{aligned}
 $
 
-$\pounds 1879.2$ is the Electricity bill cost him over five years.
+Over five years his electricity bill will cost him $= \pounds 1879.20$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1879.2$
+$\pounds 1879.20$
 
 </div>
 </div>
@@ -65940,13 +65954,25 @@ Work out the sum of: $9, 99, 999$ and $9999$
 
 $
 \begin{array}{cccccccccccccc}
-          &  9  &  9  &  9  &  9 \\
-          &     &  9  &  9  &  9 \\
+          &     &     &     &  9 \\
           &     &     &  9  &  9 \\
-{}+       &     &     &     &  9 \\
+          &     &  9  &  9  &  9 \\
+{}+       &  9  &  9  &  9  &  9 \\
 \hline
        1  &  1  &  1  &  0  &  6
 \end{array}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+9 + 99 + 999 + 9999     &= 10 - 1 + 100 - 1 + 1000 - 1 + 10000 - 1 \\\\
+                        &= 10 + 100 + 1000 + 10000 - 4 \\\\
+                        &= 11110 - 4 \\\\
+                        &= 11106 
+\end{aligned}
 $
 
 </div>
@@ -66196,9 +66222,10 @@ $
 \begin{aligned}
 a \times 5 -12 \div 3 + 17                                   &= 38 \\\\
 5a -12 \div 3 + 17                                           &= 38 \\\\
-\dfrac { 5a -12 }{3} + \dfrac {17}{1}                        &= 38 \\\\
-\dfrac { 5a -12 }{3} + \dfrac {17 \times 3 } {1 \times 3}    &= 38 \\\\
-\dfrac { 5a -12 + 51 }{3}                                    &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17}{1}                          &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17 \times 3} {1 \times 3}       &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {51} {3}                         &= 38 \\\\
+\dfrac {5a -12 + 51}{3}                                      &= 38 \\\\
 5a -12 + 51                                                  &= 38 \times 3 \\\\
 5a + 39                                                      &= 114 \\\\
 5a                                                           &= 114 - 39 \\\\
@@ -66209,6 +66236,8 @@ a                                                            &= \dfrac {15 \time
 a                                                            &= 15
 \end {aligned}
 $
+
+The number that Sam thought of $= 15$
 
 </div>
 </div>

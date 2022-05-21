@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-all"
 title: "Topic - Volume - All"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1009,7 +1009,7 @@ How many $5 \ \text{cm}$ cubes can be packed into the rectangular box in part a)
 
 $
 \begin{aligned}
-\text{Number of cubes} &= \dfrac { \text{Volume of Rectangular box} } { \text{Volume of cube} } \\\\
+\text{Number of cubes} &= \dfrac { \text{Volume of rectangular box} } { \text{Volume of cube} } \\\\
                        &= \dfrac { 5 \times 20 \times 10 } { 5 \times 5 \times 5  } \\\\
                        &= \dfrac { 5 \times 4 \times 5 \times 2 \times 5 } { 5 \times 5 \times 5  } \\\\
                        &= \dfrac { \cancel{5} \times 4 \times \cancel{5} \times 2 \times \cancel{5} } { \cancel{5} \times \cancel{5} \times \cancel{5}  } \\\\
@@ -1018,7 +1018,7 @@ $
 \end{aligned}
 $
 
-Number of cubes that can be packed into the rectangular box in part a) $ = 8$
+Number of cubes that can be packed into the rectangular box in part a) $= 8$
 
 </div>
 </div>

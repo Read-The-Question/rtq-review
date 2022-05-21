@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-pr"
 title: "Topic - Algebra - PR"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2260,9 +2260,9 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= u - (v + w) \\\\
-&= 2 - ((-5) + (-3)) \\\\
-&= 2 - (-5 - 3) \\\\
-&= 2 + 5 + 3 \\\\
+&= 2 - (-5 + (-3)) \\\\
+&= 2 - (-8) \\\\
+&= 2 + 8 \\\\
 &= 10
 \end{aligned}
 $
@@ -2298,7 +2298,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= v - w \\\\
-&= (-5) - (-3) \\\\
+&= -5 - (-3) \\\\
 &= -5 + 3 \\\\
 &= -2
 \end{aligned}
@@ -2335,7 +2335,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= u - (w - v) \\\\
-&= 2 - ((-3) - (-5)) \\\\
+&= 2 - (-3 - (-5)) \\\\
 &= 2 - (-3 + 5) \\\\
 &= 2 - 2 \\\\
 &= 0
@@ -3282,6 +3282,61 @@ $4$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out what time it is now if the time that has passed since nine o'clock this morning is five times as much as the time that is left before eleven o' clock this morning.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the time is $=a$
+
+$
+\begin{aligned}
+6a   &= 120 \\\\
+a    &= \dfrac {120} {6} \\\\
+a    &= 20 
+\end{aligned}
+$
+
+So, 20 minutes before 11 ,
+
+$10 {:} 40$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 {:} 40$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -8716,8 +8771,6 @@ $
 
 For $570$ calculators the college needs,  $11$ whole boxes and $1$ more box for the remaining $20$ calculators = $12$ boxes.
 
-i.e., $11 + 1 = 12$ Boxes.
-
 </div>
 </div>
 <div class='answers'>
@@ -10947,59 +11000,6 @@ $\pounds 11.76$
 </ul>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>2512EA6E-6A08-448C-BB2A-C8D9924A368E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a box of sweets there are $7$ toffees for every $12$ chocolates. If there are $72$ chocolates how many toffees are there? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-In a box of sweets there are $7$ toffees for every $12$ chocolates
-
-$
-\begin{aligned}
-\text{Let the toffees br 'a' for 72 chocolates} \\\\
-\text{then} \\\\
-& 12a   =   72\times 7 \\
-&   a   =   \dfrac{72\times 7}{12} \\\\
-&   a   =   \dfrac{\cancel{72} \ \ 6 \times 7}{\cancel{12}} \\\\
-&   a   =   42  \ \text{toffees}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42 \text{toffees}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -13334,9 +13334,10 @@ $
 \begin{aligned}
 a \times 5 -12 \div 3 + 17                                   &= 38 \\\\
 5a -12 \div 3 + 17                                           &= 38 \\\\
-\dfrac { 5a -12 }{3} + \dfrac {17}{1}                        &= 38 \\\\
-\dfrac { 5a -12 }{3} + \dfrac {17 \times 3 } {1 \times 3}    &= 38 \\\\
-\dfrac { 5a -12 + 51 }{3}                                    &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17}{1}                          &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17 \times 3} {1 \times 3}       &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {51} {3}                         &= 38 \\\\
+\dfrac {5a -12 + 51}{3}                                      &= 38 \\\\
 5a -12 + 51                                                  &= 38 \times 3 \\\\
 5a + 39                                                      &= 114 \\\\
 5a                                                           &= 114 - 39 \\\\
@@ -13347,6 +13348,8 @@ a                                                            &= \dfrac {15 \time
 a                                                            &= 15
 \end {aligned}
 $
+
+The number that Sam thought of $= 15$
 
 </div>
 </div>

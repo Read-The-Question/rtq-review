@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-g2"
 title: "Topic - Percentage - G2"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>

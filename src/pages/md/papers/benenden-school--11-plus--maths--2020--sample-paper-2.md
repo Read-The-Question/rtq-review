@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>Benenden School</h1>
@@ -1316,9 +1316,9 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= u - (v + w) \\\\
-&= 2 - ((-5) + (-3)) \\\\
-&= 2 - (-5 - 3) \\\\
-&= 2 + 5 + 3 \\\\
+&= 2 - (-5 + (-3)) \\\\
+&= 2 - (-8) \\\\
+&= 2 + 8 \\\\
 &= 10
 \end{aligned}
 $
@@ -1354,7 +1354,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= v - w \\\\
-&= (-5) - (-3) \\\\
+&= -5 - (-3) \\\\
 &= -5 + 3 \\\\
 &= -2
 \end{aligned}
@@ -1391,7 +1391,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= u - (w - v) \\\\
-&= 2 - ((-3) - (-5)) \\\\
+&= 2 - (-3 - (-5)) \\\\
 &= 2 - (-3 + 5) \\\\
 &= 2 - 2 \\\\
 &= 0

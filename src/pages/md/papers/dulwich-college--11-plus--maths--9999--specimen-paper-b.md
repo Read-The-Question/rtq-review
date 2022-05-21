@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-b"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper B"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>Dulwich College</h1>
@@ -2043,7 +2043,7 @@ $35\%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
 </div>
@@ -2065,24 +2065,26 @@ Work out what time it is now if the time that has passed since nine o'clock this
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the time is $=a$
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+6a   &= 120 \\\\
+a    &= \dfrac {120} {6} \\\\
+a    &= 20 
+\end{aligned}
+$
 
-TODOWORKING
+So, 20 minutes before 11 ,
+
+$10 {:} 40$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$10 {:} 40$
 
 </div>
 </div>
@@ -2091,7 +2093,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -2115,24 +2117,14 @@ In $1$ tree, $2$ chimps can eat $3$ bananas in $4$ minutes.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2151,24 +2143,23 @@ Work out how long it would take for $2$ chimps to eat $6$ bananas.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Time taken to eat one banana} &= \dfrac {4} {3} \\\\
+\text{Tike taken to eat 6 bananas}  &= \dfrac {4 \times 6} {3} \\\\
+                                    &= \dfrac {4 \times 3 \times 2} {3} \\\\
+                                    &= \dfrac {4 \times \cancel {3} \times 2} {\cancel {3}} \\\\
+                                    &= 4 \times 2 \\\\
+                                    &= 8 \ \text{minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$8 \ \text{minutes}$
 
 </div>
 </div>
@@ -2190,24 +2181,24 @@ Work out how many chimps would be required to eat $21$ bananas in $8 \ \text{min
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{The same monkey will eat 6 bananas in 8 minutes} \\\\
+\text{Which means 1 monkey will eat 3 bananas in 8 minutes} \\\\
+&= \dfrac {2 \times 21} {6} \\\\
+&= \dfrac {2 \time 7 \times 3} {3 \times 2} \\\\
+&= \dfrac {\cancel{2} \time 7 \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
+&= 7
+\text{Hence, we need 7 monkey to eat 21 bananas in 8 minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$7$
 
 </div>
 </div>

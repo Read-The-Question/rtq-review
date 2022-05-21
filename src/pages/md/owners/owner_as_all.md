@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-as-all"
 title: "Owner - Akanksha Sachdeva - All"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>

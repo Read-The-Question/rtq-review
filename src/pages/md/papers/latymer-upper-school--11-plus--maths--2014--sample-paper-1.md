@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2014-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>Latymer Upper School</h1>
@@ -1444,28 +1444,28 @@ $1,\:\: -2,\:\: 4,\:\: -8,\:\:\:\:\:\: 64,\:\: -128$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-it is in the sequence of $-2^n$, where n is increasing by $1$. Hence, the sequence would be:
+The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(-2^0)}} 
-&&  \footnotesize{\maroonC{(-2^1)}}  
-&&  \footnotesize{\maroonC{(-2^2)}}   
-&&  \footnotesize{\maroonC{(-2^3)}}   
-&&  \footnotesize{\maroonC{(-2^4)}}   
-&&  \footnotesize{\maroonC{(-2^5)}}   
-&&  \footnotesize{\maroonC{(-2^6)}}   
-&&  \footnotesize{\maroonC{(-2^7)}}  \\
+&   \footnotesize{\maroonC{(\times -2)}} 
+&&  \footnotesize{\maroonC{(\times -2)}}  
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}  \\
 1,  &&    -2,  &&  4,  &&  -8,  && \ldots,  && \ldots, &&   64,  &&   -128 
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}   &= -2^4 \\\\
-                          &= 16 \\\\
-\text{Second missing number}   &= -2^5 \\\\
-                          &= -32
+\text{First missing number}    &= -8 \times -2 \\\\
+                               &= 16 \\\\
+\text{Second missing number}   &= 16 \times -2 \\\\
+                               &= -32
 \end{aligned}
 $
 

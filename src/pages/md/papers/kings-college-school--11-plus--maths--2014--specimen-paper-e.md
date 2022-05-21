@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2014-specimen-paper-e"
 title: "Kings College School - 11 Plus - Maths - 2014 - Specimen Paper E"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>King's College School</h1>
@@ -889,7 +889,7 @@ How many $5 \ \text{cm}$ cubes can be packed into the rectangular box in part a)
 
 $
 \begin{aligned}
-\text{Number of cubes} &= \dfrac { \text{Volume of Rectangular box} } { \text{Volume of cube} } \\\\
+\text{Number of cubes} &= \dfrac { \text{Volume of rectangular box} } { \text{Volume of cube} } \\\\
                        &= \dfrac { 5 \times 20 \times 10 } { 5 \times 5 \times 5  } \\\\
                        &= \dfrac { 5 \times 4 \times 5 \times 2 \times 5 } { 5 \times 5 \times 5  } \\\\
                        &= \dfrac { \cancel{5} \times 4 \times \cancel{5} \times 2 \times \cancel{5} } { \cancel{5} \times \cancel{5} \times \cancel{5}  } \\\\
@@ -898,7 +898,7 @@ $
 \end{aligned}
 $
 
-Number of cubes that can be packed into the rectangular box in part a) $ = 8$
+Number of cubes that can be packed into the rectangular box in part a) $= 8$
 
 </div>
 </div>
@@ -1460,23 +1460,23 @@ $1, \quad 2, \quad 4, \quad 8, \quad 16, \quad \text{\textunderscore \textunders
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is in sequence of $2^n$ where $n$ is increasing by $1$. Hence, the sequence would be:
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2^0)}} 
-&&  \footnotesize{\maroonC{(+2^1)}}  
-&&  \footnotesize{\maroonC{(+2^2)}}   
-&&  \footnotesize{\maroonC{(+2^3)}}   
-&&  \footnotesize{\maroonC{(+2^4)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}} 
+&&  \footnotesize{\maroonC{(\times 2)}}  
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 1,  &&    2,  &&  4,  &&   8,  &&   16,   &&   \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing number}      &= 16 + 2^4 \\\\
-                           &= 16 + 16 \\\\
+\text{Missing number}      &= 16 \times 2 \\\\
+                           &= 16 \times 2 \\\\
                            &= 32
 \end{aligned}
 $
@@ -1564,7 +1564,8 @@ $
 &   \footnotesize{\maroonC{(34)}} 
 &&  \footnotesize{\maroonC{(21)}}  
 &&  \footnotesize{\maroonC{(13)}}   
-&&  \footnotesize{\maroonC{(8)}}  \\
+&&  \footnotesize{\maroonC{(8)}} 
+&&  \footnotesize{\maroonC{(5)}}  \\
 89,  &&    55,  &&  34,  &&   21,  &&   13,   &&   \ldots
 \end{matrix}
 $

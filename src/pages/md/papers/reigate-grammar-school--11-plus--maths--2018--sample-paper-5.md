@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2018-sample-paper-5"
 title: "Reigate Grammar School - 11 Plus - Maths - 2018 - Sample Paper 5"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -167,14 +167,22 @@ $3.33, 3.03, 3.3, 3, 3.303$
 <div class='workings'>
 <div class='working'>
 
-$3.33< \quad 3.303< \quad 3.3< \quad 3.03< \quad 3$
+$
+\begin{aligned}
+&= 3.33, \quad 3.03, \quad 3.3, \quad 3, \quad 3.303 \\\\
+&= 3.330, \quad 3.030, \quad 3.300, \quad 3.0, \quad 3.303 \\\\
+&\text{Let's put them in descending order now.} \\\\
+&= 3.330> \quad 3.303> \quad 3.300> \quad 3.030> \quad 3.0 \\\\
+&= 3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3.33< \quad 3.303< \quad 3.3< \quad 3.03< \quad 3$
+3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
 
 </div>
 </div>

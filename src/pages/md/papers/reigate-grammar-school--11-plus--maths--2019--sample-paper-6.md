@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -167,7 +167,15 @@ $7.7, 7.77, 7, 7.07, 7.707$
 <div class='workings'>
 <div class='working'>
 
-$7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7$
+$
+\begin{aligned}
+&= 7.7, \quad 7.77, \quad 7, \quad 7.07, \quad 7.707 \\\\
+&= 7.700, \quad 7.770, \quad 7.0, \quad 7.070, \quad 7.707 \\\\
+& \text{Let's put them in descending order now.} \\\\
+&= 7.770> \quad 7.707> \quad 7.700> \quad 7.070> \quad 7.0 \\\\
+&= 7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7
+\end{aligned}
+$
 
 </div>
 </div>

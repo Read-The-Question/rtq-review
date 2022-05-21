@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ga-pr"
 title: "Owner - Gifty Abhishek - PR"
-date: 2022-05-21 20:37:28
+date: 2022-05-21 23:24:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -271,9 +271,9 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= u - (v + w) \\\\
-&= 2 - ((-5) + (-3)) \\\\
-&= 2 - (-5 - 3) \\\\
-&= 2 + 5 + 3 \\\\
+&= 2 - (-5 + (-3)) \\\\
+&= 2 - (-8) \\\\
+&= 2 + 8 \\\\
 &= 10
 \end{aligned}
 $
@@ -309,7 +309,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= v - w \\\\
-&= (-5) - (-3) \\\\
+&= -5 - (-3) \\\\
 &= -5 + 3 \\\\
 &= -2
 \end{aligned}
@@ -346,7 +346,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= u - (w - v) \\\\
-&= 2 - ((-3) - (-5)) \\\\
+&= 2 - (-3 - (-5)) \\\\
 &= 2 - (-3 + 5) \\\\
 &= 2 - 2 \\\\
 &= 0
@@ -1631,7 +1631,7 @@ How many $5 \ \text{cm}$ cubes can be packed into the rectangular box in part a)
 
 $
 \begin{aligned}
-\text{Number of cubes} &= \dfrac { \text{Volume of Rectangular box} } { \text{Volume of cube} } \\\\
+\text{Number of cubes} &= \dfrac { \text{Volume of rectangular box} } { \text{Volume of cube} } \\\\
                        &= \dfrac { 5 \times 20 \times 10 } { 5 \times 5 \times 5  } \\\\
                        &= \dfrac { 5 \times 4 \times 5 \times 2 \times 5 } { 5 \times 5 \times 5  } \\\\
                        &= \dfrac { \cancel{5} \times 4 \times \cancel{5} \times 2 \times \cancel{5} } { \cancel{5} \times \cancel{5} \times \cancel{5}  } \\\\
@@ -1640,7 +1640,7 @@ $
 \end{aligned}
 $
 
-Number of cubes that can be packed into the rectangular box in part a) $ = 8$
+Number of cubes that can be packed into the rectangular box in part a) $= 8$
 
 </div>
 </div>
@@ -1759,23 +1759,23 @@ $1, \quad 2, \quad 4, \quad 8, \quad 16, \quad \text{\textunderscore \textunders
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is in sequence of $2^n$ where $n$ is increasing by $1$. Hence, the sequence would be:
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2^0)}} 
-&&  \footnotesize{\maroonC{(+2^1)}}  
-&&  \footnotesize{\maroonC{(+2^2)}}   
-&&  \footnotesize{\maroonC{(+2^3)}}   
-&&  \footnotesize{\maroonC{(+2^4)}}  \\
+&   \footnotesize{\maroonC{(\times 2)}} 
+&&  \footnotesize{\maroonC{(\times 2)}}  
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
 1,  &&    2,  &&  4,  &&   8,  &&   16,   &&   \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing number}      &= 16 + 2^4 \\\\
-                           &= 16 + 16 \\\\
+\text{Missing number}      &= 16 \times 2 \\\\
+                           &= 16 \times 2 \\\\
                            &= 32
 \end{aligned}
 $
@@ -1863,7 +1863,8 @@ $
 &   \footnotesize{\maroonC{(34)}} 
 &&  \footnotesize{\maroonC{(21)}}  
 &&  \footnotesize{\maroonC{(13)}}   
-&&  \footnotesize{\maroonC{(8)}}  \\
+&&  \footnotesize{\maroonC{(8)}} 
+&&  \footnotesize{\maroonC{(5)}}  \\
 89,  &&    55,  &&  34,  &&   21,  &&   13,   &&   \ldots
 \end{matrix}
 $
@@ -2575,28 +2576,28 @@ $1,\:\: -2,\:\: 4,\:\: -8,\:\:\:\:\:\: 64,\:\: -128$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-it is in the sequence of $-2^n$, where n is increasing by $1$. Hence, the sequence would be:
+The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(-2^0)}} 
-&&  \footnotesize{\maroonC{(-2^1)}}  
-&&  \footnotesize{\maroonC{(-2^2)}}   
-&&  \footnotesize{\maroonC{(-2^3)}}   
-&&  \footnotesize{\maroonC{(-2^4)}}   
-&&  \footnotesize{\maroonC{(-2^5)}}   
-&&  \footnotesize{\maroonC{(-2^6)}}   
-&&  \footnotesize{\maroonC{(-2^7)}}  \\
+&   \footnotesize{\maroonC{(\times -2)}} 
+&&  \footnotesize{\maroonC{(\times -2)}}  
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}   
+&&  \footnotesize{\maroonC{(\times -2)}}  \\
 1,  &&    -2,  &&  4,  &&  -8,  && \ldots,  && \ldots, &&   64,  &&   -128 
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}   &= -2^4 \\\\
-                          &= 16 \\\\
-\text{Second missing number}   &= -2^5 \\\\
-                          &= -32
+\text{First missing number}    &= -8 \times -2 \\\\
+                               &= 16 \\\\
+\text{Second missing number}   &= 16 \times -2 \\\\
+                               &= -32
 \end{aligned}
 $
 
@@ -3145,7 +3146,7 @@ $\ldots \quad 6 \quad 12 \quad 24 \quad \ldots$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is increasing by multiples of $2$. Hence, the sequence would be like:
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -3153,7 +3154,7 @@ $
 &&  \footnotesize{\maroonC{(\times 2)}}  
 &&  \footnotesize{\maroonC{(\times 2)}}   
 &&  \footnotesize{\maroonC{(\times 2)}}  \\
-\ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots\\\\
+\ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots 
 \end{matrix}
 $
 
@@ -3198,27 +3199,22 @@ The difference between the terms is increasing by $+3$. Hence, the sequence woul
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} &&  \footnotesize{\maroonC{(+3)}}  &&  
-\footnotesize{\maroonC{(+3)}}   &&  \footnotesize{\maroonC{(+3)}}  \\
-4,  &&      \ldots  &&      10,   &&      13,  &&      \ldots\\\\
+&   \footnotesize{\maroonC{(+3)}} 
+&&  \footnotesize{\maroonC{(+3)}}  
+&&  \footnotesize{\maroonC{(+3)}}   
+&&  \footnotesize{\maroonC{(+3)}}  \\
+4,  &&      \ldots  &&      10,   &&      13,  &&      \ldots 
 \end{matrix}
 $
 
-Missing numbers are 
-
 $
 \begin{aligned}
-&= 4 + 3 \\\\
-&= 7 \\\\
-&= 13 + 3 \\\\
-&= 16 \\\\
+\text{First missing number}       &= 4 + 3 \\\\
+                                  &= 7 \\\\
+\text{Second missing number}      &= 13 + 3 \\\\
+                                  &= 16
 \end{aligned}
 $
-
-The sequence is 
-
-$4 \quad 7 \quad 10 \quad 13 \quad 16$
-
 
 </div>
 </div>
@@ -3252,26 +3248,22 @@ The difference between the terms is decreasing. Every number is \dfrac{1}{2} of 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}} &&  \footnotesize{\maroonC{(\div 2)}}  &&  
-\footnotesize{\maroonC{(\div 2)}}   &&  \footnotesize{\maroonC{(\div 2)}}  \\
-\ldots,  &&      16  &&      8,   &&      4,  &&      \ldots\\\\
+&   \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}}   
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
+\ldots,  &&      16  &&      8,   &&      4,  &&      \ldots
 \end{matrix}
 $
 
-Missing numbers are 
-
 $
 \begin{aligned}
-&= 16 \times 2 \\\\
-&= 32 \\\\
-&= 4 \div 2 \\\\
-&= 2 \\\\
+\text{First missing number}       &= 16 \times 2 \\\\
+                                  &= 32 \\\\
+\text{Second missing number}      &= 4 \div 2 \\\\
+                                  &= 2
 \end{aligned}
 $
-
-The sequence is 
-
-$32 \quad 16 \quad 8 \quad 4 \quad 2$
 
 </div>
 </div>
@@ -3305,9 +3297,11 @@ The difference between the terms is decreasing by (-3). Hence, the sequence woul
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-3)}} &&  \footnotesize{\maroonC{(-3)}}  &&  
-\footnotesize{\maroonC{(-3)}}   &&  \footnotesize{\maroonC{(-3)}}  \\
-\ldots,  &&      6  &&      3,   &&      0,  &&      -3\\\\
+&   \footnotesize{\maroonC{(-3)}} 
+&&  \footnotesize{\maroonC{(-3)}}  
+&&  \footnotesize{\maroonC{(-3)}}   
+&&  \footnotesize{\maroonC{(-3)}}  \\
+\ldots,  &&      6  &&      3,   &&      0,  &&      -3
 \end{matrix}
 $
 
@@ -3315,14 +3309,10 @@ Missing number is
 
 $
 \begin{aligned}
-&= 6 +3  \\\\
-&= 9 \\\\
+\text{Missing number}       &= 6 +3  \\\\
+                            &= 9
 \end{aligned}
 $
-
-The sequence is 
-
-$9 \quad 6 \quad 3 \quad 0 \quad -3$
 
 </div>
 </div>
@@ -3919,8 +3909,6 @@ $
 
 For $570$ calculators the college needs,  $11$ whole boxes and $1$ more box for the remaining $20$ calculators = $12$ boxes.
 
-i.e., $11 + 1 = 12$ Boxes.
-
 </div>
 </div>
 <div class='answers'>
@@ -4157,9 +4145,7 @@ Find a formula for the perimeter, $P$, of the shape above.
 <div class='workings'>
 <div class='working'>
 
-As we know, Perimeter of a shape is sum of all sides of the shape. 
-
-Let's consider Length &= a& and Width $= b$.
+As we know, perimeter of a shape is sum of all sides of the shape. So,
 
 So,
 
@@ -4169,6 +4155,7 @@ P       &= a + a + b + b \\\\
         &= 2a + 2b \\\\
         &= 2 (a + b)
 \end{aligned}
+$
 
 </div>
 </div>
@@ -4201,7 +4188,7 @@ $
 P                 &= 2 (a + b) \\\\
                   &= 2 (5 + 10) \\\\
                   &= 2 \times 15 \\\\
-p                 &= 30 \ \text {cm}
+P                 &= 30 \ \text{cm}
 \end{aligned}
 $
 
@@ -4636,13 +4623,16 @@ Now,
 
 $
 \begin{aligned}
-\text {bill (Each Month) } &= \text {Total Bill (in a Year)} \div \text { Number of months (in a Year) } \\\\
-                                                 &= \pounds 375.84 \div 12 \\\\
-                                                 &= \pounds 31.32
+\text{Bill (Each month)}                        &= \dfrac {\text{Total Bill (in a year)}} {\text{ Number of months (in a year)}} \\\\
+                                                &= \dfrac {\pounds 375.84} {12} \\\\
+                                                &= \dfrac {\pounds375.84 \times 100} {12 \times 100} \\\\
+                                                &= \dfrac {37584} {1200} \\\\
+                                                &= \dfrac {12 \times 3132} {12 \times 100} \\\\
+                                                &= \dfrac {\cancel{12} \times 3132} {\cancel{12} \times 100} \\\\
+                                                &= \dfrac {3132} {100} \\\\
+                                                &= \pounds 31.32
 \end{aligned}
 $
-
-$\pounds 31.32$ is his bill each month.
 
 </div>
 </div>
@@ -4672,20 +4662,20 @@ How much does his electricity bill cost him over five years?
 
 $
 \begin{aligned}
-1 \text { year}             &=  \pounds 31.32 \\\\
-1 \times 5 \text { years}   &= \pounds 375.84 \times 5 \\\\
-5 \text { years}            &= \pounds 1879.2                                                  
+1 \ \text {year}             &= \pounds 375.84 \\\\
+1 \times 5 \ \text {years}   &= \pounds 375.84 \times 5 \\\\
+5 \ \text {years}            &= \pounds 1879.20                                                  
 \end{aligned}
 $
 
-$\pounds 1879.2$ is the Electricity bill cost him over five years.
+Over five years his electricity bill will cost him $= \pounds 1879.20$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1879.2$
+$\pounds 1879.20$
 
 </div>
 </div>
@@ -5340,13 +5330,25 @@ Work out the sum of: $9, 99, 999$ and $9999$
 
 $
 \begin{array}{cccccccccccccc}
-          &  9  &  9  &  9  &  9 \\
-          &     &  9  &  9  &  9 \\
+          &     &     &     &  9 \\
           &     &     &  9  &  9 \\
-{}+       &     &     &     &  9 \\
+          &     &  9  &  9  &  9 \\
+{}+       &  9  &  9  &  9  &  9 \\
 \hline
        1  &  1  &  1  &  0  &  6
 \end{array}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+9 + 99 + 999 + 9999     &= 10 - 1 + 100 - 1 + 1000 - 1 + 10000 - 1 \\\\
+                        &= 10 + 100 + 1000 + 10000 - 4 \\\\
+                        &= 11110 - 4 \\\\
+                        &= 11106 
+\end{aligned}
 $
 
 </div>
@@ -5596,9 +5598,10 @@ $
 \begin{aligned}
 a \times 5 -12 \div 3 + 17                                   &= 38 \\\\
 5a -12 \div 3 + 17                                           &= 38 \\\\
-\dfrac { 5a -12 }{3} + \dfrac {17}{1}                        &= 38 \\\\
-\dfrac { 5a -12 }{3} + \dfrac {17 \times 3 } {1 \times 3}    &= 38 \\\\
-\dfrac { 5a -12 + 51 }{3}                                    &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17}{1}                          &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17 \times 3} {1 \times 3}       &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {51} {3}                         &= 38 \\\\
+\dfrac {5a -12 + 51}{3}                                      &= 38 \\\\
 5a -12 + 51                                                  &= 38 \times 3 \\\\
 5a + 39                                                      &= 114 \\\\
 5a                                                           &= 114 - 39 \\\\
@@ -5609,6 +5612,8 @@ a                                                            &= \dfrac {15 \time
 a                                                            &= 15
 \end {aligned}
 $
+
+The number that Sam thought of $= 15$
 
 </div>
 </div>
@@ -6564,6 +6569,357 @@ $\pounds 400$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>592A7270-AE5F-46DD-A5CD-5293B41C79F7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $187 \times 60$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+            &       &       1       & 8     & 7     \\
+{}\times    &       &               & 6     & 0     \\
+\hline
+            &       &       0       & 0     & 0     \\
+1           &      1&       2       & 2     & 0     \\
+\hline
+1           &      1&       2       & 2     & 0
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11220$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>7A0547CE-4780-4C98-8F44-705D53000745</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $22\dfrac{1}{2} \div 5$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+&= 22 \dfrac{1}{2} \div 5 \\\\ 
+&= \dfrac {45}{2} \times \dfrac {1}{5} \\\\
+&= \dfrac {45 \times 1} {2 \times 5} \\\\
+&= \dfrac {9 \times 5} {2 \times 5} \\\\
+&= \dfrac {9 \times \cancel{5}} {2 \times \cancel{5}} \\\\
+&= \dfrac {9} {2} \\\\
+&= 4 \dfrac {1} {2} \\\\
+&= 4.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>23BA576A-774F-4E22-884E-3C38C9F35B7C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in figures the number $\text{one million ten thousand and one}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1010001$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1010001$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>30031157-8687-4B93-8985-5B4931D1E9A0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+taddition
+</li>
+<li>
+tmultiplication
+</li>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the product of the sum of $8$ and $4$ with the difference of $3$ and $12$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= (8 + 4) \times (3 - 12)  \\\\
+&= 12 \times (-9) \\\\
+&= -108
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-108$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $15\%$ of $\pounds 3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 15\% \times \pounds 3 \\\\
+&= 15\% \times 300 \ \text{pence}\\\\
+&= \dfrac {15} {100} \times 300 \\\\
+&= \dfrac {15 \times 300} {100} \\\\
+&= \dfrac {15 \times 3 \times 100} {100} \\\\
+&= \dfrac {15 \times 3 \times 1\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
+&= 15 \times 3  \\\\
+&= 45 \ \text{pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \ \text{pence}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>91042F17-061F-4256-AC8C-8BE46A41FCD2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write $0.36$ as a fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.36 \\\\
+&= \dfrac {36} {100} \\\\
+&= \dfrac {4 \times 9} {4 \times 25} \\\\
+&= \dfrac {\cancel{4} \times 9} {\cancel{4} \times 25} \\\\
+&= \dfrac {9} {25} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {9} {25}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>62028F5D-6918-47EE-9E20-6E995EF362A2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much is $\dfrac{3}{4}$ of $\dfrac{2}{5}$ of $\pounds 1$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{3}{4} \text{ of } \dfrac{2}{5} \text{ of } \pounds 1 \\\\
+&= \dfrac{3}{4} \times  \dfrac{2}{5} \times 100 \ \text{pence} \\\\
+&= \dfrac{3}{4} \times \dfrac{2}{5} \times 100 \\\\
+&= \dfrac{3 \times 2 \times 100} {4 \times 5} \\\\
+&= \dfrac{3 \times 2 \times 4 \times 5 \times 5} {4 \times 5} \\\\
+&= \dfrac{3 \times 2 \times \cancel{4} \times \cancel{5} \times 5} {\cancel{4} \times \cancel{5}} \\\\
+&= 3 \times 2  \times 5 \\\\
+&= 30 \ \text{pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \ \text{pence}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>

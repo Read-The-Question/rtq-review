@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-up-all"
-title: "Owner - Uday Pandey - ALL"
-date: 2022-05-21 18:02:37
+title: "Owner - Uday Pandey - All"
+date: 2022-05-21 20:22:50
 ---
 <ul class='question default-decimal'>
 <li>

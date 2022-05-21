@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-all"
-title: "Owner - Arun Dalakoti - ALL"
-date: 2022-05-21 18:02:37
+title: "Owner - Arun Dalakoti - All"
+date: 2022-05-21 20:22:50
 ---
 <ul class='question default-decimal'>
 <li>

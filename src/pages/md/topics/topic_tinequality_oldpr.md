@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinequality-oldpr"
-title: "Topic - Inequality - OLDPR"
-date: 2022-05-21 18:02:37
+title: "Topic - Inequality - Old PR"
+date: 2022-05-21 20:22:50
 ---
 <ul class='question default-decimal'>
 <li>

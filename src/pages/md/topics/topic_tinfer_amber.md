@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-amber"
-title: "Topic - Infer - AMBER"
-date: 2022-05-21 18:02:37
+title: "Topic - Infer - Amber"
+date: 2022-05-21 20:22:50
 ---
 <ul class='question default-decimal'>
 <li>

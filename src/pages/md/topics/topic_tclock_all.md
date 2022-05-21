@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-all"
-title: "Topic - Clock - ALL"
-date: 2022-05-21 18:02:37
+title: "Topic - Clock - All"
+date: 2022-05-21 20:22:50
 ---
 <ul class='question default-decimal'>
 <li>

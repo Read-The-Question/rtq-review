@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmultiplication-all"
-title: "Topic - Multiplication - ALL"
-date: 2022-05-21 18:02:37
+title: "Topic - Multiplication - All"
+date: 2022-05-21 20:22:50
 ---
 <ul class='question default-decimal'>
 <li>

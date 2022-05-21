@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-red"
-title: "Topic - Decimal - RED"
-date: 2022-05-21 18:02:37
+title: "Topic - Decimal - Red"
+date: 2022-05-21 20:22:50
 ---
 <ul class='question default-decimal'>
 <li>

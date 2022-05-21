@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-sc-all"
-title: "Reviewer - Sahil Choudhary - ALL"
-date: 2022-05-21 18:02:37
+title: "Reviewer - Sahil Choudhary - All"
+date: 2022-05-21 20:22:50
 ---
 <ul class='question default-decimal'>
 <li>

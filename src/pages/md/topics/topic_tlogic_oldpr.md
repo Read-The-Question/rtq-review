@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tlogic-oldpr"
-title: "Topic - Logic - OLDPR"
-date: 2022-05-21 18:02:37
+title: "Topic - Logic - Old PR"
+date: 2022-05-21 20:22:50
 ---
 <ul class='question default-decimal'>
 <li>

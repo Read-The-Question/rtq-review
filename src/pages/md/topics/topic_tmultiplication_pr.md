@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmultiplication-pr"
 title: "Topic - Multiplication - PR"
-date: 2022-05-23 06:58:47
+date: 2022-05-23 12:13:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -48,6 +48,125 @@ $15980$
 
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>CB985892-807A-481A-863E-243A882E5ED9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$246 \times 28$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &   2   &   4   &   6 \\
+\times  &       &   2   &   8 \\
+\hline
+   1    &   9   &   6   &   8 \\
+   4    &   9   &   2   &   0 \\
+\hline
+   6    &   8   &   8   &   8
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6888$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2460 \div 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2460 \div 5 \\\\
+&= \dfrac {2460} {5} \\\\
+&= \dfrac {2460 \times 2} {5 \times 2} \\\\
+&= \dfrac {4920} {10} \\\\
+&= \dfrac {492\cancel{0}} {1\cancel{0}} \\\\
+&= 492
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$492$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -2339,6 +2458,56 @@ $211$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>01FADDAD-8EFA-4AE9-B369-FC2FBAFE48DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Multiply $34$ by $17$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &    3    &    4 \\
+\times    &    1    &    7 \\
+\hline
+    2    &    3    &    8 \\
+    3    &    4    &    0 \\
+\hline
+    5    &    7    &    8
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$578$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

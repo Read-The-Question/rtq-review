@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-05-23 06:58:47
+date: 2022-05-23 12:13:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -38954,7 +38954,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC</p>
 </div>
@@ -39002,12 +39002,7 @@ A quick check shows that $3$ and $12$ meets all the criteria above.
 <div class='answers'>
 <div class='answer'>
 
-$3$
-
-</div>
-<div class='answer'>
-
-$12$
+$3, 12$
 
 </div>
 </div>
@@ -39016,7 +39011,7 @@ $12$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

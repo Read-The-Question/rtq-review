@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-pr"
 title: "Owner - Banoth Sairam - PR"
-date: 2022-05-23 06:58:47
+date: 2022-05-23 12:13:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3518,6 +3518,125 @@ $\text{Shop C} = \pounds 820$
 
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>CB985892-807A-481A-863E-243A882E5ED9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$246 \times 28$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &   2   &   4   &   6 \\
+\times  &       &   2   &   8 \\
+\hline
+   1    &   9   &   6   &   8 \\
+   4    &   9   &   2   &   0 \\
+\hline
+   6    &   8   &   8   &   8
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6888$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2460 \div 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2460 \div 5 \\\\
+&= \dfrac {2460} {5} \\\\
+&= \dfrac {2460 \times 2} {5 \times 2} \\\\
+&= \dfrac {4920} {10} \\\\
+&= \dfrac {492\cancel{0}} {1\cancel{0}} \\\\
+&= 492
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$492$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -10475,7 +10594,6 @@ a + a + 95 + 75 &= 360 \\\\
 2a + 170     &= 360 \\\\
 2a           &= 360 - 170 \\\\
 2a           &= 190
-$
 \end{aligned}
 $
 
@@ -10714,10 +10832,9 @@ $
 &=  \dfrac{30}{100} \times 120 \\\\
 &=  \dfrac{30 \times 120}{100} \\\\
 &=  \dfrac{3600}{100} \\\\
-&=  \dfrac{36 \times \cancel{100}} {1\cancel{100}} \\\\
+&=  \dfrac{36 \times \cancel{100}} {1 \cancel{100}} \\\\
 &=  36
 \end{aligned}
-
 $
 
 
@@ -13168,6 +13285,376 @@ $8$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
+<p>D3586240-8AF8-4DFE-9B41-8E2CAD789B2F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+taddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add these two numbers together:
+
+Ten thousand and thirty four and
+
+Three thousand nine hundred and sixty eight
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &    1    &    0    &    0    &    3    &    4 \\
+{}+        &    &    3    &    9    &    6    &    8 \\
+\hline
+    &    1    &    4    &    0    &    0    &    2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14002$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>F46BD077-5724-4B71-BA48-162435F7D628</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$7004 - 358$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &    7    &    0    &    0    &    4 \\
+{}-    &        &    3    &    5    &    8 \\
+\hline
+    &    6    &    6    &    4    &    6
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6646$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>01FADDAD-8EFA-4AE9-B369-FC2FBAFE48DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Multiply $34$ by $17$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &    3    &    4 \\
+\times    &    1    &    7 \\
+\hline
+    2    &    3    &    8 \\
+    3    &    4    &    0 \\
+\hline
+    5    &    7    &    8
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$578$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If two numbers multiply to give $36$ and their sum is $15$, what are the two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b          &= 36 \\\\
+a + b                 &= 15
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error.
+
+
+Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+| Numbers   |  Multiplication  |  Sum  |
+|:-------:  |:---------------: |:----: |
+| $1, 36$   | $36$             | $37$  |
+| $2, 18$   | $36$             | $20$  |
+| $3, 12$   | $36$             | $15$  |
+
+A quick check shows that $3$ and $12$ meets all the criteria above.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3, 12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>80F59E43-EAF8-4829-9B47-980C2D298D21</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\dfrac {2} {7}$ of $315$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {2} {7} \text { of } 315 \\\\
+&= \dfrac {2} {7} \times 315 \\\\
+&= \dfrac {2 \times 315} {7}   \\\\
+&= \dfrac {2 \times 45 \times 7} {7}   \\\\
+&= \dfrac {2 \times 45 \times \cancel{7}} {\cancel{7}}   \\\\
+&= 2 \times 45  \\\\
+&= 90
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>014D4DAF-E024-4E0F-B4D3-D05F245403AD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put the following numbers in order of size, starting with the smallest first:
+
+
+$3 \dfrac{1}{4}  \quad   3.34  \quad   3 \dfrac{3}{4}  \quad   3.025$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
+
+$
+\begin{aligned}
+&= 3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4},  \quad   3.025 \\\\
+&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025 \\\\
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 3.025,  \quad   3.25,  \quad   3.34,  \quad   3.75 \\\\
+&= 3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>6532C137-9071-4123-8B77-BEABFCDB3BC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. 
+
+$
+\begin{aligned}
+&= 3.2 \ \text{metres} - 30 \ \text{cm} \\\\
+&= 3.2 \times 100 \ \text{cm} - 30 \ \text{cm} \\\\
+&= 320  - 30  \\\\
+&= 290  \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$290  \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
 <p>FFAD2427-919C-438B-9726-234F1F3EA395</p>
 </div>
 <div class='topics'>
@@ -13618,6 +14105,60 @@ $72 \times 2 = 144$ is between $140$ and $170$.
 <div class='answer'>
 
 $144$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>DB188EF1-56DE-4E7B-9F6F-B9D010FD69AF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+taddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add together the following numbers and write your answer in figures.
+
+$\text{nine million      \quad   eleven thousand \quad       twelve hundred     \quad   thirteen}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   9    &    0    &    0    &    0    &    0    &    0    &    0 \\
+     &       &         &    1    &    1    &    0    &    0    &    0 \\
+     &       &         &         &    1    &    2    &    0    &    0 \\
+{}+    &       &         &         &         &         &    1    &    3 \\
+\hline
+    &   9    &    0    &    1    &    2    &    2    &    1    &    3
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9012213$
 
 </div>
 </div>

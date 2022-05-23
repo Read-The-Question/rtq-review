@@ -1,61 +1,9 @@
 ---
 slug: "topics/topic-tunitprompt-oldpr"
 title: "Topic - Unitprompt - Old PR"
-date: 2022-05-23 06:58:47
+date: 2022-05-23 12:13:59
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>6532C137-9071-4123-8B77-BEABFCDB3BC7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsubtraction
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required. 
-
-$
-\begin{aligned}
-&= 3.2 \ \text{metres} - 30 \ \text{cm} \\\\
-&= 3.2 \times 100 \ \text{cm} - 30 \ \text{cm} \\\\
-&= 320  - 30  \\\\
-&= 290  \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$290  \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_up_oldpr question'>
 <div class='uuid'>

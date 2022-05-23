@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-pr"
 title: "Topic - Percentage - PR"
-date: 2022-05-23 06:58:47
+date: 2022-05-23 12:13:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4877,10 +4877,9 @@ $
 &=  \dfrac{30}{100} \times 120 \\\\
 &=  \dfrac{30 \times 120}{100} \\\\
 &=  \dfrac{3600}{100} \\\\
-&=  \dfrac{36 \times \cancel{100}} {1\cancel{100}} \\\\
+&=  \dfrac{36 \times \cancel{100}} {1 \cancel{100}} \\\\
 &=  36
 \end{aligned}
-
 $
 
 

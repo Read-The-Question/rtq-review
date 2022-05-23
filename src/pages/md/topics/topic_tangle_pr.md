@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-pr"
 title: "Topic - Angle - PR"
-date: 2022-05-23 06:58:47
+date: 2022-05-23 12:13:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3542,7 +3542,6 @@ a + a + 95 + 75 &= 360 \\\\
 2a + 170     &= 360 \\\\
 2a           &= 360 - 170 \\\\
 2a           &= 190
-$
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-oldpr"
 title: "Topic - Fraction - Old PR"
-date: 2022-05-23 06:58:47
+date: 2022-05-23 12:13:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -75,56 +75,6 @@ $70 \ \text{hours}$
 </div>
 <div class='rag'>
 <p>rag_jn_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>80F59E43-EAF8-4829-9B47-980C2D298D21</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $\dfrac {2} {7}$ of $315$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {2} {7} \text { of } 315 \\\\
-&= \dfrac {2} {7} \times 315 \\\\
-&= \dfrac {2 \times 315} {7}   \\\\
-&= \dfrac {2 \times 45 \times 7} {7}   \\\\
-&= \dfrac {2 \times 45 \times \cancel{7}} {\cancel{7}}   \\\\
-&= 2 \times 45  \\\\
-&= 90
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
 </div>
 </div>
 </li>

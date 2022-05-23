@@ -1,71 +1,9 @@
 ---
 slug: "topics/topic-tfraction-oldpr"
 title: "Topic - Fraction - Old PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>9D00B94C-D684-45CF-951A-E345FEB99DD2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The table shows Ann’s marks in two tests.
-
-|       Test    | Marks             |
-|:-----------:    |:---------------------:|
-|   $1$       |   $60$ out of $80$ |
-|   $2$       |   $70$ out of $100$ |
-
-In which test did Ann do better? You **must** show your working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the percentage score for both the tests.
-
-$
-\begin{aligned}
-\text{Test } 1         &= \dfrac {60}{80} \times 100 \\\\
-                     &= \dfrac {60 \times 100}{80} \\\\
-                     &= \dfrac {15 \times 4 \times 20 \times 5}{20 \times 4} \\\\
-                     &= \dfrac {15 \times \cancel{4} \times \cancel{20} \times 5}{\cancel{20} \times \cancel{4}} \\\\
-                     &= 15 \times 5 \\\\
-                     &= 75 \% \\\\
-\text{Test } 2         &= \dfrac {70}{100} \times 100 \\\\
-                     &= 70 \%
-\end{aligned}
-$
-
-Ann did better in Test $1$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Test $1$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_jn_oldpr question'>
 <div class='uuid'>

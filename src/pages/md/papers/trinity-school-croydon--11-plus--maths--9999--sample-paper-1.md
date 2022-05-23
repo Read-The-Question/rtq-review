@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Trinity School Croydon</h1>
@@ -1471,15 +1471,13 @@ $14.67 \times 7.6$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$14.67 \times 7.6$
 
-$
-\begin{aligned}
-1467 \times 76                              &= 111492 \\\\
-\dfrac {1467} {100} \times \dfrac{76} {10}  &= \dfrac {111492} {1000} \\\\
-14.67 \times 7.6                            &= 111.492
-\end{aligned}
-$
+Between the two numbers, the total number of digits after the decimal point is three.
+
+Let's account for the decimal point now.
+
+$14.67 \times 7.6 = 111.492$
 
 </div>
 </div>
@@ -1507,17 +1505,7 @@ $1114.92 \div 76$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-$
-\begin{aligned}
-1467 \times 76                              &= 111492 \\\\
-\dfrac {1467} {100} \times 76               &= \dfrac {111492} {100} \\\\
-14.67 \times 76                             &= 1114.92 \\\\
-14.67                                       &= \dfrac{1114.92} {76} \\\\
-\dfrac{1114.92} {76}                        &= 14.67
-\end{aligned}
-$
+$1114.92 \div 76 = 14.67$
 
 </div>
 </div>
@@ -1545,18 +1533,7 @@ $111492 \div 0.76$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-$
-\begin{aligned}
-1467 \times 76                              &= 111492 \\\\
-1467 \times \dfrac {76} {100}               &= \dfrac {111492} {100} \\\\
-1467 \times 0.76                            &= \dfrac {111492} {100} \\\\
-1467 \times 100                             &= \dfrac{111492} {0.76} \\\\
-146700                                      &= \dfrac{111492} {0.76} \\\\
-\dfrac{111492} {0.76}                       &= 146700
-\end{aligned}
-$
+$111492 \div 0.76 = 146700$
 
 </div>
 </div>

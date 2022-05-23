@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-all"
 title: "Topic - Unit - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2920,7 +2920,7 @@ $12{:}43$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>46713943-D59E-4BE3-ADA0-E5CDEE05B15A</p>
 </div>
@@ -2946,28 +2946,17 @@ Calculate the perimeter of this shape stating your units very carefully.
 
 It is really important to use the right units in calculations and convert where required.
 
-Let's convert the all lenghts into centimeters
+Let's convert the all lenghts into meters.
 
 $
-\begin{aligned}
-&= 1.6 \text{m} \\\\
-&= 1.6 \times 100 \text{ cm} \\\\
-&= 160 \text {cm} \\\\
-&= 1.8 \text{ m} \\\\
-&= 1.8 \times 100 \text{ cm} \\\\
-&= 180 \text{ cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Perimeter} &= 80 + 180 + 30 + 160 \\\\
-                 &= 450 \text{ cm} \\\\
-                 &= \dfrac {450} {100} \text{ m} \\\\
-                 &= \dfrac {45 \cancel {0} } {10\cancel {0} } \text{ m} \\\\
-                 &= \dfrac {45} {10} \\\\
-                 &= 4.5 \text { m}
-\end{aligned}
+\begin {aligned}
+\text {Perimeter of the shape}  &= \text {Sum of all sides} \\\\
+                                &= 80 \ \text {cm} + 1.6 \text {m} + (1.8 \text {m} - 80 \ \text {cm}) + 30 \ \text {cm} + 1.8 \text {m} + (1.6 \text {m} + 30 \ \text {cm}) \\\\
+                                &= \dfrac {80} {100} \text {m} + 1.6 \text {m} + (1.8 \text {m} - \dfrac {80} {100} \text {m}) + \dfrac {30} {100} \text {m} + 1.8 \text {m} + (1.6 \text {m} + \dfrac {30} {100} \text {m}) \\\\
+                                &= 0.80 + 1.6 + (1.8 - 0.80) + 0.30 + 1.8 + (1.6 + 0.30) \\\\
+                                &= 2.40 + 1 + 2.1 + 1.90 \\\\
+                                &= 7.4 \text {m}
+\end {aligned}
 $
 
 </div>
@@ -2975,7 +2964,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4.5 \text{ m}$
+$7.4 \text{m}$
 
 </div>
 </div>
@@ -2984,7 +2973,7 @@ $4.5 \text{ m}$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>
@@ -652,9 +652,9 @@ $13 \text{p} \quad 23 \text{p} \quad 33 \text{p} \quad 43 \text{p} \quad 53 \tex
 
 $
 \begin{aligned}
-13 \text{p}     &= 1 \times 10 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p} \\\\
-23 \text{p}     &= 1 \times 20 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p} \\\\
-53 \text{p}     &= 1 \times 50 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p}
+13 \text{p}     &= 10 \text{p} + 2 \text{p} + 1 \text{p} \\\\
+23 \text{p}     &= 20 \text{p} + 2 \text{p} + 1 \text{p} \\\\
+53 \text{p}     &= 50 \text{p} + 2 \text{p} + 1 \text{p}
 \end{aligned}
 $
 
@@ -748,7 +748,7 @@ $315, 240$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
 </div>
@@ -802,7 +802,7 @@ $8{:}45 \ \text{am}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -1111,7 +1111,7 @@ $\pounds 7.04$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>8D859487-1917-4AF8-9CAA-CC95403EF019</p>
 </div>
@@ -1157,7 +1157,7 @@ $45, 53$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -1185,7 +1185,7 @@ If I treble a number and add $6$, I get the same answer as when I add $16$ to th
 <div class='workings'>
 <div class='working'>
 
-Let the number i think $= a$
+Let the number I think $= a$
 
 As per the question,
 
@@ -1202,7 +1202,7 @@ a                   &= 5
 \end{aligned}
 $
 
-The number $= 5$
+My original number $= 5$
 
 </div>
 </div>
@@ -1577,6 +1577,8 @@ What is the maximum number of bricks which can be fitted into the packing case?
 </div>
 <div class='workings'>
 <div class='working'>
+
+Volume = length $\times$ width $\times$ height
 
 $
 \begin{aligned}

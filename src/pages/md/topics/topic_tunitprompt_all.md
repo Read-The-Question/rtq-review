@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-all"
 title: "Topic - Unitprompt - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -174,7 +174,7 @@ $\pounds 3.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>AC61BB61-0D32-432C-A626-69C941176034</p>
 </div>
@@ -201,26 +201,30 @@ Give your answer in millimetres.
 <div class='workings'>
 <div class='working'>
 
-Lets convert all units of volume into milliliters
+Lets convert all units of volume into milliliters,
+
+| Container |   Conversion                           | in millilitres    |
+|-----------|----------------------------------------|-------------------|
+|     A     |    750 millilitres                     |   750 millilitres |
+|     B     |    0.5 \times 1000 = 500 millilitres   |   500 millilitres |
+
+Container A holds the greater amount.
 
 $
-\begin{aligned}
-&= 0.7 \times 1000 \text{milliliters} \\\\
-&= 700 \text{milliliters} \\\\
-\end{aligned}
+\begin {aligned}
+\text {Difference}  &= 750 \ \text {milliliters} - 500 \ \text {millilitres} \\\\
+                    &= 250 \ \text {milliliters}
+\end {aligned}
 $
 
-As B compared to A, A contains more amount 
-$
-750 \text{ milliliters}
-$
+Container A holds $250 \ \text {milliliters}$ more than container B.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$750 \text{ milliliters}$
+$250 \ \text{ milliliters}$
 
 </div>
 </div>
@@ -229,7 +233,7 @@ $750 \text{ milliliters}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -3227,7 +3231,7 @@ $7400 \ \text{grams}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>AA1C5578-EC4D-41B3-8D56-14B948934F9D</p>
 </div>
@@ -3246,44 +3250,14 @@ Five miles is the same distance as eight kilometres. Use this fact to convert:
 <div class='workings'>
 <div class='working'>
 
-Converting $20$ miles into kilometers
-
-$
-\begin{aligned}
-&= \dfrac {20 \times 8} {5} \\\\
-&= \dfrac {5 \times 4 \times 8} {5} \\\\
-&= \dfrac {\cancel {5}  \times 4 \times 8} {\cancel {5} } \\\\
-&= 40 \text{ kilometers}
-\end{aligned}
-$
-
-Converting $40$ kilometers to miles
-
-$
-\begin{aligned}
-&= \dfrac {40 \times 5} {8} \\\\
-&= \dfrac {8 \times 5 \times 5} {8} \\\\
-&= \dfrac {\cancel {8} \times 5 \times 5} {\cancel {8} } \\\\
-&= 25 \text{ miles}
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -3302,24 +3276,20 @@ $20 \ \text{miles}$ into kilometres
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+5 \ \text {miles}   &= 8 \ \text {kilometres} \\\\
+5 \times 4          &= 8 \times 4 \\\\
+20 \ \text {miles}  &= 32 \ \text {kilometres}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$32 \ \text {kilometres}$
 
 </div>
 </div>
@@ -3340,24 +3310,20 @@ $40 \ \text{kilometres}$ into miles.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+8 \ \text {kilometres}  &= 5 \ \text {miles} \\\\
+8 \times 5              &= 5 \times 5 \\\\
+40 \ \text{kilometres}  &= 25 \ \text {miles}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$25 \ \text {miles}$
 
 </div>
 </div>
@@ -3369,7 +3335,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tmultiplication-all"
 title: "Topic - Multiplication - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>2C145610-ABC7-4EB3-BF0E-4516DEA62C12</p>
 </div>
@@ -50,7 +50,7 @@ $15980$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -7583,7 +7583,7 @@ $
 \begin{aligned}
 &= 12 \times 75 \\\\
 &= 6 \times 2 \times 5 \times 15 \\\\
-&= 6 \timees 10 \times 15 \\\\
+&= 6 \times 10 \times 15 \\\\
 &= 90 \times 10
 \end{aligned}
 $
@@ -8701,7 +8701,7 @@ $52272$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>647D85F6-502C-403E-87CF-21B9C27E9F6E</p>
 </div>
@@ -8722,10 +8722,10 @@ Multiply: $67 \times 8$
 
 $
 \begin{array}{cccccccccccccc}
-             & 6 & 7 \\
-    {}\times &   & 8 \\
-    \hline
-             5& 3 & 6 \\
+       &   6    &   7 \\
+\times &        &   8 \\
+\hline 
+  5    &   3    &   6
 \end{array}
 $
 
@@ -8743,12 +8743,12 @@ $536$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>8666EE2B-31C3-4AED-9993-A4014E4810C3</p>
 </div>
@@ -8769,10 +8769,10 @@ Multiply: $34 \times 9$
 
 $
 \begin{array}{cccccccccccccc}
-             & 3 & 4 \\
-    {}\times &   & 9 \\
-    \hline
-           3 & 0 & 6 \\
+        &   3   &   4 \\
+\times  &       &   9 \\
+\hline
+   3    &   0   &   6
 \end{array}
 $
 
@@ -8790,7 +8790,7 @@ $306$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -9128,7 +9128,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>717F1DE8-1840-4689-93C1-2F3E5477097E</p>
 </div>
@@ -9179,7 +9179,7 @@ $11.36 + 3.40$
 $
 \begin{array}{cccccccccccccc}
       &  1 &  1 \ . &  3 &  6 \\
- {}+  &    &  3 \ . &  4 & 0 \\
+{}+   &    &  3 \ . &  4 &  0 \\
    
 \hline
       &  1 &  4 \ . &  7 & 6
@@ -9215,10 +9215,9 @@ $3.54 - 2.34$
 $
 \begin{array}{cccccccccccccc}
        &  3 \ . &  5 &  4 \\
- {}+      &  2 \ . &  3 & 4 \\
-   
+{}-    &  2 \ . &  3 &  4 \\
 \hline
-         &  1 \ . &  2 & 0
+       &  1 \ . &  2 &  0
 \end{array}
 $
 
@@ -9251,15 +9250,15 @@ $213 \times 17$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-            &       &       2       & 1     & 3     \\
-{}\times    &       &               & 1     & 7     \\
-\hline
-            &  1    &       4       & 9     & 1     \\
-           &  2    &       1       & 3     & 0     \\
-\hline
-          &      3&       6       & 2     & 1
-\end{array}
+\begin {array}{cccccccccccccc}
+         &     2     &     1     &     3 \\
+\times   &           &     1     &     7 \\
+\hline 
+   1     &     4     &     9     &     1 \\
+   2     &     1     &     3     &     0 \\
+\hline 
+   3     &     6     &     2     &     1
+\end {array}
 $
 
 </div>
@@ -9288,16 +9287,25 @@ $844 \times 0.25$
 <div class='workings'>
 <div class='working'>
 
+Let's first multiply the numbers ignoring the decimal points.
+
 $
-\begin{aligned}
-&= 844 \times 0.25 \\\\
-&= 844 \times \dfrac {25} {100} \\\\
-&= \dfrac {844 \times 25} {100} \\\\
-&= \dfrac {21100} {100} \\\\
-&= \dfrac {211 \cancel {0} \cancel {0} } {1 \cancel {0} \cancel {0} } \\\\
-&= 211
-\end{aligned}
+\begin {array}{cccccccccccccc}
+         &           &     8     &     4    &     4 \\
+         & \times    &           &     2    &     5 \\
+\hline 
+         &     4     &     2     &     2    &     0 \\
+   1     &     6     &     8     &     8    &     0 \\
+\hline 
+   2     &     1     &     1     &     0    &     0
+\end {array}
 $
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now. 
+
+$= 211.00$
 
 </div>
 </div>
@@ -9316,7 +9324,7 @@ $211$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

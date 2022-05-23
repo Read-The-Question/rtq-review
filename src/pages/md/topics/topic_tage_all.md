@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-all"
 title: "Topic - Age - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1944,6 +1944,8 @@ What is their total age?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 \text{Richard's age}    &= 18 \\\\
@@ -1955,11 +1957,12 @@ $
 \text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
                         &= \dfrac {2} {3} \times 9 \\\\
                         &= \dfrac {2 \times 9} {3} \\\\
-                        &= \dfrac {18} {3} \\\\
-                        &= \dfrac {3 \times 6} {3} \\\\
-                        &= \dfrac {\cancel{3} \times 6} {\cancel{3}} \\\\
+                        &= \dfrac {2 \times 3 \times 3} {3} \\\\
+                        &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
+                        &= 2 \times 3 \\\\
                         &= 6 \\\\
-\text{Total age}        &= 18 + 9 + 6 \\\\
+\text{Total age}        &= \text{Age (Richard) + Age (Adam) + Age (Will)} \\\\
+                        &= 18 + 9 + 6 \\\\
                         &= 33
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>
@@ -468,7 +468,7 @@ $\dfrac{17}{25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>7A46A306-D16B-4B94-BF6A-A062C92858A7</p>
 </div>
@@ -512,7 +512,7 @@ $5.7$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>

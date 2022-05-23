@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-pr"
 title: "Topic - Perimeter - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -61,6 +61,92 @@ $8 \ \text{mm}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>818A3399-A21C-4308-BB9A-424A3CC74F98</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle has an area of $36 \ \text{cm}^2$ and a perimeter of $26 \ \text{cm}$. Find the length and width of the rectangle.
+You may use the grid to help you.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text{cm}$) $= w$
+
+Let the length of the rectangle (in $\text{cm}$) $= l$
+
+Using the formula for area and perimeter for a rectangle, we get
+
+$
+\begin{aligned}
+l \times w          &= 36 \\\\
+2 \times (l + w)    & = 26 \\\\
+l + w               &= \dfrac {26}{2} \\\\
+l + w               &= 13
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
+
+- Both the numbers should be smaller than $13$
+- The product of the $2$ numbers is $36$ 
+- The sum of the $2$ numbers is $13$.
+
+Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+| Factors   |  Sum  | Numbers $< 13$    |
+|:-------:  |:----: |:---------------:  |
+| $2, 18$   | $20$  |        No         |
+| $3, 12$   | $15$  |       Yes         |
+| $4, 9$    | $13$  |       Yes         |
+
+A quick check shows that $4$ and $9$ meets all the criteria above.
+
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+
+Width of the rectangle $= 4 \ \text{cm}$ 
+
+Length of the rectangle $= 9 \ \text{cm}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Width $= 4 \ \text{cm}$
+
+</div>
+<div class='answer'>
+
+Length $= 9 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>C0C8BAF7-9385-479F-9E5D-1E52D264A4D0</p>
@@ -110,7 +196,7 @@ $56 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>DB80832F-B004-4CB4-8D70-0678C3B655AC</p>
 </div>
@@ -135,35 +221,33 @@ What is the perimeter of a square whose area is $36 \ \text{cm}^2$?
 <div class='workings'>
 <div class='working'>
 
-Let the side of sqaure $= a$ \\\\
+Let the side of sqaure $= a$.
+
+Let's first find out the length of a side of the square.
 
 As per the question,
 
 $
-\begin{aligned}
-a^2 &= 36 \\\\
-a   &= \sqrt{36} \\\\
-a   &= \sqrt{6^2} \\\\
-a   &= 6 \text{ cm}
-\end{aligned}
-$
-
-The perimeter of square $= 4a$.
-
-$
-\begin{aligned}
-&= 4a \\\\
-&= 4 \times 6 \\\\
-&= 24 \text{ cm}
-\end{aligned}
+\begin {aligned}
+\text {Area of square}          &= 36 \ \text {cm} ^ 2 \\\\
+a ^ 2                           &= 36 \\\\
+a                               &= \sqrt{36} \\\\
+a                               &= 6 \ \text {cm} \\\\
+\text {Perimeter of square}     &= 4 \times a \\\\
+                                &= 4 \times 6 \\\\
+                                &= 24 \ \text {cm}
+\end {aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>a</p>
+</div>
 <div class='answer'>
 
-$24 \text{ cm}$
+$24 \ \text{cm}$
 
 </div>
 </div>
@@ -172,7 +256,7 @@ $24 \text{ cm}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1116,6 +1200,133 @@ $3.6 \ \text {m} ^ 2$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the area and perimeter of this shape. 
+
+Note: all angles are right angles.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Area
+
+$
+\begin{aligned}
+\text {Total Area} &= \text{Area of rectangle 1} + \text{Area of rectangle 2} \\\\
+                   &= 14 \times 5 + (14 - 6) \times 4 \\\\
+                   &= 70 + 32 \\\\
+                   &= 102 \ \text{cm}^2
+\end{aligned}
+$
+
+Perimeter
+
+$
+\begin{aligned}
+\text {Total Perimeter} &= \text{Perimeter of whole rectangle } - \text{Perimeter of smaller rectangle} \\\\
+                        &= 2 \times (14 + 9) - (6 + 4) \\\\
+                        &= 46 - 10 \\\\
+                        &= 36 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$102 \ \text{cm}^2, 36 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the area and perimeter of this shape.
+
+Note: all angles are right angles but the diagram has not been drawn to scale.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area} &= 16 \times 3 + 10 \times 7 + 20 \times 2 \\\\
+             &= 48 + 70 + 40 \\\\
+             &= 112 \ \text{cm}^2
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Perimeter} &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
+                  &= 76 \ \text{cm} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$112 \ \text{cm}^2, 76 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nm_pr question'>
 <div class='uuid'>
 <p>22918995-BD89-462E-840F-56972A76677B</p>
@@ -1642,7 +1853,7 @@ $100 \text{ cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>46713943-D59E-4BE3-ADA0-E5CDEE05B15A</p>
 </div>
@@ -1668,28 +1879,17 @@ Calculate the perimeter of this shape stating your units very carefully.
 
 It is really important to use the right units in calculations and convert where required.
 
-Let's convert the all lenghts into centimeters
+Let's convert the all lenghts into meters.
 
 $
-\begin{aligned}
-&= 1.6 \text{m} \\\\
-&= 1.6 \times 100 \text{ cm} \\\\
-&= 160 \text {cm} \\\\
-&= 1.8 \text{ m} \\\\
-&= 1.8 \times 100 \text{ cm} \\\\
-&= 180 \text{ cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Perimeter} &= 80 + 180 + 30 + 160 \\\\
-                 &= 450 \text{ cm} \\\\
-                 &= \dfrac {450} {100} \text{ m} \\\\
-                 &= \dfrac {45 \cancel {0} } {10\cancel {0} } \text{ m} \\\\
-                 &= \dfrac {45} {10} \\\\
-                 &= 4.5 \text { m}
-\end{aligned}
+\begin {aligned}
+\text {Perimeter of the shape}  &= \text {Sum of all sides} \\\\
+                                &= 80 \ \text {cm} + 1.6 \text {m} + (1.8 \text {m} - 80 \ \text {cm}) + 30 \ \text {cm} + 1.8 \text {m} + (1.6 \text {m} + 30 \ \text {cm}) \\\\
+                                &= \dfrac {80} {100} \text {m} + 1.6 \text {m} + (1.8 \text {m} - \dfrac {80} {100} \text {m}) + \dfrac {30} {100} \text {m} + 1.8 \text {m} + (1.6 \text {m} + \dfrac {30} {100} \text {m}) \\\\
+                                &= 0.80 + 1.6 + (1.8 - 0.80) + 0.30 + 1.8 + (1.6 + 0.30) \\\\
+                                &= 2.40 + 1 + 2.1 + 1.90 \\\\
+                                &= 7.4 \text {m}
+\end {aligned}
 $
 
 </div>
@@ -1697,7 +1897,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4.5 \text{ m}$
+$7.4 \text{m}$
 
 </div>
 </div>
@@ -1706,7 +1906,7 @@ $4.5 \text{ m}$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

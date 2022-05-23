@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-all"
 title: "Owner - Banoth Sairam - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2480,6 +2480,1038 @@ $
 <div class='answer'>
 
 $8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the highest number in each group.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0.609 \quad     0.069 \quad     0.63 \quad     0.063$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.609 \quad     0.069 \quad     \boxed{\green{0.63}} \quad     0.063$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.63$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$-7.5 \quad    -1 \quad      -8 \quad     -1.5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$-7.5 \quad   \boxed{\green{-1}} \quad      -8 \quad     -1.5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0.09 \quad     39\% \quad    0.44 \quad     \dfrac{2}{5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.09 \quad     39\% \quad    0.44 \quad     \dfrac{2}{5} \\\
+&= 0.09 \quad     0.39 \quad    0.44 \quad     0.4 \\\
+\end{aligned}
+$
+
+$0.09 \quad     39\% \quad    \boxed{\green{0.44}} \quad     \dfrac{2}{5}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.44$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>9D00B94C-D684-45CF-951A-E345FEB99DD2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The table shows Ann’s marks in two tests.
+
+|       Test    | Marks             |
+|:-----------:    |:---------------------:|
+|   $1$       |   $60$ out of $80$ |
+|   $2$       |   $70$ out of $100$ |
+
+In which test did Ann do better? You **must** show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the percentage score for both the tests.
+
+$
+\begin{aligned}
+\text{Test } 1       &= \dfrac {60}{80} \times 100 \\\\
+                     &= \dfrac {60 \times 100}{80} \\\\
+                     &= \dfrac {15 \times 4 \times 20 \times 5}{20 \times 4} \\\\
+                     &= \dfrac {15 \times \cancel{4} \times \cancel{20} \times 5}{\cancel{20} \times \cancel{4}} \\\\
+                     &= 15 \times 5 \\\\
+                     &= 75 \% \\\\
+\text{Test } 2         &= \dfrac {70}{100} \times 100 \\\\
+                     &= 70 \%
+\end{aligned}
+$
+
+Ann did better in Test $1$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Test $1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>9FDBD8FE-49B3-4EE9-9569-87D2186CDEEC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+Estimate the size of angle $r$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The acute angle is approximately $60 \degree$.
+
+Using that we get,
+
+$
+\begin{aligned}
+r   &= 360 - 60 \\\\
+    &= 300 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$300 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>52852CBD-3F19-4E8F-9646-311ABBA46E71</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Edith is choosing pairs of numbers from this list.
+
+$4 \quad 23 \quad 45 \quad 58 \quad 120$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+She multiplies two numbers together.
+
+Which two numbers should she choose to get an answer between $200$ and $300$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be inferred by using trial and error.
+
+$
+\begin{aligned}
+&= 58 \times 4 \\\\
+&= 232
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4, 58$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+She divides one number by another number. 
+
+What is the largest possible answer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To get the largest possible answer, we should divide the biggest number by the smallest number.
+
+$
+\begin{aligned}
+&= 120 \div 4 \\\\
+&= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>E08043A3-1AF9-4DBF-86C5-BE917D72DCEF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing numbers in the sequences below. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$-8 \quad -3 \quad 2 \quad 7 \quad \ldots \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $5$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+5)}} 
+&&  \footnotesize{\maroonC{(+5)}}  
+&&  \footnotesize{\maroonC{(+5)}}   
+&&  \footnotesize{\maroonC{(+5)}}   
+&&  \footnotesize{\maroonC{(+5)}}  \\
+-8,  &&    -3,  &&  2,  &&   7,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 7 + 5 \\\\
+                                &= 12 \\\\
+\text{Second missing number}       &= 12 + 5 \\\\
+                                &= 17
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12, 17$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $8$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(-8)}} 
+&&  \footnotesize{\maroonC{(-8)}}  
+&&  \footnotesize{\maroonC{(-8)}}   
+&&  \footnotesize{\maroonC{(-8)}}   
+&&  \footnotesize{\maroonC{(-8)}}  \\
+61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots && 21
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 53 - 8 \\\\
+                                &= 45 \\\\
+\text{Second missing number}       &= 37 - 8 \\\\
+                                &= 29
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45, 29$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$240 \quad 120 \quad \ldots \quad 30 \quad 15 \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}}  
+&&  \footnotesize{\maroonC{(\div 2)}}   
+&&  \footnotesize{\maroonC{(\div 2)}}   
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
+240,  &&    120,  &&  \ldots,  &&   30,  &&   15 && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 120 \div 2 \\\\
+                                &= 60 \\\\
+\text{Second missing number}       &= 15 \div 2 \\\\
+                                &= 7.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60, 7.5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>DDD0AC6B-3CD4-48A3-A86A-6AEE1949B832</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The students on the Aldenham Geography trip to Iceland arrive at Heathrow Airport at $10{:}45$.
+Their flight leaves at $13{:}05$.
+
+How many minutes do they have to wait at the airport before their flight leaves?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time left}             &= 13{:}05 - 10{:}45 \\\\
+                              &= 2 \ \text{hour} \ 20 \ \text{minutes}   \\\\
+                              &= 2 \times 60 + 20  \ \text{minutes} \\\\
+                              &= 120 + 20  \ \text{minutes} \\\\
+                              &= 140  \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$140  \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>7125F2EC-250C-48A5-96EC-68872015C687</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tratio
+</li>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The water cooler in the staff room contains $5 \ \text{litres}$ of water.
+
+How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacing? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. Let's convert the total water into $\text{ml}$.
+
+$
+\begin{aligned}
+\text{Total water} &= 5 \ \text{litres} \\\\
+                    &= 5 \times 1000 \ \text{ml} \\\\
+                    &= 5000 \ \text{ml}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of glasses} &= \dfrac { \text{Total Water in cooler} } { \text{Water in a glass} } \\\\
+                        &= \dfrac { 5000 } { 200 } \\\\
+                        &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
+                        &= \dfrac { 50 } { 2 } \\\\
+                        &= 25
+\end{aligned}
+$
+
+Number of glasses of water $= 25$
+
+</div>
+<div class='working'>
+
+Alternatively, we can solve this using ratios. 
+
+$
+\begin{aligned}
+200 \ \text{ml}                             & : 1 \ \text{glass}  \\\\
+\dfrac{200}{200}  \ \text{ml}                  & : \dfrac{1}{200} \ \text{glasses} \\\\
+1  \ \text{ml}                              & : \dfrac{1}{200}  \\\\
+5000 \times 1  \ \text{ml}                   & : 5000 \times \dfrac{1}{200}  \\\\
+5000 \ \text{ml}                               & : \dfrac{5000}{200}  \\\\
+5000 \ \text{ml}                               & : \dfrac{50\cancel{0}\cancel{0}}{2\cancel{0}\cancel{0}}  \\\\
+5000 \ \text{ml}                               & : \dfrac{50}{2}  \\\\
+5000 \ \text{ml}                               & : 25 \ \text{glasses}                          
+\end{aligned}
+$
+
+Number of glasses of water $= 25$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>818A3399-A21C-4308-BB9A-424A3CC74F98</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle has an area of $36 \ \text{cm}^2$ and a perimeter of $26 \ \text{cm}$. Find the length and width of the rectangle.
+You may use the grid to help you.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text{cm}$) $= w$
+
+Let the length of the rectangle (in $\text{cm}$) $= l$
+
+Using the formula for area and perimeter for a rectangle, we get
+
+$
+\begin{aligned}
+l \times w          &= 36 \\\\
+2 \times (l + w)    & = 26 \\\\
+l + w               &= \dfrac {26}{2} \\\\
+l + w               &= 13
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
+
+- Both the numbers should be smaller than $13$
+- The product of the $2$ numbers is $36$ 
+- The sum of the $2$ numbers is $13$.
+
+Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+| Factors   |  Sum  | Numbers $< 13$    |
+|:-------:  |:----: |:---------------:  |
+| $2, 18$   | $20$  |        No         |
+| $3, 12$   | $15$  |       Yes         |
+| $4, 9$    | $13$  |       Yes         |
+
+A quick check shows that $4$ and $9$ meets all the criteria above.
+
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+
+Width of the rectangle $= 4 \ \text{cm}$ 
+
+Length of the rectangle $= 9 \ \text{cm}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Width $= 4 \ \text{cm}$
+
+</div>
+<div class='answer'>
+
+Length $= 9 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2C145610-ABC7-4EB3-BF0E-4516DEA62C12</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $235 \times 68$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+            &       &       2       & 1     & 3     \\
+{}\times    &       &               & 1     & 7     \\
+\hline
+            &  1    &       4       & 9     & 1     \\
+           &  2    &       1       & 3     & 0     \\
+\hline
+          &      3&       6       & 2     & 1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15980$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>1622DD6F-538D-47B0-8E04-EE946A7719E6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $2$ apples and $1$ banana cost $\pounds 1.20$ 
+
+and
+
+$1$ apple and $2$ bananas cost $\pounds 1.35$, find the cost of an apple and a banana separately.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of an apple (in $\text{pence}$) $= a$
+
+Let the cost of a banana (in $\text{pence}$) $= b$
+
+It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\text{pence}$.
+
+As per the question,
+
+$
+\begin{aligned} 
+2a + b &=  120 \\\\
+a + 2b &= 135
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+Multiply the second equation by $2$.
+
+$
+\begin{aligned} 
+2 \times a + 2 \times 2b     &= 2 \times 135 \\\\
+2a + 4b                     &= 270
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned} 
+2a + 4b - (2a + b)     &= 270 - 120 \\\\
+2a + 4b -2a  -b     &= 150 \\\\
+3b                    &= 150 \\\\
+b                   &= \dfrac {150} {3} \\\\
+b                   &= 50 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a banana $= 50 \ \text{pence}$.
+
+Let's substitute the value of $b$ in one of the initial equations to find the cost of an apple.
+
+$
+\begin{aligned} 
+2a + b     &=  120 \\\\
+2a + 50 &=  120 \\\\
+2a      &=  120 - 50 \\\\
+2a      &=  70 \\\\
+a       &= \dfrac {70} {2} \\\\
+a       &= 35 \ \text{pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Apple $= 35 \ \text{pence}$
+
+</div>
+<div class='answer'>
+
+Banana $= 50 \ \text{pence}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>450FEC63-5580-47DE-83CB-40719744776C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Zain wants to buy two chairs.
+ 
+Three shops advertise the same luxury chair.
+Each shop has a special offer. 
+
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+At which shop is the price of the two chairs the cheapest? 
+
+You **must** show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the cheapest price of $2$ chairs from each shop.
+
+**Shop A**
+
+If the price is reduced by $30 \%$, then the sale price will be $100 - 30 = 70 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop A}     &= 600 + 70\% \times 600 \\\\
+                                                &= 600 + \dfrac{70}{100} \times 600 \\\\
+                                                &= 600 + \dfrac{70 \times 600}{100} \\\\
+                                                &= 600 + \dfrac{70 \times 6\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}} \\\\
+                                                &= 600 + 70 \times 6 \\\\
+                                                &= 600 + 420 \\\\
+                                                &= \pounds 1020
+\end{aligned}
+$
+
+**Shop B**
+
+If the price is reduced by $\dfrac{1}{5}$, then the sale price will be $1 - \dfrac{1}{5} = \dfrac{4}{5}$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop B}     &= 550 + \dfrac{4}{5} \times 550 \\\\
+                                                &= 550 + \dfrac{4 \times 550}{5} \\\\
+                                                &= 550 + \dfrac{4 \times 5 \times 110}{5} \\\\
+                                                &= 550 + \dfrac{4 \times \cancel{5} \times 110}{\cancel{5}} \\\\
+                                                &= 550 + 4 \times 110 \\\\
+                                                &= 550 + 440 \\\\
+                                                &= \pounds 990
+\end{aligned}
+$
+
+**Shop C**
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop C}     &= \pounds 820
+\end{aligned}
+$
+
+Using the calculation above,
+
+Shop where the price is the cheapest $= \text{Shop C} = \pounds 820$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Shop C} = \pounds 820$
 
 </div>
 </div>
@@ -8667,17 +9699,17 @@ How much of each ingredient is needed to make $8$ pancakes?
 
 $
 \begin{aligned}
-\text{ingredients required to make 8 pancakes} = \text{ingredients needed to make 6 pancakes} + \text{ingredients needed to make 2 pancakes}  \\\\
+\text{ingredients required to make 8 pancakes} &= \text{ingredients needed to make 6 pancakes} + \text{ingredients needed to make 2 pancakes}  \\\\
 \text{As per the requirement} \\\\
 \text{ingredients required to make 2 pancakes} &= \dfrac{\text{ingredients required to make 6 pancakes}}{3} \\\\
-\text{The quantity of plain flour used to make} 2 \text{Pancakes} &= \dfrac{120}{3} \\\\
+\text{The quantity of plain flour used to make} \ 2 \text{Pancakes} &= \dfrac{120}{3} \\\\
 &=  \dfrac{3 \times 40 }{3} \\\\
 &=  \dfrac{\cancel3 \times 40 }{\cancel 3} \\\\
 &=  40 \ \text{g} \\\\\\\\
-\text{The number of Eggs needed used to make} 2 \text{Pancakes} &= \dfrac{3}{3} \\\\
+\text{The number of Eggs needed used to make} \ 2 \text{Pancakes} &= \dfrac{3}{3} \\\\
 &=  \dfrac{3}{3} \\\\
 &= 1 \\\\\\\\
-\text{The amount of milk needed used to make} 2 \text{Pancakes} &= \dfrac{210}{3} \\\\
+\text{The amount of milk needed used to make}  \ 2 \text{Pancakes} &= \dfrac{210}{3} \\\\
 &=  \dfrac{3 \times 70 }{3} \\\\
 &=  \dfrac{\cancel 3 \times 70 }{\cancel 3} \\\\
 &= 70 \ \text{ml}
@@ -8687,7 +9719,7 @@ $
 $
 \begin{aligned}
 \text{ingredients required to make 8 pancakes} &= \text{required to make 6 pancakes} + \text{required to make 2 pancakes}  \\\\
-&= \text{The quantity of plain flour needed to make} 8 \text{Pancakes} \\\\
+&= \text{The quantity of plain flour needed to make} \ 8 \text{Pancakes} \\\\
 &= 120 \ \text{g} + 40 \ \text{g} \\\\
 &= 160 \ \text{g} \\\\\\\\
 \text{The number of Eggs needed to make} 8 \text{Pancakes} &= 3 + 1 \\\\
@@ -8702,7 +9734,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$ $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \text{milk}$ $
+$160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \text{milk}$
 
 </div>
 </div>
@@ -11189,6 +12221,8 @@ a + a + 95 + 75 &= 360 \\\\
 2a           &= 190
 $
 \end{aligned}
+$
+
 
 </div>
 </div>
@@ -11417,16 +12451,19 @@ Find $30 \%$ of $120$
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{aligned}
 &=  30\% \ \text{of} \ 120 \\\\
 &=  \dfrac{30}{100} \times 120 \\\\
 &=  \dfrac{30 \times 120}{100} \\\\
 &=  \dfrac{3600}{100} \\\\
-&=  \dfrac{36 \times \cancel{100}}1\cancel{100}} \\\\
+&=  \dfrac{36 \times \cancel{100}} {1\cancel{100}} \\\\
 &=  36
 \end{aligned}
+
 $
+
 
 </div>
 </div>
@@ -12297,9 +13334,9 @@ What time do I get to school?
 <div class='workings'>
 <div class='working'>
 
-Time of leaving home $&= 7.35 \ \text{am}$
+Time of leaving home $= 7.35 \ \text{am}$
 
-Time take to go to school  $&= 42 \ \text{minutes}$
+Time take to go to school  $= 42 \ \text{minutes}$
 
 $
 \begin{aligned}

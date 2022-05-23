@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-all"
 title: "Topic - Time - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -172,7 +172,7 @@ $\pounds 14.40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>DDD0AC6B-3CD4-48A3-A86A-6AEE1949B832</p>
 </div>
@@ -220,7 +220,7 @@ $140  \ \text{minutes}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -4832,7 +4832,7 @@ $17:20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
 </div>
@@ -4854,24 +4854,14 @@ A sleeper train leaves London at $10{:}17 \ \text{pm}$ and reaches Edinburgh at 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -4890,24 +4880,14 @@ Calculate out how long the journey takes in hours and minutes.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$4 \ \text{hours} 33 \ \text{minutes}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$4 \ \text{hours} 33 \ \text{minutes}$
 
 </div>
 </div>
@@ -4930,24 +4910,22 @@ Calculate the approximate speed of the aeroplane in kilometres per hour.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Speed} &= \dfrac {\text{Distance} } { \text{Time} } \\\\
+             &= \dfrac {5600} {7} \\\\
+             &= \dfrac {800 \times 7} {7} \\\\
+             &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
+             &= 800 \ \text{kilometres per hour}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$800 \ \text{kilometres per hour}$
 
 </div>
 </div>
@@ -4959,7 +4937,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -10904,17 +10882,19 @@ How many $\text{minutes}$ are there in one day?
 <div class='workings'>
 <div class='working'>
 
-We know, there are $24$ hours in a day.
+We know,
 
-Also, there are $60$ minutes in an hour.
+$1$ day $= 24$ hours
+
+$1$ hour $= 60$ minutes
 
 As per the question,
 
 $
 \begin{aligned}
-&= \text{Number of hours in a day} \times (\text{Number of minutes in an hour} \\\\
-&= 24 \times 60 \\\\
-&= 1440 \ \text{minutes}
+\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times (\text{No. of minutes in an hour} \\\\
+                                &= 24 \times 60 \\\\
+                                &= 1440 \ \text{minutes}
 \end{aligned}
 $
 
@@ -11122,7 +11102,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>71A87121-8B24-43F3-8CA2-5883E0DFF79B</p>
 </div>
@@ -11145,9 +11125,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{End time of the film}  &= 11:55 \text{ A.M} + 177 minutes \\\\
-                             &= 11:55   +  1 \ hour 57 \ minutes \\\\
-                             &= 1:52 \text{P.M} 
+\text{Film ended}   &= 11{:}55 \ \text{A.M} + 177 minutes \\\\
+                    &= 11{:}55 + 2 \ \text {hours} 57 \ \text {minutes} \\\\
+                    &= 01{:}55 + 5 + 2 + 50 \\\\
+                    &= 02{:}00 + 52 \\\\
+                    &= 02{:}52 \ \text {P.M.}
 \end{aligned}
 $
 
@@ -11156,7 +11138,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1:52 \text{P.M}$
+$2{:}52 \ \text {P.M}$
 
 </div>
 </div>
@@ -11165,7 +11147,7 @@ $1:52 \text{P.M}$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -14113,7 +14095,7 @@ $20 \ \text{seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
 </div>
@@ -14167,7 +14149,7 @@ $8{:}45 \ \text{am}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -14907,9 +14889,9 @@ What time do I get to school?
 <div class='workings'>
 <div class='working'>
 
-Time of leaving home $&= 7.35 \ \text{am}$
+Time of leaving home $= 7.35 \ \text{am}$
 
-Time take to go to school  $&= 42 \ \text{minutes}$
+Time take to go to school  $= 42 \ \text{minutes}$
 
 $
 \begin{aligned}

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-pr"
 title: "Topic - Order - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -130,7 +130,7 @@ $\dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>2163EDE0-E8B5-49D8-B8A9-5068582C7723</p>
 </div>
@@ -151,14 +151,18 @@ $3.55, 53.5, 35.5, 5.35, 55.3, 5.53$
 <div class='workings'>
 <div class='working'>
 
-$3.55, 5.35, 5.53, 35.5, 53.5, 55.3$
+$3.55, \quad 53.5, \quad 35.5, \quad 5.35, \quad 55.3, \quad 5.53$
+
+Let's put them in ascending order now,
+
+$3.55 < \quad 5.35 < \quad 5.53 < \quad 35.5 < \quad 53.5 < \quad 55.3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3.55, 5.35, 5.53, 35.5, 53.5, 55.3$
+$3.55, \quad 5.35, \quad 5.53, \quad 35.5, \quad 53.5, \quad 55.3$
 
 </div>
 </div>
@@ -167,7 +171,7 @@ $3.55, 5.35, 5.53, 35.5, 53.5, 55.3$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1404,6 +1408,36 @@ $\dfrac{1}{3},\dfrac{2}{5},\dfrac{3}{8},\dfrac{7}{20},\dfrac{4}{11}$
 <div class='workings'>
 <div class='working'>
 
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $3, 5, 8, 20, 11 = 1320$
+
+$
+\begin{aligned}
+&= \dfrac {1} {3} , \quad \dfrac {2} {5} , \quad \dfrac{3} {8} , \quad \dfrac{7} {20} , \quad \dfrac {4} {11} \\\\
+&= \dfrac {1 \times 440} {3 \times 440} , \quad \dfrac {2 \times 264} {5 \times 264} , \quad \dfrac {3 \times 165} {8 \times 165} , \quad \dfrac{7 \times 66} {20 \times 66} , \quad \dfrac {4 \times 120} {11 \times 120} \\\\
+&= \dfrac {440} {1320} , \quad \dfrac {528} {1320} , \quad \dfrac {495} {1320} , \quad \dfrac {462} {1320} , \quad \dfrac {480} {1320}
+\end{aligned}
+$
+
+Let's put them in decending order now.
+
+$
+\begin{aligned}
+&= \dfrac {582} {1320}> \quad \dfrac {495} {1320}> \quad \dfrac {480} {1320}> \quad \dfrac {462} {1320}> \quad \dfrac {440} {1320} \\\\
+&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {4} {11}> \quad \dfrac {7} {20}> \quad \dfrac {1} {3}
+\end{aligned}
+$
+
+Smallest $= \dfrac {1} {3}$
+
+Largest $= \dfrac {2} {5}$
+
+</div>
+<div class='working'>
+
+Alternative Solution
+
 If two or more fraction has common numerator then fraction with smallest denominator is the largest and fraction with largest denominator is the smallest.
 
 $
@@ -1418,8 +1452,8 @@ Let's put them in decending order now.
 
 $
 \begin{aligned}
-&= \dfrac {84} {210}, \quad \dfrac {84} {224}, \quad \dfrac {84}{231}, \quad \dfrac {84}{240}, \quad \dfrac {84}{252} \\\\
-&= \dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {4} {11}, \quad \dfrac {7} {20}, \quad \dfrac {1} {3}
+&= \dfrac {84} {210}> \quad \dfrac {84} {224}> \quad \dfrac {84}{231}> \quad \dfrac {84}{240}> \quad \dfrac {84}{252} \\\\
+&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {4} {11}> \quad \dfrac {7} {20}> \quad \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -1707,7 +1741,7 @@ $7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>C83BAF7E-A28A-4228-B036-1BB050CB347F</p>
 </div>
@@ -1735,19 +1769,18 @@ In this case, there are more fractions than percentages, so let's convert all th
 $
 \begin{aligned}
 &= \dfrac {7} {9}, \quad 0.7, \quad \dfrac {770} {1000}, \quad 75\% \\\\
-&= \dfrac{7}{9}, \quad \dfrac {7} {10},  \quad \dfrac {770}{1000}, \quad \dfrac {75} {100} \\\\
-&= \dfrac{7}{9}, \quad \dfrac {7} {10},  \quad \dfrac {77 \times 10} {100 \times 10}, \quad \dfrac {25 \times 3} {25 \times 4} \\\\
-&= \dfrac{7}{9}, \quad \dfrac {7} {10},  \quad \dfrac {77 \times \cancel{10} } {100 \times \cancel{10} }, \quad \dfrac {\cancel {25} \times 3} { \cancel{25} \times 4} \\\\
-&= \dfrac{7}{9}, \quad \dfrac {7} {10},  \quad \dfrac {77} {100}, \quad \dfrac {3} {4} 
+&= \dfrac {7} {9}, \quad \dfrac {7} {10}, \quad \dfrac {77\cancel {0}} {100\cancel {0}}, \quad \dfrac {75} {100} \\\\
+&= \dfrac {7 \times 100} {9 \times 100}, \quad \dfrac {7 \times 90} {10 \times 90}, \quad \dfrac {77 \times 9} {100 \times 9}, \quad \dfrac {75 \times 9} {9 \times 100} \\\\
+&= \dfrac {700} {900}, \quad \dfrac {630} {900}, \quad \dfrac {693} {900}, \quad \dfrac {675} {900}
 \end{aligned}
 $
 
-Let's put them in ascending order now.
+Let's put them in ascending order now,
 
 $
 \begin{aligned}
-&= \dfrac{3}{4}, \quad \dfrac {7} {10},  \quad \dfrac {77} {100}, \quad \dfrac {7} {9} \\\\
-&= 75\%, \quad 0.7, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}
+&= \dfrac{630}{900}, \quad \dfrac {675} {900},  \quad \dfrac {693} {900}, \quad \dfrac {700} {900} \\\\
+&= 0.7, \quad 75 \%, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}
 \end{aligned}
 $
 
@@ -1756,7 +1789,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$75\%, \quad 0.7, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}$
+$0.7, \quad 75 \%, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}$
 
 </div>
 </div>
@@ -1765,7 +1798,7 @@ $75\%, \quad 0.7, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -2390,14 +2423,13 @@ $4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case all are in decimals. Lets arrange them in ascending order.
-
 $
 \begin{aligned}
 &= 4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123 \\\\
-&= 4.123, \quad 4.132, \quad 4.321, \quad 4.3, \quad 4.32
+&= 4.321, \quad 4.320, \quad 4.132, \quad 4.300, \quad 4.123 \\\\
+&\text{Let's put them in ascending order now.} \\\\
+&= 4.123 < \quad 4.132 < \quad 4.300 < \quad 4.320 < \quad 4.321 \\\\
+&= 4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321
 \end{aligned}
 $
 
@@ -2406,7 +2438,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4.123, \quad 4.132, \quad 4.321, \quad 4.3, \quad 4.32$
+$4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
 
 </div>
 </div>
@@ -2867,7 +2899,7 @@ $2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \t
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>BCABF532-DB4D-44EA-893A-A8CB7914EE55</p>
 </div>
@@ -2875,6 +2907,9 @@ $2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \t
 <ul>
 <li>
 torder
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -2888,15 +2923,7 @@ $4.2101 \quad 4.1021 \quad 4.0121 \quad 4.0211$
 <div class='workings'>
 <div class='working'>
 
-The whole number part of all decimal numbers same, So we need to compare decimal parts every decimal number.
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101
-\end{aligned}
-$
+$4.0121 < \quad 4.0211 < \quad 4.1021 < \quad 4.2101$ 
 
 </div>
 </div>
@@ -2912,7 +2939,7 @@ $4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -3703,19 +3730,18 @@ $0.56,\:\:\:0.506,\:\:\:0.605,\:\:\:0.65,\:\:\:0.056$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, all are decimals. Let's arrange the decimals in ascending order,
-
 $0.56 , \quad   0.506 , \quad   0.605 , \quad   0.65 , \quad 0.056$
-$0.056 , \quad   0.506 , \quad   0.56 , \quad   0.605 , \quad 0.65$
+
+Let's arrange the decimals in ascending order,
+
+$0.056 , \quad <  0.506 , \quad <  0.56 , \quad <  0.605 , \quad < 0.65$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.056 , \quad   0.506 , \quad   0.56 , \quad   0.605 , \quad 0.65$
+$0.056 , \quad <  0.506 , \quad <  0.56 , \quad <  0.605 , \quad < 0.65$
 
 </div>
 </div>
@@ -3886,17 +3912,21 @@ In this case, there are more fractions, so let's convert all the numbers into fr
 
 $
 \begin{aligned}
-&= 0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3} \\\\
-&= \dfrac {3} {10} , \quad \dfrac {8} {25} , \quad \dfrac {33} {100} \quad \dfrac {1} {3} \\\\
-&= \dfrac {3 \times 30} {10 \times 30} , \quad \dfrac {8 \times 12} {25 \times 12} , \quad \dfrac {33 \times 3} {100 \times 3} , quad \dfrac {1 \times 100} {3 \times 100} \\\\
-&= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} \quad \dfrac {100} {300}
+&= 0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac {1} {3} \\\\
+&= \dfrac {3} {10} , \quad \dfrac {8} {25} , \quad \dfrac {33} {100} , \quad \dfrac {1} {3} \\\\
+&= \dfrac {3 \times 30} {10 \times 30} , \quad \dfrac {8 \times 12} {25 \times 12} , \quad \dfrac {33 \times 3} {100 \times 3} , \quad \dfrac {1 \times 100} {3 \times 100} \\\\
+&= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} , \quad \dfrac {100} {300}
 \end{aligned}
 $
 
 Let's put them in ascending order now.
 
-$= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} \quad \dfrac {100} {300}$
-$= 0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
+$ 
+\begin{aligned}
+&=\dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} , \quad \dfrac {100} {300} \\\\
+&= 0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac {1} {3}
+\end{aligned}
+$
 
 </div>
 </div>

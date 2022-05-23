@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-pr"
 title: "Topic - Time - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -163,6 +163,59 @@ $\pounds 14.40$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>DDD0AC6B-3CD4-48A3-A86A-6AEE1949B832</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The students on the Aldenham Geography trip to Iceland arrive at Heathrow Airport at $10{:}45$.
+Their flight leaves at $13{:}05$.
+
+How many minutes do they have to wait at the airport before their flight leaves?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time left}             &= 13{:}05 - 10{:}45 \\\\
+                              &= 2 \ \text{hour} \ 20 \ \text{minutes}   \\\\
+                              &= 2 \times 60 + 20  \ \text{minutes} \\\\
+                              &= 120 + 20  \ \text{minutes} \\\\
+                              &= 140  \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$140  \ \text{minutes}$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -1440,6 +1493,116 @@ $10 {:} 40$
 
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sleeper train leaves London at $10{:}17 \ \text{pm}$ and reaches Edinburgh at $5{:}44 \ \text{am}$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate out how long the journey takes in hours and minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4 \ \text{hours} 33 \ \text{minutes}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{hours} 33 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+An aeroplane takes $7 \ \text{hours}$ to travel from London to New York at a
+constant speed. The distance from London to New York is approximately $5600 \ \text{kilometres}$. 
+Calculate the approximate speed of the aeroplane in kilometres per hour.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Speed} &= \dfrac {\text{Distance} } { \text{Time} } \\\\
+             &= \dfrac {5600} {7} \\\\
+             &= \dfrac {800 \times 7} {7} \\\\
+             &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
+             &= 800 \ \text{kilometres per hour}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$800 \ \text{kilometres per hour}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
@@ -3669,17 +3832,19 @@ How many $\text{minutes}$ are there in one day?
 <div class='workings'>
 <div class='working'>
 
-We know, there are $24$ hours in a day.
+We know,
 
-Also, there are $60$ minutes in an hour.
+$1$ day $= 24$ hours
+
+$1$ hour $= 60$ minutes
 
 As per the question,
 
 $
 \begin{aligned}
-&= \text{Number of hours in a day} \times (\text{Number of minutes in an hour} \\\\
-&= 24 \times 60 \\\\
-&= 1440 \ \text{minutes}
+\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times (\text{No. of minutes in an hour} \\\\
+                                &= 24 \times 60 \\\\
+                                &= 1440 \ \text{minutes}
 \end{aligned}
 $
 
@@ -3702,7 +3867,7 @@ $1440 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>71A87121-8B24-43F3-8CA2-5883E0DFF79B</p>
 </div>
@@ -3725,9 +3890,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{End time of the film}  &= 11:55 \text{ A.M} + 177 minutes \\\\
-                             &= 11:55   +  1 \ hour 57 \ minutes \\\\
-                             &= 1:52 \text{P.M} 
+\text{Film ended}   &= 11{:}55 \ \text{A.M} + 177 minutes \\\\
+                    &= 11{:}55 + 2 \ \text {hours} 57 \ \text {minutes} \\\\
+                    &= 01{:}55 + 5 + 2 + 50 \\\\
+                    &= 02{:}00 + 52 \\\\
+                    &= 02{:}52 \ \text {P.M.}
 \end{aligned}
 $
 
@@ -3736,7 +3903,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1:52 \text{P.M}$
+$2{:}52 \ \text {P.M}$
 
 </div>
 </div>
@@ -3745,7 +3912,7 @@ $1:52 \text{P.M}$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -4696,65 +4863,6 @@ $20 \ \text{seconds}$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Abigail gets up at $07{:}40$ in the morning. 
-
-$25 \ \text{minutes}$ later she starts her breakfast, which takes $10 \ \text{minutes}$ to finish. 
-
-She then leaves for school.  Her journey takes $35 \ \text{minutes}$ in total. 
-
-She arrives $5 \ \text{minutes}$ late for registration. 
-
-At what time is registration?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Registration time}      &= 7{:}40 \ \text{am} + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
-                              &= 7{:}40 \ \text{am} + 65 \ \text{minutes}   \\\\
-                              &= 8{:}45 \ \text{am}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8{:}45 \ \text{am}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>D29FD65A-D00C-4231-B577-33E395594EC4</p>
 </div>
 <div class='topics'>
@@ -5299,9 +5407,9 @@ What time do I get to school?
 <div class='workings'>
 <div class='working'>
 
-Time of leaving home $&= 7.35 \ \text{am}$
+Time of leaving home $= 7.35 \ \text{am}$
 
-Time take to go to school  $&= 42 \ \text{minutes}$
+Time take to go to school  $= 42 \ \text{minutes}$
 
 $
 \begin{aligned}

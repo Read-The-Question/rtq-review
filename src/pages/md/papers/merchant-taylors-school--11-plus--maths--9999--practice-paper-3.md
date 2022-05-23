@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Merchant Taylors' School</h1>
@@ -3524,7 +3524,7 @@ $
 \cancel {-} \dfrac {1 \cancel {0} b} {10 \cancel {0}}                &= \cancel {-} 4 \\\\
 \dfrac {b} {10}                                                      &= 4 \\\\
 b                                                                    &= 4 \times 10 \\\\
-b                                                                    &= 40       
+b                                                                    &= 40
 \end{aligned}
 $
 

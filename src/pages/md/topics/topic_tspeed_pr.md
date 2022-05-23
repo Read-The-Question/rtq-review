@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-pr"
 title: "Topic - Speed - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -529,6 +529,116 @@ $2 \ \text {hours}, 5 \ \text{minutes}$
 </ul>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sleeper train leaves London at $10{:}17 \ \text{pm}$ and reaches Edinburgh at $5{:}44 \ \text{am}$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate out how long the journey takes in hours and minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4 \ \text{hours} 33 \ \text{minutes}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{hours} 33 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+An aeroplane takes $7 \ \text{hours}$ to travel from London to New York at a
+constant speed. The distance from London to New York is approximately $5600 \ \text{kilometres}$. 
+Calculate the approximate speed of the aeroplane in kilometres per hour.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Speed} &= \dfrac {\text{Distance} } { \text{Time} } \\\\
+             &= \dfrac {5600} {7} \\\\
+             &= \dfrac {800 \times 7} {7} \\\\
+             &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
+             &= 800 \ \text{kilometres per hour}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$800 \ \text{kilometres per hour}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>

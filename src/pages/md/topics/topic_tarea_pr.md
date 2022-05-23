@@ -1,9 +1,95 @@
 ---
 slug: "topics/topic-tarea-pr"
 title: "Topic - Area - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>818A3399-A21C-4308-BB9A-424A3CC74F98</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle has an area of $36 \ \text{cm}^2$ and a perimeter of $26 \ \text{cm}$. Find the length and width of the rectangle.
+You may use the grid to help you.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text{cm}$) $= w$
+
+Let the length of the rectangle (in $\text{cm}$) $= l$
+
+Using the formula for area and perimeter for a rectangle, we get
+
+$
+\begin{aligned}
+l \times w          &= 36 \\\\
+2 \times (l + w)    & = 26 \\\\
+l + w               &= \dfrac {26}{2} \\\\
+l + w               &= 13
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
+
+- Both the numbers should be smaller than $13$
+- The product of the $2$ numbers is $36$ 
+- The sum of the $2$ numbers is $13$.
+
+Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+| Factors   |  Sum  | Numbers $< 13$    |
+|:-------:  |:----: |:---------------:  |
+| $2, 18$   | $20$  |        No         |
+| $3, 12$   | $15$  |       Yes         |
+| $4, 9$    | $13$  |       Yes         |
+
+A quick check shows that $4$ and $9$ meets all the criteria above.
+
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+
+Width of the rectangle $= 4 \ \text{cm}$ 
+
+Length of the rectangle $= 9 \ \text{cm}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Width $= 4 \ \text{cm}$
+
+</div>
+<div class='answer'>
+
+Length $= 9 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
@@ -1464,6 +1550,133 @@ $3.6 \ \text {m} ^ 2$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the area and perimeter of this shape. 
+
+Note: all angles are right angles.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Area
+
+$
+\begin{aligned}
+\text {Total Area} &= \text{Area of rectangle 1} + \text{Area of rectangle 2} \\\\
+                   &= 14 \times 5 + (14 - 6) \times 4 \\\\
+                   &= 70 + 32 \\\\
+                   &= 102 \ \text{cm}^2
+\end{aligned}
+$
+
+Perimeter
+
+$
+\begin{aligned}
+\text {Total Perimeter} &= \text{Perimeter of whole rectangle } - \text{Perimeter of smaller rectangle} \\\\
+                        &= 2 \times (14 + 9) - (6 + 4) \\\\
+                        &= 46 - 10 \\\\
+                        &= 36 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$102 \ \text{cm}^2, 36 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the area and perimeter of this shape.
+
+Note: all angles are right angles but the diagram has not been drawn to scale.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area} &= 16 \times 3 + 10 \times 7 + 20 \times 2 \\\\
+             &= 48 + 70 + 40 \\\\
+             &= 112 \ \text{cm}^2
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Perimeter} &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
+                  &= 76 \ \text{cm} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$112 \ \text{cm}^2, 76 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -3281,18 +3494,23 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 <div class='workings'>
 <div class='working'>
 
-We know, area of a rectangle $= \text{length} \times \text{width}$
+We know,
 
-Length of the pool $= \text{Length of garden} - \text{Width of path} = 15 - 2 = 13 \text{cm}
+$\text{Area of rectangle} = \text{length} \times \text{width}$
 
-Width of the pool $= \text{Width of garden} - \text{Width of path} = 8 - 2 = 6 \text{cm}
+As per the diagram,
 
 $
 \begin{aligned}
+\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
+                                                   &= 15 \ \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \times 8 \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \\\\
+                                                   &= 15 \ \text{cm} - 4 \ \text{cm} \times 8 \ \text{cm} - 4 \ \text{cm} \\\\
+                                                   &= 11 \ \text{cm} \times 4 \ \text{cm} \\\\
+                                                   &= 44 \ \text{cm}^{2} \\\\
 \text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
-                                                   &= 15 \text{cm} \times 8 \text{cm}  - 13 \text{cm} \times 6 \text{cm} \\\\
-                                                   &= 120 \text{cm}^{2} - 78 \text{cm}^{2} \\\\
-                                                   &= 42 \text{cm}^{2}
+                                                   &= 15 \ \text{cm} \times 8 \ \text{cm}  - 44 \ \text{cm}^{2} \\\\
+                                                   &= 120 \ \text{cm}^{2} - 44 \ \text{cm}^{2} \\\\
+                                                   &= 76 \ \text{cm}^{2}
 \end{aligned}
 $
 
@@ -3301,7 +3519,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$42 \text{cm}^{2}$
+$76 \ \text{cm}^{2}$
 
 </div>
 </div>

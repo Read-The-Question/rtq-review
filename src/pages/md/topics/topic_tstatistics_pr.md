@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-pr"
 title: "Topic - Statistics - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -653,6 +653,60 @@ $\text{It shows that the mean is maintained}$
 </ul>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>E7E0C2A2-8B04-44D2-977B-6CCDF28C9D80</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The mean (average) of seven numbers is $12$. An eighth number is included and
+the mean decreases to $11$. Find the number which was included.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let take total 7 number as $=a$ and new value as $=b$
+$
+\begin{aligned}
+\text{Old mean} &= 12 \\\\
+\dfrac {a} {7}  &= 12 \\\\
+a               &= 84
+
+\text{New mean}     &= 11 \\\\
+\dfrac {84 + b} {8} &= 11 \\\\
+84 + b              &= 88 \\\\
+b                   &= 88 - 84 \\\\
+b                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>

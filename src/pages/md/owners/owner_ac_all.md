@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-all"
 title: "Owner - Chiliveru Aravind - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5011,15 +5011,24 @@ $0.627 = 0.6 + 0.02 + \ldots$
 <div class='workings'>
 <div class='working'>
 
-$\text{Missing number} = 0.627 - 0.6 - 0.02$
-$= 0.627 - 0.62 = 0.07$
+$
+\begin{aligned}
+0.627 &= 0.6 + 0.02 + \ldots \\\\
+0.627 &= 0.6 + 0.02 + \text{Missing number} \\\\
+\text{Missing number}   &= 0.627 - 0.6 - 0.02 \\\\
+                        &= 0.627 - 0.62 \\\\
+                        &= 0.007
+
+\end{aligned}
+$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.07$
+$0.007$
 
 </div>
 </div>
@@ -5053,10 +5062,6 @@ $0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
 </div>
 <div class='workings'>
 <div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, there are more decimals.
 
 $= 0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
 
@@ -5100,7 +5105,19 @@ Write the three prime numbers which multiply to make $231$:
 <div class='workings'>
 <div class='working'>
 
-$3 \times 7 \times 11 = 231$
+Prime numbers $= 2, 3, 5, 7, 11, 13, \ldots$
+
+As the unit digit has $1$, we can rule out $2$ and $5$ .
+
+Let's try &3& , &7& and &11& .
+
+$
+\begin{aligned}
+&= 3 \times 7 \times 11 \\\\
+&= 21 \times 11 \\\\
+&= 231
+\end{aligned}
+$
 
 </div>
 </div>
@@ -5143,9 +5160,11 @@ Write in the missing numbers:
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+As per the question,
 
-Let the difference between the terms is $a$. Hence, the sequence would be:
+Halid adds the same amount each time. The difference between the consecutive terms of the sequence is always same. 
+
+Let take the amount $= a$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -5157,28 +5176,29 @@ $
 \end{matrix}
 $
 
-As per the sequence,
 $
 \begin{aligned}
 2 + 4a      &= 18 \\\\
 4a          &= 18 - 2 \\\\
 4a          &= 16 \\\\
-a           &= \dfrac{16}{4} \\\\
 a           &= \dfrac{4 \times 4}{4} \\\\
 a           &= \dfrac{4 \times \cancel{4}}{\cancel{4}} \\\\
 a           &= 4
 \end{aligned}
 $
 
+The amount Halid adds $= 4$
+
+Hence the sequence would be:
+
 $
-\begin{aligned}
-\text{First missing number}        &= 2 + 4 \\\\
-                                   &= 6 \\\\
-\text{Second missing number}       &= 6 + 4 \\\\
-                                   &= 10 \\\\
-\text{Third missing number}        &= 10 + 4 \\\\
-                                   &= 14
-\end{aligned}
+\begin{matrix}
+&   \footnotesize{\maroonC{(+4)}} 
+&&  \footnotesize{\maroonC{(+4)}}  
+&&  \footnotesize{\maroonC{(+4)}}   
+&&  \footnotesize{\maroonC{(+4)}} \\
+2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
+\end{matrix}
 $
 
 </div>
@@ -5219,9 +5239,9 @@ In this sequence each number is double the previous number. Write in the missing
 <div class='workings'>
 <div class='working'>
 
-As pr the question,
+As per the question,
 
-Each number in the sequence is double the previous number. So:
+Each number in the sequence is double the previous number. Hence the sequence would be :
 
 $
 \begin{matrix}
@@ -5232,16 +5252,17 @@ $
 &&  \footnotesize{\maroonC{(\times 2)}}  
 &&  \footnotesize{\maroonC{(\times 2)}}   
 &&  \footnotesize{\maroonC{(\times 2)}} \\
-\ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48  &&  \ldots
+\ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48,  &&  \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
 \text{Second missing number}       &= \dfrac{3}{2} \\\\
-
+                                   &= 1.5 \\\\
 \text{First missing number}        &= \dfrac{3}{2 \times 2} \\\\
                                    &= \dfrac{3}{4} \\\\
+                                   &= 0.75
 \text{Third missing number}        &= 48 \times 2 \\\\
                                    &= 96
 \end{aligned}
@@ -5252,7 +5273,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{3}{2}, \dfrac{3}{4}, 96$
+$\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96$
 
 </div>
 </div>
@@ -5287,33 +5308,43 @@ How many biscuits do Alysha and Julia each have?
 <div class='workings'>
 <div class='working'>
 
-Let the biscuits with Alysha $=a$
-
-Biscuits with Julia $= 14 - a$
+Let the number of biscuits Juilia has $=a$
 
 As per the question,
 
+Biscuits (Alysha) + Biscuits (Julia) = Total Biscuits
+
 $
 \begin{aligned}
-a       &= 14 - a + 2 \\\\
-2a      &= 16 \\\\
-a       &= \dfrac{16}{2} \\\\
-a       &= \dfrac{8 \times 2}{2} \\\\
-a       &= \dfrac{8 \times \cancel{2}}{\cancel{2}} \\\\
-a       &= 8
+(a + 2) + a &= 14 \\\\\
+2a + 2  &= 14 \\\\
+2a      &= 14 - 2 \\\\
+2a      &= 12 \\\\
+a       &= \dfrac{12}{2} \\\\
+a       &= \dfrac{6 \times 2}{2} \\\\
+a       &= \dfrac{6 \times \cancel{2}}{\cancel{2}} \\\\
+a       &= 6
 \end{aligned}
 $
 
-Biscuits with Alysha $=8$
+No. of biscuits Juilia has $= 6$
 
-Biscuits with Julia $= 14 - 8 = 6$
+No. of biscuits Alysha has 
+
+$
+\begin{aligned}
+&= 2 + a \\\\
+&= 2 + 6 \\\\
+&= 8
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8, 6$
+Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
 
 </div>
 </div>
@@ -5701,13 +5732,14 @@ Three apples and a banana cost $32 \text{p}$. Six apples and a banana cost $53 \
 <div class='workings'>
 <div class='working'>
 
-Let the cost of a banana $= a$
+Let take apple $= a$
+
+and let's take banana $= b$
 
 As per the question,
 
 $3 \times \text{apple cost} + 1 \times \text{banana cost}        = 53 \text{p}$
 
-Cost of apple $= \dfrac{32 - a}{3}$
 
 Also,
 
@@ -6481,9 +6513,9 @@ $13 \text{p} \quad 23 \text{p} \quad 33 \text{p} \quad 43 \text{p} \quad 53 \tex
 
 $
 \begin{aligned}
-13 \text{p}     &= 1 \times 10 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p} \\\\
-23 \text{p}     &= 1 \times 20 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p} \\\\
-53 \text{p}     &= 1 \times 50 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p}
+13 \text{p}     &= 10 \text{p} + 2 \text{p} + 1 \text{p} \\\\
+23 \text{p}     &= 20 \text{p} + 2 \text{p} + 1 \text{p} \\\\
+53 \text{p}     &= 50 \text{p} + 2 \text{p} + 1 \text{p}
 \end{aligned}
 $
 
@@ -6577,7 +6609,7 @@ $315, 240$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
 </div>
@@ -6631,7 +6663,7 @@ $8{:}45 \ \text{am}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -6940,7 +6972,7 @@ $\pounds 7.04$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>8D859487-1917-4AF8-9CAA-CC95403EF019</p>
 </div>
@@ -6986,7 +7018,7 @@ $45, 53$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -7010,7 +7042,7 @@ If I treble a number and add $6$, I get the same answer as when I add $16$ to th
 <div class='workings'>
 <div class='working'>
 
-Let the number i think $= a$
+Let the number I think $= a$
 
 As per the question,
 
@@ -7027,7 +7059,7 @@ a                   &= 5
 \end{aligned}
 $
 
-The number $= 5$
+My original number $= 5$
 
 </div>
 </div>
@@ -7275,6 +7307,8 @@ What is the maximum number of bricks which can be fitted into the packing case?
 </div>
 <div class='workings'>
 <div class='working'>
+
+Volume = length $\times$ width $\times$ height
 
 $
 \begin{aligned}
@@ -7667,7 +7701,7 @@ $
 \begin{aligned}
 &= 12 \times 75 \\\\
 &= 6 \times 2 \times 5 \times 15 \\\\
-&= 6 \timees 10 \times 15 \\\\
+&= 6 \times 10 \times 15 \\\\
 &= 90 \times 10
 \end{aligned}
 $
@@ -7715,6 +7749,7 @@ What number is $40\%$ of $75$?
 
 $
 \begin{aligned}
+&= 40\%$ \ \text{of} \ 75 \\\\
 &= \dfrac{40}{100} \times 75 \\\\
 &= \dfrac{40 \times 75}{100} \\\\
 &= \dfrac{4 \times 10 \times 3 \times 25}{4 \times 25} \\\\
@@ -7743,7 +7778,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>E16D6325-36FF-464C-8198-472884A6720D</p>
 </div>
@@ -7790,7 +7825,7 @@ $\dfrac{2}{3}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -7816,14 +7851,13 @@ $4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case all are in decimals. Lets arrange them in ascending order.
-
 $
 \begin{aligned}
 &= 4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123 \\\\
-&= 4.123, \quad 4.132, \quad 4.321, \quad 4.3, \quad 4.32
+&= 4.321, \quad 4.320, \quad 4.132, \quad 4.300, \quad 4.123 \\\\
+&\text{Let's put them in ascending order now.} \\\\
+&= 4.123 < \quad 4.132 < \quad 4.300 < \quad 4.320 < \quad 4.321 \\\\
+&= 4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321
 \end{aligned}
 $
 
@@ -7832,7 +7866,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4.123, \quad 4.132, \quad 4.321, \quad 4.3, \quad 4.32$
+$4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
 
 </div>
 </div>
@@ -7867,19 +7901,25 @@ $\dfrac{\phantom{11}}{12} = \dfrac{12}{18} = \dfrac{18}{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
+Let's take the first missing number $= a$
+
+Let's take the second missing number $= b$
+
 $
 \begin{aligned}
-\text{First missing number}         &= \dfrac{12}{18} \times 12 \\\\
+\dfrac{a}{12}                       &= \dfrac{12}{18} \\\\
+a                                   &= \dfrac{12}{18} \times 12 \\\\
                                     &= \dfrac{12 \times 12}{18} \\\\
                                     &= \dfrac{4 \times 3 \times 2 \times 6}{3 \times 6} \\\\
                                     &= \dfrac{4 \times \cancel{3} \times 2 \times 6}{\cancel{3} \times \cancel{6}} \\\\
-                                    &= 4 \times 2 \\\\
+a                                   &= 4 \times 2 \\\\
 \text{First missing number}         &= 8 \\\\
-\text{Second missing number}        &= \dfrac{18}{12} \times 18 \\\\
+\dfrac{b}{18}                       &= \dfrac{18}{12} \\\\
+b                                   &= \dfrac{18}{12} \times 18 \\\\
                                     &= \dfrac{18 \times 18}{12} \\\\
                                     &= \dfrac{6 \times 3 \times 9 \times 2}{6 \times 2} \\\\
                                     &= \dfrac{\cancel{6} \times 3 \times 9 \times \cancel{2}}{\cancel{6} \times \cancel{2}} \\\\
-                                    &= 3 \times 9 \\\\
+b                                  &= 3 \times 9 \\\\
 \text{Second missing number}        &= 27
 \end{aligned}
 $
@@ -7903,7 +7943,7 @@ $8, 27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>30C9339F-2AC2-4BC2-A71D-BD9F13ABB2A2</p>
 </div>
@@ -7948,7 +7988,7 @@ $23$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -7960,7 +8000,7 @@ $23$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tfactor
 </li>
 </ul>
 </div>
@@ -8012,7 +8052,7 @@ $42$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tinfer
 </li>
 </ul>
 </div>
@@ -8090,20 +8130,23 @@ Sarah won a large jar of sweets in a Christmas raffle. If there are $486$ sweets
 
 $
 \begin{aligned}
-\text{Sweets per person}        &= \dfrac{Total sweets}{Total people} \\\\
-                                &= \dfrac{486}{17} \\\\
-                                &= 28 \dfrac{10}{17}
+\text{Sweets per person}        &= \dfrac{\text{Total sweets}}{\text{Total people}} \\\\
+                                &= \dfrac{486}{18} \\\\
+                                &= \dfrac{27 \times 18}{18} \\\\
+                                &= \dfrac{27 \times \cancel{18}}{\cancel{18}} \\\\
+                                &= 27
+
 \end{aligned}
 $
 
-Each person gets $28 \dfrac{10}{17}$ Sweets each.
+Each person gets $27$ Sweets each.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$28 \dfrac{10}{17}$
+$27$
 
 </div>
 </div>
@@ -8191,7 +8234,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of sugar}        &= \text{Total cost} - \text{COst of coffee} - \text{Cost of milk} \\\
+\text{Cost of sugar}        &= \text{Total cost} - \text{Cost of coffee} - \text{Cost of milk} \\\\
                             &= \pounds 5.15 - \pounds 3.69 - 89 \text{p} \\\\
                             &= \pounds 5.15 - \pounds 3.69 - \pounds 0.89 \\\\
                             &= 5.15 - 4.58 \\\\
@@ -8241,7 +8284,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Number of bags}       &= \dfrac{\text{Total money}}{\text{Money per crisp}} \\\\
+\text{Money per crisp}      &= \text{Money per bag of crisps} \\\\
+\text{Number of crisp bag}  &= \dfrac{\text{Total money}}{\text{Money per crisp}} \\\\
                             &= \dfrac{\pounds 2}{16 \text{p}} \\\\
                             &= \dfrac{200}{16} \\\\
                             &= \dfrac{25 \times 8}{2 \times 8} \\\\
@@ -9594,7 +9638,7 @@ $\dfrac{17}{25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>7A46A306-D16B-4B94-BF6A-A062C92858A7</p>
 </div>
@@ -9638,7 +9682,7 @@ $5.7$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -18623,8 +18667,9 @@ $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+4)}}  
 &&  \footnotesize{\maroonC{(+4)}}    
+&&  \footnotesize{\maroonC{(+4)}}
 &&  \footnotesize{\maroonC{(+4)}} \\
-11,  &&    15,  &&  19,  &&   23 \ldots
+11,  &&    15,  &&  19,  &&   23, && \ldots
 \end{matrix}
 $
 
@@ -18640,7 +18685,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Next number : $27$
+$27$
 
 </div>
 </div>
@@ -18668,9 +18713,10 @@ The difference between the terms is $5$. Hence, the sequence would be:
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(-5)}}  
+&&  \footnotesize{\maroonC{(-5)}}
 &&  \footnotesize{\maroonC{(-5)}}    
 &&  \footnotesize{\maroonC{(-5)}} \\
-17,  &&    12,  &&  7,  &&   2 \ldots
+17,  &&    12,  &&  7,  &&   2, && \ldots
 \end{matrix}
 $
 
@@ -18686,7 +18732,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Next number : $-3$
+$-3$
 
 </div>
 </div>
@@ -18709,12 +18755,14 @@ $2,\:\:\:4,\:\:\:7,\:\:\:11,\:\:\: ………$
 
 Let's find the difference between the consecutive terms of the sequence.
 
+The difference between the terms is 1 more than the difference between the previous sequence. Hence the sequence would be :
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+2)}}  
-&&  \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+4)}} \\
-2,  &&    4,  &&  7,  &&   11 \ldots
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}} 
+&&  \footnotesize{\maroonC{(+5)}} \\
+2,  &&    4,  &&  7,  &&   11 , && \ldots
 \end{matrix}
 $
 
@@ -18730,7 +18778,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Next number : $16$
+$16$
 
 </div>
 </div>
@@ -18819,18 +18867,18 @@ $2,\:\:\:5 000,\:\:\:50 000,\:\:\:2 000,\:\:\:200,\:\:\:50,\:\:\:20$
 <div class='workings'>
 <div class='working'>
 
-$2,\:\:\: \boxed{5 000},\:\:\:50 000,\:\:\:2 000,\:\:\: \boxed{200},\:\:\:50,\:\:\:20$ 
+$2,\quad  \boxed{5 000},\quad 50 000,\quad 2 000,\quad  \boxed{200},\quad 50,\quad 20$ 
 
-OR
+Or
 
-$2,\:\:\:5 000,\:\:\: \boxed {50 000},\:\:\:2 000,\:\:\:200,\:\:\:50,\:\:\: \boxed {20}$ 
+$2,\quad 5 000,\quad  \boxed {50 000},\quad 2 000,\quad 200,\quad 50,\quad  \boxed {20}$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(5000, 200) \ \text{or} (50000, 20)$
+$(5000, 200) \ \text{or} \ (50000, 20)$
 
 </div>
 </div>
@@ -18865,19 +18913,18 @@ $0.56,\:\:\:0.506,\:\:\:0.605,\:\:\:0.65,\:\:\:0.056$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, all are decimals. Let's arrange the decimals in ascending order,
-
 $0.56 , \quad   0.506 , \quad   0.605 , \quad   0.65 , \quad 0.056$
-$0.056 , \quad   0.506 , \quad   0.56 , \quad   0.605 , \quad 0.65$
+
+Let's arrange the decimals in ascending order,
+
+$0.056 , \quad <  0.506 , \quad <  0.56 , \quad <  0.605 , \quad < 0.65$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.056 , \quad   0.506 , \quad   0.56 , \quad   0.605 , \quad 0.65$
+$0.056 , \quad <  0.506 , \quad <  0.56 , \quad <  0.605 , \quad < 0.65$
 
 </div>
 </div>
@@ -19729,9 +19776,7 @@ A factor of $12$
 <div class='workings'>
 <div class='working'>
 
-Factors of $12$ = $1, 2, 3, 4, 6, 12$
-
-Factor from the list = $6$
+$6$
 
 </div>
 </div>
@@ -19759,7 +19804,7 @@ A multiple of $15$
 <div class='workings'>
 <div class='working'>
 
-$15 \times 3$ = $45$
+$45$
 
 </div>
 </div>
@@ -19903,17 +19948,21 @@ In this case, there are more fractions, so let's convert all the numbers into fr
 
 $
 \begin{aligned}
-&= 0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3} \\\\
-&= \dfrac {3} {10} , \quad \dfrac {8} {25} , \quad \dfrac {33} {100} \quad \dfrac {1} {3} \\\\
-&= \dfrac {3 \times 30} {10 \times 30} , \quad \dfrac {8 \times 12} {25 \times 12} , \quad \dfrac {33 \times 3} {100 \times 3} , quad \dfrac {1 \times 100} {3 \times 100} \\\\
-&= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} \quad \dfrac {100} {300}
+&= 0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac {1} {3} \\\\
+&= \dfrac {3} {10} , \quad \dfrac {8} {25} , \quad \dfrac {33} {100} , \quad \dfrac {1} {3} \\\\
+&= \dfrac {3 \times 30} {10 \times 30} , \quad \dfrac {8 \times 12} {25 \times 12} , \quad \dfrac {33 \times 3} {100 \times 3} , \quad \dfrac {1 \times 100} {3 \times 100} \\\\
+&= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} , \quad \dfrac {100} {300}
 \end{aligned}
 $
 
 Let's put them in ascending order now.
 
-$= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} \quad \dfrac {100} {300}$
-$= 0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
+$ 
+\begin{aligned}
+&=\dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} , \quad \dfrac {100} {300} \\\\
+&= 0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac {1} {3}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -19982,12 +20031,10 @@ $𝑎𝑏^2$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 &= ab^2 \\\\
-&= 3 \time 5^2 \\\\
+&= 3 \times 5^2 \\\\
 &= 3 \times 25 \\\\
 &= 75
 \end{aligned}
@@ -20024,9 +20071,9 @@ As per the question,
 $
 \begin{aligned}
 &= bc^2 \\\\
-&= 5 \time (-2)^2 \\\\
-&= 5 \times 4 \\\\
-&= 20
+&= ( 5 \times -2)^2 \\\\
+&= 10^2 \\\\
+&= 100
 \end{aligned}
 $
 
@@ -20035,7 +20082,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$100$
 
 </div>
 </div>
@@ -20141,6 +20188,7 @@ $
 \begin{aligned}
 &= a - \dfrac{b}{c} \\\\
 &= 3 - \dfrac{5}{-2} \\\\
+&= 3 + \dfrac{5}{2} \\\\
 &= \dfrac{3 \times 2} {1 \times 2} + \dfrac {5} {2} \\\\
 &= \dfrac{6} {2} + \dfrac {5} {2} \\\\
 &= \dfrac{6 + 5} {2} \\\\
@@ -20536,8 +20584,8 @@ $3 - 2(𝑒 - 1)$
 $
 \begin{aligned}
 &= 3 - 2(𝑒 - 1) \\\\
-&= 3 - 2e - 2 \\\\
-&= 1 - 2e
+&= 3 - 2e + 2 \\\\
+&= 5 - 2e
 \end{aligned}
 $
 
@@ -20546,7 +20594,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1-2e$
+$5-2e$
 
 </div>
 </div>
@@ -20614,8 +20662,10 @@ $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+2)}}  
 &&  \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+4)}} \\
-2,  &&    4,  &&  7,  &&   11 \ldots
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}} \\
+2,  &&    4,  &&  7,  &&   11, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -20633,7 +20683,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Next numbers : $16, 22$
+$16, 22$
 
 </div>
 </div>
@@ -20661,8 +20711,9 @@ $
 &   \footnotesize{\maroonC{(\times 3)}}  
 &&  \footnotesize{\maroonC{(\times 3)}} 
 &&  \footnotesize{\maroonC{(\times 3)}}   
+&&  \footnotesize{\maroonC{(\times 3)}}
 &&  \footnotesize{\maroonC{(\times 3)}} \\
-\frac {2} {3},  &&    2,  &&  6,  &&   ,  &&   18 \ldots
+\dfrac {2} {3},  &&    2,  &&  6,  &&   18,  &&   \ldots, && \ldots
 \end{matrix}
 $
 
@@ -20680,7 +20731,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Next numbers : $54 , 162$
+$54 , 162$
 
 </div>
 </div>
@@ -20703,17 +20754,20 @@ Explain why if the first term is $\frac{-2} {9}$ the second term is $\frac{1} {3
 <div class='workings'>
 <div class='working'>
 
-As per the question, the next number in the sequence is tripled and added by one.
+As per the question,
 
-If the first term is $\dfrac{-2} {9}$, then the next term would be :
+The next number is tripled and added by one.
+
 $
 \begin{aligned}
 &= \dfrac{-2} {9} \times 3 + 1 \\\\
-&= \dfrac {-2 \times 3} {3 \times 3} + 1 \\\\
-&= \dfrac {-2 \times \cancel {3}} {3 \times \cancel {3}} + 1 \\\\
-&= \dfrac{-2} {3} + 1 \\\\
-&= \dfrac{-2} {3} + \dfrac{3} {3} \\\\
-&= \dfrac{-2 + 3} {3} \\\\
+&= \dfrac {-2 \times 3} {9} + 1 \\\\
+&= \dfrac {-6} {9} + \dfrac{1 \times 9}{1 \times 9} \\\\
+&= \dfrac {-6} {9} + \dfrac{9}{9} \\\\
+&= \dfrac{-6 + 9}{9} \\\\
+&= \dfrac{3}{9} \\\\
+&= \dfrac{3}{3 \times 3} \\\\
+&= \dfrac{\cancel {3}}{\cancel {3} \times 3} \\\\
 &= \dfrac {1} {3}
 \end{aligned}
 $
@@ -20725,7 +20779,7 @@ The second term = $\dfrac {1} {3}$
 <div class='answers'>
 <div class='answer'>
 
-The second term = $\dfrac {1} {3}$
+$\dfrac {1} {3}$
 
 </div>
 </div>
@@ -20746,24 +20800,44 @@ Find the fourth term
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+The next number is tripled and added by one.
 
-TODOWORKING
+Second term = $\dfrac {1} {3}$
+
+Third term $=$
+
+$
+\begin{aligned}
+&= \dfrac{1}{3} \times 3 + 1 \\\\
+&= \dfrac{1 \times 3}{3} + 1 \\\\
+&= \dfrac{1 \times \cancel{3}}{\cancel{3}} + 1 \\\\
+&= 1 + 1 \\\\
+&= 2
+\end{aligned}
+$
+
+Third term $=2$
+
+Fourth term $=$ 
+
+$
+\begin{aligned}
+&= 2 \times 3 + 1 \\\\\
+&= 6 + 1 \\\\
+&= 7
+\end{aligned}
+$
+
+Fourth term $= 7$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$7$
 
 </div>
 </div>
@@ -20828,12 +20902,12 @@ $3𝑥 - 4 = 20$
 $
 \begin{aligned}
 3x - 4      &= 20 \\\\
-3x          & 20 + 4 \\\\
+3x          &= 20 + 4 \\\\
 3x          &= 24 \\\\
-x           &= \dfrac {24} {4} \\\\
-x           &= \dfrac {4 \times 6} {4} \\\\
-x           &= \dfrac {\cancel {4} \times 6} {\cancel {4}} \\\\
-x           &= 6
+x           &= \dfrac {24} {3} \\\\
+x           &= \dfrac {3 \times 8} {3} \\\\
+x           &= \dfrac {\cancel {3} \times 8} {\cancel {3}} \\\\
+x           &= 8
 \end{aligned}
 $
 
@@ -20842,7 +20916,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6$
+$8$
 
 </div>
 </div>
@@ -20867,7 +20941,7 @@ $
 \begin{aligned}
 2 - x       &= 3(1 - x) \\\\
 2 - x       &= 3 - 3x \\\\
--x + 3x     &= 3 - 2 \\\\
+3x - x      &= 3 - 2 \\\\
 2x          &= 1 \\\\
 x           &= \dfrac{1} {2} 
 \end{aligned}
@@ -20902,8 +20976,8 @@ $\frac {𝑥} {3} =\frac {𝑥-4} {2}$
 $
 \begin{aligned}
 \frac {x} {3}       &= \frac {x-4} {2} \\\\
-x \times 2          &= (x-4) \times 3 \\\\
-2x                  &= 3x - 4 \times 3 \\\\
+x \times 2          &= 3 \times (x-4) \\\\
+2x                  &= (3 \times x) - (3 \times 4) \\\\
 2x                  &= 3x - 12 \\\\
 12                  &= 3x - 2x \\\\
 12                  &= x \\\\
@@ -21703,15 +21777,13 @@ $14.67 \times 7.6$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$14.67 \times 7.6$
 
-$
-\begin{aligned}
-1467 \times 76                              &= 111492 \\\\
-\dfrac {1467} {100} \times \dfrac{76} {10}  &= \dfrac {111492} {1000} \\\\
-14.67 \times 7.6                            &= 111.492
-\end{aligned}
-$
+Between the two numbers, the total number of digits after the decimal point is three.
+
+Let's account for the decimal point now.
+
+$14.67 \times 7.6 = 111.492$
 
 </div>
 </div>
@@ -21739,17 +21811,7 @@ $1114.92 \div 76$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-$
-\begin{aligned}
-1467 \times 76                              &= 111492 \\\\
-\dfrac {1467} {100} \times 76               &= \dfrac {111492} {100} \\\\
-14.67 \times 76                             &= 1114.92 \\\\
-14.67                                       &= \dfrac{1114.92} {76} \\\\
-\dfrac{1114.92} {76}                        &= 14.67
-\end{aligned}
-$
+$1114.92 \div 76 = 14.67$
 
 </div>
 </div>
@@ -21777,18 +21839,7 @@ $111492 \div 0.76$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-$
-\begin{aligned}
-1467 \times 76                              &= 111492 \\\\
-1467 \times \dfrac {76} {100}               &= \dfrac {111492} {100} \\\\
-1467 \times 0.76                            &= \dfrac {111492} {100} \\\\
-1467 \times 100                             &= \dfrac{111492} {0.76} \\\\
-146700                                      &= \dfrac{111492} {0.76} \\\\
-\dfrac{111492} {0.76}                       &= 146700
-\end{aligned}
-$
+$111492 \div 0.76 = 146700$
 
 </div>
 </div>

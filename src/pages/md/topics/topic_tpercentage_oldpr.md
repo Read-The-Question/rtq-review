@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-oldpr"
 title: "Topic - Percentage - Old PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -187,105 +187,6 @@ $\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
 </ul>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>450FEC63-5580-47DE-83CB-40719744776C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprofit
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Zain wants to buy two chairs.
- 
-Three shops advertise the same luxury chair.
-Each shop has a special offer. 
-
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
-
-At which shop is the price of the two chairs the cheapest? 
-
-You **must** show your working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the cheapest price of $2$ chairs from each shop.
-
-**Shop A**
-
-If the price is reduced by $30 \%$, then the sale price will be $100 - 30 = 70 \%$ of the original price. Using that, we get
-
-$
-\begin{aligned}
-\text{Cost of } 2 \text{ chairs from Shop A}     &= 600 + 70\% \times 600 \\\\
-                                                &= 600 + \dfrac{70}{100} \times 600 \\\\
-                                                &= 600 + \dfrac{70 \times 600}{100} \\\\
-                                                &= 600 + \dfrac{70 \times 6\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}} \\\\
-                                                &= 600 + 70 \times 6 \\\\
-                                                &= 600 + 420 \\\\
-                                                &= \pounds 1020
-\end{aligned}
-$
-
-**Shop B**
-
-If the price is reduced by $\dfrac{1}{5}$, then the sale price will be $1 - \dfrac{1}{5} = \dfrac{4}{5}$ of the original price. Using that, we get
-
-$
-\begin{aligned}
-\text{Cost of } 2 \text{ chairs from Shop B}     &= 550 + \dfrac{4}{5} \times 550 \\\\
-                                                &= 550 + \dfrac{4 \times 550}{5} \\\\
-                                                &= 550 + \dfrac{4 \times 5 \times 110}{5} \\\\
-                                                &= 550 + \dfrac{4 \times \cancel{5} \times 110}{\cancel{5}} \\\\
-                                                &= 550 + 4 \times 110 \\\\
-                                                &= 550 + 440 \\\\
-                                                &= \pounds 990
-\end{aligned}
-$
-
-**Shop C**
-
-$
-\begin{aligned}
-\text{Cost of } 2 \text{ chairs from Shop C}     &= \pounds 820
-\end{aligned}
-$
-
-Using the calculation above,
-
-Shop where the price is the cheapest $= \text{Shop C} = \pounds 820$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{Shop C} = \pounds 820$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>

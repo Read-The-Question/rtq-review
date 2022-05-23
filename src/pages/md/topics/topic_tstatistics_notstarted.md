@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-notstarted"
 title: "Topic - Statistics - Not Started"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2816,57 +2816,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>E7E0C2A2-8B04-44D2-977B-6CCDF28C9D80</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tstatistics
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The mean (average) of seven numbers is $12$. An eighth number is included and
-the mean decreases to $11$. Find the number which was included.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>

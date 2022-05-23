@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2020-sample-paper-1"
 title: "City Of London School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>City of London School</h1>
@@ -186,7 +186,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>559166DC-6DDF-4875-BF83-BA488BB42DFA</p>
 </div>
@@ -209,23 +209,16 @@ How much $\bold{\underline{change}}$ do I get from a $\pounds 20$ note?
 
 It is really important to use the right units in calculations and convert where required.
 
-Let's convert the total amount into pence.
+Let's convert the total amount into pounds.
 
 $
-\begin{aligned}
-\text{Total cost}   &= 72\text{p} + 1.21 \times 100 \text{p} \\\\
-                    &= 72 + 121 \\\\
-                    &= 193 \text{p}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Change}  &= 20 \times 100 \text{p} - 193\text{p} \\\\
-               &= 2000 \text{p} - 193 \text}{p} \\\\
-               &= \dfrac {1807} {100} \\\\
-               &= \pounds 18.07
-\end{aligned}
+\begin {aligned}
+\text {Change received}     &= \pounds 20 - (72 \text{p} + \pounds 1.21) \\\\
+                            &= \pounds 20 - (\pounds \dfrac {72} {100} + \pounds 1.21) \\\\
+                            &= 20 - (0.72 + 1.21) \\\\
+                            &= 20 - 1.93 \\\\
+                            &= \pounds 18.07
+\end {aligned}
 $
 
 </div>
@@ -242,7 +235,7 @@ $\pounds 18.07$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -299,7 +292,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>1DD19E4B-1DD0-4211-AE00-61C2A0DBD9FE</p>
 </div>
@@ -318,23 +311,27 @@ Martin is given $\pounds 240$. He gives $\dfrac{1}{8}$ to his sister and $\dfrac
 <div class='workings'>
 <div class='working'>
 
-As per the question
+As per the question,
 
 $
-\begin{aligned}
-\text{Amount spent}  &=  \dfrac {1} {8} \ times 240 + \dfrac {1} {5} \times 240 \\\\
-                     &=  \dfrac {1} {8} \ times 8 \ times 30 + \dfrac {1} {5} \times 48 \times 5 \\\\
-                     &=  \dfrac {1} {\cancel {8} } \ times \cancel {8} \ times 30 + \dfrac {1} {\cancel {5} } \times 48 \times \cancel {5} \\\\
-                     &=  30  + 48 \\\\
-                     &=  78 
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Amount left}  &= 240 - 78 \\\\
-                    &= \pounds162
-\end{aligned}
+\begin {aligned}
+\text {Amount spent} &= \text {Amount he gave to his sister} + \text {Amount he gave to his brother} \\\\
+                     &= \dfrac {1} {8} \ \text {of} \ \pounds 240 + \dfrac {1} {5} \ \text {of} \ (\pounds 240 - \dfrac {1} {8} \ \text {of} \ 240)) \\\\
+                     &= \dfrac {1} {8} \times 240 + \dfrac {1} {5} \times (240 - \dfrac {1} {8} \times 240)) \\\\
+                     &= \dfrac {240} {8} + \dfrac {1} {5} \times (240 - \dfrac {240} {8}) \\\\
+                     &= \dfrac {30 \times 8} {8} + \dfrac {1} {5} \times (240 - \dfrac {30 \times 8} {8}) \\\\
+                     &= \dfrac {30 \times \cancel {8}} {\cancel {8}} + \dfrac {1} {5} \times (240 - \dfrac {30 \times \cancel {8}} {\cancel {8}}) \\\\
+                     &= 30 + \dfrac {1} {5} \times (240 - 30) \\\\
+                     &= 30 + \dfrac {1} {5} \times 210 \\\\
+                     &= 30 + \dfrac {210} {5} \\\\
+                     &= 30 + \dfrac {42 \times 5} {5} \\\\
+                     &= 30 + \dfrac {42 \times \cancel {5}} {\cancel {5}} \\\\
+                     &= 30 + 42 \\\\
+                     &= \pounds 72 \\\\
+\text {Amount left}  &= \text {Total amount he had} - \text {Total amount spent} \\\\
+                     &= \pounds 240 - \pounds 72 \\\\
+                     &= \pounds 168
+\end {aligned}
 $
 
 </div>
@@ -342,7 +339,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 78$
+$\pounds 168$
 
 </div>
 </div>
@@ -351,7 +348,7 @@ $\pounds 78$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

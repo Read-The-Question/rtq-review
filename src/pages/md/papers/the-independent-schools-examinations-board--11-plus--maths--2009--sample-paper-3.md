@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-3"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 3"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>The Independent Schools Examinations Board</h1>

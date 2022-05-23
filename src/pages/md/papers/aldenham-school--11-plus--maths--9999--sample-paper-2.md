@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Aldenham School</h1>
@@ -1108,7 +1108,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2</p>
 </div>
@@ -1235,7 +1235,7 @@ $0.44$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -1377,7 +1377,7 @@ $4 \degree  \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>9D00B94C-D684-45CF-951A-E345FEB99DD2</p>
 </div>
@@ -1407,7 +1407,7 @@ Let's calculate the percentage score for both the tests.
 
 $
 \begin{aligned}
-\text{Test } 1         &= \dfrac {60}{80} \times 100 \\\\
+\text{Test } 1       &= \dfrac {60}{80} \times 100 \\\\
                      &= \dfrac {60 \times 100}{80} \\\\
                      &= \dfrac {15 \times 4 \times 20 \times 5}{20 \times 4} \\\\
                      &= \dfrac {15 \times \cancel{4} \times \cancel{20} \times 5}{\cancel{20} \times \cancel{4}} \\\\
@@ -1434,12 +1434,12 @@ Test $1$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>9FDBD8FE-49B3-4EE9-9569-87D2186CDEEC</p>
 </div>
@@ -1447,9 +1447,6 @@ Test $1$
 <ul>
 <li>
 tangle
-</li>
-<li>
-testimate
 </li>
 </ul>
 </div>
@@ -1488,12 +1485,12 @@ $300 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>52852CBD-3F19-4E8F-9646-311ABBA46E71</p>
 </div>
@@ -1501,9 +1498,6 @@ $300 \degree$
 <ul>
 <li>
 tnumber
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -1608,12 +1602,12 @@ $30$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>E08043A3-1AF9-4DBF-86C5-BE917D72DCEF</p>
 </div>
@@ -1799,12 +1793,12 @@ $60, 7.5$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>DDD0AC6B-3CD4-48A3-A86A-6AEE1949B832</p>
 </div>
@@ -1852,12 +1846,12 @@ $140  \ \text{minutes}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>7125F2EC-250C-48A5-96EC-68872015C687</p>
 </div>
@@ -1940,7 +1934,7 @@ $25$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -1999,7 +1993,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>818A3399-A21C-4308-BB9A-424A3CC74F98</p>
 </div>
@@ -2010,9 +2004,6 @@ tarea
 </li>
 <li>
 tperimeter
-</li>
-<li>
-tquadraticprompt
 </li>
 </ul>
 </div>
@@ -2083,7 +2074,7 @@ Length $= 9 \ \text{cm}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -2217,7 +2208,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>2C145610-ABC7-4EB3-BF0E-4516DEA62C12</p>
 </div>
@@ -2262,7 +2253,7 @@ $15980$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -2396,7 +2387,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>1622DD6F-538D-47B0-8E04-EE946A7719E6</p>
 </div>
@@ -2494,12 +2485,12 @@ Banana $= 50 \ \text{pence}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>450FEC63-5580-47DE-83CB-40719744776C</p>
 </div>
@@ -2593,7 +2584,7 @@ $\text{Shop C} = \pounds 820$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

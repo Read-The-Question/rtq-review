@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-pr"
 title: "Topic - Probability - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -634,6 +634,107 @@ $\dfrac {1} {5}$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>E968A4AB-9158-45EC-BEFC-4C7850264B5F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Twelve balls labelled $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11$ and $12$ are placed in a bag
+and one ball is chosen at random.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle which of the following is more likely:
+
+| The ball shows a multiple of 3 | The ball shows an even number |
+|:------------------------------:|:-----------------------------:|
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {The ball shows an even number}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {The ball shows an even number}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Explain your answer clearly.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3 are 4}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3 are 4}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

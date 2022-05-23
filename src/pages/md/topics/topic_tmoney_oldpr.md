@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-oldpr"
 title: "Topic - Money - Old PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -257,109 +257,6 @@ $\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
 </ul>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>1622DD6F-538D-47B0-8E04-EE946A7719E6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $2$ apples and $1$ banana cost $\pounds 1.20$ 
-
-and
-
-$1$ apple and $2$ bananas cost $\pounds 1.35$, find the cost of an apple and a banana separately.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cost of an apple (in $\text{pence}$) $= a$
-
-Let the cost of a banana (in $\text{pence}$) $= b$
-
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\text{pence}$.
-
-As per the question,
-
-$
-\begin{aligned} 
-2a + b &=  120 \\\\
-a + 2b &= 135
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-
-Multiply the second equation by $2$.
-
-$
-\begin{aligned} 
-2 \times a + 2 \times 2b     &= 2 \times 135 \\\\
-2a + 4b                     &= 270
-\end{aligned}
-$
-
-Subtract the first equation from the second to reduce it to one variable.
-
-$
-\begin{aligned} 
-2a + 4b - (2a + b)     &= 270 - 120 \\\\
-2a + 4b -2a  -b     &= 150 \\\\
-3b                    &= 150 \\\\
-b                   &= \dfrac {150} {3} \\\\
-b                   &= 50 \ \text{pence}
-\end{aligned}
-$
-
-Cost of a banana $= 50 \ \text{pence}$.
-
-Let's substitute the value of $b$ in one of the initial equations to find the cost of an apple.
-
-$
-\begin{aligned} 
-2a + b     &=  120 \\\\
-2a + 50 &=  120 \\\\
-2a      &=  120 - 50 \\\\
-2a      &=  70 \\\\
-a       &= \dfrac {70} {2} \\\\
-a       &= 35 \ \text{pence}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Apple $= 35 \ \text{pence}$
-
-</div>
-<div class='answer'>
-
-Banana $= 50 \ \text{pence}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>

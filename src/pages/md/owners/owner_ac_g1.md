@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-g1"
 title: "Owner - Chiliveru Aravind - G1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2604,6 +2604,267 @@ $5.5$
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Abigail gets up at $07{:}40$ in the morning. 
+
+$25 \ \text{minutes}$ later she starts her breakfast, which takes $10 \ \text{minutes}$ to finish. 
+
+She then leaves for school.  Her journey takes $35 \ \text{minutes}$ in total. 
+
+She arrives $5 \ \text{minutes}$ late for registration. 
+
+At what time is registration?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Registration time}      &= 7{:}40 \ \text{am} + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
+                              &= 7{:}40 \ \text{am} + 65 \ \text{minutes}   \\\\
+                              &= 8{:}45 \ \text{am}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8{:}45 \ \text{am}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>8D859487-1917-4AF8-9CAA-CC95403EF019</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two whole numbers are each between $40$ and $60$. 
+
+They multiply to make $2385$. 
+
+Write in the missing numbers in the boxes below.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$2385$ ends with $5$. So, it must either be divisible by $45$ or $55$.
+
+$45 \times 53 = 2385$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45, 53$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>E16D6325-36FF-464C-8198-472884A6720D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $(2.3 + 3.7) \div 9$. Leave your answer as a simplified fraction.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (2.3 + 3.7) \div 9 \\\\
+&= \dfrac{(2.3 + 3.7)}{9} \\\\
+&= \dfrac{6}{9} \\\\
+&= \dfrac{2 \times 3}{3 \times 3} \\\\
+&= \dfrac{2 \times \cancel{3}}{3 \times \cancel{3}} \\\\
+&= \dfrac{2}{3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{2}{3}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>30C9339F-2AC2-4BC2-A71D-BD9F13ABB2A2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $391$ divided by seventeen.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{391}{17} \\\\
+&= \dfrac{17 \times 23}{17} \\\\
+&= \dfrac{\cancel{17} \times 23}{\cancel{17}} \\\\
+&= 23
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>7A46A306-D16B-4B94-BF6A-A062C92858A7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $1.1 \times (4.5 + 2.5) - 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 1.1 \times (4.5 + 2.5) - 2 \\\\
+&= 1.1 \times 7 - 2 \\\\
+&= 7.7 - 2 \\\\
+&= 5.7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5.7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>

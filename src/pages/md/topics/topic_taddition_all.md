@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-taddition-all"
 title: "Topic - Addition - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5218,7 +5218,7 @@ $94$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC</p>
 </div>
@@ -5247,8 +5247,9 @@ nineteen
 
 $
 \begin{aligned}
+&= 3 \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
 &= 3000000 + 70000 + 32000 + 19 \\\\
-&= 3102019
+&= 3,102,019
 \end{aligned}
 $
 
@@ -5257,7 +5258,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3102019$
+$3,102,019$
 
 </div>
 </div>
@@ -5266,12 +5267,12 @@ $3102019$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>18878C95-524E-4F4D-B0C2-DE63DF3546B1</p>
 </div>
@@ -5292,10 +5293,10 @@ Add: $29 + 35$
 
 $
 \begin{array}{cccccccccccccc}
-        & 2 & 9 \\
-    {}+ & 3 & 5 \\
-    \hline
-        & 6 & 4 
+    &   2   &   9 \\
+{}+ &   3   &   5 \\
+\hline
+    &   6   &   4
 \end{array}
 $
 
@@ -5304,7 +5305,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$94$
+$64$
 
 </div>
 </div>
@@ -5313,7 +5314,7 @@ $94$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-pr"
 title: "Topic - Percentageadvance - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -209,7 +209,7 @@ $
 \cancel {-} \dfrac {1 \cancel {0} b} {10 \cancel {0}}                &= \cancel {-} 4 \\\\
 \dfrac {b} {10}                                                      &= 4 \\\\
 b                                                                    &= 4 \times 10 \\\\
-b                                                                    &= 40       
+b                                                                    &= 40
 \end{aligned}
 $
 
@@ -1063,7 +1063,7 @@ $315 \text{ cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>ABB3027C-A3A6-4680-A41E-B49861EF0A45</p>
 </div>
@@ -1084,28 +1084,22 @@ If the three tests are combined into one $60$-problem test, what percentage is m
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Total Score is given by}   &= 10\% \text{ of} \ 10-problem-test + 70\% \text{ of} \ 20-problem-test + 80\% \text{ of} 30-problem-test \\\\
+\text {Overall score}            &= 10\% \ \text{of} \ \text {10-problem-test} + 70\% \ \text{of} \ \text {20-problem-test} + 80\% \ \text{of}\ \text {30-problem-test} \\\\
                                  &= \dfrac {10} {100} \times 10 + \dfrac {70} {100} \times 20 + \dfrac {80} {100} \times 30 \\\\
-                                 &= \dfrac {100} {100} + \dfrac {14 \times 100} {100} + \dfrac {24 \ times 100} {100} \\\\
-                                 &= \dfrac {\cancel {100} } {\cancel {100} } + \dfrac {14 \times \cancel{100} } {\cancel{100} } + \dfrac {24 \ times \cancel{100} } {\cancel{100} } \\\\
+                                 &= \dfrac {100} {100} + \dfrac {14 \times 100} {100} + \dfrac {24 \ \times 100} {100} \\\\
+                                 &= \dfrac {\cancel {100} } {\cancel {100} } + \dfrac {14 \times \cancel{100} } {\cancel{100} } + \dfrac {24 \ \times \cancel{100} } {\cancel{100} } \\\\
                                  &= 1 + 14 +24 \\\\
-                                 &= 39
-\end{aligned}
-$
-
-Percentage of overall score is 
-
-As per the question
-
-$
-\begin{aligned}
-\text{Percentage}   &= \dfrac {39} {60} \times 100 \ \% \\\\
-                    &= \dfrac {3900} {60} \\\\
-                    &= \dfrac {60 \times 65} {60} \\\\
-                    &= \dfrac {\cancel{60} \times 65} {\cancel {60} } \\\\
-                    &= 65\%
+                                 &= 39 \\\\
+\text{Overall percentage}        &= \dfrac {39} {60} \ \text {of} \ 100 \\\\
+                                 &= \dfrac {39} {60} \times 100 \\\\
+                                 &= \dfrac {3 \times 13 \times 2 \times 5 \times 10} {2 \times 3 \times 10} \\\\
+                                 &= \dfrac {\cancel {3} \times 13 \times \cancel {2} \times 5 \times \cancel {10}} {\cancel {2} \times \cancel {3} \times \cancel {10}} \\\\
+                                 &= 13 \times 5 \\\\
+                                 &= 65 \%
 \end{aligned}
 $
 
@@ -1114,7 +1108,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$65\%$
+$65 \%$
 
 </div>
 </div>
@@ -1123,7 +1117,7 @@ $65\%$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

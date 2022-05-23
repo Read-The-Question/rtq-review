@@ -1,129 +1,9 @@
 ---
 slug: "topics/topic-tinfer-all"
 title: "Topic - Infer - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>52852CBD-3F19-4E8F-9646-311ABBA46E71</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Edith is choosing pairs of numbers from this list.
-
-$4 \quad 23 \quad 45 \quad 58 \quad 120$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-She multiplies two numbers together.
-
-Which two numbers should she choose to get an answer between $200$ and $300$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-This can be inferred by using trial and error.
-
-$
-\begin{aligned}
-&= 58 \times 4 \\\\
-&= 232
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4, 58$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-She divides one number by another number. 
-
-What is the largest possible answer?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To get the largest possible answer, we should divide the biggest number by the smallest number.
-
-$
-\begin{aligned}
-&= 120 \div 4 \\\\
-&= 30
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -32325,6 +32205,70 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>295FC725-C559-4A9A-B53F-530F83AAA2FC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number $n$. 
+
+$5n$ is more than $60$, but $n + 5$ is less than $20$. What are the possible values of $n$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+5n      &> 60 \\\\
+n       &> \dfrac{60}{5} \\\\
+n       &> \dfrac{12 \times 5}{5} \\\\
+n       &> \dfrac{12 \times \cancel{5}}{\cancel{5}} \\\\
+n       &> 12
+\end{aligned}
+$
+
+Also,
+
+$
+\begin{aligned}
+n + 5       &< 20 \\\\
+n           &< 20 - 5 \\\\
+n           &< 15
+\end{aligned}
+$
+
+The values of n can be $= 13, 14$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13, 14$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
 </div>
 </div>
 </li>

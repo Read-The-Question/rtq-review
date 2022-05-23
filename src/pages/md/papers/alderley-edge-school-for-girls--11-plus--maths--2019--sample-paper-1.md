@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Alderley Edge School for Girls</h1>
@@ -392,7 +392,7 @@ $47$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>6CDE9B85-33D8-4FE1-8A7C-C1030D86C401</p>
 </div>
@@ -417,31 +417,40 @@ $1, 1, 2, 3, 5,$ are...
 <div class='workings'>
 <div class='working'>
 
-Lets find the sum of first two numbers
+Let's find the difference between the consecutive terms of the sequence.
+
+In this sequence we are getting the next term by adding previous term to the current term:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+0.3)}} 
-&&  \footnotesize{\maroonC{(+0.3)}}  
-&&  \footnotesize{\maroonC{(+0.3)}}   
-&&  \footnotesize{\maroonC{(+0.3)}}  \\
-1, &&  1, &&  2, && 3, &&  \text{\textunderscore \textunderscore \textunderscore}
+&   \footnotesize{\maroonC{(0 + 1)}}
+&&  \footnotesize{\maroonC{(1 + 1)}}
+&&  \footnotesize{\maroonC{(1 + 2)}}
+&&  \footnotesize{\maroonC{(2 + 3)}}
+&&  \footnotesize{\maroonC{(3 + 5)}}
+&&  \footnotesize{\maroonC{(5 + 8)}}  \\
+1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Next number}       &= 6.4 + 0.3 \\\\
-                        &= 6.7
+\text{First missing number}       &= 3 + 5 \\\\
+                                  &= 8 \\\\
+\text {Second missing number}     &= 5 + 8 \\\\
+                                  &= 13
 \end{aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
 <div class='answer'>
 
-$8 & 13$
+$8, 13$
 
 </div>
 </div>
@@ -450,7 +459,7 @@ $8 & 13$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

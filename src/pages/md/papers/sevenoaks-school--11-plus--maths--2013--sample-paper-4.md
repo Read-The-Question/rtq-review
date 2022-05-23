@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2013-sample-paper-4"
 title: "Sevenoaks School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>
@@ -890,7 +890,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>4FD3FA7F-457F-4731-B4AE-15DCF80081B3</p>
 </div>
@@ -909,59 +909,36 @@ Tim, David and Alison are given some money by their grandfather. Tim gets twice 
 <div class='workings'>
 <div class='working'>
 
-Let the money recevied by Tim, David, Alison be a, b, c respectivley.b
+Let the money Tim received $= a$.
+
+According to the question,
+
+Money David recieved $= \dfrac {a} {2}$.
+
+Money Alison recieved $= \dfrac {a} {3}$.
+
 As per the question,
 
 $
-\begin{aligned}
-a         &= 2b \\\\
-a         &= 3c \\\\
-a + b + c &= \pounds 49.5
-\end{aligned}
+\begin {aligned}
+\text {Total money they recieved}                                                                       &= \pounds 49.50 \\\\
+a + \dfrac {a} {2} + \dfrac {a} {3}                                                                     &= 49.50 \\\\
+\dfrac {6 \times a} {1 \times 6} + \dfrac {a \times 3} {2 \times 3} + \dfrac {a \times 2} {3 \times 2}  &= 49.50 \\\\
+\dfrac {6a} {6} + \dfrac {3a} {6} + \dfrac {2a} {6}                                                     &= 49.50 \\\\
+\dfrac {6a + 3a + 2a} {6}                                                                               &= 49.50 \\\\
+11a                                                                                                     &= 49.50 \times 6 \\\\
+a                                                                                                       &= \dfrac {297} {11} \\\\
+a                                                                                                       &= \dfrac {27 \times 11} {11} \\\\
+a                                                                                                       &= \dfrac {27 \times \cancel {11}} {\cancel {11}} \\\\
+a                                                                                                       &= \pounds 27
+\end {aligned}
 $
 
-Lets first find value of a,
+Money Tim received $= \pounds 27$.
 
-$
-\begin{aligned}
-& b                                      &= \dfrac {a} {2} \\\\
-& c                                      &= \dfrac {a} {3} \\\\
-& a + b + c                              &= 49.5 \\\\
-& a + \dfrac {a} {2} + \dfrac {a} {3}    &= 49.5 \\\\
-& \dfrac {6a + 3a + 2a} {6}              &= 49.5 \\\\
-&  6a + 3a + 2a                          &= 49.5 \times 6 \\\\
-&  6a + 3a + 2a                          &= 297 \\\\
-&  11a                                   &= 297 \\\\
-& a                                      &= \dfrac {297} {11} \\\\
-& a                                      &= \dfrac {27 \times \cancel {11} } {\cancel {11} } \\\\
-& a                                      &= \pounds 27
-\end{aligned}
-$
+Money David recieved $= \dfrac {27} {2} = \pounds 13.5$.
 
-Now lets find b,
-
-$
-\begin{aligned}
-a &= 2b \\\\
-b &= \dfrac {a} {2} \\\\
-b &= \dfrac {27} {2} \\\\
-b &= \pounds 13.5
-\end{aligned}
-$
-
-Finally the value of c is given by,
-
-$
-\begin{aligned}
-a + b + c &= 49.5 \\\\
-c         &= 49.5 - b - a \\\\
-c         &= 49.5 - (a + b) \\\\
-c         &= 49.5 - (27 + 13.5) \\\\
-c         &= 49.5 - 40.5  \\\\
-c         &=\pounds 9
-\end{aligned}
-$
-
+Money Alison recieved $= \dfrac {27} {3} = \pounds 9$.
 
 </div>
 </div>
@@ -977,7 +954,7 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

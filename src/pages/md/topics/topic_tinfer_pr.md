@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-pr"
 title: "Topic - Infer - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2840,6 +2840,70 @@ $1$
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>295FC725-C559-4A9A-B53F-530F83AAA2FC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number $n$. 
+
+$5n$ is more than $60$, but $n + 5$ is less than $20$. What are the possible values of $n$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+5n      &> 60 \\\\
+n       &> \dfrac{60}{5} \\\\
+n       &> \dfrac{12 \times 5}{5} \\\\
+n       &> \dfrac{12 \times \cancel{5}}{\cancel{5}} \\\\
+n       &> 12
+\end{aligned}
+$
+
+Also,
+
+$
+\begin{aligned}
+n + 5       &< 20 \\\\
+n           &< 20 - 5 \\\\
+n           &< 15
+\end{aligned}
+$
+
+The values of n can be $= 13, 14$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13, 14$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
 </div>
 </div>
 </li>

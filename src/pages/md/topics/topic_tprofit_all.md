@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-all"
 title: "Topic - Profit - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -75,7 +75,7 @@ Deal A
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>450FEC63-5580-47DE-83CB-40719744776C</p>
 </div>
@@ -169,7 +169,7 @@ $\text{Shop C} = \pounds 820$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

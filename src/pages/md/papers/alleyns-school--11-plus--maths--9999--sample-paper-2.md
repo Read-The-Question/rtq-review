@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-2"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Alleyn's School</h1>
@@ -350,7 +350,7 @@ $28 \degree, 48 \degree, 68 \degree, 88 \degree, 180 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>DB80832F-B004-4CB4-8D70-0678C3B655AC</p>
 </div>
@@ -375,35 +375,33 @@ What is the perimeter of a square whose area is $36 \ \text{cm}^2$?
 <div class='workings'>
 <div class='working'>
 
-Let the side of sqaure $= a$ \\\\
+Let the side of sqaure $= a$.
+
+Let's first find out the length of a side of the square.
 
 As per the question,
 
 $
-\begin{aligned}
-a^2 &= 36 \\\\
-a   &= \sqrt{36} \\\\
-a   &= \sqrt{6^2} \\\\
-a   &= 6 \text{ cm}
-\end{aligned}
-$
-
-The perimeter of square $= 4a$.
-
-$
-\begin{aligned}
-&= 4a \\\\
-&= 4 \times 6 \\\\
-&= 24 \text{ cm}
-\end{aligned}
+\begin {aligned}
+\text {Area of square}          &= 36 \ \text {cm} ^ 2 \\\\
+a ^ 2                           &= 36 \\\\
+a                               &= \sqrt{36} \\\\
+a                               &= 6 \ \text {cm} \\\\
+\text {Perimeter of square}     &= 4 \times a \\\\
+                                &= 4 \times 6 \\\\
+                                &= 24 \ \text {cm}
+\end {aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>a</p>
+</div>
 <div class='answer'>
 
-$24 \text{ cm}$
+$24 \ \text{cm}$
 
 </div>
 </div>
@@ -412,7 +410,7 @@ $24 \text{ cm}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

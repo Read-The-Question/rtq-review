@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tratio-all"
 title: "Topic - Ratio - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>7125F2EC-250C-48A5-96EC-68872015C687</p>
 </div>
@@ -88,7 +88,7 @@ $25$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -6664,7 +6664,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>BDE42C42-21C6-48DE-81AE-A84F76777818</p>
 </div>
@@ -6686,14 +6686,12 @@ If a dozen eggs cost $\pounds 2.80$, how much do $18$ eggs cost?
 <div class='workings'>
 <div class='working'>
 
-As per the question
+As per the question,
 
 $
 \begin{aligned}
-\text{Cost of 18 eggs}   &= \dfrac {18 \times 2.8} {12} \\\\
-                         &= \dfrac {12 \times 3 \times 1.4} {12} \\\\
-                         &= \dfrac {\cancel {12} \times 3 \times 1.4} {\cancel {12} } \\\\
-                         &= 3 \times 1.4 \\\\
+\text {Cost of 18 eggs}  &= \dfrac {18 \times \pounds 2.8} {12} \\\\
+                         &= \dfrac {50.4} {12} \\\\
                          &= \pounds 4.2
 \end{aligned}
 $
@@ -6712,7 +6710,7 @@ $\pounds 4.2$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

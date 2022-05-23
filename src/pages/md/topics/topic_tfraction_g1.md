@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-g1"
 title: "Topic - Fraction - G1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10302,6 +10302,58 @@ $\dfrac {3} {4}$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>E16D6325-36FF-464C-8198-472884A6720D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $(2.3 + 3.7) \div 9$. Leave your answer as a simplified fraction.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (2.3 + 3.7) \div 9 \\\\
+&= \dfrac{(2.3 + 3.7)}{9} \\\\
+&= \dfrac{6}{9} \\\\
+&= \dfrac{2 \times 3}{3 \times 3} \\\\
+&= \dfrac{2 \times \cancel{3}}{3 \times \cancel{3}} \\\\
+&= \dfrac{2}{3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{2}{3}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>

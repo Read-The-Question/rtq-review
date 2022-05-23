@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-all"
 title: "Topic - Speed - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2217,7 +2217,7 @@ $2 \ \text {hours}, 5 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
 </div>
@@ -2239,24 +2239,14 @@ A sleeper train leaves London at $10{:}17 \ \text{pm}$ and reaches Edinburgh at 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2275,24 +2265,14 @@ Calculate out how long the journey takes in hours and minutes.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$4 \ \text{hours} 33 \ \text{minutes}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$4 \ \text{hours} 33 \ \text{minutes}$
 
 </div>
 </div>
@@ -2315,24 +2295,22 @@ Calculate the approximate speed of the aeroplane in kilometres per hour.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Speed} &= \dfrac {\text{Distance} } { \text{Time} } \\\\
+             &= \dfrac {5600} {7} \\\\
+             &= \dfrac {800 \times 7} {7} \\\\
+             &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
+             &= 800 \ \text{kilometres per hour}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$800 \ \text{kilometres per hour}$
 
 </div>
 </div>
@@ -2344,7 +2322,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

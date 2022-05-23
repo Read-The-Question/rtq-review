@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-4"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 4"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -850,9 +850,9 @@ $
 18 + 2(a ^ 2)                   &= 50 \\\\
 2(a ^ 2)                        &= 50 - 18 \\\\
 2(a ^ 2)                        &= 32 \\\\
-a ^ 2                           &= dfrac {32} {2} \\\\
-a ^ 2                           &= dfrac {16 \times 2} {2} \\\\
-a ^ 2                           &= dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2                           &= \dfrac {32} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
 a ^ 2                           &= 16 \\\\
 a                               &= \sqrt 16 \\\\
 a                               &= + 4 \ \text{and} \ -4

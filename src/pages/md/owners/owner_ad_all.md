@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-all"
 title: "Owner - Arun Dalakoti - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3056,6 +3056,7 @@ a       &= 9
 \end{aligned}
 $
 
+$
 \begin{aligned}
 \text{Number of white shirts sold} &= 7 \times a \\\\
                                    &= 7 \times 9 \\\\
@@ -5210,6 +5211,8 @@ $
                                            &= 20
 \end{aligned}
 $
+
+As per the question,
 
 $
 \begin{aligned}
@@ -11233,12 +11236,11 @@ $
                         &= \dfrac {20} {3} \\\\
                         &= 6.666 \ \text{cm}
 \end{aligned}
+$
 
 Number of pieces $= 6$
 
 Remaining length $= 0.66 \ \text{cm}$
-
-$
 
 </div>
 </div>
@@ -19913,7 +19915,7 @@ $
 \cancel {-} \dfrac {1 \cancel {0} b} {10 \cancel {0}}                &= \cancel {-} 4 \\\\
 \dfrac {b} {10}                                                      &= 4 \\\\
 b                                                                    &= 4 \times 10 \\\\
-b                                                                    &= 40       
+b                                                                    &= 40
 \end{aligned}
 $
 
@@ -23002,7 +23004,7 @@ $
 &= \dfrac {22 \times 46 \times 2} {2} \\\\
 &= \dfrac {1012 \times \cancel {2}} {\cancel {2}} \\\\
 &= 1012
-\begin{aligned}
+\end{aligned}
 $
 
 </div>
@@ -23180,7 +23182,7 @@ $
 \begin{aligned}
 &= 3 + 7 \\\\
 &= 10
-\en{aligned}
+\end{aligned}
 $
 
 </div>
@@ -23214,7 +23216,7 @@ $
 &= (- 13) + (- 0.5) \\\\
 &= - 13 - 0.5 \\\\
 &= - 13.5
-\en{aligned}
+\end{aligned}
 $
 
 </div>
@@ -23248,7 +23250,7 @@ $
 &= 7 - (- 13) \\\\
 &= 7 + 13 \\\\
 &= 20
-\en{aligned}
+\end{aligned}
 $
 
 </div>
@@ -24328,9 +24330,9 @@ $
 18 + 2(a ^ 2)                   &= 50 \\\\
 2(a ^ 2)                        &= 50 - 18 \\\\
 2(a ^ 2)                        &= 32 \\\\
-a ^ 2                           &= dfrac {32} {2} \\\\
-a ^ 2                           &= dfrac {16 \times 2} {2} \\\\
-a ^ 2                           &= dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2                           &= \dfrac {32} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
 a ^ 2                           &= 16 \\\\
 a                               &= \sqrt 16 \\\\
 a                               &= + 4 \ \text{and} \ -4
@@ -37133,12 +37135,12 @@ If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ jo
 
 $
 \begin{aligned}
-\text{Quaters in 2 \dfrac {1} {2} miles} &= 2 \dfrac {1} {2} \times 4 \\\\
-                                         &= \dfrac {5} {2} \times 4 \\\\
-                                         &= \dfrac {5 \times 4} {2} \\\\
-                                         &= \dfrac {5 \times 2 \times 2} {2} \\\\
-                                         &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
-                                         &= 10
+\text{Quaters in} \ 2 \dfrac {1} {2} \ \text {miles} &= 2 \dfrac {1} {2} \times 4 \\\\
+                                                     &= \dfrac {5} {2} \times 4 \\\\
+                                                     &= \dfrac {5 \times 4} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times 2} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                                                     &= 10
 \end{aligned}
 $
 
@@ -37188,11 +37190,11 @@ If the starting charge at a third company is $\pounds 2.20$ and the Total Fare f
 
 $
 \begin{aligned}
-\text{Quaters in 6 \dfrac {1} {4} miles} &= 6 \dfrac {1} {4} \times 4 \\\\
-                                         &= \dfrac {25} {4} \times 4 \\\\
-                                         &= \dfrac {25 \times 4} {4} \\\\
-                                         &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
-                                         &= 25
+\text{Quaters in} \ 6 \dfrac {1} {4} \ \text{miles} &= 6 \dfrac {1} {4} \times 4 \\\\
+                                                    &= \dfrac {25} {4} \times 4 \\\\
+                                                    &= \dfrac {25 \times 4} {4} \\\\
+                                                    &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
+                                                    &= 25
 \end{aligned}
 $
 

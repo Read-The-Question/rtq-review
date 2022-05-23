@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpower-notstarted"
 title: "Topic - Power - Not Started"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -180,58 +180,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>88582ABF-B271-4BB1-9E51-A3EA11DB76AD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpower
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle which of the following numbers are square numbers:
-
-$9 \qquad 55 \qquad 81 \qquad 13 \qquad 21$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

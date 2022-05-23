@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-pr"
 title: "Topic - Money - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -454,6 +454,109 @@ $8$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>1622DD6F-538D-47B0-8E04-EE946A7719E6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $2$ apples and $1$ banana cost $\pounds 1.20$ 
+
+and
+
+$1$ apple and $2$ bananas cost $\pounds 1.35$, find the cost of an apple and a banana separately.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of an apple (in $\text{pence}$) $= a$
+
+Let the cost of a banana (in $\text{pence}$) $= b$
+
+It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\text{pence}$.
+
+As per the question,
+
+$
+\begin{aligned} 
+2a + b &=  120 \\\\
+a + 2b &= 135
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+Multiply the second equation by $2$.
+
+$
+\begin{aligned} 
+2 \times a + 2 \times 2b     &= 2 \times 135 \\\\
+2a + 4b                     &= 270
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned} 
+2a + 4b - (2a + b)     &= 270 - 120 \\\\
+2a + 4b -2a  -b     &= 150 \\\\
+3b                    &= 150 \\\\
+b                   &= \dfrac {150} {3} \\\\
+b                   &= 50 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a banana $= 50 \ \text{pence}$.
+
+Let's substitute the value of $b$ in one of the initial equations to find the cost of an apple.
+
+$
+\begin{aligned} 
+2a + b     &=  120 \\\\
+2a + 50 &=  120 \\\\
+2a      &=  120 - 50 \\\\
+2a      &=  70 \\\\
+a       &= \dfrac {70} {2} \\\\
+a       &= 35 \ \text{pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Apple $= 35 \ \text{pence}$
+
+</div>
+<div class='answer'>
+
+Banana $= 50 \ \text{pence}$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -2109,7 +2212,7 @@ $\text {Bruno}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>559166DC-6DDF-4875-BF83-BA488BB42DFA</p>
 </div>
@@ -2132,23 +2235,16 @@ How much $\bold{\underline{change}}$ do I get from a $\pounds 20$ note?
 
 It is really important to use the right units in calculations and convert where required.
 
-Let's convert the total amount into pence.
+Let's convert the total amount into pounds.
 
 $
-\begin{aligned}
-\text{Total cost}   &= 72\text{p} + 1.21 \times 100 \text{p} \\\\
-                    &= 72 + 121 \\\\
-                    &= 193 \text{p}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Change}  &= 20 \times 100 \text{p} - 193\text{p} \\\\
-               &= 2000 \text{p} - 193 \text}{p} \\\\
-               &= \dfrac {1807} {100} \\\\
-               &= \pounds 18.07
-\end{aligned}
+\begin {aligned}
+\text {Change received}     &= \pounds 20 - (72 \text{p} + \pounds 1.21) \\\\
+                            &= \pounds 20 - (\pounds \dfrac {72} {100} + \pounds 1.21) \\\\
+                            &= 20 - (0.72 + 1.21) \\\\
+                            &= 20 - 1.93 \\\\
+                            &= \pounds 18.07
+\end {aligned}
 $
 
 </div>
@@ -2165,7 +2261,7 @@ $\pounds 18.07$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -6706,7 +6802,7 @@ $
 &= 10\% \times 250 \\\\
 &= \dfrac {10} {100} \times 250 \\\\
 &= \dfrac {10 \times 250} {100} \\\\
-&= \dfrac {1 \cancel{0} \times 25 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= \dfrac {1 \cancel{0} \times 25 \cancel{0}} {1 \cancel{00}} \\\\
 &= \pounds 25
 \end{aligned}
 $
@@ -6810,23 +6906,22 @@ $\pounds 6.25$
 </div>
 <div class='question subquestion'>
 
-Use your answers to find $17\,1\diagup2\%$ of $\pounds 250$?
+Use your answers to find $17 \dfrac {1} {2}\%$ of $\pounds 250$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+Using previous answers
+
 $
 \begin{aligned}
 &= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds \ 250 \\\\
 &= 17 \dfrac {1} {2}\% \times 250 \\\\
-&= \dfrac {35} {2}\% \times 250 \\\\
-&= \dfrac {(10 + 10 + 10 + 5)} {2}\% \times 250 \\\\
-&= \dfrac {(10 + 10 + 10 + 5)} {2} \times 250 \\\\
-
-
-
-&= \pounds \ 43.75
+&= (10 + 5 + 2) \dfrac {1} {2}\% \times 250 \\\\
+&= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250
+&= 25 + 12.5 + 6.25 \\\\
+&= \pounds 43.75
 \end{aligned}
 $
 
@@ -6835,7 +6930,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds \ 43.75$
+$\pounds 43.75$
 
 </div>
 </div>
@@ -7553,7 +7648,7 @@ $\pounds 18.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>F83507F2-235E-4ABA-AC49-C50C6D08899E</p>
 </div>
@@ -7575,24 +7670,14 @@ In a sale, normal prices were reduced by $35 \%$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -7614,13 +7699,12 @@ The normal price of a TV was $\pounds 600$. Work out the sale price of the TV.
 As per the question,
 
 $
-\begin{aligned}
-\text{Sale price of Tv}   &= Normal Price - Discount \\\\
-                          &= \pounds 600  - 35\% \text{ of} 600 \\\\
+\begin {aligned}
+\text {Sale price of Tv}  &= \text {Normal Price} - \text {Discount} \\\\
+                          &= \pounds 600  - 35\% \ \text{of} \ 600 \\\\
                           &= 600 - \dfrac {35} {100} \times 600 \\\\
                           &= 600 - \dfrac {35 \times 600} {100} \\\\
-                          &= 600 - \dfrac {35 \times 6 \times 100} {100} \\\\
-                          &= 600 - \dfrac {35 \times 6 \times \cancel {100}} {\cancel {100} } \\\\
+                          &= 600 - \dfrac {35 \times 6\cancel{00}} {1\cancel {00}} \\\\
                           &= 600 - 35 \times 6 \\\\
                           &= 600 - 210 \\\\
                           &= \pounds 390
@@ -7653,26 +7737,21 @@ The normal price of a clock was reduced by $\pounds 140$. Work out the normal pr
 <div class='workings'>
 <div class='working'>
 
-$
-
-Let the normal price $= a$.
+Let normal price $= a$.
 
 As per the question,
 
+$
 \begin{aligned}
-a - 35\% \text{ of} a                                                      &= 140 \\\\
-a - \dfrac {35} {100} \times a                                             &= 140 \\\\
-a - \dfrac {35 \times a} {100}                                             &= 140 \\\\
-a - \dfrac {35 \times a} {100}                                             &= 140 \times 100 \\\\
-a - \dfrac {7 \times 5 \times a} {5 \times 20}                             &= 14000 \\\\
-a - \dfrac {7 \times \cancel {5} \times a} { \cancel {5} \times 20}        &= 14000 \\\\
-a - \dfrac {7a} {20}                                                       &= 14000 \\\\                                                          
-\dfrac {20a - 7a} {20}                                                     &= 14000 \\\\\
-20a - 7a                                                                   &= 14000 \times 20 \\\\\
-13a                                                                        &= 280000 \\\\\
-a                                                                          &= \dfrac {280000} {13} \\\\
-a                                                                          &= \pounds 2153.84
-\end{aligned}
+35\% \ \text{of} \ a         &= \pounds 140 \\\\
+\dfrac {35} {100} \times a   &= 140 \\\\
+a                            &= 140 \times \dfrac {100} {35} \\\\
+a                            &= \dfrac {140 \times 100} {35} \\\\
+a                            &= \dfrac {7 \times 2 \times 2 \times 5 \times 100} {7 \times 5} \\\\
+a                            &= \dfrac {\cancel {7} \times 2 \times 2 \times \cancel {5} \times 100} {\cancel {7} \times \cancel {5}} \\\\
+a                            &= 2 \times 2 \times 100 \\\\
+a                            &= \pounds 400
+\end {aligned}
 $
 
 </div>
@@ -7680,7 +7759,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2153.84$
+$\pounds 400$
 
 </div>
 </div>
@@ -7701,26 +7780,22 @@ The sale price of a computer was $\pounds 884$. Work out the normal price of the
 <div class='workings'>
 <div class='working'>
 
-Let the normal price of $= a$,
+Let the normal price of $= a$.
 
 As per the question,
 
 $ 
-\begin{aligned}
-a - 35\% \text{ of}a                                        &= 884 \\\\
-a - \dfrac {35} {100} \times a                              &= 884 \\\\
-a - \dfrac {7 \times 5} {20 \times 5}                       &= 884 \\\\
-a - \dfrac {7 \times \cancel {5} } {20 \times \cancel {5} } &= 884 \\\\
-a - \dfrac {7a} {20}                                        &= 884 \\\\
-\dfrac {20a - 7a} {20}                                      &= 884 \\\\
-\dfrac {13a} {20}                                           &= 884 \\\\
-13a                                                         &= 884 \times 20 \\\\
-13a                                                         &= 17680 \\\\
-a                                                           &= \dfrac {17680} {13} \\\\\ 
-a                                                           &= \dfrac {1360 \times 13} {13} \\\\\ 
-a                                                           &= \dfrac {1360 \times \cancel {13} } {\cancel{13} } \\\\\ 
-a                                                           &= \pounds 1360 
-\end{aligned}
+\begin {aligned}
+\text {Normal price }   &= \text {Sale price} + \text {Discount} \\\\
+                        &= \pounds 884 + 35\% \ \text{of} \ 884 \\\\
+                        &= 884 + \dfrac {35} {100} \times 884 \\\\
+                        &= 884 + \dfrac {35 \times 884} {100} \\\\
+                        &= 884 + \dfrac {7 \times 5 \times 2 \times 442} {2 \times 10 \times 5} \\\\
+                        &= 884 + \dfrac {7 \times \cancel {5} \times \cancel {2} \times 442} {\cancel {2} \times 10 \times \cancel {5}} \\\\
+                        &= 884 + \dfrac {3094} {10} \\\\
+                        &= 884 + 309.4 \\\\
+                        &= \pounds 1193.4
+\end {aligned}
 $
 
 </div>
@@ -7728,7 +7803,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1360$
+$\pounds 1193.4$
 
 </div>
 </div>
@@ -7740,7 +7815,7 @@ $\pounds 1360$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -10316,13 +10391,14 @@ Three apples and a banana cost $32 \text{p}$. Six apples and a banana cost $53 \
 <div class='workings'>
 <div class='working'>
 
-Let the cost of a banana $= a$
+Let take apple $= a$
+
+and let's take banana $= b$
 
 As per the question,
 
 $3 \times \text{apple cost} + 1 \times \text{banana cost}        = 53 \text{p}$
 
-Cost of apple $= \dfrac{32 - a}{3}$
 
 Also,
 
@@ -10456,9 +10532,9 @@ $13 \text{p} \quad 23 \text{p} \quad 33 \text{p} \quad 43 \text{p} \quad 53 \tex
 
 $
 \begin{aligned}
-13 \text{p}     &= 1 \times 10 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p} \\\\
-23 \text{p}     &= 1 \times 20 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p} \\\\
-53 \text{p}     &= 1 \times 50 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p}
+13 \text{p}     &= 10 \text{p} + 2 \text{p} + 1 \text{p} \\\\
+23 \text{p}     &= 20 \text{p} + 2 \text{p} + 1 \text{p} \\\\
+53 \text{p}     &= 50 \text{p} + 2 \text{p} + 1 \text{p}
 \end{aligned}
 $
 
@@ -10704,7 +10780,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of sugar}        &= \text{Total cost} - \text{COst of coffee} - \text{Cost of milk} \\\
+\text{Cost of sugar}        &= \text{Total cost} - \text{Cost of coffee} - \text{Cost of milk} \\\\
                             &= \pounds 5.15 - \pounds 3.69 - 89 \text{p} \\\\
                             &= \pounds 5.15 - \pounds 3.69 - \pounds 0.89 \\\\
                             &= 5.15 - 4.58 \\\\
@@ -10754,7 +10830,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Number of bags}       &= \dfrac{\text{Total money}}{\text{Money per crisp}} \\\\
+\text{Money per crisp}      &= \text{Money per bag of crisps} \\\\
+\text{Number of crisp bag}  &= \dfrac{\text{Total money}}{\text{Money per crisp}} \\\\
                             &= \dfrac{\pounds 2}{16 \text{p}} \\\\
                             &= \dfrac{200}{16} \\\\
                             &= \dfrac{25 \times 8}{2 \times 8} \\\\
@@ -11851,7 +11928,7 @@ $\pounds 46200$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>BDE42C42-21C6-48DE-81AE-A84F76777818</p>
 </div>
@@ -11873,14 +11950,12 @@ If a dozen eggs cost $\pounds 2.80$, how much do $18$ eggs cost?
 <div class='workings'>
 <div class='working'>
 
-As per the question
+As per the question,
 
 $
 \begin{aligned}
-\text{Cost of 18 eggs}   &= \dfrac {18 \times 2.8} {12} \\\\
-                         &= \dfrac {12 \times 3 \times 1.4} {12} \\\\
-                         &= \dfrac {\cancel {12} \times 3 \times 1.4} {\cancel {12} } \\\\
-                         &= 3 \times 1.4 \\\\
+\text {Cost of 18 eggs}  &= \dfrac {18 \times \pounds 2.8} {12} \\\\
+                         &= \dfrac {50.4} {12} \\\\
                          &= \pounds 4.2
 \end{aligned}
 $
@@ -11899,12 +11974,12 @@ $\pounds 4.2$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>65468EB0-FBC5-44BD-A335-B722EBC5A7DC</p>
 </div>
@@ -11930,27 +12005,18 @@ If Fiona pays with a $\pounds 5$ note, how much change does she get?
 
 It is really important to use the right units in calculations and convert where required.
 
-Let's convert all the expenses into pence.
+Let's convert all the expenses into pounds.
 
 $
-\begin{aligned}
-\text{Money spent}   &= \pounds 5 \\\\
-                     &= 5 \times 100 \text{p} \\\\
-                     &= 500 \text{p}
-\end{aligned}
-$
-
-Change she get,
-
-$
-\begin{aligned}
-&= 500 - (3 \times 85 + 5\times 30) \\\\
-&= 500 - (255 + 150) \\\\
-&= 500 - 405 \\\\
-&=  95  \text{p} \\\\
-&= \dfrac {95} {100} \\\\
-&= \pounds 0.95
-\end{aligned}
+\begin {aligned}
+\text {Change she get}  &= \text {Amount she paid} - \text {Amount she spent} \\\\
+                        &= \pounds 5 - (3 \times 85 \text {p} + 5 \times 30 \text {p}) \\\\
+                        &= 5 - (255 + 150) \\\\
+                        &= 5 - (\pounds \dfrac {255} {100} + \pounds \dfrac {150} {100}) \\\\
+                        &= 5 - (2.55 + 1.50) \\\\
+                        &= 5- 4.05 \\\\
+                        &= \pounds 0.95
+\end {aligned}
 $
 
 </div>
@@ -11967,12 +12033,12 @@ $\pounds 0.95$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>B997FB3B-115F-4CC3-BC0E-C9D91855E806</p>
 </div>
@@ -11995,28 +12061,32 @@ Senior citizens are given a $20\%$ discount. If a child's ticket costs $\pounds 
 <div class='workings'>
 <div class='working'>
 
-Let the cost of adult ticket $= a$
+Let the cost of an adult ticket $= a$.
 
-As per the question
-
-$
-\begin{aligned}
-25\% \text{ of} a                               &= 30 \\\\
-\dfrac {25a} {100}                              &= 30 \\\\
-\dfrac {25a} {25 \times 4}                      &= 30 \\\\
-\dfrac {\cancel {25} a} {\cancel {25} \times 4} &= 30 \\\\
-\dfrac {a} {4}                                  &= 30  \\\\
-a                                               &= \pounds 120
-\end{aligned}
-$
+As per the question,
 
 $
 \begin{aligned}
-\text{senior pay}  &= 20\% \text{ of} 120 \\\\
-                   &= \dfrac {20} {100} \times 120 \\\\
-                   &= \dfrac {2 \cancel {0} } {1\cancel {0} \cancel {0} } \times 12\cancel {0} \\\\
-                   &= \pounds 24
-                   
+\text {Cost of a children ticket}           &= \text {Cost of an adult ticket} - 25 \% \ \text {of} \ \text {Cost of an adult ticket} \\\\
+\pounds 30                                  &= a - \dfrac {25} {100} \ \text {of} \ a \\\\
+30                                          &= a - \dfrac {25} {100} \times a \\\\
+30                                          &= a - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100 \times a} {100 \times 1} - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100a} {100} - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100a - 25a} {100} \\\\
+30                                          &= \dfrac {75a} {100} \\\\
+\dfrac {30 \times 100} {75}                 &= a \\\\
+a                                           &= \dfrac {15 \times 2 \times 5 \times 20} {15 \times 5} \\\\
+a                                           &= \dfrac {\cancel {15} \times 2 \times \cancel {5} \times 20} {\cancel {15} \times \cancel {5}} \\\\
+a                                           &= 2 \times 20 \\\\
+a                                           &= \pounds 40 \\\\
+\text {Cost of a senior citizen's ticket}   &= \text {Cost of an adult ticket} - 20 \% \ \text {of} \ \text {Cost of an adult ticket} \\\\
+                                            &= \pounds 40 - \dfrac {20} {100} \times \pounds 40 \\\\
+                                            &= 40 - \dfrac {20 \times 40} {100} \\\\
+                                            &= 40 - \dfrac {20 \times 5 \times 8} {20 \times 5} \\\\
+                                            &= 40 - \dfrac {\cancel {20} \times \cancel {5} \times 8} {\cancel {20} \times \cancel {5}} \\\\
+                                            &= 40 - 8 \\\\
+                                            &= \pounds 32
 \end{aligned}
 $
 
@@ -12025,7 +12095,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 24$
+$\pounds 32$
 
 </div>
 </div>
@@ -12034,7 +12104,7 @@ $\pounds 24$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -15439,12 +15509,12 @@ If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ jo
 
 $
 \begin{aligned}
-\text{Quaters in 2 \dfrac {1} {2} miles} &= 2 \dfrac {1} {2} \times 4 \\\\
-                                         &= \dfrac {5} {2} \times 4 \\\\
-                                         &= \dfrac {5 \times 4} {2} \\\\
-                                         &= \dfrac {5 \times 2 \times 2} {2} \\\\
-                                         &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
-                                         &= 10
+\text{Quaters in} \ 2 \dfrac {1} {2} \ \text {miles} &= 2 \dfrac {1} {2} \times 4 \\\\
+                                                     &= \dfrac {5} {2} \times 4 \\\\
+                                                     &= \dfrac {5 \times 4} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times 2} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                                                     &= 10
 \end{aligned}
 $
 
@@ -15494,11 +15564,11 @@ If the starting charge at a third company is $\pounds 2.20$ and the Total Fare f
 
 $
 \begin{aligned}
-\text{Quaters in 6 \dfrac {1} {4} miles} &= 6 \dfrac {1} {4} \times 4 \\\\
-                                         &= \dfrac {25} {4} \times 4 \\\\
-                                         &= \dfrac {25 \times 4} {4} \\\\
-                                         &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
-                                         &= 25
+\text{Quaters in} \ 6 \dfrac {1} {4} \ \text{miles} &= 6 \dfrac {1} {4} \times 4 \\\\
+                                                    &= \dfrac {25} {4} \times 4 \\\\
+                                                    &= \dfrac {25 \times 4} {4} \\\\
+                                                    &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
+                                                    &= 25
 \end{aligned}
 $
 

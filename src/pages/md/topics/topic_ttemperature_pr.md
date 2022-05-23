@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-pr"
 title: "Topic - Temperature - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -494,12 +494,14 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Degrees of temperature Rome is warmer than Moscow}            &= \text{Temperature (Rome)} - \text{Temperature (Moscow)} \\\\
+\text{Temperature difference}                                       &= \text{Temperature (Rome)} - \text{Temperature (Moscow)} \\\\
                                                                     &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
                                                                     &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
                                                                     &= 19 \degree \text{C}
 \end{aligned}
 $
+
+Rome is warmer than Moscow by $= 19 \degree \text{C}$
 
 </div>
 </div>
@@ -1307,7 +1309,7 @@ $10 {:} 30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>3EA2D0FB-002E-4716-8D5D-0013DC93B64D</p>
 </div>
@@ -1332,8 +1334,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Current temparature}  &= 7.20 - 3.15 \\\\
-                            &= 4.05 \degree \text{ C}
+\text{Current temparature}  &= 7.20 \ degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
+                            &= 4.05 \degree \ \text{C}
 \end{aligned}
 $
 
@@ -1342,7 +1344,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$ 4.05 \degree \text{ C}$
+$4.05 \degree \ \text{C}$
 
 </div>
 </div>
@@ -1351,7 +1353,7 @@ $ 4.05 \degree \text{ C}$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

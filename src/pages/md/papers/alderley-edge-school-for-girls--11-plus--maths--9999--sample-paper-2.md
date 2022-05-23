@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Alderley Edge School for Girls</h1>
@@ -1448,7 +1448,7 @@ $3.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>03CC1319-A88C-42CD-88A6-FC0FF7A59D9F</p>
 </div>
@@ -1467,17 +1467,15 @@ What fraction is $\dfrac{2}{3}$ of $\dfrac{3}{4}$?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
-\begin{aligned}
+\begin {aligned}
+&= \dfrac {2} {3} \ \text {of} \ \dfrac {3} {4} \\\\
 &= \dfrac {2} {3} \times \dfrac {3} {4} \\\\
-&= \dfrac {2} {\cancel {3} } \times \dfrac {\cancel {3} } {4} \\\\
-&= \dfrac {2} {4} \\\\
-&= \dfrac {2} {2 \times 2} \\\\
-&= \dfrac {\cancel {2} } {2 \times \cancel {2} } \\\\
+&= \dfrac {2 \times 3} {3 \times 4} \\\\
+&= \dfrac {2 \times 3} {3 \times 2 \times 2} \\\\
+&= \dfrac {\cancel {2} \times \cancel {3}} {\cancel {3} \times \cancel {2} \times 2} \\\\
 &= \dfrac {1} {2}
-\end{aligned}
+\end {aligned}
 $
 
 </div>
@@ -1494,7 +1492,7 @@ $\dfrac {1} {2}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -2761,7 +2759,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>AC61BB61-0D32-432C-A626-69C941176034</p>
 </div>
@@ -2788,26 +2786,30 @@ Give your answer in millimetres.
 <div class='workings'>
 <div class='working'>
 
-Lets convert all units of volume into milliliters
+Lets convert all units of volume into milliliters,
+
+| Container |   Conversion                           | in millilitres    |
+|-----------|----------------------------------------|-------------------|
+|     A     |    750 millilitres                     |   750 millilitres |
+|     B     |    0.5 \times 1000 = 500 millilitres   |   500 millilitres |
+
+Container A holds the greater amount.
 
 $
-\begin{aligned}
-&= 0.7 \times 1000 \text{milliliters} \\\\
-&= 700 \text{milliliters} \\\\
-\end{aligned}
+\begin {aligned}
+\text {Difference}  &= 750 \ \text {milliliters} - 500 \ \text {millilitres} \\\\
+                    &= 250 \ \text {milliliters}
+\end {aligned}
 $
 
-As B compared to A, A contains more amount 
-$
-750 \text{ milliliters}
-$
+Container A holds $250 \ \text {milliliters}$ more than container B.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$750 \text{ milliliters}$
+$250 \ \text{ milliliters}$
 
 </div>
 </div>
@@ -2816,7 +2818,7 @@ $750 \text{ milliliters}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -3046,7 +3048,7 @@ $\text{1. } 8 \text{ cm} \times 3 \text{ cm}, \text{2. } 4 \text{ cm} \times 6 \
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>734F4C9F-BA17-40EC-BE44-F910FF8517D0</p>
 </div>
@@ -3094,12 +3096,12 @@ When $x = 4$, what is the value of $y$?
 <div class='working'>
 
 $
-\begin{aligned}
-y &= 2x + 10 \\\\
-y &= 2 \times 4 + 10 \\\\
-y &= 8 + 10 \\\\
-y &= 18
-\end{aligned}
+\begin {aligned}
+y   &= 2x + 10 \\\\
+    &= 2 \times 4 + 10 \\\\
+    &= 8 + 10 \\\\
+    &= 18
+\end {aligned}
 $
 
 </div>
@@ -3128,17 +3130,21 @@ When $x = -4$, what is the value of $y$?
 <div class='workings'>
 <div class='working'>
 
-y &= 2x + 10 \\\\
-y &= 2 \times (-4) + 10 \\\\
-y &= -4 + 10 \\\\
-y &= 6 
+$
+\begin {aligned}
+y   &= 2x + 10 \\\\
+    &= 2 \times (-4) + 10 \\\\
+    &= -8 + 10 \\\\
+    &= 2
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6$
+$2$
 
 </div>
 </div>
@@ -3168,18 +3174,21 @@ $
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
- y &= x^2
-\end{aligned}
-$
+| Expression           | $x = -4$                  | $x = 4$                 | Equal or not |
+|----------------------|---------------------------|-------------------------|--------------|
+| $y = 2x$             | y = 2 \times -4 = -8      | y = 2 \times 4 = 8      | No           |
+| $y = 2 + x$          | y = 2 + (-4) = -2         | y = 2 + 4 = 6           | No           |
+| $y = x ^2$           | y = (-4) ^ 2 = 16         | y = 4 ^ 2 = 16          | Yes          |
+| $y = \dfrac {x} {2}$ | y = \dfrac {-4} {2} = -2  | y = \dfrac {4} {2} = 2  | No           |
+
+$y = x ^ 2$ gives the same value if $y$ for both $x = 4$ and $x = -4$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$y = x^2$
+$y = x ^ 2$
 
 </div>
 </div>
@@ -3191,7 +3200,7 @@ $y = x^2$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -3725,7 +3734,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>A1071962-E86A-4F64-8561-62B747B80144</p>
 </div>
@@ -3740,16 +3749,32 @@ tnumber
 
 Work out 
 
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
 
 $
 \dfrac{1 \times 2 \times 3 \times 4 \times 5}{1 \times 2 \times 3} 
-= 
-\text{\textunderscore \textunderscore \textunderscore}
-$
-
-
-$
-\dfrac{(1 \times 2 \times 3 \times 4 \times 5)^{2} }{(1 \times 2 \times 3)^{2}} 
 = 
 \text{\textunderscore \textunderscore \textunderscore}
 $
@@ -3767,12 +3792,44 @@ $
 \end{aligned}
 $
 
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+\dfrac{(1 \times 2 \times 3 \times 4 \times 5)^{2} }{(1 \times 2 \times 3)^{2}} 
+= 
+\text{\textunderscore \textunderscore \textunderscore}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
 $
 \begin{aligned}
+&= \dfrac{(1 \times 2 \times 3 \times 4 \times 5)^{2} }{(1 \times 2 \times 3)^{2}} \\\\
 &= \dfrac{(1 \times 2 \times 3 ) ^ {2}  \times (4 \times 5)^{2} }{(1 \times 2 \times 3)^{2}} \\\\
-&=  \dfrac{\cancel{(1 \times 2 \times 3 ) ^ {2}}  \times (4 \times 5)^{2} }{\cancel{(1 \times 2 \times 3)^{2}}} \\\\
+&= \dfrac{\cancel{(1 \times 2 \times 3 ) ^ {2}}  \times (4 \times 5)^{2} }{\cancel{(1 \times 2 \times 3)^{2}}} \\\\
 &= (4 \times 5 ) ^ 2 \\\\
 &= 20 ^ 2 \\\\
+&= 20 \times 20 \\\\
 &= 400
 \end{aligned}
 $
@@ -3782,16 +3839,19 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20, 400$
+$400$
 
 </div>
 </div>
 
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -4535,7 +4595,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>5CC2AA10-9BD1-4023-B610-74254B953442</p>
 </div>
@@ -4556,7 +4616,68 @@ $\boxed { \quad\dfrac{29}{40} = 0.725 \quad}$
 
 Use this information to write the missing decimals below.
 
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
 $\boxed { \quad\dfrac{31}{40} = \text{\textunderscore \textunderscore \textunderscore} \quad}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= \dfrac {31} {40} \\\\
+&= \dfrac {29 + 2} {40} \\\\
+&= \dfrac {29} {40} + \dfrac {2} {40} \\\\
+&= 0.725 + \dfrac {2} {20 \times 2} \\\\
+&= 0.725 + \dfrac {\cancel {2} } {20 \times \cancel {2} } \\\\
+&= 0.725 + \dfrac {1} {20} \\\\
+&= 0.725 + 0.05 \\\\
+&= 0.775
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.775$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
 
 $\boxed { \quad\dfrac{23}{40} = \text{\textunderscore \textunderscore \textunderscore} \quad}$
 
@@ -4565,26 +4686,16 @@ $\boxed { \quad\dfrac{23}{40} = \text{\textunderscore \textunderscore \textunder
 <div class='working'>
 
 $
-\begin{aligned}
-&= \dfrac {31} {40} \\\\
-&= \dfrac {27 + 4} {40} \\\\
-&= \dfrac {27} {40} + \dfrac {4} {40} \\\\
-&= 0.675 + \dfrac {4} {10 \times 4} \\\\
-&= 0.675 + \dfrac {\cancel {4} } {10 \times \cancel {4} } \\\\
-&= 0.675 + 0.1 \\\\
-&= 0.676
-\end{aligned}
-$
-
-$
-\begin{aligned}
+\begin {aligned}
 &= \dfrac {23} {40} \\\\
-&= \dfrac {29 - 6} {40} \\\\
-&= \dfrac {29} {40} - \dfrac {6} {40} \\\\
-&= 0.725 - \dfrac {6} {40} \\\\
-&= 0.725 - 0.15 \\\\
+&= \dfrac {27 - 4} {40} \\\\
+&= \dfrac {27} {40} - \dfrac {4} {40} \\\\
+&= 0.675 - \dfrac {4} {10 \times 4} \\\\
+&= 0.675 - \dfrac {\cancel {4}} {10 \times \cancel {4}} \\\\
+&= 0.675 - \dfrac {1} {10} \\\\
+&= 0.675 - 0.1 \\\\
 &= 0.575
-\end{aligned}
+\end {aligned}
 $
 
 </div>
@@ -4592,16 +4703,19 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.676, 0.575$
+$0.575$
 
 </div>
 </div>
 
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

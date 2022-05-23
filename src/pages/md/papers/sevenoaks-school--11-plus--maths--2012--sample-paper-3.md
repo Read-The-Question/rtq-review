@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2012-sample-paper-3"
 title: "Sevenoaks School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>
@@ -328,7 +328,7 @@ $\pounds 18.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>7E727E97-35F7-45AC-9A84-DFE534728056</p>
 </div>
@@ -347,7 +347,7 @@ Consecutive numbers are one apart; for example $7, 8$ and $9$ are three consecut
 <div class='workings'>
 <div class='working'>
 
-
+%empty%
 
 </div>
 <div class='working'>
@@ -372,30 +372,39 @@ Find three consecutive numbers with a sum of $36$.
 <div class='workings'>
 <div class='working'>
 
-Let the missing numbers be a , a+1 , a+2,
+Let the First number $= a$.
 
 As per the question,
 
+Second consecutive number $= a + 1$.
+
+Third consecutive number $= a + 2$.
+
 $
-\begin{aligned}
+\begin {aligned}
 a + (a+1) + (a+2)  &= 36 \\\\
 3a + 3             &= 36 \\\\
 3a                 &= 36 - 3 \\\\
-a                  &= \dfrac{33}{3} \\\\
-a                  &= \dfrac{3 \times 11}{3} \\\\
-a                  &= \dfrac{\cancel{3} \times 11}{\cancel{3}} \\\\
+3a                 &= 33 \\\\
+a                  &= \dfrac {33} {3} \\\\
+a                  &= \dfrac {3 \times 11} {3} \\\\
+a                  &= \dfrac {\cancel{3} \times 11} {\cancel{3}} \\\\
 a                  &= 11
-\end{aligned}
+\end {aligned}
 $
 
-The consecutive numbers are 11, 12, 13
+Second consecutive number is $11 + 1 = 12$.
+
+Third consecutive number is $12 + 1 = 13$.
+
+The three consecutive numbers are $11, 12, 13$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$11,12,13$
+$11, 12, 13$
 
 </div>
 </div>
@@ -416,24 +425,26 @@ Find three consecutive numbers which give $336$ when multiplied together.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+We can easily infer the values by using trial and error. Let's find out $3$ numbers which give a product of 336.
 
-TODOWORKING
+Factors of $336 = 1, 2, 3, 4, 6, 7, 8, 12, 14, 16, 21, 24, 28, 42, 48, 56, 84, 112, 168, 336$
+
+| Factors    | Product   | Consecutive  |
+|:----------:|:--------: |:-----------: |
+| $6, 7, 8$  |   $336$   |    Yes       |
+| $21, 2, 8$ |   $336$   |    No        |
+| $14, 3, 8$ |   $336$   |    No        |
+
+A quick check shows that $6$, $7$ and $8$  are the consecutive numbers which gives a product $= 336$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$6, 7, 8$
 
 </div>
 </div>
@@ -445,7 +456,7 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -643,7 +654,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>8C993AFA-AFCB-4D29-9664-802BEE2647F5</p>
 </div>
@@ -688,24 +699,26 @@ $5, 8, 11, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Lets's find the difference between the consecutive terms of the sequence
+Let's find the difference between the consecutive terms of the sequence.
 
 The difference between the terms is $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+3)}} \\
-5,  &&    8,  &&  11,  &&   \ldots,  &&   \ldots 
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}  \\
+5,  &&    8,  &&  11,  &&  \ldots,   &&  \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}   &= 11 + 3 \\\\
-                              &= 14 \\\\
-\text{Second missing number}  &= 14 + 3 \\\\
-                              &= 17
+\text{First missing number}    &= 11 + 3 \\\\
+                               &= 14 \\\\
+\text{Second missing number}   &= 14 + 3 \\\\
+                               &= 17
 \end{aligned}
 $
 
@@ -735,24 +748,26 @@ $4, 8, 16, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Lets's find the difference between the consecutive terms of the sequence
+Let's find the difference between the consecutive terms of the sequence.
 
-The next term is calculated by multipling the previous term with $2$. Hence the sequence would be
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}} \\
-4,  &&    8,  &&  16,  &&   \ldots,  &&   \ldots 
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
+4,  &&    8,  &&  16,  &&  \ldots,   &&  \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}   &= 16 \times 2  \\\\
-                              &= 32 \\\\
-\text{Second missing number}  &= 32 \times 2 \\\\
-                              &= 64
+\text {First missing number}    &= 16 \times 2 \\\\
+                                &= 32 \\\\
+\text {Second missing number}   &= 32 \times 2 \\\\
+                                &= 64
 \end{aligned}
 $
 
@@ -782,26 +797,26 @@ $100, 90, 80, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Lets's find the difference between the consecutive terms of the sequence
+Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is $-10$. Hence, the sequence would be,
+The difference between the terms is $10$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-10)}} 
-&&  \footnotesize{\maroonC{(-10)}} \\
-100,  &&    90,  &&  80,  &&   \ldots,  &&   \ldots 
+&   \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}  \\
+100,  &&    90,  &&  80,  &&  \ldots,   &&  \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}   &= 80 + (-10) \\\\
-                              &= 80 - 10 \\\\
-                              &= 70
-\text{Second missing number}  &= 70 + (-10) \\\\
-                              &= 70 - 10 \\\\
-                              &= 60
+\text {First missing number}    &= 80 - 10 \\\\
+                                &= 70 \\\\
+\text {Second missing number}   &= 70 - 10 \\\\
+                                &= 60
 \end{aligned}
 $
 
@@ -822,7 +837,7 @@ $70, 60$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -954,7 +969,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>2D9E6D0E-4E54-4B9F-A732-DB3E447B66D7</p>
 </div>
@@ -978,41 +993,22 @@ How many blocks of ice--cream can he put into the cool box?
 <div class='workings'>
 <div class='working'>
 
+$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 
-Let the volume of cool box $= a$.
-
-$
-\begin{aligned}
-a      &= 30 \times 30 \times 62 \\\\
-a      &= 900 \times 62 \\\\
-a      &= 55,800 \text{ cm}^3
-\end{aligned}
-$
-
-Let the volume of single block of ice cream is $= b$.
+As per the question,
 
 $
-\begin{aligned}
-b      &= 10 \times 5 \times 15 \\\\
-b      &= 50 \times 15 \\\\
-b      &= 750 \text{ cm}^3
-\end{aligned}
+begin {aligned}
+\text {Number of ice cream blocks}    &= \dfrac {\text {Volume of the cool box}} {\text {Volume of a ice cream block}} \\\\
+                                      &= \dfrac {30 \ \text{cm} \times 30 \ \text{cm} \times 62 \ \text{cm}} {10 \ \text{cm} \times 5 \ \text{cm} \times 15 \ \text{cm}} \\\\
+                                      &= \dfrac {3 \times 10 \times 3 \times 5 \times 2 \times 62} {10 \times 5 \times 5 \times 3} \\\\
+                                      &= \dfrac {\cancel {3} \times \cancel {10} \times \cancel {5} \times 2 \times 3 \times 62} {\cancel {10} \times \cancel {5} \times \cancel {5} \times \cancel {3}} \\\\
+                                      &= \dfrac {3 \times 2 \times 62} {5} \\\\
+                                      &= \dfrac {372} {5} \\\\
+                                      &= 74 \dfrac {2} {5} \\\\
+                                      &= 74
+\end {aligned}
 $
-
-Now lets find number of boxes that can be put into the cool box,
-
-$
-\begin{aligned}
-&= \dfrac {a} {b} \\\\
-&= \dfrac {55800} {750} \\\\
-&= \dfrac {744 \times 75} {75 \times 10} \\\\
-&= \dfrac {744 \times \cancel {75} } {\cancel{75} \times 10} \\\\
-&= \dfrac {744} {10} \\\\
-&= 74.4
-&= 74
-\end{aligned}
-$
-
 
 </div>
 </div>
@@ -1028,12 +1024,12 @@ $74$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>F83507F2-235E-4ABA-AC49-C50C6D08899E</p>
 </div>
@@ -1055,24 +1051,14 @@ In a sale, normal prices were reduced by $35 \%$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1094,13 +1080,12 @@ The normal price of a TV was $\pounds 600$. Work out the sale price of the TV.
 As per the question,
 
 $
-\begin{aligned}
-\text{Sale price of Tv}   &= Normal Price - Discount \\\\
-                          &= \pounds 600  - 35\% \text{ of} 600 \\\\
+\begin {aligned}
+\text {Sale price of Tv}  &= \text {Normal Price} - \text {Discount} \\\\
+                          &= \pounds 600  - 35\% \ \text{of} \ 600 \\\\
                           &= 600 - \dfrac {35} {100} \times 600 \\\\
                           &= 600 - \dfrac {35 \times 600} {100} \\\\
-                          &= 600 - \dfrac {35 \times 6 \times 100} {100} \\\\
-                          &= 600 - \dfrac {35 \times 6 \times \cancel {100}} {\cancel {100} } \\\\
+                          &= 600 - \dfrac {35 \times 6\cancel{00}} {1\cancel {00}} \\\\
                           &= 600 - 35 \times 6 \\\\
                           &= 600 - 210 \\\\
                           &= \pounds 390
@@ -1133,26 +1118,21 @@ The normal price of a clock was reduced by $\pounds 140$. Work out the normal pr
 <div class='workings'>
 <div class='working'>
 
-$
-
-Let the normal price $= a$.
+Let normal price $= a$.
 
 As per the question,
 
+$
 \begin{aligned}
-a - 35\% \text{ of} a                                                      &= 140 \\\\
-a - \dfrac {35} {100} \times a                                             &= 140 \\\\
-a - \dfrac {35 \times a} {100}                                             &= 140 \\\\
-a - \dfrac {35 \times a} {100}                                             &= 140 \times 100 \\\\
-a - \dfrac {7 \times 5 \times a} {5 \times 20}                             &= 14000 \\\\
-a - \dfrac {7 \times \cancel {5} \times a} { \cancel {5} \times 20}        &= 14000 \\\\
-a - \dfrac {7a} {20}                                                       &= 14000 \\\\                                                          
-\dfrac {20a - 7a} {20}                                                     &= 14000 \\\\\
-20a - 7a                                                                   &= 14000 \times 20 \\\\\
-13a                                                                        &= 280000 \\\\\
-a                                                                          &= \dfrac {280000} {13} \\\\
-a                                                                          &= \pounds 2153.84
-\end{aligned}
+35\% \ \text{of} \ a         &= \pounds 140 \\\\
+\dfrac {35} {100} \times a   &= 140 \\\\
+a                            &= 140 \times \dfrac {100} {35} \\\\
+a                            &= \dfrac {140 \times 100} {35} \\\\
+a                            &= \dfrac {7 \times 2 \times 2 \times 5 \times 100} {7 \times 5} \\\\
+a                            &= \dfrac {\cancel {7} \times 2 \times 2 \times \cancel {5} \times 100} {\cancel {7} \times \cancel {5}} \\\\
+a                            &= 2 \times 2 \times 100 \\\\
+a                            &= \pounds 400
+\end {aligned}
 $
 
 </div>
@@ -1160,7 +1140,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2153.84$
+$\pounds 400$
 
 </div>
 </div>
@@ -1181,26 +1161,22 @@ The sale price of a computer was $\pounds 884$. Work out the normal price of the
 <div class='workings'>
 <div class='working'>
 
-Let the normal price of $= a$,
+Let the normal price of $= a$.
 
 As per the question,
 
 $ 
-\begin{aligned}
-a - 35\% \text{ of}a                                        &= 884 \\\\
-a - \dfrac {35} {100} \times a                              &= 884 \\\\
-a - \dfrac {7 \times 5} {20 \times 5}                       &= 884 \\\\
-a - \dfrac {7 \times \cancel {5} } {20 \times \cancel {5} } &= 884 \\\\
-a - \dfrac {7a} {20}                                        &= 884 \\\\
-\dfrac {20a - 7a} {20}                                      &= 884 \\\\
-\dfrac {13a} {20}                                           &= 884 \\\\
-13a                                                         &= 884 \times 20 \\\\
-13a                                                         &= 17680 \\\\
-a                                                           &= \dfrac {17680} {13} \\\\\ 
-a                                                           &= \dfrac {1360 \times 13} {13} \\\\\ 
-a                                                           &= \dfrac {1360 \times \cancel {13} } {\cancel{13} } \\\\\ 
-a                                                           &= \pounds 1360 
-\end{aligned}
+\begin {aligned}
+\text {Normal price }   &= \text {Sale price} + \text {Discount} \\\\
+                        &= \pounds 884 + 35\% \ \text{of} \ 884 \\\\
+                        &= 884 + \dfrac {35} {100} \times 884 \\\\
+                        &= 884 + \dfrac {35 \times 884} {100} \\\\
+                        &= 884 + \dfrac {7 \times 5 \times 2 \times 442} {2 \times 10 \times 5} \\\\
+                        &= 884 + \dfrac {7 \times \cancel {5} \times \cancel {2} \times 442} {\cancel {2} \times 10 \times \cancel {5}} \\\\
+                        &= 884 + \dfrac {3094} {10} \\\\
+                        &= 884 + 309.4 \\\\
+                        &= \pounds 1193.4
+\end {aligned}
 $
 
 </div>
@@ -1208,7 +1184,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1360$
+$\pounds 1193.4$
 
 </div>
 </div>
@@ -1220,7 +1196,7 @@ $\pounds 1360$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1352,7 +1328,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>ABB3027C-A3A6-4680-A41E-B49861EF0A45</p>
 </div>
@@ -1373,28 +1349,22 @@ If the three tests are combined into one $60$-problem test, what percentage is m
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Total Score is given by}   &= 10\% \text{ of} \ 10-problem-test + 70\% \text{ of} \ 20-problem-test + 80\% \text{ of} 30-problem-test \\\\
+\text {Overall score}            &= 10\% \ \text{of} \ \text {10-problem-test} + 70\% \ \text{of} \ \text {20-problem-test} + 80\% \ \text{of}\ \text {30-problem-test} \\\\
                                  &= \dfrac {10} {100} \times 10 + \dfrac {70} {100} \times 20 + \dfrac {80} {100} \times 30 \\\\
-                                 &= \dfrac {100} {100} + \dfrac {14 \times 100} {100} + \dfrac {24 \ times 100} {100} \\\\
-                                 &= \dfrac {\cancel {100} } {\cancel {100} } + \dfrac {14 \times \cancel{100} } {\cancel{100} } + \dfrac {24 \ times \cancel{100} } {\cancel{100} } \\\\
+                                 &= \dfrac {100} {100} + \dfrac {14 \times 100} {100} + \dfrac {24 \ \times 100} {100} \\\\
+                                 &= \dfrac {\cancel {100} } {\cancel {100} } + \dfrac {14 \times \cancel{100} } {\cancel{100} } + \dfrac {24 \ \times \cancel{100} } {\cancel{100} } \\\\
                                  &= 1 + 14 +24 \\\\
-                                 &= 39
-\end{aligned}
-$
-
-Percentage of overall score is 
-
-As per the question
-
-$
-\begin{aligned}
-\text{Percentage}   &= \dfrac {39} {60} \times 100 \ \% \\\\
-                    &= \dfrac {3900} {60} \\\\
-                    &= \dfrac {60 \times 65} {60} \\\\
-                    &= \dfrac {\cancel{60} \times 65} {\cancel {60} } \\\\
-                    &= 65\%
+                                 &= 39 \\\\
+\text{Overall percentage}        &= \dfrac {39} {60} \ \text {of} \ 100 \\\\
+                                 &= \dfrac {39} {60} \times 100 \\\\
+                                 &= \dfrac {3 \times 13 \times 2 \times 5 \times 10} {2 \times 3 \times 10} \\\\
+                                 &= \dfrac {\cancel {3} \times 13 \times \cancel {2} \times 5 \times \cancel {10}} {\cancel {2} \times \cancel {3} \times \cancel {10}} \\\\
+                                 &= 13 \times 5 \\\\
+                                 &= 65 \%
 \end{aligned}
 $
 
@@ -1403,7 +1373,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$65\%$
+$65 \%$
 
 </div>
 </div>
@@ -1412,7 +1382,7 @@ $65\%$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

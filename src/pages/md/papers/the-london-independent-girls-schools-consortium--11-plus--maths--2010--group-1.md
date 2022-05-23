@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>The London Independent Girls' Schools Consortium</h1>
@@ -585,7 +585,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>B3CD0A36-BE2D-4EB4-845F-D4413E955B1F</p>
 </div>
@@ -656,7 +656,7 @@ $9 \ \boxed{\phantom{555}} \ 4 = 25\ \boxed{\phantom{555}} \  5$
 <div class='workings'>
 <div class='working'>
 
-$9 \ \boxed{\phantom{-}} \ 4 = 25\ \boxed{\phantom{\div}} \  5$
+$9 \ \boxed{-} \ 4 = 25\ \boxed{\div} \  5$
 
 </div>
 </div>
@@ -684,7 +684,7 @@ $8 \ \boxed{\phantom{555}} \ 4 \ \boxed{\phantom{555}} \ 3 = 7$
 <div class='workings'>
 <div class='working'>
 
-$8 \ \boxed{\phantom{-}} \ 4 \ \boxed{\phantom{+}} \ 3 = 7$
+$8 \ \boxed{-} \ 4 \ \boxed{+} \ 3 = 7$
 
 </div>
 </div>
@@ -715,14 +715,14 @@ Fill in the missing numbers:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -741,7 +741,7 @@ $32 \div ( 10 - \boxed{\phantom{5555}}) = 4$
 <div class='workings'>
 <div class='working'>
 
-$32 \div ( 10 - \boxed{\phantom{2}}) = 4$
+$32 \div (10 - \boxed{2}) = 4$
 
 </div>
 </div>
@@ -771,14 +771,21 @@ $54X - 424 = 1X6$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+    &   5   &       4        & \red {0} \\
+{}- &   4   &       2        &       4 \\
+\hline
+    &   1   & \red {1}       &       6
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$0, 1$
 
 </div>
 </div>
@@ -793,7 +800,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

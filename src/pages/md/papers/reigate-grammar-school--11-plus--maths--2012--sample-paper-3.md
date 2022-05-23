@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -3433,6 +3433,20 @@ $
 $
 
 </div>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \text{half of 999} \\\\\
+&= \dfrac {999} {2} \\\\\
+&= \dfrac {1000 - 1} {2} \\\\\
+&= \dfrac {1000} {2} - \dfrac {1} {2} \\\\\
+&= 500 - 0.50 \\\\
+&= 499.5
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -3472,15 +3486,17 @@ $12\:\: 234\:\: 3456\:\: 45678\:\: 567890$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-12 &= 1 + 2 &= 3 &= {\text{multiple of}} \ 3 \\\\
-234 &= 2 + 2 + 4 &= 9 &= {\text{multiple of}} \ 3 \\\\
-3456 &= 3 + 4 + 5 + 6 &= 15 &= {\text{multiple of}} \ 3 \\\\
-45678 &= 4 + 5 + 6 + 7 + 8 &= 30 &= {\text{multiple of}} \ 3 \\\\
-567890 &= 5 + 6 + 7 + 8 + 9 &= 35 &\not = {\text{multiple of}} \ 3 \\\\
-\end{aligned}
-$
+As we know that a number is divisible by 3 if the sum of all its digits is divisible by 3. Using that,
+
+| Number    |         Sum                                           | Multiple of $3$
+|:------:   |:----------------------------------------------------: | :-----:
+|  $12$     | $1 + 2 = \red{3}$                                     |  Yes
+|  $234$    | $2 + 3 + 4 = \red{9}$                                 |  Yes
+|  $3456$   | $3 + 4 + 5 + 6 = \red{15}$                            |  Yes
+|  $45678$  | $4 + 5 + 6 + 7 + 8 = \red{30}$                        |  Yes
+|  $567890$ | $5 + 6 + 7 + 8 + 9 + 0 = \green{35}$                  |  No
+
+Answer $= 567890$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-pr"
 title: "Topic - Noexplanation - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2925,6 +2925,94 @@ $53018$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>DFFF4069-B7D4-401D-90CC-7DEA7B300388</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the number twenty-four thousand and twenty-four in figures.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$24024$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24024$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>BCABF532-DB4D-44EA-893A-A8CB7914EE55</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Place the following numbers in order of size from smallest to largest: 
+
+$4.2101 \quad 4.1021 \quad 4.0121 \quad 4.0211$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4.0121 < \quad 4.0211 < \quad 4.1021 < \quad 4.2101$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

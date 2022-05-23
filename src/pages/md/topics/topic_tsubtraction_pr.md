@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsubtraction-pr"
 title: "Topic - Subtraction - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1095,7 +1095,7 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>922FBC24-0E68-4CEB-9A30-4049190D32C2</p>
 </div>
@@ -1116,10 +1116,10 @@ Subtract: $92 - 67$
 
 $
 \begin{array}{cccccccccccccc}
-           & 9 & 2 \\
-    {}-    & 6 & 7 \\
-    \hline
-         & 2 & 5
+    &   9   &   2 \\
+{}- &   6   &   7 \\
+\hline
+    &   2   &   5
 \end{array}
 $
 
@@ -1137,7 +1137,7 @@ $25$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

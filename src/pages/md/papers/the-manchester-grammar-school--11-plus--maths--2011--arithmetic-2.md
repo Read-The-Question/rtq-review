@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 2"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -1466,14 +1466,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>8E5A4E8E-7B83-4EB7-8E59-71D7210AF21C</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -1514,7 +1514,8 @@ $5.2 \times 316$
 $
 \begin{aligned}
 &= 5.2 \times 316 \\\\
-&= \dfrac {(52 \times 316)} {10} \\\\
+&= \dfrac {52} {10} \times 316 \\\\
+&= \dfrac {52 \times 316} {10} \\\\
 &= \dfrac {16432} {10} \\\\
 &= 1643.2
 \end{aligned}
@@ -1548,11 +1549,50 @@ $16432 \div 52$
 
 $
 \begin{aligned}
-&= 5200 \times 0.316 \\\\
-&= 52 \times 31.6 \\\\
-&= \dfrac {52 \times 316} {10} \\\\
-&= 1643.2
+&= 16432 \div 52 \\\\
+&= \dfrac {16432} {52} \\\\
+&= \dfrac {52 \times 316} {52} \\\\
+&= \dfrac {\cancel {52} \times 316} {\cancel {52}} \\\\
+&= 316
 \end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$316$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5200 \times 0.316$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 5200 \times 0.316 \\\\
+&= 5200 \times \dfrac {316} {1000} \\\\
+&= \dfrac {5200 \times 316} {1000} \\\\
+&= \dfrac {52\cancel {00} \times 316} {10\cancel {00}} \\\\
+&= \dfrac {52 \times 316} {10} \\\\
+&= \dfrac {16432} {10} \\\\
+&= 1643.2
+\end {aligned}
 $
 
 </div>
@@ -1575,68 +1615,29 @@ $1643.2$
 </div>
 <div class='question subquestion'>
 
-$5200 \times 0.316$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
 $16432 \div 3160$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+&= 16432 \div 3160 \\\\
+&= \dfrac {16432} {3160} \\\\
+&= \dfrac {52 \times 316} {316 \times 10} \\\\
+&= \dfrac {52 \times \cancel {316}} {\cancel {316} \times 10} \\\\
+&= \dfrac {52} {10} \\\\
+&= 5.2
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$5.2$
 
 </div>
 </div>
@@ -1657,24 +1658,24 @@ $26 \times 158$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+&= 26 \times 158 \\\\
+&= \dfrac {52} {2} \times \dfrac {316} {2} \\\\
+&= \dfrac {52 \times 316} {2 \times 2} \\\\
+&= \dfrac {16432} {4} \\\\
+&= \dfrac {4108 \times 4} {4} \\\\
+&= \dfrac {4108 \times \cancel {4}} {\cancel {4}} \\\\
+&= 4108
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$4108$
 
 </div>
 </div>
@@ -1686,7 +1687,7 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>The Queens' School</h1>
@@ -497,8 +497,9 @@ $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+4)}}  
 &&  \footnotesize{\maroonC{(+4)}}    
+&&  \footnotesize{\maroonC{(+4)}}
 &&  \footnotesize{\maroonC{(+4)}} \\
-11,  &&    15,  &&  19,  &&   23 \ldots
+11,  &&    15,  &&  19,  &&   23, && \ldots
 \end{matrix}
 $
 
@@ -514,7 +515,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Next number : $27$
+$27$
 
 </div>
 </div>
@@ -542,9 +543,10 @@ The difference between the terms is $5$. Hence, the sequence would be:
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(-5)}}  
+&&  \footnotesize{\maroonC{(-5)}}
 &&  \footnotesize{\maroonC{(-5)}}    
 &&  \footnotesize{\maroonC{(-5)}} \\
-17,  &&    12,  &&  7,  &&   2 \ldots
+17,  &&    12,  &&  7,  &&   2, && \ldots
 \end{matrix}
 $
 
@@ -560,7 +562,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Next number : $-3$
+$-3$
 
 </div>
 </div>
@@ -583,12 +585,14 @@ $2,\:\:\:4,\:\:\:7,\:\:\:11,\:\:\: ………$
 
 Let's find the difference between the consecutive terms of the sequence.
 
+The difference between the terms is 1 more than the difference between the previous sequence. Hence the sequence would be :
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+2)}}  
-&&  \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+4)}} \\
-2,  &&    4,  &&  7,  &&   11 \ldots
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+4)}} 
+&&  \footnotesize{\maroonC{(+5)}} \\
+2,  &&    4,  &&  7,  &&   11 , && \ldots
 \end{matrix}
 $
 
@@ -604,7 +608,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Next number : $16$
+$16$
 
 </div>
 </div>
@@ -693,18 +697,18 @@ $2,\:\:\:5 000,\:\:\:50 000,\:\:\:2 000,\:\:\:200,\:\:\:50,\:\:\:20$
 <div class='workings'>
 <div class='working'>
 
-$2,\:\:\: \boxed{5 000},\:\:\:50 000,\:\:\:2 000,\:\:\: \boxed{200},\:\:\:50,\:\:\:20$ 
+$2,\quad  \boxed{5 000},\quad 50 000,\quad 2 000,\quad  \boxed{200},\quad 50,\quad 20$ 
 
-OR
+Or
 
-$2,\:\:\:5 000,\:\:\: \boxed {50 000},\:\:\:2 000,\:\:\:200,\:\:\:50,\:\:\: \boxed {20}$ 
+$2,\quad 5 000,\quad  \boxed {50 000},\quad 2 000,\quad 200,\quad 50,\quad  \boxed {20}$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(5000, 200) \ \text{or} (50000, 20)$
+$(5000, 200) \ \text{or} \ (50000, 20)$
 
 </div>
 </div>
@@ -938,19 +942,18 @@ $0.56,\:\:\:0.506,\:\:\:0.605,\:\:\:0.65,\:\:\:0.056$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, all are decimals. Let's arrange the decimals in ascending order,
-
 $0.56 , \quad   0.506 , \quad   0.605 , \quad   0.65 , \quad 0.056$
-$0.056 , \quad   0.506 , \quad   0.56 , \quad   0.605 , \quad 0.65$
+
+Let's arrange the decimals in ascending order,
+
+$0.056 , \quad <  0.506 , \quad <  0.56 , \quad <  0.605 , \quad < 0.65$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.056 , \quad   0.506 , \quad   0.56 , \quad   0.605 , \quad 0.65$
+$0.056 , \quad <  0.506 , \quad <  0.56 , \quad <  0.605 , \quad < 0.65$
 
 </div>
 </div>

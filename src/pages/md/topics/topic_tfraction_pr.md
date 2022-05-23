@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-pr"
 title: "Topic - Fraction - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -109,6 +109,68 @@ $\dfrac{1} {5}$
 </ul>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>9D00B94C-D684-45CF-951A-E345FEB99DD2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The table shows Ann’s marks in two tests.
+
+|       Test    | Marks             |
+|:-----------:    |:---------------------:|
+|   $1$       |   $60$ out of $80$ |
+|   $2$       |   $70$ out of $100$ |
+
+In which test did Ann do better? You **must** show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the percentage score for both the tests.
+
+$
+\begin{aligned}
+\text{Test } 1       &= \dfrac {60}{80} \times 100 \\\\
+                     &= \dfrac {60 \times 100}{80} \\\\
+                     &= \dfrac {15 \times 4 \times 20 \times 5}{20 \times 4} \\\\
+                     &= \dfrac {15 \times \cancel{4} \times \cancel{20} \times 5}{\cancel{20} \times \cancel{4}} \\\\
+                     &= 15 \times 5 \\\\
+                     &= 75 \% \\\\
+\text{Test } 2         &= \dfrac {70}{100} \times 100 \\\\
+                     &= 70 \%
+\end{aligned}
+$
+
+Ann did better in Test $1$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Test $1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -412,7 +474,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>03CC1319-A88C-42CD-88A6-FC0FF7A59D9F</p>
 </div>
@@ -431,17 +493,15 @@ What fraction is $\dfrac{2}{3}$ of $\dfrac{3}{4}$?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
-\begin{aligned}
+\begin {aligned}
+&= \dfrac {2} {3} \ \text {of} \ \dfrac {3} {4} \\\\
 &= \dfrac {2} {3} \times \dfrac {3} {4} \\\\
-&= \dfrac {2} {\cancel {3} } \times \dfrac {\cancel {3} } {4} \\\\
-&= \dfrac {2} {4} \\\\
-&= \dfrac {2} {2 \times 2} \\\\
-&= \dfrac {\cancel {2} } {2 \times \cancel {2} } \\\\
+&= \dfrac {2 \times 3} {3 \times 4} \\\\
+&= \dfrac {2 \times 3} {3 \times 2 \times 2} \\\\
+&= \dfrac {\cancel {2} \times \cancel {3}} {\cancel {3} \times \cancel {2} \times 2} \\\\
 &= \dfrac {1} {2}
-\end{aligned}
+\end {aligned}
 $
 
 </div>
@@ -458,7 +518,7 @@ $\dfrac {1} {2}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -628,7 +688,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>1DD19E4B-1DD0-4211-AE00-61C2A0DBD9FE</p>
 </div>
@@ -647,23 +707,27 @@ Martin is given $\pounds 240$. He gives $\dfrac{1}{8}$ to his sister and $\dfrac
 <div class='workings'>
 <div class='working'>
 
-As per the question
+As per the question,
 
 $
-\begin{aligned}
-\text{Amount spent}  &=  \dfrac {1} {8} \ times 240 + \dfrac {1} {5} \times 240 \\\\
-                     &=  \dfrac {1} {8} \ times 8 \ times 30 + \dfrac {1} {5} \times 48 \times 5 \\\\
-                     &=  \dfrac {1} {\cancel {8} } \ times \cancel {8} \ times 30 + \dfrac {1} {\cancel {5} } \times 48 \times \cancel {5} \\\\
-                     &=  30  + 48 \\\\
-                     &=  78 
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Amount left}  &= 240 - 78 \\\\
-                    &= \pounds162
-\end{aligned}
+\begin {aligned}
+\text {Amount spent} &= \text {Amount he gave to his sister} + \text {Amount he gave to his brother} \\\\
+                     &= \dfrac {1} {8} \ \text {of} \ \pounds 240 + \dfrac {1} {5} \ \text {of} \ (\pounds 240 - \dfrac {1} {8} \ \text {of} \ 240)) \\\\
+                     &= \dfrac {1} {8} \times 240 + \dfrac {1} {5} \times (240 - \dfrac {1} {8} \times 240)) \\\\
+                     &= \dfrac {240} {8} + \dfrac {1} {5} \times (240 - \dfrac {240} {8}) \\\\
+                     &= \dfrac {30 \times 8} {8} + \dfrac {1} {5} \times (240 - \dfrac {30 \times 8} {8}) \\\\
+                     &= \dfrac {30 \times \cancel {8}} {\cancel {8}} + \dfrac {1} {5} \times (240 - \dfrac {30 \times \cancel {8}} {\cancel {8}}) \\\\
+                     &= 30 + \dfrac {1} {5} \times (240 - 30) \\\\
+                     &= 30 + \dfrac {1} {5} \times 210 \\\\
+                     &= 30 + \dfrac {210} {5} \\\\
+                     &= 30 + \dfrac {42 \times 5} {5} \\\\
+                     &= 30 + \dfrac {42 \times \cancel {5}} {\cancel {5}} \\\\
+                     &= 30 + 42 \\\\
+                     &= \pounds 72 \\\\
+\text {Amount left}  &= \text {Total amount he had} - \text {Total amount spent} \\\\
+                     &= \pounds 240 - \pounds 72 \\\\
+                     &= \pounds 168
+\end {aligned}
 $
 
 </div>
@@ -671,7 +735,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 78$
+$\pounds 168$
 
 </div>
 </div>
@@ -680,7 +744,7 @@ $\pounds 78$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1360,6 +1424,137 @@ $200$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>EEA0B465-FB0C-45E9-92BF-4CDC84D3237B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the fraction which has a different value from the others:
+
+$\dfrac{6}{9} \qquad \dfrac{2}{3} \qquad \dfrac{18}{27} \qquad \dfrac{7}{10}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {7} {10}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {10}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the smallest of the following fractions:
+
+$\dfrac{1}{4} \qquad \dfrac{1}{5} \qquad \dfrac{5}{16} \qquad \dfrac{1}{3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {1} {5}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the largest of the following fractions:
+
+$\dfrac{2}{3} \qquad \dfrac{7}{9} \qquad \dfrac{17}{27} \qquad \dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>D1DB4906-DD4F-4827-8996-34DDFC3849EE</p>
@@ -1481,7 +1676,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
 </div>
@@ -1508,51 +1703,44 @@ There are $72$ girls in the pool. How many boys are there?
 
 Let the total students $= a$
 
-As per the question
+As per the question,
 
-Fraction of boys $= \dfrac {2} {5} a $
+Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
 
-Fraction of girls $= \dfrac {3} {5} a$
-
-$
-\begin{aligned}
-\dfrac {3} {5}a   &= 72 \\\\
-3a                &= 72 \times 5 \\\\
-a                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
-a                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
-a                 &= 24 \times 5 \\\\
-a                 &= 120
-\end{aligned}
-$
-
-Now lets calculate the total number of boys
+Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
 
 $
-\begin{aligned}
-&= \dfrac {2} {5} \times 120 \\\\
-&= \dfrac {2} {5} \times 120 \\\\
-&= \dfrac {2} {\cancel {5} } \times 24 \times \cancel {5} \\\\
-&= 2 \times 24 \\\\
-&= 48
-\end{aligned}
+\begin {aligned}
+\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
+\dfrac {3} {5} \times a           &= 72 \\\\
+3a                                &= 72 \times 5 \\\\
+a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
+a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
+a                                 &= 24 \times 5 \\\\
+a                                 &= 120
+\end {aligned}
 $
 
-</div>
-<div class='working'>
+Now, lets calculate the total number of boys.
 
-TODOWORKING
+$
+\begin {aligned}
+\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
+                        &= \dfrac {2} {5} \times 120 \\\\
+                        &= \dfrac {2 \times 120} {5} \\\\
+                        &= \dfrac {2 \times 24 \times 5} {5} \\\\
+                        &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
+                        &= 2 \times 24 \\\\
+                        &= 48
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$48$
 
 </div>
 </div>
@@ -1561,7 +1749,7 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1612,15 +1800,16 @@ $\dfrac{2}{3} + \dfrac{5}{6}$
 <div class='working'>
 
 $
-\begin{aligned}
+\begin {aligned}
 &= \dfrac {2} {3} + \dfrac {5} {6} \\\\
-&= \dfrac {2 \times 2 + 5} {6} \\\\
+&= \dfrac {2 \times 2} {3 \times 2} + \dfrac {5} {6} \\\\
+&= \dfrac {4} {6} + \dfrac {5} {6} \\\\
 &= \dfrac {4 + 5} {6} \\\\
 &= \dfrac {9} {6} \\\\
-&= \dfrac {3 \times 3} {3 \times 2} \\\\ 
-&= \dfrac {\cancel {3} \times 3 } { \cancel {3} \times 2} \\\\ 
+&= \dfrac {3 \times 3} {3 \times 2} \\\\
+&= \dfrac {\cancel {3} \times 3} {\cancel {3} \times 2} \\\\
 &= \dfrac {3} {2}
-\end{aligned}
+\end {aligned}
 $
 
 </div>
@@ -1652,11 +1841,9 @@ $\dfrac{5}{6} - \dfrac{3}{4}$
 $
 \begin{aligned}
 &= \dfrac {5} {6} - \dfrac {3} {4} \\\\
-&= \dfrac {4 \times 5 - 6 \times 3} {24} \\\\
-&= \dfrac {20 - 18} {24} \\\\
-&= \dfrac {2} {24} \\\\
-&= \dfrac {2} {12 \times 2} \\\\
-&= \dfrac {\cancel {2} } {12 \times \cancel {2} } \\\\
+&= \dfrac {5 \times 2} {6 \times 2} - \dfrac {3 \times 3} {4 \times 3} \\\\
+&= \dfrac {10} {12} - \dfrac {9} {12} \\\\
+&= \dfrac {10 - 9} {12} \\\\
 &= \dfrac {1} {12}
 \end{aligned}
 $
@@ -1692,18 +1879,8 @@ What fraction in the diagram below is shaded?
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -3679,18 +3856,18 @@ $
 \end{aligned}
 $
 
-Let's put them in acending order now.
+Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {600} {1000},  \quad \dfrac {605} {1000},  \quad \dfrac {650} {1000} \\\\
-&= \dfrac{3}{5},  \quad 0.605,  \quad 65\%
+&= \dfrac {600} {1000}<  \quad \dfrac {605} {1000}<  \quad \dfrac {650} {1000} \\\\
+&= \dfrac{3}{5}<  \quad 0.605<  \quad 65\%
 \end{aligned}
 $
 
 Largest $= \ 65\%$
 
-Smallest $= \ \dfrac{3}{5}$
+Smallest $= \ \dfrac {3} {5}$
 
 </div>
 </div>
@@ -3698,7 +3875,8 @@ Smallest $= \ \dfrac{3}{5}$
 <div class='answer'>
 
 Largest $= 65\%$
-Smallest $= \dfrac{3}{5}$
+
+Smallest $= \dfrac {3} {5}$
 
 </div>
 </div>
@@ -3725,6 +3903,32 @@ tfraction
 </div>
 <div class='question question'>
 
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
 Find $\text{one seventh of 280}$
 
 </div>
@@ -3733,11 +3937,12 @@ Find $\text{one seventh of 280}$
 
 $
 \begin{aligned}
-&= \dfrac {1} {7} \text{of} 280 \\\\
+&= \text{one seventh of 280} \\\\
+&= \dfrac {1} {7} \ \text{of} \ 280 \\\\
 &= \dfrac {1} {7} \times 280 \\\\
 &= \dfrac {1 \times 280} {7} \\\\
-&= \dfrac {40 \times 7} {7} \\\\
-&= \dfrac {40 \times \cancel{7}} {\cancel{7}} \\\\
+&= \dfrac {7 \times 40} {7} \\\\
+&= \dfrac {\cancel{7} \times 40} {\cancel{7}} \\\\
 &= 40
 \end{aligned}
 $
@@ -3751,7 +3956,9 @@ $40$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3772,7 +3979,7 @@ $
 \begin{aligned}
 &= \dfrac {4} {7} \ \text{of} \ 280 \\\\
 &= \dfrac {4} {7} \times 280 \\\\
-&= 4 \times \dfrac {1 \times 280} {7} \\\\
+&= 4 \times \dfrac {1} {7} \times 280 \\\\
 &= 4 \times 40 \\\\
 &= 160
 \end{aligned}
@@ -3823,6 +4030,26 @@ Write down a decimal between $90\%$ and $95\%$
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Let's first list down other percentages between $90\%$ and $95\%$ and then convert one of them into decimal, as asked in the question.
+
+
+\begin{aligned}
+&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
+\end{aligned}
+
+
+Let's convert 92\% into decimal.
+
+
+\begin{aligned}
+&= \dfrac {92} {100}\\\\
+&= 0.92
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 $
@@ -4355,7 +4582,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>29DE4114-CF16-4830-A1D8-498E9062A293</p>
 </div>
@@ -4374,24 +4601,14 @@ Evaluate
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -4413,8 +4630,10 @@ $\dfrac {3} {4} + \dfrac {1}{3}$
 $
 \begin{aligned}
 &= \dfrac {3} {4} + \dfrac {1} {3} \\\\
-&= \dfrac {3 \times 3 + 4} {12} \\\\
-&= \dfrac {13} {12} \\\\
+&= \dfrac {3 \times 3} {4 \times 3} + \dfrac {1 \times 4} {3 \times 4} \\\\
+&= \dfrac {9} {12} + \dfrac {4} {12} \\\\
+&= \dfrac {9 + 4} {12} \\\\
+&= \dfrac {13} {12}
 \end{aligned}
 $
 
@@ -4446,13 +4665,11 @@ $\dfrac {5} {7} + \dfrac {2} {5}$
 
 $
 \begin{aligned}
-&= \dfrac {5} {7} + dfrac {2} {5} \\\\
-&= \dfrac {5 \times 5 + 7 \times 2} {35} \\\\
-&= \dfrac {25 + 15} {35} \\\\
-&= \dfrac {40} {35} \\\\
-&= \dfrac {5 \times 8} {5 \times 7} \\\\
-&= \dfrac {\cancel {5} \times 8} { \cancel {5} \times 7} \\\\
-%= \dfrac {8}{7} 
+&= \dfrac {5} {7} + \dfrac {2} {5} \\\\
+&= \dfrac {5 \times 5} {7 \times 5} + \dfrac {2 \times 7} {5 \times 7} \\\\
+&= \dfrac {25} {35} + \dfrac {14} {35} \\\\
+&= \dfrac {25 + 14} {35} \\\\
+&= \dfrac {39} {35}
 \end{aligned}
 $
 
@@ -4461,12 +4678,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {8} {7}$
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {39} {35}$
 
 </div>
 </div>
@@ -4489,12 +4701,11 @@ $\dfrac {4} {9} \div \dfrac {5} {11}$
 
 $
 \begin{aligned}
-&= \dfrac {4} {9} \div \dfrac {5} {11} \\\\
-&= \dfrac {4/9} {5/9} \\\\
-&= \dfrac {4} {9} \times \dfrac {9} {5} \\\\
-&= \dfrac {4 \times 9} {9 \times 5} \\\\
-&= \dfrac {4 \times \cancel{9} } {\cancel {9} \times 5} \\\\
-&= \dfrac {4} {5} 
+&= \dfrac {4} {9} + \dfrac {5} {11} \\\\
+&= \dfrac {4 \times 11} {9 \times 11} + \dfrac {5 \times 9} {11 \times 9} \\\\
+&= \dfrac {44} {99} + \dfrac {45} {99} \\\\
+&= \dfrac {44 + 45} {99} \\\\
+&= \dfrac {89} {99}
 \end{aligned}
 $
 
@@ -4503,7 +4714,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$ \dfrac {4} {5}$
+$\dfrac {89} {99}$
 
 </div>
 </div>
@@ -4515,7 +4726,7 @@ $ \dfrac {4} {5}$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -6615,58 +6826,6 @@ $10 \ \text{piles} + 3 \ \text{Quacks} + 1 \ \text{Moos}$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>E16D6325-36FF-464C-8198-472884A6720D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate $(2.3 + 3.7) \div 9$. Leave your answer as a simplified fraction.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= (2.3 + 3.7) \div 9 \\\\
-&= \dfrac{(2.3 + 3.7)}{9} \\\\
-&= \dfrac{6}{9} \\\\
-&= \dfrac{2 \times 3}{3 \times 3} \\\\
-&= \dfrac{2 \times \cancel{3}}{3 \times \cancel{3}} \\\\
-&= \dfrac{2}{3}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{2}{3}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>1F45A013-A394-4AD2-A795-8AA3EF051A9F</p>
 </div>
 <div class='topics'>
@@ -6686,19 +6845,25 @@ $\dfrac{\phantom{11}}{12} = \dfrac{12}{18} = \dfrac{18}{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
+Let's take the first missing number $= a$
+
+Let's take the second missing number $= b$
+
 $
 \begin{aligned}
-\text{First missing number}         &= \dfrac{12}{18} \times 12 \\\\
+\dfrac{a}{12}                       &= \dfrac{12}{18} \\\\
+a                                   &= \dfrac{12}{18} \times 12 \\\\
                                     &= \dfrac{12 \times 12}{18} \\\\
                                     &= \dfrac{4 \times 3 \times 2 \times 6}{3 \times 6} \\\\
                                     &= \dfrac{4 \times \cancel{3} \times 2 \times 6}{\cancel{3} \times \cancel{6}} \\\\
-                                    &= 4 \times 2 \\\\
+a                                   &= 4 \times 2 \\\\
 \text{First missing number}         &= 8 \\\\
-\text{Second missing number}        &= \dfrac{18}{12} \times 18 \\\\
+\dfrac{b}{18}                       &= \dfrac{18}{12} \\\\
+b                                   &= \dfrac{18}{12} \times 18 \\\\
                                     &= \dfrac{18 \times 18}{12} \\\\
                                     &= \dfrac{6 \times 3 \times 9 \times 2}{6 \times 2} \\\\
                                     &= \dfrac{\cancel{6} \times 3 \times 9 \times \cancel{2}}{\cancel{6} \times \cancel{2}} \\\\
-                                    &= 3 \times 9 \\\\
+b                                  &= 3 \times 9 \\\\
 \text{Second missing number}        &= 27
 \end{aligned}
 $
@@ -7439,7 +7604,7 @@ $\dfrac {9} {25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>94F6515A-3D31-4CC3-B8C6-9C2867CCD37D</p>
 </div>
@@ -7458,27 +7623,12 @@ Find the difference between $43 \dfrac{1}{3}$ and $51 \dfrac{2}{3}$.
 <div class='workings'>
 <div class='working'>
 
-First lets convert fractions from mixed to proper fractions
-
 $
 \begin{aligned}
-&= 43\dfrac {1} {3} \\\\
-&= \dfrac {43 \times 3 + 1} {3} \\\\
-&= \dfrac {130} {3} \\\\ \\\\
-&= \51 \dfrac {2} {3} \\\\
-&= \dfrac {51 \times 3 + 2} {3} \\\\\
-&= \dfrac {153 + 2} {3} \\\\
-&= \dfrac {155} {3} 
-\end{aligned}
-$
-
-Now let's find the difference
-
-$
-\begin{aligned}
-\dfrac {130} {3} - \dfrac {155} {3} \\\\
-\dfrac {130 - 155} {3} \\\\
-\dfrac {-25} {3}
+\text {Difference}   &= 51 \ \dfrac {2} {3} - 43 \ \dfrac {1} {3} \\\\
+                     &= \dfrac {155} {3} - \dfrac {130} {3} \\\\
+                     &= \dfrac {155 - 130} {3} \\\\
+                     &= \dfrac {25} {3}
 \end{aligned}
 $
 
@@ -7487,7 +7637,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {-25} {3}$
+$\dfrac {25} {3}$
 
 </div>
 </div>
@@ -7496,7 +7646,7 @@ $\dfrac {-25} {3}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -8132,7 +8282,7 @@ $1 \dfrac {1} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>8F86C566-74D4-41CB-ADC6-2648BC6CBC05</p>
 </div>
@@ -8154,26 +8304,14 @@ Phil holds a bag containing $16$ blue sweets and $4$ red sweets.
 <div class='workings'>
 <div class='working'>
 
-Total sweets $16 + 4 = 20$ \\\\
-
-Percentage of red sweets
-
-$
-\begin{aligned}
-&= \dfrac {4} {20} \times 100 \\\\
-&= \dfrac {4 \times 100} {20}  \\\\
-&= \dfrac {4 \times 20 \times 5} {20}  \\\\
-&= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20} }  \\\\
-&= 20 \%
-\end{aligned}
-$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20\%$
+%empty%
 
 </div>
 </div>
@@ -8192,17 +8330,18 @@ What **percentage** of sweets in this bag are red?
 <div class='workings'>
 <div class='working'>
 
-Total sweets $16 + 4 = 20$ \\\\
-
-Percentage of red sweets
+As per the question,
 
 $
 \begin{aligned}
-&= \dfrac {4} {20} \times 100 \\\\
-&= \dfrac {4 \times 100} {20}  \\\\
-&= \dfrac {4 \times 20 \times 5} {20}  \\\\
-&= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20} }  \\\\
-&= 20 \%
+\text {Percentage of red sweets}    &= \dfrac {\text {Number of red sweets}} {\text {Total number of sweets}} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {20} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {20} \times 100 \\\\
+                                    &= \dfrac {4 \times 100} {20} \\\\
+                                    &= \dfrac {4 \times 20 \times 5} {20} \\\\
+                                    &= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20}} \\\\
+                                    &= 4 \times 5 \\\\
+                                    &= 20 \%
 \end{aligned}
 $
 
@@ -8211,7 +8350,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {3} {4}$
+$20 \%$
 
 </div>
 </div>
@@ -8234,9 +8373,9 @@ What fraction of the sweets in the bag are now blue?
 <div class='workings'>
 <div class='working'>
 
-Now, Total sweets becomes $20 - 4 = 16$
+Now, Total sweets becomes $20 - 4 = 16$.
 
-No of blue sweets $16 - 4 = 12$
+No of blue sweets $16 - 4 = 12$.
 
 $
 \begin{aligned}
@@ -8264,7 +8403,7 @@ $\dfrac {3} {4}$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -11275,17 +11414,21 @@ In this case, there are more fractions, so let's convert all the numbers into fr
 
 $
 \begin{aligned}
-&= 0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3} \\\\
-&= \dfrac {3} {10} , \quad \dfrac {8} {25} , \quad \dfrac {33} {100} \quad \dfrac {1} {3} \\\\
-&= \dfrac {3 \times 30} {10 \times 30} , \quad \dfrac {8 \times 12} {25 \times 12} , \quad \dfrac {33 \times 3} {100 \times 3} , quad \dfrac {1 \times 100} {3 \times 100} \\\\
-&= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} \quad \dfrac {100} {300}
+&= 0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac {1} {3} \\\\
+&= \dfrac {3} {10} , \quad \dfrac {8} {25} , \quad \dfrac {33} {100} , \quad \dfrac {1} {3} \\\\
+&= \dfrac {3 \times 30} {10 \times 30} , \quad \dfrac {8 \times 12} {25 \times 12} , \quad \dfrac {33 \times 3} {100 \times 3} , \quad \dfrac {1 \times 100} {3 \times 100} \\\\
+&= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} , \quad \dfrac {100} {300}
 \end{aligned}
 $
 
 Let's put them in ascending order now.
 
-$= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} \quad \dfrac {100} {300}$
-$= 0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
+$ 
+\begin{aligned}
+&=\dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} , \quad \dfrac {100} {300} \\\\
+&= 0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac {1} {3}
+\end{aligned}
+$
 
 </div>
 </div>

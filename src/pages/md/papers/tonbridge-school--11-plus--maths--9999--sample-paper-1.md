@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-11-plus-maths-9999-sample-paper-1"
 title: "Tonbridge School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Tonbridge School</h1>
@@ -548,9 +548,7 @@ A factor of $12$
 <div class='workings'>
 <div class='working'>
 
-Factors of $12$ = $1, 2, 3, 4, 6, 12$
-
-Factor from the list = $6$
+$6$
 
 </div>
 </div>
@@ -578,7 +576,7 @@ A multiple of $15$
 <div class='workings'>
 <div class='working'>
 
-$15 \times 3$ = $45$
+$45$
 
 </div>
 </div>
@@ -722,17 +720,21 @@ In this case, there are more fractions, so let's convert all the numbers into fr
 
 $
 \begin{aligned}
-&= 0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3} \\\\
-&= \dfrac {3} {10} , \quad \dfrac {8} {25} , \quad \dfrac {33} {100} \quad \dfrac {1} {3} \\\\
-&= \dfrac {3 \times 30} {10 \times 30} , \quad \dfrac {8 \times 12} {25 \times 12} , \quad \dfrac {33 \times 3} {100 \times 3} , quad \dfrac {1 \times 100} {3 \times 100} \\\\
-&= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} \quad \dfrac {100} {300}
+&= 0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac {1} {3} \\\\
+&= \dfrac {3} {10} , \quad \dfrac {8} {25} , \quad \dfrac {33} {100} , \quad \dfrac {1} {3} \\\\
+&= \dfrac {3 \times 30} {10 \times 30} , \quad \dfrac {8 \times 12} {25 \times 12} , \quad \dfrac {33 \times 3} {100 \times 3} , \quad \dfrac {1 \times 100} {3 \times 100} \\\\
+&= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} , \quad \dfrac {100} {300}
 \end{aligned}
 $
 
 Let's put them in ascending order now.
 
-$= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} \quad \dfrac {100} {300}$
-$= 0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
+$ 
+\begin{aligned}
+&=\dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} , \quad \dfrac {100} {300} \\\\
+&= 0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac {1} {3}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1016,12 +1018,10 @@ $𝑎𝑏^2$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 &= ab^2 \\\\
-&= 3 \time 5^2 \\\\
+&= 3 \times 5^2 \\\\
 &= 3 \times 25 \\\\
 &= 75
 \end{aligned}
@@ -1058,9 +1058,9 @@ As per the question,
 $
 \begin{aligned}
 &= bc^2 \\\\
-&= 5 \time (-2)^2 \\\\
-&= 5 \times 4 \\\\
-&= 20
+&= ( 5 \times -2)^2 \\\\
+&= 10^2 \\\\
+&= 100
 \end{aligned}
 $
 
@@ -1069,7 +1069,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$100$
 
 </div>
 </div>
@@ -1175,6 +1175,7 @@ $
 \begin{aligned}
 &= a - \dfrac{b}{c} \\\\
 &= 3 - \dfrac{5}{-2} \\\\
+&= 3 + \dfrac{5}{2} \\\\
 &= \dfrac{3 \times 2} {1 \times 2} + \dfrac {5} {2} \\\\
 &= \dfrac{6} {2} + \dfrac {5} {2} \\\\
 &= \dfrac{6 + 5} {2} \\\\
@@ -1570,8 +1571,8 @@ $3 - 2(𝑒 - 1)$
 $
 \begin{aligned}
 &= 3 - 2(𝑒 - 1) \\\\
-&= 3 - 2e - 2 \\\\
-&= 1 - 2e
+&= 3 - 2e + 2 \\\\
+&= 5 - 2e
 \end{aligned}
 $
 
@@ -1580,7 +1581,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1-2e$
+$5-2e$
 
 </div>
 </div>
@@ -1648,8 +1649,10 @@ $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+2)}}  
 &&  \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+4)}} \\
-2,  &&    4,  &&  7,  &&   11 \ldots
+&&  \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+6)}} \\
+2,  &&    4,  &&  7,  &&   11, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1667,7 +1670,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Next numbers : $16, 22$
+$16, 22$
 
 </div>
 </div>
@@ -1695,8 +1698,9 @@ $
 &   \footnotesize{\maroonC{(\times 3)}}  
 &&  \footnotesize{\maroonC{(\times 3)}} 
 &&  \footnotesize{\maroonC{(\times 3)}}   
+&&  \footnotesize{\maroonC{(\times 3)}}
 &&  \footnotesize{\maroonC{(\times 3)}} \\
-\frac {2} {3},  &&    2,  &&  6,  &&   ,  &&   18 \ldots
+\dfrac {2} {3},  &&    2,  &&  6,  &&   18,  &&   \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1714,7 +1718,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Next numbers : $54 , 162$
+$54 , 162$
 
 </div>
 </div>
@@ -1737,17 +1741,20 @@ Explain why if the first term is $\frac{-2} {9}$ the second term is $\frac{1} {3
 <div class='workings'>
 <div class='working'>
 
-As per the question, the next number in the sequence is tripled and added by one.
+As per the question,
 
-If the first term is $\dfrac{-2} {9}$, then the next term would be :
+The next number is tripled and added by one.
+
 $
 \begin{aligned}
 &= \dfrac{-2} {9} \times 3 + 1 \\\\
-&= \dfrac {-2 \times 3} {3 \times 3} + 1 \\\\
-&= \dfrac {-2 \times \cancel {3}} {3 \times \cancel {3}} + 1 \\\\
-&= \dfrac{-2} {3} + 1 \\\\
-&= \dfrac{-2} {3} + \dfrac{3} {3} \\\\
-&= \dfrac{-2 + 3} {3} \\\\
+&= \dfrac {-2 \times 3} {9} + 1 \\\\
+&= \dfrac {-6} {9} + \dfrac{1 \times 9}{1 \times 9} \\\\
+&= \dfrac {-6} {9} + \dfrac{9}{9} \\\\
+&= \dfrac{-6 + 9}{9} \\\\
+&= \dfrac{3}{9} \\\\
+&= \dfrac{3}{3 \times 3} \\\\
+&= \dfrac{\cancel {3}}{\cancel {3} \times 3} \\\\
 &= \dfrac {1} {3}
 \end{aligned}
 $
@@ -1759,7 +1766,7 @@ The second term = $\dfrac {1} {3}$
 <div class='answers'>
 <div class='answer'>
 
-The second term = $\dfrac {1} {3}$
+$\dfrac {1} {3}$
 
 </div>
 </div>
@@ -1780,24 +1787,44 @@ Find the fourth term
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+The next number is tripled and added by one.
 
-TODOWORKING
+Second term = $\dfrac {1} {3}$
+
+Third term $=$
+
+$
+\begin{aligned}
+&= \dfrac{1}{3} \times 3 + 1 \\\\
+&= \dfrac{1 \times 3}{3} + 1 \\\\
+&= \dfrac{1 \times \cancel{3}}{\cancel{3}} + 1 \\\\
+&= 1 + 1 \\\\
+&= 2
+\end{aligned}
+$
+
+Third term $=2$
+
+Fourth term $=$ 
+
+$
+\begin{aligned}
+&= 2 \times 3 + 1 \\\\\
+&= 6 + 1 \\\\
+&= 7
+\end{aligned}
+$
+
+Fourth term $= 7$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$7$
 
 </div>
 </div>
@@ -2033,12 +2060,12 @@ $3𝑥 - 4 = 20$
 $
 \begin{aligned}
 3x - 4      &= 20 \\\\
-3x          & 20 + 4 \\\\
+3x          &= 20 + 4 \\\\
 3x          &= 24 \\\\
-x           &= \dfrac {24} {4} \\\\
-x           &= \dfrac {4 \times 6} {4} \\\\
-x           &= \dfrac {\cancel {4} \times 6} {\cancel {4}} \\\\
-x           &= 6
+x           &= \dfrac {24} {3} \\\\
+x           &= \dfrac {3 \times 8} {3} \\\\
+x           &= \dfrac {\cancel {3} \times 8} {\cancel {3}} \\\\
+x           &= 8
 \end{aligned}
 $
 
@@ -2047,7 +2074,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6$
+$8$
 
 </div>
 </div>
@@ -2072,7 +2099,7 @@ $
 \begin{aligned}
 2 - x       &= 3(1 - x) \\\\
 2 - x       &= 3 - 3x \\\\
--x + 3x     &= 3 - 2 \\\\
+3x - x      &= 3 - 2 \\\\
 2x          &= 1 \\\\
 x           &= \dfrac{1} {2} 
 \end{aligned}
@@ -2107,8 +2134,8 @@ $\frac {𝑥} {3} =\frac {𝑥-4} {2}$
 $
 \begin{aligned}
 \frac {x} {3}       &= \frac {x-4} {2} \\\\
-x \times 2          &= (x-4) \times 3 \\\\
-2x                  &= 3x - 4 \times 3 \\\\
+x \times 2          &= 3 \times (x-4) \\\\
+2x                  &= (3 \times x) - (3 \times 4) \\\\
 2x                  &= 3x - 12 \\\\
 12                  &= 3x - 2x \\\\
 12                  &= x \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>
@@ -435,15 +435,24 @@ $0.627 = 0.6 + 0.02 + \ldots$
 <div class='workings'>
 <div class='working'>
 
-$\text{Missing number} = 0.627 - 0.6 - 0.02$
-$= 0.627 - 0.62 = 0.07$
+$
+\begin{aligned}
+0.627 &= 0.6 + 0.02 + \ldots \\\\
+0.627 &= 0.6 + 0.02 + \text{Missing number} \\\\
+\text{Missing number}   &= 0.627 - 0.6 - 0.02 \\\\
+                        &= 0.627 - 0.62 \\\\
+                        &= 0.007
+
+\end{aligned}
+$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.07$
+$0.007$
 
 </div>
 </div>
@@ -477,10 +486,6 @@ $0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
 </div>
 <div class='workings'>
 <div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, there are more decimals.
 
 $= 0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
 
@@ -578,7 +583,19 @@ Write the three prime numbers which multiply to make $231$:
 <div class='workings'>
 <div class='working'>
 
-$3 \times 7 \times 11 = 231$
+Prime numbers $= 2, 3, 5, 7, 11, 13, \ldots$
+
+As the unit digit has $1$, we can rule out $2$ and $5$ .
+
+Let's try &3& , &7& and &11& .
+
+$
+\begin{aligned}
+&= 3 \times 7 \times 11 \\\\
+&= 21 \times 11 \\\\
+&= 231
+\end{aligned}
+$
 
 </div>
 </div>
@@ -621,9 +638,11 @@ Write in the missing numbers:
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+As per the question,
 
-Let the difference between the terms is $a$. Hence, the sequence would be:
+Halid adds the same amount each time. The difference between the consecutive terms of the sequence is always same. 
+
+Let take the amount $= a$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -635,28 +654,29 @@ $
 \end{matrix}
 $
 
-As per the sequence,
 $
 \begin{aligned}
 2 + 4a      &= 18 \\\\
 4a          &= 18 - 2 \\\\
 4a          &= 16 \\\\
-a           &= \dfrac{16}{4} \\\\
 a           &= \dfrac{4 \times 4}{4} \\\\
 a           &= \dfrac{4 \times \cancel{4}}{\cancel{4}} \\\\
 a           &= 4
 \end{aligned}
 $
 
+The amount Halid adds $= 4$
+
+Hence the sequence would be:
+
 $
-\begin{aligned}
-\text{First missing number}        &= 2 + 4 \\\\
-                                   &= 6 \\\\
-\text{Second missing number}       &= 6 + 4 \\\\
-                                   &= 10 \\\\
-\text{Third missing number}        &= 10 + 4 \\\\
-                                   &= 14
-\end{aligned}
+\begin{matrix}
+&   \footnotesize{\maroonC{(+4)}} 
+&&  \footnotesize{\maroonC{(+4)}}  
+&&  \footnotesize{\maroonC{(+4)}}   
+&&  \footnotesize{\maroonC{(+4)}} \\
+2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
+\end{matrix}
 $
 
 </div>
@@ -697,9 +717,9 @@ In this sequence each number is double the previous number. Write in the missing
 <div class='workings'>
 <div class='working'>
 
-As pr the question,
+As per the question,
 
-Each number in the sequence is double the previous number. So:
+Each number in the sequence is double the previous number. Hence the sequence would be :
 
 $
 \begin{matrix}
@@ -710,16 +730,17 @@ $
 &&  \footnotesize{\maroonC{(\times 2)}}  
 &&  \footnotesize{\maroonC{(\times 2)}}   
 &&  \footnotesize{\maroonC{(\times 2)}} \\
-\ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48  &&  \ldots
+\ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48,  &&  \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
 \text{Second missing number}       &= \dfrac{3}{2} \\\\
-
+                                   &= 1.5 \\\\
 \text{First missing number}        &= \dfrac{3}{2 \times 2} \\\\
                                    &= \dfrac{3}{4} \\\\
+                                   &= 0.75
 \text{Third missing number}        &= 48 \times 2 \\\\
                                    &= 96
 \end{aligned}
@@ -730,7 +751,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{3}{2}, \dfrac{3}{4}, 96$
+$\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96$
 
 </div>
 </div>
@@ -765,33 +786,43 @@ How many biscuits do Alysha and Julia each have?
 <div class='workings'>
 <div class='working'>
 
-Let the biscuits with Alysha $=a$
-
-Biscuits with Julia $= 14 - a$
+Let the number of biscuits Juilia has $=a$
 
 As per the question,
 
+Biscuits (Alysha) + Biscuits (Julia) = Total Biscuits
+
 $
 \begin{aligned}
-a       &= 14 - a + 2 \\\\
-2a      &= 16 \\\\
-a       &= \dfrac{16}{2} \\\\
-a       &= \dfrac{8 \times 2}{2} \\\\
-a       &= \dfrac{8 \times \cancel{2}}{\cancel{2}} \\\\
-a       &= 8
+(a + 2) + a &= 14 \\\\\
+2a + 2  &= 14 \\\\
+2a      &= 14 - 2 \\\\
+2a      &= 12 \\\\
+a       &= \dfrac{12}{2} \\\\
+a       &= \dfrac{6 \times 2}{2} \\\\
+a       &= \dfrac{6 \times \cancel{2}}{\cancel{2}} \\\\
+a       &= 6
 \end{aligned}
 $
 
-Biscuits with Alysha $=8$
+No. of biscuits Juilia has $= 6$
 
-Biscuits with Julia $= 14 - 8 = 6$
+No. of biscuits Alysha has 
+
+$
+\begin{aligned}
+&= 2 + a \\\\
+&= 2 + 6 \\\\
+&= 8
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8, 6$
+Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
 
 </div>
 </div>
@@ -1532,13 +1563,14 @@ Three apples and a banana cost $32 \text{p}$. Six apples and a banana cost $53 \
 <div class='workings'>
 <div class='working'>
 
-Let the cost of a banana $= a$
+Let take apple $= a$
+
+and let's take banana $= b$
 
 As per the question,
 
 $3 \times \text{apple cost} + 1 \times \text{banana cost}        = 53 \text{p}$
 
-Cost of apple $= \dfrac{32 - a}{3}$
 
 Also,
 

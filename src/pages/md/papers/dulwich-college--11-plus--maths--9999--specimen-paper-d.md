@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-d"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper D"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Dulwich College</h1>
@@ -438,7 +438,7 @@ $16, 24, 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>94575FCE-B695-49E6-BE39-C1569C3879FA</p>
 </div>
@@ -457,24 +457,14 @@ tnumber
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -493,24 +483,14 @@ Round $1517$ to the nearest $100$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$1500$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$1500$
 
 </div>
 </div>
@@ -531,24 +511,14 @@ Round $8885$ to the nearest $10$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$8890$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$8890$
 
 </div>
 </div>
@@ -560,7 +530,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -612,7 +582,7 @@ $70$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>F40CA335-0433-490A-BE1D-F7B5BDE3FC1E</p>
 </div>
@@ -639,24 +609,14 @@ $((3 - 7) - 4)$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$3 - (7 - 4)$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$3 - (7 - 4)$
 
 </div>
 </div>
@@ -665,12 +625,12 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>EEA0B465-FB0C-45E9-92BF-4CDC84D3237B</p>
 </div>
@@ -689,24 +649,14 @@ tfraction
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -727,24 +677,14 @@ $\dfrac{6}{9} \qquad \dfrac{2}{3} \qquad \dfrac{18}{27} \qquad \dfrac{7}{10}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\dfrac {7} {10}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {7} {10}$
 
 </div>
 </div>
@@ -767,24 +707,14 @@ $\dfrac{1}{4} \qquad \dfrac{1}{5} \qquad \dfrac{5}{16} \qquad \dfrac{1}{3}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\dfrac {1} {5}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {1} {5}$
 
 </div>
 </div>
@@ -807,24 +737,14 @@ $\dfrac{2}{3} \qquad \dfrac{7}{9} \qquad \dfrac{17}{27} \qquad \dfrac{1}{2}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\dfrac {1} {2}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {1} {2}$
 
 </div>
 </div>
@@ -836,7 +756,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -1188,7 +1108,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>88582ABF-B271-4BB1-9E51-A3EA11DB76AD</p>
 </div>
@@ -1209,24 +1129,14 @@ $9 \qquad 55 \qquad 81 \qquad 13 \qquad 21$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$9, 81$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$9, 81$
 
 </div>
 </div>
@@ -1235,7 +1145,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -1353,7 +1263,7 @@ $0.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
 </div>
@@ -1375,24 +1285,14 @@ A sleeper train leaves London at $10{:}17 \ \text{pm}$ and reaches Edinburgh at 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1411,24 +1311,14 @@ Calculate out how long the journey takes in hours and minutes.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$4 \ \text{hours} 33 \ \text{minutes}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$4 \ \text{hours} 33 \ \text{minutes}$
 
 </div>
 </div>
@@ -1451,24 +1341,22 @@ Calculate the approximate speed of the aeroplane in kilometres per hour.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Speed} &= \dfrac {\text{Distance} } { \text{Time} } \\\\
+             &= \dfrac {5600} {7} \\\\
+             &= \dfrac {800 \times 7} {7} \\\\
+             &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
+             &= 800 \ \text{kilometres per hour}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$800 \ \text{kilometres per hour}$
 
 </div>
 </div>
@@ -1480,12 +1368,12 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
 </div>
@@ -1511,24 +1399,34 @@ Note: all angles are right angles.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Area
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+\text {Total Area} &= \text{Area of rectangle 1} + \text{Area of rectangle 2} \\\\
+                   &= 14 \times 5 + (14 - 6) \times 4 \\\\
+                   &= 70 + 32 \\\\
+                   &= 102 \ \text{cm}^2
+\end{aligned}
+$
 
-TODOWORKING
+Perimeter
+
+$
+\begin{aligned}
+\text {Total Perimeter} &= \text{Perimeter of whole rectangle } - \text{Perimeter of smaller rectangle} \\\\
+                        &= 2 \times (14 + 9) - (6 + 4) \\\\
+                        &= 46 - 10 \\\\
+                        &= 36 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$102 \ \text{cm}^2, 36 \ \text{cm}$
 
 </div>
 </div>
@@ -1537,7 +1435,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -1852,7 +1750,7 @@ $35 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E968A4AB-9158-45EC-BEFC-4C7850264B5F</p>
 </div>
@@ -1872,24 +1770,14 @@ and one ball is chosen at random.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1911,24 +1799,14 @@ Circle which of the following is more likely:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\text {The ball shows an even number}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\text {The ball shows an even number}$
 
 </div>
 </div>
@@ -1949,24 +1827,14 @@ Explain your answer clearly.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3 are 4}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3 are 4}$
 
 </div>
 </div>
@@ -1978,7 +1846,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -2108,7 +1976,7 @@ $32 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E7E0C2A2-8B04-44D2-977B-6CCDF28C9D80</p>
 </div>
@@ -2128,24 +1996,27 @@ the mean decreases to $11$. Find the number which was included.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let take total 7 number as $=a$ and new value as $=b$
+$
+\begin{aligned}
+\text{Old mean} &= 12 \\\\
+\dfrac {a} {7}  &= 12 \\\\
+a               &= 84
 
-</div>
-<div class='working'>
-
-TODOWORKING
+\text{New mean}     &= 11 \\\\
+\dfrac {84 + b} {8} &= 11 \\\\
+84 + b              &= 88 \\\\
+b                   &= 88 - 84 \\\\
+b                   &= 4
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$4$
 
 </div>
 </div>
@@ -2154,7 +2025,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

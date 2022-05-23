@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -1054,18 +1054,18 @@ $
 \end{aligned}
 $
 
-Let's put them in acending order now.
+Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {600} {1000},  \quad \dfrac {605} {1000},  \quad \dfrac {650} {1000} \\\\
-&= \dfrac{3}{5},  \quad 0.605,  \quad 65\%
+&= \dfrac {600} {1000}<  \quad \dfrac {605} {1000}<  \quad \dfrac {650} {1000} \\\\
+&= \dfrac{3}{5}<  \quad 0.605<  \quad 65\%
 \end{aligned}
 $
 
 Largest $= \ 65\%$
 
-Smallest $= \ \dfrac{3}{5}$
+Smallest $= \ \dfrac {3} {5}$
 
 </div>
 </div>
@@ -1073,7 +1073,8 @@ Smallest $= \ \dfrac{3}{5}$
 <div class='answer'>
 
 Largest $= 65\%$
-Smallest $= \dfrac{3}{5}$
+
+Smallest $= \dfrac {3} {5}$
 
 </div>
 </div>
@@ -1141,7 +1142,7 @@ $
 &= 10\% \times 250 \\\\
 &= \dfrac {10} {100} \times 250 \\\\
 &= \dfrac {10 \times 250} {100} \\\\
-&= \dfrac {1 \cancel{0} \times 25 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= \dfrac {1 \cancel{0} \times 25 \cancel{0}} {1 \cancel{00}} \\\\
 &= \pounds 25
 \end{aligned}
 $
@@ -1245,23 +1246,22 @@ $\pounds 6.25$
 </div>
 <div class='question subquestion'>
 
-Use your answers to find $17\,1\diagup2\%$ of $\pounds 250$?
+Use your answers to find $17 \dfrac {1} {2}\%$ of $\pounds 250$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+Using previous answers
+
 $
 \begin{aligned}
 &= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds \ 250 \\\\
 &= 17 \dfrac {1} {2}\% \times 250 \\\\
-&= \dfrac {35} {2}\% \times 250 \\\\
-&= \dfrac {(10 + 10 + 10 + 5)} {2}\% \times 250 \\\\
-&= \dfrac {(10 + 10 + 10 + 5)} {2} \times 250 \\\\
-
-
-
-&= \pounds \ 43.75
+&= (10 + 5 + 2) \dfrac {1} {2}\% \times 250 \\\\
+&= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250
+&= 25 + 12.5 + 6.25 \\\\
+&= \pounds 43.75
 \end{aligned}
 $
 
@@ -1270,7 +1270,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds \ 43.75$
+$\pounds 43.75$
 
 </div>
 </div>
@@ -1300,6 +1300,32 @@ tfraction
 </div>
 <div class='question question'>
 
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
 Find $\text{one seventh of 280}$
 
 </div>
@@ -1308,11 +1334,12 @@ Find $\text{one seventh of 280}$
 
 $
 \begin{aligned}
-&= \dfrac {1} {7} \text{of} 280 \\\\
+&= \text{one seventh of 280} \\\\
+&= \dfrac {1} {7} \ \text{of} \ 280 \\\\
 &= \dfrac {1} {7} \times 280 \\\\
 &= \dfrac {1 \times 280} {7} \\\\
-&= \dfrac {40 \times 7} {7} \\\\
-&= \dfrac {40 \times \cancel{7}} {\cancel{7}} \\\\
+&= \dfrac {7 \times 40} {7} \\\\
+&= \dfrac {\cancel{7} \times 40} {\cancel{7}} \\\\
 &= 40
 \end{aligned}
 $
@@ -1326,7 +1353,9 @@ $40$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1347,7 +1376,7 @@ $
 \begin{aligned}
 &= \dfrac {4} {7} \ \text{of} \ 280 \\\\
 &= \dfrac {4} {7} \times 280 \\\\
-&= 4 \times \dfrac {1 \times 280} {7} \\\\
+&= 4 \times \dfrac {1} {7} \times 280 \\\\
 &= 4 \times 40 \\\\
 &= 160
 \end{aligned}
@@ -1460,6 +1489,8 @@ What is their total age?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 \text{Richard's age}    &= 18 \\\\
@@ -1471,11 +1502,12 @@ $
 \text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
                         &= \dfrac {2} {3} \times 9 \\\\
                         &= \dfrac {2 \times 9} {3} \\\\
-                        &= \dfrac {18} {3} \\\\
-                        &= \dfrac {3 \times 6} {3} \\\\
-                        &= \dfrac {\cancel{3} \times 6} {\cancel{3}} \\\\
+                        &= \dfrac {2 \times 3 \times 3} {3} \\\\
+                        &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
+                        &= 2 \times 3 \\\\
                         &= 6 \\\\
-\text{Total age}        &= 18 + 9 + 6 \\\\
+\text{Total age}        &= \text{Age (Richard) + Age (Adam) + Age (Will)} \\\\
+                        &= 18 + 9 + 6 \\\\
                         &= 33
 \end{aligned}
 $
@@ -1522,6 +1554,26 @@ Write down a decimal between $90\%$ and $95\%$
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Let's first list down other percentages between $90\%$ and $95\%$ and then convert one of them into decimal, as asked in the question.
+
+
+\begin{aligned}
+&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
+\end{aligned}
+
+
+Let's convert 92\% into decimal.
+
+
+\begin{aligned}
+&= \dfrac {92} {100}\\\\
+&= 0.92
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 $
@@ -2183,7 +2235,7 @@ $
 
 There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
 
-Add the second equation from the first to reduce it to one variable.
+Add the second equation to the first to reduce it to one variable.
 
 $
 \begin{aligned}
@@ -2208,7 +2260,7 @@ b                        &= 5
 \end{aligned}
 $
 
-$13 \ \text{and} \ 5$ are the two numbers that have a difference of $8$ and added upto $18$
+Two numbers that have a difference of 8 and added upto 18 are $13$ and $5$
 
 </div>
 </div>

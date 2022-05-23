@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-1"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Alleyn's School</h1>
@@ -1225,7 +1225,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>2163EDE0-E8B5-49D8-B8A9-5068582C7723</p>
 </div>
@@ -1246,14 +1246,18 @@ $3.55, 53.5, 35.5, 5.35, 55.3, 5.53$
 <div class='workings'>
 <div class='working'>
 
-$3.55, 5.35, 5.53, 35.5, 53.5, 55.3$
+$3.55, \quad 53.5, \quad 35.5, \quad 5.35, \quad 55.3, \quad 5.53$
+
+Let's put them in ascending order now,
+
+$3.55 < \quad 5.35 < \quad 5.53 < \quad 35.5 < \quad 53.5 < \quad 55.3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3.55, 5.35, 5.53, 35.5, 53.5, 55.3$
+$3.55, \quad 5.35, \quad 5.53, \quad 35.5, \quad 53.5, \quad 55.3$
 
 </div>
 </div>
@@ -1262,7 +1266,7 @@ $3.55, 5.35, 5.53, 35.5, 53.5, 55.3$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

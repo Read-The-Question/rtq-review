@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2013-sample-paper-4"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -108,7 +108,7 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>647D85F6-502C-403E-87CF-21B9C27E9F6E</p>
 </div>
@@ -129,10 +129,10 @@ Multiply: $67 \times 8$
 
 $
 \begin{array}{cccccccccccccc}
-             & 6 & 7 \\
-    {}\times &   & 8 \\
-    \hline
-             5& 3 & 6 \\
+       &   6    &   7 \\
+\times &        &   8 \\
+\hline 
+  5    &   3    &   6
 \end{array}
 $
 
@@ -150,7 +150,7 @@ $536$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -205,7 +205,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>BDE42C42-21C6-48DE-81AE-A84F76777818</p>
 </div>
@@ -227,14 +227,12 @@ If a dozen eggs cost $\pounds 2.80$, how much do $18$ eggs cost?
 <div class='workings'>
 <div class='working'>
 
-As per the question
+As per the question,
 
 $
 \begin{aligned}
-\text{Cost of 18 eggs}   &= \dfrac {18 \times 2.8} {12} \\\\
-                         &= \dfrac {12 \times 3 \times 1.4} {12} \\\\
-                         &= \dfrac {\cancel {12} \times 3 \times 1.4} {\cancel {12} } \\\\
-                         &= 3 \times 1.4 \\\\
+\text {Cost of 18 eggs}  &= \dfrac {18 \times \pounds 2.8} {12} \\\\
+                         &= \dfrac {50.4} {12} \\\\
                          &= \pounds 4.2
 \end{aligned}
 $
@@ -253,12 +251,12 @@ $\pounds 4.2$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>94F6515A-3D31-4CC3-B8C6-9C2867CCD37D</p>
 </div>
@@ -277,27 +275,12 @@ Find the difference between $43 \dfrac{1}{3}$ and $51 \dfrac{2}{3}$.
 <div class='workings'>
 <div class='working'>
 
-First lets convert fractions from mixed to proper fractions
-
 $
 \begin{aligned}
-&= 43\dfrac {1} {3} \\\\
-&= \dfrac {43 \times 3 + 1} {3} \\\\
-&= \dfrac {130} {3} \\\\ \\\\
-&= \51 \dfrac {2} {3} \\\\
-&= \dfrac {51 \times 3 + 2} {3} \\\\\
-&= \dfrac {153 + 2} {3} \\\\
-&= \dfrac {155} {3} 
-\end{aligned}
-$
-
-Now let's find the difference
-
-$
-\begin{aligned}
-\dfrac {130} {3} - \dfrac {155} {3} \\\\
-\dfrac {130 - 155} {3} \\\\
-\dfrac {-25} {3}
+\text {Difference}   &= 51 \ \dfrac {2} {3} - 43 \ \dfrac {1} {3} \\\\
+                     &= \dfrac {155} {3} - \dfrac {130} {3} \\\\
+                     &= \dfrac {155 - 130} {3} \\\\
+                     &= \dfrac {25} {3}
 \end{aligned}
 $
 
@@ -306,7 +289,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {-25} {3}$
+$\dfrac {25} {3}$
 
 </div>
 </div>
@@ -315,12 +298,12 @@ $\dfrac {-25} {3}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>8C3E04F3-B482-4044-8E82-BC156118F873</p>
 </div>
@@ -339,12 +322,15 @@ A box holds $4$ cakes. How many boxes are needed to store $75$ cakes?
 <div class='workings'>
 <div class='working'>
 
-As per the question
+As per the question,
 
 $
 \begin{aligned}
-\text{Boxed needed}   &= \dfrac {75 \times 4} {1} \\\\
-                      &= 300
+\text{Boxed needed}   &= \dfrac {\text {Total number of cakes}} {\text {Number of cakes in a box}} \\\\
+                      &= \dfrac {75} {4} \\\\
+                      &= 18 \ \dfrac {3} {4} \\\\
+                      &= 18 + 0.75 \\\\
+                      &= 19
 \end{aligned}
 $
 
@@ -353,7 +339,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$300$
+$19$
 
 </div>
 </div>
@@ -362,7 +348,7 @@ $300$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -412,7 +398,7 @@ $0.25 \text{ liters}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>1A2368AC-E81B-4F3A-B9E5-B22495D8510B</p>
 </div>
@@ -438,10 +424,10 @@ $
 \begin{aligned}
 &= \dfrac {300 - 200} {5} \\\\
 &= \dfrac {100} {5} \\\\
-&=  \dfrac {20 \times 5} {5} \\\\
-&=  \dfrac {20 \times \cancel {5} } {\cancel {5} } \\\\
+&= \dfrac {20 \times 5} {5} \\\\
+&= \dfrac {20 \times \cancel {5} } {\cancel {5} } \\\\
 &= 20
-\end{aligned} 
+\end{aligned}
 $
 
 </div>
@@ -458,7 +444,7 @@ $20$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -559,7 +545,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>65468EB0-FBC5-44BD-A335-B722EBC5A7DC</p>
 </div>
@@ -585,27 +571,18 @@ If Fiona pays with a $\pounds 5$ note, how much change does she get?
 
 It is really important to use the right units in calculations and convert where required.
 
-Let's convert all the expenses into pence.
+Let's convert all the expenses into pounds.
 
 $
-\begin{aligned}
-\text{Money spent}   &= \pounds 5 \\\\
-                     &= 5 \times 100 \text{p} \\\\
-                     &= 500 \text{p}
-\end{aligned}
-$
-
-Change she get,
-
-$
-\begin{aligned}
-&= 500 - (3 \times 85 + 5\times 30) \\\\
-&= 500 - (255 + 150) \\\\
-&= 500 - 405 \\\\
-&=  95  \text{p} \\\\
-&= \dfrac {95} {100} \\\\
-&= \pounds 0.95
-\end{aligned}
+\begin {aligned}
+\text {Change she get}  &= \text {Amount she paid} - \text {Amount she spent} \\\\
+                        &= \pounds 5 - (3 \times 85 \text {p} + 5 \times 30 \text {p}) \\\\
+                        &= 5 - (255 + 150) \\\\
+                        &= 5 - (\pounds \dfrac {255} {100} + \pounds \dfrac {150} {100}) \\\\
+                        &= 5 - (2.55 + 1.50) \\\\
+                        &= 5- 4.05 \\\\
+                        &= \pounds 0.95
+\end {aligned}
 $
 
 </div>
@@ -622,7 +599,7 @@ $\pounds 0.95$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -672,7 +649,7 @@ $10:30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC</p>
 </div>
@@ -701,8 +678,9 @@ nineteen
 
 $
 \begin{aligned}
+&= 3 \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
 &= 3000000 + 70000 + 32000 + 19 \\\\
-&= 3102019
+&= 3,102,019
 \end{aligned}
 $
 
@@ -711,7 +689,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3102019$
+$3,102,019$
 
 </div>
 </div>
@@ -720,7 +698,7 @@ $3102019$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

@@ -1,59 +1,9 @@
 ---
 slug: "topics/topic-tmultiplication-oldpr"
 title: "Topic - Multiplication - Old PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>2C145610-ABC7-4EB3-BF0E-4516DEA62C12</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $235 \times 68$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-            &       &       2       & 1     & 3     \\
-{}\times    &       &               & 1     & 7     \\
-\hline
-            &  1    &       4       & 9     & 1     \\
-           &  2    &       1       & 3     & 0     \\
-\hline
-          &      3&       6       & 2     & 1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15980$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_up_oldpr question'>
 <div class='uuid'>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-pr"
 title: "Owner - Eshudhi Jangid - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1701,6 +1701,811 @@ $16, 24, 8$
 
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>94575FCE-B695-49E6-BE39-C1569C3879FA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Round $1517$ to the nearest $100$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1500$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1500$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Round $8885$ to the nearest $10$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8890$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8890$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>F40CA335-0433-490A-BE1D-F7B5BDE3FC1E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle which of the following has a different value from the others:
+
+$3 - 7 - 4$
+
+$(3 - 7) - 4$
+
+$3 - (7 - 4)$
+
+$((3 - 7) - 4)$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3 - (7 - 4)$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 - (7 - 4)$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>EEA0B465-FB0C-45E9-92BF-4CDC84D3237B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the fraction which has a different value from the others:
+
+$\dfrac{6}{9} \qquad \dfrac{2}{3} \qquad \dfrac{18}{27} \qquad \dfrac{7}{10}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {7} {10}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {10}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the smallest of the following fractions:
+
+$\dfrac{1}{4} \qquad \dfrac{1}{5} \qquad \dfrac{5}{16} \qquad \dfrac{1}{3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {1} {5}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the largest of the following fractions:
+
+$\dfrac{2}{3} \qquad \dfrac{7}{9} \qquad \dfrac{17}{27} \qquad \dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>88582ABF-B271-4BB1-9E51-A3EA11DB76AD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpower
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle which of the following numbers are square numbers:
+
+$9 \qquad 55 \qquad 81 \qquad 13 \qquad 21$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9, 81$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9, 81$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sleeper train leaves London at $10{:}17 \ \text{pm}$ and reaches Edinburgh at $5{:}44 \ \text{am}$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate out how long the journey takes in hours and minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4 \ \text{hours} 33 \ \text{minutes}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{hours} 33 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+An aeroplane takes $7 \ \text{hours}$ to travel from London to New York at a
+constant speed. The distance from London to New York is approximately $5600 \ \text{kilometres}$. 
+Calculate the approximate speed of the aeroplane in kilometres per hour.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Speed} &= \dfrac {\text{Distance} } { \text{Time} } \\\\
+             &= \dfrac {5600} {7} \\\\
+             &= \dfrac {800 \times 7} {7} \\\\
+             &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
+             &= 800 \ \text{kilometres per hour}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$800 \ \text{kilometres per hour}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the area and perimeter of this shape. 
+
+Note: all angles are right angles.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Area
+
+$
+\begin{aligned}
+\text {Total Area} &= \text{Area of rectangle 1} + \text{Area of rectangle 2} \\\\
+                   &= 14 \times 5 + (14 - 6) \times 4 \\\\
+                   &= 70 + 32 \\\\
+                   &= 102 \ \text{cm}^2
+\end{aligned}
+$
+
+Perimeter
+
+$
+\begin{aligned}
+\text {Total Perimeter} &= \text{Perimeter of whole rectangle } - \text{Perimeter of smaller rectangle} \\\\
+                        &= 2 \times (14 + 9) - (6 + 4) \\\\
+                        &= 46 - 10 \\\\
+                        &= 36 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$102 \ \text{cm}^2, 36 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>E968A4AB-9158-45EC-BEFC-4C7850264B5F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Twelve balls labelled $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11$ and $12$ are placed in a bag
+and one ball is chosen at random.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle which of the following is more likely:
+
+| The ball shows a multiple of 3 | The ball shows an even number |
+|:------------------------------:|:-----------------------------:|
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {The ball shows an even number}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {The ball shows an even number}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Explain your answer clearly.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3 are 4}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3 are 4}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>E7E0C2A2-8B04-44D2-977B-6CCDF28C9D80</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The mean (average) of seven numbers is $12$. An eighth number is included and
+the mean decreases to $11$. Find the number which was included.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let take total 7 number as $=a$ and new value as $=b$
+$
+\begin{aligned}
+\text{Old mean} &= 12 \\\\
+\dfrac {a} {7}  &= 12 \\\\
+a               &= 84
+
+\text{New mean}     &= 11 \\\\
+\dfrac {84 + b} {8} &= 11 \\\\
+84 + b              &= 88 \\\\
+b                   &= 88 - 84 \\\\
+b                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>4B064430-A3B1-49A5-B5A7-D36E815440A4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$60.2 \div 7$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 60.2 \div 7 \\\\
+&= \dfrac {60.2} {7} \\\\
+&= \dfrac {8.6 \times 7} {7} \\\\
+&= \dfrac {8.6 \times \cancel {7} } {\cancel {7} } \\\\
+&= 8.6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8.6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>95C9AEE9-A464-411A-8B44-638B44241C5F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the factors of 150:
+
+$
+\begin{matrix}
+100 & \quad 30 & \quad 7  & \quad 11 \\
+10  & \quad 3  & \quad 8  & \quad 45
+\end{matrix}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$30, 10, 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30, 10, 3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the area and perimeter of this shape.
+
+Note: all angles are right angles but the diagram has not been drawn to scale.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area} &= 16 \times 3 + 10 \times 7 + 20 \times 2 \\\\
+             &= 48 + 70 + 40 \\\\
+             &= 112 \ \text{cm}^2
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Perimeter} &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
+                  &= 76 \ \text{cm} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$112 \ \text{cm}^2, 76 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>

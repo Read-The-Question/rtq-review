@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpower-all"
 title: "Topic - Power - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -511,7 +511,7 @@ $121$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>88582ABF-B271-4BB1-9E51-A3EA11DB76AD</p>
 </div>
@@ -532,24 +532,14 @@ $9 \qquad 55 \qquad 81 \qquad 13 \qquad 21$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$9, 81$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$9, 81$
 
 </div>
 </div>
@@ -558,7 +548,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

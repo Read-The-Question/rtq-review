@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-g1"
 title: "Topic - Algebra - G1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -9240,6 +9240,65 @@ $1$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Abigail gets up at $07{:}40$ in the morning. 
+
+$25 \ \text{minutes}$ later she starts her breakfast, which takes $10 \ \text{minutes}$ to finish. 
+
+She then leaves for school.  Her journey takes $35 \ \text{minutes}$ in total. 
+
+She arrives $5 \ \text{minutes}$ late for registration. 
+
+At what time is registration?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Registration time}      &= 7{:}40 \ \text{am} + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
+                              &= 7{:}40 \ \text{am} + 65 \ \text{minutes}   \\\\
+                              &= 8{:}45 \ \text{am}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8{:}45 \ \text{am}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>

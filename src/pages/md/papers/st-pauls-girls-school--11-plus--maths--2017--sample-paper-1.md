@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>
@@ -99,7 +99,7 @@ $
 \begin{aligned}
 &= 12 \times 75 \\\\
 &= 6 \times 2 \times 5 \times 15 \\\\
-&= 6 \timees 10 \times 15 \\\\
+&= 6 \times 10 \times 15 \\\\
 &= 90 \times 10
 \end{aligned}
 $
@@ -147,6 +147,7 @@ What number is $40\%$ of $75$?
 
 $
 \begin{aligned}
+&= 40\%$ \ \text{of} \ 75 \\\\
 &= \dfrac{40}{100} \times 75 \\\\
 &= \dfrac{40 \times 75}{100} \\\\
 &= \dfrac{4 \times 10 \times 3 \times 25}{4 \times 25} \\\\
@@ -175,7 +176,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>E16D6325-36FF-464C-8198-472884A6720D</p>
 </div>
@@ -222,7 +223,7 @@ $\dfrac{2}{3}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -248,14 +249,13 @@ $4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case all are in decimals. Lets arrange them in ascending order.
-
 $
 \begin{aligned}
 &= 4.321, \quad 4.32, \quad 4.132, \quad 4.3, \quad 4.123 \\\\
-&= 4.123, \quad 4.132, \quad 4.321, \quad 4.3, \quad 4.32
+&= 4.321, \quad 4.320, \quad 4.132, \quad 4.300, \quad 4.123 \\\\
+&\text{Let's put them in ascending order now.} \\\\
+&= 4.123 < \quad 4.132 < \quad 4.300 < \quad 4.320 < \quad 4.321 \\\\
+&= 4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321
 \end{aligned}
 $
 
@@ -264,7 +264,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4.123, \quad 4.132, \quad 4.321, \quad 4.3, \quad 4.32$
+$4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
 
 </div>
 </div>
@@ -299,19 +299,25 @@ $\dfrac{\phantom{11}}{12} = \dfrac{12}{18} = \dfrac{18}{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
+Let's take the first missing number $= a$
+
+Let's take the second missing number $= b$
+
 $
 \begin{aligned}
-\text{First missing number}         &= \dfrac{12}{18} \times 12 \\\\
+\dfrac{a}{12}                       &= \dfrac{12}{18} \\\\
+a                                   &= \dfrac{12}{18} \times 12 \\\\
                                     &= \dfrac{12 \times 12}{18} \\\\
                                     &= \dfrac{4 \times 3 \times 2 \times 6}{3 \times 6} \\\\
                                     &= \dfrac{4 \times \cancel{3} \times 2 \times 6}{\cancel{3} \times \cancel{6}} \\\\
-                                    &= 4 \times 2 \\\\
+a                                   &= 4 \times 2 \\\\
 \text{First missing number}         &= 8 \\\\
-\text{Second missing number}        &= \dfrac{18}{12} \times 18 \\\\
+\dfrac{b}{18}                       &= \dfrac{18}{12} \\\\
+b                                   &= \dfrac{18}{12} \times 18 \\\\
                                     &= \dfrac{18 \times 18}{12} \\\\
                                     &= \dfrac{6 \times 3 \times 9 \times 2}{6 \times 2} \\\\
                                     &= \dfrac{\cancel{6} \times 3 \times 9 \times \cancel{2}}{\cancel{6} \times \cancel{2}} \\\\
-                                    &= 3 \times 9 \\\\
+b                                  &= 3 \times 9 \\\\
 \text{Second missing number}        &= 27
 \end{aligned}
 $
@@ -335,7 +341,7 @@ $8, 27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>30C9339F-2AC2-4BC2-A71D-BD9F13ABB2A2</p>
 </div>
@@ -380,7 +386,7 @@ $23$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -392,7 +398,7 @@ $23$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tfactor
 </li>
 </ul>
 </div>
@@ -444,7 +450,7 @@ $42$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tinfer
 </li>
 </ul>
 </div>
@@ -522,20 +528,23 @@ Sarah won a large jar of sweets in a Christmas raffle. If there are $486$ sweets
 
 $
 \begin{aligned}
-\text{Sweets per person}        &= \dfrac{Total sweets}{Total people} \\\\
-                                &= \dfrac{486}{17} \\\\
-                                &= 28 \dfrac{10}{17}
+\text{Sweets per person}        &= \dfrac{\text{Total sweets}}{\text{Total people}} \\\\
+                                &= \dfrac{486}{18} \\\\
+                                &= \dfrac{27 \times 18}{18} \\\\
+                                &= \dfrac{27 \times \cancel{18}}{\cancel{18}} \\\\
+                                &= 27
+
 \end{aligned}
 $
 
-Each person gets $28 \dfrac{10}{17}$ Sweets each.
+Each person gets $27$ Sweets each.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$28 \dfrac{10}{17}$
+$27$
 
 </div>
 </div>
@@ -623,7 +632,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of sugar}        &= \text{Total cost} - \text{COst of coffee} - \text{Cost of milk} \\\
+\text{Cost of sugar}        &= \text{Total cost} - \text{Cost of coffee} - \text{Cost of milk} \\\\
                             &= \pounds 5.15 - \pounds 3.69 - 89 \text{p} \\\\
                             &= \pounds 5.15 - \pounds 3.69 - \pounds 0.89 \\\\
                             &= 5.15 - 4.58 \\\\
@@ -673,7 +682,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Number of bags}       &= \dfrac{\text{Total money}}{\text{Money per crisp}} \\\\
+\text{Money per crisp}      &= \text{Money per bag of crisps} \\\\
+\text{Number of crisp bag}  &= \dfrac{\text{Total money}}{\text{Money per crisp}} \\\\
                             &= \dfrac{\pounds 2}{16 \text{p}} \\\\
                             &= \dfrac{200}{16} \\\\
                             &= \dfrac{25 \times 8}{2 \times 8} \\\\

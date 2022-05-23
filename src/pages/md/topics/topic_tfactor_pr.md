@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-pr"
 title: "Topic - Factor - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -823,6 +823,53 @@ $16, 24, 8$
 
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>95C9AEE9-A464-411A-8B44-638B44241C5F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the factors of 150:
+
+$
+\begin{matrix}
+100 & \quad 30 & \quad 7  & \quad 11 \\
+10  & \quad 3  & \quad 8  & \quad 45
+\end{matrix}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$30, 10, 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30, 10, 3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
@@ -1899,13 +1946,10 @@ $11$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>8D859487-1917-4AF8-9CAA-CC95403EF019</p>
+<p>FB21F97F-B716-4F28-B691-6FF3FCEA330A</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tnumber
-</li>
 <li>
 tfactor
 </li>
@@ -1913,11 +1957,13 @@ tfactor
 </div>
 <div class='question question'>
 
-Two whole numbers are each between $40$ and $60$. 
+Write **one** number which fits all three of these statements: 
 
-They multiply to make $2385$. 
+It is a multiple of $3$.
 
-Write in the missing numbers in the boxes below.
+It is a multiple of $7$.
+
+It ends in a $2$.
 
 </div>
 <div class='workings'>
@@ -1925,22 +1971,24 @@ Write in the missing numbers in the boxes below.
 
 As per the question,
 
-$2385$ ends with $5$. So, it must either be divisible by $45$ or $55$.
+It is a multiple of $3$ and $7$. Since $3, 7$ have no common factors, the number is also a multiple of $3 \times 7 = 21$
 
-$45 \times 53 = 2385$
+The number ends with 2. So,
+
+$21 \times 2 = 42$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$45, 53$
+$42$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>
@@ -3182,9 +3230,7 @@ A factor of $12$
 <div class='workings'>
 <div class='working'>
 
-Factors of $12$ = $1, 2, 3, 4, 6, 12$
-
-Factor from the list = $6$
+$6$
 
 </div>
 </div>
@@ -3212,7 +3258,7 @@ A multiple of $15$
 <div class='workings'>
 <div class='working'>
 
-$15 \times 3$ = $45$
+$45$
 
 </div>
 </div>

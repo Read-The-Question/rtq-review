@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-all"
 title: "Topic - Probability - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2489,7 +2489,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E968A4AB-9158-45EC-BEFC-4C7850264B5F</p>
 </div>
@@ -2509,24 +2509,14 @@ and one ball is chosen at random.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2548,24 +2538,14 @@ Circle which of the following is more likely:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\text {The ball shows an even number}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\text {The ball shows an even number}$
 
 </div>
 </div>
@@ -2586,24 +2566,14 @@ Explain your answer clearly.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3 are 4}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3 are 4}$
 
 </div>
 </div>
@@ -2615,7 +2585,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

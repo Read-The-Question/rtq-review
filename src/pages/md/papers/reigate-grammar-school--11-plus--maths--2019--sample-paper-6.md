@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -1150,10 +1150,13 @@ Using the information given above, what is $7504 \div 56$?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-56 \times 134                         &= 7504 \\\\
-7504 \div 56                          &= 134
+7504                                               &= 56 \times 134 \ \text{So,} \\\\
+\dfrac {7504} {56}                                 &= 134 \\\\
+7504 \div 56                                       &= 134
 \end{aligned}
 $
 
@@ -1177,7 +1180,7 @@ $134$
 </div>
 <div class='question subquestion'>
 
-Using the information given above, what is $112 \times 6$
+Using the information given above, what is $112 \times 67$
 
 </div>
 <div class='workings'>
@@ -1185,12 +1188,10 @@ Using the information given above, what is $112 \times 6$
 
 $
 \begin{aligned}
-56 \times 134                                           &= 7504 \\\\
-56 \times 134 \times \dfrac {2} {2}                     &= 7504 \times \dfrac {2} {2} \\\\
-\dfrac {56 \times 134 \times 2} {2}                     &= 7504 \times \dfrac {\cancel{2}} {\cancel{2}} \\\\
-\dfrac {112 \times 2 \times 67} {2}                     &= 7504 \times 1 \\\\
-\dfrac {112 \times \cancel{2} \times 67} {\cancel{2}}   &= 7504 \times 1 \\\\
-112 \times 67                                           &= 7504
+&= 112 \times 67 \\\\
+&= 56 \times 2 \times 67 \\\\
+&= 56 \times 134 \\\\
+&= 7504
 \end{aligned}
 $
 
@@ -2254,18 +2255,23 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 <div class='workings'>
 <div class='working'>
 
-We know, area of a rectangle $= \text{length} \times \text{width}$
+We know,
 
-Length of the pool $= \text{Length of garden} - \text{Width of path} = 15 - 2 = 13 \text{cm}
+$\text{Area of rectangle} = \text{length} \times \text{width}$
 
-Width of the pool $= \text{Width of garden} - \text{Width of path} = 8 - 2 = 6 \text{cm}
+As per the diagram,
 
 $
 \begin{aligned}
+\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
+                                                   &= 15 \ \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \times 8 \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \\\\
+                                                   &= 15 \ \text{cm} - 4 \ \text{cm} \times 8 \ \text{cm} - 4 \ \text{cm} \\\\
+                                                   &= 11 \ \text{cm} \times 4 \ \text{cm} \\\\
+                                                   &= 44 \ \text{cm}^{2} \\\\
 \text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
-                                                   &= 15 \text{cm} \times 8 \text{cm}  - 13 \text{cm} \times 6 \text{cm} \\\\
-                                                   &= 120 \text{cm}^{2} - 78 \text{cm}^{2} \\\\
-                                                   &= 42 \text{cm}^{2}
+                                                   &= 15 \ \text{cm} \times 8 \ \text{cm}  - 44 \ \text{cm}^{2} \\\\
+                                                   &= 120 \ \text{cm}^{2} - 44 \ \text{cm}^{2} \\\\
+                                                   &= 76 \ \text{cm}^{2}
 \end{aligned}
 $
 
@@ -2274,7 +2280,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$42 \text{cm}^{2}$
+$76 \ \text{cm}^{2}$
 
 </div>
 </div>

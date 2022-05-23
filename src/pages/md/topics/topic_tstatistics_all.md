@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-all"
 title: "Topic - Statistics - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3652,7 +3652,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E7E0C2A2-8B04-44D2-977B-6CCDF28C9D80</p>
 </div>
@@ -3672,24 +3672,27 @@ the mean decreases to $11$. Find the number which was included.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let take total 7 number as $=a$ and new value as $=b$
+$
+\begin{aligned}
+\text{Old mean} &= 12 \\\\
+\dfrac {a} {7}  &= 12 \\\\
+a               &= 84
 
-</div>
-<div class='working'>
-
-TODOWORKING
+\text{New mean}     &= 11 \\\\
+\dfrac {84 + b} {8} &= 11 \\\\
+84 + b              &= 88 \\\\
+b                   &= 88 - 84 \\\\
+b                   &= 4
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$4$
 
 </div>
 </div>
@@ -3698,7 +3701,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

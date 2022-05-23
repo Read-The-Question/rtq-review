@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-2"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>The King's School Chester</h1>
@@ -59,7 +59,7 @@ $0.5, 0.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>3EA2D0FB-002E-4716-8D5D-0013DC93B64D</p>
 </div>
@@ -84,8 +84,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Current temparature}  &= 7.20 - 3.15 \\\\
-                            &= 4.05 \degree \text{ C}
+\text{Current temparature}  &= 7.20 \ degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
+                            &= 4.05 \degree \ \text{C}
 \end{aligned}
 $
 
@@ -94,7 +94,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$ 4.05 \degree \text{ C}$
+$4.05 \degree \ \text{C}$
 
 </div>
 </div>
@@ -103,12 +103,12 @@ $ 4.05 \degree \text{ C}$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>717F1DE8-1840-4689-93C1-2F3E5477097E</p>
 </div>
@@ -159,7 +159,7 @@ $11.36 + 3.40$
 $
 \begin{array}{cccccccccccccc}
       &  1 &  1 \ . &  3 &  6 \\
- {}+  &    &  3 \ . &  4 & 0 \\
+{}+   &    &  3 \ . &  4 &  0 \\
    
 \hline
       &  1 &  4 \ . &  7 & 6
@@ -195,10 +195,9 @@ $3.54 - 2.34$
 $
 \begin{array}{cccccccccccccc}
        &  3 \ . &  5 &  4 \\
- {}+      &  2 \ . &  3 & 4 \\
-   
+{}-    &  2 \ . &  3 &  4 \\
 \hline
-         &  1 \ . &  2 & 0
+       &  1 \ . &  2 &  0
 \end{array}
 $
 
@@ -231,15 +230,15 @@ $213 \times 17$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-            &       &       2       & 1     & 3     \\
-{}\times    &       &               & 1     & 7     \\
-\hline
-            &  1    &       4       & 9     & 1     \\
-           &  2    &       1       & 3     & 0     \\
-\hline
-          &      3&       6       & 2     & 1
-\end{array}
+\begin {array}{cccccccccccccc}
+         &     2     &     1     &     3 \\
+\times   &           &     1     &     7 \\
+\hline 
+   1     &     4     &     9     &     1 \\
+   2     &     1     &     3     &     0 \\
+\hline 
+   3     &     6     &     2     &     1
+\end {array}
 $
 
 </div>
@@ -268,16 +267,25 @@ $844 \times 0.25$
 <div class='workings'>
 <div class='working'>
 
+Let's first multiply the numbers ignoring the decimal points.
+
 $
-\begin{aligned}
-&= 844 \times 0.25 \\\\
-&= 844 \times \dfrac {25} {100} \\\\
-&= \dfrac {844 \times 25} {100} \\\\
-&= \dfrac {21100} {100} \\\\
-&= \dfrac {211 \cancel {0} \cancel {0} } {1 \cancel {0} \cancel {0} } \\\\
-&= 211
-\end{aligned}
+\begin {array}{cccccccccccccc}
+         &           &     8     &     4    &     4 \\
+         & \times    &           &     2    &     5 \\
+\hline 
+         &     4     &     2     &     2    &     0 \\
+   1     &     6     &     8     &     8    &     0 \\
+\hline 
+   2     &     1     &     1     &     0    &     0
+\end {array}
 $
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now. 
+
+$= 211.00$
 
 </div>
 </div>
@@ -296,7 +304,7 @@ $211$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -616,7 +624,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>2A9CCF30-78EA-4B85-B124-CF138F1277BD</p>
 </div>
@@ -679,7 +687,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-$\boxed{6} \ \boxed{8} + \boxed {3} \ \boxed{2} = 100 $
+$\boxed{6} \ \boxed{8} + \boxed {3} \ \boxed{2} = 100$
 
 </div>
 </div>
@@ -716,11 +724,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-7 \times \  \boxed{2} &= \ \boxed {21} - 7
-\end{aligned}
-$
+$7 \times \  \boxed{2} = \ \boxed {21} - 7$
 
 </div>
 </div>
@@ -739,7 +743,7 @@ $2, 21$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -868,7 +872,7 @@ $\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>23CDE55D-A582-4C8C-A0F7-78D755282183</p>
 </div>
@@ -876,6 +880,9 @@ $\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {
 <ul>
 <li>
 tsequence
+</li>
+<li>
+tcircle
 </li>
 </ul>
 </div>
@@ -922,23 +929,25 @@ $2 \quad 8 \quad 14 \quad 20 \quad \ldots \quad \ldots$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is 6. Hence, the sequence would be:
+The difference between the terms is $6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{{(6)}} 
-&&  \footnotesize{{(6)}}  
-&&  \footnotesize{{(6)}} \\
-2,  &&    8,  &&  14,  &&   20,  &&   \ldots && \ldots
+&   \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+6)}}  \\
+2,  &&    8,  &&  14,  &&   20,  &&   \ldots  && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing number 1}  &= 20 + 6 \\\\
-                         &= 26 \\\\
-\text{Missing number 2}  &= 26 + 6 \\\\
-                         &= 32                         
+\text{First missing number}   &= 20 + 6 \\\\
+                              &= 26 \\\\
+\text {Second missing number} &= 26 + 6 \\\\
+                              &= 32
 \end{aligned}
 $
 
@@ -970,24 +979,32 @@ $6 \quad 11 \quad 16 \quad 21 \quad 26$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The difference between the terms is $5$.
 
-</div>
-<div class='working'>
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+5)}}
+&&  \footnotesize{\maroonC{(+5)}}  \\
+6,  &&    11,  &&  16,  &&   21,  &&   26
+\end{matrix}
+$
 
-TODOWORKING
+$
+\begin {aligned}
+\text {50th term}  &= 49 \times 5 + 6 \\\\
+                   &= 245 + 6 \\\\
+                   &= 251
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$251$
 
 </div>
 </div>
@@ -1014,24 +1031,24 @@ $200 \quad 2007 \quad 163 \quad 918 \quad 45$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As we know that a number is divisible by 9 if the sum of all its digits is divisible by 9. Using that,
 
-</div>
-<div class='working'>
+| Number    |         Sum                                           | Multiple of $9$
+|:------:   |:----------------------------------------------------: | :--------------:
+|  $200$    | $2 + 0 + 0 = \red {2}$                                |  No
+|  $2007$   | $2 + 0 + 0 + 7 = \green {9}$                          |  Yes
+|  $163$    | $1 + 6 + 3 = \red {10}$                               |  No
+|  $918$    | $9 + 1 + 8 = \green {18}$                             |  Yes
+|  $45$     | $4 + 5 = \green {9}$                                  |  Yes
 
-TODOWORKING
+Answer $= 2007, 918, 45$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$2007, 918, 45$
 
 </div>
 </div>
@@ -1043,7 +1060,7 @@ TODOANSWER
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1211,7 +1228,7 @@ $40 \text{ seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>8F86C566-74D4-41CB-ADC6-2648BC6CBC05</p>
 </div>
@@ -1233,26 +1250,14 @@ Phil holds a bag containing $16$ blue sweets and $4$ red sweets.
 <div class='workings'>
 <div class='working'>
 
-Total sweets $16 + 4 = 20$ \\\\
-
-Percentage of red sweets
-
-$
-\begin{aligned}
-&= \dfrac {4} {20} \times 100 \\\\
-&= \dfrac {4 \times 100} {20}  \\\\
-&= \dfrac {4 \times 20 \times 5} {20}  \\\\
-&= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20} }  \\\\
-&= 20 \%
-\end{aligned}
-$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20\%$
+%empty%
 
 </div>
 </div>
@@ -1271,17 +1276,18 @@ What **percentage** of sweets in this bag are red?
 <div class='workings'>
 <div class='working'>
 
-Total sweets $16 + 4 = 20$ \\\\
-
-Percentage of red sweets
+As per the question,
 
 $
 \begin{aligned}
-&= \dfrac {4} {20} \times 100 \\\\
-&= \dfrac {4 \times 100} {20}  \\\\
-&= \dfrac {4 \times 20 \times 5} {20}  \\\\
-&= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20} }  \\\\
-&= 20 \%
+\text {Percentage of red sweets}    &= \dfrac {\text {Number of red sweets}} {\text {Total number of sweets}} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {20} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {20} \times 100 \\\\
+                                    &= \dfrac {4 \times 100} {20} \\\\
+                                    &= \dfrac {4 \times 20 \times 5} {20} \\\\
+                                    &= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20}} \\\\
+                                    &= 4 \times 5 \\\\
+                                    &= 20 \%
 \end{aligned}
 $
 
@@ -1290,7 +1296,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {3} {4}$
+$20 \%$
 
 </div>
 </div>
@@ -1313,9 +1319,9 @@ What fraction of the sweets in the bag are now blue?
 <div class='workings'>
 <div class='working'>
 
-Now, Total sweets becomes $20 - 4 = 16$
+Now, Total sweets becomes $20 - 4 = 16$.
 
-No of blue sweets $16 - 4 = 12$
+No of blue sweets $16 - 4 = 12$.
 
 $
 \begin{aligned}
@@ -1343,7 +1349,7 @@ $\dfrac {3} {4}$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-all"
 title: "Topic - Percentage - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -356,7 +356,7 @@ $\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>450FEC63-5580-47DE-83CB-40719744776C</p>
 </div>
@@ -450,7 +450,7 @@ $\text{Shop C} = \pounds 820$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -8352,18 +8352,18 @@ $
 \end{aligned}
 $
 
-Let's put them in acending order now.
+Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {600} {1000},  \quad \dfrac {605} {1000},  \quad \dfrac {650} {1000} \\\\
-&= \dfrac{3}{5},  \quad 0.605,  \quad 65\%
+&= \dfrac {600} {1000}<  \quad \dfrac {605} {1000}<  \quad \dfrac {650} {1000} \\\\
+&= \dfrac{3}{5}<  \quad 0.605<  \quad 65\%
 \end{aligned}
 $
 
 Largest $= \ 65\%$
 
-Smallest $= \ \dfrac{3}{5}$
+Smallest $= \ \dfrac {3} {5}$
 
 </div>
 </div>
@@ -8371,7 +8371,8 @@ Smallest $= \ \dfrac{3}{5}$
 <div class='answer'>
 
 Largest $= 65\%$
-Smallest $= \dfrac{3}{5}$
+
+Smallest $= \dfrac {3} {5}$
 
 </div>
 </div>
@@ -8439,7 +8440,7 @@ $
 &= 10\% \times 250 \\\\
 &= \dfrac {10} {100} \times 250 \\\\
 &= \dfrac {10 \times 250} {100} \\\\
-&= \dfrac {1 \cancel{0} \times 25 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= \dfrac {1 \cancel{0} \times 25 \cancel{0}} {1 \cancel{00}} \\\\
 &= \pounds 25
 \end{aligned}
 $
@@ -8543,23 +8544,22 @@ $\pounds 6.25$
 </div>
 <div class='question subquestion'>
 
-Use your answers to find $17\,1\diagup2\%$ of $\pounds 250$?
+Use your answers to find $17 \dfrac {1} {2}\%$ of $\pounds 250$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+Using previous answers
+
 $
 \begin{aligned}
 &= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds \ 250 \\\\
 &= 17 \dfrac {1} {2}\% \times 250 \\\\
-&= \dfrac {35} {2}\% \times 250 \\\\
-&= \dfrac {(10 + 10 + 10 + 5)} {2}\% \times 250 \\\\
-&= \dfrac {(10 + 10 + 10 + 5)} {2} \times 250 \\\\
-
-
-
-&= \pounds \ 43.75
+&= (10 + 5 + 2) \dfrac {1} {2}\% \times 250 \\\\
+&= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250
+&= 25 + 12.5 + 6.25 \\\\
+&= \pounds 43.75
 \end{aligned}
 $
 
@@ -8568,7 +8568,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds \ 43.75$
+$\pounds 43.75$
 
 </div>
 </div>
@@ -8668,6 +8668,26 @@ Write down a decimal between $90\%$ and $95\%$
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Let's first list down other percentages between $90\%$ and $95\%$ and then convert one of them into decimal, as asked in the question.
+
+
+\begin{aligned}
+&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
+\end{aligned}
+
+
+Let's convert 92\% into decimal.
+
+
+\begin{aligned}
+&= \dfrac {92} {100}\\\\
+&= 0.92
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 $
@@ -10274,7 +10294,7 @@ $425$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>F83507F2-235E-4ABA-AC49-C50C6D08899E</p>
 </div>
@@ -10296,24 +10316,14 @@ In a sale, normal prices were reduced by $35 \%$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -10335,13 +10345,12 @@ The normal price of a TV was $\pounds 600$. Work out the sale price of the TV.
 As per the question,
 
 $
-\begin{aligned}
-\text{Sale price of Tv}   &= Normal Price - Discount \\\\
-                          &= \pounds 600  - 35\% \text{ of} 600 \\\\
+\begin {aligned}
+\text {Sale price of Tv}  &= \text {Normal Price} - \text {Discount} \\\\
+                          &= \pounds 600  - 35\% \ \text{of} \ 600 \\\\
                           &= 600 - \dfrac {35} {100} \times 600 \\\\
                           &= 600 - \dfrac {35 \times 600} {100} \\\\
-                          &= 600 - \dfrac {35 \times 6 \times 100} {100} \\\\
-                          &= 600 - \dfrac {35 \times 6 \times \cancel {100}} {\cancel {100} } \\\\
+                          &= 600 - \dfrac {35 \times 6\cancel{00}} {1\cancel {00}} \\\\
                           &= 600 - 35 \times 6 \\\\
                           &= 600 - 210 \\\\
                           &= \pounds 390
@@ -10374,26 +10383,21 @@ The normal price of a clock was reduced by $\pounds 140$. Work out the normal pr
 <div class='workings'>
 <div class='working'>
 
-$
-
-Let the normal price $= a$.
+Let normal price $= a$.
 
 As per the question,
 
+$
 \begin{aligned}
-a - 35\% \text{ of} a                                                      &= 140 \\\\
-a - \dfrac {35} {100} \times a                                             &= 140 \\\\
-a - \dfrac {35 \times a} {100}                                             &= 140 \\\\
-a - \dfrac {35 \times a} {100}                                             &= 140 \times 100 \\\\
-a - \dfrac {7 \times 5 \times a} {5 \times 20}                             &= 14000 \\\\
-a - \dfrac {7 \times \cancel {5} \times a} { \cancel {5} \times 20}        &= 14000 \\\\
-a - \dfrac {7a} {20}                                                       &= 14000 \\\\                                                          
-\dfrac {20a - 7a} {20}                                                     &= 14000 \\\\\
-20a - 7a                                                                   &= 14000 \times 20 \\\\\
-13a                                                                        &= 280000 \\\\\
-a                                                                          &= \dfrac {280000} {13} \\\\
-a                                                                          &= \pounds 2153.84
-\end{aligned}
+35\% \ \text{of} \ a         &= \pounds 140 \\\\
+\dfrac {35} {100} \times a   &= 140 \\\\
+a                            &= 140 \times \dfrac {100} {35} \\\\
+a                            &= \dfrac {140 \times 100} {35} \\\\
+a                            &= \dfrac {7 \times 2 \times 2 \times 5 \times 100} {7 \times 5} \\\\
+a                            &= \dfrac {\cancel {7} \times 2 \times 2 \times \cancel {5} \times 100} {\cancel {7} \times \cancel {5}} \\\\
+a                            &= 2 \times 2 \times 100 \\\\
+a                            &= \pounds 400
+\end {aligned}
 $
 
 </div>
@@ -10401,7 +10405,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2153.84$
+$\pounds 400$
 
 </div>
 </div>
@@ -10422,26 +10426,22 @@ The sale price of a computer was $\pounds 884$. Work out the normal price of the
 <div class='workings'>
 <div class='working'>
 
-Let the normal price of $= a$,
+Let the normal price of $= a$.
 
 As per the question,
 
 $ 
-\begin{aligned}
-a - 35\% \text{ of}a                                        &= 884 \\\\
-a - \dfrac {35} {100} \times a                              &= 884 \\\\
-a - \dfrac {7 \times 5} {20 \times 5}                       &= 884 \\\\
-a - \dfrac {7 \times \cancel {5} } {20 \times \cancel {5} } &= 884 \\\\
-a - \dfrac {7a} {20}                                        &= 884 \\\\
-\dfrac {20a - 7a} {20}                                      &= 884 \\\\
-\dfrac {13a} {20}                                           &= 884 \\\\
-13a                                                         &= 884 \times 20 \\\\
-13a                                                         &= 17680 \\\\
-a                                                           &= \dfrac {17680} {13} \\\\\ 
-a                                                           &= \dfrac {1360 \times 13} {13} \\\\\ 
-a                                                           &= \dfrac {1360 \times \cancel {13} } {\cancel{13} } \\\\\ 
-a                                                           &= \pounds 1360 
-\end{aligned}
+\begin {aligned}
+\text {Normal price }   &= \text {Sale price} + \text {Discount} \\\\
+                        &= \pounds 884 + 35\% \ \text{of} \ 884 \\\\
+                        &= 884 + \dfrac {35} {100} \times 884 \\\\
+                        &= 884 + \dfrac {35 \times 884} {100} \\\\
+                        &= 884 + \dfrac {7 \times 5 \times 2 \times 442} {2 \times 10 \times 5} \\\\
+                        &= 884 + \dfrac {7 \times \cancel {5} \times \cancel {2} \times 442} {\cancel {2} \times 10 \times \cancel {5}} \\\\
+                        &= 884 + \dfrac {3094} {10} \\\\
+                        &= 884 + 309.4 \\\\
+                        &= \pounds 1193.4
+\end {aligned}
 $
 
 </div>
@@ -10449,7 +10449,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1360$
+$\pounds 1193.4$
 
 </div>
 </div>
@@ -10461,7 +10461,7 @@ $\pounds 1360$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -12510,6 +12510,7 @@ What number is $40\%$ of $75$?
 
 $
 \begin{aligned}
+&= 40\%$ \ \text{of} \ 75 \\\\
 &= \dfrac{40}{100} \times 75 \\\\
 &= \dfrac{40 \times 75}{100} \\\\
 &= \dfrac{4 \times 10 \times 3 \times 25}{4 \times 25} \\\\
@@ -12993,16 +12994,19 @@ Find $30 \%$ of $120$
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{aligned}
 &=  30\% \ \text{of} \ 120 \\\\
 &=  \dfrac{30}{100} \times 120 \\\\
 &=  \dfrac{30 \times 120}{100} \\\\
 &=  \dfrac{3600}{100} \\\\
-&=  \dfrac{36 \times \cancel{100}}1\cancel{100}} \\\\
+&=  \dfrac{36 \times \cancel{100}} {1\cancel{100}} \\\\
 &=  36
 \end{aligned}
+
 $
+
 
 </div>
 </div>
@@ -13683,7 +13687,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>B997FB3B-115F-4CC3-BC0E-C9D91855E806</p>
 </div>
@@ -13706,28 +13710,32 @@ Senior citizens are given a $20\%$ discount. If a child's ticket costs $\pounds 
 <div class='workings'>
 <div class='working'>
 
-Let the cost of adult ticket $= a$
+Let the cost of an adult ticket $= a$.
 
-As per the question
-
-$
-\begin{aligned}
-25\% \text{ of} a                               &= 30 \\\\
-\dfrac {25a} {100}                              &= 30 \\\\
-\dfrac {25a} {25 \times 4}                      &= 30 \\\\
-\dfrac {\cancel {25} a} {\cancel {25} \times 4} &= 30 \\\\
-\dfrac {a} {4}                                  &= 30  \\\\
-a                                               &= \pounds 120
-\end{aligned}
-$
+As per the question,
 
 $
 \begin{aligned}
-\text{senior pay}  &= 20\% \text{ of} 120 \\\\
-                   &= \dfrac {20} {100} \times 120 \\\\
-                   &= \dfrac {2 \cancel {0} } {1\cancel {0} \cancel {0} } \times 12\cancel {0} \\\\
-                   &= \pounds 24
-                   
+\text {Cost of a children ticket}           &= \text {Cost of an adult ticket} - 25 \% \ \text {of} \ \text {Cost of an adult ticket} \\\\
+\pounds 30                                  &= a - \dfrac {25} {100} \ \text {of} \ a \\\\
+30                                          &= a - \dfrac {25} {100} \times a \\\\
+30                                          &= a - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100 \times a} {100 \times 1} - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100a} {100} - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100a - 25a} {100} \\\\
+30                                          &= \dfrac {75a} {100} \\\\
+\dfrac {30 \times 100} {75}                 &= a \\\\
+a                                           &= \dfrac {15 \times 2 \times 5 \times 20} {15 \times 5} \\\\
+a                                           &= \dfrac {\cancel {15} \times 2 \times \cancel {5} \times 20} {\cancel {15} \times \cancel {5}} \\\\
+a                                           &= 2 \times 20 \\\\
+a                                           &= \pounds 40 \\\\
+\text {Cost of a senior citizen's ticket}   &= \text {Cost of an adult ticket} - 20 \% \ \text {of} \ \text {Cost of an adult ticket} \\\\
+                                            &= \pounds 40 - \dfrac {20} {100} \times \pounds 40 \\\\
+                                            &= 40 - \dfrac {20 \times 40} {100} \\\\
+                                            &= 40 - \dfrac {20 \times 5 \times 8} {20 \times 5} \\\\
+                                            &= 40 - \dfrac {\cancel {20} \times \cancel {5} \times 8} {\cancel {20} \times \cancel {5}} \\\\
+                                            &= 40 - 8 \\\\
+                                            &= \pounds 32
 \end{aligned}
 $
 
@@ -13736,7 +13744,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 24$
+$\pounds 32$
 
 </div>
 </div>
@@ -13745,7 +13753,7 @@ $\pounds 24$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -14476,7 +14484,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>8F86C566-74D4-41CB-ADC6-2648BC6CBC05</p>
 </div>
@@ -14498,26 +14506,14 @@ Phil holds a bag containing $16$ blue sweets and $4$ red sweets.
 <div class='workings'>
 <div class='working'>
 
-Total sweets $16 + 4 = 20$ \\\\
-
-Percentage of red sweets
-
-$
-\begin{aligned}
-&= \dfrac {4} {20} \times 100 \\\\
-&= \dfrac {4 \times 100} {20}  \\\\
-&= \dfrac {4 \times 20 \times 5} {20}  \\\\
-&= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20} }  \\\\
-&= 20 \%
-\end{aligned}
-$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20\%$
+%empty%
 
 </div>
 </div>
@@ -14536,17 +14532,18 @@ What **percentage** of sweets in this bag are red?
 <div class='workings'>
 <div class='working'>
 
-Total sweets $16 + 4 = 20$ \\\\
-
-Percentage of red sweets
+As per the question,
 
 $
 \begin{aligned}
-&= \dfrac {4} {20} \times 100 \\\\
-&= \dfrac {4 \times 100} {20}  \\\\
-&= \dfrac {4 \times 20 \times 5} {20}  \\\\
-&= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20} }  \\\\
-&= 20 \%
+\text {Percentage of red sweets}    &= \dfrac {\text {Number of red sweets}} {\text {Total number of sweets}} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {20} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {20} \times 100 \\\\
+                                    &= \dfrac {4 \times 100} {20} \\\\
+                                    &= \dfrac {4 \times 20 \times 5} {20} \\\\
+                                    &= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20}} \\\\
+                                    &= 4 \times 5 \\\\
+                                    &= 20 \%
 \end{aligned}
 $
 
@@ -14555,7 +14552,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {3} {4}$
+$20 \%$
 
 </div>
 </div>
@@ -14578,9 +14575,9 @@ What fraction of the sweets in the bag are now blue?
 <div class='workings'>
 <div class='working'>
 
-Now, Total sweets becomes $20 - 4 = 16$
+Now, Total sweets becomes $20 - 4 = 16$.
 
-No of blue sweets $16 - 4 = 12$
+No of blue sweets $16 - 4 = 12$.
 
 $
 \begin{aligned}
@@ -14608,7 +14605,7 @@ $\dfrac {3} {4}$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

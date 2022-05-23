@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2014-sample-paper-5"
 title: "Sevenoaks School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>
@@ -186,7 +186,7 @@ $523$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>29DE4114-CF16-4830-A1D8-498E9062A293</p>
 </div>
@@ -205,24 +205,14 @@ Evaluate
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -244,8 +234,10 @@ $\dfrac {3} {4} + \dfrac {1}{3}$
 $
 \begin{aligned}
 &= \dfrac {3} {4} + \dfrac {1} {3} \\\\
-&= \dfrac {3 \times 3 + 4} {12} \\\\
-&= \dfrac {13} {12} \\\\
+&= \dfrac {3 \times 3} {4 \times 3} + \dfrac {1 \times 4} {3 \times 4} \\\\
+&= \dfrac {9} {12} + \dfrac {4} {12} \\\\
+&= \dfrac {9 + 4} {12} \\\\
+&= \dfrac {13} {12}
 \end{aligned}
 $
 
@@ -277,13 +269,11 @@ $\dfrac {5} {7} + \dfrac {2} {5}$
 
 $
 \begin{aligned}
-&= \dfrac {5} {7} + dfrac {2} {5} \\\\
-&= \dfrac {5 \times 5 + 7 \times 2} {35} \\\\
-&= \dfrac {25 + 15} {35} \\\\
-&= \dfrac {40} {35} \\\\
-&= \dfrac {5 \times 8} {5 \times 7} \\\\
-&= \dfrac {\cancel {5} \times 8} { \cancel {5} \times 7} \\\\
-%= \dfrac {8}{7} 
+&= \dfrac {5} {7} + \dfrac {2} {5} \\\\
+&= \dfrac {5 \times 5} {7 \times 5} + \dfrac {2 \times 7} {5 \times 7} \\\\
+&= \dfrac {25} {35} + \dfrac {14} {35} \\\\
+&= \dfrac {25 + 14} {35} \\\\
+&= \dfrac {39} {35}
 \end{aligned}
 $
 
@@ -292,12 +282,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {8} {7}$
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {39} {35}$
 
 </div>
 </div>
@@ -320,12 +305,11 @@ $\dfrac {4} {9} \div \dfrac {5} {11}$
 
 $
 \begin{aligned}
-&= \dfrac {4} {9} \div \dfrac {5} {11} \\\\
-&= \dfrac {4/9} {5/9} \\\\
-&= \dfrac {4} {9} \times \dfrac {9} {5} \\\\
-&= \dfrac {4 \times 9} {9 \times 5} \\\\
-&= \dfrac {4 \times \cancel{9} } {\cancel {9} \times 5} \\\\
-&= \dfrac {4} {5} 
+&= \dfrac {4} {9} + \dfrac {5} {11} \\\\
+&= \dfrac {4 \times 11} {9 \times 11} + \dfrac {5 \times 9} {11 \times 9} \\\\
+&= \dfrac {44} {99} + \dfrac {45} {99} \\\\
+&= \dfrac {44 + 45} {99} \\\\
+&= \dfrac {89} {99}
 \end{aligned}
 $
 
@@ -334,7 +318,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$ \dfrac {4} {5}$
+$\dfrac {89} {99}$
 
 </div>
 </div>
@@ -346,7 +330,7 @@ $ \dfrac {4} {5}$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -401,7 +385,7 @@ $-7 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>71A87121-8B24-43F3-8CA2-5883E0DFF79B</p>
 </div>
@@ -424,9 +408,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{End time of the film}  &= 11:55 \text{ A.M} + 177 minutes \\\\
-                             &= 11:55   +  1 \ hour 57 \ minutes \\\\
-                             &= 1:52 \text{P.M} 
+\text{Film ended}   &= 11{:}55 \ \text{A.M} + 177 minutes \\\\
+                    &= 11{:}55 + 2 \ \text {hours} 57 \ \text {minutes} \\\\
+                    &= 01{:}55 + 5 + 2 + 50 \\\\
+                    &= 02{:}00 + 52 \\\\
+                    &= 02{:}52 \ \text {P.M.}
 \end{aligned}
 $
 
@@ -435,7 +421,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1:52 \text{P.M}$
+$2{:}52 \ \text {P.M}$
 
 </div>
 </div>
@@ -444,7 +430,7 @@ $1:52 \text{P.M}$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -615,7 +601,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>C83BAF7E-A28A-4228-B036-1BB050CB347F</p>
 </div>
@@ -643,19 +629,18 @@ In this case, there are more fractions than percentages, so let's convert all th
 $
 \begin{aligned}
 &= \dfrac {7} {9}, \quad 0.7, \quad \dfrac {770} {1000}, \quad 75\% \\\\
-&= \dfrac{7}{9}, \quad \dfrac {7} {10},  \quad \dfrac {770}{1000}, \quad \dfrac {75} {100} \\\\
-&= \dfrac{7}{9}, \quad \dfrac {7} {10},  \quad \dfrac {77 \times 10} {100 \times 10}, \quad \dfrac {25 \times 3} {25 \times 4} \\\\
-&= \dfrac{7}{9}, \quad \dfrac {7} {10},  \quad \dfrac {77 \times \cancel{10} } {100 \times \cancel{10} }, \quad \dfrac {\cancel {25} \times 3} { \cancel{25} \times 4} \\\\
-&= \dfrac{7}{9}, \quad \dfrac {7} {10},  \quad \dfrac {77} {100}, \quad \dfrac {3} {4} 
+&= \dfrac {7} {9}, \quad \dfrac {7} {10}, \quad \dfrac {77\cancel {0}} {100\cancel {0}}, \quad \dfrac {75} {100} \\\\
+&= \dfrac {7 \times 100} {9 \times 100}, \quad \dfrac {7 \times 90} {10 \times 90}, \quad \dfrac {77 \times 9} {100 \times 9}, \quad \dfrac {75 \times 9} {9 \times 100} \\\\
+&= \dfrac {700} {900}, \quad \dfrac {630} {900}, \quad \dfrac {693} {900}, \quad \dfrac {675} {900}
 \end{aligned}
 $
 
-Let's put them in ascending order now.
+Let's put them in ascending order now,
 
 $
 \begin{aligned}
-&= \dfrac{3}{4}, \quad \dfrac {7} {10},  \quad \dfrac {77} {100}, \quad \dfrac {7} {9} \\\\
-&= 75\%, \quad 0.7, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}
+&= \dfrac{630}{900}, \quad \dfrac {675} {900},  \quad \dfrac {693} {900}, \quad \dfrac {700} {900} \\\\
+&= 0.7, \quad 75 \%, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}
 \end{aligned}
 $
 
@@ -664,7 +649,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$75\%, \quad 0.7, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}$
+$0.7, \quad 75 \%, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}$
 
 </div>
 </div>
@@ -673,7 +658,7 @@ $75\%, \quad 0.7, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -734,7 +719,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>DE21514C-D0D8-4AC5-AA51-07E6EBC58C80</p>
 </div>
@@ -753,42 +738,26 @@ Two numbers have a sum of $87$. The larger of the numbers is twice the smaller. 
 <div class='workings'>
 <div class='working'>
 
-Let the small number $= a$,
+Let the smaller number $= a$.
 
-And large number $= b$,
+The larger number $= 2a$.
 
-As per the question.
-
-$
-\begin{aligned}
-a + b &= 87 \\\\
-b     &= 2a \\\\
-\end{aligned}
-$
-
-Lets first find the value of a,
+As per the question,
 
 $
 \begin{aligned}
-a + b    &=  87 \\\\
-a + 2a   &=  87 \\\\
-3a       &= 87 \\\\
-a        &= \dfrac {87} {3} \\\\
-a        &= \dfrac{29 \times 3} {3} \\\\
-a        &= \dfrac{29 \times \cancel {3} } {\cancel {3} } \\\\
-a        &= 29
+a + 2a  &= 87 \\\\
+3a      &= 87 \\\\
+a       &= \dfrac {87} {3} \\\\
+a       &= \dfrac {29 \times 3} {3} \\\\
+a       &= \dfrac {29 \times \cancel {3}} {\cancel {3}} \\\\
+a       &= 29
 \end{aligned}
 $
 
-Now lets find value of b,
+Smaller Number $= 29$.
 
-$
-\begin{aligned}
-b     &= 2a \\\\
-b     &= 2 \times 29 \\\\
-b     &= 58
-\end{aligned}
-$
+Larger number $= 2 \times 29 = 58$.
 
 </div>
 </div>
@@ -804,7 +773,7 @@ $29, 58$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1526,7 +1495,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>0EA47D0F-679F-42A3-9831-5C25EB7FCE66</p>
 </div>
@@ -1551,7 +1520,13 @@ $0 = 4 \div 4 \times 4 - 4$
 
 $
 \begin{aligned}
-0 &= 5 \div 5 \times 5 - 5
+&= ((4 \times 4) + 4) \div 4 \\\\
+&= (16 + 4) \div 4 \\\\
+&= 20 \div 4 \\\\
+&= \dfrac {20} {4} \\\\
+&= \dfrac {5 \times 4} {4} \\\\
+&= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
+&= 5
 \end{aligned}
 $
 
@@ -1560,7 +1535,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0 = 5 \div 5 \times 5 - 5$
+$((4 \times 4) + 4) \div 4 = 5$
 
 </div>
 </div>
@@ -1569,7 +1544,7 @@ $0 = 5 \div 5 \times 5 - 5$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

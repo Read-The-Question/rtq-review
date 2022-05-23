@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tformula-all"
 title: "Topic - Formula - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-9999-sample-paper-1"
 title: "James Allens Girls School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>James Allen's Girls' School</h1>
@@ -580,7 +580,7 @@ $23, 5, 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
 </div>
@@ -607,51 +607,44 @@ There are $72$ girls in the pool. How many boys are there?
 
 Let the total students $= a$
 
-As per the question
+As per the question,
 
-Fraction of boys $= \dfrac {2} {5} a $
+Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
 
-Fraction of girls $= \dfrac {3} {5} a$
-
-$
-\begin{aligned}
-\dfrac {3} {5}a   &= 72 \\\\
-3a                &= 72 \times 5 \\\\
-a                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
-a                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
-a                 &= 24 \times 5 \\\\
-a                 &= 120
-\end{aligned}
-$
-
-Now lets calculate the total number of boys
+Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
 
 $
-\begin{aligned}
-&= \dfrac {2} {5} \times 120 \\\\
-&= \dfrac {2} {5} \times 120 \\\\
-&= \dfrac {2} {\cancel {5} } \times 24 \times \cancel {5} \\\\
-&= 2 \times 24 \\\\
-&= 48
-\end{aligned}
+\begin {aligned}
+\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
+\dfrac {3} {5} \times a           &= 72 \\\\
+3a                                &= 72 \times 5 \\\\
+a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
+a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
+a                                 &= 24 \times 5 \\\\
+a                                 &= 120
+\end {aligned}
 $
 
-</div>
-<div class='working'>
+Now, lets calculate the total number of boys.
 
-TODOWORKING
+$
+\begin {aligned}
+\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
+                        &= \dfrac {2} {5} \times 120 \\\\
+                        &= \dfrac {2 \times 120} {5} \\\\
+                        &= \dfrac {2 \times 24 \times 5} {5} \\\\
+                        &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
+                        &= 2 \times 24 \\\\
+                        &= 48
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$48$
 
 </div>
 </div>
@@ -660,7 +653,7 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -946,15 +939,16 @@ $\dfrac{2}{3} + \dfrac{5}{6}$
 <div class='working'>
 
 $
-\begin{aligned}
+\begin {aligned}
 &= \dfrac {2} {3} + \dfrac {5} {6} \\\\
-&= \dfrac {2 \times 2 + 5} {6} \\\\
+&= \dfrac {2 \times 2} {3 \times 2} + \dfrac {5} {6} \\\\
+&= \dfrac {4} {6} + \dfrac {5} {6} \\\\
 &= \dfrac {4 + 5} {6} \\\\
 &= \dfrac {9} {6} \\\\
-&= \dfrac {3 \times 3} {3 \times 2} \\\\ 
-&= \dfrac {\cancel {3} \times 3 } { \cancel {3} \times 2} \\\\ 
+&= \dfrac {3 \times 3} {3 \times 2} \\\\
+&= \dfrac {\cancel {3} \times 3} {\cancel {3} \times 2} \\\\
 &= \dfrac {3} {2}
-\end{aligned}
+\end {aligned}
 $
 
 </div>
@@ -986,11 +980,9 @@ $\dfrac{5}{6} - \dfrac{3}{4}$
 $
 \begin{aligned}
 &= \dfrac {5} {6} - \dfrac {3} {4} \\\\
-&= \dfrac {4 \times 5 - 6 \times 3} {24} \\\\
-&= \dfrac {20 - 18} {24} \\\\
-&= \dfrac {2} {24} \\\\
-&= \dfrac {2} {12 \times 2} \\\\
-&= \dfrac {\cancel {2} } {12 \times \cancel {2} } \\\\
+&= \dfrac {5 \times 2} {6 \times 2} - \dfrac {3 \times 3} {4 \times 3} \\\\
+&= \dfrac {10} {12} - \dfrac {9} {12} \\\\
+&= \dfrac {10 - 9} {12} \\\\
 &= \dfrac {1} {12}
 \end{aligned}
 $
@@ -1026,18 +1018,8 @@ What fraction in the diagram below is shaded?
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -1828,7 +1810,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>46713943-D59E-4BE3-ADA0-E5CDEE05B15A</p>
 </div>
@@ -1854,28 +1836,17 @@ Calculate the perimeter of this shape stating your units very carefully.
 
 It is really important to use the right units in calculations and convert where required.
 
-Let's convert the all lenghts into centimeters
+Let's convert the all lenghts into meters.
 
 $
-\begin{aligned}
-&= 1.6 \text{m} \\\\
-&= 1.6 \times 100 \text{ cm} \\\\
-&= 160 \text {cm} \\\\
-&= 1.8 \text{ m} \\\\
-&= 1.8 \times 100 \text{ cm} \\\\
-&= 180 \text{ cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Perimeter} &= 80 + 180 + 30 + 160 \\\\
-                 &= 450 \text{ cm} \\\\
-                 &= \dfrac {450} {100} \text{ m} \\\\
-                 &= \dfrac {45 \cancel {0} } {10\cancel {0} } \text{ m} \\\\
-                 &= \dfrac {45} {10} \\\\
-                 &= 4.5 \text { m}
-\end{aligned}
+\begin {aligned}
+\text {Perimeter of the shape}  &= \text {Sum of all sides} \\\\
+                                &= 80 \ \text {cm} + 1.6 \text {m} + (1.8 \text {m} - 80 \ \text {cm}) + 30 \ \text {cm} + 1.8 \text {m} + (1.6 \text {m} + 30 \ \text {cm}) \\\\
+                                &= \dfrac {80} {100} \text {m} + 1.6 \text {m} + (1.8 \text {m} - \dfrac {80} {100} \text {m}) + \dfrac {30} {100} \text {m} + 1.8 \text {m} + (1.6 \text {m} + \dfrac {30} {100} \text {m}) \\\\
+                                &= 0.80 + 1.6 + (1.8 - 0.80) + 0.30 + 1.8 + (1.6 + 0.30) \\\\
+                                &= 2.40 + 1 + 2.1 + 1.90 \\\\
+                                &= 7.4 \text {m}
+\end {aligned}
 $
 
 </div>
@@ -1883,7 +1854,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4.5 \text{ m}$
+$7.4 \text{m}$
 
 </div>
 </div>
@@ -1892,7 +1863,7 @@ $4.5 \text{ m}$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

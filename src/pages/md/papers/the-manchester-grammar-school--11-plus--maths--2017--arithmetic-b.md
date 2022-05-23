@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic B"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -720,12 +720,12 @@ If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ jo
 
 $
 \begin{aligned}
-\text{Quaters in 2 \dfrac {1} {2} miles} &= 2 \dfrac {1} {2} \times 4 \\\\
-                                         &= \dfrac {5} {2} \times 4 \\\\
-                                         &= \dfrac {5 \times 4} {2} \\\\
-                                         &= \dfrac {5 \times 2 \times 2} {2} \\\\
-                                         &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
-                                         &= 10
+\text{Quaters in} \ 2 \dfrac {1} {2} \ \text {miles} &= 2 \dfrac {1} {2} \times 4 \\\\
+                                                     &= \dfrac {5} {2} \times 4 \\\\
+                                                     &= \dfrac {5 \times 4} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times 2} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                                                     &= 10
 \end{aligned}
 $
 
@@ -775,11 +775,11 @@ If the starting charge at a third company is $\pounds 2.20$ and the Total Fare f
 
 $
 \begin{aligned}
-\text{Quaters in 6 \dfrac {1} {4} miles} &= 6 \dfrac {1} {4} \times 4 \\\\
-                                         &= \dfrac {25} {4} \times 4 \\\\
-                                         &= \dfrac {25 \times 4} {4} \\\\
-                                         &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
-                                         &= 25
+\text{Quaters in} \ 6 \dfrac {1} {4} \ \text{miles} &= 6 \dfrac {1} {4} \times 4 \\\\
+                                                    &= \dfrac {25} {4} \times 4 \\\\
+                                                    &= \dfrac {25 \times 4} {4} \\\\
+                                                    &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
+                                                    &= 25
 \end{aligned}
 $
 

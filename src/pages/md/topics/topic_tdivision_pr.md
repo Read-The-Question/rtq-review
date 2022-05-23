@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-pr"
 title: "Topic - Division - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1079,56 +1079,6 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>30C9339F-2AC2-4BC2-A71D-BD9F13ABB2A2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate $391$ divided by seventeen.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac{391}{17} \\\\
-&= \dfrac{17 \times 23}{17} \\\\
-&= \dfrac{\cancel{17} \times 23}{\cancel{17}} \\\\
-&= 23
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>096AA73E-3271-49CC-97D7-2319FEA61B14</p>
@@ -1347,7 +1297,7 @@ $0.392$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E</p>
 </div>
@@ -1369,10 +1319,18 @@ What number do you multiply $0.2$ by to get an answer of $6$?
 <div class='workings'>
 <div class='working'>
 
+Let the number $= a$.
+
+As per the question,
+
 $
 \begin{aligned}
-&= 0.2 \times 30
-&= 6
+a \times 0.2    &= 6 \\\\
+a               &= \dfrac {6} {0.2} \\\\
+a               &= \dfrac {6 \times 10} {0.2 \times 10} \\\\
+a               &= \dfrac {2 \times 3 \times 10} {2} \\\\
+a               &= \dfrac {\cancel {2} \times 3 \times 10} {\cancel {2}} \\\\
+a               &= 30
 \end{aligned}
 $
 
@@ -1390,7 +1348,7 @@ $30$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

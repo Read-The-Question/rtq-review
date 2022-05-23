@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Streatham and Clapham High School</h1>
@@ -221,16 +221,19 @@ Find $30 \%$ of $120$
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{aligned}
 &=  30\% \ \text{of} \ 120 \\\\
 &=  \dfrac{30}{100} \times 120 \\\\
 &=  \dfrac{30 \times 120}{100} \\\\
 &=  \dfrac{3600}{100} \\\\
-&=  \dfrac{36 \times \cancel{100}}1\cancel{100}} \\\\
+&=  \dfrac{36 \times \cancel{100}} {1\cancel{100}} \\\\
 &=  36
 \end{aligned}
+
 $
+
 
 </div>
 </div>
@@ -1297,9 +1300,9 @@ What time do I get to school?
 <div class='workings'>
 <div class='working'>
 
-Time of leaving home $&= 7.35 \ \text{am}$
+Time of leaving home $= 7.35 \ \text{am}$
 
-Time take to go to school  $&= 42 \ \text{minutes}$
+Time take to go to school  $= 42 \ \text{minutes}$
 
 $
 \begin{aligned}

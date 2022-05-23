@@ -1,7 +1,7 @@
 ---
 slug: "papers/john-lyon-school-11-plus-maths-9999-sample-paper-1"
 title: "John Lyon School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>John Lyon School</h1>
@@ -342,6 +342,7 @@ a       &= 9
 \end{aligned}
 $
 
+$
 \begin{aligned}
 \text{Number of white shirts sold} &= 7 \times a \\\\
                                    &= 7 \times 9 \\\\

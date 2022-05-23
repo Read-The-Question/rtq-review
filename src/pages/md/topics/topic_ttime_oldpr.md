@@ -1,62 +1,9 @@
 ---
 slug: "topics/topic-ttime-oldpr"
 title: "Topic - Time - Old PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>DDD0AC6B-3CD4-48A3-A86A-6AEE1949B832</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The students on the Aldenham Geography trip to Iceland arrive at Heathrow Airport at $10{:}45$.
-Their flight leaves at $13{:}05$.
-
-How many minutes do they have to wait at the airport before their flight leaves?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Time left}             &= 13{:}05 - 10{:}45 \\\\
-                              &= 2 \ \text{hour} \ 20 \ \text{minutes}   \\\\
-                              &= 2 \times 60 + 20  \ \text{minutes} \\\\
-                              &= 120 + 20  \ \text{minutes} \\\\
-                              &= 140  \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$140  \ \text{minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_jn_oldpr question'>
 <div class='uuid'>

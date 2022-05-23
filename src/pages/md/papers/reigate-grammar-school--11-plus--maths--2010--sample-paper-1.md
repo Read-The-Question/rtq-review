@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2010-sample-paper-1"
 title: "Reigate Grammar School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -1539,6 +1539,36 @@ $\dfrac{1}{3},\dfrac{2}{5},\dfrac{3}{8},\dfrac{7}{20},\dfrac{4}{11}$
 <div class='workings'>
 <div class='working'>
 
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $3, 5, 8, 20, 11 = 1320$
+
+$
+\begin{aligned}
+&= \dfrac {1} {3} , \quad \dfrac {2} {5} , \quad \dfrac{3} {8} , \quad \dfrac{7} {20} , \quad \dfrac {4} {11} \\\\
+&= \dfrac {1 \times 440} {3 \times 440} , \quad \dfrac {2 \times 264} {5 \times 264} , \quad \dfrac {3 \times 165} {8 \times 165} , \quad \dfrac{7 \times 66} {20 \times 66} , \quad \dfrac {4 \times 120} {11 \times 120} \\\\
+&= \dfrac {440} {1320} , \quad \dfrac {528} {1320} , \quad \dfrac {495} {1320} , \quad \dfrac {462} {1320} , \quad \dfrac {480} {1320}
+\end{aligned}
+$
+
+Let's put them in decending order now.
+
+$
+\begin{aligned}
+&= \dfrac {582} {1320}> \quad \dfrac {495} {1320}> \quad \dfrac {480} {1320}> \quad \dfrac {462} {1320}> \quad \dfrac {440} {1320} \\\\
+&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {4} {11}> \quad \dfrac {7} {20}> \quad \dfrac {1} {3}
+\end{aligned}
+$
+
+Smallest $= \dfrac {1} {3}$
+
+Largest $= \dfrac {2} {5}$
+
+</div>
+<div class='working'>
+
+Alternative Solution
+
 If two or more fraction has common numerator then fraction with smallest denominator is the largest and fraction with largest denominator is the smallest.
 
 $
@@ -1553,8 +1583,8 @@ Let's put them in decending order now.
 
 $
 \begin{aligned}
-&= \dfrac {84} {210}, \quad \dfrac {84} {224}, \quad \dfrac {84}{231}, \quad \dfrac {84}{240}, \quad \dfrac {84}{252} \\\\
-&= \dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {4} {11}, \quad \dfrac {7} {20}, \quad \dfrac {1} {3}
+&= \dfrac {84} {210}> \quad \dfrac {84} {224}> \quad \dfrac {84}{231}> \quad \dfrac {84}{240}> \quad \dfrac {84}{252} \\\\
+&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {4} {11}> \quad \dfrac {7} {20}> \quad \dfrac {1} {3}
 \end{aligned}
 $
 

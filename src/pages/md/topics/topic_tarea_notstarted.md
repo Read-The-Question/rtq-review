@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-notstarted"
 title: "Topic - Area - Not Started"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3988,63 +3988,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the area and perimeter of this shape. 
-
-Note: all angles are right angles.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>C2C54A9F-8C6F-473D-A704-5517BD28A1B4</p>
 </div>
 <div class='topics'>
@@ -4210,63 +4153,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the area and perimeter of this shape.
-
-Note: all angles are right angles but the diagram has not been drawn to scale.
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>

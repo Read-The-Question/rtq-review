@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-pr"
 title: "Topic - Decimal - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -50,7 +50,7 @@ $1.54$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>5CC2AA10-9BD1-4023-B610-74254B953442</p>
 </div>
@@ -71,7 +71,68 @@ $\boxed { \quad\dfrac{29}{40} = 0.725 \quad}$
 
 Use this information to write the missing decimals below.
 
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
 $\boxed { \quad\dfrac{31}{40} = \text{\textunderscore \textunderscore \textunderscore} \quad}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= \dfrac {31} {40} \\\\
+&= \dfrac {29 + 2} {40} \\\\
+&= \dfrac {29} {40} + \dfrac {2} {40} \\\\
+&= 0.725 + \dfrac {2} {20 \times 2} \\\\
+&= 0.725 + \dfrac {\cancel {2} } {20 \times \cancel {2} } \\\\
+&= 0.725 + \dfrac {1} {20} \\\\
+&= 0.725 + 0.05 \\\\
+&= 0.775
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.775$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
 
 $\boxed { \quad\dfrac{23}{40} = \text{\textunderscore \textunderscore \textunderscore} \quad}$
 
@@ -80,26 +141,16 @@ $\boxed { \quad\dfrac{23}{40} = \text{\textunderscore \textunderscore \textunder
 <div class='working'>
 
 $
-\begin{aligned}
-&= \dfrac {31} {40} \\\\
-&= \dfrac {27 + 4} {40} \\\\
-&= \dfrac {27} {40} + \dfrac {4} {40} \\\\
-&= 0.675 + \dfrac {4} {10 \times 4} \\\\
-&= 0.675 + \dfrac {\cancel {4} } {10 \times \cancel {4} } \\\\
-&= 0.675 + 0.1 \\\\
-&= 0.676
-\end{aligned}
-$
-
-$
-\begin{aligned}
+\begin {aligned}
 &= \dfrac {23} {40} \\\\
-&= \dfrac {29 - 6} {40} \\\\
-&= \dfrac {29} {40} - \dfrac {6} {40} \\\\
-&= 0.725 - \dfrac {6} {40} \\\\
-&= 0.725 - 0.15 \\\\
+&= \dfrac {27 - 4} {40} \\\\
+&= \dfrac {27} {40} - \dfrac {4} {40} \\\\
+&= 0.675 - \dfrac {4} {10 \times 4} \\\\
+&= 0.675 - \dfrac {\cancel {4}} {10 \times \cancel {4}} \\\\
+&= 0.675 - \dfrac {1} {10} \\\\
+&= 0.675 - 0.1 \\\\
 &= 0.575
-\end{aligned}
+\end {aligned}
 $
 
 </div>
@@ -107,16 +158,19 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.676, 0.575$
+$0.575$
 
 </div>
 </div>
 
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -548,6 +602,54 @@ $\text {Tenths}$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>4B064430-A3B1-49A5-B5A7-D36E815440A4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$60.2 \div 7$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 60.2 \div 7 \\\\
+&= \dfrac {60.2} {7} \\\\
+&= \dfrac {8.6 \times 7} {7} \\\\
+&= \dfrac {8.6 \times \cancel {7} } {\cancel {7} } \\\\
+&= 8.6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8.6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -1661,6 +1763,26 @@ Write down a decimal between $90\%$ and $95\%$
 <div class='workings'>
 <div class='working'>
 
+Let's first list down other percentages between $90\%$ and $95\%$ and then convert one of them into decimal, as asked in the question.
+
+
+\begin{aligned}
+&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
+\end{aligned}
+
+
+Let's convert 92\% into decimal.
+
+
+\begin{aligned}
+&= \dfrac {92} {100}\\\\
+&= 0.92
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
 $
 \begin{aligned}
 &= \dfrac {90\% + 95\%} {2} \\\\
@@ -2150,15 +2272,24 @@ $0.627 = 0.6 + 0.02 + \ldots$
 <div class='workings'>
 <div class='working'>
 
-$\text{Missing number} = 0.627 - 0.6 - 0.02$
-$= 0.627 - 0.62 = 0.07$
+$
+\begin{aligned}
+0.627 &= 0.6 + 0.02 + \ldots \\\\
+0.627 &= 0.6 + 0.02 + \text{Missing number} \\\\
+\text{Missing number}   &= 0.627 - 0.6 - 0.02 \\\\
+                        &= 0.627 - 0.62 \\\\
+                        &= 0.007
+
+\end{aligned}
+$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.07$
+$0.007$
 
 </div>
 </div>
@@ -2229,107 +2360,6 @@ $2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}$
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>E16D6325-36FF-464C-8198-472884A6720D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate $(2.3 + 3.7) \div 9$. Leave your answer as a simplified fraction.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= (2.3 + 3.7) \div 9 \\\\
-&= \dfrac{(2.3 + 3.7)}{9} \\\\
-&= \dfrac{6}{9} \\\\
-&= \dfrac{2 \times 3}{3 \times 3} \\\\
-&= \dfrac{2 \times \cancel{3}}{3 \times \cancel{3}} \\\\
-&= \dfrac{2}{3}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{2}{3}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>7A46A306-D16B-4B94-BF6A-A062C92858A7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate $1.1 \times (4.5 + 2.5) - 2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using BIDMAS,
-
-$
-\begin{aligned}
-&= 1.1 \times (4.5 + 2.5) - 2 \\\\
-&= 1.1 \times 7 - 2 \\\\
-&= 7.7 - 2 \\\\
-&= 5.7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5.7$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>
@@ -2961,7 +2991,7 @@ $100.08$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>717F1DE8-1840-4689-93C1-2F3E5477097E</p>
 </div>
@@ -3012,7 +3042,7 @@ $11.36 + 3.40$
 $
 \begin{array}{cccccccccccccc}
       &  1 &  1 \ . &  3 &  6 \\
- {}+  &    &  3 \ . &  4 & 0 \\
+{}+   &    &  3 \ . &  4 &  0 \\
    
 \hline
       &  1 &  4 \ . &  7 & 6
@@ -3048,10 +3078,9 @@ $3.54 - 2.34$
 $
 \begin{array}{cccccccccccccc}
        &  3 \ . &  5 &  4 \\
- {}+      &  2 \ . &  3 & 4 \\
-   
+{}-    &  2 \ . &  3 &  4 \\
 \hline
-         &  1 \ . &  2 & 0
+       &  1 \ . &  2 &  0
 \end{array}
 $
 
@@ -3084,15 +3113,15 @@ $213 \times 17$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-            &       &       2       & 1     & 3     \\
-{}\times    &       &               & 1     & 7     \\
-\hline
-            &  1    &       4       & 9     & 1     \\
-           &  2    &       1       & 3     & 0     \\
-\hline
-          &      3&       6       & 2     & 1
-\end{array}
+\begin {array}{cccccccccccccc}
+         &     2     &     1     &     3 \\
+\times   &           &     1     &     7 \\
+\hline 
+   1     &     4     &     9     &     1 \\
+   2     &     1     &     3     &     0 \\
+\hline 
+   3     &     6     &     2     &     1
+\end {array}
 $
 
 </div>
@@ -3121,16 +3150,25 @@ $844 \times 0.25$
 <div class='workings'>
 <div class='working'>
 
+Let's first multiply the numbers ignoring the decimal points.
+
 $
-\begin{aligned}
-&= 844 \times 0.25 \\\\
-&= 844 \times \dfrac {25} {100} \\\\
-&= \dfrac {844 \times 25} {100} \\\\
-&= \dfrac {21100} {100} \\\\
-&= \dfrac {211 \cancel {0} \cancel {0} } {1 \cancel {0} \cancel {0} } \\\\
-&= 211
-\end{aligned}
+\begin {array}{cccccccccccccc}
+         &           &     8     &     4    &     4 \\
+         & \times    &           &     2    &     5 \\
+\hline 
+         &     4     &     2     &     2    &     0 \\
+   1     &     6     &     8     &     8    &     0 \\
+\hline 
+   2     &     1     &     1     &     0    &     0
+\end {array}
 $
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now. 
+
+$= 211.00$
 
 </div>
 </div>
@@ -3149,7 +3187,7 @@ $211$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -4450,15 +4488,13 @@ $14.67 \times 7.6$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$14.67 \times 7.6$
 
-$
-\begin{aligned}
-1467 \times 76                              &= 111492 \\\\
-\dfrac {1467} {100} \times \dfrac{76} {10}  &= \dfrac {111492} {1000} \\\\
-14.67 \times 7.6                            &= 111.492
-\end{aligned}
-$
+Between the two numbers, the total number of digits after the decimal point is three.
+
+Let's account for the decimal point now.
+
+$14.67 \times 7.6 = 111.492$
 
 </div>
 </div>
@@ -4486,17 +4522,7 @@ $1114.92 \div 76$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-$
-\begin{aligned}
-1467 \times 76                              &= 111492 \\\\
-\dfrac {1467} {100} \times 76               &= \dfrac {111492} {100} \\\\
-14.67 \times 76                             &= 1114.92 \\\\
-14.67                                       &= \dfrac{1114.92} {76} \\\\
-\dfrac{1114.92} {76}                        &= 14.67
-\end{aligned}
-$
+$1114.92 \div 76 = 14.67$
 
 </div>
 </div>
@@ -4524,18 +4550,7 @@ $111492 \div 0.76$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-$
-\begin{aligned}
-1467 \times 76                              &= 111492 \\\\
-1467 \times \dfrac {76} {100}               &= \dfrac {111492} {100} \\\\
-1467 \times 0.76                            &= \dfrac {111492} {100} \\\\
-1467 \times 100                             &= \dfrac{111492} {0.76} \\\\
-146700                                      &= \dfrac{111492} {0.76} \\\\
-\dfrac{111492} {0.76}                       &= 146700
-\end{aligned}
-$
+$111492 \div 0.76 = 146700$
 
 </div>
 </div>

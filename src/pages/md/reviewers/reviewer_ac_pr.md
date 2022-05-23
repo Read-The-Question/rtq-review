@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ac-pr"
 title: "Reviewer - Chiliveru Aravind - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1023,17 +1023,17 @@ How much of each ingredient is needed to make $8$ pancakes?
 
 $
 \begin{aligned}
-\text{ingredients required to make 8 pancakes} = \text{ingredients needed to make 6 pancakes} + \text{ingredients needed to make 2 pancakes}  \\\\
+\text{ingredients required to make 8 pancakes} &= \text{ingredients needed to make 6 pancakes} + \text{ingredients needed to make 2 pancakes}  \\\\
 \text{As per the requirement} \\\\
 \text{ingredients required to make 2 pancakes} &= \dfrac{\text{ingredients required to make 6 pancakes}}{3} \\\\
-\text{The quantity of plain flour used to make} 2 \text{Pancakes} &= \dfrac{120}{3} \\\\
+\text{The quantity of plain flour used to make} \ 2 \text{Pancakes} &= \dfrac{120}{3} \\\\
 &=  \dfrac{3 \times 40 }{3} \\\\
 &=  \dfrac{\cancel3 \times 40 }{\cancel 3} \\\\
 &=  40 \ \text{g} \\\\\\\\
-\text{The number of Eggs needed used to make} 2 \text{Pancakes} &= \dfrac{3}{3} \\\\
+\text{The number of Eggs needed used to make} \ 2 \text{Pancakes} &= \dfrac{3}{3} \\\\
 &=  \dfrac{3}{3} \\\\
 &= 1 \\\\\\\\
-\text{The amount of milk needed used to make} 2 \text{Pancakes} &= \dfrac{210}{3} \\\\
+\text{The amount of milk needed used to make}  \ 2 \text{Pancakes} &= \dfrac{210}{3} \\\\
 &=  \dfrac{3 \times 70 }{3} \\\\
 &=  \dfrac{\cancel 3 \times 70 }{\cancel 3} \\\\
 &= 70 \ \text{ml}
@@ -1043,7 +1043,7 @@ $
 $
 \begin{aligned}
 \text{ingredients required to make 8 pancakes} &= \text{required to make 6 pancakes} + \text{required to make 2 pancakes}  \\\\
-&= \text{The quantity of plain flour needed to make} 8 \text{Pancakes} \\\\
+&= \text{The quantity of plain flour needed to make} \ 8 \text{Pancakes} \\\\
 &= 120 \ \text{g} + 40 \ \text{g} \\\\
 &= 160 \ \text{g} \\\\\\\\
 \text{The number of Eggs needed to make} 8 \text{Pancakes} &= 3 + 1 \\\\
@@ -1058,7 +1058,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$ $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \text{milk}$ $
+$160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \text{milk}$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic B"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -14,7 +14,7 @@ date: 2022-05-21 23:24:27
 </div>
 <ul class='question TODO'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>CD6BCBD5-16AA-4496-BA89-31C177B22E60</p>
 </div>
@@ -61,11 +61,14 @@ $17954 \div 382 =$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 &= 17954 \div 382 \\\\
 &= \dfrac {17954} {382} \\\\
-&= \dfrac {47 \times \cancel{382} } {\cancel {382} } \\\\
+&= \dfrac {47 \times 382} {382} \\\\
+&= \dfrac {47 \times \cancel {382}} {\cancel {382}} \\\\
 &= 47
 \end{aligned}
 $
@@ -100,6 +103,7 @@ $
 \begin{aligned}
 &= 4.7 \times 3.82 \\\\
 &= \dfrac {47} {10} \times \dfrac {382} {100} \\\\
+&= \dfrac {47 \times 382} {10 \times 100} \\\\
 &= \dfrac {17954} {1000} \\\\
 &= 17.954
 \end{aligned}
@@ -110,7 +114,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$17954$
+$17.954$
 
 </div>
 </div>
@@ -131,9 +135,17 @@ $179.54 \div 38.2 =$
 <div class='workings'>
 <div class='working'>
 
+$
+\begin {aligned}
 &= 179.54 \div 38.2 \\\\
 &= \dfrac {179.54} {38.2} \\\\
-&= 4.7 
+&= \dfrac {17954 \times 10} {382 \times 100} \\\\
+&= \dfrac {47 \times 382 \times 10} {382 \times 100} \\\\
+&= \dfrac {47 \times \cancel {382} \times 1 \cancel {0}} {\cancel {382} \times 10 \cancel {0}} \\\\
+&= \dfrac {47} {10} \\\\
+&= 4.7
+\end {aligned}
+$
 
 </div>
 </div>
@@ -164,6 +176,10 @@ $94 \times 191 =$
 $
 \begin{aligned}
 &= 94 \times 191 \\\\
+&= 2 \times 47 \times \dfrac {382} {2} \\\\
+&= \dfrac {2 \times 47 \times 382} {2} \\\\
+&= \dfrac {\cancel {2} \times 47 \times 382} {\cancel {2}} \\\\
+&= 47 \times 382 \\\\
 &= 17954
 \end{aligned}
 $
@@ -185,12 +201,12 @@ $17954$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>DB9E2E26-0316-4C3F-9AF2-5DD67552215E</p>
 </div>
@@ -238,16 +254,16 @@ In a triangle, one of the angles is $39\degree$, the second is $81\degree$, what
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a\degree$
+Let the missing angle $= a$.
 
-As we all know sum of all angles in $= 180 \degree$
+As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-a + 39 + 81 &= 180 \\\\
-a + 120     &= 180 \\\\
-a           &= 180 - 120 \\\\
-a           &= 60 \degree
+a + 39 + 81   &= 180 \\\\
+a + 120       &= 180 \\\\
+a             &= 180 - 120 \\\\
+a             &= 60 \degree
 \end{aligned}
 $
 
@@ -256,7 +272,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$60\degree$
+$60 \degree$
 
 </div>
 </div>
@@ -277,24 +293,57 @@ A second triangle is isosceles, and one of its angles is $48\degree$. What are t
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+As the triangle is an isosceles triangle, there are two possiblities:
 
-TODOWORKING
+The two missing angles are equal.
+
+Assuming this, we get
+
+Let the two missing angles $= a$.
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+a + a + 48 \degree   &= 180 \degree \\\\
+2a + 48 			 &= 180 \\\\
+2a 					 &= 180 - 48 \\\\
+2a 					 &= 132 \\\\
+a 					 &= \dfrac {132} {2} \\\\
+a 					 &= 66 \degree
+\end {aligned}
+$
+
+The two angles are $66 \degree , 66 \degree$.
+
+Or, One of the missing angles is $= 48 \degree$.
+
+Let the third angle $= b$.
+
+$
+\begin {aligned}
+48 + 48 + b    &= 180 \degree \\\\
+96 + b 		   &= 180 \\\\
+b 			   &= 180 - 96 \\\\
+b              &= 84 \degree
+\end {aligned}
+$
+
+The two angles are $48 \degree, 84 \degree$. 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$66 \degree, 66 \degree$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+$48 \degree, 84 \degree$
 
 </div>
 </div>
@@ -316,29 +365,20 @@ What is the size of angle $A$?
 <div class='workings'>
 <div class='working'>
 
-Let the missing angles a,b,c 
+As per the question,
 
-As per the question
-
-$
-\begin{aligned}
-b  &= 2a \\\\
-c  &= 40 + a 
-\end{aligned}
-$
-
-As we all knows sum of all three angles in triangle $= 180\degree$
+As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-a + b + c        &= 180 \\\\
-a + 2a + 40 + a  &= 180 \\\\
-4a + 40          &= 180 \\\\
-4a               &= 180 - 40 \\\\
-a                &= \dfrac {160} {4} \\\\
-a                &= \dfrac {4 \times 40} {4} \\\\
-a                &= \dfrac {\cancel {4} \times 40} {\cancel {4} } \\\\
-a                &= 40\degree
+A + B + C        &= 180 \degree \\\\
+A + 2A + 40 + A  &= 180 \\\\
+4A + 40          &= 180 \\\\
+4A               &= 180 - 40 \\\\
+A                &= \dfrac {160} {4} \\\\
+A                &= \dfrac {4 \times 40} {4} \\\\
+A                &= \dfrac {\cancel {4} \times 40} {\cancel {4} } \\\\
+A                &= 40 \degree
 \end{aligned}
 $
 
@@ -348,7 +388,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$40\degree$
+$40 \degree$
 
 </div>
 </div>
@@ -360,7 +400,7 @@ $40\degree$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

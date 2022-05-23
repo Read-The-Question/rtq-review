@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-g1"
 title: "Topic - Factor - G1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -889,6 +889,57 @@ $18, 36, 54, 72$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>8D859487-1917-4AF8-9CAA-CC95403EF019</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two whole numbers are each between $40$ and $60$. 
+
+They multiply to make $2385$. 
+
+Write in the missing numbers in the boxes below.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$2385$ ends with $5$. So, it must either be divisible by $45$ or $55$.
+
+$45 \times 53 = 2385$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45, 53$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>

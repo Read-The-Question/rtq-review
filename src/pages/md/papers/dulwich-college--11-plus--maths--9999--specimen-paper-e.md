@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-e"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper E"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Dulwich College</h1>
@@ -112,7 +112,7 @@ $1691$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>4B064430-A3B1-49A5-B5A7-D36E815440A4</p>
 </div>
@@ -131,24 +131,22 @@ $60.2 \div 7$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 60.2 \div 7 \\\\
+&= \dfrac {60.2} {7} \\\\
+&= \dfrac {8.6 \times 7} {7} \\\\
+&= \dfrac {8.6 \times \cancel {7} } {\cancel {7} } \\\\
+&= 8.6
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$8.6$
 
 </div>
 </div>
@@ -157,7 +155,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -440,7 +438,7 @@ $13, \quad 17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>95C9AEE9-A464-411A-8B44-638B44241C5F</p>
 </div>
@@ -466,24 +464,14 @@ $
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$30, 10, 3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$30, 10, 3$
 
 </div>
 </div>
@@ -492,7 +480,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -1585,7 +1573,7 @@ $90 \ \text {ml}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
 </div>
@@ -1611,24 +1599,27 @@ Note: all angles are right angles but the diagram has not been drawn to scale.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text {Area} &= 16 \times 3 + 10 \times 7 + 20 \times 2 \\\\
+             &= 48 + 70 + 40 \\\\
+             &= 112 \ \text{cm}^2
+\end{aligned}
+$
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text {Perimeter} &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
+                  &= 76 \ \text{cm} 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$112 \ \text{cm}^2, 76 \ \text{cm}$
 
 </div>
 </div>
@@ -1637,7 +1628,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

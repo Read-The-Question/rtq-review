@@ -1,9 +1,97 @@
 ---
 slug: "topics/topic-tratio-pr"
 title: "Topic - Ratio - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>7125F2EC-250C-48A5-96EC-68872015C687</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tratio
+</li>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The water cooler in the staff room contains $5 \ \text{litres}$ of water.
+
+How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacing? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. Let's convert the total water into $\text{ml}$.
+
+$
+\begin{aligned}
+\text{Total water} &= 5 \ \text{litres} \\\\
+                    &= 5 \times 1000 \ \text{ml} \\\\
+                    &= 5000 \ \text{ml}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of glasses} &= \dfrac { \text{Total Water in cooler} } { \text{Water in a glass} } \\\\
+                        &= \dfrac { 5000 } { 200 } \\\\
+                        &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
+                        &= \dfrac { 50 } { 2 } \\\\
+                        &= 25
+\end{aligned}
+$
+
+Number of glasses of water $= 25$
+
+</div>
+<div class='working'>
+
+Alternatively, we can solve this using ratios. 
+
+$
+\begin{aligned}
+200 \ \text{ml}                             & : 1 \ \text{glass}  \\\\
+\dfrac{200}{200}  \ \text{ml}                  & : \dfrac{1}{200} \ \text{glasses} \\\\
+1  \ \text{ml}                              & : \dfrac{1}{200}  \\\\
+5000 \times 1  \ \text{ml}                   & : 5000 \times \dfrac{1}{200}  \\\\
+5000 \ \text{ml}                               & : \dfrac{5000}{200}  \\\\
+5000 \ \text{ml}                               & : \dfrac{50\cancel{0}\cancel{0}}{2\cancel{0}\cancel{0}}  \\\\
+5000 \ \text{ml}                               & : \dfrac{50}{2}  \\\\
+5000 \ \text{ml}                               & : 25 \ \text{glasses}                          
+\end{aligned}
+$
+
+Number of glasses of water $= 25$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
@@ -709,7 +797,7 @@ $28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>BDE42C42-21C6-48DE-81AE-A84F76777818</p>
 </div>
@@ -731,14 +819,12 @@ If a dozen eggs cost $\pounds 2.80$, how much do $18$ eggs cost?
 <div class='workings'>
 <div class='working'>
 
-As per the question
+As per the question,
 
 $
 \begin{aligned}
-\text{Cost of 18 eggs}   &= \dfrac {18 \times 2.8} {12} \\\\
-                         &= \dfrac {12 \times 3 \times 1.4} {12} \\\\
-                         &= \dfrac {\cancel {12} \times 3 \times 1.4} {\cancel {12} } \\\\
-                         &= 3 \times 1.4 \\\\
+\text {Cost of 18 eggs}  &= \dfrac {18 \times \pounds 2.8} {12} \\\\
+                         &= \dfrac {50.4} {12} \\\\
                          &= \pounds 4.2
 \end{aligned}
 $
@@ -757,7 +843,7 @@ $\pounds 4.2$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

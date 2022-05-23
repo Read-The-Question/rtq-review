@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-g1"
 title: "Topic - Division - G1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -198,6 +198,56 @@ $1369$
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>30C9339F-2AC2-4BC2-A71D-BD9F13ABB2A2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $391$ divided by seventeen.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{391}{17} \\\\
+&= \dfrac{17 \times 23}{17} \\\\
+&= \dfrac{\cancel{17} \times 23}{\cancel{17}} \\\\
+&= 23
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>

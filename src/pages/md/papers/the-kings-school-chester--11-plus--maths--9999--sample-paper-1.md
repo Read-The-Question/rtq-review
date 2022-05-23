@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-1"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>The King's School Chester</h1>
@@ -206,7 +206,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>BCABF532-DB4D-44EA-893A-A8CB7914EE55</p>
 </div>
@@ -214,6 +214,9 @@ TODOANSWER
 <ul>
 <li>
 torder
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -227,15 +230,7 @@ $4.2101 \quad 4.1021 \quad 4.0121 \quad 4.0211$
 <div class='workings'>
 <div class='working'>
 
-The whole number part of all decimal numbers same, So we need to compare decimal parts every decimal number.
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101
-\end{aligned}
-$
+$4.0121 < \quad 4.0211 < \quad 4.1021 < \quad 4.2101$ 
 
 </div>
 </div>
@@ -251,7 +246,7 @@ $4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

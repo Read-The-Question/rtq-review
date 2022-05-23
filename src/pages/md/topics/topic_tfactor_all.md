@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-all"
 title: "Topic - Factor - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2138,7 +2138,7 @@ $16, 24, 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>95C9AEE9-A464-411A-8B44-638B44241C5F</p>
 </div>
@@ -2164,24 +2164,14 @@ $
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$30, 10, 3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$30, 10, 3$
 
 </div>
 </div>
@@ -2190,7 +2180,7 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -5938,7 +5928,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>8D859487-1917-4AF8-9CAA-CC95403EF019</p>
 </div>
@@ -5982,6 +5972,58 @@ $45, 53$
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>FB21F97F-B716-4F28-B691-6FF3FCEA330A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write **one** number which fits all three of these statements: 
+
+It is a multiple of $3$.
+
+It is a multiple of $7$.
+
+It ends in a $2$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+It is a multiple of $3$ and $7$. Since $3, 7$ have no common factors, the number is also a multiple of $3 \times 7 = 21$
+
+The number ends with 2. So,
+
+$21 \times 2 = 42$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>
@@ -8379,9 +8421,7 @@ A factor of $12$
 <div class='workings'>
 <div class='working'>
 
-Factors of $12$ = $1, 2, 3, 4, 6, 12$
-
-Factor from the list = $6$
+$6$
 
 </div>
 </div>
@@ -8409,7 +8449,7 @@ A multiple of $15$
 <div class='workings'>
 <div class='working'>
 
-$15 \times 3$ = $45$
+$45$
 
 </div>
 </div>

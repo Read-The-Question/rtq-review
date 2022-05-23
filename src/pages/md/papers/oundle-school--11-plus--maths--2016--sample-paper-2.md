@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-2"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -1320,7 +1320,7 @@ $
 \begin{aligned}
 &= 3 + 7 \\\\
 &= 10
-\en{aligned}
+\end{aligned}
 $
 
 </div>
@@ -1354,7 +1354,7 @@ $
 &= (- 13) + (- 0.5) \\\\
 &= - 13 - 0.5 \\\\
 &= - 13.5
-\en{aligned}
+\end{aligned}
 $
 
 </div>
@@ -1388,7 +1388,7 @@ $
 &= 7 - (- 13) \\\\
 &= 7 + 13 \\\\
 &= 20
-\en{aligned}
+\end{aligned}
 $
 
 </div>

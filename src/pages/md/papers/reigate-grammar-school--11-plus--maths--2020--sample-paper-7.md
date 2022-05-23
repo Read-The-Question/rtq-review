@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7"
 title: "Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -199,17 +199,19 @@ How many $\text{minutes}$ are there in one day?
 <div class='workings'>
 <div class='working'>
 
-We know, there are $24$ hours in a day.
+We know,
 
-Also, there are $60$ minutes in an hour.
+$1$ day $= 24$ hours
+
+$1$ hour $= 60$ minutes
 
 As per the question,
 
 $
 \begin{aligned}
-&= \text{Number of hours in a day} \times (\text{Number of minutes in an hour} \\\\
-&= 24 \times 60 \\\\
-&= 1440 \ \text{minutes}
+\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times (\text{No. of minutes in an hour} \\\\
+                                &= 24 \times 60 \\\\
+                                &= 1440 \ \text{minutes}
 \end{aligned}
 $
 
@@ -255,12 +257,14 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Degrees of temperature Rome is warmer than Moscow}            &= \text{Temperature (Rome)} - \text{Temperature (Moscow)} \\\\
+\text{Temperature difference}                                       &= \text{Temperature (Rome)} - \text{Temperature (Moscow)} \\\\
                                                                     &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
                                                                     &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
                                                                     &= 19 \degree \text{C}
 \end{aligned}
 $
+
+Rome is warmer than Moscow by $= 19 \degree \text{C}$
 
 </div>
 </div>

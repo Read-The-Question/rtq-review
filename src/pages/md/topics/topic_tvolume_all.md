@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-all"
 title: "Topic - Volume - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -147,7 +147,7 @@ Label both vertices with $*$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>7125F2EC-250C-48A5-96EC-68872015C687</p>
 </div>
@@ -230,7 +230,7 @@ $25$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -1521,7 +1521,7 @@ $\dfrac {1} {12}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>2D9E6D0E-4E54-4B9F-A732-DB3E447B66D7</p>
 </div>
@@ -1545,41 +1545,22 @@ How many blocks of ice--cream can he put into the cool box?
 <div class='workings'>
 <div class='working'>
 
+$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 
-Let the volume of cool box $= a$.
-
-$
-\begin{aligned}
-a      &= 30 \times 30 \times 62 \\\\
-a      &= 900 \times 62 \\\\
-a      &= 55,800 \text{ cm}^3
-\end{aligned}
-$
-
-Let the volume of single block of ice cream is $= b$.
+As per the question,
 
 $
-\begin{aligned}
-b      &= 10 \times 5 \times 15 \\\\
-b      &= 50 \times 15 \\\\
-b      &= 750 \text{ cm}^3
-\end{aligned}
+begin {aligned}
+\text {Number of ice cream blocks}    &= \dfrac {\text {Volume of the cool box}} {\text {Volume of a ice cream block}} \\\\
+                                      &= \dfrac {30 \ \text{cm} \times 30 \ \text{cm} \times 62 \ \text{cm}} {10 \ \text{cm} \times 5 \ \text{cm} \times 15 \ \text{cm}} \\\\
+                                      &= \dfrac {3 \times 10 \times 3 \times 5 \times 2 \times 62} {10 \times 5 \times 5 \times 3} \\\\
+                                      &= \dfrac {\cancel {3} \times \cancel {10} \times \cancel {5} \times 2 \times 3 \times 62} {\cancel {10} \times \cancel {5} \times \cancel {5} \times \cancel {3}} \\\\
+                                      &= \dfrac {3 \times 2 \times 62} {5} \\\\
+                                      &= \dfrac {372} {5} \\\\
+                                      &= 74 \dfrac {2} {5} \\\\
+                                      &= 74
+\end {aligned}
 $
-
-Now lets find number of boxes that can be put into the cool box,
-
-$
-\begin{aligned}
-&= \dfrac {a} {b} \\\\
-&= \dfrac {55800} {750} \\\\
-&= \dfrac {744 \times 75} {75 \times 10} \\\\
-&= \dfrac {744 \times \cancel {75} } {\cancel{75} \times 10} \\\\
-&= \dfrac {744} {10} \\\\
-&= 74.4
-&= 74
-\end{aligned}
-$
-
 
 </div>
 </div>
@@ -1595,7 +1576,7 @@ $74$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -2523,6 +2504,8 @@ What is the maximum number of bricks which can be fitted into the packing case?
 </div>
 <div class='workings'>
 <div class='working'>
+
+Volume = length $\times$ width $\times$ height
 
 $
 \begin{aligned}

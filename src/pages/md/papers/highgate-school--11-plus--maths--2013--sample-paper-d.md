@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-2013-sample-paper-d"
 title: "Highgate School - 11 Plus - Maths - 2013 - Sample Paper D"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>Highgate School</h1>

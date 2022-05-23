@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2014-sample-paper-5"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -14,7 +14,7 @@ date: 2022-05-21 23:24:27
 </div>
 <ul class='question TODO'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>18878C95-524E-4F4D-B0C2-DE63DF3546B1</p>
 </div>
@@ -35,10 +35,10 @@ Add: $29 + 35$
 
 $
 \begin{array}{cccccccccccccc}
-        & 2 & 9 \\
-    {}+ & 3 & 5 \\
-    \hline
-        & 6 & 4 
+    &   2   &   9 \\
+{}+ &   3   &   5 \\
+\hline
+    &   6   &   4
 \end{array}
 $
 
@@ -47,7 +47,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$94$
+$64$
 
 </div>
 </div>
@@ -56,12 +56,12 @@ $94$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>922FBC24-0E68-4CEB-9A30-4049190D32C2</p>
 </div>
@@ -82,10 +82,10 @@ Subtract: $92 - 67$
 
 $
 \begin{array}{cccccccccccccc}
-           & 9 & 2 \\
-    {}-    & 6 & 7 \\
-    \hline
-         & 2 & 5
+    &   9   &   2 \\
+{}- &   6   &   7 \\
+\hline
+    &   2   &   5
 \end{array}
 $
 
@@ -103,12 +103,12 @@ $25$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>8666EE2B-31C3-4AED-9993-A4014E4810C3</p>
 </div>
@@ -129,10 +129,10 @@ Multiply: $34 \times 9$
 
 $
 \begin{array}{cccccccccccccc}
-             & 3 & 4 \\
-    {}\times &   & 9 \\
-    \hline
-           3 & 0 & 6 \\
+        &   3   &   4 \\
+\times  &       &   9 \\
+\hline
+   3    &   0   &   6
 \end{array}
 $
 
@@ -150,7 +150,7 @@ $306$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -205,7 +205,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>DFFF4069-B7D4-401D-90CC-7DEA7B300388</p>
 </div>
@@ -213,6 +213,9 @@ TODOANSWER
 <ul>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -224,14 +227,14 @@ Write the number twenty-four thousand and twenty-four in figures.
 <div class='workings'>
 <div class='working'>
 
-$24,024$
+$24024$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$24,024$
+$24024$
 
 </div>
 </div>
@@ -240,7 +243,7 @@ $24,024$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -285,7 +288,7 @@ $600$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E</p>
 </div>
@@ -307,10 +310,18 @@ What number do you multiply $0.2$ by to get an answer of $6$?
 <div class='workings'>
 <div class='working'>
 
+Let the number $= a$.
+
+As per the question,
+
 $
 \begin{aligned}
-&= 0.2 \times 30
-&= 6
+a \times 0.2    &= 6 \\\\
+a               &= \dfrac {6} {0.2} \\\\
+a               &= \dfrac {6 \times 10} {0.2 \times 10} \\\\
+a               &= \dfrac {2 \times 3 \times 10} {2} \\\\
+a               &= \dfrac {\cancel {2} \times 3 \times 10} {\cancel {2}} \\\\
+a               &= 30
 \end{aligned}
 $
 
@@ -328,7 +339,7 @@ $30$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -590,7 +601,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>AA1C5578-EC4D-41B3-8D56-14B948934F9D</p>
 </div>
@@ -609,44 +620,14 @@ Five miles is the same distance as eight kilometres. Use this fact to convert:
 <div class='workings'>
 <div class='working'>
 
-Converting $20$ miles into kilometers
-
-$
-\begin{aligned}
-&= \dfrac {20 \times 8} {5} \\\\
-&= \dfrac {5 \times 4 \times 8} {5} \\\\
-&= \dfrac {\cancel {5}  \times 4 \times 8} {\cancel {5} } \\\\
-&= 40 \text{ kilometers}
-\end{aligned}
-$
-
-Converting $40$ kilometers to miles
-
-$
-\begin{aligned}
-&= \dfrac {40 \times 5} {8} \\\\
-&= \dfrac {8 \times 5 \times 5} {8} \\\\
-&= \dfrac {\cancel {8} \times 5 \times 5} {\cancel {8} } \\\\
-&= 25 \text{ miles}
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -665,24 +646,20 @@ $20 \ \text{miles}$ into kilometres
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+5 \ \text {miles}   &= 8 \ \text {kilometres} \\\\
+5 \times 4          &= 8 \times 4 \\\\
+20 \ \text {miles}  &= 32 \ \text {kilometres}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$32 \ \text {kilometres}$
 
 </div>
 </div>
@@ -703,24 +680,20 @@ $40 \ \text{kilometres}$ into miles.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+8 \ \text {kilometres}  &= 5 \ \text {miles} \\\\
+8 \times 5              &= 5 \times 5 \\\\
+40 \ \text{kilometres}  &= 25 \ \text {miles}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$25 \ \text {miles}$
 
 </div>
 </div>
@@ -732,12 +705,12 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>DF2455A7-D708-47AC-8218-FA13D8012E7B</p>
 </div>
@@ -756,30 +729,27 @@ If $1590$ sweets are shared equally between $122$ children, how many sweets do t
 <div class='workings'>
 <div class='working'>
 
-As per the question
+As per the question,
 
 $
 \begin{aligned}
-
+\text {Number of sweets they each got}    &= \dfrac {\text {Total number of sweets}} {\text {Totla number of children}} \\\\
+                                          &= \dfrac {1590} {122} \\\\
+                                          &= 13 \ \dfrac {4} {122} \\\\
+                                          &= 13 \\\\
+\text {Number of sweets left}             &= \text {Total number of sweets} - \text {Total number of children} \times \text {Number of sweets each child got} \\\\
+                                          &= 1590 - 122 \times 13 \\\\
+                                          &= 1590 - 1586 \\\\
+                                          &= 4
 \end{aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$13, 4$
 
 </div>
 </div>
@@ -788,7 +758,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -956,7 +926,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>B997FB3B-115F-4CC3-BC0E-C9D91855E806</p>
 </div>
@@ -979,28 +949,32 @@ Senior citizens are given a $20\%$ discount. If a child's ticket costs $\pounds 
 <div class='workings'>
 <div class='working'>
 
-Let the cost of adult ticket $= a$
+Let the cost of an adult ticket $= a$.
 
-As per the question
-
-$
-\begin{aligned}
-25\% \text{ of} a                               &= 30 \\\\
-\dfrac {25a} {100}                              &= 30 \\\\
-\dfrac {25a} {25 \times 4}                      &= 30 \\\\
-\dfrac {\cancel {25} a} {\cancel {25} \times 4} &= 30 \\\\
-\dfrac {a} {4}                                  &= 30  \\\\
-a                                               &= \pounds 120
-\end{aligned}
-$
+As per the question,
 
 $
 \begin{aligned}
-\text{senior pay}  &= 20\% \text{ of} 120 \\\\
-                   &= \dfrac {20} {100} \times 120 \\\\
-                   &= \dfrac {2 \cancel {0} } {1\cancel {0} \cancel {0} } \times 12\cancel {0} \\\\
-                   &= \pounds 24
-                   
+\text {Cost of a children ticket}           &= \text {Cost of an adult ticket} - 25 \% \ \text {of} \ \text {Cost of an adult ticket} \\\\
+\pounds 30                                  &= a - \dfrac {25} {100} \ \text {of} \ a \\\\
+30                                          &= a - \dfrac {25} {100} \times a \\\\
+30                                          &= a - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100 \times a} {100 \times 1} - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100a} {100} - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100a - 25a} {100} \\\\
+30                                          &= \dfrac {75a} {100} \\\\
+\dfrac {30 \times 100} {75}                 &= a \\\\
+a                                           &= \dfrac {15 \times 2 \times 5 \times 20} {15 \times 5} \\\\
+a                                           &= \dfrac {\cancel {15} \times 2 \times \cancel {5} \times 20} {\cancel {15} \times \cancel {5}} \\\\
+a                                           &= 2 \times 20 \\\\
+a                                           &= \pounds 40 \\\\
+\text {Cost of a senior citizen's ticket}   &= \text {Cost of an adult ticket} - 20 \% \ \text {of} \ \text {Cost of an adult ticket} \\\\
+                                            &= \pounds 40 - \dfrac {20} {100} \times \pounds 40 \\\\
+                                            &= 40 - \dfrac {20 \times 40} {100} \\\\
+                                            &= 40 - \dfrac {20 \times 5 \times 8} {20 \times 5} \\\\
+                                            &= 40 - \dfrac {\cancel {20} \times \cancel {5} \times 8} {\cancel {20} \times \cancel {5}} \\\\
+                                            &= 40 - 8 \\\\
+                                            &= \pounds 32
 \end{aligned}
 $
 
@@ -1009,7 +983,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 24$
+$\pounds 32$
 
 </div>
 </div>
@@ -1018,7 +992,7 @@ $\pounds 24$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

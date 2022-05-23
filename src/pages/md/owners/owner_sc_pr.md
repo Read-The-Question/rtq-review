@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-pr"
 title: "Owner - Sahil Choudhary - PR"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1739,6 +1739,36 @@ $\dfrac{1}{3},\dfrac{2}{5},\dfrac{3}{8},\dfrac{7}{20},\dfrac{4}{11}$
 <div class='workings'>
 <div class='working'>
 
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $3, 5, 8, 20, 11 = 1320$
+
+$
+\begin{aligned}
+&= \dfrac {1} {3} , \quad \dfrac {2} {5} , \quad \dfrac{3} {8} , \quad \dfrac{7} {20} , \quad \dfrac {4} {11} \\\\
+&= \dfrac {1 \times 440} {3 \times 440} , \quad \dfrac {2 \times 264} {5 \times 264} , \quad \dfrac {3 \times 165} {8 \times 165} , \quad \dfrac{7 \times 66} {20 \times 66} , \quad \dfrac {4 \times 120} {11 \times 120} \\\\
+&= \dfrac {440} {1320} , \quad \dfrac {528} {1320} , \quad \dfrac {495} {1320} , \quad \dfrac {462} {1320} , \quad \dfrac {480} {1320}
+\end{aligned}
+$
+
+Let's put them in decending order now.
+
+$
+\begin{aligned}
+&= \dfrac {582} {1320}> \quad \dfrac {495} {1320}> \quad \dfrac {480} {1320}> \quad \dfrac {462} {1320}> \quad \dfrac {440} {1320} \\\\
+&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {4} {11}> \quad \dfrac {7} {20}> \quad \dfrac {1} {3}
+\end{aligned}
+$
+
+Smallest $= \dfrac {1} {3}$
+
+Largest $= \dfrac {2} {5}$
+
+</div>
+<div class='working'>
+
+Alternative Solution
+
 If two or more fraction has common numerator then fraction with smallest denominator is the largest and fraction with largest denominator is the smallest.
 
 $
@@ -1753,8 +1783,8 @@ Let's put them in decending order now.
 
 $
 \begin{aligned}
-&= \dfrac {84} {210}, \quad \dfrac {84} {224}, \quad \dfrac {84}{231}, \quad \dfrac {84}{240}, \quad \dfrac {84}{252} \\\\
-&= \dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {4} {11}, \quad \dfrac {7} {20}, \quad \dfrac {1} {3}
+&= \dfrac {84} {210}> \quad \dfrac {84} {224}> \quad \dfrac {84}{231}> \quad \dfrac {84}{240}> \quad \dfrac {84}{252} \\\\
+&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {4} {11}> \quad \dfrac {7} {20}> \quad \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -3271,6 +3301,20 @@ $
 $
 
 </div>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \text{half of 999} \\\\\
+&= \dfrac {999} {2} \\\\\
+&= \dfrac {1000 - 1} {2} \\\\\
+&= \dfrac {1000} {2} - \dfrac {1} {2} \\\\\
+&= 500 - 0.50 \\\\
+&= 499.5
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -3310,15 +3354,17 @@ $12\:\: 234\:\: 3456\:\: 45678\:\: 567890$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-12 &= 1 + 2 &= 3 &= {\text{multiple of}} \ 3 \\\\
-234 &= 2 + 2 + 4 &= 9 &= {\text{multiple of}} \ 3 \\\\
-3456 &= 3 + 4 + 5 + 6 &= 15 &= {\text{multiple of}} \ 3 \\\\
-45678 &= 4 + 5 + 6 + 7 + 8 &= 30 &= {\text{multiple of}} \ 3 \\\\
-567890 &= 5 + 6 + 7 + 8 + 9 &= 35 &\not = {\text{multiple of}} \ 3 \\\\
-\end{aligned}
-$
+As we know that a number is divisible by 3 if the sum of all its digits is divisible by 3. Using that,
+
+| Number    |         Sum                                           | Multiple of $3$
+|:------:   |:----------------------------------------------------: | :-----:
+|  $12$     | $1 + 2 = \red{3}$                                     |  Yes
+|  $234$    | $2 + 3 + 4 = \red{9}$                                 |  Yes
+|  $3456$   | $3 + 4 + 5 + 6 = \red{15}$                            |  Yes
+|  $45678$  | $4 + 5 + 6 + 7 + 8 = \red{30}$                        |  Yes
+|  $567890$ | $5 + 6 + 7 + 8 + 9 + 0 = \green{35}$                  |  No
+
+Answer $= 567890$
 
 </div>
 </div>
@@ -3588,18 +3634,18 @@ $
 \end{aligned}
 $
 
-Let's put them in acending order now.
+Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {600} {1000},  \quad \dfrac {605} {1000},  \quad \dfrac {650} {1000} \\\\
-&= \dfrac{3}{5},  \quad 0.605,  \quad 65\%
+&= \dfrac {600} {1000}<  \quad \dfrac {605} {1000}<  \quad \dfrac {650} {1000} \\\\
+&= \dfrac{3}{5}<  \quad 0.605<  \quad 65\%
 \end{aligned}
 $
 
 Largest $= \ 65\%$
 
-Smallest $= \ \dfrac{3}{5}$
+Smallest $= \ \dfrac {3} {5}$
 
 </div>
 </div>
@@ -3607,7 +3653,8 @@ Smallest $= \ \dfrac{3}{5}$
 <div class='answer'>
 
 Largest $= 65\%$
-Smallest $= \dfrac{3}{5}$
+
+Smallest $= \dfrac {3} {5}$
 
 </div>
 </div>
@@ -3675,7 +3722,7 @@ $
 &= 10\% \times 250 \\\\
 &= \dfrac {10} {100} \times 250 \\\\
 &= \dfrac {10 \times 250} {100} \\\\
-&= \dfrac {1 \cancel{0} \times 25 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= \dfrac {1 \cancel{0} \times 25 \cancel{0}} {1 \cancel{00}} \\\\
 &= \pounds 25
 \end{aligned}
 $
@@ -3779,23 +3826,22 @@ $\pounds 6.25$
 </div>
 <div class='question subquestion'>
 
-Use your answers to find $17\,1\diagup2\%$ of $\pounds 250$?
+Use your answers to find $17 \dfrac {1} {2}\%$ of $\pounds 250$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+Using previous answers
+
 $
 \begin{aligned}
 &= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds \ 250 \\\\
 &= 17 \dfrac {1} {2}\% \times 250 \\\\
-&= \dfrac {35} {2}\% \times 250 \\\\
-&= \dfrac {(10 + 10 + 10 + 5)} {2}\% \times 250 \\\\
-&= \dfrac {(10 + 10 + 10 + 5)} {2} \times 250 \\\\
-
-
-
-&= \pounds \ 43.75
+&= (10 + 5 + 2) \dfrac {1} {2}\% \times 250 \\\\
+&= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250
+&= 25 + 12.5 + 6.25 \\\\
+&= \pounds 43.75
 \end{aligned}
 $
 
@@ -3804,7 +3850,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds \ 43.75$
+$\pounds 43.75$
 
 </div>
 </div>
@@ -3834,6 +3880,32 @@ tfraction
 </div>
 <div class='question question'>
 
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
 Find $\text{one seventh of 280}$
 
 </div>
@@ -3842,11 +3914,12 @@ Find $\text{one seventh of 280}$
 
 $
 \begin{aligned}
-&= \dfrac {1} {7} \text{of} 280 \\\\
+&= \text{one seventh of 280} \\\\
+&= \dfrac {1} {7} \ \text{of} \ 280 \\\\
 &= \dfrac {1} {7} \times 280 \\\\
 &= \dfrac {1 \times 280} {7} \\\\
-&= \dfrac {40 \times 7} {7} \\\\
-&= \dfrac {40 \times \cancel{7}} {\cancel{7}} \\\\
+&= \dfrac {7 \times 40} {7} \\\\
+&= \dfrac {\cancel{7} \times 40} {\cancel{7}} \\\\
 &= 40
 \end{aligned}
 $
@@ -3860,7 +3933,9 @@ $40$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3881,7 +3956,7 @@ $
 \begin{aligned}
 &= \dfrac {4} {7} \ \text{of} \ 280 \\\\
 &= \dfrac {4} {7} \times 280 \\\\
-&= 4 \times \dfrac {1 \times 280} {7} \\\\
+&= 4 \times \dfrac {1} {7} \times 280 \\\\
 &= 4 \times 40 \\\\
 &= 160
 \end{aligned}
@@ -3934,6 +4009,8 @@ What is their total age?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 \text{Richard's age}    &= 18 \\\\
@@ -3945,11 +4022,12 @@ $
 \text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
                         &= \dfrac {2} {3} \times 9 \\\\
                         &= \dfrac {2 \times 9} {3} \\\\
-                        &= \dfrac {18} {3} \\\\
-                        &= \dfrac {3 \times 6} {3} \\\\
-                        &= \dfrac {\cancel{3} \times 6} {\cancel{3}} \\\\
+                        &= \dfrac {2 \times 3 \times 3} {3} \\\\
+                        &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
+                        &= 2 \times 3 \\\\
                         &= 6 \\\\
-\text{Total age}        &= 18 + 9 + 6 \\\\
+\text{Total age}        &= \text{Age (Richard) + Age (Adam) + Age (Will)} \\\\
+                        &= 18 + 9 + 6 \\\\
                         &= 33
 \end{aligned}
 $
@@ -3996,6 +4074,26 @@ Write down a decimal between $90\%$ and $95\%$
 
 </div>
 <div class='workings'>
+<div class='working'>
+
+Let's first list down other percentages between $90\%$ and $95\%$ and then convert one of them into decimal, as asked in the question.
+
+
+\begin{aligned}
+&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
+\end{aligned}
+
+
+Let's convert 92\% into decimal.
+
+
+\begin{aligned}
+&= \dfrac {92} {100}\\\\
+&= 0.92
+\end{aligned}
+$
+
+</div>
 <div class='working'>
 
 $
@@ -4238,7 +4336,7 @@ $
 
 There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
 
-Add the second equation from the first to reduce it to one variable.
+Add the second equation to the first to reduce it to one variable.
 
 $
 \begin{aligned}
@@ -4263,7 +4361,7 @@ b                        &= 5
 \end{aligned}
 $
 
-$13 \ \text{and} \ 5$ are the two numbers that have a difference of $8$ and added upto $18$
+Two numbers that have a difference of 8 and added upto 18 are $13$ and $5$
 
 </div>
 </div>
@@ -7326,10 +7424,13 @@ Using the information given above, what is $7504 \div 56$?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-56 \times 134                         &= 7504 \\\\
-7504 \div 56                          &= 134
+7504                                               &= 56 \times 134 \ \text{So,} \\\\
+\dfrac {7504} {56}                                 &= 134 \\\\
+7504 \div 56                                       &= 134
 \end{aligned}
 $
 
@@ -7353,7 +7454,7 @@ $134$
 </div>
 <div class='question subquestion'>
 
-Using the information given above, what is $112 \times 6$
+Using the information given above, what is $112 \times 67$
 
 </div>
 <div class='workings'>
@@ -7361,12 +7462,10 @@ Using the information given above, what is $112 \times 6$
 
 $
 \begin{aligned}
-56 \times 134                                           &= 7504 \\\\
-56 \times 134 \times \dfrac {2} {2}                     &= 7504 \times \dfrac {2} {2} \\\\
-\dfrac {56 \times 134 \times 2} {2}                     &= 7504 \times \dfrac {\cancel{2}} {\cancel{2}} \\\\
-\dfrac {112 \times 2 \times 67} {2}                     &= 7504 \times 1 \\\\
-\dfrac {112 \times \cancel{2} \times 67} {\cancel{2}}   &= 7504 \times 1 \\\\
-112 \times 67                                           &= 7504
+&= 112 \times 67 \\\\
+&= 56 \times 2 \times 67 \\\\
+&= 56 \times 134 \\\\
+&= 7504
 \end{aligned}
 $
 
@@ -8194,18 +8293,23 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 <div class='workings'>
 <div class='working'>
 
-We know, area of a rectangle $= \text{length} \times \text{width}$
+We know,
 
-Length of the pool $= \text{Length of garden} - \text{Width of path} = 15 - 2 = 13 \text{cm}
+$\text{Area of rectangle} = \text{length} \times \text{width}$
 
-Width of the pool $= \text{Width of garden} - \text{Width of path} = 8 - 2 = 6 \text{cm}
+As per the diagram,
 
 $
 \begin{aligned}
+\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
+                                                   &= 15 \ \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \times 8 \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \\\\
+                                                   &= 15 \ \text{cm} - 4 \ \text{cm} \times 8 \ \text{cm} - 4 \ \text{cm} \\\\
+                                                   &= 11 \ \text{cm} \times 4 \ \text{cm} \\\\
+                                                   &= 44 \ \text{cm}^{2} \\\\
 \text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
-                                                   &= 15 \text{cm} \times 8 \text{cm}  - 13 \text{cm} \times 6 \text{cm} \\\\
-                                                   &= 120 \text{cm}^{2} - 78 \text{cm}^{2} \\\\
-                                                   &= 42 \text{cm}^{2}
+                                                   &= 15 \ \text{cm} \times 8 \ \text{cm}  - 44 \ \text{cm}^{2} \\\\
+                                                   &= 120 \ \text{cm}^{2} - 44 \ \text{cm}^{2} \\\\
+                                                   &= 76 \ \text{cm}^{2}
 \end{aligned}
 $
 
@@ -8214,7 +8318,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$42 \text{cm}^{2}$
+$76 \ \text{cm}^{2}$
 
 </div>
 </div>
@@ -8546,17 +8650,19 @@ How many $\text{minutes}$ are there in one day?
 <div class='workings'>
 <div class='working'>
 
-We know, there are $24$ hours in a day.
+We know,
 
-Also, there are $60$ minutes in an hour.
+$1$ day $= 24$ hours
+
+$1$ hour $= 60$ minutes
 
 As per the question,
 
 $
 \begin{aligned}
-&= \text{Number of hours in a day} \times (\text{Number of minutes in an hour} \\\\
-&= 24 \times 60 \\\\
-&= 1440 \ \text{minutes}
+\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times (\text{No. of minutes in an hour} \\\\
+                                &= 24 \times 60 \\\\
+                                &= 1440 \ \text{minutes}
 \end{aligned}
 $
 
@@ -8602,12 +8708,14 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Degrees of temperature Rome is warmer than Moscow}            &= \text{Temperature (Rome)} - \text{Temperature (Moscow)} \\\\
+\text{Temperature difference}                                       &= \text{Temperature (Rome)} - \text{Temperature (Moscow)} \\\\
                                                                     &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
                                                                     &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
                                                                     &= 19 \degree \text{C}
 \end{aligned}
 $
+
+Rome is warmer than Moscow by $= 19 \degree \text{C}$
 
 </div>
 </div>

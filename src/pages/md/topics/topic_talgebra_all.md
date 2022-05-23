@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-05-21 23:24:27
+date: 2022-05-23 06:58:47
 ---
 <ul class='question default-decimal'>
 <li>
@@ -649,7 +649,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>7125F2EC-250C-48A5-96EC-68872015C687</p>
 </div>
@@ -732,12 +732,12 @@ $25$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>1622DD6F-538D-47B0-8E04-EE946A7719E6</p>
 </div>
@@ -835,7 +835,7 @@ Banana $= 50 \ \text{pence}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -2426,7 +2426,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>734F4C9F-BA17-40EC-BE44-F910FF8517D0</p>
 </div>
@@ -2474,12 +2474,12 @@ When $x = 4$, what is the value of $y$?
 <div class='working'>
 
 $
-\begin{aligned}
-y &= 2x + 10 \\\\
-y &= 2 \times 4 + 10 \\\\
-y &= 8 + 10 \\\\
-y &= 18
-\end{aligned}
+\begin {aligned}
+y   &= 2x + 10 \\\\
+    &= 2 \times 4 + 10 \\\\
+    &= 8 + 10 \\\\
+    &= 18
+\end {aligned}
 $
 
 </div>
@@ -2508,17 +2508,21 @@ When $x = -4$, what is the value of $y$?
 <div class='workings'>
 <div class='working'>
 
-y &= 2x + 10 \\\\
-y &= 2 \times (-4) + 10 \\\\
-y &= -4 + 10 \\\\
-y &= 6 
+$
+\begin {aligned}
+y   &= 2x + 10 \\\\
+    &= 2 \times (-4) + 10 \\\\
+    &= -8 + 10 \\\\
+    &= 2
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6$
+$2$
 
 </div>
 </div>
@@ -2548,18 +2552,21 @@ $
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
- y &= x^2
-\end{aligned}
-$
+| Expression           | $x = -4$                  | $x = 4$                 | Equal or not |
+|----------------------|---------------------------|-------------------------|--------------|
+| $y = 2x$             | y = 2 \times -4 = -8      | y = 2 \times 4 = 8      | No           |
+| $y = 2 + x$          | y = 2 + (-4) = -2         | y = 2 + 4 = 6           | No           |
+| $y = x ^2$           | y = (-4) ^ 2 = 16         | y = 4 ^ 2 = 16          | Yes          |
+| $y = \dfrac {x} {2}$ | y = \dfrac {-4} {2} = -2  | y = \dfrac {4} {2} = 2  | No           |
+
+$y = x ^ 2$ gives the same value if $y$ for both $x = 4$ and $x = -4$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$y = x^2$
+$y = x ^ 2$
 
 </div>
 </div>
@@ -2571,7 +2578,7 @@ $y = x^2$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -18716,12 +18723,11 @@ $
                         &= \dfrac {20} {3} \\\\
                         &= 6.666 \ \text{cm}
 \end{aligned}
+$
 
 Number of pieces $= 6$
 
 Remaining length $= 0.66 \ \text{cm}$
-
-$
 
 </div>
 </div>
@@ -23449,9 +23455,9 @@ $
 18 + 2(a ^ 2)                   &= 50 \\\\
 2(a ^ 2)                        &= 50 - 18 \\\\
 2(a ^ 2)                        &= 32 \\\\
-a ^ 2                           &= dfrac {32} {2} \\\\
-a ^ 2                           &= dfrac {16 \times 2} {2} \\\\
-a ^ 2                           &= dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2                           &= \dfrac {32} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
 a ^ 2                           &= 16 \\\\
 a                               &= \sqrt 16 \\\\
 a                               &= + 4 \ \text{and} \ -4
@@ -26613,7 +26619,7 @@ $
 
 There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
 
-Add the second equation from the first to reduce it to one variable.
+Add the second equation to the first to reduce it to one variable.
 
 $
 \begin{aligned}
@@ -26638,7 +26644,7 @@ b                        &= 5
 \end{aligned}
 $
 
-$13 \ \text{and} \ 5$ are the two numbers that have a difference of $8$ and added upto $18$
+Two numbers that have a difference of 8 and added upto 18 are $13$ and $5$
 
 </div>
 </div>
@@ -28547,7 +28553,7 @@ $10, 11, 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>4FD3FA7F-457F-4731-B4AE-15DCF80081B3</p>
 </div>
@@ -28566,59 +28572,36 @@ Tim, David and Alison are given some money by their grandfather. Tim gets twice 
 <div class='workings'>
 <div class='working'>
 
-Let the money recevied by Tim, David, Alison be a, b, c respectivley.b
+Let the money Tim received $= a$.
+
+According to the question,
+
+Money David recieved $= \dfrac {a} {2}$.
+
+Money Alison recieved $= \dfrac {a} {3}$.
+
 As per the question,
 
 $
-\begin{aligned}
-a         &= 2b \\\\
-a         &= 3c \\\\
-a + b + c &= \pounds 49.5
-\end{aligned}
+\begin {aligned}
+\text {Total money they recieved}                                                                       &= \pounds 49.50 \\\\
+a + \dfrac {a} {2} + \dfrac {a} {3}                                                                     &= 49.50 \\\\
+\dfrac {6 \times a} {1 \times 6} + \dfrac {a \times 3} {2 \times 3} + \dfrac {a \times 2} {3 \times 2}  &= 49.50 \\\\
+\dfrac {6a} {6} + \dfrac {3a} {6} + \dfrac {2a} {6}                                                     &= 49.50 \\\\
+\dfrac {6a + 3a + 2a} {6}                                                                               &= 49.50 \\\\
+11a                                                                                                     &= 49.50 \times 6 \\\\
+a                                                                                                       &= \dfrac {297} {11} \\\\
+a                                                                                                       &= \dfrac {27 \times 11} {11} \\\\
+a                                                                                                       &= \dfrac {27 \times \cancel {11}} {\cancel {11}} \\\\
+a                                                                                                       &= \pounds 27
+\end {aligned}
 $
 
-Lets first find value of a,
+Money Tim received $= \pounds 27$.
 
-$
-\begin{aligned}
-& b                                      &= \dfrac {a} {2} \\\\
-& c                                      &= \dfrac {a} {3} \\\\
-& a + b + c                              &= 49.5 \\\\
-& a + \dfrac {a} {2} + \dfrac {a} {3}    &= 49.5 \\\\
-& \dfrac {6a + 3a + 2a} {6}              &= 49.5 \\\\
-&  6a + 3a + 2a                          &= 49.5 \times 6 \\\\
-&  6a + 3a + 2a                          &= 297 \\\\
-&  11a                                   &= 297 \\\\
-& a                                      &= \dfrac {297} {11} \\\\
-& a                                      &= \dfrac {27 \times \cancel {11} } {\cancel {11} } \\\\
-& a                                      &= \pounds 27
-\end{aligned}
-$
+Money David recieved $= \dfrac {27} {2} = \pounds 13.5$.
 
-Now lets find b,
-
-$
-\begin{aligned}
-a &= 2b \\\\
-b &= \dfrac {a} {2} \\\\
-b &= \dfrac {27} {2} \\\\
-b &= \pounds 13.5
-\end{aligned}
-$
-
-Finally the value of c is given by,
-
-$
-\begin{aligned}
-a + b + c &= 49.5 \\\\
-c         &= 49.5 - b - a \\\\
-c         &= 49.5 - (a + b) \\\\
-c         &= 49.5 - (27 + 13.5) \\\\
-c         &= 49.5 - 40.5  \\\\
-c         &=\pounds 9
-\end{aligned}
-$
-
+Money Alison recieved $= \dfrac {27} {3} = \pounds 9$.
 
 </div>
 </div>
@@ -28634,7 +28617,7 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -28692,7 +28675,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>DE21514C-D0D8-4AC5-AA51-07E6EBC58C80</p>
 </div>
@@ -28711,42 +28694,26 @@ Two numbers have a sum of $87$. The larger of the numbers is twice the smaller. 
 <div class='workings'>
 <div class='working'>
 
-Let the small number $= a$,
+Let the smaller number $= a$.
 
-And large number $= b$,
+The larger number $= 2a$.
 
-As per the question.
-
-$
-\begin{aligned}
-a + b &= 87 \\\\
-b     &= 2a \\\\
-\end{aligned}
-$
-
-Lets first find the value of a,
+As per the question,
 
 $
 \begin{aligned}
-a + b    &=  87 \\\\
-a + 2a   &=  87 \\\\
-3a       &= 87 \\\\
-a        &= \dfrac {87} {3} \\\\
-a        &= \dfrac{29 \times 3} {3} \\\\
-a        &= \dfrac{29 \times \cancel {3} } {\cancel {3} } \\\\
-a        &= 29
+a + 2a  &= 87 \\\\
+3a      &= 87 \\\\
+a       &= \dfrac {87} {3} \\\\
+a       &= \dfrac {29 \times 3} {3} \\\\
+a       &= \dfrac {29 \times \cancel {3}} {\cancel {3}} \\\\
+a       &= 29
 \end{aligned}
 $
 
-Now lets find value of b,
+Smaller Number $= 29$.
 
-$
-\begin{aligned}
-b     &= 2a \\\\
-b     &= 2 \times 29 \\\\
-b     &= 58
-\end{aligned}
-$
+Larger number $= 2 \times 29 = 58$.
 
 </div>
 </div>
@@ -28762,7 +28729,7 @@ $29, 58$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -33713,33 +33680,43 @@ How many biscuits do Alysha and Julia each have?
 <div class='workings'>
 <div class='working'>
 
-Let the biscuits with Alysha $=a$
-
-Biscuits with Julia $= 14 - a$
+Let the number of biscuits Juilia has $=a$
 
 As per the question,
 
+Biscuits (Alysha) + Biscuits (Julia) = Total Biscuits
+
 $
 \begin{aligned}
-a       &= 14 - a + 2 \\\\
-2a      &= 16 \\\\
-a       &= \dfrac{16}{2} \\\\
-a       &= \dfrac{8 \times 2}{2} \\\\
-a       &= \dfrac{8 \times \cancel{2}}{\cancel{2}} \\\\
-a       &= 8
+(a + 2) + a &= 14 \\\\\
+2a + 2  &= 14 \\\\
+2a      &= 14 - 2 \\\\
+2a      &= 12 \\\\
+a       &= \dfrac{12}{2} \\\\
+a       &= \dfrac{6 \times 2}{2} \\\\
+a       &= \dfrac{6 \times \cancel{2}}{\cancel{2}} \\\\
+a       &= 6
 \end{aligned}
 $
 
-Biscuits with Alysha $=8$
+No. of biscuits Juilia has $= 6$
 
-Biscuits with Julia $= 14 - 8 = 6$
+No. of biscuits Alysha has 
+
+$
+\begin{aligned}
+&= 2 + a \\\\
+&= 2 + 6 \\\\
+&= 8
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8, 6$
+Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
 
 </div>
 </div>
@@ -34180,7 +34157,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
 </div>
@@ -34234,7 +34211,7 @@ $8{:}45 \ \text{am}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -34332,7 +34309,7 @@ If I treble a number and add $6$, I get the same answer as when I add $16$ to th
 <div class='workings'>
 <div class='working'>
 
-Let the number i think $= a$
+Let the number I think $= a$
 
 As per the question,
 
@@ -34349,7 +34326,7 @@ a                   &= 5
 \end{aligned}
 $
 
-The number $= 5$
+My original number $= 5$
 
 </div>
 </div>
@@ -34641,70 +34618,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>295FC725-C559-4A9A-B53F-530F83AAA2FC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I think of a number $n$. 
-
-$5n$ is more than $60$, but $n + 5$ is less than $20$. What are the possible values of $n$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-5n      &> 60 \\\\
-n       &> \dfrac{60}{5} \\\\
-n       &> \dfrac{12 \times 5}{5} \\\\
-n       &> \dfrac{12 \times \cancel{5}}{\cancel{5}} \\\\
-n       &> 12
-\end{aligned}
-$
-
-Also,
-
-$
-\begin{aligned}
-n + 5       &< 20 \\\\
-n           &< 20 - 5 \\\\
-n           &< 15
-\end{aligned}
-$
-
-The values of n can be $= 13, 14$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13, 14$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>D7A80376-0605-421E-8C3B-6A9A36B38446</p>
 </div>
 <div class='topics'>
@@ -34724,20 +34637,23 @@ Sarah won a large jar of sweets in a Christmas raffle. If there are $486$ sweets
 
 $
 \begin{aligned}
-\text{Sweets per person}        &= \dfrac{Total sweets}{Total people} \\\\
-                                &= \dfrac{486}{17} \\\\
-                                &= 28 \dfrac{10}{17}
+\text{Sweets per person}        &= \dfrac{\text{Total sweets}}{\text{Total people}} \\\\
+                                &= \dfrac{486}{18} \\\\
+                                &= \dfrac{27 \times 18}{18} \\\\
+                                &= \dfrac{27 \times \cancel{18}}{\cancel{18}} \\\\
+                                &= 27
+
 \end{aligned}
 $
 
-Each person gets $28 \dfrac{10}{17}$ Sweets each.
+Each person gets $27$ Sweets each.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$28 \dfrac{10}{17}$
+$27$
 
 </div>
 </div>
@@ -49439,7 +49355,7 @@ $24 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>DB9E2E26-0316-4C3F-9AF2-5DD67552215E</p>
 </div>
@@ -49487,16 +49403,16 @@ In a triangle, one of the angles is $39\degree$, the second is $81\degree$, what
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a\degree$
+Let the missing angle $= a$.
 
-As we all know sum of all angles in $= 180 \degree$
+As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-a + 39 + 81 &= 180 \\\\
-a + 120     &= 180 \\\\
-a           &= 180 - 120 \\\\
-a           &= 60 \degree
+a + 39 + 81   &= 180 \\\\
+a + 120       &= 180 \\\\
+a             &= 180 - 120 \\\\
+a             &= 60 \degree
 \end{aligned}
 $
 
@@ -49505,7 +49421,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$60\degree$
+$60 \degree$
 
 </div>
 </div>
@@ -49526,24 +49442,57 @@ A second triangle is isosceles, and one of its angles is $48\degree$. What are t
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+As the triangle is an isosceles triangle, there are two possiblities:
 
-TODOWORKING
+The two missing angles are equal.
+
+Assuming this, we get
+
+Let the two missing angles $= a$.
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+a + a + 48 \degree   &= 180 \degree \\\\
+2a + 48 			 &= 180 \\\\
+2a 					 &= 180 - 48 \\\\
+2a 					 &= 132 \\\\
+a 					 &= \dfrac {132} {2} \\\\
+a 					 &= 66 \degree
+\end {aligned}
+$
+
+The two angles are $66 \degree , 66 \degree$.
+
+Or, One of the missing angles is $= 48 \degree$.
+
+Let the third angle $= b$.
+
+$
+\begin {aligned}
+48 + 48 + b    &= 180 \degree \\\\
+96 + b 		   &= 180 \\\\
+b 			   &= 180 - 96 \\\\
+b              &= 84 \degree
+\end {aligned}
+$
+
+The two angles are $48 \degree, 84 \degree$. 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$66 \degree, 66 \degree$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+$48 \degree, 84 \degree$
 
 </div>
 </div>
@@ -49565,29 +49514,20 @@ What is the size of angle $A$?
 <div class='workings'>
 <div class='working'>
 
-Let the missing angles a,b,c 
+As per the question,
 
-As per the question
-
-$
-\begin{aligned}
-b  &= 2a \\\\
-c  &= 40 + a 
-\end{aligned}
-$
-
-As we all knows sum of all three angles in triangle $= 180\degree$
+As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-a + b + c        &= 180 \\\\
-a + 2a + 40 + a  &= 180 \\\\
-4a + 40          &= 180 \\\\
-4a               &= 180 - 40 \\\\
-a                &= \dfrac {160} {4} \\\\
-a                &= \dfrac {4 \times 40} {4} \\\\
-a                &= \dfrac {\cancel {4} \times 40} {\cancel {4} } \\\\
-a                &= 40\degree
+A + B + C        &= 180 \degree \\\\
+A + 2A + 40 + A  &= 180 \\\\
+4A + 40          &= 180 \\\\
+4A               &= 180 - 40 \\\\
+A                &= \dfrac {160} {4} \\\\
+A                &= \dfrac {4 \times 40} {4} \\\\
+A                &= \dfrac {\cancel {4} \times 40} {\cancel {4} } \\\\
+A                &= 40 \degree
 \end{aligned}
 $
 
@@ -49597,7 +49537,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$40\degree$
+$40 \degree$
 
 </div>
 </div>
@@ -49609,7 +49549,7 @@ $40\degree$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -52021,12 +51961,12 @@ If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ jo
 
 $
 \begin{aligned}
-\text{Quaters in 2 \dfrac {1} {2} miles} &= 2 \dfrac {1} {2} \times 4 \\\\
-                                         &= \dfrac {5} {2} \times 4 \\\\
-                                         &= \dfrac {5 \times 4} {2} \\\\
-                                         &= \dfrac {5 \times 2 \times 2} {2} \\\\
-                                         &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
-                                         &= 10
+\text{Quaters in} \ 2 \dfrac {1} {2} \ \text {miles} &= 2 \dfrac {1} {2} \times 4 \\\\
+                                                     &= \dfrac {5} {2} \times 4 \\\\
+                                                     &= \dfrac {5 \times 4} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times 2} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                                                     &= 10
 \end{aligned}
 $
 
@@ -52076,11 +52016,11 @@ If the starting charge at a third company is $\pounds 2.20$ and the Total Fare f
 
 $
 \begin{aligned}
-\text{Quaters in 6 \dfrac {1} {4} miles} &= 6 \dfrac {1} {4} \times 4 \\\\
-                                         &= \dfrac {25} {4} \times 4 \\\\
-                                         &= \dfrac {25 \times 4} {4} \\\\
-                                         &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
-                                         &= 25
+\text{Quaters in} \ 6 \dfrac {1} {4} \ \text{miles} &= 6 \dfrac {1} {4} \times 4 \\\\
+                                                    &= \dfrac {25} {4} \times 4 \\\\
+                                                    &= \dfrac {25 \times 4} {4} \\\\
+                                                    &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
+                                                    &= 25
 \end{aligned}
 $
 
@@ -56733,12 +56673,10 @@ $𝑎𝑏^2$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 &= ab^2 \\\\
-&= 3 \time 5^2 \\\\
+&= 3 \times 5^2 \\\\
 &= 3 \times 25 \\\\
 &= 75
 \end{aligned}
@@ -56775,9 +56713,9 @@ As per the question,
 $
 \begin{aligned}
 &= bc^2 \\\\
-&= 5 \time (-2)^2 \\\\
-&= 5 \times 4 \\\\
-&= 20
+&= ( 5 \times -2)^2 \\\\
+&= 10^2 \\\\
+&= 100
 \end{aligned}
 $
 
@@ -56786,7 +56724,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$100$
 
 </div>
 </div>
@@ -56892,6 +56830,7 @@ $
 \begin{aligned}
 &= a - \dfrac{b}{c} \\\\
 &= 3 - \dfrac{5}{-2} \\\\
+&= 3 + \dfrac{5}{2} \\\\
 &= \dfrac{3 \times 2} {1 \times 2} + \dfrac {5} {2} \\\\
 &= \dfrac{6} {2} + \dfrac {5} {2} \\\\
 &= \dfrac{6 + 5} {2} \\\\
@@ -57096,8 +57035,8 @@ $3 - 2(𝑒 - 1)$
 $
 \begin{aligned}
 &= 3 - 2(𝑒 - 1) \\\\
-&= 3 - 2e - 2 \\\\
-&= 1 - 2e
+&= 3 - 2e + 2 \\\\
+&= 5 - 2e
 \end{aligned}
 $
 
@@ -57106,7 +57045,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1-2e$
+$5-2e$
 
 </div>
 </div>
@@ -57171,12 +57110,12 @@ $3𝑥 - 4 = 20$
 $
 \begin{aligned}
 3x - 4      &= 20 \\\\
-3x          & 20 + 4 \\\\
+3x          &= 20 + 4 \\\\
 3x          &= 24 \\\\
-x           &= \dfrac {24} {4} \\\\
-x           &= \dfrac {4 \times 6} {4} \\\\
-x           &= \dfrac {\cancel {4} \times 6} {\cancel {4}} \\\\
-x           &= 6
+x           &= \dfrac {24} {3} \\\\
+x           &= \dfrac {3 \times 8} {3} \\\\
+x           &= \dfrac {\cancel {3} \times 8} {\cancel {3}} \\\\
+x           &= 8
 \end{aligned}
 $
 
@@ -57185,7 +57124,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6$
+$8$
 
 </div>
 </div>
@@ -57210,7 +57149,7 @@ $
 \begin{aligned}
 2 - x       &= 3(1 - x) \\\\
 2 - x       &= 3 - 3x \\\\
--x + 3x     &= 3 - 2 \\\\
+3x - x      &= 3 - 2 \\\\
 2x          &= 1 \\\\
 x           &= \dfrac{1} {2} 
 \end{aligned}
@@ -57245,8 +57184,8 @@ $\frac {𝑥} {3} =\frac {𝑥-4} {2}$
 $
 \begin{aligned}
 \frac {x} {3}       &= \frac {x-4} {2} \\\\
-x \times 2          &= (x-4) \times 3 \\\\
-2x                  &= 3x - 4 \times 3 \\\\
+x \times 2          &= 3 \times (x-4) \\\\
+2x                  &= (3 \times x) - (3 \times 4) \\\\
 2x                  &= 3x - 12 \\\\
 12                  &= 3x - 2x \\\\
 12                  &= x \\\\

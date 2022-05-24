@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttable-all"
 title: "Topic - Table - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8456,7 +8456,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>5BF7966D-4D9E-4184-A424-12393A4AB382</p>
 </div>
@@ -8601,7 +8601,7 @@ $\text{German}$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -12823,7 +12823,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>3C6BD9C8-1689-4BFE-B57F-EF761695CD62</p>
 </div>
@@ -12907,10 +12907,15 @@ How much faster was the team which came first than the team which came fifth?
 <div class='workings'>
 <div class='working'>
 
+To calculate how much faster the team which came first was than the team which came fifth
+we need to find the difference between the time taken by the the team which came 
+fifth and and the team which came first.
 $
 \begin{aligned}
-&= 59.9 - 48.34 \\\\
-&= 11.56
+\text {time of the team which came fifth} &= 59.9 \ \text {seconds} \\\\
+\text {time of the team which came first} &= 48.34 \ \text {seconds} \\\\
+\text {Difference in their time}          &= 59.9 \ \text {seconds} - 48.34 \ \text {seconds} \\\\
+                                          &= 11.56 \ \text {seconds}
 \end{aligned}
 $
 
@@ -12942,10 +12947,13 @@ What was the previous school record?
 <div class='workings'>
 <div class='working'>
 
+Since the Cheeetahs broke the school record by $1.9 \ \text{seconds}$, the previous
+record must me $1.9 \ \text{seconds}$ more than their current record.
 $
 \begin{aligned}
-&= 48.34 + 1.9 \\\\
-&= 50.24
+\text {previous school record} &= \text {time taken by Cheeetahs} + \text {time by which Cheeetahs broke the previous record} \\\\
+                               &= 48.34 \ \text {seconds} + 1.9 \ \text {seconds} \\\\
+                               &= 50.24 \ \text {seconds}
 \end{aligned}
 $
 
@@ -13001,7 +13009,7 @@ $12.8$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -13728,7 +13736,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>0DEF7758-B0A3-48C7-9DD7-36AD263DB0AF</p>
 </div>
@@ -13855,7 +13863,7 @@ $\text {Yogi}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -14742,7 +14750,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>9C241A72-22AC-4EB3-AA57-303AF0AA73F6</p>
 </div>
@@ -14932,7 +14940,7 @@ $26$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

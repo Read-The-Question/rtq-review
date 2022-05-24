@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-red"
 title: "Topic - Number - Red"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1911,6 +1911,604 @@ $21.6 \ \text{hrs}$
 </div>
 <div class='rag'>
 <p>rag_bs_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>0EE87929-F2CC-4426-8FA5-C13CAE3A2777</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tnumber
+</li>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bert and Chrissy are very good at maths and enjoy 'think of a number problems'.
+
+Bert asks Chrissy to think of a number, double it and add $5$.
+
+She says that the result is $33$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What was the number she thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Chrissy think of $=a$,
+
+$
+\begin{aligned}
+2a + 5 &= 33 \\\\
+2a     &= 33 - 5 \\\\
+2a     &= 28 \\\\
+a      &= \dfrac {28} {2} \\\\
+a      &= \dfrac {14 \times 2} {2} \\\\
+a      &= \dfrac {14 \times \cancel {2} } {\cancel {2} } \\\\
+a      &= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Chrissy wants Bert to guess her favourite number.
+
+She asks him to write down $5$ numbers.
+
+He chooses $4 \quad 7 \quad 2 \quad 19$ and $8$
+
+Chrissy looks at the numbers and tells him that her favourite number is equal to the mean of the numbers, minus $7$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the mean of Bert's numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Mean} &= \dfrac { \text {sum of all the numbers} } { \text {total numbers} } \\\\
+             &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
+             &= \dfrac {40} {5} \\\\
+             &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is Chrissy's favourite number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Chrissy's favourite number} &= \text{mean-7} \\\\
+                                   &= 8 - 7 \\\\
+                                   &= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle any of the words below which describe Chrissy's favourite number.
+
+**prime number** $\quad$  **square number** $\quad$  **cube number**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {square}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {square}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>62634D94-B086-44A9-A90E-13D4284F73C1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The number machine below changes numbers according to the rule **multiply by $2$ and then substract by $4$**
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Write the missing Input and output numbers for this machine.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12, 18, 13, 2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12, 18, 13, 2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+There is one number which does not change when you put it in the number machine.
+
+What is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, add $1$ and then divide by $2$.
+
+The result is $7$.
+
+What is the number which I am thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the $=a$
+$
+\begin{aligned}
+\dfrac {a+1} {2} &= 7 \\\\
+a+1              &= 7 \times 2 \\\\
+a+1              &= 14 \\\\
+a                &= 14 - 1 \\\\
+a                &= 13      
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>68CB7B73-86D8-4C13-9AD6-25E68ADB0A8B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$1983$ people buy tickets for a concert.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the value of the $1$ in $1983$? Write your answer in words.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Thousand}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Thousand}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write $1983$ correct to the nearest hundred.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2000$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Each concert ticket costs $\pounds 16$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+How much do $1000$ tickets cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1000} {16} \\\\
+&= \dfrac {120 \times 8} {8 \times 2} \\\\
+&= \dfrac {120 \times cancel{8}} {cancel{8} \times 2} \\\\
+&= \dfrac {60 \times 2} {2} \\\\
+&= \dfrac {60 \times \cancel{2}} {\cancel{2}} \\\\
+&= \pounds 60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Use your answer to part (b) to estimate the total cost of all the tickets sold.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$60 \pounds$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \pounds$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

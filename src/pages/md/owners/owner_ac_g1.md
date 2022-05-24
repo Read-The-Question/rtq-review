@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-g1"
 title: "Owner - Chiliveru Aravind - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3654,6 +3654,139 @@ $2500$
 </div>
 </div>
 
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>BB7F6439-4B27-4A19-8711-CED205A8D4F7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpower
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Choose from this set of numbers
+
+
+| $8$          | $9$          | $10$         | $11$         |
+|:------:    |:------:    |:------:    |:------:    |
+| $12$         | $13$         | $14$         | $15$         |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+a square number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+three multiples of $3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9, 12, 15$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9, 12, 15$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+three factors of $60$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10, 12, 15$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10, 12, 15$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>

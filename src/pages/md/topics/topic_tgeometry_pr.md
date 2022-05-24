@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-pr"
 title: "Topic - Geometry - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1222,131 +1222,6 @@ $25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>F4F00482-68CB-4F6F-8C65-CDE9C0110F7C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the names of the following shapes:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Quadrilateral}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Quadrilateral}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Equilateral triangle}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Equilateral triangle}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Parallelogram}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Parallelogram}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>089D6C31-614E-4F6B-B848-598F8A107060</p>
@@ -2517,13 +2392,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter of shape}       &= \text{Perimeter of rectangle} + \text{Perimeter of triangle} - 2 \times \text{base of triangle} \\\\
-                                &= 2 \times (\text{length} + \text{width}) + 3 + 4.5 + 4.5 - 2 \times 3 \\\\
-                                &= 2 \times (9 + 3) + 12 - 6 \\\\
-                                &= 2 \times 12 + 12 - 6 \\\\
-                                &= 24 + 12 - 6 \\\\
+\text{Perimeter of shape}       &= \text{Sum of all sides} \\\\
+                                &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
+                                &= 9 + 6 + 9 + 6 \\\\
 \text{Perimeter of shape}       &= 30 \ \text{cm}
-
 \end{aligned}
 $
 

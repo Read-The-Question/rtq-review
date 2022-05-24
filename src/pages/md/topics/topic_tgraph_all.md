@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-all"
 title: "Topic - Graph - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -7969,7 +7969,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>A163C280-33EF-43B0-BBDD-DFD9A4F5A979</p>
 </div>
@@ -8116,7 +8116,7 @@ $200$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -21416,7 +21416,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>CEA80618-09C7-44A0-9012-28683BA7B7F2</p>
 </div>
@@ -21525,7 +21525,7 @@ $10 \ \text {seconds}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -24375,7 +24375,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>C36C23BF-EE03-46D4-9D6A-103DE6C75AAE</p>
 </div>
@@ -24536,7 +24536,7 @@ Between which times does he stop on the way down?
 <div class='workings'>
 <div class='working'>
 
-$11 {:} 30, 11 {:} 45$
+$12 {:} 30, 1 {:} 00$
 
 </div>
 </div>
@@ -24586,7 +24586,7 @@ $\text {To get some rest}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -25239,7 +25239,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>8A1BFE79-13B6-4A0B-B47B-91961D20F040</p>
 </div>
@@ -25315,14 +25315,14 @@ how many litres are equivalent to $4 \ \text{gallons}$
 <div class='workings'>
 <div class='working'>
 
-$16.5 \ \text{litres}$
+$18 \ \text{litres}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$16.5 \ \text{litres}$
+$18 \ \text{litres}$
 
 </div>
 </div>
@@ -25371,14 +25371,14 @@ how many gallons are equivalent to $10 \ \text{litres}$
 <div class='workings'>
 <div class='working'>
 
-$2.8$
+$2.2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2.8$
+$2.2$
 
 </div>
 </div>
@@ -25430,9 +25430,9 @@ Use your answer to part (i) (c) to write $1000 \ \text{litres}$ as gallons.
 
 $
 \begin{aligned}
-10 \ \text {litres}   &= 2.8 \ \text {gallons} \\\\
-1000 \ \text{litres}  &= 2.8 \times 1000 \\\\
-                      &= 2800 \ \text {gallons}
+10 \ \text {litres}   &= 2.2 \ \text {gallons} \\\\
+1000 \ \text{litres}  &= 2.2 \times 1000 \\\\
+                      &= 2200 \ \text {gallons}
 \end{aligned}
 $
 
@@ -25441,7 +25441,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2800 \ \text {gallons}$
+$2200 \ \text {gallons}$
 
 </div>
 </div>
@@ -25491,7 +25491,7 @@ $325 \ \text{oranges}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

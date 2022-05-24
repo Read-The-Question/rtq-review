@@ -1,11 +1,11 @@
 ---
-slug: "topics/topic-tmap-pr"
-title: "Topic - Map - PR"
-date: 2022-05-24 07:08:08
+slug: "topics/topic-tmap-red"
+title: "Topic - Map - Red"
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>4C30C140-DE0B-4840-B727-FB67ABC627E4</p>
 </div>
@@ -116,14 +116,14 @@ Which two cities had a temperature difference of $6 \degree \text{C}$?
 <div class='workings'>
 <div class='working'>
 
-$4, -2$
+$\text {London}, \text {Edinburgh}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4, -2$
+$\text {London}, \text {Edinburgh}$
 
 </div>
 </div>
@@ -146,7 +146,13 @@ Write down the temperature in Liverpool in the evening,
 <div class='workings'>
 <div class='working'>
 
-$-3$
+$
+\begin{aligned}
+\text {temperature in Liverpool in the evening} &= \text {temperature in the morning} - \text {$2 \degree \text{C}$} \\\\
+                                                &= -1 \degree \text {C} - 2 \degree \text {C} \\\\
+                                                &= -3 \degree \text {C}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -165,7 +171,7 @@ $-3$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

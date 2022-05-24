@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpermutation-all"
 title: "Topic - Permutation - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -942,7 +942,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>F0E5AC4B-9543-44E6-BAB8-0991A9B073BD</p>
 </div>
@@ -961,24 +961,21 @@ There are $5$ competitors in a tennis competition. If each player plays every ot
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Total matches}            &= 4 + 3 + 2 + 1 \\\\
+                                &= 10
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$10$
 
 </div>
 </div>
@@ -987,7 +984,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-red"
 title: "Topic - Sequence - Red"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -288,6 +288,88 @@ $107$
 </div>
 <div class='rag'>
 <p>rag_up_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_red question'>
+<div class='uuid'>
+<p>74519F97-5041-4ECE-88D4-3B509460C560</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Brian starts with $1000$ and subtracts $11$ each time. The first four numbers in his sequence are:
+
+1000, 989, 978, 967
+
+
+If he continues in this way, what will be the first negative number in his sequence?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The difference between the terms is $11$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(1000-11 \times 1)}}  
+&&  \footnotesize{\maroonC{(1000-11 \times 2)}}    
+&&  \footnotesize{\maroonC{(1000-11 \times 3)}} \\
+1000,  &&    989,  &&  978,  &&   967 \ldots
+\end{matrix}
+$
+
+As the sequence goes on decreasing in the multiples of 11,
+
+Let the first negative number in the sequence be $1000 - 11a$
+
+$
+\begin{aligned}
+1000 - 11a              &< 0 \\\\
+1000                    &< 11a \\\\
+\dfrac {1000} {11}      &< a \\\\
+90.90                   &< a \\\\
+a                       &> 90.90 \\\\
+a                       &= 91 
+\end{aligned}
+$
+
+The first negative number in the sequence = $1000 - 11a$
+$
+\begin{aligned}
+&= 1000 - 11 \times 91 \\\\
+&= 1000 - 1001 \\\\
+&= -1
+\end{aligned}
+$
+
+The first negative number in the sequence = $-1$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_red</p>
 </div>
 </div>
 </li>

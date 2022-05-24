@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-notstarted"
 title: "Topic - Algebra - Not Started"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10258,71 +10258,6 @@ What is the maximum number of people that can sit evenly  spaced around this lon
 - $56$
 - $96$
 - $86$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>8DABE50C-B242-43CA-A194-C553FE7000E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jan counted a total of $100$ cars parked in four rows of a departmental store car park. 
-Five minutes later, $10$ cars had driven away from the first row, 
-$8$ cars had driven away from the second row, 
-$6$ cars had driven away from the third row and 
-$4$ cars had driven away from the fourth row. 
-She noticed that there was now the same number of cars in each row. 
-How many cars were originally parked in the third row? 
-
-- $24$
-- $19$
-- $25$
-- $18$
-- $23$ 
 
 </div>
 <div class='workings'>

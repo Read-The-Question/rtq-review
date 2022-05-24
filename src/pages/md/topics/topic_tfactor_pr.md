@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-pr"
 title: "Topic - Factor - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -642,56 +642,6 @@ $13 \times 7$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>D44610EA-AB8D-4FD4-B65F-78A4B633E925</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-List all the factors of $36$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-1 \times 36 &= 36 \\\\
-2 \times 18 &= 36 \\\\
-3 \times 12 &= 36 \\\\
-4 \times 9  &= 36 \\\\
-6 \times 6  &= 36
-\end{aligned}
-$
-
-The factors of 36 are $1, 2, 3, 4, 6, 9, 12, 18$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 2, 3, 4, 6, 9, 12, 18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0</p>
 </div>
 <div class='topics'>
@@ -823,53 +773,6 @@ $16, 24, 8$
 
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>95C9AEE9-A464-411A-8B44-638B44241C5F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle the factors of 150:
-
-$
-\begin{matrix}
-100 & \quad 30 & \quad 7  & \quad 11 \\
-10  & \quad 3  & \quad 8  & \quad 45
-\end{matrix}
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$30, 10, 3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30, 10, 3$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
@@ -2810,139 +2713,6 @@ $13, 39$
 
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>BB7F6439-4B27-4A19-8711-CED205A8D4F7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpower
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Choose from this set of numbers
-
-
-| $8$          | $9$          | $10$         | $11$         |
-|:------:    |:------:    |:------:    |:------:    |
-| $12$         | $13$         | $14$         | $15$         |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-a square number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-three multiples of $3$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9, 12, 15$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9, 12, 15$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-three factors of $60$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10, 12, 15$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10, 12, 15$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>

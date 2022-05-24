@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-all"
 title: "Topic - Infer - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8870,7 +8870,7 @@ $42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>A163C280-33EF-43B0-BBDD-DFD9A4F5A979</p>
 </div>
@@ -9017,7 +9017,7 @@ $200$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -18708,7 +18708,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6</p>
 </div>
@@ -18756,7 +18756,7 @@ $1537$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -32331,6 +32331,68 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>8DABE50C-B242-43CA-A194-C553FE7000E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jan counted a total of $100$ cars parked in four rows of a departmental store car park. 
+Five minutes later, $10$ cars had driven away from the first row, 
+$8$ cars had driven away from the second row, 
+$6$ cars had driven away from the third row and 
+$4$ cars had driven away from the fourth row. 
+She noticed that there was now the same number of cars in each row. 
+How many cars were originally parked in the third row? 
+
+- $24$
+- $19$
+- $25$
+- $18$
+- $23$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>3E0E5DE9-1583-44E0-BBF6-BB26C7321B11</p>
@@ -35158,7 +35220,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>62634D94-B086-44A9-A90E-13D4284F73C1</p>
 </div>
@@ -35329,7 +35391,7 @@ $13$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-g1"
 title: "Topic - Infer - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -108,6 +108,59 @@ $42$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This mystery number has $4$ digits.
+
+Every digit is an odd number.
+
+None of the digits is a $9$. Every digit in the number is different.
+
+The smallest digit is in the thousands place.
+
+The greatest digit is in the ones place.
+
+This describes two possible numbers. The mystery number is the greater of those two numbers. What is the mystery number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1537$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1537$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

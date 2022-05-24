@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-2"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 2"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -613,7 +613,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>BB7F6439-4B27-4A19-8711-CED205A8D4F7</p>
 </div>
@@ -741,7 +741,7 @@ $10, 12, 15$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -1810,17 +1810,22 @@ $\Box\:\:\:\:\times\:\:\:\:\Box\:\:\:\:\times\:\:\:\:\Box= \:\:\:512$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be $= a$
+Let the missing number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-a \times a \times a                  &= 512 \\\\
-a \times a \times a                  &= 8 \times 8 \times 8 \\\\
-a                                    &= 8
+a^3 &=  2 \times 256 \\\\
+a^3 &= 4 \times 128 \\\\
+a^3 &= 8 \times 64 \\\\
+a^3 &= 8 \times 8 \times 8 \\\\
+a^3 &= 8^3 \\\\
+a &= 8
 \end{aligned}
 $
+
+The number in the missing box $= 8$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-all"
 title: "Topic - Money - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5622,7 +5622,7 @@ $19.41 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>220A15B1-DE6B-4182-AB32-E904EA0D4428</p>
 </div>
@@ -5819,12 +5819,12 @@ $3.90$
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>52153412-2F82-4D52-970C-B08AEBF2A3CC</p>
 </div>
@@ -5966,7 +5966,7 @@ $2.59, 1.49, 3.65$
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -6202,7 +6202,7 @@ $\pounds 12.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>03945F7F-BD1D-48F8-8123-918A9227D8EC</p>
 </div>
@@ -6246,7 +6246,7 @@ $\pounds 1.720$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -9334,7 +9334,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>EAC133FF-F273-440A-9716-5A962E176B01</p>
 </div>
@@ -9388,12 +9388,12 @@ $20 \ \text {p}$
 <p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D9679475-899C-4D1A-87C4-D5CC0437D309</p>
 </div>
@@ -9455,7 +9455,7 @@ $\pounds 450$
 <p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -19437,7 +19437,7 @@ $\pounds 4.30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>84C4F75A-1071-4AE8-8252-CDE115D02C03</p>
 </div>
@@ -19456,24 +19456,41 @@ Gary and Martin have some money. Martin has $\pounds 13$ more than Gary, togethe
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the money Gary have $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Money (Martin)} + \text{Money (Gary)}             &= \text{Total money} \\\\
+a + 13 + a                                              &= \pounds 51 \\\\
+2a                                                      &= 51 - 13 \\\\
+2a                                                      &= 38 \\\\
+2a                                                      &= 38 \\\\
+a                                                       &= \dfrac {38} {2} \\\\
+a                                                       &= \dfrac {2 \times 19} {2} \\\\
+a                                                       &= \dfrac {\cancel{2} \times 19} {\cancel{2}} \\\\
+a                                                       &= \pounds 19
+\end{aligned}
+$
+
+Money Gary have $= \pounds 19$
+
+Let's calculate for Martin
+
+$
+\begin{aligned}
+\text{Money Martin have}                                 &= \pounds 51 - \pounds 19 \\\\
+                                                        &= \pounds 32
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 32$
 
 </div>
 </div>
@@ -19482,7 +19499,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -20592,7 +20609,7 @@ $\pounds 18.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>F83507F2-235E-4ABA-AC49-C50C6D08899E</p>
 </div>
@@ -20759,7 +20776,7 @@ $\pounds 1193.4$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -25662,7 +25679,7 @@ $\pounds 8.75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>83315ED9-DB65-48DC-A17E-D2511B4529A7</p>
 </div>
@@ -25692,25 +25709,20 @@ Work out the cost of the burger, the chips and the drink.
 <div class='workings'>
 <div class='working'>
 
-The cost that Tom paid for burger(a) and chips(b) & = $\pounds 8$
+Let the cost of burger $= a$, cost of the chips $= b$, cost of drink $= c$.
+
+As per the question,
 
 $
-\begin{aligned} 
-a + b &= 8 \\\\
-b     &= 8 - a
+\begin{aligned}
+a + b                              &= 8 \\\\
+b                                  &= 8 - a \\\\
+2a + c                             &= 15 \\\\
+a                                  &= \dfrac {15 - c} {2}
 \end{aligned}
 $
 
-The cost that Fed paid for 2 burger(a) and drink(c) & = $\pounds 15$ 
-
-$
-\begin{aligned} 
-2a + c &= 15 \\\\
-a      &= \dfrac {15 - c} {2} 
-\end{aligned}
-$
-
-The cost that Jo paid for burger(a) and drink(c) & = $\pounds 8$
+Using the two equations above we get,
 
 $
 \begin{aligned} 
@@ -25719,26 +25731,37 @@ a                   &= 8 - c \\\\
 \dfrac {15 - c} {2} &= 8 - c \\\\
 15 - c              &= 16 - 2c \\\\
 2c - c              &= 16 - 15 \\\\
-c                   &= 1 \\\\
-a                   &= 8 - c \\\\
-a                   &= 8 - 1 \\\\
-a                   &= 7
+c                   &= 1
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2a + c                             &= 15 \\\\
+2a + 1                             &= 15 \\\\
+2a                                 &= 15 - 1 \\\\
+a                                  &= \dfrac {14} {2} \\\\
+a                                  &= 7
 \end{aligned}
 $
 
 $
 \begin{aligned} 
-b   &= 8 - 7 \\\\
-b   &= 1 
+a + b &= 8 \\\\
+a + 7 &= 8 \\\\
+b     &= 8 - 7 \\\\
+b     &= 1 
 \end{aligned}
 $
+
+The price of burger $= \pounds 7$, price of chips $= \pounds 1$, price of drink $= \pounds 1$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$7, 1, 1$
+$\pounds 7,\pounds 1,\pounds 1$
 
 </div>
 </div>
@@ -25747,7 +25770,7 @@ $7, 1, 1$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -26795,7 +26818,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>BDE42C42-21C6-48DE-81AE-A84F76777818</p>
 </div>
@@ -26843,12 +26866,12 @@ $\pounds 4.2$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>65468EB0-FBC5-44BD-A335-B722EBC5A7DC</p>
 </div>
@@ -26902,7 +26925,7 @@ $\pounds 0.95$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -27016,7 +27039,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>B997FB3B-115F-4CC3-BC0E-C9D91855E806</p>
 </div>
@@ -27082,7 +27105,7 @@ $\pounds 32$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -28599,7 +28622,7 @@ $\pounds 1.45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>68CB7B73-86D8-4C13-9AD6-25E68ADB0A8B</p>
 </div>
@@ -28792,12 +28815,12 @@ $60 \pounds$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>768047AF-2D34-4B56-88E6-802A32B95806</p>
 </div>
@@ -28853,8 +28876,9 @@ How many football cards did he buy in total?
 
 $
 \begin{aligned}
-&= 56 + 72 \\\\
-&= 128
+\text {Total football cards bought} &= \text {Football cards bought last week} + \text {Football cards bought this week} \\\\
+                                    &= 56 + 72 \\\\
+                                    &= 128
 \end{aligned}
 $
 
@@ -28890,10 +28914,11 @@ How many packs of football cards did Ryan buy altogether?
 
 $
 \begin{aligned}
-&= \dfrac {128} {8} \\\\
-&= \dfrac {16 \times 8} {8} \\\\
-&= \dfrac {16 \times \cancel{8}} {\cancel{8}} \\\\
-&= 16
+\text {Packs of cards Ryan bought} &= \dfrac {\text {Total cards bought}} {\text {Capacity of each pack}} \\\\
+                                   &= \dfrac {128} {8} \\\\
+                                   &= \dfrac {16 \times 8} {8} \\\\
+                                   &= \dfrac {16 \times \cancel{8}} {\cancel{8}} \\\\
+                                   &= 16
 \end{aligned}
 $
 
@@ -28953,8 +28978,10 @@ What is the cost of $9$ packs of football cards?
 
 $
 \begin{aligned}
-&= 35 \times 9 \\\\
-&= \pounds 315
+\text {Cost of 9 packs}    &= 35 \ \text {pence} \times 9 \\\\
+                           &= \pounds \dfrac {35} {100} \times 9 \\\\
+                           &= 0.35 \times 9 \\\\
+                           &= \pounds 3.15
 \end{aligned}
 $
 
@@ -28993,6 +29020,8 @@ $
 \end{aligned}
 $
 
+She got $\pounds 1.85$ as change.
+
 </div>
 </div>
 <div class='answers'>
@@ -29013,7 +29042,7 @@ $\pounds 1.85$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -29636,7 +29665,7 @@ $19.2 \ \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>B650F2F1-1FB6-4F45-872E-045F8838014C</p>
 </div>
@@ -29752,7 +29781,7 @@ $\pounds 7.14$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

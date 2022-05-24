@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsubtraction-pr"
 title: "Topic - Subtraction - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -575,6 +575,68 @@ $52.55$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>F25E82C3-2612-4DD6-9E94-BBA4771C38C6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the difference between the smallest $3$-digit number and the largest  $4$-digit number?
+
+- $1$
+- $900$
+- $1001$
+- $9998$
+- $9899$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The largest $4$-digit number $= 9999$
+
+the smallest $3$-digit number $= 100$
+
+the difference between the smallest $3$-digit number and the largest  $4$-digit number
+
+$ 9999 - 100$
+
+$9899$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$9899$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>C76363AC-903D-4F73-A4FB-D5858E88C0B9</p>
@@ -761,53 +823,6 @@ $21$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>922FBC24-0E68-4CEB-9A30-4049190D32C2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Subtract: $92 - 67$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   9   &   2 \\
-{}- &   6   &   7 \\
-\hline
-    &   2   &   5
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$25$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

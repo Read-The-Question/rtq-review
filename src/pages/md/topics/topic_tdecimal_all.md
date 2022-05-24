@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-all"
 title: "Topic - Decimal - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2451,7 +2451,7 @@ $5.031$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>1A2708F9-7326-46F8-A5AE-8365E91E007C</p>
 </div>
@@ -2495,7 +2495,7 @@ $7.25$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3149,7 +3149,7 @@ $0.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>4B064430-A3B1-49A5-B5A7-D36E815440A4</p>
 </div>
@@ -3172,8 +3172,6 @@ $
 \begin{aligned}
 &= 60.2 \div 7 \\\\
 &= \dfrac {60.2} {7} \\\\
-&= \dfrac {8.6 \times 7} {7} \\\\
-&= \dfrac {8.6 \times \cancel {7} } {\cancel {7} } \\\\
 &= 8.6
 \end{aligned}
 $
@@ -3192,7 +3190,7 @@ $8.6$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -11522,7 +11520,7 @@ $1.63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>50218989-87F6-450D-87C8-BF8DFB4F2B75</p>
 </div>
@@ -11647,7 +11645,7 @@ $100.08$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -11952,7 +11950,7 @@ $0.5, 0.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>717F1DE8-1840-4689-93C1-2F3E5477097E</p>
 </div>
@@ -12147,7 +12145,7 @@ $211$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

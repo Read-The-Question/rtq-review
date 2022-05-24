@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-all"
 title: "Owner - Nitin Joshi - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4844,7 +4844,7 @@ $3.6 \ \text {m} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>220A15B1-DE6B-4182-AB32-E904EA0D4428</p>
 </div>
@@ -5041,12 +5041,12 @@ $3.90$
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>52153412-2F82-4D52-970C-B08AEBF2A3CC</p>
 </div>
@@ -5188,7 +5188,7 @@ $2.59, 1.49, 3.65$
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -6116,7 +6116,7 @@ $2.3051$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>E360A432-F135-4436-A055-D63323CCC9EF</p>
 </div>
@@ -6244,7 +6244,7 @@ $-17$
 <p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -6470,7 +6470,7 @@ $500 \ \text{mm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>C4E7B763-E07F-498F-A6A5-88CF6EA33FBB</p>
 </div>
@@ -6521,7 +6521,7 @@ $2 \ \text {hour} \ 8 \ \text {minutes}$
 <p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -6792,7 +6792,7 @@ $38$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>0A3E5DD3-7A11-483C-A187-0DA57B1DD81B</p>
 </div>
@@ -6834,7 +6834,7 @@ $13$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -7025,7 +7025,7 @@ $121$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>C2C2B5E4-3444-4E62-A460-C54A7D2EB3FB</p>
 </div>
@@ -7072,7 +7072,7 @@ $8$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -7324,7 +7324,7 @@ $\text {Fairly unlikely}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>675DE6CE-81D9-4032-994A-7C24719EF132</p>
 </div>
@@ -7368,12 +7368,12 @@ $4$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>EEB637D9-2AC4-48EF-8148-7DCC42FD4518</p>
 </div>
@@ -7423,7 +7423,7 @@ $17$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -7893,7 +7893,7 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>1A2708F9-7326-46F8-A5AE-8365E91E007C</p>
 </div>
@@ -7937,7 +7937,7 @@ $7.25$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -8332,7 +8332,7 @@ $\text {Impossible}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>03945F7F-BD1D-48F8-8123-918A9227D8EC</p>
 </div>
@@ -8376,7 +8376,7 @@ $\pounds 1.720$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -8430,7 +8430,7 @@ $\pounds 2.150$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D44610EA-AB8D-4FD4-B65F-78A4B633E925</p>
 </div>
@@ -8475,7 +8475,7 @@ $1, 2, 3, 4, 6, 9, 12, 18$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -9901,7 +9901,7 @@ $\dfrac {4} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>9A2CE487-4367-455E-A627-FFFE0C8FF292</p>
 </div>
@@ -9948,7 +9948,7 @@ $45 \degree$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -11211,7 +11211,7 @@ $\dfrac {2} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66</p>
 </div>
@@ -11258,7 +11258,7 @@ $165 \degree$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -12408,7 +12408,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>E50AC62E-2A13-48E0-95A5-375ED2BF99DD</p>
 </div>
@@ -12451,7 +12451,7 @@ $\dfrac {7} {15}$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -12605,7 +12605,7 @@ $137.5 \ \text {g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>14F5E25E-982B-4BD0-99BF-68170A5DA82C</p>
 </div>
@@ -12654,7 +12654,7 @@ $30 \degree$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -13688,7 +13688,7 @@ $\dfrac {1} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>4FAE2ECB-8394-4207-9FAD-04BFD8BDE179</p>
 </div>
@@ -13735,7 +13735,7 @@ $255 \degree$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -14366,7 +14366,7 @@ $81  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>4817F67D-F1F2-40D0-8436-A069F847B9C1</p>
 </div>
@@ -14411,7 +14411,7 @@ $40 \ \text {miles per hour}$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -15314,7 +15314,7 @@ $86400 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>EAC133FF-F273-440A-9716-5A962E176B01</p>
 </div>
@@ -15368,12 +15368,12 @@ $20 \ \text {p}$
 <p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D9679475-899C-4D1A-87C4-D5CC0437D309</p>
 </div>
@@ -15435,12 +15435,12 @@ $\pounds 450$
 <p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>BA1D755E-247B-459D-BA62-7EACF068C6A6</p>
 </div>
@@ -15508,7 +15508,7 @@ $84$
 <p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

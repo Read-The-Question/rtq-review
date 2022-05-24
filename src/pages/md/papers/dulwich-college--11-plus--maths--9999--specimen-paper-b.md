@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-b"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper B"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>Dulwich College</h1>
@@ -155,7 +155,7 @@ $3258$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C</p>
 </div>
@@ -178,10 +178,8 @@ $
 \begin{aligned}
 &= 3258 \div 9 \\\\
 &= \dfrac {3258} {9} \\\\
-&= \dfrac {1086 \times 3} {3 \times 3} \\\\
-&= \dfrac {1086 \times \cancel {3} } {3 \times \cancel {3} } \\\\
-&= \dfrac {362 \times 3} {3} \\\\
-&= \dfrac {362 \times \cancel {3} } {\cancel {3} } \\\\
+&= \dfrac {362 \times 9} {9} \\\\
+&= \dfrac {362 \times \cancel {9}} {\cancel {9}} \\\\
 &= 362
 \end{aligned}
 $
@@ -200,7 +198,7 @@ $362$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -478,7 +476,7 @@ $135 \ \text {pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>D9649617-3FD7-4796-B3CC-D5D03A15DD17</p>
 </div>
@@ -580,7 +578,7 @@ $1610.344$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -982,7 +980,8 @@ Keston to Langham;
 
 $
 \begin{aligned}
-&= 26 \ \text{km} - 12 \ \text {km} \\\\
+&= \text {Distance from Josham to Langham} - \text {Distance from Josham to Keston} \\\\ 
+&= 26 \ \text {km} - 12 \ \text {km} \\\\
 &= 14 \ \text {km}
 \end{aligned}
 $
@@ -1015,10 +1014,11 @@ Langham to Moreton, giving your answer **in metres**.
 
 $
 \begin{aligned}
+&= \text {Distance from Keston to Moreton} - \text {Distance from Keston to Josham} \\\\ 
 &= 23 \ \text {km} - 14 \ \text {km} \\\\
 &= 9 \ \text {km} \\\\
-&= 9 \times 1000 \ \text{m} \\\\
-&= 9000\ \ text{m}
+&= 9 \times 1000 \ \text {m} \\\\
+&= 9000\ \text {m}
 \end{aligned}
 $
 
@@ -1027,7 +1027,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9000\ \ text{m}$
+$9000\ \text {m}$
 
 </div>
 </div>
@@ -1051,20 +1051,34 @@ If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey 
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+Speed $= 14 km.p.h$
+
 $
 \begin{aligned}
-\text {time} &= \dfrac {distance} {speed} \\\\
-             &= \dfrac {12 + 23} {14} \\\\
-             &= \dfrac {35} {14} \\\\
-             &= 2 \ \text {hours}, 5 \ \text{minutes} 
+\text {Distance from Josham to Moreton} &= \text {(Josham to Langham)} + \text {(Langham to Moreton)} \\\\
+                                      &= 26 + 9 \\\\
+                                      &= 35 \ \text {km}
 \end{aligned}
+$
+
+Let's find the time tourist will take to complete the journey.
+
+$
+\begin{aligned}
+\text {Time} &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
+             &= \dfrac {35} {14} \\\\
+             &= 2 \ \text {hours}, 30 \ \text {minutes} 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2 \ \text {hours}, 5 \ \text{minutes}$
+$2 \ \text {hours}, 30 \ \text {minutes}$
 
 </div>
 </div>
@@ -1340,7 +1354,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>E4DC389C-1771-4673-AE1F-DC5A515EFDDF</p>
 </div>
@@ -1362,12 +1376,16 @@ prime number written on them, giving your answer as a decimal.
 <div class='workings'>
 <div class='working'>
 
+Prime numbers between $1$ to $20$ $= $8$
+
+Total numbers $= $20
 $
 \begin{aligned}
-&= \dfrac {8} {20} \\\\
-&= \dfrac {4 \times 2} {4 \times 5} \\\\
-&= \dfrac {\cancel{4} \times 2} {\cancel{4} \times 5} \\\\
-&= \dfrac {2} {5}
+\text {Proportion of all the cards that have a prime number} &= \dfrac {\text {Prime numbers}} {\text {Total numbers}} \\\\
+                                                             &= \dfrac {8} {20} \\\\
+                                                             &= \dfrac {8 \times 5} {20 \times 5} \\\\
+                                                             &= \dfrac {40} {100} \\\\
+                                                             &= 0 {.} 4
 \end{aligned}
 $
 
@@ -1385,7 +1403,7 @@ $\dfrac {2} {5}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -2043,7 +2061,7 @@ $35\%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
 </div>
@@ -2065,19 +2083,28 @@ Work out what time it is now if the time that has passed since nine o'clock this
 <div class='workings'>
 <div class='working'>
 
-Let the time is $=a$
+Let the time left before eleven o'clock is $= a$
 
 $
 \begin{aligned}
-6a   &= 120 \\\\
-a    &= \dfrac {120} {6} \\\\
-a    &= 20 
+\text {Time passed since nine o'clock}  &= 5 \times a \\\\
+                                        &= 5a
 \end{aligned}
 $
 
-So, 20 minutes before 11 ,
+$
+\begin{aligned}
+\text {Total time} &= (11 - 9) \ \text {hours} \\\\
+            5a + a &= (2 \times 60) \ \text {minutes} \\\\
+                6a &= 120 \ \text {minutes} \\\\
+                 a &= \dfrac {120} {6} \\\\
+                 a &= \dfrac {6 \times 20} {6} \\\\
+                 a &= \dfrac {\cancel 6 \times \ 20} {\cancel 6} \\\\
+                 a &= 20 \ \text {minutes}
+\end{aligned}
+$
 
-$10 {:} 40$
+So, 20 minutes before 11 o'clock $= 10 {:} 40$
 
 </div>
 </div>
@@ -2093,7 +2120,7 @@ $10 {:} 40$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

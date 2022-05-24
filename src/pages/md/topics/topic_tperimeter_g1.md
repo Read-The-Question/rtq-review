@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-g1"
 title: "Topic - Perimeter - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -653,6 +653,78 @@ $1.6 \ \text {m}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the area and perimeter of this shape. 
+
+Note: all angles are right angles.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Lets divide the given shape into two rectangles, A and B
+
+Length of rectangle A $= 5 \ \text {cm}$
+
+Width of rectangle A  $= 14 \ \text {cm}$
+
+Length of rectangle B $= 4 \ \text {cm}$
+
+Width of rectangle B $= 14 - 6 = 8 \ \text {cm}$
+
+$
+\begin{aligned}
+\text {Total Area} &= \text {Area of rectangle A} + \text {Area of rectangle B} \\\\
+                   &= (5 \times 14) + (4 \times 8) \\\\
+                   &= 70 + 32 \\\\
+                   &= 102 \ \text {cm}^2
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Total Perimeter} &= \text {Sum of all the sides} \\\\
+                        &= 14 + 5 + 6 + 4 + 8 + 9 \\\\
+                        &= 46 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$102 \ \text{cm}^2, 46 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
 <p>59ACA68F-2784-4A15-88AD-80DE61754F35</p>
@@ -774,6 +846,82 @@ $32 \ \text {cm}$
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the area and perimeter of this shape.
+
+Note: all angles are right angles but the diagram has not been drawn to scale.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Lets divide the given shape into three rectangles, A, B and C
+
+Length of rectangle A $= 3 \ \text {cm}$
+
+Width of rectangle A  $= 20 - 4 = 16 \ \text {cm}$
+
+Length of rectangle B $= 7 \ \text {cm}$
+
+Width of rectangle B $= 20 - 10 = 10 \ \text {cm}$
+
+Length of rectangle C $= 12 - (7 + 3) = 2 \ \text {cm}$
+
+Width of rectangle C $= 20 \ \text {cm}$
+
+$
+\begin{aligned}
+\text {Area} &= \text {Area of rectangle A + Area of rectangle B + Area of rectangle C} \\\\
+             &= (3 \times 16) + (7 \times 10) + (2 \times 20) \\\\
+             &= 48 + 70 + 40 \\\\
+             &= 158 \ \text {cm}^2
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Perimeter} &= \text {Sum of all the sides} \\\\
+                  &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
+                  &= 76 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$158 \ \text {cm}^2, \ 76 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-g1"
 title: "Topic - Profit - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -462,6 +462,73 @@ $\pounds 0.45$
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>D9679475-899C-4D1A-87C4-D5CC0437D309</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The full price of a car is $\pounds 12000$. The car is in a sale and its price has been reduced by $35\%$. 
+
+Monique is saving up to buy the car. She already has $\pounds 7350$. How much more money does she need to buy the car? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If the price is reduced by $35 \%$, then the sale price will be $100 - 35 = 65 \%$ of the original price. Using that we get,
+
+$
+\begin {aligned}
+\text {New price}   &= 65 \% \ \text {of} \ \pounds 12000 \\\\
+                    &= \dfrac {65} {100} \times 12000 \\\\
+                    &= \dfrac {65 \times 12000} {100} \\\\
+                    &= \dfrac {65 \times 120 \cancel {00}} {1 \cancel {00}} \\\\
+                    &= 65 \times 120 \\\\
+                    &= \pounds 7800
+\end {aligned}
+$
+
+The new price for the car $= 7800$.
+
+$
+\begin {aligned}
+\text {Money she needs}   &= 7800 - 7350 \\\\
+                          &= \pounds 450
+\end {aligned}
+$
+
+Monique needs $\pounds 450$ more to buy the car.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 450$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

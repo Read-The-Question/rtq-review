@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-all"
 title: "Topic - Area - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -6381,7 +6381,7 @@ $1.6 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
 </div>
@@ -6407,25 +6407,30 @@ Note: all angles are right angles.
 <div class='workings'>
 <div class='working'>
 
-Area
+Lets divide the given shape into two rectangles, A and B
+
+Length of rectangle A $= 5 \ \text {cm}$
+
+Width of rectangle A  $= 14 \ \text {cm}$
+
+Length of rectangle B $= 4 \ \text {cm}$
+
+Width of rectangle B $= 14 - 6 = 8 \ \text {cm}$
 
 $
 \begin{aligned}
-\text {Total Area} &= \text{Area of rectangle 1} + \text{Area of rectangle 2} \\\\
-                   &= 14 \times 5 + (14 - 6) \times 4 \\\\
+\text {Total Area} &= \text {Area of rectangle A} + \text {Area of rectangle B} \\\\
+                   &= (5 \times 14) + (4 \times 8) \\\\
                    &= 70 + 32 \\\\
-                   &= 102 \ \text{cm}^2
+                   &= 102 \ \text {cm}^2
 \end{aligned}
 $
 
-Perimeter
-
 $
 \begin{aligned}
-\text {Total Perimeter} &= \text{Perimeter of whole rectangle } - \text{Perimeter of smaller rectangle} \\\\
-                        &= 2 \times (14 + 9) - (6 + 4) \\\\
-                        &= 46 - 10 \\\\
-                        &= 36 \ \text{cm}
+\text {Total Perimeter} &= \text {Sum of all the sides} \\\\
+                        &= 14 + 5 + 6 + 4 + 8 + 9 \\\\
+                        &= 46 \ \text {cm}
 \end{aligned}
 $
 
@@ -6434,7 +6439,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$102 \ \text{cm}^2, 36 \ \text{cm}$
+$102 \ \text{cm}^2, 46 \ \text{cm}$
 
 </div>
 </div>
@@ -6443,7 +6448,7 @@ $102 \ \text{cm}^2, 36 \ \text{cm}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -6749,7 +6754,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
 </div>
@@ -6775,18 +6780,34 @@ Note: all angles are right angles but the diagram has not been drawn to scale.
 <div class='workings'>
 <div class='working'>
 
+Lets divide the given shape into three rectangles, A, B and C
+
+Length of rectangle A $= 3 \ \text {cm}$
+
+Width of rectangle A  $= 20 - 4 = 16 \ \text {cm}$
+
+Length of rectangle B $= 7 \ \text {cm}$
+
+Width of rectangle B $= 20 - 10 = 10 \ \text {cm}$
+
+Length of rectangle C $= 12 - (7 + 3) = 2 \ \text {cm}$
+
+Width of rectangle C $= 20 \ \text {cm}$
+
 $
 \begin{aligned}
-\text {Area} &= 16 \times 3 + 10 \times 7 + 20 \times 2 \\\\
+\text {Area} &= \text {Area of rectangle A + Area of rectangle B + Area of rectangle C} \\\\
+             &= (3 \times 16) + (7 \times 10) + (2 \times 20) \\\\
              &= 48 + 70 + 40 \\\\
-             &= 112 \ \text{cm}^2
+             &= 158 \ \text {cm}^2
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {Perimeter} &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
-                  &= 76 \ \text{cm} 
+\text {Perimeter} &= \text {Sum of all the sides} \\\\
+                  &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
+                  &= 76 \ \text {cm}
 \end{aligned}
 $
 
@@ -6795,7 +6816,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$112 \ \text{cm}^2, 76 \ \text{cm}$
+$158 \ \text {cm}^2, \ 76 \ \text {cm}$
 
 </div>
 </div>
@@ -6804,7 +6825,7 @@ $112 \ \text{cm}^2, 76 \ \text{cm}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -13000,7 +13021,7 @@ $24 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>2ED1078E-E436-4DB2-A728-C73E012861C2</p>
 </div>
@@ -13021,24 +13042,32 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+We know,
 
-</div>
-<div class='working'>
+$\text{Area of rectangle} = \text{length} \times \text{width}$
 
-TODOWORKING
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
+                                                   &= 15 \ \text{m} - 2 \ \text{m} \times 2 \ \text{m} \times 12 \text{m} - 2 \ \text{m} \times 2 \ \text{m} \\\\
+                                                   &= 15 \ \text{m} - 4 \ \text{m} \times 12 \ \text{m} - 4 \ \text{m} \\\\
+                                                   &= 11 \ \text{m} \times 8 \ \text{m} \\\\
+                                                   &= 88 \ \text{m}^{2} \\\\
+\text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
+                                                   &= 15 \ \text{m} \times 12 \ \text{m}  - 88 \ \text{m}^{2} \\\\
+                                                   &= 180 \ \text{m}^{2} - 88 \ \text{m}^{2} \\\\
+                                                   &= 92 \ \text{m}^{2}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$92 \ \text{m}^{2}$
 
 </div>
 </div>
@@ -13047,7 +13076,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -16587,7 +16616,7 @@ $35 cm^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>19234F0C-4C85-4F00-8A0C-D18A9430B6A0</p>
 </div>
@@ -16610,11 +16639,16 @@ What area of the table is covered?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+Since the rectangles are overlapping at four places, we need to subtract those area from the total.
+
 $
 \begin{aligned}
-\text {Total Area}  &=  12 \times 2 \time 4 - 2 \times 2 \times 4 \\\\
-                    &=  96 - 16 \\\\
-                    &=  80 \ \text{cm^2} 
+\text {Area of the table covered} &= \text {Total area of rectangles} - \text {overlapping area} \\\\
+                                  &= (12 \times 2 \times 4) - (2 \times 2 \times 4) \\\\
+                                  &= 96 - 16 \\\\
+                                  &= 80 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -16623,7 +16657,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$80 \ \text{cm^2}$
+$80 \ \text {cm}^2$
 
 </div>
 </div>
@@ -16632,7 +16666,7 @@ $80 \ \text{cm^2}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -25627,7 +25661,7 @@ A rectangle measures $4.0\,cm$ by $7.1\,cm$. What is its area?
 $
 \begin{aligned}
 \text{Area}             &= \text{length} \times \text{width} \\\\
-                        &= 4.0 \times 7.1
+                        &= 4.0 \times 7.1 \\\\
                         &= 28.4 \ \text{cm}^2
 \end{aligned}
 $

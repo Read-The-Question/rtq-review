@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-red"
 title: "Topic - Graph - Red"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -337,6 +337,158 @@ $25$
 <li>
 <div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
+<p>A163C280-33EF-43B0-BBDD-DFD9A4F5A979</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tgraph
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The pie chart below represents data collected in a survey by a PE teacher about the favourtie sports of a sample of school children.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the fraction of the school children who liked tennis, giving your answer in its lowest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {45} {360} \\\\
+&= \dfrac {5 \times 9} {72 \times 5} \\\\
+&= \dfrac {\cancel {5}  \times \cancel {9} } {\cancel {9}  \times 8 \times \cancel {5} } \\\\
+&= \dfrac {1} {8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {8}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A total of $240$ children were asked to complete the survey. Calculate how many of the children preferred cricket.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {240 \times 60} {360} \\\\
+&= \dfrac {40 \times \cancel 6 \times \cancel 6 \times \cancel 10} {\cancel 6 \times \cancel 6 \times \cancel 10} \\\\
+&= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Estimate how many children would say their favorite sport was football out of the whole school of $1200$ pupils.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1200 \times 60} {360} \\\\
+&= \dfrac {200 \times \cancel 6 \times \cancel 6 \times \cancel 10} {\cancel 6 \times \cancel 6 \times \cancel 10} \\\\
+&= 200
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$200$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
 <p>84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78</p>
 </div>
 <div class='topics'>
@@ -470,6 +622,593 @@ $12$
 </ul>
 <div class='papername'>
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>CEA80618-09C7-44A0-9012-28683BA7B7F2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This is the graph of a firework rocket showing its height at different times. 
+
+%graph%
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Estimate from the graph how many seconds the rocket is more than 
+$25 \ \text{m}$ above the ground.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 - 2 \\\\
+&= 5 \ \text {seconds} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \ \text {seconds}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Estimate from the graph how far the rocket climbs between the times of $1 \ \text{s}$ and $2 \ \text{s}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 28 - 18 \\\\
+&= 10 \ \text {seconds} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text {seconds}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>C36C23BF-EE03-46D4-9D6A-103DE6C75AAE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alan climbs to the top of a mountain one day during his holiday.
+
+Below is a graph showing his height above sea level at different times 
+during the day.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+
+How many metres above sea level is he at $11 \ \text{am}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$600$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$600$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At what time does he first reach $200 \ \text{metres}$ above sea level?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9 {:} 30$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 {:} 30$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many metres above sea level is the top of the mountain?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$800$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$800$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Between which times does he stop on the way down?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12 {:} 30, 1 {:} 00$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11 {:} 30, 11 {:} 45$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Give a sensible suggestion for why he might have stopped at this time.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {To get some rest}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {To get some rest}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>8A1BFE79-13B6-4A0B-B47B-91961D20F040</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a graph to convert between gallons and litres:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Showing clearly how you take your readings, use your graph to find:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+how many litres are equivalent to $4 \ \text{gallons}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$18 \ \text{litres}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18 \ \text{litres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+how many litres are equivalent to $1.8 \ \text{gallons}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+how many gallons are equivalent to $10 \ \text{litres}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2.2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+One day, Julie's Juice Bar sells $1000 \ \text{litres}$ of orange juice.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Use your answer to part (i) (c) to write $1000 \ \text{litres}$ as gallons.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+10 \ \text {litres}   &= 2.2 \ \text {gallons} \\\\
+1000 \ \text{litres}  &= 2.2 \times 1000 \\\\
+                      &= 2200 \ \text {gallons}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2200 \ \text {gallons}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+It takes $13$ oranges to make $1 \ \text{litre}$ of juice.
+
+How many oranges are needed to make $25 \ \text{litres}$ of juice?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Oranges needed} &= 13 \times 25 \\\\
+                       &= 325 \ \text{oranges}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$325 \ \text{oranges}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-all"
 title: "Topic - Probability - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1684,7 +1684,7 @@ $\text {Fairly unlikely}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>675DE6CE-81D9-4032-994A-7C24719EF132</p>
 </div>
@@ -1728,12 +1728,12 @@ $4$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>EEB637D9-2AC4-48EF-8148-7DCC42FD4518</p>
 </div>
@@ -1783,7 +1783,7 @@ $17$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2113,7 +2113,7 @@ $\dfrac {2} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>E50AC62E-2A13-48E0-95A5-375ED2BF99DD</p>
 </div>
@@ -2156,7 +2156,7 @@ $\dfrac {7} {15}$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -5393,7 +5393,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>050EE19D-DD2B-4EAE-B94A-09B3971155EF</p>
 </div>
@@ -5412,24 +5412,27 @@ In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars a
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Cars (Neither blue nor red)}            &= \text{Total Cars - Red Cars - Blue Cars}  \\\\
+                                              &= 60 - \dfrac {5} {12} \times 60 - 20\% \times 60 \\\\
+                                              &= 60 - \dfrac {5 \times 60} {12} - \dfrac {20 \times 60} {100} \\\\
+                                              &= 60 - \dfrac {5 \times 5 \times 12} {12} -  \dfrac {20 \times 5 \times 12} {20 \times 5} \\\\
+                                              &= 60 - \dfrac {5 \times 5 \times \cancel{12}} {\cancel{12}}  -\dfrac {\cancel{20} \times \cancel{5} \times 12} {\cancel{20} \times \cancel{5}} \\\\
+                                              &= 60 - 5 \times 5 - 12 \\\\
+                                              &= 60 - 25 - 12 \\\\
+                                              &= 23
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$23$
 
 </div>
 </div>
@@ -5438,7 +5441,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -7552,9 +7555,10 @@ What is the total value of all the coins in her bag?
 
 $
 \begin{aligned}
-\text{Total value} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
-                   &= 50 + 40 + 5 + 12 \\\\
-                   &= \pounds 107
+\text {Total value of all coins} &= \text {one fifty pence coin} + \text {two twenty pence coin} + \text {one five pence coin} + \text {Remaining two pence coin} \\\\
+\text {Total value of all coins} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
+                                 &= 50 + 40 + 5 + 12 \\\\
+                                 &= \pounds 107
 \end{aligned}
 $
 
@@ -7586,9 +7590,12 @@ What percentage of the coins are $20 \ \text{pence}$ coins?
 
 $
 \begin{aligned}
-&= \dfrac {40} {107} \times 100 \\\\
-&= \dfrac {40 \times 100} {107} \\\\ 
-&= 37.38 \%
+\text {percentage of 20 pence coins} &= \dfrac {\text {total number of 20 pence coins}} {\text {total number of coins}} \times 100 \\\\
+                                     &= \dfrac {2} {10} \times 100 \\\\
+                                     &= \dfrac {2 \times 100} {10} \\\\
+                                     &= \dfrac {2 \times 10 \cancel {0}} {1 \cancel {0}} \\\\
+                                     &= 2 \times 10 \\\\
+                                     &= 20 \%
 \end{aligned}
 $
 
@@ -7597,7 +7604,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$37.38 \%$
+$20 \%$
 
 </div>
 </div>

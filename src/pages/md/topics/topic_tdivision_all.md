@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-all"
 title: "Topic - Division - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1218,7 +1218,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>03945F7F-BD1D-48F8-8123-918A9227D8EC</p>
 </div>
@@ -1262,7 +1262,7 @@ $\pounds 1.720$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1314,7 +1314,7 @@ $312$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C</p>
 </div>
@@ -1337,10 +1337,8 @@ $
 \begin{aligned}
 &= 3258 \div 9 \\\\
 &= \dfrac {3258} {9} \\\\
-&= \dfrac {1086 \times 3} {3 \times 3} \\\\
-&= \dfrac {1086 \times \cancel {3} } {3 \times \cancel {3} } \\\\
-&= \dfrac {362 \times 3} {3} \\\\
-&= \dfrac {362 \times \cancel {3} } {\cancel {3} } \\\\
+&= \dfrac {362 \times 9} {9} \\\\
+&= \dfrac {362 \times \cancel {9}} {\cancel {9}} \\\\
 &= 362
 \end{aligned}
 $
@@ -1359,12 +1357,12 @@ $362$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>012B2EE9-6837-4285-9A6B-930DDEE39FAD</p>
 </div>
@@ -1407,12 +1405,12 @@ $55$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>9E2D3610-906A-449B-82A4-3DB6E141D0E4</p>
 </div>
@@ -1455,7 +1453,7 @@ $86$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -8522,7 +8520,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E</p>
 </div>
@@ -8573,7 +8571,7 @@ $30$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

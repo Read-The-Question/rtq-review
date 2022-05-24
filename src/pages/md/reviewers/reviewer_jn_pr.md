@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-jn-pr"
 title: "Reviewer - Jaishree Nair - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -26782,7 +26782,7 @@ $9$
 <div class='topics'>
 <ul>
 <li>
-tmutiplication
+tmultiplication
 </li>
 </ul>
 </div>
@@ -38387,88 +38387,6 @@ $5$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>74519F97-5041-4ECE-88D4-3B509460C560</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Brian starts with $1000$ and subtracts $11$ each time. The first four numbers in his sequence are:
-
-1000, 989, 978, 967
-
-
-If he continues in this way, what will be the first negative number in his sequence?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-The difference between the terms is $11$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(1000-11 \times 1)}}  
-&&  \footnotesize{\maroonC{(1000-11 \times 2)}}    
-&&  \footnotesize{\maroonC{(1000-11 \times 3)}} \\
-1000,  &&    989,  &&  978,  &&   967 \ldots
-\end{matrix}
-$
-
-As the sequence goes on decreasing in the multiples of 11,
-
-Let the first negative number in the sequence be $1000 - 11a$
-
-$
-\begin{aligned}
-1000 - 11a              &< 0 \\\\
-1000                    &< 11a \\\\
-\dfrac {1000} {11}      &< a \\\\
-90.90                   &< a \\\\
-a                       &> 90.90 \\\\
-a                       &= 91 
-\end{aligned}
-$
-
-The first negative number in the sequence = $1000 - 11a$
-$
-\begin{aligned}
-&= 1000 - 11 \times 91 \\\\
-&= 1000 - 1001 \\\\
-&= -1
-\end{aligned}
-$
-
-The first negative number in the sequence = $-1$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-1$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>0ED1A149-A02B-476B-8274-BEAC2764D44B</p>
 </div>
 <div class='topics'>
@@ -38644,139 +38562,6 @@ $D$
 </div>
 </div>
 
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>BB7F6439-4B27-4A19-8711-CED205A8D4F7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpower
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Choose from this set of numbers
-
-
-| $8$          | $9$          | $10$         | $11$         |
-|:------:    |:------:    |:------:    |:------:    |
-| $12$         | $13$         | $14$         | $15$         |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-a square number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-three multiples of $3$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9, 12, 15$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9, 12, 15$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-three factors of $60$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10, 12, 15$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10, 12, 15$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
@@ -39181,17 +38966,22 @@ $\Box\:\:\:\:\times\:\:\:\:\Box\:\:\:\:\times\:\:\:\:\Box= \:\:\:512$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be $= a$
+Let the missing number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-a \times a \times a                  &= 512 \\\\
-a \times a \times a                  &= 8 \times 8 \times 8 \\\\
-a                                    &= 8
+a^3 &=  2 \times 256 \\\\
+a^3 &= 4 \times 128 \\\\
+a^3 &= 8 \times 64 \\\\
+a^3 &= 8 \times 8 \times 8 \\\\
+a^3 &= 8^3 \\\\
+a &= 8
 \end{aligned}
 $
+
+The number in the missing box $= 8$
 
 </div>
 </div>
@@ -39281,12 +39071,11 @@ I am five years older than my brother. Our ages add up to $23$. How old am I?
 
 Let my age $=a$
 
-My brother's age $=a-5$
-
 As per the question,
 
 $
 \begin{aligned}
+\text{My age} + \text{Brother's age}      &= \text{Total age} \\\\
 a + a - 5                   &= 23 \\\\
 2a - 5                      &= 23 \\\\
 2a                          &= 23 + 5 \\\\
@@ -39298,12 +39087,14 @@ a                           &= 14
 \end{aligned}
 $
 
+I am $ = 14 \ \text{years old}$
+
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$14$
+$14 \ \text{years}$
 
 </div>
 </div>
@@ -39338,20 +39129,16 @@ Bob’s bucket weighs $21\,kg$ when full of water. After he pours half the water
 
 Let the weight of empty bucket $=a$
 
-Weight of water $= 21 - a$
-
 As per the question,
 
 $
 \begin{aligned}
-a + \dfrac{21 - a} {2}                                          &= 12 \\\\
-\dfrac{2 \times a} {2} + \dfrac{21 - a} {2}                     &= 12 \\\\
-\dfrac{2a + 21 - a} {2}                                         &= 12 \\\\
+\text{Weight of empty bucket} + \dfrac{\text{Weight of water}}{2} &= 12 \\\\
 \dfrac{a + 21} {2}                                              &= 12 \\\\
 a + 21                                                          &= 12 \times 2 \\\\
 a + 21                                                          &= 24 \\\\
 a                                                               &= 24 - 21 \\\\
-a                                                               &= 3
+a                                                               &= 3 \ \text{kg}
 \end{aligned}
 $
 
@@ -39360,7 +39147,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3$
+$3 \ \text{kg}$
 
 </div>
 </div>
@@ -39408,13 +39195,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter of shape}       &= \text{Perimeter of rectangle} + \text{Perimeter of triangle} - 2 \times \text{base of triangle} \\\\
-                                &= 2 \times (\text{length} + \text{width}) + 3 + 4.5 + 4.5 - 2 \times 3 \\\\
-                                &= 2 \times (9 + 3) + 12 - 6 \\\\
-                                &= 2 \times 12 + 12 - 6 \\\\
-                                &= 24 + 12 - 6 \\\\
+\text{Perimeter of shape}       &= \text{Sum of all sides} \\\\
+                                &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
+                                &= 9 + 6 + 9 + 6 \\\\
 \text{Perimeter of shape}       &= 30 \ \text{cm}
-
 \end{aligned}
 $
 
@@ -39484,18 +39268,41 @@ Write down two of these numbers with a difference of $8$
 <div class='workings'>
 <div class='working'>
 
-Difference between $4$ and $-4$ = $4-(-4) = 4+4 = 8$
-Difference between $3$ and $-5$ = $3-(-5) = 3+5 = 8$
-Difference between $5$ and $-3$ = $5-(-3) = 5+3 = 8$
+Difference between $4$ and $-4$ 
+$
+\begin{aligned}
+&= 4-(-4) \\\\
+&= 4+4 \\\\
+&= 8
+\end{aligned}
+$
 
-The numbers with difference $8$ = $(4, -4), (3, -5), (5, -3)$
+Difference between $3$ and $-5$ 
+$
+\begin{aligned}
+&= 3-(-5) \\\\
+&= 3+5 \\\\
+&= 8
+\end{aligned}
+$
+
+Difference between $5$ and $-3$ 
+$
+\begin{aligned}
+&= 5-(-3) \\\\
+&= 5+3 \\\\
+&= 8
+\end{aligned}
+$
+
+The numbers with difference $8$ = $4, -4 \ \text{or} \ 3, -5 \ \text{or} \ 5, -3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(4, -4), (3, -5), (5, -3)$
+$4, -4 \ \text{or} \ 3, -5 \ \text{or} \ 5, -3$
 
 </div>
 </div>
@@ -39516,19 +39323,38 @@ Write down two of these numbers which have a sum of $-3$
 <div class='workings'>
 <div class='working'>
 
-Sum of $-1$ and $-2$ = $-1-2 = -3$
-Sum of $-3$ and $0$ = $-3+0 = -3$
-Sum of $-4$ and $1$ = $-4+1 = -3$
-Sum of $-5$ and $2$ = $-5+2 = -3$
+Sum of $-1$ and $-2$ 
+$
+\begin{aligned}
+&= -1-2 \\\\
+&= -3 \\\\
+\end{aligned}
+$
 
-The numbers whose sum is $-3$ are $(-1, -2), (-3, 0), (-4, 1), (-5, 2)$
+Sum of $-3$ and $0$ 
+$
+\begin{aligned}
+&= -3+0 \\\\
+&= -3 \\\\
+\end{aligned}
+$
+
+Sum of $-4$ and $1$ 
+$
+\begin{aligned}
+&= -4+1 \\\\
+&= -3 \\\\\
+\end{aligned}
+$
+
+The numbers whose sum is $-3$ are $-1, -2 \ \text{or} \ -3, 0 \ \text{or} \ -4, 1$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(-1, -2), (-3, 0), (-4, 1), (-5, 2)$
+$-1, -2 \ \text{or} \ -3, 0 \ \text{or} \ -4, 1$
 
 </div>
 </div>
@@ -49328,7 +49154,7 @@ A rectangle measures $4.0\,cm$ by $7.1\,cm$. What is its area?
 $
 \begin{aligned}
 \text{Area}             &= \text{length} \times \text{width} \\\\
-                        &= 4.0 \times 7.1
+                        &= 4.0 \times 7.1 \\\\
                         &= 28.4 \ \text{cm}^2
 \end{aligned}
 $

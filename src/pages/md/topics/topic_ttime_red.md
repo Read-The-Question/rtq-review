@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-red"
 title: "Topic - Time - Red"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -113,6 +113,311 @@ $21.6 \ \text{hrs}$
 </div>
 <div class='rag'>
 <p>rag_bs_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>CEA80618-09C7-44A0-9012-28683BA7B7F2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This is the graph of a firework rocket showing its height at different times. 
+
+%graph%
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Estimate from the graph how many seconds the rocket is more than 
+$25 \ \text{m}$ above the ground.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 - 2 \\\\
+&= 5 \ \text {seconds} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \ \text {seconds}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Estimate from the graph how far the rocket climbs between the times of $1 \ \text{s}$ and $2 \ \text{s}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 28 - 18 \\\\
+&= 10 \ \text {seconds} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text {seconds}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>3C6BD9C8-1689-4BFE-B57F-EF761695CD62</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+<li>
+ttime
+</li>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+
+Five teams took part in the relay race at sports day.
+
+Here are their results:
+
+![missing table](/papers/missing_table.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the table to show their positions.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4th, 3rd, 2nd$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4th, 3rd, 2nd$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much faster was the team which came first than the team which came fifth?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To calculate how much faster the team which came first was than the team which came fifth
+we need to find the difference between the time taken by the the team which came 
+fifth and and the team which came first.
+$
+\begin{aligned}
+\text {time of the team which came fifth} &= 59.9 \ \text {seconds} \\\\
+\text {time of the team which came first} &= 48.34 \ \text {seconds} \\\\
+\text {Difference in their time}          &= 59.9 \ \text {seconds} - 48.34 \ \text {seconds} \\\\
+                                          &= 11.56 \ \text {seconds}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11.56$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The team Cheeetahs broke the school record by $1.9 \ \text{seconds}$.
+
+What was the previous school record?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Since the Cheeetahs broke the school record by $1.9 \ \text{seconds}$, the previous
+record must me $1.9 \ \text{seconds}$ more than their current record.
+$
+\begin{aligned}
+\text {previous school record} &= \text {time taken by Cheeetahs} + \text {time by which Cheeetahs broke the previous record} \\\\
+                               &= 48.34 \ \text {seconds} + 1.9 \ \text {seconds} \\\\
+                               &= 50.24 \ \text {seconds}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50.24$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Active Eight had $4$ runners in their team.
+
+Find the mean time for each runner in this team by dividing their total time by $4$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {51.2} {4} \\\\
+&= 12.8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12.8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

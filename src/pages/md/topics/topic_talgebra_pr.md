@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-pr"
 title: "Topic - Algebra - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -836,66 +836,6 @@ Banana $= 50 \ \text{pence}$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>C6F4AD83-598E-4D8C-8FE2-F30239151865</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a year group of $180$ students, the students all studied one language.
-
-$\dfrac{2}{5}$ of the students studied French, $\dfrac{1}{4}$ studied Latin and the rest studied Spanish.
-
-How many students studied Spanish?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text{Students (Spanish)}       &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
-                                &=  180 -  \dfrac {2} {5} \times 180 - \dfrac {1} {4} \times 180 \\\\
-                                &=  180 -  \dfrac {2 \times 180} {5} - \dfrac {180} {4} \\\\
-                                &=  180 -  \dfrac {2 \times 36 \times 5} {5} - \dfrac {45 \times 4} {4} \\\\
-                                &=  180 -  \dfrac {2 \times 36 \times \cancel{5}} {\cancel{5}} - \dfrac {45 \times \cancel{4}} {\cancel{4}} \\\\
-                                &=  180 -  2 \times 36 - 45 \\\\
-                                &=  180 -  72 - 45 \\\\
-                                &=  63
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$63$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -3309,134 +3249,6 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out what time it is now if the time that has passed since nine o'clock this morning is five times as much as the time that is left before eleven o' clock this morning.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the time is $=a$
-
-$
-\begin{aligned}
-6a   &= 120 \\\\
-a    &= \dfrac {120} {6} \\\\
-a    &= 20 
-\end{aligned}
-$
-
-So, 20 minutes before 11 ,
-
-$10 {:} 40$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 {:} 40$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>BA1D755E-247B-459D-BA62-7EACF068C6A6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$120$ pupils are sitting an exam. The pupils can choose whether to write in pencil or pen.
-
-Two-fifths of the pupils are boys.
-
-Three-quarters of the boys are writing in pencil.
-
-One-third of the girls are writing in pen.
-
-How many pupils are writing in pencil?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Number of boys in the class}             &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
-                                                &= \dfrac {2 \times 120} {5} \\\\
-                                                &= \dfrac {2 \times 24 \times 5} {5} \\\\
-                                                &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
-                                                &= 2 \times 24 \\\\
-                                                &= 48 \\\\
-\text {Number of girls in the class}            &= 120 - 48 \\\\
-                                                &= 72
-\end{aligned}
-$
-
-If One-third of the girls are writing with pen, then the number of girls writing with pencil will be $1 - \dfrac {1} {3} = \dfrac {2} {3}$. Using that we get,
-
-$
-\begin{aligned}
-\text {Number of pupils writing with pencil}   &= \dfrac {3} {4} \times 48 + \dfrac {2} {3} \times 72 \\\\
-                                               &= \dfrac {3 \times 48} {4} + \dfrac {2 \times 72} {3} \\\\
-                                               &= \dfrac {3 \times 12 \times 4} {4} + \dfrac {2 \times 24 \times 3} {3} \\\\
-                                               &= \dfrac {3 \times 12 \times \cancel {4}} {\cancel {4}} + \dfrac {2 \times 24 \times \cancel {3}} {\cancel {3}} \\\\
-                                               &= 3 \times 12 + 2 \times 24 \\\\
-                                               &= 36 + 48 \\\\
-                                               &= 84
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$84$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>3AC41847-B315-468A-A2D7-E375F2BF6A55</p>
@@ -4791,227 +4603,6 @@ $\dfrac {1} {2}$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>49F70149-6E7A-4A5E-9D2E-9FBDD68F2349</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-John came home from his vacation at his grandmother's with $5$ books. 
-While he was away he bought $2$ books at the bookshop and got $1$ book as a present from his grandmother. 
-During his stay at his grandmother's, he also gave his cousin $4$ books that he had finished.
-How many books did he take with him when he left for his holiday?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of books be $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-2 + 1 - 4 + a &= 5 \\\\
--1 + a        &= 5 \\\\
-a             &= 5 + 1 \\\\
-a             &= 6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>CA23ED80-3421-4BAC-BBB7-618D72B3F32C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Sam thinks of a number, multiplies it by $2$ and then adds $11$. The answer he gets is $29$. What number did he think of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 2 + 11 &= 29 \\\\
-a \times 2      &= 29 - 11 \\\\
-a \times 2      &= 18 \\\\
-a               &= \dfrac {18} {2} \\\\
-a               &= \dfrac {9 \times \cancel {2}} {\cancel {2}} \\\\
-a               &= 9
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Julia thinks of a number, multiplies it by $5$, adds $11$ and then divides it by $2$. She gets the answer $28$. 
-What number did she think of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-(a \times 5 + 11) \div 2 &= 28 \\\\
-a \times 5 + 11          &= 28 \times 2 \\\\
-a \times 5 + 11          &= 56 \\\\
-a \times 5               &= 56 - 11 \\\\
-a \times 5               &= 45 \\\\
-a                        &= \dfrac {45} {5} \\\\
-a                        &= \dfrac {9 \times 5} {5} \\\\
-a                        &= \dfrac {9 \times \cancel {5}} {\cancel {5}} \\\\
-a                        &= 9
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Sam and Julia find there is one number for which, if they both start from that number and follow their own rules, they get the same answer. What is the number they both start with?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 2 + 11     &= (a \times 5 + 11) \div 2 \\\\
-(2 a + 11) \times 2 &= 5 a + 11 \\\\
-4 a + 22            &= 5 a + 11 \\\\
-4 a - 5 a           &= 11 - 22 \\\\
--a                  &= -11 \\\\
-\cancel {-} a       &= \cancel {-} 11 \\\\
-a                   &= 11
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>E9A0FA5F-BD86-427B-91F1-7D0A086BB6AE</p>
 </div>
 <div class='topics'>
@@ -5283,68 +4874,6 @@ $(3,5), \ (4,4), \ (9,2), \ (1,10), \ (19,1)$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>9B2BAD76-821C-4206-AED5-F5F1A8A5545E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ali has six times as much chocolate as Beth. Carl has twice as much chocolate as Beth. If Carl has $200 \ \text{g}$ of chocolate, how much chocolate does Ali have?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the chocolate with Beth $= a$
-
-Chocolate with Ali $= 6 a$
-
-Chocolate with Carl $= 2 a$
-
-$
-\begin{aligned}
-\text{Chocolate with Beth} &= \dfrac {\text {Chocolate with Carl}} {2} \\\\
-a                          &= \dfrac {200} {2} \\\\
-a                          &= \dfrac {100 \times 2} {2} \\\\
-a                          &= \dfrac {100 \times \cancel {2}} {\cancel {2}} \\\\
-a                          &= 100 \ \text{g}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Chocolate with Ali}  &= 6 \times a \\\\
-                           &= 6 \times 100 \\\\
-                           &= 600 \ \text{g}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$600 \ \text{g}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>F202EB77-1406-4EA6-951F-C009520818C9</p>
 </div>
 <div class='topics'>
@@ -5435,53 +4964,6 @@ $
 <div class='answer'>
 
 $0.6 \%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>251FBF03-47A6-429C-803A-6682014D04F1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When a glass is full of water the total mass is $400 \ \text{g}$. 
-When the glass is half full of water the total mass is $320 \ \text{g}$. Find the mass of the glass.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Mass of glass} &= 400 - (80 + 80) \\\\
-                     &= 400 - 160 \\\\
-                     &= 240 \ \text{g}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$240 \ \text{g}$
 
 </div>
 </div>
@@ -5772,187 +5254,6 @@ $147$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>0987E5A4-4B55-4CE4-AE21-2C2FA89D1803</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $x = 7, y = -5$ and $z = -6$, find the value of 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$x + y - z$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= x + y - z \\\\
-&= 7 + (- 5) - (- 6) \\\\
-&= 7 - 5 + 6 \\\\
-&= 2 + 6 \\\\
-&= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$xy$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= xy \\\\
-&= 7 /times - 5 \\\\
-&= - 35
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$- 35$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$-3y^2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= - 3 y ^ 2 \\\\
-&= - 3 \times (-5)^2 \\\\
-&= - 3 \times 25 \\\\
-&= - 75
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$- 75$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2yz -  x^3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 2 y z -  x ^ 3 \\\\
-&= 2 \times (- 5) \times (- 6) - 7 ^ 3 \\\\
-&= 60 - 343 \\\\
-&= - 280
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$- 280$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -7955,134 +7256,6 @@ $3$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>4FD3FA7F-457F-4731-B4AE-15DCF80081B3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Tim, David and Alison are given some money by their grandfather. Tim gets twice as much as David and three times as much as Alison. If they get $\pounds 49.50$ in total, how much do they each get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the money Tim received $= a$.
-
-According to the question,
-
-Money David recieved $= \dfrac {a} {2}$.
-
-Money Alison recieved $= \dfrac {a} {3}$.
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Total money they recieved}                                                                       &= \pounds 49.50 \\\\
-a + \dfrac {a} {2} + \dfrac {a} {3}                                                                     &= 49.50 \\\\
-\dfrac {6 \times a} {1 \times 6} + \dfrac {a \times 3} {2 \times 3} + \dfrac {a \times 2} {3 \times 2}  &= 49.50 \\\\
-\dfrac {6a} {6} + \dfrac {3a} {6} + \dfrac {2a} {6}                                                     &= 49.50 \\\\
-\dfrac {6a + 3a + 2a} {6}                                                                               &= 49.50 \\\\
-11a                                                                                                     &= 49.50 \times 6 \\\\
-a                                                                                                       &= \dfrac {297} {11} \\\\
-a                                                                                                       &= \dfrac {27 \times 11} {11} \\\\
-a                                                                                                       &= \dfrac {27 \times \cancel {11}} {\cancel {11}} \\\\
-a                                                                                                       &= \pounds 27
-\end {aligned}
-$
-
-Money Tim received $= \pounds 27$.
-
-Money David recieved $= \dfrac {27} {2} = \pounds 13.5$.
-
-Money Alison recieved $= \dfrac {27} {3} = \pounds 9$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 27, \pounds 13.5, \pounds 9$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>DE21514C-D0D8-4AC5-AA51-07E6EBC58C80</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two numbers have a sum of $87$. The larger of the numbers is twice the smaller. What are the two numbers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the smaller number $= a$.
-
-The larger number $= 2a$.
-
-As per the question,
-
-$
-\begin{aligned}
-a + 2a  &= 87 \\\\
-3a      &= 87 \\\\
-a       &= \dfrac {87} {3} \\\\
-a       &= \dfrac {29 \times 3} {3} \\\\
-a       &= \dfrac {29 \times \cancel {3}} {\cancel {3}} \\\\
-a       &= 29
-\end{aligned}
-$
-
-Smaller Number $= 29$.
-
-Larger number $= 2 \times 29 = 58$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$29, 58$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -12480,96 +11653,6 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>83315ED9-DB65-48DC-A17E-D2511B4529A7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Three friends went to a burger restaurant.
-
-Tom had a burger and chips and he paid $\pounds 8.00$.
-
-Fred had two burgers and a drink. Fred paid $\pounds 15.00$.
-
-Jo had a burger and a drink. Jo paid $\pounds 8.50$.
-
-Work out the cost of the burger, the chips and the drink. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The cost that Tom paid for burger(a) and chips(b) & = $\pounds 8$
-
-$
-\begin{aligned} 
-a + b &= 8 \\\\
-b     &= 8 - a
-\end{aligned}
-$
-
-The cost that Fed paid for 2 burger(a) and drink(c) & = $\pounds 15$ 
-
-$
-\begin{aligned} 
-2a + c &= 15 \\\\
-a      &= \dfrac {15 - c} {2} 
-\end{aligned}
-$
-
-The cost that Jo paid for burger(a) and drink(c) & = $\pounds 8$
-
-$
-\begin{aligned} 
-a + c               &= 8 \\\\
-a                   &= 8 - c \\\\
-\dfrac {15 - c} {2} &= 8 - c \\\\
-15 - c              &= 16 - 2c \\\\
-2c - c              &= 16 - 15 \\\\
-c                   &= 1 \\\\
-a                   &= 8 - c \\\\
-a                   &= 8 - 1 \\\\
-a                   &= 7
-\end{aligned}
-$
-
-$
-\begin{aligned} 
-b   &= 8 - 7 \\\\
-b   &= 1 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7, 1, 1$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>226E8E2D-19C1-4607-A921-E9F025A6322B</p>
@@ -13019,229 +12102,6 @@ $15$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>0EE87929-F2CC-4426-8FA5-C13CAE3A2777</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-<li>
-tstatistics
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bert and Chrissy are very good at maths and enjoy 'think of a number problems'.
-
-Bert asks Chrissy to think of a number, double it and add $5$.
-
-She says that the result is $33$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What was the number she thought of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Chrissy think of $=a$,
-
-$
-\begin{aligned}
-2a + 5 &= 33 \\\\
-2a     &= 33 - 5 \\\\
-2a     &= 28 \\\\
-a      &= \dfrac {28} {2} \\\\
-a      &= \dfrac {14 \times 2} {2} \\\\
-a      &= \dfrac {14 \times \cancel {2} } {\cancel {2} } \\\\
-a      &= 14
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Chrissy wants Bert to guess her favourite number.
-
-She asks him to write down $5$ numbers.
-
-He chooses $4 \quad 7 \quad 2 \quad 19$ and $8$
-
-Chrissy looks at the numbers and tells him that her favourite number is equal to the mean of the numbers, minus $7$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the mean of Bert's numbers.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Mean} &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
-             &= \dfrac {40} {5} \\\\
-             &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is Chrissy's favourite number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Chrissy's favourite number} &= \text{mean-7} \\\\
-                                   &= 8 - 7 \\\\
-                                   &= 1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Circle any of the words below which describe Chrissy's favourite number.
-
-**prime number** $\quad$  **square number** $\quad$  **cube number**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {square}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {square}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -16842,205 +15702,6 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>DB9E2E26-0316-4C3F-9AF2-5DD67552215E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In a triangle, one of the angles is $39\degree$, the second is $81\degree$, what is the size of the third angle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing angle $= a$.
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
-$
-\begin{aligned}
-a + 39 + 81   &= 180 \\\\
-a + 120       &= 180 \\\\
-a             &= 180 - 120 \\\\
-a             &= 60 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A second triangle is isosceles, and one of its angles is $48\degree$. What are the TWO possible pairs of values for the other two angles?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-As the triangle is an isosceles triangle, there are two possiblities:
-
-The two missing angles are equal.
-
-Assuming this, we get
-
-Let the two missing angles $= a$.
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
-$
-\begin {aligned}
-a + a + 48 \degree   &= 180 \degree \\\\
-2a + 48              &= 180 \\\\
-2a                   &= 180 - 48 \\\\
-2a                   &= 132 \\\\
-a                    &= \dfrac {132} {2} \\\\
-a                    &= 66 \degree
-\end {aligned}
-$
-
-The two angles are $66 \degree , 66 \degree$.
-
-Or, One of the missing angles is $= 48 \degree$.
-
-Let the third angle $= b$.
-
-$
-\begin {aligned}
-48 + 48 + b    &= 180 \degree \\\\
-96 + b         &= 180 \\\\
-b              &= 180 - 96 \\\\
-b              &= 84 \degree
-\end {aligned}
-$
-
-The two angles are $48 \degree, 84 \degree$. 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$66 \degree, 66 \degree$
-
-</div>
-<div class='answer'>
-
-$48 \degree, 84 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In a third triangle ABC, angle $B$ is two times the size of angle $A$ and angle $C$ is $40\degree$ more than angle $A$. 
-What is the size of angle $A$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
-$
-\begin{aligned}
-A + B + C        &= 180 \degree \\\\
-A + 2A + 40 + A  &= 180 \\\\
-4A + 40          &= 180 \\\\
-4A               &= 180 - 40 \\\\
-A                &= \dfrac {160} {4} \\\\
-A                &= \dfrac {4 \times 40} {4} \\\\
-A                &= \dfrac {\cancel {4} \times 40} {\cancel {4} } \\\\
-A                &= 40 \degree
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
@@ -19177,17 +17838,22 @@ $\Box\:\:\:\:\times\:\:\:\:\Box\:\:\:\:\times\:\:\:\:\Box= \:\:\:512$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be $= a$
+Let the missing number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-a \times a \times a                  &= 512 \\\\
-a \times a \times a                  &= 8 \times 8 \times 8 \\\\
-a                                    &= 8
+a^3 &=  2 \times 256 \\\\
+a^3 &= 4 \times 128 \\\\
+a^3 &= 8 \times 64 \\\\
+a^3 &= 8 \times 8 \times 8 \\\\
+a^3 &= 8^3 \\\\
+a &= 8
 \end{aligned}
 $
+
+The number in the missing box $= 8$
 
 </div>
 </div>
@@ -19229,12 +17895,11 @@ I am five years older than my brother. Our ages add up to $23$. How old am I?
 
 Let my age $=a$
 
-My brother's age $=a-5$
-
 As per the question,
 
 $
 \begin{aligned}
+\text{My age} + \text{Brother's age}      &= \text{Total age} \\\\
 a + a - 5                   &= 23 \\\\
 2a - 5                      &= 23 \\\\
 2a                          &= 23 + 5 \\\\
@@ -19246,12 +17911,14 @@ a                           &= 14
 \end{aligned}
 $
 
+I am $ = 14 \ \text{years old}$
+
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$14$
+$14 \ \text{years}$
 
 </div>
 </div>
@@ -19286,20 +17953,16 @@ Bob’s bucket weighs $21\,kg$ when full of water. After he pours half the water
 
 Let the weight of empty bucket $=a$
 
-Weight of water $= 21 - a$
-
 As per the question,
 
 $
 \begin{aligned}
-a + \dfrac{21 - a} {2}                                          &= 12 \\\\
-\dfrac{2 \times a} {2} + \dfrac{21 - a} {2}                     &= 12 \\\\
-\dfrac{2a + 21 - a} {2}                                         &= 12 \\\\
+\text{Weight of empty bucket} + \dfrac{\text{Weight of water}}{2} &= 12 \\\\
 \dfrac{a + 21} {2}                                              &= 12 \\\\
 a + 21                                                          &= 12 \times 2 \\\\
 a + 21                                                          &= 24 \\\\
 a                                                               &= 24 - 21 \\\\
-a                                                               &= 3
+a                                                               &= 3 \ \text{kg}
 \end{aligned}
 $
 
@@ -19308,7 +17971,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3$
+$3 \ \text{kg}$
 
 </div>
 </div>

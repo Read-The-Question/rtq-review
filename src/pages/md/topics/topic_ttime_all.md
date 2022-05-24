@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-all"
 title: "Topic - Time - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3094,7 +3094,7 @@ $1982$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>C4E7B763-E07F-498F-A6A5-88CF6EA33FBB</p>
 </div>
@@ -3145,7 +3145,7 @@ $2 \ \text {hour} \ 8 \ \text {minutes}$
 <p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -4002,7 +4002,7 @@ $81  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>4817F67D-F1F2-40D0-8436-A069F847B9C1</p>
 </div>
@@ -4047,7 +4047,7 @@ $40 \ \text {miles per hour}$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -4561,7 +4561,8 @@ Keston to Langham;
 
 $
 \begin{aligned}
-&= 26 \ \text{km} - 12 \ \text {km} \\\\
+&= \text {Distance from Josham to Langham} - \text {Distance from Josham to Keston} \\\\ 
+&= 26 \ \text {km} - 12 \ \text {km} \\\\
 &= 14 \ \text {km}
 \end{aligned}
 $
@@ -4594,10 +4595,11 @@ Langham to Moreton, giving your answer **in metres**.
 
 $
 \begin{aligned}
+&= \text {Distance from Keston to Moreton} - \text {Distance from Keston to Josham} \\\\ 
 &= 23 \ \text {km} - 14 \ \text {km} \\\\
 &= 9 \ \text {km} \\\\
-&= 9 \times 1000 \ \text{m} \\\\
-&= 9000\ \ text{m}
+&= 9 \times 1000 \ \text {m} \\\\
+&= 9000\ \text {m}
 \end{aligned}
 $
 
@@ -4606,7 +4608,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9000\ \ text{m}$
+$9000\ \text {m}$
 
 </div>
 </div>
@@ -4630,20 +4632,34 @@ If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey 
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+Speed $= 14 km.p.h$
+
 $
 \begin{aligned}
-\text {time} &= \dfrac {distance} {speed} \\\\
-             &= \dfrac {12 + 23} {14} \\\\
-             &= \dfrac {35} {14} \\\\
-             &= 2 \ \text {hours}, 5 \ \text{minutes} 
+\text {Distance from Josham to Moreton} &= \text {(Josham to Langham)} + \text {(Langham to Moreton)} \\\\
+                                      &= 26 + 9 \\\\
+                                      &= 35 \ \text {km}
 \end{aligned}
+$
+
+Let's find the time tourist will take to complete the journey.
+
+$
+\begin{aligned}
+\text {Time} &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
+             &= \dfrac {35} {14} \\\\
+             &= 2 \ \text {hours}, 30 \ \text {minutes} 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2 \ \text {hours}, 5 \ \text{minutes}$
+$2 \ \text {hours}, 30 \ \text {minutes}$
 
 </div>
 </div>
@@ -4660,7 +4676,7 @@ $2 \ \text {hours}, 5 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
 </div>
@@ -4682,19 +4698,28 @@ Work out what time it is now if the time that has passed since nine o'clock this
 <div class='workings'>
 <div class='working'>
 
-Let the time is $=a$
+Let the time left before eleven o'clock is $= a$
 
 $
 \begin{aligned}
-6a   &= 120 \\\\
-a    &= \dfrac {120} {6} \\\\
-a    &= 20 
+\text {Time passed since nine o'clock}  &= 5 \times a \\\\
+                                        &= 5a
 \end{aligned}
 $
 
-So, 20 minutes before 11 ,
+$
+\begin{aligned}
+\text {Total time} &= (11 - 9) \ \text {hours} \\\\
+            5a + a &= (2 \times 60) \ \text {minutes} \\\\
+                6a &= 120 \ \text {minutes} \\\\
+                 a &= \dfrac {120} {6} \\\\
+                 a &= \dfrac {6 \times 20} {6} \\\\
+                 a &= \dfrac {\cancel 6 \times \ 20} {\cancel 6} \\\\
+                 a &= 20 \ \text {minutes}
+\end{aligned}
+$
 
-$10 {:} 40$
+So, 20 minutes before 11 o'clock $= 10 {:} 40$
 
 </div>
 </div>
@@ -4710,7 +4735,7 @@ $10 {:} 40$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -4832,7 +4857,7 @@ $17:20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
 </div>
@@ -4880,14 +4905,19 @@ Calculate out how long the journey takes in hours and minutes.
 <div class='workings'>
 <div class='working'>
 
-$4 \ \text{hours} 33 \ \text{minutes}$
+$
+\begin{aligned}
+\text {Time taken in the journey}   &= 10 {:} 17 \ \text {pm} - 5 {:} 44 \ \text {am} \\\\
+                                    &= 7 \ \text{hours} \ 27 \ \text{minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4 \ \text{hours} 33 \ \text{minutes}$
+$7 \ \text{hours} \ 27 \ \text{minutes}$
 
 </div>
 </div>
@@ -4910,13 +4940,15 @@ Calculate the approximate speed of the aeroplane in kilometres per hour.
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Speed} &= \dfrac {\text{Distance} } { \text{Time} } \\\\
-             &= \dfrac {5600} {7} \\\\
-             &= \dfrac {800 \times 7} {7} \\\\
-             &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
-             &= 800 \ \text{kilometres per hour}
+\text {Speed of the aeroplane}  &= \dfrac {\text {Distance} } { \text {Time} } \\\\
+                                &= \dfrac {5600} {7} \\\\
+                                &= \dfrac {800 \times 7} {7} \\\\
+                                &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
+                                &= 800 \ \text {kilometres per hour}
 \end{aligned}
 $
 
@@ -4937,7 +4969,7 @@ $800 \ \text{kilometres per hour}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -8765,7 +8797,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>7A398F6B-C825-4D14-888B-7DE1673A5240</p>
 </div>
@@ -8817,7 +8849,7 @@ $5{:}55 \ \text{am}$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -9228,7 +9260,7 @@ $- 18 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>0B2DDF0F-855E-489C-A9C7-EF1107955CE1</p>
 </div>
@@ -9331,7 +9363,7 @@ $11{:}05 \ \text{a.m}$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -9555,7 +9587,7 @@ $2 \ \text {hours} \ 37 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>DBC1958C-C043-4319-9AE7-09CEA696EBC9</p>
 </div>
@@ -9595,7 +9627,7 @@ $7 \ \text{hours} \ 43 \ \text{minutes}$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -9691,7 +9723,7 @@ $276 \text{seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BA7A2E5A-F0B6-4120-988C-2F8865BF4B44</p>
 </div>
@@ -9796,7 +9828,7 @@ $576 \ \text{minutes}$
 <p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -14924,7 +14956,7 @@ $8.17 \ \text{am}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>E8BEF82D-E970-4508-A623-9BC202200751</p>
 </div>
@@ -14945,14 +14977,19 @@ At what time did Jamie get home?
 <div class='workings'>
 <div class='working'>
 
-$4 {:} 50 \ \text{pm}$
+$
+\begin{aligned}
+\text {Time at which Jamie got home}             &= 3 {:} 55 \ \text {pm} + 55 \ \text {min} \\\\
+                                                 &= 4 {:} 50 \ \text {pm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4 {:} 50 \ \text{pm}$
+$4 {:} 50 \ \text {pm}$
 
 </div>
 </div>
@@ -14961,7 +14998,7 @@ $4 {:} 50 \ \text{pm}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -15035,7 +15072,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>CEA80618-09C7-44A0-9012-28683BA7B7F2</p>
 </div>
@@ -15144,7 +15181,7 @@ $10 \ \text {seconds}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -17475,7 +17512,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>3C6BD9C8-1689-4BFE-B57F-EF761695CD62</p>
 </div>
@@ -17559,10 +17596,15 @@ How much faster was the team which came first than the team which came fifth?
 <div class='workings'>
 <div class='working'>
 
+To calculate how much faster the team which came first was than the team which came fifth
+we need to find the difference between the time taken by the the team which came 
+fifth and and the team which came first.
 $
 \begin{aligned}
-&= 59.9 - 48.34 \\\\
-&= 11.56
+\text {time of the team which came fifth} &= 59.9 \ \text {seconds} \\\\
+\text {time of the team which came first} &= 48.34 \ \text {seconds} \\\\
+\text {Difference in their time}          &= 59.9 \ \text {seconds} - 48.34 \ \text {seconds} \\\\
+                                          &= 11.56 \ \text {seconds}
 \end{aligned}
 $
 
@@ -17594,10 +17636,13 @@ What was the previous school record?
 <div class='workings'>
 <div class='working'>
 
+Since the Cheeetahs broke the school record by $1.9 \ \text{seconds}$, the previous
+record must me $1.9 \ \text{seconds}$ more than their current record.
 $
 \begin{aligned}
-&= 48.34 + 1.9 \\\\
-&= 50.24
+\text {previous school record} &= \text {time taken by Cheeetahs} + \text {time by which Cheeetahs broke the previous record} \\\\
+                               &= 48.34 \ \text {seconds} + 1.9 \ \text {seconds} \\\\
+                               &= 50.24 \ \text {seconds}
 \end{aligned}
 $
 
@@ -17653,7 +17698,7 @@ $12.8$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

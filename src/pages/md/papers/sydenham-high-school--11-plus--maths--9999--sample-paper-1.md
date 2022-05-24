@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>Sydenham High School</h1>
@@ -1187,7 +1187,7 @@ $5 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>C82E5C30-82DD-4D11-B4AF-0C2607D4E161</p>
 </div>
@@ -1206,32 +1206,39 @@ What is the difference between $20 \%$ of $90$ and $90 \%$ of $20$?
 <div class='workings'>
 <div class='working'>
 
+Let's calculate the first value.
+
 $
 \begin{aligned}
-&= 20 \% \ \text{of} 90 \\\\
+&= 20 \% \ \text {of} \ 90 \\\\
 &= \dfrac {20} {100} \times 90 \\\\
 &= \dfrac {20 \times 90} {100} \\\\
-&= \dfrac {2 \cancel{0} \times 9 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-&= 2 \times 9 \\\\
+&= \dfrac {20 \times 5 \times 18} {20 \times 5} \\\\
+&= \dfrac {\cancel {20} \times \cancel {5} \times 18} {\cancel {20} \times \cancel {5}} \\\\
 &= 18
 \end{aligned}
 $
 
+Let's calculate the second value.
+
 $
 \begin{aligned}
-&= 90 \% \ \text{of} 20 \\\\
+&= 90 \% \ \text {of} \ 20 \\\\
 &= \dfrac {90} {100} \times 20 \\\\
 &= \dfrac {90 \times 20} {100} \\\\
-&= \dfrac {9 \cancel{0} \times 2 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-&= 9 \times 2 \\\\
+&= \dfrac {18 \times 5 \times 20} {5 \times 20} \\\\
+&= \dfrac {18 \times \cancel {5} \times \cancel {20}} {\cancel {5} \times \cancel {20}} \\\\
 &= 18
 \end{aligned}
 $
 
+Using the calculation above,
+
 $
 \begin{aligned}
+&= \text {first value} - \text {second value} \\\\
 &= 18 - 18 \\\\
-&= 0 
+&= 0
 \end{aligned}
 $
 
@@ -1249,12 +1256,12 @@ $0$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>E8BEF82D-E970-4508-A623-9BC202200751</p>
 </div>
@@ -1275,14 +1282,19 @@ At what time did Jamie get home?
 <div class='workings'>
 <div class='working'>
 
-$4 {:} 50 \ \text{pm}$
+$
+\begin{aligned}
+\text {Time at which Jamie got home}             &= 3 {:} 55 \ \text {pm} + 55 \ \text {min} \\\\
+                                                 &= 4 {:} 50 \ \text {pm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4 {:} 50 \ \text{pm}$
+$4 {:} 50 \ \text {pm}$
 
 </div>
 </div>
@@ -1291,12 +1303,12 @@ $4 {:} 50 \ \text{pm}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>A2AB9E52-5757-48BA-893F-644438CCA57D</p>
 </div>
@@ -1304,6 +1316,9 @@ $4 {:} 50 \ \text{pm}$
 <ul>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -1365,14 +1380,14 @@ What is the largest $4$-digit even number that can be made?
 <div class='workings'>
 <div class='working'>
 
-$854$
+$\huge { \boxed {8} \ \boxed {5} \ \boxed {4} \ \boxed {3} }$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$854$
+$8543$
 
 </div>
 </div>
@@ -1393,14 +1408,14 @@ What is the smallest two-digit prime number that can be made?
 <div class='workings'>
 <div class='working'>
 
-$11$
+$\huge { \boxed {1} \ \boxed {3} }$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$11$
+$13$
 
 </div>
 </div>
@@ -1421,7 +1436,7 @@ Using $5$ cards, make a multiple of $3$.
 <div class='workings'>
 <div class='working'>
 
-$12345$
+$\huge { \boxed {1} \ \boxed {2} \ \boxed {3} \ \boxed {4} \ \boxed {5} }$
 
 </div>
 </div>
@@ -1449,7 +1464,7 @@ Make a three-digit number that is a multiple of both $3$ and $5$.
 <div class='workings'>
 <div class='working'>
 
-$135$
+$\huge { \boxed {1} \ \boxed {3} \ \boxed {5} }$
 
 </div>
 </div>
@@ -1468,12 +1483,12 @@ $135$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>B260B37F-8BEE-47DF-AEC2-985D659409BC</p>
 </div>
@@ -1496,9 +1511,10 @@ What was her mean score?
 
 $
 \begin{aligned}
-&= \dfrac {16 + 15 + 16 + 10} {4} \\\\
-&= \dfrac {57} {4} \\\\
-&= 14.25
+\text {Mean score}   &= \dfrac {\text {Total marks obtained}} {\text {Total number of tests}} \\\\
+                     &= \dfrac {16 + 15 + 16 + 10} {4} \\\\
+                     &= \dfrac {57} {4} \\\\
+                     &= 14.25
 \end{aligned}
 $
 
@@ -1516,7 +1532,7 @@ $14.5$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -2119,7 +2135,7 @@ $30 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>D6EF16C9-114E-4ACE-83AF-27BBE42B409E</p>
 </div>
@@ -2179,9 +2195,11 @@ $
 40                                      &=  10 \times a \\\\
 \dfrac {40} {10}                        &=  a \\\\
 \dfrac {4\cancel {0} } {1\cancel {0} }  &=  a \\\\
-4 \ \text {cm}                          &= a
+\text {a}                               &=  4 \ \text {cm}
 \end{aligned}
 $
+
+Height of the cuboid $=  4 \ \text {cm}$.
 
 </div>
 </div>
@@ -2219,12 +2237,12 @@ Work out the number of boxes which can completely fill the carton.
 
 $
 \begin{aligned}
-\text {Number of boxes}  &=  \dfrac {\text{Volume of bigger box} } { \text {volume of smaller box} } \\\\
-                         &=  \dfrac {200 \times 100 \times 100} {50 \times 20 \times 20} \\\\
-                         &=  \dfrac {20 \times 2 \times 5 \times 20 \times 50 \times 2} {50 \times 20 \times 20} \\\\
-                         &=  \dfrac {\cancel{20} \times 2 \times 5 \times \cancel{20} \times \cancel{50} \times 2} {\cancel{50} \times \cancel{20} \times \cancel{20} } \\\\
-                         &=  2 \times 5 \times 2 \\\\
-                         &=  40 
+\text {Number of boxes}  &= \dfrac {\text {Volume of carton} } { \text {Volume of box} } \\\\
+                         &= \dfrac {200 \times 100 \times 100} {50 \times 20 \times 20} \\\\
+                         &= \dfrac {20 \times 2 \times 5 \times 20 \times 50 \times 2} {50 \times 20 \times 20} \\\\
+                         &= \dfrac {\cancel{20} \times 2 \times 5 \times \cancel{20} \times \cancel{50} \times 2} {\cancel{50} \times \cancel{20} \times \cancel{20} } \\\\
+                         &= 2 \times 5 \times 2 \\\\
+                         &= 20
 \end{aligned}
 $
 
@@ -2233,7 +2251,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$40$
+$20$
 
 </div>
 </div>
@@ -2245,7 +2263,7 @@ $40$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -2425,7 +2443,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>19234F0C-4C85-4F00-8A0C-D18A9430B6A0</p>
 </div>
@@ -2448,11 +2466,16 @@ What area of the table is covered?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+Since the rectangles are overlapping at four places, we need to subtract those area from the total.
+
 $
 \begin{aligned}
-\text {Total Area}  &=  12 \times 2 \time 4 - 2 \times 2 \times 4 \\\\
-                    &=  96 - 16 \\\\
-                    &=  80 \ \text{cm^2} 
+\text {Area of the table covered} &= \text {Total area of rectangles} - \text {overlapping area} \\\\
+                                  &= (12 \times 2 \times 4) - (2 \times 2 \times 4) \\\\
+                                  &= 96 - 16 \\\\
+                                  &= 80 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -2461,7 +2484,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$80 \ \text{cm^2}$
+$80 \ \text {cm}^2$
 
 </div>
 </div>
@@ -2470,7 +2493,7 @@ $80 \ \text{cm^2}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -2527,7 +2550,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>CEA80618-09C7-44A0-9012-28683BA7B7F2</p>
 </div>
@@ -2636,7 +2659,7 @@ $10 \ \text {seconds}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -2689,7 +2712,7 @@ $105 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>83315ED9-DB65-48DC-A17E-D2511B4529A7</p>
 </div>
@@ -2719,25 +2742,20 @@ Work out the cost of the burger, the chips and the drink.
 <div class='workings'>
 <div class='working'>
 
-The cost that Tom paid for burger(a) and chips(b) & = $\pounds 8$
+Let the cost of burger $= a$, cost of the chips $= b$, cost of drink $= c$.
+
+As per the question,
 
 $
-\begin{aligned} 
-a + b &= 8 \\\\
-b     &= 8 - a
+\begin{aligned}
+a + b                              &= 8 \\\\
+b                                  &= 8 - a \\\\
+2a + c                             &= 15 \\\\
+a                                  &= \dfrac {15 - c} {2}
 \end{aligned}
 $
 
-The cost that Fed paid for 2 burger(a) and drink(c) & = $\pounds 15$ 
-
-$
-\begin{aligned} 
-2a + c &= 15 \\\\
-a      &= \dfrac {15 - c} {2} 
-\end{aligned}
-$
-
-The cost that Jo paid for burger(a) and drink(c) & = $\pounds 8$
+Using the two equations above we get,
 
 $
 \begin{aligned} 
@@ -2746,26 +2764,37 @@ a                   &= 8 - c \\\\
 \dfrac {15 - c} {2} &= 8 - c \\\\
 15 - c              &= 16 - 2c \\\\
 2c - c              &= 16 - 15 \\\\
-c                   &= 1 \\\\
-a                   &= 8 - c \\\\
-a                   &= 8 - 1 \\\\
-a                   &= 7
+c                   &= 1
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2a + c                             &= 15 \\\\
+2a + 1                             &= 15 \\\\
+2a                                 &= 15 - 1 \\\\
+a                                  &= \dfrac {14} {2} \\\\
+a                                  &= 7
 \end{aligned}
 $
 
 $
 \begin{aligned} 
-b   &= 8 - 7 \\\\
-b   &= 1 
+a + b &= 8 \\\\
+a + 7 &= 8 \\\\
+b     &= 8 - 7 \\\\
+b     &= 1 
 \end{aligned}
 $
+
+The price of burger $= \pounds 7$, price of chips $= \pounds 1$, price of drink $= \pounds 1$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$7, 1, 1$
+$\pounds 7,\pounds 1,\pounds 1$
 
 </div>
 </div>
@@ -2774,7 +2803,7 @@ $7, 1, 1$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

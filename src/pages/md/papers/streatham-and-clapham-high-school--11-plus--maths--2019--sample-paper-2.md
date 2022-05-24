@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>Streatham and Clapham High School</h1>
@@ -2204,7 +2204,7 @@ $190$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>698B11F8-9733-47E3-A64E-683A3E3D6D13</p>
 </div>
@@ -2231,24 +2231,42 @@ Which of these is not part of the sequence?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let's find the difference between the consecutive terms of the sequence.
 
-</div>
-<div class='working'>
+The difference between the terms is $5$. Hence, the sequence would be:
 
-TODOWORKING
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+1)}} 
+&&  \footnotesize{\maroonC{(+2)}} 
+&&  \footnotesize{\maroonC{(+3)}}  
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+12)}}
+&&  \footnotesize{\maroonC{(+24)}}  
+&&  \footnotesize{\maroonC{(+48)}}  \\
+1,  &&    2,  &&  \ldots,  &&   \ldots,  &&   \ldots   && \ldots   &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First  number}       &= 6 \\\\
+\text{Second  number}      &= 12 \\\\
+\text{third  number}       &= 24 \\\\
+\text{fourth  number}      &= 48 \\\\
+\text{fifth  number}       &= \bold{96} \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>D</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$96$
 
 </div>
 </div>
@@ -2257,12 +2275,12 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>F25E82C3-2612-4DD6-9E94-BBA4771C38C6</p>
 </div>
@@ -2290,24 +2308,27 @@ What is the difference between the smallest $3$-digit number and the largest  $4
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+The largest $4$-digit number $= 9999$
 
-TODOWORKING
+the smallest $3$-digit number $= 100$
+
+the difference between the smallest $3$-digit number and the largest  $4$-digit number
+
+$ 9999 - 100$
+
+$9899$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>E</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$9899$
 
 </div>
 </div>
@@ -2316,7 +2337,7 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -2379,7 +2400,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>A2279230-AADE-4793-B27A-4810B6805DE7</p>
 </div>
@@ -2407,24 +2428,51 @@ What is the  perimeter of the other rectangle?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+\text{Perimeter of the square} &=  28 \ \text{cm} \\\\
+4\text{s}                      &= 28 \ \text{cm} \\\\
+\text{s}                       &= \dfrac {28}{4} \\\\ 
+\text{s}                       &= \dfrac {4 \time 7}{4} \\\\ 
+\text{s}                       &= \dfrac {\cancel 4 \time 7}{\cancel 4} \\\\
+\text{s}                       &= 7  \ \text{cm}
+\end{aligned}
+$
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Perimeter of first rectangle} &=  16 \ \text{cm} \\\\
+2 \times (\text{l} +   \text{b} )   &= 16 \ \text{cm} \\\\
+2 \times (\text{7} +   \text{b} )   &= 16 \\\\
+\text{7} +  \text{b}                &= \dfrac {16}{2} \\\\ 
+\text{7} +  \text{b}                &= \dfrac {2 \times 8}{2} \\\\ 
+\text{7} +  \text{b}                &= \dfrac {\cancel 2 \time 8}{\cancel 2} \\\\
+\text{7} +  \text{b}                &= 8 \\\\
+\text{b}                            &= 8 - 7 \\\\
+\text{b}                            &= 1 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Perimeter of second rectangle} &=  2 \times (\text{l} +   \text{b} ) \\\\
+                                     &=  2 \times (7+6) \\\\
+                                     &=  2 \times 13 \\\\
+                                     &=  26 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>A</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$26 \ \text{cm}$
 
 </div>
 </div>
@@ -2433,12 +2481,12 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>08FFB9EF-BDF0-49DC-A1FB-6B32890EE987</p>
 </div>
@@ -2466,24 +2514,19 @@ Which letter is on the face opposite $M$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+After assuming a cube , and pointing side we get that the opposite side of $M$ is $U$.
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>D</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$U$
 
 </div>
 </div>
@@ -2492,7 +2535,7 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -2504,10 +2547,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tnumber
-</li>
-<li>
-talgebra
+tinfer
 </li>
 </ul>
 </div>

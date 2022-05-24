@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-g1"
 title: "Topic - Unitprompt - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -891,6 +891,352 @@ $5000$
 </ul>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>ADEAD8D0-2747-44BF-901C-F26BADA4C02C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Choose one of the following units to complete each statement below.
+
+$\text{km} \quad \text{m} \quad \text{cm} \quad \text{mm} \quad \text{l} \quad \text{ml}$
+
+Mandy's thumb is approximately $50 \ldots$ long.
+
+A glass could contain $250 \ldots$ of orange juice.
+
+A house could be $7.5 \ldots$ tall.
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {mm},\text {ml}, \text {m}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {mm},\text {ml}, \text {m}$ 
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down, in grams, the masses represented by the arrows on these scales. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 10 \text {g} \\\\
+\text {number of divisions in an interval}      &= 4 \\\\
+\text {mass represented by a division}          &= \dfrac {10} {4} \\\\
+                                                &= 2.5 \text {g} \\\\
+\text {division at which the arrow is pointing} &= 2 \\\\
+\text {mass represented by the arrow}           &= \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
+                                                &= {2 \times 2.5 } \\\\
+                                                &= 5 \text {g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \ \text {g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 25 \text {g} \\\\
+\text {number of divisions in an interval}      &= 5 \\\\
+\text {mass represented by a division}          &= \dfrac {25} {5} \\\\
+                                                &= 5 \text {g} \\\\
+\text {division at which the arrow is pointing} &= \text {first division after 225} \\\\
+\text {mass represented by the arrow}           &= 225 + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
+                                                &= 225 + {1 \times 5 } \\\\
+                                                &= 230 \text {g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$230 \ \text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 1 \text {kg} \\\\
+\text {number of divisions in an interval}      &= 5 \\\\
+\text {mass represented by a division}          &= \dfrac {1} {5} \\\\
+                                                &= 0.2 \text {kg} \\\\
+\text {division at which the arrow is pointing} &= 2 \\\\
+\text {mass represented by the arrow}           &= 2 \text {kg} + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
+                                                &= 2 + {2 \times 0.2 } \\\\
+                                                &= 2.4 \ \text {kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.4 \ \text {kg}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>815D7E74-0B4C-4E99-99F9-117582F86F67</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You are told that $1 \ \text{inch} = 2.5 \ \text{centimetres}$
+
+![missing image](/papers/missing_image.svg)
+
+Use this information to write:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7 \ \text{inches}$ in centimetres
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 \times 2.5 \\\\
+&= 17.5 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17.5 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$70  \ \text{inches}$ in metres
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 70 \times 2.5 \ \text {cm} \\\\
+&= 70 \times \dfrac {2.5} {100} \ \text {m} \\\\
+&= 70 \times 0.025 \\\\
+&= 0.175 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.175 \ \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>

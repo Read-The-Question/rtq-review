@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-red"
 title: "Topic - Algebra - Red"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -709,6 +709,230 @@ $14, 12$
 </div>
 <div class='rag'>
 <p>rag_np_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>0EE87929-F2CC-4426-8FA5-C13CAE3A2777</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tnumber
+</li>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bert and Chrissy are very good at maths and enjoy 'think of a number problems'.
+
+Bert asks Chrissy to think of a number, double it and add $5$.
+
+She says that the result is $33$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What was the number she thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Chrissy think of $=a$,
+
+$
+\begin{aligned}
+2a + 5 &= 33 \\\\
+2a     &= 33 - 5 \\\\
+2a     &= 28 \\\\
+a      &= \dfrac {28} {2} \\\\
+a      &= \dfrac {14 \times 2} {2} \\\\
+a      &= \dfrac {14 \times \cancel {2} } {\cancel {2} } \\\\
+a      &= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Chrissy wants Bert to guess her favourite number.
+
+She asks him to write down $5$ numbers.
+
+He chooses $4 \quad 7 \quad 2 \quad 19$ and $8$
+
+Chrissy looks at the numbers and tells him that her favourite number is equal to the mean of the numbers, minus $7$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the mean of Bert's numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Mean} &= \dfrac { \text {sum of all the numbers} } { \text {total numbers} } \\\\
+             &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
+             &= \dfrac {40} {5} \\\\
+             &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is Chrissy's favourite number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Chrissy's favourite number} &= \text{mean-7} \\\\
+                                   &= 8 - 7 \\\\
+                                   &= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle any of the words below which describe Chrissy's favourite number.
+
+**prime number** $\quad$  **square number** $\quad$  **cube number**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {square}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {square}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

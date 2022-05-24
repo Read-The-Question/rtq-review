@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-pr"
 title: "Topic - Probability - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -86,110 +86,6 @@ $\text {Fairly unlikely}$
 <div class='answer'>
 
 $\text {Fairly unlikely}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>675DE6CE-81D9-4032-994A-7C24719EF132</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many pens should I add to the original pencil case so that it is equally likely to select a pen or a pencil?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-I will have equal outcome if both pen and pencils are in equal amount in the pencil case. So,
-
-$
-\begin {aligned}
-&= 6 - 2 \\\\
-&= 4
-\end {aligned}
-$
-
-I should add $4$ pens to the original pencil case so that it is equally likely to select a pen or a pencil.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>EEB637D9-2AC4-48EF-8148-7DCC42FD4518</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This diagram shows the reults of a class survey concerning pets.
-
-![missing table](/papers/missing_table.svg)
-
-How many children have at least one pet?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Total girls in the class}               &= 30 - 16 \\\\
-                                               &= 14 \\\\
-\text {Girls that have atleast one pet}        &= 14 - 8 \\\\
-                                               &= 6 \\\\
-\text {Children that have atleast one pet}     &= 11 + 6 \\\\
-                                               &= 17
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17$
 
 </div>
 </div>
@@ -530,54 +426,6 @@ $\dfrac {2} {15}$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>E50AC62E-2A13-48E0-95A5-375ED2BF99DD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a bag there are $5$ red counters, $2$ blue counters, $7$ green counters and $1$ yellow counter.
-
-What is the probability of picking a green counter?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {7} {5 + 2 + 7 + 1} \\\\
-                    &= \dfrac {7} {15}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {7} {15}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>869FD852-D1F1-49AF-B701-45D924CC185A</p>
 </div>
 <div class='topics'>
@@ -785,6 +633,59 @@ $18$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>050EE19D-DD2B-4EAE-B94A-09B3971155EF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars are blue. How many cares are there that are neither red nor blue?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Cars (Neither blue nor red)}            &= \text{Total Cars - Red Cars - Blue Cars}  \\\\
+                                              &= 60 - \dfrac {5} {12} \times 60 - 20\% \times 60 \\\\
+                                              &= 60 - \dfrac {5 \times 60} {12} - \dfrac {20 \times 60} {100} \\\\
+                                              &= 60 - \dfrac {5 \times 5 \times 12} {12} -  \dfrac {20 \times 5 \times 12} {20 \times 5} \\\\
+                                              &= 60 - \dfrac {5 \times 5 \times \cancel{12}} {\cancel{12}}  -\dfrac {\cancel{20} \times \cancel{5} \times 12} {\cancel{20} \times \cancel{5}} \\\\
+                                              &= 60 - 5 \times 5 - 12 \\\\
+                                              &= 60 - 25 - 12 \\\\
+                                              &= 23
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
@@ -1087,9 +988,10 @@ What is the total value of all the coins in her bag?
 
 $
 \begin{aligned}
-\text{Total value} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
-                   &= 50 + 40 + 5 + 12 \\\\
-                   &= \pounds 107
+\text {Total value of all coins} &= \text {one fifty pence coin} + \text {two twenty pence coin} + \text {one five pence coin} + \text {Remaining two pence coin} \\\\
+\text {Total value of all coins} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
+                                 &= 50 + 40 + 5 + 12 \\\\
+                                 &= \pounds 107
 \end{aligned}
 $
 
@@ -1121,9 +1023,12 @@ What percentage of the coins are $20 \ \text{pence}$ coins?
 
 $
 \begin{aligned}
-&= \dfrac {40} {107} \times 100 \\\\
-&= \dfrac {40 \times 100} {107} \\\\ 
-&= 37.38 \%
+\text {percentage of 20 pence coins} &= \dfrac {\text {total number of 20 pence coins}} {\text {total number of coins}} \times 100 \\\\
+                                     &= \dfrac {2} {10} \times 100 \\\\
+                                     &= \dfrac {2 \times 100} {10} \\\\
+                                     &= \dfrac {2 \times 10 \cancel {0}} {1 \cancel {0}} \\\\
+                                     &= 2 \times 10 \\\\
+                                     &= 20 \%
 \end{aligned}
 $
 
@@ -1132,7 +1037,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$37.38 \%$
+$20 \%$
 
 </div>
 </div>

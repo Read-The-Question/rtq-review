@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-g1"
 title: "Owner - Nitin Joshi - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2189,6 +2189,355 @@ $19.41 \%$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>220A15B1-DE6B-4182-AB32-E904EA0D4428</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ola is planning to complete a sponsored run for Red Nose Day.
+
+He collected a number of different promises, from his family, on his sponsor form.
+
+![missing table](/papers/missing_table.svg)
+
+He hopes to complete *either* $8$ or $10 \ \text{miles}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If Ola completes $8 \ \text{miles}$, how much money will he collect from Dad?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the table,
+
+$
+\begin{aligned}
+\text {Money he collects from dad}    &= \pounds 5 + 8 \times 25 \ \text {p} \\\\
+                                      &= \pounds 5 + 8 \times \pounds \dfrac {25} {100} \\\\
+                                      &= 5 + \dfrac {8 \times 25} {100} \\\\
+                                      &= 5 + \dfrac {2 \times 4 \times 25} {4 \times 25} \\\\
+                                      &= 5 + \dfrac {2 \times \cancel {4} \times \cancel {25}} {\cancel {4} \times \cancel {25}} \\\\
+                                      &= 5 + 2 \\\\
+                                      &= \pounds 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If Ola completes $8 \ \text{miles}$, how much will he collect from Grandad?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the table,
+
+$
+\begin{aligned}
+\text {Money he collects from grandad}    &=  10 \ \text {p} + 20 \ \text {p} + 30 \ \text {p} + 40 \ \text {p} + 50 \ \text {p} + 60 \ \text {p} + 70 \ \text {p} + 80 \ \text {p} \\\\
+                                          &= \pounds \dfrac {10} {100} + \pounds \dfrac {20} {100} + \pounds \dfrac {30} {100} + \pounds \dfrac {40} {100} + \pounds \dfrac {50} {100} + \pounds \dfrac {60} {100} + \pounds \dfrac {70} {100} + \pounds \dfrac {80} {100} \\\\
+                                          &= \dfrac {10 + 20 + 30 + 40 + 50 + 60 + 70 + 80} {100} \\\\
+                                          &= \dfrac {360} {100} \\\\
+                                          &= \pounds 3.60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If Ola completes $8 \ \text{miles}$, how much money will he collect from everyone?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the table,
+
+$
+\begin{aligned}
+\text {Total Money he collects from everyone}    &= \pounds 7 + \pounds 3.60 + 50 \ \text {p} \times 8 + \pounds 10 + \pounds 15 \\\\
+                                                 &= \pounds 7 + \pounds 3.60 + \pounds \dfrac {50} {100} \times 8 + \pounds 10 + \pounds 15 \\\\
+                                                 &= 7 + 3.60 + \dfrac {50 \times 8} {100} + 10 + 15 \\\\
+                                                 &= 10.60 + \dfrac {50 \times 2 \times 4} {50 \times 2} + 25 \\\\
+                                                 &= 10.60 + \dfrac {\cancel {50} \times \cancel {2} \times 4} {\cancel {50} \times \cancel {2}} + 25 \\\\
+                                                 &= 10.60 + 4 + 25 \\\\
+                                                 &= \pounds 39.60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 39.60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much **extra** will Ola collect, in total, if he completes the extra $2 \ \text{miles}$ and runs $10 \ \text{miles}$ (rather than $8 \ \text{miles}$)?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the table,
+
+$
+\begin{aligned}
+\text {Money he collects for running 10 miles}    &= 7 + 1 + 3.60 + 0.90 + 1 + 4 + 1 + 10 + 15 \\\\
+                                                  &= \pounds 43.50 \\\\
+\text {Extra money he earned}                     &= 43.50 - 39.60 \\\\
+                                                  &= \pounds 3.90
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.90$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>52153412-2F82-4D52-970C-B08AEBF2A3CC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sasha is selling greetings cards and gifts for Mothers' Day.
+
+![missing table](/papers/missing_table.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the total cot of a large card & envelope, candles and a small chocolate selection?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total cost}    &= 2.59 + 5.49 + 1.49 \\\\
+                      &= \pounds 9.57
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 9.57$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Change needed}    &= 10 - (1.79 + 3.65) \\\\
+                         &= \pounds 4.56
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.56$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sasha is asked for an itemised receipt for a bill of $\pounds 7.73$. 
+He knew that three items, bought tor=gether, have that total price.
+
+Which three prices total $\pounds 7.73$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2.59 + 1.49 + 3.65 \\\\
+&= \pounds 7.73
+\end{aligned}
+$
+
+$2.59, 1.49, 3.65$ totals to $\pounds 7.73$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.59, 1.49, 3.65$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>9404BF6E-27FE-4D46-8312-79851AC7B7FA</p>
 </div>
 <div class='topics'>
@@ -2301,6 +2650,242 @@ $2.3051$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>E360A432-F135-4436-A055-D63323CCC9EF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpower
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which is bigger:
+
+$3^4$ or $4^3$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the first value.
+
+$
+\begin{aligned}
+&= 3 ^ 4 \\\\
+&= 3 \times 3 \times 3 \times 3 \\\\
+&= 9 \times 9 \\\\
+&= 81
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 4 ^ 3 \\\\
+&= 4 \times 4 \times 4 \\\\
+&= 16 \times 4 \\\\
+&= 64
+\end{aligned}
+$
+
+Using the calculation above,
+
+$3 ^ 4$ is bigger than $4 ^ 3$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 ^ 4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the result of:
+
+$4^3 - 3^4 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4 ^ 3 - 3 ^ 4 \\\\
+&= (4 \times 4 \times 4) - (3 \times 3 \times 3 \times 3) \\\\
+&= (16 \times 4) - (9 \times 9) \\\\
+&= 64 - 81 \\\\
+&= -17
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-17$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>C4E7B763-E07F-498F-A6A5-88CF6EA33FBB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A Formula $1$ race is $96$ laps of the track. A driver averages $1 \ \text{minute} \ 20 \ \text{seconds}$ per lap. How long is his race in hours and minutes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {The race lasts for}  &= 96 \times (1 \ \text{minute} \ 20 \ \text{seconds} ) \\\\
+                            &= 96 \times (1 \ \text{minute} \ \dfrac {20} {60} \ \text{minute} ) \\\\
+                            &= 96 \times (\dfrac {1 \times 60} {1 \times 60} + \dfrac {20} {60} ) \\\\
+                            &= 96 \times (\dfrac {60} {60} + \dfrac {20} {60} ) \\\\
+                            &= 96 \times \dfrac {60 + 20} {60} \\\\
+                            &= 96 \times \dfrac {80} {60} \\\\
+                            &= \dfrac {96 \times 80} {60} \\\\
+                            &= \dfrac {32 \times 3 \times 20 \times 4} {3 \times 20} \\\\
+                            &= \dfrac {32 \times \cancel {3} \times \cancel {20} \times 4} {\cancel {3} \times \cancel {20}} \\\\
+                            &= 32 \times 4 \\\\
+                            &= 128 \ \text {minutes} \\\\
+                            &= \dfrac {128} {60} \ \text {hours} \\\\ 
+                            &= 2 \ \text {hours} \ 8 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {hour} \ 8 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>0A3E5DD3-7A11-483C-A187-0DA57B1DD81B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many people can have four biscuits each?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {The number of people that can have four biscuit}     &= \dfrac {54} {4} \\\\
+                                                            &= 13.5
+\end{aligned}
+$
+
+$13$ people can have four biscuits each.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>499AEBD4-DCE6-4F71-A016-875B17753D13</p>
 </div>
 <div class='topics'>
@@ -2331,6 +2916,58 @@ $
 <div class='answer'>
 
 $821$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>C2C2B5E4-3444-4E62-A460-C54A7D2EB3FB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many right angles are there in two complete turns?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+One complete turn $= 360 \degree$
+
+One right angle $=90 \degree$
+
+$
+\begin {aligned}
+\text {Total right angles in two turns}     &= \dfrac {360 \times 2} {90} \\\\
+                                            &= \dfrac {90 \times 4 \times 2} {90} \\\\
+                                            &= \dfrac {\cancel {90} \times 4 \times 2} {\cancel {90}} \\\\
+                                            &= 4 \times 2 \\\\
+                                            &= 8
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
 
 </div>
 </div>
@@ -2428,6 +3065,110 @@ $
 <div class='answer'>
 
 $7{:}35 \ \text{a.m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>675DE6CE-81D9-4032-994A-7C24719EF132</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many pens should I add to the original pencil case so that it is equally likely to select a pen or a pencil?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+I will have equal outcome if both pen and pencils are in equal amount in the pencil case. So,
+
+$
+\begin {aligned}
+&= 6 - 2 \\\\
+&= 4
+\end {aligned}
+$
+
+I should add $4$ pens to the original pencil case so that it is equally likely to select a pen or a pencil.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>EEB637D9-2AC4-48EF-8148-7DCC42FD4518</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This diagram shows the reults of a class survey concerning pets.
+
+![missing table](/papers/missing_table.svg)
+
+How many children have at least one pet?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Total girls in the class}               &= 30 - 16 \\\\
+                                               &= 14 \\\\
+\text {Girls that have atleast one pet}        &= 14 - 8 \\\\
+                                               &= 6 \\\\
+\text {Children that have atleast one pet}     &= 11 + 6 \\\\
+                                               &= 17
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17$
 
 </div>
 </div>
@@ -2702,6 +3443,55 @@ $16$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>1A2708F9-7326-46F8-A5AE-8365E91E007C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Give a decimal number lying between $7.2$ and $7.3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {7.2 + 7.3} {2} \\\\
+&= \dfrac {14.5} {2} \\\\
+&= 7.25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.25$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>7DF50E0E-627E-4080-A886-C2724978A151</p>
 </div>
 <div class='topics'>
@@ -2780,6 +3570,105 @@ $
 <div class='answer'>
 
 $48 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>03945F7F-BD1D-48F8-8123-918A9227D8EC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\pounds 17.20 \div 10$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \pounds 17.20 \div 10 \\\\
+&= \dfrac {17.20} {10} \\\\
+&= \pounds 1.720
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.720$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>D44610EA-AB8D-4FD4-B65F-78A4B633E925</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+List all the factors of $36$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \times 36 &= 36 \\\\
+2 \times 18 &= 36 \\\\
+3 \times 12 &= 36 \\\\
+4 \times 9  &= 36 \\\\
+6 \times 6  &= 36
+\end{aligned}
+$
+
+The factors of 36 are $1, 2, 3, 4, 6, 9, 12, 18$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1, 2, 3, 4, 6, 9, 12, 18$
 
 </div>
 </div>
@@ -3999,6 +4888,58 @@ $7$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>9A2CE487-4367-455E-A627-FFFE0C8FF292</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tclock
+</li>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Through what angles does the hour hand of a clock rotate between $8 \ \text{am}$ and $9{:}30 \ \text{am}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The hand of a clock moves by $30 \degree$ for every one unit covered.
+
+So the hour hand move by $30 \degree$ between $8 \ \text{am}$ and $9{:}00 \ \text{am}$ and another $15 \degree$ for $9{:}30 \ \text{am}$.
+
+$
+\begin {aligned}
+\text {The hour hand moved by}  &= 30 + 15 \\\\
+                                &= 45 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>C9499207-115B-4305-B2DE-454D607FFECD</p>
 </div>
 <div class='topics'>
@@ -4834,6 +5775,58 @@ Max $7$ tickets can be bought with $\pounds 100$.
 <div class='answer'>
 
 $7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tclock
+</li>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Through what angles does the hour hand of a clock rotate between $6 \ \text{am}$ and $11{:}30 \ \text{am}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The hand of a clock moves by $30 \degree$ for every one unit covered.
+
+So the hour hand move by $30 \times 5 = 150 \degree$ between $6 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
+
+$
+\begin {aligned}
+\text {The hour hand moved by}  &= 150 + 15 \\\\
+                                &= 165 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$165 \degree$
 
 </div>
 </div>
@@ -5736,6 +6729,54 @@ $7$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>E50AC62E-2A13-48E0-95A5-375ED2BF99DD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a bag there are $5$ red counters, $2$ blue counters, $7$ green counters and $1$ yellow counter.
+
+What is the probability of picking a green counter?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {7} {5 + 2 + 7 + 1} \\\\
+                    &= \dfrac {7} {15}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {15}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>58963C70-4BF5-4BBC-9722-C4DB92F81077</p>
 </div>
 <div class='topics'>
@@ -5870,6 +6911,60 @@ $
 <div class='answer'>
 
 $137.5 \ \text {g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>14F5E25E-982B-4BD0-99BF-68170A5DA82C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tclock
+</li>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What angle do the hours of a clock make between each other at $7{:}30$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total angles for the complete round in a clock $= 360 \degree$.
+
+$
+\begin {aligned}
+\text {Angle between every hour}    &= \dfrac {360} {12} \\\\
+                                    &= \dfrac {30 \times 12} {12} \\\\
+                                    &= \dfrac {30 \times \cancel {12}} {12} \\\\
+                                    &= 30 \degree
+\end {aligned}
+$
+
+The angle the hours of a clock make between each other at $7{:}30$ is $30 \degree$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \degree$
 
 </div>
 </div>
@@ -6499,6 +7594,58 @@ $933  \ \text{minutes}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>4FAE2ECB-8394-4207-9FAD-04BFD8BDE179</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tclock
+</li>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Through what angles does the hour hand of a clock rotate between $3 \ \text{am}$ and $11{:}30 \ \text{am}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The hand of a clock moves by $30 \degree$ for every one unit covered.
+
+So the hour hand move by $30 \times 8 = 240 \degree$ between $3 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
+
+$
+\begin {aligned}
+\text {The hour hand moved by}  &= 240 + 15 \\\\
+                                &= 255 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$255 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>227E8AEF-0B10-412A-8725-7A4D3CA82AE9</p>
 </div>
 <div class='topics'>
@@ -7020,6 +8167,56 @@ $
 <div class='answer'>
 
 $81  \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>4817F67D-F1F2-40D0-8436-A069F847B9C1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The same coach takes $3 \ \text{h}$ to get to Bristol, a journey of $120 \ \text{miles}$. What is its average speed in miles per hour?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Average speed}   &= \dfrac {120} {3} \\\\
+                        &= \dfrac {40 \times 3} {3} \\\\
+                        &= \dfrac {40 \times \cancel {3}} {\cancel {3}} \\\\
+                        &= 40 \ \text {miles per hour}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text {miles per hour}$
 
 </div>
 </div>
@@ -7818,6 +9015,205 @@ $86400 \ \text {seconds}$
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>EAC133FF-F273-440A-9716-5A962E176B01</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Janice wants to buy as many cookies as she can afford with a $\pounds 10$ note. Each cookie costs $70 \text{p}$. 
+How much change will she receive? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total cookies she can buy}   &= \dfrac {\pounds 10} {70 \ \text {p}} \\\\
+                                    &= \dfrac {10 \times 100 \ \text {p}} {70 \ \text {p}} \\\\
+                                    &= \dfrac {1000} {70} \\\\
+                                    &= 14.28
+\end {aligned}
+$
+
+She can buy $14$ cookies with $\pounds 10$ note.
+
+$
+\begin {aligned}
+\text {Change received}     &= \pounds 10 - 14 \times 70 \ \text {p} \\\\
+                            &= 10 \times 100 \ \text {p} - 980 \ \text {p} \\\\
+                            &= 1000 - 980 \\\\
+                            &= 20 \ \text {p}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text {p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>D9679475-899C-4D1A-87C4-D5CC0437D309</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The full price of a car is $\pounds 12000$. The car is in a sale and its price has been reduced by $35\%$. 
+
+Monique is saving up to buy the car. She already has $\pounds 7350$. How much more money does she need to buy the car? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If the price is reduced by $35 \%$, then the sale price will be $100 - 35 = 65 \%$ of the original price. Using that we get,
+
+$
+\begin {aligned}
+\text {New price}   &= 65 \% \ \text {of} \ \pounds 12000 \\\\
+                    &= \dfrac {65} {100} \times 12000 \\\\
+                    &= \dfrac {65 \times 12000} {100} \\\\
+                    &= \dfrac {65 \times 120 \cancel {00}} {1 \cancel {00}} \\\\
+                    &= 65 \times 120 \\\\
+                    &= \pounds 7800
+\end {aligned}
+$
+
+The new price for the car $= 7800$.
+
+$
+\begin {aligned}
+\text {Money she needs}   &= 7800 - 7350 \\\\
+                          &= \pounds 450
+\end {aligned}
+$
+
+Monique needs $\pounds 450$ more to buy the car.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 450$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>BA1D755E-247B-459D-BA62-7EACF068C6A6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$120$ pupils are sitting an exam. The pupils can choose whether to write in pencil or pen.
+
+Two-fifths of the pupils are boys.
+
+Three-quarters of the boys are writing in pencil.
+
+One-third of the girls are writing in pen.
+
+How many pupils are writing in pencil?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of boys in the class}             &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
+                                                &= \dfrac {2 \times 120} {5} \\\\
+                                                &= \dfrac {2 \times 24 \times 5} {5} \\\\
+                                                &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
+                                                &= 2 \times 24 \\\\
+                                                &= 48 \\\\
+\text {Number of girls in the class}            &= 120 - 48 \\\\
+                                                &= 72
+\end{aligned}
+$
+
+If One-third of the girls are writing with pen, then the number of girls writing with pencil will be $1 - \dfrac {1} {3} = \dfrac {2} {3}$. Using that we get,
+
+$
+\begin{aligned}
+\text {Number of pupils writing with pencil}   &= \dfrac {3} {4} \times 48 + \dfrac {2} {3} \times 72 \\\\
+                                               &= \dfrac {3 \times 48} {4} + \dfrac {2 \times 72} {3} \\\\
+                                               &= \dfrac {3 \times 12 \times 4} {4} + \dfrac {2 \times 24 \times 3} {3} \\\\
+                                               &= \dfrac {3 \times 12 \times \cancel {4}} {\cancel {4}} + \dfrac {2 \times 24 \times \cancel {3}} {\cancel {3}} \\\\
+                                               &= 3 \times 12 + 2 \times 24 \\\\
+                                               &= 36 + 48 \\\\
+                                               &= 84
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$84$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>

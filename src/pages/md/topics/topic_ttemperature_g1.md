@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-g1"
 title: "Topic - Temperature - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -680,6 +680,55 @@ $- 8 \degree C$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>3EA2D0FB-002E-4716-8D5D-0013DC93B64D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Over the Christmas holidays this year the maximum temperature at a teacher’s house was $7.20$ degrees Celsius. 
+
+The temperature has now **fallen** by $3.15$ degrees, what is the temperature?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Current temparature}  &= 7.20 \degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
+                            &= 4.05 \degree \ \text{C}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.05 \degree \ \text{C}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

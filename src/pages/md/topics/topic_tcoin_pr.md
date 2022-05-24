@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-pr"
 title: "Topic - Coin - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -540,9 +540,10 @@ What is the total value of all the coins in her bag?
 
 $
 \begin{aligned}
-\text{Total value} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
-                   &= 50 + 40 + 5 + 12 \\\\
-                   &= \pounds 107
+\text {Total value of all coins} &= \text {one fifty pence coin} + \text {two twenty pence coin} + \text {one five pence coin} + \text {Remaining two pence coin} \\\\
+\text {Total value of all coins} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
+                                 &= 50 + 40 + 5 + 12 \\\\
+                                 &= \pounds 107
 \end{aligned}
 $
 
@@ -574,9 +575,12 @@ What percentage of the coins are $20 \ \text{pence}$ coins?
 
 $
 \begin{aligned}
-&= \dfrac {40} {107} \times 100 \\\\
-&= \dfrac {40 \times 100} {107} \\\\ 
-&= 37.38 \%
+\text {percentage of 20 pence coins} &= \dfrac {\text {total number of 20 pence coins}} {\text {total number of coins}} \times 100 \\\\
+                                     &= \dfrac {2} {10} \times 100 \\\\
+                                     &= \dfrac {2 \times 100} {10} \\\\
+                                     &= \dfrac {2 \times 10 \cancel {0}} {1 \cancel {0}} \\\\
+                                     &= 2 \times 10 \\\\
+                                     &= 20 \%
 \end{aligned}
 $
 
@@ -585,7 +589,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$37.38 \%$
+$20 \%$
 
 </div>
 </div>
@@ -715,6 +719,138 @@ $\text {Impossible}$
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>62371EC4-9B97-4727-A38F-16A5F80DE4BE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tcoin
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I only have five coins in my purse. They are 
+$1 \text{p}, 2 \text{p}, 5 \text{p}, 10 \text{p}$ and $20 \text{p}$. It 
+is not possible to make exactly $19 \text{p}$ with these coins.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the smallest amount that can not be made using my coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4 \text{p}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the two other amounts, less than $20 \text{p}$, which I cannot make.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9 \text{p}, \ 14 \text{p}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \text{p}, \ 14 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The largest amount of money that can be made using these coins
+ is $38 \text{p}$. Find the largest amount of money less 
+ than $38 \text{p}$ which can not be made using these coins.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$34 \text{p}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
 </div>
 </div>
 </li>

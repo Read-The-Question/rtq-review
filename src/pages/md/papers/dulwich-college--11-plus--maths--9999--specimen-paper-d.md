@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-d"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper D"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>Dulwich College</h1>
@@ -155,7 +155,7 @@ $2737$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>9E2D3610-906A-449B-82A4-3DB6E141D0E4</p>
 </div>
@@ -198,7 +198,7 @@ $86$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -1108,7 +1108,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>88582ABF-B271-4BB1-9E51-A3EA11DB76AD</p>
 </div>
@@ -1129,7 +1129,20 @@ $9 \qquad 55 \qquad 81 \qquad 13 \qquad 21$
 <div class='workings'>
 <div class='working'>
 
-$9, 81$
+Since,
+
+$
+\begin{aligned}
+9   &= 3 \times 3 \\\\
+    &= 3^2 \\\\
+81  &= 9 \times 9 \\\\
+    &= 9^2 \\\\
+\end{aligned}
+$
+
+Therefore,
+
+$\boxed{\green{9}} \qquad  55 \qquad   \boxed{\green{81}} \qquad   13 \qquad   21$
 
 </div>
 </div>
@@ -1145,7 +1158,7 @@ $9, 81$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -1263,7 +1276,7 @@ $0.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
 </div>
@@ -1311,14 +1324,19 @@ Calculate out how long the journey takes in hours and minutes.
 <div class='workings'>
 <div class='working'>
 
-$4 \ \text{hours} 33 \ \text{minutes}$
+$
+\begin{aligned}
+\text {Time taken in the journey}   &= 10 {:} 17 \ \text {pm} - 5 {:} 44 \ \text {am} \\\\
+                                    &= 7 \ \text{hours} \ 27 \ \text{minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4 \ \text{hours} 33 \ \text{minutes}$
+$7 \ \text{hours} \ 27 \ \text{minutes}$
 
 </div>
 </div>
@@ -1341,13 +1359,15 @@ Calculate the approximate speed of the aeroplane in kilometres per hour.
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Speed} &= \dfrac {\text{Distance} } { \text{Time} } \\\\
-             &= \dfrac {5600} {7} \\\\
-             &= \dfrac {800 \times 7} {7} \\\\
-             &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
-             &= 800 \ \text{kilometres per hour}
+\text {Speed of the aeroplane}  &= \dfrac {\text {Distance} } { \text {Time} } \\\\
+                                &= \dfrac {5600} {7} \\\\
+                                &= \dfrac {800 \times 7} {7} \\\\
+                                &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
+                                &= 800 \ \text {kilometres per hour}
 \end{aligned}
 $
 
@@ -1368,12 +1388,12 @@ $800 \ \text{kilometres per hour}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
 </div>
@@ -1399,25 +1419,30 @@ Note: all angles are right angles.
 <div class='workings'>
 <div class='working'>
 
-Area
+Lets divide the given shape into two rectangles, A and B
+
+Length of rectangle A $= 5 \ \text {cm}$
+
+Width of rectangle A  $= 14 \ \text {cm}$
+
+Length of rectangle B $= 4 \ \text {cm}$
+
+Width of rectangle B $= 14 - 6 = 8 \ \text {cm}$
 
 $
 \begin{aligned}
-\text {Total Area} &= \text{Area of rectangle 1} + \text{Area of rectangle 2} \\\\
-                   &= 14 \times 5 + (14 - 6) \times 4 \\\\
+\text {Total Area} &= \text {Area of rectangle A} + \text {Area of rectangle B} \\\\
+                   &= (5 \times 14) + (4 \times 8) \\\\
                    &= 70 + 32 \\\\
-                   &= 102 \ \text{cm}^2
+                   &= 102 \ \text {cm}^2
 \end{aligned}
 $
 
-Perimeter
-
 $
 \begin{aligned}
-\text {Total Perimeter} &= \text{Perimeter of whole rectangle } - \text{Perimeter of smaller rectangle} \\\\
-                        &= 2 \times (14 + 9) - (6 + 4) \\\\
-                        &= 46 - 10 \\\\
-                        &= 36 \ \text{cm}
+\text {Total Perimeter} &= \text {Sum of all the sides} \\\\
+                        &= 14 + 5 + 6 + 4 + 8 + 9 \\\\
+                        &= 46 \ \text {cm}
 \end{aligned}
 $
 
@@ -1426,7 +1451,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$102 \ \text{cm}^2, 36 \ \text{cm}$
+$102 \ \text{cm}^2, 46 \ \text{cm}$
 
 </div>
 </div>
@@ -1435,7 +1460,7 @@ $102 \ \text{cm}^2, 36 \ \text{cm}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -1976,7 +2001,7 @@ $32 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>E7E0C2A2-8B04-44D2-977B-6CCDF28C9D80</p>
 </div>
@@ -1996,19 +2021,24 @@ the mean decreases to $11$. Find the number which was included.
 <div class='workings'>
 <div class='working'>
 
-Let take total 7 number as $=a$ and new value as $=b$
+Let take total of 7 numbers as $=a$ and new value as $=b$
+
 $
 \begin{aligned}
 \text{Old mean} &= 12 \\\\
 \dfrac {a} {7}  &= 12 \\\\
-a               &= 84
+a               &= 12 \times 7 \\\\
+a               &= 84 \\\\
 
 \text{New mean}     &= 11 \\\\
 \dfrac {84 + b} {8} &= 11 \\\\
+84 + b              &= 11 \times 8 \\\\
 84 + b              &= 88 \\\\
 b                   &= 88 - 84 \\\\
 b                   &= 4
 \end{aligned}
+
+Therefore, the eigth number $= 4$
 $
 
 </div>
@@ -2025,7 +2055,7 @@ $4$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

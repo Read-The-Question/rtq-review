@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-g1"
 title: "Topic - Statistics - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -238,6 +238,177 @@ $13$
 </ul>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>B650F2F1-1FB6-4F45-872E-045F8838014C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The cost of a bottle of lemonade in four different shops is
+
+$42 \text{p}, 38 \text{p}, 40 \text{p}$ and $36 \text{p}$.
+
+Calculate the mean price of a bottle of lemonade.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {40 + 42 + 38 + 36} {4} \\\\
+&= \dfrac {156} {4} \\\\
+&= \dfrac {39 \times 4} {4} \\\\
+&= \dfrac {39 \times \cancel{4}} {\cancel{4}} \\\\
+&= 39
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$39$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Freshly-squeezed lemonade costs $57 \text{p}$ a bottle.
+
+How much would $13$ bottles of this lemonade cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.57 \times 13 \\\\
+&= \pounds 7.14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7.14$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>2E4B6B46-9C74-48E1-9CCC-D09491A7E79D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the mean of these numbers.
+
+$9 \quad 14 \quad 7 \quad 17 \quad 8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Mean} &= \dfrac {9 + 14 + 7 + 17 + 8} {5} \\\\
+             &= \dfrac {55} {5} \\\\
+             &= \dfrac {11 \times 5} {5} \\\\
+             &= \dfrac {11 \times \cancel{5}} {\cancel{5}} \\\\
+             &= 11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>

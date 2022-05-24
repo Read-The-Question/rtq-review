@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-pr"
 title: "Topic - Speed - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -254,56 +254,6 @@ $3 \ \text {hours} \ 20 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>4817F67D-F1F2-40D0-8436-A069F847B9C1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The same coach takes $3 \ \text{h}$ to get to Bristol, a journey of $120 \ \text{miles}$. What is its average speed in miles per hour?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Average speed}   &= \dfrac {120} {3} \\\\
-                        &= \dfrac {40 \times 3} {3} \\\\
-                        &= \dfrac {40 \times \cancel {3}} {\cancel {3}} \\\\
-                        &= 40 \ \text {miles per hour}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \ \text {miles per hour}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>5E77341D-320F-47AF-AB40-A78DD573EE26</p>
@@ -387,7 +337,8 @@ Keston to Langham;
 
 $
 \begin{aligned}
-&= 26 \ \text{km} - 12 \ \text {km} \\\\
+&= \text {Distance from Josham to Langham} - \text {Distance from Josham to Keston} \\\\ 
+&= 26 \ \text {km} - 12 \ \text {km} \\\\
 &= 14 \ \text {km}
 \end{aligned}
 $
@@ -420,10 +371,11 @@ Langham to Moreton, giving your answer **in metres**.
 
 $
 \begin{aligned}
+&= \text {Distance from Keston to Moreton} - \text {Distance from Keston to Josham} \\\\ 
 &= 23 \ \text {km} - 14 \ \text {km} \\\\
 &= 9 \ \text {km} \\\\
-&= 9 \times 1000 \ \text{m} \\\\
-&= 9000\ \ text{m}
+&= 9 \times 1000 \ \text {m} \\\\
+&= 9000\ \text {m}
 \end{aligned}
 $
 
@@ -432,7 +384,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9000\ \ text{m}$
+$9000\ \text {m}$
 
 </div>
 </div>
@@ -456,20 +408,34 @@ If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey 
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+Speed $= 14 km.p.h$
+
 $
 \begin{aligned}
-\text {time} &= \dfrac {distance} {speed} \\\\
-             &= \dfrac {12 + 23} {14} \\\\
-             &= \dfrac {35} {14} \\\\
-             &= 2 \ \text {hours}, 5 \ \text{minutes} 
+\text {Distance from Josham to Moreton} &= \text {(Josham to Langham)} + \text {(Langham to Moreton)} \\\\
+                                      &= 26 + 9 \\\\
+                                      &= 35 \ \text {km}
 \end{aligned}
+$
+
+Let's find the time tourist will take to complete the journey.
+
+$
+\begin{aligned}
+\text {Time} &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
+             &= \dfrac {35} {14} \\\\
+             &= 2 \ \text {hours}, 30 \ \text {minutes} 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2 \ \text {hours}, 5 \ \text{minutes}$
+$2 \ \text {hours}, 30 \ \text {minutes}$
 
 </div>
 </div>
@@ -479,116 +445,6 @@ $2 \ \text {hours}, 5 \ \text{minutes}$
 </ul>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tspeed
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A sleeper train leaves London at $10{:}17 \ \text{pm}$ and reaches Edinburgh at $5{:}44 \ \text{am}$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate out how long the journey takes in hours and minutes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4 \ \text{hours} 33 \ \text{minutes}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 \ \text{hours} 33 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-An aeroplane takes $7 \ \text{hours}$ to travel from London to New York at a
-constant speed. The distance from London to New York is approximately $5600 \ \text{kilometres}$. 
-Calculate the approximate speed of the aeroplane in kilometres per hour.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Speed} &= \dfrac {\text{Distance} } { \text{Time} } \\\\
-             &= \dfrac {5600} {7} \\\\
-             &= \dfrac {800 \times 7} {7} \\\\
-             &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
-             &= 800 \ \text{kilometres per hour}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$800 \ \text{kilometres per hour}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>

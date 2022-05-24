@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-notstarted"
 title: "Topic - Sequence - Not Started"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10362,64 +10362,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>698B11F8-9733-47E3-A64E-683A3E3D6D13</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The first two terms of a sequence are $1, 2$. 
-Each term after is the sum of all the previous terms in the sequence. 
-Which of these is not part of the sequence?
-
-- $3$
-- $6$
-- $24$
-- $50$
-- $96$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

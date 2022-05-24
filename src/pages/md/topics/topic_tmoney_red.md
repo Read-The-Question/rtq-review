@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-red"
 title: "Topic - Money - Red"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -676,6 +676,204 @@ $\pounds23.95$
 </div>
 <div class='rag'>
 <p>rag_np_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>68CB7B73-86D8-4C13-9AD6-25E68ADB0A8B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$1983$ people buy tickets for a concert.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the value of the $1$ in $1983$? Write your answer in words.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Thousand}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Thousand}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write $1983$ correct to the nearest hundred.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2000$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Each concert ticket costs $\pounds 16$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+How much do $1000$ tickets cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1000} {16} \\\\
+&= \dfrac {120 \times 8} {8 \times 2} \\\\
+&= \dfrac {120 \times cancel{8}} {cancel{8} \times 2} \\\\
+&= \dfrac {60 \times 2} {2} \\\\
+&= \dfrac {60 \times \cancel{2}} {\cancel{2}} \\\\
+&= \pounds 60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Use your answer to part (b) to estimate the total cost of all the tickets sold.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$60 \pounds$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \pounds$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

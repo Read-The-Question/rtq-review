@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpower-pr"
 title: "Topic - Power - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -146,181 +146,6 @@ $4$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>E360A432-F135-4436-A055-D63323CCC9EF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpower
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which is bigger:
-
-$3^4$ or $4^3$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the first value.
-
-$
-\begin{aligned}
-&= 3 ^ 4 \\\\
-&= 3 \times 3 \times 3 \times 3 \\\\
-&= 9 \times 9 \\\\
-&= 81
-\end{aligned}
-$
-
-Let's calculate the second value.
-
-$
-\begin{aligned}
-&= 4 ^ 3 \\\\
-&= 4 \times 4 \times 4 \\\\
-&= 16 \times 4 \\\\
-&= 64
-\end{aligned}
-$
-
-Using the calculation above,
-
-$3 ^ 4$ is bigger than $4 ^ 3$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 ^ 4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate the result of:
-
-$4^3 - 3^4 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 4 ^ 3 - 3 ^ 4 \\\\
-&= (4 \times 4 \times 4) - (3 \times 3 \times 3 \times 3) \\\\
-&= (16 \times 4) - (9 \times 9) \\\\
-&= 64 - 81 \\\\
-&= -17
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-17$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>88582ABF-B271-4BB1-9E51-A3EA11DB76AD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpower
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle which of the following numbers are square numbers:
-
-$9 \qquad 55 \qquad 81 \qquad 13 \qquad 21$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9, 81$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9, 81$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -607,139 +432,6 @@ $64$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>BB7F6439-4B27-4A19-8711-CED205A8D4F7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpower
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Choose from this set of numbers
-
-
-| $8$          | $9$          | $10$         | $11$         |
-|:------:    |:------:    |:------:    |:------:    |
-| $12$         | $13$         | $14$         | $15$         |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-a square number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-three multiples of $3$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9, 12, 15$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9, 12, 15$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-three factors of $60$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10, 12, 15$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10, 12, 15$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>1471A425-F628-4303-8DA0-7BB245A45C26</p>
 </div>
 <div class='topics'>
@@ -842,17 +534,22 @@ $\Box\:\:\:\:\times\:\:\:\:\Box\:\:\:\:\times\:\:\:\:\Box= \:\:\:512$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be $= a$
+Let the missing number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-a \times a \times a                  &= 512 \\\\
-a \times a \times a                  &= 8 \times 8 \times 8 \\\\
-a                                    &= 8
+a^3 &=  2 \times 256 \\\\
+a^3 &= 4 \times 128 \\\\
+a^3 &= 8 \times 64 \\\\
+a^3 &= 8 \times 8 \times 8 \\\\
+a^3 &= 8^3 \\\\
+a &= 8
 \end{aligned}
 $
+
+The number in the missing box $= 8$
 
 </div>
 </div>

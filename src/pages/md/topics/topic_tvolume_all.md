@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-all"
 title: "Topic - Volume - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1042,7 +1042,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>31A4A093-5675-497C-98B5-5A3B7480DD3D</p>
 </div>
@@ -1153,7 +1153,7 @@ $60$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1521,7 +1521,7 @@ $\dfrac {1} {12}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>2D9E6D0E-4E54-4B9F-A732-DB3E447B66D7</p>
 </div>
@@ -1576,7 +1576,7 @@ $74$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -2726,7 +2726,7 @@ $\dfrac{3}{4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>D6EF16C9-114E-4ACE-83AF-27BBE42B409E</p>
 </div>
@@ -2786,9 +2786,11 @@ $
 40                                      &=  10 \times a \\\\
 \dfrac {40} {10}                        &=  a \\\\
 \dfrac {4\cancel {0} } {1\cancel {0} }  &=  a \\\\
-4 \ \text {cm}                          &= a
+\text {a}                               &=  4 \ \text {cm}
 \end{aligned}
 $
+
+Height of the cuboid $=  4 \ \text {cm}$.
 
 </div>
 </div>
@@ -2826,12 +2828,12 @@ Work out the number of boxes which can completely fill the carton.
 
 $
 \begin{aligned}
-\text {Number of boxes}  &=  \dfrac {\text{Volume of bigger box} } { \text {volume of smaller box} } \\\\
-                         &=  \dfrac {200 \times 100 \times 100} {50 \times 20 \times 20} \\\\
-                         &=  \dfrac {20 \times 2 \times 5 \times 20 \times 50 \times 2} {50 \times 20 \times 20} \\\\
-                         &=  \dfrac {\cancel{20} \times 2 \times 5 \times \cancel{20} \times \cancel{50} \times 2} {\cancel{50} \times \cancel{20} \times \cancel{20} } \\\\
-                         &=  2 \times 5 \times 2 \\\\
-                         &=  40 
+\text {Number of boxes}  &= \dfrac {\text {Volume of carton} } { \text {Volume of box} } \\\\
+                         &= \dfrac {200 \times 100 \times 100} {50 \times 20 \times 20} \\\\
+                         &= \dfrac {20 \times 2 \times 5 \times 20 \times 50 \times 2} {50 \times 20 \times 20} \\\\
+                         &= \dfrac {\cancel{20} \times 2 \times 5 \times \cancel{20} \times \cancel{50} \times 2} {\cancel{50} \times \cancel{20} \times \cancel{20} } \\\\
+                         &= 2 \times 5 \times 2 \\\\
+                         &= 20
 \end{aligned}
 $
 
@@ -2840,7 +2842,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$40$
+$20$
 
 </div>
 </div>
@@ -2852,7 +2854,7 @@ $40$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

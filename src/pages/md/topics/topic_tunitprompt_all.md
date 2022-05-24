@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-all"
 title: "Topic - Unitprompt - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3796,7 +3796,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>ADEAD8D0-2747-44BF-901C-F26BADA4C02C</p>
 </div>
@@ -3853,14 +3853,14 @@ A house could be $7.5 \ldots$ tall.
 <div class='workings'>
 <div class='working'>
 
-$\text {mm},\text {ml}, \text {km}$ 
+$\text {mm},\text {ml}, \text {m}$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {mm},\text {ml}, \text {km}$ 
+$\text {mm},\text {ml}, \text {m}$ 
 
 </div>
 </div>
@@ -3907,7 +3907,20 @@ Write down, in grams, the masses represented by the arrows on these scales.
 <div class='workings'>
 <div class='working'>
 
-$5 \ \text {g}$
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 10 \text {g} \\\\
+\text {number of divisions in an interval}      &= 4 \\\\
+\text {mass represented by a division}          &= \dfrac {10} {4} \\\\
+                                                &= 2.5 \text {g} \\\\
+\text {division at which the arrow is pointing} &= 2 \\\\
+\text {mass represented by the arrow}           &= \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
+                                                &= {2 \times 2.5 } \\\\
+                                                &= 5 \text {g}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3935,7 +3948,20 @@ $5 \ \text {g}$
 <div class='workings'>
 <div class='working'>
 
-$230 \ \text{g}$
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 25 \text {g} \\\\
+\text {number of divisions in an interval}      &= 5 \\\\
+\text {mass represented by a division}          &= \dfrac {25} {5} \\\\
+                                                &= 5 \text {g} \\\\
+\text {division at which the arrow is pointing} &= \text {first division after 225} \\\\
+\text {mass represented by the arrow}           &= 225 + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
+                                                &= 225 + {1 \times 5 } \\\\
+                                                &= 230 \text {g}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3963,14 +3989,27 @@ $230 \ \text{g}$
 <div class='workings'>
 <div class='working'>
 
-$2.2 \ \text {g}$
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 1 \text {kg} \\\\
+\text {number of divisions in an interval}      &= 5 \\\\
+\text {mass represented by a division}          &= \dfrac {1} {5} \\\\
+                                                &= 0.2 \text {kg} \\\\
+\text {division at which the arrow is pointing} &= 2 \\\\
+\text {mass represented by the arrow}           &= 2 \text {kg} + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
+                                                &= 2 + {2 \times 0.2 } \\\\
+                                                &= 2.4 \ \text {kg}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2.2 \ \text {g}$
+$2.4 \ \text {kg}$
 
 </div>
 </div>
@@ -3985,12 +4024,12 @@ $2.2 \ \text {g}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>8A1BFE79-13B6-4A0B-B47B-91961D20F040</p>
 </div>
@@ -4066,14 +4105,14 @@ how many litres are equivalent to $4 \ \text{gallons}$
 <div class='workings'>
 <div class='working'>
 
-$16.5 \ \text{litres}$
+$18 \ \text{litres}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$16.5 \ \text{litres}$
+$18 \ \text{litres}$
 
 </div>
 </div>
@@ -4122,14 +4161,14 @@ how many gallons are equivalent to $10 \ \text{litres}$
 <div class='workings'>
 <div class='working'>
 
-$2.8$
+$2.2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2.8$
+$2.2$
 
 </div>
 </div>
@@ -4181,9 +4220,9 @@ Use your answer to part (i) (c) to write $1000 \ \text{litres}$ as gallons.
 
 $
 \begin{aligned}
-10 \ \text {litres}   &= 2.8 \ \text {gallons} \\\\
-1000 \ \text{litres}  &= 2.8 \times 1000 \\\\
-                      &= 2800 \ \text {gallons}
+10 \ \text {litres}   &= 2.2 \ \text {gallons} \\\\
+1000 \ \text{litres}  &= 2.2 \times 1000 \\\\
+                      &= 2200 \ \text {gallons}
 \end{aligned}
 $
 
@@ -4192,7 +4231,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2800 \ \text {gallons}$
+$2200 \ \text {gallons}$
 
 </div>
 </div>
@@ -4242,7 +4281,7 @@ $325 \ \text{oranges}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -4458,7 +4497,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>815D7E74-0B4C-4E99-99F9-117582F86F67</p>
 </div>
@@ -4542,10 +4581,10 @@ $70  \ \text{inches}$ in metres
 
 $
 \begin{aligned}
-&= 70 \times 2.5 \\\\
-&= 175 \ \text{cm}
-&= \dfrac {175} {1000} \\\\
-&= 0.175 \ \text{m}
+&= 70 \times 2.5 \ \text {cm} \\\\
+&= 70 \times \dfrac {2.5} {100} \ \text {m} \\\\
+&= 70 \times 0.025 \\\\
+&= 0.175 \ \text {m}
 \end{aligned}
 $
 
@@ -4566,7 +4605,7 @@ $0.175 \ \text{m}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

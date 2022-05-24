@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-1"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>The Independent Schools Examinations Board</h1>
@@ -1239,7 +1239,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>3C6BD9C8-1689-4BFE-B57F-EF761695CD62</p>
 </div>
@@ -1323,10 +1323,15 @@ How much faster was the team which came first than the team which came fifth?
 <div class='workings'>
 <div class='working'>
 
+To calculate how much faster the team which came first was than the team which came fifth
+we need to find the difference between the time taken by the the team which came 
+fifth and and the team which came first.
 $
 \begin{aligned}
-&= 59.9 - 48.34 \\\\
-&= 11.56
+\text {time of the team which came fifth} &= 59.9 \ \text {seconds} \\\\
+\text {time of the team which came first} &= 48.34 \ \text {seconds} \\\\
+\text {Difference in their time}          &= 59.9 \ \text {seconds} - 48.34 \ \text {seconds} \\\\
+                                          &= 11.56 \ \text {seconds}
 \end{aligned}
 $
 
@@ -1358,10 +1363,13 @@ What was the previous school record?
 <div class='workings'>
 <div class='working'>
 
+Since the Cheeetahs broke the school record by $1.9 \ \text{seconds}$, the previous
+record must me $1.9 \ \text{seconds}$ more than their current record.
 $
 \begin{aligned}
-&= 48.34 + 1.9 \\\\
-&= 50.24
+\text {previous school record} &= \text {time taken by Cheeetahs} + \text {time by which Cheeetahs broke the previous record} \\\\
+                               &= 48.34 \ \text {seconds} + 1.9 \ \text {seconds} \\\\
+                               &= 50.24 \ \text {seconds}
 \end{aligned}
 $
 
@@ -1417,7 +1425,7 @@ $12.8$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -1698,9 +1706,10 @@ What is the total value of all the coins in her bag?
 
 $
 \begin{aligned}
-\text{Total value} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
-                   &= 50 + 40 + 5 + 12 \\\\
-                   &= \pounds 107
+\text {Total value of all coins} &= \text {one fifty pence coin} + \text {two twenty pence coin} + \text {one five pence coin} + \text {Remaining two pence coin} \\\\
+\text {Total value of all coins} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
+                                 &= 50 + 40 + 5 + 12 \\\\
+                                 &= \pounds 107
 \end{aligned}
 $
 
@@ -1732,9 +1741,12 @@ What percentage of the coins are $20 \ \text{pence}$ coins?
 
 $
 \begin{aligned}
-&= \dfrac {40} {107} \times 100 \\\\
-&= \dfrac {40 \times 100} {107} \\\\ 
-&= 37.38 \%
+\text {percentage of 20 pence coins} &= \dfrac {\text {total number of 20 pence coins}} {\text {total number of coins}} \times 100 \\\\
+                                     &= \dfrac {2} {10} \times 100 \\\\
+                                     &= \dfrac {2 \times 100} {10} \\\\
+                                     &= \dfrac {2 \times 10 \cancel {0}} {1 \cancel {0}} \\\\
+                                     &= 2 \times 10 \\\\
+                                     &= 20 \%
 \end{aligned}
 $
 
@@ -1743,7 +1755,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$37.38 \%$
+$20 \%$
 
 </div>
 </div>
@@ -2077,7 +2089,7 @@ $150 \ \text {grams}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>C36C23BF-EE03-46D4-9D6A-103DE6C75AAE</p>
 </div>
@@ -2238,7 +2250,7 @@ Between which times does he stop on the way down?
 <div class='workings'>
 <div class='working'>
 
-$11 {:} 30, 11 {:} 45$
+$12 {:} 30, 1 {:} 00$
 
 </div>
 </div>
@@ -2288,7 +2300,7 @@ $\text {To get some rest}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -2548,7 +2560,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>0EE87929-F2CC-4426-8FA5-C13CAE3A2777</p>
 </div>
@@ -2679,7 +2691,8 @@ Find the mean of Bert's numbers.
 
 $
 \begin{aligned}
-\text {Mean} &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
+\text {Mean} &= \dfrac { \text {sum of all the numbers} } { \text {total numbers} } \\\\
+             &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
              &= \dfrac {40} {5} \\\\
              &= 8
 \end{aligned}
@@ -2766,7 +2779,7 @@ $\text {square}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

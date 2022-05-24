@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7"
 title: "Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -779,7 +779,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940</p>
 </div>
@@ -801,24 +801,14 @@ tperimeter
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -840,24 +830,25 @@ value of $x$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+2x + 5                                       &= 21 \\\\
+2x                                           &= 21 - 5 \\\\
+2x                                           &= 16 \\\\
+x                                            &= \dfrac {16} {2} \\\\
+x                                            &= \dfrac {\cancel{2} \times 8} {\cancel{2}} \\\\
+x                                            &= 8
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$8$
 
 </div>
 </div>
@@ -878,24 +869,23 @@ A regular pentagon has the same side length as the square. What is its perimeter
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Perimeter of regular pentagon $= 5 \times \text{Length of side}
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Perimeter of the pentagon}       &= 5 \times 21 \ \text{cm} \\\\
+                                       &= 105 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$105 \ \text{cm}$
 
 </div>
 </div>
@@ -907,7 +897,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -1099,7 +1089,7 @@ $40 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>2ED1078E-E436-4DB2-A728-C73E012861C2</p>
 </div>
@@ -1120,24 +1110,32 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+We know,
 
-</div>
-<div class='working'>
+$\text{Area of rectangle} = \text{length} \times \text{width}$
 
-TODOWORKING
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
+                                                   &= 15 \ \text{m} - 2 \ \text{m} \times 2 \ \text{m} \times 12 \text{m} - 2 \ \text{m} \times 2 \ \text{m} \\\\
+                                                   &= 15 \ \text{m} - 4 \ \text{m} \times 12 \ \text{m} - 4 \ \text{m} \\\\
+                                                   &= 11 \ \text{m} \times 8 \ \text{m} \\\\
+                                                   &= 88 \ \text{m}^{2} \\\\
+\text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
+                                                   &= 15 \ \text{m} \times 12 \ \text{m}  - 88 \ \text{m}^{2} \\\\
+                                                   &= 180 \ \text{m}^{2} - 88 \ \text{m}^{2} \\\\
+                                                   &= 92 \ \text{m}^{2}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$92 \ \text{m}^{2}$
 
 </div>
 </div>
@@ -1146,12 +1144,12 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>84C4F75A-1071-4AE8-8252-CDE115D02C03</p>
 </div>
@@ -1170,24 +1168,41 @@ Gary and Martin have some money. Martin has $\pounds 13$ more than Gary, togethe
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the money Gary have $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Money (Martin)} + \text{Money (Gary)}             &= \text{Total money} \\\\
+a + 13 + a                                              &= \pounds 51 \\\\
+2a                                                      &= 51 - 13 \\\\
+2a                                                      &= 38 \\\\
+2a                                                      &= 38 \\\\
+a                                                       &= \dfrac {38} {2} \\\\
+a                                                       &= \dfrac {2 \times 19} {2} \\\\
+a                                                       &= \dfrac {\cancel{2} \times 19} {\cancel{2}} \\\\
+a                                                       &= \pounds 19
+\end{aligned}
+$
+
+Money Gary have $= \pounds 19$
+
+Let's calculate for Martin
+
+$
+\begin{aligned}
+\text{Money Martin have}                                 &= \pounds 51 - \pounds 19 \\\\
+                                                        &= \pounds 32
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 32$
 
 </div>
 </div>
@@ -1196,7 +1211,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -1371,7 +1386,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>050EE19D-DD2B-4EAE-B94A-09B3971155EF</p>
 </div>
@@ -1390,24 +1405,27 @@ In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars a
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Cars (Neither blue nor red)}            &= \text{Total Cars - Red Cars - Blue Cars}  \\\\
+                                              &= 60 - \dfrac {5} {12} \times 60 - 20\% \times 60 \\\\
+                                              &= 60 - \dfrac {5 \times 60} {12} - \dfrac {20 \times 60} {100} \\\\
+                                              &= 60 - \dfrac {5 \times 5 \times 12} {12} -  \dfrac {20 \times 5 \times 12} {20 \times 5} \\\\
+                                              &= 60 - \dfrac {5 \times 5 \times \cancel{12}} {\cancel{12}}  -\dfrac {\cancel{20} \times \cancel{5} \times 12} {\cancel{20} \times \cancel{5}} \\\\
+                                              &= 60 - 5 \times 5 - 12 \\\\
+                                              &= 60 - 25 - 12 \\\\
+                                              &= 23
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$23$
 
 </div>
 </div>
@@ -1416,12 +1434,12 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>F0E5AC4B-9543-44E6-BAB8-0991A9B073BD</p>
 </div>
@@ -1440,24 +1458,21 @@ There are $5$ competitors in a tennis competition. If each player plays every ot
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Total matches}            &= 4 + 3 + 2 + 1 \\\\
+                                &= 10
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$10$
 
 </div>
 </div>
@@ -1466,7 +1481,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>

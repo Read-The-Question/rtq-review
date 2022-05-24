@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-all"
 title: "Topic - Ratio - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2054,7 +2054,7 @@ $225 \ \text{g flour}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>E4DC389C-1771-4673-AE1F-DC5A515EFDDF</p>
 </div>
@@ -2076,12 +2076,16 @@ prime number written on them, giving your answer as a decimal.
 <div class='workings'>
 <div class='working'>
 
+Prime numbers between $1$ to $20$ $= $8$
+
+Total numbers $= $20
 $
 \begin{aligned}
-&= \dfrac {8} {20} \\\\
-&= \dfrac {4 \times 2} {4 \times 5} \\\\
-&= \dfrac {\cancel{4} \times 2} {\cancel{4} \times 5} \\\\
-&= \dfrac {2} {5}
+\text {Proportion of all the cards that have a prime number} &= \dfrac {\text {Prime numbers}} {\text {Total numbers}} \\\\
+                                                             &= \dfrac {8} {20} \\\\
+                                                             &= \dfrac {8 \times 5} {20 \times 5} \\\\
+                                                             &= \dfrac {40} {100} \\\\
+                                                             &= 0 {.} 4
 \end{aligned}
 $
 
@@ -2099,7 +2103,7 @@ $\dfrac {2} {5}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -2243,14 +2247,20 @@ Work out how long the plasters would last if the medical centre were having to t
 
 $
 \begin{aligned}
-12 \ \text {cut/day}  &= 30 \ \text{days} \\\\
-1 \ \text {cut/day}   &= \dfrac {30} {12} \\\\
-20 \ \text {cut/day}  &= \dfrac {30} {12} \times 20 \\\\
-                      &= \dfrac {6 \times 5 \times 10 \times 2} {6 \times 2} \\\\
-                      &= \dfrac {\cancel{6} \times 5 \times 10 \times \cancel{2}} {\cancel{6} \times \cancel{2}} \\\\ 
-                      &= 50 \ \text{days}
+12 \ \text {cut/day}                                                  &: 30 \ \text{days} \\\\
+12 \times \dfrac {1} {12} \ \text {cut/day}                           &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+\cancel {12} \times \dfrac {1} {\cancel {12}} \ \text {cut/day}       &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+1 \ \text {cut/day}                                                   &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+1 \times 20 \ \text {cut/day}                                         &: 30 \times \dfrac {1} {12} \times 20 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {30 \times 1 \times 20} {12} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 50 \ \text {days} \\\\
 \end{aligned}
 $
+
+So, the number of days plaster would last if we patch 20 cut knees per day $= 50$ 
 
 </div>
 </div>
@@ -6611,7 +6621,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>BDE42C42-21C6-48DE-81AE-A84F76777818</p>
 </div>
@@ -6659,7 +6669,7 @@ $\pounds 4.2$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -7483,7 +7493,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>9C241A72-22AC-4EB3-AA57-303AF0AA73F6</p>
 </div>
@@ -7673,7 +7683,7 @@ $26$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

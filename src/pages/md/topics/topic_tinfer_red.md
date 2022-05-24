@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-red"
 title: "Topic - Infer - Red"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -78,6 +78,158 @@ $32$
 </div>
 <div class='rag'>
 <p>rag_up_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>A163C280-33EF-43B0-BBDD-DFD9A4F5A979</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tgraph
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The pie chart below represents data collected in a survey by a PE teacher about the favourtie sports of a sample of school children.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the fraction of the school children who liked tennis, giving your answer in its lowest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {45} {360} \\\\
+&= \dfrac {5 \times 9} {72 \times 5} \\\\
+&= \dfrac {\cancel {5}  \times \cancel {9} } {\cancel {9}  \times 8 \times \cancel {5} } \\\\
+&= \dfrac {1} {8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {8}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A total of $240$ children were asked to complete the survey. Calculate how many of the children preferred cricket.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {240 \times 60} {360} \\\\
+&= \dfrac {40 \times \cancel 6 \times \cancel 6 \times \cancel 10} {\cancel 6 \times \cancel 6 \times \cancel 10} \\\\
+&= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Estimate how many children would say their favorite sport was football out of the whole school of $1200$ pupils.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1200 \times 60} {360} \\\\
+&= \dfrac {200 \times \cancel 6 \times \cancel 6 \times \cancel 10} {\cancel 6 \times \cancel 6 \times \cancel 10} \\\\
+&= 200
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$200$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -1350,6 +1502,182 @@ $13, 14$
 </div>
 <div class='rag'>
 <p>rag_ac_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>62634D94-B086-44A9-A90E-13D4284F73C1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The number machine below changes numbers according to the rule **multiply by $2$ and then substract by $4$**
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Write the missing Input and output numbers for this machine.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12, 18, 13, 2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12, 18, 13, 2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+There is one number which does not change when you put it in the number machine.
+
+What is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, add $1$ and then divide by $2$.
+
+The result is $7$.
+
+What is the number which I am thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the $=a$
+$
+\begin{aligned}
+\dfrac {a+1} {2} &= 7 \\\\
+a+1              &= 7 \times 2 \\\\
+a+1              &= 14 \\\\
+a                &= 14 - 1 \\\\
+a                &= 13      
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-pr"
 title: "Topic - Ratio - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -146,56 +146,6 @@ $22$
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
-<p>E4DC389C-1771-4673-AE1F-DC5A515EFDDF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A prime number has exactly $2$ factors: itself and $1$.
-
-The numbers from $1$ to $20$ inclusive are written on $20$ cards. Write down the **proportion** of all the cards that have a 
-prime number written on them, giving your answer as a decimal.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {8} {20} \\\\
-&= \dfrac {4 \times 2} {4 \times 5} \\\\
-&= \dfrac {\cancel{4} \times 2} {\cancel{4} \times 5} \\\\
-&= \dfrac {2} {5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2} {5}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
 <p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
 </div>
 <div class='topics'>
@@ -216,14 +166,20 @@ Work out how long the plasters would last if the medical centre were having to t
 
 $
 \begin{aligned}
-12 \ \text {cut/day}  &= 30 \ \text{days} \\\\
-1 \ \text {cut/day}   &= \dfrac {30} {12} \\\\
-20 \ \text {cut/day}  &= \dfrac {30} {12} \times 20 \\\\
-                      &= \dfrac {6 \times 5 \times 10 \times 2} {6 \times 2} \\\\
-                      &= \dfrac {\cancel{6} \times 5 \times 10 \times \cancel{2}} {\cancel{6} \times \cancel{2}} \\\\ 
-                      &= 50 \ \text{days}
+12 \ \text {cut/day}                                                  &: 30 \ \text{days} \\\\
+12 \times \dfrac {1} {12} \ \text {cut/day}                           &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+\cancel {12} \times \dfrac {1} {\cancel {12}} \ \text {cut/day}       &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+1 \ \text {cut/day}                                                   &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+1 \times 20 \ \text {cut/day}                                         &: 30 \times \dfrac {1} {12} \times 20 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {30 \times 1 \times 20} {12} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 50 \ \text {days} \\\\
 \end{aligned}
 $
+
+So, the number of days plaster would last if we patch 20 cut knees per day $= 50$ 
 
 </div>
 </div>
@@ -790,254 +746,6 @@ $28$
 </ul>
 <div class='papername'>
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>BDE42C42-21C6-48DE-81AE-A84F76777818</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If a dozen eggs cost $\pounds 2.80$, how much do $18$ eggs cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know that, one dozen $= 12$
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Cost of 18 eggs}  &= \dfrac {18 \times \pounds 2.8} {12} \\\\
-                         &= \dfrac {50.4} {12} \\\\
-                         &= \pounds 4.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4.2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>9C241A72-22AC-4EB3-AA57-303AF0AA73F6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttable
-</li>
-<li>
-tratio
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are two maths classes in Year $8$, called $6A$ and $6B$.
-
-![missing table](/papers/missing_table.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Complete the table showing the number of boys and girls in each class.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Number of boys in 6B} &= 18 - 6 \\\\
-                             &= 12
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Number of students in 6A} &= 48 - 18 \\\\
-                                 &= 30
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Number of girls in 6A} &= 30 - 14 \\\\
-                              &= 16
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12, 16, 30$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which class has a higher proportion of boys?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$6A$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6A$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What fraction of the children in $6B$ are girls? 
-
-Give your answer in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {6} {18} \\\\
-&= \dfrac {\cancel {3} \times \cancel {2} } {3 \times \cancel {3}  \times \cancel {2} } \\\\
-&= \dfrac {1} {3}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {3}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Some boys leave Year $6$ to go to another school. 
-
-Half the total number of pupils in Year $6$ are now boys. 
-
-How many boys have left the school?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question
-
-The number of studdents present that number of students left the school-type
-$26$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$26$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>

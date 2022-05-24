@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-all"
 title: "Topic - Perimeter - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4044,7 +4044,7 @@ $1.6 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
 </div>
@@ -4070,25 +4070,30 @@ Note: all angles are right angles.
 <div class='workings'>
 <div class='working'>
 
-Area
+Lets divide the given shape into two rectangles, A and B
+
+Length of rectangle A $= 5 \ \text {cm}$
+
+Width of rectangle A  $= 14 \ \text {cm}$
+
+Length of rectangle B $= 4 \ \text {cm}$
+
+Width of rectangle B $= 14 - 6 = 8 \ \text {cm}$
 
 $
 \begin{aligned}
-\text {Total Area} &= \text{Area of rectangle 1} + \text{Area of rectangle 2} \\\\
-                   &= 14 \times 5 + (14 - 6) \times 4 \\\\
+\text {Total Area} &= \text {Area of rectangle A} + \text {Area of rectangle B} \\\\
+                   &= (5 \times 14) + (4 \times 8) \\\\
                    &= 70 + 32 \\\\
-                   &= 102 \ \text{cm}^2
+                   &= 102 \ \text {cm}^2
 \end{aligned}
 $
 
-Perimeter
-
 $
 \begin{aligned}
-\text {Total Perimeter} &= \text{Perimeter of whole rectangle } - \text{Perimeter of smaller rectangle} \\\\
-                        &= 2 \times (14 + 9) - (6 + 4) \\\\
-                        &= 46 - 10 \\\\
-                        &= 36 \ \text{cm}
+\text {Total Perimeter} &= \text {Sum of all the sides} \\\\
+                        &= 14 + 5 + 6 + 4 + 8 + 9 \\\\
+                        &= 46 \ \text {cm}
 \end{aligned}
 $
 
@@ -4097,7 +4102,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$102 \ \text{cm}^2, 36 \ \text{cm}$
+$102 \ \text{cm}^2, 46 \ \text{cm}$
 
 </div>
 </div>
@@ -4106,7 +4111,7 @@ $102 \ \text{cm}^2, 36 \ \text{cm}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -4236,7 +4241,7 @@ $32 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
 </div>
@@ -4262,18 +4267,34 @@ Note: all angles are right angles but the diagram has not been drawn to scale.
 <div class='workings'>
 <div class='working'>
 
+Lets divide the given shape into three rectangles, A, B and C
+
+Length of rectangle A $= 3 \ \text {cm}$
+
+Width of rectangle A  $= 20 - 4 = 16 \ \text {cm}$
+
+Length of rectangle B $= 7 \ \text {cm}$
+
+Width of rectangle B $= 20 - 10 = 10 \ \text {cm}$
+
+Length of rectangle C $= 12 - (7 + 3) = 2 \ \text {cm}$
+
+Width of rectangle C $= 20 \ \text {cm}$
+
 $
 \begin{aligned}
-\text {Area} &= 16 \times 3 + 10 \times 7 + 20 \times 2 \\\\
+\text {Area} &= \text {Area of rectangle A + Area of rectangle B + Area of rectangle C} \\\\
+             &= (3 \times 16) + (7 \times 10) + (2 \times 20) \\\\
              &= 48 + 70 + 40 \\\\
-             &= 112 \ \text{cm}^2
+             &= 158 \ \text {cm}^2
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {Perimeter} &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
-                  &= 76 \ \text{cm} 
+\text {Perimeter} &= \text {Sum of all the sides} \\\\
+                  &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
+                  &= 76 \ \text {cm}
 \end{aligned}
 $
 
@@ -4282,7 +4303,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$112 \ \text{cm}^2, 76 \ \text{cm}$
+$158 \ \text {cm}^2, \ 76 \ \text {cm}$
 
 </div>
 </div>
@@ -4291,7 +4312,7 @@ $112 \ \text{cm}^2, 76 \ \text{cm}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -7771,7 +7792,7 @@ $24 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940</p>
 </div>
@@ -7793,24 +7814,14 @@ tperimeter
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -7832,24 +7843,25 @@ value of $x$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+2x + 5                                       &= 21 \\\\
+2x                                           &= 21 - 5 \\\\
+2x                                           &= 16 \\\\
+x                                            &= \dfrac {16} {2} \\\\
+x                                            &= \dfrac {\cancel{2} \times 8} {\cancel{2}} \\\\
+x                                            &= 8
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$8$
 
 </div>
 </div>
@@ -7870,24 +7882,23 @@ A regular pentagon has the same side length as the square. What is its perimeter
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Perimeter of regular pentagon $= 5 \times \text{Length of side}
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Perimeter of the pentagon}       &= 5 \times 21 \ \text{cm} \\\\
+                                       &= 105 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$105 \ \text{cm}$
 
 </div>
 </div>
@@ -7899,7 +7910,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -10068,7 +10079,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>A2279230-AADE-4793-B27A-4810B6805DE7</p>
 </div>
@@ -10096,24 +10107,51 @@ What is the  perimeter of the other rectangle?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+\text{Perimeter of the square} &=  28 \ \text{cm} \\\\
+4\text{s}                      &= 28 \ \text{cm} \\\\
+\text{s}                       &= \dfrac {28}{4} \\\\ 
+\text{s}                       &= \dfrac {4 \time 7}{4} \\\\ 
+\text{s}                       &= \dfrac {\cancel 4 \time 7}{\cancel 4} \\\\
+\text{s}                       &= 7  \ \text{cm}
+\end{aligned}
+$
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Perimeter of first rectangle} &=  16 \ \text{cm} \\\\
+2 \times (\text{l} +   \text{b} )   &= 16 \ \text{cm} \\\\
+2 \times (\text{7} +   \text{b} )   &= 16 \\\\
+\text{7} +  \text{b}                &= \dfrac {16}{2} \\\\ 
+\text{7} +  \text{b}                &= \dfrac {2 \times 8}{2} \\\\ 
+\text{7} +  \text{b}                &= \dfrac {\cancel 2 \time 8}{\cancel 2} \\\\
+\text{7} +  \text{b}                &= 8 \\\\
+\text{b}                            &= 8 - 7 \\\\
+\text{b}                            &= 1 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Perimeter of second rectangle} &=  2 \times (\text{l} +   \text{b} ) \\\\
+                                     &=  2 \times (7+6) \\\\
+                                     &=  2 \times 13 \\\\
+                                     &=  26 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>A</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$26 \ \text{cm}$
 
 </div>
 </div>
@@ -10122,7 +10160,7 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -15859,13 +15897,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter of shape}       &= \text{Perimeter of rectangle} + \text{Perimeter of triangle} - 2 \times \text{base of triangle} \\\\
-                                &= 2 \times (\text{length} + \text{width}) + 3 + 4.5 + 4.5 - 2 \times 3 \\\\
-                                &= 2 \times (9 + 3) + 12 - 6 \\\\
-                                &= 2 \times 12 + 12 - 6 \\\\
-                                &= 24 + 12 - 6 \\\\
+\text{Perimeter of shape}       &= \text{Sum of all sides} \\\\
+                                &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
+                                &= 9 + 6 + 9 + 6 \\\\
 \text{Perimeter of shape}       &= 30 \ \text{cm}
-
 \end{aligned}
 $
 

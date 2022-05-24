@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-all"
 title: "Topic - Sequence - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -15208,7 +15208,7 @@ $13, \ 21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>62C66561-F3E0-4965-B7E2-15DAB3203A00</p>
 </div>
@@ -15305,7 +15305,7 @@ $\text{Circle}$
 <p>oundle-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -22974,7 +22974,7 @@ $3,-1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>698B11F8-9733-47E3-A64E-683A3E3D6D13</p>
 </div>
@@ -23001,24 +23001,42 @@ Which of these is not part of the sequence?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let's find the difference between the consecutive terms of the sequence.
 
-</div>
-<div class='working'>
+The difference between the terms is $5$. Hence, the sequence would be:
 
-TODOWORKING
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+1)}} 
+&&  \footnotesize{\maroonC{(+2)}} 
+&&  \footnotesize{\maroonC{(+3)}}  
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+12)}}
+&&  \footnotesize{\maroonC{(+24)}}  
+&&  \footnotesize{\maroonC{(+48)}}  \\
+1,  &&    2,  &&  \ldots,  &&   \ldots,  &&   \ldots   && \ldots   &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First  number}       &= 6 \\\\
+\text{Second  number}      &= 12 \\\\
+\text{third  number}       &= 24 \\\\
+\text{fourth  number}      &= 48 \\\\
+\text{fifth  number}       &= \bold{96} \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>D</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$96$
 
 </div>
 </div>
@@ -23027,7 +23045,7 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -25180,7 +25198,7 @@ $37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>644EEE25-F82A-4DD4-A616-390BB876F410</p>
 </div>
@@ -25317,14 +25335,14 @@ a number which is **not** a prime number
 <div class='workings'>
 <div class='working'>
 
-$15, 27$
+$15$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$15, 27$
+$15$
 
 </div>
 </div>
@@ -25376,7 +25394,32 @@ Write down the next two numbers in the pattern.
 <div class='workings'>
 <div class='working'>
 
-$31, 35$
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} } \\
+3,  &&    7,  &&  11,  &&   15,  &&   19,   &&   23,  &&  27,  && \ldots,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}   &= 27 + 4 \\\\
+                               &= 31 \\\
+\text {Second missing number}  &= 31 + 4 \\\\
+                               &= 35
+\end{aligned}
+$
 
 </div>
 </div>
@@ -25404,7 +25447,16 @@ What is the first number in the pattern which is greater than $48$?
 <div class='workings'>
 <div class='working'>
 
-$51$
+Using the above solution we get
+
+$
+\begin{aligned}
+&= 35 + 4 + 4 + 4 + 4 \\\\
+&= 51
+\end{aligned}
+$
+
+$51$ is the first number in the pattern which is greater than $48$.
 
 </div>
 </div>
@@ -25423,7 +25475,7 @@ $51$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -25928,7 +25980,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>23CDE55D-A582-4C8C-A0F7-78D755282183</p>
 </div>
@@ -26116,7 +26168,7 @@ $2007, \ 918, \ 45$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -31279,7 +31331,7 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
 <p>74519F97-5041-4ECE-88D4-3B509460C560</p>
 </div>
@@ -31356,7 +31408,7 @@ $-1$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_red</p>
 </div>
 </div>
 </li>

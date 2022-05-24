@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-2"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 2"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>The Independent Schools Examinations Board</h1>
@@ -14,7 +14,7 @@ date: 2022-05-24 07:08:08
 </div>
 <ul class='question TODO'>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>F79E876B-8F58-473B-8C5B-5673C2A043B1</p>
 </div>
@@ -22,6 +22,9 @@ date: 2022-05-24 07:08:08
 <ul>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -148,10 +151,10 @@ which is half of $260$
 
 $
 \begin{aligned}
-&= \dfrac {260} {2} \\\\
-&= \dfrac {130 \times \cancel {2} } {\cancel {2} } \\\\
-&= \dfrac {130 \times \cancel {2} } {\cancel {2} } \\\\
-&= 130
+\text {half of $260$} &= \dfrac {260} {2} \\\\
+                      &= \dfrac {130 \times \cancel {2} } {\cancel {2} } \\\\
+                      &= \dfrac {130 \times \cancel {2} } {\cancel {2} } \\\\
+                      &= 130
 \end{aligned}
 $
 
@@ -214,14 +217,14 @@ What is the value of the $2$ in this number?
 <div class='workings'>
 <div class='working'>
 
-$\text {thousand}$
+$\text {Thousand}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {thousand}$
+$\text {Thousand}$
 
 </div>
 </div>
@@ -261,7 +264,7 @@ $1256$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -1272,7 +1275,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>0DEF7758-B0A3-48C7-9DD7-36AD263DB0AF</p>
 </div>
@@ -1399,7 +1402,7 @@ $\text {Yogi}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -1662,7 +1665,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>ADEAD8D0-2747-44BF-901C-F26BADA4C02C</p>
 </div>
@@ -1719,14 +1722,14 @@ A house could be $7.5 \ldots$ tall.
 <div class='workings'>
 <div class='working'>
 
-$\text {mm},\text {ml}, \text {km}$ 
+$\text {mm},\text {ml}, \text {m}$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {mm},\text {ml}, \text {km}$ 
+$\text {mm},\text {ml}, \text {m}$ 
 
 </div>
 </div>
@@ -1773,7 +1776,20 @@ Write down, in grams, the masses represented by the arrows on these scales.
 <div class='workings'>
 <div class='working'>
 
-$5 \ \text {g}$
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 10 \text {g} \\\\
+\text {number of divisions in an interval}      &= 4 \\\\
+\text {mass represented by a division}          &= \dfrac {10} {4} \\\\
+                                                &= 2.5 \text {g} \\\\
+\text {division at which the arrow is pointing} &= 2 \\\\
+\text {mass represented by the arrow}           &= \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
+                                                &= {2 \times 2.5 } \\\\
+                                                &= 5 \text {g}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1801,7 +1817,20 @@ $5 \ \text {g}$
 <div class='workings'>
 <div class='working'>
 
-$230 \ \text{g}$
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 25 \text {g} \\\\
+\text {number of divisions in an interval}      &= 5 \\\\
+\text {mass represented by a division}          &= \dfrac {25} {5} \\\\
+                                                &= 5 \text {g} \\\\
+\text {division at which the arrow is pointing} &= \text {first division after 225} \\\\
+\text {mass represented by the arrow}           &= 225 + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
+                                                &= 225 + {1 \times 5 } \\\\
+                                                &= 230 \text {g}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1829,14 +1858,27 @@ $230 \ \text{g}$
 <div class='workings'>
 <div class='working'>
 
-$2.2 \ \text {g}$
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 1 \text {kg} \\\\
+\text {number of divisions in an interval}      &= 5 \\\\
+\text {mass represented by a division}          &= \dfrac {1} {5} \\\\
+                                                &= 0.2 \text {kg} \\\\
+\text {division at which the arrow is pointing} &= 2 \\\\
+\text {mass represented by the arrow}           &= 2 \text {kg} + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
+                                                &= 2 + {2 \times 0.2 } \\\\
+                                                &= 2.4 \ \text {kg}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2.2 \ \text {g}$
+$2.4 \ \text {kg}$
 
 </div>
 </div>
@@ -1851,7 +1893,7 @@ $2.2 \ \text {g}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -2246,7 +2288,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>8A1BFE79-13B6-4A0B-B47B-91961D20F040</p>
 </div>
@@ -2322,14 +2364,14 @@ how many litres are equivalent to $4 \ \text{gallons}$
 <div class='workings'>
 <div class='working'>
 
-$16.5 \ \text{litres}$
+$18 \ \text{litres}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$16.5 \ \text{litres}$
+$18 \ \text{litres}$
 
 </div>
 </div>
@@ -2378,14 +2420,14 @@ how many gallons are equivalent to $10 \ \text{litres}$
 <div class='workings'>
 <div class='working'>
 
-$2.8$
+$2.2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2.8$
+$2.2$
 
 </div>
 </div>
@@ -2437,9 +2479,9 @@ Use your answer to part (i) (c) to write $1000 \ \text{litres}$ as gallons.
 
 $
 \begin{aligned}
-10 \ \text {litres}   &= 2.8 \ \text {gallons} \\\\
-1000 \ \text{litres}  &= 2.8 \times 1000 \\\\
-                      &= 2800 \ \text {gallons}
+10 \ \text {litres}   &= 2.2 \ \text {gallons} \\\\
+1000 \ \text{litres}  &= 2.2 \times 1000 \\\\
+                      &= 2200 \ \text {gallons}
 \end{aligned}
 $
 
@@ -2448,7 +2490,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2800 \ \text {gallons}$
+$2200 \ \text {gallons}$
 
 </div>
 </div>
@@ -2498,7 +2540,7 @@ $325 \ \text{oranges}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -2557,7 +2599,7 @@ $\text{Even chance}, \text{Certain}, \text{Even chance}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>62634D94-B086-44A9-A90E-13D4284F73C1</p>
 </div>
@@ -2728,7 +2770,7 @@ $13$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -2944,7 +2986,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>874626A3-7DB5-4CA5-A72C-A3117C27178A</p>
 </div>
@@ -3235,7 +3277,7 @@ $2, 2, 5, 5, 11$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

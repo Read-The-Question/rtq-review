@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-e"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper E"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>Dulwich College</h1>
@@ -112,7 +112,7 @@ $1691$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>4B064430-A3B1-49A5-B5A7-D36E815440A4</p>
 </div>
@@ -135,8 +135,6 @@ $
 \begin{aligned}
 &= 60.2 \div 7 \\\\
 &= \dfrac {60.2} {7} \\\\
-&= \dfrac {8.6 \times 7} {7} \\\\
-&= \dfrac {8.6 \times \cancel {7} } {\cancel {7} } \\\\
 &= 8.6
 \end{aligned}
 $
@@ -155,7 +153,7 @@ $8.6$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -438,7 +436,7 @@ $13, \quad 17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>95C9AEE9-A464-411A-8B44-638B44241C5F</p>
 </div>
@@ -464,7 +462,14 @@ $
 <div class='workings'>
 <div class='working'>
 
-$30, 10, 3$
+All factors of $150 = 1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15, \ 25, \ 30, \ 50, \ 75, \ \text {and} \ 150.$
+
+$
+\begin{matrix}
+100                                   & \quad \boxed{\green {30}} & \quad 7  & \quad 11 \\\\
+\boxed{\green {10}}  & \quad \boxed{\green {3}}  & \quad 8  & \quad 45
+\end{matrix}
+$
 
 </div>
 </div>
@@ -480,7 +485,7 @@ $30, 10, 3$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -1573,7 +1578,7 @@ $90 \ \text {ml}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
 </div>
@@ -1599,18 +1604,34 @@ Note: all angles are right angles but the diagram has not been drawn to scale.
 <div class='workings'>
 <div class='working'>
 
+Lets divide the given shape into three rectangles, A, B and C
+
+Length of rectangle A $= 3 \ \text {cm}$
+
+Width of rectangle A  $= 20 - 4 = 16 \ \text {cm}$
+
+Length of rectangle B $= 7 \ \text {cm}$
+
+Width of rectangle B $= 20 - 10 = 10 \ \text {cm}$
+
+Length of rectangle C $= 12 - (7 + 3) = 2 \ \text {cm}$
+
+Width of rectangle C $= 20 \ \text {cm}$
+
 $
 \begin{aligned}
-\text {Area} &= 16 \times 3 + 10 \times 7 + 20 \times 2 \\\\
+\text {Area} &= \text {Area of rectangle A + Area of rectangle B + Area of rectangle C} \\\\
+             &= (3 \times 16) + (7 \times 10) + (2 \times 20) \\\\
              &= 48 + 70 + 40 \\\\
-             &= 112 \ \text{cm}^2
+             &= 158 \ \text {cm}^2
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {Perimeter} &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
-                  &= 76 \ \text{cm} 
+\text {Perimeter} &= \text {Sum of all the sides} \\\\
+                  &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
+                  &= 76 \ \text {cm}
 \end{aligned}
 $
 
@@ -1619,7 +1640,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$112 \ \text{cm}^2, 76 \ \text{cm}$
+$158 \ \text {cm}^2, \ 76 \ \text {cm}$
 
 </div>
 </div>
@@ -1628,7 +1649,7 @@ $112 \ \text{cm}^2, 76 \ \text{cm}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

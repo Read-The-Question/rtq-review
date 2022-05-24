@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-pr"
 title: "Topic - Time - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -735,62 +735,6 @@ $283 \text{ minutes}$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>C4E7B763-E07F-498F-A6A5-88CF6EA33FBB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A Formula $1$ race is $96$ laps of the track. A driver averages $1 \ \text{minute} \ 20 \ \text{seconds}$ per lap. How long is his race in hours and minutes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {The race lasts for}  &= 96 \times (1 \ \text{minute} \ 20 \ \text{seconds} ) \\\\
-                            &= 96 \times (1 \ \text{minute} \ \dfrac {20} {60} \ \text{minute} ) \\\\
-                            &= 96 \times (\dfrac {1 \times 60} {1 \times 60} + \dfrac {20} {60} ) \\\\
-                            &= 96 \times (\dfrac {60} {60} + \dfrac {20} {60} ) \\\\
-                            &= 96 \times \dfrac {60 + 20} {60} \\\\
-                            &= 96 \times \dfrac {80} {60} \\\\
-                            &= \dfrac {96 \times 80} {60} \\\\
-                            &= \dfrac {32 \times 3 \times 20 \times 4} {3 \times 20} \\\\
-                            &= \dfrac {32 \times \cancel {3} \times \cancel {20} \times 4} {\cancel {3} \times \cancel {20}} \\\\
-                            &= 32 \times 4 \\\\
-                            &= 128 \ \text {minutes} \\\\
-                            &= \dfrac {128} {60} \ \text {hours} \\\\ 
-                            &= 2 \ \text {hours} \ 8 \ \text {minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \ \text {hour} \ 8 \ \text {minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>FF15893E-F772-4830-8CA9-E540E52C0887</p>
 </div>
 <div class='topics'>
@@ -1008,56 +952,6 @@ $\dfrac {1} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>4817F67D-F1F2-40D0-8436-A069F847B9C1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The same coach takes $3 \ \text{h}$ to get to Bristol, a journey of $120 \ \text{miles}$. What is its average speed in miles per hour?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Average speed}   &= \dfrac {120} {3} \\\\
-                        &= \dfrac {40 \times 3} {3} \\\\
-                        &= \dfrac {40 \times \cancel {3}} {\cancel {3}} \\\\
-                        &= 40 \ \text {miles per hour}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \ \text {miles per hour}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>5E77341D-320F-47AF-AB40-A78DD573EE26</p>
@@ -1141,7 +1035,8 @@ Keston to Langham;
 
 $
 \begin{aligned}
-&= 26 \ \text{km} - 12 \ \text {km} \\\\
+&= \text {Distance from Josham to Langham} - \text {Distance from Josham to Keston} \\\\ 
+&= 26 \ \text {km} - 12 \ \text {km} \\\\
 &= 14 \ \text {km}
 \end{aligned}
 $
@@ -1174,10 +1069,11 @@ Langham to Moreton, giving your answer **in metres**.
 
 $
 \begin{aligned}
+&= \text {Distance from Keston to Moreton} - \text {Distance from Keston to Josham} \\\\ 
 &= 23 \ \text {km} - 14 \ \text {km} \\\\
 &= 9 \ \text {km} \\\\
-&= 9 \times 1000 \ \text{m} \\\\
-&= 9000\ \ text{m}
+&= 9 \times 1000 \ \text {m} \\\\
+&= 9000\ \text {m}
 \end{aligned}
 $
 
@@ -1186,7 +1082,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9000\ \ text{m}$
+$9000\ \text {m}$
 
 </div>
 </div>
@@ -1210,20 +1106,34 @@ If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey 
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+Speed $= 14 km.p.h$
+
 $
 \begin{aligned}
-\text {time} &= \dfrac {distance} {speed} \\\\
-             &= \dfrac {12 + 23} {14} \\\\
+\text {Distance from Josham to Moreton} &= \text {(Josham to Langham)} + \text {(Langham to Moreton)} \\\\
+                                      &= 26 + 9 \\\\
+                                      &= 35 \ \text {km}
+\end{aligned}
+$
+
+Let's find the time tourist will take to complete the journey.
+
+$
+\begin{aligned}
+\text {Time} &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
              &= \dfrac {35} {14} \\\\
-             &= 2 \ \text {hours}, 5 \ \text{minutes} 
+             &= 2 \ \text {hours}, 30 \ \text {minutes} 
 \end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2 \ \text {hours}, 5 \ \text{minutes}$
+$2 \ \text {hours}, 30 \ \text {minutes}$
 
 </div>
 </div>
@@ -1233,171 +1143,6 @@ $2 \ \text {hours}, 5 \ \text{minutes}$
 </ul>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out what time it is now if the time that has passed since nine o'clock this morning is five times as much as the time that is left before eleven o' clock this morning.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the time is $=a$
-
-$
-\begin{aligned}
-6a   &= 120 \\\\
-a    &= \dfrac {120} {6} \\\\
-a    &= 20 
-\end{aligned}
-$
-
-So, 20 minutes before 11 ,
-
-$10 {:} 40$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 {:} 40$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tspeed
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A sleeper train leaves London at $10{:}17 \ \text{pm}$ and reaches Edinburgh at $5{:}44 \ \text{am}$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate out how long the journey takes in hours and minutes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4 \ \text{hours} 33 \ \text{minutes}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 \ \text{hours} 33 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-An aeroplane takes $7 \ \text{hours}$ to travel from London to New York at a
-constant speed. The distance from London to New York is approximately $5600 \ \text{kilometres}$. 
-Calculate the approximate speed of the aeroplane in kilometres per hour.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Speed} &= \dfrac {\text{Distance} } { \text{Time} } \\\\
-             &= \dfrac {5600} {7} \\\\
-             &= \dfrac {800 \times 7} {7} \\\\
-             &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
-             &= 800 \ \text{kilometres per hour}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$800 \ \text{kilometres per hour}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
@@ -2189,63 +1934,6 @@ $5 \ \text{minutes}$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>7A398F6B-C825-4D14-888B-7DE1673A5240</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-*Ten green bottles hanging on a wall*
-
-*Ten green bottles hanging on a wall*
-
-*If one green bottle should accidentally fall,* 
-
-*There'd be nine green bottles hanging on the wall*
-
-*Nine green bottles...*
-
-If the first bottle fell at ten past five in the morning $(5.10 \ \text{am})$ and the others fell down at five minute 
-intervals, at what time would the last bottle fall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Last bottle fall at} &= 5{:}10 \ \text{am} + 9 \times 5 \\\\
-                           &= 5{:}10 \ \text{am} + 45 \\\\
-                           &= 5{:}55 \ \text{am}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5{:}55 \ \text{am}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>7C315FF4-DCE5-464B-AACC-96D15E4B1B6B</p>
 </div>
 <div class='topics'>
@@ -2643,269 +2331,6 @@ $- 18 \degree$
 </ul>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>0B2DDF0F-855E-489C-A9C7-EF1107955CE1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Yesterday was one of those days. Not only did my watch break at $10.24 \ \text{a.m}$. but when I shook it the 
-watch started going backwards at the correct rate. What is the real time if my watch shows:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$10.10 \ \text{a.m.}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Real time} &= 10{:}24 \ \text{a.m} + 14 \\\\
-                 &= 10{:}38 \ \text{a.m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10{:}38 \ \text{a.m}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$9.43 \ \text{a.m.}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Real time} &= 10{:}24 \ \text{a.m} + 41 \\\\
-                 &= 11{:}05 \ \text{a.m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11{:}05 \ \text{a.m}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>DBC1958C-C043-4319-9AE7-09CEA696EBC9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $463 \ \text{minutes}$ in hours and minutes ?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-463 &= 60 \times 7 + 43 \\\\
-    &= 7 \ \text{hours} \ 43 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7 \ \text{hours} \ 43 \ \text{minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>BA7A2E5A-F0B6-4120-988C-2F8865BF4B44</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $387 \ \text{minutes}$ in hours and minutes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 387 \\\\
-&= 60 \times 6 + 27 \\\\
-&= 6 \ \text{hours} \ 27 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6 \ \text{hours} \ 27 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Change $9.6 \ \text{hours}$ into minutes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \ \text{hour} = 60 \ \text{minutes}$
-
-$
-\begin{aligned}
-&= 9.6 \times 60 \\\\
-&= 576 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$576 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
@@ -5287,162 +4712,6 @@ $8.17 \ \text{am}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>E8BEF82D-E970-4508-A623-9BC202200751</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jamie left school at $3:55 \ \text{pm}$ and arrived home $55 \ \text{minutes}$ later.
-
-At what time did Jamie get home? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4 {:} 50 \ \text{pm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 {:} 50 \ \text{pm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>CEA80618-09C7-44A0-9012-28683BA7B7F2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This is the graph of a firework rocket showing its height at different times. 
-
-%graph%
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Estimate from the graph how many seconds the rocket is more than 
-$25 \ \text{m}$ above the ground.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 7 - 2 \\\\
-&= 5 \ \text {seconds} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5 \ \text {seconds}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Estimate from the graph how far the rocket climbs between the times of $1 \ \text{s}$ and $2 \ \text{s}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 28 - 18 \\\\
-&= 10 \ \text {seconds} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 \ \text {seconds}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>D5012DF2-F430-4487-8A7E-139B87DBBF34</p>
@@ -6282,189 +5551,6 @@ $96 \ \text{minutes}$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>3C6BD9C8-1689-4BFE-B57F-EF761695CD62</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttable
-</li>
-<li>
-ttime
-</li>
-<li>
-tstatistics
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-
-Five teams took part in the relay race at sports day.
-
-Here are their results:
-
-![missing table](/papers/missing_table.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Complete the table to show their positions.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4th, 3rd, 2nd$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4th, 3rd, 2nd$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much faster was the team which came first than the team which came fifth?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 59.9 - 48.34 \\\\
-&= 11.56
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11.56$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The team Cheeetahs broke the school record by $1.9 \ \text{seconds}$.
-
-What was the previous school record?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 48.34 + 1.9 \\\\
-&= 50.24
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$50.24$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Active Eight had $4$ runners in their team.
-
-Find the mean time for each runner in this team by dividing their total time by $4$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {51.2} {4} \\\\
-&= 12.8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12.8$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

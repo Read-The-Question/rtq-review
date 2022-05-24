@@ -1,9 +1,69 @@
 ---
 slug: "topics/topic-tfraction-g1"
 title: "Topic - Fraction - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>C6F4AD83-598E-4D8C-8FE2-F30239151865</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a year group of $180$ students, the students all studied one language.
+
+$\dfrac{2}{5}$ of the students studied French, $\dfrac{1}{4}$ studied Latin and the rest studied Spanish.
+
+How many students studied Spanish?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text{Students (Spanish)}       &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
+                                &=  180 -  \dfrac {2} {5} \times 180 - \dfrac {1} {4} \times 180 \\\\
+                                &=  180 -  \dfrac {2 \times 180} {5} - \dfrac {180} {4} \\\\
+                                &=  180 -  \dfrac {2 \times 36 \times 5} {5} - \dfrac {45 \times 4} {4} \\\\
+                                &=  180 -  \dfrac {2 \times 36 \times \cancel{5}} {\cancel{5}} - \dfrac {45 \times \cancel{4}} {\cancel{4}} \\\\
+                                &=  180 -  2 \times 36 - 45 \\\\
+                                &=  180 -  72 - 45 \\\\
+                                &=  63
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$63$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
@@ -10710,6 +10770,54 @@ $\dfrac {7} {19}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>94F6515A-3D31-4CC3-B8C6-9C2867CCD37D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the difference between $43 \dfrac{1}{3}$ and $51 \dfrac{2}{3}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Difference}   &= 51 \dfrac {2} {3} - 43 \dfrac {1} {3} \\\\
+                     &= \dfrac {155} {3} - \dfrac {130} {3} \\\\
+                     &= \dfrac {155 - 130} {3} \\\\
+                     &= \dfrac {25} {3} \\\\
+                     &= 8 \dfrac {1} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \dfrac {1} {3}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>F5BB2E80-58A6-4ACA-80C3-EEBED0513A81</p>
@@ -10811,6 +10919,126 @@ $6$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>60D39524-723B-4DC7-B301-D1FC0BF667B9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{2}{3} - \dfrac{1}{6}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {2} {3} - \dfrac {1} {6} \\\\
+&= \dfrac {2 \times 2} {3 \times 2} - \dfrac {1} {6} \\\\
+&= \dfrac {4} {6} - \dfrac {1} {6} \\\\
+&= \dfrac {4 - 1} {6} \\\\
+&= \dfrac {3} {6} \\\\
+&= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{2}{5} \times 3$
+
+Write your answer as a mixed number. 
+
+*(You may use the diagrams to help you.)*
+  
+![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {2} {5} \times 3 \\\\
+&= \dfrac {2 \times 3} {5} \\\\
+&= \dfrac {6} {5} \\\\
+&= 1 \dfrac {1} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \dfrac {1} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>2516CBC2-1DA0-4907-AFF5-DDE8C971594D</p>
@@ -10874,6 +11102,132 @@ $\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>8F86C566-74D4-41CB-ADC6-2648BC6CBC05</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Phil holds a bag containing $16$ blue sweets and $4$ red sweets.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What **percentage** of sweets in this bag are red?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Percentage of red sweets}    &= \dfrac {\text {Number of red sweets}} {\text {Total number of sweets}} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {16 + 4} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {20} \times 100 \\\\
+                                    &= \dfrac {4 \times 100} {20} \\\\
+                                    &= \dfrac {4 \times 20 \times 5} {20} \\\\
+                                    &= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20}} \\\\
+                                    &= 4 \times 5 \\\\
+                                    &= 20 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \%$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Phil now eats $$4$$ of the blue sweets.
+
+What fraction of the sweets in the bag are now blue?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Now, Total sweets becomes $20 - 4 = 16$.
+
+No of blue sweets $16 - 4 = 12$.
+
+$
+\begin{aligned}
+\text{Fraction of blue sweets}  &= \dfrac {12} {16} \\\\
+                                &= \dfrac {4 \times 3} {4 \times 4} \\\\
+                                &= \dfrac {\cancel {4} \times 3} {\cancel {4} \times 4} \\\\\
+                                &= \dfrac {3} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

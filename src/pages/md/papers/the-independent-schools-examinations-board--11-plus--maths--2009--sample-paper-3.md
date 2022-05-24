@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-3"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 3"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>The Independent Schools Examinations Board</h1>
@@ -14,7 +14,7 @@ date: 2022-05-24 07:08:08
 </div>
 <ul class='question TODO'>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>644EEE25-F82A-4DD4-A616-390BB876F410</p>
 </div>
@@ -151,14 +151,14 @@ a number which is **not** a prime number
 <div class='workings'>
 <div class='working'>
 
-$15, 27$
+$15$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$15, 27$
+$15$
 
 </div>
 </div>
@@ -210,7 +210,32 @@ Write down the next two numbers in the pattern.
 <div class='workings'>
 <div class='working'>
 
-$31, 35$
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} } \\
+3,  &&    7,  &&  11,  &&   15,  &&   19,   &&   23,  &&  27,  && \ldots,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}   &= 27 + 4 \\\\
+                               &= 31 \\\
+\text {Second missing number}  &= 31 + 4 \\\\
+                               &= 35
+\end{aligned}
+$
 
 </div>
 </div>
@@ -238,7 +263,16 @@ What is the first number in the pattern which is greater than $48$?
 <div class='workings'>
 <div class='working'>
 
-$51$
+Using the above solution we get
+
+$
+\begin{aligned}
+&= 35 + 4 + 4 + 4 + 4 \\\\
+&= 51
+\end{aligned}
+$
+
+$51$ is the first number in the pattern which is greater than $48$.
 
 </div>
 </div>
@@ -257,12 +291,12 @@ $51$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>68CB7B73-86D8-4C13-9AD6-25E68ADB0A8B</p>
 </div>
@@ -455,12 +489,12 @@ $60 \pounds$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>768047AF-2D34-4B56-88E6-802A32B95806</p>
 </div>
@@ -516,8 +550,9 @@ How many football cards did he buy in total?
 
 $
 \begin{aligned}
-&= 56 + 72 \\\\
-&= 128
+\text {Total football cards bought} &= \text {Football cards bought last week} + \text {Football cards bought this week} \\\\
+                                    &= 56 + 72 \\\\
+                                    &= 128
 \end{aligned}
 $
 
@@ -553,10 +588,11 @@ How many packs of football cards did Ryan buy altogether?
 
 $
 \begin{aligned}
-&= \dfrac {128} {8} \\\\
-&= \dfrac {16 \times 8} {8} \\\\
-&= \dfrac {16 \times \cancel{8}} {\cancel{8}} \\\\
-&= 16
+\text {Packs of cards Ryan bought} &= \dfrac {\text {Total cards bought}} {\text {Capacity of each pack}} \\\\
+                                   &= \dfrac {128} {8} \\\\
+                                   &= \dfrac {16 \times 8} {8} \\\\
+                                   &= \dfrac {16 \times \cancel{8}} {\cancel{8}} \\\\
+                                   &= 16
 \end{aligned}
 $
 
@@ -616,8 +652,10 @@ What is the cost of $9$ packs of football cards?
 
 $
 \begin{aligned}
-&= 35 \times 9 \\\\
-&= \pounds 315
+\text {Cost of 9 packs}    &= 35 \ \text {pence} \times 9 \\\\
+                           &= \pounds \dfrac {35} {100} \times 9 \\\\
+                           &= 0.35 \times 9 \\\\
+                           &= \pounds 3.15
 \end{aligned}
 $
 
@@ -656,6 +694,8 @@ $
 \end{aligned}
 $
 
+She got $\pounds 1.85$ as change.
+
 </div>
 </div>
 <div class='answers'>
@@ -676,12 +716,12 @@ $\pounds 1.85$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>50218989-87F6-450D-87C8-BF8DFB4F2B75</p>
 </div>
@@ -806,12 +846,12 @@ $100.08$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>CA0467B7-80F4-4714-91E9-93A58BF64E09</p>
 </div>
@@ -819,6 +859,9 @@ $100.08$
 <ul>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -884,14 +927,14 @@ $-1$ and $0$
 <div class='workings'>
 <div class='working'>
 
-$1$
+$-0.5$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1$
+$-0.5$
 
 </div>
 </div>
@@ -934,20 +977,28 @@ $0.25$
 </div>
 <div class='question subquestion'>
 
-$\dfrac{1}{3}$ and $\dfrac{1}{2}$
+$\dfrac {1} {3}$ and $\dfrac {1} {2}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {1} {6}$
+$
+\begin{aligned}
+\dfrac {1} {3}                     &= 0.3 \\\\
+\dfrac {1} {2}                     &= 0.5 \\\\
+\text {number between 0.3 and 0.5} &= 0.4 \\\\
+0.4                                &= \dfrac {4} {10} \\\\
+                                   &= \dfrac {2} {5}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {6}$
+$\dfrac {2} {5}$
 
 </div>
 </div>
@@ -959,7 +1010,7 @@ $\dfrac {1} {6}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -1611,7 +1662,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>4C30C140-DE0B-4840-B727-FB67ABC627E4</p>
 </div>
@@ -1722,14 +1773,14 @@ Which two cities had a temperature difference of $6 \degree \text{C}$?
 <div class='workings'>
 <div class='working'>
 
-$4, -2$
+$\text {London}, \text {Edinburgh}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4, -2$
+$\text {London}, \text {Edinburgh}$
 
 </div>
 </div>
@@ -1752,7 +1803,13 @@ Write down the temperature in Liverpool in the evening,
 <div class='workings'>
 <div class='working'>
 
-$-3$
+$
+\begin{aligned}
+\text {temperature in Liverpool in the evening} &= \text {temperature in the morning} - \text {$2 \degree \text{C}$} \\\\
+                                                &= -1 \degree \text {C} - 2 \degree \text {C} \\\\
+                                                &= -3 \degree \text {C}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1771,7 +1828,7 @@ $-3$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -2003,7 +2060,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>815D7E74-0B4C-4E99-99F9-117582F86F67</p>
 </div>
@@ -2087,10 +2144,10 @@ $70  \ \text{inches}$ in metres
 
 $
 \begin{aligned}
-&= 70 \times 2.5 \\\\
-&= 175 \ \text{cm}
-&= \dfrac {175} {1000} \\\\
-&= 0.175 \ \text{m}
+&= 70 \times 2.5 \ \text {cm} \\\\
+&= 70 \times \dfrac {2.5} {100} \ \text {m} \\\\
+&= 70 \times 0.025 \\\\
+&= 0.175 \ \text {m}
 \end{aligned}
 $
 
@@ -2111,12 +2168,12 @@ $0.175 \ \text{m}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>68CEB180-7D86-47C3-9B5B-C796E3376009</p>
 </div>
@@ -2252,7 +2309,7 @@ $17$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

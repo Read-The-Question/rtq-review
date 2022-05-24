@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-g1"
 title: "Topic - Noexplanation - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2485,6 +2485,156 @@ $4765$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>5BF7966D-4D9E-4184-A424-12393A4AB382</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The table shows information about some goal scorers across $3$ football leagues:
+
+
+<!--
+**Name**            ,**League**     ,**Goals**  ,**Matches**
+Iago Aspas          ,Spanish        ,19         ,32 
+Timo Werner         ,German         ,21         ,31 
+Romelu Lukaku       ,English        ,25         ,37 
+Dele Alli           ,English        ,18         ,37 
+Anthony Modeste     ,German         ,25         ,34 
+Cristiano Ronaldo   ,Spanish        ,26         ,29
+-->
+
+|      **Name**         | **League**     | **Goals**     | **Matches**     |
+|:-----------------:    |:----------:    |:---------:    |:-----------:    |
+|     Iago Aspas        |   Spanish      |     19        |      32         |
+|    Timo Werner        |   German       |     21        |      31         |
+|   Romelu Lukaku       |   English      |     25        |      37         |
+|     Dele Alli         |   English      |     18        |      37         |
+|  Anthony Modeste      |   German       |     25        |      34         |
+| Cristiano Ronaldo     |   Spanish      |     26        |      29         |
+
+**From the players listed here**,
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+which player scored the most goals?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Cristiano Ronaldo}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Cristiano Ronaldo}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+which league did the player who scored the least goals play in?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{English}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{English}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+which league had the most goals scored in it by these players?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{German}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{German}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>3F8909D1-F3B2-4F16-AA83-CCF85A77CEF0</p>
 </div>
 <div class='topics'>
@@ -2562,6 +2712,49 @@ $32027$
 
 <div class='papername'>
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>038E02CB-3A7A-4452-A7B9-B26C234E7231</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write as a number: ninety thousand and nine  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$90009$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90009$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -2696,6 +2889,108 @@ $\text {Wednesday}$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>62C66561-F3E0-4965-B7E2-15DAB3203A00</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Below is a repeated pattern of numbered shapes.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the pattern continues in the same way, write the numbers of the next two *stars* in the pattern.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$11, \ 16$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11, \ 16$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What shape will number $35$ be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Circle}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Circle}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3331,6 +3626,229 @@ $42008$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>A2AB9E52-5757-48BA-893F-644438CCA57D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Joey has the six number cards shown below
+
+$
+\huge {
+\boxed {1} 
+\quad \boxed {2} 
+\quad \boxed {3} 
+\quad \boxed {4}
+\quad \boxed {5}
+\quad \boxed {8}
+}
+$
+
+The number cards are to be placed next to each other to form different numbers.
+
+For example using three of the cards you could make two hundred and fifty one like this: 
+
+$
+\huge {
+\boxed {2} 
+\ \boxed {5} 
+\ \boxed {1}
+}
+$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the largest $4$-digit even number that can be made?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\huge { \boxed {8} \ \boxed {5} \ \boxed {4} \ \boxed {3} }$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8543$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the smallest two-digit prime number that can be made?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\huge { \boxed {1} \ \boxed {3} }$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using $5$ cards, make a multiple of $3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\huge { \boxed {1} \ \boxed {2} \ \boxed {3} \ \boxed {4} \ \boxed {5} }$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12345$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Make a three-digit number that is a multiple of both $3$ and $5$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\huge { \boxed {1} \ \boxed {3} \ \boxed {5} }$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$135$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>DFFF4069-B7D4-401D-90CC-7DEA7B300388</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the number twenty-four thousand and twenty-four in figures.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$24024$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24024$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>32D942BE-6B7A-4B62-A207-F11825B1D176</p>
@@ -3565,6 +4083,470 @@ $13$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>F79E876B-8F58-473B-8C5B-5673C2A043B1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write in figures the number:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+eleven thousand and nine
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$11009$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11009$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+which is $10$ less than $903$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 903 - 10 \\\\
+&= 893 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$893$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+which is half of $260$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {half of $260$} &= \dfrac {260} {2} \\\\
+                      &= \dfrac {130 \times \cancel {2} } {\cancel {2} } \\\\
+                      &= \dfrac {130 \times \cancel {2} } {\cancel {2} } \\\\
+                      &= 130
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$130$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Kelly arranges some number cards to make the number $2651$ as shown.
+
+$\boxed{2} \ \boxed{6} \ \boxed{5} \ \boxed{1}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the value of the $2$ in this number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Thousand}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Thousand}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Rearrange the $4$ cards to make the smallest number possible.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1256$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1256$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>CA0467B7-80F4-4714-91E9-93A58BF64E09</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down any number which is between:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$35$ and $38$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$37$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$37$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$-1$ and $0$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$-0.5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-0.5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0.2$ and $0.3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.25$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.25$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {1} {3}$ and $\dfrac {1} {2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {1} {3}                     &= 0.3 \\\\
+\dfrac {1} {2}                     &= 0.5 \\\\
+\text {number between 0.3 and 0.5} &= 0.4 \\\\
+0.4                                &= \dfrac {4} {10} \\\\
+                                   &= \dfrac {2} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>BCABF532-DB4D-44EA-893A-A8CB7914EE55</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Place the following numbers in order of size from smallest to largest: 
+
+$4.2101 \quad 4.1021 \quad 4.0121 \quad 4.0211$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

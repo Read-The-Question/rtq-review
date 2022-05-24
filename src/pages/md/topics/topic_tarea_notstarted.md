@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-notstarted"
 title: "Topic - Area - Not Started"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -7262,58 +7262,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>2ED1078E-E436-4DB2-A728-C73E012861C2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around the edge of the garden, with a swimming poolinside the path. Find the area of the path.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

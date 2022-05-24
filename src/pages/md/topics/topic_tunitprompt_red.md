@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-red"
 title: "Topic - Unitprompt - Red"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -147,6 +147,263 @@ $19.9 \text {cm}$
 </div>
 <div class='rag'>
 <p>rag_nm_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>8A1BFE79-13B6-4A0B-B47B-91961D20F040</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a graph to convert between gallons and litres:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Showing clearly how you take your readings, use your graph to find:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+how many litres are equivalent to $4 \ \text{gallons}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$18 \ \text{litres}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18 \ \text{litres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+how many litres are equivalent to $1.8 \ \text{gallons}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+how many gallons are equivalent to $10 \ \text{litres}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2.2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+One day, Julie's Juice Bar sells $1000 \ \text{litres}$ of orange juice.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Use your answer to part (i) (c) to write $1000 \ \text{litres}$ as gallons.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+10 \ \text {litres}   &= 2.2 \ \text {gallons} \\\\
+1000 \ \text{litres}  &= 2.2 \times 1000 \\\\
+                      &= 2200 \ \text {gallons}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2200 \ \text {gallons}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+It takes $13$ oranges to make $1 \ \text{litre}$ of juice.
+
+How many oranges are needed to make $25 \ \text{litres}$ of juice?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Oranges needed} &= 13 \times 25 \\\\
+                       &= 325 \ \text{oranges}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$325 \ \text{oranges}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

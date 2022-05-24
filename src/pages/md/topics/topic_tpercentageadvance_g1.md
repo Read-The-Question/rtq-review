@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-g1"
 title: "Topic - Percentageadvance - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -82,6 +82,67 @@ $90 \ \text {ml}$
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>AA8ED085-BF3B-4E90-AC3B-C92BC01655FF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentageadvance
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A bag contains $49$ red balls and $1$ blue ball. How many red balls should be removed for the bag to contain $90\%$ red balls?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of red balls removed $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {49 - b} {50 - b}                                             &= \dfrac {90} {100} \\\\
+49 - b                                                               &= \dfrac {90} {100} \times (50 - b) \\\\
+49 - b                                                               &= \dfrac {90} {100} \times 50 - \dfrac {90} {100} \times b \\\\
+49 - b                                                               &= \dfrac {45 \times 2 \times 50} {50 \times 2} - \dfrac {90 b} {100} \\\\
+49 - b                                                               &= \dfrac {45 \times \cancel {2} \times \cancel {50}} {\cancel {50} \times \cancel {2}} - \dfrac {90 b} {100} \\\\
+49 - b                                                               &= 45 - \dfrac {90 b} {100} \\\\
+-b + \dfrac {90 b} {100}                                             &= 45 - 49 \\\\
+-\dfrac {b \times 100} {1 \times 100} + \dfrac {90 b} {100}          &= -4 \\\\
+-\dfrac {100 b + 90 b} {100}                                         &= -4 \\\\
+-\dfrac {10 b} {100}                                                 &= -4 \\\\
+\cancel {-} \dfrac {1 \cancel {0} b} {10 \cancel {0}}                &= \cancel {-} 4 \\\\
+\dfrac {b} {10}                                                      &= 4 \\\\
+b                                                                    &= 4 \times 10 \\\\
+b                                                                    &= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -455,6 +516,66 @@ $610$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>ABB3027C-A3A6-4680-A41E-B49861EF0A45</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentageadvance
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I got $30 \%$ on a $10$-problem test, $70 \%$ on a $20$-problem test and $80 \%$ on a $30$-problem test.
+
+If the three tests are combined into one $60$-problem test, what percentage is my overall score?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Overall score}            &= 10\% \ \text{of} \ \text {10-problem-test} + 70\% \ \text{of} \ \text {20-problem-test} + 80\% \ \text{of}\ \text {30-problem-test} \\\\
+                                 &= \dfrac {10} {100} \times 10 + \dfrac {70} {100} \times 20 + \dfrac {80} {100} \times 30 \\\\
+                                 &= \dfrac {10 \times 10} {100} + \dfrac {70 \times 20} {100} + \dfrac {80 \times 30} {100} \\\\
+                                 &= \dfrac {10 \times 10} {100} + \dfrac {14 \times 5 \times 20} {20 \times 5} + \dfrac {20 \times 4 \times 6 \times 5} {20 \times 5} \\\\
+                                 &= \dfrac {1 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} + \dfrac {14 \times \cancel {5} \times \cancel {20}} {\cancel {20} \times \cancel {5}} + \dfrac {\cancel {20} \times 4 \times 6 \times \cancel {5}} {\cancel {20} \times \cancel {5}} \\\\
+                                 &= 1 + 14 + 6 \times 4 \\\\
+                                 &= 15 + 24 \\\\ 
+                                 &= 39 \\\\
+\text {Overall percentage}       &= \dfrac {39} {60} \times 100 \\\\
+                                 &= \dfrac {3 \times 13 \times 2 \times 5 \times 10} {2 \times 3 \times 10} \\\\
+                                 &= \dfrac {\cancel {3} \times 13 \times \cancel {2} \times 5 \times \cancel {10}} {\cancel {2} \times \cancel {3} \times \cancel {10}} \\\\
+                                 &= 13 \times 5 \\\\
+                                 &= 65 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$65 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

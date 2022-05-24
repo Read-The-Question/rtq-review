@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-all"
 title: "Topic - Statistics - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2864,7 +2864,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>ECDD12D4-46EA-434A-BEFB-8B078113878C</p>
 </div>
@@ -3000,7 +3000,7 @@ $5$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -3652,7 +3652,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>E7E0C2A2-8B04-44D2-977B-6CCDF28C9D80</p>
 </div>
@@ -3672,19 +3672,24 @@ the mean decreases to $11$. Find the number which was included.
 <div class='workings'>
 <div class='working'>
 
-Let take total 7 number as $=a$ and new value as $=b$
+Let take total of 7 numbers as $=a$ and new value as $=b$
+
 $
 \begin{aligned}
 \text{Old mean} &= 12 \\\\
 \dfrac {a} {7}  &= 12 \\\\
-a               &= 84
+a               &= 12 \times 7 \\\\
+a               &= 84 \\\\
 
 \text{New mean}     &= 11 \\\\
 \dfrac {84 + b} {8} &= 11 \\\\
+84 + b              &= 11 \times 8 \\\\
 84 + b              &= 88 \\\\
 b                   &= 88 - 84 \\\\
 b                   &= 4
 \end{aligned}
+
+Therefore, the eigth number $= 4$
 $
 
 </div>
@@ -3701,7 +3706,7 @@ $4$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -8143,7 +8148,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>B260B37F-8BEE-47DF-AEC2-985D659409BC</p>
 </div>
@@ -8166,9 +8171,10 @@ What was her mean score?
 
 $
 \begin{aligned}
-&= \dfrac {16 + 15 + 16 + 10} {4} \\\\
-&= \dfrac {57} {4} \\\\
-&= 14.25
+\text {Mean score}   &= \dfrac {\text {Total marks obtained}} {\text {Total number of tests}} \\\\
+                     &= \dfrac {16 + 15 + 16 + 10} {4} \\\\
+                     &= \dfrac {57} {4} \\\\
+                     &= 14.25
 \end{aligned}
 $
 
@@ -8186,7 +8192,7 @@ $14.5$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -9204,7 +9210,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>3C6BD9C8-1689-4BFE-B57F-EF761695CD62</p>
 </div>
@@ -9288,10 +9294,15 @@ How much faster was the team which came first than the team which came fifth?
 <div class='workings'>
 <div class='working'>
 
+To calculate how much faster the team which came first was than the team which came fifth
+we need to find the difference between the time taken by the the team which came 
+fifth and and the team which came first.
 $
 \begin{aligned}
-&= 59.9 - 48.34 \\\\
-&= 11.56
+\text {time of the team which came fifth} &= 59.9 \ \text {seconds} \\\\
+\text {time of the team which came first} &= 48.34 \ \text {seconds} \\\\
+\text {Difference in their time}          &= 59.9 \ \text {seconds} - 48.34 \ \text {seconds} \\\\
+                                          &= 11.56 \ \text {seconds}
 \end{aligned}
 $
 
@@ -9323,10 +9334,13 @@ What was the previous school record?
 <div class='workings'>
 <div class='working'>
 
+Since the Cheeetahs broke the school record by $1.9 \ \text{seconds}$, the previous
+record must me $1.9 \ \text{seconds}$ more than their current record.
 $
 \begin{aligned}
-&= 48.34 + 1.9 \\\\
-&= 50.24
+\text {previous school record} &= \text {time taken by Cheeetahs} + \text {time by which Cheeetahs broke the previous record} \\\\
+                               &= 48.34 \ \text {seconds} + 1.9 \ \text {seconds} \\\\
+                               &= 50.24 \ \text {seconds}
 \end{aligned}
 $
 
@@ -9382,7 +9396,7 @@ $12.8$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -9607,7 +9621,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>0EE87929-F2CC-4426-8FA5-C13CAE3A2777</p>
 </div>
@@ -9738,7 +9752,8 @@ Find the mean of Bert's numbers.
 
 $
 \begin{aligned}
-\text {Mean} &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
+\text {Mean} &= \dfrac { \text {sum of all the numbers} } { \text {total numbers} } \\\\
+             &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
              &= \dfrac {40} {5} \\\\
              &= 8
 \end{aligned}
@@ -9825,7 +9840,7 @@ $\text {square}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -10118,7 +10133,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>874626A3-7DB5-4CA5-A72C-A3117C27178A</p>
 </div>
@@ -10409,12 +10424,12 @@ $2, 2, 5, 5, 11$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>68CEB180-7D86-47C3-9B5B-C796E3376009</p>
 </div>
@@ -10550,12 +10565,12 @@ $17$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>F7680A83-3A10-435E-B1CA-0E38B44DE6A4</p>
 </div>
@@ -10714,12 +10729,12 @@ $-5$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>B650F2F1-1FB6-4F45-872E-045F8838014C</p>
 </div>
@@ -10835,12 +10850,12 @@ $\pounds 7.14$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>2E4B6B46-9C74-48E1-9CCC-D09491A7E79D</p>
 </div>
@@ -10885,7 +10900,7 @@ $11$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

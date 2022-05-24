@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-all"
 title: "Owner - Banoth Sairam - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -7912,7 +7912,7 @@ $9$
 <div class='topics'>
 <ul>
 <li>
-tmutiplication
+tmultiplication
 </li>
 </ul>
 </div>
@@ -12560,6 +12560,284 @@ $
 <div class='answer'>
 
 $190$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>698B11F8-9733-47E3-A64E-683A3E3D6D13</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The first two terms of a sequence are $1, 2$. 
+Each term after is the sum of all the previous terms in the sequence. 
+Which of these is not part of the sequence?
+
+- $3$
+- $6$
+- $24$
+- $50$
+- $96$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $5$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+1)}} 
+&&  \footnotesize{\maroonC{(+2)}} 
+&&  \footnotesize{\maroonC{(+3)}}  
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+12)}}
+&&  \footnotesize{\maroonC{(+24)}}  
+&&  \footnotesize{\maroonC{(+48)}}  \\
+1,  &&    2,  &&  \ldots,  &&   \ldots,  &&   \ldots   && \ldots   &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First  number}       &= 6 \\\\
+\text{Second  number}      &= 12 \\\\
+\text{third  number}       &= 24 \\\\
+\text{fourth  number}      &= 48 \\\\
+\text{fifth  number}       &= \bold{96} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$96$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>F25E82C3-2612-4DD6-9E94-BBA4771C38C6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the difference between the smallest $3$-digit number and the largest  $4$-digit number?
+
+- $1$
+- $900$
+- $1001$
+- $9998$
+- $9899$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The largest $4$-digit number $= 9999$
+
+the smallest $3$-digit number $= 100$
+
+the difference between the smallest $3$-digit number and the largest  $4$-digit number
+
+$ 9999 - 100$
+
+$9899$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$9899$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>A2279230-AADE-4793-B27A-4810B6805DE7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square piece of card has perimeter $28 \ \text{cm}$. 
+Ann cuts the card into two rectangles. 
+The perimeter of one of the rectangles is $16 \ \text{cm}$. 
+What is the  perimeter of the other rectangle?
+
+- $26$
+- $16$
+- $14$
+- $24$
+- $20$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Perimeter of the square} &=  28 \ \text{cm} \\\\
+4\text{s}                      &= 28 \ \text{cm} \\\\
+\text{s}                       &= \dfrac {28}{4} \\\\ 
+\text{s}                       &= \dfrac {4 \time 7}{4} \\\\ 
+\text{s}                       &= \dfrac {\cancel 4 \time 7}{\cancel 4} \\\\
+\text{s}                       &= 7  \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Perimeter of first rectangle} &=  16 \ \text{cm} \\\\
+2 \times (\text{l} +   \text{b} )   &= 16 \ \text{cm} \\\\
+2 \times (\text{7} +   \text{b} )   &= 16 \\\\
+\text{7} +  \text{b}                &= \dfrac {16}{2} \\\\ 
+\text{7} +  \text{b}                &= \dfrac {2 \times 8}{2} \\\\ 
+\text{7} +  \text{b}                &= \dfrac {\cancel 2 \time 8}{\cancel 2} \\\\
+\text{7} +  \text{b}                &= 8 \\\\
+\text{b}                            &= 8 - 7 \\\\
+\text{b}                            &= 1 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Perimeter of second rectangle} &=  2 \times (\text{l} +   \text{b} ) \\\\
+                                     &=  2 \times (7+6) \\\\
+                                     &=  2 \times 13 \\\\
+                                     &=  26 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$26 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>08FFB9EF-BDF0-49DC-A1FB-6B32890EE987</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagrams below show three different views of the same cube. 
+Which letter is on the face opposite $M$?
+
+![missing image](/papers/missing_image.svg)
+
+- $I$ 
+- $P$ 
+- $K$ 
+- $U$ 
+- $O$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+After assuming a cube , and pointing side we get that the opposite side of $M$ is $U$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$U$
 
 </div>
 </div>

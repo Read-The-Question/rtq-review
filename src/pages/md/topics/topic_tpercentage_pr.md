@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-pr"
 title: "Topic - Percentage - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3153,178 +3153,6 @@ $425$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>F83507F2-235E-4ABA-AC49-C50C6D08899E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a sale, normal prices were reduced by $35 \%$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The normal price of a TV was $\pounds 600$. Work out the sale price of the TV.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Sale price of Tv}  &= \text {Normal Price} - \text {Discount} \\\\
-                          &= \pounds 600  - 35\% \ \text{of} \ 600 \\\\
-                          &= 600 - \dfrac {35} {100} \times 600 \\\\
-                          &= 600 - \dfrac {35 \times 600} {100} \\\\
-                          &= 600 - \dfrac {35 \times 6\cancel{00}} {1\cancel {00}} \\\\
-                          &= 600 - 35 \times 6 \\\\
-                          &= 600 - 210 \\\\
-                          &= \pounds 390
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 390$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The normal price of a clock was reduced by $\pounds 140$. Work out the normal price of the clock.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let normal price $= a$.
-
-As per the question,
-
-$
-\begin{aligned}
-35\% \ \text{of} \ a         &= \pounds 140 \\\\
-\dfrac {35} {100} \times a   &= 140 \\\\
-a                            &= 140 \times \dfrac {100} {35} \\\\
-a                            &= \dfrac {140 \times 100} {35} \\\\
-a                            &= \dfrac {7 \times 2 \times 2 \times 5 \times 100} {7 \times 5} \\\\
-a                            &= \dfrac {\cancel {7} \times 2 \times 2 \times \cancel {5} \times 100} {\cancel {7} \times \cancel {5}} \\\\
-a                            &= 2 \times 2 \times 100 \\\\
-a                            &= \pounds 400
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 400$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The sale price of a computer was $\pounds 884$. Work out the normal price of the computer.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the normal price of $= a$.
-
-As per the question,
-
-$ 
-\begin {aligned}
-\text {Normal price }   &= \text {Sale price} + \text {Discount} \\\\
-                        &= \pounds 884 + 35\% \ \text{of} \ 884 \\\\
-                        &= 884 + \dfrac {35} {100} \times 884 \\\\
-                        &= 884 + \dfrac {35 \times 884} {100} \\\\
-                        &= 884 + \dfrac {7 \times 5 \times 2 \times 442} {2 \times 10 \times 5} \\\\
-                        &= 884 + \dfrac {7 \times \cancel {5} \times \cancel {2} \times 442} {\cancel {2} \times 10 \times \cancel {5}} \\\\
-                        &= 884 + \dfrac {3094} {10} \\\\
-                        &= 884 + 309.4 \\\\
-                        &= \pounds 1193.4
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1193.4$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>A6B8B57F-EC4F-46B7-B764-FB72554BB7C3</p>
@@ -4570,73 +4398,6 @@ $60 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>C82E5C30-82DD-4D11-B4AF-0C2607D4E161</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the difference between $20 \%$ of $90$ and $90 \%$ of $20$? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 20 \% \ \text{of} 90 \\\\
-&= \dfrac {20} {100} \times 90 \\\\
-&= \dfrac {20 \times 90} {100} \\\\
-&= \dfrac {2 \cancel{0} \times 9 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-&= 2 \times 9 \\\\
-&= 18
-\end{aligned}
-$
-
-$
-\begin{aligned}
-&= 90 \% \ \text{of} 20 \\\\
-&= \dfrac {90} {100} \times 20 \\\\
-&= \dfrac {90 \times 20} {100} \\\\
-&= \dfrac {9 \cancel{0} \times 2 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-&= 9 \times 2 \\\\
-&= 18
-\end{aligned}
-$
-
-$
-\begin{aligned}
-&= 18 - 18 \\\\
-&= 0 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>30BCF600-D39C-411C-82F9-AC4685D34425</p>
@@ -4685,77 +4446,6 @@ $0$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>B997FB3B-115F-4CC3-BC0E-C9D91855E806</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Children are offered a $25\%$ discount on the cost of an adult ticket to visit Hamshaw House. 
-Senior citizens are given a $20\%$ discount. If a child's ticket costs $\pounds 30$, how much does a senior citizen pay?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cost of an adult ticket $= a$.
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Cost of a children ticket}           &= \text {Cost of an adult ticket} - 25 \% \ \text {of} \ \text {Cost of an adult ticket} \\\\
-\pounds 30                                  &= a - \dfrac {25} {100} \ \text {of} \ a \\\\
-30                                          &= a - \dfrac {25} {100} \times a \\\\
-30                                          &= a - \dfrac {25a} {100} \\\\
-30                                          &= \dfrac {100 \times a} {100 \times 1} - \dfrac {25a} {100} \\\\
-30                                          &= \dfrac {100a} {100} - \dfrac {25a} {100} \\\\
-30                                          &= \dfrac {100a - 25a} {100} \\\\
-30                                          &= \dfrac {75a} {100} \\\\
-\dfrac {30 \times 100} {75}                 &= a \\\\
-a                                           &= \dfrac {15 \times 2 \times 5 \times 20} {15 \times 5} \\\\
-a                                           &= \dfrac {\cancel {15} \times 2 \times \cancel {5} \times 20} {\cancel {15} \times \cancel {5}} \\\\
-a                                           &= 2 \times 20 \\\\
-a                                           &= \pounds 40 \\\\
-\text {Cost of a senior citizen's ticket}   &= \text {Cost of an adult ticket} - 20 \% \ \text {of} \ \text {Cost of an adult ticket} \\\\
-                                            &= \pounds 40 - \dfrac {20} {100} \times \pounds 40 \\\\
-                                            &= 40 - \dfrac {20 \times 40} {100} \\\\
-                                            &= 40 - \dfrac {20 \times 5 \times 8} {20 \times 5} \\\\
-                                            &= 40 - \dfrac {\cancel {20} \times \cancel {5} \times 8} {\cancel {20} \times \cancel {5}} \\\\
-                                            &= 40 - 8 \\\\
-                                            &= \pounds 32
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 32$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -4816,9 +4506,10 @@ What is the total value of all the coins in her bag?
 
 $
 \begin{aligned}
-\text{Total value} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
-                   &= 50 + 40 + 5 + 12 \\\\
-                   &= \pounds 107
+\text {Total value of all coins} &= \text {one fifty pence coin} + \text {two twenty pence coin} + \text {one five pence coin} + \text {Remaining two pence coin} \\\\
+\text {Total value of all coins} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
+                                 &= 50 + 40 + 5 + 12 \\\\
+                                 &= \pounds 107
 \end{aligned}
 $
 
@@ -4850,9 +4541,12 @@ What percentage of the coins are $20 \ \text{pence}$ coins?
 
 $
 \begin{aligned}
-&= \dfrac {40} {107} \times 100 \\\\
-&= \dfrac {40 \times 100} {107} \\\\ 
-&= 37.38 \%
+\text {percentage of 20 pence coins} &= \dfrac {\text {total number of 20 pence coins}} {\text {total number of coins}} \times 100 \\\\
+                                     &= \dfrac {2} {10} \times 100 \\\\
+                                     &= \dfrac {2 \times 100} {10} \\\\
+                                     &= \dfrac {2 \times 10 \cancel {0}} {1 \cancel {0}} \\\\
+                                     &= 2 \times 10 \\\\
+                                     &= 20 \%
 \end{aligned}
 $
 
@@ -4861,7 +4555,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$37.38 \%$
+$20 \%$
 
 </div>
 </div>
@@ -5150,132 +4844,6 @@ $15 \%$
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>8F86C566-74D4-41CB-ADC6-2648BC6CBC05</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Phil holds a bag containing $16$ blue sweets and $4$ red sweets.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What **percentage** of sweets in this bag are red?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Percentage of red sweets}    &= \dfrac {\text {Number of red sweets}} {\text {Total number of sweets}} \ \text {of} \ 100 \\\\
-                                    &= \dfrac {4} {16 + 4} \ \text {of} \ 100 \\\\
-                                    &= \dfrac {4} {20} \times 100 \\\\
-                                    &= \dfrac {4 \times 100} {20} \\\\
-                                    &= \dfrac {4 \times 20 \times 5} {20} \\\\
-                                    &= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20}} \\\\
-                                    &= 4 \times 5 \\\\
-                                    &= 20 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Phil now eats $$4$$ of the blue sweets.
-
-What fraction of the sweets in the bag are now blue?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Now, Total sweets becomes $20 - 4 = 16$.
-
-No of blue sweets $16 - 4 = 12$.
-
-$
-\begin{aligned}
-\text{Fraction of blue sweets}  &= \dfrac {12} {16} \\\\
-                                &= \dfrac {4 \times 3} {4 \times 4} \\\\
-                                &= \dfrac {\cancel {4} \times 3} {\cancel {4} \times 4} \\\\\
-                                &= \dfrac {3} {4}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {4}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -840,7 +840,7 @@ Banana $= 50 \ \text{pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>C6F4AD83-598E-4D8C-8FE2-F30239151865</p>
 </div>
@@ -895,7 +895,7 @@ $63$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -9489,7 +9489,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
 </div>
@@ -9511,19 +9511,28 @@ Work out what time it is now if the time that has passed since nine o'clock this
 <div class='workings'>
 <div class='working'>
 
-Let the time is $=a$
+Let the time left before eleven o'clock is $= a$
 
 $
 \begin{aligned}
-6a   &= 120 \\\\
-a    &= \dfrac {120} {6} \\\\
-a    &= 20 
+\text {Time passed since nine o'clock}  &= 5 \times a \\\\
+                                        &= 5a
 \end{aligned}
 $
 
-So, 20 minutes before 11 ,
+$
+\begin{aligned}
+\text {Total time} &= (11 - 9) \ \text {hours} \\\\
+            5a + a &= (2 \times 60) \ \text {minutes} \\\\
+                6a &= 120 \ \text {minutes} \\\\
+                 a &= \dfrac {120} {6} \\\\
+                 a &= \dfrac {6 \times 20} {6} \\\\
+                 a &= \dfrac {\cancel 6 \times \ 20} {\cancel 6} \\\\
+                 a &= 20 \ \text {minutes}
+\end{aligned}
+$
 
-$10 {:} 40$
+So, 20 minutes before 11 o'clock $= 10 {:} 40$
 
 </div>
 </div>
@@ -9539,7 +9548,7 @@ $10 {:} 40$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -13753,7 +13762,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>BA1D755E-247B-459D-BA62-7EACF068C6A6</p>
 </div>
@@ -13821,7 +13830,7 @@ $84$
 <p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -20353,7 +20362,7 @@ $6 \text{ cm}, \ 12 \text{ cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>49F70149-6E7A-4A5E-9D2E-9FBDD68F2349</p>
 </div>
@@ -20402,7 +20411,7 @@ $6$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -20464,7 +20473,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>CA23ED80-3421-4BAC-BBB7-618D72B3F32C</p>
 </div>
@@ -20626,7 +20635,7 @@ $11$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -21089,7 +21098,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>9B2BAD76-821C-4206-AED5-F5F1A8A5545E</p>
 </div>
@@ -21146,7 +21155,7 @@ $600 \ \text{g}$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -21517,7 +21526,7 @@ $0.6 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>251FBF03-47A6-429C-803A-6682014D04F1</p>
 </div>
@@ -21559,7 +21568,7 @@ $240 \ \text{g}$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -22772,7 +22781,7 @@ $23,483$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>0987E5A4-4B55-4CE4-AE21-2C2FA89D1803</p>
 </div>
@@ -22948,7 +22957,7 @@ $- 280$
 <p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -28553,7 +28562,7 @@ $10, 11, 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>4FD3FA7F-457F-4731-B4AE-15DCF80081B3</p>
 </div>
@@ -28617,7 +28626,7 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -28675,7 +28684,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>DE21514C-D0D8-4AC5-AA51-07E6EBC58C80</p>
 </div>
@@ -28729,7 +28738,7 @@ $29, 58$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -35500,71 +35509,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>8DABE50C-B242-43CA-A194-C553FE7000E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jan counted a total of $100$ cars parked in four rows of a departmental store car park. 
-Five minutes later, $10$ cars had driven away from the first row, 
-$8$ cars had driven away from the second row, 
-$6$ cars had driven away from the third row and 
-$4$ cars had driven away from the fourth row. 
-She noticed that there was now the same number of cars in each row. 
-How many cars were originally parked in the third row? 
-
-- $24$
-- $19$
-- $25$
-- $18$
-- $23$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>B4811CE8-001C-4E89-B5D6-B3377D1B9012</p>
 </div>
 <div class='topics'>
@@ -36130,7 +36074,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>83315ED9-DB65-48DC-A17E-D2511B4529A7</p>
 </div>
@@ -36160,25 +36104,20 @@ Work out the cost of the burger, the chips and the drink.
 <div class='workings'>
 <div class='working'>
 
-The cost that Tom paid for burger(a) and chips(b) & = $\pounds 8$
+Let the cost of burger $= a$, cost of the chips $= b$, cost of drink $= c$.
+
+As per the question,
 
 $
-\begin{aligned} 
-a + b &= 8 \\\\
-b     &= 8 - a
+\begin{aligned}
+a + b                              &= 8 \\\\
+b                                  &= 8 - a \\\\
+2a + c                             &= 15 \\\\
+a                                  &= \dfrac {15 - c} {2}
 \end{aligned}
 $
 
-The cost that Fed paid for 2 burger(a) and drink(c) & = $\pounds 15$ 
-
-$
-\begin{aligned} 
-2a + c &= 15 \\\\
-a      &= \dfrac {15 - c} {2} 
-\end{aligned}
-$
-
-The cost that Jo paid for burger(a) and drink(c) & = $\pounds 8$
+Using the two equations above we get,
 
 $
 \begin{aligned} 
@@ -36187,26 +36126,37 @@ a                   &= 8 - c \\\\
 \dfrac {15 - c} {2} &= 8 - c \\\\
 15 - c              &= 16 - 2c \\\\
 2c - c              &= 16 - 15 \\\\
-c                   &= 1 \\\\
-a                   &= 8 - c \\\\
-a                   &= 8 - 1 \\\\
-a                   &= 7
+c                   &= 1
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2a + c                             &= 15 \\\\
+2a + 1                             &= 15 \\\\
+2a                                 &= 15 - 1 \\\\
+a                                  &= \dfrac {14} {2} \\\\
+a                                  &= 7
 \end{aligned}
 $
 
 $
 \begin{aligned} 
-b   &= 8 - 7 \\\\
-b   &= 1 
+a + b &= 8 \\\\
+a + 7 &= 8 \\\\
+b     &= 8 - 7 \\\\
+b     &= 1 
 \end{aligned}
 $
+
+The price of burger $= \pounds 7$, price of chips $= \pounds 1$, price of drink $= \pounds 1$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$7, 1, 1$
+$\pounds 7,\pounds 1,\pounds 1$
 
 </div>
 </div>
@@ -36215,7 +36165,7 @@ $7, 1, 1$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -37865,7 +37815,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>0EE87929-F2CC-4426-8FA5-C13CAE3A2777</p>
 </div>
@@ -37996,7 +37946,8 @@ Find the mean of Bert's numbers.
 
 $
 \begin{aligned}
-\text {Mean} &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
+\text {Mean} &= \dfrac { \text {sum of all the numbers} } { \text {total numbers} } \\\\
+             &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
              &= \dfrac {40} {5} \\\\
              &= 8
 \end{aligned}
@@ -38083,7 +38034,7 @@ $\text {square}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -49351,7 +49302,7 @@ $24 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>DB9E2E26-0316-4C3F-9AF2-5DD67552215E</p>
 </div>
@@ -49545,7 +49496,7 @@ $40 \degree$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -55379,17 +55330,22 @@ $\Box\:\:\:\:\times\:\:\:\:\Box\:\:\:\:\times\:\:\:\:\Box= \:\:\:512$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be $= a$
+Let the missing number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-a \times a \times a                  &= 512 \\\\
-a \times a \times a                  &= 8 \times 8 \times 8 \\\\
-a                                    &= 8
+a^3 &=  2 \times 256 \\\\
+a^3 &= 4 \times 128 \\\\
+a^3 &= 8 \times 64 \\\\
+a^3 &= 8 \times 8 \times 8 \\\\
+a^3 &= 8^3 \\\\
+a &= 8
 \end{aligned}
 $
+
+The number in the missing box $= 8$
 
 </div>
 </div>
@@ -55546,12 +55502,11 @@ I am five years older than my brother. Our ages add up to $23$. How old am I?
 
 Let my age $=a$
 
-My brother's age $=a-5$
-
 As per the question,
 
 $
 \begin{aligned}
+\text{My age} + \text{Brother's age}      &= \text{Total age} \\\\
 a + a - 5                   &= 23 \\\\
 2a - 5                      &= 23 \\\\
 2a                          &= 23 + 5 \\\\
@@ -55563,12 +55518,14 @@ a                           &= 14
 \end{aligned}
 $
 
+I am $ = 14 \ \text{years old}$
+
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$14$
+$14 \ \text{years}$
 
 </div>
 </div>
@@ -55603,20 +55560,16 @@ Bob’s bucket weighs $21\,kg$ when full of water. After he pours half the water
 
 Let the weight of empty bucket $=a$
 
-Weight of water $= 21 - a$
-
 As per the question,
 
 $
 \begin{aligned}
-a + \dfrac{21 - a} {2}                                          &= 12 \\\\
-\dfrac{2 \times a} {2} + \dfrac{21 - a} {2}                     &= 12 \\\\
-\dfrac{2a + 21 - a} {2}                                         &= 12 \\\\
+\text{Weight of empty bucket} + \dfrac{\text{Weight of water}}{2} &= 12 \\\\
 \dfrac{a + 21} {2}                                              &= 12 \\\\
 a + 21                                                          &= 12 \times 2 \\\\
 a + 21                                                          &= 24 \\\\
 a                                                               &= 24 - 21 \\\\
-a                                                               &= 3
+a                                                               &= 3 \ \text{kg}
 \end{aligned}
 $
 
@@ -55625,7 +55578,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3$
+$3 \ \text{kg}$
 
 </div>
 </div>

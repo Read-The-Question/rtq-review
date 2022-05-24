@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-3"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -373,12 +373,11 @@ I am five years older than my brother. Our ages add up to $23$. How old am I?
 
 Let my age $=a$
 
-My brother's age $=a-5$
-
 As per the question,
 
 $
 \begin{aligned}
+\text{My age} + \text{Brother's age}      &= \text{Total age} \\\\
 a + a - 5                   &= 23 \\\\
 2a - 5                      &= 23 \\\\
 2a                          &= 23 + 5 \\\\
@@ -390,12 +389,14 @@ a                           &= 14
 \end{aligned}
 $
 
+I am $ = 14 \ \text{years old}$
+
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$14$
+$14 \ \text{years}$
 
 </div>
 </div>
@@ -561,20 +562,16 @@ Bob’s bucket weighs $21\,kg$ when full of water. After he pours half the water
 
 Let the weight of empty bucket $=a$
 
-Weight of water $= 21 - a$
-
 As per the question,
 
 $
 \begin{aligned}
-a + \dfrac{21 - a} {2}                                          &= 12 \\\\
-\dfrac{2 \times a} {2} + \dfrac{21 - a} {2}                     &= 12 \\\\
-\dfrac{2a + 21 - a} {2}                                         &= 12 \\\\
+\text{Weight of empty bucket} + \dfrac{\text{Weight of water}}{2} &= 12 \\\\
 \dfrac{a + 21} {2}                                              &= 12 \\\\
 a + 21                                                          &= 12 \times 2 \\\\
 a + 21                                                          &= 24 \\\\
 a                                                               &= 24 - 21 \\\\
-a                                                               &= 3
+a                                                               &= 3 \ \text{kg}
 \end{aligned}
 $
 
@@ -583,7 +580,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3$
+$3 \ \text{kg}$
 
 </div>
 </div>
@@ -631,13 +628,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter of shape}       &= \text{Perimeter of rectangle} + \text{Perimeter of triangle} - 2 \times \text{base of triangle} \\\\
-                                &= 2 \times (\text{length} + \text{width}) + 3 + 4.5 + 4.5 - 2 \times 3 \\\\
-                                &= 2 \times (9 + 3) + 12 - 6 \\\\
-                                &= 2 \times 12 + 12 - 6 \\\\
-                                &= 24 + 12 - 6 \\\\
+\text{Perimeter of shape}       &= \text{Sum of all sides} \\\\
+                                &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
+                                &= 9 + 6 + 9 + 6 \\\\
 \text{Perimeter of shape}       &= 30 \ \text{cm}
-
 \end{aligned}
 $
 
@@ -707,18 +701,41 @@ Write down two of these numbers with a difference of $8$
 <div class='workings'>
 <div class='working'>
 
-Difference between $4$ and $-4$ = $4-(-4) = 4+4 = 8$
-Difference between $3$ and $-5$ = $3-(-5) = 3+5 = 8$
-Difference between $5$ and $-3$ = $5-(-3) = 5+3 = 8$
+Difference between $4$ and $-4$ 
+$
+\begin{aligned}
+&= 4-(-4) \\\\
+&= 4+4 \\\\
+&= 8
+\end{aligned}
+$
 
-The numbers with difference $8$ = $(4, -4), (3, -5), (5, -3)$
+Difference between $3$ and $-5$ 
+$
+\begin{aligned}
+&= 3-(-5) \\\\
+&= 3+5 \\\\
+&= 8
+\end{aligned}
+$
+
+Difference between $5$ and $-3$ 
+$
+\begin{aligned}
+&= 5-(-3) \\\\
+&= 5+3 \\\\
+&= 8
+\end{aligned}
+$
+
+The numbers with difference $8$ = $4, -4 \ \text{or} \ 3, -5 \ \text{or} \ 5, -3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(4, -4), (3, -5), (5, -3)$
+$4, -4 \ \text{or} \ 3, -5 \ \text{or} \ 5, -3$
 
 </div>
 </div>
@@ -739,19 +756,38 @@ Write down two of these numbers which have a sum of $-3$
 <div class='workings'>
 <div class='working'>
 
-Sum of $-1$ and $-2$ = $-1-2 = -3$
-Sum of $-3$ and $0$ = $-3+0 = -3$
-Sum of $-4$ and $1$ = $-4+1 = -3$
-Sum of $-5$ and $2$ = $-5+2 = -3$
+Sum of $-1$ and $-2$ 
+$
+\begin{aligned}
+&= -1-2 \\\\
+&= -3 \\\\
+\end{aligned}
+$
 
-The numbers whose sum is $-3$ are $(-1, -2), (-3, 0), (-4, 1), (-5, 2)$
+Sum of $-3$ and $0$ 
+$
+\begin{aligned}
+&= -3+0 \\\\
+&= -3 \\\\
+\end{aligned}
+$
+
+Sum of $-4$ and $1$ 
+$
+\begin{aligned}
+&= -4+1 \\\\
+&= -3 \\\\\
+\end{aligned}
+$
+
+The numbers whose sum is $-3$ are $-1, -2 \ \text{or} \ -3, 0 \ \text{or} \ -4, 1$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(-1, -2), (-3, 0), (-4, 1), (-5, 2)$
+$-1, -2 \ \text{or} \ -3, 0 \ \text{or} \ -4, 1$
 
 </div>
 </div>
@@ -1565,6 +1601,9 @@ $45$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tnumber
+</li>
 </ul>
 </div>
 <div class='question question'>

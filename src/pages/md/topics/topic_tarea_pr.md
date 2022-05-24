@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-pr"
 title: "Topic - Area - PR"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1377,133 +1377,6 @@ $3.6 \ \text {m} ^ 2$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the area and perimeter of this shape. 
-
-Note: all angles are right angles.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Area
-
-$
-\begin{aligned}
-\text {Total Area} &= \text{Area of rectangle 1} + \text{Area of rectangle 2} \\\\
-                   &= 14 \times 5 + (14 - 6) \times 4 \\\\
-                   &= 70 + 32 \\\\
-                   &= 102 \ \text{cm}^2
-\end{aligned}
-$
-
-Perimeter
-
-$
-\begin{aligned}
-\text {Total Perimeter} &= \text{Perimeter of whole rectangle } - \text{Perimeter of smaller rectangle} \\\\
-                        &= 2 \times (14 + 9) - (6 + 4) \\\\
-                        &= 46 - 10 \\\\
-                        &= 36 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$102 \ \text{cm}^2, 36 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the area and perimeter of this shape.
-
-Note: all angles are right angles but the diagram has not been drawn to scale.
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Area} &= 16 \times 3 + 10 \times 7 + 20 \times 2 \\\\
-             &= 48 + 70 + 40 \\\\
-             &= 112 \ \text{cm}^2
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Perimeter} &= 16 + 3 + 6 + 7 + 10 + 2 + 20 + 12 \\\\
-                  &= 76 \ \text{cm} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$112 \ \text{cm}^2, 76 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -3299,6 +3172,66 @@ $
 <div class='answer'>
 
 $24 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>2ED1078E-E436-4DB2-A728-C73E012861C2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around the edge of the garden, with a swimming poolinside the path. Find the area of the path.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know,
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
+                                                   &= 15 \ \text{m} - 2 \ \text{m} \times 2 \ \text{m} \times 12 \text{m} - 2 \ \text{m} \times 2 \ \text{m} \\\\
+                                                   &= 15 \ \text{m} - 4 \ \text{m} \times 12 \ \text{m} - 4 \ \text{m} \\\\
+                                                   &= 11 \ \text{m} \times 8 \ \text{m} \\\\
+                                                   &= 88 \ \text{m}^{2} \\\\
+\text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
+                                                   &= 15 \ \text{m} \times 12 \ \text{m}  - 88 \ \text{m}^{2} \\\\
+                                                   &= 180 \ \text{m}^{2} - 88 \ \text{m}^{2} \\\\
+                                                   &= 92 \ \text{m}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$92 \ \text{m}^{2}$
 
 </div>
 </div>
@@ -5353,56 +5286,6 @@ $
 <div class='answer'>
 
 $35 cm^2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>19234F0C-4C85-4F00-8A0C-D18A9430B6A0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Four strips of paper are stuck on a table as shown. Each one is a rectangle that is $12 \ \text{cm}$ long and $2 \ \text{cm}$ wide.
-
-![missing image](/papers/missing_image.svg)
-
-What area of the table is covered? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Total Area}  &=  12 \times 2 \time 4 - 2 \times 2 \times 4 \\\\
-                    &=  96 - 16 \\\\
-                    &=  80 \ \text{cm^2} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$80 \ \text{cm^2}$
 
 </div>
 </div>
@@ -7520,7 +7403,7 @@ A rectangle measures $4.0\,cm$ by $7.1\,cm$. What is its area?
 $
 \begin{aligned}
 \text{Area}             &= \text{length} \times \text{width} \\\\
-                        &= 4.0 \times 7.1
+                        &= 4.0 \times 7.1 \\\\
                         &= 28.4 \ \text{cm}^2
 \end{aligned}
 $

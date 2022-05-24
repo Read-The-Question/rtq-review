@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-red"
 title: "Topic - Division - Red"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -204,6 +204,150 @@ $702$
 </div>
 <div class='rag'>
 <p>rag_nc_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3258 \div 9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3258 \div 9 \\\\
+&= \dfrac {3258} {9} \\\\
+&= \dfrac {362 \times 9} {9} \\\\
+&= \dfrac {362 \times \cancel {9}} {\cancel {9}} \\\\
+&= 362
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$362$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>012B2EE9-6837-4285-9A6B-930DDEE39FAD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$385 \div 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 385 \div 7 \\\\
+&= \dfrac {385} {7} \\\\
+&= \dfrac {55 \times 7} {7} \\\\
+&= \dfrac {55 \times \cancel{7} } {\cancel{7} } \\\\
+&= 55
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>9E2D3610-906A-449B-82A4-3DB6E141D0E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$602 \div 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 602 \div 7 \\\\
+&= \dfrac {602} {7} \\\\
+&= \dfrac {86 \times 7} {7} \\\\
+&= \dfrac {86 \times \cancel {7} } {\cancel {7} } \\\\
+&= 86
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$86$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

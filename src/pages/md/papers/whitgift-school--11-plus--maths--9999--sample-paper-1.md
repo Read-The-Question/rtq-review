@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>Whitgift School</h1>
@@ -1737,7 +1737,7 @@ A rectangle measures $4.0\,cm$ by $7.1\,cm$. What is its area?
 $
 \begin{aligned}
 \text{Area}             &= \text{length} \times \text{width} \\\\
-                        &= 4.0 \times 7.1
+                        &= 4.0 \times 7.1 \\\\
                         &= 28.4 \ \text{cm}^2
 \end{aligned}
 $

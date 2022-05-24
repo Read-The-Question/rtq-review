@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-all"
 title: "Topic - Percentage - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10294,7 +10294,7 @@ $425$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>F83507F2-235E-4ABA-AC49-C50C6D08899E</p>
 </div>
@@ -10461,7 +10461,7 @@ $\pounds 1193.4$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -13086,7 +13086,7 @@ $60 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>C82E5C30-82DD-4D11-B4AF-0C2607D4E161</p>
 </div>
@@ -13105,32 +13105,39 @@ What is the difference between $20 \%$ of $90$ and $90 \%$ of $20$?
 <div class='workings'>
 <div class='working'>
 
+Let's calculate the first value.
+
 $
 \begin{aligned}
-&= 20 \% \ \text{of} 90 \\\\
+&= 20 \% \ \text {of} \ 90 \\\\
 &= \dfrac {20} {100} \times 90 \\\\
 &= \dfrac {20 \times 90} {100} \\\\
-&= \dfrac {2 \cancel{0} \times 9 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-&= 2 \times 9 \\\\
+&= \dfrac {20 \times 5 \times 18} {20 \times 5} \\\\
+&= \dfrac {\cancel {20} \times \cancel {5} \times 18} {\cancel {20} \times \cancel {5}} \\\\
 &= 18
 \end{aligned}
 $
 
+Let's calculate the second value.
+
 $
 \begin{aligned}
-&= 90 \% \ \text{of} 20 \\\\
+&= 90 \% \ \text {of} \ 20 \\\\
 &= \dfrac {90} {100} \times 20 \\\\
 &= \dfrac {90 \times 20} {100} \\\\
-&= \dfrac {9 \cancel{0} \times 2 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-&= 9 \times 2 \\\\
+&= \dfrac {18 \times 5 \times 20} {5 \times 20} \\\\
+&= \dfrac {18 \times \cancel {5} \times \cancel {20}} {\cancel {5} \times \cancel {20}} \\\\
 &= 18
 \end{aligned}
 $
 
+Using the calculation above,
+
 $
 \begin{aligned}
+&= \text {first value} - \text {second value} \\\\
 &= 18 - 18 \\\\
-&= 0 
+&= 0
 \end{aligned}
 $
 
@@ -13148,7 +13155,7 @@ $0$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -13688,7 +13695,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>B997FB3B-115F-4CC3-BC0E-C9D91855E806</p>
 </div>
@@ -13754,7 +13761,7 @@ $\pounds 32$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -13870,9 +13877,10 @@ What is the total value of all the coins in her bag?
 
 $
 \begin{aligned}
-\text{Total value} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
-                   &= 50 + 40 + 5 + 12 \\\\
-                   &= \pounds 107
+\text {Total value of all coins} &= \text {one fifty pence coin} + \text {two twenty pence coin} + \text {one five pence coin} + \text {Remaining two pence coin} \\\\
+\text {Total value of all coins} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
+                                 &= 50 + 40 + 5 + 12 \\\\
+                                 &= \pounds 107
 \end{aligned}
 $
 
@@ -13904,9 +13912,12 @@ What percentage of the coins are $20 \ \text{pence}$ coins?
 
 $
 \begin{aligned}
-&= \dfrac {40} {107} \times 100 \\\\
-&= \dfrac {40 \times 100} {107} \\\\ 
-&= 37.38 \%
+\text {percentage of 20 pence coins} &= \dfrac {\text {total number of 20 pence coins}} {\text {total number of coins}} \times 100 \\\\
+                                     &= \dfrac {2} {10} \times 100 \\\\
+                                     &= \dfrac {2 \times 100} {10} \\\\
+                                     &= \dfrac {2 \times 10 \cancel {0}} {1 \cancel {0}} \\\\
+                                     &= 2 \times 10 \\\\
+                                     &= 20 \%
 \end{aligned}
 $
 
@@ -13915,7 +13926,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$37.38 \%$
+$20 \%$
 
 </div>
 </div>
@@ -14485,7 +14496,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>8F86C566-74D4-41CB-ADC6-2648BC6CBC05</p>
 </div>
@@ -14606,7 +14617,7 @@ $\dfrac {3} {4}$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

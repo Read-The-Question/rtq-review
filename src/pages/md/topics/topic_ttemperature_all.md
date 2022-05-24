@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-all"
 title: "Topic - Temperature - All"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2724,7 +2724,7 @@ $- 8 \degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>4C30C140-DE0B-4840-B727-FB67ABC627E4</p>
 </div>
@@ -2835,14 +2835,14 @@ Which two cities had a temperature difference of $6 \degree \text{C}$?
 <div class='workings'>
 <div class='working'>
 
-$4, -2$
+$\text {London}, \text {Edinburgh}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4, -2$
+$\text {London}, \text {Edinburgh}$
 
 </div>
 </div>
@@ -2865,7 +2865,13 @@ Write down the temperature in Liverpool in the evening,
 <div class='workings'>
 <div class='working'>
 
-$-3$
+$
+\begin{aligned}
+\text {temperature in Liverpool in the evening} &= \text {temperature in the morning} - \text {$2 \degree \text{C}$} \\\\
+                                                &= -1 \degree \text {C} - 2 \degree \text {C} \\\\
+                                                &= -3 \degree \text {C}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2884,12 +2890,12 @@ $-3$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>F7680A83-3A10-435E-B1CA-0E38B44DE6A4</p>
 </div>
@@ -3048,7 +3054,7 @@ $-5$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -3296,7 +3302,7 @@ $10 {:} 30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>3EA2D0FB-002E-4716-8D5D-0013DC93B64D</p>
 </div>
@@ -3340,7 +3346,7 @@ $4.05 \degree \ \text{C}$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

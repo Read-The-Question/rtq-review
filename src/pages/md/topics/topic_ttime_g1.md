@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-g1"
 title: "Topic - Time - G1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -258,6 +258,62 @@ $1982$
 </ul>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>C4E7B763-E07F-498F-A6A5-88CF6EA33FBB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A Formula $1$ race is $96$ laps of the track. A driver averages $1 \ \text{minute} \ 20 \ \text{seconds}$ per lap. How long is his race in hours and minutes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {The race lasts for}  &= 96 \times (1 \ \text{minute} \ 20 \ \text{seconds} ) \\\\
+                            &= 96 \times (1 \ \text{minute} \ \dfrac {20} {60} \ \text{minute} ) \\\\
+                            &= 96 \times (\dfrac {1 \times 60} {1 \times 60} + \dfrac {20} {60} ) \\\\
+                            &= 96 \times (\dfrac {60} {60} + \dfrac {20} {60} ) \\\\
+                            &= 96 \times \dfrac {60 + 20} {60} \\\\
+                            &= 96 \times \dfrac {80} {60} \\\\
+                            &= \dfrac {96 \times 80} {60} \\\\
+                            &= \dfrac {32 \times 3 \times 20 \times 4} {3 \times 20} \\\\
+                            &= \dfrac {32 \times \cancel {3} \times \cancel {20} \times 4} {\cancel {3} \times \cancel {20}} \\\\
+                            &= 32 \times 4 \\\\
+                            &= 128 \ \text {minutes} \\\\
+                            &= \dfrac {128} {60} \ \text {hours} \\\\ 
+                            &= 2 \ \text {hours} \ 8 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {hour} \ 8 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -847,6 +903,56 @@ $81  \ \text{minutes}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>4817F67D-F1F2-40D0-8436-A069F847B9C1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The same coach takes $3 \ \text{h}$ to get to Bristol, a journey of $120 \ \text{miles}$. What is its average speed in miles per hour?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Average speed}   &= \dfrac {120} {3} \\\\
+                        &= \dfrac {40 \times 3} {3} \\\\
+                        &= \dfrac {40 \times \cancel {3}} {\cancel {3}} \\\\
+                        &= 40 \ \text {miles per hour}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text {miles per hour}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>46D8EC39-6DB3-4670-BF10-214CD634C665</p>
 </div>
 <div class='topics'>
@@ -893,6 +999,70 @@ $86400 \ \text {seconds}$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out what time it is now if the time that has passed since nine o'clock this morning is five times as much as the time that is left before eleven o' clock this morning.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the time left before eleven o'clock is $= a$
+
+$
+\begin{aligned}
+\text {Time passed since nine o'clock}  &= 5 \times a \\\\
+                                        &= 5a
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Total time} &= (11 - 9) \ \text {hours} \\\\
+            5a + a &= (2 \times 60) \ \text {minutes} \\\\
+                6a &= 120 \ \text {minutes} \\\\
+                 a &= \dfrac {120} {6} \\\\
+                 a &= \dfrac {6 \times 20} {6} \\\\
+                 a &= \dfrac {\cancel 6 \times \ 20} {\cancel 6} \\\\
+                 a &= 20 \ \text {minutes}
+\end{aligned}
+$
+
+So, 20 minutes before 11 o'clock $= 10 {:} 40$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 {:} 40$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -1010,6 +1180,123 @@ $17:20$
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sleeper train leaves London at $10{:}17 \ \text{pm}$ and reaches Edinburgh at $5{:}44 \ \text{am}$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate out how long the journey takes in hours and minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Time taken in the journey}   &= 10 {:} 17 \ \text {pm} - 5 {:} 44 \ \text {am} \\\\
+                                    &= 7 \ \text{hours} \ 27 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 \ \text{hours} \ 27 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+An aeroplane takes $7 \ \text{hours}$ to travel from London to New York at a
+constant speed. The distance from London to New York is approximately $5600 \ \text{kilometres}$. 
+Calculate the approximate speed of the aeroplane in kilometres per hour.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Speed of the aeroplane}  &= \dfrac {\text {Distance} } { \text {Time} } \\\\
+                                &= \dfrac {5600} {7} \\\\
+                                &= \dfrac {800 \times 7} {7} \\\\
+                                &= \dfrac {800 \times \cancel {7} } {\cancel {7} } \\\\
+                                &= 800 \ \text {kilometres per hour}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$800 \ \text{kilometres per hour}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -1504,6 +1791,171 @@ $2{:}11 \ \text {pm}$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>7A398F6B-C825-4D14-888B-7DE1673A5240</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+*Ten green bottles hanging on a wall*
+
+*Ten green bottles hanging on a wall*
+
+*If one green bottle should accidentally fall,* 
+
+*There'd be nine green bottles hanging on the wall*
+
+*Nine green bottles...*
+
+If the first bottle fell at ten past five in the morning $(5.10 \ \text{am})$ and the others fell down at five minute 
+intervals, at what time would the last bottle fall?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Last bottle fall at} &= 5{:}10 \ \text{am} + 9 \times 5 \\\\
+                           &= 5{:}10 \ \text{am} + 45 \\\\
+                           &= 5{:}55 \ \text{am}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5{:}55 \ \text{am}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>0B2DDF0F-855E-489C-A9C7-EF1107955CE1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Yesterday was one of those days. Not only did my watch break at $10.24 \ \text{a.m}$. but when I shook it the 
+watch started going backwards at the correct rate. What is the real time if my watch shows:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$10.10 \ \text{a.m.}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Real time} &= 10{:}24 \ \text{a.m} + 14 \\\\
+                 &= 10{:}38 \ \text{a.m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10{:}38 \ \text{a.m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$9.43 \ \text{a.m.}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Real time} &= 10{:}24 \ \text{a.m} + 41 \\\\
+                 &= 11{:}05 \ \text{a.m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11{:}05 \ \text{a.m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>EDEC9010-CA4E-4456-BF0A-E30E81B8226D</p>
 </div>
 <div class='topics'>
@@ -1546,6 +1998,51 @@ $2 \ \text {hours} \ 37 \ \text {minutes}$
 
 <div class='papername'>
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>DBC1958C-C043-4319-9AE7-09CEA696EBC9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $463 \ \text{minutes}$ in hours and minutes ?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+463 &= 60 \times 7 + 43 \\\\
+    &= 7 \ \text{hours} \ 43 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 \ \text{hours} \ 43 \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -1644,6 +2141,116 @@ $276 \text{seconds}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>BA7A2E5A-F0B6-4120-988C-2F8865BF4B44</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $387 \ \text{minutes}$ in hours and minutes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 387 \\\\
+&= 60 \times 6 + 27 \\\\
+&= 6 \ \text{hours} \ 27 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text{hours} \ 27 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Change $9.6 \ \text{hours}$ into minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{hour} = 60 \ \text{minutes}$
+
+$
+\begin{aligned}
+&= 9.6 \times 60 \\\\
+&= 576 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$576 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
@@ -1699,6 +2306,53 @@ $8{:}45 \ \text{am}$
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>E8BEF82D-E970-4508-A623-9BC202200751</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jamie left school at $3:55 \ \text{pm}$ and arrived home $55 \ \text{minutes}$ later.
+
+At what time did Jamie get home? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Time at which Jamie got home}             &= 3 {:} 55 \ \text {pm} + 55 \ \text {min} \\\\
+                                                 &= 4 {:} 50 \ \text {pm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 {:} 50 \ \text {pm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

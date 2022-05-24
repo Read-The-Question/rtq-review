@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-red"
 title: "Topic - Fraction - Red"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -43,6 +43,158 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_nj_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>A163C280-33EF-43B0-BBDD-DFD9A4F5A979</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tgraph
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The pie chart below represents data collected in a survey by a PE teacher about the favourtie sports of a sample of school children.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the fraction of the school children who liked tennis, giving your answer in its lowest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {45} {360} \\\\
+&= \dfrac {5 \times 9} {72 \times 5} \\\\
+&= \dfrac {\cancel {5}  \times \cancel {9} } {\cancel {9}  \times 8 \times \cancel {5} } \\\\
+&= \dfrac {1} {8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {8}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A total of $240$ children were asked to complete the survey. Calculate how many of the children preferred cricket.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {240 \times 60} {360} \\\\
+&= \dfrac {40 \times \cancel 6 \times \cancel 6 \times \cancel 10} {\cancel 6 \times \cancel 6 \times \cancel 10} \\\\
+&= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Estimate how many children would say their favorite sport was football out of the whole school of $1200$ pupils.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1200 \times 60} {360} \\\\
+&= \dfrac {200 \times \cancel 6 \times \cancel 6 \times \cancel 10} {\cancel 6 \times \cancel 6 \times \cancel 10} \\\\
+&= 200
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$200$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -1565,6 +1717,201 @@ $
 </ul>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>9C241A72-22AC-4EB3-AA57-303AF0AA73F6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+<li>
+tratio
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are two maths classes in Year $8$, called $6A$ and $6B$.
+
+![missing table](/papers/missing_table.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the table showing the number of boys and girls in each class.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of boys in 6B} &= 18 - 6 \\\\
+                             &= 12
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Number of students in 6A} &= 48 - 18 \\\\
+                                 &= 30
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Number of girls in 6A} &= 30 - 14 \\\\
+                              &= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12, 16, 30$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which class has a higher proportion of boys?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$6A$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6A$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of the children in $6B$ are girls? 
+
+Give your answer in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {6} {18} \\\\
+&= \dfrac {\cancel {3} \times \cancel {2} } {3 \times \cancel {3}  \times \cancel {2} } \\\\
+&= \dfrac {1} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Some boys leave Year $6$ to go to another school. 
+
+Half the total number of pupils in Year $6$ are now boys. 
+
+How many boys have left the school?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question
+
+The number of studdents present that number of students left the school-type
+$26$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$26$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>

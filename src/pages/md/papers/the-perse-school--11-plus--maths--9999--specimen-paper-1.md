@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-1"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 1"
-date: 2022-05-24 07:08:08
+date: 2022-05-24 20:51:04
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -1698,7 +1698,7 @@ $82$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
 <p>74519F97-5041-4ECE-88D4-3B509460C560</p>
 </div>
@@ -1775,7 +1775,7 @@ $-1$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_red</p>
 </div>
 </div>
 </li>

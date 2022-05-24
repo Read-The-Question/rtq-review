@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-all"
 title: "Topic - Fraction - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4265,7 +4265,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>ED309A66-2530-46D2-8CA4-5B7E8924A943</p>
 </div>
@@ -4313,7 +4313,7 @@ $36$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -5627,7 +5627,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>336B71BC-D933-4B73-8AC5-2EDE7391DCB5</p>
 </div>
@@ -5816,7 +5816,7 @@ $19.41 \%$
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -13621,7 +13621,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_red question'>
 <div class='uuid'>
 <p>1BF483A4-E5F0-45CE-93A3-E0436396EDAA</p>
 </div>
@@ -13671,7 +13671,7 @@ $9 \ \text {litres}$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_red</p>
 </div>
 </div>
 </li>
@@ -31423,7 +31423,7 @@ $80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
 </div>
@@ -31451,14 +31451,20 @@ Find the fraction of the diagram that is shaded.
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {2} {7}$
+$
+\begin{aligned}
+&= \dfrac {\text {Shaded portion} } {\text {Total portion} } \\\\
+&= \dfrac {7} {12 + 7} \\\\
+&= \dfrac {7} {19}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {2} {7}$
+$\dfrac {7} {19}$
 
 </div>
 </div>
@@ -31467,7 +31473,7 @@ $\dfrac {2} {7}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -31760,10 +31766,11 @@ Find the difference between $43 \dfrac{1}{3}$ and $51 \dfrac{2}{3}$.
 
 $
 \begin{aligned}
-\text {Difference}   &= 51 \ \dfrac {2} {3} - 43 \ \dfrac {1} {3} \\\\
+\text {Difference}   &= 51 \dfrac {2} {3} - 43 \dfrac {1} {3} \\\\
                      &= \dfrac {155} {3} - \dfrac {130} {3} \\\\
                      &= \dfrac {155 - 130} {3} \\\\
-                     &= \dfrac {25} {3}
+                     &= \dfrac {25} {3} \\\\
+                     &= 8 \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -31772,7 +31779,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {25} {3}$
+$8 \dfrac {1} {3}$
 
 </div>
 </div>
@@ -34321,7 +34328,7 @@ As per the question,
 $
 \begin{aligned}
 \text {Percentage of red sweets}    &= \dfrac {\text {Number of red sweets}} {\text {Total number of sweets}} \ \text {of} \ 100 \\\\
-                                    &= \dfrac {4} {20} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {16 + 4} \ \text {of} \ 100 \\\\
                                     &= \dfrac {4} {20} \times 100 \\\\
                                     &= \dfrac {4 \times 100} {20} \\\\
                                     &= \dfrac {4 \times 20 \times 5} {20} \\\\
@@ -39528,7 +39535,7 @@ $\dfrac{ 16}{25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>DD9DD726-1CE0-4DDC-863C-8DB9621C8BC0</p>
 </div>
@@ -39573,12 +39580,12 @@ $\dfrac{3}{8}$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>C135697D-F7AA-4A2E-9224-953D73C4FFCC</p>
 </div>
@@ -39614,7 +39621,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \dfrac{13}{20}$
+$2 \dfrac{13}{20}$ or $\dfrac{53}{20}$
 
 </div>
 </div>
@@ -39623,7 +39630,7 @@ $2 \dfrac{13}{20}$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

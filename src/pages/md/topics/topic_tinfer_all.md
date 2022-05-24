@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-all"
 title: "Topic - Infer - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -32209,7 +32209,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
 <p>295FC725-C559-4A9A-B53F-530F83AAA2FC</p>
 </div>
@@ -32268,7 +32268,7 @@ $13, 14$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_red</p>
 </div>
 </div>
 </li>

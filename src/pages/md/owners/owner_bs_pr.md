@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-pr"
 title: "Owner - Banoth Sairam - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3646,6 +3646,58 @@ $492$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
+<p>D5204F4A-B807-43B1-A353-487CB9B6B8B2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$96 \div 6 =$
+
+-  $17$ 
+-  $14$ 
+-  $15$
+-  $16$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  \dfrac{96}{6} \\\\
+&=  \dfrac{16 \times 6}{6} \\\\
+&=  \dfrac{16 \times \cancel 6}{\cancel 6} \\\\
+&=  16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
 <p>9A3D9E21-52B8-4FAF-B576-1B242FC6F65F</p>
 </div>
 <div class='topics'>
@@ -3747,6 +3799,53 @@ $16$
 
 <div class='papername'>
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>79A31346-E81D-4C43-B183-3EA0BE05B9AF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $336 \div  6$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  \dfrac{336}{6} \\\\
+&=  \dfrac{56 \times 6}{6} \\\\
+&=  \dfrac{56 \times \cancel 6}{\cancel 6} \\\\
+&=  56
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -3989,6 +4088,116 @@ $0.2$
 </ul>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2017--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2A28B44D-4B73-46C1-955A-1029E0F22147</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a triangle, one of the angles is $45$ degrees. The other two angles in the triangle are in the ratio $4 : 5$. How big is the largest angle in the triangle? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4x + 5x + 45                                                &= 180 \\\\
+9x + 45                                                     &= 180 \\\\
+9x                                                          &= 180 - 45 \\\\
+9x                                                          &= 135 \\\\
+x                                                           &= 15 \\\\
+\text{So,5x}                                                &= 5 \times 15 \\\\
+                                                            &= 75
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2FE10520-6A9E-4722-B9C3-7530630A3738</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use your previous answer to find
+
+$20.1 \times 1.2 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first multiply the numbers ignoring the decimal points.
+
+$
+\begin{array}{cccccccccccccc}
+         & 2     & 0     & 1     \\
+{}\times &       & 1     & 2     \\
+\hline 
+         & 4     & 0     & 2     \\
+2        & 0     & 1     & 0     \\
+\hline 
+2        & 4     & 1     & 2     \\
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now. 
+
+$= 24.12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24.12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -13644,6 +13853,223 @@ $290  \ \text{cm}$
 </div>
 </div>
 
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsubtraction
+</li>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put the correct number in the empty box.
+
+
+$\boxed { \phantom{20} } - 8 = 4 \times 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\boxed { \green{20} } - 8 = 4 \times 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2ED209A4-4A2F-4B4F-975D-685105DF2587</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next two numbers in the sequence.
+
+$5,  \quad 6\dfrac{1}{2}, \quad 8, \quad 9\dfrac{1}{2}, \quad \ldots, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $1 \dfrac{1}{2}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(1 \dfrac{1}{2})}} 
+&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}  
+&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}  \\
+5,  && 6\dfrac{1}{2}, && 8, && 9\dfrac{1}{2}, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}       &= 9\dfrac{1}{2} + 1 \dfrac{1}{2} \\\\
+                                &= 11 \\\\
+\text{Second number}       &= 11 + 1 \dfrac{1}{2} \\\\
+                                &= 12 \dfrac{1}{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11, 12 \dfrac{1}{2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>51C9363A-916D-4432-92C0-0C6EF1343F19</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Shakira has five cards with numbers on them, as shown below:
+
+$
+\large {
+\boxed {8} \quad 
+\boxed {7} \quad 
+\boxed {1} \quad 
+\boxed {5} \quad 
+\boxed {3} \quad 
+}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the **largest even** number that Shakira can make using exactly **four** cards.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$7538$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7538$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the **smallest odd** number that Shakira can make using all **five** cards.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$13587$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13587$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>

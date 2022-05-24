@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>Latymer Upper School</h1>
@@ -808,7 +808,7 @@ $\pounds 4.91$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>7F144D39-FF9F-415B-BCF9-27AE13989004</p>
 </div>
@@ -861,7 +861,7 @@ $22$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -995,7 +995,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A</p>
 </div>
@@ -1066,12 +1066,12 @@ $21$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0</p>
 </div>
@@ -1130,7 +1130,7 @@ $132 \ \text{cm} ^ 2$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2251,7 +2251,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7</p>
 </div>
@@ -2297,7 +2297,7 @@ $85 \ \text{cm} ^ 2$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

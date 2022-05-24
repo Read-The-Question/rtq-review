@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-all"
 title: "Topic - Number - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1205,7 +1205,8 @@ If $8217$ wore red and $11750$ wore blue, how many wore neither blue nor red?
 
 $
 \begin{aligned}
-\text{People who wore neither blue nor red}     &= 28450 - 8217 - 11750 \\\\
+\text{People who wore neither blue nor red}     &= 28450 - (8217 + 11750) \\\\
+                                                &= 28450 - 19967 \\\\
                                                 &= 8483
 \end{aligned}
 $
@@ -7228,7 +7229,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>34651AA1-3B37-4CF9-8B13-4FD3BDD2969A</p>
 </div>
@@ -7487,7 +7488,7 @@ $0$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -7665,7 +7666,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3</p>
 </div>
@@ -7713,12 +7714,12 @@ $\dfrac {1} {2}$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128</p>
 </div>
@@ -7855,7 +7856,7 @@ $19$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -8066,7 +8067,7 @@ $8.0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A2AA0292-B690-4FB6-B6F2-07B4E9A2598E</p>
 </div>
@@ -8118,12 +8119,12 @@ $240$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>6A4BA874-58E5-46B0-B688-39BE02C6481C</p>
 </div>
@@ -8270,7 +8271,7 @@ $2450$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -11956,7 +11957,7 @@ So, this shows that Molly is wrong.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>8B1ACA24-9EE4-4663-9DCB-44F675B5931A</p>
 </div>
@@ -11996,7 +11997,7 @@ $29, 31, 37$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -12752,7 +12753,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>B4E2076D-5109-4020-882E-290B7C537FB7</p>
 </div>
@@ -12866,7 +12867,7 @@ $13$
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -13332,7 +13333,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>7D74ACBA-5E3A-4BCF-9ECA-55ED79C8FCFA</p>
 </div>
@@ -13376,7 +13377,7 @@ $112$
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -14971,7 +14972,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>2DC7C262-016C-4768-9AC7-B4FDEE3E7F2F</p>
 </div>
@@ -15115,7 +15116,7 @@ $6$
 <p>csse--11-plus--maths--2015--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -15358,7 +15359,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>3076ED1B-E57F-4AB7-938D-0415C60AB6C7</p>
 </div>
@@ -15468,12 +15469,12 @@ $5, 4, 7$
 <p>csse--11-plus--maths--2015--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>FB36F13C-5BC9-4CF6-9408-E90684FEF6AA</p>
 </div>
@@ -15602,7 +15603,7 @@ $2, 7, 11$
 <p>csse--11-plus--maths--2015--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -16247,7 +16248,7 @@ $0.88$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09</p>
 </div>
@@ -16440,12 +16441,12 @@ $11, 2$
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>769EDE45-5C4E-4FA8-B1BF-32600F0B0875</p>
 </div>
@@ -16609,7 +16610,7 @@ $10$
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -16726,7 +16727,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>3E8903AA-53A0-4F33-8BA4-B0C6D370EBE7</p>
 </div>
@@ -16887,7 +16888,7 @@ $\dfrac {1} {3} \ \text {of} \ 17$
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -27572,7 +27573,7 @@ $45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>E139F769-4D91-44F2-B824-EAE49083E0C7</p>
 </div>
@@ -27844,7 +27845,7 @@ $-2$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -30033,7 +30034,7 @@ $11.0009$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>738E804C-DF07-4608-919A-55C23079A59F</p>
 </div>
@@ -30089,7 +30090,7 @@ $63$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -31171,7 +31172,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>2E75B7DC-1BB8-4EB4-8F7A-059D13BBC07E</p>
 </div>
@@ -31329,7 +31330,7 @@ $3, \ 17$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -32091,7 +32092,7 @@ $3 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>96EEA4D7-9474-4AF1-B44A-ACEF806ADE3D</p>
 </div>
@@ -32156,7 +32157,7 @@ $20$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -32213,7 +32214,7 @@ $1349$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>CC62F717-09D2-42A3-9042-C2C7C102D1E6</p>
 </div>
@@ -32274,7 +32275,7 @@ $24 \div 3 + 7$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -34519,7 +34520,7 @@ $27 \times 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>7F144D39-FF9F-415B-BCF9-27AE13989004</p>
 </div>
@@ -34572,12 +34573,12 @@ $22$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A</p>
 </div>
@@ -34648,7 +34649,7 @@ $21$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -34905,7 +34906,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>7EF9A988-17EA-42BA-91F8-90543EBC8A99</p>
 </div>
@@ -34953,7 +34954,7 @@ $1400 \ \text{cm}$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -36250,7 +36251,7 @@ $306$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>7D083302-BF35-4803-83D6-EF748D7B7277</p>
 </div>
@@ -36365,7 +36366,7 @@ $54 \ \text{cm}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -50090,7 +50091,7 @@ $576$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>6A7E29BE-33F1-46C9-86CB-07E2F8C8992F</p>
 </div>
@@ -50114,24 +50115,22 @@ $5 - (2 - 5)^2$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 5 - (2 - 5)^2 \\\\
+&= 5 - (-3)^{2} \\\\
+&= 5 - (-3 \times -3) \\\\
+&= 5 - 9 \\\\
+&= -4
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$-4$
 
 </div>
 </div>
@@ -50140,7 +50139,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -64228,31 +64227,21 @@ $\boxed{7} \boxed{\phantom{1}} +  \boxed{\phantom{1}}\boxed{\phantom{1}}\boxed{6
 
 $
 \begin{array}{cccccc}
-        &   7   &   4 \\
-{}+ 1   &   8   &   6 \\
+    &       &   7   &   4 \\
+{}+ &   1   &   8   &   6 \\
 \hline
-2       &   5   &   0
-\end{aligned}
+    &   2   &   5   &   0
+\end{array}
 $
 
 $\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed{0}$
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed{0}$
 
 </div>
 </div>
@@ -64291,12 +64280,13 @@ It ends in '$2$'
 
 As per the question,
 
-The number is a multiple of both $3$ and $8$. Since $3$ and $8$ have no factors in common,
-the number is multiple of $3 \times 8 = 24$
+Since $3$ and $8$ have no factors in common,
 
-Multiples of $24 = 24, 48, 72, ....$
+Let's find multiples of $8$ that are also divisible by $3$
 
-Since the number ends with $2$ , the required number $= 72$
+$= 24, 48, 72, ....$
+
+Multiple of $8$ that is also divisible by $3$ , and ends in $2 = 72$
 
 </div>
 </div>
@@ -64342,18 +64332,21 @@ How many packs of pens need to be bought?
 
 As per the question,
 
-Packs to be brought
+Packs to be bought
 
 $
 \begin{aligned}
-&= \dfrac{Total pens} {Pens per pack} \\\\
+&= \dfrac{\text{Total pens}} {\text{Pens per pack}} \\\\
 &= \dfrac{3 \times 70}{8} \\\\
-&= \dfrac{210}{8} \\\\
+&= \dfrac{3 \times 35 \times 2}{4 \times 2} \\\\
+&= \dfrac{3 \times 35 \times \cancel{2}}{4 \times \cancel{2}} \\\\
+&= \dfrac{3 \times 35}{4} \\\\
+&= \dfrac{105}{4} \\\\
 &= 26 \dfrac{1}{4} \\\\
 \end{aligned}
 $
 
-Packs required $= 26 + 1 = 27$
+Packs of pen that needs to be bought is $26$ whole packets and $1$ more packet for the remainder $1$ pen $= 27$
 
 </div>
 </div>
@@ -64401,7 +64394,10 @@ How much does each person pay?
 
 As per the question,
 
+$\text{Total cost} = \text{Cost per person per km} \times \text{No. of kilometers.}
+
 $
+\begin{aligned}
 \text{Cost per person}      &= \dfrac{Total cost} {Total persons} \\\\
                             &= \dfrac{2.42 \times 32}{11} \\\\
                             &= \dfrac{2.42 \times 100 \times 32}{11 \times 100} \\\\
@@ -64410,6 +64406,7 @@ $
                             &= \dfrac{11 \times 2 \times 32} {100} \\\\
                             &= \dfrac{704}{100} \\\\
 \text{Cost per person}      &= \pounds 7.04
+\end{aligned}
 $
 
 </div>
@@ -71134,10 +71131,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Boxed needed}   &= \dfrac {\text {Total number of cakes}} {\text {Number of cakes in a box}} \\\\
+\text{Boxes needed}   &= \dfrac {\text {Total number of cakes}} {\text {Number of cakes in a box}} \\\\
                       &= \dfrac {75} {4} \\\\
-                      &= 18 \ \dfrac {3} {4} \\\\
-                      &= 18 + 0.75 \\\\
+                      &= 18 \dfrac {3} {4} \\\\
                       &= 19
 \end{aligned}
 $
@@ -71183,22 +71179,20 @@ Write down the number that the arrow is pointing to on the scale below:
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= \dfrac {300 - 200} {5} \\\\
-&= \dfrac {100} {5} \\\\
-&= \dfrac {20 \times 5} {5} \\\\
-&= \dfrac {20 \times \cancel {5} } {\cancel {5} } \\\\
-&= 20
-\end{aligned}
-$
+As per the diagram,
+
+The gap between every line $= 25$. Using this we get, 
+
+$= 200 + 25 + 25 + 25 = 275$
+
+The arrow is pointing at $275$. 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$275$
 
 </div>
 </div>
@@ -71285,9 +71279,9 @@ nineteen
 
 $
 \begin{aligned}
-&= 3 \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
+&= 3 \ \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
 &= 3000000 + 70000 + 32000 + 19 \\\\
-&= 3,102,019
+&= 3102019
 \end{aligned}
 $
 
@@ -71296,7 +71290,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3,102,019$
+$3102019$
 
 </div>
 </div>
@@ -78826,7 +78820,7 @@ $2, 21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>51C9363A-916D-4432-92C0-0C6EF1343F19</p>
 </div>
@@ -78928,7 +78922,7 @@ $13587$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -93692,13 +93686,14 @@ $5.2 \times 316$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 5.2 \times 316 \\\\
-&= \dfrac {52} {10} \times 316 \\\\
-&= \dfrac {52 \times 316} {10} \\\\
-&= \dfrac {16432} {10} \\\\
-&= 1643.2
+52 \times 316                   &= 16432 \\\\
+\dfrac {52 \times 316} {10}     &= \dfrac {16432} {10} \\\\
+\dfrac {52} {10} \times 316     &= 1643.2 \\\\
+5.2 \times 316                  &= 1643.2
 \end{aligned}
 $
 
@@ -93728,13 +93723,13 @@ $16432 \div 52$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 16432 \div 52 \\\\
-&= \dfrac {16432} {52} \\\\
-&= \dfrac {52 \times 316} {52} \\\\
-&= \dfrac {\cancel {52} \times 316} {\cancel {52}} \\\\
-&= 316
+52 \times 316           &= 16432 \\\\
+\dfrac {16432} {52}     &= 316 \\\\
+16432 \div 52           &= 316
 \end{aligned}
 $
 
@@ -93764,16 +93759,15 @@ $5200 \times 0.316$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin {aligned}
-&= 5200 \times 0.316 \\\\
-&= 5200 \times \dfrac {316} {1000} \\\\
-&= \dfrac {5200 \times 316} {1000} \\\\
-&= \dfrac {52\cancel {00} \times 316} {10\cancel {00}} \\\\
-&= \dfrac {52 \times 316} {10} \\\\
-&= \dfrac {16432} {10} \\\\
-&= 1643.2
-\end {aligned}
+\begin{aligned}
+52 \times 316                               &= 16432 \\\\
+\dfrac {100} {1000} \times 52 \times 316    &= \dfrac {100} {1000} \times 16432 \\\\
+52 \times 100 \times \dfrac {316} {1000}    &= \dfrac {16432} {10} \\\\
+5200 \times 0.316                           &= 1643.2
+\end{aligned}
 $
 
 </div>
@@ -93802,15 +93796,17 @@ $16432 \div 3160$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin {aligned}
-&= 16432 \div 3160 \\\\
-&= \dfrac {16432} {3160} \\\\
-&= \dfrac {52 \times 316} {316 \times 10} \\\\
-&= \dfrac {52 \times \cancel {316}} {\cancel {316} \times 10} \\\\
-&= \dfrac {52} {10} \\\\
-&= 5.2
-\end {aligned}
+\begin{aligned}
+52 \times 316                          &= 16432 \\\\
+52 \times 316 \times \dfrac {10} {10}  &= 16432 \times \dfrac {10} {10} \\\\
+\dfrac {52} {10} \times 316 \times 10  &= 16432 \\\\
+5.2 \times 3160                        &= 16432 \\\\
+\dfrac {16432} {3160}                  &= 5.2 \\\\
+16432 \div 3160                        &= 5.2
+\end{aligned}
 $
 
 </div>
@@ -93839,16 +93835,15 @@ $26 \times 158$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin {aligned}
-&= 26 \times 158 \\\\
-&= \dfrac {52} {2} \times \dfrac {316} {2} \\\\
-&= \dfrac {52 \times 316} {2 \times 2} \\\\
-&= \dfrac {16432} {4} \\\\
-&= \dfrac {4108 \times 4} {4} \\\\
-&= \dfrac {4108 \times \cancel {4}} {\cancel {4}} \\\\
-&= 4108
-\end {aligned}
+\begin{aligned}
+52 \times 316                           &= 16432 \\\\
+52 \times 316 \times \dfrac {1} {4}     &= 16432 \times \dfrac {1} {4} \\\\
+\dfrac {52} {2} \times \dfrac {316} {2} &= \dfrac {16432} {4} \\\\
+26 \times 158                           &= 4108
+\end{aligned}
 $
 
 </div>
@@ -94230,11 +94225,9 @@ As per the question,
 
 $
 \begin{aligned}
-&= 17954 \div 382 \\\\
-&= \dfrac {17954} {382} \\\\
-&= \dfrac {47 \times 382} {382} \\\\
-&= \dfrac {47 \times \cancel {382}} {\cancel {382}} \\\\
-&= 47
+47 \times 382           &= 17954 \\\\
+\dfrac {17954} {382}    &= 47 \\\\
+17954 \div 382          &= 47
 \end{aligned}
 $
 
@@ -94264,13 +94257,14 @@ $4.7 \times 3.82 =$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 4.7 \times 3.82 \\\\
-&= \dfrac {47} {10} \times \dfrac {382} {100} \\\\
-&= \dfrac {47 \times 382} {10 \times 100} \\\\
-&= \dfrac {17954} {1000} \\\\
-&= 17.954
+47 \times 382                               &= 17954 \\\\
+\dfrac {47 \times 382} {1000}               &= \dfrac {17954} {1000} \\\\
+\dfrac {47} {10} \times \dfrac {382} {100}  &= \dfrac {17954} {1000} \\\\
+4.7 \times 3.82                             &= 17.954
 \end{aligned}
 $
 
@@ -94300,16 +94294,17 @@ $179.54 \div 38.2 =$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin {aligned}
-&= 179.54 \div 38.2 \\\\
-&= \dfrac {179.54} {38.2} \\\\
-&= \dfrac {17954 \times 10} {382 \times 100} \\\\
-&= \dfrac {47 \times 382 \times 10} {382 \times 100} \\\\
-&= \dfrac {47 \times \cancel {382} \times 1 \cancel {0}} {\cancel {382} \times 10 \cancel {0}} \\\\
-&= \dfrac {47} {10} \\\\
-&= 4.7
-\end {aligned}
+\begin{aligned}
+47 \times 382                               &= 17954 \\\\
+\dfrac {47 \times 382} {100}                &= \dfrac {17954} {100} \\\\
+\dfrac {47} {10} \times \dfrac {382} {100}  &= \dfrac {17954} {100} \\\\
+4.7 \times 38.2                             &= 179.54 \\\\
+\dfrac {179.54} {38.2}                      &= 4.7 \\\\
+179.54 \div 38.2                            &= 4.7
+\end{aligned}
 $
 
 </div>
@@ -94338,14 +94333,14 @@ $94 \times 191 =$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 94 \times 191 \\\\
-&= 2 \times 47 \times \dfrac {382} {2} \\\\
-&= \dfrac {2 \times 47 \times 382} {2} \\\\
-&= \dfrac {\cancel {2} \times 47 \times 382} {\cancel {2}} \\\\
-&= 47 \times 382 \\\\
-&= 17954
+47 \times 382                        &= 17954 \\\\
+47 \times 382 \time \dfrac {2} {2}   &= 17954 \times \dfrac {2} {2} \\\\
+47 \times 2 \times \dfrac {382} {2}  &= 17954 \\\\
+94 \times 191                        &= 17954
 \end{aligned}
 $
 

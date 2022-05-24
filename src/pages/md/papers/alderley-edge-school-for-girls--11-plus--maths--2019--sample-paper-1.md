@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>Alderley Edge School for Girls</h1>
@@ -423,12 +423,12 @@ In this sequence we are getting the next term by adding previous term to the cur
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(0 + 1)}}
-&&  \footnotesize{\maroonC{(1 + 1)}}
-&&  \footnotesize{\maroonC{(1 + 2)}}
-&&  \footnotesize{\maroonC{(2 + 3)}}
-&&  \footnotesize{\maroonC{(3 + 5)}}
-&&  \footnotesize{\maroonC{(5 + 8)}}  \\
+&   \footnotesize {\maroonC {(0 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $

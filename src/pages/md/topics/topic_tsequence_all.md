@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-all"
 title: "Topic - Sequence - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -652,12 +652,12 @@ In this sequence we are getting the next term by adding previous term to the cur
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(0 + 1)}}
-&&  \footnotesize{\maroonC{(1 + 1)}}
-&&  \footnotesize{\maroonC{(1 + 2)}}
-&&  \footnotesize{\maroonC{(2 + 3)}}
-&&  \footnotesize{\maroonC{(3 + 5)}}
-&&  \footnotesize{\maroonC{(5 + 8)}}  \\
+&   \footnotesize {\maroonC {(0 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
@@ -4362,7 +4362,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>BE08ACA5-1407-4A83-8951-3EF9D0D69289</p>
 </div>
@@ -4506,7 +4506,7 @@ $69, 60$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -9286,7 +9286,7 @@ $25, 36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>E139F769-4D91-44F2-B824-EAE49083E0C7</p>
 </div>
@@ -9558,7 +9558,7 @@ $-2$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -10736,7 +10736,7 @@ $15, -3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>4164BD10-DC91-4195-84D6-7174ABD5C2C4</p>
 </div>
@@ -10899,7 +10899,7 @@ $24$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -12767,7 +12767,7 @@ $20, 15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>29A36B70-5937-460E-A1CC-4F3D72FC835A</p>
 </div>
@@ -12883,7 +12883,7 @@ $\text {Perfect square}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -22181,30 +22181,27 @@ $315 \quad 561 \quad 240 \quad 620 \quad 964$
 <div class='workings'>
 <div class='working'>
 
-Let's find the pattern in the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $15$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(15 \times 10)}} 
-&&  \footnotesize{\maroonC{(15 \times 11)}}  
-&&  \footnotesize{\maroonC{(15 \times 12)}}   
-&&  \footnotesize{\maroonC{(15 \times 13)}}   
-&&  \footnotesize{\maroonC{(15 \times 14)}}
-&&  \footnotesize{\maroonC{(15 \times 15)}}  \\
+    \footnotesize{\maroonC{(+15)}} 
+&&  \footnotesize{\maroonC{(+15)}}  
+&&  \footnotesize{\maroonC{(+15)}}   
+&&  \footnotesize{\maroonC{(+15)}}   
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}  \\
 150,  &&    165,  &&  180,  &&   195,   &&   210  &&   \ldots && \ldots
 \end{matrix}
 $
 
-The numbers are in the increasing order of multiples of 15. So, to be in the sequence, the number must be divisible by both 15.
+So, we can say that, the numbers that would appear in the sequence are multiples of $15$ . As such, divisible by $3$ and $5$ .
 
-Henceforth, the number must be divisible by 3 and 5 both.
+Henceforth, the number must be divisible by $3$ and $5$ both.
 
-$
-\begin{aligned}
-&= 315 \ \text{is divisible by both} 3,5 \\\\
-&= 240 \ \text{is divisible by both} 3,5
-\end{aligned}
-$
+Numbers that are divisible by both 3 and 5 and would appear in the sequence are $=240, 315$
 
 </div>
 </div>
@@ -26100,14 +26097,14 @@ As we know that a number is divisible by 9 if the sum of all its digits is divis
 |  $918$    | $9 + 1 + 8 = \green {18}$                             |  Yes
 |  $45$     | $4 + 5 = \green {9}$                                  |  Yes
 
-Answer $= 2007, 918, 45$
+Answer $= 2007, \ 918, \ 45$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2007, 918, 45$
+$2007, \ 918, \ 45$
 
 </div>
 </div>
@@ -26124,7 +26121,7 @@ $2007, 918, 45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>2ED209A4-4A2F-4B4F-975D-685105DF2587</p>
 </div>
@@ -26183,7 +26180,7 @@ $11, 12 \dfrac{1}{2}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -30984,7 +30981,7 @@ $69$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>2377F631-0B3B-443B-ACA8-80A032557FBC</p>
 </div>
@@ -31007,7 +31004,7 @@ $2.7, \quad 4.3, \quad \ldots, \quad 7.5, \quad 9.1$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is $1.6$. Hence, the sequence would be:
+The difference between the terms is increasing by $1.6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -31040,12 +31037,12 @@ $5.9$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>CE0DC367-FC2F-48CA-A2AC-370BA4DBBEAF</p>
 </div>
@@ -31098,7 +31095,7 @@ $129$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

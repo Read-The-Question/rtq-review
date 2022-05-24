@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-pr"
 title: "Topic - Temperature - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -692,53 +692,6 @@ $-7 \degree \text{C}$
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
-<p>CB9E833C-477C-416F-9F7E-B57C7CF7ECEC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In Glasgow, the temperature is $-7 \degree \text{C}$ and in Exeter the temperature is $12$ degrees warmer. 
-
-What is the temperature in Exeter? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 12 + (-7) \\\\
-&= 5 \degree{C}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5 \degree{C}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
 <p>4C30C140-DE0B-4840-B727-FB67ABC627E4</p>
 </div>
 <div class='topics'>
@@ -1334,7 +1287,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Current temparature}  &= 7.20 \ degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
+\text{Current temparature}  &= 7.20 \degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
                             &= 4.05 \degree \ \text{C}
 \end{aligned}
 $

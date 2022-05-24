@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-all"
 title: "Topic - Graph - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3099,7 +3099,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_red question'>
 <div class='uuid'>
 <p>211A5FCF-4F61-45F5-A728-04F4F08A4EC3</p>
 </div>
@@ -3151,7 +3151,7 @@ $40 \%$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_red</p>
 </div>
 </div>
 </li>
@@ -5507,7 +5507,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_red question'>
 <div class='uuid'>
 <p>5CF08C1D-77D1-49A4-8AFA-EA3208B6403E</p>
 </div>
@@ -5646,7 +5646,7 @@ $25$
 <p>csse--11-plus--maths--2015--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_red</p>
 </div>
 </div>
 </li>

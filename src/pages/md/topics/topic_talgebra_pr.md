@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-pr"
 title: "Topic - Algebra - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3035,181 +3035,6 @@ $3$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>A53C7015-4325-4F04-9324-7266EA307FB1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Anwar is playing 'think of a number'. He does not always think of whole numbers.
-
-In each part of the question work out Anwar's original number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Anwar thinks of a number. He doubles it and subtracts $17$ from the result. He then has $15$.
-
-What was Anwar's original number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Anwar's thinking $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-2 \times a - 17     &= 15 \\\\
-2a                  &= 15 + 17 \\\\
-2a                  &= 32 \\\\
-a                   &= \dfrac {32} {2} \\\\
-a                   &= \dfrac {16 \times 2} {2} \\\\
-a                   &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
-a                   &= 16
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Anwar thinks of a number. He subtracts $17$ then doubles the result. He then has $15$.
-
-What was Anwar's original number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Anwar's thinking $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-2(a - 17)           &= 15 \\\\
-2a - 34             &= 15 \\\\
-2a                  &= 15 + 34 \\\\
-2a                  &= 49 \\\\
-a                   &= \dfrac {49} {2} \\\\
-a                   &= 24.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24.5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Anwar thinks of a number. He halves it and subtracts $17$ from the result. He then has $15$.
-
-What was Anwar's original number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Anwar's thinking $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {a} {2} - 17                                              &= 15 \\\\
-\dfrac {a} {2} - \dfrac {17 \times 2} {1 \times 2}               &= 15 \\\\
-\dfrac {a} {2} - \dfrac {34} {2}                                 &= 15 \\\\
-\dfrac {a - 34} {2}                                              &= 15 \\\\
-a - 34                                                           &= 15 \times 2 \\\\
-a                                                                &= 30 \\\\
-a                                                                &= 30 + 34 \\\\
-a                                                                &= 64
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$64$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>DA636143-50D9-44F2-92E7-6E0251062FF1</p>
 </div>
 <div class='topics'>
@@ -3957,155 +3782,6 @@ $\pounds 1.20$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>8CFB528C-79C4-4BDA-83CD-5EE537CC7589</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A teacher has 5 bags of marbles and $3$ extra marbles.
-Each bag has $n$ marbles inside.
-
-She ask: 'How many marbles are there altogether?'
-
-The pupil’s say:
-
-
-Nia: $8n$
-
-Vijay: $3 + 5n$
-
-Sam: $8$
-
-Jo: $15n$
-
-Karen: $5 \times n + 3$
-
-Glyn: $(3 + 5)n$
-
-There are 88 marbles altogether.
-
-Fill in one pupil’s right answer to help you complete the equation.
-
-Solve the equation to find $n$, the the number of marbles in a bag.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-5 \times n + 3  &= 88 \\\\
-5n + 3          &= 88 \\\\
-5n              &= 88 - 3 \\\\
-5n              &= 85 \\\\
-n               &= \dfrac {85} {5} \\\\
-n               &= \dfrac {17 \times 5} {5} \\\\
-n               &= \dfrac {17 \times \cancel {5}} {\cancel {5}} \\\\
-n               &= 17
-\end {aligned}
-$
-
-Number of marbles in each bag $= 17$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>1F301F9C-E10E-4A62-A2CA-DA4E31288C6A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mark is $3$ years older than David. The sum of their ages is $89$.
-How old is Mark? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let David's age $= a$
-
-As per the question,
-
-Mark's age $= 3 + a$
-
-$
-\begin{aligned}
-\text{Sum of their ages} &= 89 \\\\
-a + 3 + a                &= 89 \\\\
-2 a + 3                  &= 89 \\\\
-2 a                      &= 89 - 3 \\\\
-2 a                      &= 86 \\\\
-a                        &= \dfrac {86} {2} \\\\
-a                        &= \dfrac {43 \times 2} {2} \\\\
-a                        &= \dfrac {43 \times \cancel {2}} {\cancel {2}} \\\\
-a                        &= 43 \ \text{years}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Mark's age} &= 3 + a \\\\
-                  &= 3 + 43 \\\\
-                  &= 46 \ \text{years}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$46 \ \text{years}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>B5420130-A56B-4BA2-8654-2576766211F0</p>
 </div>
 <div class='topics'>
@@ -4604,78 +4280,6 @@ $20$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>4EDABAC9-B1F8-470A-AE7E-934077143CEE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I’m thinking of two numbers. When I double the first and add it to the second I get $160$. One of the numbers is half of the other. Which of these could be one of my numbers?
-
-A: $30$ 
-
-B: $45$ 
-
-C: $60$ 
-
-D: $64$ 
-
-E: $96$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let one number $= a$
-
-Other number $= \dfrac {a} {2}$
-
-As per the question,
-
-$
-\begin{aligned}
-2 \times a + \dfrac {a} {2}                         &= 160 \\\\
-\dfrac {2 a \times 2} {1 \times 2} + \dfrac {a} {2} &= 160 \\\\
-\dfrac {4 a} {2} + \dfrac {a} {2}                   &= 160 \\\\
-\dfrac {4 a + a} {2}                                &= 160 \\\\
-\dfrac {5 a} {2}                                    &= 160 \\\\
-a                                                   &= \dfrac {160 \times 2} {5} \\\\
-a                                                   &= \dfrac {32 \times 5 \times 2} {5} \\\\
-a                                                   &= \dfrac {32 \times \cancel {5} \times 2} {\cancel {5}} \\\\
-a                                                   &= 32 \times 2 \\\\
-a                                                   &= 64
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-$64$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>9B9050C1-533D-4992-A903-6BF6255CBEA5</p>
 </div>
 <div class='topics'>
@@ -5119,7 +4723,7 @@ $
 \begin{aligned}
 3p + 14           &= 5p + 1 \\\\
 3p - 5p           &= 1 - 14 \\\\
-- 2p              &= - 13 \\\\
+-2p               &= -13 \\\\
 \cancel {-} 2p    &= \cancel {-} 13 \\\\
 p                 &= \dfrac {13} {2}
 \end{aligned}
@@ -5214,7 +4818,7 @@ As per the question,
 $
 \begin{aligned}
 2 + 1 - 4 + a &= 5 \\\\
-- 1 + a       &= 5 \\\\
+-1 + a        &= 5 \\\\
 a             &= 5 + 1 \\\\
 a             &= 6
 \end{aligned}
@@ -5378,7 +4982,7 @@ a \times 2 + 11     &= (a \times 5 + 11) \div 2 \\\\
 (2 a + 11) \times 2 &= 5 a + 11 \\\\
 4 a + 22            &= 5 a + 11 \\\\
 4 a - 5 a           &= 11 - 22 \\\\
-- a                 &= - 11 \\\\
+-a                  &= -11 \\\\
 \cancel {-} a       &= \cancel {-} 11 \\\\
 a                   &= 11
 \end{aligned}
@@ -11901,9 +11505,10 @@ We can easily infer the values by using trial and error. Let's find out $2$ numb
 
 Factors of $84 = 1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 84$
 
+Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text{and} \ 7, 12$
+
 | Factors   |  Sum  | Numbers $< 20$    |
 |:-------:  |:----: |:---------------:  |
-| $2, 42$   | $44$  |        No         |
 | $6, 14$   | $20$  |       Yes         |
 | $7, 12$   | $19$  |       Yes         |
 
@@ -11939,23 +11544,23 @@ He then thinks of a new number, multiplies it by $9$ and subtracts $15$. The res
 <div class='workings'>
 <div class='working'>
 
-Let the new number he thinks $= a$
+Let the new number he thought of $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-x \times 9 - 15     &= 66 \\\\
-x \times 9          &= 66 + 15 \\\\
-x \times 9          &= 81 \\\\
-x                   &= \dfrac{81}{9} \\\\
-x                   &= \dfrac{9 \times 9}{9} \\\\
-x                   &= \dfrac{\cancel{9} \times 9}{\cancel{9}} \\\\
-x                   &= 9
+a \times 9 - 15     &= 66 \\\\
+a \times 9          &= 66 + 15 \\\\
+a \times 9          &= 81 \\\\
+a                   &= \dfrac{81}{9} \\\\
+a                   &= \dfrac{9 \times 9}{9} \\\\
+a                   &= \dfrac{\cancel{9} \times 9}{\cancel{9}} \\\\
+a                   &= 9
 \end{aligned}
 $
 
-The new number he thinks $= 9$
+The new number he thought $= 9$
 
 </div>
 </div>
@@ -17339,11 +16944,11 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 $
 \begin {aligned}
 a + a + 48 \degree   &= 180 \degree \\\\
-2a + 48 			 &= 180 \\\\
-2a 					 &= 180 - 48 \\\\
-2a 					 &= 132 \\\\
-a 					 &= \dfrac {132} {2} \\\\
-a 					 &= 66 \degree
+2a + 48              &= 180 \\\\
+2a                   &= 180 - 48 \\\\
+2a                   &= 132 \\\\
+a                    &= \dfrac {132} {2} \\\\
+a                    &= 66 \degree
 \end {aligned}
 $
 
@@ -17356,8 +16961,8 @@ Let the third angle $= b$.
 $
 \begin {aligned}
 48 + 48 + b    &= 180 \degree \\\\
-96 + b 		   &= 180 \\\\
-b 			   &= 180 - 96 \\\\
+96 + b         &= 180 \\\\
+b              &= 180 - 96 \\\\
 b              &= 84 \degree
 \end {aligned}
 $
@@ -17432,6 +17037,198 @@ $40 \degree$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One of the angles in a triangle is $40 \degree$. One of the remaining two angles is three times larger than the other angle. What is the largest angle in the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the smaller angle $= a$
+
+As per the question, the second angle $= 3a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 3a + 40     &= 180 \degree \\\\
+4a + 40         &= 180  \\\\
+4a              &= 180 - 40  \\\\
+4a              &= 140  \\\\
+a               &= \dfrac {140} {4}  \\\\
+a               &= \dfrac {35 \times 4} {4}  \\\\
+a               &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
+a               &= 35 \degree
+\end{aligned}
+$
+
+We know the size of the third angle now.
+However, we need to find the largest angle which is the second angle.
+
+$
+\begin{aligned}
+\text{Largest angle} &= 3a  \\\\
+&= 3 \times 35  \\\\
+&= 105  \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$105  \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>A31A6436-9C6D-4A0E-B943-F8626DF8E8C7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A shop reduces its prices by $20 \%$ in a sale. David bought a coat for $\pounds 40$ in the sale. How much would the coat have cost him **__before__** the sale?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the original cost of the coat (in $\pounds$) $= c$
+
+If the price is reduced by $20 \%$, then the sale price would be $100 - 20 = 80 \%$ of the original price.
+
+Let's use this to calculate the original price.
+
+$
+\begin{aligned}
+80 \% \text{ of } c               &= 40 \\\\
+\dfrac {80 } { 100 } \times c     &= 40 \\\\
+c                                 &= \dfrac {40 \times 100} { 80 } \\\\
+c                                 &= \dfrac {40 \times 2 \times 50} { 40 \times 2 } \\\\
+c                                 &= \dfrac {\cancel{40} \times \cancel{2} \times 50} { \cancel{40} \times \cancel{2} } \\\\
+                                  &= \pounds 50 
+\end{aligned}
+$
+
+Original price $= \pounds 50$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>CE0DC367-FC2F-48CA-A2AC-370BA4DBBEAF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the sequence of numbers which starts $2, 3, 5, 9, \ldots$  each number is one less than two times the previous number in the list. 
+
+What is the number in the list immediately **__before__** $257$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number immediately before $= a$
+
+As per the question,
+
+
+$
+\begin{aligned} 
+2a - 1      &= 257 \\\\
+2a          &= 257 + 1 \\\\
+2a          &= 258 \\\\
+a           &= \dfrac {258}{2 } \\\\
+a           &= 129
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$129$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

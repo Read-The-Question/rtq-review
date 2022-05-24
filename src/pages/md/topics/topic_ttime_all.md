@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-all"
 title: "Topic - Time - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1463,7 +1463,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>725486A7-3062-47A5-9B6E-60454F2B945C</p>
 </div>
@@ -1508,7 +1508,7 @@ $4 \ \text{hours} \ 05 \ \text{minutes}$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2939,7 +2939,7 @@ $283 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>C2F4373E-8537-4143-B094-CFF465AFF504</p>
 </div>
@@ -3089,7 +3089,7 @@ $1982$
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -10917,7 +10917,7 @@ $1440 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
 </div>
@@ -10936,24 +10936,23 @@ Josh has to be at work at $8:15 \ \text{am}$. It takes him $15 \ \text{minutes}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Time Josh should get work}                                       &= \text{Time (Start Work)} - (\text{Time taken (Dressed + Breakfast + Driving)}) \\\\
+                                                                       &= 8{:}15 \ \text{am} - (15 + 20 + 12) \ \text{minutes} \\\\
+                                                                       &= 8{:}15 \ \text{am} - 47 \ \text{minutes} \\\\
+                                                                       &= 9{:}02 \ \text{am}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$9{:}02 \ \text{am}$
 
 </div>
 </div>
@@ -10962,7 +10961,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -14065,14 +14064,13 @@ What is **Mary's time** in seconds?
 
 As per the question,
 
-Time taken by Jess $= 18 \ \text{seconds}$
-
 $
 \begin{aligned}
-\text{Time taken by Mari}       &= \text{Time taken by Jo} + 4 \\\\
-                                &= \text{Time taken by Jess} + 6 - 4 \\\\
-                                &= 18 + 6 - 4 \\\\
-\text{Time taken by Mari}       &= 20 \ \text{seconds}
+\text{Time taken by Jess}       &= 18 \ \text{seconds} \\\\
+\text{Time taken by Mary}       &= \text{Time taken by Jo} + 4 \\\\
+                                &= \text{Time taken by Jess} - 6 + 4 \\\\
+                                &= 18 - 6 + 4 \\\\
+\text{Time taken by Mary}       &= 16 \ \text{seconds}
 \end{aligned}
 $
 
@@ -14081,7 +14079,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20 \ \text{seconds}$
+$16 \ \text{seconds}$
 
 </div>
 </div>

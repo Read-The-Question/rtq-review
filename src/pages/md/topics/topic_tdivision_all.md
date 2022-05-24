@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-all"
 title: "Topic - Division - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -733,7 +733,7 @@ $142$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>D5204F4A-B807-43B1-A353-487CB9B6B8B2</p>
 </div>
@@ -757,24 +757,21 @@ $96 \div 6 =$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&=  \dfrac{96}{6} \\\\
+&=  \dfrac{16 \times 6}{6} \\\\
+&=  \dfrac{16 \times \cancel 6}{\cancel 6} \\\\
+&=  16
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$16$
 
 </div>
 </div>
@@ -783,7 +780,7 @@ TODOANSWER
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -844,7 +841,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>11E67077-E5D7-4AAB-8230-3443578B97AB</p>
 </div>
@@ -896,7 +893,7 @@ $0.4103$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1836,7 +1833,7 @@ $26063$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D342C8C4-AD2E-46B5-B114-061F539211E6</p>
 </div>
@@ -2011,7 +2008,7 @@ $87$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5373,7 +5370,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>79A31346-E81D-4C43-B183-3EA0BE05B9AF</p>
 </div>
@@ -5392,24 +5389,21 @@ Work out $336 \div  6$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&=  \dfrac{336}{6} \\\\
+&=  \dfrac{56 \times 6}{6} \\\\
+&=  \dfrac{56 \times \cancel 6}{\cancel 6} \\\\
+&=  56
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$56$
 
 </div>
 </div>
@@ -5418,7 +5412,7 @@ TODOANSWER
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

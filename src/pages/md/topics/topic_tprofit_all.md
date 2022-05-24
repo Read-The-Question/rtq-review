@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-all"
 title: "Topic - Profit - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3758,7 +3758,7 @@ $\pounds 25.50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>A31A6436-9C6D-4A0E-B943-F8626DF8E8C7</p>
 </div>
@@ -3791,12 +3791,12 @@ Let's use this to calculate the original price.
 
 $
 \begin{aligned}
-80 \% \text{ of } c             &= 40 \\\\
+80 \% \text{ of } c               &= 40 \\\\
 \dfrac {80 } { 100 } \times c     &= 40 \\\\
 c                                 &= \dfrac {40 \times 100} { 80 } \\\\
 c                                 &= \dfrac {40 \times 2 \times 50} { 40 \times 2 } \\\\
 c                                 &= \dfrac {\cancel{40} \times \cancel{2} \times 50} { \cancel{40} \times \cancel{2} } \\\\
-                                &= \pounds 50 
+                                  &= \pounds 50 
 \end{aligned}
 $
 
@@ -3816,7 +3816,7 @@ $\pounds 50$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

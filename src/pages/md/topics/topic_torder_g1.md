@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-g1"
 title: "Topic - Order - G1"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,6 +59,135 @@ $\dfrac {5} {6}$
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>D62F629B-7CDB-4C72-8C48-DC353BB7B59A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the following numbers in ascending order: 
+
+$0.2019  \quad 0.219  \quad 0.291  \quad 0.2109$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.2019  \quad  0.2109  \quad  0.219  \quad  0.291$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.2019  \quad  0.2109  \quad  0.219  \quad  0.291$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the following numbers in ascending order:
+
+$\dfrac{5}{6}, \quad 0.5, \quad \dfrac{5}{12}, \quad 75 \%, \quad \dfrac{1}{3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+In this case, there are more fractions than percentages and decimals, so let's convert all the numbers into fractions.
+
+$
+\begin{aligned}
+&= \dfrac {5} {6}, \quad 0.5, \quad \dfrac {5} {12}, \quad 75 \%, \quad \dfrac {1} {3} \\\\
+&= \dfrac {5} {6}, \quad \dfrac {5} {10}, \quad \dfrac {5} {12}, \quad \dfrac {75} {100}, \quad \dfrac {1} {3}
+\end{aligned}
+$
+
+LCM of $6, \ 10, \ 12, \ 100, \ 3 = 300$
+
+$
+\begin{aligned}
+&= \dfrac {5} {6}, \quad \dfrac {5} {10}, \quad \dfrac {5} {12}, \quad \dfrac {75} {100}, \quad \dfrac {1} {3} \\\\
+&= \dfrac {5 \times 50} {6 \times 50}, \quad \dfrac {5 \times 30} {10 \times 30}, \quad \dfrac {5 \times 25} {12 \times 25} , \quad \dfrac {75 \times 3} {100 \times 3}, \quad \dfrac {1 \times 100} {3 \times 100} \\\\
+&= \dfrac {250} {300} , \quad \dfrac {150} {300}, \quad \dfrac {125} {300}, \quad \dfrac {225} {300}, \quad \dfrac {100} {300}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac {100} {300} , \quad \dfrac {125} {300}, \quad \dfrac {150} {300}, \quad \dfrac {225} {300}, \quad \dfrac {250} {300} \\\\
+&= \dfrac {1} {3}, \quad \dfrac {5} {12}, \quad 0.5, \quad 75 \%, \quad \dfrac {5}{6}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}, \quad \dfrac {5} {12}, \quad 0.5, \quad 75 \%, \quad \dfrac {5}{6}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -173,6 +302,74 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 
 <div class='papername'>
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>026699B4-CAFA-430C-B0BC-8F801C861EEE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the following fractions in order of size, from smallest to largest:
+%format% 2 3, 5 6, 7 12
+
+%format% - 7 12, 2 3, 5 6
+%format% - 7 12, 5 6, 2 3
+%format% - 2 3, 7 12, 5 6
+%format% - 5 6, 2 3, 7 12
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $3, 6, 12 = 12$
+
+$
+\begin{aligned}
+&= \dfrac {2} {3}, \quad \dfrac {5} {6}, \quad \dfrac {7} {12} \\\\
+&= \dfrac {2 \times 4} {3 \times 4}, \quad \dfrac {5 \times 2} {6 \times 2}, \quad \dfrac {7} {12} \\\\
+&= \dfrac {8} {12}, \quad \dfrac {10} {12}, \quad \dfrac {7} {12}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac {7} {12}, \quad \dfrac {8} {12}, \quad \dfrac {10} {12} \\\\
+&= \dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>

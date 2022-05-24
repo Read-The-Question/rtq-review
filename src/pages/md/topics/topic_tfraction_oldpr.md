@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-oldpr"
 title: "Topic - Fraction - Old PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -456,106 +456,6 @@ $\dfrac{ 16}{25}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>DD9DD726-1CE0-4DDC-863C-8DB9621C8BC0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What fraction of a day is $9 \ \text{hours}$? Write your fraction in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-  
-There are $24 \ \text{hours}$ in a day, so
-
-$
-\begin{aligned}
-&= \dfrac{9}{24} \\\\
-&= \dfrac{3 \times 3}{3 \times 8} \\\\
-&= \dfrac{\cancel{3} \times 3}{\cancel{3} \times 8} \\\\
-&= \dfrac{3}{8}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{3}{8}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>C135697D-F7AA-4A2E-9224-953D73C4FFCC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $4 \dfrac{1}{4} - 1 \dfrac{3}{5}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 4 \dfrac{1}{4} - 1 \dfrac{3}{5} \\\\
-&= \dfrac{17}{4} - \dfrac{8}{5} \\\\
-&= \dfrac{17 \times 5}{4 \times 5} - \dfrac{8 \times 4}{5 \times 4} \\\\
-&= \dfrac{85}{20} - \dfrac{32}{20} \\\\
-&= \dfrac{85}{20} - \dfrac{32}{20} \\\\
-&= \dfrac{53}{20} \\\\
-&= 2 \dfrac{13}{20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \dfrac{13}{20}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>

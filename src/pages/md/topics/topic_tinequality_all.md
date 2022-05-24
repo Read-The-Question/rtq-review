@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinequality-all"
 title: "Topic - Inequality - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -342,7 +342,7 @@ $2a^2 \quad = \quad  ab$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>76044041-12E6-44F3-B9A7-E35637106F3F</p>
 </div>
@@ -529,7 +529,7 @@ $4 \times 5 + 7 \ \quad  =  \quad  (5 + 4) \times (7 - 4)$
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

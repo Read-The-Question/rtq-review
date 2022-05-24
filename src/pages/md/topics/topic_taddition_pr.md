@@ -1,170 +1,9 @@
 ---
 slug: "topics/topic-taddition-pr"
 title: "Topic - Addition - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>98B67EA5-259E-41C7-A446-B2144A3E0059</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together $734$ and $5629$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   5   &   6   &   2   &   9 \\
-{}+ &       &   7   &   3   &   4 \\
-\hline
-    &   6   &   3   &   6   &   3
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6363$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>46664E26-E770-4B0F-B7E5-14B5277F63F5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-<li>
-tsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Neruka bought a pen costing $\pounds 4.93$, a pencil costing $24 \text{p}$ and a ruler costing $58 \text{p}$. How much did she spend altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Money spent} &= \pounds 4.93 + 24 \text{p} + 58 \text{p} \\\\
-                   &= \pounds 4.93 + \pounds \dfrac {24} {100} + \pounds \dfrac {58} {100} \\\\
-                   &= \pounds 4.93 + \pounds 0.24 + \pounds 0.58 \\\\
-                   &= \pounds 5.75
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 5.75$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-She paid for them witha $\pounds 20$ note.
-
-How much change did she get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Change received} &= 20 - 5.75 \\\\
-                       &= \pounds 14.25
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 14.25$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
@@ -209,54 +48,6 @@ $3334$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>505845A2-5C6F-4B31-8F40-6A5A68AB5C7E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together $95, 82$ and $547$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {array}{cccccccccccccc}
-    &       &   9   &   5 \\
-    &       &   8   &   2 \\
-{}+ &   5   &   4   &   7 \\
-\hline
-    &   7   &   2   &   4
-\end {array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$724$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -925,9 +716,9 @@ nineteen
 
 $
 \begin{aligned}
-&= 3 \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
+&= 3 \ \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
 &= 3000000 + 70000 + 32000 + 19 \\\\
-&= 3,102,019
+&= 3102019
 \end{aligned}
 $
 
@@ -936,7 +727,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3,102,019$
+$3102019$
 
 </div>
 </div>
@@ -2003,6 +1794,53 @@ $-72$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+taddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $983 + 254$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &       9       & 8     & 3  \\
+{}+ &       2       & 5     & 4 \\
+\hline
+ 1  &       2       & 3     & 7
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1237$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

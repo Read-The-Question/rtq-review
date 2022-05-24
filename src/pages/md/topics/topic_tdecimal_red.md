@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-red"
 title: "Topic - Decimal - Red"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -319,66 +319,6 @@ $\pounds 3.24$
 </div>
 <div class='rag'>
 <p>rag_nm_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_red question'>
-<div class='uuid'>
-<p>2FE10520-6A9E-4722-B9C3-7530630A3738</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Use your previous answer to find
-
-$20.1 \times 1.2 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first multiply the numbers ignoring the decimal points.
-
-$
-\begin{array}{cccccccccccccc}
-         & 2     & 0     & 1     \\
-{}\times &       & 1     & 2     \\
-\hline 
-         & 4     & 0     & 2     \\
-2        & 0     & 1     & 0     \\
-\hline 
-2        & 4     & 1     & 2     \\
-\end{array}
-$
-
-Between the two numbers, the total number of digits after the decimal point is two.
-
-Let's account for the decimal point now. 
-
-$= 24.12$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24.12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_red</p>
 </div>
 </div>
 </li>

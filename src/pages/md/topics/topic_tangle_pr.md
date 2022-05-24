@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-pr"
 title: "Topic - Angle - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2307,6 +2307,56 @@ $1440 \degree$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2A28B44D-4B73-46C1-955A-1029E0F22147</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a triangle, one of the angles is $45$ degrees. The other two angles in the triangle are in the ratio $4 : 5$. How big is the largest angle in the triangle? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4x + 5x + 45                                                &= 180 \\\\
+9x + 45                                                     &= 180 \\\\
+9x                                                          &= 180 - 45 \\\\
+9x                                                          &= 135 \\\\
+x                                                           &= 15 \\\\
+\text{So,5x}                                                &= 5 \times 15 \\\\
+                                                            &= 75
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>F2C47797-13C0-4FDF-AA9D-ED17BA456CC4</p>
@@ -4187,11 +4237,11 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 $
 \begin {aligned}
 a + a + 48 \degree   &= 180 \degree \\\\
-2a + 48 			 &= 180 \\\\
-2a 					 &= 180 - 48 \\\\
-2a 					 &= 132 \\\\
-a 					 &= \dfrac {132} {2} \\\\
-a 					 &= 66 \degree
+2a + 48              &= 180 \\\\
+2a                   &= 180 - 48 \\\\
+2a                   &= 132 \\\\
+a                    &= \dfrac {132} {2} \\\\
+a                    &= 66 \degree
 \end {aligned}
 $
 
@@ -4204,8 +4254,8 @@ Let the third angle $= b$.
 $
 \begin {aligned}
 48 + 48 + b    &= 180 \degree \\\\
-96 + b 		   &= 180 \\\\
-b 			   &= 180 - 96 \\\\
+96 + b         &= 180 \\\\
+b              &= 180 - 96 \\\\
 b              &= 84 \degree
 \end {aligned}
 $
@@ -4280,6 +4330,77 @@ $40 \degree$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One of the angles in a triangle is $40 \degree$. One of the remaining two angles is three times larger than the other angle. What is the largest angle in the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the smaller angle $= a$
+
+As per the question, the second angle $= 3a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 3a + 40     &= 180 \degree \\\\
+4a + 40         &= 180  \\\\
+4a              &= 180 - 40  \\\\
+4a              &= 140  \\\\
+a               &= \dfrac {140} {4}  \\\\
+a               &= \dfrac {35 \times 4} {4}  \\\\
+a               &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
+a               &= 35 \degree
+\end{aligned}
+$
+
+We know the size of the third angle now.
+However, we need to find the largest angle which is the second angle.
+
+$
+\begin{aligned}
+\text{Largest angle} &= 3a  \\\\
+&= 3 \times 35  \\\\
+&= 105  \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$105  \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

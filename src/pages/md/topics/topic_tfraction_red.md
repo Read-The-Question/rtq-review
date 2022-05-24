@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-red"
 title: "Topic - Fraction - Red"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -140,6 +140,61 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_sc_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_red question'>
+<div class='uuid'>
+<p>1BF483A4-E5F0-45CE-93A3-E0436396EDAA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+An orange drink is made by mixing water with concentrated orange juice.
+
+$\dfrac{3}{4}$ of the orange drink is water.
+
+How many litres of water will be in $12 \ \text{litres}$ of orange drink?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Litres of water in 12 litres of orange drink}  &= \dfrac {3} {4} \ \text {of} \ 12 \ \text {litres} \\\\
+                                                      &= \dfrac {3 \times 12} {4} \\\\
+                                                      &= \dfrac {3 \times 3 \times 4} {4} \\\\
+                                                      &= \dfrac {3 \times 3 \times \cancel {4}} {\cancel {4}} \\\\
+                                                      &= 3 \times 3 \\\\
+                                                      &= 9 \ \text {litres}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \ \text {litres}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_red</p>
 </div>
 </div>
 </li>

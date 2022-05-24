@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-pr"
 title: "Owner - Sahil Choudhary - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8775,6 +8775,108 @@ The maximum number of passengers that can travel at once $= 576$
 <div class='answer'>
 
 $576$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>6A7E29BE-33F1-46C9-86CB-07E2F8C8992F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpower
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the following:
+
+$5 - (2 - 5)^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5 - (2 - 5)^2 \\\\
+&= 5 - (-3)^{2} \\\\
+&= 5 - (-3 \times -3) \\\\
+&= 5 - 9 \\\\
+&= -4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Josh has to be at work at $8:15 \ \text{am}$. It takes him $15 \ \text{minutes}$ to get dressed, $20 \ \text{minutes}$ to eat breakfast and $12 \ \text{minutes}$ to drive to work. What is the latest time Josh could get up to get to work on time?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time Josh should get work}                                       &= \text{Time (Start Work)} - (\text{Time taken (Dressed + Breakfast + Driving)}) \\\\
+                                                                       &= 8{:}15 \ \text{am} - (15 + 20 + 12) \ \text{minutes} \\\\
+                                                                       &= 8{:}15 \ \text{am} - 47 \ \text{minutes} \\\\
+                                                                       &= 9{:}02 \ \text{am}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9{:}02 \ \text{am}$
 
 </div>
 </div>

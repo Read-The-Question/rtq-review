@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-taddition-oldpr"
 title: "Topic - Addition - Old PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -193,53 +193,6 @@ $941$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $983 + 254$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       9       & 8     & 3  \\
-{}+ &       2       & 5     & 4 \\
-\hline
- 1  &       2       & 3     & 7
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1237$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>

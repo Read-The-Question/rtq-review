@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-all"
 title: "Owner - Chiliveru Aravind - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5738,26 +5738,33 @@ and let's take banana $= b$
 
 As per the question,
 
-$3 \times \text{apple cost} + 1 \times \text{banana cost}        = 53 \text{p}$
+$3 \times a + 1 \times b = 32 \text{p}$ Or $1 \times b = 32 - 3 \times a$
 
+$6 \times a + 1 \times b = 53 \text{p}$ Or $1 \times b = 53 - 6 \times a$
 
-Also,
+Hence,
 
 $
 \begin{aligned}
-6 \times \text{apple cost} + 1 \times \text{banana cost}        &= 53 \text{p} \\\\
-6 \times \dfrac{32 - a}{3} + a                                  &= 53 \\\\
-\dfrac{(32 - a) \times 6}{3} + a                                &= 53 \\\\
-(32 - a) \times 2 + a                                           &= 53 \\\\
-64 - 2a + a                                                     &= 53 \\\\
-64 - a                                                          &= 53 \\\\
-64 - 53                                                         &= a \\\\
-11                                                              &= a \\\\
-a                                                               &= 11 \text{p}
+32 - 3 \times a             &=  53 - 6 \times a \\\\
+6a - 3a                     &= 53 - 32 \\\\
+3a                          &= 21 \\\\
+a                           &= \dfrac{21}{3} \\\\
+a                           &= \dfrac{7 \times 3}{3} \\\\
+a                           &= 7 \\\\
+\text{Apple cost}           &= 7
 \end{aligned}
 $
 
-The cost of a banana $= 11 \text{p}$
+The cost of a banana
+
+$
+\begin{aligned}
+&= 32 - 3 \times 7 \text{p} \\\\
+&= 32 - 21 \text{p} \\\\\
+&= 11 \text{p}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -6065,31 +6072,21 @@ $\boxed{7} \boxed{\phantom{1}} +  \boxed{\phantom{1}}\boxed{\phantom{1}}\boxed{6
 
 $
 \begin{array}{cccccc}
-        &   7   &   4 \\
-{}+ 1   &   8   &   6 \\
+    &       &   7   &   4 \\
+{}+ &   1   &   8   &   6 \\
 \hline
-2       &   5   &   0
-\end{aligned}
+    &   2   &   5   &   0
+\end{array}
 $
 
 $\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed{0}$
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed{0}$
 
 </div>
 </div>
@@ -6122,7 +6119,12 @@ Calculate $37 \times 4 \times 5$
 <div class='workings'>
 <div class='working'>
 
-$37 \times 4 \times 5 = 37 \times 20$
+$
+\begin{aligned}
+&= 37 \times 4 \times 5 \\\\
+&= 37 \times 20
+\end{aligned}
+$
 
 $
 \begin{array}{cccccccccccccc}
@@ -6223,16 +6225,13 @@ $6.01 \quad 16.0 \quad 0.61 \quad 1.60 \quad 6.1$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, there are more decimals than fractions.
-
-Let's put them in ascending order now.
-
 $
 \begin{aligned}
 &= 6.01,  \quad   16.0,  \quad   0.61,  \quad   6.1 \\\\
-&= 0.61,  \quad   6.01,  \quad   6.1,  \quad   16.0
+&= 6.01,  \quad   16.00,  \quad   0.61,  \quad   6.10 \\\\
+&\text{Let's put them in ascending order now.} \\\\
+&= 0.61 <  \quad   6.01 <  \quad   6.10 <  \quad   16.00 \\\\
+&= 0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0
 \end{aligned}
 $
 
@@ -6241,7 +6240,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.61,  \quad   6.01,  \quad   6.1,  \quad   16.0$
+$0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 
 </div>
 </div>
@@ -6282,9 +6281,9 @@ LCM for $4, 5, 10, 20 = 20$
 
 $
 \begin{aligned}
-&= \dfrac{3}{4}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10} \quad\dfrac{17}{20} \\\\
-&= \dfrac{3 \times 5}{5 \times 5}, \quad \dfrac{3 \times 4}{5 \times 4}, \quad \dfrac{9 \times 2}{10 \times 2} \quad\dfrac{14}{20} \\\\
-&= \dfrac{15}{20}, \quad \dfrac{12}{20}, \quad \dfrac{18}{20} \quad\dfrac{14}{20}
+&= \dfrac{3}{4}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10},  \quad\dfrac{17}{20} \\\\
+&= \dfrac{3 \times 5}{4 \times 5}, \quad \dfrac{3 \times 4}{5 \times 4}, \quad \dfrac{9 \times 2}{10 \times 2}, \quad\dfrac{17}{20} \\\\
+&= \dfrac{15}{20}, \quad \dfrac{12}{20}, \quad \dfrac{18}{20} , \quad\dfrac{17}{20}
 \end{aligned}
 $
 
@@ -6292,8 +6291,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac{12}{20}, \quad \dfrac{14}{20}, \quad  \dfrac{15}{20}, \quad \dfrac{18}{20} \\\\
-&= \dfrac{3}{5}, \quad \dfrac{14}{20}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10}
+&= \dfrac{12}{20} < \quad  \dfrac{15}{20} < \quad \dfrac{17}{20} < \quad \dfrac{18}{20} \\\\
+&= \dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}
 \end{aligned}
 $
 
@@ -6302,7 +6301,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{3}{5}, \quad \dfrac{14}{20}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10}$
+$\dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}$
 
 </div>
 </div>
@@ -6409,14 +6408,13 @@ What is **Mary's time** in seconds?
 
 As per the question,
 
-Time taken by Jess $= 18 \ \text{seconds}$
-
 $
 \begin{aligned}
-\text{Time taken by Mari}       &= \text{Time taken by Jo} + 4 \\\\
-                                &= \text{Time taken by Jess} + 6 - 4 \\\\
-                                &= 18 + 6 - 4 \\\\
-\text{Time taken by Mari}       &= 20 \ \text{seconds}
+\text{Time taken by Jess}       &= 18 \ \text{seconds} \\\\
+\text{Time taken by Mary}       &= \text{Time taken by Jo} + 4 \\\\
+                                &= \text{Time taken by Jess} - 6 + 4 \\\\
+                                &= 18 - 6 + 4 \\\\
+\text{Time taken by Mary}       &= 16 \ \text{seconds}
 \end{aligned}
 $
 
@@ -6425,7 +6423,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20 \ \text{seconds}$
+$16 \ \text{seconds}$
 
 </div>
 </div>
@@ -6464,12 +6462,13 @@ It ends in '$2$'
 
 As per the question,
 
-The number is a multiple of both $3$ and $8$. Since $3$ and $8$ have no factors in common,
-the number is multiple of $3 \times 8 = 24$
+Since $3$ and $8$ have no factors in common,
 
-Multiples of $24 = 24, 48, 72, ....$
+Let's find multiples of $8$ that are also divisible by $3$
 
-Since the number ends with $2$ , the required number $= 72$
+$= 24, 48, 72, ....$
+
+Multiple of $8$ that is also divisible by $3$ , and ends in $2 = 72$
 
 </div>
 </div>
@@ -6565,30 +6564,27 @@ $315 \quad 561 \quad 240 \quad 620 \quad 964$
 <div class='workings'>
 <div class='working'>
 
-Let's find the pattern in the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $15$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(15 \times 10)}} 
-&&  \footnotesize{\maroonC{(15 \times 11)}}  
-&&  \footnotesize{\maroonC{(15 \times 12)}}   
-&&  \footnotesize{\maroonC{(15 \times 13)}}   
-&&  \footnotesize{\maroonC{(15 \times 14)}}
-&&  \footnotesize{\maroonC{(15 \times 15)}}  \\
+    \footnotesize{\maroonC{(+15)}} 
+&&  \footnotesize{\maroonC{(+15)}}  
+&&  \footnotesize{\maroonC{(+15)}}   
+&&  \footnotesize{\maroonC{(+15)}}   
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}  \\
 150,  &&    165,  &&  180,  &&   195,   &&   210  &&   \ldots && \ldots
 \end{matrix}
 $
 
-The numbers are in the increasing order of multiples of 15. So, to be in the sequence, the number must be divisible by both 15.
+So, we can say that, the numbers that would appear in the sequence are multiples of $15$ . As such, divisible by $3$ and $5$ .
 
-Henceforth, the number must be divisible by 3 and 5 both.
+Henceforth, the number must be divisible by $3$ and $5$ both.
 
-$
-\begin{aligned}
-&= 315 \ \text{is divisible by both} 3,5 \\\\
-&= 240 \ \text{is divisible by both} 3,5
-\end{aligned}
-$
+Numbers that are divisible by both 3 and 5 and would appear in the sequence are $=240, 315$
 
 </div>
 </div>
@@ -6695,15 +6691,17 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Hebe score}       &= 60\% \ \text{of} \ 60 \\\\
-                        &= \dfrac {60}{100} \times 60 \\\\
-                        &= \dfrac{60 \times 60}{100} \\\\
-                        &= \dfrac{6 \cancel{0} \times 6 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
-\text{Hebe score}       &=36
+\text{Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
+\text{Hebe score}       &= 60\% \ \text{of} \ 60 - 30 \\\\
+                        &= \dfrac {60}{100} \times 60 - 30 \\\\
+                        &= \dfrac{60 \times 60}{100} - 30 \\\\
+                        &= \dfrac{6 \cancel{0} \times 6 \cancel{0}}{1 \cancel{0} \cancel{0}} -30 \\\\
+                        &=36 - 30 \\\\
+                        &= 6
 \end{aligned}
 $
 
-Marks greater than Emily $= 36 - 30 = 6$
+Marks that Hebe scored more than Emily $=6$
 
 </div>
 </div>
@@ -6749,21 +6747,16 @@ How much does $1$ orange cost?
 <div class='workings'>
 <div class='working'>
 
-Let the cost of $1$ orange $= a \ \text{p}$
-
 As per the question,
 
 $
 \begin{aligned}
-1 \ \text{apple} + 2 \times a                   &= 48 \ \text{p} \\\\
-1 \ \text{apple} + 1 \times a + 1 \times a      &= 48 \\\\
-31 \ \text{p} +  1 \times a                     &= 48 \\\\
-a                                               &= 48 - 31 \\\\
-a                                               &= 17 \ \text{p}
+  1 \ \text{apple} + 2 \ \text{oranges}           &= 48 \ \text{p} \\\\
+- 1 \ \text{apple} + 1 \ \text{oranges}           &= 31 \ \text{p} \\\\
+\uline
+                     1 \ \text{orange}            &= 17 \ \text{p}
 \end{aligned}
 $
-
-The cost of $1$ orange $= 17 \ \text{p}$
 
 </div>
 </div>
@@ -6883,18 +6876,21 @@ How many packs of pens need to be bought?
 
 As per the question,
 
-Packs to be brought
+Packs to be bought
 
 $
 \begin{aligned}
-&= \dfrac{Total pens} {Pens per pack} \\\\
+&= \dfrac{\text{Total pens}} {\text{Pens per pack}} \\\\
 &= \dfrac{3 \times 70}{8} \\\\
-&= \dfrac{210}{8} \\\\
+&= \dfrac{3 \times 35 \times 2}{4 \times 2} \\\\
+&= \dfrac{3 \times 35 \times \cancel{2}}{4 \times \cancel{2}} \\\\
+&= \dfrac{3 \times 35}{4} \\\\
+&= \dfrac{105}{4} \\\\
 &= 26 \dfrac{1}{4} \\\\
 \end{aligned}
 $
 
-Packs required $= 26 + 1 = 27$
+Packs of pen that needs to be bought is $26$ whole packets and $1$ more packet for the remainder $1$ pen $= 27$
 
 </div>
 </div>
@@ -6942,7 +6938,10 @@ How much does each person pay?
 
 As per the question,
 
+$\text{Total cost} = \text{Cost per person per km} \times \text{No. of kilometers.}
+
 $
+\begin{aligned}
 \text{Cost per person}      &= \dfrac{Total cost} {Total persons} \\\\
                             &= \dfrac{2.42 \times 32}{11} \\\\
                             &= \dfrac{2.42 \times 100 \times 32}{11 \times 100} \\\\
@@ -6951,6 +6950,7 @@ $
                             &= \dfrac{11 \times 2 \times 32} {100} \\\\
                             &= \dfrac{704}{100} \\\\
 \text{Cost per person}      &= \pounds 7.04
+\end{aligned}
 $
 
 </div>
@@ -7206,9 +7206,10 @@ We can easily infer the values by using trial and error. Let's find out $2$ numb
 
 Factors of $84 = 1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 84$
 
+Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text{and} \ 7, 12$
+
 | Factors   |  Sum  | Numbers $< 20$    |
 |:-------:  |:----: |:---------------:  |
-| $2, 42$   | $44$  |        No         |
 | $6, 14$   | $20$  |       Yes         |
 | $7, 12$   | $19$  |       Yes         |
 
@@ -7244,23 +7245,23 @@ He then thinks of a new number, multiplies it by $9$ and subtracts $15$. The res
 <div class='workings'>
 <div class='working'>
 
-Let the new number he thinks $= a$
+Let the new number he thought of $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-x \times 9 - 15     &= 66 \\\\
-x \times 9          &= 66 + 15 \\\\
-x \times 9          &= 81 \\\\
-x                   &= \dfrac{81}{9} \\\\
-x                   &= \dfrac{9 \times 9}{9} \\\\
-x                   &= \dfrac{\cancel{9} \times 9}{\cancel{9}} \\\\
-x                   &= 9
+a \times 9 - 15     &= 66 \\\\
+a \times 9          &= 66 + 15 \\\\
+a \times 9          &= 81 \\\\
+a                   &= \dfrac{81}{9} \\\\
+a                   &= \dfrac{9 \times 9}{9} \\\\
+a                   &= \dfrac{\cancel{9} \times 9}{\cancel{9}} \\\\
+a                   &= 9
 \end{aligned}
 $
 
-The new number he thinks $= 9$
+The new number he thought $= 9$
 
 </div>
 </div>
@@ -7314,10 +7315,10 @@ $
 \begin{aligned}
 \text{Maximum number of blocks}         &= \dfrac{\text{Volume of case}}{\text{Volume of brick}} \\\\
                                         &= \dfrac{200 \times 180 \times 120}{30 \times 20 \times 15} \\\\
-                                        &= \dfrac{5 \times 40 \times 30 \times 6 \times 20 \times 3 \times 2}{30 \times 20 \times 5 \times 3} \\\\
-                                        &= \dfrac{\cancel{5} \times 40 \times \cancel{30} \times 6 \times \cancel{20} \times \cancel{3} \times 2}{\cancel{30} \times \cancel{20} \times \cancel{5} \times \cancel{3}} \\\\
-                                        &= 40 \times 6 \times 2 \\\\
-\text{Maximum number of blocks}         &= 480
+                                        &= \dfrac{20 \times 2 \times 5 \times 30 \times 3 \times 3 \times 120}{30 \times 20 \times 5 \times 3} \\\\
+                                        &= \dfrac{\cancel{20} \times 2 \times \cancel{5} \times \cancel{30} \times \cancel{3} \times 3 \times 120}{\cancel{30} \times \cancel{20} \times \cancel{5} \times \cancel{3}} \\\\
+                                        &= 2 \times 2 \times 120 \\\\
+\text{Maximum number of blocks which can be fitted into the packing case}         &= 480
 \end{aligned}
 $
 
@@ -8032,70 +8033,6 @@ $21 \times 2 = 42$
 <div class='answer'>
 
 $42$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>295FC725-C559-4A9A-B53F-530F83AAA2FC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I think of a number $n$. 
-
-$5n$ is more than $60$, but $n + 5$ is less than $20$. What are the possible values of $n$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-5n      &> 60 \\\\
-n       &> \dfrac{60}{5} \\\\
-n       &> \dfrac{12 \times 5}{5} \\\\
-n       &> \dfrac{12 \times \cancel{5}}{\cancel{5}} \\\\
-n       &> 12
-\end{aligned}
-$
-
-Also,
-
-$
-\begin{aligned}
-n + 5       &< 20 \\\\
-n           &< 20 - 5 \\\\
-n           &< 15
-\end{aligned}
-$
-
-The values of n can be $= 13, 14$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13, 14$
 
 </div>
 </div>

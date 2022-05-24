@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-g1"
 title: "Topic - Algebra - G1"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -406,6 +406,181 @@ $9.8$
 </div>
 <div class='rag'>
 <p>rag_nc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>A53C7015-4325-4F04-9324-7266EA307FB1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Anwar is playing 'think of a number'. He does not always think of whole numbers.
+
+In each part of the question work out Anwar's original number.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Anwar thinks of a number. He doubles it and subtracts $17$ from the result. He then has $15$.
+
+What was Anwar's original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Anwar's thinking $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times a - 17     &= 15 \\\\
+2a                  &= 15 + 17 \\\\
+2a                  &= 32 \\\\
+a                   &= \dfrac {32} {2} \\\\
+a                   &= \dfrac {16 \times 2} {2} \\\\
+a                   &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
+a                   &= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Anwar thinks of a number. He subtracts $17$ then doubles the result. He then has $15$.
+
+What was Anwar's original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Anwar's thinking $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2(a - 17)           &= 15 \\\\
+2a - 34             &= 15 \\\\
+2a                  &= 15 + 34 \\\\
+2a                  &= 49 \\\\
+a                   &= \dfrac {49} {2} \\\\
+a                   &= 24.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24.5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Anwar thinks of a number. He halves it and subtracts $17$ from the result. He then has $15$.
+
+What was Anwar's original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Anwar's thinking $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {a} {2} - 17                                              &= 15 \\\\
+\dfrac {a} {2} - \dfrac {17 \times 2} {1 \times 2}               &= 15 \\\\
+\dfrac {a} {2} - \dfrac {34} {2}                                 &= 15 \\\\
+\dfrac {a - 34} {2}                                              &= 15 \\\\
+a - 34                                                           &= 15 \times 2 \\\\
+a                                                                &= 30 \\\\
+a                                                                &= 30 + 34 \\\\
+a                                                                &= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -4062,6 +4237,155 @@ $18$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>8CFB528C-79C4-4BDA-83CD-5EE537CC7589</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A teacher has 5 bags of marbles and $3$ extra marbles.
+Each bag has $n$ marbles inside.
+
+She ask: 'How many marbles are there altogether?'
+
+The pupil’s say:
+
+
+Nia: $8n$
+
+Vijay: $3 + 5n$
+
+Sam: $8$
+
+Jo: $15n$
+
+Karen: $5 \times n + 3$
+
+Glyn: $(3 + 5)n$
+
+There are 88 marbles altogether.
+
+Fill in one pupil’s right answer to help you complete the equation.
+
+Solve the equation to find $n$, the the number of marbles in a bag.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+5 \times n + 3  &= 88 \\\\
+5n + 3          &= 88 \\\\
+5n              &= 88 - 3 \\\\
+5n              &= 85 \\\\
+n               &= \dfrac {85} {5} \\\\
+n               &= \dfrac {17 \times 5} {5} \\\\
+n               &= \dfrac {17 \times \cancel {5}} {\cancel {5}} \\\\
+n               &= 17
+\end {aligned}
+$
+
+Number of marbles in each bag $= 17$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>1F301F9C-E10E-4A62-A2CA-DA4E31288C6A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mark is $3$ years older than David. The sum of their ages is $89$.
+How old is Mark? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let David's age $= a$
+
+As per the question,
+
+Mark's age $= 3 + a$
+
+$
+\begin{aligned}
+\text{Sum of their ages} &= 89 \\\\
+a + 3 + a                &= 89 \\\\
+2 a + 3                  &= 89 \\\\
+2 a                      &= 89 - 3 \\\\
+2 a                      &= 86 \\\\
+a                        &= \dfrac {86} {2} \\\\
+a                        &= \dfrac {43 \times 2} {2} \\\\
+a                        &= \dfrac {43 \times \cancel {2}} {\cancel {2}} \\\\
+a                        &= 43 \ \text{years}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Mark's age} &= 3 + a \\\\
+                  &= 3 + 43 \\\\
+                  &= 46 \ \text{years}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$46 \ \text{years}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nc_g1 question'>
 <div class='uuid'>
 <p>A56CC986-6FB6-44CD-B429-F2315A65E217</p>
@@ -4556,6 +4880,78 @@ $
 <div class='answer'>
 
 $8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>4EDABAC9-B1F8-470A-AE7E-934077143CEE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I’m thinking of two numbers. When I double the first and add it to the second I get $160$. One of the numbers is half of the other. Which of these could be one of my numbers?
+
+A: $30$ 
+
+B: $45$ 
+
+C: $60$ 
+
+D: $64$ 
+
+E: $96$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let one number $= a$
+
+Other number $= \dfrac {a} {2}$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times a + \dfrac {a} {2}                         &= 160 \\\\
+\dfrac {2 a \times 2} {1 \times 2} + \dfrac {a} {2} &= 160 \\\\
+\dfrac {4 a} {2} + \dfrac {a} {2}                   &= 160 \\\\
+\dfrac {4 a + a} {2}                                &= 160 \\\\
+\dfrac {5 a} {2}                                    &= 160 \\\\
+a                                                   &= \dfrac {160 \times 2} {5} \\\\
+a                                                   &= \dfrac {32 \times 5 \times 2} {5} \\\\
+a                                                   &= \dfrac {32 \times \cancel {5} \times 2} {\cancel {5}} \\\\
+a                                                   &= 32 \times 2 \\\\
+a                                                   &= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$64$
 
 </div>
 </div>

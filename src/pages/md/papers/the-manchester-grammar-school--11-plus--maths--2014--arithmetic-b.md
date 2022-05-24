@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic B"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -65,11 +65,9 @@ As per the question,
 
 $
 \begin{aligned}
-&= 17954 \div 382 \\\\
-&= \dfrac {17954} {382} \\\\
-&= \dfrac {47 \times 382} {382} \\\\
-&= \dfrac {47 \times \cancel {382}} {\cancel {382}} \\\\
-&= 47
+47 \times 382           &= 17954 \\\\
+\dfrac {17954} {382}    &= 47 \\\\
+17954 \div 382          &= 47
 \end{aligned}
 $
 
@@ -99,13 +97,14 @@ $4.7 \times 3.82 =$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 4.7 \times 3.82 \\\\
-&= \dfrac {47} {10} \times \dfrac {382} {100} \\\\
-&= \dfrac {47 \times 382} {10 \times 100} \\\\
-&= \dfrac {17954} {1000} \\\\
-&= 17.954
+47 \times 382                               &= 17954 \\\\
+\dfrac {47 \times 382} {1000}               &= \dfrac {17954} {1000} \\\\
+\dfrac {47} {10} \times \dfrac {382} {100}  &= \dfrac {17954} {1000} \\\\
+4.7 \times 3.82                             &= 17.954
 \end{aligned}
 $
 
@@ -135,16 +134,17 @@ $179.54 \div 38.2 =$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin {aligned}
-&= 179.54 \div 38.2 \\\\
-&= \dfrac {179.54} {38.2} \\\\
-&= \dfrac {17954 \times 10} {382 \times 100} \\\\
-&= \dfrac {47 \times 382 \times 10} {382 \times 100} \\\\
-&= \dfrac {47 \times \cancel {382} \times 1 \cancel {0}} {\cancel {382} \times 10 \cancel {0}} \\\\
-&= \dfrac {47} {10} \\\\
-&= 4.7
-\end {aligned}
+\begin{aligned}
+47 \times 382                               &= 17954 \\\\
+\dfrac {47 \times 382} {100}                &= \dfrac {17954} {100} \\\\
+\dfrac {47} {10} \times \dfrac {382} {100}  &= \dfrac {17954} {100} \\\\
+4.7 \times 38.2                             &= 179.54 \\\\
+\dfrac {179.54} {38.2}                      &= 4.7 \\\\
+179.54 \div 38.2                            &= 4.7
+\end{aligned}
 $
 
 </div>
@@ -173,14 +173,14 @@ $94 \times 191 =$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 94 \times 191 \\\\
-&= 2 \times 47 \times \dfrac {382} {2} \\\\
-&= \dfrac {2 \times 47 \times 382} {2} \\\\
-&= \dfrac {\cancel {2} \times 47 \times 382} {\cancel {2}} \\\\
-&= 47 \times 382 \\\\
-&= 17954
+47 \times 382                        &= 17954 \\\\
+47 \times 382 \time \dfrac {2} {2}   &= 17954 \times \dfrac {2} {2} \\\\
+47 \times 2 \times \dfrac {382} {2}  &= 17954 \\\\
+94 \times 191                        &= 17954
 \end{aligned}
 $
 
@@ -308,11 +308,11 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 $
 \begin {aligned}
 a + a + 48 \degree   &= 180 \degree \\\\
-2a + 48 			 &= 180 \\\\
-2a 					 &= 180 - 48 \\\\
-2a 					 &= 132 \\\\
-a 					 &= \dfrac {132} {2} \\\\
-a 					 &= 66 \degree
+2a + 48              &= 180 \\\\
+2a                   &= 180 - 48 \\\\
+2a                   &= 132 \\\\
+a                    &= \dfrac {132} {2} \\\\
+a                    &= 66 \degree
 \end {aligned}
 $
 
@@ -325,8 +325,8 @@ Let the third angle $= b$.
 $
 \begin {aligned}
 48 + 48 + b    &= 180 \degree \\\\
-96 + b 		   &= 180 \\\\
-b 			   &= 180 - 96 \\\\
+96 + b         &= 180 \\\\
+b              &= 180 - 96 \\\\
 b              &= 84 \degree
 \end {aligned}
 $

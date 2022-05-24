@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-g1"
 title: "Topic - Money - G1"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -198,6 +198,361 @@ $\pounds 16$
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>90559230-2BC2-4EB0-84DF-D9BA98C6058E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Eleanor receives $\pounds 20$ pocket money each week.
+This week, she spent $\pounds 4.88$ on sweets at the shop.
+$She then put a third of what was left in her piggy bank.
+
+How much money does she still have to spend?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Money left to spent} &= 20 - (4.88 + \dfrac {1} {3} \times (20 - 4.88)) \\\\
+                           &= 20 - (4.88 + \dfrac {1} {3} \times 15.12) \\\\
+                           &= 20 - (4.88 + \dfrac {15.12} {3}) \\\\
+                           &= 20 - (4.88 + 5.04) \\\\
+                           &= 20 - (4.88 + 5.04) \\\\
+                           &= 20 - 9.92 \\\\
+                           &= \pounds 10.08
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 10.08$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>ADF03135-2BED-4722-A77F-AEF96CA568D8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Five children go to a  cafe. They each pay $\pounds 5.99$ for a meal. Work out the total amount they pay altogether.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total amount paid}  &= 5 \times \pounds 5.99 \\\\
+                           &= \pounds 29.95
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 29.95$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>0A52D945-A28D-4AF7-B094-8C90084E6EB6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Refer to the following school canteen price list for this question:
+
+Pasta Salad $\ldots 95 \text{p}$
+
+Baguette $\ldots 85 \text{p}$
+
+Apple $\ldots 40 \text{p}$
+
+Fruit Crumble $\ldots \pounds 1.15$
+
+Curry and Rice $\ldots \pounds 2.30$
+
+Mr. Sanders wants to buy a class set of $25$ packed lunches - each with a pasta salad, a baguette and an apple.
+
+How much will he have to pay in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total cost}  &= 25 \times (95 + 85 + 40) \\\\
+                    &= 25 \times 220 \ \text{p} \\\\
+                    &= 25 \times \pounds \dfrac {220} {100} \\\\
+                    &= 25 \times 2.2 \\\\
+                    &= \pounds 55
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 55$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>336B71BC-D933-4B73-8AC5-2EDE7391DCB5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tfraction
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate a quarter of $\pounds 62$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {4} \ \text {of} \ 62 \\\\
+&= \dfrac {1} {4} \times 62 \\\\
+&= \dfrac {62} {4} \\\\
+&= \pounds 15.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15.5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate $10\%$ of $\pounds 62$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10 \% \ \text {of} \ 62 \\\\
+&= \dfrac {10} {100} \times 62 \\\\
+&= \dfrac {10 \times 62} {100} \\\\
+&= \dfrac {620} {100} \\\\
+&= \pounds 6.20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 6.20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate $11\%$ of $\pounds 62$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 11 \% \ \text {of} \ 62 \\\\
+&= \dfrac {11} {100} \times 62 \\\\
+&= \dfrac {11 \times 62} {100} \\\\
+&= \dfrac {682} {100} \\\\
+&= \pounds 6.82
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6.82$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A coat costing $\pounds 62$ is reduced in a sale by $\pounds 12.40$. 
+
+What percentage discount is this?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Discount percentage}     &= \dfrac {\text {Reduced amount}} {\text {Old price}} \times 100 \\\\
+                                &= \dfrac {12.04} {62} \times 100 \\\\
+                                &= \dfrac {12.04 \times 100} {62} \\\\
+                                &= \dfrac {1204} {62} \\\\
+                                &= 19.41 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19.41 \%$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2364,6 +2719,183 @@ $\pounds 3.0825$
 </div>
 <div class='rag'>
 <p>rag_nc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>883F6925-9EC7-4ED4-90EE-6C29F7B5A29F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+
+| Mon             | Tues                      | Wed                                                 | Thurs     | Fri     | Sat     | Sun     |
+|-----            |-------                    |-------------                                        |-------    |-----    |-----    |-----    |
+| $1\text{p}$      | $1\text{p}$,$1\text{p}$     | $1\text{p}$,$1\text{p}$,$1\text{p}$,$1\text{p}$     |           |         |         |         |
+
+Mary is saving pennies. She draws the grid above for seven days of the week. Each day she will save twice as much as she saved the day before. On Monday she saves $1\text{p}$, Tuesday $2\text{p}$ and Wednesday $4\text{p}$ as planned.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much did she save on
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Thursday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2 \times 4 \\\\
+&= 8 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Saturday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4 \times 8 \\\\
+&= 32 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much will she save in total for the whole week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{She shaved} &= 1 + 2 + 4 + 8 + 16 + 32 + 64 \\\\
+                  &= 127 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$127 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

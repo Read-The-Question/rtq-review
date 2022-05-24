@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-pr"
 title: "Topic - Volume - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -708,9 +708,9 @@ $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 As per the question,
 
 $
-begin {aligned}
+\begin {aligned}
 \text {Number of ice cream blocks}    &= \dfrac {\text {Volume of the cool box}} {\text {Volume of a ice cream block}} \\\\
-                                      &= \dfrac {30 \ \text{cm} \times 30 \ \text{cm} \times 62 \ \text{cm}} {10 \ \text{cm} \times 5 \ \text{cm} \times 15 \ \text{cm}} \\\\
+                                      &= \dfrac {30 \times 30 \times 62}  {10 \times 5 \times 15} \\\\
                                       &= \dfrac {3 \times 10 \times 3 \times 5 \times 2 \times 62} {10 \times 5 \times 5 \times 3} \\\\
                                       &= \dfrac {\cancel {3} \times \cancel {10} \times \cancel {5} \times 2 \times 3 \times 62} {\cancel {10} \times \cancel {5} \times \cancel {5} \times \cancel {3}} \\\\
                                       &= \dfrac {3 \times 2 \times 62} {5} \\\\
@@ -1043,10 +1043,10 @@ $
 \begin{aligned}
 \text{Maximum number of blocks}         &= \dfrac{\text{Volume of case}}{\text{Volume of brick}} \\\\
                                         &= \dfrac{200 \times 180 \times 120}{30 \times 20 \times 15} \\\\
-                                        &= \dfrac{5 \times 40 \times 30 \times 6 \times 20 \times 3 \times 2}{30 \times 20 \times 5 \times 3} \\\\
-                                        &= \dfrac{\cancel{5} \times 40 \times \cancel{30} \times 6 \times \cancel{20} \times \cancel{3} \times 2}{\cancel{30} \times \cancel{20} \times \cancel{5} \times \cancel{3}} \\\\
-                                        &= 40 \times 6 \times 2 \\\\
-\text{Maximum number of blocks}         &= 480
+                                        &= \dfrac{20 \times 2 \times 5 \times 30 \times 3 \times 3 \times 120}{30 \times 20 \times 5 \times 3} \\\\
+                                        &= \dfrac{\cancel{20} \times 2 \times \cancel{5} \times \cancel{30} \times \cancel{3} \times 3 \times 120}{\cancel{30} \times \cancel{20} \times \cancel{5} \times \cancel{3}} \\\\
+                                        &= 2 \times 2 \times 120 \\\\
+\text{Maximum number of blocks which can be fitted into the packing case}         &= 480
 \end{aligned}
 $
 

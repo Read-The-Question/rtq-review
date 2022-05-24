@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-pr"
 title: "Topic - Money - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1641,60 +1641,6 @@ $265$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>90559230-2BC2-4EB0-84DF-D9BA98C6058E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Eleanor receives $\pounds 20$ pocket money each week.
-This week, she spent $\pounds 4.88$ on sweets at the shop.
-$She then put a third of what was left in her piggy bank.
-
-How much money does she still have to spend?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Money left to spent} &= 20 - (4.88 + \dfrac {1} {3} \times (20 - 4.88)) \\\\
-                           &= 20 - (4.88 + \dfrac {1} {3} \times 15.12) \\\\
-                           &= 20 - (4.88 + \dfrac {15.12} {3}) \\\\
-                           &= 20 - (4.88 + 5.04) \\\\
-                           &= 20 - (4.88 + 5.04) \\\\
-                           &= 20 - 9.92 \\\\
-                           &= \pounds 10.08
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 10.08$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>83FF262B-C3C2-446A-888D-017561433336</p>
 </div>
 <div class='topics'>
@@ -1996,51 +1942,6 @@ $18 \ \text {pence}$
 
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>ADF03135-2BED-4722-A77F-AEF96CA568D8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Five children go to a  cafe. They each pay $\pounds 5.99$ for a meal. Work out the total amount they pay altogether.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Total amount paid}  &= 5 \times \pounds 5.99 \\\\
-                           &= \pounds 29.95
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 29.95$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -2445,262 +2346,6 @@ $3$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>0A52D945-A28D-4AF7-B094-8C90084E6EB6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Refer to the following school canteen price list for this question:
-
-Pasta Salad $\ldots 95 \text{p}$
-
-Baguette $\ldots 85 \text{p}$
-
-Apple $\ldots 40 \text{p}$
-
-Fruit Crumble $\ldots \pounds 1.15$
-
-Curry and Rice $\ldots \pounds 2.30$
-
-Mr. Sanders wants to buy a class set of $25$ packed lunches - each with a pasta salad, a baguette and an apple.
-
-How much will he have to pay in total?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Total cost}  &= 25 \times (95 + 85 + 40) \\\\
-                    &= 25 \times 220 \ \text{p} \\\\
-                    &= 25 \times \pounds \dfrac {220} {100} \\\\
-                    &= 25 \times 2.2 \\\\
-                    &= \pounds 55
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 55$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>336B71BC-D933-4B73-8AC5-2EDE7391DCB5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tfraction
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate a quarter of $\pounds 62$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {1} {4} \ \text {of} \ 62 \\\\
-&= \dfrac {1} {4} \times 62 \\\\
-&= \dfrac {62} {4} \\\\
-&= \pounds 15.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15.5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate $10\%$ of $\pounds 62$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 10 \% \ \text {of} \ 62 \\\\
-&= \dfrac {10} {100} \times 62 \\\\
-&= \dfrac {10 \times 62} {100} \\\\
-&= \dfrac {620} {100} \\\\
-&= \pounds 6.20
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 6.20$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate $11\%$ of $\pounds 62$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 11 \% \ \text {of} \ 62 \\\\
-&= \dfrac {11} {100} \times 62 \\\\
-&= \dfrac {11 \times 62} {100} \\\\
-&= \dfrac {682} {100} \\\\
-&= \pounds 6.82
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6.82$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A coat costing $\pounds 62$ is reduced in a sale by $\pounds 12.40$. 
-
-What percentage discount is this?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Discount percentage}     &= \dfrac {\text {Reduced amount}} {\text {Old price}} \times 100 \\\\
-                                &= \dfrac {12.04} {62} \times 100 \\\\
-                                &= \dfrac {12.04 \times 100} {62} \\\\
-                                &= \dfrac {1204} {62} \\\\
-                                &= 19.41 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19.41 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2016--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -5009,183 +4654,6 @@ $
 <div class='answer'>
 
 $\pounds 14.7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>883F6925-9EC7-4ED4-90EE-6C29F7B5A29F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-ttable
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-
-| Mon             | Tues                      | Wed                                                 | Thurs     | Fri     | Sat     | Sun     |
-|-----            |-------                    |-------------                                        |-------    |-----    |-----    |-----    |
-| $1\text{p}$      | $1\text{p}$,$1\text{p}$     | $1\text{p}$,$1\text{p}$,$1\text{p}$,$1\text{p}$     |           |         |         |         |
-
-Mary is saving pennies. She draws the grid above for seven days of the week. Each day she will save twice as much as she saved the day before. On Monday she saves $1\text{p}$, Tuesday $2\text{p}$ and Wednesday $4\text{p}$ as planned.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much did she save on
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion TODO'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Thursday?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 2 \times 4 \\\\
-&= 8 \text{p}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Saturday?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 4 \times 8 \\\\
-&= 32 \text{p}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much will she save in total for the whole week?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{She shaved} &= 1 + 2 + 4 + 8 + 16 + 32 + 64 \\\\
-                  &= 127 \text{p}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$127 \text{p}$
 
 </div>
 </div>
@@ -10397,26 +9865,33 @@ and let's take banana $= b$
 
 As per the question,
 
-$3 \times \text{apple cost} + 1 \times \text{banana cost}        = 53 \text{p}$
+$3 \times a + 1 \times b = 32 \text{p}$ Or $1 \times b = 32 - 3 \times a$
 
+$6 \times a + 1 \times b = 53 \text{p}$ Or $1 \times b = 53 - 6 \times a$
 
-Also,
+Hence,
 
 $
 \begin{aligned}
-6 \times \text{apple cost} + 1 \times \text{banana cost}        &= 53 \text{p} \\\\
-6 \times \dfrac{32 - a}{3} + a                                  &= 53 \\\\
-\dfrac{(32 - a) \times 6}{3} + a                                &= 53 \\\\
-(32 - a) \times 2 + a                                           &= 53 \\\\
-64 - 2a + a                                                     &= 53 \\\\
-64 - a                                                          &= 53 \\\\
-64 - 53                                                         &= a \\\\
-11                                                              &= a \\\\
-a                                                               &= 11 \text{p}
+32 - 3 \times a             &=  53 - 6 \times a \\\\
+6a - 3a                     &= 53 - 32 \\\\
+3a                          &= 21 \\\\
+a                           &= \dfrac{21}{3} \\\\
+a                           &= \dfrac{7 \times 3}{3} \\\\
+a                           &= 7 \\\\
+\text{Apple cost}           &= 7
 \end{aligned}
 $
 
-The cost of a banana $= 11 \text{p}$
+The cost of a banana
+
+$
+\begin{aligned}
+&= 32 - 3 \times 7 \text{p} \\\\
+&= 32 - 21 \text{p} \\\\\
+&= 11 \text{p}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -10582,21 +10057,16 @@ How much does $1$ orange cost?
 <div class='workings'>
 <div class='working'>
 
-Let the cost of $1$ orange $= a \ \text{p}$
-
 As per the question,
 
 $
 \begin{aligned}
-1 \ \text{apple} + 2 \times a                   &= 48 \ \text{p} \\\\
-1 \ \text{apple} + 1 \times a + 1 \times a      &= 48 \\\\
-31 \ \text{p} +  1 \times a                     &= 48 \\\\
-a                                               &= 48 - 31 \\\\
-a                                               &= 17 \ \text{p}
+  1 \ \text{apple} + 2 \ \text{oranges}           &= 48 \ \text{p} \\\\
+- 1 \ \text{apple} + 1 \ \text{oranges}           &= 31 \ \text{p} \\\\
+\uline
+                     1 \ \text{orange}            &= 17 \ \text{p}
 \end{aligned}
 $
-
-The cost of $1$ orange $= 17 \ \text{p}$
 
 </div>
 </div>
@@ -11949,6 +11419,8 @@ If a dozen eggs cost $\pounds 2.80$, how much do $18$ eggs cost?
 </div>
 <div class='workings'>
 <div class='working'>
+
+As we know that, one dozen $= 12$
 
 As per the question,
 
@@ -15400,6 +14872,69 @@ $16$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>A31A6436-9C6D-4A0E-B943-F8626DF8E8C7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A shop reduces its prices by $20 \%$ in a sale. David bought a coat for $\pounds 40$ in the sale. How much would the coat have cost him **__before__** the sale?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the original cost of the coat (in $\pounds$) $= c$
+
+If the price is reduced by $20 \%$, then the sale price would be $100 - 20 = 80 \%$ of the original price.
+
+Let's use this to calculate the original price.
+
+$
+\begin{aligned}
+80 \% \text{ of } c               &= 40 \\\\
+\dfrac {80 } { 100 } \times c     &= 40 \\\\
+c                                 &= \dfrac {40 \times 100} { 80 } \\\\
+c                                 &= \dfrac {40 \times 2 \times 50} { 40 \times 2 } \\\\
+c                                 &= \dfrac {\cancel{40} \times \cancel{2} \times 50} { \cancel{40} \times \cancel{2} } \\\\
+                                  &= \pounds 50 
+\end{aligned}
+$
+
+Original price $= \pounds 50$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

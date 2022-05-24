@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-g1"
 title: "Topic - Noexplanation - G1"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -740,6 +740,51 @@ $9909999$
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>8B1ACA24-9EE4-4663-9DCB-44F675B5931A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the **three** prime numbers in this list:
+
+$27  \quad 29  \quad 31  \quad 33  \quad 35  \quad 37  \quad 39$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$29, 31, 37$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$29, 31, 37$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -1668,6 +1713,169 @@ $2020020$
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>2E75B7DC-1BB8-4EB4-8F7A-059D13BBC07E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at the numbers in the cloud:
+
+![missing image](/papers/missing_image.svg)
+
+Write down any of these numbers which are:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+even
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8, \ 12, \ 14, \ 20$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8, \ 12, \ 14, \ 20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+multiples of $5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$20, \ 35$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20, \ 35$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+factors of $24$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3, \ 8, \ 12, \ 24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3, \ 8, \ 12, \ 24$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+prime numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3, \ 17$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3, \ 17$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

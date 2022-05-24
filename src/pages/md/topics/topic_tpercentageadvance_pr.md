@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-pr"
 title: "Topic - Percentageadvance - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -202,10 +202,10 @@ $
 49 - b                                                               &= \dfrac {45 \times 2 \times 50} {50 \times 2} - \dfrac {90 b} {100} \\\\
 49 - b                                                               &= \dfrac {45 \times \cancel {2} \times \cancel {50}} {\cancel {50} \times \cancel {2}} - \dfrac {90 b} {100} \\\\
 49 - b                                                               &= 45 - \dfrac {90 b} {100} \\\\
-- b + \dfrac {90 b} {100}                                            &= 45 - 49 \\\\
-- \dfrac {b \times 100} {1 \times 100} + \dfrac {90 b} {100}         &= - 4 \\\\
-- \dfrac {100 b + 90 b} {100}                                        &= - 4 \\\\
-- \dfrac {10 b} {100}                                                &= - 4 \\\\
+-b + \dfrac {90 b} {100}                                             &= 45 - 49 \\\\
+-\dfrac {b \times 100} {1 \times 100} + \dfrac {90 b} {100}          &= -4 \\\\
+-\dfrac {100 b + 90 b} {100}                                         &= -4 \\\\
+-\dfrac {10 b} {100}                                                 &= -4 \\\\
 \cancel {-} \dfrac {1 \cancel {0} b} {10 \cancel {0}}                &= \cancel {-} 4 \\\\
 \dfrac {b} {10}                                                      &= 4 \\\\
 b                                                                    &= 4 \times 10 \\\\
@@ -1090,12 +1090,13 @@ $
 \begin{aligned}
 \text {Overall score}            &= 10\% \ \text{of} \ \text {10-problem-test} + 70\% \ \text{of} \ \text {20-problem-test} + 80\% \ \text{of}\ \text {30-problem-test} \\\\
                                  &= \dfrac {10} {100} \times 10 + \dfrac {70} {100} \times 20 + \dfrac {80} {100} \times 30 \\\\
-                                 &= \dfrac {100} {100} + \dfrac {14 \times 100} {100} + \dfrac {24 \ \times 100} {100} \\\\
-                                 &= \dfrac {\cancel {100} } {\cancel {100} } + \dfrac {14 \times \cancel{100} } {\cancel{100} } + \dfrac {24 \ \times \cancel{100} } {\cancel{100} } \\\\
-                                 &= 1 + 14 +24 \\\\
+                                 &= \dfrac {10 \times 10} {100} + \dfrac {70 \times 20} {100} + \dfrac {80 \times 30} {100} \\\\
+                                 &= \dfrac {10 \times 10} {100} + \dfrac {14 \times 5 \times 20} {20 \times 5} + \dfrac {20 \times 4 \times 6 \times 5} {20 \times 5} \\\\
+                                 &= \dfrac {1 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} + \dfrac {14 \times \cancel {5} \times \cancel {20}} {\cancel {20} \times \cancel {5}} + \dfrac {\cancel {20} \times 4 \times 6 \times \cancel {5}} {\cancel {20} \times \cancel {5}} \\\\
+                                 &= 1 + 14 + 6 \times 4 \\\\
+                                 &= 15 + 24 \\\\ 
                                  &= 39 \\\\
-\text{Overall percentage}        &= \dfrac {39} {60} \ \text {of} \ 100 \\\\
-                                 &= \dfrac {39} {60} \times 100 \\\\
+\text {Overall percentage}       &= \dfrac {39} {60} \times 100 \\\\
                                  &= \dfrac {3 \times 13 \times 2 \times 5 \times 10} {2 \times 3 \times 10} \\\\
                                  &= \dfrac {\cancel {3} \times 13 \times \cancel {2} \times 5 \times \cancel {10}} {\cancel {2} \times \cancel {3} \times \cancel {10}} \\\\
                                  &= 13 \times 5 \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-pr"
 title: "Topic - Ratio - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -818,6 +818,8 @@ If a dozen eggs cost $\pounds 2.80$, how much do $18$ eggs cost?
 </div>
 <div class='workings'>
 <div class='working'>
+
+As we know that, one dozen $= 12$
 
 As per the question,
 

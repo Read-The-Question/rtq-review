@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-4"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>Leicester High School for Girls</h1>
@@ -1421,7 +1421,7 @@ $
 \begin{aligned}
 3p + 14           &= 5p + 1 \\\\
 3p - 5p           &= 1 - 14 \\\\
-- 2p              &= - 13 \\\\
+-2p               &= -13 \\\\
 \cancel {-} 2p    &= \cancel {-} 13 \\\\
 p                 &= \dfrac {13} {2}
 \end{aligned}

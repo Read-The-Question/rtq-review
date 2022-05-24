@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2009-practice-paper-2"
 title: "Merchant Taylors School - 11 Plus - Maths - 2009 - Practice Paper 2"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>Merchant Taylors' School</h1>
@@ -1553,7 +1553,7 @@ a \times 2 + 11     &= (a \times 5 + 11) \div 2 \\\\
 (2 a + 11) \times 2 &= 5 a + 11 \\\\
 4 a + 22            &= 5 a + 11 \\\\
 4 a - 5 a           &= 11 - 22 \\\\
-- a                 &= - 11 \\\\
+-a                  &= -11 \\\\
 \cancel {-} a       &= \cancel {-} 11 \\\\
 a                   &= 11
 \end{aligned}

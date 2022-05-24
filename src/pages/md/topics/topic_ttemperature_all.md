@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-all"
 title: "Topic - Temperature - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2464,7 +2464,7 @@ $-7 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>CB9E833C-477C-416F-9F7E-B57C7CF7ECEC</p>
 </div>
@@ -2487,8 +2487,8 @@ What is the temperature in Exeter?
 
 $
 \begin{aligned}
-&= 12 + (-7) \\\\
-&= 5 \degree{C}
+\text {The temperature in Exeter}   &= 12 + (-7) \\\\
+                                    &= 5 \degree \text {C}
 \end{aligned}
 $
 
@@ -2497,7 +2497,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5 \degree{C}$
+$5 \degree \text {C}$
 
 </div>
 </div>
@@ -2506,7 +2506,7 @@ $5 \degree{C}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -3321,7 +3321,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Current temparature}  &= 7.20 \ degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
+\text{Current temparature}  &= 7.20 \degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
                             &= 4.05 \degree \ \text{C}
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-g1"
 title: "Topic - Unit - G1"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -139,6 +139,121 @@ $2.750 \ \text {kilograms}$
 </div>
 <div class='rag'>
 <p>rag_nc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>28822DF6-1E36-41A2-8D1E-91DDA75CEE74</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many grams are there in $2.5 \ \text{kg}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  2.5 \ \text{kg} \\\\
+&=  2.5 \times 1000 \ \text {grams} \\\\
+&=  2500 \ \text{grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2500 \ \text{grams}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for wrapping parcels. How many cm of tape does he have left over?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+
+$
+\begin{aligned}
+\text {Tape left}   &= 5 \ \text {m} \ 35 \ \text {cm} - 243 \ \text{cm} \\\\
+                    &= 5 + \dfrac {35} {100} \ \text {m} - \dfrac {243} {100} \ \text {m} \\\\
+                    &= 5 + 0.35 - 2.43 \\\\
+                    &= 5.35 - 2.43 \\\\
+                    &= 2.92 \ \text {m} \\\\
+                    &= 2 \ \text {m} + 0.92 \times 100 \ \text {cm} \\\\
+                    &= 2 \ \text {m} \ 92 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {m} \ 92 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1133,6 +1248,126 @@ $3.284 \ \text {m}$
 </div>
 <div class='rag'>
 <p>rag_nc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>7D083302-BF35-4803-83D6-EF748D7B7277</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunit
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Meera is $1.62\ \text{m}$ tall and Ellie is $1.39\ \text{m}$ tall.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much taller is Meera than Ellie? Give your answer in $\text{centimetres}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{m} = 100  \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Meera is taller than Ellie by} &= 1.62 - 1.39 \\\\
+                                     &= 0.23 \ \text{m} \\\\
+                                     &= 0.23 \times 100 \ \text{cm} \\\\
+                                     &= 23 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Meera is now exactly $3$ times as tall as she was when she was born. What was her height in centimetres when she was born?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{m} = 100  \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Meera's height when is was born} &= \dfrac {1.62} {3} \ \text{m} \\\\
+                                       &= \dfrac {1.62 \times 100} {3} \ \text{cm} \\\\
+                                       &= \dfrac {162} {3} \ \text{cm} \\\\
+                                       &= \dfrac {54 \times 3} {3} \\\\
+                                       &= \dfrac {54 \times \cancel {3}} {\cancel {3}} \\\\
+                                       &= 54 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

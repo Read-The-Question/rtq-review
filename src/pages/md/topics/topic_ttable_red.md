@@ -1,9 +1,66 @@
 ---
 slug: "topics/topic-ttable-red"
 title: "Topic - Table - Red"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ad_red question'>
+<div class='uuid'>
+<p>211A5FCF-4F61-45F5-A728-04F4F08A4EC3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The table below shows the results of a survey in which $60$ boys 
+were asked what colour of dress girls should wear.
+
+![missing table](/papers/missing_table.svg)
+
+What percentage of boys thought *girls* should wear pink?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Percentage of boys that thought girls should wear pink} &= \dfrac {24} {24 + 15 + 21} \times 100 \\\\
+                                                              &= \dfrac {24 \times 100} {60} \\\\
+                                                              &= \dfrac {4 \times 6 \times 10 \times 10} {6 \times 10} \\\\
+                                                              &= \dfrac {4 \times \cancel {6} \times 10 \times \cancel {10}} {\cancel {6} \times \cancel {10}} \\\\
+                                                              &= 4 \times 10 \\\\
+                                                              &= 40 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_ad_red</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_nm_red question'>
 <div class='uuid'>

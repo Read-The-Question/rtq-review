@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-pr"
 title: "Topic - Time - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -571,56 +571,6 @@ $4, 60, 460, 240, 3600$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>725486A7-3062-47A5-9B6E-60454F2B945C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A train left London at $11{:}30$ and arrived in Glasgow at $15{:}50$. 
-
-The train only made $3$ stops, each lasting $5 \ \text{minutes}$.
-
-For how many minutes was the train moving on this journey?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Time for which train was moving}  &= 15{:}50 - 11{:}30 - 5 \times 3 \ \text{minutes} \\\\
-                                        &= 4 \ \text{hours} \ 20 \ \text{minutes} - 15 \ \text{minutes} \\\\
-                                        &= 4 \ \text{hours} \ 05 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 \ \text{hours} \ 05 \ \text{minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>82E53172-BBB9-4193-AC4C-4D206B9D794C</p>
@@ -779,161 +729,6 @@ $283 \text{ minutes}$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>C2F4373E-8537-4143-B094-CFF465AFF504</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Petrov wants to "listen again" to several shows on the radio and is checking the list of the broadcast times.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long does the 'Power Hour' show last?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the table,
-
-$
-\begin{aligned}
-\text{Power house lasted for}   &= 1852 - 1803 \\\\
-                                &= 49
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$49$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Petrov downloads and listens to the 'Request Slot' and the 'Re-mix Revenge' immediately after each other. 
-He starts listenig at $1952$, what time does he finish?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the table,
-
-$
-\begin{aligned}
-\text{Request Slot lasts for}           &= 1757 - 1748 \\\\
-                                        &= 9 \\\\
-\text{Re-mix Revenge lasts for}         &= 1857 - 1852 \\\\
-                                        &= 5 \\\\
-\text{He finished listening at}         &= 1952 + 9 + 5 \\\\
-                                        &= 1966
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1966$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What time should Petrov start to listen to the 'Crunch Time' download, if he wants to finish listening at $2015$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the table,
-
-$
-\begin{aligned}
-\text{Crunch Time lasts for}            &= 1748 - 1715 \\\\
-                                        &= 33 \\\\
-\text{Petrov should start listening at} &= 2015 - 33 \\\\
-                                        &= 1982
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1982$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -3867,6 +3662,55 @@ $1440 \ \text{minutes}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Josh has to be at work at $8:15 \ \text{am}$. It takes him $15 \ \text{minutes}$ to get dressed, $20 \ \text{minutes}$ to eat breakfast and $12 \ \text{minutes}$ to drive to work. What is the latest time Josh could get up to get to work on time?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time Josh should get work}                                       &= \text{Time (Start Work)} - (\text{Time taken (Dressed + Breakfast + Driving)}) \\\\
+                                                                       &= 8{:}15 \ \text{am} - (15 + 20 + 12) \ \text{minutes} \\\\
+                                                                       &= 8{:}15 \ \text{am} - 47 \ \text{minutes} \\\\
+                                                                       &= 9{:}02 \ \text{am}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9{:}02 \ \text{am}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>71A87121-8B24-43F3-8CA2-5883E0DFF79B</p>
@@ -4831,14 +4675,13 @@ What is **Mary's time** in seconds?
 
 As per the question,
 
-Time taken by Jess $= 18 \ \text{seconds}$
-
 $
 \begin{aligned}
-\text{Time taken by Mari}       &= \text{Time taken by Jo} + 4 \\\\
-                                &= \text{Time taken by Jess} + 6 - 4 \\\\
-                                &= 18 + 6 - 4 \\\\
-\text{Time taken by Mari}       &= 20 \ \text{seconds}
+\text{Time taken by Jess}       &= 18 \ \text{seconds} \\\\
+\text{Time taken by Mary}       &= \text{Time taken by Jo} + 4 \\\\
+                                &= \text{Time taken by Jess} - 6 + 4 \\\\
+                                &= 18 - 6 + 4 \\\\
+\text{Time taken by Mary}       &= 16 \ \text{seconds}
 \end{aligned}
 $
 
@@ -4847,7 +4690,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20 \ \text{seconds}$
+$16 \ \text{seconds}$
 
 </div>
 </div>

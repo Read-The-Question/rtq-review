@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-pr"
 title: "Owner - Eshudhi Jangid - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12889,102 +12889,6 @@ $
 <div class='answer'>
 
 $35 cm^2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-This diagram is made up of $7$ identical regular hexagons and $12$ identical equilateral triangles.
-
-Note: the sides of the triangles are the same length as the sides of the hexagons.
-
-Find the fraction of the diagram that is shaded. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\dfrac {2} {7}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2} {7}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>CB9E833C-477C-416F-9F7E-B57C7CF7ECEC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In Glasgow, the temperature is $-7 \degree \text{C}$ and in Exeter the temperature is $12$ degrees warmer. 
-
-What is the temperature in Exeter? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 12 + (-7) \\\\
-&= 5 \degree{C}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5 \degree{C}$
 
 </div>
 </div>

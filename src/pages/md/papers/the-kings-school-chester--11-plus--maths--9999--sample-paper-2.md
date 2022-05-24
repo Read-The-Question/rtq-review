@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-2"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>The King's School Chester</h1>
@@ -84,7 +84,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Current temparature}  &= 7.20 \ degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
+\text{Current temparature}  &= 7.20 \degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
                             &= 4.05 \degree \ \text{C}
 \end{aligned}
 $
@@ -160,7 +160,6 @@ $
 \begin{array}{cccccccccccccc}
       &  1 &  1 \ . &  3 &  6 \\
 {}+   &    &  3 \ . &  4 &  0 \\
-   
 \hline
       &  1 &  4 \ . &  7 & 6
 \end{array}
@@ -1041,14 +1040,14 @@ As we know that a number is divisible by 9 if the sum of all its digits is divis
 |  $918$    | $9 + 1 + 8 = \green {18}$                             |  Yes
 |  $45$     | $4 + 5 = \green {9}$                                  |  Yes
 
-Answer $= 2007, 918, 45$
+Answer $= 2007, \ 918, \ 45$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2007, 918, 45$
+$2007, \ 918, \ 45$
 
 </div>
 </div>
@@ -1281,7 +1280,7 @@ As per the question,
 $
 \begin{aligned}
 \text {Percentage of red sweets}    &= \dfrac {\text {Number of red sweets}} {\text {Total number of sweets}} \ \text {of} \ 100 \\\\
-                                    &= \dfrac {4} {20} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {16 + 4} \ \text {of} \ 100 \\\\
                                     &= \dfrac {4} {20} \times 100 \\\\
                                     &= \dfrac {4 \times 100} {20} \\\\
                                     &= \dfrac {4 \times 20 \times 5} {20} \\\\

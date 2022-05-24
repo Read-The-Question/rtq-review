@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-all"
 title: "Owner - Abhay Kandpal - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -28,7 +28,8 @@ If $8217$ wore red and $11750$ wore blue, how many wore neither blue nor red?
 
 $
 \begin{aligned}
-\text{People who wore neither blue nor red}     &= 28450 - 8217 - 11750 \\\\
+\text{People who wore neither blue nor red}     &= 28450 - (8217 + 11750) \\\\
+                                                &= 28450 - 19967 \\\\
                                                 &= 8483
 \end{aligned}
 $
@@ -3328,12 +3329,12 @@ In this sequence we are getting the next term by adding previous term to the cur
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(0 + 1)}}
-&&  \footnotesize{\maroonC{(1 + 1)}}
-&&  \footnotesize{\maroonC{(1 + 2)}}
-&&  \footnotesize{\maroonC{(2 + 3)}}
-&&  \footnotesize{\maroonC{(3 + 5)}}
-&&  \footnotesize{\maroonC{(5 + 8)}}  \\
+&   \footnotesize {\maroonC {(0 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
@@ -4882,7 +4883,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>ED309A66-2530-46D2-8CA4-5B7E8924A943</p>
 </div>
@@ -4930,7 +4931,7 @@ $36$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -5476,7 +5477,7 @@ $18 \ \text {pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>ADF03135-2BED-4722-A77F-AEF96CA568D8</p>
 </div>
@@ -5516,7 +5517,7 @@ $\pounds 29.95$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -5995,7 +5996,7 @@ $\text {One-quarter}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>8B1ACA24-9EE4-4663-9DCB-44F675B5931A</p>
 </div>
@@ -6035,7 +6036,7 @@ $29, 31, 37$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -6586,7 +6587,7 @@ $\pounds 168$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>505845A2-5C6F-4B31-8F40-6A5A68AB5C7E</p>
 </div>
@@ -6629,7 +6630,7 @@ $724$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -6746,7 +6747,7 @@ $460 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>BE08ACA5-1407-4A83-8951-3EF9D0D69289</p>
 </div>
@@ -6890,7 +6891,7 @@ $69, 60$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -7998,7 +7999,7 @@ $25, 36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>0C78B677-D503-445A-ACF4-68235AF1196A</p>
 </div>
@@ -8108,7 +8109,7 @@ $\dfrac {5} {9}$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -9062,62 +9063,7 @@ $6, && 9, && 12, && 15, && 18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>1BF483A4-E5F0-45CE-93A3-E0436396EDAA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-An orange drink is made by mixing water with concentrated orange juice.
-
-$\dfrac{3}{4}$ of the orange drink is water.
-
-How many litres of water will be in $12 \ \text{litres}$ of orange drink?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Litres of water in 12 litres of orange drink}  &= \dfrac {3} {4} \ \text {of} \ 12 \ \text {litres} \\\\
-                                                      &= \dfrac {3 \times 12} {4} \\\\
-                                                      &= \dfrac {3 \times 3 \times 4} {4} \\\\
-                                                      &= \dfrac {3 \times 3 \times \cancel {4}} {\cancel {4}} \\\\
-                                                      &= 3 \times 3 \\\\
-                                                      &= 9 \ \text {litres}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9 \ \text {litres}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>2E75B7DC-1BB8-4EB4-8F7A-059D13BBC07E</p>
 </div>
@@ -9275,7 +9221,7 @@ $3, \ 17$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -9462,7 +9408,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>8CFB528C-79C4-4BDA-83CD-5EE537CC7589</p>
 </div>
@@ -9536,7 +9482,7 @@ $17$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -9705,7 +9651,7 @@ $71 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>D91CF781-CBD3-4244-B3F5-19D98F8EDB90</p>
 </div>
@@ -9758,7 +9704,7 @@ $2021$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -9822,7 +9768,7 @@ $151$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>CC62F717-09D2-42A3-9042-C2C7C102D1E6</p>
 </div>
@@ -9883,7 +9829,7 @@ $24 \div 3 + 7$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -11458,9 +11404,9 @@ $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 As per the question,
 
 $
-begin {aligned}
+\begin {aligned}
 \text {Number of ice cream blocks}    &= \dfrac {\text {Volume of the cool box}} {\text {Volume of a ice cream block}} \\\\
-                                      &= \dfrac {30 \ \text{cm} \times 30 \ \text{cm} \times 62 \ \text{cm}} {10 \ \text{cm} \times 5 \ \text{cm} \times 15 \ \text{cm}} \\\\
+                                      &= \dfrac {30 \times 30 \times 62}  {10 \times 5 \times 15} \\\\
                                       &= \dfrac {3 \times 10 \times 3 \times 5 \times 2 \times 62} {10 \times 5 \times 5 \times 3} \\\\
                                       &= \dfrac {\cancel {3} \times \cancel {10} \times \cancel {5} \times 2 \times 3 \times 62} {\cancel {10} \times \cancel {5} \times \cancel {5} \times \cancel {3}} \\\\
                                       &= \dfrac {3 \times 2 \times 62} {5} \\\\
@@ -11688,12 +11634,13 @@ $
 \begin{aligned}
 \text {Overall score}            &= 10\% \ \text{of} \ \text {10-problem-test} + 70\% \ \text{of} \ \text {20-problem-test} + 80\% \ \text{of}\ \text {30-problem-test} \\\\
                                  &= \dfrac {10} {100} \times 10 + \dfrac {70} {100} \times 20 + \dfrac {80} {100} \times 30 \\\\
-                                 &= \dfrac {100} {100} + \dfrac {14 \times 100} {100} + \dfrac {24 \ \times 100} {100} \\\\
-                                 &= \dfrac {\cancel {100} } {\cancel {100} } + \dfrac {14 \times \cancel{100} } {\cancel{100} } + \dfrac {24 \ \times \cancel{100} } {\cancel{100} } \\\\
-                                 &= 1 + 14 +24 \\\\
+                                 &= \dfrac {10 \times 10} {100} + \dfrac {70 \times 20} {100} + \dfrac {80 \times 30} {100} \\\\
+                                 &= \dfrac {10 \times 10} {100} + \dfrac {14 \times 5 \times 20} {20 \times 5} + \dfrac {20 \times 4 \times 6 \times 5} {20 \times 5} \\\\
+                                 &= \dfrac {1 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} + \dfrac {14 \times \cancel {5} \times \cancel {20}} {\cancel {20} \times \cancel {5}} + \dfrac {\cancel {20} \times 4 \times 6 \times \cancel {5}} {\cancel {20} \times \cancel {5}} \\\\
+                                 &= 1 + 14 + 6 \times 4 \\\\
+                                 &= 15 + 24 \\\\ 
                                  &= 39 \\\\
-\text{Overall percentage}        &= \dfrac {39} {60} \ \text {of} \ 100 \\\\
-                                 &= \dfrac {39} {60} \times 100 \\\\
+\text {Overall percentage}       &= \dfrac {39} {60} \times 100 \\\\
                                  &= \dfrac {3 \times 13 \times 2 \times 5 \times 10} {2 \times 3 \times 10} \\\\
                                  &= \dfrac {\cancel {3} \times 13 \times \cancel {2} \times 5 \times \cancel {10}} {\cancel {2} \times \cancel {3} \times \cancel {10}} \\\\
                                  &= 13 \times 5 \\\\
@@ -15077,6 +15024,8 @@ If a dozen eggs cost $\pounds 2.80$, how much do $18$ eggs cost?
 <div class='workings'>
 <div class='working'>
 
+As we know that, one dozen $= 12$
+
 As per the question,
 
 $
@@ -15127,10 +15076,11 @@ Find the difference between $43 \dfrac{1}{3}$ and $51 \dfrac{2}{3}$.
 
 $
 \begin{aligned}
-\text {Difference}   &= 51 \ \dfrac {2} {3} - 43 \ \dfrac {1} {3} \\\\
+\text {Difference}   &= 51 \dfrac {2} {3} - 43 \dfrac {1} {3} \\\\
                      &= \dfrac {155} {3} - \dfrac {130} {3} \\\\
                      &= \dfrac {155 - 130} {3} \\\\
-                     &= \dfrac {25} {3}
+                     &= \dfrac {25} {3} \\\\
+                     &= 8 \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -15139,7 +15089,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {25} {3}$
+$8 \dfrac {1} {3}$
 
 </div>
 </div>
@@ -15176,10 +15126,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Boxed needed}   &= \dfrac {\text {Total number of cakes}} {\text {Number of cakes in a box}} \\\\
+\text{Boxes needed}   &= \dfrac {\text {Total number of cakes}} {\text {Number of cakes in a box}} \\\\
                       &= \dfrac {75} {4} \\\\
-                      &= 18 \ \dfrac {3} {4} \\\\
-                      &= 18 + 0.75 \\\\
+                      &= 18 \dfrac {3} {4} \\\\
                       &= 19
 \end{aligned}
 $
@@ -15225,22 +15174,20 @@ Write down the number that the arrow is pointing to on the scale below:
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= \dfrac {300 - 200} {5} \\\\
-&= \dfrac {100} {5} \\\\
-&= \dfrac {20 \times 5} {5} \\\\
-&= \dfrac {20 \times \cancel {5} } {\cancel {5} } \\\\
-&= 20
-\end{aligned}
-$
+As per the diagram,
+
+The gap between every line $= 25$. Using this we get, 
+
+$= 200 + 25 + 25 + 25 = 275$
+
+The arrow is pointing at $275$. 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$275$
 
 </div>
 </div>
@@ -15342,9 +15289,9 @@ nineteen
 
 $
 \begin{aligned}
-&= 3 \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
+&= 3 \ \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
 &= 3000000 + 70000 + 32000 + 19 \\\\
-&= 3,102,019
+&= 3102019
 \end{aligned}
 $
 
@@ -15353,7 +15300,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3,102,019$
+$3102019$
 
 </div>
 </div>
@@ -15864,7 +15811,7 @@ $4.2101 \quad 4.1021 \quad 4.0121 \quad 4.0211$
 <div class='workings'>
 <div class='working'>
 
-$4.0121 < \quad 4.0211 < \quad 4.1021 < \quad 4.2101$ 
+$4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$ 
 
 </div>
 </div>
@@ -15910,7 +15857,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Current temparature}  &= 7.20 \ degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
+\text{Current temparature}  &= 7.20 \degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
                             &= 4.05 \degree \ \text{C}
 \end{aligned}
 $
@@ -15986,7 +15933,6 @@ $
 \begin{array}{cccccccccccccc}
       &  1 &  1 \ . &  3 &  6 \\
 {}+   &    &  3 \ . &  4 &  0 \\
-   
 \hline
       &  1 &  4 \ . &  7 & 6
 \end{array}
@@ -16428,14 +16374,14 @@ As we know that a number is divisible by 9 if the sum of all its digits is divis
 |  $918$    | $9 + 1 + 8 = \green {18}$                             |  Yes
 |  $45$     | $4 + 5 = \green {9}$                                  |  Yes
 
-Answer $= 2007, 918, 45$
+Answer $= 2007, \ 918, \ 45$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2007, 918, 45$
+$2007, \ 918, \ 45$
 
 </div>
 </div>
@@ -16505,7 +16451,7 @@ As per the question,
 $
 \begin{aligned}
 \text {Percentage of red sweets}    &= \dfrac {\text {Number of red sweets}} {\text {Total number of sweets}} \ \text {of} \ 100 \\\\
-                                    &= \dfrac {4} {20} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {16 + 4} \ \text {of} \ 100 \\\\
                                     &= \dfrac {4} {20} \times 100 \\\\
                                     &= \dfrac {4 \times 100} {20} \\\\
                                     &= \dfrac {4 \times 20 \times 5} {20} \\\\
@@ -21080,13 +21026,14 @@ $5.2 \times 316$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 5.2 \times 316 \\\\
-&= \dfrac {52} {10} \times 316 \\\\
-&= \dfrac {52 \times 316} {10} \\\\
-&= \dfrac {16432} {10} \\\\
-&= 1643.2
+52 \times 316                   &= 16432 \\\\
+\dfrac {52 \times 316} {10}     &= \dfrac {16432} {10} \\\\
+\dfrac {52} {10} \times 316     &= 1643.2 \\\\
+5.2 \times 316                  &= 1643.2
 \end{aligned}
 $
 
@@ -21116,13 +21063,13 @@ $16432 \div 52$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 16432 \div 52 \\\\
-&= \dfrac {16432} {52} \\\\
-&= \dfrac {52 \times 316} {52} \\\\
-&= \dfrac {\cancel {52} \times 316} {\cancel {52}} \\\\
-&= 316
+52 \times 316           &= 16432 \\\\
+\dfrac {16432} {52}     &= 316 \\\\
+16432 \div 52           &= 316
 \end{aligned}
 $
 
@@ -21152,16 +21099,15 @@ $5200 \times 0.316$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin {aligned}
-&= 5200 \times 0.316 \\\\
-&= 5200 \times \dfrac {316} {1000} \\\\
-&= \dfrac {5200 \times 316} {1000} \\\\
-&= \dfrac {52\cancel {00} \times 316} {10\cancel {00}} \\\\
-&= \dfrac {52 \times 316} {10} \\\\
-&= \dfrac {16432} {10} \\\\
-&= 1643.2
-\end {aligned}
+\begin{aligned}
+52 \times 316                               &= 16432 \\\\
+\dfrac {100} {1000} \times 52 \times 316    &= \dfrac {100} {1000} \times 16432 \\\\
+52 \times 100 \times \dfrac {316} {1000}    &= \dfrac {16432} {10} \\\\
+5200 \times 0.316                           &= 1643.2
+\end{aligned}
 $
 
 </div>
@@ -21190,15 +21136,17 @@ $16432 \div 3160$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin {aligned}
-&= 16432 \div 3160 \\\\
-&= \dfrac {16432} {3160} \\\\
-&= \dfrac {52 \times 316} {316 \times 10} \\\\
-&= \dfrac {52 \times \cancel {316}} {\cancel {316} \times 10} \\\\
-&= \dfrac {52} {10} \\\\
-&= 5.2
-\end {aligned}
+\begin{aligned}
+52 \times 316                          &= 16432 \\\\
+52 \times 316 \times \dfrac {10} {10}  &= 16432 \times \dfrac {10} {10} \\\\
+\dfrac {52} {10} \times 316 \times 10  &= 16432 \\\\
+5.2 \times 3160                        &= 16432 \\\\
+\dfrac {16432} {3160}                  &= 5.2 \\\\
+16432 \div 3160                        &= 5.2
+\end{aligned}
 $
 
 </div>
@@ -21227,16 +21175,15 @@ $26 \times 158$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin {aligned}
-&= 26 \times 158 \\\\
-&= \dfrac {52} {2} \times \dfrac {316} {2} \\\\
-&= \dfrac {52 \times 316} {2 \times 2} \\\\
-&= \dfrac {16432} {4} \\\\
-&= \dfrac {4108 \times 4} {4} \\\\
-&= \dfrac {4108 \times \cancel {4}} {\cancel {4}} \\\\
-&= 4108
-\end {aligned}
+\begin{aligned}
+52 \times 316                           &= 16432 \\\\
+52 \times 316 \times \dfrac {1} {4}     &= 16432 \times \dfrac {1} {4} \\\\
+\dfrac {52} {2} \times \dfrac {316} {2} &= \dfrac {16432} {4} \\\\
+26 \times 158                           &= 4108
+\end{aligned}
 $
 
 </div>
@@ -22085,11 +22032,9 @@ As per the question,
 
 $
 \begin{aligned}
-&= 17954 \div 382 \\\\
-&= \dfrac {17954} {382} \\\\
-&= \dfrac {47 \times 382} {382} \\\\
-&= \dfrac {47 \times \cancel {382}} {\cancel {382}} \\\\
-&= 47
+47 \times 382           &= 17954 \\\\
+\dfrac {17954} {382}    &= 47 \\\\
+17954 \div 382          &= 47
 \end{aligned}
 $
 
@@ -22119,13 +22064,14 @@ $4.7 \times 3.82 =$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 4.7 \times 3.82 \\\\
-&= \dfrac {47} {10} \times \dfrac {382} {100} \\\\
-&= \dfrac {47 \times 382} {10 \times 100} \\\\
-&= \dfrac {17954} {1000} \\\\
-&= 17.954
+47 \times 382                               &= 17954 \\\\
+\dfrac {47 \times 382} {1000}               &= \dfrac {17954} {1000} \\\\
+\dfrac {47} {10} \times \dfrac {382} {100}  &= \dfrac {17954} {1000} \\\\
+4.7 \times 3.82                             &= 17.954
 \end{aligned}
 $
 
@@ -22155,16 +22101,17 @@ $179.54 \div 38.2 =$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin {aligned}
-&= 179.54 \div 38.2 \\\\
-&= \dfrac {179.54} {38.2} \\\\
-&= \dfrac {17954 \times 10} {382 \times 100} \\\\
-&= \dfrac {47 \times 382 \times 10} {382 \times 100} \\\\
-&= \dfrac {47 \times \cancel {382} \times 1 \cancel {0}} {\cancel {382} \times 10 \cancel {0}} \\\\
-&= \dfrac {47} {10} \\\\
-&= 4.7
-\end {aligned}
+\begin{aligned}
+47 \times 382                               &= 17954 \\\\
+\dfrac {47 \times 382} {100}                &= \dfrac {17954} {100} \\\\
+\dfrac {47} {10} \times \dfrac {382} {100}  &= \dfrac {17954} {100} \\\\
+4.7 \times 38.2                             &= 179.54 \\\\
+\dfrac {179.54} {38.2}                      &= 4.7 \\\\
+179.54 \div 38.2                            &= 4.7
+\end{aligned}
 $
 
 </div>
@@ -22193,14 +22140,14 @@ $94 \times 191 =$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 94 \times 191 \\\\
-&= 2 \times 47 \times \dfrac {382} {2} \\\\
-&= \dfrac {2 \times 47 \times 382} {2} \\\\
-&= \dfrac {\cancel {2} \times 47 \times 382} {\cancel {2}} \\\\
-&= 47 \times 382 \\\\
-&= 17954
+47 \times 382                        &= 17954 \\\\
+47 \times 382 \time \dfrac {2} {2}   &= 17954 \times \dfrac {2} {2} \\\\
+47 \times 2 \times \dfrac {382} {2}  &= 17954 \\\\
+94 \times 191                        &= 17954
 \end{aligned}
 $
 
@@ -22328,11 +22275,11 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 $
 \begin {aligned}
 a + a + 48 \degree   &= 180 \degree \\\\
-2a + 48 			 &= 180 \\\\
-2a 					 &= 180 - 48 \\\\
-2a 					 &= 132 \\\\
-a 					 &= \dfrac {132} {2} \\\\
-a 					 &= 66 \degree
+2a + 48              &= 180 \\\\
+2a                   &= 180 - 48 \\\\
+2a                   &= 132 \\\\
+a                    &= \dfrac {132} {2} \\\\
+a                    &= 66 \degree
 \end {aligned}
 $
 
@@ -22345,8 +22292,8 @@ Let the third angle $= b$.
 $
 \begin {aligned}
 48 + 48 + b    &= 180 \degree \\\\
-96 + b 		   &= 180 \\\\
-b 			   &= 180 - 96 \\\\
+96 + b         &= 180 \\\\
+b              &= 180 - 96 \\\\
 b              &= 84 \degree
 \end {aligned}
 $

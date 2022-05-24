@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircle-pr"
 title: "Topic - Circle - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -289,14 +289,14 @@ As we know that a number is divisible by 9 if the sum of all its digits is divis
 |  $918$    | $9 + 1 + 8 = \green {18}$                             |  Yes
 |  $45$     | $4 + 5 = \green {9}$                                  |  Yes
 
-Answer $= 2007, 918, 45$
+Answer $= 2007, \ 918, \ 45$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2007, 918, 45$
+$2007, \ 918, \ 45$
 
 </div>
 </div>

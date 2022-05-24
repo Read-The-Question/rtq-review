@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-all"
 title: "Topic - Decimal - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1912,7 +1912,7 @@ $0.7112$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>11E67077-E5D7-4AAB-8230-3443578B97AB</p>
 </div>
@@ -1964,7 +1964,7 @@ $0.4103$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -6418,7 +6418,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>2FE10520-6A9E-4722-B9C3-7530630A3738</p>
 </div>
@@ -6473,7 +6473,7 @@ $24.12$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -12004,7 +12004,6 @@ $
 \begin{array}{cccccccccccccc}
       &  1 &  1 \ . &  3 &  6 \\
 {}+   &    &  3 \ . &  4 &  0 \\
-   
 \hline
       &  1 &  4 \ . &  7 & 6
 \end{array}
@@ -12595,7 +12594,7 @@ $3.872$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>051EA915-77B1-4C90-B44F-067124622F8F</p>
 </div>
@@ -12637,7 +12636,7 @@ $0.35$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

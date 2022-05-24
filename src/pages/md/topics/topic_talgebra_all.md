@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -7650,7 +7650,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A53C7015-4325-4F04-9324-7266EA307FB1</p>
 </div>
@@ -7820,7 +7820,7 @@ $64$
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -16133,7 +16133,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>8CFB528C-79C4-4BDA-83CD-5EE537CC7589</p>
 </div>
@@ -16207,12 +16207,12 @@ $17$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>1F301F9C-E10E-4A62-A2CA-DA4E31288C6A</p>
 </div>
@@ -16277,7 +16277,7 @@ $46 \ \text{years}$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -17922,7 +17922,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>4EDABAC9-B1F8-470A-AE7E-934077143CEE</p>
 </div>
@@ -17989,7 +17989,7 @@ $64$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -19327,7 +19327,7 @@ $
 \begin{aligned}
 3p + 14           &= 5p + 1 \\\\
 3p - 5p           &= 1 - 14 \\\\
-- 2p              &= - 13 \\\\
+-2p               &= -13 \\\\
 \cancel {-} 2p    &= \cancel {-} 13 \\\\
 p                 &= \dfrac {13} {2}
 \end{aligned}
@@ -20382,7 +20382,7 @@ As per the question,
 $
 \begin{aligned}
 2 + 1 - 4 + a &= 5 \\\\
-- 1 + a       &= 5 \\\\
+-1 + a        &= 5 \\\\
 a             &= 5 + 1 \\\\
 a             &= 6
 \end{aligned}
@@ -20603,7 +20603,7 @@ a \times 2 + 11     &= (a \times 5 + 11) \div 2 \\\\
 (2 a + 11) \times 2 &= 5 a + 11 \\\\
 4 a + 22            &= 5 a + 11 \\\\
 4 a - 5 a           &= 11 - 22 \\\\
-- a                 &= - 11 \\\\
+-a                  &= -11 \\\\
 \cancel {-} a       &= \cancel {-} 11 \\\\
 a                   &= 11
 \end{aligned}
@@ -34408,9 +34408,10 @@ We can easily infer the values by using trial and error. Let's find out $2$ numb
 
 Factors of $84 = 1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 84$
 
+Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text{and} \ 7, 12$
+
 | Factors   |  Sum  | Numbers $< 20$    |
 |:-------:  |:----: |:---------------:  |
-| $2, 42$   | $44$  |        No         |
 | $6, 14$   | $20$  |       Yes         |
 | $7, 12$   | $19$  |       Yes         |
 
@@ -34446,23 +34447,23 @@ He then thinks of a new number, multiplies it by $9$ and subtracts $15$. The res
 <div class='workings'>
 <div class='working'>
 
-Let the new number he thinks $= a$
+Let the new number he thought of $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-x \times 9 - 15     &= 66 \\\\
-x \times 9          &= 66 + 15 \\\\
-x \times 9          &= 81 \\\\
-x                   &= \dfrac{81}{9} \\\\
-x                   &= \dfrac{9 \times 9}{9} \\\\
-x                   &= \dfrac{\cancel{9} \times 9}{\cancel{9}} \\\\
-x                   &= 9
+a \times 9 - 15     &= 66 \\\\
+a \times 9          &= 66 + 15 \\\\
+a \times 9          &= 81 \\\\
+a                   &= \dfrac{81}{9} \\\\
+a                   &= \dfrac{9 \times 9}{9} \\\\
+a                   &= \dfrac{\cancel{9} \times 9}{\cancel{9}} \\\\
+a                   &= 9
 \end{aligned}
 $
 
-The new number he thinks $= 9$
+The new number he thought $= 9$
 
 </div>
 </div>
@@ -49452,11 +49453,11 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 $
 \begin {aligned}
 a + a + 48 \degree   &= 180 \degree \\\\
-2a + 48 			 &= 180 \\\\
-2a 					 &= 180 - 48 \\\\
-2a 					 &= 132 \\\\
-a 					 &= \dfrac {132} {2} \\\\
-a 					 &= 66 \degree
+2a + 48              &= 180 \\\\
+2a                   &= 180 - 48 \\\\
+2a                   &= 132 \\\\
+a                    &= \dfrac {132} {2} \\\\
+a                    &= 66 \degree
 \end {aligned}
 $
 
@@ -49469,8 +49470,8 @@ Let the third angle $= b$.
 $
 \begin {aligned}
 48 + 48 + b    &= 180 \degree \\\\
-96 + b 		   &= 180 \\\\
-b 			   &= 180 - 96 \\\\
+96 + b         &= 180 \\\\
+b              &= 180 - 96 \\\\
 b              &= 84 \degree
 \end {aligned}
 $
@@ -50269,7 +50270,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
 </div>
@@ -50299,7 +50300,7 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-a + 3a + 40     &= 180  \\\\
+a + 3a + 40     &= 180 \degree \\\\
 4a + 40         &= 180  \\\\
 4a              &= 180 - 40  \\\\
 4a              &= 140  \\\\
@@ -50335,12 +50336,12 @@ $105  \degree$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>A31A6436-9C6D-4A0E-B943-F8626DF8E8C7</p>
 </div>
@@ -50373,12 +50374,12 @@ Let's use this to calculate the original price.
 
 $
 \begin{aligned}
-80 \% \text{ of } c             &= 40 \\\\
+80 \% \text{ of } c               &= 40 \\\\
 \dfrac {80 } { 100 } \times c     &= 40 \\\\
 c                                 &= \dfrac {40 \times 100} { 80 } \\\\
 c                                 &= \dfrac {40 \times 2 \times 50} { 40 \times 2 } \\\\
 c                                 &= \dfrac {\cancel{40} \times \cancel{2} \times 50} { \cancel{40} \times \cancel{2} } \\\\
-                                &= \pounds 50 
+                                  &= \pounds 50 
 \end{aligned}
 $
 
@@ -50398,7 +50399,7 @@ $\pounds 50$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -50687,7 +50688,7 @@ $130 \ \text {grams}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>CE0DC367-FC2F-48CA-A2AC-370BA4DBBEAF</p>
 </div>
@@ -50740,7 +50741,7 @@ $129$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-pr"
 title: "Reviewer - Uday Pandey - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -36,12 +36,12 @@ In this sequence we are getting the next term by adding previous term to the cur
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(0 + 1)}}
-&&  \footnotesize{\maroonC{(1 + 1)}}
-&&  \footnotesize{\maroonC{(1 + 2)}}
-&&  \footnotesize{\maroonC{(2 + 3)}}
-&&  \footnotesize{\maroonC{(3 + 5)}}
-&&  \footnotesize{\maroonC{(5 + 8)}}  \\
+&   \footnotesize {\maroonC {(0 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
@@ -7328,7 +7328,7 @@ $
 \begin{aligned}
 3p + 14           &= 5p + 1 \\\\
 3p - 5p           &= 1 - 14 \\\\
-- 2p              &= - 13 \\\\
+-2p               &= -13 \\\\
 \cancel {-} 2p    &= \cancel {-} 13 \\\\
 p                 &= \dfrac {13} {2}
 \end{aligned}

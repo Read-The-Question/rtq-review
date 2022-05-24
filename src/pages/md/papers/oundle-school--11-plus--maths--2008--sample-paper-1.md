@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -155,7 +155,7 @@ $684$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>79A31346-E81D-4C43-B183-3EA0BE05B9AF</p>
 </div>
@@ -174,24 +174,21 @@ Work out $336 \div  6$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&=  \dfrac{336}{6} \\\\
+&=  \dfrac{56 \times 6}{6} \\\\
+&=  \dfrac{56 \times \cancel 6}{\cancel 6} \\\\
+&=  56
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$56$
 
 </div>
 </div>
@@ -200,7 +197,7 @@ TODOANSWER
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

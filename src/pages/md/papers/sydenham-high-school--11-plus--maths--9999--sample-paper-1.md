@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>Sydenham High School</h1>
@@ -1085,7 +1085,7 @@ $35 cm^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
 </div>
@@ -1113,14 +1113,20 @@ Find the fraction of the diagram that is shaded.
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {2} {7}$
+$
+\begin{aligned}
+&= \dfrac {\text {Shaded portion} } {\text {Total portion} } \\\\
+&= \dfrac {7} {12 + 7} \\\\
+&= \dfrac {7} {19}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {2} {7}$
+$\dfrac {7} {19}$
 
 </div>
 </div>
@@ -1129,12 +1135,12 @@ $\dfrac {2} {7}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>CB9E833C-477C-416F-9F7E-B57C7CF7ECEC</p>
 </div>
@@ -1157,8 +1163,8 @@ What is the temperature in Exeter?
 
 $
 \begin{aligned}
-&= 12 + (-7) \\\\
-&= 5 \degree{C}
+\text {The temperature in Exeter}   &= 12 + (-7) \\\\
+                                    &= 5 \degree \text {C}
 \end{aligned}
 $
 
@@ -1167,7 +1173,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5 \degree{C}$
+$5 \degree \text {C}$
 
 </div>
 </div>
@@ -1176,7 +1182,7 @@ $5 \degree{C}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

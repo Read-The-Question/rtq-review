@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-g2"
 title: "Topic - Area - G2"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>

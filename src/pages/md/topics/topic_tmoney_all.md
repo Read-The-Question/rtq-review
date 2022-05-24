@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-all"
 title: "Topic - Money - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3387,7 +3387,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>90559230-2BC2-4EB0-84DF-D9BA98C6058E</p>
 </div>
@@ -3436,7 +3436,7 @@ $\pounds 10.08$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -4381,7 +4381,7 @@ $18 \ \text {pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>ADF03135-2BED-4722-A77F-AEF96CA568D8</p>
 </div>
@@ -4421,7 +4421,7 @@ $\pounds 29.95$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -5185,7 +5185,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>0A52D945-A28D-4AF7-B094-8C90084E6EB6</p>
 </div>
@@ -5242,7 +5242,7 @@ $\pounds 55$
 <p>csse--11-plus--maths--2015--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -5428,7 +5428,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>336B71BC-D933-4B73-8AC5-2EDE7391DCB5</p>
 </div>
@@ -5617,7 +5617,7 @@ $19.41 \%$
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -14453,7 +14453,7 @@ $\pounds 14.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>883F6925-9EC7-4ED4-90EE-6C29F7B5A29F</p>
 </div>
@@ -14625,7 +14625,7 @@ $127 \text{p}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -24407,26 +24407,33 @@ and let's take banana $= b$
 
 As per the question,
 
-$3 \times \text{apple cost} + 1 \times \text{banana cost}        = 53 \text{p}$
+$3 \times a + 1 \times b = 32 \text{p}$ Or $1 \times b = 32 - 3 \times a$
 
+$6 \times a + 1 \times b = 53 \text{p}$ Or $1 \times b = 53 - 6 \times a$
 
-Also,
+Hence,
 
 $
 \begin{aligned}
-6 \times \text{apple cost} + 1 \times \text{banana cost}        &= 53 \text{p} \\\\
-6 \times \dfrac{32 - a}{3} + a                                  &= 53 \\\\
-\dfrac{(32 - a) \times 6}{3} + a                                &= 53 \\\\
-(32 - a) \times 2 + a                                           &= 53 \\\\
-64 - 2a + a                                                     &= 53 \\\\
-64 - a                                                          &= 53 \\\\
-64 - 53                                                         &= a \\\\
-11                                                              &= a \\\\
-a                                                               &= 11 \text{p}
+32 - 3 \times a             &=  53 - 6 \times a \\\\
+6a - 3a                     &= 53 - 32 \\\\
+3a                          &= 21 \\\\
+a                           &= \dfrac{21}{3} \\\\
+a                           &= \dfrac{7 \times 3}{3} \\\\
+a                           &= 7 \\\\
+\text{Apple cost}           &= 7
 \end{aligned}
 $
 
-The cost of a banana $= 11 \text{p}$
+The cost of a banana
+
+$
+\begin{aligned}
+&= 32 - 3 \times 7 \text{p} \\\\
+&= 32 - 21 \text{p} \\\\\
+&= 11 \text{p}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -24592,21 +24599,16 @@ How much does $1$ orange cost?
 <div class='workings'>
 <div class='working'>
 
-Let the cost of $1$ orange $= a \ \text{p}$
-
 As per the question,
 
 $
 \begin{aligned}
-1 \ \text{apple} + 2 \times a                   &= 48 \ \text{p} \\\\
-1 \ \text{apple} + 1 \times a + 1 \times a      &= 48 \\\\
-31 \ \text{p} +  1 \times a                     &= 48 \\\\
-a                                               &= 48 - 31 \\\\
-a                                               &= 17 \ \text{p}
+  1 \ \text{apple} + 2 \ \text{oranges}           &= 48 \ \text{p} \\\\
+- 1 \ \text{apple} + 1 \ \text{oranges}           &= 31 \ \text{p} \\\\
+\uline
+                     1 \ \text{orange}            &= 17 \ \text{p}
 \end{aligned}
 $
-
-The cost of $1$ orange $= 17 \ \text{p}$
 
 </div>
 </div>
@@ -26814,6 +26816,8 @@ If a dozen eggs cost $\pounds 2.80$, how much do $18$ eggs cost?
 </div>
 <div class='workings'>
 <div class='working'>
+
+As we know that, one dozen $= 12$
 
 As per the question,
 
@@ -35762,7 +35766,7 @@ $\pounds 25.50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>A31A6436-9C6D-4A0E-B943-F8626DF8E8C7</p>
 </div>
@@ -35795,12 +35799,12 @@ Let's use this to calculate the original price.
 
 $
 \begin{aligned}
-80 \% \text{ of } c             &= 40 \\\\
+80 \% \text{ of } c               &= 40 \\\\
 \dfrac {80 } { 100 } \times c     &= 40 \\\\
 c                                 &= \dfrac {40 \times 100} { 80 } \\\\
 c                                 &= \dfrac {40 \times 2 \times 50} { 40 \times 2 } \\\\
 c                                 &= \dfrac {\cancel{40} \times \cancel{2} \times 50} { \cancel{40} \times \cancel{2} } \\\\
-                                &= \pounds 50 
+                                  &= \pounds 50 
 \end{aligned}
 $
 
@@ -35820,7 +35824,7 @@ $\pounds 50$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>Merchant Taylors' School</h1>
@@ -3517,10 +3517,10 @@ $
 49 - b                                                               &= \dfrac {45 \times 2 \times 50} {50 \times 2} - \dfrac {90 b} {100} \\\\
 49 - b                                                               &= \dfrac {45 \times \cancel {2} \times \cancel {50}} {\cancel {50} \times \cancel {2}} - \dfrac {90 b} {100} \\\\
 49 - b                                                               &= 45 - \dfrac {90 b} {100} \\\\
-- b + \dfrac {90 b} {100}                                            &= 45 - 49 \\\\
-- \dfrac {b \times 100} {1 \times 100} + \dfrac {90 b} {100}         &= - 4 \\\\
-- \dfrac {100 b + 90 b} {100}                                        &= - 4 \\\\
-- \dfrac {10 b} {100}                                                &= - 4 \\\\
+-b + \dfrac {90 b} {100}                                             &= 45 - 49 \\\\
+-\dfrac {b \times 100} {1 \times 100} + \dfrac {90 b} {100}          &= -4 \\\\
+-\dfrac {100 b + 90 b} {100}                                         &= -4 \\\\
+-\dfrac {10 b} {100}                                                 &= -4 \\\\
 \cancel {-} \dfrac {1 \cancel {0} b} {10 \cancel {0}}                &= \cancel {-} 4 \\\\
 \dfrac {b} {10}                                                      &= 4 \\\\
 b                                                                    &= 4 \times 10 \\\\

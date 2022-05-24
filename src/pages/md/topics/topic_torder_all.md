@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-all"
 title: "Topic - Order - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -477,7 +477,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D62F629B-7CDB-4C72-8C48-DC353BB7B59A</p>
 </div>
@@ -601,7 +601,7 @@ $\dfrac {1} {3}, \quad \dfrac {5} {12}, \quad 0.5, \quad 75 \%, \quad \dfrac {5}
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -987,7 +987,7 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>026699B4-CAFA-430C-B0BC-8F801C861EEE</p>
 </div>
@@ -1050,7 +1050,7 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5454,16 +5454,13 @@ $6.01 \quad 16.0 \quad 0.61 \quad 1.60 \quad 6.1$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, there are more decimals than fractions.
-
-Let's put them in ascending order now.
-
 $
 \begin{aligned}
 &= 6.01,  \quad   16.0,  \quad   0.61,  \quad   6.1 \\\\
-&= 0.61,  \quad   6.01,  \quad   6.1,  \quad   16.0
+&= 6.01,  \quad   16.00,  \quad   0.61,  \quad   6.10 \\\\
+&\text{Let's put them in ascending order now.} \\\\
+&= 0.61 <  \quad   6.01 <  \quad   6.10 <  \quad   16.00 \\\\
+&= 0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0
 \end{aligned}
 $
 
@@ -5472,7 +5469,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.61,  \quad   6.01,  \quad   6.1,  \quad   16.0$
+$0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 
 </div>
 </div>
@@ -5513,9 +5510,9 @@ LCM for $4, 5, 10, 20 = 20$
 
 $
 \begin{aligned}
-&= \dfrac{3}{4}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10} \quad\dfrac{17}{20} \\\\
-&= \dfrac{3 \times 5}{5 \times 5}, \quad \dfrac{3 \times 4}{5 \times 4}, \quad \dfrac{9 \times 2}{10 \times 2} \quad\dfrac{14}{20} \\\\
-&= \dfrac{15}{20}, \quad \dfrac{12}{20}, \quad \dfrac{18}{20} \quad\dfrac{14}{20}
+&= \dfrac{3}{4}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10},  \quad\dfrac{17}{20} \\\\
+&= \dfrac{3 \times 5}{4 \times 5}, \quad \dfrac{3 \times 4}{5 \times 4}, \quad \dfrac{9 \times 2}{10 \times 2}, \quad\dfrac{17}{20} \\\\
+&= \dfrac{15}{20}, \quad \dfrac{12}{20}, \quad \dfrac{18}{20} , \quad\dfrac{17}{20}
 \end{aligned}
 $
 
@@ -5523,8 +5520,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac{12}{20}, \quad \dfrac{14}{20}, \quad  \dfrac{15}{20}, \quad \dfrac{18}{20} \\\\
-&= \dfrac{3}{5}, \quad \dfrac{14}{20}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10}
+&= \dfrac{12}{20} < \quad  \dfrac{15}{20} < \quad \dfrac{17}{20} < \quad \dfrac{18}{20} \\\\
+&= \dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}
 \end{aligned}
 $
 
@@ -5533,7 +5530,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{3}{5}, \quad \dfrac{14}{20}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10}$
+$\dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}$
 
 </div>
 </div>
@@ -6172,7 +6169,7 @@ $4.2101 \quad 4.1021 \quad 4.0121 \quad 4.0211$
 <div class='workings'>
 <div class='working'>
 
-$4.0121 < \quad 4.0211 < \quad 4.1021 < \quad 4.2101$ 
+$4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$ 
 
 </div>
 </div>

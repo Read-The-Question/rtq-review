@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-g1"
 title: "Topic - Fraction - G1"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -679,6 +679,59 @@ $1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>ED309A66-2530-46D2-8CA4-5B7E8924A943</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A Fones4U store has $96$ phones in stock.
+Three-eighths of them are Android phones. How many Android phones does it have in stock?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Number of Android Phones}  &= \dfrac {3} {8} \ \text {of} \ 96 \\\\
+                                  &= \dfrac {3} {8} \times 96 \\\\
+                                  &= \dfrac {3 \times 96} {8} \\\\
+                                  &= \dfrac {3 \times 12 \times 8} {8} \\\\
+                                  &= \dfrac {3 \times 12 \times \cancel {8}} {\cancel {8}} \\\\
+                                  &= 3 \times 12 \\\\
+                                  &= 36
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -1394,6 +1447,200 @@ $9.8$
 </div>
 <div class='rag'>
 <p>rag_nc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>336B71BC-D933-4B73-8AC5-2EDE7391DCB5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tfraction
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate a quarter of $\pounds 62$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {4} \ \text {of} \ 62 \\\\
+&= \dfrac {1} {4} \times 62 \\\\
+&= \dfrac {62} {4} \\\\
+&= \pounds 15.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15.5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate $10\%$ of $\pounds 62$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10 \% \ \text {of} \ 62 \\\\
+&= \dfrac {10} {100} \times 62 \\\\
+&= \dfrac {10 \times 62} {100} \\\\
+&= \dfrac {620} {100} \\\\
+&= \pounds 6.20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 6.20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate $11\%$ of $\pounds 62$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 11 \% \ \text {of} \ 62 \\\\
+&= \dfrac {11} {100} \times 62 \\\\
+&= \dfrac {11 \times 62} {100} \\\\
+&= \dfrac {682} {100} \\\\
+&= \pounds 6.82
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6.82$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A coat costing $\pounds 62$ is reduced in a sale by $\pounds 12.40$. 
+
+What percentage discount is this?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Discount percentage}     &= \dfrac {\text {Reduced amount}} {\text {Old price}} \times 100 \\\\
+                                &= \dfrac {12.04} {62} \times 100 \\\\
+                                &= \dfrac {12.04 \times 100} {62} \\\\
+                                &= \dfrac {1204} {62} \\\\
+                                &= 19.41 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19.41 \%$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -10395,6 +10642,61 @@ $
 <div class='answer'>
 
 $80$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+This diagram is made up of $7$ identical regular hexagons and $12$ identical equilateral triangles.
+
+Note: the sides of the triangles are the same length as the sides of the hexagons.
+
+Find the fraction of the diagram that is shaded. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {\text {Shaded portion} } {\text {Total portion} } \\\\
+&= \dfrac {7} {12 + 7} \\\\
+&= \dfrac {7} {19}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {19}$
 
 </div>
 </div>

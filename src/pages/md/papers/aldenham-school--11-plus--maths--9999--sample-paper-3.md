@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-3"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>Aldenham School</h1>
@@ -156,7 +156,8 @@ If $8217$ wore red and $11750$ wore blue, how many wore neither blue nor red?
 
 $
 \begin{aligned}
-\text{People who wore neither blue nor red}     &= 28450 - 8217 - 11750 \\\\
+\text{People who wore neither blue nor red}     &= 28450 - (8217 + 11750) \\\\
+                                                &= 28450 - 19967 \\\\
                                                 &= 8483
 \end{aligned}
 $

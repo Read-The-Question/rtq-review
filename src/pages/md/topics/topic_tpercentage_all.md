@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-all"
 title: "Topic - Percentage - All"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2486,7 +2486,7 @@ $400$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09</p>
 </div>
@@ -2679,7 +2679,7 @@ $11, 2$
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2859,7 +2859,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>336B71BC-D933-4B73-8AC5-2EDE7391DCB5</p>
 </div>
@@ -3048,7 +3048,7 @@ $19.41 \%$
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -12460,15 +12460,17 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Hebe score}       &= 60\% \ \text{of} \ 60 \\\\
-                        &= \dfrac {60}{100} \times 60 \\\\
-                        &= \dfrac{60 \times 60}{100} \\\\
-                        &= \dfrac{6 \cancel{0} \times 6 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
-\text{Hebe score}       &=36
+\text{Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
+\text{Hebe score}       &= 60\% \ \text{of} \ 60 - 30 \\\\
+                        &= \dfrac {60}{100} \times 60 - 30 \\\\
+                        &= \dfrac{60 \times 60}{100} - 30 \\\\
+                        &= \dfrac{6 \cancel{0} \times 6 \cancel{0}}{1 \cancel{0} \cancel{0}} -30 \\\\
+                        &=36 - 30 \\\\
+                        &= 6
 \end{aligned}
 $
 
-Marks greater than Emily $= 36 - 30 = 6$
+Marks that Hebe scored more than Emily $=6$
 
 </div>
 </div>
@@ -14536,7 +14538,7 @@ As per the question,
 $
 \begin{aligned}
 \text {Percentage of red sweets}    &= \dfrac {\text {Number of red sweets}} {\text {Total number of sweets}} \ \text {of} \ 100 \\\\
-                                    &= \dfrac {4} {20} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {16 + 4} \ \text {of} \ 100 \\\\
                                     &= \dfrac {4} {20} \times 100 \\\\
                                     &= \dfrac {4 \times 100} {20} \\\\
                                     &= \dfrac {4 \times 20 \times 5} {20} \\\\

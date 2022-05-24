@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-pr"
 title: "Topic - Fraction - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -637,59 +637,6 @@ $\dfrac{3} {10}, \dfrac{1}{3}, \dfrac{10}{3}, \dfrac{3}{1}, \dfrac{3}{6}$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>ED309A66-2530-46D2-8CA4-5B7E8924A943</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A Fones4U store has $96$ phones in stock.
-Three-eighths of them are Android phones. How many Android phones does it have in stock?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Number of Android Phones}  &= \dfrac {3} {8} \ \text {of} \ 96 \\\\
-                                  &= \dfrac {3} {8} \times 96 \\\\
-                                  &= \dfrac {3 \times 96} {8} \\\\
-                                  &= \dfrac {3 \times 12 \times 8} {8} \\\\
-                                  &= \dfrac {3 \times 12 \times \cancel {8}} {\cancel {8}} \\\\
-                                  &= 3 \times 12 \\\\
-                                  &= 36
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>1DD19E4B-1DD0-4211-AE00-61C2A0DBD9FE</p>
 </div>
 <div class='topics'>
@@ -854,200 +801,6 @@ $\dfrac {1} {2}$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>336B71BC-D933-4B73-8AC5-2EDE7391DCB5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tfraction
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate a quarter of $\pounds 62$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {1} {4} \ \text {of} \ 62 \\\\
-&= \dfrac {1} {4} \times 62 \\\\
-&= \dfrac {62} {4} \\\\
-&= \pounds 15.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15.5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate $10\%$ of $\pounds 62$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 10 \% \ \text {of} \ 62 \\\\
-&= \dfrac {10} {100} \times 62 \\\\
-&= \dfrac {10 \times 62} {100} \\\\
-&= \dfrac {620} {100} \\\\
-&= \pounds 6.20
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 6.20$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate $11\%$ of $\pounds 62$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 11 \% \ \text {of} \ 62 \\\\
-&= \dfrac {11} {100} \times 62 \\\\
-&= \dfrac {11 \times 62} {100} \\\\
-&= \dfrac {682} {100} \\\\
-&= \pounds 6.82
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6.82$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A coat costing $\pounds 62$ is reduced in a sale by $\pounds 12.40$. 
-
-What percentage discount is this?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Discount percentage}     &= \dfrac {\text {Reduced amount}} {\text {Old price}} \times 100 \\\\
-                                &= \dfrac {12.04} {62} \times 100 \\\\
-                                &= \dfrac {12.04 \times 100} {62} \\\\
-                                &= \dfrac {1204} {62} \\\\
-                                &= 19.41 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19.41 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2016--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -1958,61 +1711,6 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>1BF483A4-E5F0-45CE-93A3-E0436396EDAA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-An orange drink is made by mixing water with concentrated orange juice.
-
-$\dfrac{3}{4}$ of the orange drink is water.
-
-How many litres of water will be in $12 \ \text{litres}$ of orange drink?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Litres of water in 12 litres of orange drink}  &= \dfrac {3} {4} \ \text {of} \ 12 \ \text {litres} \\\\
-                                                      &= \dfrac {3 \times 12} {4} \\\\
-                                                      &= \dfrac {3 \times 3 \times 4} {4} \\\\
-                                                      &= \dfrac {3 \times 3 \times \cancel {4}} {\cancel {4}} \\\\
-                                                      &= 3 \times 3 \\\\
-                                                      &= 9 \ \text {litres}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9 \ \text {litres}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -7362,55 +7060,6 @@ $\dfrac{13}{20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-This diagram is made up of $7$ identical regular hexagons and $12$ identical equilateral triangles.
-
-Note: the sides of the triangles are the same length as the sides of the hexagons.
-
-Find the fraction of the diagram that is shaded. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\dfrac {2} {7}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2} {7}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD</p>
@@ -7625,10 +7274,11 @@ Find the difference between $43 \dfrac{1}{3}$ and $51 \dfrac{2}{3}$.
 
 $
 \begin{aligned}
-\text {Difference}   &= 51 \ \dfrac {2} {3} - 43 \ \dfrac {1} {3} \\\\
+\text {Difference}   &= 51 \dfrac {2} {3} - 43 \dfrac {1} {3} \\\\
                      &= \dfrac {155} {3} - \dfrac {130} {3} \\\\
                      &= \dfrac {155 - 130} {3} \\\\
-                     &= \dfrac {25} {3}
+                     &= \dfrac {25} {3} \\\\
+                     &= 8 \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -7637,7 +7287,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {25} {3}$
+$8 \dfrac {1} {3}$
 
 </div>
 </div>
@@ -8335,7 +7985,7 @@ As per the question,
 $
 \begin{aligned}
 \text {Percentage of red sweets}    &= \dfrac {\text {Number of red sweets}} {\text {Total number of sweets}} \ \text {of} \ 100 \\\\
-                                    &= \dfrac {4} {20} \ \text {of} \ 100 \\\\
+                                    &= \dfrac {4} {16 + 4} \ \text {of} \ 100 \\\\
                                     &= \dfrac {4} {20} \times 100 \\\\
                                     &= \dfrac {4 \times 100} {20} \\\\
                                     &= \dfrac {4 \times 20 \times 5} {20} \\\\
@@ -10094,6 +9744,106 @@ $30$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>DD9DD726-1CE0-4DDC-863C-8DB9621C8BC0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of a day is $9 \ \text{hours}$? Write your fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+  
+There are $24 \ \text{hours}$ in a day, so
+
+$
+\begin{aligned}
+&= \dfrac{9}{24} \\\\
+&= \dfrac{3 \times 3}{3 \times 8} \\\\
+&= \dfrac{\cancel{3} \times 3}{\cancel{3} \times 8} \\\\
+&= \dfrac{3}{8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{3}{8}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>C135697D-F7AA-4A2E-9224-953D73C4FFCC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $4 \dfrac{1}{4} - 1 \dfrac{3}{5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4 \dfrac{1}{4} - 1 \dfrac{3}{5} \\\\
+&= \dfrac{17}{4} - \dfrac{8}{5} \\\\
+&= \dfrac{17 \times 5}{4 \times 5} - \dfrac{8 \times 4}{5 \times 4} \\\\
+&= \dfrac{85}{20} - \dfrac{32}{20} \\\\
+&= \dfrac{85}{20} - \dfrac{32}{20} \\\\
+&= \dfrac{53}{20} \\\\
+&= 2 \dfrac{13}{20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \dfrac{13}{20}$ or $\dfrac{53}{20}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

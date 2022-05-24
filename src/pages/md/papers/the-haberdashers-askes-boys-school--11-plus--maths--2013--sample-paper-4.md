@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2013-sample-paper-4"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -227,6 +227,8 @@ If a dozen eggs cost $\pounds 2.80$, how much do $18$ eggs cost?
 <div class='workings'>
 <div class='working'>
 
+As we know that, one dozen $= 12$
+
 As per the question,
 
 $
@@ -277,10 +279,11 @@ Find the difference between $43 \dfrac{1}{3}$ and $51 \dfrac{2}{3}$.
 
 $
 \begin{aligned}
-\text {Difference}   &= 51 \ \dfrac {2} {3} - 43 \ \dfrac {1} {3} \\\\
+\text {Difference}   &= 51 \dfrac {2} {3} - 43 \dfrac {1} {3} \\\\
                      &= \dfrac {155} {3} - \dfrac {130} {3} \\\\
                      &= \dfrac {155 - 130} {3} \\\\
-                     &= \dfrac {25} {3}
+                     &= \dfrac {25} {3} \\\\
+                     &= 8 \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -289,7 +292,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {25} {3}$
+$8 \dfrac {1} {3}$
 
 </div>
 </div>
@@ -326,10 +329,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Boxed needed}   &= \dfrac {\text {Total number of cakes}} {\text {Number of cakes in a box}} \\\\
+\text{Boxes needed}   &= \dfrac {\text {Total number of cakes}} {\text {Number of cakes in a box}} \\\\
                       &= \dfrac {75} {4} \\\\
-                      &= 18 \ \dfrac {3} {4} \\\\
-                      &= 18 + 0.75 \\\\
+                      &= 18 \dfrac {3} {4} \\\\
                       &= 19
 \end{aligned}
 $
@@ -420,22 +422,20 @@ Write down the number that the arrow is pointing to on the scale below:
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= \dfrac {300 - 200} {5} \\\\
-&= \dfrac {100} {5} \\\\
-&= \dfrac {20 \times 5} {5} \\\\
-&= \dfrac {20 \times \cancel {5} } {\cancel {5} } \\\\
-&= 20
-\end{aligned}
-$
+As per the diagram,
+
+The gap between every line $= 25$. Using this we get, 
+
+$= 200 + 25 + 25 + 25 = 275$
+
+The arrow is pointing at $275$. 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$275$
 
 </div>
 </div>
@@ -678,9 +678,9 @@ nineteen
 
 $
 \begin{aligned}
-&= 3 \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
+&= 3 \ \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
 &= 3000000 + 70000 + 32000 + 19 \\\\
-&= 3,102,019
+&= 3102019
 \end{aligned}
 $
 
@@ -689,7 +689,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3,102,019$
+$3102019$
 
 </div>
 </div>

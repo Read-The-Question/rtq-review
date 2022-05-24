@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-pr"
 title: "Topic - Sequence - PR"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -652,12 +652,12 @@ In this sequence we are getting the next term by adding previous term to the cur
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(0 + 1)}}
-&&  \footnotesize{\maroonC{(1 + 1)}}
-&&  \footnotesize{\maroonC{(1 + 2)}}
-&&  \footnotesize{\maroonC{(2 + 3)}}
-&&  \footnotesize{\maroonC{(3 + 5)}}
-&&  \footnotesize{\maroonC{(5 + 8)}}  \\
+&   \footnotesize {\maroonC {(0 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
@@ -1505,155 +1505,6 @@ $2, \quad  4, \quad  7, \quad  11, \quad  \boxed {16}, \quad  \boxed {22}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>BE08ACA5-1407-4A83-8951-3EF9D0D69289</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the next two numbers in each sequence
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$
-7, \quad 9, \quad 11, \quad 13,
-\quad \ldots,
-\quad \ldots
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $2$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}  \\
-7,  &&    9,  &&   11,  &&   13,  &&   \ldots &&   \ldots
-\end {matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}     &= 13 + 2 \\\\
-                                &= 15 \\\\
-\text{Second missing number}    &= 15 + 2 \\\\
-                                &= 17
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15, 17$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$
-105, \quad 96, \quad 87, \quad 78,
-\quad \ldots,
-\quad \ldots
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $-9$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}  \\
-105,  &&    96,  &&   87,  &&   78,  &&   \ldots &&   \ldots
-\end {matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}     &= 78 - 9 \\\\
-                                &= 69 \\\\
-\text{Second missing number}    &= 69 - 9 \\\\
-                                &= 60
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$69, 60$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1</p>
@@ -2314,283 +2165,6 @@ $25, 36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>E139F769-4D91-44F2-B824-EAE49083E0C7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tpower
-</li>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is a start of a number pattern:
-
-$28 \quad 25 \quad 22 \quad 19 \quad 16 \quad 13 \quad 10 \quad \ldots \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-From the numbers in the list above, write down:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-an even number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$28$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$28$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the product of $2$ and $11$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-            &   1   &   1 \\
-\times      &       &   2 \\
-\hline
-            &   2   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$22$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-a prime number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$19$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-a square number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$25$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$25$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the next two numbers in the pattern.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $-3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC {(-3)} } 
-&&  \footnotesize {\maroonC {(-3)} }  
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }
-&&  \footnotesize {\maroonC {(-3)} }
-&&  \footnotesize {\maroonC {(-3)} }
-&&  \footnotesize {\maroonC {(-3)} }  \\
-28,  &&  25,  &&  22,  &&  19,  &&  16,  &&  13,  &&  10,  && \ldots,  &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 10 - 3 \\\\
-                                  &= 7 \\\\
-\text{Second missing number}      &= 7 - 3 \\\\
-                                  &= 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7, \ 4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If you carry on the pattern, which will be the first number below zero?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$-2$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-2$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>78B7CE75-C9BE-4EBA-9D61-96FCC5AA4D83</p>
@@ -2651,174 +2225,6 @@ $6, && 9, && 12, && 15, && 18$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>4164BD10-DC91-4195-84D6-7174ABD5C2C4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Tom is making patterns with matches.
-
-![missing image](/papers/missing_image.svg)         ![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many more matches will Tom need to make pattern $4$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many matches altogether will Tom need to make pattern $5$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$20$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many matches will Tom need to make pattern $12$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 12 \times 4 \\\\
-&= 48
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Tom has a box containing $99$ matches. What is the largest pattern number he can make?
-
-Show any working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Largest pattern number} &= \dfrac {99} {4} \\\\
-                              &= 24.75 \\\\
-                              &= 24
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -3538,127 +2944,6 @@ $35$
 
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>29A36B70-5937-460E-A1CC-4F3D72FC835A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look carefully at this number pattern:
-
-Line 1: $1 \times 1 + 3 = 4$
-
-Line 2: $2 \times 2 + 5 = 9$
-
-Line 3: $3 \times 3 + 7 = 16$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the next two lines of the pattern.
-
-Line 4: ____ x____ + ____ = _____
-
-Line 5: ____ x ____ + ____ = _____
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Line 4} &= 4 \times 4 + 9 \\\\
-               &= 16 + 9 \\\\
-               &= 25
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Line 5} &= 5 \times 5 + 11 \\\\
-               &= 25 + 11 \\\\
-               &= 36
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$25, \ 36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The numbers in the final column are special numbers. What is the name of these special numbers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Perfect square}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Perfect square}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
@@ -6885,30 +6170,27 @@ $315 \quad 561 \quad 240 \quad 620 \quad 964$
 <div class='workings'>
 <div class='working'>
 
-Let's find the pattern in the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $15$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(15 \times 10)}} 
-&&  \footnotesize{\maroonC{(15 \times 11)}}  
-&&  \footnotesize{\maroonC{(15 \times 12)}}   
-&&  \footnotesize{\maroonC{(15 \times 13)}}   
-&&  \footnotesize{\maroonC{(15 \times 14)}}
-&&  \footnotesize{\maroonC{(15 \times 15)}}  \\
+    \footnotesize{\maroonC{(+15)}} 
+&&  \footnotesize{\maroonC{(+15)}}  
+&&  \footnotesize{\maroonC{(+15)}}   
+&&  \footnotesize{\maroonC{(+15)}}   
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}  \\
 150,  &&    165,  &&  180,  &&   195,   &&   210  &&   \ldots && \ldots
 \end{matrix}
 $
 
-The numbers are in the increasing order of multiples of 15. So, to be in the sequence, the number must be divisible by both 15.
+So, we can say that, the numbers that would appear in the sequence are multiples of $15$ . As such, divisible by $3$ and $5$ .
 
-Henceforth, the number must be divisible by 3 and 5 both.
+Henceforth, the number must be divisible by $3$ and $5$ both.
 
-$
-\begin{aligned}
-&= 315 \ \text{is divisible by both} 3,5 \\\\
-&= 240 \ \text{is divisible by both} 3,5
-\end{aligned}
-$
+Numbers that are divisible by both 3 and 5 and would appear in the sequence are $=240, 315$
 
 </div>
 </div>
@@ -7934,14 +7216,14 @@ As we know that a number is divisible by 9 if the sum of all its digits is divis
 |  $918$    | $9 + 1 + 8 = \green {18}$                             |  Yes
 |  $45$     | $4 + 5 = \green {9}$                                  |  Yes
 
-Answer $= 2007, 918, 45$
+Answer $= 2007, \ 918, \ 45$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2007, 918, 45$
+$2007, \ 918, \ 45$
 
 </div>
 </div>
@@ -7954,6 +7236,70 @@ $2007, 918, 45$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2ED209A4-4A2F-4B4F-975D-685105DF2587</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next two numbers in the sequence.
+
+$5,  \quad 6\dfrac{1}{2}, \quad 8, \quad 9\dfrac{1}{2}, \quad \ldots, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $1 \dfrac{1}{2}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(1 \dfrac{1}{2})}} 
+&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}  
+&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}  \\
+5,  && 6\dfrac{1}{2}, && 8, && 9\dfrac{1}{2}, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}       &= 9\dfrac{1}{2} + 1 \dfrac{1}{2} \\\\
+                                &= 11 \\\\
+\text{Second number}       &= 11 + 1 \dfrac{1}{2} \\\\
+                                &= 12 \dfrac{1}{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11, 12 \dfrac{1}{2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -9658,6 +9004,125 @@ $91$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>2377F631-0B3B-443B-ACA8-80A032557FBC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing decimal number in this list?
+
+$2.7, \quad 4.3, \quad \ldots, \quad 7.5, \quad 9.1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is increasing by $1.6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+1.6)}} 
+&&  \footnotesize{\maroonC{(+1.6)}}  
+&&  \footnotesize{\maroonC{(+1.6)}}   
+&&  \footnotesize{\maroonC{(+1.6)}}  \\
+2.7,  &&    4.3,  &&  \ldots, &&   7.5,  &&   9.1
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 4.3 + 1.6 \\\\
+                        &= 5.9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5.9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>CE0DC367-FC2F-48CA-A2AC-370BA4DBBEAF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the sequence of numbers which starts $2, 3, 5, 9, \ldots$  each number is one less than two times the previous number in the list. 
+
+What is the number in the list immediately **__before__** $257$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number immediately before $= a$
+
+As per the question,
+
+
+$
+\begin{aligned} 
+2a - 1      &= 257 \\\\
+2a          &= 257 + 1 \\\\
+2a          &= 258 \\\\
+a           &= \dfrac {258}{2 } \\\\
+a           &= 129
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$129$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-05-23 12:13:59
+date: 2022-05-24 07:08:08
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>
@@ -1569,26 +1569,33 @@ and let's take banana $= b$
 
 As per the question,
 
-$3 \times \text{apple cost} + 1 \times \text{banana cost}        = 53 \text{p}$
+$3 \times a + 1 \times b = 32 \text{p}$ Or $1 \times b = 32 - 3 \times a$
 
+$6 \times a + 1 \times b = 53 \text{p}$ Or $1 \times b = 53 - 6 \times a$
 
-Also,
+Hence,
 
 $
 \begin{aligned}
-6 \times \text{apple cost} + 1 \times \text{banana cost}        &= 53 \text{p} \\\\
-6 \times \dfrac{32 - a}{3} + a                                  &= 53 \\\\
-\dfrac{(32 - a) \times 6}{3} + a                                &= 53 \\\\
-(32 - a) \times 2 + a                                           &= 53 \\\\
-64 - 2a + a                                                     &= 53 \\\\
-64 - a                                                          &= 53 \\\\
-64 - 53                                                         &= a \\\\
-11                                                              &= a \\\\
-a                                                               &= 11 \text{p}
+32 - 3 \times a             &=  53 - 6 \times a \\\\
+6a - 3a                     &= 53 - 32 \\\\
+3a                          &= 21 \\\\
+a                           &= \dfrac{21}{3} \\\\
+a                           &= \dfrac{7 \times 3}{3} \\\\
+a                           &= 7 \\\\
+\text{Apple cost}           &= 7
 \end{aligned}
 $
 
-The cost of a banana $= 11 \text{p}$
+The cost of a banana
+
+$
+\begin{aligned}
+&= 32 - 3 \times 7 \text{p} \\\\
+&= 32 - 21 \text{p} \\\\\
+&= 11 \text{p}
+\end{aligned}
+$
 
 </div>
 </div>

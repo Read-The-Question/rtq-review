@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-7"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 7"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -776,7 +776,7 @@ $
 2 a + \dfrac{a} {2}                                &= 90 \\\\
 \dfrac {2 a \times 2} {1 \times 2} + \dfrac{a} {2} &= 90 \\\\
 \dfrac{4 a} {2} + \dfrac {a} {2}                   &= 90 \\\\
-\dfrac{4 a + a} {2}                                &= 90
+\dfrac{4 a + a} {2}                                &= 90 \\\\
 \dfrac{5a} {2}                                     &= 90 \\\\
 a                                                  &= \dfrac {90 \times 2} {5} \\\\
 a                                                  &= \dfrac {18 \times 5 \times 2} {5} \\\\
@@ -820,12 +820,12 @@ As per the question,
 
 $
 \begin{aligned}
-2 + 2(a ^ 2)                   &= 100 \\\\
+2 + 2(a ^ 2)                    &= 100 \\\\
 2(a ^ 2)                        &= 100 - 2 \\\\
 2(a ^ 2)                        &= 98 \\\\
-a ^ 2                           &= dfrac {98} {2} \\\\
-a ^ 2                           &= dfrac {49 \times 2} {2} \\\\
-a ^ 2                           &= dfrac {49 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2                           &= \dfrac {98} {2} \\\\
+a ^ 2                           &= \dfrac {49 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {49 \times \cancel {2}} {\cancel {2}} \\\\
 a ^ 2                           &= 49 \\\\
 a                               &= \sqrt 49 \\\\
 a                               &= + 7 \ \text{and} \ -7

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-2"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <div class='paper'>
 <h1>The King's School Chester</h1>

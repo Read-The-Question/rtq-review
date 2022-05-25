@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-pr"
 title: "Topic - Sequence - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4470,28 +4470,28 @@ TODOWORKING
 </div>
 <div class='working'>
 
-As its gven in the question,
+Each number in the sequence is half of the number before. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{ \red{ (\div 2) } } 
-&&  \footnotesize{ \red{ (\div 2) } }  
-&&  \footnotesize{ \red{ (\div 2) } }   
-&&  \footnotesize{ \red{ (\div 2) } }   
-&&  \footnotesize{ \red{ (\div 2) } } 
-&&  \footnotesize{ \red{ (\div 2) } } 
-&&  \footnotesize{ \red{ (\div 2) } }  \\
+&   \footnotesize{ \maroonC{ (\div 2) } } 
+&&  \footnotesize{ \maroonC{ (\div 2) } }  
+&&  \footnotesize{ \maroonC{ (\div 2) } }   
+&&  \footnotesize{ \maroonC{ (\div 2) } }   
+&&  \footnotesize{ \maroonC{ (\div 2) } } 
+&&  \footnotesize{ \maroonC{ (\div 2) } } 
+&&  \footnotesize{ \maroonC{ (\div 2) } }  \\
 \dots,  &&    \dots,  &&  \dots,  &&   12,  &&   6,   &&  3,  && \ldots  && \ldots 
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing first number}    &= 96 \\\\
-\text{Missing second number}   &= 48 \\\\
-\text{Missing third number}    &= 24 \\\\
-\text{Missing fourth number}   &= \dfrac {3} {2} \\\\
-\text{Missing fifth number}   &=  \dfrac {3} {4}    
+\text{First Missing number}    &= 96 \\\\
+\text{Second Missing number}   &= 96 \div 2 = 48 \\\\
+\text{Third Missing number}    &= 48 \div 2 = 24 \\\\
+\text{Fourth Missing number}   &= 3 \div 2 = \dfrac {3} {2} \\\\
+\text{Fifth Missing number}    &= \dfrac {3} {2} \div 2 = \dfrac {3} {4}
 \end{aligned}
 $
 

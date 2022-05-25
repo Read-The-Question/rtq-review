@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-pr"
 title: "Topic - Time - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -653,14 +653,18 @@ How many minutes did I stay at the concert for?
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
+The time is given in hours, but the final answer has to be in minutes.
+
 $
 \begin {aligned}
 \text {Minutes stayed}  &= 15 \% \ \text {of} \ 3 \ \text {hours} \\\\
-                        &= \dfrac {15} {100} \times (3 \times 60) \ \text {minutes} \\\\
-                        &= \dfrac {15} {100} \times 180 \\\\
-                        &= \dfrac {15 \times 180} {100} \\\\
-                        &= \dfrac {5 \times 3 \times 9 \times 2 \times 10} {2 \times 5 \times 10} \\\\
-                        &= \dfrac {\cancel {5} \times 3 \times 9 \times \cancel {2} \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+                        &= \dfrac {15} {100} \times 3 \\\\
+                        &= \dfrac {15} {100} \times 3 \times 60 \ \text {minutes} \\\\
+                        &= \dfrac {15 \times 3 \times 60} {100} \\\\
+                        &= \dfrac {5 \times 3 \times 9 \times 2 \times 10} {5 \times 2 \times 10} \\\\
+                        &= \dfrac {\cancel {5} \times 3 \times 9 \times \cancel {2} \times \cancel {10}} {\cancel {5} \times \cancel {2} \times \cancel {10}} \\\\
                         &= 3 \times 9 \\\\
                         &= 27 \ \text {minutes}
 \end {aligned}
@@ -5942,14 +5946,14 @@ What time is it in Australia when it is $4 \ \text{am}$ in the USA?
 <div class='workings'>
 <div class='working'>
 
-$12{:}00 \ \text{am}$
+$6{:}00 \ \text{pm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12{:}00 \ \text{am}$
+$6{:}00 \ \text{pm}$
 
 </div>
 </div>

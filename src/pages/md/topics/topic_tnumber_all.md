@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-all"
 title: "Topic - Number - All"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10338,9 +10338,9 @@ $
 $
 \begin{aligned}
 \text{Total} &= 800 + 200 \\\\
-             &= 1000 \ \text{ml}
-             &= \dfrac {1000} {1000} \ \text{litre}
-             &= \dfrac {\cancel {1000}} {\cancel {1000}} \ \text{litre}
+             &= 1000 \ \text{ml} \\\\
+             &= \dfrac {1000} {1000} \ \text{litre} \\\\
+             &= \dfrac {\cancel {1000}} {\cancel {1000}} \ \text{litre} \\\\
              &= 1 \ \text{litre}
 \end{aligned}
 $
@@ -11624,9 +11624,9 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Number of spectators supporting England}  &= \text {Total number of spectators} - \text {Total number of spectators supporting Australia} \\\\
-                                                 &= 76432 - 8695 \\\\
-                                                 &= 67737
+\text {Spectators supporting England}  &= \text {Total spectators} - \text {Spectators supporting Australia} \\\\
+                                       &= 76432 - 8695 \\\\
+                                       &= 67737
 \end {aligned}
 $
 
@@ -21177,19 +21177,27 @@ tnumber
 
 Circle which of the following has a different value from the others:
 
-$3 - 7 - 4$
-
-$(3 - 7) - 4$
-
-$3 - (7 - 4)$
-
-$((3 - 7) - 4)$ 
+\begin{matrix}
+3 - 7 - 4 && (3 - 7) - 4 && 3 - (7 - 4) && ((3 - 7) - 4)
+\end{matrix} 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$3 - (7 - 4)$
+$3 - 7 - 4 = -8$
+
+$(3 - 7) - 4 = (-4) - 4 = -8$
+
+$3 - (7 - 4) = 3 - (-3) = 3 + 3 = 6$
+
+$((3 - 7) - 4) = ((-4) - 4) = -8$
+
+Therefore,
+
+\begin{matrix}
+3 - 7 - 4 && (3 - 7) - 4 && \boxed{\green{3 - (7 - 4)}} && ((3 - 7) - 4)
+\end{matrix}
 
 </div>
 </div>
@@ -42597,11 +42605,7 @@ $9 \times 5 \div 2 + 1 = 15$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-((9 \times 5) \div (2 + 1)) &= 15
-\end{aligned}
-$
+$((9 \times 5) \div (2 + 1)) &= 15$
 
 </div>
 </div>
@@ -42629,11 +42633,7 @@ $3\times  7 - 6 \times 4 - 3 = 15$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-((3 \times  7) - (6 \times (4 - 3))) &= 15
-\end{aligned}
-$
+$((3 \times  7) - (6 \times (4 - 3))) &= 15$
 
 </div>
 </div>
@@ -43818,7 +43818,7 @@ What does $0.65 \ \text{litres}$ of orange juice cost?
 $
 \begin{aligned}
 \text{Total cost} &= 1.45 \times 0.65 \\\\
-                  &= 0.9425
+                  &= \pounds 0.9425
 \end{aligned}
 $
 
@@ -43827,7 +43827,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.9425$
+$\pounds 0.9425$
 
 </div>
 </div>
@@ -44329,8 +44329,8 @@ Calculate the difference between the two prices.
 
 $
 \begin{aligned}
-\text{Difference between prices} &= 23997324 - 4567300 \\\\
-                                 &= 19430024
+\text{Difference between prices} &= 34567300 - 23997324 \\\\
+                                 &= 10569976
 \end{aligned}
 $
 
@@ -44339,7 +44339,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19430024$
+$10569976$
 
 </div>
 </div>
@@ -44731,6 +44731,7 @@ Let the missing number $= a$
 $
 \begin{aligned}
 6900 \div a          &= 23000 \\\\
+6900                 &= 23000 \times a \\\\
 \dfrac{6900} {23000} &= a \\\\
 a                    &= \dfrac{6900} {23000} \\\\
 a                    &= 0.3
@@ -71003,7 +71004,7 @@ Arrange the numbers, $5, 3, 7$ and $2$ to make the largest possible four-digit n
 
 A multiple of $5$ will have in unit place $5$
 
-Let's arrange rest of the numbers $3, 7 and 2$ in descending order.
+Let's arrange rest of the numbers $3, 7$ and $2$ in descending order.
 
 $7 > 3 > 2$
 
@@ -79431,14 +79432,14 @@ the largest number divisible by $4$
 <div class='workings'>
 <div class='working'>
 
-$95384$
+$98534$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$95384$
+$98534$
 
 </div>
 </div>

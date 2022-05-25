@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-taddition-pr"
 title: "Topic - Addition - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -825,7 +825,7 @@ $
     &   5   &   7   &   8   &   4 \\
 {}+ &       &   4   &   1   &   9 \\
 \hline
-    &   6   &   2   &   0   &   3 \\
+    &   6   &   2   &   0   &   3
 \hline
 \end{array}
 $
@@ -1038,7 +1038,7 @@ $
     &   4   &   8   &   4 \\
 {}+ &   3   &   6   &   5 \\
 \hline
-    &   8   &   4   &   9 \\
+    &   8   &   4   &   9
 \hline
 \end{array}
 $
@@ -1257,53 +1257,6 @@ $0.50$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>E53AB2CA-6901-4720-8F5B-B9BCED54252C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $3456 + 789$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   3   &   4   &   5   &   6 \\
-{}+     &   &   7   &   8   &   9 \\
-\hline
-    &   4   &   2   &   4   &   5
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4245$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

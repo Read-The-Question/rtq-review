@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-pr"
 title: "Owner - Sahil Choudhary - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -9356,6 +9356,66 @@ $4 \dfrac {2} {5}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
+<p>88771F84-2908-43E4-9380-A12099F3BB56</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ian buys
+
+- $3$ bananas at $12 \text{p}$ per banana
+- $5$ apples at $11 \text{p}$ per apple
+
+If Ian pays with a $\pounds 2$ coin how much change would Ian get? Give your answer in pounds and pence. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Change he will get}                       &= \text{Total money} - (3 \times \text{Cost (Bananas)} + 5 \times \text{Cost (Apples)}) \\\\
+                                                &= \pounds 2 - (3 \times 12 \text{p} + 5 \times 11 \text{p}) \\\\
+                                                &= \pounds 2 - (36 \text{p} + 55 \text{p}) \\\\
+                                                &= \pounds 2 - 91 \text{p} \\\\
+                                                &= \pounds 2 - \pounds \dfrac {91} {100} \\\\
+                                                &= 2 - 0.91 \\\\
+                                                &= \pounds 1.09 \\\\
+                                                &= 1.09 \times 100 \text{p} \\\\
+                                                &= 109 \ \text{pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
 <p>27EFB859-4E01-4629-9090-039B54CC9BF6</p>
 </div>
 <div class='topics'>
@@ -9925,6 +9985,62 @@ $
 
 $\text{Largest} = 7997 \\\\
 \text{Smallest} = 2002$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>F7CB4C96-99C6-4696-913C-ACB1B87877A1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Imogen buys
+
+ 4 star stickers at 15p per sticker
+
+ 7 moon stickers at 16p per sticker
+
+If Imogen pays with a £5 note how much change would Imogen get? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Change he will get}                       &= \text{Total money} - (4 \times \text{Cost (Star)} + 7 \times \text{Cost (Imogen)}) \\\\
+                                                &= \pounds 5 - (4 \times 15 \text{p} + 7 \times 16 \text{p}) \\\\
+                                                &= \pounds 5 - (60 \text{p} + 112 \text{p}) \\\\
+                                                &= \pounds 5 - 172 \text{p} \\\\
+                                                &= \pounds 5 - \pounds \dfrac {172} {100} \\\\
+                                                &= 5 - 1.72 \\\\
+                                                &= \pounds 3.28
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.28$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-4"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 4"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -560,7 +560,7 @@ $
 &= abc \\\\
 &= 9 \times (-2) \times (-7) \\\\
 &= (-18) \times (-7) \\\\
-&= - 126
+&= 126
 \end{aligned}
 $
 
@@ -569,7 +569,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 126$
+$126$
 
 </div>
 </div>
@@ -803,7 +803,7 @@ $
 2 a + \dfrac{a} {2}                                &= 250 \\\\
 \dfrac {2 a \times 2} {1 \times 2} + \dfrac{a} {2} &= 250 \\\\
 \dfrac{4 a} {2} + \dfrac {a} {2}                   &= 250 \\\\
-\dfrac{4 a + a} {2}                                &= 250
+\dfrac{4 a + a} {2}                                &= 250 \\\\
 \dfrac{5a} {2}                                     &= 250 \\\\
 a                                                  &= \dfrac {250 \times 2} {5} \\\\
 a                                                  &= \dfrac {50 \times 5 \times 2} {5} \\\\

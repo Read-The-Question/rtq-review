@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 2"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <div class='paper'>
 <h1>The London Independent Girls' Schools Consortium</h1>
@@ -40,7 +40,7 @@ $
     &   5   &   7   &   8   &   4 \\
 {}+ &       &   4   &   1   &   9 \\
 \hline
-    &   6   &   2   &   0   &   3 \\
+    &   6   &   2   &   0   &   3
 \hline
 \end{array}
 $
@@ -90,7 +90,7 @@ $
     &   2   &   6   &   0   &   5 \\
 {}- &       &   8   &   3   &   2 \\
 \hline
-    &   1   &   7   &   7   &   3 \\
+    &   1   &   7   &   7   &   3
 \hline
 \end{array}
 $
@@ -140,7 +140,7 @@ $
             &   9   &   2   &   7 \\
    \times   &       &       &   7 \\
 \hline
-   6        &   4   &   8   &   9 \\
+   6        &   4   &   8   &   9
 \hline
 \end{array}
 $
@@ -909,7 +909,7 @@ In this case, there are more fractions than percentages, so let's convert all th
 $
 \begin{aligned}
 &= 0.7, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad 0.65, \quad \text{five twelfths} \\\\
-&= \dfrac {7} {10}, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad \dfrac {65} {100}, \quad \dfrac {5} {12} \\\\
+&= \dfrac {7} {10}, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad \dfrac {65} {100}, \quad \dfrac {5} {12}
 \end{aligned}
 $
 
@@ -918,7 +918,7 @@ LCM of $10, \ 4, \ 5, \ 100, \ 12 = 300$
 $
 \begin{aligned}
 &= \dfrac {7 \times 30} {10 \times 30}, \quad \dfrac {3 \times 75} {4 \times 75}, \quad \dfrac {4 \times 60} {5 \times 60},  \quad \dfrac {65 \times 3} {100 \times 3}, \quad \dfrac {5 \times 25} {12 \times 25} \\\\
-&= \dfrac {210} {300}, \quad \dfrac {225} {300}, \quad \dfrac {240} {300},  \quad \dfrac {195} {300}, \quad \dfrac {125} {300} \\\\
+&= \dfrac {210} {300}, \quad \dfrac {225} {300}, \quad \dfrac {240} {300},  \quad \dfrac {195} {300}, \quad \dfrac {125} {300}
 \end{aligned}
 $
 
@@ -927,7 +927,7 @@ Let's put them in ascending order now.
 $
 \begin{aligned}
 &= \dfrac {125} {300}, \quad \dfrac {195} {300}, \quad \dfrac {210} {300},  \quad \dfrac {225} {300}, \quad \dfrac {240} {300} \\\\
-&= \text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfrac {4} {5} \\\\
+&= \text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfrac {4} {5}
 \end{aligned}
 $
 
@@ -1720,14 +1720,14 @@ What time is it in Australia when it is $4 \ \text{am}$ in the USA?
 <div class='workings'>
 <div class='working'>
 
-$12{:}00 \ \text{am}$
+$6{:}00 \ \text{pm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12{:}00 \ \text{am}$
+$6{:}00 \ \text{pm}$
 
 </div>
 </div>
@@ -1831,14 +1831,14 @@ the largest number divisible by $4$
 <div class='workings'>
 <div class='working'>
 
-$95384$
+$98534$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$95384$
+$98534$
 
 </div>
 </div>

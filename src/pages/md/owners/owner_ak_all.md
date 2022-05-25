@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-all"
 title: "Owner - Abhay Kandpal - All"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4762,7 +4762,7 @@ What is the prime factorisation of $56$?
 <div class='workings'>
 <div class='working'>
 
-The prime factorisation of 56 is $2 \times 2 \times 2 \times 7$
+The prime factorisation of 56 $= 2 \times 2 \times 2 \times 7$
 
 </div>
 </div>
@@ -4806,18 +4806,14 @@ Write an expression for how much money she has left after paying the rent.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-\text {Money left}  &= \pounds (300 - X)
-\end {aligned}
-$
+$\text {Money left}  &= \pounds (330 - X) $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds (300 - X)$
+$\text {Money left}  &= \pounds (330 - X) $
 
 </div>
 </div>
@@ -4845,7 +4841,7 @@ tpercentage
 <div class='question question'>
 
 A cafe sold $40$ sandwiches on Monday.
-$45 \%$ of the sandwiches werre vegetarian. How many vegeetarian sandwiches did the cafe sell?
+$45 \%$ of the sandwiches were vegetarian. How many vegeetarian sandwiches did the cafe sell?
 
 </div>
 <div class='workings'>
@@ -4855,11 +4851,12 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Number of vegetarian sandwiches sold}  &= 45 \% \ \text {of} \ 40 \\\\
+\text {Number of vegetarian sandwiches sold}  &= 45 \% \ \text {of} \ \text {Total sandwiches} \\\\
                                               &= \dfrac {45} {100} \times 40 \\\\
                                               &= \dfrac {45 \times 40} {100} \\\\
-                                              &= \dfrac {1800} {100} \\\\
-                                              &= \dfrac {18 \cancel {00}} {1 \cancel {00}} \\\\
+                                              &= \dfrac {9 \times 5 \times 20 \times 2} {20 \times 5} \\\\
+                                              &= \dfrac {9 \times \cancel {5} \times \cancel {20} \times 2} {\cancel {20} \times \cancel {5}} \\\\
+                                              &= 9 \times 2 \\\\
                                               &= 18
 \end {aligned}
 $
@@ -4962,9 +4959,9 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Number of spectators supporting England}  &= \text {Total number of spectators} - \text {Total number of spectators supporting Australia} \\\\
-                                                 &= 76432 - 8695 \\\\
-                                                 &= 67737
+\text {Spectators supporting England}  &= \text {Total spectators} - \text {Spectators supporting Australia} \\\\
+                                       &= 76432 - 8695 \\\\
+                                       &= 67737
 \end {aligned}
 $
 
@@ -5013,7 +5010,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total cost}  &= \text {Total number of students received a badge} \times \text {cost of each badge} \\\\
+\text {School pays} &= \text {Number of students receiving badge} \times \text {Cost of one badge} \\\\
                     &= 193 \times 6 \\\\
                     &= \pounds 1158
 \end {aligned}
@@ -5136,35 +5133,31 @@ Let the weight of a guinea pig $= p$.
 
 As per the question,
 
-Calculating the weight of a cat in terms of rabbits weight,
+$3 c = 4 r$
+
+$2 c = 4 p$
+
+Or,
+
+$1 c = 2 p$  So, 
 
 $
 \begin {aligned}
-4r      &= 3c \\\\
-c       &= \dfrac {4r} {3}
+4 r      &= 3 c \\\\
+         &= 2 c + 1 c \\\\
+         &= 4 p + 2 p \\\\
+         &= 6 p
 \end {aligned}
 $
 
-Using this we get,
-
-$
-\begin {aligned}
-2c                         &= 4p \\\\
-2 \times \dfrac {4r} {3}   &= 4p \\\\
-\dfrac {4r} {3}            &= \dfrac {4p} {2} \\\\
-4r                         &= 2p \times 3 \\\\
-4r                         &= 6p
-\end {aligned}
-$
-
-From the above calcuation we get, $4$ rabbits weigh tha same as $6$ guinea pigs.
+Six guinea pigs weigh the same as $= 4$ rabbits.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4$
+$\text {Six guinea pigs weigh the same as} \ = 4 \ \text {rabbits}$
 
 </div>
 </div>
@@ -5259,14 +5252,18 @@ How many minutes did I stay at the concert for?
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
+The time is given in hours, but the final answer has to be in minutes.
+
 $
 \begin {aligned}
 \text {Minutes stayed}  &= 15 \% \ \text {of} \ 3 \ \text {hours} \\\\
-                        &= \dfrac {15} {100} \times (3 \times 60) \ \text {minutes} \\\\
-                        &= \dfrac {15} {100} \times 180 \\\\
-                        &= \dfrac {15 \times 180} {100} \\\\
-                        &= \dfrac {5 \times 3 \times 9 \times 2 \times 10} {2 \times 5 \times 10} \\\\
-                        &= \dfrac {\cancel {5} \times 3 \times 9 \times \cancel {2} \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+                        &= \dfrac {15} {100} \times 3 \\\\
+                        &= \dfrac {15} {100} \times 3 \times 60 \ \text {minutes} \\\\
+                        &= \dfrac {15 \times 3 \times 60} {100} \\\\
+                        &= \dfrac {5 \times 3 \times 9 \times 2 \times 10} {5 \times 2 \times 10} \\\\
+                        &= \dfrac {\cancel {5} \times 3 \times 9 \times \cancel {2} \times \cancel {10}} {\cancel {5} \times \cancel {2} \times \cancel {10}} \\\\
                         &= 3 \times 9 \\\\
                         &= 27 \ \text {minutes}
 \end {aligned}
@@ -5310,44 +5307,61 @@ Guy is half as old as Gerald, who is three times older than Gill. If the sum of 
 <div class='workings'>
 <div class='working'>
 
-Let Gill's age $= c$.
+Let Gill's age $= a$
 
 As per the question,
 
-Gerald's age $= 3c$.
+Gerald's age $= 3 \times \text {Gill's age} = 3 a$
 
-Guy's age $= \dfrac {3c} {2}$.
+Guy's age $= \text {Half as old as Gerald} = \dfrac {1} {2} \times 3 a$
 
 $
 \begin {aligned}
-3c + \dfrac {3c} {2} + c                                                                &= 99 \\\\
-\dfrac {3c \times 2} {1 \times 2} + \dfrac {3c} {2} + \dfrac {c \times 2} {1 \times 2}  &= 99 \\\\
-\dfrac {6c} {2} + \dfrac {3c} {2} + \dfrac {2c} {2}                                     &= 99 \\\\
-\dfrac {6c + 3c + 2c} {2}                                                               &= 99 \\\\
-\dfrac {11c} {2}                                                                        &= 99 \\\\
-11c                                                                                     &= 99 \times 2 \\\\
-c                                                                                       &= \dfrac {99 \times 2} {11} \\\\
-c                                                                                       &= \dfrac {9 \times 11 \times 2} {11} \\\\
-c                                                                                       &= \dfrac {9 \times \cancel {11} \times 2} {\cancel {11}} \\\\
-c                                                                                       &= 9 \times 2 \\\\
-c                                                                                       &= 18
+\text {Gerald's age} + \text {Guy's age} + \text {Gill's age}                           &= 99 \\\\
+3a + \dfrac {3a} {2} + a                                                                &= 99 \\\\
+\dfrac {3a \times 2} {1 \times 2} + \dfrac {3a} {2} + \dfrac {a \times 2} {1 \times 2}  &= 99 \\\\
+\dfrac {6a} {2} + \dfrac {3a} {2} + \dfrac {2a} {2}                                     &= 99 \\\\
+\dfrac {6a + 3a + 2a} {2}                                                               &= 99 \\\\
+\dfrac {11a} {2}                                                                        &= 99 \\\\
+11a                                                                                     &= 99 \times 2 \\\\
+a                                                                                       &= \dfrac {99 \times 2} {11} \\\\
+a                                                                                       &= \dfrac {11 \times 9 \times 2} {11} \\\\
+a                                                                                       &= \dfrac {\cancel {11} \times 9 \times 2} {\cancel {11}} \\\\
+a                                                                                       &= 9 \times 2 \\\\
+a                                                                                       &= 18
 \end {aligned}
 $
 
-Hence,
+Gill's age $= 18 \ \text {years}$
 
-Gill's age $= 18$.
+Gerald's age $= 3 \times 18 = 54 \ \text {years}$
 
-Gerald's age $= 3 \times 18 = 54$.
-
-Guy's age $= \dfrac {54} {2} = 27$.  
+$
+\begin {aligned}
+\text {Guy's age}       &= \dfrac {3 a} {2} \\\\
+                        &= \dfrac {54} {2} \\\\
+                        &= \dfrac {27 \times 2} {2} \\\\
+                        &= \dfrac {27 \times \cancel {2}} {\cancel {2}} \\\\
+                        &= 27 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$27, 54 , 18$
+$18 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+$27 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+$54 \ \text {years}$
 
 </div>
 </div>

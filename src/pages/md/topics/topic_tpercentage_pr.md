@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-pr"
 title: "Topic - Percentage - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -967,7 +967,7 @@ tpercentage
 <div class='question question'>
 
 A cafe sold $40$ sandwiches on Monday.
-$45 \%$ of the sandwiches werre vegetarian. How many vegeetarian sandwiches did the cafe sell?
+$45 \%$ of the sandwiches were vegetarian. How many vegeetarian sandwiches did the cafe sell?
 
 </div>
 <div class='workings'>
@@ -977,11 +977,12 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Number of vegetarian sandwiches sold}  &= 45 \% \ \text {of} \ 40 \\\\
+\text {Number of vegetarian sandwiches sold}  &= 45 \% \ \text {of} \ \text {Total sandwiches} \\\\
                                               &= \dfrac {45} {100} \times 40 \\\\
                                               &= \dfrac {45 \times 40} {100} \\\\
-                                              &= \dfrac {1800} {100} \\\\
-                                              &= \dfrac {18 \cancel {00}} {1 \cancel {00}} \\\\
+                                              &= \dfrac {9 \times 5 \times 20 \times 2} {20 \times 5} \\\\
+                                              &= \dfrac {9 \times \cancel {5} \times \cancel {20} \times 2} {\cancel {20} \times \cancel {5}} \\\\
+                                              &= 9 \times 2 \\\\
                                               &= 18
 \end {aligned}
 $
@@ -1028,14 +1029,18 @@ How many minutes did I stay at the concert for?
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
+The time is given in hours, but the final answer has to be in minutes.
+
 $
 \begin {aligned}
 \text {Minutes stayed}  &= 15 \% \ \text {of} \ 3 \ \text {hours} \\\\
-                        &= \dfrac {15} {100} \times (3 \times 60) \ \text {minutes} \\\\
-                        &= \dfrac {15} {100} \times 180 \\\\
-                        &= \dfrac {15 \times 180} {100} \\\\
-                        &= \dfrac {5 \times 3 \times 9 \times 2 \times 10} {2 \times 5 \times 10} \\\\
-                        &= \dfrac {\cancel {5} \times 3 \times 9 \times \cancel {2} \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+                        &= \dfrac {15} {100} \times 3 \\\\
+                        &= \dfrac {15} {100} \times 3 \times 60 \ \text {minutes} \\\\
+                        &= \dfrac {15 \times 3 \times 60} {100} \\\\
+                        &= \dfrac {5 \times 3 \times 9 \times 2 \times 10} {5 \times 2 \times 10} \\\\
+                        &= \dfrac {\cancel {5} \times 3 \times 9 \times \cancel {2} \times \cancel {10}} {\cancel {5} \times \cancel {2} \times \cancel {10}} \\\\
                         &= 3 \times 9 \\\\
                         &= 27 \ \text {minutes}
 \end {aligned}
@@ -4394,58 +4399,6 @@ $60 \%$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>30BCF600-D39C-411C-82F9-AC4685D34425</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the difference between $10\%$ of $\pounds 20$ and $20\%$ of $\pounds 10$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-& = 10\% \ \text {of} \ \pounds 20 - 20\% \ \text {of} \ \pounds 10 \\\\
-& = \dfrac {10} {100} \times 20 - \dfrac {20} {100} \times 10 \\\\     
-& = \dfrac {10 \times 20} {100} - \dfrac {20 \times 10} {100} \\\\
-& = \dfrac {1 \cancel {0} \times 2 \cancel {0}} {1 \cancel {00} } - \dfrac {2 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
-& = 2-2 \\\\
-& = 0
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

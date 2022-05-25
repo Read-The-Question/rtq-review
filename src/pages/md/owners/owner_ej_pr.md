@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-pr"
 title: "Owner - Eshudhi Jangid - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1058,7 +1058,16 @@ $
 <div class='workings'>
 <div class='working'>
 
-$16, 24, 8$
+First few multiples of 8 are $= 8, \ 16, \ 24, \ 32, \ 40, \ 48, \ 56....$
+
+Therefore,
+
+$
+\begin{matrix}
+\boxed{\green{16}} & 4 & \boxed{\green{24}} & 6 \\\\
+2                                   & 1 & \boxed{\green{8}}  & 30 \\\\
+\end{matrix}
+$
 
 </div>
 </div>
@@ -1191,19 +1200,27 @@ tnumber
 
 Circle which of the following has a different value from the others:
 
-$3 - 7 - 4$
-
-$(3 - 7) - 4$
-
-$3 - (7 - 4)$
-
-$((3 - 7) - 4)$ 
+\begin{matrix}
+3 - 7 - 4 && (3 - 7) - 4 && 3 - (7 - 4) && ((3 - 7) - 4)
+\end{matrix} 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$3 - (7 - 4)$
+$3 - 7 - 4 = -8$
+
+$(3 - 7) - 4 = (-4) - 4 = -8$
+
+$3 - (7 - 4) = 3 - (-3) = 3 + 3 = 6$
+
+$((3 - 7) - 4) = ((-4) - 4) = -8$
+
+Therefore,
+
+\begin{matrix}
+3 - 7 - 4 && (3 - 7) - 4 && \boxed{\green{3 - (7 - 4)}} && ((3 - 7) - 4)
+\end{matrix}
 
 </div>
 </div>
@@ -1265,13 +1282,24 @@ tfraction
 
 Circle the fraction which has a different value from the others:
 
-$\dfrac{6}{9} \qquad \dfrac{2}{3} \qquad \dfrac{18}{27} \qquad \dfrac{7}{10}$
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \dfrac{7} {10}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {7} {10}$
+$\dfrac {6} {9} = \dfrac {2} {3}$
+
+$\dfrac {2} {3} = \dfrac {2} {3}$
+
+$\dfrac {18} {27} = \dfrac {2} {3}$
+
+$\dfrac {7} {10} = \dfrac {7} {10}$
+
+
+Therefore,
+
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
 
 </div>
 </div>
@@ -1617,28 +1645,28 @@ TODOWORKING
 </div>
 <div class='working'>
 
-As its gven in the question,
+Each number in the sequence is half of the number before. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{ \red{ (\div 2) } } 
-&&  \footnotesize{ \red{ (\div 2) } }  
-&&  \footnotesize{ \red{ (\div 2) } }   
-&&  \footnotesize{ \red{ (\div 2) } }   
-&&  \footnotesize{ \red{ (\div 2) } } 
-&&  \footnotesize{ \red{ (\div 2) } } 
-&&  \footnotesize{ \red{ (\div 2) } }  \\
+&   \footnotesize{ \maroonC{ (\div 2) } } 
+&&  \footnotesize{ \maroonC{ (\div 2) } }  
+&&  \footnotesize{ \maroonC{ (\div 2) } }   
+&&  \footnotesize{ \maroonC{ (\div 2) } }   
+&&  \footnotesize{ \maroonC{ (\div 2) } } 
+&&  \footnotesize{ \maroonC{ (\div 2) } } 
+&&  \footnotesize{ \maroonC{ (\div 2) } }  \\
 \dots,  &&    \dots,  &&  \dots,  &&   12,  &&   6,   &&  3,  && \ldots  && \ldots 
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing first number}    &= 96 \\\\
-\text{Missing second number}   &= 48 \\\\
-\text{Missing third number}    &= 24 \\\\
-\text{Missing fourth number}   &= \dfrac {3} {2} \\\\
-\text{Missing fifth number}   &=  \dfrac {3} {4}    
+\text{First Missing number}    &= 96 \\\\
+\text{Second Missing number}   &= 96 \div 2 = 48 \\\\
+\text{Third Missing number}    &= 48 \div 2 = 24 \\\\
+\text{Fourth Missing number}   &= 3 \div 2 = \dfrac {3} {2} \\\\
+\text{Fifth Missing number}    &= \dfrac {3} {2} \div 2 = \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -2710,9 +2738,16 @@ The museum took a total of $\pounds 600$ in entrance fees one Friday. How many p
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+Total fee collected $= \pounds 600$
+
+Enterance fee per person $= \pounds 1.20$
+
 $
 \begin{aligned}
-\text {Number of people visited on Friday} &= \dfrac {600} {1.20} \\\\
+\text {Number of people visited on Friday} &= \dfrac {\text {Total Fee collected}} {\text {Enterance fee}}\\\\
+                                           &= \dfrac {600} {1.20} \\\\
                                            &= \pounds 500
 \end{aligned}
 $
@@ -2784,12 +2819,16 @@ How many yards away from Goodison Park do I live?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 &= 1760 \times 0.6 \\\\
 &= 1056 \ \text{yards}
 \end{aligned}
 $
+
+I live $1056 \text {yards}$ away from Goodison Park.
 
 </div>
 </div>
@@ -2811,11 +2850,13 @@ $1056 \ \text{yards}$
 </div>
 <div class='question subquestion'>
 
-I live $4,400$ yards$ from Anfield football stadium. How many miles from Anfield football stadium do I live?
+I live $4,400$ yards from Anfield football stadium. How many miles from Anfield football stadium do I live?
 
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin{aligned}
@@ -2823,6 +2864,8 @@ $
 &= 2.5 \ \text {miles}
 \end{aligned}
 $
+
+I live $2.5$ miles away from Anfield football stadium.
 
 </div>
 </div>
@@ -2850,6 +2893,8 @@ A kilometre is five eighths of a mile. How many kilometres away from Anfield do 
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 &= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
@@ -2857,6 +2902,8 @@ $
 &= 1.5625 \ \text {km}
 \end{aligned}
 $
+
+I live $1.5625$ km away from Anfield.
 
 </div>
 </div>
@@ -2925,17 +2972,23 @@ I think of a number, multiply it by $17$ and then subtract $19$. The result is $
 <div class='workings'>
 <div class='working'>
 
-Let the number i think $=a$
+Let the number I think $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-17a - 19 &= 66 \\\\
-17a      &= 66 + 19 \\\\
+(17 \times a) - 19 &= 66 \\\\
+(17 \times a)      &= 66 + 19 \\\\
 17a      &= 85 \\\\
 a        &= \dfrac {85} {17} \\\\
+a        &= \dfrac {17 \times 5} {17} \\\\
+a        &= \dfrac {\cancel 17 \times 5} {\cancel 17}
 a        &= 5
 \end{aligned}
 $
+
+The number I first thought of $= 5.$
 
 </div>
 </div>
@@ -2964,6 +3017,8 @@ $10 \,\, \times \,\, k \,\, + \,\, 23 = 4 \times \,\, k \,\, +\,\,  35$
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin{aligned}
@@ -14077,11 +14132,15 @@ What fraction of the pens is blue?
 
 $
 \begin{aligned}
-&= 1 - \dfrac {1} {8} - \dfrac {1} {4} \\\\
-&= 1 - \dfrac {1} {8} - \dfrac {2} {8} \\\\
-&= 1 - \dfrac {3} {8} \\\\
-&= \dfrac {8 - 3} {8} \\\\
-&= \dfrac {5} {8}
+\text {Number of blue pens}            &= \text {Total number of pens} - \text {Sum of green and red pen} \\\\
+                                       &= 24 - (\dfrac {1} {8} \times 24 + \dfrac {25} {100} \times 24) \\\\
+                                       &= 24 - (3 + \dfrac {1} {4} \times 24) \\\\
+                                       &= 24 - (3 + 6) \\\\
+                                       &= 24 - 9 \\\\
+                                       &= 15 \\\\
+\text {fraction of pens that are blue} &= \dfrac {15} {24} \\\\
+                                       &= \dfrac {\cancel 3 \times 5} {\cancel 3 \times 8} \\\\
+                                       &= \dfrac {5} {8}
 \end{aligned}
 $
 

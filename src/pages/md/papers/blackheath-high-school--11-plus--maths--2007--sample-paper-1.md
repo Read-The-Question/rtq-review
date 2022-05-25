@@ -1,7 +1,7 @@
 ---
 slug: "papers/blackheath-high-school-11-plus-maths-2007-sample-paper-1"
 title: "Blackheath High School - 11 Plus - Maths - 2007 - Sample Paper 1"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <div class='paper'>
 <h1>Blackheath High School</h1>
@@ -114,9 +114,9 @@ $
 $
 \begin{aligned}
 \text{Total} &= 800 + 200 \\\\
-             &= 1000 \ \text{ml}
-             &= \dfrac {1000} {1000} \ \text{litre}
-             &= \dfrac {\cancel {1000}} {\cancel {1000}} \ \text{litre}
+             &= 1000 \ \text{ml} \\\\
+             &= \dfrac {1000} {1000} \ \text{litre} \\\\
+             &= \dfrac {\cancel {1000}} {\cancel {1000}} \ \text{litre} \\\\
              &= 1 \ \text{litre}
 \end{aligned}
 $

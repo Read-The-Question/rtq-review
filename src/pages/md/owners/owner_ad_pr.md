@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-pr"
 title: "Owner - Arun Dalakoti - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -151,9 +151,9 @@ $
 $
 \begin{aligned}
 \text{Total} &= 800 + 200 \\\\
-             &= 1000 \ \text{ml}
-             &= \dfrac {1000} {1000} \ \text{litre}
-             &= \dfrac {\cancel {1000}} {\cancel {1000}} \ \text{litre}
+             &= 1000 \ \text{ml} \\\\
+             &= \dfrac {1000} {1000} \ \text{litre} \\\\
+             &= \dfrac {\cancel {1000}} {\cancel {1000}} \ \text{litre} \\\\
              &= 1 \ \text{litre}
 \end{aligned}
 $
@@ -8196,7 +8196,7 @@ $
 &= abc \\\\
 &= 9 \times (-2) \times (-7) \\\\
 &= (-18) \times (-7) \\\\
-&= - 126
+&= 126
 \end{aligned}
 $
 
@@ -8205,7 +8205,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 126$
+$126$
 
 </div>
 </div>
@@ -8385,7 +8385,7 @@ $
 2 a + \dfrac{a} {2}                                &= 250 \\\\
 \dfrac {2 a \times 2} {1 \times 2} + \dfrac{a} {2} &= 250 \\\\
 \dfrac{4 a} {2} + \dfrac {a} {2}                   &= 250 \\\\
-\dfrac{4 a + a} {2}                                &= 250
+\dfrac{4 a + a} {2}                                &= 250 \\\\
 \dfrac{5a} {2}                                     &= 250 \\\\
 a                                                  &= \dfrac {250 \times 2} {5} \\\\
 a                                                  &= \dfrac {50 \times 5 \times 2} {5} \\\\
@@ -9049,11 +9049,7 @@ $9 \times 5 \div 2 + 1 = 15$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-((9 \times 5) \div (2 + 1)) &= 15
-\end{aligned}
-$
+$((9 \times 5) \div (2 + 1)) &= 15$
 
 </div>
 </div>
@@ -9081,11 +9077,7 @@ $3\times  7 - 6 \times 4 - 3 = 15$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-((3 \times  7) - (6 \times (4 - 3))) &= 15
-\end{aligned}
-$
+$((3 \times  7) - (6 \times (4 - 3))) &= 15$
 
 </div>
 </div>
@@ -9464,7 +9456,7 @@ $
 2 a + \dfrac{a} {2}                                &= 90 \\\\
 \dfrac {2 a \times 2} {1 \times 2} + \dfrac{a} {2} &= 90 \\\\
 \dfrac{4 a} {2} + \dfrac {a} {2}                   &= 90 \\\\
-\dfrac{4 a + a} {2}                                &= 90
+\dfrac{4 a + a} {2}                                &= 90 \\\\
 \dfrac{5a} {2}                                     &= 90 \\\\
 a                                                  &= \dfrac {90 \times 2} {5} \\\\
 a                                                  &= \dfrac {18 \times 5 \times 2} {5} \\\\
@@ -9508,12 +9500,12 @@ As per the question,
 
 $
 \begin{aligned}
-2 + 2(a ^ 2)                   &= 100 \\\\
+2 + 2(a ^ 2)                    &= 100 \\\\
 2(a ^ 2)                        &= 100 - 2 \\\\
 2(a ^ 2)                        &= 98 \\\\
-a ^ 2                           &= dfrac {98} {2} \\\\
-a ^ 2                           &= dfrac {49 \times 2} {2} \\\\
-a ^ 2                           &= dfrac {49 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2                           &= \dfrac {98} {2} \\\\
+a ^ 2                           &= \dfrac {49 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {49 \times \cancel {2}} {\cancel {2}} \\\\
 a ^ 2                           &= 49 \\\\
 a                               &= \sqrt 49 \\\\
 a                               &= + 7 \ \text{and} \ -7
@@ -9710,7 +9702,7 @@ What does $0.65 \ \text{litres}$ of orange juice cost?
 $
 \begin{aligned}
 \text{Total cost} &= 1.45 \times 0.65 \\\\
-                  &= 0.9425
+                  &= \pounds 0.9425
 \end{aligned}
 $
 
@@ -9719,7 +9711,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.9425$
+$\pounds 0.9425$
 
 </div>
 </div>
@@ -10310,8 +10302,8 @@ Calculate the difference between the two prices.
 
 $
 \begin{aligned}
-\text{Difference between prices} &= 23997324 - 4567300 \\\\
-                                 &= 19430024
+\text{Difference between prices} &= 34567300 - 23997324 \\\\
+                                 &= 10569976
 \end{aligned}
 $
 
@@ -10320,7 +10312,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19430024$
+$10569976$
 
 </div>
 </div>
@@ -10605,6 +10597,7 @@ Let the missing number $= a$
 $
 \begin{aligned}
 6900 \div a          &= 23000 \\\\
+6900                 &= 23000 \times a \\\\
 \dfrac{6900} {23000} &= a \\\\
 a                    &= \dfrac{6900} {23000} \\\\
 a                    &= 0.3
@@ -11130,7 +11123,7 @@ $
 \begin{aligned}
 \text{Total earning}  &= \text{Barbie earning} + \text{Ken earning} \\\\
                       &= \text{Barbie} + \text{Barbie earning - 700}\\\\
-                      &= \text{23450} + \text{23450 - 700} \\\\      
+                      &= \text{23450} + \text{23450 - 700} \\\\
                       &= 23450 + 22750 \\\\
                       &= \pounds 46200
 \end{aligned}
@@ -11317,7 +11310,7 @@ Arrange the numbers, $5, 3, 7$ and $2$ to make the largest possible four-digit n
 
 A multiple of $5$ will have in unit place $5$
 
-Let's arrange rest of the numbers $3, 7 and 2$ in descending order.
+Let's arrange rest of the numbers $3, 7$ and $2$ in descending order.
 
 $7 > 3 > 2$
 
@@ -11427,7 +11420,7 @@ $
     &   5   &   7   &   8   &   4 \\
 {}+ &       &   4   &   1   &   9 \\
 \hline
-    &   6   &   2   &   0   &   3 \\
+    &   6   &   2   &   0   &   3
 \hline
 \end{array}
 $
@@ -11477,7 +11470,7 @@ $
     &   2   &   6   &   0   &   5 \\
 {}- &       &   8   &   3   &   2 \\
 \hline
-    &   1   &   7   &   7   &   3 \\
+    &   1   &   7   &   7   &   3
 \hline
 \end{array}
 $
@@ -11527,7 +11520,7 @@ $
             &   9   &   2   &   7 \\
    \times   &       &       &   7 \\
 \hline
-   6        &   4   &   8   &   9 \\
+   6        &   4   &   8   &   9
 \hline
 \end{array}
 $
@@ -12035,7 +12028,7 @@ In this case, there are more fractions than percentages, so let's convert all th
 $
 \begin{aligned}
 &= 0.7, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad 0.65, \quad \text{five twelfths} \\\\
-&= \dfrac {7} {10}, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad \dfrac {65} {100}, \quad \dfrac {5} {12} \\\\
+&= \dfrac {7} {10}, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad \dfrac {65} {100}, \quad \dfrac {5} {12}
 \end{aligned}
 $
 
@@ -12044,7 +12037,7 @@ LCM of $10, \ 4, \ 5, \ 100, \ 12 = 300$
 $
 \begin{aligned}
 &= \dfrac {7 \times 30} {10 \times 30}, \quad \dfrac {3 \times 75} {4 \times 75}, \quad \dfrac {4 \times 60} {5 \times 60},  \quad \dfrac {65 \times 3} {100 \times 3}, \quad \dfrac {5 \times 25} {12 \times 25} \\\\
-&= \dfrac {210} {300}, \quad \dfrac {225} {300}, \quad \dfrac {240} {300},  \quad \dfrac {195} {300}, \quad \dfrac {125} {300} \\\\
+&= \dfrac {210} {300}, \quad \dfrac {225} {300}, \quad \dfrac {240} {300},  \quad \dfrac {195} {300}, \quad \dfrac {125} {300}
 \end{aligned}
 $
 
@@ -12053,7 +12046,7 @@ Let's put them in ascending order now.
 $
 \begin{aligned}
 &= \dfrac {125} {300}, \quad \dfrac {195} {300}, \quad \dfrac {210} {300},  \quad \dfrac {225} {300}, \quad \dfrac {240} {300} \\\\
-&= \text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfrac {4} {5} \\\\
+&= \text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfrac {4} {5}
 \end{aligned}
 $
 
@@ -12684,14 +12677,14 @@ What time is it in Australia when it is $4 \ \text{am}$ in the USA?
 <div class='workings'>
 <div class='working'>
 
-$12{:}00 \ \text{am}$
+$6{:}00 \ \text{pm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12{:}00 \ \text{am}$
+$6{:}00 \ \text{pm}$
 
 </div>
 </div>
@@ -12795,14 +12788,14 @@ the largest number divisible by $4$
 <div class='workings'>
 <div class='working'>
 
-$95384$
+$98534$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$95384$
+$98534$
 
 </div>
 </div>
@@ -13137,7 +13130,7 @@ $
     &   4   &   8   &   4 \\
 {}+ &   3   &   6   &   5 \\
 \hline
-    &   8   &   4   &   9 \\
+    &   8   &   4   &   9
 \hline
 \end{array}
 $

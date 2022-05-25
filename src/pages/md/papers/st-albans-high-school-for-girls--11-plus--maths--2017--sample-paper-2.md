@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <div class='paper'>
 <h1>St Albans High School For Girls</h1>
@@ -1201,7 +1201,7 @@ $\text{Largest} = 7997 \\\\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>F7CB4C96-99C6-4696-913C-ACB1B87877A1</p>
 </div>
@@ -1226,24 +1226,24 @@ If Imogen pays with a £5 note how much change would Imogen get?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Change he will get}                       &= \text{Total money} - (4 \times \text{Cost (Star)} + 7 \times \text{Cost (Imogen)}) \\\\
+                                                &= \pounds 5 - (4 \times 15 \text{p} + 7 \times 16 \text{p}) \\\\
+                                                &= \pounds 5 - (60 \text{p} + 112 \text{p}) \\\\
+                                                &= \pounds 5 - 172 \text{p} \\\\
+                                                &= \pounds 5 - \pounds \dfrac {172} {100} \\\\
+                                                &= 5 - 1.72 \\\\
+                                                &= \pounds 3.28
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 3.28$
 
 </div>
 </div>
@@ -1252,7 +1252,7 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>

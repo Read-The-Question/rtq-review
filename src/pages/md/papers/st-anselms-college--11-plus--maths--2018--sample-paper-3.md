@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <div class='paper'>
 <h1>St Anselm's College</h1>
@@ -193,9 +193,16 @@ The museum took a total of $\pounds 600$ in entrance fees one Friday. How many p
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+Total fee collected $= \pounds 600$
+
+Enterance fee per person $= \pounds 1.20$
+
 $
 \begin{aligned}
-\text {Number of people visited on Friday} &= \dfrac {600} {1.20} \\\\
+\text {Number of people visited on Friday} &= \dfrac {\text {Total Fee collected}} {\text {Enterance fee}}\\\\
+                                           &= \dfrac {600} {1.20} \\\\
                                            &= \pounds 500
 \end{aligned}
 $
@@ -445,12 +452,16 @@ How many yards away from Goodison Park do I live?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 &= 1760 \times 0.6 \\\\
 &= 1056 \ \text{yards}
 \end{aligned}
 $
+
+I live $1056 \text {yards}$ away from Goodison Park.
 
 </div>
 </div>
@@ -472,11 +483,13 @@ $1056 \ \text{yards}$
 </div>
 <div class='question subquestion'>
 
-I live $4,400$ yards$ from Anfield football stadium. How many miles from Anfield football stadium do I live?
+I live $4,400$ yards from Anfield football stadium. How many miles from Anfield football stadium do I live?
 
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin{aligned}
@@ -484,6 +497,8 @@ $
 &= 2.5 \ \text {miles}
 \end{aligned}
 $
+
+I live $2.5$ miles away from Anfield football stadium.
 
 </div>
 </div>
@@ -511,6 +526,8 @@ A kilometre is five eighths of a mile. How many kilometres away from Anfield do 
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 &= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
@@ -518,6 +535,8 @@ $
 &= 1.5625 \ \text {km}
 \end{aligned}
 $
+
+I live $1.5625$ km away from Anfield.
 
 </div>
 </div>
@@ -741,17 +760,23 @@ I think of a number, multiply it by $17$ and then subtract $19$. The result is $
 <div class='workings'>
 <div class='working'>
 
-Let the number i think $=a$
+Let the number I think $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-17a - 19 &= 66 \\\\
-17a      &= 66 + 19 \\\\
+(17 \times a) - 19 &= 66 \\\\
+(17 \times a)      &= 66 + 19 \\\\
 17a      &= 85 \\\\
 a        &= \dfrac {85} {17} \\\\
+a        &= \dfrac {17 \times 5} {17} \\\\
+a        &= \dfrac {\cancel 17 \times 5} {\cancel 17}
 a        &= 5
 \end{aligned}
 $
+
+The number I first thought of $= 5.$
 
 </div>
 </div>
@@ -780,6 +805,8 @@ $10 \,\, \times \,\, k \,\, + \,\, 23 = 4 \times \,\, k \,\, +\,\,  35$
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin{aligned}

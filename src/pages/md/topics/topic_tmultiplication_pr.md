@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmultiplication-pr"
 title: "Topic - Multiplication - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2109,7 +2109,7 @@ $
             &   9   &   2   &   7 \\
    \times   &       &       &   7 \\
 \hline
-   6        &   4   &   8   &   9 \\
+   6        &   4   &   8   &   9
 \hline
 \end{array}
 $
@@ -2769,53 +2769,6 @@ $4571$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>13C212DA-1B00-41C9-A793-554C99254956</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $418 \times 7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-            &   4   &   1   &   8 \\
-\times      &       &       &   7 \\
-\hline
-       2    &   9   &   2   &   6
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2926$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

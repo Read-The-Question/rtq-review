@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-d"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper D"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <div class='paper'>
 <h1>Dulwich College</h1>
@@ -417,7 +417,16 @@ $
 <div class='workings'>
 <div class='working'>
 
-$16, 24, 8$
+First few multiples of 8 are $= 8, \ 16, \ 24, \ 32, \ 40, \ 48, \ 56....$
+
+Therefore,
+
+$
+\begin{matrix}
+\boxed{\green{16}} & 4 & \boxed{\green{24}} & 6 \\\\
+2                                   & 1 & \boxed{\green{8}}  & 30 \\\\
+\end{matrix}
+$
 
 </div>
 </div>
@@ -597,19 +606,27 @@ tnumber
 
 Circle which of the following has a different value from the others:
 
-$3 - 7 - 4$
-
-$(3 - 7) - 4$
-
-$3 - (7 - 4)$
-
-$((3 - 7) - 4)$ 
+\begin{matrix}
+3 - 7 - 4 && (3 - 7) - 4 && 3 - (7 - 4) && ((3 - 7) - 4)
+\end{matrix} 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$3 - (7 - 4)$
+$3 - 7 - 4 = -8$
+
+$(3 - 7) - 4 = (-4) - 4 = -8$
+
+$3 - (7 - 4) = 3 - (-3) = 3 + 3 = 6$
+
+$((3 - 7) - 4) = ((-4) - 4) = -8$
+
+Therefore,
+
+\begin{matrix}
+3 - 7 - 4 && (3 - 7) - 4 && \boxed{\green{3 - (7 - 4)}} && ((3 - 7) - 4)
+\end{matrix}
 
 </div>
 </div>
@@ -671,13 +688,24 @@ tfraction
 
 Circle the fraction which has a different value from the others:
 
-$\dfrac{6}{9} \qquad \dfrac{2}{3} \qquad \dfrac{18}{27} \qquad \dfrac{7}{10}$
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \dfrac{7} {10}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {7} {10}$
+$\dfrac {6} {9} = \dfrac {2} {3}$
+
+$\dfrac {2} {3} = \dfrac {2} {3}$
+
+$\dfrac {18} {27} = \dfrac {2} {3}$
+
+$\dfrac {7} {10} = \dfrac {7} {10}$
+
+
+Therefore,
+
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
 
 </div>
 </div>

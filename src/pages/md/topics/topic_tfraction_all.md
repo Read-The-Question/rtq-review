@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-all"
 title: "Topic - Fraction - All"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8381,13 +8381,24 @@ tfraction
 
 Circle the fraction which has a different value from the others:
 
-$\dfrac{6}{9} \qquad \dfrac{2}{3} \qquad \dfrac{18}{27} \qquad \dfrac{7}{10}$
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \dfrac{7} {10}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {7} {10}$
+$\dfrac {6} {9} = \dfrac {2} {3}$
+
+$\dfrac {2} {3} = \dfrac {2} {3}$
+
+$\dfrac {18} {27} = \dfrac {2} {3}$
+
+$\dfrac {7} {10} = \dfrac {7} {10}$
+
+
+Therefore,
+
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
 
 </div>
 </div>
@@ -31478,7 +31489,7 @@ $\dfrac {7} {19}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD</p>
 </div>
@@ -31526,7 +31537,7 @@ $\dfrac {5} {12}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

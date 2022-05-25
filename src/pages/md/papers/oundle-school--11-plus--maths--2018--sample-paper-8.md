@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-8"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 8"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -68,8 +68,8 @@ Calculate the difference between the two prices.
 
 $
 \begin{aligned}
-\text{Difference between prices} &= 23997324 - 4567300 \\\\
-                                 &= 19430024
+\text{Difference between prices} &= 34567300 - 23997324 \\\\
+                                 &= 10569976
 \end{aligned}
 $
 
@@ -78,7 +78,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19430024$
+$10569976$
 
 </div>
 </div>
@@ -938,6 +938,7 @@ Let the missing number $= a$
 $
 \begin{aligned}
 6900 \div a          &= 23000 \\\\
+6900                 &= 23000 \times a \\\\
 \dfrac{6900} {23000} &= a \\\\
 a                    &= \dfrac{6900} {23000} \\\\
 a                    &= 0.3

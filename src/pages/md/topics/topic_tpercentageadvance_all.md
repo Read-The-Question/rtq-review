@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-all"
 title: "Topic - Percentageadvance - All"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3883,11 +3883,15 @@ What fraction of the pens is blue?
 
 $
 \begin{aligned}
-&= 1 - \dfrac {1} {8} - \dfrac {1} {4} \\\\
-&= 1 - \dfrac {1} {8} - \dfrac {2} {8} \\\\
-&= 1 - \dfrac {3} {8} \\\\
-&= \dfrac {8 - 3} {8} \\\\
-&= \dfrac {5} {8}
+\text {Number of blue pens}            &= \text {Total number of pens} - \text {Sum of green and red pen} \\\\
+                                       &= 24 - (\dfrac {1} {8} \times 24 + \dfrac {25} {100} \times 24) \\\\
+                                       &= 24 - (3 + \dfrac {1} {4} \times 24) \\\\
+                                       &= 24 - (3 + 6) \\\\
+                                       &= 24 - 9 \\\\
+                                       &= 15 \\\\
+\text {fraction of pens that are blue} &= \dfrac {15} {24} \\\\
+                                       &= \dfrac {\cancel 3 \times 5} {\cancel 3 \times 8} \\\\
+                                       &= \dfrac {5} {8}
 \end{aligned}
 $
 

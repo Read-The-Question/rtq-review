@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-all"
 title: "Topic - Speed - All"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4440,12 +4440,16 @@ How many yards away from Goodison Park do I live?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 &= 1760 \times 0.6 \\\\
 &= 1056 \ \text{yards}
 \end{aligned}
 $
+
+I live $1056 \text {yards}$ away from Goodison Park.
 
 </div>
 </div>
@@ -4467,11 +4471,13 @@ $1056 \ \text{yards}$
 </div>
 <div class='question subquestion'>
 
-I live $4,400$ yards$ from Anfield football stadium. How many miles from Anfield football stadium do I live?
+I live $4,400$ yards from Anfield football stadium. How many miles from Anfield football stadium do I live?
 
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin{aligned}
@@ -4479,6 +4485,8 @@ $
 &= 2.5 \ \text {miles}
 \end{aligned}
 $
+
+I live $2.5$ miles away from Anfield football stadium.
 
 </div>
 </div>
@@ -4506,6 +4514,8 @@ A kilometre is five eighths of a mile. How many kilometres away from Anfield do 
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 &= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
@@ -4513,6 +4523,8 @@ $
 &= 1.5625 \ \text {km}
 \end{aligned}
 $
+
+I live $1.5625$ km away from Anfield.
 
 </div>
 </div>

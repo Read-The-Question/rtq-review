@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -378,7 +378,7 @@ $
 \begin{aligned}
 \text{Total earning}  &= \text{Barbie earning} + \text{Ken earning} \\\\
                       &= \text{Barbie} + \text{Barbie earning - 700}\\\\
-                      &= \text{23450} + \text{23450 - 700} \\\\      
+                      &= \text{23450} + \text{23450 - 700} \\\\
                       &= 23450 + 22750 \\\\
                       &= \pounds 46200
 \end{aligned}
@@ -565,7 +565,7 @@ Arrange the numbers, $5, 3, 7$ and $2$ to make the largest possible four-digit n
 
 A multiple of $5$ will have in unit place $5$
 
-Let's arrange rest of the numbers $3, 7 and 2$ in descending order.
+Let's arrange rest of the numbers $3, 7$ and $2$ in descending order.
 
 $7 > 3 > 2$
 

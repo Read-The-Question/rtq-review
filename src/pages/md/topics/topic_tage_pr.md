@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-pr"
 title: "Topic - Age - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -293,44 +293,61 @@ Guy is half as old as Gerald, who is three times older than Gill. If the sum of 
 <div class='workings'>
 <div class='working'>
 
-Let Gill's age $= c$.
+Let Gill's age $= a$
 
 As per the question,
 
-Gerald's age $= 3c$.
+Gerald's age $= 3 \times \text {Gill's age} = 3 a$
 
-Guy's age $= \dfrac {3c} {2}$.
+Guy's age $= \text {Half as old as Gerald} = \dfrac {1} {2} \times 3 a$
 
 $
 \begin {aligned}
-3c + \dfrac {3c} {2} + c                                                                &= 99 \\\\
-\dfrac {3c \times 2} {1 \times 2} + \dfrac {3c} {2} + \dfrac {c \times 2} {1 \times 2}  &= 99 \\\\
-\dfrac {6c} {2} + \dfrac {3c} {2} + \dfrac {2c} {2}                                     &= 99 \\\\
-\dfrac {6c + 3c + 2c} {2}                                                               &= 99 \\\\
-\dfrac {11c} {2}                                                                        &= 99 \\\\
-11c                                                                                     &= 99 \times 2 \\\\
-c                                                                                       &= \dfrac {99 \times 2} {11} \\\\
-c                                                                                       &= \dfrac {9 \times 11 \times 2} {11} \\\\
-c                                                                                       &= \dfrac {9 \times \cancel {11} \times 2} {\cancel {11}} \\\\
-c                                                                                       &= 9 \times 2 \\\\
-c                                                                                       &= 18
+\text {Gerald's age} + \text {Guy's age} + \text {Gill's age}                           &= 99 \\\\
+3a + \dfrac {3a} {2} + a                                                                &= 99 \\\\
+\dfrac {3a \times 2} {1 \times 2} + \dfrac {3a} {2} + \dfrac {a \times 2} {1 \times 2}  &= 99 \\\\
+\dfrac {6a} {2} + \dfrac {3a} {2} + \dfrac {2a} {2}                                     &= 99 \\\\
+\dfrac {6a + 3a + 2a} {2}                                                               &= 99 \\\\
+\dfrac {11a} {2}                                                                        &= 99 \\\\
+11a                                                                                     &= 99 \times 2 \\\\
+a                                                                                       &= \dfrac {99 \times 2} {11} \\\\
+a                                                                                       &= \dfrac {11 \times 9 \times 2} {11} \\\\
+a                                                                                       &= \dfrac {\cancel {11} \times 9 \times 2} {\cancel {11}} \\\\
+a                                                                                       &= 9 \times 2 \\\\
+a                                                                                       &= 18
 \end {aligned}
 $
 
-Hence,
+Gill's age $= 18 \ \text {years}$
 
-Gill's age $= 18$.
+Gerald's age $= 3 \times 18 = 54 \ \text {years}$
 
-Gerald's age $= 3 \times 18 = 54$.
-
-Guy's age $= \dfrac {54} {2} = 27$.  
+$
+\begin {aligned}
+\text {Guy's age}       &= \dfrac {3 a} {2} \\\\
+                        &= \dfrac {54} {2} \\\\
+                        &= \dfrac {27 \times 2} {2} \\\\
+                        &= \dfrac {27 \times \cancel {2}} {\cancel {2}} \\\\
+                        &= 27 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$27, 54 , 18$
+$18 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+$27 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+$54 \ \text {years}$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-taddition-all"
 title: "Topic - Addition - All"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5650,7 +5650,7 @@ $
     &   5   &   7   &   8   &   4 \\
 {}+ &       &   4   &   1   &   9 \\
 \hline
-    &   6   &   2   &   0   &   3 \\
+    &   6   &   2   &   0   &   3
 \hline
 \end{array}
 $
@@ -5863,7 +5863,7 @@ $
     &   4   &   8   &   4 \\
 {}+ &   3   &   6   &   5 \\
 \hline
-    &   8   &   4   &   9 \\
+    &   8   &   4   &   9
 \hline
 \end{array}
 $
@@ -6278,7 +6278,7 @@ $0.50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>E53AB2CA-6901-4720-8F5B-B9BCED54252C</p>
 </div>
@@ -6320,7 +6320,7 @@ $4245$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

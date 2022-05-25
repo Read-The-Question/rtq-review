@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-10"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 10"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -137,7 +137,7 @@ What does $0.65 \ \text{litres}$ of orange juice cost?
 $
 \begin{aligned}
 \text{Total cost} &= 1.45 \times 0.65 \\\\
-                  &= 0.9425
+                  &= \pounds 0.9425
 \end{aligned}
 $
 
@@ -146,7 +146,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.9425$
+$\pounds 0.9425$
 
 </div>
 </div>

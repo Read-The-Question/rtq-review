@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-pr"
 title: "Topic - Algebra - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2576,18 +2576,14 @@ Write an expression for how much money she has left after paying the rent.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-\text {Money left}  &= \pounds (300 - X)
-\end {aligned}
-$
+$\text {Money left}  &= \pounds (330 - X) $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds (300 - X)$
+$\text {Money left}  &= \pounds (330 - X) $
 
 </div>
 </div>
@@ -2629,35 +2625,31 @@ Let the weight of a guinea pig $= p$.
 
 As per the question,
 
-Calculating the weight of a cat in terms of rabbits weight,
+$3 c = 4 r$
+
+$2 c = 4 p$
+
+Or,
+
+$1 c = 2 p$  So, 
 
 $
 \begin {aligned}
-4r      &= 3c \\\\
-c       &= \dfrac {4r} {3}
+4 r      &= 3 c \\\\
+         &= 2 c + 1 c \\\\
+         &= 4 p + 2 p \\\\
+         &= 6 p
 \end {aligned}
 $
 
-Using this we get,
-
-$
-\begin {aligned}
-2c                         &= 4p \\\\
-2 \times \dfrac {4r} {3}   &= 4p \\\\
-\dfrac {4r} {3}            &= \dfrac {4p} {2} \\\\
-4r                         &= 2p \times 3 \\\\
-4r                         &= 6p
-\end {aligned}
-$
-
-From the above calcuation we get, $4$ rabbits weigh tha same as $6$ guinea pigs.
+Six guinea pigs weigh the same as $= 4$ rabbits.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4$
+$\text {Six guinea pigs weigh the same as} \ = 4 \ \text {rabbits}$
 
 </div>
 </div>
@@ -5308,7 +5300,7 @@ $
 &= abc \\\\
 &= 9 \times (-2) \times (-7) \\\\
 &= (-18) \times (-7) \\\\
-&= - 126
+&= 126
 \end{aligned}
 $
 
@@ -5317,7 +5309,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 126$
+$126$
 
 </div>
 </div>
@@ -5551,7 +5543,7 @@ $
 2 a + \dfrac{a} {2}                                &= 250 \\\\
 \dfrac {2 a \times 2} {1 \times 2} + \dfrac{a} {2} &= 250 \\\\
 \dfrac{4 a} {2} + \dfrac {a} {2}                   &= 250 \\\\
-\dfrac{4 a + a} {2}                                &= 250
+\dfrac{4 a + a} {2}                                &= 250 \\\\
 \dfrac{5a} {2}                                     &= 250 \\\\
 a                                                  &= \dfrac {250 \times 2} {5} \\\\
 a                                                  &= \dfrac {50 \times 5 \times 2} {5} \\\\
@@ -5772,7 +5764,7 @@ $
 2 a + \dfrac{a} {2}                                &= 90 \\\\
 \dfrac {2 a \times 2} {1 \times 2} + \dfrac{a} {2} &= 90 \\\\
 \dfrac{4 a} {2} + \dfrac {a} {2}                   &= 90 \\\\
-\dfrac{4 a + a} {2}                                &= 90
+\dfrac{4 a + a} {2}                                &= 90 \\\\
 \dfrac{5a} {2}                                     &= 90 \\\\
 a                                                  &= \dfrac {90 \times 2} {5} \\\\
 a                                                  &= \dfrac {18 \times 5 \times 2} {5} \\\\
@@ -5816,12 +5808,12 @@ As per the question,
 
 $
 \begin{aligned}
-2 + 2(a ^ 2)                   &= 100 \\\\
+2 + 2(a ^ 2)                    &= 100 \\\\
 2(a ^ 2)                        &= 100 - 2 \\\\
 2(a ^ 2)                        &= 98 \\\\
-a ^ 2                           &= dfrac {98} {2} \\\\
-a ^ 2                           &= dfrac {49 \times 2} {2} \\\\
-a ^ 2                           &= dfrac {49 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2                           &= \dfrac {98} {2} \\\\
+a ^ 2                           &= \dfrac {49 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {49 \times \cancel {2}} {\cancel {2}} \\\\
 a ^ 2                           &= 49 \\\\
 a                               &= \sqrt 49 \\\\
 a                               &= + 7 \ \text{and} \ -7
@@ -9174,17 +9166,23 @@ I think of a number, multiply it by $17$ and then subtract $19$. The result is $
 <div class='workings'>
 <div class='working'>
 
-Let the number i think $=a$
+Let the number I think $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-17a - 19 &= 66 \\\\
-17a      &= 66 + 19 \\\\
+(17 \times a) - 19 &= 66 \\\\
+(17 \times a)      &= 66 + 19 \\\\
 17a      &= 85 \\\\
 a        &= \dfrac {85} {17} \\\\
+a        &= \dfrac {17 \times 5} {17} \\\\
+a        &= \dfrac {\cancel 17 \times 5} {\cancel 17}
 a        &= 5
 \end{aligned}
 $
+
+The number I first thought of $= 5.$
 
 </div>
 </div>
@@ -9213,6 +9211,8 @@ $10 \,\, \times \,\, k \,\, + \,\, 23 = 4 \times \,\, k \,\, +\,\,  35$
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin{aligned}

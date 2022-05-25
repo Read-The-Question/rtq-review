@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-pr"
 title: "Topic - Factor - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -198,7 +198,7 @@ What is the prime factorisation of $56$?
 <div class='workings'>
 <div class='working'>
 
-The prime factorisation of 56 is $2 \times 2 \times 2 \times 7$
+The prime factorisation of 56 $= 2 \times 2 \times 2 \times 7$
 
 </div>
 </div>
@@ -759,7 +759,16 @@ $
 <div class='workings'>
 <div class='working'>
 
-$16, 24, 8$
+First few multiples of 8 are $= 8, \ 16, \ 24, \ 32, \ 40, \ 48, \ 56....$
+
+Therefore,
+
+$
+\begin{matrix}
+\boxed{\green{16}} & 4 & \boxed{\green{24}} & 6 \\\\
+2                                   & 1 & \boxed{\green{8}}  & 30 \\\\
+\end{matrix}
+$
 
 </div>
 </div>

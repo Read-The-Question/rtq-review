@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsubtraction-g1"
 title: "Topic - Subtraction - G1"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1894,6 +1894,53 @@ $3087$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>71E46C1E-EB31-4BC0-814D-006D8DCB4F85</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $3456 - 789$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   3   &   4   &   5   &   6 \\
+{}- &       &   7   &   8   &   9 \\
+\hline
+    &   2   &   6   &   6   &   7
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2667$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

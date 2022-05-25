@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-pr"
 title: "Topic - Fraction - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1006,13 +1006,24 @@ tfraction
 
 Circle the fraction which has a different value from the others:
 
-$\dfrac{6}{9} \qquad \dfrac{2}{3} \qquad \dfrac{18}{27} \qquad \dfrac{7}{10}$
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \dfrac{7} {10}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {7} {10}$
+$\dfrac {6} {9} = \dfrac {2} {3}$
+
+$\dfrac {2} {3} = \dfrac {2} {3}$
+
+$\dfrac {18} {27} = \dfrac {2} {3}$
+
+$\dfrac {7} {10} = \dfrac {7} {10}$
+
+
+Therefore,
+
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
 
 </div>
 </div>
@@ -6844,59 +6855,6 @@ $\dfrac{13}{20}$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down any fraction between $\dfrac{1}{3}$ and $\dfrac{1}{2}$ .
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-& = \dfrac {1} {2}  \bigg ({\dfrac {1} {3} + \dfrac{1} {2} } \bigg) \\\\
-& = \dfrac {1} {2} \bigg (\dfrac {1 \times 2} {3 \times 2} + \dfrac {1 \times 3} {2 \times 3} \bigg) \\\\
-& = \dfrac {1} {2} \bigg (\dfrac {2} {6} + \dfrac {3} {6} \bigg) \\\\
-& = \dfrac {1} {2} \bigg (\dfrac {2 + 3} {6} \bigg) \\\\
-& = \dfrac {1} {2}  \times \dfrac {5} {6} \\\\
-& = \dfrac {5} {12}
-\end{aligned}
-$
-
-The average of  $\dfrac {1} {3}$ and $\dfrac {1} {2} = \dfrac {5} {12}$
-
-So, fraction $\dfrac {5} {12}$ lies between $\dfrac {1} {3}$ and $\dfrac {1} {2}$.     
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {5} {12}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

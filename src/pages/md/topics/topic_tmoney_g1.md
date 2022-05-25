@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-g1"
 title: "Topic - Money - G1"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4977,6 +4977,58 @@ $\pounds 7,\pounds 1,\pounds 1$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>30BCF600-D39C-411C-82F9-AC4685D34425</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the difference between $10\%$ of $\pounds 20$ and $20\%$ of $\pounds 10$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+& = 10\% \ \text {of} \ \pounds 20 - 20\% \ \text {of} \ \pounds 10 \\\\
+& = \dfrac {10} {100} \times 20 - \dfrac {20} {100} \times 10 \\\\     
+& = \dfrac {10 \times 20} {100} - \dfrac {20 \times 10} {100} \\\\
+& = \dfrac {1 \cancel {0} \times 2 \cancel {0}} {1 \cancel {00} } - \dfrac {2 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+& = 2-2 \\\\
+& = 0
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

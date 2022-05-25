@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-pr"
 title: "Topic - Money - PR"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1818,18 +1818,14 @@ Write an expression for how much money she has left after paying the rent.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-\text {Money left}  &= \pounds (300 - X)
-\end {aligned}
-$
+$\text {Money left}  &= \pounds (330 - X) $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds (300 - X)$
+$\text {Money left}  &= \pounds (330 - X) $
 
 </div>
 </div>
@@ -1869,7 +1865,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total cost}  &= \text {Total number of students received a badge} \times \text {cost of each badge} \\\\
+\text {School pays} &= \text {Number of students receiving badge} \times \text {Cost of one badge} \\\\
                     &= 193 \times 6 \\\\
                     &= \pounds 1158
 \end {aligned}
@@ -5097,7 +5093,7 @@ What does $0.65 \ \text{litres}$ of orange juice cost?
 $
 \begin{aligned}
 \text{Total cost} &= 1.45 \times 0.65 \\\\
-                  &= 0.9425
+                  &= \pounds 0.9425
 \end{aligned}
 $
 
@@ -5106,7 +5102,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.9425$
+$\pounds 0.9425$
 
 </div>
 </div>
@@ -5245,8 +5241,8 @@ Calculate the difference between the two prices.
 
 $
 \begin{aligned}
-\text{Difference between prices} &= 23997324 - 4567300 \\\\
-                                 &= 19430024
+\text{Difference between prices} &= 34567300 - 23997324 \\\\
+                                 &= 10569976
 \end{aligned}
 $
 
@@ -5255,7 +5251,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19430024$
+$10569976$
 
 </div>
 </div>
@@ -7695,6 +7691,122 @@ $\pounds 10$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>88771F84-2908-43E4-9380-A12099F3BB56</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ian buys
+
+- $3$ bananas at $12 \text{p}$ per banana
+- $5$ apples at $11 \text{p}$ per apple
+
+If Ian pays with a $\pounds 2$ coin how much change would Ian get? Give your answer in pounds and pence. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Change he will get}                       &= \text{Total money} - (3 \times \text{Cost (Bananas)} + 5 \times \text{Cost (Apples)}) \\\\
+                                                &= \pounds 2 - (3 \times 12 \text{p} + 5 \times 11 \text{p}) \\\\
+                                                &= \pounds 2 - (36 \text{p} + 55 \text{p}) \\\\
+                                                &= \pounds 2 - 91 \text{p} \\\\
+                                                &= \pounds 2 - \pounds \dfrac {91} {100} \\\\
+                                                &= 2 - 0.91 \\\\
+                                                &= \pounds 1.09 \\\\
+                                                &= 1.09 \times 100 \text{p} \\\\
+                                                &= 109 \ \text{pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>F7CB4C96-99C6-4696-913C-ACB1B87877A1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Imogen buys
+
+ 4 star stickers at 15p per sticker
+
+ 7 moon stickers at 16p per sticker
+
+If Imogen pays with a £5 note how much change would Imogen get? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Change he will get}                       &= \text{Total money} - (4 \times \text{Cost (Star)} + 7 \times \text{Cost (Imogen)}) \\\\
+                                                &= \pounds 5 - (4 \times 15 \text{p} + 7 \times 16 \text{p}) \\\\
+                                                &= \pounds 5 - (60 \text{p} + 112 \text{p}) \\\\
+                                                &= \pounds 5 - 172 \text{p} \\\\
+                                                &= \pounds 5 - \pounds \dfrac {172} {100} \\\\
+                                                &= 5 - 1.72 \\\\
+                                                &= \pounds 3.28
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.28$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>FC4F6CFA-9375-4C0E-8FA7-3428B8E1BD56</p>
@@ -7809,9 +7921,16 @@ The museum took a total of $\pounds 600$ in entrance fees one Friday. How many p
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+Total fee collected $= \pounds 600$
+
+Enterance fee per person $= \pounds 1.20$
+
 $
 \begin{aligned}
-\text {Number of people visited on Friday} &= \dfrac {600} {1.20} \\\\
+\text {Number of people visited on Friday} &= \dfrac {\text {Total Fee collected}} {\text {Enterance fee}}\\\\
+                                           &= \dfrac {600} {1.20} \\\\
                                            &= \pounds 500
 \end{aligned}
 $
@@ -10304,58 +10423,6 @@ $\pounds 11$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>30BCF600-D39C-411C-82F9-AC4685D34425</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the difference between $10\%$ of $\pounds 20$ and $20\%$ of $\pounds 10$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-& = 10\% \ \text {of} \ \pounds 20 - 20\% \ \text {of} \ \pounds 10 \\\\
-& = \dfrac {10} {100} \times 20 - \dfrac {20} {100} \times 10 \\\\     
-& = \dfrac {10 \times 20} {100} - \dfrac {20 \times 10} {100} \\\\
-& = \dfrac {1 \cancel {0} \times 2 \cancel {0}} {1 \cancel {00} } - \dfrac {2 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
-& = 2-2 \\\\
-& = 0
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>7891F44B-DBD0-432D-99F6-2DCC4D96B8B3</p>
 </div>
 <div class='topics'>
@@ -10654,7 +10721,7 @@ $
 \begin{aligned}
 \text{Total earning}  &= \text{Barbie earning} + \text{Ken earning} \\\\
                       &= \text{Barbie} + \text{Barbie earning - 700}\\\\
-                      &= \text{23450} + \text{23450 - 700} \\\\      
+                      &= \text{23450} + \text{23450 - 700} \\\\
                       &= 23450 + 22750 \\\\
                       &= \pounds 46200
 \end{aligned}

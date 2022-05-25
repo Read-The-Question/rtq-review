@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-notstarted"
 title: "Topic - Unitprompt - Not Started"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>
@@ -659,64 +659,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>88771F84-2908-43E4-9380-A12099F3BB56</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ian buys
-
-- $3$ bananas at $12 \text{p}$ per banana
-- $5$ apples at $11 \text{p}$ per apple
-
-If Ian pays with a $\pounds 2$ coin how much change would Ian get? Give your answer in pounds and pence. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

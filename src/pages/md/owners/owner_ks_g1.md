@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ks-g1"
 title: "Owner - Kriti Sharma - G1"
-date: 2022-05-24 20:51:04
+date: 2022-05-25 11:28:55
 ---
 <ul class='question default-decimal'>
 <li>

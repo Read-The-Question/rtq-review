@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinequality-g1"
 title: "Topic - Inequality - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>

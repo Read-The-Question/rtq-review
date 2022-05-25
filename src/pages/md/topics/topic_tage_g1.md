@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-g1"
 title: "Topic - Age - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -300,6 +300,211 @@ $47 \ \text {years}$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>3EBB0F49-3BA5-4488-971D-510882EA7B7A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Clara has four brothers.
+
+Sam's age added to Ben's age gives $12$.
+
+The total of Frederick's and Sam's and Ben's ages is $28$.
+
+Mylo's age added to Sam's age gives $20$. 
+
+The total of all the brothers' ages is $39$.
+
+Work out the ages of Clara's brothers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of four brothers $= s, \ b, \ f, m$
+
+As per the question,
+
+$s + b = 12$
+
+$f + s + b = 28$
+
+$m + s = 20$
+
+$f + s + b + m = 39$
+
+$
+\begin{aligned}
+f + s + b + m   &= 39 \\\\
+(f + s + b) + m &= 39 \\\\
+28 + m          &= 39 \\\\
+m               &= 39 - 28 \\\\
+m               &= 11 \ \text{years}
+\end{aligned}
+$
+
+Mylo's age $= 11 \ \text{years}$
+
+$
+\begin{aligned}
+f + s + b + m    &= 39 \\\\
+f + (s + b) + 11 &= 39 \\\\
+f + 12 + 11      &= 39 \\\\
+f + 23           &= 39 \\\\
+f                &= 39 - 23 \\\\
+f                &= 16 \ \text{years}
+\end{aligned}
+$
+
+Frederick's age $= 16 \ \text{years}$
+
+$
+\begin{aligned}
+m + s  &= 20 \\\\
+11 + s &= 20 \\\\
+s      &= 20 - 11 \\\\
+s      &= 9 \ \text{years}
+\end{aligned}
+$
+
+Sam's age $= 9 \ \text{years}$
+
+$
+\begin{aligned}
+s + b &= 12 \\\\
+9 + b &= 12 \\\\
+b     &= 12 - 9 \\\\
+b     &= 3 \ \text{years}
+\end{aligned}
+$
+
+Ben's age $= 3 \ \text{years}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9, \ 3, \ 16, \ 11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>B7C56077-26E4-4AD6-8A1B-F22F480D40B8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+George is $2$ years and $9$ months older than his sister Sophie.
+
+George is $12$ years and $5$ months old.
+
+How old is Sophie?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Sophie's age}  &= 12 \ \text {years} \ 5 \ \text {months} - 2 \ \text {years} \ 9 \ \text {months} \\\\
+                      &= 9 \ \text {years} \ 6 \ \text {months}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \ \text {years} \ 6 \ \text {months}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>CEDD52CF-032F-4A9F-9B45-E9E5151A2F0A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The composer Johann Sebastian Bach lived for $65$ years and $4$ months.
+
+The composer Georg Philipp Telemann lived for $86$ years and $3$ months.
+
+For how much longer did Telemann live than Bach?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Years Telemann lived more than Bach}  &= 86 \ \text {years} \ 3 \ \text {months} - 65 \ \text {years} \ 4 \ \text {months} \\\\
+                                             &= 20 \ \text {years} \ 9 \ \text {months}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text {years} \ 9 \ \text {months}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

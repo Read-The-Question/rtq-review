@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-all"
 title: "Owner - Abhay Kandpal - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5589,23 +5589,23 @@ Let's find the difference between the consecutive terms of the sequence.
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
-\begin{matrix}
-&   \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}  \\
+\begin {matrix}
+&   \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }  \\
 7,  &&    11,  &&  15,  &&   19,  &&   \ldots  &&   \ldots
-\end{matrix}
+\end {matrix}
 $
 
 $
-\begin{aligned}
-\text{Frist missing number}   &= 23 + 4\\\\
-                              &= 27 \\\\
-\text{Second missing number}  &= 27 + 4\\\\
-                              &= 31
-\end{aligned}
+\begin {aligned}
+\text {First missing number}   &= 19 + 4\\\\
+                               &= 23 \\\\
+\text {Second missing number}  &= 23 + 4\\\\
+                               &= 27
+\end {aligned}
 $
 
 </div>
@@ -5613,7 +5613,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7,  \quad 11,  \quad 15,  \quad 19, \quad  \boxed {27}, \quad  \boxed {31}$
+$23, \ 27$
 
 </div>
 </div>
@@ -5642,23 +5642,23 @@ Let's find the difference between the consecutive terms of the sequence.
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
 
 $
-\begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}  \\
+\begin {matrix}
+&   \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }  \\
 96,  &&    48,  &&  24,  &&   12,  &&   \ldots  &&   \ldots
-\end{matrix}
+\end {matrix}
 $
 
 $
-\begin{aligned}
-\text{Frist missing number}   &= 12 \div 2 \\\\
-                              &= 6 \\\\
-\text{Second missing number}  &= 6 \div 2 \\\\
-                              &= 3
-\end{aligned}
+\begin {aligned}
+\text {First missing number}   &= 12 \div 2 \\\\
+                               &= 6 \\\\
+\text {Second missing number}  &= 6 \div 2 \\\\
+                               &= 3
+\end {aligned}
 $
 
 </div>
@@ -5666,7 +5666,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$96, \quad  48, \quad  24, \quad  12, \quad  \boxed {6}, \quad  \boxed {3}$
+$6, \ 3$
 
 </div>
 </div>
@@ -5693,23 +5693,23 @@ $
 Let's find the difference between the consecutive terms of the sequence.
 
 $
-\begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+5)}}
-&&  \footnotesize{\maroonC{(+6)}}  \\
-96,  &&    48,  &&  24,  &&   12,  &&   \ldots  &&   \ldots
-\end{matrix}
+\begin {matrix}
+&   \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+6)} }  \\
+2,  &&    4,  &&  7,  &&   11,  &&   \ldots  &&   \ldots
+\end {matrix}
 $
 
 $
-\begin{aligned}
-\text{Frist missing number}   &= 11 + 5\\\\
-                              &= 16 \\\\
-\text{Second missing number}  &= 16 + 6\\\\
-                              &= 22
-\end{aligned}
+\begin {aligned}
+\text {First missing number}   &= 11 + 5\\\\
+                               &= 16 \\\\
+\text {Second missing number}  &= 16 + 6\\\\
+                               &= 22
+\end {aligned}
 $
 
 </div>
@@ -5717,7 +5717,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2, \quad  4, \quad  7, \quad  11, \quad  \boxed {16}, \quad  \boxed {22}$
+$16, \ 22$
 
 </div>
 </div>
@@ -5763,8 +5763,8 @@ As per the diagram,
 
 $
 \begin {aligned}
-\text {Angle between Line 1 and Line 2}  &= 110 \ \text {degrees} - 50 \ \text {degrees} \\\\
-                                         &= 60 \ \text {degrees}
+\text {Angle}   &= 110 \degree - 50 \degree \\\\
+                &= 60 \degree
 \end {aligned}
 $
 
@@ -5879,11 +5879,12 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Input}  &= \dfrac {36 - 1} {5} \\\\
-               &= \dfrac {35} {5} \\\\
-               &= \dfrac {7 \times 5} {5} \\\\
-               &= \dfrac {7 \times \cancel {5}} {\cancel {5}} \\\\
-               &= 7
+\text {Input} \times 5 + 1  &= 36 \\\\
+\text {Input}               &= \dfrac {36 - 1} {5} \\\\
+                            &= \dfrac {35} {5} \\\\
+                            &= \dfrac {7 \times 5} {5} \\\\
+                            &= \dfrac {7 \times \cancel {5}} {\cancel {5}} \\\\
+                            &= 7
 \end {aligned}
 $
 
@@ -5915,19 +5916,13 @@ Give an example to show that Molly is **WRONG**.
 <div class='workings'>
 <div class='working'>
 
-Let input $= 14$.
+If we input an even number and multiply by $5$ the answer will be an even number but if we add $1$ the result will always be an odd number.
 
-$
-\begin {aligned}
-\text {Output}  &= 14 \times 5 + 1 \\\\
-                &= 60 + 1 \\\\
-                &= 61
-\end {aligned}
-$
+Lets's input $= 4$
 
-Hence, the ouput is an odd number.
+$4 \times 5 + 1 = 21$
 
-So, this shows that Molly is wrong.
+Hence, Molly is WRONG.
 
 </div>
 </div>
@@ -6071,7 +6066,7 @@ tcircle
 </div>
 <div class='question question'>
 
-The fraction **one eighth** is roughly the same as one of these percentages. Put a rung around the best one.
+The fraction **one eighth** is roughly the same as one of these percentages. Put a ring around the best one.
 
 $10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
 
@@ -6082,22 +6077,24 @@ $10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
 $
 \begin {aligned}
 &= \dfrac {1} {8} \ \text {of} \ 100 \\\\
+&= \dfrac {1} {8} \times 100 \\\\
 &= \dfrac {100} {8} \\\\
 &= \dfrac {25 \times 4} {2 \times 4} \\\\
 &= \dfrac {25 \times \cancel {4}} {2 \times \cancel {4}} \\\\
 &= \dfrac {25} {2} \\\\
+&= 12 \dfrac {1} {2} \\\\
 &= 12.5 \%
 \end {aligned}
 $
 
-The Best answer is $= 12 \%$.
+The best answer is $= 12 \%$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12 \ %$
+$12 \%$
 
 </div>
 </div>
@@ -6136,13 +6133,13 @@ As per the question,
 
 $
 \begin {aligned}
-6a - 4  &= 4a + 10 \\\\
-6a - 4a  &= 10 + 4 \\\\
-2a  &= 14 \\\\
-a  &= \dfrac {14} {2} \\\\
-a  &= \dfrac {7 \times 2} {2} \\\\
-a  &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-a  &= 7
+6 \times a - 4  &= 4 \times a + 10 \\\\
+6a - 4a         &= 10 + 4 \\\\
+2a              &= 14 \\\\
+a               &= \dfrac {14} {2} \\\\
+a               &= \dfrac {7 \times 2} {2} \\\\
+a               &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+a               &= 7
 \end {aligned}
 $
 
@@ -6174,7 +6171,7 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tdraw
 </li>
 <li>
 tperimeter
@@ -6220,7 +6217,13 @@ Write the two remaining lengths on the diagram.
 <div class='workings'>
 <div class='working'>
 
-$12 \ \text {cm}, 8 \ \text {cm}$
+$
+\begin {aligned}
+\text {Top missing length}  &= 5 + 2 + 5 \\\\
+                            &= 12 \ \text {cm} \\\\
+\text {Side missing length} &= 8 \ \text {cm}
+\end {aligned}
+$
 
 </div>
 </div>
@@ -6253,8 +6256,8 @@ As per the diagram,
 $
 \begin {aligned}
 \text {Perimeter of the T shape}  &= \text {Sum of all sides} \\\\
-                                  &= 2 \ \text {cm} + (5 + 5 + 2) \ \text {cm} + 2 \ \text {cm} + 5 \ \text {cm} + 8 \ \text {cm} + 2 \ \text {cm} + 8 \ \text {cm} + 5 \ \text {cm} \\\\
-                                  &= 2 + 12 + 30 \\\\
+                                  &= 2 \times 3 + 5 \times 2 + 8 \times 2 + 12 \\\\
+                                  &= 6 + 10 + 16 + 12 \\\\
                                   &= 44 \ \text {cm}
 \end {aligned}
 $
@@ -6289,12 +6292,12 @@ State the units.
 
 As per the diagram,
 
-The T shape can be divided into two rectangles.
+Let's draw a line at the neck of the T shape and make two separate rectangles.
 
 $
 \begin {aligned}
 \text {Area of the T shape}  &= \text {Area of horizontal rectangle} + \text {Area of vertical rectangle} \\\\
-                             &= (12 \ \text {cm} \times 2 \ \text {cm}) + (8 \ \text {am} \times 2 \ \text {cm}) \\\\
+                             &= 12 \times 2 + 2 \times 8 \\\\
                              &= 24 + 16 \\\\
                              &= 40 \ \text {cm} ^ 2
 \end {aligned}
@@ -6375,11 +6378,9 @@ As per the question,
 
 $
 \begin {aligned}
-\pounds 100         &= 120 \ \text {euros} \\\\
-\dfrac {100} {100}  &= \dfrac {120} {100} \\\\
-\pounds 1           &= 1.2 \ \text {euros} \\\\
-500 \times 1        &= 1.2 \times 500 \\\\
-\pounds 500         &= 600 \ \text {euros}
+\pounds 100             &= € 120 \\\\
+\pounds 100 \times 5    &= € 120 \times 5 \\\\
+\pounds 500             &= € 600
 \end {aligned}
 $
 
@@ -6388,7 +6389,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$600 \ \text {euros}$
+$€ 600$
 
 </div>
 </div>
@@ -6409,19 +6410,13 @@ How many pounds would be worth the same as $€300$ (euros)?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+As per the answer above,
 
 $
 \begin {aligned}
-120 \ \text {euros}  &= \pounds 100 \\\\
-1 \times 120         &= 100 \\\\
-1 \ \text {euros}    &= \pounds \dfrac {100} {120} \\\\
-300 \times 1         &= 300 \times \dfrac {100} {120} \\\\
-300                  &= \dfrac {100 \times 300} {120} \\\\
-300                  &= \dfrac {4 \times 25 \times 3 \times 10 \times 10} {3 \times 4 \times 10} \\\\
-300                  &= \dfrac {\cancel {4} \times 25 \times \cancel {3} \times \cancel {10} \times 10} {\cancel {3} \times \cancel {4} \times \cancel {10}} \\\\
-300                  &= 25 \times 10 \\\\
-300 \ \text {euros}  &= \pounds 250
+\pounds 500                 &= € 600 \\\\
+\pounds \dfrac {500} {2}    &= € \dfrac {600} {2} \\\\
+€ 300                       &= \pounds 250
 \end {aligned}
 $
 
@@ -6451,18 +6446,19 @@ Bruno has $\pounds 600$ (pounds). Marie has $€700$ (euros). Decide who has the
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+Let's convert pounds into euros to compare them.
 
-$\pounds 1 = 1.2 \ \text {euros}$.
+As per the above answers,
 
 $
 \begin {aligned}
-600 \times \pounds 1  &= 600 \times 1.2 \ \text {euros} \\\\
-\pounds 600           &= 720 \ \text {euros}
+\pounds 600     &= \pounds 500 + \pounds 100 \\\\
+                &= € 600 + € 120 \\\\
+                &= € 720
 \end {aligned}
 $
 
-Hence, Bruno has $20 \ \text {euros}$ more than Marie.
+Bruno has $€ 720$ and Marie has $€ 700$. Bruno has $€ 20$ more than Marie.
 
 </div>
 </div>
@@ -6674,18 +6670,15 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Fraction of pizza left for Anna}  &= 1 - (\dfrac {1} {5} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {1 \times 2} {5 \times 2} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {2} {10} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {2 + 3} {10}) \\\\
-                                         &= 1 - \dfrac {5} {10} \\\\
-                                         &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {5} {10} \\\\
-                                         &= \dfrac {10} {10} - \dfrac {5} {10} \\\\
-                                         &= \dfrac {10 - 5} {10} \\\\
-                                         &= \dfrac {5} {10} \\\\
-                                         &= \dfrac {5} {5 \times 2} \\\\
-                                         &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
-                                         &= \dfrac {1} {2}
+\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {First friends share} - \text {Second friends share} \\\\
+                                &= 1 - \dfrac {1} {5} - \dfrac {3} {10} \\\\
+                                &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {1 \times 2} {5 \times 2} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10} {10} - \dfrac {2} {10} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10 - 2 - 3} {10} \\\\
+                                &= \dfrac {5} {10} \\\\
+                                &= \dfrac {5} {5 \times 2} \\\\
+                                &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
+                                &= \dfrac {1} {2}
 \end {aligned}
 $
 

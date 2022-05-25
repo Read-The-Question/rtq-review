@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-red"
 title: "Topic - Temperature - Red"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -515,6 +515,140 @@ $-5$
 </ul>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>698F3943-AD9F-4055-A94D-925AE85FB739</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sarah measured the temperature of a beaker of liquid every $10 \ \text{minutes}$ during a science experiment.
+
+She plotted her results on the graph below.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What was the lowest temperature of the beaker?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At what time was the temperature of the beaker $15 \degree \text{C}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10 {:} 30$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 {:} 30$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sarah measured the temperature of the beaker again $4 \ \text{hours}$ and $30 \ \text{minutes}$ after the last reading on the graph.
+
+At what time did she take this measurement?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10 {:} 30$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 {:} 30$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>

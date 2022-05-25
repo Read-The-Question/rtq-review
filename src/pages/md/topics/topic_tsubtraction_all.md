@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsubtraction-all"
 title: "Topic - Subtraction - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4878,7 +4878,7 @@ Aa per the question,
 
 $
 \begin{aligned}
-\text{the difference} &= \text{ present year} - \text{battle year}  \\\\
+\text{The difference} &= \text{ present year} - \text{battle year}  \\\\
 &= 2022 - 1645 \\\\
 &= 377
 \end{aligned}
@@ -4935,7 +4935,7 @@ Ensure to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-          &8   &    9 \ .    &    1           \\
+          &8   &    9 \ .    &    1     &    0 \\
 {}-      &3     &    6 \ .    &    5    &    5 \\
 \hline
          &5   &2     \ .    &    5    &    5
@@ -5169,7 +5169,7 @@ $34$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>CEA1032C-0FBA-4008-BC09-26A366EBB6D8</p>
 </div>
@@ -5211,7 +5211,7 @@ $66$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -6239,7 +6239,7 @@ $1886$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>2CFDBA5C-F4E6-4B3F-8ECD-B497444A1AFA</p>
 </div>
@@ -6281,7 +6281,7 @@ $2745$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -6333,7 +6333,7 @@ $4556$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>33B15D5A-3BDC-406D-95C0-CD40E761277A</p>
 </div>
@@ -6375,7 +6375,7 @@ $1667$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -6427,7 +6427,7 @@ $6359$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>3FC5884C-8C77-4219-9E15-546D62002A8C</p>
 </div>
@@ -6469,7 +6469,7 @@ $1686$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

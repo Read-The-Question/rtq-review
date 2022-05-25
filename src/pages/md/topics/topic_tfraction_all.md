@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-all"
 title: "Topic - Fraction - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5129,18 +5129,15 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Fraction of pizza left for Anna}  &= 1 - (\dfrac {1} {5} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {1 \times 2} {5 \times 2} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {2} {10} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {2 + 3} {10}) \\\\
-                                         &= 1 - \dfrac {5} {10} \\\\
-                                         &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {5} {10} \\\\
-                                         &= \dfrac {10} {10} - \dfrac {5} {10} \\\\
-                                         &= \dfrac {10 - 5} {10} \\\\
-                                         &= \dfrac {5} {10} \\\\
-                                         &= \dfrac {5} {5 \times 2} \\\\
-                                         &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
-                                         &= \dfrac {1} {2}
+\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {First friends share} - \text {Second friends share} \\\\
+                                &= 1 - \dfrac {1} {5} - \dfrac {3} {10} \\\\
+                                &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {1 \times 2} {5 \times 2} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10} {10} - \dfrac {2} {10} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10 - 2 - 3} {10} \\\\
+                                &= \dfrac {5} {10} \\\\
+                                &= \dfrac {5} {5 \times 2} \\\\
+                                &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
+                                &= \dfrac {1} {2}
 \end {aligned}
 $
 
@@ -8340,7 +8337,7 @@ $6 \ \text {pairs}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>EEA0B465-FB0C-45E9-92BF-4CDC84D3237B</p>
 </div>
@@ -8387,16 +8384,20 @@ $\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \dfrac{7} {10}
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {6} {9} = \dfrac {2} {3}$
+$
+\begin{aligned}
+\dfrac {6} {9}      &= \dfrac {2 \times 3} {3 \times 3} \\\\
+                    &= \dfrac {2 \times \cancel {3}} {3 \times \cancel {3}} \\\\
+                    &= \dfrac {2} {3} \\\\
+\dfrac {2} {3}      &= \dfrac {2} {3} \\\\
+\dfrac {18} {27}    &= \dfrac {9 \times 2} {9 \times 3} \\\\
+                    &= \dfrac {\cancel {9} \times 2} {\cancel {9} \times 3} \\\\
+                    &= \dfrac {2} {3} \\\\
+\dfrac {7} {10}     &= \dfrac {7} {10}
+\end{aligned}
+$
 
-$\dfrac {2} {3} = \dfrac {2} {3}$
-
-$\dfrac {18} {27} = \dfrac {2} {3}$
-
-$\dfrac {7} {10} = \dfrac {7} {10}$
-
-
-Therefore,
+Using this we get,
 
 $\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
 
@@ -8428,7 +8429,17 @@ $\dfrac{1}{4} \qquad \dfrac{1}{5} \qquad \dfrac{5}{16} \qquad \dfrac{1}{3}$
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {1} {5}$
+To compare, let's make the denominator of all the fractions equal. 
+
+$
+\begin{aligned}
+&= \dfrac {1} {4}, \qquad \dfrac {1} {5}, \qquad \dfrac {5} {16}, \qquad \dfrac {1} {3} \\\\
+&= \dfrac {1 \times 60} {4 \times 60}, \qquad \dfrac {1 \times 48 } {5 \times 48}, \qquad \dfrac {5 \times 15} {16 \times 15}, \qquad \dfrac {1 \times 80} {3 \times 80} \\\\
+&= \dfrac {60} {240}, \qquad \dfrac {48} {240}, \qquad \dfrac {75} {240}, \qquad \dfrac {80} {240}
+\end{aligned}
+$
+
+The smallest fraction $= \dfrac {48} {240} = \dfrac {1} {5}$.
 
 </div>
 </div>
@@ -8458,14 +8469,24 @@ $\dfrac{2}{3} \qquad \dfrac{7}{9} \qquad \dfrac{17}{27} \qquad \dfrac{1}{2}$
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {1} {2}$
+To compare, let's make the denominator of all the fractions equal. 
+
+$
+\begin{aligned}
+&= \dfrac {2} {3}, \qquad \dfrac {7} {9}, \qquad \dfrac {17} {27}, \qquad \dfrac {1} {2} \\\\
+&= \dfrac {2 \times 18} {3 \times 18}, \qquad \dfrac {7 \times 6} {9 \times 6}, \qquad \dfrac {17 \times 2} {27 \times 2}, \qquad \dfrac {1 \times 27} {2 \times 27} \\\\
+&= \dfrac {36} {54}, \qquad \dfrac {42} {54}, \qquad \dfrac {34} {54}, \qquad \dfrac {27} {54}
+\end{aligned}
+$
+
+The largest fraction $= \dfrac {42} {54} = \dfrac {7} {9}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {2}$
+$\dfrac {7} {9}$
 
 </div>
 </div>
@@ -8477,7 +8498,7 @@ $\dfrac {1} {2}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -19111,7 +19132,7 @@ $\dfrac{19}{10}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>31BD2044-3056-47C9-8E05-88DECA154BCC</p>
 </div>
@@ -19276,7 +19297,7 @@ $\dfrac {35} {33}$
 <p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -19623,7 +19644,7 @@ $2 \ \dfrac {12} {13}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>ECC9C62A-5E83-4FDE-ACA1-1F96AF5CB532</p>
 </div>
@@ -19850,7 +19871,7 @@ $\dfrac {17} {42}$
 <p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -23475,7 +23496,7 @@ $0.125$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>67DF39CD-1E0F-4819-A398-56826AE81698</p>
 </div>
@@ -23584,7 +23605,7 @@ $\dfrac {3} {2}$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -24436,7 +24457,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>E939A9F2-9AF4-43F6-9C5F-9F1C96A47959</p>
 </div>
@@ -24489,7 +24510,7 @@ $\pounds 4$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -29182,7 +29203,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335</p>
 </div>
@@ -29346,7 +29367,7 @@ $2, 24, 72$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -31359,8 +31380,10 @@ $
 \begin{aligned}
 \text{The fraction eaten together} &= \text{cake eaten by Sam} +\text{cake eaten by Alice} \\\\
 &=  \dfrac{1}{4} + \dfrac{2}{5} \\\\
-&=  \dfrac{5 + (2 \times 4)} {20} \\\\
-&= \dfrac{5 + 8} {20} \\\\
+&=  \dfrac{1 \times 5}{4  \times 5} + \dfrac{2 \times 4}{5 \times 4} \\\\
+&=  \dfrac{5}{20} + \dfrac{8}{20} \\\\
+&=  \dfrac{5 + 8} {20} \\\\
+&=  \dfrac{5 + 8} {20} \\\\
 &=  \dfrac{13}{20}
 \end{aligned}
 $
@@ -31629,7 +31652,7 @@ $34$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>E0A78854-701F-451E-8B91-1F4FE8B4DACB</p>
 </div>
@@ -31677,7 +31700,7 @@ $\dfrac {9} {25}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -33361,7 +33384,7 @@ $26$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>10F270FA-3D28-4A29-9359-CFDD5C4FD3D8</p>
 </div>
@@ -33410,7 +33433,17 @@ a fraction which is greater than $1$
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {15} {11}$
+$
+\begin{aligned}
+\dfrac {3} {4}   &= 0.75 \\\\
+\dfrac {5} {8}   &= 0.62 \\\\
+\dfrac {15} {11} &= 1.36 \\\\
+\dfrac {8} {12}  &= 0.66 \\\\
+\dfrac {4} {5}   &= 0.80
+\end{aligned}
+$
+
+$\dfrac {15} {11}$ is greater than $1$.
 
 </div>
 </div>
@@ -33438,7 +33471,13 @@ a fraction equivalent to $80\%$
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {4} {5}$
+$
+\begin{aligned}
+80\%             &= \dfrac {80} {100} \\\\
+                 &= 0.80 \\\\
+\dfrac {4} {5}   &= 0.80
+\end{aligned}
+$
 
 </div>
 </div>
@@ -33466,7 +33505,7 @@ a fraction equivalent to $0.75$
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {3} {4}$
+$\dfrac {3} {4} = 0.75$
 
 </div>
 </div>
@@ -33494,7 +33533,13 @@ a fraction which is not in its simplest form.
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {8} {12}$
+$
+\begin{aligned}
+\dfrac {8} {12}   &= \dfrac {4 \times 2} {4 \times 3} \\\\
+                  &= \dfrac {\cancel{4} \times 2} {\cancel{4} \times 3} \\\\
+                  &= \dfrac {2} {3}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -33513,7 +33558,7 @@ $\dfrac {8} {12}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -35133,7 +35178,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>60E0362E-0258-4F35-9B2E-5F0FF2790CB2</p>
 </div>
@@ -35180,12 +35225,12 @@ $15$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>0B9CBC4C-0737-4261-AD01-92F2DD154827</p>
 </div>
@@ -35229,7 +35274,7 @@ $\dfrac {1} {3}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -37165,7 +37210,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>14F26701-F24D-405B-AE41-7F50EFF71BAB</p>
 </div>
@@ -37210,7 +37255,7 @@ $27$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -38127,7 +38172,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9</p>
 </div>
@@ -38175,7 +38220,7 @@ $81$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -38370,7 +38415,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>4E3F385A-D69B-41D1-A8C0-0B1AB628B01A</p>
 </div>
@@ -38435,7 +38480,7 @@ $150 \ \text {grams}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -38590,7 +38635,7 @@ $1.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>3E354580-E360-40DE-9965-73067BBCFACC</p>
 </div>
@@ -38635,7 +38680,7 @@ $60$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

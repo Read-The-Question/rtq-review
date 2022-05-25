@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-2019-sample-paper-1"
 title: "St Albans School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>St Albans School</h1>
@@ -1914,7 +1914,7 @@ $62$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>EC0547A9-6992-4DE2-92EB-DDD06D7AB2D7</p>
 </div>
@@ -1937,11 +1937,6 @@ Write in the missing numbers.
 
 </div>
 <div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 <div class='working'>
 
 Each number in the sequence is half of the number before. Hence, the sequence would be:
@@ -1983,7 +1978,7 @@ $96, 48, 24, \dfrac {3} {2}, \dfrac {3} {4}$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -2635,7 +2630,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>8FE033E8-4F79-46D5-A1CA-3A68F95E66BB</p>
 </div>
@@ -2757,7 +2752,7 @@ $0.8n, \sqrt {n}, \dfrac {1} {n}$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

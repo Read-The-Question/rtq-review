@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-g1"
 title: "Topic - Time - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -999,6 +999,203 @@ $86400 \ \text {seconds}$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>5E77341D-320F-47AF-AB40-A78DD573EE26</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunit
+</li>
+<li>
+ttime
+</li>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On a long straight country road, there are four villages: Josham, Keston, Langham and Moreton, which are shown in the diagram below.
+
+![missing image](/papers/missing_image.svg)
+
+Distances between the village are shown by the arrows. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the distances from:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Keston to Langham;
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \text {Distance from Josham to Langham} - \text {Distance from Josham to Keston} \\\\ 
+&= 26 - 12 \\\\
+&= 14 \ \text {km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14 \ \text {km}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Langham to Moreton, giving your answer **in metres**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \text {Distance from Keston to Moreton} - \text {Distance from Keston to Josham} \\\\ 
+&= 23 \ \text {km} - 14 \ \text {km} \\\\
+&= 23 \times 1000 \ \text {m} - 14 \times 1000 \ \text {m} \\\\
+&= 23000 - 14000 \\\\
+&= 9000 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9000\ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey would take from Josham to Moreton in hours and minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Distance from Josham to Moreton} &= \text {(Josham to Langham)} + \text {(Langham to Moreton)} \\\\
+                                        &= 26 + 9 \\\\
+                                        &= 35 \ \text {km}
+\end{aligned}
+$
+
+Let's find the time tourist will take to complete the journey.
+
+$
+\begin{aligned}
+\text {Time} &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
+             &= \dfrac {35} {14} \\\\
+             &= 2.5 \\\\
+             &= 2 \ \text {hours} \ 30 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {hours} \ 30 \ \text {minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -2310,6 +2507,124 @@ $8{:}45 \ \text{am}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+taddition
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Lucy takes $2 \ \text{hours}$ and $25 \ \text{minutes}$ to walk up a mountain and 
+$1 \ \text{hour}$ and $45 \ \text{minutes}$ to walk down.
+
+For how long does she walk altogether? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{ Total time taken} &= \text{walk up}  + \text{walk down} \\\\
+&=  2 \ \text{hrs} \ \  25 \ \text{mins} +  1 \ \text{hrs} \ \  45 \ \text{mins}  \\\\
+&=  4 \ \text{hrs} \ \ 10 \ \text{mins} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{hrs} \ \ 10 \ \text{mins}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>98FB3AC6-2728-458B-AA28-1E5EF428AAFB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the obtuse angle between the hands of a clock at $5$ o’clock. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+In the clock from $12$ to $12$ it was $360 \degree$
+
+In the clock from $12$ to $6$ it was $180 \degree$
+
+$
+\begin{aligned}
+\text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
+&= \dfrac{30 \times 6}{6} \\\\
+&=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
+&= 30 \degree \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{So, the obtuse angle for} \  5  \ \text{O'clock} &= 30 \times 5 \\\\
+&=  30 \times 5 \\\\
+&=  150 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>E8BEF82D-E970-4508-A623-9BC202200751</p>
@@ -2353,6 +2668,162 @@ $4 {:} 50 \ \text {pm}$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>F62A204D-13DB-4426-A702-451397983AD5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The second hand of a clock points to the number $2$. After one minute and twenty seconds what number will it be pointing to?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{After one minute and twenty seconds} &= 2 + 1 \ \text{minute} \ 20 \ \text{seconds} \\\\
+                                           &= 2 + 20 \ \text{seconds} \\\\
+                                           &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>E59625D9-2685-424C-B233-E9123F55D6DF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tclock
+</li>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Zac had a $24 \ \text{hour}$ digital clock.
+
+$2\ \text{am}$ is shown as $02{:}00$ and $8.35 \ \text{pm}$ is shown as $20{:}35$.
+
+The numbers glow in the dark.
+
+The numbers are displayed as shown.
+
+![missing image](/papers/missing_image.svg)
+
+What is the time when the glow from the clock is least?    
+
+What is the time when the glow from the clock is greatest?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Least glow $= 11{:}11$
+
+Greatest glow $= 08{:}08$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11{:}11, \ 08{:}08$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>4F56847F-A634-4FDC-8F23-209C7F05F614</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Katy is going to the cinema to see a film that starts at $3.25 \ \text{pm}$ and lasts $108 \ \text{minutes}$.
+
+At what time will the film end?
+
+Write your answer using the $24$-hour clock.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Film will end in}     &= 3.25 + 108 \\\\
+                            &= 15.25 + 108 \\\\
+                            &= 17.13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17.13$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

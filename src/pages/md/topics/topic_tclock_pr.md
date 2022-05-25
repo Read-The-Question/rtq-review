@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-pr"
 title: "Topic - Clock - PR"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -327,66 +327,6 @@ $1440 \degree$
 </ul>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>E59625D9-2685-424C-B233-E9123F55D6DF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-ttime
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Zac had a $24 \ \text{hour}$ digital clock.
-
-$2\ \text{am}$ is shown as $02{:}00$ and $8.35 \ \text{pm}$ is shown as $20{:}35$.
-
-The numbers glow in the dark.
-
-The numbers are displayed as shown.
-
-![missing image](/papers/missing_image.svg)
-
-What is the time when the glow from the clock is least?    
-
-What is the time when the glow from the clock is greatest?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Least glow $= 11{:}11$
-
-Greatest glow $= 08{:}08$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11{:}11, \ 08{:}08$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>

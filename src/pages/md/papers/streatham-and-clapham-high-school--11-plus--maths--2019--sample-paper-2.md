@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>Streatham and Clapham High School</h1>
@@ -73,7 +73,7 @@ $63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>B6324DC0-06C3-45E8-A7CC-C347E7D4ED1A</p>
 </div>
@@ -131,12 +131,12 @@ $0.601$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>42DD1DEA-9421-4D3A-9922-9C450DDF4E3F</p>
 </div>
@@ -196,12 +196,12 @@ $85 \degree$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6</p>
 </div>
@@ -255,7 +255,7 @@ $78\%$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -344,11 +344,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{The cost of} \  11 \  \text{pencils}  &=  \pounds 4.95 \\\\
-\text{The cost of} \ 1  \ \text{pencils}  &=  4.95 \div 11 \\\\
+\text{Cost of} \  11 \  \text{pencils}  &=  \pounds 4.95 \\\\
+\text{Cost of} \ 1  \ \text{pencils}  &=  4.95 \div 11 \\\\
 &=  \dfrac{4.95}{11} \\\\
-&=  0.0.45 \\\\
-\text{The cost of} \  7  \ \text{pencils}  &= 0.0.45 \times 7
+&=  0.45 \\\\
+\text{Cost of} \  7  \ \text{pencils}  &= 0.45 \times 7
 &=  \pounds 3.15
 \end{aligned}
 $
@@ -361,7 +361,7 @@ $
 </div>
 <div class='answer'>
 
-$\pounds 3.156$
+$\pounds 3.15$
 
 </div>
 </div>
@@ -511,7 +511,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>AEBABE3E-F196-4C58-B465-E9AE5604FC6A</p>
 </div>
@@ -565,7 +565,7 @@ $\dfrac{9}{20}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -599,23 +599,21 @@ Area = $49 \ \text{cm}^{2}$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Area of the square} &= 49 \ \text{cm}^2 \\\\
-\text{Perimeter of the square } &= ? \\\\
-\text{ Let's Side of square} &= \text{a} \\\\
-\text{Area of the square} &= \text{a}^2 \\\\
-49 &= \text{a}^2 \\\\
-\text{a}^2 &= 49 \\\\
-\text{a} &= \sqrt{49} \\\\
-\text{a} &= 7\\\\
-\text{The side of square} &= 7 \ \text{cm} \\\\
-\text{hence ,} \\\\
-\text{Perimeter of the square} &= 4 \times \text{a} \\\\
-\text{Perimeter of the square} &= 4 \times 7 \\\\
-\text{Perimeter of the square} &= 28
-\end{aligned}
-$
+
+Area of the square $= 49 \ \text{cm}^2$
+Perimeter of the square  = ?
+Let's Side of square = a
+Area of the square $= \text{a}^2$
+$49 = \text{a}^2$
+$\text{a}^2&= 49$
+$\text{a} = \sqrt{49}$
+$\text{a} = 7$
+The side of square $= 7 \ \text{cm}$
+hence ,
+Perimeter of the square $= 4 \times \text{a}$
+Perimeter of the square $= 4 \times 7$
+Perimeter of the square $= 28$
+
 
 </div>
 </div>
@@ -671,7 +669,7 @@ Ensure to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-          &8   &    9 \ .    &    1           \\
+          &8   &    9 \ .    &    1     &    0 \\
 {}-      &3     &    6 \ .    &    5    &    5 \\
 \hline
          &5   &2     \ .    &    5    &    5
@@ -785,8 +783,8 @@ Find $n$ if $126 \div n = 9$
 $
 \begin{aligned}
 126 \div n &= 9 \\\\
-126 \div n -(9) &= 0 \\\\
-126 \div n - 9 &= 0 \\\\
+\dfrac{126}{n} &= 9 \\\\
+\dfrac{126}{n} -9 &= 0 \\\\
 9 \times n - 126 &= 0 \\\\
 9n - 126 &= 0 \\\\
 9n &= 126 \\\\
@@ -1019,7 +1017,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>6082C51C-48FB-4A15-B156-8BC33B276648</p>
 </div>
@@ -1075,7 +1073,7 @@ $50 \ \text{cm}^{2}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -1113,7 +1111,7 @@ $
 \text{One gram} &= \dfrac{1}{1000} \\\\
 5300 \ \ \text{grams} &= \dfrac{5300}{1000} \\\\
 &= \dfrac{53 \times 100}{1000} \\\\
-&= \dfrac{53 \times \cancel{100}}{10\cancel{0}\cancel{0}} \\\\
+&=  \dfrac{53 \times 1\cancel{00}}{10{\cancel{00}} \\\\
 &= \dfrac{53}{10} \\\\
 5300 \ \ \text{grams} &=5.3 \ \ \text{Kilograms} \\\\
 \end{aligned}
@@ -1167,6 +1165,12 @@ What are the next two numbers in the sequence?
 </div>
 <div class='workings'>
 <div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $- \dfrac{1}{3}$. 
+
+Hence, the sequence would be
 
 $
 \begin{matrix}
@@ -1409,7 +1413,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>C170856E-E8AE-41D4-9721-1CD44BC88A84</p>
 </div>
@@ -1463,7 +1467,7 @@ $576$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -1660,11 +1664,11 @@ $
 \text{Area of the roll wallpaper} &= \text{length} \times \text{breadth} \\\\
 &=10 \times 0.6 \\\\
 &=  6 \ \text{m}^2 \\\\
-\text{We need to cover} \  24 \text{m}^2  \text|{of the wall} &= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}} \\\\
+\text{Number of sheets required} \\\\
 &=  \dfrac{24}{6} \\\\
 &=  \dfrac{4 \times 6}{6} \\\\
 &=  \dfrac{4 \times \cancel 6}{ \cancel 6} \\\\
-&= 4
+&= 4 \ \text{sheets}
 \end{aligned}
 $
 
@@ -1757,7 +1761,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>9223B5BC-2F8C-43A9-8FF7-B370A90FF796</p>
 </div>
@@ -1817,7 +1821,7 @@ $4.272$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -1848,6 +1852,8 @@ Work out the value of $P$ when $a = 3$ and $b = -2$
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question
 
 $
 \begin{aligned}
@@ -2435,8 +2441,8 @@ $
 \text{Perimeter of the square} &=  28 \ \text{cm} \\\\
 4\text{s}                      &= 28 \ \text{cm} \\\\
 \text{s}                       &= \dfrac {28}{4} \\\\ 
-\text{s}                       &= \dfrac {4 \time 7}{4} \\\\ 
-\text{s}                       &= \dfrac {\cancel 4 \time 7}{\cancel 4} \\\\
+\text{s}                       &= \dfrac {4 \times 7}{4} \\\\ 
+\text{s}                       &= \dfrac {\cancel 4 \times 7}{\cancel 4} \\\\
 \text{s}                       &= 7  \ \text{cm}
 \end{aligned}
 $
@@ -2448,7 +2454,7 @@ $
 2 \times (\text{7} +   \text{b} )   &= 16 \\\\
 \text{7} +  \text{b}                &= \dfrac {16}{2} \\\\ 
 \text{7} +  \text{b}                &= \dfrac {2 \times 8}{2} \\\\ 
-\text{7} +  \text{b}                &= \dfrac {\cancel 2 \time 8}{\cancel 2} \\\\
+\text{7} +  \text{b}                &= \dfrac {\cancel 2 \times 8}{\cancel 2} \\\\
 \text{7} +  \text{b}                &= 8 \\\\
 \text{b}                            &= 8 - 7 \\\\
 \text{b}                            &= 1 \ \text{cm}
@@ -2602,7 +2608,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>B4811CE8-001C-4E89-B5D6-B3377D1B9012</p>
 </div>
@@ -2633,24 +2639,37 @@ How many pages can be printed using a large cartridge
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Small ink can print} \ 400 \ \text{pages} \\\\
+\text{Given} \\\\
+3\text{S} &= 2\text{M} \\\\
+\dfrac{3\text{S}}{2} &= \text{M} \\\\
+3\text{M} &= 2\text{L} \\\\
+\text{i.e}  \\\\
+3 ( \dfrac{3\text{S}}{2} ) &= 2\text{L} \\\\
+2\text{L} &= \dfrac{9\text{S}}{2} \\\\
+\text{L}  &= \dfrac{9\text{S}}{2 \times 2} \\\\
+          &= \dfrac{9\text{S}}{4} \\\\
+          &= \dfrac{9\times 400}{4} \\\\
+          &= \dfrac{3600}{4} \\\\
+          &= \dfrac{4 \times 900}{4} \\\\
+          &= \dfrac{\cancel 4 \times 900}{ \cancel 4} \\\\
+          &=  900 \text{pages}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>B</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$900$
 
 </div>
 </div>
@@ -2659,7 +2678,7 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -2752,24 +2771,33 @@ $One third of the bar was left. How many helpers did he have?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+1-\text{x} (\dfrac{1}{12}) &= \dfrac{1}{3} \\\\
+1-(\dfrac{\text{x}}{12}) &= \dfrac{1}{3} \\\\
+\dfrac{\text{x}}{12} &= 1 - \dfrac{1}{3} \\\\
+\dfrac{\text{x}}{12} &=  \dfrac{3-1}{3} \\\\
+\dfrac{\text{x}}{12} &=  \dfrac{2}{3} \\\\
+3 \times\text{x} &= 12 \times 2 \\\\
+3\text{x} &= 24 \\\\
+\text{x} &= \dfrac{24}{3} \\\\
+&= \dfrac{3 \times 8}{3} \\\\
+&= \dfrac{\cancel 3 \times 8}{\cancel 3} \\\\
+\text{x} &= 8
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>B</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$8$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-g1"
 title: "Topic - Decimal - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4632,6 +4632,59 @@ $5.7$
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>CE97FB1F-AA68-41D1-BD54-0147E9CD7F70</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $0.08$ multiplied by $5$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first multiply the numbers ignoring the decimal points
+
+$
+\begin{array}{cccccccccccccc}
+        &   8 \\
+\times  &   5 \\
+\hline
+   4    &   0
+\end{array}
+$
+
+Let's account for the decimal point now.
+
+$= 0.4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

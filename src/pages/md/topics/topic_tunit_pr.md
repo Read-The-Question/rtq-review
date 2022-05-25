@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-pr"
 title: "Topic - Unit - PR"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -559,204 +559,6 @@ $40 \ \text{inches}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>5E77341D-320F-47AF-AB40-A78DD573EE26</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunit
-</li>
-<li>
-ttime
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On a long straight country road, there are four villages: Josham, Keston, Langham and Moreton, which are shown in the diagram below.
-
-![missing image](/papers/missing_image.svg)
-
-Distances between the village are shown by the arrows. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the distances from:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion TODO'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Keston to Langham;
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \text {Distance from Josham to Langham} - \text {Distance from Josham to Keston} \\\\ 
-&= 26 \ \text {km} - 12 \ \text {km} \\\\
-&= 14 \ \text {km}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14 \ \text {km}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Langham to Moreton, giving your answer **in metres**.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \text {Distance from Keston to Moreton} - \text {Distance from Keston to Josham} \\\\ 
-&= 23 \ \text {km} - 14 \ \text {km} \\\\
-&= 9 \ \text {km} \\\\
-&= 9 \times 1000 \ \text {m} \\\\
-&= 9000\ \text {m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9000\ \text {m}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey would take from Josham to Moreton in hours and minutes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Speed $= 14 km.p.h$
-
-$
-\begin{aligned}
-\text {Distance from Josham to Moreton} &= \text {(Josham to Langham)} + \text {(Langham to Moreton)} \\\\
-                                      &= 26 + 9 \\\\
-                                      &= 35 \ \text {km}
-\end{aligned}
-$
-
-Let's find the time tourist will take to complete the journey.
-
-$
-\begin{aligned}
-\text {Time} &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
-             &= \dfrac {35} {14} \\\\
-             &= 2 \ \text {hours}, 30 \ \text {minutes} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \ \text {hours}, 30 \ \text {minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>46713943-D59E-4BE3-ADA0-E5CDEE05B15A</p>
@@ -811,54 +613,6 @@ $7.4 \text{m}$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>CF6BAF33-A5F8-41F9-A140-9829B0BE78AC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-testimate
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of the following distances is the most likely height of the Eiffel Tower in Paris? Circle your answer. 
-
-a) $1250\,m$
-b) 305 feet
-c) 300 metres
-d) 36,000 inches
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$300 \ \text{metres}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$300 \ \text{metres}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -1325,7 +1079,7 @@ $
 \text{One gram} &= \dfrac{1}{1000} \\\\
 5300 \ \ \text{grams} &= \dfrac{5300}{1000} \\\\
 &= \dfrac{53 \times 100}{1000} \\\\
-&= \dfrac{53 \times \cancel{100}}{10\cancel{0}\cancel{0}} \\\\
+&=  \dfrac{53 \times 1\cancel{00}}{10{\cancel{00}} \\\\
 &= \dfrac{53}{10} \\\\
 5300 \ \ \text{grams} &=5.3 \ \ \text{Kilograms} \\\\
 \end{aligned}
@@ -1463,51 +1217,6 @@ $250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>5FFD2F9B-A581-4E18-9166-D2D7F6120C86</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put these distances in order from smallest to largest.
-
-$27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \text{km}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \text{km}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \text{km}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>17995AB1-E22E-4926-84D3-68BD6CB44645</p>
@@ -1619,71 +1328,6 @@ $\text{litres}$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A large barrel contains $3.25 \ \text{litres}$ of water.
-
-Mel fills three $500 \ \text{ml}$ bottles from the barrel.
-
-She uses all of the rest of the water to fill as many $150 \ \text{ml}$ cups as she can.
-
-What is the largest number of cups which Mel could completely fill?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\text {ml}$.
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Largest number of cups Mel could fill}   &= \dfrac {\text {Water in barrel} - \text {Water in bottles}} {\text {Water in a single cup}} \\\\
-                                                &= \dfrac {3.25 \ \text {litres} - 500 \ \text {ml} \times 3} {150 \ \text {ml}} \\\\
-                                                &= \dfrac {3.25 \times 1000 \ \text {ml} - 500 \ \text {ml} \times 3} {150 \ \text {ml}} \\\\
-                                                &= \dfrac {3250 - 500 \times 3} {150} \\\\
-                                                &= \dfrac {3250 - 1500} {150} \\\\
-                                                &= \dfrac {1750} {150} \\\\
-                                                &= 11.67
-\end{aligned}
-$
-
-Largest number of cups Mel can completely fill $= 11$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

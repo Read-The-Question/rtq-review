@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -7045,13 +7045,13 @@ As per the question,
 
 $
 \begin {aligned}
-6a - 4  &= 4a + 10 \\\\
-6a - 4a  &= 10 + 4 \\\\
-2a  &= 14 \\\\
-a  &= \dfrac {14} {2} \\\\
-a  &= \dfrac {7 \times 2} {2} \\\\
-a  &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-a  &= 7
+6 \times a - 4  &= 4 \times a + 10 \\\\
+6a - 4a         &= 10 + 4 \\\\
+2a              &= 14 \\\\
+a               &= \dfrac {14} {2} \\\\
+a               &= \dfrac {7 \times 2} {2} \\\\
+a               &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+a               &= 7
 \end {aligned}
 $
 
@@ -26882,10 +26882,10 @@ As per the diagram,
 $
 \begin{aligned}
 3y - 3              &= 21 \\\\
-3x                  &= 21 + 3 \\\\
-3x                  &= 24 \\\\
-x                   &= \dfrac {24} {3} \\\\
-x                   &= 8
+3y                  &= 21 + 3 \\\\
+3y                  &= 24 \\\\
+y                   &= \dfrac {24} {3} \\\\
+y                   &= 8
 \end{aligned}
 $
 
@@ -26930,13 +26930,13 @@ Martin and Dai divide some sweets between them. There are $65$ sweets, and Marti
 <div class='workings'>
 <div class='working'>
 
-Let number of sweets Martin got $= a$
+Let the number of sweets Martin take $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Sweets (Martin)}                                  &= \text{Total sweets} - \text{Sweets (Dai)} \\\\
+\text{Sweets Martin took}                               &= \text{Total sweets} - \text{Sweets Dai took} \\\\
 a                                                       &= 65 - (a - 7) \\\\
 a                                                       &= 65 - a + 7 \\\\
 a + a                                                   &= 65 + 7 \\\\
@@ -26988,17 +26988,21 @@ In an orchestra there are $60$ children. If $\dfrac {1} {5}$ play the recorder a
 <div class='workings'>
 <div class='working'>
 
+Let's find the number of children playing something else.
+
 $
 \begin{aligned}
-\text{Children (Something else)}              &= \text{Total Children - (Play (Recorder) + Play (Triangle))}  \\\\
-                                              &= 60 - \dfrac {1} {5} \times 60 + 40\% \times 60 \\\\
-                                              &= 60 - \dfrac {1 \times 60} {5} - \dfrac {40 \times 60} {100} \\\\
-                                              &= 60 - \dfrac {5 \times 12} {5} -  \dfrac {40 \times 60} {100} \\\\
-                                              &= 60 - \dfrac {\cancel{5} \times 12} {\cancel{5}}  -\dfrac {4 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-                                              &= 60 - 12 - 24 \\\\
-                                              &= 24
+&= \text{Total children - Playing recorder - Playing triangle}  \\\\
+&= 60 - \dfrac {1} {5} \times 60 - 40\% \times 60 \\\\
+&= 60 - \dfrac {1 \times 60} {5} - \dfrac {40 \times 60} {100} \\\\
+&= 60 - \dfrac {5 \times 12} {5} -  \dfrac {40 \times 60} {100} \\\\
+&= 60 - \dfrac {\cancel{5} \times 12} {\cancel{5}}  -\dfrac {4 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 60 - 12 - 24 \\\\
+&= 24
 \end{aligned}
 $
+
+Number of children playing something else $= 24$
 
 </div>
 </div>
@@ -27019,7 +27023,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B</p>
 </div>
@@ -27141,7 +27145,7 @@ $13$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -31923,7 +31927,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>3E12E5A1-1C9D-490A-A55D-17256F88FBF4</p>
 </div>
@@ -31974,7 +31978,7 @@ $5$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -32361,7 +32365,7 @@ $1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>B0CC5C22-DFC6-468C-A06B-7B4D743851D2</p>
 </div>
@@ -32415,43 +32419,32 @@ In this  triangle angle A  is the   same  as angle B, and   angle C  is twice an
 
 According to question,
 
-angle B = angle A
+angle B $=$ angle A
 
-So, lets take a = A = B
-
-angle C= 2\times B
+angle C $= 2 \times$ angle B
 
 $
 \begin{aligned}
-A + B + C                &=   180\degree \\\\
-2 \times a + 2 \times a  &=   180\degree \\\\
-4a                       &=   180\degree \\\\
-a                        &=   45\degree
+A + B + C                &= 180 \degree \\\\
+A + A + 2A               &= 180 \\\\
+4A                       &= 180 \\\\
+A                        &= \dfrac {180} {4} \\\\
+A                        &= \dfrac {45 \times 4} {4} \\\\
+A                        &= \dfrac {45 \times \cancel {4}} {\cancel {4}} \\\\
+A                        &= 45 \degree
 \end{aligned}
 $
 
-So, angle A = angle B $=45\degree$
+So, angle A $=$ angle B $= 45 \degree$
 
-and angle C, 
-
-$ 
-\begin{aligned}
-2 \times \ \text{angle B}  &=  2 \times 45\degree \\\\
-                           &=  90\degree
-\end{aligned}
-$
+angle C $= 2 \times$ A $= 2 \times 45 = 90 \degree$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$45\degree$
-
-</div>
-<div class='answer'>
-
-$45\degree, 90\degree$
+$45 \degree, 90 \degree$
 
 </div>
 </div>
@@ -32480,10 +32473,10 @@ As per the question,
 
 $
 \begin{aligned}
-a + a + a + 90\degree  &=  360\degree \\\\
-3a                     &=  360\degree - 90\degree \\\\
-3a                     &=  270 \degree \\\\
-a                      &=  90\degree
+x + x + x + 90 \degree  &= 360 \degree \\\\
+3x                      &= 360 \degree - 90 \degree \\\\
+3x                      &= 270 \degree \\\\
+x                       &= 90 \degree
 \end{aligned}
 $
 
@@ -32492,7 +32485,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$90\degree$
+$90 \degree$
 
 </div>
 </div>
@@ -32504,7 +32497,7 @@ $90\degree$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -32577,7 +32570,7 @@ $10 \text{chickens}, 20 \text{cows}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>BE2D8C56-1D9C-4A7F-BA9C-6FF46B0B1C3E</p>
 </div>
@@ -32628,17 +32621,15 @@ As per the question,
 
 $
 \begin{aligned}
-(17 \times a) - 19 &= 66 \\\\
-(17 \times a)      &= 66 + 19 \\\\
-17a      &= 85 \\\\
-a        &= \dfrac {85} {17} \\\\
-a        &= \dfrac {17 \times 5} {17} \\\\
-a        &= \dfrac {\cancel 17 \times 5} {\cancel 17}
-a        &= 5
+(17 \times a) - 19  &= 66 \\\\
+(17 \times a)       &= 66 + 19 \\\\
+17a                 &= 85 \\\\
+a                   &= \dfrac {85} {17} \\\\
+a                   &= \dfrac {17 \times 5} {17} \\\\
+a                   &= \dfrac {\cancel {17} \times 5} {\cancel {17}} \\\\
+a                   &= 5
 \end{aligned}
 $
-
-The number I first thought of $= 5.$
 
 </div>
 </div>
@@ -32697,7 +32688,7 @@ $2$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -32850,14 +32841,18 @@ As per the question,
 
 $
 \begin{aligned}
-( x + 7 ) \times 8  &=  x \times 22 \\\\
-           8x + 56  &=  22x \\\\
-                56  &=  22x - 8x \\\\
-               56   &=  14x \\\\
-                 4  &=  x 
+x \times 22 &= (x + 7) \times 8 \\\\
+        22x &= 8x + 56 \\\\
+   22x - 8x &= 56 \\\\
+        14x &= 56 \\\\
+          x &= \dfrac {56} {14} \\\\
+          x &= \dfrac {14 \times 4} {14} \\\\
+          x &= \dfrac {\cancel {14} \times 4} {\cancel {14}} \\\\
+          x &= 4
 \end{aligned}
 $
 
+x is $4$.
 
 </div>
 </div>
@@ -33182,7 +33177,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>98887762-1849-4F10-9E68-211B94B015A0</p>
 </div>
@@ -33225,7 +33220,7 @@ $4$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -34994,7 +34989,7 @@ $1, 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>42DD1DEA-9421-4D3A-9922-9C450DDF4E3F</p>
 </div>
@@ -35054,7 +35049,7 @@ $85 \degree$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -35087,8 +35082,8 @@ Find $n$ if $126 \div n = 9$
 $
 \begin{aligned}
 126 \div n &= 9 \\\\
-126 \div n -(9) &= 0 \\\\
-126 \div n - 9 &= 0 \\\\
+\dfrac{126}{n} &= 9 \\\\
+\dfrac{126}{n} -9 &= 0 \\\\
 9 \times n - 126 &= 0 \\\\
 9n - 126 &= 0 \\\\
 9n &= 126 \\\\
@@ -35360,11 +35355,11 @@ $
 \text{Area of the roll wallpaper} &= \text{length} \times \text{breadth} \\\\
 &=10 \times 0.6 \\\\
 &=  6 \ \text{m}^2 \\\\
-\text{We need to cover} \  24 \text{m}^2  \text|{of the wall} &= \dfrac{\text{Area of the wall}}{\text{Area of the roll wallpaper}} \\\\
+\text{Number of sheets required} \\\\
 &=  \dfrac{24}{6} \\\\
 &=  \dfrac{4 \times 6}{6} \\\\
 &=  \dfrac{4 \times \cancel 6}{ \cancel 6} \\\\
-&= 4
+&= 4 \ \text{sheets}
 \end{aligned}
 $
 
@@ -35416,6 +35411,8 @@ Work out the value of $P$ when $a = 3$ and $b = -2$
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question
 
 $
 \begin{aligned}
@@ -35507,7 +35504,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>B4811CE8-001C-4E89-B5D6-B3377D1B9012</p>
 </div>
@@ -35538,24 +35535,37 @@ How many pages can be printed using a large cartridge
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Small ink can print} \ 400 \ \text{pages} \\\\
+\text{Given} \\\\
+3\text{S} &= 2\text{M} \\\\
+\dfrac{3\text{S}}{2} &= \text{M} \\\\
+3\text{M} &= 2\text{L} \\\\
+\text{i.e}  \\\\
+3 ( \dfrac{3\text{S}}{2} ) &= 2\text{L} \\\\
+2\text{L} &= \dfrac{9\text{S}}{2} \\\\
+\text{L}  &= \dfrac{9\text{S}}{2 \times 2} \\\\
+          &= \dfrac{9\text{S}}{4} \\\\
+          &= \dfrac{9\times 400}{4} \\\\
+          &= \dfrac{3600}{4} \\\\
+          &= \dfrac{4 \times 900}{4} \\\\
+          &= \dfrac{\cancel 4 \times 900}{ \cancel 4} \\\\
+          &=  900 \text{pages}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>B</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$900$
 
 </div>
 </div>
@@ -35564,7 +35574,7 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -35657,24 +35667,33 @@ $One third of the bar was left. How many helpers did he have?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+1-\text{x} (\dfrac{1}{12}) &= \dfrac{1}{3} \\\\
+1-(\dfrac{\text{x}}{12}) &= \dfrac{1}{3} \\\\
+\dfrac{\text{x}}{12} &= 1 - \dfrac{1}{3} \\\\
+\dfrac{\text{x}}{12} &=  \dfrac{3-1}{3} \\\\
+\dfrac{\text{x}}{12} &=  \dfrac{2}{3} \\\\
+3 \times\text{x} &= 12 \times 2 \\\\
+3\text{x} &= 24 \\\\
+\text{x} &= \dfrac{24}{3} \\\\
+&= \dfrac{3 \times 8}{3} \\\\
+&= \dfrac{\cancel 3 \times 8}{\cancel 3} \\\\
+\text{x} &= 8
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>B</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$8$
 
 </div>
 </div>
@@ -38039,7 +38058,7 @@ $\text {square}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B</p>
 </div>
@@ -38096,12 +38115,18 @@ Work out the width of Farmer Jack’s field.
 <div class='workings'>
 <div class='working'>
 
+Let the width of the field $= a$.
+
+As per the question,
+
 $
 \begin{aligned}
-&= \dfrac {24} {8} \\\\
-&= \dfrac {3 \times 8} {8} \\\\
-&= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
-&= 3 \ \text{m}
+\text {Area of rectangle}  &= \text {length} \times \text {width} \\\\
+24                         &= 8 \times a \\\\
+a                          &= \dfrac {24} {8} \\\\
+a                          &= \dfrac {3 \times 8} {8} \\\\
+a                          &= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
+a                          &= 3 \ \text{m}
 \end{aligned}
 $
 
@@ -38133,9 +38158,10 @@ Work out the perimeter of Farmer Jack’s field.
 
 $
 \begin{aligned}
-&= 2 \times (8 + 3) \\\\
-&= 2 \times 11 \\\\
-&= 22
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+                                 &= 2 \times (8 + 3) \\\\
+                                 &= 2 \times 11 \\\\
+                                 &= 22 \ \text {m}
 \end{aligned}
 $
 
@@ -38144,7 +38170,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$22$
+$22 \ \text {m}$
 
 </div>
 </div>
@@ -38172,14 +38198,16 @@ Work out the length of Farmer Giles’ field.
 <div class='working'>
 
 Let the length $=a$
+
 $
 \begin{aligned}
-20 &= 2 \times (4 + a) \\\\
-20 &= 8 + 2a \\\\
-2a &= 20 - 8 \\\\
-2a &= 12 \\\\
-a  &= \dfrac {12} {2} \\\\
-a  &= 6 
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+20                               &= 2 \times (4 + a) \\\\
+20                               &= 8 + 2a \\\\
+2a                               &= 20 - 8 \\\\
+2a                               &= 12 \\\\
+a                                &= \dfrac {12} {2} \\\\
+a                                &= 6 \ \text {m}
 \end{aligned}
 $
 
@@ -38188,7 +38216,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6$
+$6 \ \text {m}$
 
 </div>
 </div>
@@ -38212,7 +38240,7 @@ Work out the area of Farmer Giles’ field.
 $
 \begin{aligned}
 \text {Area} &= 4 \times 6 \\\\
-             &= 24 \ \text{cm^2}
+             &= 24 \ \text {m} ^ 2
 \end{aligned}
 $
 
@@ -38221,7 +38249,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24 \ \text{cm^2}$
+$24 \ \text {m} ^ 2$
 
 </div>
 </div>
@@ -38269,12 +38297,12 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>BB584CC8-E4D1-425F-88E8-71BF6CB97F97</p>
 </div>
@@ -38325,36 +38353,47 @@ What are the two numbers?
 <div class='workings'>
 <div class='working'>
 
-Let the number $=a$ and $=b$
+Let the number Annie thinks $= a$
+
+Let the number Bradley thinks $= b$
+
+As per the question,
 
 $
-\begin{aligned}
-a - b &= 6 \\\\
-a     &= 6 + b \\\\
+\begin{aligned} 
+a + b      &= 20 \\\\
+a - b      &= 6         
 \end{aligned}
 $
 
-$
-\begin{aligned}
-a + b &= 20 \\\\
-a     &= 20 - b \\\\
-6 + b &= 20 - b \\\\
-b + b &= 20 - 6 \\\\
-2b    &= 14 \\\\
-b     &= 7
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
 
-\end{aligned}
-$
+Subtract the second equation from the first to reduce it to one variable.
 
 $
 \begin{aligned}
-a     &= 6 + b \\\\
-a     &= 6 + 7 \\\\
-a     &= 13
+a + b - (a - b)     &= 20 - 6 \\\\
+a + b -a + b        &= 14 \\\\
+2b                  &= 14 \\\\
+b                   &= \dfrac {14} {2} \\\\
+b                   &= 7
 \end{aligned}
 $
 
+Let's substitute the value of $b$ in one of the initial equations.
 
+$
+\begin{aligned} 
+a + b                          &= 20 \\\\
+a + 7                          &= 20 \\\\
+a                              &= 20 - 7 \\\\
+a                              &= 13
+\end{aligned}
+$
+
+Annie's number $= 13$
+
+Bradley's number $= 7$
 
 </div>
 </div>
@@ -38458,7 +38497,7 @@ $7$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -39400,7 +39439,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>017292F5-B2A1-4C79-85DD-F6BA7E5EF275</p>
 </div>
@@ -39464,7 +39503,7 @@ $\pounds 5.5$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -43124,7 +43163,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB</p>
 </div>
@@ -43184,7 +43223,7 @@ $11$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -43416,7 +43455,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1</p>
 </div>
@@ -43465,12 +43504,12 @@ $52$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>29F24834-5082-45DE-A93E-0937145E16AE</p>
 </div>
@@ -43598,12 +43637,12 @@ $\pounds 3.95$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>376F37EC-1A3D-4857-B11B-3A35720D6E40</p>
 </div>
@@ -43664,7 +43703,7 @@ $24$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -44095,7 +44134,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5</p>
 </div>
@@ -44143,12 +44182,12 @@ $14$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>4E3F385A-D69B-41D1-A8C0-0B1AB628B01A</p>
 </div>
@@ -44213,7 +44252,7 @@ $150 \ \text {grams}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -54894,48 +54933,22 @@ Make a list of all the whole numbers which leave a remainder of $7$ when divided
 <div class='workings'>
 <div class='working'>
 
-Let the whole number which leave a remainder of $7$ when divided into $46$ = $a$
+As per the question,
+The whole number leaves a remainder $7$ when divided into $46$.
 
-As it leaves a remainder $7$, it must be a factor of $46 - 7 = 39$
+As such, the number will be a factor of $= 46 - 7 = 39$
 
 Factors of $39 = {1 , 3 , 13 , 39}$
 
-$1$ leaves no remainder when divided into $46$
+The number has to be greater than $7$ as it  leaves a remainder $7$.
 
-$3$ when divided into $46$ :
+Let's check $13$ and $39$ fulfil the criteria.
 
-$
-\begin{aligned}
-&= \dfrac {46} {3} \\\\
-&= 15 \dfrac {1} {3}
-\end{aligned}
-$
+$= \dfrac {46} {13} = \text{Quotient} \ 3 \ \text{Remainder} \ 7$
 
-$3$ when divided into $46$ leaves a remainder $1$
+$= \dfrac {46} {39} = \text{Quotient} \ 1 \ \text{Remainder} \ 7$
 
-$13$ when divided into $46$ :
-
-$
-\begin{aligned}
-&= \dfrac {46} {13} \\\\
-&= 3 \dfrac {7} {13}
-\end{aligned}
-$
-
-$13$ when divided into $46$ leaves a remainder $7$
-
-$39$ when divided into $46$ :
-
-$
-\begin{aligned}
-&= \dfrac {46} {39} \\\\
-&= 3 \dfrac {7} {39}
-\end{aligned}
-$
-
-$39$ when divided into $46$ leaves a remainder $7$
-
-the whole numbers which leave a remainder of $7$ when divided into $46$ = $13, 39$
+The whole numbers which leave a remainder of $7$ when divided into $46$ = $13$ and $39$
 
 </div>
 </div>
@@ -55003,7 +55016,7 @@ $C = 3n +40$
 </div>
 <div class='question subquestion'>
 
-What is the charge, in $$\pounds $, for a party of $20$ people?
+What is the charge, in $\pounds $, for a party of $20$ people?
 
 </div>
 <div class='workings'>
@@ -55011,18 +55024,14 @@ What is the charge, in $$\pounds $, for a party of $20$ people?
 
 As per the question,
 
-Charge per $n$ people $\pounds C = 3n +40$
-
-Charge per $20$ people $\pounds C = 3 \times 20 +40$
-
 $
 \begin{aligned}
-&= 60 + 40 \\\\
-&= 100
+\text{Charge per n people} \pounds C    &= 3n +40 \\\\
+\text{Charge per 20 people} \pounds C   &= 3 \times 20 +40 \\\\
+                                        &= 60 + 40 \\\\
+                                        &= 100
 \end{aligned}
 $
-
-Charge per $20$ people  = $\pounds 100$
 
 </div>
 </div>
@@ -55056,11 +55065,9 @@ $
                                     &= \dfrac {100} {20} \\\\
                                     &= \dfrac {20 \times 5} {20} \\\\
                                     &= \dfrac {\cancel{20} \times 5} {\cancel{20}} \\\\
-                                    &= 5
+                                    &= \pounds 5
 \end{aligned}
 $
-
-Average cost per person = $5$
 
 </div>
 </div>
@@ -55210,19 +55217,26 @@ Ben wants to buy $17$ small bottles of drink for a party. A shop sells them at: 
 <div class='workings'>
 <div class='working'>
 
-Let the smallest amount of money he needs to pay be $= a$
-
-As per the question,
-
-Smallest amount is achieved only when he buys three packs of 5 bottles and one pack of 2 bottles.
+To spend the smallest amount Ben needs to buy maximum possible pack of 5 bottles.
 
 $
 \begin{aligned}
-a                                       &= 3 \times 60 \text{p} + 2 \times 28 \text{p} \\\\
-a                                       &= 180 + 56 \\\\
-a                                       &= 236 \text{p} \\\\
-a                                       &= \pounds \dfrac {236} {100} \\\\
-a                                       &= \pounds 2.36
+\text{Bottles needed}   &= 17 \\\\
+&= 15 \ \text{bottles} + 2 \ \text{bottles} \\\\
+&= 3 x 5 \ \text{pack} + 1 x 2 \ \text{pack}
+\end{aligned}
+$
+
+Let's calculate the amount of money he needs to spend.
+
+$
+\begin{aligned}
+\text{Smallest amount he spends}        &= 3 \times \text{Cost of 5 packs} + 1 \times \text{Cost of 2 packs} \\\\
+                                        &= 3 \times 60 \text{p} + 1 \times 28 \text{p} \\\\
+                                        &= 180 \text{p} + 28 \text{p} \\\\
+                                        &= 208 \text{p} \\\\
+                                        &= \pounds \dfrac {208} {100} \\\\
+                                        &= \pounds 2.08
 \end{aligned}
 $
 
@@ -55231,7 +55245,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.36$
+$\pounds 2.08$
 
 </div>
 </div>
@@ -55270,7 +55284,7 @@ What number goes in the box?
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be $= a$
+Let the missing number $= a$
 
 As per the question,
 
@@ -55284,6 +55298,8 @@ a                                       &= 24 - 20 \\\\
 a                                       &= 4
 \end{aligned}
 $
+
+The missing number $= 4$
 
 </div>
 </div>

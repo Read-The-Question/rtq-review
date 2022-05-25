@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-9999-sample-paper-2"
 title: "St Albans School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>St Albans School</h1>
@@ -967,7 +967,7 @@ $-1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>AD7DC95D-4C48-4334-802C-9077E25D2E24</p>
 </div>
@@ -1012,18 +1012,17 @@ Complete these calculations
 <div class='workings'>
 <div class='working'>
 
-Let the missing number $=a$
+Let the missing number $= a$
 
 $
 \begin{aligned}
-21 \times 6 + 9 \times 6               &= a \times 6 \\\\
-(21 + 9) \times 6                      &= a \times 6 \\\\
-\dfrac {(21 + 9) \times 6} {\times 6}  &= a \\\\
-21 + 9                                 &= a \\\\
-30                                     &= a
+21 \times 6 + 9 \times 6   &= a \times 6 \\\\
+(21 + 9) \times 6          &= a \times 6 \\\\
+a                          &= \dfrac {(21 + 9) \times 6} {6} \\\\  
+a                          &= \dfrac {30 \times \cancel {6}} {\cancel {6}} \\\\
+a                          &= 30
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -1051,20 +1050,19 @@ $30$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number $=a$ 
+Let the missing number $= a$ 
 
 $
 \begin{aligned}
 17 \times 14 + 16 \times 7                &=  a \times 7 + a \times 7 \\\\
-(17 \times 2 + 16) \times 7               &=  2 \times (a \times 7 )\\\\
-\dfrac {(17 \times 2 + 16) \times 7} {7}  &=  (a \times 2 )\\\\
-17 \times 2 + 16                          &=  2 \times a \\\\
-( 17 + 8 ) \times 2                       &=  2 \times a \\\\
-\dfrac {25 \times 2} {2}                  &=  a \\\\
-25                                        &=  a
+238 + 102                                 &=  7a + 7a \\\\
+14a                                       &=  350 \\\\
+a                                         &= \dfrac {350} {14} \\\\
+a                                         &= \dfrac {14 \times 25} {14} \\\\
+a                                         &= \dfrac {\cancel {14} \times 25} {\cancel {14}} \\\\
+a                                         &= 25
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -1083,7 +1081,7 @@ $25$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -1460,7 +1458,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>A1D15272-7F0D-49A8-960B-75D4D345810F</p>
 </div>
@@ -1483,9 +1481,9 @@ Let the length of the  rectangle (in $\text{cm}$) $= l$
 
 As per the question, the length of the rectangle is twice as its width.
 
-So, the width of the rectangle will  $w=2 \times l$
+So, the width of the rectangle will  $w = \dfrac {l} {2}$
 
-$\text{Area} = \text{length} \times \text{width}$
+$\text{Area} = \text {length} \times \text {width}$
 
 Putting this into an equation, we get,
 
@@ -1498,9 +1496,9 @@ w^2                 &= \dfrac {98} {2} \\\\
 w^2                 &= \dfrac {49 \times 2} {2} \\\\
 w^2                 &= \dfrac {49 \times \cancel {2} } {\cancel {2} } \\\\
 w^2                 &= 49 \\\\
-w^2                 &= 7^2 \\\\
+w                   &= \sqrt {49} \\\\
 w                   &= 7
-\end{aligned}  
+\end{aligned}
 $
 
 $
@@ -1511,12 +1509,14 @@ l    &= 14
 \end{aligned}  
 $
 
+Length $= 14 \ \text {cm}$ and width $= 7 \ \text {cm}$. 
+
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$7, 14$
+$14 \ \text {cm}, 7 \ \text {cm}$
 
 </div>
 </div>
@@ -1525,12 +1525,12 @@ $7, 14$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>B0CC5C22-DFC6-468C-A06B-7B4D743851D2</p>
 </div>
@@ -1584,43 +1584,32 @@ In this  triangle angle A  is the   same  as angle B, and   angle C  is twice an
 
 According to question,
 
-angle B = angle A
+angle B $=$ angle A
 
-So, lets take a = A = B
-
-angle C= 2\times B
+angle C $= 2 \times$ angle B
 
 $
 \begin{aligned}
-A + B + C                &=   180\degree \\\\
-2 \times a + 2 \times a  &=   180\degree \\\\
-4a                       &=   180\degree \\\\
-a                        &=   45\degree
+A + B + C                &= 180 \degree \\\\
+A + A + 2A               &= 180 \\\\
+4A                       &= 180 \\\\
+A                        &= \dfrac {180} {4} \\\\
+A                        &= \dfrac {45 \times 4} {4} \\\\
+A                        &= \dfrac {45 \times \cancel {4}} {\cancel {4}} \\\\
+A                        &= 45 \degree
 \end{aligned}
 $
 
-So, angle A = angle B $=45\degree$
+So, angle A $=$ angle B $= 45 \degree$
 
-and angle C, 
-
-$ 
-\begin{aligned}
-2 \times \ \text{angle B}  &=  2 \times 45\degree \\\\
-                           &=  90\degree
-\end{aligned}
-$
+angle C $= 2 \times$ A $= 2 \times 45 = 90 \degree$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$45\degree$
-
-</div>
-<div class='answer'>
-
-$45\degree, 90\degree$
+$45 \degree, 90 \degree$
 
 </div>
 </div>
@@ -1649,10 +1638,10 @@ As per the question,
 
 $
 \begin{aligned}
-a + a + a + 90\degree  &=  360\degree \\\\
-3a                     &=  360\degree - 90\degree \\\\
-3a                     &=  270 \degree \\\\
-a                      &=  90\degree
+x + x + x + 90 \degree  &= 360 \degree \\\\
+3x                      &= 360 \degree - 90 \degree \\\\
+3x                      &= 270 \degree \\\\
+x                       &= 90 \degree
 \end{aligned}
 $
 
@@ -1661,7 +1650,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$90\degree$
+$90 \degree$
 
 </div>
 </div>
@@ -1673,7 +1662,7 @@ $90\degree$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

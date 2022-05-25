@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-red"
 title: "Topic - Graph - Red"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -480,6 +480,170 @@ $200$
 </ul>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>71AEECED-FE8A-4461-B486-63BD70456190</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a survey, some football fans were asked “Who was England’s best player at the World Cup?”
+The results are shown in the chart below (with the club the player plays for in brackets).
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many fans said Maguire?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In total, how many fans were questioned in the survey?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total fans} &= 23 + 17 + 7 + 5 + 8 + 2 \\\\
+                   &= 62
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$62$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which player is the mode?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$Henderson(Liverpool)$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$Henderson(Liverpool)$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The fans who completed the survey were all pupils at St Anselm’s College. Do you think this is a fair way to do the survey? Explain your answer.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$Yes$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$Yes$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>
@@ -1209,6 +1373,140 @@ $325 \ \text{oranges}$
 </ul>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>698F3943-AD9F-4055-A94D-925AE85FB739</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sarah measured the temperature of a beaker of liquid every $10 \ \text{minutes}$ during a science experiment.
+
+She plotted her results on the graph below.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What was the lowest temperature of the beaker?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At what time was the temperature of the beaker $15 \degree \text{C}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10 {:} 30$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 {:} 30$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sarah measured the temperature of the beaker again $4 \ \text{hours}$ and $30 \ \text{minutes}$ after the last reading on the graph.
+
+At what time did she take this measurement?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10 {:} 30$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 {:} 30$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-pr"
 title: "Topic - Division - PR"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1421,13 +1421,11 @@ $68\:\:\:70\:\:\:43\:\:\:5\:\:\:217$
 <div class='workings'>
 <div class='working'>
 
-As per th divisibility rule of $5$,
+We know, if the last digit of a number is $0$ or $5$ , then the number is divisible by $5$ .
 
-Any number whose unit digit is either $0$ or $5$ is divisible by $5$
+As per the question, 
 
-As per the question,
-
-$70, 5$ are divisible by $5$
+Number divisible by $5 = 70$ and $5$
 
 </div>
 </div>

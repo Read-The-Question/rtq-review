@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-all"
 title: "Topic - Unit - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2313,7 +2313,7 @@ $86400 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>5E77341D-320F-47AF-AB40-A78DD573EE26</p>
 </div>
@@ -2397,7 +2397,7 @@ Keston to Langham;
 $
 \begin{aligned}
 &= \text {Distance from Josham to Langham} - \text {Distance from Josham to Keston} \\\\ 
-&= 26 \ \text {km} - 12 \ \text {km} \\\\
+&= 26 - 12 \\\\
 &= 14 \ \text {km}
 \end{aligned}
 $
@@ -2432,9 +2432,9 @@ $
 \begin{aligned}
 &= \text {Distance from Keston to Moreton} - \text {Distance from Keston to Josham} \\\\ 
 &= 23 \ \text {km} - 14 \ \text {km} \\\\
-&= 9 \ \text {km} \\\\
-&= 9 \times 1000 \ \text {m} \\\\
-&= 9000\ \text {m}
+&= 23 \times 1000 \ \text {m} - 14 \times 1000 \ \text {m} \\\\
+&= 23000 - 14000 \\\\
+&= 9000 \ \text {m}
 \end{aligned}
 $
 
@@ -2469,13 +2469,11 @@ If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey 
 
 As per the question,
 
-Speed $= 14 km.p.h$
-
 $
 \begin{aligned}
 \text {Distance from Josham to Moreton} &= \text {(Josham to Langham)} + \text {(Langham to Moreton)} \\\\
-                                      &= 26 + 9 \\\\
-                                      &= 35 \ \text {km}
+                                        &= 26 + 9 \\\\
+                                        &= 35 \ \text {km}
 \end{aligned}
 $
 
@@ -2485,7 +2483,8 @@ $
 \begin{aligned}
 \text {Time} &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
              &= \dfrac {35} {14} \\\\
-             &= 2 \ \text {hours}, 30 \ \text {minutes} 
+             &= 2.5 \\\\
+             &= 2 \ \text {hours} \ 30 \ \text {minutes}
 \end{aligned}
 $
 
@@ -2494,7 +2493,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \ \text {hours}, 30 \ \text {minutes}$
+$2 \ \text {hours} \ 30 \ \text {minutes}$
 
 </div>
 </div>
@@ -2506,7 +2505,7 @@ $2 \ \text {hours}, 30 \ \text {minutes}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -3972,7 +3971,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>CF6BAF33-A5F8-41F9-A140-9829B0BE78AC</p>
 </div>
@@ -4004,6 +4003,9 @@ $300 \ \text{metres}$
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>c</p>
+</div>
 <div class='answer'>
 
 $300 \ \text{metres}$
@@ -4015,7 +4017,7 @@ $300 \ \text{metres}$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -4856,7 +4858,7 @@ $
 \text{One gram} &= \dfrac{1}{1000} \\\\
 5300 \ \ \text{grams} &= \dfrac{5300}{1000} \\\\
 &= \dfrac{53 \times 100}{1000} \\\\
-&= \dfrac{53 \times \cancel{100}}{10\cancel{0}\cancel{0}} \\\\
+&=  \dfrac{53 \times 1\cancel{00}}{10{\cancel{00}} \\\\
 &= \dfrac{53}{10} \\\\
 5300 \ \ \text{grams} &=5.3 \ \ \text{Kilograms} \\\\
 \end{aligned}
@@ -5251,7 +5253,7 @@ $250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>5FFD2F9B-A581-4E18-9166-D2D7F6120C86</p>
 </div>
@@ -5275,14 +5277,33 @@ $27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \t
 <div class='workings'>
 <div class='working'>
 
-$2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \text{km}$
+It is really important to use the right units in calculations and convert where required.
+
+To compare, let's convert all the units to $\text {km}$. 
+
+$
+\begin{aligned}
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2778 \ \text {m}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad \dfrac {2778} {1000} \ \text {km}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km} \\\\
+\end{aligned}
+$
+
+Let's put them from smallest to largest.
+
+$
+\begin{aligned}
+&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2.778 \ \text {km}, \quad 27.8 \ \text {km} \\\\
+&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.8 \ \text {km}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \text{km}$
+$2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.8 \ \text {km}$
 
 </div>
 </div>
@@ -5291,7 +5312,7 @@ $2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \t
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -5411,7 +5432,7 @@ $\text{litres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB</p>
 </div>
@@ -5471,7 +5492,7 @@ $11$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

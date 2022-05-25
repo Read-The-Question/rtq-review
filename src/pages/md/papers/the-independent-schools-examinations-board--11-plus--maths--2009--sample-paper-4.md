@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-4"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 4"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>The Independent Schools Examinations Board</h1>
@@ -302,7 +302,7 @@ $\text {Thousand}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>AAF50B0C-7B6A-4176-B987-3E6426D91A8E</p>
 </div>
@@ -357,9 +357,9 @@ Write down the mass of one calculator.
 
 $
 \begin{aligned}
-&= \dfrac {1500} {10} \\\\
-&= \dfrac {150\cancel{0}} {1\cancel{0}} \\\\
-&= 150 \ \text{g}
+\text {Mass of one calculator} &= \dfrac {1500} {10} \\\\
+                               &= \dfrac {150\cancel{0}} {1\cancel{0}} \\\\
+                               &= 150 \ \text{g}
 \end{aligned}
 $
 
@@ -415,11 +415,12 @@ What is the total mass of $100$ calculators?
 <div class='workings'>
 <div class='working'>
 
+As per the question mass of ten calculators $= 1500 \ \text{g}$.Using that we get,
+
 $
 \begin{aligned}
-&= \dfrac {1500} {100} \\\\
-&= \dfrac {15\cancel{00}} {1\cancel{00}} \\\\
-&= 15 \ \text{g}
+\text {Mass of 100 calculators} &= 1500 \times 10 \\\\
+                                &= 15000 \ \text{g}
 \end{aligned}
 $
 
@@ -428,7 +429,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15 \ \text{g}$
+$15000 \ \text{g}$
 
 </div>
 </div>
@@ -449,14 +450,19 @@ Write your answer to part (ii) (a) in kilograms.
 <div class='workings'>
 <div class='working'>
 
-$0.15\ \text{kg}, 0.015 \ \text{kg}$
+$
+\begin{aligned}
+&= \dfrac {15 \cancel{000}} {1 \cancel{000}}
+&= 15 \ \text{kg}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.15\ \text{kg}, 0.015 \ \text{kg}$
+$15 \ \text{kg}$
 
 </div>
 </div>
@@ -484,8 +490,8 @@ What is the cost of $10$ calculators?
 
 $
 \begin{aligned}
-&= 5.19 \times 10 \\\\
-&= \pounds 51.9
+\text {cost of 10 calculators} &= 5.19 \times 10 \\\\
+                               &= \pounds 51.9
 \end{aligned}
 $
 
@@ -506,12 +512,12 @@ $\pounds 51.9$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>E8E2954E-2B81-496C-A114-5CD60C19FAC3</p>
 </div>
@@ -558,10 +564,12 @@ How much does she spend?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 1.50 + 0.65 \\\\
-&= \pounds 21.5 
+\text {She spend} &= 1.50 + 0.65 \\\\
+                  &= \pounds 21.5
 \end{aligned}
 $
 
@@ -593,10 +601,12 @@ How much does he pay?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 4 \times 1.90 \\\\
-&= \pounds 7.6
+\text {He pays} &= 4 \times 1.90 \\\\
+                &= \pounds 7.6
 \end{aligned}
 $
 
@@ -628,8 +638,8 @@ How much change does he receive?
 
 $
 \begin{aligned}
-&= 10 - 7.6 \\\\
-&= \pounds 2.4  
+\text {He received} &= 10 - 7.6 \\\\
+                    &= \pounds 2.4  
 \end{aligned}
 $
 
@@ -661,10 +671,16 @@ What is the cost, in pence, of one ice lolly?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= \dfrac {192} {10} \\\\
-&= 19.2 \ \text{p}
+\text {cost of one ice lolly} &= \dfrac {\pounds 1.92} {3} \\\\
+                              &= \dfrac {1.92 \times 100 \ \text {p}} {3} \\\\
+                              &= \dfrac {192} {3} \\\\
+                              &= \dfrac {3 \times 64} {3} \\\\
+                              &= \dfrac {\cancel {3} \times 64} {\cancel {3}} \\\\
+                              &= 64 \ \text {p}
 \end{aligned}
 $
 
@@ -673,7 +689,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19.2 \ \text{p}$
+$64 \ \text {p}$
 
 </div>
 </div>
@@ -688,7 +704,7 @@ $19.2 \ \text{p}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -2542,7 +2558,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>66F9DB99-346C-4805-95D0-3C0EA0A096D8</p>
 </div>
@@ -2553,6 +2569,9 @@ tfactor
 </li>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -2678,14 +2697,21 @@ Write down your answer.
 <div class='workings'>
 <div class='working'>
 
-$56$
+$
+\begin{aligned}
+&= \dfrac {1 + 2 + 4 + 7 + 14 + 28} {2} \\\\
+&= \dfrac {56} {2} \\\\
+&= \dfrac {28 \times \cancel{2}} {\cancel{2}} \\\\
+&= 28
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$56$
+$28$
 
 </div>
 </div>
@@ -2710,14 +2736,22 @@ Find a perfect number which is less than $10$.
 <div class='workings'>
 <div class='working'>
 
-$8$
+$
+\begin{aligned}
+\text {Half of the sum of factors of 6} &= \dfrac {1 + 2 + 3 + 6} {2} \\\\
+                                        &= \dfrac {12} {2} \\\\
+                                        &= \dfrac {2 \times 6} {2} \\\\
+                                        &= \dfrac {\cancel{2} \times 6} {\cancel{2}} \\\\
+                                        &= 6
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8$
+$6$
 
 </div>
 </div>
@@ -2729,7 +2763,7 @@ $8$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>

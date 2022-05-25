@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-all"
 title: "Topic - Infer - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -9557,7 +9557,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>B7C4AE95-752D-4854-B5BC-345B25E83FA1</p>
 </div>
@@ -9803,7 +9803,7 @@ $35\%$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -23400,8 +23400,8 @@ As per the picture,
 
 $
 \begin{aligned}
-\text{Width of the painting}                        &= \text{Total Width} - (2 \times \text{Frame height}) \\\\
-                                                    &= 75 \ \text{cm} - (2 \times 15 \ \text{cm}) \\\\
+\text{Width of the painting}                        &= \text{Total width} - 2 \times \text{Frame height} \\\\
+                                                    &= 75 \ \text{cm} - 2 \times 15 \ \text{cm} \\\\
                                                     &= 75 - 30 \\\\
                                                     &= 45 \ \text{cm}
 \end{aligned}
@@ -23412,8 +23412,8 @@ Let's find the height of the painting.
 
 $
 \begin{aligned}
-\text{Height of the painting}                       &= \text{Total height} - (2 \times \text{Frame height}) \\\\
-                                                    &= 65 \ \text{cm} - (2 \times 15 \ \text{cm}) \\\\
+\text{Height of the painting}                       &= \text{Total height} - 2 \times \text{Frame height} \\\\
+                                                    &= 65 \ \text{cm} - 2 \times 15 \ \text{cm} \\\\
                                                     &= 65 - 30 \\\\
                                                     &= 35 \ \text{cm}
 \end{aligned}
@@ -23444,7 +23444,7 @@ Height $= 35 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>191CD2FA-CE07-4708-99E9-0C5625EFED6C</p>
 </div>
@@ -23595,7 +23595,7 @@ $7 \ \text{or} \ -4$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -28252,7 +28252,7 @@ $123 \, -  (\,  45 \, +  (\,  67 \, - \,  89 ) ) = 100$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>8FE033E8-4F79-46D5-A1CA-3A68F95E66BB</p>
 </div>
@@ -28374,7 +28374,7 @@ $0.8n, \sqrt {n}, \dfrac {1} {n}$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -28560,7 +28560,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>E4E827B3-D0E0-4C37-A152-5F341EC0D264</p>
 </div>
@@ -28584,14 +28584,14 @@ Use the table to answer the following questions
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -28610,9 +28610,13 @@ $12 \,\times \, 65$ = ……………….
 <div class='workings'>
 <div class='working'>
 
+Using the table,
+
 $
 \begin{aligned}
-12 \times 65 &= 650 + 130 \\\\
+12 \times 65 &= (10 + 2) \times 65 \\\\
+             &= (10 \times 65) + (2 \times 65) \\\\
+             &= 650 + 130 \\\\
              &= 780
 \end{aligned}
 $
@@ -28643,9 +28647,13 @@ $20 \, \times \,65$ = ……………….
 <div class='workings'>
 <div class='working'>
 
+Using the table,
+
 $
 \begin{aligned}
-20 \times 65 &= 650 + 650 \\\\
+20 \times 65 &= (10 + 10) \times 65 \\\\
+             &= (10 \times 65) + (10 \times 65) \\\\
+             &= 650 + 650 \\\\
              &= 1300
 \end{aligned}
 $
@@ -28676,12 +28684,16 @@ Use values in the table to work out  $4.55 \, \div \, 6.5$
 <div class='workings'>
 <div class='working'>
 
-As per the table
+As per the table,
 
 $
 \begin{aligned}
-\dfrac {455} {65}   &= 7 \\\\
-\dfrac {4.55} {6.5} &= 0.7 
+455                 &= 65 \times 7 \\\\
+\dfrac {455} {100}  &= \dfrac {65 \times 7} {100} \\\\
+\dfrac {455} {100}  &= \dfrac {65} {10} \times \dfrac {7} {10} \\\\
+4.55                &= 6.5 \times 0.7 \\\\
+\dfrac {4.55} {6.5} &= 0.7 \\\\
+4.55 \div 6.5       &= 0.7
 \end{aligned}
 $
 
@@ -28702,12 +28714,12 @@ $0.7$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>B1E676D4-7DC8-4CF7-B4DE-99AD6CD05D81</p>
 </div>
@@ -28754,7 +28766,7 @@ $5, 10, 9$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -29855,7 +29867,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335</p>
 </div>
@@ -30019,104 +30031,7 @@ $2, 24, 72$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>8BD8C6A9-6A7F-4A9C-95F8-A5F6238FE933</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $27$ students in Miss Calculation’s class. Miss Calculation buys $4$ boxes of chocolates. There are $36$ chocolates in each box. She shares the chocolates out equally among her $27$ students. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many chocolates will each student receive?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many chocolates will be left over?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

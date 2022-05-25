@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-all"
 title: "Topic - Percentageadvance - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -355,7 +355,7 @@ tcircle
 </div>
 <div class='question question'>
 
-The fraction **one eighth** is roughly the same as one of these percentages. Put a rung around the best one.
+The fraction **one eighth** is roughly the same as one of these percentages. Put a ring around the best one.
 
 $10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
 
@@ -366,22 +366,24 @@ $10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
 $
 \begin {aligned}
 &= \dfrac {1} {8} \ \text {of} \ 100 \\\\
+&= \dfrac {1} {8} \times 100 \\\\
 &= \dfrac {100} {8} \\\\
 &= \dfrac {25 \times 4} {2 \times 4} \\\\
 &= \dfrac {25 \times \cancel {4}} {2 \times \cancel {4}} \\\\
 &= \dfrac {25} {2} \\\\
+&= 12 \dfrac {1} {2} \\\\
 &= 12.5 \%
 \end {aligned}
 $
 
-The Best answer is $= 12 \%$.
+The best answer is $= 12 \%$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12 \ %$
+$12 \%$
 
 </div>
 </div>
@@ -2444,7 +2446,7 @@ $610$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>ECC9C62A-5E83-4FDE-ACA1-1F96AF5CB532</p>
 </div>
@@ -2671,7 +2673,7 @@ $\dfrac {17} {42}$
 <p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3487,7 +3489,7 @@ $220$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>B8DCCFD7-123E-4363-91EB-FDD6690FA383</p>
 </div>
@@ -3508,13 +3510,13 @@ In a giant tube of Fruit Pastilles, 20% are orange. If the tube has a total of 8
 
 $
 \begin{aligned}
-&= 85- 20\% \times 85 \\\\
-&= 85 - \dfrac{20}{100} \times 85\\\\
-&= 85 - \dfrac{2\cancel0}{10\cancel0} \times 85\\\\
-&= 85 - \dfrac{2 \times 17 \times 5}{5 \times 2} \\\\
-&= 85 - \dfrac{\cancel2 \times 17 \times \cancel5}{\cancel5 \times \cancel2} \\\\
-&= 85 - 17 \\\\
-&= 68
+\text {Not orange}  &= 85- 20\% \times 85 \\\\
+                    &= 85 - \dfrac {20} {100} \times 85 \\\\
+                    &= 85 - \dfrac {2 \cancel 0} {10 \cancel 0} \times 85 \\\\
+                    &= 85 - \dfrac {2 \times 17 \times 5} {2 \times 5} \\\\
+                    &= 85 - \dfrac {\cancel 2 \times 17 \times \cancel 5} {\cancel 2 \times \cancel 5} \\\\
+                    &= 85 - 17 \\\\
+                    &= 68
 \end{aligned}
 $
 
@@ -3532,7 +3534,7 @@ $68$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -3803,7 +3805,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA</p>
 </div>
@@ -3826,18 +3828,12 @@ How tall will it be if its height increases by $10\%$?
 
 $
 \begin{aligned}
-&= 150 \times  10\% \\\\
-&= 150 \times  \dfrac {10} {100} \\\\
-&= \dfrac {150 \times 10} {100} \\\\
-&= \dfrac {15 \cancel{0} \times 1 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-&= 15
-\end{aligned}
-$
-
-$
-\begin{aligned}
-&= 150 + 15 \\\\
-&= 165
+\text {Height after an increase of 10\%}       &= 150 + 10 \% \ \text {of} \ 150 \\\\
+                                               &= 150 + \dfrac {10} {100} \times 150 \\\\
+                                               &= 150 + \dfrac {10 \times 150} {100} \\\\
+                                               &= 150 + \dfrac {1 \cancel {0} \times 15 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                                               &= 150 + 15 \\\\
+                                               &= 165
 \end{aligned}
 $
 
@@ -3855,12 +3851,12 @@ $165$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>B127C71F-2BCF-48B3-B549-CAE182563C18</p>
 </div>
@@ -3885,12 +3881,14 @@ $
 \begin{aligned}
 \text {Number of blue pens}            &= \text {Total number of pens} - \text {Sum of green and red pen} \\\\
                                        &= 24 - (\dfrac {1} {8} \times 24 + \dfrac {25} {100} \times 24) \\\\
-                                       &= 24 - (3 + \dfrac {1} {4} \times 24) \\\\
+                                       &= 24 - (\dfrac {24} {8} + \dfrac {25 \times 24} {100}) \\\\
+                                       &= 24 - (\dfrac {8 \times 3} {8} + \dfrac {25 \times 4 \times 6} {25 \times 4}) \\\\
+                                       &= 24 - (\dfrac {\cancel {8} \times 3} {\cancel {8}} + \dfrac {\cancel {25} \times \cancel {4} \times 6} {\cancel {25} \times \cancel {4}}) \\\\
                                        &= 24 - (3 + 6) \\\\
                                        &= 24 - 9 \\\\
                                        &= 15 \\\\
 \text {fraction of pens that are blue} &= \dfrac {15} {24} \\\\
-                                       &= \dfrac {\cancel 3 \times 5} {\cancel 3 \times 8} \\\\
+                                       &= \dfrac {\cancel {3} \times 5} {\cancel {3} \times 8} \\\\
                                        &= \dfrac {5} {8}
 \end{aligned}
 $
@@ -3909,7 +3907,7 @@ $\dfrac {5} {8}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>

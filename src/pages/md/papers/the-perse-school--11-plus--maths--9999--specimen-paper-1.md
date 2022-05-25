@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-1"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -1138,48 +1138,22 @@ Make a list of all the whole numbers which leave a remainder of $7$ when divided
 <div class='workings'>
 <div class='working'>
 
-Let the whole number which leave a remainder of $7$ when divided into $46$ = $a$
+As per the question,
+The whole number leaves a remainder $7$ when divided into $46$.
 
-As it leaves a remainder $7$, it must be a factor of $46 - 7 = 39$
+As such, the number will be a factor of $= 46 - 7 = 39$
 
 Factors of $39 = {1 , 3 , 13 , 39}$
 
-$1$ leaves no remainder when divided into $46$
+The number has to be greater than $7$ as it  leaves a remainder $7$.
 
-$3$ when divided into $46$ :
+Let's check $13$ and $39$ fulfil the criteria.
 
-$
-\begin{aligned}
-&= \dfrac {46} {3} \\\\
-&= 15 \dfrac {1} {3}
-\end{aligned}
-$
+$= \dfrac {46} {13} = \text{Quotient} \ 3 \ \text{Remainder} \ 7$
 
-$3$ when divided into $46$ leaves a remainder $1$
+$= \dfrac {46} {39} = \text{Quotient} \ 1 \ \text{Remainder} \ 7$
 
-$13$ when divided into $46$ :
-
-$
-\begin{aligned}
-&= \dfrac {46} {13} \\\\
-&= 3 \dfrac {7} {13}
-\end{aligned}
-$
-
-$13$ when divided into $46$ leaves a remainder $7$
-
-$39$ when divided into $46$ :
-
-$
-\begin{aligned}
-&= \dfrac {46} {39} \\\\
-&= 3 \dfrac {7} {39}
-\end{aligned}
-$
-
-$39$ when divided into $46$ leaves a remainder $7$
-
-the whole numbers which leave a remainder of $7$ when divided into $46$ = $13, 39$
+The whole numbers which leave a remainder of $7$ when divided into $46$ = $13$ and $39$
 
 </div>
 </div>
@@ -1247,7 +1221,7 @@ $C = 3n +40$
 </div>
 <div class='question subquestion'>
 
-What is the charge, in $$\pounds $, for a party of $20$ people?
+What is the charge, in $\pounds $, for a party of $20$ people?
 
 </div>
 <div class='workings'>
@@ -1255,18 +1229,14 @@ What is the charge, in $$\pounds $, for a party of $20$ people?
 
 As per the question,
 
-Charge per $n$ people $\pounds C = 3n +40$
-
-Charge per $20$ people $\pounds C = 3 \times 20 +40$
-
 $
 \begin{aligned}
-&= 60 + 40 \\\\
-&= 100
+\text{Charge per n people} \pounds C    &= 3n +40 \\\\
+\text{Charge per 20 people} \pounds C   &= 3 \times 20 +40 \\\\
+                                        &= 60 + 40 \\\\
+                                        &= 100
 \end{aligned}
 $
-
-Charge per $20$ people  = $\pounds 100$
 
 </div>
 </div>
@@ -1300,11 +1270,9 @@ $
                                     &= \dfrac {100} {20} \\\\
                                     &= \dfrac {20 \times 5} {20} \\\\
                                     &= \dfrac {\cancel{20} \times 5} {\cancel{20}} \\\\
-                                    &= 5
+                                    &= \pounds 5
 \end{aligned}
 $
-
-Average cost per person = $5$
 
 </div>
 </div>
@@ -1922,10 +1890,13 @@ Calculate the shaded area.
 
 As per the question,
 
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
 $
 \begin{aligned}
-\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of PQBT} \\\\
-                                    &= AB \times AD - (PQ \times (PS - BR)) \\\\
+\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
+                                    &= AB \times AD - QB \times QP \\\\
+                                    &= AB \times AD - ((PS - BR) \times QP) \\\\
                                     &= 5 \times 3 - 2 \times (2 - 1) \\\\
                                     &= 15 - 2 \times 1 \\\\
                                     &= 15 - 2 \\\\

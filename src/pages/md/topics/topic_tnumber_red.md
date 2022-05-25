@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-red"
 title: "Topic - Number - Red"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1598,6 +1598,58 @@ $72$
 </ul>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>B1E676D4-7DC8-4CF7-B4DE-99AD6CD05D81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+<li>
+tnumber
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I am thinking of three different, positive, whole numbers.
+
+The mean of my three numbers is 8.
+
+The median of my three numbers is 9.
+
+Write down one possible set of three numbers that my numbers could be. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$5, 10, 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5, 10, 9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>

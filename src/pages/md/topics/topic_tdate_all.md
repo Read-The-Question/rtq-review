@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdate-all"
 title: "Topic - Date - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -603,7 +603,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B101365B-DE62-48DE-89C1-F6C3C78D7692</p>
 </div>
@@ -849,7 +849,7 @@ $49643$
 <p>oundle-school--11-plus--maths--2017--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -882,7 +882,7 @@ Aa per the question,
 
 $
 \begin{aligned}
-\text{the difference} &= \text{ present year} - \text{battle year}  \\\\
+\text{The difference} &= \text{ present year} - \text{battle year}  \\\\
 &= 2022 - 1645 \\\\
 &= 377
 \end{aligned}
@@ -907,7 +907,7 @@ $377$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>9584D5F5-A2A6-4220-9550-009F833ABA09</p>
 </div>
@@ -955,7 +955,7 @@ $\text {Thursday}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

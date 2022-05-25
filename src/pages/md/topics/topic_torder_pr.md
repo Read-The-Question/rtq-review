@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-pr"
 title: "Topic - Order - PR"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1430,7 +1430,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.21> \quad 0.201> \quad 0.021$
+$0.21, \quad 0.201, \quad 0.021$
 
 </div>
 </div>
@@ -1468,9 +1468,9 @@ $3.33, 3.03, 3.3, 3, 3.303$
 $
 \begin{aligned}
 &= 3.33, \quad 3.03, \quad 3.3, \quad 3, \quad 3.303 \\\\
-&= 3.330, \quad 3.030, \quad 3.300, \quad 3.0, \quad 3.303 \\\\
+&= 3.330, \quad 3.030, \quad 3.300, \quad 3, \quad 3.303 \\\\
 &\text{Let's put them in descending order now.} \\\\
-&= 3.330> \quad 3.303> \quad 3.300> \quad 3.030> \quad 3.0 \\\\
+&= 3.330> \quad 3.303> \quad 3.300> \quad 3.030> \quad 3 \\\\
 &= 3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
 \end{aligned}
 $
@@ -1480,7 +1480,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
+3.33, \quad 3.303, \quad 3.3, \quad 3.03, \quad 3
 
 </div>
 </div>
@@ -1518,9 +1518,9 @@ $7.7, 7.77, 7, 7.07, 7.707$
 $
 \begin{aligned}
 &= 7.7, \quad 7.77, \quad 7, \quad 7.07, \quad 7.707 \\\\
-&= 7.700, \quad 7.770, \quad 7.0, \quad 7.070, \quad 7.707 \\\\
+&= 7.700, \quad 7.770, \quad 7, \quad 7.070, \quad 7.707 \\\\
 & \text{Let's put them in descending order now.} \\\\
-&= 7.770> \quad 7.707> \quad 7.700> \quad 7.070> \quad 7.0 \\\\
+&= 7.770> \quad 7.707> \quad 7.700> \quad 7.070> \quad 7 \\\\
 &= 7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7
 \end{aligned}
 $
@@ -1530,7 +1530,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7$
+$7.77, \quad 7.707, \quad 7.7, \quad 7.07, \quad 7$
 
 </div>
 </div>
@@ -1707,54 +1707,6 @@ $\boxed {\dfrac {5} {6}} \quad \boxed {\dfrac {4} {5}} \quad \boxed {70\%} \quad
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>C2E7E458-37BD-4223-A6E9-A4605F41B3BC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the following numbers in order of size, starting with the smallest. 
-
-0.2      $\dfrac {3} {10}$      0.21     $\dfrac {37} {100}$     0.36
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.2  \quad  0.3  \quad    0.21     \quad  0.37  \quad  0.36 \\\\
-&= 0.2  \ \ < \quad  0.21 \ \ < \quad  0.3 \ \ < \quad 0.36 \ \ < \quad 0.37 \\\\
-&= 0.2  \ \ < \quad  0.21 \ \ < \quad  \dfrac {3} {10} \ \ < \quad 0.36 \ \ < \quad \dfrac {37} {100} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.2  \ \ < \quad  0.21 \ \ < \quad  \dfrac {3} {10} \ \ < \quad 0.36 \ \ < \quad \dfrac {37} {100}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -2241,106 +2193,6 @@ $1.023, \quad 1.032, \quad 1.2, \quad 1.203, \quad 1.23, \quad 1.302, \quad 1.32
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>A1BFD844-C8B7-4A6A-94BD-04C9D73F2489</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tmultiplication
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of the numbers $20, 25, 30, 35, 40, 45, 50, 55$ is nearest to the value of $6.9201 \times \sqrt{\smash[b]{26}}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$6.9201$ rounded off to nearest whole number $= 7$
-
-$\sqrt{\smash[b]{26}} \text { is near to} \  \sqrt{\smash[b]{25}}$
-
-$\sqrt{\smash[b]{25}} = 5$
-
-$6.9201 \times \sqrt{\smash[b]{26}}$ is approximately
-
-$=7 \times 5$
-
-$=35$
-
-The number nearest to the value of $6.9201 \times \sqrt{\smash[b]{26}} = 35$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$35$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>EBCA6760-D0CE-4FA4-BA50-308D963A2254</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Arrange the following numbers in order of size starting with the smallest: 
-
-$32.043, 0.099, 1.072, 0.491, 0.5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
@@ -2385,251 +2237,6 @@ $250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520
 
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>2A80FA34-F0A9-442B-8D9F-C536D268522D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here are $5$ number cards:
-
-$\boxed{6} \ \boxed{3} \ \boxed{7} \ \boxed{5} \ \boxed{9}$
- 
-The cards can be put together to form numbers.
-
-For example, the smallest number which could be made using $4$ of the cards is: 
-
-$\boxed{3} \boxed{5} \boxed{6}  \boxed{7}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using all $5$ cards:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion TODO'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-what is the largest possible even number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$97536$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$97536$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-what is the number which is closest to $80000$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$79653$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$79653$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Use exactly $2$ of the cards to make the smallest possible prime number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$27$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Arrange any $4$ of the cards to show a sum below which will give the smallest possible 
-answer.
- 
-$\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ + \ \boxed{\phantom{1}} \ \boxed{\phantom{1}}$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-&= 37 + 59 \\\\
-&= 96
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$96$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>5FFD2F9B-A581-4E18-9166-D2D7F6120C86</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put these distances in order from smallest to largest.
-
-$27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \text{km}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \text{km}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \text{km}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>

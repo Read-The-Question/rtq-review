@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-g1"
 title: "Topic - Fraction - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2596,6 +2596,172 @@ $6 \ \text {pairs}$
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>EEA0B465-FB0C-45E9-92BF-4CDC84D3237B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the fraction which has a different value from the others:
+
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \dfrac{7} {10}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {6} {9}      &= \dfrac {2 \times 3} {3 \times 3} \\\\
+                    &= \dfrac {2 \times \cancel {3}} {3 \times \cancel {3}} \\\\
+                    &= \dfrac {2} {3} \\\\
+\dfrac {2} {3}      &= \dfrac {2} {3} \\\\
+\dfrac {18} {27}    &= \dfrac {9 \times 2} {9 \times 3} \\\\
+                    &= \dfrac {\cancel {9} \times 2} {\cancel {9} \times 3} \\\\
+                    &= \dfrac {2} {3} \\\\
+\dfrac {7} {10}     &= \dfrac {7} {10}
+\end{aligned}
+$
+
+Using this we get,
+
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {10}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the smallest of the following fractions:
+
+$\dfrac{1}{4} \qquad \dfrac{1}{5} \qquad \dfrac{5}{16} \qquad \dfrac{1}{3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, let's make the denominator of all the fractions equal. 
+
+$
+\begin{aligned}
+&= \dfrac {1} {4}, \qquad \dfrac {1} {5}, \qquad \dfrac {5} {16}, \qquad \dfrac {1} {3} \\\\
+&= \dfrac {1 \times 60} {4 \times 60}, \qquad \dfrac {1 \times 48 } {5 \times 48}, \qquad \dfrac {5 \times 15} {16 \times 15}, \qquad \dfrac {1 \times 80} {3 \times 80} \\\\
+&= \dfrac {60} {240}, \qquad \dfrac {48} {240}, \qquad \dfrac {75} {240}, \qquad \dfrac {80} {240}
+\end{aligned}
+$
+
+The smallest fraction $= \dfrac {48} {240} = \dfrac {1} {5}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the largest of the following fractions:
+
+$\dfrac{2}{3} \qquad \dfrac{7}{9} \qquad \dfrac{17}{27} \qquad \dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, let's make the denominator of all the fractions equal. 
+
+$
+\begin{aligned}
+&= \dfrac {2} {3}, \qquad \dfrac {7} {9}, \qquad \dfrac {17} {27}, \qquad \dfrac {1} {2} \\\\
+&= \dfrac {2 \times 18} {3 \times 18}, \qquad \dfrac {7 \times 6} {9 \times 6}, \qquad \dfrac {17 \times 2} {27 \times 2}, \qquad \dfrac {1 \times 27} {2 \times 27} \\\\
+&= \dfrac {36} {54}, \qquad \dfrac {42} {54}, \qquad \dfrac {34} {54}, \qquad \dfrac {27} {54}
+\end{aligned}
+$
+
+The largest fraction $= \dfrac {42} {54} = \dfrac {7} {9}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {9}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -5753,6 +5919,176 @@ $\dfrac{19}{10}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>31BD2044-3056-47C9-8E05-88DECA154BCC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the following: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{7} \times \dfrac{4}{3}$ 
+
+</div>
+
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {21}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{7} - \dfrac{4}{3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {7} - \dfrac {4} {3} \\\\
+&= \dfrac {1 \times 3} {7 \times 3} - \dfrac {4 \times 7} {3 \times 7} \\\\
+&= \dfrac {3} {21} - \dfrac {28} {21} \\\\
+&= \dfrac {3 - 28} {21} \\\\
+&= - \dfrac {25} {21}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- \dfrac {25} {21}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{7} \div \dfrac{4}{3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {7} \div \dfrac {4} {3} \\\\
+&= \dfrac {1} {7} \times \dfrac {3} {4} \\\\
+&= \dfrac {1 \times 3} {7 \times 4} \\\\
+&= \dfrac {3} {28}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {28}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{63}{21} \times \dfrac{35}{99}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {63} {21} \times \dfrac {35} {99} \\\\
+&= \dfrac {63 \times 35} {21 \times 99} \\\\
+&= \dfrac {21 \times 3 \times 35} {21 \times 3 \times 33} \\\\
+&= \dfrac {\cancel {21} \times \cancel {3} \times 35} {\cancel {21} \times \cancel {3} \times 33} \\\\
+&= \dfrac {35} {33}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {35} {33}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
 <p>D3368E54-0CBA-4F01-A1ED-0216CE3E57EE</p>
@@ -5809,6 +6145,238 @@ $\dfrac {5} {9}$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>ECC9C62A-5E83-4FDE-ACA1-1F96AF5CB532</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tpercentageadvance
+</li>
+<li>
+tfraction
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The length of race track A is $3420.4 \ \text{metres}$.
+
+The length of race track B is $74539.7 \ \text{metres}$.
+
+If a car travelled once around each race track, how far would it have travelled, in metres?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total distance} &= 3420.4 + 74539.7 \\\\
+                      &= 77960.1 \ \text{metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$77960.1 \ \text{metres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A lorry can carry $68$ boxes, and each box contains $22$ books.
+
+How many books can the lorry carry?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total books} &= 68 \times 22 \\\\
+                   &= 1496
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1496$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2341 \ \text{litres}$ of water need to be carried in containers that are $21 \ \text{litres}$.
+
+How many containers will be needed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Containers needed} &= \dfrac {2341} {21} \\\\
+                         &= 111.47 \\\\
+                         &= 112
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$112$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Interest is earned at a rate of $13\%$ per year.
+
+How much interest is earned on a starting balance of $\pounds 3058$, deposited for one year?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Interest earned} &= 13 \% \times 3058 \\\\
+                       &= \dfrac {13} {100} \times 3058 \\\\
+                       &= \dfrac {13 \times 3058} {100} \\\\
+                       &= \dfrac {39754} {100} \\\\
+                       &= \pounds 397.54
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 397.54$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Subtract three sevenths from five sixths.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {5} {6} - \dfrac {3} {7} \\\\
+&= \dfrac {5 \times 7} {6 \times 7} - \dfrac {3 \times 6} {7 \times 6} \\\\\
+&= \dfrac {35} {42} - \dfrac {18} {42} \\\\
+&= \dfrac {35 - 18} {42} \\\\
+&= \dfrac {17} {42}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {17} {42}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -7999,6 +8567,120 @@ $0.125$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>67DF39CD-1E0F-4819-A398-56826AE81698</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3}{8}\times\dfrac{1}{4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {8} \times \dfrac {1} {4} \\\\
+&= \dfrac {3 \times 1} {8 \times 4} \\\\
+&= \dfrac {3} {32}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {32}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3}{8}\div\dfrac{1}{4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
+$
+\begin{aligned}
+&= \dfrac {3} {8} \div \dfrac {1} {4} \\\\
+&= \dfrac {3} {8} \times \dfrac {4} {1} \\\\
+&= \dfrac {3 \times 4} {8 \times 1} \\\\
+&= \dfrac {3 \times 4} {2 \times 4} \\\\
+&= \dfrac {3 \times \cancel{4}} {2 \times \cancel{4}} \\\\
+&= \dfrac {3} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>20FFB3B3-D90A-4723-80DE-4B7A60EEC7ED</p>
 </div>
 <div class='topics'>
@@ -8567,6 +9249,64 @@ $
 <div class='answer'>
 
 $7 \dfrac {11} {42}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>E939A9F2-9AF4-43F6-9C5F-9F1C96A47959</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tfraction
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\dfrac{1}{4}$ of $20\%$ of $\dfrac{1}{6}$ of $40\%$ of $\pounds 1200$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {4} \ \text{of} \ 20\% \ \text{of} \ \dfrac {1} {6} \ \text{of} \ 40\% \ \text{of} \ \pounds 1200 \\\\
+&= \dfrac {1} {4} \times 20\% \times \dfrac {1} {6} \times 40\% \times 1200 \\\\
+&= \dfrac {1} {4} \times \dfrac {20} {100} \times \dfrac {1} {6} \times \dfrac {40} {100} \times \dfrac {1200} {1} \\\\
+&= \dfrac {1\times 20 \times 1 \times 40 \times 1200} {4 \times 100 \times 6 \times 100} \\\\
+&= \dfrac {2 \cancel {0} \times 4\cancel {0} \times 12 \cancel {00}} {4 \times 1\cancel {00} \times 6 \times 1\cancel {00}} \\\\
+&= \dfrac {2 \times 4 \times 12} {4 \times 6} \\\\
+&= \dfrac {2 \times 4 \times 2 \times 6} {4 \times 6} \\\\
+&= \dfrac {4 \times \cancel {4} \times \cancel {6}} { \cancel {4} \times \cancel {6}} \\\\
+&= \pounds 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4$
 
 </div>
 </div>
@@ -10823,6 +11563,59 @@ $\dfrac {5} {12}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>E0A78854-701F-451E-8B91-1F4FE8B4DACB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which one of the following fractions is **not** equivalent to $\dfrac{3}{5}$.
+
+$\dfrac{12}{20}, \quad \dfrac{30}{50}, \quad \dfrac{18}{30}, \quad \dfrac{21}{35}, \quad \dfrac{9}{25}, \quad \dfrac{27}{45}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let' reduce the fractions by listing and canceling the common factors.
+
+$
+\begin{aligned}
+\dfrac {12} {20}, \quad \dfrac {30} {50}, \quad \dfrac {18} {30}, \quad \dfrac {21} {35}, \quad \dfrac {9} {25}, \quad \dfrac {27} {45} \\\\
+\dfrac {4 \times 3} {4 \times 5}, \quad \dfrac {30} {50}, \quad \dfrac {6 \times 3} {6 \times 5}, \quad \dfrac {7 \times 3} {7 \times 5}, \quad \dfrac {9} {25}, \quad \dfrac {9 \times 3} {9 \times 5} \\\\
+\dfrac {\cancel {4} \times 3} {\cancel {4} \times 5}, \quad \dfrac {3 \cancel {0}} {5 \cancel {0}} , \quad \dfrac {\cancel {6} \times 3} {\cancel {6} \times 5}, \quad \dfrac {\cancel {7} \times 3} {\cancel {7} \times 5}, \quad \dfrac {9} {25}, \quad \dfrac {\cancel {9} \times 3} {\cancel {9} \times 5} \\\\
+\dfrac {3} {5}, \quad \dfrac {3} {5} , \quad \dfrac {3} {5}, \quad \dfrac {3} {5}, \quad \dfrac {9} {25}, \quad \dfrac {3} {5}
+\end{aligned}
+$
+
+The fractions that is **not** equivalent to $\dfrac {3} {5}$ is $= \dfrac {9} {25}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {9} {25}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>94F6515A-3D31-4CC3-B8C6-9C2867CCD37D</p>
@@ -10968,6 +11761,185 @@ $6$
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>10F270FA-3D28-4A29-9359-CFDD5C4FD3D8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a list of fractions:
+
+$\dfrac{3}{4} \quad \dfrac{5}{8} \quad \dfrac{15}{11} \quad \dfrac{8}{12} \quad \dfrac{4}{5}$
+
+Choose from the list: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+a fraction which is greater than $1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {3} {4}   &= 0.75 \\\\
+\dfrac {5} {8}   &= 0.62 \\\\
+\dfrac {15} {11} &= 1.36 \\\\
+\dfrac {8} {12}  &= 0.66 \\\\
+\dfrac {4} {5}   &= 0.80
+\end{aligned}
+$
+
+$\dfrac {15} {11}$ is greater than $1$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {15} {11}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+a fraction equivalent to $80\%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+80\%             &= \dfrac {80} {100} \\\\
+                 &= 0.80 \\\\
+\dfrac {4} {5}   &= 0.80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+a fraction equivalent to $0.75$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {3} {4} = 0.75$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+a fraction which is not in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {8} {12}   &= \dfrac {4 \times 2} {4 \times 3} \\\\
+                  &= \dfrac {\cancel{4} \times 2} {\cancel{4} \times 3} \\\\
+                  &= \dfrac {2} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {8} {12}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -11281,6 +12253,330 @@ $\dfrac {3} {4}$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>60E0362E-0258-4F35-9B2E-5F0FF2790CB2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $24$ children in Alfie's class. Five eighths of the class have school lunch. How many children have school lunch?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of children that have school lunch} &= \dfrac {5} {8} \times 24 \\\\
+                                                  &= \dfrac {5 \times 24} {8} \\\\
+                                                  &= \dfrac {5 \times 3 \times 8} {8} \\\\
+                                                  &= \dfrac {5 \times 3 \times \cancel {8}} {\cancel {8}} \\\\
+                                                  &= 5 \times 3 \\\\
+                                                  &= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>0B9CBC4C-0737-4261-AD01-92F2DD154827</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of the parallelogram below is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {8} {24} \\\\
+&= \dfrac {8} {8 \times 3} \\\\
+&= \dfrac {\cancel {8}} {\cancel {8} \times 3} \\\\
+&= \dfrac {1} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>14F26701-F24D-405B-AE41-7F50EFF71BAB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{3}{5}$ of $45$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  \dfrac {3} {5} \ \text {of} \ 45 \\\\
+&=  \dfrac {3} {5} \times 45 \\\\
+&=  \dfrac {3 \times 45} {5} \\\\
+&=  \dfrac {3 \times 9 \times 5} {5} \\\\
+&=  \dfrac {3 \times 9 \times \cancel {5}} {\cancel {5}} \\\\
+&=  3 \times 9 \\\\
+&=  27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A third of a certain number is $27$.
+
+What is the number? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {one third of} \ a &= 27 \\\\
+\dfrac {1} {3} \times a  &= 27 \\\\
+a                        &= 27 \times 3 \\\\
+a                        &= 81
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>4E3F385A-D69B-41D1-A8C0-0B1AB628B01A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Belinda ate $\dfrac{3}{5}$ of a bar of chocolate.
+
+$60 \ \text{grams}$ of chocolate remained.
+
+What was the original mass of the chocolate bar?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the original mass of the chocolate bar $= a \ \text {grams}$.
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3} {5} \ \text {of} \ a + 60                    &= a \\\\
+\dfrac {3} {5} \times a + 60                            &= a \\\\
+\dfrac {3 a} {5} + 60                                   &= a \\\\
+a - \dfrac {3 a} {5}                                    &= 60 \\\\
+\dfrac {a \times 5} {1 \times 5} - \dfrac {3 a} {5}     &= 60 \\\\
+\dfrac {5 a} {5} - \dfrac {3 a} {5}                     &= 60 \\\\
+\dfrac {5 a - 3 a} {5}                                  &= 60 \\\\
+\dfrac {2 a} {5}                                        &= 60 \\\\
+a                                                       &= 60 \times \dfrac {5} {2} \\\\
+a                                                       &= \dfrac {60 \times 5} {2} \\\\
+a                                                       &= \dfrac {2 \times 30 \times 5} {2} \\\\\
+a                                                       &= \dfrac {\cancel {2} \times 30 \times 5} {\cancel {2}} \\\\
+a                                                       &= 30 \times 5 \\\\
+a                                                       &= 150 \ \text {grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \ \text {grams}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>3E354580-E360-40DE-9965-73067BBCFACC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{5}{7}$ of $84$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  \dfrac {5} {7} \ \text {of} \ 84 \\\\
+&=  \dfrac {5} {7} \times 84 \\\\
+&=  \dfrac {5 \times 84} {7} \\\\
+&=  \dfrac {5 \times 12 \times 7} {7} \\\\
+&=  \dfrac {5 \times 12 \times \cancel {7}} {\cancel {7}} \\\\
+&=  5 \times 12 \\\\
+&=  60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-all"
 title: "Topic - Sequence - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3731,23 +3731,23 @@ Let's find the difference between the consecutive terms of the sequence.
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
-\begin{matrix}
-&   \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}  \\
+\begin {matrix}
+&   \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }  \\
 7,  &&    11,  &&  15,  &&   19,  &&   \ldots  &&   \ldots
-\end{matrix}
+\end {matrix}
 $
 
 $
-\begin{aligned}
-\text{Frist missing number}   &= 23 + 4\\\\
-                              &= 27 \\\\
-\text{Second missing number}  &= 27 + 4\\\\
-                              &= 31
-\end{aligned}
+\begin {aligned}
+\text {First missing number}   &= 19 + 4\\\\
+                               &= 23 \\\\
+\text {Second missing number}  &= 23 + 4\\\\
+                               &= 27
+\end {aligned}
 $
 
 </div>
@@ -3755,7 +3755,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7,  \quad 11,  \quad 15,  \quad 19, \quad  \boxed {27}, \quad  \boxed {31}$
+$23, \ 27$
 
 </div>
 </div>
@@ -3784,23 +3784,23 @@ Let's find the difference between the consecutive terms of the sequence.
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
 
 $
-\begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}  \\
+\begin {matrix}
+&   \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }  \\
 96,  &&    48,  &&  24,  &&   12,  &&   \ldots  &&   \ldots
-\end{matrix}
+\end {matrix}
 $
 
 $
-\begin{aligned}
-\text{Frist missing number}   &= 12 \div 2 \\\\
-                              &= 6 \\\\
-\text{Second missing number}  &= 6 \div 2 \\\\
-                              &= 3
-\end{aligned}
+\begin {aligned}
+\text {First missing number}   &= 12 \div 2 \\\\
+                               &= 6 \\\\
+\text {Second missing number}  &= 6 \div 2 \\\\
+                               &= 3
+\end {aligned}
 $
 
 </div>
@@ -3808,7 +3808,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$96, \quad  48, \quad  24, \quad  12, \quad  \boxed {6}, \quad  \boxed {3}$
+$6, \ 3$
 
 </div>
 </div>
@@ -3835,23 +3835,23 @@ $
 Let's find the difference between the consecutive terms of the sequence.
 
 $
-\begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+5)}}
-&&  \footnotesize{\maroonC{(+6)}}  \\
-96,  &&    48,  &&  24,  &&   12,  &&   \ldots  &&   \ldots
-\end{matrix}
+\begin {matrix}
+&   \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+6)} }  \\
+2,  &&    4,  &&  7,  &&   11,  &&   \ldots  &&   \ldots
+\end {matrix}
 $
 
 $
-\begin{aligned}
-\text{Frist missing number}   &= 11 + 5\\\\
-                              &= 16 \\\\
-\text{Second missing number}  &= 16 + 6\\\\
-                              &= 22
-\end{aligned}
+\begin {aligned}
+\text {First missing number}   &= 11 + 5\\\\
+                               &= 16 \\\\
+\text {Second missing number}  &= 16 + 6\\\\
+                               &= 22
+\end {aligned}
 $
 
 </div>
@@ -3859,7 +3859,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2, \quad  4, \quad  7, \quad  11, \quad  \boxed {16}, \quad  \boxed {22}$
+$16, \ 22$
 
 </div>
 </div>
@@ -19430,7 +19430,7 @@ $
 &&  \footnotesize{\maroonC{(+6)}}
 &&  \footnotesize{\maroonC{(+6)}}
 &&  \footnotesize{\maroonC{(+6)}} \\
-3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33 \ldots
+3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33,  && \ldots
 \end{matrix}
 $
 
@@ -19476,7 +19476,7 @@ $
 &&  \footnotesize{\maroonC{(+7)}}   
 &&  \footnotesize{\maroonC{(+9)}}
 &&  \footnotesize{\maroonC{(+11)}} \\
-2,  &&    5,  &&  10,  &&   17,  &&   26 \ldots
+2,  &&    5,  &&  10,  &&   17,  &&   26, && \ldots
 \end{matrix}
 $
 
@@ -19524,7 +19524,7 @@ $
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}   
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  \\
-1000,  &&    900,  &&  810,  &&   730,  &&   660, \ldots
+1000,  &&    900,  &&  810,  &&   730,  &&   660, && \ldots
 \end{matrix}
 $
 
@@ -20503,7 +20503,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>EC0547A9-6992-4DE2-92EB-DDD06D7AB2D7</p>
 </div>
@@ -20526,11 +20526,6 @@ Write in the missing numbers.
 
 </div>
 <div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 <div class='working'>
 
 Each number in the sequence is half of the number before. Hence, the sequence would be:
@@ -20572,7 +20567,7 @@ $96, 48, 24, \dfrac {3} {2}, \dfrac {3} {4}$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -20978,7 +20973,7 @@ $1 \,\,\,\,\, 3 \,\,\,\,\, 9 \,\,\,\,\, 27 \,\,\,\,\, 81$  ... ...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+The next term is calculated by multiplying the previous sequence by 3. Hence the sequence would be:
 
 $
 \begin{matrix}
@@ -21090,17 +21085,17 @@ $1 \,\,\,\,\, 1 \,\,\,\,\, 2 \,\,\,\,\, 3 \,\,\,\,\, 5 \,\,\,\,\, 8$  …  …
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The next term is calculated by adding the previous sequence difference by 1. Hence, the sequence would be:
+The next term is calculated by adding the previous two numbers in sequence. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{ \red { (+0) } } 
 &&  \footnotesize{ \red { (+1) } }  
+&&  \footnotesize{ \red { (+1) } }   
 &&  \footnotesize{ \red { (+2) } }   
-&&  \footnotesize{ \red { (+3) } }   
-&&  \footnotesize{ \red { (+4) } }
+&&  \footnotesize{ \red { (+3) } }
 &&  \footnotesize{ \red { (+5) } } 
-&&  \footnotesize{ \red { (+6) } } \\
+&&  \footnotesize{ \red { (+8) } } \\
 1,  &&    1,  &&  2,  &&   3,  &&   5,  &&   8, 	&&	\ldots, && \ldots 
 \end{matrix}
 $
@@ -21114,8 +21109,8 @@ $
 
 $
 \begin{aligned}
-\text{Second missing number}   &= 13+6 \\\\
-                               &= 19
+\text{Second missing number}   &= 13+8 \\\\
+                               &= 21
 \end{aligned}
 $
 
@@ -21124,7 +21119,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$13, 19$
+$13, 21$
 
 </div>
 </div>
@@ -21658,7 +21653,7 @@ $\dfrac {1} {16}, \quad \dfrac {1} {64}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>6BA7D9CC-3F62-4216-8E18-9D460E0DF11D</p>
 </div>
@@ -21707,29 +21702,28 @@ The difference between the terms is $\times{2}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize { \red { (\times {2} ) } } 
-&&  \footnotesize { \red { (\times {2} ) } }  
-&&  \footnotesize { \red { (\times {2} ) } }   
-&&  \footnotesize { \red { (\times {2} ) } }   
+&   \footnotesize { \red { (\times {2} ) } }
+&&  \footnotesize { \red { (\times {2} ) } }
+&&  \footnotesize { \red { (\times {2} ) } }
+&&  \footnotesize { \red { (\times {2} ) } }
 &&  \footnotesize { \red { (\times {2} ) } } \\
-3,  &&    6,  &&  12,  &&   24,  &&   48,  && \ldots, && \ldots 
+3,  &&    6,  &&  12,  &&   24,  &&   48,  && \ldots, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing first number}   &= 48 \times{2}\\\\
-                              &= 96
+\text {Missing first number}   &= 48 \times {2} \\\\
+                               &= 96
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Missing second number}   &= 96 \times{2}\\\\
-                               &= 192
+\text {Missing second number}   &= 96 \times {2} \\\\
+                                &= 192
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -21757,29 +21751,28 @@ $58\:\:\:   57\:\:\:   55\:\:\:   52\:\:\:  48$
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{matrix}
-&   \footnotesize{ \red { (-1) } } 
-&&  \footnotesize{ \red { (-2) } }  
-&&  \footnotesize{ \red { (-3) } }   
-&&  \footnotesize{ \red { (-4) } }   
+&   \footnotesize{ \red { (-1) } }
+&&  \footnotesize{ \red { (-2) } }
+&&  \footnotesize{ \red { (-3) } }
+&&  \footnotesize{ \red { (-4) } }
 &&  \footnotesize{ \red { (-5) } } \\
-58  &&    57  &&  55  &&   52  &&   48  && \ldots && \ldots 
+58  &&    57  &&  55  &&   52  &&   48  && \ldots && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing first number}   &= 48 - 5\\\\
-                              &= 43
+\text {Missing first number}   &= 48 - 5 \\\\
+                               &= 43
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Missing second number}   &= 43 - 6\\\\
-                               &= 37
+\text {Missing second number}   &= 43 - 6 \\\\
+                                &= 37
 \end{aligned}
 $
 
@@ -21800,7 +21793,7 @@ $43, 37$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -22931,6 +22924,12 @@ What are the next two numbers in the sequence?
 </div>
 <div class='workings'>
 <div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $- \dfrac{1}{3}$. 
+
+Hence, the sequence would be
 
 $
 \begin{matrix}
@@ -27020,7 +27019,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F69A4F2E-B19C-4D45-804D-704CE0DD4F2E</p>
 </div>
@@ -27088,7 +27087,7 @@ $5, \quad 3, \quad 8, \quad 11, \quad 19$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -29234,7 +29233,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>E8D4D5F2-C0D7-46D0-B4F4-2E4A926190AB</p>
 </div>
@@ -29444,7 +29443,7 @@ $26$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -29704,7 +29703,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>7AD11D07-8452-4D33-A58B-2F361B96929A</p>
 </div>
@@ -29760,7 +29759,7 @@ $87$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -31445,31 +31444,30 @@ Write the next two lines of the pattern
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+As per the question, the number pattern looks like 
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+3)}}  
 &&  \footnotesize{\maroonC{(+5)}} 
 &&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+9)}} \\
-1^2,  &&    2^2,  &&  3^2,  &&   4^2 \ldots
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}
+&&  \footnotesize{\maroonC{(+13)}} \\
+1^2,  &&    2^2,  &&  3^2,  &&   4^2, && \ldots, && \ldots, &&\ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First line}               &= 5^2 + 11 \\\\
+\text{First line }              &= 5^2 + 11 \\\\
                                 &= 25 + 11 \\\\
                                 &= 36 \\\\
-\text{Secondline}               &= 6^2 + 13 \\\\
+\text{Secondline }              &= 6^2 + 13 \\\\
                                 &= 36 + 13 \\\\
                                 &= 49                      
 \end{aligned}
 $
-
-First line : $5^2 + 11 = 36$
-Second line : $6^2 + 13 = 49$
 
 </div>
 </div>
@@ -31477,6 +31475,7 @@ Second line : $6^2 + 13 = 49$
 <div class='answer'>
 
 First line : $5^2 + 11 = 36$
+
 Second line : $6^2 + 13 = 49$
 
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>Stockport Grammar School</h1>
@@ -548,7 +548,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>A8254932-C5B4-4454-AA48-5D0F9228C890</p>
 </div>
@@ -660,7 +660,7 @@ $616000 \ \text{m}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -800,8 +800,10 @@ $
 \begin{aligned}
 \text{The fraction eaten together} &= \text{cake eaten by Sam} +\text{cake eaten by Alice} \\\\
 &=  \dfrac{1}{4} + \dfrac{2}{5} \\\\
-&=  \dfrac{5 + (2 \times 4)} {20} \\\\
-&= \dfrac{5 + 8} {20} \\\\
+&=  \dfrac{1 \times 5}{4  \times 5} + \dfrac{2 \times 4}{5 \times 4} \\\\
+&=  \dfrac{5}{20} + \dfrac{8}{20} \\\\
+&=  \dfrac{5 + 8} {20} \\\\
+&=  \dfrac{5 + 8} {20} \\\\
 &=  \dfrac{13}{20}
 \end{aligned}
 $
@@ -874,7 +876,7 @@ $
 \end{aligned}
 $
 
-So he will receive $\pounds 1.33$ change.
+Change he recieves =  $\pounds 1.33$.
 
 </div>
 </div>
@@ -923,7 +925,7 @@ Aa per the question,
 
 $
 \begin{aligned}
-\text{the difference} &= \text{ present year} - \text{battle year}  \\\\
+\text{The difference} &= \text{ present year} - \text{battle year}  \\\\
 &= 2022 - 1645 \\\\
 &= 377
 \end{aligned}
@@ -1114,7 +1116,7 @@ $64 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8</p>
 </div>
@@ -1163,12 +1165,12 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>75F310E6-BEA4-40F1-997F-C89D0ADB9052</p>
 </div>
@@ -1210,7 +1212,7 @@ $1000$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -1239,12 +1241,8 @@ Which is better value, $600 \ \text{g}$ for $\pounds 3$ or $500 \ \text{g}$ for 
 
 As per the question,
 
-$
-\begin{aligned}
-\text{By comparing equal mass} \\\\
-&=  600 \ \text{g} \  \text{for} \  \pounds 3  \ \text{is better value then}  \ 500 \ \text{g} \  \text{for} \  \pounds 2.75 \\\\
-\end{aligned}
-$
+$\text{By comparing equal mass}$,
+$600 \ \text{g} \  \text{for} \  \pounds 3  \ \text{is better value than}  \ 500 \ \text{g} \  \text{for} \  \pounds 2.75$
 
 </div>
 </div>
@@ -1265,7 +1263,7 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>473B53F9-0065-4183-A92E-E456B6396E3B</p>
 </div>
@@ -1319,7 +1317,7 @@ $56 \degree$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -1345,7 +1343,7 @@ to one decimal place.
 <div class='workings'>
 <div class='working'>
 
-As prt the question,
+As per the question,
 
 $
 \begin{aligned}
@@ -1375,7 +1373,7 @@ $33.6 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>98FB3AC6-2728-458B-AA28-1E5EF428AAFB</p>
 </div>
@@ -1434,7 +1432,7 @@ $150 \degree$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -1736,7 +1734,7 @@ Reflect the triangle in the x-axis and label your shape $B$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>051F2794-DFF8-4792-8C27-24EC80D9363E</p>
 </div>
@@ -1849,7 +1847,7 @@ $-7 \degree \text{C}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>

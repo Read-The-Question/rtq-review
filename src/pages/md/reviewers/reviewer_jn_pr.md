@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-jn-pr"
 title: "Reviewer - Jaishree Nair - PR"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2461,23 +2461,23 @@ Let's find the difference between the consecutive terms of the sequence.
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
-\begin{matrix}
-&   \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}  \\
+\begin {matrix}
+&   \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }  \\
 7,  &&    11,  &&  15,  &&   19,  &&   \ldots  &&   \ldots
-\end{matrix}
+\end {matrix}
 $
 
 $
-\begin{aligned}
-\text{Frist missing number}   &= 23 + 4\\\\
-                              &= 27 \\\\
-\text{Second missing number}  &= 27 + 4\\\\
-                              &= 31
-\end{aligned}
+\begin {aligned}
+\text {First missing number}   &= 19 + 4\\\\
+                               &= 23 \\\\
+\text {Second missing number}  &= 23 + 4\\\\
+                               &= 27
+\end {aligned}
 $
 
 </div>
@@ -2485,7 +2485,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7,  \quad 11,  \quad 15,  \quad 19, \quad  \boxed {27}, \quad  \boxed {31}$
+$23, \ 27$
 
 </div>
 </div>
@@ -2514,23 +2514,23 @@ Let's find the difference between the consecutive terms of the sequence.
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
 
 $
-\begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}  \\
+\begin {matrix}
+&   \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }
+&&  \footnotesize {\maroonC {(\div 2)} }  \\
 96,  &&    48,  &&  24,  &&   12,  &&   \ldots  &&   \ldots
-\end{matrix}
+\end {matrix}
 $
 
 $
-\begin{aligned}
-\text{Frist missing number}   &= 12 \div 2 \\\\
-                              &= 6 \\\\
-\text{Second missing number}  &= 6 \div 2 \\\\
-                              &= 3
-\end{aligned}
+\begin {aligned}
+\text {First missing number}   &= 12 \div 2 \\\\
+                               &= 6 \\\\
+\text {Second missing number}  &= 6 \div 2 \\\\
+                               &= 3
+\end {aligned}
 $
 
 </div>
@@ -2538,7 +2538,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$96, \quad  48, \quad  24, \quad  12, \quad  \boxed {6}, \quad  \boxed {3}$
+$6, \ 3$
 
 </div>
 </div>
@@ -2565,23 +2565,23 @@ $
 Let's find the difference between the consecutive terms of the sequence.
 
 $
-\begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+5)}}
-&&  \footnotesize{\maroonC{(+6)}}  \\
-96,  &&    48,  &&  24,  &&   12,  &&   \ldots  &&   \ldots
-\end{matrix}
+\begin {matrix}
+&   \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+6)} }  \\
+2,  &&    4,  &&  7,  &&   11,  &&   \ldots  &&   \ldots
+\end {matrix}
 $
 
 $
-\begin{aligned}
-\text{Frist missing number}   &= 11 + 5\\\\
-                              &= 16 \\\\
-\text{Second missing number}  &= 16 + 6\\\\
-                              &= 22
-\end{aligned}
+\begin {aligned}
+\text {First missing number}   &= 11 + 5\\\\
+                               &= 16 \\\\
+\text {Second missing number}  &= 16 + 6\\\\
+                               &= 22
+\end {aligned}
 $
 
 </div>
@@ -2589,7 +2589,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2, \quad  4, \quad  7, \quad  11, \quad  \boxed {16}, \quad  \boxed {22}$
+$16, \ 22$
 
 </div>
 </div>
@@ -2635,8 +2635,8 @@ As per the diagram,
 
 $
 \begin {aligned}
-\text {Angle between Line 1 and Line 2}  &= 110 \ \text {degrees} - 50 \ \text {degrees} \\\\
-                                         &= 60 \ \text {degrees}
+\text {Angle}   &= 110 \degree - 50 \degree \\\\
+                &= 60 \degree
 \end {aligned}
 $
 
@@ -2751,11 +2751,12 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Input}  &= \dfrac {36 - 1} {5} \\\\
-               &= \dfrac {35} {5} \\\\
-               &= \dfrac {7 \times 5} {5} \\\\
-               &= \dfrac {7 \times \cancel {5}} {\cancel {5}} \\\\
-               &= 7
+\text {Input} \times 5 + 1  &= 36 \\\\
+\text {Input}               &= \dfrac {36 - 1} {5} \\\\
+                            &= \dfrac {35} {5} \\\\
+                            &= \dfrac {7 \times 5} {5} \\\\
+                            &= \dfrac {7 \times \cancel {5}} {\cancel {5}} \\\\
+                            &= 7
 \end {aligned}
 $
 
@@ -2787,19 +2788,13 @@ Give an example to show that Molly is **WRONG**.
 <div class='workings'>
 <div class='working'>
 
-Let input $= 14$.
+If we input an even number and multiply by $5$ the answer will be an even number but if we add $1$ the result will always be an odd number.
 
-$
-\begin {aligned}
-\text {Output}  &= 14 \times 5 + 1 \\\\
-                &= 60 + 1 \\\\
-                &= 61
-\end {aligned}
-$
+Lets's input $= 4$
 
-Hence, the ouput is an odd number.
+$4 \times 5 + 1 = 21$
 
-So, this shows that Molly is wrong.
+Hence, Molly is WRONG.
 
 </div>
 </div>
@@ -2898,7 +2893,7 @@ tcircle
 </div>
 <div class='question question'>
 
-The fraction **one eighth** is roughly the same as one of these percentages. Put a rung around the best one.
+The fraction **one eighth** is roughly the same as one of these percentages. Put a ring around the best one.
 
 $10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
 
@@ -2909,22 +2904,24 @@ $10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
 $
 \begin {aligned}
 &= \dfrac {1} {8} \ \text {of} \ 100 \\\\
+&= \dfrac {1} {8} \times 100 \\\\
 &= \dfrac {100} {8} \\\\
 &= \dfrac {25 \times 4} {2 \times 4} \\\\
 &= \dfrac {25 \times \cancel {4}} {2 \times \cancel {4}} \\\\
 &= \dfrac {25} {2} \\\\
+&= 12 \dfrac {1} {2} \\\\
 &= 12.5 \%
 \end {aligned}
 $
 
-The Best answer is $= 12 \%$.
+The best answer is $= 12 \%$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12 \ %$
+$12 \%$
 
 </div>
 </div>
@@ -2963,13 +2960,13 @@ As per the question,
 
 $
 \begin {aligned}
-6a - 4  &= 4a + 10 \\\\
-6a - 4a  &= 10 + 4 \\\\
-2a  &= 14 \\\\
-a  &= \dfrac {14} {2} \\\\
-a  &= \dfrac {7 \times 2} {2} \\\\
-a  &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-a  &= 7
+6 \times a - 4  &= 4 \times a + 10 \\\\
+6a - 4a         &= 10 + 4 \\\\
+2a              &= 14 \\\\
+a               &= \dfrac {14} {2} \\\\
+a               &= \dfrac {7 \times 2} {2} \\\\
+a               &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+a               &= 7
 \end {aligned}
 $
 
@@ -3001,7 +2998,7 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tdraw
 </li>
 <li>
 tperimeter
@@ -3047,7 +3044,13 @@ Write the two remaining lengths on the diagram.
 <div class='workings'>
 <div class='working'>
 
-$12 \ \text {cm}, 8 \ \text {cm}$
+$
+\begin {aligned}
+\text {Top missing length}  &= 5 + 2 + 5 \\\\
+                            &= 12 \ \text {cm} \\\\
+\text {Side missing length} &= 8 \ \text {cm}
+\end {aligned}
+$
 
 </div>
 </div>
@@ -3080,8 +3083,8 @@ As per the diagram,
 $
 \begin {aligned}
 \text {Perimeter of the T shape}  &= \text {Sum of all sides} \\\\
-                                  &= 2 \ \text {cm} + (5 + 5 + 2) \ \text {cm} + 2 \ \text {cm} + 5 \ \text {cm} + 8 \ \text {cm} + 2 \ \text {cm} + 8 \ \text {cm} + 5 \ \text {cm} \\\\
-                                  &= 2 + 12 + 30 \\\\
+                                  &= 2 \times 3 + 5 \times 2 + 8 \times 2 + 12 \\\\
+                                  &= 6 + 10 + 16 + 12 \\\\
                                   &= 44 \ \text {cm}
 \end {aligned}
 $
@@ -3116,12 +3119,12 @@ State the units.
 
 As per the diagram,
 
-The T shape can be divided into two rectangles.
+Let's draw a line at the neck of the T shape and make two separate rectangles.
 
 $
 \begin {aligned}
 \text {Area of the T shape}  &= \text {Area of horizontal rectangle} + \text {Area of vertical rectangle} \\\\
-                             &= (12 \ \text {cm} \times 2 \ \text {cm}) + (8 \ \text {am} \times 2 \ \text {cm}) \\\\
+                             &= 12 \times 2 + 2 \times 8 \\\\
                              &= 24 + 16 \\\\
                              &= 40 \ \text {cm} ^ 2
 \end {aligned}
@@ -3202,11 +3205,9 @@ As per the question,
 
 $
 \begin {aligned}
-\pounds 100         &= 120 \ \text {euros} \\\\
-\dfrac {100} {100}  &= \dfrac {120} {100} \\\\
-\pounds 1           &= 1.2 \ \text {euros} \\\\
-500 \times 1        &= 1.2 \times 500 \\\\
-\pounds 500         &= 600 \ \text {euros}
+\pounds 100             &= € 120 \\\\
+\pounds 100 \times 5    &= € 120 \times 5 \\\\
+\pounds 500             &= € 600
 \end {aligned}
 $
 
@@ -3215,7 +3216,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$600 \ \text {euros}$
+$€ 600$
 
 </div>
 </div>
@@ -3236,19 +3237,13 @@ How many pounds would be worth the same as $€300$ (euros)?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+As per the answer above,
 
 $
 \begin {aligned}
-120 \ \text {euros}  &= \pounds 100 \\\\
-1 \times 120         &= 100 \\\\
-1 \ \text {euros}    &= \pounds \dfrac {100} {120} \\\\
-300 \times 1         &= 300 \times \dfrac {100} {120} \\\\
-300                  &= \dfrac {100 \times 300} {120} \\\\
-300                  &= \dfrac {4 \times 25 \times 3 \times 10 \times 10} {3 \times 4 \times 10} \\\\
-300                  &= \dfrac {\cancel {4} \times 25 \times \cancel {3} \times \cancel {10} \times 10} {\cancel {3} \times \cancel {4} \times \cancel {10}} \\\\
-300                  &= 25 \times 10 \\\\
-300 \ \text {euros}  &= \pounds 250
+\pounds 500                 &= € 600 \\\\
+\pounds \dfrac {500} {2}    &= € \dfrac {600} {2} \\\\
+€ 300                       &= \pounds 250
 \end {aligned}
 $
 
@@ -3278,18 +3273,19 @@ Bruno has $\pounds 600$ (pounds). Marie has $€700$ (euros). Decide who has the
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+Let's convert pounds into euros to compare them.
 
-$\pounds 1 = 1.2 \ \text {euros}$.
+As per the above answers,
 
 $
 \begin {aligned}
-600 \times \pounds 1  &= 600 \times 1.2 \ \text {euros} \\\\
-\pounds 600           &= 720 \ \text {euros}
+\pounds 600     &= \pounds 500 + \pounds 100 \\\\
+                &= € 600 + € 120 \\\\
+                &= € 720
 \end {aligned}
 $
 
-Hence, Bruno has $20 \ \text {euros}$ more than Marie.
+Bruno has $€ 720$ and Marie has $€ 700$. Bruno has $€ 20$ more than Marie.
 
 </div>
 </div>
@@ -3338,18 +3334,15 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Fraction of pizza left for Anna}  &= 1 - (\dfrac {1} {5} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {1 \times 2} {5 \times 2} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {2} {10} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {2 + 3} {10}) \\\\
-                                         &= 1 - \dfrac {5} {10} \\\\
-                                         &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {5} {10} \\\\
-                                         &= \dfrac {10} {10} - \dfrac {5} {10} \\\\
-                                         &= \dfrac {10 - 5} {10} \\\\
-                                         &= \dfrac {5} {10} \\\\
-                                         &= \dfrac {5} {5 \times 2} \\\\
-                                         &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
-                                         &= \dfrac {1} {2}
+\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {First friends share} - \text {Second friends share} \\\\
+                                &= 1 - \dfrac {1} {5} - \dfrac {3} {10} \\\\
+                                &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {1 \times 2} {5 \times 2} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10} {10} - \dfrac {2} {10} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10 - 2 - 3} {10} \\\\
+                                &= \dfrac {5} {10} \\\\
+                                &= \dfrac {5} {5 \times 2} \\\\
+                                &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
+                                &= \dfrac {1} {2}
 \end {aligned}
 $
 
@@ -6741,7 +6734,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.21> \quad 0.201> \quad 0.021$
+$0.21, \quad 0.201, \quad 0.021$
 
 </div>
 </div>
@@ -6910,103 +6903,6 @@ $13 \ \text{and} \ 5$
 </div>
 </div>
 
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>C51D4882-FD86-449B-BC74-E90265EBA237</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Name the shapes below
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Hexagon
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Hexagon
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Cylinder
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Cylinder
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
@@ -7683,7 +7579,7 @@ In a school there are $465$ boys, $531$ girls, and $89$ staff. How many people a
 
 $
 \begin{aligned}
-\text{Total people}                             &= \text{Total (Boys)} + \text{Total (Girls)} + \text{Total (Staff)} \\\\
+\text{Total people}                             &= \text{Total boys + Total girls + Total staff} \\\\
                                                 &= 465 + 531 + 89 \\\\
                                                 &= 1085
 \end{aligned}
@@ -7729,7 +7625,7 @@ A train carriage has $62$ seats, if the train has $12$ carriages what is the lar
 
 $
 \begin{aligned}
-\text{Largest no. of passengers}                   &= \text{Total seats per carriage} + \text{No. of carriage} \\\\
+\text{Largest no. of passengers}                   &= \text{Total seats per carriage} + \text{No. of carriages} \\\\
                                                    &= 62 \times 12 \\\\
                                                    &= 744
 \end{aligned}
@@ -7778,9 +7674,9 @@ $3.33, 3.03, 3.3, 3, 3.303$
 $
 \begin{aligned}
 &= 3.33, \quad 3.03, \quad 3.3, \quad 3, \quad 3.303 \\\\
-&= 3.330, \quad 3.030, \quad 3.300, \quad 3.0, \quad 3.303 \\\\
+&= 3.330, \quad 3.030, \quad 3.300, \quad 3, \quad 3.303 \\\\
 &\text{Let's put them in descending order now.} \\\\
-&= 3.330> \quad 3.303> \quad 3.300> \quad 3.030> \quad 3.0 \\\\
+&= 3.330> \quad 3.303> \quad 3.300> \quad 3.030> \quad 3 \\\\
 &= 3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
 \end{aligned}
 $
@@ -7790,7 +7686,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
+3.33, \quad 3.303, \quad 3.3, \quad 3.03, \quad 3
 
 </div>
 </div>
@@ -7827,10 +7723,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Change (Received)}                        &= \text{Money (Paid)} - (\text{Ticket Cost ( 2 x Adults)} + \text{Ticket Cost ( 4 x Children)}) \\\\
-                                                &= 2 \times \pounds 20 - (2 \times \pounds 11.50 + 4 \times \pounds 3.70) \\\\
-                                                &= 40 - (23 + 14.80) \\\\
-                                                &= 40 - 37.80 \\\\
+\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 4 \ \text{Children} \\\\
+                                                &= 2 \times \pounds 20 - 2 \times \pounds 11.50 - 4 \times \pounds 3.70 \\\\
+                                                &= 40 - 23 - 14.80 \\\\
                                                 &= \pounds 2.20
 \end{aligned}
 $
@@ -7915,9 +7810,11 @@ A square has area $49\ \text{cm}^2$. What is the perimeter of the square?
 <div class='workings'>
 <div class='working'>
 
-We know, Area of a square $= \text{Side} \times \text{Side}$
+We know, 
 
-As per question,
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
 
 Let the length of the square (in cm) $= a$
 
@@ -7929,7 +7826,7 @@ a                                               &= 7 \ \text{cm}
 \end{aligned}
 $
 
-The Length of the side of square $= 7 \ \text{cm}$
+The length of the side of the square $= 7 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
@@ -7962,125 +7859,6 @@ $28 \ \text{cm}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>F3F34EA3-2E57-420F-B3B7-CB31E96031AB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $10\%$ of $\pounds 950$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 10\% \ \text{of} \ \pounds 950 \\\\
-&= 10\% \times 950 \\\\
-&= \dfrac {10} {100} \times 950 \\\\
-&= \dfrac {10 \times 950} {100} \\\\
-&= \dfrac {1 \cancel{0} \times 95 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-&= \pounds 95
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 95$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $11\%$ of $\pounds 950$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 11\% \ \text{of} \ \pounds 950 \\\\
-&= 11\% \times 950 \\\\
-&= (10\% + 1\%) \times 950 \\\\
-&= 10\% \times 950 + 1\% \times 950 \\\\
-&= 95 + \dfrac {1} {100} \times 950 \\\\
-&= 95 + \dfrac {950} {100} \\\\
-&= \pounds 104.50
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 104.50$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>5E19CBBE-54A1-4C50-9739-F3060E708FD9</p>
 </div>
 <div class='topics'>
@@ -8098,25 +7876,25 @@ How many spots are there on a normal six-sided dice?
 <div class='workings'>
 <div class='working'>
 
-As we know, the spots on a six-sided dice starts with 1.
+As per the question,
 
 $
 \begin{aligned}
 \text{Total spots}                                 &= 1 + 2 + 3 + 4 + 5 + 6 \\\\
-                                                   &= 21 \text{spots}
+                                                   &= 21
 \end{aligned}
 $
 
 </div>
 <div class='working'>
 
-As we know, opposite sides of a dice always adds up to 7.
+As we know, opposite sides of a dice always add up to 7.
 
 $
 \begin{aligned}
 \text{Total spots}                                 &= \dfrac {6} {2} \times 7 \\\\
                                                    &= 3 \times 7 \\\\
-                                                   &= 21 \text{spots}
+                                                   &= 21
 \end{aligned}
 $
 
@@ -8162,7 +7940,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Tasweer (Owe Julie)}                         &= \text{Money (Julie paid)} - \text{Money (Julie owed)} \\\\
+\text{Tasweer owe Julie}                           &= \text{Money Julie paid - Money Julie owed} \\\\
                                                    &= \pounds 20 - \pounds 12.70 \\\\
                                                    &= \pounds 7.30
 \end{aligned}
@@ -8208,7 +7986,7 @@ The bus from Redhill to London can hold $58$ passengers. If the bus travels to L
 
 $
 \begin{aligned}
-\text{Maximum passengers (got to London}           &= \text{Total (Bus trips a day)} \times \text{Total Passenger(per Bus)} \\\\
+\text{Maximum passengers}                          &= \text{Total bus trips per day} \times \text{Total passengers per bus} \\\\
                                                    &= 18 \times 58 \\\\
                                                    &= 1044
 \end{aligned}
@@ -8224,120 +8002,6 @@ $1044$
 </div>
 </div>
 
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>67DF39CD-1E0F-4819-A398-56826AE81698</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{3}{8}\times\dfrac{1}{4}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {3} {8} \times \dfrac {1} {4} \\\\
-&= \dfrac {3 \times 1} {8 \times 4} \\\\
-&= \dfrac {3} {32}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {32}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{3}{8}\div\dfrac{1}{4}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
-
-$
-\begin{aligned}
-&= \dfrac {3} {8} \div \dfrac {1} {4} \\\\
-&= \dfrac {3} {8} \times \dfrac {4} {1} \\\\
-&= \dfrac {3 \times 4} {8 \times 1} \\\\
-&= \dfrac {3 \times 4} {2 \times 4} \\\\
-&= \dfrac {3 \times \cancel{4}} {2 \times \cancel{4}} \\\\
-&= \dfrac {3} {2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {2}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
@@ -8398,7 +8062,7 @@ As per the question,
 
 $
 \begin{aligned}
-5371                                               &= 41 \times 131 \ \text{So,} \\\\
+5371                                               &= 41 \times 131 \\\\
 \dfrac {5371} {131}                                &= 41 \\\\
 5371 \div 131                                      &= 41
 \end{aligned}
@@ -8430,12 +8094,15 @@ What is $4.1 \times 13.1$
 <div class='workings'>
 <div class='working'>
 
+As per the question, 
+
+$41 \times 31 = 5371$
+
+To find $4.1 \times 13.1$ we need to count the total number of digits after the decimal points and  account for the same in the answer given above.
+
 $
 \begin{aligned}
-4.1 \times 13.1                                    &= \dfrac {41} {10} \times \dfrac {131} {10} \\\\
-                                                   &= \dfrac {41 \times 131} {100} \\\\
-                                                   &= \dfrac {5371} {100} \\\\
-                                                   &= 53.71
+4.1 \times 13.1                                    &= 53.71
 \end{aligned}
 $
 
@@ -8445,216 +8112,6 @@ $
 <div class='answer'>
 
 $53.71$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>4E6171F1-A614-49B9-AD77-25E54516C128</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What are the missing numbers in the following calculations?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$35 + ............= 78$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-35 + a                                              &= 78 \\\\
-a                                                   &= 78 - 35 \\\\
-a                                                   &= 43
-\end{aligned}
-$
-
-The missing number is $= 43$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$43$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$156 \div .............= 12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-156 \div a                                          &= 12 \\\\
-\dfrac {156} {a}                                    &= 12 \\\\
-\dfrac {156} {12}                                   &= a \\\\
-a                                                   &= \dfrac {12 \times 13} {12} \\\\
-a                                                   &= \dfrac {\cancel{12} \times 13} {\cancel{12}} \\\\
-a                                                   &= 13
-\end{aligned}
-$
-
-The missing number is $= 13$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(7 -..............) \times 13 = 78$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-(7 - a) \times 13                                   &= 78 \\\\
-7 - a                                               &= \dfrac {78} {13} \\\\
-7 - a                                               &= \dfrac {6 \times 13} {13} \\\\
-7 - a                                               &= \dfrac {6 \times \cancel{13}} {\cancel{13}} \\\\
-7 - a                                               &= 6 \\\\
-a                                                   &= 7 - 6 \\\\
-a                                                   &= 1
-\end{aligned}
-$
-
-The missing number is $= 1$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{79-}{6}=12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {79 - a} {6}                                 &= 12 \\\\
-79 - a                                              &= 12 \times 6 \\\\
-79 - a                                              &= 72 \\\\
-a                                                   &= 79 - 72 \\\\
-a                                                   &= 7
-\end{aligned}
-$
-
-The missing number is $= 7$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
 
 </div>
 </div>
@@ -8694,7 +8151,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{ Start Time (Ingredient prepartion)}                             &= \text{Time (Want to eat)} - (\text{Time taken (Preparing Ingredients + Baking + Cooling)}) \\\\
+\text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
                                                                        &= 4{:}10 \ \text{pm} - (20 + 22 + 10) \ \text{minutes} \\\\
                                                                        &= 4{:}10 \ \text{pm} - 52 \ \text{minutes} \\\\
                                                                        &= 3{:}18 \ \text{pm}
@@ -8706,7 +8163,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3{:}18 \text{pm}$
+$3{:}18 \ \text{pm}$
 
 </div>
 </div>
@@ -8743,7 +8200,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= \text{Number of seconds in a minute} - (\text{Number of hours in a day} \\\\
+&= \text{Number of seconds in a minute} - \text{Number of hours in a day} \\\\
 &= 60 - 24 \\\\
 &= 36
 \end{aligned}
@@ -8818,7 +8275,7 @@ How many bricks will there be in the wall?
 
 $
 \begin{aligned}
-\text{Total bricks}                                 &= \text{Brick (High)} \times \text{Brick (Wide)} \\\\
+\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick Width} \\\\
                                                     &= 23 \times 12 \\\\
                                                     &= 276
 \end{aligned}
@@ -8855,7 +8312,7 @@ $
 \text{Time to build the wall}                       &= \dfrac {\text{Total bricks}} {6} \times 4 \ \text{minutes} \\\\
                                                     &= \dfrac {276} {6} \times 4 \\\\
                                                     &= \dfrac {6 \times 46 \times 4} {6} \\\\
-                                                    &= \dfrac {\cancel{6} \times 46 \times 4} {\cancel{6}} \times 4 \\\\
+                                                    &= \dfrac {\cancel{6} \times 46 \times 4} {\cancel{6}} \\\\
                                                     &= 46 \times 4 \\\\
                                                     &= 184 \ \text{minutes} \\\\
                                                     &= 60 + 60 + 60 + 4 \\\\
@@ -8868,7 +8325,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3 \ \text{hours} \ 4 \ \text{minutes or } 184 \ \text{minutes}$
+$3 \ \text{hours} \ 4 \ \text{minutes or} \ 184 \ \text{minutes}$
 
 </div>
 </div>
@@ -8984,10 +8441,10 @@ As per the diagram,
 $
 \begin{aligned}
 3y - 3              &= 21 \\\\
-3x                  &= 21 + 3 \\\\
-3x                  &= 24 \\\\
-x                   &= \dfrac {24} {3} \\\\
-x                   &= 8
+3y                  &= 21 + 3 \\\\
+3y                  &= 24 \\\\
+y                   &= \dfrac {24} {3} \\\\
+y                   &= 8
 \end{aligned}
 $
 
@@ -9034,13 +8491,13 @@ Find the value of $𝑥$ in the triangle shown.
 <div class='workings'>
 <div class='working'>
 
-The sum of angles of a triangle is $= 180 \degree$
+We know, the sum of angles in a triangle is $180 \degree$
 
 As per the diagram,
 
 $
 \begin{aligned}
-90 + 35 + x              &= 180 \\\\
+90 + 35 + x              &= 180 \degree \\\\
 x                        &= 180 - 90 - 35 \\\\
 x                        &= 55 \degree
 \end{aligned}
@@ -9113,11 +8570,13 @@ Josh can walk at $6 \ \text{km}$ per hour. How long will he take to finish the w
 <div class='workings'>
 <div class='working'>
 
-Time $= \dfrac {\text{Distance}} {\text{Speed}}
+Time $= \dfrac {\text{Distance}} {\text{Speed}}$
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Time taken (by Josh)}                         &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
+\text{Time taken by Josh}                           &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
                                                     &= \dfrac {6 \times 6} {6} \\\\
                                                     &= \dfrac {\cancel{6} \times 6} {\cancel{6}} \\\\
                                                     &= 6 \ \text{hours}
@@ -9150,13 +8609,13 @@ Gary can walk at $5 \ \text{km}$ per hour. How far will he still have left to wa
 <div class='workings'>
 <div class='working'>
 
-We know,  Jost took 6 hours to finish walking 36 km.
+We know,  Josh took $6$ hours to finish walking $36$ km.
 
 $
 \begin{aligned}
-\text{Distance Gary (Left)}                         &= \text{Total distance} - \text{Distance Gary (Covered)} \\\\
+\text{Remaining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
                                                     &= 36 \ \text{km} - \text{Speed} \times \text{Time} \\\\
-                                                    &= 36 \ \text{km} - 5 \ \text{km / hour} \times 6 \ \text{hour} \\\\
+                                                    &= 36 \ \text{km} - 5 \ \text{km per hour} \times 6 \ \text{hours} \\\\
                                                     &= 36 - 30 \\\\
                                                     &= 6 \ \text{km}
 \end{aligned}
@@ -9209,8 +8668,8 @@ As per the picture,
 
 $
 \begin{aligned}
-\text{Width of the painting}                        &= \text{Total Width} - (2 \times \text{Frame height}) \\\\
-                                                    &= 75 \ \text{cm} - (2 \times 15 \ \text{cm}) \\\\
+\text{Width of the painting}                        &= \text{Total width} - 2 \times \text{Frame height} \\\\
+                                                    &= 75 \ \text{cm} - 2 \times 15 \ \text{cm} \\\\
                                                     &= 75 - 30 \\\\
                                                     &= 45 \ \text{cm}
 \end{aligned}
@@ -9221,8 +8680,8 @@ Let's find the height of the painting.
 
 $
 \begin{aligned}
-\text{Height of the painting}                       &= \text{Total height} - (2 \times \text{Frame height}) \\\\
-                                                    &= 65 \ \text{cm} - (2 \times 15 \ \text{cm}) \\\\
+\text{Height of the painting}                       &= \text{Total height} - 2 \times \text{Frame height} \\\\
+                                                    &= 65 \ \text{cm} - 2 \times 15 \ \text{cm} \\\\
                                                     &= 65 - 30 \\\\
                                                     &= 35 \ \text{cm}
 \end{aligned}
@@ -9272,13 +8731,13 @@ Martin and Dai divide some sweets between them. There are $65$ sweets, and Marti
 <div class='workings'>
 <div class='working'>
 
-Let number of sweets Martin got $= a$
+Let the number of sweets Martin take $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Sweets (Martin)}                                  &= \text{Total sweets} - \text{Sweets (Dai)} \\\\
+\text{Sweets Martin took}                               &= \text{Total sweets} - \text{Sweets Dai took} \\\\
 a                                                       &= 65 - (a - 7) \\\\
 a                                                       &= 65 - a + 7 \\\\
 a + a                                                   &= 65 + 7 \\\\
@@ -9330,17 +8789,21 @@ In an orchestra there are $60$ children. If $\dfrac {1} {5}$ play the recorder a
 <div class='workings'>
 <div class='working'>
 
+Let's find the number of children playing something else.
+
 $
 \begin{aligned}
-\text{Children (Something else)}              &= \text{Total Children - (Play (Recorder) + Play (Triangle))}  \\\\
-                                              &= 60 - \dfrac {1} {5} \times 60 + 40\% \times 60 \\\\
-                                              &= 60 - \dfrac {1 \times 60} {5} - \dfrac {40 \times 60} {100} \\\\
-                                              &= 60 - \dfrac {5 \times 12} {5} -  \dfrac {40 \times 60} {100} \\\\
-                                              &= 60 - \dfrac {\cancel{5} \times 12} {\cancel{5}}  -\dfrac {4 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-                                              &= 60 - 12 - 24 \\\\
-                                              &= 24
+&= \text{Total children - Playing recorder - Playing triangle}  \\\\
+&= 60 - \dfrac {1} {5} \times 60 - 40\% \times 60 \\\\
+&= 60 - \dfrac {1 \times 60} {5} - \dfrac {40 \times 60} {100} \\\\
+&= 60 - \dfrac {5 \times 12} {5} -  \dfrac {40 \times 60} {100} \\\\
+&= 60 - \dfrac {\cancel{5} \times 12} {\cancel{5}}  -\dfrac {4 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 60 - 12 - 24 \\\\
+&= 24
 \end{aligned}
 $
+
+Number of children playing something else $= 24$
 
 </div>
 </div>
@@ -9352,162 +8815,6 @@ $24$
 </div>
 </div>
 
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>191CD2FA-CE07-4708-99E9-0C5625EFED6C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A new mathematical operation has been invented. For any two numbers $𝑥 ⋆ 𝑦$ means $\text{‘subtract 3 from 𝑥, then multiply by 𝑦’}$, so $8 ⋆ 2$ means $8 - 3$, then $\times 2$, giving $10$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $7 ⋆ 5$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 7 \ \text{*} \ 5 \\\\
-&= (7 - 3) \times 5 \\\\
-&= 4 \times 5 \\\\
-&= 20
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What values of $𝑎$ makes $𝑎 ⋆ 7 = 42$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-a \ \text{*} \ 7                                                   &= 42 \\\\
-(a - 3) \times 7                                                   &= 42 \\\\
-a - 3                                                              &= \dfrac {42} {7} \\\\
-a - 3                                                              &= \dfrac {6 \times 7} {7} \\\\
-a - 3                                                              &= \dfrac {6 \times \cancel{7}} {\cancel{7}} \\\\
-a - 3                                                              &= 6 \\\\
-a                                                                  &= 6 + 3 \\\\
-a                                                                  &= 9
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $𝑏$ if $𝑏 ⋆ 𝑏 = 28$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-b \ \text{*} \ b                                                   &= 28 \\\\
-(b - 3) \times b                                                   &= 28 \\\\
-b^{2} - 3b                                                         &= 28 \\\\
-b^{2} - 3b - 28                                                    &= 0 \\\\
-b^{2} - (7b - 4b) - 28                                             &= 0 \\\\
-b^{2} - 7b + 4b - 28                                               &= 0 \\\\
-b(b - 7) + 4(b - 7)                                                &= 0 \\\\
-(b - 7) \times (b + 4)                                             &= 0 \\\\
-b                                                                  &= 7 \\\\
-b                                                                  &= -4 \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7 \ \text{or} \ -4$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
@@ -9538,7 +8845,7 @@ In a school there are $386$ boys, $435$ girls, and $76$ staff. How many people a
 
 $
 \begin{aligned}
-\text{Total people}                             &= \text{Total (Boys)} + \text{Total (Girls)} + \text{Total (Staff)} \\\\
+\text{Total people}                             &= \text{Total boys + Total girls + Total staff} \\\\
                                                 &= 386 + 435 + 76 \\\\
                                                 &= 897
 \end{aligned}
@@ -9584,7 +8891,7 @@ A bookshelf holds $28$ books. A local library has $87$ bookshelves. How many boo
 
 $
 \begin{aligned}
-\text{Total books}                              &= \text{Total bookshelves} \times \text{Books per bookshelves} \\\\
+\text{Total books}                              &= \text{Total bookshelves} \times \text{Books per bookshelf} \\\\
                                                 &= 87 \times 28 \\\\
                                                 &= 2436
 \end{aligned}
@@ -9633,9 +8940,9 @@ $7.7, 7.77, 7, 7.07, 7.707$
 $
 \begin{aligned}
 &= 7.7, \quad 7.77, \quad 7, \quad 7.07, \quad 7.707 \\\\
-&= 7.700, \quad 7.770, \quad 7.0, \quad 7.070, \quad 7.707 \\\\
+&= 7.700, \quad 7.770, \quad 7, \quad 7.070, \quad 7.707 \\\\
 & \text{Let's put them in descending order now.} \\\\
-&= 7.770> \quad 7.707> \quad 7.700> \quad 7.070> \quad 7.0 \\\\
+&= 7.770> \quad 7.707> \quad 7.700> \quad 7.070> \quad 7 \\\\
 &= 7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7
 \end{aligned}
 $
@@ -9645,7 +8952,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7$
+$7.77, \quad 7.707, \quad 7.7, \quad 7.07, \quad 7$
 
 </div>
 </div>
@@ -9682,10 +8989,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Change (Received)}                        &= \text{Money (Paid)} - (\text{Ticket Cost ( 2 x Adults)} + \text{Ticket Cost ( 3 x Children)}) \\\\
-                                                &= \pounds 50 - (2 \times \pounds 9.50 + 3 \times \pounds 2.60) \\\\
-                                                &= 50 - (19 + 7.80) \\\\
-                                                &= 50 - 26.80 \\\\
+\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 3 \ \text{Children} \\\\
+                                                &= \pounds 50 - 2 \times \pounds 9.50 - 3 \times \pounds 2.60 \\\\
+                                                &= 50 - 19 - 7.80 \\\\
                                                 &= \pounds 23.20
 \end{aligned}
 $
@@ -9773,9 +9079,11 @@ A square has area $64\ \text{cm}^2$. What is the perimeter of the square?
 <div class='workings'>
 <div class='working'>
 
-We know, Area of a square $= \text{Side} \times \text{Side}$
+We know,
 
-As per question,
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
 
 Let the length of the square (in cm) $= a$
 
@@ -9788,7 +9096,7 @@ a                                               &= 8 \ \text{cm}
 \end{aligned}
 $
 
-The Length of the side of square $= 8 \ \text{cm}$
+The length of the side of the square $= 8 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
@@ -9842,7 +9150,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Josh (Owe Tina)}                             &= \text{Money (Julie paid)} - \text{Money (Julie owed)} \\\\
+\text{Josh owe Tina}                               &= \text{Money Julie paid} - \text{Money Julie owed} \\\\
                                                    &= 3 \times \pounds 10 - \pounds 23.80 \\\\
                                                    &= \pounds 30 - \pounds 23.80 \\\\
                                                    &= \pounds 6.20
@@ -9855,52 +9163,6 @@ $
 <div class='answer'>
 
 $\pounds 6.20$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>32DC6924-3D42-4FC1-9F0E-EEE526815D65</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The train from Brighton to London has $12$ carriages and each carriage can hold $48$ passengers. What is the largest number of passengers that can travel on the train? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Largest no. of passengers}                                    &= \text{Total seats per carriage} + \text{No. of carriages} \\\\
-                                                                    &= 48 \times 12 \\\\
-                                                                    &= 576
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$576$
 
 </div>
 </div>
@@ -9961,15 +9223,9 @@ Using the information given above, what is $7504 \div 56$?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+Using the information given above,
 
-$
-\begin{aligned}
-7504                                               &= 56 \times 134 \ \text{So,} \\\\
-\dfrac {7504} {56}                                 &= 134 \\\\
-7504 \div 56                                       &= 134
-\end{aligned}
-$
+$7504 \div 56 = 134$
 
 </div>
 </div>
@@ -10030,271 +9286,6 @@ $7504$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>59CD1770-B31D-4823-A24A-82752DF02513</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I think of a number, multiply it by $5$, then subtract $3$. The result is $57$. What was the number I first thought of? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number I think of $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 5 - 3                                      &= 57 \\\\
-5a                                                  &= 57 + 3 \\\\
-5a                                                  &= 60 \\\\
-a                                                   &= \dfrac {60} {5} \\\\
-a                                                   &= \dfrac {5 \times 12} {5} \\\\
-a                                                   &= \dfrac {\cancel{5} \times 12} {\cancel{5}} \\\\
-a                                                   &= 12
-\end{aligned}
-$
-
-The number I thought of $= 12$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>33464044-5134-47C2-94C6-385CC7C0394E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What are the missing numbers in the following calculations?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$56 + ............ = 93$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-56 + a                                              &= 93 \\\\
-a                                                   &= 93 - 56 \\\\
-a                                                   &= 37
-\end{aligned}
-$
-
-The missing number is $= 37$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$37$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$182 \div ............. = 14$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-182 \div a                                          &= 14 \\\\
-a                                                   &= \dfrac {182} {14} \\\\
-a                                                   &= \dfrac {13 \times 14} {14} \\\\
-a                                                   &= \dfrac {13 \times \cancel{14}} {\cancel{14}} \\\\
-a                                                   &= 13
-\end{aligned}
-$
-
-The missing number is $= 13$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(12 -............) \times 12 = 96$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-(12 - a) \times 12                                  &= 96 \\\\
-12 - a                                              &= \dfrac {96} {12} \\\\
-12 - a                                              &= \dfrac {8 \times 12} {12} \\\\
-12 - a                                              &= \dfrac {8 \times \cancel{12}} {\cancel{12}} \\\\
-12 - a                                              &= 8 \\\\
-a                                                   &= 12 - 8 \\\\
-a                                                   &= 4
-\end{aligned}
-$
-
-The missing number is $= 4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{81-}{4}=9$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {81 - a} {4}                                 &= 9 \\\\
-81 - a                                              &= 9 \times 4 \\\\
-81 - a                                              &= 36 \\\\
-a                                                   &= 81 - 36 \\\\
-a                                                   &= 45
-\end{aligned}
-$
-
-The missing number is $= 45$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>434CD114-4752-47E2-A24B-B5229509F3BD</p>
 </div>
 <div class='topics'>
@@ -10316,10 +9307,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Start Time}                                                      &= \text{Time (Want to eat)} - (\text{Time taken (Preparing Ingredient + Baking + Cooling)}) \\\\
+\text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
                                                                        &= 3{:}15 \ \text{pm} - (15 + 18 + 10) \ \text{minutes} \\\\
                                                                        &= 3{:}15 \ \text{pm} - 43 \ \text{minutes} \\\\
-                                                                       &= 3{:}32 \ \text{pm}
+                                                                       &= 2{:}32 \ \text{pm}
 \end{aligned}
 $
 
@@ -10328,7 +9319,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3{:}32 \ \text{pm}$
+$2{:}32 \ \text{pm}$
 
 </div>
 </div>
@@ -10371,7 +9362,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times (\text{No. of minutes in an hour} \\\\
+\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times \text{No. of minutes in an hour} \\\\
                                 &= 24 \times 60 \\\\
                                 &= 1440 \ \text{minutes}
 \end{aligned}
@@ -10446,7 +9437,7 @@ How many bricks will there be in the wall?
 
 $
 \begin{aligned}
-\text{Total bricks}                                 &= \text{Brick (High) \times Brick (Wide)} \\\\
+\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick width} \\\\
                                                     &= 19 \times 14 \\\\
                                                     &= 266
 \end{aligned}
@@ -10536,7 +9527,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature (in London)}                      &= \dfrac {1} {2} \times (\text{Temperature (Helsinki + Madrid)}) \\\\
+\text{Temperature in London}                        &= \dfrac {\text{Temperature in (Helsinki + Madrid)}} {2} \\\\
                                                     &= \dfrac {-4 \degree \text{C} + 12 \degree \text{C}} {2} \\\\
                                                     &= \dfrac {8} {2} \\\\
                                                     &= \dfrac {2 \times 4} {2} \\\\
@@ -10555,133 +9546,6 @@ $4 \degree \text{C}$
 </div>
 </div>
 
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows a regular pentagon.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the value of $x$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-In a regular pentagon, all sides have the same length.
-
-As per the question,
-
-$
-\begin{aligned}
-3x + 5                                              &= 17 \\\\
-3x                                                  &= 17 - 5 \\\\
-3x                                                  &= 12 \\\\
-x                                                   &= \dfrac {12} {3} \\\\
-x                                                   &= \dfrac {3 \times 4} {3} \\\\
-x                                                   &= \dfrac {\cancel{3} \times 4} {\cancel{3}} \\\\
-x                                                   &= 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the value of $𝑦$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-In a regular pentagon, all sides have the same length.
-
-As per the question,
-
-$
-\begin{aligned}
-2y - 9                                              &= 17 \\\\
-2y                                                  &= 17 + 9 \\\\
-2y                                                  &= 26 \\\\
-y                                                   &= \dfrac {26} {2} \\\\
-y                                                   &= \dfrac {2 \times 13} {2} \\\\
-y                                                   &= \dfrac {\cancel{2} \times 13} {\cancel{2}} \\\\
-y                                                   &= 13
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
@@ -10736,13 +9600,13 @@ Julie can walk at $6 \ \text{km}$ per hour. How long will she take to finish the
 <div class='workings'>
 <div class='working'>
 
-Time $= \dfrac {\text{Distance}} {\text{Speed}}
+Time $= \dfrac {\text{Distance}} {\text{Speed}}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Time taken (by Julie)}                        &= \dfrac {24 \ \text{km}} {6 \ \text{km per hour}} \\\\
+\text{Time taken by Julie}                          &= \dfrac {24 \ \text{km}} {6 \ \text{km per hour}} \\\\
                                                     &= \dfrac {4 \times 6} {6} \\\\
                                                     &= \dfrac {4 \times \cancel{6}} {\cancel{6}} \\\\
                                                     &= 4 \ \text{hours}
@@ -10775,13 +9639,13 @@ Sarika can walk at $4 \ \text{km}$ per hour. How far will she still have left to
 <div class='workings'>
 <div class='working'>
 
-We know,  Julie took 4 hours to finish walking 24 km.
+We know,  Julie took $4$ hours to finish walking $24$ km.
 
 $
 \begin{aligned}
-\text{Distance Gary (Left)}                         &= \text{Total distance} - \text{Distance Gary (Covered)} \\\\
+\text{Reamining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
                                                     &= 24 \ \text{km} - (\text{Speed} \times \text{Time}) \\\\
-                                                    &= 24 \ \text{km} - (4 \ \text{km / hour} \times 4 \ \text{hour}) \\\\
+                                                    &= 24 \ \text{km} - (4 \ \text{km per hour} \times 4 \ \text{hours}) \\\\
                                                     &= 24 - 16 \\\\
                                                     &= 8 \ \text{km}
 \end{aligned}
@@ -10838,15 +9702,15 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
-                                                   &= 15 \ \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \times 8 \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \\\\
-                                                   &= 15 \ \text{cm} - 4 \ \text{cm} \times 8 \ \text{cm} - 4 \ \text{cm} \\\\
-                                                   &= 11 \ \text{cm} \times 4 \ \text{cm} \\\\
-                                                   &= 44 \ \text{cm}^{2} \\\\
+\text{Area of pool}                                &= (\text{Length of garden - 2} \times \text{Width of path}) \times (\text{Width of garden - 2} \times \text{Width of path}) \\\\
+                                                   &= (15 \text{m} - 2 \text{m} \times 2 \text{m}) \times (8 \text{m} - 2 \text{m} \times 2 \text{m}) \\\\
+                                                   &= (15 - 4) \times (8 - 4) \\\\
+                                                   &= 11 \times 4 \\\\
+                                                   &= 44 \text{m}^{2} \\\\
 \text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
-                                                   &= 15 \ \text{cm} \times 8 \ \text{cm}  - 44 \ \text{cm}^{2} \\\\
-                                                   &= 120 \ \text{cm}^{2} - 44 \ \text{cm}^{2} \\\\
-                                                   &= 76 \ \text{cm}^{2}
+                                                   &= 15 \text{m} \times 8 \text{m}  - 44 \text{m}^{2} \\\\
+                                                   &= 120 - 44 \\\\
+                                                   &= 76 \text{m}^{2}
 \end{aligned}
 $
 
@@ -10855,7 +9719,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$76 \ \text{cm}^{2}$
+$76 \text{m}^{2}$
 
 </div>
 </div>
@@ -10888,14 +9752,14 @@ Karen and Fran have some money. Karen has $\pounds 9$ more than Fran, together t
 <div class='workings'>
 <div class='working'>
 
-Let the money Frans have $= a$
+Let the money Fran have $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Money (Karen)} + \text{Money (Fran)}              &= \text{Total money} \\\\
-a + 9 + a                                               &= \pounds 45 \\\\
+\text{Money Karen have} + \text{Money Fran have}        &= \text{Total money} \\\\
+(a + 9) + a                                             &= \pounds 45 \\\\
 2a                                                      &= 45 - 9 \\\\
 2a                                                      &= 36 \\\\
 2a                                                      &= 36 \\\\
@@ -10906,9 +9770,7 @@ a                                                       &= \pounds 18
 \end{aligned}
 $
 
-Money Frans have $= \pounds 18$
-
-Let's calculate for Karen
+Money Fran have $= \pounds 18$
 
 $
 \begin{aligned}
@@ -10959,7 +9821,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cars (Neither blue nor red)}            &= \text{Total Cars - Blue Cars - Red Cars}  \\\\
+\text{Cars neither blue nor red)}             &= \text{Total cars - Blue cars - Red cars}  \\\\
                                               &= 48 - \dfrac {3} {8} \times 48 - 25\% \times 48 \\\\
                                               &= 48 - \dfrac {3 \times 48} {8} - \dfrac {25 \times 48} {100} \\\\
                                               &= 48 - \dfrac {3 \times 6 \times 8} {8} -  \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
@@ -10976,64 +9838,6 @@ $
 <div class='answer'>
 
 $18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>E939A9F2-9AF4-43F6-9C5F-9F1C96A47959</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tfraction
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $\dfrac{1}{4}$ of $20\%$ of $\dfrac{1}{6}$ of $40\%$ of $\pounds 1200$? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {1} {4} \ \text{of} \ 20\% \ \text{of} \ \dfrac {1} {6} \ \text{of} \ 40\% \ \text{of} \ \pounds 1200 \\\\
-&= \dfrac {1} {4} \times 20\% \times \dfrac {1} {6} \times 40\% \times 1200 \\\\
-&= \dfrac {1} {4} \times \dfrac {20} {100} \times \dfrac {1} {6} \times \dfrac {40} {100} \times \dfrac {1200} {1} \\\\
-&= \dfrac {1\times 20 \times 1 \times 40 \times 1200} {4 \times 100 \times 6 \times 100} \\\\
-&= \dfrac {2 \cancel {0} \times 4\cancel {0} \times 12 \cancel {00}} {4 \times 1\cancel {00} \times 6 \times 1\cancel {00}} \\\\
-&= \dfrac {2 \times 4 \times 12} {4 \times 6} \\\\
-&= \dfrac {2 \times 4 \times 2 \times 6} {4 \times 6} \\\\
-&= \dfrac {4 \times \cancel {4} \times \cancel {6}} { \cancel {4} \times \cancel {6}} \\\\
-&= \pounds 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4$
 
 </div>
 </div>
@@ -14987,7 +13791,7 @@ Which is the smallest?
 <div class='workings'>
 <div class='working'>
 
-The smallest number is $= 0.09$
+The smallest number $= 0.09$
 
 </div>
 </div>
@@ -15015,7 +13819,7 @@ Which is the largest?
 <div class='workings'>
 <div class='working'>
 
-The largest number is $0.909$
+The largest number $= 0.909$
 
 </div>
 </div>
@@ -15096,7 +13900,7 @@ $
 &&  \footnotesize{\maroonC{(+6)}}
 &&  \footnotesize{\maroonC{(+6)}}
 &&  \footnotesize{\maroonC{(+6)}} \\
-3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33 \ldots
+3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33,  && \ldots
 \end{matrix}
 $
 
@@ -15142,7 +13946,7 @@ $
 &&  \footnotesize{\maroonC{(+7)}}   
 &&  \footnotesize{\maroonC{(+9)}}
 &&  \footnotesize{\maroonC{(+11)}} \\
-2,  &&    5,  &&  10,  &&   17,  &&   26 \ldots
+2,  &&    5,  &&  10,  &&   17,  &&   26, && \ldots
 \end{matrix}
 $
 
@@ -15190,7 +13994,7 @@ $
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}   
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  \\
-1000,  &&    900,  &&  810,  &&   730,  &&   660, \ldots
+1000,  &&    900,  &&  810,  &&   730,  &&   660, && \ldots
 \end{matrix}
 $
 
@@ -15343,8 +14147,6 @@ $
 \end{aligned}
 $
 
-Total number of players $= 352$
-
 </div>
 </div>
 <div class='answers'>
@@ -15378,9 +14180,8 @@ $
 \text {Total supporters}        &=  \text {Total players}  \times \text {No. of supporters per player} \\\\
                                 &= 352 \times 8 \\\\
                                 &= 2816
-\end{aligned}$ 
-
-Total number of supporters $= 2816$
+\end{aligned}
+$
 
 </div>
 </div>
@@ -15408,7 +14209,7 @@ In total there were $128$ matches played. There was an average of $5$ goals scor
 <div class='workings'>
 <div class='working'>
 
- Average goals = Total goals / No. of matches
+$\text{Average goals} = \dfrac{\text{Total goals}}{\text{No. of matches}}$
 
 As per the question,
 
@@ -15419,8 +14220,6 @@ $
                             &= 640
 \end{aligned}
 $
-
-Total number of goals $= 600$
 
 </div>
 </div>
@@ -15501,7 +14300,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= 2 \times (14 + 9) \\\\
+\text{Perimeter}    &= 2 \times (14 + 9) \\\\
 &= 2 \times 23 \\\\
 &= 46 \ \text{cm}
 \end{aligned}
@@ -15541,7 +14340,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= 12 \times 8 \\\\
+\text{Area}     &= 12 \times 8 \\\\
 &= 96 \ \text{cm}^2
 \end{aligned}
 $
@@ -15574,26 +14373,26 @@ A square has a perimeter of $36 \ \text{cm}$. Find its area.
 <div class='workings'>
 <div class='working'>
 
-$\text{Perimeter of a square} = 4 \times (\text{side})$
+$\text{Perimeter of a square} = 4 \times \text{Side}$
 
 As per the question,
 
 $
 \begin{aligned}
-4 \times a  &= 36 \text{cm} \\\\
-a           &= \dfrac{36}{4} \text{cm} \\\\
-a           &= \dfrac{4 \times 9}{4} \\\\
-a           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
-a           &= 9 \text{cm}
+4 \times \text{Side}  &= 36 \ \text{cm} \\\\
+Side           &= \dfrac{36}{4} \ \text{cm} \\\\
+Side           &= \dfrac{4 \times 9}{4} \\\\
+Side           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
+Side           &= 9 \ \text{cm}
 \end{aligned}
 $
 
-$\text{Area of a square} = \text{side}^2$
 
 $
 \begin{aligned}
+\text{Area of a square} &= \text{Side}^2 \\\\
 &= 9^2 \\\\
-&= 81 \text{cm}^2
+&= 81 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -17820,62 +16619,6 @@ $24$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>3E12E5A1-1C9D-490A-A55D-17256F88FBF4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I think of a number. I multiply my number by 9 and add 5 to the result. The answer is 50. What is my number? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number I think of $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 9 + 5                                               &= 50 \\\\
-9a                                                           &= 50 - 5 \\\\
-9a                                                           &= 45 \\\\
-a                                                            &= \dfrac {45} {9} \\\\
-a                                                            &= \dfrac {9 \times 5} {9} \\\\
-a                                                            &= \dfrac {\cancel{9} \times 5} {\cancel{9}} \\\\
-a                                                            &= 5
-\end{aligned}
-$
-
-The number I think of $= 5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>E45D50A1-C037-4479-BF15-60CA06B7E05D</p>
 </div>
 <div class='topics'>
@@ -18008,14 +16751,18 @@ As per the question,
 
 $
 \begin{aligned}
-( x + 7 ) \times 8  &=  x \times 22 \\\\
-           8x + 56  &=  22x \\\\
-                56  &=  22x - 8x \\\\
-               56   &=  14x \\\\
-                 4  &=  x 
+x \times 22 &= (x + 7) \times 8 \\\\
+        22x &= 8x + 56 \\\\
+   22x - 8x &= 56 \\\\
+        14x &= 56 \\\\
+          x &= \dfrac {56} {14} \\\\
+          x &= \dfrac {14 \times 4} {14} \\\\
+          x &= \dfrac {\cancel {14} \times 4} {\cancel {14}} \\\\
+          x &= 4
 \end{aligned}
 $
 
+x is $4$.
 
 </div>
 </div>
@@ -18138,7 +16885,7 @@ $1 \,\,\,\,\, 3 \,\,\,\,\, 9 \,\,\,\,\, 27 \,\,\,\,\, 81$  ... ...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+The next term is calculated by multiplying the previous sequence by 3. Hence the sequence would be:
 
 $
 \begin{matrix}
@@ -18250,17 +16997,17 @@ $1 \,\,\,\,\, 1 \,\,\,\,\, 2 \,\,\,\,\, 3 \,\,\,\,\, 5 \,\,\,\,\, 8$  …  …
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The next term is calculated by adding the previous sequence difference by 1. Hence, the sequence would be:
+The next term is calculated by adding the previous two numbers in sequence. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{ \red { (+0) } } 
 &&  \footnotesize{ \red { (+1) } }  
+&&  \footnotesize{ \red { (+1) } }   
 &&  \footnotesize{ \red { (+2) } }   
-&&  \footnotesize{ \red { (+3) } }   
-&&  \footnotesize{ \red { (+4) } }
+&&  \footnotesize{ \red { (+3) } }
 &&  \footnotesize{ \red { (+5) } } 
-&&  \footnotesize{ \red { (+6) } } \\
+&&  \footnotesize{ \red { (+8) } } \\
 1,  &&    1,  &&  2,  &&   3,  &&   5,  &&   8, 	&&	\ldots, && \ldots 
 \end{matrix}
 $
@@ -18274,8 +17021,8 @@ $
 
 $
 \begin{aligned}
-\text{Second missing number}   &= 13+6 \\\\
-                               &= 19
+\text{Second missing number}   &= 13+8 \\\\
+                               &= 21
 \end{aligned}
 $
 
@@ -18284,7 +17031,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$13, 19$
+$13, 21$
 
 </div>
 </div>
@@ -23189,153 +21936,6 @@ $\text {Obtuse angle is any angle greater than 90\degree}$
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
-<p>6BA7D9CC-3F62-4216-8E18-9D460E0DF11D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the next two numbers in each of the following sequences. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3\:\:\: 6\:\:\:  12\:\:\:  24\:\:\:   48$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The difference between the terms is $\times{2}$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize { \red { (\times {2} ) } } 
-&&  \footnotesize { \red { (\times {2} ) } }  
-&&  \footnotesize { \red { (\times {2} ) } }   
-&&  \footnotesize { \red { (\times {2} ) } }   
-&&  \footnotesize { \red { (\times {2} ) } } \\
-3,  &&    6,  &&  12,  &&   24,  &&   48,  && \ldots, && \ldots 
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing first number}   &= 48 \times{2}\\\\
-                              &= 96
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Missing second number}   &= 96 \times{2}\\\\
-                               &= 192
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$96, 192$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$58\:\:\:   57\:\:\:   55\:\:\:   52\:\:\:  48$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{matrix}
-&   \footnotesize{ \red { (-1) } } 
-&&  \footnotesize{ \red { (-2) } }  
-&&  \footnotesize{ \red { (-3) } }   
-&&  \footnotesize{ \red { (-4) } }   
-&&  \footnotesize{ \red { (-5) } } \\
-58  &&    57  &&  55  &&   52  &&   48  && \ldots && \ldots 
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing first number}   &= 48 - 5\\\\
-                              &= 43
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Missing second number}   &= 43 - 6\\\\
-                               &= 37
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$43, 37$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
 <p>143C7006-44B5-49D4-BF75-6AB0ECEAF105</p>
 </div>
 <div class='topics'>
@@ -23490,7 +22090,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
 </div>
@@ -23511,21 +22111,23 @@ A child’s heart beats $80$ times per minute. How many times will it beat betwe
 
 $
 \begin{aligned}
-&= 3 {:} 30 - 8 {:} 30 \\\\
-&= 15 {:} 30 - 8 {:} 30 \\\\
-&= 7 \ \text {hours} \\\\
-&= 7 \times 60 \ \text {minutes} \\\\
-&= 420 \ \text {minutes}  
+\text {Time difference}  &= 3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am} \\\\
+                         &= 15 {:} 30 - 8 {:} 30 \\\\
+                         &= 7 \ \text {hours} \\\\
+                         &= 7 \times 60 \ \text {minutes} \\\\
+                         &= 420 \ \text {minutes}
 \end{aligned}
 $
 
-For one minute child'd heart beats $=80$
-For 420 minute child's heart beats ,
+$
+\begin{aligned}
+\text {Total heartbeat}  &= \text {(Time difference)} \times 80 \ \text {bpm} \\\\
+                         &= 420 \times 80 \\\\
+                         &= 33600 \ \text {times}
+\end{aligned}
+$
 
-$
-&= 420 \times 80 \\\\
-&= 33600
-$
+The child's heart beat 33600 times between $8.30 \ \text {am}$ and $3.30 \ \text {pm}$.
 
 </div>
 </div>
@@ -23541,7 +22143,7 @@ $33600$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -23617,6 +22219,8 @@ I think of a number, multiply it by $2$ and subtract $5$. The answer is $11$. Wh
 
 Let the number $=a$
 
+As per the question,
+
 $
 \begin{aligned}
 a \times 2 - 5 &= 11 \\\\
@@ -23628,6 +22232,8 @@ a              &= \dfrac {8 \times \cancel{2}} {\cancel{2}} \\\\
 a              &= 8
 \end{aligned}
 $
+
+My number is $8$.
 
 </div>
 </div>
@@ -38209,48 +36815,22 @@ Make a list of all the whole numbers which leave a remainder of $7$ when divided
 <div class='workings'>
 <div class='working'>
 
-Let the whole number which leave a remainder of $7$ when divided into $46$ = $a$
+As per the question,
+The whole number leaves a remainder $7$ when divided into $46$.
 
-As it leaves a remainder $7$, it must be a factor of $46 - 7 = 39$
+As such, the number will be a factor of $= 46 - 7 = 39$
 
 Factors of $39 = {1 , 3 , 13 , 39}$
 
-$1$ leaves no remainder when divided into $46$
+The number has to be greater than $7$ as it  leaves a remainder $7$.
 
-$3$ when divided into $46$ :
+Let's check $13$ and $39$ fulfil the criteria.
 
-$
-\begin{aligned}
-&= \dfrac {46} {3} \\\\
-&= 15 \dfrac {1} {3}
-\end{aligned}
-$
+$= \dfrac {46} {13} = \text{Quotient} \ 3 \ \text{Remainder} \ 7$
 
-$3$ when divided into $46$ leaves a remainder $1$
+$= \dfrac {46} {39} = \text{Quotient} \ 1 \ \text{Remainder} \ 7$
 
-$13$ when divided into $46$ :
-
-$
-\begin{aligned}
-&= \dfrac {46} {13} \\\\
-&= 3 \dfrac {7} {13}
-\end{aligned}
-$
-
-$13$ when divided into $46$ leaves a remainder $7$
-
-$39$ when divided into $46$ :
-
-$
-\begin{aligned}
-&= \dfrac {46} {39} \\\\
-&= 3 \dfrac {7} {39}
-\end{aligned}
-$
-
-$39$ when divided into $46$ leaves a remainder $7$
-
-the whole numbers which leave a remainder of $7$ when divided into $46$ = $13, 39$
+The whole numbers which leave a remainder of $7$ when divided into $46$ = $13$ and $39$
 
 </div>
 </div>
@@ -38318,7 +36898,7 @@ $C = 3n +40$
 </div>
 <div class='question subquestion'>
 
-What is the charge, in $$\pounds $, for a party of $20$ people?
+What is the charge, in $\pounds $, for a party of $20$ people?
 
 </div>
 <div class='workings'>
@@ -38326,18 +36906,14 @@ What is the charge, in $$\pounds $, for a party of $20$ people?
 
 As per the question,
 
-Charge per $n$ people $\pounds C = 3n +40$
-
-Charge per $20$ people $\pounds C = 3 \times 20 +40$
-
 $
 \begin{aligned}
-&= 60 + 40 \\\\
-&= 100
+\text{Charge per n people} \pounds C    &= 3n +40 \\\\
+\text{Charge per 20 people} \pounds C   &= 3 \times 20 +40 \\\\
+                                        &= 60 + 40 \\\\
+                                        &= 100
 \end{aligned}
 $
-
-Charge per $20$ people  = $\pounds 100$
 
 </div>
 </div>
@@ -38371,11 +36947,9 @@ $
                                     &= \dfrac {100} {20} \\\\
                                     &= \dfrac {20 \times 5} {20} \\\\
                                     &= \dfrac {\cancel{20} \times 5} {\cancel{20}} \\\\
-                                    &= 5
+                                    &= \pounds 5
 \end{aligned}
 $
-
-Average cost per person = $5$
 
 </div>
 </div>
@@ -38437,10 +37011,13 @@ Calculate the shaded area.
 
 As per the question,
 
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
 $
 \begin{aligned}
-\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of PQBT} \\\\
-                                    &= AB \times AD - (PQ \times (PS - BR)) \\\\
+\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
+                                    &= AB \times AD - QB \times QP \\\\
+                                    &= AB \times AD - ((PS - BR) \times QP) \\\\
                                     &= 5 \times 3 - 2 \times (2 - 1) \\\\
                                     &= 15 - 2 \times 1 \\\\
                                     &= 15 - 2 \\\\
@@ -38491,13 +37068,11 @@ $68\:\:\:70\:\:\:43\:\:\:5\:\:\:217$
 <div class='workings'>
 <div class='working'>
 
-As per th divisibility rule of $5$,
+We know, if the last digit of a number is $0$ or $5$ , then the number is divisible by $5$ .
 
-Any number whose unit digit is either $0$ or $5$ is divisible by $5$
+As per the question, 
 
-As per the question,
-
-$70, 5$ are divisible by $5$
+Number divisible by $5 = 70$ and $5$
 
 </div>
 </div>
@@ -38549,22 +37124,19 @@ Which **one** of the following statements is false?
 
 Using BIDMAS,
 
-$2 + 5 \times 4 = 22$
+A. $2 + 5 \times 4 = 22$
 $2 + 20 = 22$
 
-$18 - 6 \times 3 = 0$
+B. $18 - 6 \times 3 = 0$
 $18 - 18 = 0$
 
-$15-2 \times 7 = 1$
+C. $15-2 \times 7 = 1$
 $15-14 = 1$
 
-$7 + 1 \times 3 = 24$ 
-$7 + 3 = 10 \cancel = 24$
+D. $7 + 1 \times 3 = 21$
 
-$8 \times 5 - 7 = 33$
+E. $8 \times 5 - 7 = 33$
 $40 - 7 = 33$
-
-Equation D is false
 
 </div>
 </div>
@@ -38617,31 +37189,30 @@ Write the next two lines of the pattern
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+As per the question, the number pattern looks like 
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+3)}}  
 &&  \footnotesize{\maroonC{(+5)}} 
 &&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+9)}} \\
-1^2,  &&    2^2,  &&  3^2,  &&   4^2 \ldots
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}
+&&  \footnotesize{\maroonC{(+13)}} \\
+1^2,  &&    2^2,  &&  3^2,  &&   4^2, && \ldots, && \ldots, &&\ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First line}               &= 5^2 + 11 \\\\
+\text{First line }              &= 5^2 + 11 \\\\
                                 &= 25 + 11 \\\\
                                 &= 36 \\\\
-\text{Secondline}               &= 6^2 + 13 \\\\
+\text{Secondline }              &= 6^2 + 13 \\\\
                                 &= 36 + 13 \\\\
                                 &= 49                      
 \end{aligned}
 $
-
-First line : $5^2 + 11 = 36$
-Second line : $6^2 + 13 = 49$
 
 </div>
 </div>
@@ -38649,6 +37220,7 @@ Second line : $6^2 + 13 = 49$
 <div class='answer'>
 
 First line : $5^2 + 11 = 36$
+
 Second line : $6^2 + 13 = 49$
 
 </div>
@@ -38687,9 +37259,8 @@ In Moscow at noon it is $4˚\,C$. By midnight the temperature has dropped by $10
 
 As per the question,
 
-Temperature in noon = $4 \degree C$
-
-Temperature at midnight = $4 - 10 \degree C = -6 \degree C$
+Temperature at midnight $ = 4 - 10 \degree C \\\\
+                        $ = -6 \degree C$
 
 </div>
 </div>
@@ -38732,19 +37303,26 @@ Ben wants to buy $17$ small bottles of drink for a party. A shop sells them at: 
 <div class='workings'>
 <div class='working'>
 
-Let the smallest amount of money he needs to pay be $= a$
-
-As per the question,
-
-Smallest amount is achieved only when he buys three packs of 5 bottles and one pack of 2 bottles.
+To spend the smallest amount Ben needs to buy maximum possible pack of 5 bottles.
 
 $
 \begin{aligned}
-a                                       &= 3 \times 60 \text{p} + 2 \times 28 \text{p} \\\\
-a                                       &= 180 + 56 \\\\
-a                                       &= 236 \text{p} \\\\
-a                                       &= \pounds \dfrac {236} {100} \\\\
-a                                       &= \pounds 2.36
+\text{Bottles needed}   &= 17 \\\\
+&= 15 \ \text{bottles} + 2 \ \text{bottles} \\\\
+&= 3 x 5 \ \text{pack} + 1 x 2 \ \text{pack}
+\end{aligned}
+$
+
+Let's calculate the amount of money he needs to spend.
+
+$
+\begin{aligned}
+\text{Smallest amount he spends}        &= 3 \times \text{Cost of 5 packs} + 1 \times \text{Cost of 2 packs} \\\\
+                                        &= 3 \times 60 \text{p} + 1 \times 28 \text{p} \\\\
+                                        &= 180 \text{p} + 28 \text{p} \\\\
+                                        &= 208 \text{p} \\\\
+                                        &= \pounds \dfrac {208} {100} \\\\
+                                        &= \pounds 2.08
 \end{aligned}
 $
 
@@ -38753,7 +37331,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.36$
+$\pounds 2.08$
 
 </div>
 </div>
@@ -38870,7 +37448,7 @@ What number goes in the box?
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be $= a$
+Let the missing number $= a$
 
 As per the question,
 
@@ -38884,6 +37462,8 @@ a                                       &= 24 - 20 \\\\
 a                                       &= 4
 \end{aligned}
 $
+
+The missing number $= 4$
 
 </div>
 </div>
@@ -38925,8 +37505,9 @@ On the planet Zog, all numbers are written with the digits in reverse order. For
 
 As per the question,
 
-The numbers are written in reverse order. 
+On planet Zog, all numbers are written in reverse order.
 
+So,
 $
 \begin{aligned}
 &= 729 - 26 \\\\
@@ -38935,12 +37516,14 @@ $
 \end{aligned}
 $
 
+​$865$ will be also written in reverse order $= 568$
+
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$865$
+$568$
 
 </div>
 </div>
@@ -39039,11 +37622,15 @@ As per the question,
 
 The number leaves a remainder $2$ when divided by $53$ and is less than $120$
 
-$53 \times 1 + 2 = 53 < 120$
-$53 \times 2 + 2 = 108 < 120$
-$53 \times 3 + 2 = 161 > 120$
+$53 \times 2 = 106$
+$106 < 120$
 
-The number is $161$
+$53 \times 3 = 159$
+$159 > 120$ So,
+
+$159 + 2 = 161$
+
+The smallest whole number, above $120$ , which when divided by $53$ , leaves a remainder of two $= 161$
 
 </div>
 </div>

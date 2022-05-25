@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-pr"
 title: "Topic - Coin - PR"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -351,77 +351,6 @@ $56 p , So 10*5 and 5*5 and 1*1$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>44871CCE-80E9-4654-AF29-D474783C1D63</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In 1990 a new $5 \text{p}$ coin was minted. The old size weighs $5.65\ \text{g}$ while the new size weighs $3.25\ \text{g}$. How much lighter will your pocket be if it contains $\pounds 2$ worth of the new size coins instead of the old size. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Weight for older coins
-
-$
-\begin{aligned}
-\text {Weight of 5p(\pounds 0.05) coin} &= 5.65\ \text{g} \\\\
-\text {Weight of 1p(\pounds 0.01) coin} &= \dfrac {5.65} {5} \\\\
-                                        &= 1.13 \ \text {g} \\\\
-\text {Weight of \pounds 2(200 p) coin} &= 1.13 \times 200 \\\\
-                                        &= 226 \ \text{g}                                      
-\end{aligned}
-$
-
-Weight for new coins
-
-$
-\begin{aligned}
-\text {Weight of 5p(\pounds 0.05) coin} &= 3.25\ \text{g} \\\\
-\text {Weight of 1p(\pounds 0.01) coin} &= \dfrac {3.25} {5} \\\\
-                                        &= 0.65 \ \text {g} \\\\
-\text {Weight of \pounds 2(200 p) coin} &= 0.65 \times 200 \\\\
-                                        &= 130 \ \text{g}                                   
-\end{aligned}
-$
-
-Difference of weight between older and new coins,
-
-$
-\begin{aligned}
-&= 226 - 130 \\\\
-&= 96 \ \text{g}                                   
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$96 \ \text{g}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

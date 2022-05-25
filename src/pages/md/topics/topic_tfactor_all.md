@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-all"
 title: "Topic - Factor - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2091,7 +2091,7 @@ $132$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>D86B78CF-3CB7-4D94-91D5-0A682E2CE7C1</p>
 </div>
@@ -2142,7 +2142,7 @@ $16, 24, 8$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -5631,7 +5631,7 @@ $53$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>B500989A-95BC-48E9-99DE-F777B5042D16</p>
 </div>
@@ -5783,7 +5783,7 @@ $\text{Prime Number}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -6340,7 +6340,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>AEBABE3E-F196-4C58-B465-E9AE5604FC6A</p>
 </div>
@@ -6394,7 +6394,7 @@ $\dfrac{9}{20}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -6940,7 +6940,7 @@ $37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>66F9DB99-346C-4805-95D0-3C0EA0A096D8</p>
 </div>
@@ -6951,6 +6951,9 @@ tfactor
 </li>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -7076,14 +7079,21 @@ Write down your answer.
 <div class='workings'>
 <div class='working'>
 
-$56$
+$
+\begin{aligned}
+&= \dfrac {1 + 2 + 4 + 7 + 14 + 28} {2} \\\\
+&= \dfrac {56} {2} \\\\
+&= \dfrac {28 \times \cancel{2}} {\cancel{2}} \\\\
+&= 28
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$56$
+$28$
 
 </div>
 </div>
@@ -7108,14 +7118,22 @@ Find a perfect number which is less than $10$.
 <div class='workings'>
 <div class='working'>
 
-$8$
+$
+\begin{aligned}
+\text {Half of the sum of factors of 6} &= \dfrac {1 + 2 + 3 + 6} {2} \\\\
+                                        &= \dfrac {12} {2} \\\\
+                                        &= \dfrac {2 \times 6} {2} \\\\
+                                        &= \dfrac {\cancel{2} \times 6} {\cancel{2}} \\\\
+                                        &= 6
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8$
+$6$
 
 </div>
 </div>
@@ -7127,7 +7145,7 @@ $8$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -7516,7 +7534,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>20A45DB5-153C-4BAE-BAB2-5E40D2045B0E</p>
 </div>
@@ -7554,7 +7572,7 @@ $48$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -8059,48 +8077,22 @@ Make a list of all the whole numbers which leave a remainder of $7$ when divided
 <div class='workings'>
 <div class='working'>
 
-Let the whole number which leave a remainder of $7$ when divided into $46$ = $a$
+As per the question,
+The whole number leaves a remainder $7$ when divided into $46$.
 
-As it leaves a remainder $7$, it must be a factor of $46 - 7 = 39$
+As such, the number will be a factor of $= 46 - 7 = 39$
 
 Factors of $39 = {1 , 3 , 13 , 39}$
 
-$1$ leaves no remainder when divided into $46$
+The number has to be greater than $7$ as it  leaves a remainder $7$.
 
-$3$ when divided into $46$ :
+Let's check $13$ and $39$ fulfil the criteria.
 
-$
-\begin{aligned}
-&= \dfrac {46} {3} \\\\
-&= 15 \dfrac {1} {3}
-\end{aligned}
-$
+$= \dfrac {46} {13} = \text{Quotient} \ 3 \ \text{Remainder} \ 7$
 
-$3$ when divided into $46$ leaves a remainder $1$
+$= \dfrac {46} {39} = \text{Quotient} \ 1 \ \text{Remainder} \ 7$
 
-$13$ when divided into $46$ :
-
-$
-\begin{aligned}
-&= \dfrac {46} {13} \\\\
-&= 3 \dfrac {7} {13}
-\end{aligned}
-$
-
-$13$ when divided into $46$ leaves a remainder $7$
-
-$39$ when divided into $46$ :
-
-$
-\begin{aligned}
-&= \dfrac {46} {39} \\\\
-&= 3 \dfrac {7} {39}
-\end{aligned}
-$
-
-$39$ when divided into $46$ leaves a remainder $7$
-
-the whole numbers which leave a remainder of $7$ when divided into $46$ = $13, 39$
+The whole numbers which leave a remainder of $7$ when divided into $46$ = $13$ and $39$
 
 </div>
 </div>

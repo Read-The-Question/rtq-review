@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-all"
 title: "Topic - Money - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4475,11 +4475,9 @@ As per the question,
 
 $
 \begin {aligned}
-\pounds 100         &= 120 \ \text {euros} \\\\
-\dfrac {100} {100}  &= \dfrac {120} {100} \\\\
-\pounds 1           &= 1.2 \ \text {euros} \\\\
-500 \times 1        &= 1.2 \times 500 \\\\
-\pounds 500         &= 600 \ \text {euros}
+\pounds 100             &= € 120 \\\\
+\pounds 100 \times 5    &= € 120 \times 5 \\\\
+\pounds 500             &= € 600
 \end {aligned}
 $
 
@@ -4488,7 +4486,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$600 \ \text {euros}$
+$€ 600$
 
 </div>
 </div>
@@ -4509,19 +4507,13 @@ How many pounds would be worth the same as $€300$ (euros)?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+As per the answer above,
 
 $
 \begin {aligned}
-120 \ \text {euros}  &= \pounds 100 \\\\
-1 \times 120         &= 100 \\\\
-1 \ \text {euros}    &= \pounds \dfrac {100} {120} \\\\
-300 \times 1         &= 300 \times \dfrac {100} {120} \\\\
-300                  &= \dfrac {100 \times 300} {120} \\\\
-300                  &= \dfrac {4 \times 25 \times 3 \times 10 \times 10} {3 \times 4 \times 10} \\\\
-300                  &= \dfrac {\cancel {4} \times 25 \times \cancel {3} \times \cancel {10} \times 10} {\cancel {3} \times \cancel {4} \times \cancel {10}} \\\\
-300                  &= 25 \times 10 \\\\
-300 \ \text {euros}  &= \pounds 250
+\pounds 500                 &= € 600 \\\\
+\pounds \dfrac {500} {2}    &= € \dfrac {600} {2} \\\\
+€ 300                       &= \pounds 250
 \end {aligned}
 $
 
@@ -4551,18 +4543,19 @@ Bruno has $\pounds 600$ (pounds). Marie has $€700$ (euros). Decide who has the
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+Let's convert pounds into euros to compare them.
 
-$\pounds 1 = 1.2 \ \text {euros}$.
+As per the above answers,
 
 $
 \begin {aligned}
-600 \times \pounds 1  &= 600 \times 1.2 \ \text {euros} \\\\
-\pounds 600           &= 720 \ \text {euros}
+\pounds 600     &= \pounds 500 + \pounds 100 \\\\
+                &= € 600 + € 120 \\\\
+                &= € 720
 \end {aligned}
 $
 
-Hence, Bruno has $20 \ \text {euros}$ more than Marie.
+Bruno has $€ 720$ and Marie has $€ 700$. Bruno has $€ 20$ more than Marie.
 
 </div>
 </div>
@@ -16980,7 +16973,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B101365B-DE62-48DE-89C1-F6C3C78D7692</p>
 </div>
@@ -17226,7 +17219,7 @@ $49643$
 <p>oundle-school--11-plus--maths--2017--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -18134,7 +18127,7 @@ $610$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>ECC9C62A-5E83-4FDE-ACA1-1F96AF5CB532</p>
 </div>
@@ -18361,7 +18354,7 @@ $\dfrac {17} {42}$
 <p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -18794,10 +18787,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Change (Received)}                        &= \text{Money (Paid)} - (\text{Ticket Cost ( 2 x Adults)} + \text{Ticket Cost ( 4 x Children)}) \\\\
-                                                &= 2 \times \pounds 20 - (2 \times \pounds 11.50 + 4 \times \pounds 3.70) \\\\
-                                                &= 40 - (23 + 14.80) \\\\
-                                                &= 40 - 37.80 \\\\
+\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 4 \ \text{Children} \\\\
+                                                &= 2 \times \pounds 20 - 2 \times \pounds 11.50 - 4 \times \pounds 3.70 \\\\
+                                                &= 40 - 23 - 14.80 \\\\
                                                 &= \pounds 2.20
 \end{aligned}
 $
@@ -18821,7 +18813,7 @@ $\pounds 2.20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>F3F34EA3-2E57-420F-B3B7-CB31E96031AB</p>
 </div>
@@ -18935,7 +18927,7 @@ $\pounds 104.50$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -18963,7 +18955,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Tasweer (Owe Julie)}                         &= \text{Money (Julie paid)} - \text{Money (Julie owed)} \\\\
+\text{Tasweer owe Julie}                           &= \text{Money Julie paid - Money Julie owed} \\\\
                                                    &= \pounds 20 - \pounds 12.70 \\\\
                                                    &= \pounds 7.30
 \end{aligned}
@@ -19054,10 +19046,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Change (Received)}                        &= \text{Money (Paid)} - (\text{Ticket Cost ( 2 x Adults)} + \text{Ticket Cost ( 3 x Children)}) \\\\
-                                                &= \pounds 50 - (2 \times \pounds 9.50 + 3 \times \pounds 2.60) \\\\
-                                                &= 50 - (19 + 7.80) \\\\
-                                                &= 50 - 26.80 \\\\
+\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 3 \ \text{Children} \\\\
+                                                &= \pounds 50 - 2 \times \pounds 9.50 - 3 \times \pounds 2.60 \\\\
+                                                &= 50 - 19 - 7.80 \\\\
                                                 &= \pounds 23.20
 \end{aligned}
 $
@@ -19228,7 +19219,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Josh (Owe Tina)}                             &= \text{Money (Julie paid)} - \text{Money (Julie owed)} \\\\
+\text{Josh owe Tina}                               &= \text{Money Julie paid} - \text{Money Julie owed} \\\\
                                                    &= 3 \times \pounds 10 - \pounds 23.80 \\\\
                                                    &= \pounds 30 - \pounds 23.80 \\\\
                                                    &= \pounds 6.20
@@ -19273,14 +19264,14 @@ Karen and Fran have some money. Karen has $\pounds 9$ more than Fran, together t
 <div class='workings'>
 <div class='working'>
 
-Let the money Frans have $= a$
+Let the money Fran have $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Money (Karen)} + \text{Money (Fran)}              &= \text{Total money} \\\\
-a + 9 + a                                               &= \pounds 45 \\\\
+\text{Money Karen have} + \text{Money Fran have}        &= \text{Total money} \\\\
+(a + 9) + a                                             &= \pounds 45 \\\\
 2a                                                      &= 45 - 9 \\\\
 2a                                                      &= 36 \\\\
 2a                                                      &= 36 \\\\
@@ -19291,9 +19282,7 @@ a                                                       &= \pounds 18
 \end{aligned}
 $
 
-Money Frans have $= \pounds 18$
-
-Let's calculate for Karen
+Money Fran have $= \pounds 18$
 
 $
 \begin{aligned}
@@ -19321,7 +19310,7 @@ $\pounds 27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>E939A9F2-9AF4-43F6-9C5F-9F1C96A47959</p>
 </div>
@@ -19374,7 +19363,7 @@ $\pounds 4$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -22657,7 +22646,7 @@ $\pounds 288$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>655C3EF2-4B38-45E9-8354-01DF35EC3875</p>
 </div>
@@ -22684,7 +22673,7 @@ Enterance fee per person $= \pounds 1.20$
 
 $
 \begin{aligned}
-\text {Number of people visited on Friday} &= \dfrac {\text {Total Fee collected}} {\text {Enterance fee}}\\\\
+\text {Number of people visited on Friday} &= \dfrac {\text {Total Fee collected}} {\text {Enterance fee}} \\\\
                                            &= \dfrac {600} {1.20} \\\\
                                            &= \pounds 500
 \end{aligned}
@@ -22704,7 +22693,7 @@ $\pounds 500$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -23726,7 +23715,7 @@ $\pounds 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>33BA3A42-D90E-400D-A934-CADF6E6B81F9</p>
 </div>
@@ -23745,9 +23734,9 @@ $2$ packets of crisps and $2$ drinks cost $\pounds 1.50$. $2$ packets of crisps 
 <div class='workings'>
 <div class='working'>
 
-Cost of 2 crips(a) and 2 drinks(b) $=\pounds 1.50$
+Let the price of crisp $= a$
 
-Cost of 2 crips(a) and 1 drinks(b) $=\pounds 1.10$
+Let the price of drinks $= b$
 
 $
 \begin{aligned}
@@ -23777,6 +23766,8 @@ a   &=  0.35
 \end{aligned}
 $
 
+Price of crisp $= \pounds 0.35$, and price of drinks $= \pounds 0.40$. Using this we get,
+
 $
 \begin{aligned}
 \text {For 4 crisps and 3 drinks} &= 4 \times 0.35 + 3 \times 0.40 \\\\
@@ -23799,7 +23790,7 @@ $\pounds 2.6$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -25234,7 +25225,7 @@ $
 \end{aligned}
 $
 
-So he will receive $\pounds 1.33$ change.
+Change he recieves =  $\pounds 1.33$.
 
 </div>
 </div>
@@ -25279,12 +25270,8 @@ Which is better value, $600 \ \text{g}$ for $\pounds 3$ or $500 \ \text{g}$ for 
 
 As per the question,
 
-$
-\begin{aligned}
-\text{By comparing equal mass} \\\\
-&=  600 \ \text{g} \  \text{for} \  \pounds 3  \ \text{is better value then}  \ 500 \ \text{g} \  \text{for} \  \pounds 2.75 \\\\
-\end{aligned}
-$
+$\text{By comparing equal mass}$,
+$600 \ \text{g} \  \text{for} \  \pounds 3  \ \text{is better value than}  \ 500 \ \text{g} \  \text{for} \  \pounds 2.75$
 
 </div>
 </div>
@@ -25529,11 +25516,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{The cost of} \  11 \  \text{pencils}  &=  \pounds 4.95 \\\\
-\text{The cost of} \ 1  \ \text{pencils}  &=  4.95 \div 11 \\\\
+\text{Cost of} \  11 \  \text{pencils}  &=  \pounds 4.95 \\\\
+\text{Cost of} \ 1  \ \text{pencils}  &=  4.95 \div 11 \\\\
 &=  \dfrac{4.95}{11} \\\\
-&=  0.0.45 \\\\
-\text{The cost of} \  7  \ \text{pencils}  &= 0.0.45 \times 7
+&=  0.45 \\\\
+\text{Cost of} \  7  \ \text{pencils}  &= 0.45 \times 7
 &=  \pounds 3.15
 \end{aligned}
 $
@@ -25546,7 +25533,7 @@ $
 </div>
 <div class='answer'>
 
-$\pounds 3.156$
+$\pounds 3.15$
 
 </div>
 </div>
@@ -26449,7 +26436,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>531ECA32-EC61-4DC0-B7E2-A82CE25C7F7E</p>
 </div>
@@ -26492,7 +26479,7 @@ $\pounds 0.52$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -29279,7 +29266,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>AAF50B0C-7B6A-4176-B987-3E6426D91A8E</p>
 </div>
@@ -29334,9 +29321,9 @@ Write down the mass of one calculator.
 
 $
 \begin{aligned}
-&= \dfrac {1500} {10} \\\\
-&= \dfrac {150\cancel{0}} {1\cancel{0}} \\\\
-&= 150 \ \text{g}
+\text {Mass of one calculator} &= \dfrac {1500} {10} \\\\
+                               &= \dfrac {150\cancel{0}} {1\cancel{0}} \\\\
+                               &= 150 \ \text{g}
 \end{aligned}
 $
 
@@ -29392,11 +29379,12 @@ What is the total mass of $100$ calculators?
 <div class='workings'>
 <div class='working'>
 
+As per the question mass of ten calculators $= 1500 \ \text{g}$.Using that we get,
+
 $
 \begin{aligned}
-&= \dfrac {1500} {100} \\\\
-&= \dfrac {15\cancel{00}} {1\cancel{00}} \\\\
-&= 15 \ \text{g}
+\text {Mass of 100 calculators} &= 1500 \times 10 \\\\
+                                &= 15000 \ \text{g}
 \end{aligned}
 $
 
@@ -29405,7 +29393,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15 \ \text{g}$
+$15000 \ \text{g}$
 
 </div>
 </div>
@@ -29426,14 +29414,19 @@ Write your answer to part (ii) (a) in kilograms.
 <div class='workings'>
 <div class='working'>
 
-$0.15\ \text{kg}, 0.015 \ \text{kg}$
+$
+\begin{aligned}
+&= \dfrac {15 \cancel{000}} {1 \cancel{000}}
+&= 15 \ \text{kg}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.15\ \text{kg}, 0.015 \ \text{kg}$
+$15 \ \text{kg}$
 
 </div>
 </div>
@@ -29461,8 +29454,8 @@ What is the cost of $10$ calculators?
 
 $
 \begin{aligned}
-&= 5.19 \times 10 \\\\
-&= \pounds 51.9
+\text {cost of 10 calculators} &= 5.19 \times 10 \\\\
+                               &= \pounds 51.9
 \end{aligned}
 $
 
@@ -29483,12 +29476,12 @@ $\pounds 51.9$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>E8E2954E-2B81-496C-A114-5CD60C19FAC3</p>
 </div>
@@ -29535,10 +29528,12 @@ How much does she spend?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 1.50 + 0.65 \\\\
-&= \pounds 21.5 
+\text {She spend} &= 1.50 + 0.65 \\\\
+                  &= \pounds 21.5
 \end{aligned}
 $
 
@@ -29570,10 +29565,12 @@ How much does he pay?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= 4 \times 1.90 \\\\
-&= \pounds 7.6
+\text {He pays} &= 4 \times 1.90 \\\\
+                &= \pounds 7.6
 \end{aligned}
 $
 
@@ -29605,8 +29602,8 @@ How much change does he receive?
 
 $
 \begin{aligned}
-&= 10 - 7.6 \\\\
-&= \pounds 2.4  
+\text {He received} &= 10 - 7.6 \\\\
+                    &= \pounds 2.4  
 \end{aligned}
 $
 
@@ -29638,10 +29635,16 @@ What is the cost, in pence, of one ice lolly?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-&= \dfrac {192} {10} \\\\
-&= 19.2 \ \text{p}
+\text {cost of one ice lolly} &= \dfrac {\pounds 1.92} {3} \\\\
+                              &= \dfrac {1.92 \times 100 \ \text {p}} {3} \\\\
+                              &= \dfrac {192} {3} \\\\
+                              &= \dfrac {3 \times 64} {3} \\\\
+                              &= \dfrac {\cancel {3} \times 64} {\cancel {3}} \\\\
+                              &= 64 \ \text {p}
 \end{aligned}
 $
 
@@ -29650,7 +29653,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19.2 \ \text{p}$
+$64 \ \text {p}$
 
 </div>
 </div>
@@ -29665,7 +29668,7 @@ $19.2 \ \text{p}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -29791,7 +29794,7 @@ $\pounds 7.14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>73AB1540-BF83-4DB5-AA04-6CBFFEAA9D36</p>
 </div>
@@ -29840,10 +29843,12 @@ Give your answer in pence.
 
 $
 \begin{aligned}
-&= \dfrac {329} {7} \\\\
-&= \dfrac {47 \times 7} {7} \\\\
-&= \dfrac {47 \times \cancel7} {\cancel7} \\\\
-&= 47
+\text {Cost of 1 grapefruit} &= \dfrac {\pounds 3.29} {7} \\\\
+                             &= \dfrac {3.29 \times 100 \ \text {pence}} {7} \\\\
+                             &= \dfrac {329} {7} \\\\
+                             &= \dfrac {47 \times 7} {7} \\\\
+                             &= \dfrac {47 \times \cancel7} {\cancel7} \\\\
+                             &= 47 \ \text {pence}
 \end{aligned}
 $
 
@@ -29852,7 +29857,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$47$
+$47 \ \text {pence}$
 
 </div>
 </div>
@@ -29877,8 +29882,9 @@ How much change should he receive?
 
 $
 \begin{aligned}
-&= 20 - 0.94 \\\\
-&= 19.06
+\text {Change received } &= 20 - (0.47 \times 2) \\\\
+                         &= 20 - 0.94 \\\\
+                         &= \pounds 19.06
 \end{aligned}
 $
 
@@ -29887,7 +29893,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19.06$
+$\pounds 19.06$
 
 </div>
 </div>
@@ -29899,7 +29905,7 @@ $19.06$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -30550,7 +30556,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>19998D9F-5DF8-4849-8E56-5E323FFC1669</p>
 </div>
@@ -30594,12 +30600,12 @@ $8$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>80AF6598-5742-4BDF-B71B-8920EC92BDFB</p>
 </div>
@@ -30644,12 +30650,12 @@ $\pounds 208$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D2BE2238-60CC-4D8A-94E4-E86779D1F0CC</p>
 </div>
@@ -30720,12 +30726,12 @@ $\pounds 5.33$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>74AB88AF-4A3E-477E-8383-D48E6F740187</p>
 </div>
@@ -30767,12 +30773,12 @@ $111 \text{p}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>017292F5-B2A1-4C79-85DD-F6BA7E5EF275</p>
 </div>
@@ -30836,7 +30842,7 @@ $\pounds 5.5$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -32866,7 +32872,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>29F24834-5082-45DE-A93E-0937145E16AE</p>
 </div>
@@ -32994,12 +33000,12 @@ $\pounds 3.95$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>2A0FA070-25B8-4F23-B272-463207966E46</p>
 </div>
@@ -33048,7 +33054,7 @@ $\pounds 52.2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -38004,7 +38010,7 @@ $C = 3n +40$
 </div>
 <div class='question subquestion'>
 
-What is the charge, in $$\pounds $, for a party of $20$ people?
+What is the charge, in $\pounds $, for a party of $20$ people?
 
 </div>
 <div class='workings'>
@@ -38012,18 +38018,14 @@ What is the charge, in $$\pounds $, for a party of $20$ people?
 
 As per the question,
 
-Charge per $n$ people $\pounds C = 3n +40$
-
-Charge per $20$ people $\pounds C = 3 \times 20 +40$
-
 $
 \begin{aligned}
-&= 60 + 40 \\\\
-&= 100
+\text{Charge per n people} \pounds C    &= 3n +40 \\\\
+\text{Charge per 20 people} \pounds C   &= 3 \times 20 +40 \\\\
+                                        &= 60 + 40 \\\\
+                                        &= 100
 \end{aligned}
 $
-
-Charge per $20$ people  = $\pounds 100$
 
 </div>
 </div>
@@ -38057,11 +38059,9 @@ $
                                     &= \dfrac {100} {20} \\\\
                                     &= \dfrac {20 \times 5} {20} \\\\
                                     &= \dfrac {\cancel{20} \times 5} {\cancel{20}} \\\\
-                                    &= 5
+                                    &= \pounds 5
 \end{aligned}
 $
-
-Average cost per person = $5$
 
 </div>
 </div>
@@ -38277,19 +38277,26 @@ Ben wants to buy $17$ small bottles of drink for a party. A shop sells them at: 
 <div class='workings'>
 <div class='working'>
 
-Let the smallest amount of money he needs to pay be $= a$
-
-As per the question,
-
-Smallest amount is achieved only when he buys three packs of 5 bottles and one pack of 2 bottles.
+To spend the smallest amount Ben needs to buy maximum possible pack of 5 bottles.
 
 $
 \begin{aligned}
-a                                       &= 3 \times 60 \text{p} + 2 \times 28 \text{p} \\\\
-a                                       &= 180 + 56 \\\\
-a                                       &= 236 \text{p} \\\\
-a                                       &= \pounds \dfrac {236} {100} \\\\
-a                                       &= \pounds 2.36
+\text{Bottles needed}   &= 17 \\\\
+&= 15 \ \text{bottles} + 2 \ \text{bottles} \\\\
+&= 3 x 5 \ \text{pack} + 1 x 2 \ \text{pack}
+\end{aligned}
+$
+
+Let's calculate the amount of money he needs to spend.
+
+$
+\begin{aligned}
+\text{Smallest amount he spends}        &= 3 \times \text{Cost of 5 packs} + 1 \times \text{Cost of 2 packs} \\\\
+                                        &= 3 \times 60 \text{p} + 1 \times 28 \text{p} \\\\
+                                        &= 180 \text{p} + 28 \text{p} \\\\
+                                        &= 208 \text{p} \\\\
+                                        &= \pounds \dfrac {208} {100} \\\\
+                                        &= \pounds 2.08
 \end{aligned}
 $
 
@@ -38298,7 +38305,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.36$
+$\pounds 2.08$
 
 </div>
 </div>

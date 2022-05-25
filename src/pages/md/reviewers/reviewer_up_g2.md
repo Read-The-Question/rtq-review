@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-g2"
 title: "Reviewer - Uday Pandey - G2"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>

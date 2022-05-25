@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-g1"
 title: "Owner - Sahil Choudhary - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -6036,6 +6036,103 @@ $0.175$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>C51D4882-FD86-449B-BC74-E90265EBA237</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Name the shapes below
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Hexagon
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Hexagon
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Cylinder
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Cylinder
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>B9104B4C-5CDD-448F-B994-3D49504EE84C</p>
 </div>
 <div class='topics'>
@@ -6065,6 +6162,125 @@ $36043$
 </div>
 </div>
 
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>F3F34EA3-2E57-420F-B3B7-CB31E96031AB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $10\%$ of $\pounds 950$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10\% \ \text{of} \ \pounds 950 \\\\
+&= 10\% \times 950 \\\\
+&= \dfrac {10} {100} \times 950 \\\\
+&= \dfrac {10 \times 950} {100} \\\\
+&= \dfrac {1 \cancel{0} \times 95 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= \pounds 95
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 95$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $11\%$ of $\pounds 950$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 11\% \ \text{of} \ \pounds 950 \\\\
+&= 11\% \times 950 \\\\
+&= (10\% + 1\%) \times 950 \\\\
+&= 10\% \times 950 + 1\% \times 950 \\\\
+&= 95 + \dfrac {1} {100} \times 950 \\\\
+&= 95 + \dfrac {950} {100} \\\\
+&= \pounds 104.50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 104.50$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
@@ -6343,6 +6559,120 @@ $0.125$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>67DF39CD-1E0F-4819-A398-56826AE81698</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3}{8}\times\dfrac{1}{4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {8} \times \dfrac {1} {4} \\\\
+&= \dfrac {3 \times 1} {8 \times 4} \\\\
+&= \dfrac {3} {32}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {32}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3}{8}\div\dfrac{1}{4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
+$
+\begin{aligned}
+&= \dfrac {3} {8} \div \dfrac {1} {4} \\\\
+&= \dfrac {3} {8} \times \dfrac {4} {1} \\\\
+&= \dfrac {3 \times 4} {8 \times 1} \\\\
+&= \dfrac {3 \times 4} {2 \times 4} \\\\
+&= \dfrac {3 \times \cancel{4}} {2 \times \cancel{4}} \\\\
+&= \dfrac {3} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>20FFB3B3-D90A-4723-80DE-4B7A60EEC7ED</p>
 </div>
 <div class='topics'>
@@ -6489,6 +6819,372 @@ $33$
 </div>
 </div>
 
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>4E6171F1-A614-49B9-AD77-25E54516C128</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What are the missing numbers in the following calculations?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$35 + ............= 78$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+35 + a                                              &= 78 \\\\
+a                                                   &= 78 - 35 \\\\
+a                                                   &= 43
+\end{aligned}
+$
+
+The missing number is $= 43$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$43$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$156 \div .............= 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+156 \div a                                          &= 12 \\\\
+\dfrac {156} {a}                                    &= 12 \\\\
+\dfrac {156} {12}                                   &= a \\\\
+a                                                   &= \dfrac {12 \times 13} {12} \\\\
+a                                                   &= \dfrac {\cancel{12} \times 13} {\cancel{12}} \\\\
+a                                                   &= 13
+\end{aligned}
+$
+
+The missing number is $= 13$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(7 -..............) \times 13 = 78$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(7 - a) \times 13                                   &= 78 \\\\
+7 - a                                               &= \dfrac {78} {13} \\\\
+7 - a                                               &= \dfrac {6 \times 13} {13} \\\\
+7 - a                                               &= \dfrac {6 \times \cancel{13}} {\cancel{13}} \\\\
+7 - a                                               &= 6 \\\\
+a                                                   &= 7 - 6 \\\\
+a                                                   &= 1
+\end{aligned}
+$
+
+The missing number is $= 1$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{79-}{6}=12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {79 - a} {6}                                 &= 12 \\\\
+79 - a                                              &= 12 \times 6 \\\\
+79 - a                                              &= 72 \\\\
+a                                                   &= 79 - 72 \\\\
+a                                                   &= 7
+\end{aligned}
+$
+
+The missing number is $= 7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>191CD2FA-CE07-4708-99E9-0C5625EFED6C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A new mathematical operation has been invented. For any two numbers $𝑥 ⋆ 𝑦$ means $\text{‘subtract 3 from 𝑥, then multiply by 𝑦’}$, so $8 ⋆ 2$ means $8 - 3$, then $\times 2$, giving $10$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $7 ⋆ 5$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 \ \text{*} \ 5 \\\\
+&= (7 - 3) \times 5 \\\\
+&= 4 \times 5 \\\\
+&= 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What values of $𝑎$ makes $𝑎 ⋆ 7 = 42$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+a \ \text{*} \ 7                                                   &= 42 \\\\
+(a - 3) \times 7                                                   &= 42 \\\\
+a - 3                                                              &= \dfrac {42} {7} \\\\
+a - 3                                                              &= \dfrac {6 \times 7} {7} \\\\
+a - 3                                                              &= \dfrac {6 \times \cancel{7}} {\cancel{7}} \\\\
+a - 3                                                              &= 6 \\\\
+a                                                                  &= 6 + 3 \\\\
+a                                                                  &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $𝑏$ if $𝑏 ⋆ 𝑏 = 28$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+b \ \text{*} \ b                                                   &= 28 \\\\
+(b - 3) \times b                                                   &= 28 \\\\
+b^{2} - 3b                                                         &= 28 \\\\
+b^{2} - 3b - 28                                                    &= 0 \\\\
+b^{2} - (7b - 4b) - 28                                             &= 0 \\\\
+b^{2} - 7b + 4b - 28                                               &= 0 \\\\
+b(b - 7) + 4(b - 7)                                                &= 0 \\\\
+(b - 7) \times (b + 4)                                             &= 0 \\\\
+b                                                                  &= 7 \\\\
+b                                                                  &= -4 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 \ \text{or} \ -4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
@@ -6928,6 +7624,52 @@ $0.6$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>32DC6924-3D42-4FC1-9F0E-EEE526815D65</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The train from Brighton to London has $12$ carriages and each carriage can hold $48$ passengers. What is the largest number of passengers that can travel on the train? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Largest no. of passengers}                                    &= \text{Total seats per carriage} + \text{No. of carriages} \\\\
+                                                                    &= 48 \times 12 \\\\
+                                                                    &= 576
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$576$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>19EB1F00-24D6-4752-9327-34D60363D8FE</p>
 </div>
 <div class='topics'>
@@ -7144,6 +7886,398 @@ $7 \dfrac {11} {42}$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>59CD1770-B31D-4823-A24A-82752DF02513</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number, multiply it by $5$, then subtract $3$. The result is $57$. What was the number I first thought of? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number I think of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 5 - 3                                      &= 57 \\\\
+5a                                                  &= 57 + 3 \\\\
+5a                                                  &= 60 \\\\
+a                                                   &= \dfrac {60} {5} \\\\
+a                                                   &= \dfrac {5 \times 12} {5} \\\\
+a                                                   &= \dfrac {\cancel{5} \times 12} {\cancel{5}} \\\\
+a                                                   &= 12
+\end{aligned}
+$
+
+The number I thought of $= 12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>33464044-5134-47C2-94C6-385CC7C0394E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What are the missing numbers in the following calculations?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$56 + ............ = 93$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+56 + a                                              &= 93 \\\\
+a                                                   &= 93 - 56 \\\\
+a                                                   &= 37
+\end{aligned}
+$
+
+The missing number is $= 37$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$37$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$182 \div ............. = 14$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+182 \div a                                          &= 14 \\\\
+a                                                   &= \dfrac {182} {14} \\\\
+a                                                   &= \dfrac {13 \times 14} {14} \\\\
+a                                                   &= \dfrac {13 \times \cancel{14}} {\cancel{14}} \\\\
+a                                                   &= 13
+\end{aligned}
+$
+
+The missing number is $= 13$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(12 -............) \times 12 = 96$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(12 - a) \times 12                                  &= 96 \\\\
+12 - a                                              &= \dfrac {96} {12} \\\\
+12 - a                                              &= \dfrac {8 \times 12} {12} \\\\
+12 - a                                              &= \dfrac {8 \times \cancel{12}} {\cancel{12}} \\\\
+12 - a                                              &= 8 \\\\
+a                                                   &= 12 - 8 \\\\
+a                                                   &= 4
+\end{aligned}
+$
+
+The missing number is $= 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{81-}{4}=9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {81 - a} {4}                                 &= 9 \\\\
+81 - a                                              &= 9 \times 4 \\\\
+81 - a                                              &= 36 \\\\
+a                                                   &= 81 - 36 \\\\
+a                                                   &= 45
+\end{aligned}
+$
+
+The missing number is $= 45$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a regular pentagon.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In a regular pentagon, all sides have the same length.
+
+As per the question,
+
+$
+\begin{aligned}
+3x + 5                                              &= 17 \\\\
+3x                                                  &= 17 - 5 \\\\
+3x                                                  &= 12 \\\\
+x                                                   &= \dfrac {12} {3} \\\\
+x                                                   &= \dfrac {3 \times 4} {3} \\\\
+x                                                   &= \dfrac {\cancel{3} \times 4} {\cancel{3}} \\\\
+x                                                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $𝑦$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In a regular pentagon, all sides have the same length.
+
+As per the question,
+
+$
+\begin{aligned}
+2y - 9                                              &= 17 \\\\
+2y                                                  &= 17 + 9 \\\\
+2y                                                  &= 26 \\\\
+y                                                   &= \dfrac {26} {2} \\\\
+y                                                   &= \dfrac {2 \times 13} {2} \\\\
+y                                                   &= \dfrac {\cancel{2} \times 13} {\cancel{2}} \\\\
+y                                                   &= 13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>4A3EA266-6BEF-4B0E-9F13-1DCD864E5C55</p>
 </div>
 <div class='topics'>
@@ -7181,6 +8315,64 @@ $
 <div class='answer'>
 
 $75 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>E939A9F2-9AF4-43F6-9C5F-9F1C96A47959</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tfraction
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\dfrac{1}{4}$ of $20\%$ of $\dfrac{1}{6}$ of $40\%$ of $\pounds 1200$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {4} \ \text{of} \ 20\% \ \text{of} \ \dfrac {1} {6} \ \text{of} \ 40\% \ \text{of} \ \pounds 1200 \\\\
+&= \dfrac {1} {4} \times 20\% \times \dfrac {1} {6} \times 40\% \times 1200 \\\\
+&= \dfrac {1} {4} \times \dfrac {20} {100} \times \dfrac {1} {6} \times \dfrac {40} {100} \times \dfrac {1200} {1} \\\\
+&= \dfrac {1\times 20 \times 1 \times 40 \times 1200} {4 \times 100 \times 6 \times 100} \\\\
+&= \dfrac {2 \cancel {0} \times 4\cancel {0} \times 12 \cancel {00}} {4 \times 1\cancel {00} \times 6 \times 1\cancel {00}} \\\\
+&= \dfrac {2 \times 4 \times 12} {4 \times 6} \\\\
+&= \dfrac {2 \times 4 \times 2 \times 6} {4 \times 6} \\\\
+&= \dfrac {4 \times \cancel {4} \times \cancel {6}} { \cancel {4} \times \cancel {6}} \\\\
+&= \pounds 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4$
 
 </div>
 </div>
@@ -8424,6 +9616,62 @@ $
 <div class='answer'>
 
 $3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>3E12E5A1-1C9D-490A-A55D-17256F88FBF4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number. I multiply my number by 9 and add 5 to the result. The answer is 50. What is my number? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number I think of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 9 + 5                                               &= 50 \\\\
+9a                                                           &= 50 - 5 \\\\
+9a                                                           &= 45 \\\\
+a                                                            &= \dfrac {45} {9} \\\\
+a                                                            &= \dfrac {9 \times 5} {9} \\\\
+a                                                            &= \dfrac {\cancel{9} \times 5} {\cancel{9}} \\\\
+a                                                            &= 5
+\end{aligned}
+$
+
+The number I think of $= 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
 
 </div>
 </div>

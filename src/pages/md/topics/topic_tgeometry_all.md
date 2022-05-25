@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-all"
 title: "Topic - Geometry - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4889,7 +4889,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>D9231838-D731-4ED0-8FFC-95ED1A8B30CD</p>
 </div>
@@ -4989,7 +4989,7 @@ $\text{Triangle}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -10550,7 +10550,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>C51D4882-FD86-449B-BC74-E90265EBA237</p>
 </div>
@@ -10642,7 +10642,7 @@ Cylinder
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -10746,10 +10746,10 @@ As per the diagram,
 $
 \begin{aligned}
 3y - 3              &= 21 \\\\
-3x                  &= 21 + 3 \\\\
-3x                  &= 24 \\\\
-x                   &= \dfrac {24} {3} \\\\
-x                   &= 8
+3y                  &= 21 + 3 \\\\
+3y                  &= 24 \\\\
+y                   &= \dfrac {24} {3} \\\\
+y                   &= 8
 \end{aligned}
 $
 
@@ -19694,10 +19694,13 @@ Calculate the shaded area.
 
 As per the question,
 
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
 $
 \begin{aligned}
-\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of PQBT} \\\\
-                                    &= AB \times AD - (PQ \times (PS - BR)) \\\\
+\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
+                                    &= AB \times AD - QB \times QP \\\\
+                                    &= AB \times AD - ((PS - BR) \times QP) \\\\
                                     &= 5 \times 3 - 2 \times (2 - 1) \\\\
                                     &= 15 - 2 \times 1 \\\\
                                     &= 15 - 2 \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-2"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 2"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -78,13 +78,11 @@ $68\:\:\:70\:\:\:43\:\:\:5\:\:\:217$
 <div class='workings'>
 <div class='working'>
 
-As per th divisibility rule of $5$,
+We know, if the last digit of a number is $0$ or $5$ , then the number is divisible by $5$ .
 
-Any number whose unit digit is either $0$ or $5$ is divisible by $5$
+As per the question, 
 
-As per the question,
-
-$70, 5$ are divisible by $5$
+Number divisible by $5 = 70$ and $5$
 
 </div>
 </div>
@@ -525,22 +523,19 @@ Which **one** of the following statements is false?
 
 Using BIDMAS,
 
-$2 + 5 \times 4 = 22$
+A. $2 + 5 \times 4 = 22$
 $2 + 20 = 22$
 
-$18 - 6 \times 3 = 0$
+B. $18 - 6 \times 3 = 0$
 $18 - 18 = 0$
 
-$15-2 \times 7 = 1$
+C. $15-2 \times 7 = 1$
 $15-14 = 1$
 
-$7 + 1 \times 3 = 24$ 
-$7 + 3 = 10 \cancel = 24$
+D. $7 + 1 \times 3 = 21$
 
-$8 \times 5 - 7 = 33$
+E. $8 \times 5 - 7 = 33$
 $40 - 7 = 33$
-
-Equation D is false
 
 </div>
 </div>
@@ -778,31 +773,30 @@ Write the next two lines of the pattern
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+As per the question, the number pattern looks like 
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+3)}}  
 &&  \footnotesize{\maroonC{(+5)}} 
 &&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+9)}} \\
-1^2,  &&    2^2,  &&  3^2,  &&   4^2 \ldots
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}
+&&  \footnotesize{\maroonC{(+13)}} \\
+1^2,  &&    2^2,  &&  3^2,  &&   4^2, && \ldots, && \ldots, &&\ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First line}               &= 5^2 + 11 \\\\
+\text{First line }              &= 5^2 + 11 \\\\
                                 &= 25 + 11 \\\\
                                 &= 36 \\\\
-\text{Secondline}               &= 6^2 + 13 \\\\
+\text{Secondline }              &= 6^2 + 13 \\\\
                                 &= 36 + 13 \\\\
                                 &= 49                      
 \end{aligned}
 $
-
-First line : $5^2 + 11 = 36$
-Second line : $6^2 + 13 = 49$
 
 </div>
 </div>
@@ -810,6 +804,7 @@ Second line : $6^2 + 13 = 49$
 <div class='answer'>
 
 First line : $5^2 + 11 = 36$
+
 Second line : $6^2 + 13 = 49$
 
 </div>
@@ -898,9 +893,8 @@ In Moscow at noon it is $4˚\,C$. By midnight the temperature has dropped by $10
 
 As per the question,
 
-Temperature in noon = $4 \degree C$
-
-Temperature at midnight = $4 - 10 \degree C = -6 \degree C$
+Temperature at midnight $ = 4 - 10 \degree C \\\\
+                        $ = -6 \degree C$
 
 </div>
 </div>
@@ -1169,19 +1163,26 @@ Ben wants to buy $17$ small bottles of drink for a party. A shop sells them at: 
 <div class='workings'>
 <div class='working'>
 
-Let the smallest amount of money he needs to pay be $= a$
-
-As per the question,
-
-Smallest amount is achieved only when he buys three packs of 5 bottles and one pack of 2 bottles.
+To spend the smallest amount Ben needs to buy maximum possible pack of 5 bottles.
 
 $
 \begin{aligned}
-a                                       &= 3 \times 60 \text{p} + 2 \times 28 \text{p} \\\\
-a                                       &= 180 + 56 \\\\
-a                                       &= 236 \text{p} \\\\
-a                                       &= \pounds \dfrac {236} {100} \\\\
-a                                       &= \pounds 2.36
+\text{Bottles needed}   &= 17 \\\\
+&= 15 \ \text{bottles} + 2 \ \text{bottles} \\\\
+&= 3 x 5 \ \text{pack} + 1 x 2 \ \text{pack}
+\end{aligned}
+$
+
+Let's calculate the amount of money he needs to spend.
+
+$
+\begin{aligned}
+\text{Smallest amount he spends}        &= 3 \times \text{Cost of 5 packs} + 1 \times \text{Cost of 2 packs} \\\\
+                                        &= 3 \times 60 \text{p} + 1 \times 28 \text{p} \\\\
+                                        &= 180 \text{p} + 28 \text{p} \\\\
+                                        &= 208 \text{p} \\\\
+                                        &= \pounds \dfrac {208} {100} \\\\
+                                        &= \pounds 2.08
 \end{aligned}
 $
 
@@ -1190,7 +1191,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.36$
+$\pounds 2.08$
 
 </div>
 </div>
@@ -1379,7 +1380,7 @@ What number goes in the box?
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be $= a$
+Let the missing number $= a$
 
 As per the question,
 
@@ -1393,6 +1394,8 @@ a                                       &= 24 - 20 \\\\
 a                                       &= 4
 \end{aligned}
 $
+
+The missing number $= 4$
 
 </div>
 </div>
@@ -1684,8 +1687,9 @@ On the planet Zog, all numbers are written with the digits in reverse order. For
 
 As per the question,
 
-The numbers are written in reverse order. 
+On planet Zog, all numbers are written in reverse order.
 
+So,
 $
 \begin{aligned}
 &= 729 - 26 \\\\
@@ -1694,12 +1698,14 @@ $
 \end{aligned}
 $
 
+​$865$ will be also written in reverse order $= 568$
+
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$865$
+$568$
 
 </div>
 </div>
@@ -1991,11 +1997,15 @@ As per the question,
 
 The number leaves a remainder $2$ when divided by $53$ and is less than $120$
 
-$53 \times 1 + 2 = 53 < 120$
-$53 \times 2 + 2 = 108 < 120$
-$53 \times 3 + 2 = 161 > 120$
+$53 \times 2 = 106$
+$106 < 120$
 
-The number is $161$
+$53 \times 3 = 159$
+$159 > 120$ So,
+
+$159 + 2 = 161$
+
+The smallest whole number, above $120$ , which when divided by $53$ , leaves a remainder of two $= 161$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -1815,7 +1815,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.21> \quad 0.201> \quad 0.021$
+$0.21, \quad 0.201, \quad 0.021$
 
 </div>
 </div>
@@ -2570,7 +2570,7 @@ $0.175$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>C51D4882-FD86-449B-BC74-E90265EBA237</p>
 </div>
@@ -2662,7 +2662,7 @@ Cylinder
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>

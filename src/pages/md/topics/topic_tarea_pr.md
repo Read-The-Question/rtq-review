@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-pr"
 title: "Topic - Area - PR"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -564,7 +564,7 @@ $36 \text {m}^2$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tdraw
 </li>
 <li>
 tperimeter
@@ -610,7 +610,13 @@ Write the two remaining lengths on the diagram.
 <div class='workings'>
 <div class='working'>
 
-$12 \ \text {cm}, 8 \ \text {cm}$
+$
+\begin {aligned}
+\text {Top missing length}  &= 5 + 2 + 5 \\\\
+                            &= 12 \ \text {cm} \\\\
+\text {Side missing length} &= 8 \ \text {cm}
+\end {aligned}
+$
 
 </div>
 </div>
@@ -643,8 +649,8 @@ As per the diagram,
 $
 \begin {aligned}
 \text {Perimeter of the T shape}  &= \text {Sum of all sides} \\\\
-                                  &= 2 \ \text {cm} + (5 + 5 + 2) \ \text {cm} + 2 \ \text {cm} + 5 \ \text {cm} + 8 \ \text {cm} + 2 \ \text {cm} + 8 \ \text {cm} + 5 \ \text {cm} \\\\
-                                  &= 2 + 12 + 30 \\\\
+                                  &= 2 \times 3 + 5 \times 2 + 8 \times 2 + 12 \\\\
+                                  &= 6 + 10 + 16 + 12 \\\\
                                   &= 44 \ \text {cm}
 \end {aligned}
 $
@@ -679,12 +685,12 @@ State the units.
 
 As per the diagram,
 
-The T shape can be divided into two rectangles.
+Let's draw a line at the neck of the T shape and make two separate rectangles.
 
 $
 \begin {aligned}
 \text {Area of the T shape}  &= \text {Area of horizontal rectangle} + \text {Area of vertical rectangle} \\\\
-                             &= (12 \ \text {cm} \times 2 \ \text {cm}) + (8 \ \text {am} \times 2 \ \text {cm}) \\\\
+                             &= 12 \times 2 + 2 \times 8 \\\\
                              &= 24 + 16 \\\\
                              &= 40 \ \text {cm} ^ 2
 \end {aligned}
@@ -3012,9 +3018,11 @@ A square has area $64\ \text{cm}^2$. What is the perimeter of the square?
 <div class='workings'>
 <div class='working'>
 
-We know, Area of a square $= \text{Side} \times \text{Side}$
+We know,
 
-As per question,
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
 
 Let the length of the square (in cm) $= a$
 
@@ -3027,7 +3035,7 @@ a                                               &= 8 \ \text{cm}
 \end{aligned}
 $
 
-The Length of the side of square $= 8 \ \text{cm}$
+The length of the side of the square $= 8 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
@@ -3087,15 +3095,15 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
-                                                   &= 15 \ \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \times 8 \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \\\\
-                                                   &= 15 \ \text{cm} - 4 \ \text{cm} \times 8 \ \text{cm} - 4 \ \text{cm} \\\\
-                                                   &= 11 \ \text{cm} \times 4 \ \text{cm} \\\\
-                                                   &= 44 \ \text{cm}^{2} \\\\
+\text{Area of pool}                                &= (\text{Length of garden - 2} \times \text{Width of path}) \times (\text{Width of garden - 2} \times \text{Width of path}) \\\\
+                                                   &= (15 \text{m} - 2 \text{m} \times 2 \text{m}) \times (8 \text{m} - 2 \text{m} \times 2 \text{m}) \\\\
+                                                   &= (15 - 4) \times (8 - 4) \\\\
+                                                   &= 11 \times 4 \\\\
+                                                   &= 44 \text{m}^{2} \\\\
 \text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
-                                                   &= 15 \ \text{cm} \times 8 \ \text{cm}  - 44 \ \text{cm}^{2} \\\\
-                                                   &= 120 \ \text{cm}^{2} - 44 \ \text{cm}^{2} \\\\
-                                                   &= 76 \ \text{cm}^{2}
+                                                   &= 15 \text{m} \times 8 \text{m}  - 44 \text{m}^{2} \\\\
+                                                   &= 120 - 44 \\\\
+                                                   &= 76 \text{m}^{2}
 \end{aligned}
 $
 
@@ -3104,7 +3112,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$76 \ \text{cm}^{2}$
+$76 \text{m}^{2}$
 
 </div>
 </div>
@@ -3727,7 +3735,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= 2 \times (14 + 9) \\\\
+\text{Perimeter}    &= 2 \times (14 + 9) \\\\
 &= 2 \times 23 \\\\
 &= 46 \ \text{cm}
 \end{aligned}
@@ -3767,7 +3775,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= 12 \times 8 \\\\
+\text{Area}     &= 12 \times 8 \\\\
 &= 96 \ \text{cm}^2
 \end{aligned}
 $
@@ -3800,26 +3808,26 @@ A square has a perimeter of $36 \ \text{cm}$. Find its area.
 <div class='workings'>
 <div class='working'>
 
-$\text{Perimeter of a square} = 4 \times (\text{side})$
+$\text{Perimeter of a square} = 4 \times \text{Side}$
 
 As per the question,
 
 $
 \begin{aligned}
-4 \times a  &= 36 \text{cm} \\\\
-a           &= \dfrac{36}{4} \text{cm} \\\\
-a           &= \dfrac{4 \times 9}{4} \\\\
-a           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
-a           &= 9 \text{cm}
+4 \times \text{Side}  &= 36 \ \text{cm} \\\\
+Side           &= \dfrac{36}{4} \ \text{cm} \\\\
+Side           &= \dfrac{4 \times 9}{4} \\\\
+Side           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
+Side           &= 9 \ \text{cm}
 \end{aligned}
 $
 
-$\text{Area of a square} = \text{side}^2$
 
 $
 \begin{aligned}
+\text{Area of a square} &= \text{Side}^2 \\\\
 &= 9^2 \\\\
-&= 81 \text{cm}^2
+&= 81 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -4251,137 +4259,6 @@ $32 \text {cm}$
 </ul>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>A1D15272-7F0D-49A8-960B-75D4D345810F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The   length   of a  rectangle   is twice its   width.   Its   area  is **$98cm^2$** .  Find  its   length   and   width.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length of the  rectangle (in $\text{cm}$) $= l$
-
-As per the question, the length of the rectangle is twice as its width.
-
-So, the width of the rectangle will  $w=2 \times l$
-
-$\text{Area} = \text{length} \times \text{width}$
-
-Putting this into an equation, we get,
-
-$
-\begin{aligned}                            
-l \times w          &= 98 \\\\
-2\times w \times w  &= 98 \\\\\
-2 \times w^2        &= 98 \\\\
-w^2                 &= \dfrac {98} {2} \\\\
-w^2                 &= \dfrac {49 \times 2} {2} \\\\
-w^2                 &= \dfrac {49 \times \cancel {2} } {\cancel {2} } \\\\
-w^2                 &= 49 \\\\
-w^2                 &= 7^2 \\\\
-w                   &= 7
-\end{aligned}  
-$
-
-$
-\begin{aligned}                            
-l    &= 2 \times w \\\\
-l    &= 2 \times 7 \\\\
-l    &= 14
-\end{aligned}  
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7, 14$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>16DF0399-C970-4AFF-A8B9-931D0D72EE36</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the area of this shape. Give the units with your answer.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Area of half triangle,
-
-$
-\begin{aligned}
-&= \dfrac {1} {2} \times \ \text{base} \times \ \text{height} \\\\
-&= \dfrac {1} {2} \times 5 \times 6 \\\\
-&= \dfrac {5 \times 3 \times 2} {2} \\\\
-&= \dfrac {5 \times 3 \times \cancel{2}} {\cancel{2}} \\\\
-&= 5 \times 3 \\\\
-&= 15 \ \text{cm}^2
-\end{aligned}
-$
-
-Area of full triangle,
-$
-\begin{aligned}
-\text{Area} &= 15 + 15 \\\\
-            &= 30 \ \text{cm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text{cm}^2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
@@ -4924,67 +4801,6 @@ $4 \ \text{m}$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>6082C51C-48FB-4A15-B156-8BC33B276648</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate the area of the trapezium.
-
-![missing image](/papers/missing_image.svg)
-
-- $50 \ \text{cm}^{2}$
-- $44 \ \text{cm}^{2}$
-- $40 \ \text{cm}^{2}$
-- $42 \ \text{cm}^{2}$
-- $48 \ \text{cm}^{2}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Area of trapezium} &= \dfrac{a+b}{2} \times h \\\\
-&= \dfrac{8+12}{2}\times 5\\\\
-&= \dfrac{20}{2}\times 5\\\\
-&= \dfrac{2 \times 10}{2}\times 5\\\\
-&= \dfrac{ \cancel 2 \times 10}{\cancel 2}\times 5\\\\
-&=  10 \times 5\\\\
-&= 50 \ \text{cm}^{2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$50 \ \text{cm}^{2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
 <p>A7776F84-C1E8-4F7A-B95D-0642729A4BD1</p>
 </div>
 <div class='topics'>
@@ -5395,241 +5211,6 @@ $44 \text { cm}$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Farmer Jack and Farmer Giles each have a rectangular field.
-
-![missing image](/papers/missing_image.svg)
-
-Farmer Jack’s field has an area of $24 \ \text{m}^2$.
-
-Its length is $8 \ \text{m}$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the width of Farmer Jack’s field.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {24} {8} \\\\
-&= \dfrac {3 \times 8} {8} \\\\
-&= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
-&= 3 \ \text{m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{m}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the perimeter of Farmer Jack’s field.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 2 \times (8 + 3) \\\\
-&= 2 \times 11 \\\\
-&= 22
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$22$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Farmer Giles’ field has a perimeter of $20 \ \text{m}$.
-
-The width of Farmer Giles’ field is $4 \ \text{m}$. 
-
-![missing image](/papers/missing_image.svg)
-
-Work out the length of Farmer Giles’ field.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length $=a$
-$
-\begin{aligned}
-20 &= 2 \times (4 + a) \\\\
-20 &= 8 + 2a \\\\
-2a &= 20 - 8 \\\\
-2a &= 12 \\\\
-a  &= \dfrac {12} {2} \\\\
-a  &= 6 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the area of Farmer Giles’ field.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Area} &= 4 \times 6 \\\\
-             &= 24 \ \text{cm^2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24 \ \text{cm^2}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Farmer Josephine also has a rectangular field.
-
-![missing image](/papers/missing_image.svg)
-
-The width of Farmer Josephine’s field is $x \ \text{m}$ and the length is $y \ \text{m}$.
-
-Farmer Josephine builds a fence along the perimeter of her field.
-
-If the total length of this fence is $30 \ \text{m}$, write down two possible values of $x$ and $y$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10 \ \text{and} 5,7 \ \text{and} 8$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 \ \text{and} 5,7 \ \text{and} 8$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -6937,10 +6518,13 @@ Calculate the shaded area.
 
 As per the question,
 
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
 $
 \begin{aligned}
-\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of PQBT} \\\\
-                                    &= AB \times AD - (PQ \times (PS - BR)) \\\\
+\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
+                                    &= AB \times AD - QB \times QP \\\\
+                                    &= AB \times AD - ((PS - BR) \times QP) \\\\
                                     &= 5 \times 3 - 2 \times (2 - 1) \\\\
                                     &= 15 - 2 \times 1 \\\\
                                     &= 15 - 2 \\\\

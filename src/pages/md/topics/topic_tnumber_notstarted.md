@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-notstarted"
 title: "Topic - Number - Not Started"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -20138,68 +20138,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>B4811CE8-001C-4E89-B5D6-B3377D1B9012</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A small ink cartridge has enough ink to print $400$ pages. 
-Three small cartridges can print as many pages as two medium cartridges. 
-Three medium cartridges can print as many pages as two large cartridges. 
-How many pages can be printed using a large cartridge
-
-- $600$
-- $900$
-- $1200$
-- $1800$
-- $2400$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

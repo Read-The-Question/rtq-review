@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>Solihull School</h1>
@@ -429,7 +429,7 @@ Which is the smallest?
 <div class='workings'>
 <div class='working'>
 
-The smallest number is $= 0.09$
+The smallest number $= 0.09$
 
 </div>
 </div>
@@ -457,7 +457,7 @@ Which is the largest?
 <div class='workings'>
 <div class='working'>
 
-The largest number is $0.909$
+The largest number $= 0.909$
 
 </div>
 </div>
@@ -793,7 +793,7 @@ $
 &&  \footnotesize{\maroonC{(+6)}}
 &&  \footnotesize{\maroonC{(+6)}}
 &&  \footnotesize{\maroonC{(+6)}} \\
-3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33 \ldots
+3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33,  && \ldots
 \end{matrix}
 $
 
@@ -839,7 +839,7 @@ $
 &&  \footnotesize{\maroonC{(+7)}}   
 &&  \footnotesize{\maroonC{(+9)}}
 &&  \footnotesize{\maroonC{(+11)}} \\
-2,  &&    5,  &&  10,  &&   17,  &&   26 \ldots
+2,  &&    5,  &&  10,  &&   17,  &&   26, && \ldots
 \end{matrix}
 $
 
@@ -887,7 +887,7 @@ $
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}   
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  \\
-1000,  &&    900,  &&  810,  &&   730,  &&   660, \ldots
+1000,  &&    900,  &&  810,  &&   730,  &&   660, && \ldots
 \end{matrix}
 $
 
@@ -1376,8 +1376,6 @@ $
 \end{aligned}
 $
 
-Total number of players $= 352$
-
 </div>
 </div>
 <div class='answers'>
@@ -1411,9 +1409,8 @@ $
 \text {Total supporters}        &=  \text {Total players}  \times \text {No. of supporters per player} \\\\
                                 &= 352 \times 8 \\\\
                                 &= 2816
-\end{aligned}$ 
-
-Total number of supporters $= 2816$
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1441,7 +1438,7 @@ In total there were $128$ matches played. There was an average of $5$ goals scor
 <div class='workings'>
 <div class='working'>
 
- Average goals = Total goals / No. of matches
+$\text{Average goals} = \dfrac{\text{Total goals}}{\text{No. of matches}}$
 
 As per the question,
 
@@ -1452,8 +1449,6 @@ $
                             &= 640
 \end{aligned}
 $
-
-Total number of goals $= 600$
 
 </div>
 </div>
@@ -2343,7 +2338,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= 2 \times (14 + 9) \\\\
+\text{Perimeter}    &= 2 \times (14 + 9) \\\\
 &= 2 \times 23 \\\\
 &= 46 \ \text{cm}
 \end{aligned}
@@ -2383,7 +2378,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= 12 \times 8 \\\\
+\text{Area}     &= 12 \times 8 \\\\
 &= 96 \ \text{cm}^2
 \end{aligned}
 $
@@ -2416,26 +2411,26 @@ A square has a perimeter of $36 \ \text{cm}$. Find its area.
 <div class='workings'>
 <div class='working'>
 
-$\text{Perimeter of a square} = 4 \times (\text{side})$
+$\text{Perimeter of a square} = 4 \times \text{Side}$
 
 As per the question,
 
 $
 \begin{aligned}
-4 \times a  &= 36 \text{cm} \\\\
-a           &= \dfrac{36}{4} \text{cm} \\\\
-a           &= \dfrac{4 \times 9}{4} \\\\
-a           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
-a           &= 9 \text{cm}
+4 \times \text{Side}  &= 36 \ \text{cm} \\\\
+Side           &= \dfrac{36}{4} \ \text{cm} \\\\
+Side           &= \dfrac{4 \times 9}{4} \\\\
+Side           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
+Side           &= 9 \ \text{cm}
 \end{aligned}
 $
 
-$\text{Area of a square} = \text{side}^2$
 
 $
 \begin{aligned}
+\text{Area of a square} &= \text{Side}^2 \\\\
 &= 9^2 \\\\
-&= 81 \text{cm}^2
+&= 81 \ \text{cm}^2
 \end{aligned}
 $
 

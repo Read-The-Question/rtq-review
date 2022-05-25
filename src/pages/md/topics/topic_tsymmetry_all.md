@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsymmetry-all"
 title: "Topic - Symmetry - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2917,7 +2917,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>6DAFC4CF-427F-49BD-AAC0-3ACF1E928C84</p>
 </div>
@@ -3013,12 +3013,12 @@ $\text {Option 3}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>D9231838-D731-4ED0-8FFC-95ED1A8B30CD</p>
 </div>
@@ -3118,7 +3118,7 @@ $\text{Triangle}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

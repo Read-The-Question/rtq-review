@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpower-pr"
 title: "Topic - Power - PR"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -462,31 +462,30 @@ Write the next two lines of the pattern
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+As per the question, the number pattern looks like 
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+3)}}  
 &&  \footnotesize{\maroonC{(+5)}} 
 &&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+9)}} \\
-1^2,  &&    2^2,  &&  3^2,  &&   4^2 \ldots
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}
+&&  \footnotesize{\maroonC{(+13)}} \\
+1^2,  &&    2^2,  &&  3^2,  &&   4^2, && \ldots, && \ldots, &&\ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First line}               &= 5^2 + 11 \\\\
+\text{First line }              &= 5^2 + 11 \\\\
                                 &= 25 + 11 \\\\
                                 &= 36 \\\\
-\text{Secondline}               &= 6^2 + 13 \\\\
+\text{Secondline }              &= 6^2 + 13 \\\\
                                 &= 36 + 13 \\\\
                                 &= 49                      
 \end{aligned}
 $
-
-First line : $5^2 + 11 = 36$
-Second line : $6^2 + 13 = 49$
 
 </div>
 </div>
@@ -494,6 +493,7 @@ Second line : $6^2 + 13 = 49$
 <div class='answer'>
 
 First line : $5^2 + 11 = 36$
+
 Second line : $6^2 + 13 = 49$
 
 </div>

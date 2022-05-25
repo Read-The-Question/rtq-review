@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-g1"
 title: "Topic - Area - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1794,6 +1794,78 @@ $\dfrac{45}{4}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>A1D15272-7F0D-49A8-960B-75D4D345810F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The   length   of a  rectangle   is twice its   width.   Its   area  is **$98cm^2$** .  Find  its   length   and   width.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the  rectangle (in $\text{cm}$) $= l$
+
+As per the question, the length of the rectangle is twice as its width.
+
+So, the width of the rectangle will  $w = \dfrac {l} {2}$
+
+$\text{Area} = \text {length} \times \text {width}$
+
+Putting this into an equation, we get,
+
+$
+\begin{aligned}                            
+l \times w          &= 98 \\\\
+2\times w \times w  &= 98 \\\\\
+2 \times w^2        &= 98 \\\\
+w^2                 &= \dfrac {98} {2} \\\\
+w^2                 &= \dfrac {49 \times 2} {2} \\\\
+w^2                 &= \dfrac {49 \times \cancel {2} } {\cancel {2} } \\\\
+w^2                 &= 49 \\\\
+w                   &= \sqrt {49} \\\\
+w                   &= 7
+\end{aligned}
+$
+
+$
+\begin{aligned}                            
+l    &= 2 \times w \\\\
+l    &= 2 \times 7 \\\\
+l    &= 14
+\end{aligned}  
+$
+
+Length $= 14 \ \text {cm}$ and width $= 7 \ \text {cm}$. 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14 \ \text {cm}, 7 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>ACDF963B-EB59-486F-8F65-8C816CC51DDB</p>
@@ -1850,6 +1922,64 @@ $63 \text{m}^2, 32 \text {m}$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>16DF0399-C970-4AFF-A8B9-931D0D72EE36</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the area of this shape. Give the units with your answer.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the figure,
+
+Height of the triangle $= 6 \text {cm}$
+
+Base of the triangle $= 10 \text {cm}$
+
+We know that,
+
+$
+\begin{aligned}
+\text {Area of triangle} &= \dfrac {1} {2} \times \ \text{base} \times \ \text{height} \\\\
+                         &= \dfrac {1} {2} \times 10 \times 6 \\\\
+                         &= \dfrac {10 \times 3 \times 2} {2} \\\\
+                         &= \dfrac {10 \times 3 \times \cancel{2}} {\cancel{2}} \\\\
+                         &= 30 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \ \text{cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -2101,6 +2231,67 @@ $18 \ \text{cm}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>6082C51C-48FB-4A15-B156-8BC33B276648</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the area of the trapezium.
+
+![missing image](/papers/missing_image.svg)
+
+- $50 \ \text{cm}^{2}$
+- $44 \ \text{cm}^{2}$
+- $40 \ \text{cm}^{2}$
+- $42 \ \text{cm}^{2}$
+- $48 \ \text{cm}^{2}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Area of trapezium} &= \dfrac{a+b}{2} \times h \\\\
+&= \dfrac{8+12}{2}\times 5\\\\
+&= \dfrac{20}{2}\times 5\\\\
+&= \dfrac{2 \times 10}{2}\times 5\\\\
+&= \dfrac{ \cancel 2 \times 10}{\cancel 2}\times 5\\\\
+&=  10 \times 5\\\\
+&= 50 \ \text{cm}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$50 \ \text{cm}^{2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>19234F0C-4C85-4F00-8A0C-D18A9430B6A0</p>
@@ -2152,6 +2343,250 @@ $80 \ \text {cm}^2$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Farmer Jack and Farmer Giles each have a rectangular field.
+
+![missing image](/papers/missing_image.svg)
+
+Farmer Jack’s field has an area of $24 \ \text{m}^2$.
+
+Its length is $8 \ \text{m}$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the width of Farmer Jack’s field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the field $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of rectangle}  &= \text {length} \times \text {width} \\\\
+24                         &= 8 \times a \\\\
+a                          &= \dfrac {24} {8} \\\\
+a                          &= \dfrac {3 \times 8} {8} \\\\
+a                          &= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
+a                          &= 3 \ \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the perimeter of Farmer Jack’s field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+                                 &= 2 \times (8 + 3) \\\\
+                                 &= 2 \times 11 \\\\
+                                 &= 22 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Farmer Giles’ field has a perimeter of $20 \ \text{m}$.
+
+The width of Farmer Giles’ field is $4 \ \text{m}$. 
+
+![missing image](/papers/missing_image.svg)
+
+Work out the length of Farmer Giles’ field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length $=a$
+
+$
+\begin{aligned}
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+20                               &= 2 \times (4 + a) \\\\
+20                               &= 8 + 2a \\\\
+2a                               &= 20 - 8 \\\\
+2a                               &= 12 \\\\
+a                                &= \dfrac {12} {2} \\\\
+a                                &= 6 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the area of Farmer Giles’ field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area} &= 4 \times 6 \\\\
+             &= 24 \ \text {m} ^ 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text {m} ^ 2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Farmer Josephine also has a rectangular field.
+
+![missing image](/papers/missing_image.svg)
+
+The width of Farmer Josephine’s field is $x \ \text{m}$ and the length is $y \ \text{m}$.
+
+Farmer Josephine builds a fence along the perimeter of her field.
+
+If the total length of this fence is $30 \ \text{m}$, write down two possible values of $x$ and $y$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10 \ \text{and} 5,7 \ \text{and} 8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{and} 5,7 \ \text{and} 8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>

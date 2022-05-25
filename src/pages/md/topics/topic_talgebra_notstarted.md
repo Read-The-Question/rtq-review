@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-notstarted"
 title: "Topic - Algebra - Not Started"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10296,68 +10296,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>B4811CE8-001C-4E89-B5D6-B3377D1B9012</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A small ink cartridge has enough ink to print $400$ pages. 
-Three small cartridges can print as many pages as two medium cartridges. 
-Three medium cartridges can print as many pages as two large cartridges. 
-How many pages can be printed using a large cartridge
-
-- $600$
-- $900$
-- $1200$
-- $1800$
-- $2400$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>80925746-893F-4F01-BA51-BF11E12AEDBE</p>
 </div>
 <div class='topics'>
@@ -10444,24 +10382,33 @@ $One third of the bar was left. How many helpers did he have?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+1-\text{x} (\dfrac{1}{12}) &= \dfrac{1}{3} \\\\
+1-(\dfrac{\text{x}}{12}) &= \dfrac{1}{3} \\\\
+\dfrac{\text{x}}{12} &= 1 - \dfrac{1}{3} \\\\
+\dfrac{\text{x}}{12} &=  \dfrac{3-1}{3} \\\\
+\dfrac{\text{x}}{12} &=  \dfrac{2}{3} \\\\
+3 \times\text{x} &= 12 \times 2 \\\\
+3\text{x} &= 24 \\\\
+\text{x} &= \dfrac{24}{3} \\\\
+&= \dfrac{3 \times 8}{3} \\\\
+&= \dfrac{\cancel 3 \times 8}{\cancel 3} \\\\
+\text{x} &= 8
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>B</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$8$
 
 </div>
 </div>

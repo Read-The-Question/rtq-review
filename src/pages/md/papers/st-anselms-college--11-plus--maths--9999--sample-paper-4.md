@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>St Anselm's College</h1>
@@ -1211,7 +1211,7 @@ $\text{Rectangle} \quad \text{Trapezoid} \quad \text{Hexagon}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>260A6D88-AF7C-4DE1-8891-04DDBADA221E</p>
 </div>
@@ -1253,7 +1253,7 @@ $\text {North}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -1756,7 +1756,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>B8DCCFD7-123E-4363-91EB-FDD6690FA383</p>
 </div>
@@ -1777,13 +1777,13 @@ In a giant tube of Fruit Pastilles, 20% are orange. If the tube has a total of 8
 
 $
 \begin{aligned}
-&= 85- 20\% \times 85 \\\\
-&= 85 - \dfrac{20}{100} \times 85\\\\
-&= 85 - \dfrac{2\cancel0}{10\cancel0} \times 85\\\\
-&= 85 - \dfrac{2 \times 17 \times 5}{5 \times 2} \\\\
-&= 85 - \dfrac{\cancel2 \times 17 \times \cancel5}{\cancel5 \times \cancel2} \\\\
-&= 85 - 17 \\\\
-&= 68
+\text {Not orange}  &= 85- 20\% \times 85 \\\\
+                    &= 85 - \dfrac {20} {100} \times 85 \\\\
+                    &= 85 - \dfrac {2 \cancel 0} {10 \cancel 0} \times 85 \\\\
+                    &= 85 - \dfrac {2 \times 17 \times 5} {2 \times 5} \\\\
+                    &= 85 - \dfrac {\cancel 2 \times 17 \times \cancel 5} {\cancel 2 \times \cancel 5} \\\\
+                    &= 85 - 17 \\\\
+                    &= 68
 \end{aligned}
 $
 
@@ -1801,7 +1801,7 @@ $68$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -2118,7 +2118,7 @@ $\pounds 20.74$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>B500989A-95BC-48E9-99DE-F777B5042D16</p>
 </div>
@@ -2270,12 +2270,12 @@ $\text{Prime Number}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335</p>
 </div>
@@ -2439,7 +2439,7 @@ $2, 24, 72$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

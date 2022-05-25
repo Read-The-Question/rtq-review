@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-all"
 title: "Topic - Temperature - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1889,7 +1889,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature (in London)}                      &= \dfrac {1} {2} \times (\text{Temperature (Helsinki + Madrid)}) \\\\
+\text{Temperature in London}                        &= \dfrac {\text{Temperature in (Helsinki + Madrid)}} {2} \\\\
                                                     &= \dfrac {-4 \degree \text{C} + 12 \degree \text{C}} {2} \\\\
                                                     &= \dfrac {8} {2} \\\\
                                                     &= \dfrac {2 \times 4} {2} \\\\
@@ -2346,7 +2346,7 @@ $11\degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>051F2794-DFF8-4792-8C27-24EC80D9363E</p>
 </div>
@@ -2459,7 +2459,7 @@ $-7 \degree \text{C}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -3059,7 +3059,7 @@ $-5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
 </div>
@@ -3110,18 +3110,20 @@ How many degrees warmer was it inside than outside the window?
 
 $
 \begin{aligned}
-&= 21 - (-3) \\\
+&= 21 - (-3) \\\\
 &= 21 + 3 \\\\
-&= 24
+&= 24 \degree \ \text {C}
 \end{aligned}
 $
+
+It is $24 \degree \ \text {C}$ warmer inside than outside.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$24$
+$24 \degree \ \text {C}$
 
 </div>
 </div>
@@ -3144,14 +3146,22 @@ What was the temperature outside the window at $10 \ \text{p.m.}$?
 <div class='workings'>
 <div class='working'>
 
-$-5$
+$
+\begin{aligned}
+&= -3 - (2) \\\\
+&= -5 \\\\
+&= -5 \degree \ \text {C}
+\end{aligned}
+$
+
+The temperature outside the window at $10 \ \text {p.m.} = -5 \degree \ \text {C}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-5$
+$-5 \degree \ \text{C}$
 
 </div>
 </div>
@@ -3163,12 +3173,12 @@ $-5$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>698F3943-AD9F-4055-A94D-925AE85FB739</p>
 </div>
@@ -3297,7 +3307,7 @@ $10 {:} 30$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -5421,9 +5431,8 @@ In Moscow at noon it is $4˚\,C$. By midnight the temperature has dropped by $10
 
 As per the question,
 
-Temperature in noon = $4 \degree C$
-
-Temperature at midnight = $4 - 10 \degree C = -6 \degree C$
+Temperature at midnight $ = 4 - 10 \degree C \\\\
+                        $ = -6 \degree C$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>Colfe's School</h1>
@@ -567,18 +567,15 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Fraction of pizza left for Anna}  &= 1 - (\dfrac {1} {5} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {1 \times 2} {5 \times 2} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {2} {10} + \dfrac {3} {10}) \\\\
-                                         &= 1 - (\dfrac {2 + 3} {10}) \\\\
-                                         &= 1 - \dfrac {5} {10} \\\\
-                                         &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {5} {10} \\\\
-                                         &= \dfrac {10} {10} - \dfrac {5} {10} \\\\
-                                         &= \dfrac {10 - 5} {10} \\\\
-                                         &= \dfrac {5} {10} \\\\
-                                         &= \dfrac {5} {5 \times 2} \\\\
-                                         &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
-                                         &= \dfrac {1} {2}
+\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {First friends share} - \text {Second friends share} \\\\
+                                &= 1 - \dfrac {1} {5} - \dfrac {3} {10} \\\\
+                                &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {1 \times 2} {5 \times 2} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10} {10} - \dfrac {2} {10} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10 - 2 - 3} {10} \\\\
+                                &= \dfrac {5} {10} \\\\
+                                &= \dfrac {5} {5 \times 2} \\\\
+                                &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
+                                &= \dfrac {1} {2}
 \end {aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>St Anselm's College</h1>
@@ -174,7 +174,7 @@ $\pounds 288$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>655C3EF2-4B38-45E9-8354-01DF35EC3875</p>
 </div>
@@ -201,7 +201,7 @@ Enterance fee per person $= \pounds 1.20$
 
 $
 \begin{aligned}
-\text {Number of people visited on Friday} &= \dfrac {\text {Total Fee collected}} {\text {Enterance fee}}\\\\
+\text {Number of people visited on Friday} &= \dfrac {\text {Total Fee collected}} {\text {Enterance fee}} \\\\
                                            &= \dfrac {600} {1.20} \\\\
                                            &= \pounds 500
 \end{aligned}
@@ -221,7 +221,7 @@ $\pounds 500$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -404,7 +404,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -555,7 +555,7 @@ $1.5625 \ \text {km}$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -715,7 +715,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>BE2D8C56-1D9C-4A7F-BA9C-6FF46B0B1C3E</p>
 </div>
@@ -766,17 +766,15 @@ As per the question,
 
 $
 \begin{aligned}
-(17 \times a) - 19 &= 66 \\\\
-(17 \times a)      &= 66 + 19 \\\\
-17a      &= 85 \\\\
-a        &= \dfrac {85} {17} \\\\
-a        &= \dfrac {17 \times 5} {17} \\\\
-a        &= \dfrac {\cancel 17 \times 5} {\cancel 17}
-a        &= 5
+(17 \times a) - 19  &= 66 \\\\
+(17 \times a)       &= 66 + 19 \\\\
+17a                 &= 85 \\\\
+a                   &= \dfrac {85} {17} \\\\
+a                   &= \dfrac {17 \times 5} {17} \\\\
+a                   &= \dfrac {\cancel {17} \times 5} {\cancel {17}} \\\\
+a                   &= 5
 \end{aligned}
 $
-
-The number I first thought of $= 5.$
 
 </div>
 </div>
@@ -835,12 +833,12 @@ $2$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>6F9F32E1-F006-4C6E-8240-5A785690A7E2</p>
 </div>
@@ -906,7 +904,7 @@ $\text{angle Q}$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -1163,7 +1161,7 @@ $0.16, 0.032$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>E4E827B3-D0E0-4C37-A152-5F341EC0D264</p>
 </div>
@@ -1187,14 +1185,14 @@ Use the table to answer the following questions
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1213,9 +1211,13 @@ $12 \,\times \, 65$ = ……………….
 <div class='workings'>
 <div class='working'>
 
+Using the table,
+
 $
 \begin{aligned}
-12 \times 65 &= 650 + 130 \\\\
+12 \times 65 &= (10 + 2) \times 65 \\\\
+             &= (10 \times 65) + (2 \times 65) \\\\
+             &= 650 + 130 \\\\
              &= 780
 \end{aligned}
 $
@@ -1246,9 +1248,13 @@ $20 \, \times \,65$ = ……………….
 <div class='workings'>
 <div class='working'>
 
+Using the table,
+
 $
 \begin{aligned}
-20 \times 65 &= 650 + 650 \\\\
+20 \times 65 &= (10 + 10) \times 65 \\\\
+             &= (10 \times 65) + (10 \times 65) \\\\
+             &= 650 + 650 \\\\
              &= 1300
 \end{aligned}
 $
@@ -1279,12 +1285,16 @@ Use values in the table to work out  $4.55 \, \div \, 6.5$
 <div class='workings'>
 <div class='working'>
 
-As per the table
+As per the table,
 
 $
 \begin{aligned}
-\dfrac {455} {65}   &= 7 \\\\
-\dfrac {4.55} {6.5} &= 0.7 
+455                 &= 65 \times 7 \\\\
+\dfrac {455} {100}  &= \dfrac {65 \times 7} {100} \\\\
+\dfrac {455} {100}  &= \dfrac {65} {10} \times \dfrac {7} {10} \\\\
+4.55                &= 6.5 \times 0.7 \\\\
+\dfrac {4.55} {6.5} &= 0.7 \\\\
+4.55 \div 6.5       &= 0.7
 \end{aligned}
 $
 
@@ -1305,7 +1315,7 @@ $0.7$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -1529,7 +1539,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>71AEECED-FE8A-4461-B486-63BD70456190</p>
 </div>
@@ -1688,7 +1698,7 @@ $Yes$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -1858,7 +1868,7 @@ $\dfrac{3}{13}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>DAA6B0CE-CF05-45FF-83D8-D30065047D76</p>
 </div>
@@ -1959,14 +1969,21 @@ $1.073\,cm$   (nearest mm)
 <div class='workings'>
 <div class='working'>
 
-$10.73 \ \text {mm}$ 
+$
+\begin {aligned}
+&= 1.073 \ \text {cm} \\\\
+&= 1.073 \times 10 \ \text {mm} \\\\
+&= 10.73 \ \text {mm} \\\\
+&= 11 \ \text {mm}
+\end {aligned}
+$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10.73 \ \text {mm}$ 
+$11 \ \text {mm}$ 
 
 </div>
 </div>
@@ -1978,12 +1995,12 @@ $10.73 \ \text {mm}$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>C2E7E458-37BD-4223-A6E9-A4605F41B3BC</p>
 </div>
@@ -2006,9 +2023,10 @@ Write the following numbers in order of size, starting with the smallest.
 
 $
 \begin{aligned}
-&= 0.2  \quad  0.3  \quad    0.21     \quad  0.37  \quad  0.36 \\\\
-&= 0.2  \ \ < \quad  0.21 \ \ < \quad  0.3 \ \ < \quad 0.36 \ \ < \quad 0.37 \\\\
-&= 0.2  \ \ < \quad  0.21 \ \ < \quad  \dfrac {3} {10} \ \ < \quad 0.36 \ \ < \quad \dfrac {37} {100} \\\\
+&= 0.2,   \quad \dfrac {3} {10},    \quad 0.21,              \quad \dfrac {37} {100},     \quad 0.36 \\\\
+&= 0.2,   \quad 0.3,                \quad 0.21,              \quad 0.37,                  \quad 0.36 \\\\
+&= 0.2,   \quad 0.21,               \quad 0.3,               \quad 0.36,                  \quad 0.37 \\\\
+&= 0.2,   \quad 0.21,               \quad \dfrac {3} {10},   \quad 0.36,                  \quad \dfrac {37} {100}
 \end{aligned}
 $
 
@@ -2017,7 +2035,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.2  \ \ < \quad  0.21 \ \ < \quad  \dfrac {3} {10} \ \ < \quad 0.36 \ \ < \quad \dfrac {37} {100}$
+$0.2, \quad 0.21, \quad \dfrac {3} {10}, \quad 0.36, \quad \dfrac {37} {100}$
 
 </div>
 </div>
@@ -2026,12 +2044,12 @@ $0.2  \ \ < \quad  0.21 \ \ < \quad  \dfrac {3} {10} \ \ < \quad 0.36 \ \ < \qua
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>B1E676D4-7DC8-4CF7-B4DE-99AD6CD05D81</p>
 </div>
@@ -2078,12 +2096,12 @@ $5, 10, 9$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D</p>
 </div>
@@ -2102,15 +2120,26 @@ I have a bag containing red, blue and white counters. A counter is chosen at ran
 <div class='workings'>
 <div class='working'>
 
+Let the white counters $= a$
+
+As per the question,
+
+Total counters $= 24 + 15 + a$
+
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+
 $
 \begin{aligned}
-\text {Total counters} &= 24 \times 6 \\\\
-                       &= 144 \\\\
-\text {White counters} &= 144 - (24 + 15) \\\\
-                       &= 144 - 39 \\\\
-                       &= 105
+\text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
+\dfrac {1} {6}                                   &= \dfrac {24} {24 + 15 + a} \\\\
+24 + 15 + a                                      &= 24 \times 6 \\\\
+a + 39                                           &= 144 \\\\
+a                                                &= 144 - 39 \\\\
+a                                                &= 105
 \end{aligned}
 $
+
+There are $105$ white counters in the bag.
 
 </div>
 </div>
@@ -2126,12 +2155,12 @@ $105$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>CF6BAF33-A5F8-41F9-A140-9829B0BE78AC</p>
 </div>
@@ -2163,6 +2192,9 @@ $300 \ \text{metres}$
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>c</p>
+</div>
 <div class='answer'>
 
 $300 \ \text{metres}$
@@ -2174,7 +2206,7 @@ $300 \ \text{metres}$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

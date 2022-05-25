@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-all"
 title: "Topic - Unitprompt - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2776,7 +2776,7 @@ $5000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -2927,7 +2927,7 @@ $1.5625 \ \text {km}$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -3199,7 +3199,7 @@ $295 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>4AED5958-F04F-45F1-A4E4-5E09C607BC13</p>
 </div>
@@ -3240,7 +3240,7 @@ $7400 \ \text{grams}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -4624,7 +4624,7 @@ $0.175 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>AAF50B0C-7B6A-4176-B987-3E6426D91A8E</p>
 </div>
@@ -4679,9 +4679,9 @@ Write down the mass of one calculator.
 
 $
 \begin{aligned}
-&= \dfrac {1500} {10} \\\\
-&= \dfrac {150\cancel{0}} {1\cancel{0}} \\\\
-&= 150 \ \text{g}
+\text {Mass of one calculator} &= \dfrac {1500} {10} \\\\
+                               &= \dfrac {150\cancel{0}} {1\cancel{0}} \\\\
+                               &= 150 \ \text{g}
 \end{aligned}
 $
 
@@ -4737,11 +4737,12 @@ What is the total mass of $100$ calculators?
 <div class='workings'>
 <div class='working'>
 
+As per the question mass of ten calculators $= 1500 \ \text{g}$.Using that we get,
+
 $
 \begin{aligned}
-&= \dfrac {1500} {100} \\\\
-&= \dfrac {15\cancel{00}} {1\cancel{00}} \\\\
-&= 15 \ \text{g}
+\text {Mass of 100 calculators} &= 1500 \times 10 \\\\
+                                &= 15000 \ \text{g}
 \end{aligned}
 $
 
@@ -4750,7 +4751,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15 \ \text{g}$
+$15000 \ \text{g}$
 
 </div>
 </div>
@@ -4771,14 +4772,19 @@ Write your answer to part (ii) (a) in kilograms.
 <div class='workings'>
 <div class='working'>
 
-$0.15\ \text{kg}, 0.015 \ \text{kg}$
+$
+\begin{aligned}
+&= \dfrac {15 \cancel{000}} {1 \cancel{000}}
+&= 15 \ \text{kg}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.15\ \text{kg}, 0.015 \ \text{kg}$
+$15 \ \text{kg}$
 
 </div>
 </div>
@@ -4806,8 +4812,8 @@ What is the cost of $10$ calculators?
 
 $
 \begin{aligned}
-&= 5.19 \times 10 \\\\
-&= \pounds 51.9
+\text {cost of 10 calculators} &= 5.19 \times 10 \\\\
+                               &= \pounds 51.9
 \end{aligned}
 $
 
@@ -4828,7 +4834,7 @@ $\pounds 51.9$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

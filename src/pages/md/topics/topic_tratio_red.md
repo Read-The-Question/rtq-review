@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-red"
 title: "Topic - Ratio - Red"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1620,6 +1620,106 @@ $26$
 </ul>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>DE639F1C-5F52-4C93-BFFF-448E2E9A1515</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sanjay is making purple paint.
+
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If he uses $6 \ \text{litres}$ of red paint, how much blue paint should he use? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9 \ \text {litres}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \ \text {litres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much blue paint is needed to make $35 \ \text{litres}$ of purple paint?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$23.33 \ \text {litres}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23.33 \ \text {litres}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>

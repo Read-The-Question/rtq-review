@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircle-all"
 title: "Topic - Circle - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -80,7 +80,7 @@ tcircle
 </div>
 <div class='question question'>
 
-The fraction **one eighth** is roughly the same as one of these percentages. Put a rung around the best one.
+The fraction **one eighth** is roughly the same as one of these percentages. Put a ring around the best one.
 
 $10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
 
@@ -91,22 +91,24 @@ $10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
 $
 \begin {aligned}
 &= \dfrac {1} {8} \ \text {of} \ 100 \\\\
+&= \dfrac {1} {8} \times 100 \\\\
 &= \dfrac {100} {8} \\\\
 &= \dfrac {25 \times 4} {2 \times 4} \\\\
 &= \dfrac {25 \times \cancel {4}} {2 \times \cancel {4}} \\\\
 &= \dfrac {25} {2} \\\\
+&= 12 \dfrac {1} {2} \\\\
 &= 12.5 \%
 \end {aligned}
 $
 
-The Best answer is $= 12 \%$.
+The best answer is $= 12 \%$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12 \ %$
+$12 \%$
 
 </div>
 </div>

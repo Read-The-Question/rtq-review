@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsubtraction-g1"
 title: "Topic - Subtraction - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1663,6 +1663,53 @@ $773$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>CEA1032C-0FBA-4008-BC09-26A366EBB6D8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Subtract: $91 - 25$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   9   &   1 \\
+{}- &   2   &   5 \\
+\hline
+    &   6   &   6
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$66$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>922FBC24-0E68-4CEB-9A30-4049190D32C2</p>
@@ -1945,6 +1992,53 @@ $2667$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>2CFDBA5C-F4E6-4B3F-8ECD-B497444A1AFA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $3201 - 456$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   3   &   2   &   0   &   1 \\
+{}- &       &   4   &   5   &   6 \\
+\hline
+    &   2   &   7   &   4   &   5
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2745$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
 <p>F56D0855-13DE-4E97-9F7C-F9ABA1E13203</p>
@@ -1988,6 +2082,100 @@ $4556$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>33B15D5A-3BDC-406D-95C0-CD40E761277A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $2345 - 678$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   2   &   3   &   4   &   5 \\
+{}-     &   &   6   &   7   &   8 \\
+\hline
+    &   1   &   6   &   6   &   7
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1667$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>3FC5884C-8C77-4219-9E15-546D62002A8C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $2015 - 329$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   2   &   0   &   1   &   5 \\
+{}-     &   &   3   &   2   &   9 \\
+\hline
+    &   1   &   6   &   8   &   6
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1686$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

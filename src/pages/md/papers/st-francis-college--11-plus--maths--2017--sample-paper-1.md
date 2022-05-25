@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>St Francis' College</h1>
@@ -1259,7 +1259,7 @@ $\text {Obtuse angle is any angle greater than 90\degree}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>6BA7D9CC-3F62-4216-8E18-9D460E0DF11D</p>
 </div>
@@ -1308,29 +1308,28 @@ The difference between the terms is $\times{2}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize { \red { (\times {2} ) } } 
-&&  \footnotesize { \red { (\times {2} ) } }  
-&&  \footnotesize { \red { (\times {2} ) } }   
-&&  \footnotesize { \red { (\times {2} ) } }   
+&   \footnotesize { \red { (\times {2} ) } }
+&&  \footnotesize { \red { (\times {2} ) } }
+&&  \footnotesize { \red { (\times {2} ) } }
+&&  \footnotesize { \red { (\times {2} ) } }
 &&  \footnotesize { \red { (\times {2} ) } } \\
-3,  &&    6,  &&  12,  &&   24,  &&   48,  && \ldots, && \ldots 
+3,  &&    6,  &&  12,  &&   24,  &&   48,  && \ldots, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing first number}   &= 48 \times{2}\\\\
-                              &= 96
+\text {Missing first number}   &= 48 \times {2} \\\\
+                               &= 96
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Missing second number}   &= 96 \times{2}\\\\
-                               &= 192
+\text {Missing second number}   &= 96 \times {2} \\\\
+                                &= 192
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -1358,29 +1357,28 @@ $58\:\:\:   57\:\:\:   55\:\:\:   52\:\:\:  48$
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{matrix}
-&   \footnotesize{ \red { (-1) } } 
-&&  \footnotesize{ \red { (-2) } }  
-&&  \footnotesize{ \red { (-3) } }   
-&&  \footnotesize{ \red { (-4) } }   
+&   \footnotesize{ \red { (-1) } }
+&&  \footnotesize{ \red { (-2) } }
+&&  \footnotesize{ \red { (-3) } }
+&&  \footnotesize{ \red { (-4) } }
 &&  \footnotesize{ \red { (-5) } } \\
-58  &&    57  &&  55  &&   52  &&   48  && \ldots && \ldots 
+58  &&    57  &&  55  &&   52  &&   48  && \ldots && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing first number}   &= 48 - 5\\\\
-                              &= 43
+\text {Missing first number}   &= 48 - 5 \\\\
+                               &= 43
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Missing second number}   &= 43 - 6\\\\
-                               &= 37
+\text {Missing second number}   &= 43 - 6 \\\\
+                                &= 37
 \end{aligned}
 $
 
@@ -1401,7 +1399,7 @@ $43, 37$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -1562,14 +1560,14 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>8BD8C6A9-6A7F-4A9C-95F8-A5F6238FE933</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tinfer
+tnumber
 </li>
 </ul>
 </div>
@@ -1607,14 +1605,22 @@ How many chocolates will each student receive?
 <div class='workings'>
 <div class='working'>
 
-$4$
+$
+\begin{aligned}
+\text {Each student will recieve}  &= \dfrac {36 \times 4} {27} \\\\
+                                   &= \dfrac {144} {27} \\\\
+                                   &= 5 \dfrac {9} {27}
+\end{aligned}
+$
+
+Each student will recieve $5$ chocolates.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4$
+$5$
 
 </div>
 </div>
@@ -1635,14 +1641,14 @@ How many chocolates will be left over?
 <div class='workings'>
 <div class='working'>
 
-$1$
+By the above solution $9$ chococlates will be left over.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1$
+$9$
 
 </div>
 </div>
@@ -1654,12 +1660,12 @@ $1$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
 </div>
@@ -1680,21 +1686,23 @@ A child’s heart beats $80$ times per minute. How many times will it beat betwe
 
 $
 \begin{aligned}
-&= 3 {:} 30 - 8 {:} 30 \\\\
-&= 15 {:} 30 - 8 {:} 30 \\\\
-&= 7 \ \text {hours} \\\\
-&= 7 \times 60 \ \text {minutes} \\\\
-&= 420 \ \text {minutes}  
+\text {Time difference}  &= 3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am} \\\\
+                         &= 15 {:} 30 - 8 {:} 30 \\\\
+                         &= 7 \ \text {hours} \\\\
+                         &= 7 \times 60 \ \text {minutes} \\\\
+                         &= 420 \ \text {minutes}
 \end{aligned}
 $
 
-For one minute child'd heart beats $=80$
-For 420 minute child's heart beats ,
+$
+\begin{aligned}
+\text {Total heartbeat}  &= \text {(Time difference)} \times 80 \ \text {bpm} \\\\
+                         &= 420 \times 80 \\\\
+                         &= 33600 \ \text {times}
+\end{aligned}
+$
 
-$
-&= 420 \times 80 \\\\
-&= 33600
-$
+The child's heart beat 33600 times between $8.30 \ \text {am}$ and $3.30 \ \text {pm}$.
 
 </div>
 </div>
@@ -1710,12 +1718,12 @@ $33600$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>33BA3A42-D90E-400D-A934-CADF6E6B81F9</p>
 </div>
@@ -1734,9 +1742,9 @@ $2$ packets of crisps and $2$ drinks cost $\pounds 1.50$. $2$ packets of crisps 
 <div class='workings'>
 <div class='working'>
 
-Cost of 2 crips(a) and 2 drinks(b) $=\pounds 1.50$
+Let the price of crisp $= a$
 
-Cost of 2 crips(a) and 1 drinks(b) $=\pounds 1.10$
+Let the price of drinks $= b$
 
 $
 \begin{aligned}
@@ -1766,6 +1774,8 @@ a   &=  0.35
 \end{aligned}
 $
 
+Price of crisp $= \pounds 0.35$, and price of drinks $= \pounds 0.40$. Using this we get,
+
 $
 \begin{aligned}
 \text {For 4 crisps and 3 drinks} &= 4 \times 0.35 + 3 \times 0.40 \\\\
@@ -1788,7 +1798,7 @@ $\pounds 2.6$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -2514,7 +2524,7 @@ $63 \text{m}^2, 32 \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>16DF0399-C970-4AFF-A8B9-931D0D72EE36</p>
 </div>
@@ -2535,24 +2545,21 @@ Find the area of this shape. Give the units with your answer.
 <div class='workings'>
 <div class='working'>
 
-Area of half triangle,
+As per the figure,
+
+Height of the triangle $= 6 \text {cm}$
+
+Base of the triangle $= 10 \text {cm}$
+
+We know that,
 
 $
 \begin{aligned}
-&= \dfrac {1} {2} \times \ \text{base} \times \ \text{height} \\\\
-&= \dfrac {1} {2} \times 5 \times 6 \\\\
-&= \dfrac {5 \times 3 \times 2} {2} \\\\
-&= \dfrac {5 \times 3 \times \cancel{2}} {\cancel{2}} \\\\
-&= 5 \times 3 \\\\
-&= 15 \ \text{cm}^2
-\end{aligned}
-$
-
-Area of full triangle,
-$
-\begin{aligned}
-\text{Area} &= 15 + 15 \\\\
-            &= 30 \ \text{cm}^2
+\text {Area of triangle} &= \dfrac {1} {2} \times \ \text{base} \times \ \text{height} \\\\
+                         &= \dfrac {1} {2} \times 10 \times 6 \\\\
+                         &= \dfrac {10 \times 3 \times 2} {2} \\\\
+                         &= \dfrac {10 \times 3 \times \cancel{2}} {\cancel{2}} \\\\
+                         &= 30 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -2570,12 +2577,12 @@ $30 \ \text{cm}^2$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>81411267-4268-441B-B266-ABB3F942DF98</p>
 </div>
@@ -2622,7 +2629,9 @@ a red smartie?
 
 $
 \begin{aligned}
-&= \dfrac {7} {18}
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {7} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {7} {18}
 \end{aligned}
 $
 
@@ -2654,10 +2663,12 @@ a blue or pink smartie?
 
 $
 \begin{aligned}
-&= \dfrac {6} {18} \\\\
-&= \dfrac {3 \times 2} {3 \times 7} \\\\
-&= \dfrac {\cancel {3} \times 2} {\cancel {3} \times 7} \\\\
-&= \dfrac {2} {7}
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {4 + 2} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {6} {18} \\\\
+                    &= \dfrac {6} {6 \times 3} \\\\
+                    &= \dfrac {\cancel {6}} {\cancel {6} \times {3}} \\\\
+                    &= \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -2666,7 +2677,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {2} {7}$
+$\dfrac {1} {3}$
 
 </div>
 </div>
@@ -2689,7 +2700,9 @@ not an orange smartie?
 
 $
 \begin{aligned}
-&= \dfrac {13} {18} 
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {7 + 4 + 2} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {13} {18}
 \end{aligned}
 $
 
@@ -2710,7 +2723,7 @@ $\dfrac {13} {18}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -2829,7 +2842,7 @@ $29$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>98887762-1849-4F10-9E68-211B94B015A0</p>
 </div>
@@ -2872,7 +2885,7 @@ $4$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -2898,6 +2911,8 @@ I think of a number, multiply it by $2$ and subtract $5$. The answer is $11$. Wh
 
 Let the number $=a$
 
+As per the question,
+
 $
 \begin{aligned}
 a \times 2 - 5 &= 11 \\\\
@@ -2909,6 +2924,8 @@ a              &= \dfrac {8 \times \cancel{2}} {\cancel{2}} \\\\
 a              &= 8
 \end{aligned}
 $
+
+My number is $8$.
 
 </div>
 </div>
@@ -3238,7 +3255,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>44871CCE-80E9-4654-AF29-D474783C1D63</p>
 </div>
@@ -3261,11 +3278,12 @@ Weight for older coins
 
 $
 \begin{aligned}
-\text {Weight of 5p(\pounds 0.05) coin} &= 5.65\ \text{g} \\\\
-\text {Weight of 1p(\pounds 0.01) coin} &= \dfrac {5.65} {5} \\\\
-                                        &= 1.13 \ \text {g} \\\\
-\text {Weight of \pounds 2(200 p) coin} &= 1.13 \times 200 \\\\
-                                        &= 226 \ \text{g}                                      
+\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 20 \times 5} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 5.65 \\\\
+                                 &= 2 \times 20 \times 5.65 \\\\
+                                 &= 226 \ \text {g}
 \end{aligned}
 $
 
@@ -3273,11 +3291,12 @@ Weight for new coins
 
 $
 \begin{aligned}
-\text {Weight of 5p(\pounds 0.05) coin} &= 3.25\ \text{g} \\\\
-\text {Weight of 1p(\pounds 0.01) coin} &= \dfrac {3.25} {5} \\\\
-                                        &= 0.65 \ \text {g} \\\\
-\text {Weight of \pounds 2(200 p) coin} &= 0.65 \times 200 \\\\
-                                        &= 130 \ \text{g}                                   
+\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 20 \times 5} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 3.25 \\\\
+                                 &= 2 \times 20 \times 3.25 \\\\
+                                 &= 130 \ \text {g}
 \end{aligned}
 $
 
@@ -3304,12 +3323,12 @@ $96 \ \text{g}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>0614640E-B41A-4826-860D-7235E6EC27FC</p>
 </div>
@@ -3363,12 +3382,12 @@ $23$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>A07A2CC0-89F4-4D36-948D-4DA958505E88</p>
 </div>
@@ -3432,7 +3451,7 @@ $116.5 \ \text{cm}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

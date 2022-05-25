@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-g1"
 title: "Topic - Perimeter - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2180,6 +2180,250 @@ $18 \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Farmer Jack and Farmer Giles each have a rectangular field.
+
+![missing image](/papers/missing_image.svg)
+
+Farmer Jack’s field has an area of $24 \ \text{m}^2$.
+
+Its length is $8 \ \text{m}$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the width of Farmer Jack’s field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the field $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of rectangle}  &= \text {length} \times \text {width} \\\\
+24                         &= 8 \times a \\\\
+a                          &= \dfrac {24} {8} \\\\
+a                          &= \dfrac {3 \times 8} {8} \\\\
+a                          &= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
+a                          &= 3 \ \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the perimeter of Farmer Jack’s field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+                                 &= 2 \times (8 + 3) \\\\
+                                 &= 2 \times 11 \\\\
+                                 &= 22 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Farmer Giles’ field has a perimeter of $20 \ \text{m}$.
+
+The width of Farmer Giles’ field is $4 \ \text{m}$. 
+
+![missing image](/papers/missing_image.svg)
+
+Work out the length of Farmer Giles’ field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length $=a$
+
+$
+\begin{aligned}
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+20                               &= 2 \times (4 + a) \\\\
+20                               &= 8 + 2a \\\\
+2a                               &= 20 - 8 \\\\
+2a                               &= 12 \\\\
+a                                &= \dfrac {12} {2} \\\\
+a                                &= 6 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the area of Farmer Giles’ field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area} &= 4 \times 6 \\\\
+             &= 24 \ \text {m} ^ 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text {m} ^ 2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Farmer Josephine also has a rectangular field.
+
+![missing image](/papers/missing_image.svg)
+
+The width of Farmer Josephine’s field is $x \ \text{m}$ and the length is $y \ \text{m}$.
+
+Farmer Josephine builds a fence along the perimeter of her field.
+
+If the total length of this fence is $30 \ \text{m}$, write down two possible values of $x$ and $y$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10 \ \text{and} 5,7 \ \text{and} 8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{and} 5,7 \ \text{and} 8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>

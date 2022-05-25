@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-all"
 title: "Topic - Perimeter - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2071,7 +2071,7 @@ $30 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tdraw
 </li>
 <li>
 tperimeter
@@ -2117,7 +2117,13 @@ Write the two remaining lengths on the diagram.
 <div class='workings'>
 <div class='working'>
 
-$12 \ \text {cm}, 8 \ \text {cm}$
+$
+\begin {aligned}
+\text {Top missing length}  &= 5 + 2 + 5 \\\\
+                            &= 12 \ \text {cm} \\\\
+\text {Side missing length} &= 8 \ \text {cm}
+\end {aligned}
+$
 
 </div>
 </div>
@@ -2150,8 +2156,8 @@ As per the diagram,
 $
 \begin {aligned}
 \text {Perimeter of the T shape}  &= \text {Sum of all sides} \\\\
-                                  &= 2 \ \text {cm} + (5 + 5 + 2) \ \text {cm} + 2 \ \text {cm} + 5 \ \text {cm} + 8 \ \text {cm} + 2 \ \text {cm} + 8 \ \text {cm} + 5 \ \text {cm} \\\\
-                                  &= 2 + 12 + 30 \\\\
+                                  &= 2 \times 3 + 5 \times 2 + 8 \times 2 + 12 \\\\
+                                  &= 6 + 10 + 16 + 12 \\\\
                                   &= 44 \ \text {cm}
 \end {aligned}
 $
@@ -2186,12 +2192,12 @@ State the units.
 
 As per the diagram,
 
-The T shape can be divided into two rectangles.
+Let's draw a line at the neck of the T shape and make two separate rectangles.
 
 $
 \begin {aligned}
 \text {Area of the T shape}  &= \text {Area of horizontal rectangle} + \text {Area of vertical rectangle} \\\\
-                             &= (12 \ \text {cm} \times 2 \ \text {cm}) + (8 \ \text {am} \times 2 \ \text {cm}) \\\\
+                             &= 12 \times 2 + 2 \times 8 \\\\
                              &= 24 + 16 \\\\
                              &= 40 \ \text {cm} ^ 2
 \end {aligned}
@@ -7612,9 +7618,11 @@ A square has area $49\ \text{cm}^2$. What is the perimeter of the square?
 <div class='workings'>
 <div class='working'>
 
-We know, Area of a square $= \text{Side} \times \text{Side}$
+We know, 
 
-As per question,
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
 
 Let the length of the square (in cm) $= a$
 
@@ -7626,7 +7634,7 @@ a                                               &= 7 \ \text{cm}
 \end{aligned}
 $
 
-The Length of the side of square $= 7 \ \text{cm}$
+The length of the side of the square $= 7 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
@@ -7679,9 +7687,11 @@ A square has area $64\ \text{cm}^2$. What is the perimeter of the square?
 <div class='workings'>
 <div class='working'>
 
-We know, Area of a square $= \text{Side} \times \text{Side}$
+We know,
 
-As per question,
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
 
 Let the length of the square (in cm) $= a$
 
@@ -7694,7 +7704,7 @@ a                                               &= 8 \ \text{cm}
 \end{aligned}
 $
 
-The Length of the side of square $= 8 \ \text{cm}$
+The length of the side of the square $= 8 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
@@ -8917,7 +8927,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= 2 \times (14 + 9) \\\\
+\text{Perimeter}    &= 2 \times (14 + 9) \\\\
 &= 2 \times 23 \\\\
 &= 46 \ \text{cm}
 \end{aligned}
@@ -8957,7 +8967,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= 12 \times 8 \\\\
+\text{Area}     &= 12 \times 8 \\\\
 &= 96 \ \text{cm}^2
 \end{aligned}
 $
@@ -8990,26 +9000,26 @@ A square has a perimeter of $36 \ \text{cm}$. Find its area.
 <div class='workings'>
 <div class='working'>
 
-$\text{Perimeter of a square} = 4 \times (\text{side})$
+$\text{Perimeter of a square} = 4 \times \text{Side}$
 
 As per the question,
 
 $
 \begin{aligned}
-4 \times a  &= 36 \text{cm} \\\\
-a           &= \dfrac{36}{4} \text{cm} \\\\
-a           &= \dfrac{4 \times 9}{4} \\\\
-a           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
-a           &= 9 \text{cm}
+4 \times \text{Side}  &= 36 \ \text{cm} \\\\
+Side           &= \dfrac{36}{4} \ \text{cm} \\\\
+Side           &= \dfrac{4 \times 9}{4} \\\\
+Side           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
+Side           &= 9 \ \text{cm}
 \end{aligned}
 $
 
-$\text{Area of a square} = \text{side}^2$
 
 $
 \begin{aligned}
+\text{Area of a square} &= \text{Side}^2 \\\\
 &= 9^2 \\\\
-&= 81 \text{cm}^2
+&= 81 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -9972,23 +9982,21 @@ Area = $49 \ \text{cm}^{2}$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Area of the square} &= 49 \ \text{cm}^2 \\\\
-\text{Perimeter of the square } &= ? \\\\
-\text{ Let's Side of square} &= \text{a} \\\\
-\text{Area of the square} &= \text{a}^2 \\\\
-49 &= \text{a}^2 \\\\
-\text{a}^2 &= 49 \\\\
-\text{a} &= \sqrt{49} \\\\
-\text{a} &= 7\\\\
-\text{The side of square} &= 7 \ \text{cm} \\\\
-\text{hence ,} \\\\
-\text{Perimeter of the square} &= 4 \times \text{a} \\\\
-\text{Perimeter of the square} &= 4 \times 7 \\\\
-\text{Perimeter of the square} &= 28
-\end{aligned}
-$
+
+Area of the square $= 49 \ \text{cm}^2$
+Perimeter of the square  = ?
+Let's Side of square = a
+Area of the square $= \text{a}^2$
+$49 = \text{a}^2$
+$\text{a}^2&= 49$
+$\text{a} = \sqrt{49}$
+$\text{a} = 7$
+The side of square $= 7 \ \text{cm}$
+hence ,
+Perimeter of the square $= 4 \times \text{a}$
+Perimeter of the square $= 4 \times 7$
+Perimeter of the square $= 28$
+
 
 </div>
 </div>
@@ -10114,8 +10122,8 @@ $
 \text{Perimeter of the square} &=  28 \ \text{cm} \\\\
 4\text{s}                      &= 28 \ \text{cm} \\\\
 \text{s}                       &= \dfrac {28}{4} \\\\ 
-\text{s}                       &= \dfrac {4 \time 7}{4} \\\\ 
-\text{s}                       &= \dfrac {\cancel 4 \time 7}{\cancel 4} \\\\
+\text{s}                       &= \dfrac {4 \times 7}{4} \\\\ 
+\text{s}                       &= \dfrac {\cancel 4 \times 7}{\cancel 4} \\\\
 \text{s}                       &= 7  \ \text{cm}
 \end{aligned}
 $
@@ -10127,7 +10135,7 @@ $
 2 \times (\text{7} +   \text{b} )   &= 16 \\\\
 \text{7} +  \text{b}                &= \dfrac {16}{2} \\\\ 
 \text{7} +  \text{b}                &= \dfrac {2 \times 8}{2} \\\\ 
-\text{7} +  \text{b}                &= \dfrac {\cancel 2 \time 8}{\cancel 2} \\\\
+\text{7} +  \text{b}                &= \dfrac {\cancel 2 \times 8}{\cancel 2} \\\\
 \text{7} +  \text{b}                &= 8 \\\\
 \text{b}                            &= 8 - 7 \\\\
 \text{b}                            &= 1 \ \text{cm}
@@ -10904,7 +10912,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B</p>
 </div>
@@ -10961,12 +10969,18 @@ Work out the width of Farmer Jack’s field.
 <div class='workings'>
 <div class='working'>
 
+Let the width of the field $= a$.
+
+As per the question,
+
 $
 \begin{aligned}
-&= \dfrac {24} {8} \\\\
-&= \dfrac {3 \times 8} {8} \\\\
-&= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
-&= 3 \ \text{m}
+\text {Area of rectangle}  &= \text {length} \times \text {width} \\\\
+24                         &= 8 \times a \\\\
+a                          &= \dfrac {24} {8} \\\\
+a                          &= \dfrac {3 \times 8} {8} \\\\
+a                          &= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
+a                          &= 3 \ \text{m}
 \end{aligned}
 $
 
@@ -10998,9 +11012,10 @@ Work out the perimeter of Farmer Jack’s field.
 
 $
 \begin{aligned}
-&= 2 \times (8 + 3) \\\\
-&= 2 \times 11 \\\\
-&= 22
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+                                 &= 2 \times (8 + 3) \\\\
+                                 &= 2 \times 11 \\\\
+                                 &= 22 \ \text {m}
 \end{aligned}
 $
 
@@ -11009,7 +11024,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$22$
+$22 \ \text {m}$
 
 </div>
 </div>
@@ -11037,14 +11052,16 @@ Work out the length of Farmer Giles’ field.
 <div class='working'>
 
 Let the length $=a$
+
 $
 \begin{aligned}
-20 &= 2 \times (4 + a) \\\\
-20 &= 8 + 2a \\\\
-2a &= 20 - 8 \\\\
-2a &= 12 \\\\
-a  &= \dfrac {12} {2} \\\\
-a  &= 6 
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+20                               &= 2 \times (4 + a) \\\\
+20                               &= 8 + 2a \\\\
+2a                               &= 20 - 8 \\\\
+2a                               &= 12 \\\\
+a                                &= \dfrac {12} {2} \\\\
+a                                &= 6 \ \text {m}
 \end{aligned}
 $
 
@@ -11053,7 +11070,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6$
+$6 \ \text {m}$
 
 </div>
 </div>
@@ -11077,7 +11094,7 @@ Work out the area of Farmer Giles’ field.
 $
 \begin{aligned}
 \text {Area} &= 4 \times 6 \\\\
-             &= 24 \ \text{cm^2}
+             &= 24 \ \text {m} ^ 2
 \end{aligned}
 $
 
@@ -11086,7 +11103,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24 \ \text{cm^2}$
+$24 \ \text {m} ^ 2$
 
 </div>
 </div>
@@ -11134,7 +11151,7 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-pr"
 title: "Topic - Speed - PR"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -254,204 +254,6 @@ $3 \ \text {hours} \ 20 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>5E77341D-320F-47AF-AB40-A78DD573EE26</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunit
-</li>
-<li>
-ttime
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On a long straight country road, there are four villages: Josham, Keston, Langham and Moreton, which are shown in the diagram below.
-
-![missing image](/papers/missing_image.svg)
-
-Distances between the village are shown by the arrows. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the distances from:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion TODO'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Keston to Langham;
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \text {Distance from Josham to Langham} - \text {Distance from Josham to Keston} \\\\ 
-&= 26 \ \text {km} - 12 \ \text {km} \\\\
-&= 14 \ \text {km}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14 \ \text {km}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Langham to Moreton, giving your answer **in metres**.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \text {Distance from Keston to Moreton} - \text {Distance from Keston to Josham} \\\\ 
-&= 23 \ \text {km} - 14 \ \text {km} \\\\
-&= 9 \ \text {km} \\\\
-&= 9 \times 1000 \ \text {m} \\\\
-&= 9000\ \text {m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9000\ \text {m}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey would take from Josham to Moreton in hours and minutes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Speed $= 14 km.p.h$
-
-$
-\begin{aligned}
-\text {Distance from Josham to Moreton} &= \text {(Josham to Langham)} + \text {(Langham to Moreton)} \\\\
-                                      &= 26 + 9 \\\\
-                                      &= 35 \ \text {km}
-\end{aligned}
-$
-
-Let's find the time tourist will take to complete the journey.
-
-$
-\begin{aligned}
-\text {Time} &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
-             &= \dfrac {35} {14} \\\\
-             &= 2 \ \text {hours}, 30 \ \text {minutes} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \ \text {hours}, 30 \ \text {minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>189A1B25-EAA6-4C15-8F75-A6EC061BEC38</p>
@@ -601,11 +403,13 @@ Josh can walk at $6 \ \text{km}$ per hour. How long will he take to finish the w
 <div class='workings'>
 <div class='working'>
 
-Time $= \dfrac {\text{Distance}} {\text{Speed}}
+Time $= \dfrac {\text{Distance}} {\text{Speed}}$
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Time taken (by Josh)}                         &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
+\text{Time taken by Josh}                           &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
                                                     &= \dfrac {6 \times 6} {6} \\\\
                                                     &= \dfrac {\cancel{6} \times 6} {\cancel{6}} \\\\
                                                     &= 6 \ \text{hours}
@@ -638,13 +442,13 @@ Gary can walk at $5 \ \text{km}$ per hour. How far will he still have left to wa
 <div class='workings'>
 <div class='working'>
 
-We know,  Jost took 6 hours to finish walking 36 km.
+We know,  Josh took $6$ hours to finish walking $36$ km.
 
 $
 \begin{aligned}
-\text{Distance Gary (Left)}                         &= \text{Total distance} - \text{Distance Gary (Covered)} \\\\
+\text{Remaining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
                                                     &= 36 \ \text{km} - \text{Speed} \times \text{Time} \\\\
-                                                    &= 36 \ \text{km} - 5 \ \text{km / hour} \times 6 \ \text{hour} \\\\
+                                                    &= 36 \ \text{km} - 5 \ \text{km per hour} \times 6 \ \text{hours} \\\\
                                                     &= 36 - 30 \\\\
                                                     &= 6 \ \text{km}
 \end{aligned}
@@ -668,162 +472,6 @@ $6 \ \text{km}$
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tspeed
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I live $0.6$ miles from Goodison Park football stadium. There are $1760$ yards in a mile. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many yards away from Goodison Park do I live?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= 1760 \times 0.6 \\\\
-&= 1056 \ \text{yards}
-\end{aligned}
-$
-
-I live $1056 \text {yards}$ away from Goodison Park.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1056 \ \text{yards}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-I live $4,400$ yards from Anfield football stadium. How many miles from Anfield football stadium do I live?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= \dfrac {4400} {1760} \\\\
-&= 2.5 \ \text {miles}
-\end{aligned}
-$
-
-I live $2.5$ miles away from Anfield football stadium.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.5 \ \text {miles}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A kilometre is five eighths of a mile. How many kilometres away from Anfield do I live?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
-&= \dfrac {2.5 \times 5} {8} \\\\
-&= 1.5625 \ \text {km}
-\end{aligned}
-$
-
-I live $1.5625$ km away from Anfield.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.5625 \ \text {km}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

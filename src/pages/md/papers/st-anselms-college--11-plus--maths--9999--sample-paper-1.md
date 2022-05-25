@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>St Anselm's College</h1>
@@ -648,14 +648,18 @@ As per the question,
 
 $
 \begin{aligned}
-( x + 7 ) \times 8  &=  x \times 22 \\\\
-           8x + 56  &=  22x \\\\
-                56  &=  22x - 8x \\\\
-               56   &=  14x \\\\
-                 4  &=  x 
+x \times 22 &= (x + 7) \times 8 \\\\
+        22x &= 8x + 56 \\\\
+   22x - 8x &= 56 \\\\
+        14x &= 56 \\\\
+          x &= \dfrac {56} {14} \\\\
+          x &= \dfrac {14 \times 4} {14} \\\\
+          x &= \dfrac {\cancel {14} \times 4} {\cancel {14}} \\\\
+          x &= 4
 \end{aligned}
 $
 
+x is $4$.
 
 </div>
 </div>
@@ -778,7 +782,7 @@ $1 \,\,\,\,\, 3 \,\,\,\,\, 9 \,\,\,\,\, 27 \,\,\,\,\, 81$  ... ...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+The next term is calculated by multiplying the previous sequence by 3. Hence the sequence would be:
 
 $
 \begin{matrix}
@@ -890,17 +894,17 @@ $1 \,\,\,\,\, 1 \,\,\,\,\, 2 \,\,\,\,\, 3 \,\,\,\,\, 5 \,\,\,\,\, 8$  …  …
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The next term is calculated by adding the previous sequence difference by 1. Hence, the sequence would be:
+The next term is calculated by adding the previous two numbers in sequence. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{ \red { (+0) } } 
 &&  \footnotesize{ \red { (+1) } }  
+&&  \footnotesize{ \red { (+1) } }   
 &&  \footnotesize{ \red { (+2) } }   
-&&  \footnotesize{ \red { (+3) } }   
-&&  \footnotesize{ \red { (+4) } }
+&&  \footnotesize{ \red { (+3) } }
 &&  \footnotesize{ \red { (+5) } } 
-&&  \footnotesize{ \red { (+6) } } \\
+&&  \footnotesize{ \red { (+8) } } \\
 1,  &&    1,  &&  2,  &&   3,  &&   5,  &&   8, 	&&	\ldots, && \ldots 
 \end{matrix}
 $
@@ -914,8 +918,8 @@ $
 
 $
 \begin{aligned}
-\text{Second missing number}   &= 13+6 \\\\
-                               &= 19
+\text{Second missing number}   &= 13+8 \\\\
+                               &= 21
 \end{aligned}
 $
 
@@ -924,7 +928,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$13, 19$
+$13, 21$
 
 </div>
 </div>
@@ -1948,7 +1952,7 @@ $\text {A score of more than 10 }$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>804485E5-7451-4F75-8F5C-D624DA927416</p>
 </div>
@@ -1967,18 +1971,26 @@ I have a bag containing red, blue and white counters. A counter is chosen at ran
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text {Total number of counters} &= 32 \times 4 \\\\
-                                 &= 128 \\\\ 
-\end{aligned}                                 
-$
+Let the blue counters $= a$
+
+As per the question,
+
+Total counters $= 32 + 14 + a$
+
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
 
 $
-\text {Not blue} &= 128 - (32 + 14) \\\\
-                 &= 128 - 46 \\\\
-                 &= 82
+\begin{aligned}
+\text {Probability of choosing a white counter is} &= \dfrac {\text {White counters}} {\text {Total counters}} \\\\
+\dfrac {1} {4}                                     &= \dfrac {32} {32 + 14 + a} \\\\
+32 + 14 + a                                        &= 32 \times 4 \\\\
+a + 46                                             &= 128 \\\\
+a                                                  &= 128 - 46 \\\\
+a                                                  &= 82
+\end{aligned}
 $
+
+There are 82 blue counters in the bag.
 
 </div>
 </div>
@@ -1994,7 +2006,7 @@ $82$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

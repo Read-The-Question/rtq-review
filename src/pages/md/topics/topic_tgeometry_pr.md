@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-pr"
 title: "Topic - Geometry - PR"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -776,111 +776,6 @@ $60 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>D9231838-D731-4ED0-8FFC-95ED1A8B30CD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsymmetry
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Circle which of the following shapes has two both lines of symmetry and rotational symmetry of order $2$.
-
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Image 2, Rhombus}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Image 2, Rhombus}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Give the **full name** of the shape above which has exactly three lines of symmetry.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Triangle}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{Triangle}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>FA3111F3-33F1-4247-9DB3-34AB4A300F6F</p>
@@ -1313,103 +1208,6 @@ Octagon and Trapezium
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>C51D4882-FD86-449B-BC74-E90265EBA237</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Name the shapes below
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Hexagon
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Hexagon
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Cylinder
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Cylinder
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>20EB0151-9603-4A9B-8AA6-93D45586F5A7</p>
 </div>
 <div class='topics'>
@@ -1507,10 +1305,10 @@ As per the diagram,
 $
 \begin{aligned}
 3y - 3              &= 21 \\\\
-3x                  &= 21 + 3 \\\\
-3x                  &= 24 \\\\
-x                   &= \dfrac {24} {3} \\\\
-x                   &= 8
+3y                  &= 21 + 3 \\\\
+3y                  &= 24 \\\\
+y                   &= \dfrac {24} {3} \\\\
+y                   &= 8
 \end{aligned}
 $
 
@@ -2328,10 +2126,13 @@ Calculate the shaded area.
 
 As per the question,
 
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
 $
 \begin{aligned}
-\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of PQBT} \\\\
-                                    &= AB \times AD - (PQ \times (PS - BR)) \\\\
+\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
+                                    &= AB \times AD - QB \times QP \\\\
+                                    &= AB \times AD - ((PS - BR) \times QP) \\\\
                                     &= 5 \times 3 - 2 \times (2 - 1) \\\\
                                     &= 15 - 2 \times 1 \\\\
                                     &= 15 - 2 \\\\

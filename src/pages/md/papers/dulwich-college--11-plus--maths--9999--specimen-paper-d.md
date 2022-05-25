@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-d"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper D"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>Dulwich College</h1>
@@ -391,7 +391,7 @@ $23.5 \quad 21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>D86B78CF-3CB7-4D94-91D5-0A682E2CE7C1</p>
 </div>
@@ -442,12 +442,12 @@ $16, 24, 8$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>94575FCE-B695-49E6-BE39-C1569C3879FA</p>
 </div>
@@ -539,7 +539,7 @@ $8890$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -591,7 +591,7 @@ $70$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>F40CA335-0433-490A-BE1D-F7B5BDE3FC1E</p>
 </div>
@@ -642,12 +642,12 @@ $3 - (7 - 4)$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>EEA0B465-FB0C-45E9-92BF-4CDC84D3237B</p>
 </div>
@@ -694,16 +694,20 @@ $\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \dfrac{7} {10}
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {6} {9} = \dfrac {2} {3}$
+$
+\begin{aligned}
+\dfrac {6} {9}      &= \dfrac {2 \times 3} {3 \times 3} \\\\
+                    &= \dfrac {2 \times \cancel {3}} {3 \times \cancel {3}} \\\\
+                    &= \dfrac {2} {3} \\\\
+\dfrac {2} {3}      &= \dfrac {2} {3} \\\\
+\dfrac {18} {27}    &= \dfrac {9 \times 2} {9 \times 3} \\\\
+                    &= \dfrac {\cancel {9} \times 2} {\cancel {9} \times 3} \\\\
+                    &= \dfrac {2} {3} \\\\
+\dfrac {7} {10}     &= \dfrac {7} {10}
+\end{aligned}
+$
 
-$\dfrac {2} {3} = \dfrac {2} {3}$
-
-$\dfrac {18} {27} = \dfrac {2} {3}$
-
-$\dfrac {7} {10} = \dfrac {7} {10}$
-
-
-Therefore,
+Using this we get,
 
 $\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
 
@@ -735,7 +739,17 @@ $\dfrac{1}{4} \qquad \dfrac{1}{5} \qquad \dfrac{5}{16} \qquad \dfrac{1}{3}$
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {1} {5}$
+To compare, let's make the denominator of all the fractions equal. 
+
+$
+\begin{aligned}
+&= \dfrac {1} {4}, \qquad \dfrac {1} {5}, \qquad \dfrac {5} {16}, \qquad \dfrac {1} {3} \\\\
+&= \dfrac {1 \times 60} {4 \times 60}, \qquad \dfrac {1 \times 48 } {5 \times 48}, \qquad \dfrac {5 \times 15} {16 \times 15}, \qquad \dfrac {1 \times 80} {3 \times 80} \\\\
+&= \dfrac {60} {240}, \qquad \dfrac {48} {240}, \qquad \dfrac {75} {240}, \qquad \dfrac {80} {240}
+\end{aligned}
+$
+
+The smallest fraction $= \dfrac {48} {240} = \dfrac {1} {5}$.
 
 </div>
 </div>
@@ -765,14 +779,24 @@ $\dfrac{2}{3} \qquad \dfrac{7}{9} \qquad \dfrac{17}{27} \qquad \dfrac{1}{2}$
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {1} {2}$
+To compare, let's make the denominator of all the fractions equal. 
+
+$
+\begin{aligned}
+&= \dfrac {2} {3}, \qquad \dfrac {7} {9}, \qquad \dfrac {17} {27}, \qquad \dfrac {1} {2} \\\\
+&= \dfrac {2 \times 18} {3 \times 18}, \qquad \dfrac {7 \times 6} {9 \times 6}, \qquad \dfrac {17 \times 2} {27 \times 2}, \qquad \dfrac {1 \times 27} {2 \times 27} \\\\
+&= \dfrac {36} {54}, \qquad \dfrac {42} {54}, \qquad \dfrac {34} {54}, \qquad \dfrac {27} {54}
+\end{aligned}
+$
+
+The largest fraction $= \dfrac {42} {54} = \dfrac {7} {9}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {2}$
+$\dfrac {7} {9}$
 
 </div>
 </div>
@@ -784,7 +808,7 @@ $\dfrac {1} {2}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

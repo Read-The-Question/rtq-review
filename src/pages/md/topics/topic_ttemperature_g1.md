@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-g1"
 title: "Topic - Temperature - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -424,6 +424,124 @@ $11\degree C$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>051F2794-DFF8-4792-8C27-24EC80D9363E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The table shows the average temperatures of some European cities.
+
+![missing table](/papers/missing_table.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On average, how much warmer is London than Moscow?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{The average temperature  warmer is  London than Moscow } &= 7 - (-4) \\\\
+&= 7 - (-4) \\\\
+&= 11 \degree \text{C}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11 \degree \text{C}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On a snowy day in Barcelona, the temperature is $19 \degree \text{C}$ colder 
+than the average for January.
+
+What was the temperature that day?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{ the temperature that day} &= 12 - 19 \\\\
+&= 12 - 19 \\\\
+&=  -7 \degree \text{C}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-7 \degree \text{C}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>CB9E833C-477C-416F-9F7E-B57C7CF7ECEC</p>
@@ -677,6 +795,125 @@ $- 8 \degree C$
 </ul>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+These thermometers show the temperatures inside and outside a window at $10 \ \text{a.m.}$ one winter’s day. 
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many degrees warmer was it inside than outside the window?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 21 - (-3) \\\\
+&= 21 + 3 \\\\
+&= 24 \degree \ \text {C}
+\end{aligned}
+$
+
+It is $24 \degree \ \text {C}$ warmer inside than outside.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \degree \ \text {C}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At $10 \ \text{p.m.}$, the temperature outside had fallen by $2 \degree \text{C}$.
+
+What was the temperature outside the window at $10 \ \text{p.m.}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= -3 - (2) \\\\
+&= -5 \\\\
+&= -5 \degree \ \text {C}
+\end{aligned}
+$
+
+The temperature outside the window at $10 \ \text {p.m.} = -5 \degree \ \text {C}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-5 \degree \ \text{C}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>

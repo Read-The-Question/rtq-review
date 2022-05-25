@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-all"
 title: "Topic - Statistics - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3005,7 +3005,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>B7C4AE95-752D-4854-B5BC-345B25E83FA1</p>
 </div>
@@ -3251,12 +3251,12 @@ $35\%$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>C6F1CC0D-D31A-4B7A-8872-C20E463CC066</p>
 </div>
@@ -3466,7 +3466,7 @@ $\text{It shows that the mean is maintained}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -7292,7 +7292,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>71AEECED-FE8A-4461-B486-63BD70456190</p>
 </div>
@@ -7451,12 +7451,12 @@ $Yes$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>B1E676D4-7DC8-4CF7-B4DE-99AD6CD05D81</p>
 </div>
@@ -7503,7 +7503,7 @@ $5, 10, 9$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -7837,7 +7837,7 @@ $6.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>A07A2CC0-89F4-4D36-948D-4DA958505E88</p>
 </div>
@@ -7901,7 +7901,7 @@ $116.5 \ \text{cm}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
@@ -12912,7 +12912,7 @@ $C = 3n +40$
 </div>
 <div class='question subquestion'>
 
-What is the charge, in $$\pounds $, for a party of $20$ people?
+What is the charge, in $\pounds $, for a party of $20$ people?
 
 </div>
 <div class='workings'>
@@ -12920,18 +12920,14 @@ What is the charge, in $$\pounds $, for a party of $20$ people?
 
 As per the question,
 
-Charge per $n$ people $\pounds C = 3n +40$
-
-Charge per $20$ people $\pounds C = 3 \times 20 +40$
-
 $
 \begin{aligned}
-&= 60 + 40 \\\\
-&= 100
+\text{Charge per n people} \pounds C    &= 3n +40 \\\\
+\text{Charge per 20 people} \pounds C   &= 3 \times 20 +40 \\\\
+                                        &= 60 + 40 \\\\
+                                        &= 100
 \end{aligned}
 $
-
-Charge per $20$ people  = $\pounds 100$
 
 </div>
 </div>
@@ -12965,11 +12961,9 @@ $
                                     &= \dfrac {100} {20} \\\\
                                     &= \dfrac {20 \times 5} {20} \\\\
                                     &= \dfrac {\cancel{20} \times 5} {\cancel{20}} \\\\
-                                    &= 5
+                                    &= \pounds 5
 \end{aligned}
 $
-
-Average cost per person = $5$
 
 </div>
 </div>
@@ -13018,7 +13012,7 @@ What number goes in the box?
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be $= a$
+Let the missing number $= a$
 
 As per the question,
 
@@ -13032,6 +13026,8 @@ a                                       &= 24 - 20 \\\\
 a                                       &= 4
 \end{aligned}
 $
+
+The missing number $= 4$
 
 </div>
 </div>

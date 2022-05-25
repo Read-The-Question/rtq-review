@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <div class='paper'>
 <h1>The Independent Schools Examinations Board</h1>
@@ -474,7 +474,7 @@ $2, \ 4, \ 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>73AB1540-BF83-4DB5-AA04-6CBFFEAA9D36</p>
 </div>
@@ -523,10 +523,12 @@ Give your answer in pence.
 
 $
 \begin{aligned}
-&= \dfrac {329} {7} \\\\
-&= \dfrac {47 \times 7} {7} \\\\
-&= \dfrac {47 \times \cancel7} {\cancel7} \\\\
-&= 47
+\text {Cost of 1 grapefruit} &= \dfrac {\pounds 3.29} {7} \\\\
+                             &= \dfrac {3.29 \times 100 \ \text {pence}} {7} \\\\
+                             &= \dfrac {329} {7} \\\\
+                             &= \dfrac {47 \times 7} {7} \\\\
+                             &= \dfrac {47 \times \cancel7} {\cancel7} \\\\
+                             &= 47 \ \text {pence}
 \end{aligned}
 $
 
@@ -535,7 +537,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$47$
+$47 \ \text {pence}$
 
 </div>
 </div>
@@ -560,8 +562,9 @@ How much change should he receive?
 
 $
 \begin{aligned}
-&= 20 - 0.94 \\\\
-&= 19.06
+\text {Change received } &= 20 - (0.47 \times 2) \\\\
+                         &= 20 - 0.94 \\\\
+                         &= \pounds 19.06
 \end{aligned}
 $
 
@@ -570,7 +573,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19.06$
+$\pounds 19.06$
 
 </div>
 </div>
@@ -582,12 +585,12 @@ $19.06$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
 </div>
@@ -638,18 +641,20 @@ How many degrees warmer was it inside than outside the window?
 
 $
 \begin{aligned}
-&= 21 - (-3) \\\
+&= 21 - (-3) \\\\
 &= 21 + 3 \\\\
-&= 24
+&= 24 \degree \ \text {C}
 \end{aligned}
 $
+
+It is $24 \degree \ \text {C}$ warmer inside than outside.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$24$
+$24 \degree \ \text {C}$
 
 </div>
 </div>
@@ -672,14 +677,22 @@ What was the temperature outside the window at $10 \ \text{p.m.}$?
 <div class='workings'>
 <div class='working'>
 
-$-5$
+$
+\begin{aligned}
+&= -3 - (2) \\\\
+&= -5 \\\\
+&= -5 \degree \ \text {C}
+\end{aligned}
+$
+
+The temperature outside the window at $10 \ \text {p.m.} = -5 \degree \ \text {C}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-5$
+$-5 \degree \ \text{C}$
 
 </div>
 </div>
@@ -691,12 +704,12 @@ $-5$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>F8B1A647-1444-4796-A081-2B37AEA3D762</p>
 </div>
@@ -741,15 +754,17 @@ $8 + 4  \times \boxed{\phantom{1}} = 36$
 <div class='workings'>
 <div class='working'>
 
-Let the empty space $=a$
+Let the missing number $=a$
 
 $
 \begin{aligned}
-8 + 4a  &=  36 \\\\
-4a      &=  36 - 8 \\\\
-4a      &=  28 \\\\
-a       &=  \dfrac {28} {4} \\\\
-a       &=  7
+8 + 4a   &= 36 \\\\
+4a       &= 36 - 8 \\\\
+4a       &= 28 \\\\
+a        &= \dfrac {28} {4} \\\\
+a        &= \dfrac {4 \times 7} {4} \\\\
+a        &= \dfrac {\cancel{4} \times 7} {\cancel{4}} \\\\
+a        &=  7
 \end{aligned}
 $
 
@@ -779,7 +794,7 @@ $5 \times(4 - \boxed{\phantom{1}}) = 15$
 <div class='workings'>
 <div class='working'>
 
-Let the empty space $=a$
+Let the missing number $=a$
 
 $
 \begin{aligned}
@@ -816,7 +831,7 @@ $10 - (5 + \boxed{\phantom{1}}) = -3$
 <div class='workings'>
 <div class='working'>
 
-Let the empty space $=a$
+Let the missing number $=a$
 
 $
 \begin{aligned}
@@ -844,7 +859,7 @@ $8$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1031,7 +1046,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>7DC85310-FDF2-4E15-825D-CABF7CD09494</p>
 </div>
@@ -1050,24 +1065,14 @@ tnumber
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1190,7 +1195,7 @@ $2017$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1519,7 +1524,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>10F270FA-3D28-4A29-9359-CFDD5C4FD3D8</p>
 </div>
@@ -1568,7 +1573,17 @@ a fraction which is greater than $1$
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {15} {11}$
+$
+\begin{aligned}
+\dfrac {3} {4}   &= 0.75 \\\\
+\dfrac {5} {8}   &= 0.62 \\\\
+\dfrac {15} {11} &= 1.36 \\\\
+\dfrac {8} {12}  &= 0.66 \\\\
+\dfrac {4} {5}   &= 0.80
+\end{aligned}
+$
+
+$\dfrac {15} {11}$ is greater than $1$.
 
 </div>
 </div>
@@ -1596,7 +1611,13 @@ a fraction equivalent to $80\%$
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {4} {5}$
+$
+\begin{aligned}
+80\%             &= \dfrac {80} {100} \\\\
+                 &= 0.80 \\\\
+\dfrac {4} {5}   &= 0.80
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1624,7 +1645,7 @@ a fraction equivalent to $0.75$
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {3} {4}$
+$\dfrac {3} {4} = 0.75$
 
 </div>
 </div>
@@ -1652,7 +1673,13 @@ a fraction which is not in its simplest form.
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {8} {12}$
+$
+\begin{aligned}
+\dfrac {8} {12}   &= \dfrac {4 \times 2} {4 \times 3} \\\\
+                  &= \dfrac {\cancel{4} \times 2} {\cancel{4} \times 3} \\\\
+                  &= \dfrac {2} {3}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1671,12 +1698,12 @@ $\dfrac {8} {12}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA</p>
 </div>
@@ -1699,18 +1726,12 @@ How tall will it be if its height increases by $10\%$?
 
 $
 \begin{aligned}
-&= 150 \times  10\% \\\\
-&= 150 \times  \dfrac {10} {100} \\\\
-&= \dfrac {150 \times 10} {100} \\\\
-&= \dfrac {15 \cancel{0} \times 1 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-&= 15
-\end{aligned}
-$
-
-$
-\begin{aligned}
-&= 150 + 15 \\\\
-&= 165
+\text {Height after an increase of 10\%}       &= 150 + 10 \% \ \text {of} \ 150 \\\\
+                                               &= 150 + \dfrac {10} {100} \times 150 \\\\
+                                               &= 150 + \dfrac {10 \times 150} {100} \\\\
+                                               &= 150 + \dfrac {1 \cancel {0} \times 15 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                                               &= 150 + 15 \\\\
+                                               &= 165
 \end{aligned}
 $
 
@@ -1728,12 +1749,12 @@ $165$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>2A80FA34-F0A9-442B-8D9F-C536D268522D</p>
 </div>
@@ -1815,7 +1836,7 @@ what is the largest possible even number?
 <div class='workings'>
 <div class='working'>
 
-$97536$
+$\boxed{9} \ \boxed{7} \ \boxed{5} \ \boxed{3} \ \boxed{6}$
 
 </div>
 </div>
@@ -1843,7 +1864,7 @@ what is the number which is closest to $80000$?
 <div class='workings'>
 <div class='working'>
 
-$79653$
+$\boxed{7} \ \boxed{9} \ \boxed{6} \ \boxed{5} \ \boxed{3}$
 
 </div>
 </div>
@@ -1874,14 +1895,14 @@ Use exactly $2$ of the cards to make the smallest possible prime number.
 <div class='workings'>
 <div class='working'>
 
-$27$
+$\boxed{3} \ \boxed{7}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$27$
+$37$
 
 </div>
 </div>
@@ -1907,8 +1928,7 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ + \ \boxed{\phantom{1}} \ \boxed{\p
 <div class='working'>
 
 $
-&= 37 + 59 \\\\
-&= 96
+\boxed{3} \ \boxed{7} \ + \ \boxed{5} \ \boxed{9}
 $
 
 </div>
@@ -1928,12 +1948,12 @@ $96$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>5FFD2F9B-A581-4E18-9166-D2D7F6120C86</p>
 </div>
@@ -1957,14 +1977,33 @@ $27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \t
 <div class='workings'>
 <div class='working'>
 
-$2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \text{km}$
+It is really important to use the right units in calculations and convert where required.
+
+To compare, let's convert all the units to $\text {km}$. 
+
+$
+\begin{aligned}
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2778 \ \text {m}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad \dfrac {2778} {1000} \ \text {km}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km} \\\\
+\end{aligned}
+$
+
+Let's put them from smallest to largest.
+
+$
+\begin{aligned}
+&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2.778 \ \text {km}, \quad 27.8 \ \text {km} \\\\
+&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.8 \ \text {km}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \text{km}$
+$2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.8 \ \text {km}$
 
 </div>
 </div>
@@ -1973,7 +2012,7 @@ $2.087 \ \text{km} \quad 2.708 \ \text{km} \quad 2778 \ \text{m} \quad 27.8 \ \t
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -2543,7 +2582,7 @@ $1 \dfrac {1} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>B127C71F-2BCF-48B3-B549-CAE182563C18</p>
 </div>
@@ -2568,12 +2607,14 @@ $
 \begin{aligned}
 \text {Number of blue pens}            &= \text {Total number of pens} - \text {Sum of green and red pen} \\\\
                                        &= 24 - (\dfrac {1} {8} \times 24 + \dfrac {25} {100} \times 24) \\\\
-                                       &= 24 - (3 + \dfrac {1} {4} \times 24) \\\\
+                                       &= 24 - (\dfrac {24} {8} + \dfrac {25 \times 24} {100}) \\\\
+                                       &= 24 - (\dfrac {8 \times 3} {8} + \dfrac {25 \times 4 \times 6} {25 \times 4}) \\\\
+                                       &= 24 - (\dfrac {\cancel {8} \times 3} {\cancel {8}} + \dfrac {\cancel {25} \times \cancel {4} \times 6} {\cancel {25} \times \cancel {4}}) \\\\
                                        &= 24 - (3 + 6) \\\\
                                        &= 24 - 9 \\\\
                                        &= 15 \\\\
 \text {fraction of pens that are blue} &= \dfrac {15} {24} \\\\
-                                       &= \dfrac {\cancel 3 \times 5} {\cancel 3 \times 8} \\\\
+                                       &= \dfrac {\cancel {3} \times 5} {\cancel {3} \times 8} \\\\
                                        &= \dfrac {5} {8}
 \end{aligned}
 $
@@ -2592,7 +2633,7 @@ $\dfrac {5} {8}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -2717,7 +2758,7 @@ $30 \degree, 150 \degree, 150 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>698F3943-AD9F-4055-A94D-925AE85FB739</p>
 </div>
@@ -2846,12 +2887,12 @@ $10 {:} 30$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B</p>
 </div>
@@ -2908,12 +2949,18 @@ Work out the width of Farmer Jack’s field.
 <div class='workings'>
 <div class='working'>
 
+Let the width of the field $= a$.
+
+As per the question,
+
 $
 \begin{aligned}
-&= \dfrac {24} {8} \\\\
-&= \dfrac {3 \times 8} {8} \\\\
-&= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
-&= 3 \ \text{m}
+\text {Area of rectangle}  &= \text {length} \times \text {width} \\\\
+24                         &= 8 \times a \\\\
+a                          &= \dfrac {24} {8} \\\\
+a                          &= \dfrac {3 \times 8} {8} \\\\
+a                          &= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
+a                          &= 3 \ \text{m}
 \end{aligned}
 $
 
@@ -2945,9 +2992,10 @@ Work out the perimeter of Farmer Jack’s field.
 
 $
 \begin{aligned}
-&= 2 \times (8 + 3) \\\\
-&= 2 \times 11 \\\\
-&= 22
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+                                 &= 2 \times (8 + 3) \\\\
+                                 &= 2 \times 11 \\\\
+                                 &= 22 \ \text {m}
 \end{aligned}
 $
 
@@ -2956,7 +3004,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$22$
+$22 \ \text {m}$
 
 </div>
 </div>
@@ -2984,14 +3032,16 @@ Work out the length of Farmer Giles’ field.
 <div class='working'>
 
 Let the length $=a$
+
 $
 \begin{aligned}
-20 &= 2 \times (4 + a) \\\\
-20 &= 8 + 2a \\\\
-2a &= 20 - 8 \\\\
-2a &= 12 \\\\
-a  &= \dfrac {12} {2} \\\\
-a  &= 6 
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+20                               &= 2 \times (4 + a) \\\\
+20                               &= 8 + 2a \\\\
+2a                               &= 20 - 8 \\\\
+2a                               &= 12 \\\\
+a                                &= \dfrac {12} {2} \\\\
+a                                &= 6 \ \text {m}
 \end{aligned}
 $
 
@@ -3000,7 +3050,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6$
+$6 \ \text {m}$
 
 </div>
 </div>
@@ -3024,7 +3074,7 @@ Work out the area of Farmer Giles’ field.
 $
 \begin{aligned}
 \text {Area} &= 4 \times 6 \\\\
-             &= 24 \ \text{cm^2}
+             &= 24 \ \text {m} ^ 2
 \end{aligned}
 $
 
@@ -3033,7 +3083,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24 \ \text{cm^2}$
+$24 \ \text {m} ^ 2$
 
 </div>
 </div>
@@ -3081,12 +3131,12 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>DE639F1C-5F52-4C93-BFFF-448E2E9A1515</p>
 </div>
@@ -3181,12 +3231,12 @@ $23.33 \ \text {litres}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>BB584CC8-E4D1-425F-88E8-71BF6CB97F97</p>
 </div>
@@ -3237,36 +3287,47 @@ What are the two numbers?
 <div class='workings'>
 <div class='working'>
 
-Let the number $=a$ and $=b$
+Let the number Annie thinks $= a$
+
+Let the number Bradley thinks $= b$
+
+As per the question,
 
 $
-\begin{aligned}
-a - b &= 6 \\\\
-a     &= 6 + b \\\\
+\begin{aligned} 
+a + b      &= 20 \\\\
+a - b      &= 6         
 \end{aligned}
 $
 
-$
-\begin{aligned}
-a + b &= 20 \\\\
-a     &= 20 - b \\\\
-6 + b &= 20 - b \\\\
-b + b &= 20 - 6 \\\\
-2b    &= 14 \\\\
-b     &= 7
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
 
-\end{aligned}
-$
+Subtract the second equation from the first to reduce it to one variable.
 
 $
 \begin{aligned}
-a     &= 6 + b \\\\
-a     &= 6 + 7 \\\\
-a     &= 13
+a + b - (a - b)     &= 20 - 6 \\\\
+a + b -a + b        &= 14 \\\\
+2b                  &= 14 \\\\
+b                   &= \dfrac {14} {2} \\\\
+b                   &= 7
 \end{aligned}
 $
 
+Let's substitute the value of $b$ in one of the initial equations.
 
+$
+\begin{aligned} 
+a + b                          &= 20 \\\\
+a + 7                          &= 20 \\\\
+a                              &= 20 - 7 \\\\
+a                              &= 13
+\end{aligned}
+$
+
+Annie's number $= 13$
+
+Bradley's number $= 7$
 
 </div>
 </div>
@@ -3370,7 +3431,7 @@ $7$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

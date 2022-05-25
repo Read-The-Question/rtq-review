@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-g1"
 title: "Topic - Order - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1775,6 +1775,418 @@ $0.7, \quad 75 \%, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>C2E7E458-37BD-4223-A6E9-A4605F41B3BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the following numbers in order of size, starting with the smallest. 
+
+0.2      $\dfrac {3} {10}$      0.21     $\dfrac {37} {100}$     0.36
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.2,   \quad \dfrac {3} {10},    \quad 0.21,              \quad \dfrac {37} {100},     \quad 0.36 \\\\
+&= 0.2,   \quad 0.3,                \quad 0.21,              \quad 0.37,                  \quad 0.36 \\\\
+&= 0.2,   \quad 0.21,               \quad 0.3,               \quad 0.36,                  \quad 0.37 \\\\
+&= 0.2,   \quad 0.21,               \quad \dfrac {3} {10},   \quad 0.36,                  \quad \dfrac {37} {100}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.2, \quad 0.21, \quad \dfrac {3} {10}, \quad 0.36, \quad \dfrac {37} {100}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>A1BFD844-C8B7-4A6A-94BD-04C9D73F2489</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmultiplication
+</li>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of the numbers $20, 25, 30, 35, 40, 45, 50, 55$ is nearest to the value of $6.9201 \times \sqrt{\smash[b]{26}}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$6.9201$ rounded off to nearest whole number $= 7$
+
+$\sqrt{\smash[b]{26}} \text { is near to} \  \sqrt{\smash[b]{25}}$
+
+$\sqrt{\smash[b]{25}} = 5$
+
+$6.9201 \times \sqrt{\smash[b]{26}}$ is approximately
+
+$=7 \times 5$
+
+$=35$
+
+The number nearest to the value of $6.9201 \times \sqrt{\smash[b]{26}} = 35$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>EBCA6760-D0CE-4FA4-BA50-308D963A2254</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Arrange the following numbers in order of size starting with the smallest: 
+
+$32.043, 0.099, 1.072, 0.491, 0.5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>2A80FA34-F0A9-442B-8D9F-C536D268522D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are $5$ number cards:
+
+$\boxed{6} \ \boxed{3} \ \boxed{7} \ \boxed{5} \ \boxed{9}$
+ 
+The cards can be put together to form numbers.
+
+For example, the smallest number which could be made using $4$ of the cards is: 
+
+$\boxed{3} \boxed{5} \boxed{6}  \boxed{7}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using all $5$ cards:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+what is the largest possible even number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\boxed{9} \ \boxed{7} \ \boxed{5} \ \boxed{3} \ \boxed{6}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$97536$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+what is the number which is closest to $80000$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\boxed{7} \ \boxed{9} \ \boxed{6} \ \boxed{5} \ \boxed{3}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$79653$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use exactly $2$ of the cards to make the smallest possible prime number.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\boxed{3} \ \boxed{7}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$37$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Arrange any $4$ of the cards to show a sum below which will give the smallest possible 
+answer.
+ 
+$\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ + \ \boxed{\phantom{1}} \ \boxed{\phantom{1}}$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\boxed{3} \ \boxed{7} \ + \ \boxed{5} \ \boxed{9}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$96$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>5FFD2F9B-A581-4E18-9166-D2D7F6120C86</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put these distances in order from smallest to largest.
+
+$27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \text{km}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+To compare, let's convert all the units to $\text {km}$. 
+
+$
+\begin{aligned}
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2778 \ \text {m}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad \dfrac {2778} {1000} \ \text {km}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km} \\\\
+\end{aligned}
+$
+
+Let's put them from smallest to largest.
+
+$
+\begin{aligned}
+&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2.778 \ \text {km}, \quad 27.8 \ \text {km} \\\\
+&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.8 \ \text {km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.8 \ \text {km}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>

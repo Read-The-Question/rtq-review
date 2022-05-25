@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-g1"
 title: "Topic - Infer - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -334,6 +334,321 @@ $5570$
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>191CD2FA-CE07-4708-99E9-0C5625EFED6C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A new mathematical operation has been invented. For any two numbers $𝑥 ⋆ 𝑦$ means $\text{‘subtract 3 from 𝑥, then multiply by 𝑦’}$, so $8 ⋆ 2$ means $8 - 3$, then $\times 2$, giving $10$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $7 ⋆ 5$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 \ \text{*} \ 5 \\\\
+&= (7 - 3) \times 5 \\\\
+&= 4 \times 5 \\\\
+&= 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What values of $𝑎$ makes $𝑎 ⋆ 7 = 42$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+a \ \text{*} \ 7                                                   &= 42 \\\\
+(a - 3) \times 7                                                   &= 42 \\\\
+a - 3                                                              &= \dfrac {42} {7} \\\\
+a - 3                                                              &= \dfrac {6 \times 7} {7} \\\\
+a - 3                                                              &= \dfrac {6 \times \cancel{7}} {\cancel{7}} \\\\
+a - 3                                                              &= 6 \\\\
+a                                                                  &= 6 + 3 \\\\
+a                                                                  &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $𝑏$ if $𝑏 ⋆ 𝑏 = 28$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+b \ \text{*} \ b                                                   &= 28 \\\\
+(b - 3) \times b                                                   &= 28 \\\\
+b^{2} - 3b                                                         &= 28 \\\\
+b^{2} - 3b - 28                                                    &= 0 \\\\
+b^{2} - (7b - 4b) - 28                                             &= 0 \\\\
+b^{2} - 7b + 4b - 28                                               &= 0 \\\\
+b(b - 7) + 4(b - 7)                                                &= 0 \\\\
+(b - 7) \times (b + 4)                                             &= 0 \\\\
+b                                                                  &= 7 \\\\
+b                                                                  &= -4 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 \ \text{or} \ -4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>E4E827B3-D0E0-4C37-A152-5F341EC0D264</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is the 65 times table:
+![missing image](/papers/missing_image.svg)
+Use the table to answer the following questions 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$12 \,\times \, 65$ = ……………….
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using the table,
+
+$
+\begin{aligned}
+12 \times 65 &= (10 + 2) \times 65 \\\\
+             &= (10 \times 65) + (2 \times 65) \\\\
+             &= 650 + 130 \\\\
+             &= 780
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$780$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$20 \, \times \,65$ = ……………….
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using the table,
+
+$
+\begin{aligned}
+20 \times 65 &= (10 + 10) \times 65 \\\\
+             &= (10 \times 65) + (10 \times 65) \\\\
+             &= 650 + 650 \\\\
+             &= 1300
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1300$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use values in the table to work out  $4.55 \, \div \, 6.5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the table,
+
+$
+\begin{aligned}
+455                 &= 65 \times 7 \\\\
+\dfrac {455} {100}  &= \dfrac {65 \times 7} {100} \\\\
+\dfrac {455} {100}  &= \dfrac {65} {10} \times \dfrac {7} {10} \\\\
+4.55                &= 6.5 \times 0.7 \\\\
+\dfrac {4.55} {6.5} &= 0.7 \\\\
+4.55 \div 6.5       &= 0.7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

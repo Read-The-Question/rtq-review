@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-g1"
 title: "Topic - Angle - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1947,6 +1947,214 @@ $
 </div>
 </li>
 <li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>B0CC5C22-DFC6-468C-A06B-7B4D743851D2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this  question the   diagrams are   not   drawn accurately, so the   angles   cannot   be found by  measuring   with  a  protractor. 
+
+The   angles   of a  triangle add   up to **$180^\degree$** 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In this  triangle angle A  is the   same  as angle B, and   angle C  is twice angle B. Work  out   each  of the   three angles.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to question,
+
+angle B $=$ angle A
+
+angle C $= 2 \times$ angle B
+
+$
+\begin{aligned}
+A + B + C                &= 180 \degree \\\\
+A + A + 2A               &= 180 \\\\
+4A                       &= 180 \\\\
+A                        &= \dfrac {180} {4} \\\\
+A                        &= \dfrac {45 \times 4} {4} \\\\
+A                        &= \dfrac {45 \times \cancel {4}} {\cancel {4}} \\\\
+A                        &= 45 \degree
+\end{aligned}
+$
+
+So, angle A $=$ angle B $= 45 \degree$
+
+angle C $= 2 \times$ A $= 2 \times 45 = 90 \degree$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \degree, 90 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The   angles   round a  point add   up to **$360^\degree$**
+
+In the   diagram  below,   one   angle is **$90^\degree$** and the   other three are   equal to each  other.   Work  out   the   missing  angles.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+x + x + x + 90 \degree  &= 360 \degree \\\\
+3x                      &= 360 \degree - 90 \degree \\\\
+3x                      &= 270 \degree \\\\
+x                       &= 90 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>6F9F32E1-F006-4C6E-8240-5A785690A7E2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at these angles:
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+One of the angles measures $120^o$ Write down which angle it must be.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{angle Q}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{angle Q}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>A34D1AFD-1A13-4C1A-8344-2A8E62131D4A</p>
@@ -1992,6 +2200,194 @@ $58 \degree$
 
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>473B53F9-0065-4183-A92E-E456B6396E3B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the size of angle $x$:
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= x$
+
+As the triangle is an isosceles triangle, the third angle is also $= x$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + x + 68      &= 180  \\\\
+2x + 68         &= 180  \\\\
+2x              &= 180 - 68  \\\\
+2x              &= 112  \\\\
+x               &= \dfrac {112} {2}  \\\\
+x               &= \dfrac {56 \times 2} {2}  \\\\
+x               &= \dfrac {56 \times \cancel{2}}{\cancel{2}}   \\\\
+x               &= 56 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>98FB3AC6-2728-458B-AA28-1E5EF428AAFB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the obtuse angle between the hands of a clock at $5$ o’clock. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+In the clock from $12$ to $12$ it was $360 \degree$
+
+In the clock from $12$ to $6$ it was $180 \degree$
+
+$
+\begin{aligned}
+\text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
+&= \dfrac{30 \times 6}{6} \\\\
+&=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
+&= 30 \degree \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{So, the obtuse angle for} \  5  \ \text{O'clock} &= 30 \times 5 \\\\
+&=  30 \times 5 \\\\
+&=  150 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>42DD1DEA-9421-4D3A-9922-9C450DDF4E3F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the angle marked with the letter $x$.
+
+![missing image](/papers/missing_image.svg)
+
+- $70 \degree$
+- $85 \degree$
+- $90 \degree$
+- $75 \degree$
+- $60 \degree$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= x$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + 43 + 52     &= 180  \\\\
+x + 95          &= 180  \\\\
+x               &= 180 - 95  \\\\
+x               &= 85 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$85 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>

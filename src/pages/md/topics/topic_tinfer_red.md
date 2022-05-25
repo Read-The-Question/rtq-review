@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-red"
 title: "Topic - Infer - Red"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -227,6 +227,257 @@ $200$
 </ul>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>B7C4AE95-752D-4854-B5BC-345B25E83FA1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In five of his mid-term tests, each out of $10$ marks, Darshan scores $9$ in Mathematics, $6$ in English, $8$ in Geography, 
+$4$ in History, and $8$ in Science.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the mode of Darshan's five scores.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the range of marks that Darshan scores.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 9 - 4 \\\\
+&= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the mean average score that he achieved in these five tests.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{mean} &= \dfrac {9 + 6 + 8 + 4 + 8} {5} \\\\
+            &= \dfrac {35} {5} \\\\\
+            &= 7 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+After his French mark are announced, Darshan's average score from all six tests falls to $6.5$ marks. 
+Calculate the mark he scored in his French test.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the marks in French $=a$,
+
+$
+\begin{aligned}
+\dfrac {35 + a} {6} &= 6.5 \\\\
+35 + a              &= 6.5 \times 6 \\\\
+35 + a              &= 39 \\\\
+a                   &= 39 - 35 \\\\
+a                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The pass mark for each test is $50\%$. Write down what fraction of Darshan's six tests (including his French) he managed to pass, leaving your answer in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {4} {6} \\\\
+&= \dfrac {2 \times 2} {3 \times 2} \\\\
+&= \dfrac {2 \times \cancel {2} } {3 \times \cancel {2} } \\\\
+&= \dfrac {2} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the end term tests, Darshan scores $15$ out of $20$ in his History.
+
+Work out what his percentage improvement is in this subject.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {15 - 8} {20} \times 100\\\\
+&= \dfrac {7 \times 100} {20} \\\\
+&= \dfrac 7 \times 5 \\\\
+&= 35\%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35\%$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>
@@ -642,6 +893,133 @@ $-4, -1, 5$
 <li>
 <div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
+<p>8FE033E8-4F79-46D5-A1CA-3A68F95E66BB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On each of the cards below, **n** can be any positive number. The answers given by the cards are all positive numbers.
+
+**$\boxed {n^2}$     $\boxed {0.8n}$     $\boxed {\sqrt {n} }$   $\boxed {\dfrac {n} {0.8} }$     $\boxed {\dfrac {1} {n} }$**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which card(s) will always give an answer less than *n*?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.8n, \sqrt {n}, \dfrac {1} {n}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.8n, \sqrt {n}, \dfrac {1} {n}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When **n = 1**, which card(s) will give an answer of one?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\sqrt {n}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\sqrt {n}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When **n = 4**, which card(s) will give an answer of **less than 4**?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.8n, \sqrt {n}, \dfrac {1} {n}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.8n, \sqrt {n}, \dfrac {1} {n}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
 <p>D24C3782-3686-48C1-8FE8-939334DD9937</p>
 </div>
 <div class='topics'>
@@ -760,6 +1138,58 @@ $30$
 </ul>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>B1E676D4-7DC8-4CF7-B4DE-99AD6CD05D81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+<li>
+tnumber
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I am thinking of three different, positive, whole numbers.
+
+The mean of my three numbers is 8.
+
+The median of my three numbers is 9.
+
+Write down one possible set of three numbers that my numbers could be. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$5, 10, 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5, 10, 9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>
@@ -1123,6 +1553,175 @@ $2, 14, 42$
 </ul>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+testimate
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$Number \,\, A \,\, = 12 \,\, \times \,\, Number \,\, B \,\, and \,\,  Number \,\, B \,\,  = \,\, 3  \,\, \times \,\, Number \,\,C$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of Number A is Number B?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {12}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {12}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many times bigger than Number C is Number A?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 12 \times 3 \\\\
+&= 36 \  \text{times}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36 \  \text{times}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of Number B is Number C?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {1} {3}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Give three possible values of the numbers.
+$A =$        $B =$        $C =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2, 24, 72$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2, 24, 72$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-all"
 title: "Topic - Coin - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1171,7 +1171,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>44871CCE-80E9-4654-AF29-D474783C1D63</p>
 </div>
@@ -1194,11 +1194,12 @@ Weight for older coins
 
 $
 \begin{aligned}
-\text {Weight of 5p(\pounds 0.05) coin} &= 5.65\ \text{g} \\\\
-\text {Weight of 1p(\pounds 0.01) coin} &= \dfrac {5.65} {5} \\\\
-                                        &= 1.13 \ \text {g} \\\\
-\text {Weight of \pounds 2(200 p) coin} &= 1.13 \times 200 \\\\
-                                        &= 226 \ \text{g}                                      
+\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 20 \times 5} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 5.65 \\\\
+                                 &= 2 \times 20 \times 5.65 \\\\
+                                 &= 226 \ \text {g}
 \end{aligned}
 $
 
@@ -1206,11 +1207,12 @@ Weight for new coins
 
 $
 \begin{aligned}
-\text {Weight of 5p(\pounds 0.05) coin} &= 3.25\ \text{g} \\\\
-\text {Weight of 1p(\pounds 0.01) coin} &= \dfrac {3.25} {5} \\\\
-                                        &= 0.65 \ \text {g} \\\\
-\text {Weight of \pounds 2(200 p) coin} &= 0.65 \times 200 \\\\
-                                        &= 130 \ \text{g}                                   
+\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 20 \times 5} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 3.25 \\\\
+                                 &= 2 \times 20 \times 3.25 \\\\
+                                 &= 130 \ \text {g}
 \end{aligned}
 $
 
@@ -1237,7 +1239,7 @@ $96 \ \text{g}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

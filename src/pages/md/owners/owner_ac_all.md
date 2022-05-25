@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-all"
 title: "Owner - Chiliveru Aravind - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -368,7 +368,7 @@ Which is the smallest?
 <div class='workings'>
 <div class='working'>
 
-The smallest number is $= 0.09$
+The smallest number $= 0.09$
 
 </div>
 </div>
@@ -396,7 +396,7 @@ Which is the largest?
 <div class='workings'>
 <div class='working'>
 
-The largest number is $0.909$
+The largest number $= 0.909$
 
 </div>
 </div>
@@ -682,7 +682,7 @@ $
 &&  \footnotesize{\maroonC{(+6)}}
 &&  \footnotesize{\maroonC{(+6)}}
 &&  \footnotesize{\maroonC{(+6)}} \\
-3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33 \ldots
+3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33,  && \ldots
 \end{matrix}
 $
 
@@ -728,7 +728,7 @@ $
 &&  \footnotesize{\maroonC{(+7)}}   
 &&  \footnotesize{\maroonC{(+9)}}
 &&  \footnotesize{\maroonC{(+11)}} \\
-2,  &&    5,  &&  10,  &&   17,  &&   26 \ldots
+2,  &&    5,  &&  10,  &&   17,  &&   26, && \ldots
 \end{matrix}
 $
 
@@ -776,7 +776,7 @@ $
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}   
 &&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  \\
-1000,  &&    900,  &&  810,  &&   730,  &&   660, \ldots
+1000,  &&    900,  &&  810,  &&   730,  &&   660, && \ldots
 \end{matrix}
 $
 
@@ -1046,8 +1046,6 @@ $
 \end{aligned}
 $
 
-Total number of players $= 352$
-
 </div>
 </div>
 <div class='answers'>
@@ -1081,9 +1079,8 @@ $
 \text {Total supporters}        &=  \text {Total players}  \times \text {No. of supporters per player} \\\\
                                 &= 352 \times 8 \\\\
                                 &= 2816
-\end{aligned}$ 
-
-Total number of supporters $= 2816$
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1111,7 +1108,7 @@ In total there were $128$ matches played. There was an average of $5$ goals scor
 <div class='workings'>
 <div class='working'>
 
- Average goals = Total goals / No. of matches
+$\text{Average goals} = \dfrac{\text{Total goals}}{\text{No. of matches}}$
 
 As per the question,
 
@@ -1122,8 +1119,6 @@ $
                             &= 640
 \end{aligned}
 $
-
-Total number of goals $= 600$
 
 </div>
 </div>
@@ -1452,7 +1447,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= 2 \times (14 + 9) \\\\
+\text{Perimeter}    &= 2 \times (14 + 9) \\\\
 &= 2 \times 23 \\\\
 &= 46 \ \text{cm}
 \end{aligned}
@@ -1492,7 +1487,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= 12 \times 8 \\\\
+\text{Area}     &= 12 \times 8 \\\\
 &= 96 \ \text{cm}^2
 \end{aligned}
 $
@@ -1525,26 +1520,26 @@ A square has a perimeter of $36 \ \text{cm}$. Find its area.
 <div class='workings'>
 <div class='working'>
 
-$\text{Perimeter of a square} = 4 \times (\text{side})$
+$\text{Perimeter of a square} = 4 \times \text{Side}$
 
 As per the question,
 
 $
 \begin{aligned}
-4 \times a  &= 36 \text{cm} \\\\
-a           &= \dfrac{36}{4} \text{cm} \\\\
-a           &= \dfrac{4 \times 9}{4} \\\\
-a           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
-a           &= 9 \text{cm}
+4 \times \text{Side}  &= 36 \ \text{cm} \\\\
+Side           &= \dfrac{36}{4} \ \text{cm} \\\\
+Side           &= \dfrac{4 \times 9}{4} \\\\
+Side           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
+Side           &= 9 \ \text{cm}
 \end{aligned}
 $
 
-$\text{Area of a square} = \text{side}^2$
 
 $
 \begin{aligned}
+\text{Area of a square} &= \text{Side}^2 \\\\
 &= 9^2 \\\\
-&= 81 \text{cm}^2
+&= 81 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -11356,48 +11351,22 @@ Make a list of all the whole numbers which leave a remainder of $7$ when divided
 <div class='workings'>
 <div class='working'>
 
-Let the whole number which leave a remainder of $7$ when divided into $46$ = $a$
+As per the question,
+The whole number leaves a remainder $7$ when divided into $46$.
 
-As it leaves a remainder $7$, it must be a factor of $46 - 7 = 39$
+As such, the number will be a factor of $= 46 - 7 = 39$
 
 Factors of $39 = {1 , 3 , 13 , 39}$
 
-$1$ leaves no remainder when divided into $46$
+The number has to be greater than $7$ as it  leaves a remainder $7$.
 
-$3$ when divided into $46$ :
+Let's check $13$ and $39$ fulfil the criteria.
 
-$
-\begin{aligned}
-&= \dfrac {46} {3} \\\\
-&= 15 \dfrac {1} {3}
-\end{aligned}
-$
+$= \dfrac {46} {13} = \text{Quotient} \ 3 \ \text{Remainder} \ 7$
 
-$3$ when divided into $46$ leaves a remainder $1$
+$= \dfrac {46} {39} = \text{Quotient} \ 1 \ \text{Remainder} \ 7$
 
-$13$ when divided into $46$ :
-
-$
-\begin{aligned}
-&= \dfrac {46} {13} \\\\
-&= 3 \dfrac {7} {13}
-\end{aligned}
-$
-
-$13$ when divided into $46$ leaves a remainder $7$
-
-$39$ when divided into $46$ :
-
-$
-\begin{aligned}
-&= \dfrac {46} {39} \\\\
-&= 3 \dfrac {7} {39}
-\end{aligned}
-$
-
-$39$ when divided into $46$ leaves a remainder $7$
-
-the whole numbers which leave a remainder of $7$ when divided into $46$ = $13, 39$
+The whole numbers which leave a remainder of $7$ when divided into $46$ = $13$ and $39$
 
 </div>
 </div>
@@ -11465,7 +11434,7 @@ $C = 3n +40$
 </div>
 <div class='question subquestion'>
 
-What is the charge, in $$\pounds $, for a party of $20$ people?
+What is the charge, in $\pounds $, for a party of $20$ people?
 
 </div>
 <div class='workings'>
@@ -11473,18 +11442,14 @@ What is the charge, in $$\pounds $, for a party of $20$ people?
 
 As per the question,
 
-Charge per $n$ people $\pounds C = 3n +40$
-
-Charge per $20$ people $\pounds C = 3 \times 20 +40$
-
 $
 \begin{aligned}
-&= 60 + 40 \\\\
-&= 100
+\text{Charge per n people} \pounds C    &= 3n +40 \\\\
+\text{Charge per 20 people} \pounds C   &= 3 \times 20 +40 \\\\
+                                        &= 60 + 40 \\\\
+                                        &= 100
 \end{aligned}
 $
-
-Charge per $20$ people  = $\pounds 100$
 
 </div>
 </div>
@@ -11518,11 +11483,9 @@ $
                                     &= \dfrac {100} {20} \\\\
                                     &= \dfrac {20 \times 5} {20} \\\\
                                     &= \dfrac {\cancel{20} \times 5} {\cancel{20}} \\\\
-                                    &= 5
+                                    &= \pounds 5
 \end{aligned}
 $
-
-Average cost per person = $5$
 
 </div>
 </div>
@@ -11781,10 +11744,13 @@ Calculate the shaded area.
 
 As per the question,
 
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
 $
 \begin{aligned}
-\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of PQBT} \\\\
-                                    &= AB \times AD - (PQ \times (PS - BR)) \\\\
+\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
+                                    &= AB \times AD - QB \times QP \\\\
+                                    &= AB \times AD - ((PS - BR) \times QP) \\\\
                                     &= 5 \times 3 - 2 \times (2 - 1) \\\\
                                     &= 15 - 2 \times 1 \\\\
                                     &= 15 - 2 \\\\
@@ -11875,13 +11841,11 @@ $68\:\:\:70\:\:\:43\:\:\:5\:\:\:217$
 <div class='workings'>
 <div class='working'>
 
-As per th divisibility rule of $5$,
+We know, if the last digit of a number is $0$ or $5$ , then the number is divisible by $5$ .
 
-Any number whose unit digit is either $0$ or $5$ is divisible by $5$
+As per the question, 
 
-As per the question,
-
-$70, 5$ are divisible by $5$
+Number divisible by $5 = 70$ and $5$
 
 </div>
 </div>
@@ -12186,22 +12150,19 @@ Which **one** of the following statements is false?
 
 Using BIDMAS,
 
-$2 + 5 \times 4 = 22$
+A. $2 + 5 \times 4 = 22$
 $2 + 20 = 22$
 
-$18 - 6 \times 3 = 0$
+B. $18 - 6 \times 3 = 0$
 $18 - 18 = 0$
 
-$15-2 \times 7 = 1$
+C. $15-2 \times 7 = 1$
 $15-14 = 1$
 
-$7 + 1 \times 3 = 24$ 
-$7 + 3 = 10 \cancel = 24$
+D. $7 + 1 \times 3 = 21$
 
-$8 \times 5 - 7 = 33$
+E. $8 \times 5 - 7 = 33$
 $40 - 7 = 33$
-
-Equation D is false
 
 </div>
 </div>
@@ -12387,31 +12348,30 @@ Write the next two lines of the pattern
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+As per the question, the number pattern looks like 
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+3)}}  
 &&  \footnotesize{\maroonC{(+5)}} 
 &&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+9)}} \\
-1^2,  &&    2^2,  &&  3^2,  &&   4^2 \ldots
+&&  \footnotesize{\maroonC{(+9)}}
+&&  \footnotesize{\maroonC{(+11)}}
+&&  \footnotesize{\maroonC{(+13)}} \\
+1^2,  &&    2^2,  &&  3^2,  &&   4^2, && \ldots, && \ldots, &&\ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First line}               &= 5^2 + 11 \\\\
+\text{First line }              &= 5^2 + 11 \\\\
                                 &= 25 + 11 \\\\
                                 &= 36 \\\\
-\text{Secondline}               &= 6^2 + 13 \\\\
+\text{Secondline }              &= 6^2 + 13 \\\\
                                 &= 36 + 13 \\\\
                                 &= 49                      
 \end{aligned}
 $
-
-First line : $5^2 + 11 = 36$
-Second line : $6^2 + 13 = 49$
 
 </div>
 </div>
@@ -12419,6 +12379,7 @@ Second line : $6^2 + 13 = 49$
 <div class='answer'>
 
 First line : $5^2 + 11 = 36$
+
 Second line : $6^2 + 13 = 49$
 
 </div>
@@ -12457,9 +12418,8 @@ In Moscow at noon it is $4˚\,C$. By midnight the temperature has dropped by $10
 
 As per the question,
 
-Temperature in noon = $4 \degree C$
-
-Temperature at midnight = $4 - 10 \degree C = -6 \degree C$
+Temperature at midnight $ = 4 - 10 \degree C \\\\
+                        $ = -6 \degree C$
 
 </div>
 </div>
@@ -12502,19 +12462,26 @@ Ben wants to buy $17$ small bottles of drink for a party. A shop sells them at: 
 <div class='workings'>
 <div class='working'>
 
-Let the smallest amount of money he needs to pay be $= a$
-
-As per the question,
-
-Smallest amount is achieved only when he buys three packs of 5 bottles and one pack of 2 bottles.
+To spend the smallest amount Ben needs to buy maximum possible pack of 5 bottles.
 
 $
 \begin{aligned}
-a                                       &= 3 \times 60 \text{p} + 2 \times 28 \text{p} \\\\
-a                                       &= 180 + 56 \\\\
-a                                       &= 236 \text{p} \\\\
-a                                       &= \pounds \dfrac {236} {100} \\\\
-a                                       &= \pounds 2.36
+\text{Bottles needed}   &= 17 \\\\
+&= 15 \ \text{bottles} + 2 \ \text{bottles} \\\\
+&= 3 x 5 \ \text{pack} + 1 x 2 \ \text{pack}
+\end{aligned}
+$
+
+Let's calculate the amount of money he needs to spend.
+
+$
+\begin{aligned}
+\text{Smallest amount he spends}        &= 3 \times \text{Cost of 5 packs} + 1 \times \text{Cost of 2 packs} \\\\
+                                        &= 3 \times 60 \text{p} + 1 \times 28 \text{p} \\\\
+                                        &= 180 \text{p} + 28 \text{p} \\\\
+                                        &= 208 \text{p} \\\\
+                                        &= \pounds \dfrac {208} {100} \\\\
+                                        &= \pounds 2.08
 \end{aligned}
 $
 
@@ -12523,7 +12490,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.36$
+$\pounds 2.08$
 
 </div>
 </div>
@@ -12640,7 +12607,7 @@ What number goes in the box?
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be $= a$
+Let the missing number $= a$
 
 As per the question,
 
@@ -12654,6 +12621,8 @@ a                                       &= 24 - 20 \\\\
 a                                       &= 4
 \end{aligned}
 $
+
+The missing number $= 4$
 
 </div>
 </div>
@@ -12695,8 +12664,9 @@ On the planet Zog, all numbers are written with the digits in reverse order. For
 
 As per the question,
 
-The numbers are written in reverse order. 
+On planet Zog, all numbers are written in reverse order.
 
+So,
 $
 \begin{aligned}
 &= 729 - 26 \\\\
@@ -12705,12 +12675,14 @@ $
 \end{aligned}
 $
 
+​$865$ will be also written in reverse order $= 568$
+
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$865$
+$568$
 
 </div>
 </div>
@@ -13002,11 +12974,15 @@ As per the question,
 
 The number leaves a remainder $2$ when divided by $53$ and is less than $120$
 
-$53 \times 1 + 2 = 53 < 120$
-$53 \times 2 + 2 = 108 < 120$
-$53 \times 3 + 2 = 161 > 120$
+$53 \times 2 = 106$
+$106 < 120$
 
-The number is $161$
+$53 \times 3 = 159$
+$159 > 120$ So,
+
+$159 + 2 = 161$
+
+The smallest whole number, above $120$ , which when divided by $53$ , leaves a remainder of two $= 161$
 
 </div>
 </div>

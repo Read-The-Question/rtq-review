@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-g1"
 title: "Topic - Probability - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -268,6 +268,270 @@ $\dfrac {5} {9}$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I have a bag containing red, blue and white counters. A counter is chosen at random from the bag. There are 24 red counters in the bag and the probability of choosing a red counter is $\dfrac {1} {6}$ . The bag contains 15 blue counters. How many white counters are there in the bag? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the white counters $= a$
+
+As per the question,
+
+Total counters $= 24 + 15 + a$
+
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+
+$
+\begin{aligned}
+\text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
+\dfrac {1} {6}                                   &= \dfrac {24} {24 + 15 + a} \\\\
+24 + 15 + a                                      &= 24 \times 6 \\\\
+a + 39                                           &= 144 \\\\
+a                                                &= 144 - 39 \\\\
+a                                                &= 105
+\end{aligned}
+$
+
+There are $105$ white counters in the bag.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$105$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>804485E5-7451-4F75-8F5C-D624DA927416</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I have a bag containing red, blue and white counters. A counter is chosen at random from the bag. There are $32$ white counters in the bag and the probability of choosing a white counter is $\dfrac {1} {4}$. The bag contains $14$ red counters. How many blue counters are there in the bag?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the blue counters $= a$
+
+As per the question,
+
+Total counters $= 32 + 14 + a$
+
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+
+$
+\begin{aligned}
+\text {Probability of choosing a white counter is} &= \dfrac {\text {White counters}} {\text {Total counters}} \\\\
+\dfrac {1} {4}                                     &= \dfrac {32} {32 + 14 + a} \\\\
+32 + 14 + a                                        &= 32 \times 4 \\\\
+a + 46                                             &= 128 \\\\
+a                                                  &= 128 - 46 \\\\
+a                                                  &= 82
+\end{aligned}
+$
+
+There are 82 blue counters in the bag.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$82$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>81411267-4268-441B-B266-ABB3F942DF98</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A box contains $7$ red smarties, $4$ blue smarties, $5$ orange smarties and $2$ pink smartie. If a smartie is picked at random what is the probability of getting 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+a red smartie?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {7} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {7} {18}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {18}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+a blue or pink smartie?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {4 + 2} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {6} {18} \\\\
+                    &= \dfrac {6} {6 \times 3} \\\\
+                    &= \dfrac {\cancel {6}} {\cancel {6} \times {3}} \\\\
+                    &= \dfrac {1} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+not an orange smartie?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {7 + 4 + 2} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {13} {18}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {13} {18}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

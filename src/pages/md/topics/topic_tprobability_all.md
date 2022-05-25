@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-all"
 title: "Topic - Probability - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5363,7 +5363,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cars (Neither blue nor red)}            &= \text{Total Cars - Blue Cars - Red Cars}  \\\\
+\text{Cars neither blue nor red)}             &= \text{Total cars - Blue cars - Red cars}  \\\\
                                               &= 48 - \dfrac {3} {8} \times 48 - 25\% \times 48 \\\\
                                               &= 48 - \dfrac {3 \times 48} {8} - \dfrac {25 \times 48} {100} \\\\
                                               &= 48 - \dfrac {3 \times 6 \times 8} {8} -  \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
@@ -5546,7 +5546,7 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D</p>
 </div>
@@ -5565,15 +5565,26 @@ I have a bag containing red, blue and white counters. A counter is chosen at ran
 <div class='workings'>
 <div class='working'>
 
+Let the white counters $= a$
+
+As per the question,
+
+Total counters $= 24 + 15 + a$
+
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+
 $
 \begin{aligned}
-\text {Total counters} &= 24 \times 6 \\\\
-                       &= 144 \\\\
-\text {White counters} &= 144 - (24 + 15) \\\\
-                       &= 144 - 39 \\\\
-                       &= 105
+\text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
+\dfrac {1} {6}                                   &= \dfrac {24} {24 + 15 + a} \\\\
+24 + 15 + a                                      &= 24 \times 6 \\\\
+a + 39                                           &= 144 \\\\
+a                                                &= 144 - 39 \\\\
+a                                                &= 105
 \end{aligned}
 $
+
+There are $105$ white counters in the bag.
 
 </div>
 </div>
@@ -5589,7 +5600,7 @@ $105$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -5638,7 +5649,7 @@ $\text {A score of more than 10 }$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>804485E5-7451-4F75-8F5C-D624DA927416</p>
 </div>
@@ -5657,18 +5668,26 @@ I have a bag containing red, blue and white counters. A counter is chosen at ran
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text {Total number of counters} &= 32 \times 4 \\\\
-                                 &= 128 \\\\ 
-\end{aligned}                                 
-$
+Let the blue counters $= a$
+
+As per the question,
+
+Total counters $= 32 + 14 + a$
+
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
 
 $
-\text {Not blue} &= 128 - (32 + 14) \\\\
-                 &= 128 - 46 \\\\
-                 &= 82
+\begin{aligned}
+\text {Probability of choosing a white counter is} &= \dfrac {\text {White counters}} {\text {Total counters}} \\\\
+\dfrac {1} {4}                                     &= \dfrac {32} {32 + 14 + a} \\\\
+32 + 14 + a                                        &= 32 \times 4 \\\\
+a + 46                                             &= 128 \\\\
+a                                                  &= 128 - 46 \\\\
+a                                                  &= 82
+\end{aligned}
 $
+
+There are 82 blue counters in the bag.
 
 </div>
 </div>
@@ -5684,7 +5703,7 @@ $82$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -5837,7 +5856,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>81411267-4268-441B-B266-ABB3F942DF98</p>
 </div>
@@ -5884,7 +5903,9 @@ a red smartie?
 
 $
 \begin{aligned}
-&= \dfrac {7} {18}
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {7} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {7} {18}
 \end{aligned}
 $
 
@@ -5916,10 +5937,12 @@ a blue or pink smartie?
 
 $
 \begin{aligned}
-&= \dfrac {6} {18} \\\\
-&= \dfrac {3 \times 2} {3 \times 7} \\\\
-&= \dfrac {\cancel {3} \times 2} {\cancel {3} \times 7} \\\\
-&= \dfrac {2} {7}
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {4 + 2} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {6} {18} \\\\
+                    &= \dfrac {6} {6 \times 3} \\\\
+                    &= \dfrac {\cancel {6}} {\cancel {6} \times {3}} \\\\
+                    &= \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -5928,7 +5951,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {2} {7}$
+$\dfrac {1} {3}$
 
 </div>
 </div>
@@ -5951,7 +5974,9 @@ not an orange smartie?
 
 $
 \begin{aligned}
-&= \dfrac {13} {18} 
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {7 + 4 + 2} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {13} {18}
 \end{aligned}
 $
 
@@ -5972,7 +5997,7 @@ $\dfrac {13} {18}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

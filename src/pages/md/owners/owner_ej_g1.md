@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-g1"
 title: "Owner - Eshudhi Jangid - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -169,6 +169,103 @@ $10 {:} 40$
 
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>94575FCE-B695-49E6-BE39-C1569C3879FA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Round $1517$ to the nearest $100$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1500$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1500$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Round $8885$ to the nearest $10$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8890$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8890$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
@@ -2974,6 +3071,200 @@ $\pounds 288$
 <li>
 <div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
+<p>BE2D8C56-1D9C-4A7F-BA9C-6FF46B0B1C3E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve the following: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, multiply it by $17$ and then subtract $19$. The result is $66$. What was the number I first thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number I think $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(17 \times a) - 19  &= 66 \\\\
+(17 \times a)       &= 66 + 19 \\\\
+17a                 &= 85 \\\\
+a                   &= \dfrac {85} {17} \\\\
+a                   &= \dfrac {17 \times 5} {17} \\\\
+a                   &= \dfrac {\cancel {17} \times 5} {\cancel {17}} \\\\
+a                   &= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What number must k be to make this mathematical statement true?
+
+$10 \,\, \times \,\, k \,\, + \,\, 23 = 4 \times \,\, k \,\, +\,\,  35$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+10k + 23 &= 4k + 35 \\\\
+10k - 4k &= 35 - 23 \\\\
+6k       &= 12 \\\\
+k        &= \dfrac {12} {6} \\\\
+k        &= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>6F9F32E1-F006-4C6E-8240-5A785690A7E2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at these angles:
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+One of the angles measures $120^o$ Write down which angle it must be.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{angle Q}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{angle Q}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
 <p>F9D25FF0-D7B8-410C-8287-2F9958F379F9</p>
 </div>
 <div class='topics'>
@@ -3049,6 +3340,163 @@ $18, 36, 54, 72$
 
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>B500989A-95BC-48E9-99DE-F777B5042D16</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at the list of numbers below.
+$1 \,\,\,\,\, 5 \,\,\,\,\, 8 \,\,\,\,\, 9 \,\,\,\,\, 17 \,\,\,\,\, 23 \,\,\,\,\, 25 \,\,\,\,\, 81 \,\,\,\,\, 125 \,\,\,\,\, 1000$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which of the numbers are square numbers? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9, 25, 81$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9, 25, 81$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which of the numbers are cube numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8, 125, 1000$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8, 125, 1000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which of the numbers have exactly two factors?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$5, 9, 25$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5, 9, 25$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Numbers with only two factors have a special name. What is it?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Prime Number}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Prime Number}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
@@ -4153,6 +4601,113 @@ $29$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>98887762-1849-4F10-9E68-211B94B015A0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Pippa came home from her holiday at her Grandma’s with $5$ books. Whilst she was away she bought $2$ books from the bookshop and got $1$ book as a present from her Grandma. During her stay at her Grandma’s she gave her cousin $4$ books that she had finished. How many books did Pippa take with her when she left for her holiday? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the numbers of books she took as $=a$
+
+$
+\begin{aligned}
+a &= 5 + 2 + 1 - 4 \\\\
+a &= 8 - 4 \\\\
+a &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>0614640E-B41A-4826-860D-7235E6EC27FC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sophie should have divided a number by $4$, but instead she subtracted $4$. She got the answer $88$. What should her answer have been?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$,
+
+$
+\begin{aligned}
+a - 4 &= 88 \\\\
+a     &= 88 + 4\\\\
+a     &= 92
+\end{aligned}
+$
+
+Answer should have been,
+
+$
+\begin{aligned}
+&= \dfrac {92} {4} \\\\
+&= \dfrac {23 \times 4} {4} \\\\
+&= \dfrac {23 \times \cancel{4} } {\cancel{4} } \\\\
+&= 23
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -7904,6 +8459,221 @@ $\text {Thousand}$
 <li>
 <div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
+<p>AAF50B0C-7B6A-4176-B987-3E6426D91A8E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunitprompt
+</li>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ten calculators have a total mass of $1500 \ \text{g}$. 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the mass of one calculator.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Mass of one calculator} &= \dfrac {1500} {10} \\\\
+                               &= \dfrac {150\cancel{0}} {1\cancel{0}} \\\\
+                               &= 150 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \ \text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion TODO'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+What is the total mass of $100$ calculators?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question mass of ten calculators $= 1500 \ \text{g}$.Using that we get,
+
+$
+\begin{aligned}
+\text {Mass of 100 calculators} &= 1500 \times 10 \\\\
+                                &= 15000 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15000 \ \text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Write your answer to part (ii) (a) in kilograms.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {15 \cancel{000}} {1 \cancel{000}}
+&= 15 \ \text{kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15 \ \text{kg}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Each calculator costs $\pounds 5.19$
+
+What is the cost of $10$ calculators?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {cost of 10 calculators} &= 5.19 \times 10 \\\\
+                               &= \pounds 51.9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 51.9$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
 <p>B650F2F1-1FB6-4F45-872E-045F8838014C</p>
 </div>
 <div class='topics'>
@@ -8153,6 +8923,125 @@ $2, \ 4, \ 8$
 <li>
 <div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
+<p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+These thermometers show the temperatures inside and outside a window at $10 \ \text{a.m.}$ one winter’s day. 
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many degrees warmer was it inside than outside the window?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 21 - (-3) \\\\
+&= 21 + 3 \\\\
+&= 24 \degree \ \text {C}
+\end{aligned}
+$
+
+It is $24 \degree \ \text {C}$ warmer inside than outside.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \degree \ \text {C}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At $10 \ \text{p.m.}$, the temperature outside had fallen by $2 \degree \text{C}$.
+
+What was the temperature outside the window at $10 \ \text{p.m.}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= -3 - (2) \\\\
+&= -5 \\\\
+&= -5 \degree \ \text {C}
+\end{aligned}
+$
+
+The temperature outside the window at $10 \ \text {p.m.} = -5 \degree \ \text {C}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-5 \degree \ \text{C}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
 <p>2E4B6B46-9C74-48E1-9CCC-D09491A7E79D</p>
 </div>
 <div class='topics'>
@@ -8305,6 +9194,206 @@ $
 <div class='answer'>
 
 $1 \dfrac {1} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>BB584CC8-E4D1-425F-88E8-71BF6CB97F97</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Annie and Bradley each think of a number. 
+
+The difference between their numbers is $6$.
+
+The sum of their numbers is $20$.
+
+What are the two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Annie thinks $= a$
+
+Let the number Bradley thinks $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+a + b      &= 20 \\\\
+a - b      &= 6         
+\end{aligned}
+$
+
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+a + b - (a - b)     &= 20 - 6 \\\\
+a + b -a + b        &= 14 \\\\
+2b                  &= 14 \\\\
+b                   &= \dfrac {14} {2} \\\\
+b                   &= 7
+\end{aligned}
+$
+
+Let's substitute the value of $b$ in one of the initial equations.
+
+$
+\begin{aligned} 
+a + b                          &= 20 \\\\
+a + 7                          &= 20 \\\\
+a                              &= 20 - 7 \\\\
+a                              &= 13
+\end{aligned}
+$
+
+Annie's number $= 13$
+
+Bradley's number $= 7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7, 13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Alice thinks of a number.
+
+Alice calls her number $a$.
+
+**Alice adds $7$ to her number, and then doubles her answer**.
+
+Write an expression, using $a$, to show what Alice does.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (7 + a) \times 2 \\\\
+&= 14 + 2a
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14 + 2a$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jack thinks of a number.
+
+Jack calls his number $n$.
+
+**Jack multiplies his number by $3$, and then subtracts $5$**.
+
+**He gets the answer $16$**.
+
+Use this information to write down an equation, and then solve it to find $n$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3n - 5 &= 16 \\\\
+3n     &= 16 + 5 \\\\
+3n     &= 21 \\\\
+n      &= \dfrac {21} {3} \\\\
+n      &= \dfrac {7 \times 3} {3} \\\\
+n      &= \dfrac {7 \times \cancel{3}} {\cancel{3}} \\\\
+n      &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
 
 </div>
 </div>

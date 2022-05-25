@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-all"
 title: "Topic - Angle - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1396,8 +1396,8 @@ As per the diagram,
 
 $
 \begin {aligned}
-\text {Angle between Line 1 and Line 2}  &= 110 \ \text {degrees} - 50 \ \text {degrees} \\\\
-                                         &= 60 \ \text {degrees}
+\text {Angle}   &= 110 \degree - 50 \degree \\\\
+                &= 60 \degree
 \end {aligned}
 $
 
@@ -7718,13 +7718,13 @@ Find the value of $𝑥$ in the triangle shown.
 <div class='workings'>
 <div class='working'>
 
-The sum of angles of a triangle is $= 180 \degree$
+We know, the sum of angles in a triangle is $180 \degree$
 
 As per the diagram,
 
 $
 \begin{aligned}
-90 + 35 + x              &= 180 \\\\
+90 + 35 + x              &= 180 \degree \\\\
 x                        &= 180 - 90 - 35 \\\\
 x                        &= 55 \degree
 \end{aligned}
@@ -8962,7 +8962,7 @@ $150\degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>B0CC5C22-DFC6-468C-A06B-7B4D743851D2</p>
 </div>
@@ -9016,43 +9016,32 @@ In this  triangle angle A  is the   same  as angle B, and   angle C  is twice an
 
 According to question,
 
-angle B = angle A
+angle B $=$ angle A
 
-So, lets take a = A = B
-
-angle C= 2\times B
+angle C $= 2 \times$ angle B
 
 $
 \begin{aligned}
-A + B + C                &=   180\degree \\\\
-2 \times a + 2 \times a  &=   180\degree \\\\
-4a                       &=   180\degree \\\\
-a                        &=   45\degree
+A + B + C                &= 180 \degree \\\\
+A + A + 2A               &= 180 \\\\
+4A                       &= 180 \\\\
+A                        &= \dfrac {180} {4} \\\\
+A                        &= \dfrac {45 \times 4} {4} \\\\
+A                        &= \dfrac {45 \times \cancel {4}} {\cancel {4}} \\\\
+A                        &= 45 \degree
 \end{aligned}
 $
 
-So, angle A = angle B $=45\degree$
+So, angle A $=$ angle B $= 45 \degree$
 
-and angle C, 
-
-$ 
-\begin{aligned}
-2 \times \ \text{angle B}  &=  2 \times 45\degree \\\\
-                           &=  90\degree
-\end{aligned}
-$
+angle C $= 2 \times$ A $= 2 \times 45 = 90 \degree$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$45\degree$
-
-</div>
-<div class='answer'>
-
-$45\degree, 90\degree$
+$45 \degree, 90 \degree$
 
 </div>
 </div>
@@ -9081,10 +9070,10 @@ As per the question,
 
 $
 \begin{aligned}
-a + a + a + 90\degree  &=  360\degree \\\\
-3a                     &=  360\degree - 90\degree \\\\
-3a                     &=  270 \degree \\\\
-a                      &=  90\degree
+x + x + x + 90 \degree  &= 360 \degree \\\\
+3x                      &= 360 \degree - 90 \degree \\\\
+3x                      &= 270 \degree \\\\
+x                       &= 90 \degree
 \end{aligned}
 $
 
@@ -9093,7 +9082,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$90\degree$
+$90 \degree$
 
 </div>
 </div>
@@ -9105,12 +9094,12 @@ $90\degree$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>6F9F32E1-F006-4C6E-8240-5A785690A7E2</p>
 </div>
@@ -9176,7 +9165,7 @@ $\text{angle Q}$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -9387,7 +9376,7 @@ $58 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>473B53F9-0065-4183-A92E-E456B6396E3B</p>
 </div>
@@ -9441,12 +9430,12 @@ $56 \degree$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>98FB3AC6-2728-458B-AA28-1E5EF428AAFB</p>
 </div>
@@ -9505,12 +9494,12 @@ $150 \degree$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>42DD1DEA-9421-4D3A-9922-9C450DDF4E3F</p>
 </div>
@@ -9570,7 +9559,7 @@ $85 \degree$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>

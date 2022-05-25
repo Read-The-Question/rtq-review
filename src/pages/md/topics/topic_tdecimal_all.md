@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-all"
 title: "Topic - Decimal - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8994,7 +8994,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.21> \quad 0.201> \quad 0.021$
+$0.21, \quad 0.201, \quad 0.021$
 
 </div>
 </div>
@@ -10811,7 +10811,7 @@ to one decimal place.
 <div class='workings'>
 <div class='working'>
 
-As prt the question,
+As per the question,
 
 $
 \begin{aligned}
@@ -10873,7 +10873,7 @@ Ensure to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-          &8   &    9 \ .    &    1           \\
+          &8   &    9 \ .    &    1     &    0 \\
 {}-      &3     &    6 \ .    &    5    &    5 \\
 \hline
          &5   &2     \ .    &    5    &    5
@@ -11231,7 +11231,7 @@ $2 \text {Meat Pie}, 1 \text {Cup of Tea}, 1 \text {Cups of Coffee}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>CE97FB1F-AA68-41D1-BD54-0147E9CD7F70</p>
 </div>
@@ -11279,7 +11279,7 @@ $0.4$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-all"
 title: "Owner - Sahil Choudhary - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11621,7 +11621,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.21> \quad 0.201> \quad 0.021$
+$0.21, \quad 0.201, \quad 0.021$
 
 </div>
 </div>
@@ -12376,7 +12376,7 @@ $0.175$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>C51D4882-FD86-449B-BC74-E90265EBA237</p>
 </div>
@@ -12468,7 +12468,7 @@ Cylinder
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -13140,7 +13140,7 @@ In a school there are $465$ boys, $531$ girls, and $89$ staff. How many people a
 
 $
 \begin{aligned}
-\text{Total people}                             &= \text{Total (Boys)} + \text{Total (Girls)} + \text{Total (Staff)} \\\\
+\text{Total people}                             &= \text{Total boys + Total girls + Total staff} \\\\
                                                 &= 465 + 531 + 89 \\\\
                                                 &= 1085
 \end{aligned}
@@ -13226,7 +13226,7 @@ A train carriage has $62$ seats, if the train has $12$ carriages what is the lar
 
 $
 \begin{aligned}
-\text{Largest no. of passengers}                   &= \text{Total seats per carriage} + \text{No. of carriage} \\\\
+\text{Largest no. of passengers}                   &= \text{Total seats per carriage} + \text{No. of carriages} \\\\
                                                    &= 62 \times 12 \\\\
                                                    &= 744
 \end{aligned}
@@ -13275,9 +13275,9 @@ $3.33, 3.03, 3.3, 3, 3.303$
 $
 \begin{aligned}
 &= 3.33, \quad 3.03, \quad 3.3, \quad 3, \quad 3.303 \\\\
-&= 3.330, \quad 3.030, \quad 3.300, \quad 3.0, \quad 3.303 \\\\
+&= 3.330, \quad 3.030, \quad 3.300, \quad 3, \quad 3.303 \\\\
 &\text{Let's put them in descending order now.} \\\\
-&= 3.330> \quad 3.303> \quad 3.300> \quad 3.030> \quad 3.0 \\\\
+&= 3.330> \quad 3.303> \quad 3.300> \quad 3.030> \quad 3 \\\\
 &= 3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
 \end{aligned}
 $
@@ -13287,7 +13287,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
+3.33, \quad 3.303, \quad 3.3, \quad 3.03, \quad 3
 
 </div>
 </div>
@@ -13324,10 +13324,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Change (Received)}                        &= \text{Money (Paid)} - (\text{Ticket Cost ( 2 x Adults)} + \text{Ticket Cost ( 4 x Children)}) \\\\
-                                                &= 2 \times \pounds 20 - (2 \times \pounds 11.50 + 4 \times \pounds 3.70) \\\\
-                                                &= 40 - (23 + 14.80) \\\\
-                                                &= 40 - 37.80 \\\\
+\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 4 \ \text{Children} \\\\
+                                                &= 2 \times \pounds 20 - 2 \times \pounds 11.50 - 4 \times \pounds 3.70 \\\\
+                                                &= 40 - 23 - 14.80 \\\\
                                                 &= \pounds 2.20
 \end{aligned}
 $
@@ -13412,9 +13411,11 @@ A square has area $49\ \text{cm}^2$. What is the perimeter of the square?
 <div class='workings'>
 <div class='working'>
 
-We know, Area of a square $= \text{Side} \times \text{Side}$
+We know, 
 
-As per question,
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
 
 Let the length of the square (in cm) $= a$
 
@@ -13426,7 +13427,7 @@ a                                               &= 7 \ \text{cm}
 \end{aligned}
 $
 
-The Length of the side of square $= 7 \ \text{cm}$
+The length of the side of the square $= 7 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
@@ -13457,7 +13458,7 @@ $28 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>F3F34EA3-2E57-420F-B3B7-CB31E96031AB</p>
 </div>
@@ -13571,7 +13572,7 @@ $\pounds 104.50$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -13744,25 +13745,25 @@ How many spots are there on a normal six-sided dice?
 <div class='workings'>
 <div class='working'>
 
-As we know, the spots on a six-sided dice starts with 1.
+As per the question,
 
 $
 \begin{aligned}
 \text{Total spots}                                 &= 1 + 2 + 3 + 4 + 5 + 6 \\\\
-                                                   &= 21 \text{spots}
+                                                   &= 21
 \end{aligned}
 $
 
 </div>
 <div class='working'>
 
-As we know, opposite sides of a dice always adds up to 7.
+As we know, opposite sides of a dice always add up to 7.
 
 $
 \begin{aligned}
 \text{Total spots}                                 &= \dfrac {6} {2} \times 7 \\\\
                                                    &= 3 \times 7 \\\\
-                                                   &= 21 \text{spots}
+                                                   &= 21
 \end{aligned}
 $
 
@@ -13926,7 +13927,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Tasweer (Owe Julie)}                         &= \text{Money (Julie paid)} - \text{Money (Julie owed)} \\\\
+\text{Tasweer owe Julie}                           &= \text{Money Julie paid - Money Julie owed} \\\\
                                                    &= \pounds 20 - \pounds 12.70 \\\\
                                                    &= \pounds 7.30
 \end{aligned}
@@ -13972,7 +13973,7 @@ The bus from Redhill to London can hold $58$ passengers. If the bus travels to L
 
 $
 \begin{aligned}
-\text{Maximum passengers (got to London}           &= \text{Total (Bus trips a day)} \times \text{Total Passenger(per Bus)} \\\\
+\text{Maximum passengers}                          &= \text{Total bus trips per day} \times \text{Total passengers per bus} \\\\
                                                    &= 18 \times 58 \\\\
                                                    &= 1044
 \end{aligned}
@@ -13997,7 +13998,7 @@ $1044$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>67DF39CD-1E0F-4819-A398-56826AE81698</p>
 </div>
@@ -14106,7 +14107,7 @@ $\dfrac {3} {2}$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -14265,7 +14266,7 @@ As per the question,
 
 $
 \begin{aligned}
-5371                                               &= 41 \times 131 \ \text{So,} \\\\
+5371                                               &= 41 \times 131 \\\\
 \dfrac {5371} {131}                                &= 41 \\\\
 5371 \div 131                                      &= 41
 \end{aligned}
@@ -14297,12 +14298,15 @@ What is $4.1 \times 13.1$
 <div class='workings'>
 <div class='working'>
 
+As per the question, 
+
+$41 \times 31 = 5371$
+
+To find $4.1 \times 13.1$ we need to count the total number of digits after the decimal points and  account for the same in the answer given above.
+
 $
 \begin{aligned}
-4.1 \times 13.1                                    &= \dfrac {41} {10} \times \dfrac {131} {10} \\\\
-                                                   &= \dfrac {41 \times 131} {100} \\\\
-                                                   &= \dfrac {5371} {100} \\\\
-                                                   &= 53.71
+4.1 \times 13.1                                    &= 53.71
 \end{aligned}
 $
 
@@ -14382,7 +14386,7 @@ $33$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>4E6171F1-A614-49B9-AD77-25E54516C128</p>
 </div>
@@ -14587,7 +14591,7 @@ $7$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -14615,7 +14619,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{ Start Time (Ingredient prepartion)}                             &= \text{Time (Want to eat)} - (\text{Time taken (Preparing Ingredients + Baking + Cooling)}) \\\\
+\text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
                                                                        &= 4{:}10 \ \text{pm} - (20 + 22 + 10) \ \text{minutes} \\\\
                                                                        &= 4{:}10 \ \text{pm} - 52 \ \text{minutes} \\\\
                                                                        &= 3{:}18 \ \text{pm}
@@ -14627,7 +14631,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3{:}18 \text{pm}$
+$3{:}18 \ \text{pm}$
 
 </div>
 </div>
@@ -14664,7 +14668,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= \text{Number of seconds in a minute} - (\text{Number of hours in a day} \\\\
+&= \text{Number of seconds in a minute} - \text{Number of hours in a day} \\\\
 &= 60 - 24 \\\\
 &= 36
 \end{aligned}
@@ -14739,7 +14743,7 @@ How many bricks will there be in the wall?
 
 $
 \begin{aligned}
-\text{Total bricks}                                 &= \text{Brick (High)} \times \text{Brick (Wide)} \\\\
+\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick Width} \\\\
                                                     &= 23 \times 12 \\\\
                                                     &= 276
 \end{aligned}
@@ -14776,7 +14780,7 @@ $
 \text{Time to build the wall}                       &= \dfrac {\text{Total bricks}} {6} \times 4 \ \text{minutes} \\\\
                                                     &= \dfrac {276} {6} \times 4 \\\\
                                                     &= \dfrac {6 \times 46 \times 4} {6} \\\\
-                                                    &= \dfrac {\cancel{6} \times 46 \times 4} {\cancel{6}} \times 4 \\\\
+                                                    &= \dfrac {\cancel{6} \times 46 \times 4} {\cancel{6}} \\\\
                                                     &= 46 \times 4 \\\\
                                                     &= 184 \ \text{minutes} \\\\
                                                     &= 60 + 60 + 60 + 4 \\\\
@@ -14789,7 +14793,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3 \ \text{hours} \ 4 \ \text{minutes or } 184 \ \text{minutes}$
+$3 \ \text{hours} \ 4 \ \text{minutes or} \ 184 \ \text{minutes}$
 
 </div>
 </div>
@@ -14905,10 +14909,10 @@ As per the diagram,
 $
 \begin{aligned}
 3y - 3              &= 21 \\\\
-3x                  &= 21 + 3 \\\\
-3x                  &= 24 \\\\
-x                   &= \dfrac {24} {3} \\\\
-x                   &= 8
+3y                  &= 21 + 3 \\\\
+3y                  &= 24 \\\\
+y                   &= \dfrac {24} {3} \\\\
+y                   &= 8
 \end{aligned}
 $
 
@@ -14955,13 +14959,13 @@ Find the value of $𝑥$ in the triangle shown.
 <div class='workings'>
 <div class='working'>
 
-The sum of angles of a triangle is $= 180 \degree$
+We know, the sum of angles in a triangle is $180 \degree$
 
 As per the diagram,
 
 $
 \begin{aligned}
-90 + 35 + x              &= 180 \\\\
+90 + 35 + x              &= 180 \degree \\\\
 x                        &= 180 - 90 - 35 \\\\
 x                        &= 55 \degree
 \end{aligned}
@@ -15034,11 +15038,13 @@ Josh can walk at $6 \ \text{km}$ per hour. How long will he take to finish the w
 <div class='workings'>
 <div class='working'>
 
-Time $= \dfrac {\text{Distance}} {\text{Speed}}
+Time $= \dfrac {\text{Distance}} {\text{Speed}}$
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Time taken (by Josh)}                         &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
+\text{Time taken by Josh}                           &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
                                                     &= \dfrac {6 \times 6} {6} \\\\
                                                     &= \dfrac {\cancel{6} \times 6} {\cancel{6}} \\\\
                                                     &= 6 \ \text{hours}
@@ -15071,13 +15077,13 @@ Gary can walk at $5 \ \text{km}$ per hour. How far will he still have left to wa
 <div class='workings'>
 <div class='working'>
 
-We know,  Jost took 6 hours to finish walking 36 km.
+We know,  Josh took $6$ hours to finish walking $36$ km.
 
 $
 \begin{aligned}
-\text{Distance Gary (Left)}                         &= \text{Total distance} - \text{Distance Gary (Covered)} \\\\
+\text{Remaining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
                                                     &= 36 \ \text{km} - \text{Speed} \times \text{Time} \\\\
-                                                    &= 36 \ \text{km} - 5 \ \text{km / hour} \times 6 \ \text{hour} \\\\
+                                                    &= 36 \ \text{km} - 5 \ \text{km per hour} \times 6 \ \text{hours} \\\\
                                                     &= 36 - 30 \\\\
                                                     &= 6 \ \text{km}
 \end{aligned}
@@ -15130,8 +15136,8 @@ As per the picture,
 
 $
 \begin{aligned}
-\text{Width of the painting}                        &= \text{Total Width} - (2 \times \text{Frame height}) \\\\
-                                                    &= 75 \ \text{cm} - (2 \times 15 \ \text{cm}) \\\\
+\text{Width of the painting}                        &= \text{Total width} - 2 \times \text{Frame height} \\\\
+                                                    &= 75 \ \text{cm} - 2 \times 15 \ \text{cm} \\\\
                                                     &= 75 - 30 \\\\
                                                     &= 45 \ \text{cm}
 \end{aligned}
@@ -15142,8 +15148,8 @@ Let's find the height of the painting.
 
 $
 \begin{aligned}
-\text{Height of the painting}                       &= \text{Total height} - (2 \times \text{Frame height}) \\\\
-                                                    &= 65 \ \text{cm} - (2 \times 15 \ \text{cm}) \\\\
+\text{Height of the painting}                       &= \text{Total height} - 2 \times \text{Frame height} \\\\
+                                                    &= 65 \ \text{cm} - 2 \times 15 \ \text{cm} \\\\
                                                     &= 65 - 30 \\\\
                                                     &= 35 \ \text{cm}
 \end{aligned}
@@ -15193,13 +15199,13 @@ Martin and Dai divide some sweets between them. There are $65$ sweets, and Marti
 <div class='workings'>
 <div class='working'>
 
-Let number of sweets Martin got $= a$
+Let the number of sweets Martin take $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Sweets (Martin)}                                  &= \text{Total sweets} - \text{Sweets (Dai)} \\\\
+\text{Sweets Martin took}                               &= \text{Total sweets} - \text{Sweets Dai took} \\\\
 a                                                       &= 65 - (a - 7) \\\\
 a                                                       &= 65 - a + 7 \\\\
 a + a                                                   &= 65 + 7 \\\\
@@ -15251,17 +15257,21 @@ In an orchestra there are $60$ children. If $\dfrac {1} {5}$ play the recorder a
 <div class='workings'>
 <div class='working'>
 
+Let's find the number of children playing something else.
+
 $
 \begin{aligned}
-\text{Children (Something else)}              &= \text{Total Children - (Play (Recorder) + Play (Triangle))}  \\\\
-                                              &= 60 - \dfrac {1} {5} \times 60 + 40\% \times 60 \\\\
-                                              &= 60 - \dfrac {1 \times 60} {5} - \dfrac {40 \times 60} {100} \\\\
-                                              &= 60 - \dfrac {5 \times 12} {5} -  \dfrac {40 \times 60} {100} \\\\
-                                              &= 60 - \dfrac {\cancel{5} \times 12} {\cancel{5}}  -\dfrac {4 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-                                              &= 60 - 12 - 24 \\\\
-                                              &= 24
+&= \text{Total children - Playing recorder - Playing triangle}  \\\\
+&= 60 - \dfrac {1} {5} \times 60 - 40\% \times 60 \\\\
+&= 60 - \dfrac {1 \times 60} {5} - \dfrac {40 \times 60} {100} \\\\
+&= 60 - \dfrac {5 \times 12} {5} -  \dfrac {40 \times 60} {100} \\\\
+&= 60 - \dfrac {\cancel{5} \times 12} {\cancel{5}}  -\dfrac {4 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 60 - 12 - 24 \\\\
+&= 24
 \end{aligned}
 $
+
+Number of children playing something else $= 24$
 
 </div>
 </div>
@@ -15282,7 +15292,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>191CD2FA-CE07-4708-99E9-0C5625EFED6C</p>
 </div>
@@ -15433,7 +15443,7 @@ $7 \ \text{or} \ -4$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -15459,7 +15469,7 @@ In a school there are $386$ boys, $435$ girls, and $76$ staff. How many people a
 
 $
 \begin{aligned}
-\text{Total people}                             &= \text{Total (Boys)} + \text{Total (Girls)} + \text{Total (Staff)} \\\\
+\text{Total people}                             &= \text{Total boys + Total girls + Total staff} \\\\
                                                 &= 386 + 435 + 76 \\\\
                                                 &= 897
 \end{aligned}
@@ -15545,7 +15555,7 @@ A bookshelf holds $28$ books. A local library has $87$ bookshelves. How many boo
 
 $
 \begin{aligned}
-\text{Total books}                              &= \text{Total bookshelves} \times \text{Books per bookshelves} \\\\
+\text{Total books}                              &= \text{Total bookshelves} \times \text{Books per bookshelf} \\\\
                                                 &= 87 \times 28 \\\\
                                                 &= 2436
 \end{aligned}
@@ -15594,9 +15604,9 @@ $7.7, 7.77, 7, 7.07, 7.707$
 $
 \begin{aligned}
 &= 7.7, \quad 7.77, \quad 7, \quad 7.07, \quad 7.707 \\\\
-&= 7.700, \quad 7.770, \quad 7.0, \quad 7.070, \quad 7.707 \\\\
+&= 7.700, \quad 7.770, \quad 7, \quad 7.070, \quad 7.707 \\\\
 & \text{Let's put them in descending order now.} \\\\
-&= 7.770> \quad 7.707> \quad 7.700> \quad 7.070> \quad 7.0 \\\\
+&= 7.770> \quad 7.707> \quad 7.700> \quad 7.070> \quad 7 \\\\
 &= 7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7
 \end{aligned}
 $
@@ -15606,7 +15616,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7$
+$7.77, \quad 7.707, \quad 7.7, \quad 7.07, \quad 7$
 
 </div>
 </div>
@@ -15643,10 +15653,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Change (Received)}                        &= \text{Money (Paid)} - (\text{Ticket Cost ( 2 x Adults)} + \text{Ticket Cost ( 3 x Children)}) \\\\
-                                                &= \pounds 50 - (2 \times \pounds 9.50 + 3 \times \pounds 2.60) \\\\
-                                                &= 50 - (19 + 7.80) \\\\
-                                                &= 50 - 26.80 \\\\
+\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 3 \ \text{Children} \\\\
+                                                &= \pounds 50 - 2 \times \pounds 9.50 - 3 \times \pounds 2.60 \\\\
+                                                &= 50 - 19 - 7.80 \\\\
                                                 &= \pounds 23.20
 \end{aligned}
 $
@@ -15734,9 +15743,11 @@ A square has area $64\ \text{cm}^2$. What is the perimeter of the square?
 <div class='workings'>
 <div class='working'>
 
-We know, Area of a square $= \text{Side} \times \text{Side}$
+We know,
 
-As per question,
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
 
 Let the length of the square (in cm) $= a$
 
@@ -15749,7 +15760,7 @@ a                                               &= 8 \ \text{cm}
 \end{aligned}
 $
 
-The Length of the side of square $= 8 \ \text{cm}$
+The length of the side of the square $= 8 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
@@ -16191,7 +16202,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Josh (Owe Tina)}                             &= \text{Money (Julie paid)} - \text{Money (Julie owed)} \\\\
+\text{Josh owe Tina}                               &= \text{Money Julie paid} - \text{Money Julie owed} \\\\
                                                    &= 3 \times \pounds 10 - \pounds 23.80 \\\\
                                                    &= \pounds 30 - \pounds 23.80 \\\\
                                                    &= \pounds 6.20
@@ -16217,7 +16228,7 @@ $\pounds 6.20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>32DC6924-3D42-4FC1-9F0E-EEE526815D65</p>
 </div>
@@ -16258,7 +16269,7 @@ $576$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -16526,15 +16537,9 @@ Using the information given above, what is $7504 \div 56$?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+Using the information given above,
 
-$
-\begin{aligned}
-7504                                               &= 56 \times 134 \ \text{So,} \\\\
-\dfrac {7504} {56}                                 &= 134 \\\\
-7504 \div 56                                       &= 134
-\end{aligned}
-$
+$7504 \div 56 = 134$
 
 </div>
 </div>
@@ -16593,7 +16598,7 @@ $7504$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>59CD1770-B31D-4823-A24A-82752DF02513</p>
 </div>
@@ -16644,12 +16649,12 @@ $12$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>33464044-5134-47C2-94C6-385CC7C0394E</p>
 </div>
@@ -16853,7 +16858,7 @@ $45$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -16881,10 +16886,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Start Time}                                                      &= \text{Time (Want to eat)} - (\text{Time taken (Preparing Ingredient + Baking + Cooling)}) \\\\
+\text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
                                                                        &= 3{:}15 \ \text{pm} - (15 + 18 + 10) \ \text{minutes} \\\\
                                                                        &= 3{:}15 \ \text{pm} - 43 \ \text{minutes} \\\\
-                                                                       &= 3{:}32 \ \text{pm}
+                                                                       &= 2{:}32 \ \text{pm}
 \end{aligned}
 $
 
@@ -16893,7 +16898,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3{:}32 \ \text{pm}$
+$2{:}32 \ \text{pm}$
 
 </div>
 </div>
@@ -16936,7 +16941,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times (\text{No. of minutes in an hour} \\\\
+\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times \text{No. of minutes in an hour} \\\\
                                 &= 24 \times 60 \\\\
                                 &= 1440 \ \text{minutes}
 \end{aligned}
@@ -17011,7 +17016,7 @@ How many bricks will there be in the wall?
 
 $
 \begin{aligned}
-\text{Total bricks}                                 &= \text{Brick (High) \times Brick (Wide)} \\\\
+\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick width} \\\\
                                                     &= 19 \times 14 \\\\
                                                     &= 266
 \end{aligned}
@@ -17101,7 +17106,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature (in London)}                      &= \dfrac {1} {2} \times (\text{Temperature (Helsinki + Madrid)}) \\\\
+\text{Temperature in London}                        &= \dfrac {\text{Temperature in (Helsinki + Madrid)}} {2} \\\\
                                                     &= \dfrac {-4 \degree \text{C} + 12 \degree \text{C}} {2} \\\\
                                                     &= \dfrac {8} {2} \\\\
                                                     &= \dfrac {2 \times 4} {2} \\\\
@@ -17129,7 +17134,7 @@ $4 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B</p>
 </div>
@@ -17251,7 +17256,7 @@ $13$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -17353,13 +17358,13 @@ Julie can walk at $6 \ \text{km}$ per hour. How long will she take to finish the
 <div class='workings'>
 <div class='working'>
 
-Time $= \dfrac {\text{Distance}} {\text{Speed}}
+Time $= \dfrac {\text{Distance}} {\text{Speed}}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Time taken (by Julie)}                        &= \dfrac {24 \ \text{km}} {6 \ \text{km per hour}} \\\\
+\text{Time taken by Julie}                          &= \dfrac {24 \ \text{km}} {6 \ \text{km per hour}} \\\\
                                                     &= \dfrac {4 \times 6} {6} \\\\
                                                     &= \dfrac {4 \times \cancel{6}} {\cancel{6}} \\\\
                                                     &= 4 \ \text{hours}
@@ -17392,13 +17397,13 @@ Sarika can walk at $4 \ \text{km}$ per hour. How far will she still have left to
 <div class='workings'>
 <div class='working'>
 
-We know,  Julie took 4 hours to finish walking 24 km.
+We know,  Julie took $4$ hours to finish walking $24$ km.
 
 $
 \begin{aligned}
-\text{Distance Gary (Left)}                         &= \text{Total distance} - \text{Distance Gary (Covered)} \\\\
+\text{Reamining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
                                                     &= 24 \ \text{km} - (\text{Speed} \times \text{Time}) \\\\
-                                                    &= 24 \ \text{km} - (4 \ \text{km / hour} \times 4 \ \text{hour}) \\\\
+                                                    &= 24 \ \text{km} - (4 \ \text{km per hour} \times 4 \ \text{hours}) \\\\
                                                     &= 24 - 16 \\\\
                                                     &= 8 \ \text{km}
 \end{aligned}
@@ -17455,15 +17460,15 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
-                                                   &= 15 \ \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \times 8 \text{cm} - 2 \ \text{cm} \times 2 \ \text{cm} \\\\
-                                                   &= 15 \ \text{cm} - 4 \ \text{cm} \times 8 \ \text{cm} - 4 \ \text{cm} \\\\
-                                                   &= 11 \ \text{cm} \times 4 \ \text{cm} \\\\
-                                                   &= 44 \ \text{cm}^{2} \\\\
+\text{Area of pool}                                &= (\text{Length of garden - 2} \times \text{Width of path}) \times (\text{Width of garden - 2} \times \text{Width of path}) \\\\
+                                                   &= (15 \text{m} - 2 \text{m} \times 2 \text{m}) \times (8 \text{m} - 2 \text{m} \times 2 \text{m}) \\\\
+                                                   &= (15 - 4) \times (8 - 4) \\\\
+                                                   &= 11 \times 4 \\\\
+                                                   &= 44 \text{m}^{2} \\\\
 \text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
-                                                   &= 15 \ \text{cm} \times 8 \ \text{cm}  - 44 \ \text{cm}^{2} \\\\
-                                                   &= 120 \ \text{cm}^{2} - 44 \ \text{cm}^{2} \\\\
-                                                   &= 76 \ \text{cm}^{2}
+                                                   &= 15 \text{m} \times 8 \text{m}  - 44 \text{m}^{2} \\\\
+                                                   &= 120 - 44 \\\\
+                                                   &= 76 \text{m}^{2}
 \end{aligned}
 $
 
@@ -17472,7 +17477,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$76 \ \text{cm}^{2}$
+$76 \text{m}^{2}$
 
 </div>
 </div>
@@ -17505,14 +17510,14 @@ Karen and Fran have some money. Karen has $\pounds 9$ more than Fran, together t
 <div class='workings'>
 <div class='working'>
 
-Let the money Frans have $= a$
+Let the money Fran have $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Money (Karen)} + \text{Money (Fran)}              &= \text{Total money} \\\\
-a + 9 + a                                               &= \pounds 45 \\\\
+\text{Money Karen have} + \text{Money Fran have}        &= \text{Total money} \\\\
+(a + 9) + a                                             &= \pounds 45 \\\\
 2a                                                      &= 45 - 9 \\\\
 2a                                                      &= 36 \\\\
 2a                                                      &= 36 \\\\
@@ -17523,9 +17528,7 @@ a                                                       &= \pounds 18
 \end{aligned}
 $
 
-Money Frans have $= \pounds 18$
-
-Let's calculate for Karen
+Money Fran have $= \pounds 18$
 
 $
 \begin{aligned}
@@ -17576,7 +17579,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cars (Neither blue nor red)}            &= \text{Total Cars - Blue Cars - Red Cars}  \\\\
+\text{Cars neither blue nor red)}             &= \text{Total cars - Blue cars - Red cars}  \\\\
                                               &= 48 - \dfrac {3} {8} \times 48 - 25\% \times 48 \\\\
                                               &= 48 - \dfrac {3 \times 48} {8} - \dfrac {25 \times 48} {100} \\\\
                                               &= 48 - \dfrac {3 \times 6 \times 8} {8} -  \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
@@ -17606,7 +17609,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>E939A9F2-9AF4-43F6-9C5F-9F1C96A47959</p>
 </div>
@@ -17659,7 +17662,7 @@ $\pounds 4$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -20984,7 +20987,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>3E12E5A1-1C9D-490A-A55D-17256F88FBF4</p>
 </div>
@@ -21035,7 +21038,7 @@ $5$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>

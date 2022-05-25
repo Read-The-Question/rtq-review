@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-red"
 title: "Topic - Statistics - Red"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -201,6 +201,472 @@ $5$
 <li>
 <div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
+<p>B7C4AE95-752D-4854-B5BC-345B25E83FA1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In five of his mid-term tests, each out of $10$ marks, Darshan scores $9$ in Mathematics, $6$ in English, $8$ in Geography, 
+$4$ in History, and $8$ in Science.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the mode of Darshan's five scores.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the range of marks that Darshan scores.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 9 - 4 \\\\
+&= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the mean average score that he achieved in these five tests.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{mean} &= \dfrac {9 + 6 + 8 + 4 + 8} {5} \\\\
+            &= \dfrac {35} {5} \\\\\
+            &= 7 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+After his French mark are announced, Darshan's average score from all six tests falls to $6.5$ marks. 
+Calculate the mark he scored in his French test.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the marks in French $=a$,
+
+$
+\begin{aligned}
+\dfrac {35 + a} {6} &= 6.5 \\\\
+35 + a              &= 6.5 \times 6 \\\\
+35 + a              &= 39 \\\\
+a                   &= 39 - 35 \\\\
+a                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The pass mark for each test is $50\%$. Write down what fraction of Darshan's six tests (including his French) he managed to pass, leaving your answer in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {4} {6} \\\\
+&= \dfrac {2 \times 2} {3 \times 2} \\\\
+&= \dfrac {2 \times \cancel {2} } {3 \times \cancel {2} } \\\\
+&= \dfrac {2} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the end term tests, Darshan scores $15$ out of $20$ in his History.
+
+Work out what his percentage improvement is in this subject.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {15 - 8} {20} \times 100\\\\
+&= \dfrac {7 \times 100} {20} \\\\
+&= \dfrac 7 \times 5 \\\\
+&= 35\%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35\%$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>C6F1CC0D-D31A-4B7A-8872-C20E463CC066</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On the five school days of a given week, Joshua recorded how many minutes late his school bus arrived each morning. Here is what he recorded:
+
+|    Day    |         Time         |
+|:---------:|:--------------------:|
+|   Monday  |  $5 \text{ minutes}$ |
+|  Tuesday  |  $8 \text{ minutes}$ |
+| Wednesday |  $4 \text{ minutes}$ |
+|  Thursday | $10 \text{ minutes}$ |
+|   Friday  |  $8 \text{ minutes}$ |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the mode of the amount of minutes the bus was late over the week. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8 \ \text{minutes}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the range of the five times that Joshua recorded.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Range} &= 10 - 4 \\\\
+              &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the mean average time that the bus was late over the course of the week.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Mean} &= \dfrac {5 + 8 + 4 + 10 + 8} {5} \\\\
+             &= \dfrac {35} {5} \\\\
+             &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The following Monday, Joshua again records how many minutes late the bus arrives, combining this with his results 
+from the previous week, the mean average late time is now $6 \ \text{minutes}$.
+
+How much was the bus late by on that second Monday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the delay on second Monday is $=a$
+
+$
+\begin{aligned}
+\dfrac {35 + a} {6} &= 6 \\\\
+35 + a              &= 6 \times 6 \\\\
+a                   &= 36 - 35 \\\\
+a                   &= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Joshua keeps recording this information each morning. By the end of Thursday of the second week, the mean average has now fallen to 
+$4 \ \text{minutes}$.
+
+Explain what this tells us about the number of minutes that the bus was late over the middle three days of the second week.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{It shows that the mean is maintained}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{It shows that the mean is maintained}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
 <p>E7E0C2A2-8B04-44D2-977B-6CCDF28C9D80</p>
 </div>
 <div class='topics'>
@@ -386,6 +852,291 @@ $9$
 </div>
 <div class='rag'>
 <p>rag_ad_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>71AEECED-FE8A-4461-B486-63BD70456190</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a survey, some football fans were asked “Who was England’s best player at the World Cup?”
+The results are shown in the chart below (with the club the player plays for in brackets).
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many fans said Maguire?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In total, how many fans were questioned in the survey?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total fans} &= 23 + 17 + 7 + 5 + 8 + 2 \\\\
+                   &= 62
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$62$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which player is the mode?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$Henderson(Liverpool)$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$Henderson(Liverpool)$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The fans who completed the survey were all pupils at St Anselm’s College. Do you think this is a fair way to do the survey? Explain your answer.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$Yes$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$Yes$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>B1E676D4-7DC8-4CF7-B4DE-99AD6CD05D81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+<li>
+tnumber
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I am thinking of three different, positive, whole numbers.
+
+The mean of my three numbers is 8.
+
+The median of my three numbers is 9.
+
+Write down one possible set of three numbers that my numbers could be. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$5, 10, 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5, 10, 9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>A07A2CC0-89F4-4D36-948D-4DA958505E88</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Snow White wanted to know the mean height of the Seven Dwarves. One day she measured them all as they left for work and calculated their mean height as $114.5\ \text{cm}$. Grumpy complained that she had missed him out and had measured Dopey twice without him noticing. If Grumpy is $14\ \text{cm}$ taller than Dopey, what is the mean height of the Seven Dwarves?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let dopey's height $=a$,
+
+Grumpy's height will $=a+14$,
+
+Sum of (all five dwarfs height and twice of dopey's height)
+
+$
+\begin{aligned}
+&= 114.5 \times 7 \\\\
+&= 801.75 \ \text{cm}
+\end{aligned}
+$
+
+If we subtract dopey's height once and add grumpy's height
+
+$
+\begin{aligned}
+&= 801.5 - a + a + 14  \\\\
+&= 815.5
+\end{aligned}
+$
+
+Their average height,
+
+$
+\begin{aligned}
+&= \dfrac {815.5} {7} \\\\
+&= 116.5 \ \text{cm}
+\end{aligned}
+$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$116.5 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
 </div>
 </div>
 </li>

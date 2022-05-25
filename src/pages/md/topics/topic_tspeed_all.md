@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-all"
 title: "Topic - Speed - All"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2035,7 +2035,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>5E77341D-320F-47AF-AB40-A78DD573EE26</p>
 </div>
@@ -2119,7 +2119,7 @@ Keston to Langham;
 $
 \begin{aligned}
 &= \text {Distance from Josham to Langham} - \text {Distance from Josham to Keston} \\\\ 
-&= 26 \ \text {km} - 12 \ \text {km} \\\\
+&= 26 - 12 \\\\
 &= 14 \ \text {km}
 \end{aligned}
 $
@@ -2154,9 +2154,9 @@ $
 \begin{aligned}
 &= \text {Distance from Keston to Moreton} - \text {Distance from Keston to Josham} \\\\ 
 &= 23 \ \text {km} - 14 \ \text {km} \\\\
-&= 9 \ \text {km} \\\\
-&= 9 \times 1000 \ \text {m} \\\\
-&= 9000\ \text {m}
+&= 23 \times 1000 \ \text {m} - 14 \times 1000 \ \text {m} \\\\
+&= 23000 - 14000 \\\\
+&= 9000 \ \text {m}
 \end{aligned}
 $
 
@@ -2191,13 +2191,11 @@ If a tourist cycles at $14 \ \text{km per hour}$, work out how long her journey 
 
 As per the question,
 
-Speed $= 14 km.p.h$
-
 $
 \begin{aligned}
 \text {Distance from Josham to Moreton} &= \text {(Josham to Langham)} + \text {(Langham to Moreton)} \\\\
-                                      &= 26 + 9 \\\\
-                                      &= 35 \ \text {km}
+                                        &= 26 + 9 \\\\
+                                        &= 35 \ \text {km}
 \end{aligned}
 $
 
@@ -2207,7 +2205,8 @@ $
 \begin{aligned}
 \text {Time} &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
              &= \dfrac {35} {14} \\\\
-             &= 2 \ \text {hours}, 30 \ \text {minutes} 
+             &= 2.5 \\\\
+             &= 2 \ \text {hours} \ 30 \ \text {minutes}
 \end{aligned}
 $
 
@@ -2216,7 +2215,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \ \text {hours}, 30 \ \text {minutes}$
+$2 \ \text {hours} \ 30 \ \text {minutes}$
 
 </div>
 </div>
@@ -2228,7 +2227,7 @@ $2 \ \text {hours}, 30 \ \text {minutes}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -3479,11 +3478,13 @@ Josh can walk at $6 \ \text{km}$ per hour. How long will he take to finish the w
 <div class='workings'>
 <div class='working'>
 
-Time $= \dfrac {\text{Distance}} {\text{Speed}}
+Time $= \dfrac {\text{Distance}} {\text{Speed}}$
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Time taken (by Josh)}                         &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
+\text{Time taken by Josh}                           &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
                                                     &= \dfrac {6 \times 6} {6} \\\\
                                                     &= \dfrac {\cancel{6} \times 6} {\cancel{6}} \\\\
                                                     &= 6 \ \text{hours}
@@ -3516,13 +3517,13 @@ Gary can walk at $5 \ \text{km}$ per hour. How far will he still have left to wa
 <div class='workings'>
 <div class='working'>
 
-We know,  Jost took 6 hours to finish walking 36 km.
+We know,  Josh took $6$ hours to finish walking $36$ km.
 
 $
 \begin{aligned}
-\text{Distance Gary (Left)}                         &= \text{Total distance} - \text{Distance Gary (Covered)} \\\\
+\text{Remaining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
                                                     &= 36 \ \text{km} - \text{Speed} \times \text{Time} \\\\
-                                                    &= 36 \ \text{km} - 5 \ \text{km / hour} \times 6 \ \text{hour} \\\\
+                                                    &= 36 \ \text{km} - 5 \ \text{km per hour} \times 6 \ \text{hours} \\\\
                                                     &= 36 - 30 \\\\
                                                     &= 6 \ \text{km}
 \end{aligned}
@@ -4392,7 +4393,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -4543,7 +4544,7 @@ $1.5625 \ \text {km}$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

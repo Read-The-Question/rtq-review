@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tquadraticprompt-oldpr"
 title: "Topic - Quadraticprompt - Old PR"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>

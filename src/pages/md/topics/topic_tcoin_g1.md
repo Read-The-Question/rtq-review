@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-g1"
 title: "Topic - Coin - G1"
-date: 2022-05-25 11:28:55
+date: 2022-05-25 23:11:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -167,6 +167,79 @@ $24$
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>44871CCE-80E9-4654-AF29-D474783C1D63</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In 1990 a new $5 \text{p}$ coin was minted. The old size weighs $5.65\ \text{g}$ while the new size weighs $3.25\ \text{g}$. How much lighter will your pocket be if it contains $\pounds 2$ worth of the new size coins instead of the old size. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Weight for older coins
+
+$
+\begin{aligned}
+\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 20 \times 5} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 5.65 \\\\
+                                 &= 2 \times 20 \times 5.65 \\\\
+                                 &= 226 \ \text {g}
+\end{aligned}
+$
+
+Weight for new coins
+
+$
+\begin{aligned}
+\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 20 \times 5} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 3.25 \\\\
+                                 &= 2 \times 20 \times 3.25 \\\\
+                                 &= 130 \ \text {g}
+\end{aligned}
+$
+
+Difference of weight between older and new coins,
+
+$
+\begin{aligned}
+&= 226 - 130 \\\\
+&= 96 \ \text{g}                                   
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$96 \ \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

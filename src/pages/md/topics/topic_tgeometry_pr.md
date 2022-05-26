@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tgeometry-pr"
 title: "Topic - Geometry - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B245DB80-06AB-4146-8632-C2E68446994E</p>
 </div>
@@ -35,6 +35,8 @@ How many lines of symmetry has a square?
 <div class='workings'>
 <div class='working'>
 
+** TODO: Add diagrams to show all lines of symmetry **
+
 $4$
 
 </div>
@@ -54,12 +56,12 @@ $4$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D30F0974-2B38-4C59-B619-F9A967A19868</p>
 </div>
@@ -107,12 +109,12 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1F0E1A23-FEB9-4030-8F80-C0D56311A323</p>
 </div>
@@ -144,6 +146,8 @@ The diagram shows part of a regular shape along with its two lines of symmetry. 
 <div class='workings'>
 <div class='working'>
 
+** TODO: Add the complete diagram **
+
 a trapezium
 
 </div>
@@ -160,12 +164,12 @@ $\text{a trapezium}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>04ACE684-9AE1-4A89-98F0-A8F72CA19665</p>
 </div>
@@ -212,12 +216,12 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4440F334-A112-481F-AB98-3D9AD28B54BF</p>
 </div>
@@ -240,21 +244,13 @@ Write down the number of:
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Faces}    &= 5 \\\\
-\text{Edges}    &= 9 \\\\
-\text{Vertices} &= 6
-\end{aligned}
-$
-
+%empty%
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5, 9, 6$
-
+%empty%
 </div>
 </div>
 <ul class='subquestion TODO'>
@@ -347,7 +343,7 @@ $6$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1206,134 +1202,6 @@ Octagon and Trapezium
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>20EB0151-9603-4A9B-8AA6-93D45586F5A7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows an equilateral triangle.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the value of $x$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-In an equilateral triangle all three sides are equal.
-
-As per the diagram,
-
-$
-\begin{aligned}
-4x + 5              &= 21 \\\\
-4x                  &= 21 - 5 \\\\
-4x                  &= 16 \\\\
-x                   &= \dfrac {16} {4} \\\\
-x                   &= \dfrac {4 \times 4} {4} \\\\
-x                   &= \dfrac {\cancel{4} \times 4} {\cancel{4}} \\\\
-x                   &= 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the value of $y$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-In an equilateral triangle all three sides are equal in length.
-
-As per the diagram,
-
-$
-\begin{aligned}
-3y - 3              &= 21 \\\\
-3y                  &= 21 + 3 \\\\
-3y                  &= 24 \\\\
-y                   &= \dfrac {24} {3} \\\\
-y                   &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>5AF5AFC7-6421-43C4-B38A-CD7C667BAE96</p>
@@ -1628,7 +1496,7 @@ $\text{Rectangle} \quad \text{Trapezoid} \quad \text{Hexagon}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>C2D737F9-91B0-47F7-90B0-65A55CE61B78</p>
 </div>
@@ -1729,14 +1597,14 @@ $\text {Kite}$
 <div class='workings'>
 <div class='working'>
 
-$\text{Octagon}$
+$\text {Octagon}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Octagon}$
+$\text {Octagon}$
 
 </div>
 </div>
@@ -1748,7 +1616,7 @@ $\text{Octagon}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2219,7 +2087,7 @@ $30 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>D5EA307D-A637-466A-B45F-001616286B7A</p>
 </div>
@@ -2247,13 +2115,11 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 Missing angle $+ 82 + 71 = 180$
 
-Missing angle $= 180 - 82 - 71$
-
 $
 \begin{aligned}
-&= 180 - 82 - 71\\\\
-&= 180 - 153 \\\\
-&= 27 \degree
+\text {Missing angle} &= 180 - 82 - 71 \\\\
+                      &= 180 - 153 \\\\
+                      &= 27 \degree
 \end{aligned}
 $
 
@@ -2273,7 +2139,7 @@ $27 \degree$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

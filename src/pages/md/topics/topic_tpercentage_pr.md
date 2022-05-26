@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-pr"
 title: "Topic - Percentage - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -262,347 +262,6 @@ $\text{Shop C} = \pounds 820$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>8697781B-4AFF-4468-AA7D-11AE8E929A4F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-George plants a tree in his garden which is initially $180 \ \text{cm}$ high.
-
-After the first year it has increased in height by $30\%$. During the following year its height increased by $25\%$.
-
-How tall is the tree at the end of the second year?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the height of the tree at the end of the first year.
-
-If the height increased by $30 \%$, then the new height will be $100 + 30 = 130 \%$ of the previous height. Using that, we get
-
-$
-\begin {aligned}
-\text {Tree height after first year}  &= \dfrac {130} {100} \times 180 \\\\
-                                      &= \dfrac {130 \times 180} {100} \\\\
-                                      &= \dfrac {13\cancel{0} \times 18\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
-                                      &= 13 \times 18 \\\\
-                                      &= 234 \ \text {cm}
-\end {aligned}
-$
-
-Let's calculate the height of the tree at the end of the second year.
-
-If the height increased by $25 \%$, then the new height will be $100 + 25 = 125 \%$ of the previous height. Using that, we get
-
-$
-\begin {aligned}
-\text {Tree height after second year} &= \dfrac {125} {100} \times 234 \\\\
-                                      &= \dfrac {125 \times 234} {100} \\\\
-                                      &= \dfrac {29250} {100} \\\\
-                                      &= 292.5 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-<div class='working'>
-
-We can do both the calculations together and save a little effort.
-
-$
-\begin {aligned}
-\text {Tree height after second year}  &= \dfrac {125} {100} \times \dfrac {130} {100} \times 180 \\\\
-                                       &= \dfrac {125 \times 130 \times 180} {100 \times 100} \\\\
-                                       &= \dfrac {125 \times 13\cancel{0} \times 18\cancel{0}} {100 \times 1\cancel{0}\cancel{0}} \\\\
-                                       &= \dfrac {125 \times 13 \times 18} {100} \\\\
-                                       &= \dfrac {29250} {100} \\\\
-                                       &= 292.5 \ \text{cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$292.5 \ \text {cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>21061717-7F10-4202-99C6-956CC29AFFC1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Freya scored $16$ out of $20$ in her spelling test. Hannah scored $85 \%$ in her spelling test.
-
-Who did better? You must explain your answer.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the percentage score for both.
-
-$
-\begin {aligned}
-\text {Freya's score}      &= \dfrac {16} {20} \times 100 \\\\
-                           &= \dfrac {16 \times 100} {20} \\\\
-                           &= \dfrac {16 \times 5 \times 20} {20} \\\\
-                           &= \dfrac {16 \times 5 \times \cancel{20}} {\cancel{20}} \\\\
-                           &= 16 \times 5 \\\\
-                           &= 80 \% \\\\
-\text {Hannah's score}     &= 85 \%
-\end {aligned}
-$
-
-From the calculation above, Hannah did better than Freya.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Hannah}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>CCEC5B5B-5806-4EE1-84D1-019B559F2867</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these amounts is the cheaper? Circle your answer.
-
-$25 \%$ of $\pounds 64$ or $20 \%$ of $\pounds 75$
-
-Show your working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate both the values.
-
-$
-\begin {aligned}
-\text {First amount}     &= 25 \% \ \text{of} \ \pounds 64 \\\\
-                         &= \dfrac {25} {100} \times 64 \\\\
-                         &= \dfrac {25 \times 64} {100} \\\\
-                         &= \dfrac {25 \times 4 \times 16} {25 \times 4} \\\\
-                         &= \dfrac {\cancel{25} \times \cancel{4} \times 16} {\cancel{25} \times \cancel{4}} \\\\
-                         &= \pounds 16 \\\\
-\text {Second amount}    &= 20 \% \ \text{of} \ \pounds 75 \\\\
-                         &= \dfrac {20} {100} \times 75 \\\\
-                         &= \dfrac {20 \times 75} {100} \\\\
-                         &= \dfrac {20 \times 5 \times 15} {20 \times 5} \\\\
-                         &= \dfrac {\cancel{20} \times \cancel{5} \times 15} {\cancel{20} \times \cancel{5}} \\\\
-                         &= \pounds 15
-\end {aligned}
-$
-
-From the calculation above, $20 \%$ of $\pounds 75$ is cheaper.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20 \%$ of $\pounds 75$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>3535C8D5-DE86-4450-A6FD-9386A9F13C8D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tprofit
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Have a look at the deals ticket vendors are offering: 
-
-Each ticket cost $\pounds 480$. 
-
-| Super Tickets            |
-|:--------------------:    |
-| Buy $2$ get $1$ free     |
-
-| Tickets R US                            |
-|:-------------------------------------:|
-| Buy $3$ get $25 \%$ off total price     |
-
-
-| Ticket Galore                      |
-|:--------------------------------:    |
-| Buy $1$ get $2$ at $40 \%$ off     |
- 
-|         Top Ticket             |
-|:--------------------------:    |
-| Buy $2$ get $1$ half price     |
-
-If I needed $3$ tickets, put the vendors in order (cheapest first).
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the best price of $3$ tickets from each vendor.
-
-**Super Tickets**
-
-$
-\begin  {aligned}
-\text{Cost of } 3 \text{ tickets}     &= 480 \times 2 \\\\
-                                      &= \pounds 960
-\end {aligned}
-$
-
-**Tickets R US**
-
-If the total price is reduced by $25 \%$, then the sale price will be $100 - 25 = 75 \%$ of the original price. Using that, we get
-
-$
-\begin {aligned}
-\text {Cost of} \ 3 \text \ {tickets}      &= 75\% \times 480 \times 3 \\\\
-                                           &= \dfrac{75}{100} \times 480 \times 3 \\\\
-                                           &= \dfrac{75 \times 480 \times 3}{100} \\\\
-                                           &= \dfrac{25 \times 3 \times 4 \times 120 \times 3}{25 \times 4} \\\\
-                                           &= \dfrac{\cancel{25} \times 3 \times \cancel{4} \times 120 \times 3}{\cancel{25} \times \cancel{4}} \\\\
-                                           &= 3 \times 120 \times 3 \\\\
-                                           &= \pounds 1080
-\end {aligned}
-$
-
-**Ticket Galore**
-
-If the price is reduced by $40 \%$, then the sale price will be $100 - 40 = 60 \%$ of the original price. Using that, we get
-
-$
-\begin {aligned}
-\text {Cost of} \ 3 \ \text{tickets}      &= 480 + 60\% \times 480 \times 2 \\\\
-                                          &= 480 + \dfrac{60}{100} \times 480 \times 2 \\\\
-                                          &= 480 + \dfrac{60 \times 480 \times 2}{100} \\\\
-                                          &= 480 + \dfrac{6\cancel{0} \times 48\cancel{0} \times 2}{1\cancel{0}\cancel{0}} \\\\
-                                          &= 480 + 6 \times 48 \times 2 \\\\
-                                          &= 480 + 576 \\\\
-                                          &= \pounds 1056
-\end {aligned}
-$
-
-
-**Top Ticket**
-
-If the price is reduced by $\dfrac{1}{2}$, then the sale price will be $1 - \dfrac{1}{2} = \dfrac{1}{2}$ of the original price. Using that, we get
-
-$
-\begin {aligned}
-\text{Cost of} \ 3 \ \text{tickets}      &= 480 \times 2 + \dfrac{1}{2} \times 480 \\\\
-                                         &= 960 + \dfrac{480}{2} \\\\
-                                         &= 960 + 240 \\\\
-                                         &= \pounds 1200
-\end {aligned}
-$
-
-Using the calculation above, the vendors in order (cheapest first):
-
-|  Vendor       | Price          |
-|:-------------:|:--------------:|
-| Super Tickets | $\pounds 960$  |
-| Ticket Galore | $\pounds 1056$ |
-| Tickets R US  | $\pounds 1080$ |
-| Top Ticket    | $\pounds 1200$ |
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top Ticket}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1099,6 +758,7 @@ $
 \begin{aligned}
 \text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
                     &= \dfrac {90 \times 100} {100} \\\\
+                    &= \dfrac {90 \times \cancel {100} } {\cancel {100} } \\\\
                     &= 90 \%
 \end{aligned}
 $
@@ -4567,6 +4227,104 @@ $15 \%$
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
+<p>09B08DAF-540F-4115-B9CB-3DA13E21C2F3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tmoney
+</li>
+<li>
+tprofit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Neil lends Rodger $\pounds 4$. Rodger pays back $30 \%$ of this the next day. How much does he still owe Neil?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert pounds to pence.
+
+$
+\begin{aligned}
+\text{Total amount} &= \pounds 4 \\\\
+&= 4 \times 100 \text{p} \\\\
+&= 400 \text{p}
+\end{aligned}
+$
+
+Rodger pays back $30 \%$. So,
+
+$
+\begin{aligned}
+\text{Amount paid} &= 30\% \text{ of } 400 \\\\
+&= \dfrac {30} {100} \times 400 \\\\
+&= \dfrac {30 \times 400} {100} \\\\
+&= \dfrac {30 \times 4 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 30 \times 4 \\\\
+&= 120  \text{p} 
+\end{aligned}
+$
+
+Let's calculate the amount Rodger still owes Neil.
+
+$
+\begin{aligned}
+\text{Amount owed} &= 400 - 120 \\\\
+&= 280 \text{p} \\\\
+&= \pounds 2.80
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Can we do better than the previous solution? 
+
+If Rodger has paid back $30\%$ of the money, he still has $70\%$ to pay. 
+So we can directly calculate the amount owed and save on calculating the amount paid as well.
+
+$
+\begin{aligned}
+\text{Amount owed} &= 70\% \text{ of } 400 \\\\
+&= \dfrac {70} {100} \times 400 \\\\
+&= \dfrac {70 \times 400} {100} \\\\
+&= \dfrac {70 \times 4 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 70 \times 4 \\\\
+&= 280 \\\\
+&= 280 \text{p} \\\\
+&= \pounds 2.80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.80$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
 <p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
 </div>
 <div class='topics'>
@@ -4779,57 +4537,6 @@ $75 \ \text{pence}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>81E1B098-E3D4-4FFB-8782-94935FEFD938</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $30 \%$ of $\pounds 16.80$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 30 \% \ \text {of} \ \pounds 16.80 \\\\
-&=\dfrac {30} {100} \times 16.8 \\\\
-&=\dfrac {30 \times 16.8} {100} \\\\
-&=\dfrac {504} {100} \\\\
-&= \pounds 5.04
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 5.04$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>

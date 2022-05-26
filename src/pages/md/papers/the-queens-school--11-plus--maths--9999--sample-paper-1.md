@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>The Queens' School</h1>
@@ -110,7 +110,7 @@ $447$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>F7B20DEF-90DB-4F1C-858F-9F35E931F593</p>
 </div>
@@ -264,9 +264,9 @@ $2.45\, kg$ in grams
 
 $
 \begin{aligned}
-&= 2.45 \ \text{kg} \\\\
-&= 2.45 \times 1000 \text{g} \\\\
-&= 2450 \ \text{g}
+&= 2.45 \ \text {kg} \\\\
+&= 2.45 \times 1000 \text {g} \\\\
+&= 2450 \text {g}
 \end{aligned}
 $
 
@@ -418,7 +418,7 @@ $\frac {9} {100}$ as a decimal
 $
 \begin{aligned}
 &= \dfrac {9} {100} \\\\
-&== 0.09 \\\\
+&= 0.09 \\\\
 \end{aligned}
 $
 
@@ -439,12 +439,12 @@ $0.09$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>2C62B880-A422-46C5-81F2-06361F7646FC</p>
 </div>
@@ -495,8 +495,8 @@ The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+4)}}  
-&&  \footnotesize{\maroonC{(+4)}}    
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
 &&  \footnotesize{\maroonC{(+4)}}
 &&  \footnotesize{\maroonC{(+4)}} \\
 11,  &&    15,  &&  19,  &&   23, && \ldots
@@ -505,8 +505,8 @@ $
 
 $
 \begin{aligned}
-\text{Next number}      &= 23 + 4 \\\\
-                        &= 27 \\\\                 
+\text{Next number}  &= 23 + 4 \\\\
+                    &= 27 \\\\
 \end{aligned}
 $
 
@@ -542,9 +542,9 @@ The difference between the terms is $5$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-5)}}  
+&   \footnotesize{\maroonC{(-5)}}
 &&  \footnotesize{\maroonC{(-5)}}
-&&  \footnotesize{\maroonC{(-5)}}    
+&&  \footnotesize{\maroonC{(-5)}}
 &&  \footnotesize{\maroonC{(-5)}} \\
 17,  &&    12,  &&  7,  &&   2, && \ldots
 \end{matrix}
@@ -552,8 +552,8 @@ $
 
 $
 \begin{aligned}
-\text{Next number}              &= 2 - 5 \\\\
-                                &= -3                   
+\text{Next number}  &= 2 - 5 \\\\
+                    &= -3
 \end{aligned}
 $
 
@@ -588,9 +588,9 @@ Let's find the difference between the consecutive terms of the sequence.
 The difference between the terms is 1 more than the difference between the previous sequence. Hence the sequence would be :
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}  
+&   \footnotesize{\maroonC{(+2)}}
 &&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+4)}} 
+&&  \footnotesize{\maroonC{(+4)}}
 &&  \footnotesize{\maroonC{(+5)}} \\
 2,  &&    4,  &&  7,  &&   11 , && \ldots
 \end{matrix}
@@ -598,8 +598,8 @@ $
 
 $
 \begin{aligned}
-\text{Next number}              &= 11 + 5 \\\\
-                                &= 16                   
+\text{Next number}  &= 11 + 5 \\\\
+                    &= 16
 \end{aligned}
 $
 
@@ -620,7 +620,7 @@ $16$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -697,11 +697,11 @@ $2,\:\:\:5 000,\:\:\:50 000,\:\:\:2 000,\:\:\:200,\:\:\:50,\:\:\:20$
 <div class='workings'>
 <div class='working'>
 
-$2,\quad  \boxed{5 000},\quad 50 000,\quad 2 000,\quad  \boxed{200},\quad 50,\quad 20$ 
+$2,\quad  \boxed{5 000},\quad 50 000,\quad 2 000,\quad  \boxed{200},\quad 50,\quad 20$
 
 Or
 
-$2,\quad 5 000,\quad  \boxed {50 000},\quad 2 000,\quad 200,\quad 50,\quad  \boxed {20}$ 
+$2,\quad 5 000,\quad  \boxed {50 000},\quad 2 000,\quad 200,\quad 50,\quad  \boxed {20}$
 
 </div>
 </div>
@@ -921,7 +921,7 @@ One $2 \text{p}$ coin.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>30F8E595-EE50-4532-916C-D174DB902094</p>
 </div>
@@ -946,14 +946,14 @@ $0.56 , \quad   0.506 , \quad   0.605 , \quad   0.65 , \quad 0.056$
 
 Let's arrange the decimals in ascending order,
 
-$0.056 , \quad <  0.506 , \quad <  0.56 , \quad <  0.605 , \quad < 0.65$
+$0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.056 , \quad <  0.506 , \quad <  0.56 , \quad <  0.605 , \quad < 0.65$
+$0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
 
 </div>
 </div>
@@ -962,7 +962,7 @@ $0.056 , \quad <  0.506 , \quad <  0.56 , \quad <  0.605 , \quad < 0.65$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmultiplication-pr"
 title: "Topic - Multiplication - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1433,7 +1433,7 @@ $70$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>29826990-7CF3-48F9-A4E1-518D0B0296D5</p>
 </div>
@@ -1454,7 +1454,8 @@ Write in the missing digits to make this correct.
 <div class='workings'>
 <div class='working'>
 
-Let the whole value $=a$
+Let's take the whole number (with missing digits) $=a$
+
 $
 \begin{aligned}
 a \times 7  &=  896 \\\\ 
@@ -1464,6 +1465,8 @@ a           &=  \dfrac {128 \times \cancel{7}} {\cancel{7}} \\\\
 a           &=  128
 \end{aligned}
 $
+
+The missing digits are $1 \ \text{and} 8$.
 
 </div>
 </div>
@@ -1479,7 +1482,7 @@ $1 \ \text{and} 8$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -2091,106 +2094,6 @@ $41096$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>526434CB-3774-430F-83A9-36B1B0D89647</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%waffles%
-
-$297 \times 8$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-            &   2   &   9   &   7 \\
-   \times   &       &       &   8 \\
-\hline
-   2        &   3   &   7   &   6 \\
-\hline
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2376$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>179E36BA-F4C4-40DB-B15A-730F51236EB0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the missing digits in this multiplication:
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-              &   3   &   \red {3}        &   \red {8} \\
-              &       &   \times          &   7 \\
-\hline
-   \red {2}   &   3   &   \red {6}        &   6 \\
-\hline
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3, \ 8, \ 2, \ 6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>42D920DA-04E3-422A-89A2-AF9EEC3650DF</p>
 </div>
 <div class='topics'>
@@ -2365,101 +2268,6 @@ $26748$
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>53B9B068-60FD-45CE-85C3-B77303DB0A78</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Multiply $57$ by $8$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-            &   5   &   7 \\
-   \times   &       &   8 \\
-\hline
-   4        &   5   &   6 \\
-\hline
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$456$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>5F719424-B3ED-46B5-B82A-249942EEFDD3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $578 \times 4$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-            &   5   &   7   &   8 \\
-   \times   &       &       &   4 \\
-\hline
-   2        &   3   &   1   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2312$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
@@ -2911,9 +2719,9 @@ $19180$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>6E5DD2C8-0ED8-4655-8D23-42409D1824F7</p>
+<p>41576BB3-630B-4093-87FE-EF0A153AB637</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2924,7 +2732,7 @@ tmultiplication
 </div>
 <div class='question question'>
 
-Work out $254 \times 80$.
+Work out $418 \times 70$.
 
 </div>
 <div class='workings'>
@@ -2932,13 +2740,13 @@ Work out $254 \times 80$.
 
 $
 \begin{array}{cccccccccccccc}
-       &        &   2   &   5   &   4 \\
-       & \times &       &   8   &   0 \\
+            &       &       4       & 1     & 8     \\
+{}\times    &       &               & 7     & 0     \\
 \hline
-       &        &   0   &   0   &   0 \\
-   2   &   0    &   3   &   2   &   0 \\
+            &       &       0       & 0     & 0     \\
+2           &      9&       2       & 6     & 0     \\
 \hline
-   2   &   0    &   3   &   2   &   0
+2           &      9&       2       & 6     & 0
 \end{array}
 $
 
@@ -2947,89 +2755,37 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20320$
+$29260$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>A4EADF93-B120-460C-B5F1-D9351665FB41</p>
+<p>A9D3F12F-85C8-4CF8-8225-C1BB3ABCA272</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-taddition
-</li>
 <li>
 tmultiplication
 </li>
-<li>
-tsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the product of the sum of $6$ and $3$ with the difference between $2$ and $10$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= (6 + 3) \times (2 - 10) \\\\
-&= 9 \times (-8) \\\\
-&= -72
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-72$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>A1E17D61-21D9-42A4-9375-6EFCBEE2EB18</p>
-</div>
-<div class='topics'>
-<ul>
 <li>
 tdecimal
 </li>
-<li>
-tmultiplication
-</li>
 </ul>
 </div>
 <div class='question question'>
 
-Work out $2.35 \times 1.8$.
+Work out $2.42 \times 1.6$.
 
 </div>
 <div class='workings'>
@@ -3038,38 +2794,38 @@ Work out $2.35 \times 1.8$.
 Let's first multiply the numbers ignoring the decimal points.
 
 $
-\begin {array}{cccccccccccccc}
-         &     2     &     3     &     5 \\
-\times   &           &     1     &     8 \\
-\hline 
-   1     &     8     &     8     &     0 \\
-   2     &     3     &     5     &     0 \\
-\hline 
-   4     &     2     &     3     &     0
-\end {array}
+\begin{array}{cccccccccccccc}
+            &   2  &   4 &    2 \\
+\times      &      &   1 &    6 \\
+\hline  
+1           &   4  &   5 &    2 \\ 
+2           &   4  &   2 &    0 \\
+\hline  
+3           &   8  &   7 &    2
+\end{array}
 $
 
 Between the two numbers, the total number of digits after the decimal point is three.
 
-Let's account for the decimal point now. 
+Let's account for the decimal point now.
 
-$= 4.23$
+$= 3.872$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4.23$
+$3.872$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -3174,120 +2930,6 @@ $51$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>ED448CD6-9057-4F77-BD62-61F1272214D8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmultiplication
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $0.03 \times 3200$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.03 \times 3200 \\\\
-&= \dfrac {3} {100} \times 3200 \\\\
-&= \dfrac {3 \times 3200} {100} \\\\
-&= \dfrac {3 \times 32\cancel{00}} {1\cancel{00}} \\\\
-&= 3 \times 32 \\\\
-&= 96
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$96$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>091E6F1C-295F-45D6-A212-41256EE84A75</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmultiplication
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $2.35 \times 3000$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first multiply the numbers ignoring the decimal points and zeroes.
-
-$
-\begin{array}{cccccccccccccc}
-            &       2       & 3     & 5 \\
-{}\times    &               &       & 3 \\
-\hline 
-            &       7       & 0     & 5
-\end{array}
-$
-
-Let's account for the three zeroes now.
-
-$= 705000$
-
-The total number of digits after the decimal point is two.
-
-Let's account for the decimal point now.
-
-$= 7050$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7050$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

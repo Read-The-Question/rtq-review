@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-oldpr"
 title: "Topic - Sequence - Old PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -241,65 +241,6 @@ $52.4  \quad 52.402 \quad 52.42$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>2349EC95-009A-4E52-B1CF-35DE1F43DFBA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the missing number in this list $33, 44, 56, \ldots, 83, 98$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+11)}} 
-&&  \footnotesize{\maroonC{(+12)}}  
-&&  \footnotesize{\maroonC{(+13)}}   
-&&  \footnotesize{\maroonC{(+14)}}  
-&&  \footnotesize{\maroonC{(+15)}} \\
-33,  &&      44,  &&      56,  &&      \ldots,  &&      83,      &&      98
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 56 + 13 \\\\
-                        &= 69
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$69$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>

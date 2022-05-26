@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-all"
 title: "Topic - Angle - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -173,7 +173,7 @@ $300 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>86877522-C3FB-43F4-AD0D-8D56F9CB41E2</p>
 </div>
@@ -247,12 +247,12 @@ $27 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>62828D73-0B00-4BFC-AA4D-B041295BF244</p>
 </div>
@@ -354,12 +354,12 @@ $135 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1560E53F-1121-4690-82F4-852BE2494204</p>
 </div>
@@ -413,7 +413,7 @@ Calculate the missing angles $p, q$ and $r$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+As we know, the sum of angles on a straight line is $180 \degree$.
 
 As per the diagram,
 
@@ -491,7 +491,7 @@ $47 \degree$
 <div class='workings'>
 <div class='working'>
 
-As per the diagram, the rhombus is having its opposite sides equal, So which means the angles opposite are also equal.
+As per the diagram, the rhombus is having its opposite sides equal, Which means the angles opposite are also equal.
 
 As we know, the sum of angles in a triangle is $180 \degree$.
 
@@ -523,7 +523,7 @@ $16 \degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1873,24 +1873,19 @@ Find the size of angle $k$.
 <div class='workings'>
 <div class='working'>
 
+As we know, the sum of angles on a straight line is $180 \degree$ and 
+
+the sum of angles of a triangle is $180 \degree$. So,
+
 As per the diagram,
-
-As we know, the sum of angles on a straight line is $180 \degree$.
-
-the second angle $= (180 \degree - 130 \degree)$.
-
-the third angle $= (180 \degree - 85 \degree)$
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin {aligned}
-k + \text {Second angle} + \text {Third angle}  &= 180 \degree \\\\
-k + (180 - 130) + (180 - 85)                    &= 180 \\\\
-k + 50 + 95                                     &= 180 \\\\
-k + 145                                         &= 180 \\\\
-k                                               &= 180 - 145 \\\\
-k                                               &= 35 \degree
+k + (180 \degree - 130 \degree) + (180 \degree - 85 \degree)    &= 180 \degree \\\\
+k + 50 + 95                                                     &= 180 \\\\
+k + 145                                                         &= 180 \\\\
+k                                                               &= 180 - 145 \\\\
+k                                                               &= 35 \degree
 \end {aligned}
 $
 
@@ -2236,6 +2231,9 @@ tangle
 </li>
 <li>
 tclock
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -7724,9 +7722,9 @@ As per the diagram,
 
 $
 \begin{aligned}
-90 + 35 + x              &= 180 \degree \\\\
-x                        &= 180 - 90 - 35 \\\\
-x                        &= 55 \degree
+90 \degree + 35 \degree + x \degree      &= 180 \degree \\\\
+x                                        &= 180 - 90 - 35 \\\\
+x                                        &= 55 \degree
 \end{aligned}
 $
 
@@ -8275,7 +8273,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>05657E57-5AAE-47F6-9CCF-40E96CD77C36</p>
 </div>
@@ -8395,7 +8393,7 @@ $36 \degree$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -8626,7 +8624,7 @@ The angles in a triangle always add up to $180 \degree$ . In the triangle shown 
 
 As per the question,
 
-We know that the sum of all angles of a triangle $= 180 \degree$.
+We know that the sum of all angles of a triangle is $180 \degree$.
 
 $
 \begin{aligned}
@@ -8641,7 +8639,7 @@ c                                             &= 20 \degree
 \end{aligned}
 $
 
-Let's find angel $b$
+Let's find angle $b$
 
 $
 \begin{aligned}
@@ -8667,7 +8665,7 @@ $
 
 Alternative Solution
 
-We know that the sum of all angles of a triangle $= 180 \degree$.
+We know that the sum of all angles of a triangle is $180 \degree$.
 
 As per the question,
 
@@ -8718,7 +8716,7 @@ $140 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9</p>
 </div>
@@ -8771,7 +8769,7 @@ $150 \degree$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -9170,7 +9168,7 @@ $\text{angle Q}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>8C58A03E-ED57-4E53-AB3D-E2B7AC28475B</p>
 </div>
@@ -9217,9 +9215,9 @@ Calculate the angles marked with letters on the following diagrams.
 
 $
 \begin{aligned}
-135 \degree + \text {a \degree} &=  180 \degree \\\\
-\text { a\degree}               &=  180 \degree - 135 \degree \\\\
-\text { a\degree}               &=  45 \degree 
+135 + \text {a}          &=  180 \\\\
+\text {a}               &=  180 - 135 \\\\
+\text {a}               &=  45 \degree
 \end{aligned}
 $
 
@@ -9251,10 +9249,10 @@ $45 \degree$
 
 $
 \begin{aligned}
-174 \degree + \text {e \degree} + 90 \degree &=  360 \degree \\\\
-\text {e \degree} + 264 \degree              &=  360 \degree \\\\
-\text {e \degree}                            &=  360 \degree - 264 \degree \\\\
-\text {e \degree}                            &=  96 \degree
+174 + \text {e} + 90    &=  360 \\\\
+\text {e} + 264         &=  360 \\\\
+\text {e}               &=  360 - 264 \\\\
+\text {e}               &=  96 \degree
 \end{aligned}
 $
 
@@ -9284,21 +9282,23 @@ $96 \degree$
 <div class='workings'>
 <div class='working'>
 
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
 $
 \begin{aligned}
-62 \degree + 45 \degree + \text {f \degree} &= 180 \degree \\\\
-\text {f \degree} + 107 \degree             &= 180 \degree \\\\
-\text {f \degree}                           &= 180 \degree - 107 \degree  \\\\
-\text {f \degree}                           &= 73 \degree
+62 + 45 + \text {f} &= 180 \\\\
+\text {f} + 107     &= 180 \\\\
+\text {f}           &= 180 - 107 \\\\
+\text {f}           &= 73 \degree
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {f \degree} + \text {g \degree} &=  180 \degree \\\\
-73 \degree + \text {g \degree}        &=  180\degree \\\\
-\text {g \degree}                     &=  180 \degree - 73 \degree \\\\
-\text {g \degree}                     &=  107 \degree
+\text {f} + \text {g} &=  180 \\\\
+73 + \text {g}        &=  180 \\\\
+\text {g}             &=  180 - 73 \\\\
+\text {g}             &=  107 \degree
 \end{aligned}
 $
 
@@ -9319,7 +9319,7 @@ $73 \degree, 107 \degree$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -11520,7 +11520,7 @@ $100 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>891C1C55-B5B1-425B-8595-6A3DDCA6BB8B</p>
 </div>
@@ -11585,7 +11585,7 @@ $108 \degree$
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -12369,7 +12369,7 @@ $110 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>D5EA307D-A637-466A-B45F-001616286B7A</p>
 </div>
@@ -12397,13 +12397,11 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 Missing angle $+ 82 + 71 = 180$
 
-Missing angle $= 180 - 82 - 71$
-
 $
 \begin{aligned}
-&= 180 - 82 - 71\\\\
-&= 180 - 153 \\\\
-&= 27 \degree
+\text {Missing angle} &= 180 - 82 - 71 \\\\
+                      &= 180 - 153 \\\\
+                      &= 27 \degree
 \end{aligned}
 $
 
@@ -12423,7 +12421,7 @@ $27 \degree$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>St Francis' College</h1>
@@ -304,7 +304,7 @@ $47$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>0CC40F6E-A0EB-4D96-A29B-510F9BBC8915</p>
 </div>
@@ -379,10 +379,12 @@ How many more people liked crisps than biscuits?
 <div class='workings'>
 <div class='working'>
 
+As per the bar chart,
+
 $
 \begin{aligned}
-&= 15 - 7 \\\\
-&= 8
+\text {Crisp - Biscuits} &= 15 - 7 \\\\
+                         &= 8
 \end{aligned}
 $
 
@@ -412,10 +414,12 @@ How many friends did she ask in total?
 <div class='workings'>
 <div class='working'>
 
+As per the bar chart,
+
 $
 \begin{aligned}
-\text{Total friends} &=  5 + 7 + 14 + 15 + 11 \\\\
-                     &=  52
+\text{Total friends} &= 5 + 7 + 14 + 15 + 11 \\\\
+                     &= 52
 \end{aligned}
 $
 
@@ -436,12 +440,12 @@ $52$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>C2D737F9-91B0-47F7-90B0-65A55CE61B78</p>
 </div>
@@ -542,14 +546,14 @@ $\text {Kite}$
 <div class='workings'>
 <div class='working'>
 
-$\text{Octagon}$
+$\text {Octagon}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Octagon}$
+$\text {Octagon}$
 
 </div>
 </div>
@@ -561,7 +565,7 @@ $\text{Octagon}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1157,7 +1161,7 @@ $\dfrac {3} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>422F78A1-EBFB-4834-9E93-8E37FE51E544</p>
 </div>
@@ -1235,14 +1239,14 @@ What does this word mean?
 <div class='workings'>
 <div class='working'>
 
-$\text {Obtuse angle is any angle greater than 90\degree}$
+$\text {Obtuse angle is any angle greater than 90\degree but less than 180 \degree}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Obtuse angle is any angle greater than 90\degree}$
+$\text {Obtuse angle is any angle greater than 90 \degree but less than 180 \degree}$
 
 </div>
 </div>
@@ -1254,7 +1258,7 @@ $\text {Obtuse angle is any angle greater than 90\degree}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1803,7 +1807,7 @@ $\pounds 2.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>2D66279A-3B8B-479F-AC1F-E867CF685CAD</p>
 </div>
@@ -1828,7 +1832,8 @@ Find the mean
 
 $
 \begin{aligned}
-\text {Mean} &= \dfrac {7 + 2 + 12 + 10 + 5 + 3 + 7 + 11 + 6 + 4} {10} \\\\
+\text {Mean} &= \dfrac {\text {Total goals scored}} {\text {Number of games}} \\\\
+             &= \dfrac {7 + 2 + 12 + 10 + 5 + 3 + 7 + 11 + 6 + 4} {10} \\\\
              &= \dfrac {67} {10} \\\\
              &= 6.7
 \end{aligned}
@@ -1848,7 +1853,7 @@ $6.7$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2026,7 +2031,7 @@ $\pounds {5.80}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>8C58A03E-ED57-4E53-AB3D-E2B7AC28475B</p>
 </div>
@@ -2073,9 +2078,9 @@ Calculate the angles marked with letters on the following diagrams.
 
 $
 \begin{aligned}
-135 \degree + \text {a \degree} &=  180 \degree \\\\
-\text { a\degree}               &=  180 \degree - 135 \degree \\\\
-\text { a\degree}               &=  45 \degree 
+135 + \text {a}          &=  180 \\\\
+\text {a}               &=  180 - 135 \\\\
+\text {a}               &=  45 \degree
 \end{aligned}
 $
 
@@ -2107,10 +2112,10 @@ $45 \degree$
 
 $
 \begin{aligned}
-174 \degree + \text {e \degree} + 90 \degree &=  360 \degree \\\\
-\text {e \degree} + 264 \degree              &=  360 \degree \\\\
-\text {e \degree}                            &=  360 \degree - 264 \degree \\\\
-\text {e \degree}                            &=  96 \degree
+174 + \text {e} + 90    &=  360 \\\\
+\text {e} + 264         &=  360 \\\\
+\text {e}               &=  360 - 264 \\\\
+\text {e}               &=  96 \degree
 \end{aligned}
 $
 
@@ -2140,21 +2145,23 @@ $96 \degree$
 <div class='workings'>
 <div class='working'>
 
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
 $
 \begin{aligned}
-62 \degree + 45 \degree + \text {f \degree} &= 180 \degree \\\\
-\text {f \degree} + 107 \degree             &= 180 \degree \\\\
-\text {f \degree}                           &= 180 \degree - 107 \degree  \\\\
-\text {f \degree}                           &= 73 \degree
+62 + 45 + \text {f} &= 180 \\\\
+\text {f} + 107     &= 180 \\\\
+\text {f}           &= 180 - 107 \\\\
+\text {f}           &= 73 \degree
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {f \degree} + \text {g \degree} &=  180 \degree \\\\
-73 \degree + \text {g \degree}        &=  180\degree \\\\
-\text {g \degree}                     &=  180 \degree - 73 \degree \\\\
-\text {g \degree}                     &=  107 \degree
+\text {f} + \text {g} &=  180 \\\\
+73 + \text {g}        &=  180 \\\\
+\text {g}             &=  180 - 73 \\\\
+\text {g}             &=  107 \degree
 \end{aligned}
 $
 
@@ -2175,7 +2182,7 @@ $73 \degree, 107 \degree$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

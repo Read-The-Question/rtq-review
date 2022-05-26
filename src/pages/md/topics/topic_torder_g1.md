@@ -1,9 +1,73 @@
 ---
 slug: "topics/topic-torder-g1"
 title: "Topic - Order - G1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>D20EC22D-8AE9-44E9-AFFD-3D12B8D96072</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put these fractions in ascending order of size.
+
+$\dfrac{3}{5} \quad \dfrac{12}{18} \quad \dfrac{9}{10} \quad\dfrac{14}{20}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $5, 18, 10, 20 = 180$
+
+$
+\begin{aligned}
+&= \dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {9} {10} \quad\dfrac {14} {20} \\\\
+&= \dfrac {3 \times 36} {5 \times 36}, \quad \dfrac {12 \times 10} {18 \times 10}, \quad \dfrac {9 \times 18} {10 \times 18} \quad\dfrac {14 \times 9} {20 \times 9} \\\\
+&= \dfrac {108} {180}, \quad \dfrac {120} {180}, \quad \dfrac{162} {180} \quad\dfrac {126} {180}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin {aligned}
+&= \dfrac {108} {180}, \quad \dfrac {120} {180}, \quad  \dfrac {126} {180}, \quad \dfrac {162} {180} \\\\
+&= \dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9} {10}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9} {10}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
@@ -1710,6 +1774,56 @@ $\dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>2C461D4B-A0D4-4142-815D-87E7AEDBA08F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put these numbers in order of size, starting with the LARGEST:
+
+$7.7, 7.77, 7, 7.07, 7.707$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7.7, \quad 7.77, \quad 7, \quad 7.07, \quad 7.707 \\\\
+&= 7.700, \quad 7.770, \quad 7, \quad 7.070, \quad 7.707 \\\\
+& \text{Let's put them in descending order now.} \\\\
+&= 7.770> \quad 7.707> \quad 7.700> \quad 7.070> \quad 7 \\\\
+&= 7.77> \quad 7.707> \quad 7.7> \quad 7.07> \quad 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.77, \quad 7.707, \quad 7.7, \quad 7.07, \quad 7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>

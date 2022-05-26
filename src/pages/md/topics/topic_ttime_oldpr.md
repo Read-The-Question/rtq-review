@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-oldpr"
 title: "Topic - Time - Old PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -188,67 +188,6 @@ $4 \ \text{minutes}$
 </div>
 <div class='rag'>
 <p>rag_jn_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>08CCE0CE-B784-477D-8641-E1FBE38BAD33</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Alison watches two quiz programmes on TV. The first 
-is on from $6.35 \ \text{pm}$ until $7.15 \ \text{pm}$, the 
-second lasts for half an hour. Later on, she watches 
-a film from $9.30 \ \text{pm}$ until $11.25 \ \text{pm}$. In 
-hours and minutes, how long has she spent watching TV?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{First quiz duration}  &= 7.15 \ \text{pm} - 6.35 \ \text{pm} \\\\
-                            &= 40 \ \text{min} \\\\
-\text{Second quiz duration} &= 30 \ \text{min} \\\\
-\text{Film duration}        &= 11.25 \ \text{pm} - 9.30 \ \text{pm} \\\\
-                            &= 1 \ \text{hour} \ 55 \ \text{min}
-\end{aligned}
-$
-
-Let's calculate the total time spent watching TV.
-
-$
-\begin{aligned}
-\text{Total time}   &= 40 \ \text{min} + 30 \ \text{min} + 1 \ \text{hour} \ 55 \ \text{min} \\\\
-                    &= 3 \ \text{hour} \ 5 \ \text{minutes} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{hour} \ 5 \ \text{minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
 </div>
 </div>
 </li>

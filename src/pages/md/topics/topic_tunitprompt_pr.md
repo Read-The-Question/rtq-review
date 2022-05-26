@@ -1,118 +1,9 @@
 ---
 slug: "topics/topic-tunitprompt-pr"
 title: "Topic - Unitprompt - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>2D142A42-5829-4132-A5C5-363CD6339B26</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bob is very proud of his new car. It is $370 \ \text{cm}$ long.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Convert $370 \ \text{cm}$ in to metres
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 370 \ \text {cm} \\\\
-&= \dfrac {370} {100} \ \text {m} \\\\
-&= 3.7 \ \text {m}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.7 \ \text{m}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Convert $370 \ \text{cm}$ into millimetres
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 370 \ \text {cm} \\\\
-&= 370 \times 10 \ \text {mm} \\\\
-&= 3700 \ \text {mm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3700 \ \text {mm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
@@ -1438,21 +1329,12 @@ $100 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>92ED95C5-5173-4603-A6B6-7ACBF5D59202</p>
+<p>4D18C421-3F30-45CC-ACE9-047E6EF86035</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-<li>
-tcoin
-</li>
 <li>
 tunitprompt
 </li>
@@ -1460,57 +1342,46 @@ tunitprompt
 </div>
 <div class='question question'>
 
-When I emptied my pockets recently I found I had a mixture of $10 \text{p}$, $20 \text{p}$, $50 \text{p}$ and $\pounds 1$ coins. 
-When I counted the value of all the coins, the total amount came to $\pounds 7.20$ and there were equal numbers of each coin. 
-
-How many coins were there altogether?
+Ollie is making some small snacks for a party. He cuts 
+$1.2 \ \text{kg}$ of cheese into a number 
+of $15 \ \text{g}$ pieces.  How many pieces does he have?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the count of coins of each denomination $= c$.
-
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
-
-As per the question,
+It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
 
 $
 \begin{aligned}
-10 \times c + 20 \times c + 50 \times c + 100 \times c   &= \pounds 7.20 \\\\
-10c + 20c + 50c + 100c                                   &= 720 \\\\
-180c                                                     &= 720 \\\\
-c                                                        &= \dfrac {720} { 180} \\\\
-c                                                        &= \dfrac {180 \times 4} { 180} \\\\
-c                                                        &= \dfrac {\cancel{180} \times 4} { \cancel{180}} \\\\
-c                                                        &= 4
+\text{Number of pieces}     &= \dfrac {\text{Weight of cheese} } {\text{Weight of a piece}} \\\\
+                            &= \dfrac { 1.2 \ \text{kg} } { 15 \ \text{g}} \\\\
+                            &= \dfrac { 1.2 \times 1000 \ \text{g} } { 15 \ \text{g}} \\\\
+                            &= \dfrac { 1200 } { 15 } \\\\
+                            &= \dfrac { 3 \times 4 \times 5 \times 20 } { 3 \times 5 } \\\\
+                            &= \dfrac { \cancel{3} \times 4 \times \cancel{5} \times 20 } { \cancel{3} \times \cancel{5} } \\\\
+                            &= 4 \times 20 \\\\
+                            &= 80
 \end{aligned}
-$ 
-
-There are $4$ coins of each type and $4$ different types of coins.
-
 $
-\begin{aligned}
-\text{Total coins}   &=  4 \times 4 \\\\
-                     &= 16 \ \text{coins}
-\end{aligned}
-$   
+
+Number of pieces $= 80$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$16$
+$80$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

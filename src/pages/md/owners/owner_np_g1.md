@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-np-g1"
 title: "Owner - Nalini Prakash - G1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1514,6 +1514,68 @@ $2$
 
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>4949CC7C-97FA-4954-8FC3-B05DB7B7F7C1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle is $6\ \text{cm}$ longer than it is wide. Its perimeter is $32\ \text{cm}$. Find its area.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the wide $= a$
+
+As per the question length $= 6 + a$
+
+$
+\begin{aligned}
+ 2 \times a + 2 \times (6 + a)  &= 32 \\\\
+ 2a + 12 + 2a                   &= 32 \\\\
+ 4a                             &= 32 - 12 \\\\
+ a                              &= \dfrac {20} {4} \\\\
+ a                              &= \dfrac {5 \times 4} {4} \\\\
+ a                              &= \dfrac {5 \times \cancel {4} } {\cancel {4} } \\\\
+ a                              &= 5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area}  &= 5 \times (6 + 5) \\\\
+             &= 5 \times 11 \\\\
+             &= 55 \text{ cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55 \text{ cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>

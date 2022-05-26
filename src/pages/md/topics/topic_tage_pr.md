@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-pr"
 title: "Topic - Age - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -56,64 +56,6 @@ $1953$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>EE87B35D-AFC8-4F45-A49A-D40F8F3B3AA8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If Tom is half his mum’s age and together their ages add up to $72$, how old is Tom?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let Tom's age $= a$
-
-As per the question,
-
-$
-\begin {aligned}
-a + 2a                     &= 72 \\\\
-3a                         &= 72 \\\\
-a                          &= \dfrac {72} {3} \\\\
-a                          &= \dfrac {24 \times 3} {3} \\\\
-a                          &= \dfrac {24 \times \cancel{3}} {\cancel{3}} \\\\
-a                          &= 24
-\end {aligned}
-$
-
-Tom's age $= 24$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -459,9 +401,9 @@ $
                                          &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
                                          &= 5
 \end{aligned}
+$
 
 Dad is $5$ times older than Dave.
-$
 
 </div>
 </div>
@@ -787,7 +729,7 @@ $
                         &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
                         &= 2 \times 3 \\\\
                         &= 6 \\\\
-\text{Total age}        &= \text{Age (Richard) + Age (Adam) + Age (Will)} \\\\
+\text{Total age}        &= \text{Richard's age + Adam's age + Will's age} \\\\
                         &= 18 + 9 + 6 \\\\
                         &= 33
 \end{aligned}

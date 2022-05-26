@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -900,7 +900,7 @@ $63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>36F489C8-4D43-443D-8436-ED8F6DD25EB8</p>
 </div>
@@ -990,12 +990,12 @@ $500$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>EE87B35D-AFC8-4F45-A49A-D40F8F3B3AA8</p>
 </div>
@@ -1048,12 +1048,12 @@ $24$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>CB316C58-82C4-48CD-8739-CF12D8CB2F4C</p>
 </div>
@@ -1196,12 +1196,12 @@ $2a^2 \quad = \quad  ab$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>86877522-C3FB-43F4-AD0D-8D56F9CB41E2</p>
 </div>
@@ -1275,12 +1275,12 @@ $27 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>91D59936-06F2-4B60-9E45-CE6157C7CD5F</p>
 </div>
@@ -1400,12 +1400,12 @@ $6$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>8697781B-4AFF-4468-AA7D-11AE8E929A4F</p>
 </div>
@@ -1488,7 +1488,7 @@ $292.5 \ \text {cm}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -1570,7 +1570,7 @@ $32$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>EED93740-E026-4C7A-A7F1-CCA71D506BCC</p>
 </div>
@@ -1644,12 +1644,12 @@ $4$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>C9888A8A-5D23-40EC-9466-8099B63871A2</p>
 </div>
@@ -1708,7 +1708,7 @@ $6$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -7221,9 +7221,9 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Change left}  &= \pounds 100 - (3 \times \text {Cost of a computer game} + 2 \times \text {Cost of a doughnut}) \\\\
-                     &= \pounds 100 - (3 \times \pounds 25.50 + 2 \times \pounds 1.30) \\\\
-                     &= 100 - (76.50 + 2.60) \\\\
+\text {Change left}  &= \pounds 100 - 3 \times \text {Cost of a game} - 2 \times \text {Cost of a doughnut} \\\\
+                     &= \pounds 100 - 3 \times \pounds 25.50 - 2 \times \pounds 1.30 \\\\
+                     &= 100 - -76.50 - 2.60) \\\\
                      &= 100 - 79.10 \\\\
                      &= \pounds 20.90
 \end {aligned}
@@ -7270,24 +7270,16 @@ Catherine gets $22$ sweets. How many sweets are there in the bag?
 <div class='workings'>
 <div class='working'>
 
-Let the number of sweets Bhavini got $= a$.
-
 As per the question,
 
 $
 \begin {aligned}
-\text {Number of sweets Catherine got}     &= 22 \\\\
-2 \times (a + 5)                           &= 22 \\\\
-2a + 2 \times 5                            &= 22 \\\\
-2a + 10                                    &= 22 \\\\
-2a                                         &= 22 - 10 \\\\
-2a                                         &= 12 \\\\
-a                                          &= \dfrac {12} {2} \\\\
-a                                          &= \dfrac {6 \times 2} {2} \\\\
-a                                          &= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
-a                                          &= 6 \\\\
-\text {Total number of sweets in the bag}  &= 22 + (6 + 5) + 6 \\\\
-                                           &= 22 + 11 + 6 \\\\
+\text {Total number of sweets}             &= \text {Number of sweets Alison got} + \text {Number of sweets Bhavini got} + \text {Number of sweets Catherine got} \\\\
+                                           &= \dfrac {22} {2} + \dfrac {22} {2} - 5 + 22 \\\\
+                                           &= \dfrac {11 \times 2} {2} + \dfrac {11 \times 2} {2} - 5 + 22 \\\\
+                                           &= \dfrac {11 \times \cancel {2}} {\cancel {2}} + \dfrac {11 \times \cancel {2}} {\cancel {2}} - 5 + 22 \\\\
+                                           &= 11 + 11 - 5 + 22 \\\\
+                                           &= 44 - 5 \\\\
                                            &= 39
 \end {aligned}
 $
@@ -7337,14 +7329,14 @@ In this formula $a$ stands for the number of adults and $k$ stands for the numbe
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -7367,10 +7359,10 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Cost to go to the cinema}  &= 8a + 3k \\\\
-                                  &= 8 \times 3 + 3 \times 1 \\\\
-                                  &= 24 + 3 \\\\
-                                  &= \pounds 27
+\text {Cost}  &= 8a + 3k \\\\
+              &= 8 \times 3 + 3 \times 1 \\\\
+              &= 24 + 3 \\\\
+              &= \pounds 27
 \end {aligned}
 $
 
@@ -7402,27 +7394,38 @@ The total cost for the Bryant family is $\pounds 25$. How many adults and how ma
 
 As per the question,
 
+The maximum count of adult tickets possible with $\pounds 25 = 2$ adults.
+
 $
 \begin {aligned}
-\text {Total cost for Bryant family}  &= \pounds 25 \\\\
-8a + 3k                               &= 25 \\\\
-8a + 3k                               &= (8 \times 2) + (3 \times 3)
+8 \times 2 + 3k     &= 25 \\\\
+16 + 3k             &= 25 \\\\
+3k                  &= 25 - 16 \\\\
+3k                  &= 9 \\\\
+k                   &= \dfrac {9} {3} \\\\
+k                   &= \dfrac {3 \times 3} {3} \\\\
+k                   &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
+k                   &= 3
 \end {aligned}
 $
 
-Hence, there are $2$ adults and $3$ children in Bryant family.
+Bryant family has,
+
+Adults $= 2$
+
+Children $= 3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2$
+%empty%
 
 </div>
 <div class='answer'>
 
-$3$
+%empty%
 
 </div>
 </div>
@@ -26645,7 +26648,7 @@ b                        &= 5
 \end{aligned}
 $
 
-Two numbers that have a difference of 8 and added upto 18 are $13$ and $5$
+Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
 
 </div>
 </div>
@@ -26783,7 +26786,7 @@ $33$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>20EB0151-9603-4A9B-8AA6-93D45586F5A7</p>
 </div>
@@ -26906,7 +26909,7 @@ $8$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -26936,7 +26939,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Sweets Martin took}                               &= \text{Total sweets} - \text{Sweets Dai took} \\\\
+\text{Sweets Martin take}                               &= \text{Total sweets} - \text{Sweets Dai take} \\\\
 a                                                       &= 65 - (a - 7) \\\\
 a                                                       &= 65 - a + 7 \\\\
 a + a                                                   &= 65 + 7 \\\\
@@ -26969,7 +26972,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>1386CD9E-4F45-4B19-8D78-E266D298EDFB</p>
 </div>
@@ -27018,7 +27021,7 @@ $24$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -29837,7 +29840,7 @@ $\pounds 7.95$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F</p>
 </div>
@@ -29976,7 +29979,7 @@ $1600 \ \text {ml}$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -36003,7 +36006,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>85EB3724-4385-40C7-99FC-BD96F06DD4F3</p>
 </div>
@@ -36023,7 +36026,45 @@ that is the same as one of the two integers that you are thinking of.
 <div class='workings'>
 <div class='working'>
 
-$3 \ \text{and} 6$
+Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b            &= 18 \\\\
+a - b                 &= b \\\\
+a                     &= 2 \times b \\\\
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable.
+
+Substuting the value of $a$ from second equation to first equation.
+
+$
+\begin{aligned}
+a \times b            &= 18 \\\\
+2 \times b \times b   &= 18 \\\\
+b ^ 2                 &= \dfrac {18} {2} \\\\
+b ^ 2                 &= \dfrac {2 \times 9} {2} \\\\
+b ^ 2                 &= \dfrac {\cancel {2} \times 9} {\cancel {2}} \\\\
+b ^ 2                 &= 9 \\\\
+b                     &= 3
+\end{aligned}
+$
+
+Substuting the value of $b$ in second equation.
+
+$
+\begin{aligned}
+a - b &= b \\\\
+a - 3 &= 3 \\\\
+a     &= 6 \\\\
+\end{aligned}
+$
+
+The two integers are $3 \ \text{and} 6$.
 
 </div>
 </div>
@@ -36039,12 +36080,12 @@ $3 \ \text{and} 6$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>A44515A9-1C0B-4A2E-99CA-D73054BD487E</p>
 </div>
@@ -36069,9 +36110,11 @@ Find the number that Sam was thinking of.
 Let the number $=a$
 
 $
+\begin{aligned}
 2a + 6  &=  3a - 3 \\\\
 3a - 2a &=  6 + 3 \\\\
-a       &=  9 
+a       &=  9
+\end{aligned}
 $
 
 </div>
@@ -36088,12 +36131,12 @@ $9$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>83315ED9-DB65-48DC-A17E-D2511B4529A7</p>
 </div>
@@ -36184,7 +36227,7 @@ $\pounds 7,\pounds 1,\pounds 1$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -38302,7 +38345,7 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>BB584CC8-E4D1-425F-88E8-71BF6CB97F97</p>
 </div>
@@ -38497,7 +38540,7 @@ $7$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -40262,7 +40305,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>39086DA3-F713-45C2-91F7-217AC5ABF006</p>
 </div>
@@ -40313,12 +40356,12 @@ $8$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>DCF1FE2D-8937-40A2-8F2F-5103646889A4</p>
 </div>
@@ -40372,12 +40415,12 @@ $18$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BDA4A8AF-88B3-4D7B-82FC-E14471C0ED58</p>
 </div>
@@ -40435,7 +40478,7 @@ $4$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -41637,7 +41680,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>52C8050F-874B-4DAC-AA7C-09BAC7CC653C</p>
 </div>
@@ -41688,7 +41731,7 @@ $14$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -41879,7 +41922,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>662D74A3-BAE3-4A3B-B16D-976FF3EA71AE</p>
 </div>
@@ -41950,7 +41993,7 @@ $2 \text{p}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -46679,7 +46722,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>BFE40D96-8522-4C51-9255-AA907949965E</p>
 </div>
@@ -46804,12 +46847,12 @@ $\pounds 7$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>74DBCD36-37BB-4856-BF34-7C3AA8E7DF0E</p>
 </div>
@@ -46891,7 +46934,7 @@ $34 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -47645,7 +47688,7 @@ $8$ fish
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>891C1C55-B5B1-425B-8595-6A3DDCA6BB8B</p>
 </div>
@@ -47710,12 +47753,12 @@ $108 \degree$
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>3ACC56E9-45C3-48B3-BD78-324451DE6879</p>
 </div>
@@ -47764,7 +47807,7 @@ $42$
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -48096,7 +48139,7 @@ $11\ \text {mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>92ED95C5-5173-4603-A6B6-7ACBF5D59202</p>
 </div>
@@ -48168,7 +48211,7 @@ $16$
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -49034,7 +49077,7 @@ $\pounds 4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
 </div>
@@ -49115,12 +49158,12 @@ $60 \ \text{cm}^{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>BF5B5BD3-287F-4180-939C-D53BE202DA6C</p>
 </div>
@@ -49177,12 +49220,12 @@ $20$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>625257F8-46C4-4F5F-9DF6-C451EA995331</p>
 </div>
@@ -49261,12 +49304,12 @@ $250  \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>E32C98B2-7C2C-406F-AEAC-A4AECCE46113</p>
 </div>
@@ -49336,7 +49379,7 @@ $24 \text{p}$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -50736,7 +50779,7 @@ $129$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>0B47659C-81C5-46B4-8F2D-C1372D5BCBAD</p>
 </div>
@@ -50792,7 +50835,7 @@ $\text{February } 13$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -51437,7 +51480,7 @@ $1200 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>99D0FFC6-A645-4175-8EA6-1E27EC96521C</p>
 </div>
@@ -51502,7 +51545,7 @@ $48 \ \text{cm}^2$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -52322,7 +52365,7 @@ $\pounds 274$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A6AC1588-C3E0-4190-A84D-7153A5624431</p>
 </div>
@@ -52384,7 +52427,7 @@ $35$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -56189,7 +56232,7 @@ $34$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>B67C812C-8264-4E3E-AE90-257236E2DAC5</p>
 </div>
@@ -56210,14 +56253,14 @@ Aled had $67$ marbles when he went to school. He gave $19$ to his best friend Ow
 
 As per the question,
 
-Marbles Alen had initially = $67$
+Marbles Alen had initially $= 67$
 
 $
 \begin{aligned}
 \text {Marbles (he got home)} &= \text {Marbles (to school) - Given(Owen) - Given (Swap Jess) + Taken (Swap Jess) + Won (Meg) - Lost (Ben)} \\\\
-&=  67 - 19 - 5 + 9 + 27 - 34 \\\\
-&= 79 - 34 \\\\
-&= 45
+                              &= 67 - 19 - 5 + 9 + 27 - 34 \\\\
+                              &= 79 - 34 \\\\
+                              &= 45
 \end{aligned}
 $
 
@@ -56235,7 +56278,7 @@ $45$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -56673,13 +56716,11 @@ $(𝑏𝑐)^2$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 &= bc^2 \\\\
 &= ( 5 \times -2)^2 \\\\
-&= 10^2 \\\\
+&= (-10)^2 \\\\
 &= 100
 \end{aligned}
 $
@@ -56710,12 +56751,10 @@ $\frac{𝑎+𝑏}{c}$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-&= \dfrac{a+b}{c} \\\\
-&= \dfrac{3 + 5}{-2} \\\\
+&= \dfrac {a+b} {c} \\\\
+&= \dfrac {3 + 5} {-2} \\\\
 &= - \dfrac {8} {2} \\\\
 &= - \dfrac {2 \times 4} {2} \\\\
 &= - \dfrac {\cancel {2} \times 4} {\cancel {2}} \\\\
@@ -56749,12 +56788,10 @@ $\frac{2𝑏-𝑐} {𝑎}$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-&= \dfrac{2b - c}{a} \\\\
-&= \dfrac{2 \times 5 - (-2)}{3} \\\\
+&= \dfrac {2b - c}{a} \\\\
+&= \dfrac {2 \times 5 - (-2)} {3} \\\\
 &= \dfrac {10 + 2} {3} \\\\
 &= \dfrac {12} {3} \\\\
 &= \dfrac {3 \times 4} {3} \\\\
@@ -56793,13 +56830,13 @@ As per the question,
 
 $
 \begin{aligned}
-&= a - \dfrac{b}{c} \\\\
-&= 3 - \dfrac{5}{-2} \\\\
-&= 3 + \dfrac{5}{2} \\\\
-&= \dfrac{3 \times 2} {1 \times 2} + \dfrac {5} {2} \\\\
-&= \dfrac{6} {2} + \dfrac {5} {2} \\\\
-&= \dfrac{6 + 5} {2} \\\\
-&= \dfrac{11} {2} \\\\
+&= a - \dfrac{b} {c} \\\\
+&= 3 - \dfrac{5} {-2} \\\\
+&= 3 + \dfrac{5} {2} \\\\
+&= \dfrac {3 \times 2} {1 \times 2} + \dfrac {5} {2} \\\\
+&= \dfrac {6} {2} + \dfrac {5} {2} \\\\
+&= \dfrac {6 + 5} {2} \\\\
+&= \dfrac {11} {2} \\\\
 &= 5 \dfrac {1} {2}
 \end{aligned}
 $
@@ -56826,7 +56863,7 @@ $\dfrac{11} {2} \ \text{or} \ 5 \dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3A6DE7DE-2610-4BB9-B90F-CF47C2F942B9</p>
 </div>
@@ -56930,7 +56967,7 @@ $\frac{4𝑐^2}{8}$
 $\begin{aligned}
 &= \dfrac {4c^2} {8} \\\\
 &= \dfrac {4c^2} {4 \times 2} \\\\
-&= \dfrac {\cancel {4}c^2} {\cancel {4} \times 2} \\\\
+&= \dfrac {\cancel {4} c^2} {\cancel {4} \times 2} \\\\
 &= \dfrac {c^2} {2}
 \end{aligned}
 $
@@ -56963,8 +57000,8 @@ $\frac{3𝑑+3𝑑}{4}$
 
 $
 \begin{aligned}
-&= \dfrac{3𝑑+3𝑑}{4} \\\\
-&= \dfrac{6d} {4} \\\\
+&= \dfrac {3𝑑 + 3𝑑} {4} \\\\
+&= \dfrac {6d} {4} \\\\
 &= \dfrac {2 \times 3d} {2 \times 2} \\\\
 &= \dfrac {\cancel {2} \times 3d} {\cancel {2} \times 2} \\\\
 &= \dfrac {3d} {2}
@@ -57022,12 +57059,12 @@ $5-2e$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>10F6A653-86A6-4A15-B189-E38E373A64BD</p>
 </div>
@@ -57116,7 +57153,7 @@ $
 2 - x       &= 3 - 3x \\\\
 3x - x      &= 3 - 2 \\\\
 2x          &= 1 \\\\
-x           &= \dfrac{1} {2} 
+x           &= \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -57125,7 +57162,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{1} {2}$
+$\dfrac {1} {2}$
 
 </div>
 </div>
@@ -57148,13 +57185,13 @@ $\frac {𝑥} {3} =\frac {𝑥-4} {2}$
 
 $
 \begin{aligned}
-\frac {x} {3}       &= \frac {x-4} {2} \\\\
-x \times 2          &= 3 \times (x-4) \\\\
-2x                  &= (3 \times x) - (3 \times 4) \\\\
-2x                  &= 3x - 12 \\\\
-12                  &= 3x - 2x \\\\
-12                  &= x \\\\
-x                   &= 12
+\dfrac {x} {3}       &= \dfrac {x-4} {2} \\\\
+x \times 2           &= 3 \times (x-4) \\\\
+2x                   &= (3 \times x) - (3 \times 4) \\\\
+2x                   &= 3x - 12 \\\\
+12                   &= 3x - 2x \\\\
+12                   &= x \\\\
+x                    &= 12
 \end{aligned}
 $
 
@@ -57175,7 +57212,7 @@ $12$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2017-sample-paper-4"
 title: "Csse - 11 Plus - Maths - 2017 - Sample Paper 4"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>CSSE</h1>
@@ -168,6 +168,9 @@ $143$
 <ul>
 <li>
 tfactor
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -553,6 +556,7 @@ $0.01$ and $0.26$?
 <div class='workings'>
 <div class='working'>
 
+$
 \begin {aligned}
 &= \dfrac {0.01 + 0.26} {2} \\\\
 &= \dfrac {0.27} {2} \\\\

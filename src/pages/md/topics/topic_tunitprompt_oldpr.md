@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-oldpr"
 title: "Topic - Unitprompt - Old PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -317,63 +317,6 @@ $56$ coins
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>4D18C421-3F30-45CC-ACE9-047E6EF86035</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ollie is making some small snacks for a party. He cuts 
-$1.2 \ \text{kg}$ of cheese into a number 
-of $15 \ \text{g}$ pieces.  How many pieces does he have?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
-
-$
-\begin{aligned}
-\text{Number of pieces}     &= \dfrac {\text{Weight of cheese} } {\text{Weight of a piece}} \\\\
-                            &= \dfrac { 1.2 \ \text{kg} } { 15 \ \text{g}} \\\\
-                            &= \dfrac { 1.2 \times 1000 \ \text{g} } { 15 \ \text{g}} \\\\
-                            &= \dfrac { 1200 } { 15 } \\\\
-                            &= \dfrac { 3 \times 4 \times 5 \times 20 } { 3 \times 5 } \\\\
-                            &= \dfrac { \cancel{3} \times 4 \times \cancel{5} \times 20 } { \cancel{3} \times \cancel{5} } \\\\
-                            &= 4 \times 20 \\\\
-                            &= 80
-\end{aligned}
-$
-
-Number of pieces $= 80$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$80$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>

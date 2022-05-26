@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpower-all"
 title: "Topic - Power - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -219,6 +219,7 @@ Calculate $13 \times 13$.
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{array}{ccccc}
        &    1   &   3 \\
 \times &    1   &   3 \\

@@ -1,9 +1,67 @@
 ---
 slug: "topics/topic-tage-g1"
 title: "Topic - Age - G1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>EE87B35D-AFC8-4F45-A49A-D40F8F3B3AA8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If Tom is half his mum’s age and together their ages add up to $72$, how old is Tom?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Tom's age $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+a + 2a                     &= 72 \\\\
+3a                         &= 72 \\\\
+a                          &= \dfrac {72} {3} \\\\
+a                          &= \dfrac {24 \times 3} {3} \\\\
+a                          &= \dfrac {24 \times \cancel{3}} {\cancel{3}} \\\\
+a                          &= 24
+\end {aligned}
+$
+
+Tom's age $= 24$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>

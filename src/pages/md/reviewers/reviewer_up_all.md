@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-all"
 title: "Reviewer - Uday Pandey - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,7 +57,7 @@ $3.154$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6CDE9B85-33D8-4FE1-8A7C-C1030D86C401</p>
 </div>
@@ -124,12 +124,12 @@ $8, 13$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B245DB80-06AB-4146-8632-C2E68446994E</p>
 </div>
@@ -159,6 +159,8 @@ How many lines of symmetry has a square?
 <div class='workings'>
 <div class='working'>
 
+** TODO: Add diagrams to show all lines of symmetry **
+
 $4$
 
 </div>
@@ -178,12 +180,12 @@ $4$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D30F0974-2B38-4C59-B619-F9A967A19868</p>
 </div>
@@ -231,12 +233,12 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1F0E1A23-FEB9-4030-8F80-C0D56311A323</p>
 </div>
@@ -268,6 +270,8 @@ The diagram shows part of a regular shape along with its two lines of symmetry. 
 <div class='workings'>
 <div class='working'>
 
+** TODO: Add the complete diagram **
+
 a trapezium
 
 </div>
@@ -284,12 +288,12 @@ $\text{a trapezium}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>04ACE684-9AE1-4A89-98F0-A8F72CA19665</p>
 </div>
@@ -336,12 +340,12 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6EA572FE-FB00-44DD-A787-BAF1F99D3A04</p>
 </div>
@@ -371,7 +375,7 @@ $10 - |4 - 20|$?
 $
 \begin{aligned}
 &= 10 - | 4 - 20 | \\\\
-&= 10 - | {-16}| \\\\
+&= 10 - | {-16} | \\\\
 &= 10 - 16 \\\\
 &= -6
 \end{aligned}
@@ -394,12 +398,12 @@ $-16$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E050D127-B790-44E2-8C2E-2E52B8429BCE</p>
 </div>
@@ -434,7 +438,7 @@ $8521$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -583,7 +587,7 @@ $3 + (5 \times 2) + 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>FA9861FD-232E-4ED5-9793-77E5EFC8EB56</p>
 </div>
@@ -607,9 +611,9 @@ How many tins of paint are needed?
 $
 \begin{aligned}
 \text {Number of tins needed}  &= \dfrac {\text{Total area of the hall}} {\text{Area covered by a tin}} \\\\
-              &= \dfrac {652} {45} \\\\
-              &= 14.8 \\\\
-              &= 15 \text{ m}^2
+                               &= \dfrac {652} {45} \\\\
+                               &= 14.48 \\\\
+                               &= 15
 \end{aligned}
 $
 
@@ -627,12 +631,12 @@ $15$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>3C1A8ECE-FC50-4AC9-B755-F100FE9325E2</p>
 </div>
@@ -686,12 +690,12 @@ $3 \ \text {hours} \ 20 \ \text {minutes}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4440F334-A112-481F-AB98-3D9AD28B54BF</p>
 </div>
@@ -714,21 +718,13 @@ Write down the number of:
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Faces}    &= 5 \\\\
-\text{Edges}    &= 9 \\\\
-\text{Vertices} &= 6
-\end{aligned}
-$
-
+%empty%
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5, 9, 6$
-
+%empty%
 </div>
 </div>
 <ul class='subquestion TODO'>
@@ -821,12 +817,12 @@ $6$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1560E53F-1121-4690-82F4-852BE2494204</p>
 </div>
@@ -880,7 +876,7 @@ Calculate the missing angles $p, q$ and $r$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+As we know, the sum of angles on a straight line is $180 \degree$.
 
 As per the diagram,
 
@@ -958,7 +954,7 @@ $47 \degree$
 <div class='workings'>
 <div class='working'>
 
-As per the diagram, the rhombus is having its opposite sides equal, So which means the angles opposite are also equal.
+As per the diagram, the rhombus is having its opposite sides equal, Which means the angles opposite are also equal.
 
 As we know, the sum of angles in a triangle is $180 \degree$.
 
@@ -990,7 +986,7 @@ $16 \degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -37118,7 +37114,7 @@ $\dfrac {3} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>8C58A03E-ED57-4E53-AB3D-E2B7AC28475B</p>
 </div>
@@ -37165,9 +37161,9 @@ Calculate the angles marked with letters on the following diagrams.
 
 $
 \begin{aligned}
-135 \degree + \text {a \degree} &=  180 \degree \\\\
-\text { a\degree}               &=  180 \degree - 135 \degree \\\\
-\text { a\degree}               &=  45 \degree 
+135 + \text {a}          &=  180 \\\\
+\text {a}               &=  180 - 135 \\\\
+\text {a}               &=  45 \degree
 \end{aligned}
 $
 
@@ -37199,10 +37195,10 @@ $45 \degree$
 
 $
 \begin{aligned}
-174 \degree + \text {e \degree} + 90 \degree &=  360 \degree \\\\
-\text {e \degree} + 264 \degree              &=  360 \degree \\\\
-\text {e \degree}                            &=  360 \degree - 264 \degree \\\\
-\text {e \degree}                            &=  96 \degree
+174 + \text {e} + 90    &=  360 \\\\
+\text {e} + 264         &=  360 \\\\
+\text {e}               &=  360 - 264 \\\\
+\text {e}               &=  96 \degree
 \end{aligned}
 $
 
@@ -37232,21 +37228,23 @@ $96 \degree$
 <div class='workings'>
 <div class='working'>
 
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
 $
 \begin{aligned}
-62 \degree + 45 \degree + \text {f \degree} &= 180 \degree \\\\
-\text {f \degree} + 107 \degree             &= 180 \degree \\\\
-\text {f \degree}                           &= 180 \degree - 107 \degree  \\\\
-\text {f \degree}                           &= 73 \degree
+62 + 45 + \text {f} &= 180 \\\\
+\text {f} + 107     &= 180 \\\\
+\text {f}           &= 180 - 107 \\\\
+\text {f}           &= 73 \degree
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {f \degree} + \text {g \degree} &=  180 \degree \\\\
-73 \degree + \text {g \degree}        &=  180\degree \\\\
-\text {g \degree}                     &=  180 \degree - 73 \degree \\\\
-\text {g \degree}                     &=  107 \degree
+\text {f} + \text {g} &=  180 \\\\
+73 + \text {g}        &=  180 \\\\
+\text {g}             &=  180 - 73 \\\\
+\text {g}             &=  107 \degree
 \end{aligned}
 $
 
@@ -37267,7 +37265,7 @@ $73 \degree, 107 \degree$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-1"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>CSSE</h1>
@@ -699,7 +699,17 @@ $13 \times 1{?}1 = 1703$
 <div class='workings'>
 <div class='working'>
 
-$13 \times 1 \maroonC {3} 1 = 1703$
+$
+\begin{array}{ccccccccc}
+       &        &                             1   &   3 \\
+\times &    1   &     \maroonC {3}   &   1 \\
+\hline
+       &        &                             1   &   3 \\
+       &    3   &                             9   &   0 \\
+1      &    3   &                             0   &   0 \\
+\hline
+1      &    7   &                             0   &   3 \\
+\end{array}
 
 </div>
 </div>
@@ -1437,11 +1447,11 @@ To compare, let's find the sum first.
 $
 \begin{aligned}
 \text {DOG}     &= 4 + 15 + 7 \\\\
-                &= 26
+                &= 26 \\\\
 \text {CATS}    &= 3 + 1 + 20 + 19 \\\\
-                &= 43
+                &= 43 \\\\
 \text {FISH}    &= 6 + 9 + 19 + 8 \\\\
-                &= 42
+                &= 42 \\\\
 \text {BIRD}    &= 2 + 9 + 18 + 4 \\\\
                 &= 33
 \end{aligned}
@@ -2805,11 +2815,11 @@ To compare, let's find the product first.
 $
 \begin{aligned}
 \text {DOG}     &= 4 \times 15 \times 7 \\\\
-                &= 420
+                &= 420 \\\\
 \text {CATS}    &= 3 \times 1 \times 20 \times 19 \\\\
-                &= 1140
+                &= 1140 \\\\
 \text {FISH}    &= 6 \times 9 \times 19 \times 8 \\\\
-                &= 8208
+                &= 8208 \\\\
 \text {BIRD}    &= 2 \times 9 \times 18 \times 4 \\\\
                 &= 1296
 \end{aligned}

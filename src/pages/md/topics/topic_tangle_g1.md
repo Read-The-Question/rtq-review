@@ -1,9 +1,195 @@
 ---
 slug: "topics/topic-tangle-g1"
 title: "Topic - Angle - G1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>86877522-C3FB-43F4-AD0D-8D56F9CB41E2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the angle marked ?.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+![missing image](/papers/missing_image.svg)
+
+** IMAGE_PLACEHOLDER_DESCRIPTION_STARTS Add an image with vertices marked ABCD IMAGE_PLACEHOLDER_DESCRIPTION_ENDS **
+
+Let the missing angle $= a$
+
+Let the angles in the isosceles triangle $ABD = b$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+b + b + 62      &= 180 \\\\
+2b + 62         &= 180 \\\\
+2b              &= 180 - 62 \\\\
+2b              &= 118 \\\\
+b               &= \dfrac {118} {2} \\\\
+b               &= 59 \degree
+\end {aligned}
+$
+
+Let's use the value of $b$ in the triangle $ABC$.
+
+$
+\begin {aligned}
+b + 32 + 62 + a     &= 180 \\\\
+59 + 32 + 62 + a    &= 180 \\\\
+153 + a             &= 180 \\\\
+a                   &= 180 - 153 \\\\
+a                   &= 27 \degree
+\end {aligned}
+$
+
+
+Missing angle $= 27 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>62828D73-0B00-4BFC-AA4D-B041295BF244</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Estimate the size of angle $A$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+angle A $= 45 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+**Use your answer to part (a)** to find the size of angle $B$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin {aligned}
+B + 45        &= 180  \\\\
+B             &= 180 - 45 \\\\
+B             &= 135 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$135 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
@@ -1947,6 +2133,189 @@ $
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>05657E57-5AAE-47F6-9CCF-40E96CD77C36</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the value of $x$ in each of the diagrams below.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Sum of all the angles}   &= 360 \degree \\\\
+2x + x + 5x + 4x                &= 360 \\\\
+12x                             &= 360 \\\\
+x                               &= \dfrac {360} {12} \\\\
+x                               &= \dfrac {30 \times 12} {12} \\\\
+x                               &= \dfrac {30 \times \cancel {12}} {\cancel {12}} \\\\
+x                               &= 30 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+2x + (x + 32) + 40 \degree  &= 180 \degree \\\\
+2x + x + 32 + 40            &= 180 \\\\
+3x + 72                     &= 180 \\\\
+3x                          &= 180 - 72 \\\\
+3x                          &= 108 \\\\
+x                           &= \dfrac {108} {3} \\\\
+x                           &= \dfrac {36 \times 3} {3} \\\\
+x                           &= \dfrac {36 \times \cancel {3}} {\cancel {3}} \\\\
+x                           &= 36 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows two equilateral triangles and a rectangle. Calculate the size of angle $a \degree$.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know,
+
+An angle of an equilateral $= 60 \degree$
+
+An angle of a rectangle $= 90 \degree$
+
+Sum of all angles at a point $= 360 \degree$
+
+As per the diagram,
+
+$
+\begin{aligned}
+90 + 60 + 60 + a                               &= 360 \\\\
+a                                              &= 360 - 90 - 60 - 60\\\\
+a                                              &= 150 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>B0CC5C22-DFC6-468C-A06B-7B4D743851D2</p>
@@ -2391,6 +2760,76 @@ $85 \degree$
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>891C1C55-B5B1-425B-8595-6A3DDCA6BB8B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a triangle, two angles are the same and the third angle is THREE times bigger than either of the others.  What is the size of the biggest angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two equal angles $= a$
+
+As per the question, the third angle $= 3a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+a + a + 3a      &= 180 \degree \\\\
+5a              &= 180 \\\\
+a               &= \dfrac {180} {5} \\\\
+a               &= \dfrac {36 \times 5} {5} \\\\
+a               &= \dfrac {36 \times \cancel{5}} {\cancel{5}} \\\\
+a               &= 36 \degree
+\end {aligned}
+$
+
+We know the size of the first angle now.
+
+However, we need to find the largest angle which is the third angle.
+
+$
+\begin {aligned}
+\text {Largest angle}   &= 3a \\\\
+                        &= 3 \times 36 \\\\
+                        &= 108 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$108 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

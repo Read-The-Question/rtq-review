@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2016-sample-paper-3"
 title: "Csse - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>CSSE</h1>
@@ -134,6 +134,7 @@ $
                             &= 0.032 \\\\
 \text{Second number}        &= 12.8 \times 20 \\\\
                             &= 256
+\end{aligned}
 $
 
 </div>
@@ -221,7 +222,7 @@ $\dfrac{2}{3}, \quad \ldots, \quad \ldots, \quad 1 \dfrac{1}{6}$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The next term is calculated by subtracting the previous term by $1 \dfrac {1} {6}$. Hence, the sequence would be:
+The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -234,12 +235,11 @@ $
 
 $
 \begin{aligned}
-\text{First number}         &= \dfrac {2} {3} + 1 \dfrac {1} {6} \\\\
-                            &= \dfrac {2} {3} + \dfrac {7} {6} \\\\
-                            &= \dfrac {2 \times 2} {3 \times 2} + \dfrac {7} {6} \\\\
-                            &= \dfrac {4} {6} + \dfrac {7} {6} \\\\
-                            &= \dfrac {11} {6} \\\\
-\text{Second number}        &= 1 \dfrac {1} {6} - 1 \dfrac {1} {6} \\\\
+\text{First number}         &= \dfrac {2} {3} + \dfrac {1} {6} \\\\
+                            &= \dfrac {2 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
+                            &= \dfrac {4} {6} + \dfrac {1} {6} \\\\
+                            &= \dfrac {5} {6} \\\\
+\text{Second number}        &= \dfrac {1} {6} - \dfrac {1} {6} \\\\
                             &= 0
 \end{aligned}
 $
@@ -731,6 +731,7 @@ Calculate $13 \times 13$.
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{array}{ccccc}
        &    1   &   3 \\
 \times &    1   &   3 \\
@@ -805,6 +806,9 @@ tangle
 </li>
 <li>
 tclock
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>

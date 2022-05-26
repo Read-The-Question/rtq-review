@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7"
 title: "Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -33,11 +33,13 @@ If an adult ticket on the bus costs $\pounds 1.50$ and a child ticket costs $90 
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Change (Received)}                        &= \text{Money (Paid)} - (\text{Ticket Cost ( 2 x Adults)} + \text{Ticket Cost ( 3 x Children)}) \\\\
+\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 3 \ \text{Children} \\\\
                                                 &= \pounds 10 - (2 \times \pounds 1.50 + 3 \times 90 \text{p}) \\\\
                                                 &= \pounds 10 - (\pounds 3 + 270 \text{p}) \\\\
                                                 &= \pounds 10 - (\pounds 3 + \pounds \dfrac {270} {100}) \\\\
@@ -90,7 +92,7 @@ If a square has an area of $36cm^2$, what is its perimeter?
 <div class='workings'>
 <div class='working'>
 
-Area of square $= \text{Side} \times \text{Side}$
+Area of a square $= \text{Side} \times \text{Side}$
 
 As per the question,
 
@@ -104,7 +106,7 @@ a                                               &= 6 \ \text{cm}
 \end{aligned}
 $
 
-The Length of the side of square $= 6 \ \text{cm}$
+The length of the side of the square $= 6 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
@@ -209,7 +211,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times (\text{No. of minutes in an hour} \\\\
+\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times \text{No. of minutes in an hour} \\\\
                                 &= 24 \times 60 \\\\
                                 &= 1440 \ \text{minutes}
 \end{aligned}
@@ -257,7 +259,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature difference}                                       &= \text{Temperature (Rome)} - \text{Temperature (Moscow)} \\\\
+\text{Temperature difference}                                       &= \text{Temperature in Rome} - \text{Temperature in Moscow} \\\\
                                                                     &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
                                                                     &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
                                                                     &= 19 \degree \text{C}
@@ -310,13 +312,13 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Maximum passengers}                                           &= \text{Passenger per capsule} + \text{No. of capsules} \\\\
+\text{Maximum passengers}                                           &= \text{Passengers per capsule} \times \text{No. of capsules} \\\\
                                                                     &= 18 \times 32 \\\\
                                                                     &= 576
 \end{aligned}
 $
 
-The maximum number of passengers that can travel at once $= 576$
+The maximum number of passengers that can travel at any one time $= 576$
 
 </div>
 </div>

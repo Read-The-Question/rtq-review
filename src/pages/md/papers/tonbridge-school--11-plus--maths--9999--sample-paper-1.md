@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-11-plus-maths-9999-sample-paper-1"
 title: "Tonbridge School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>Tonbridge School</h1>
@@ -628,7 +628,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>B528A77B-5606-4111-B12C-09F06AFE3099</p>
 </div>
@@ -720,10 +720,10 @@ In this case, there are more fractions, so let's convert all the numbers into fr
 
 $
 \begin{aligned}
-&= 0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac {1} {3} \\\\
-&= \dfrac {3} {10} , \quad \dfrac {8} {25} , \quad \dfrac {33} {100} , \quad \dfrac {1} {3} \\\\
-&= \dfrac {3 \times 30} {10 \times 30} , \quad \dfrac {8 \times 12} {25 \times 12} , \quad \dfrac {33 \times 3} {100 \times 3} , \quad \dfrac {1 \times 100} {3 \times 100} \\\\
-&= \dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} , \quad \dfrac {100} {300}
+&= 0.3,                                 \quad \dfrac {8} {25},                      \quad 33\%,                                 \quad \dfrac {1} {3} \\\\
+&= \dfrac {3} {10},                     \quad \dfrac {8} {25},                      \quad \dfrac {33} {100},                    \quad \dfrac {1} {3} \\\\
+&= \dfrac {3 \times 30} {10 \times 30}, \quad \dfrac {8 \times 12} {25 \times 12},  \quad \dfrac {33 \times 3} {100 \times 3},  \quad \dfrac {1 \times 100} {3 \times 100} \\\\
+&= \dfrac {90} {300},                   \quad \dfrac {96} {300},                    \quad \dfrac {99} {300},                    \quad \dfrac {100} {300}
 \end{aligned}
 $
 
@@ -731,8 +731,8 @@ Let's put them in ascending order now.
 
 $ 
 \begin{aligned}
-&=\dfrac {90} {300} , \quad \dfrac {96} {300} , \quad \dfrac {99} {300} , \quad \dfrac {100} {300} \\\\
-&= 0.3 , \quad \dfrac {8} {25} , \quad 33\% , \quad \dfrac {1} {3}
+&=\dfrac {90} {300},    \quad \dfrac {96} {300},    \quad \dfrac {99} {300},    \quad \dfrac {100} {300} \\\\
+&= 0.3 ,                \quad \dfrac {8} {25},      \quad 33\%,                 \quad \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -741,6 +741,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
+    
 $0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
 
 </div>
@@ -753,7 +754,7 @@ $0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1053,13 +1054,11 @@ $(𝑏𝑐)^2$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 &= bc^2 \\\\
 &= ( 5 \times -2)^2 \\\\
-&= 10^2 \\\\
+&= (-10)^2 \\\\
 &= 100
 \end{aligned}
 $
@@ -1090,12 +1089,10 @@ $\frac{𝑎+𝑏}{c}$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-&= \dfrac{a+b}{c} \\\\
-&= \dfrac{3 + 5}{-2} \\\\
+&= \dfrac {a+b} {c} \\\\
+&= \dfrac {3 + 5} {-2} \\\\
 &= - \dfrac {8} {2} \\\\
 &= - \dfrac {2 \times 4} {2} \\\\
 &= - \dfrac {\cancel {2} \times 4} {\cancel {2}} \\\\
@@ -1129,12 +1126,10 @@ $\frac{2𝑏-𝑐} {𝑎}$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-&= \dfrac{2b - c}{a} \\\\
-&= \dfrac{2 \times 5 - (-2)}{3} \\\\
+&= \dfrac {2b - c}{a} \\\\
+&= \dfrac {2 \times 5 - (-2)} {3} \\\\
 &= \dfrac {10 + 2} {3} \\\\
 &= \dfrac {12} {3} \\\\
 &= \dfrac {3 \times 4} {3} \\\\
@@ -1173,13 +1168,13 @@ As per the question,
 
 $
 \begin{aligned}
-&= a - \dfrac{b}{c} \\\\
-&= 3 - \dfrac{5}{-2} \\\\
-&= 3 + \dfrac{5}{2} \\\\
-&= \dfrac{3 \times 2} {1 \times 2} + \dfrac {5} {2} \\\\
-&= \dfrac{6} {2} + \dfrac {5} {2} \\\\
-&= \dfrac{6 + 5} {2} \\\\
-&= \dfrac{11} {2} \\\\
+&= a - \dfrac{b} {c} \\\\
+&= 3 - \dfrac{5} {-2} \\\\
+&= 3 + \dfrac{5} {2} \\\\
+&= \dfrac {3 \times 2} {1 \times 2} + \dfrac {5} {2} \\\\
+&= \dfrac {6} {2} + \dfrac {5} {2} \\\\
+&= \dfrac {6 + 5} {2} \\\\
+&= \dfrac {11} {2} \\\\
 &= 5 \dfrac {1} {2}
 \end{aligned}
 $
@@ -1206,7 +1201,7 @@ $\dfrac{11} {2} \ \text{or} \ 5 \dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>353BB995-A155-4687-A64F-8268496F03B4</p>
 </div>
@@ -1392,12 +1387,12 @@ $2\dfrac{2} {3}$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3A6DE7DE-2610-4BB9-B90F-CF47C2F942B9</p>
 </div>
@@ -1501,7 +1496,7 @@ $\frac{4𝑐^2}{8}$
 $\begin{aligned}
 &= \dfrac {4c^2} {8} \\\\
 &= \dfrac {4c^2} {4 \times 2} \\\\
-&= \dfrac {\cancel {4}c^2} {\cancel {4} \times 2} \\\\
+&= \dfrac {\cancel {4} c^2} {\cancel {4} \times 2} \\\\
 &= \dfrac {c^2} {2}
 \end{aligned}
 $
@@ -1534,8 +1529,8 @@ $\frac{3𝑑+3𝑑}{4}$
 
 $
 \begin{aligned}
-&= \dfrac{3𝑑+3𝑑}{4} \\\\
-&= \dfrac{6d} {4} \\\\
+&= \dfrac {3𝑑 + 3𝑑} {4} \\\\
+&= \dfrac {6d} {4} \\\\
 &= \dfrac {2 \times 3d} {2 \times 2} \\\\
 &= \dfrac {\cancel {2} \times 3d} {\cancel {2} \times 2} \\\\
 &= \dfrac {3d} {2}
@@ -1593,12 +1588,12 @@ $5-2e$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3487109B-E395-4D4B-9784-14DBAA11998B</p>
 </div>
@@ -1647,8 +1642,8 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}  
-&&  \footnotesize{\maroonC{(+3)}}  
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+3)}}
 &&  \footnotesize{\maroonC{(+4)}}
 &&  \footnotesize{\maroonC{(+5)}}
 &&  \footnotesize{\maroonC{(+6)}} \\
@@ -1661,7 +1656,7 @@ $
 \text{First missing number}     &= 11 + 5 \\\\
                                 &= 16 \\\\
 \text{Second missing number}    &= 16 + 6 \\\\
-                                &= 22 \\\\                      
+                                &= 22
 \end{aligned}
 $
 
@@ -1695,9 +1690,9 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 3)}}  
-&&  \footnotesize{\maroonC{(\times 3)}} 
-&&  \footnotesize{\maroonC{(\times 3)}}   
+&   \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
 &&  \footnotesize{\maroonC{(\times 3)}}
 &&  \footnotesize{\maroonC{(\times 3)}} \\
 \dfrac {2} {3},  &&    2,  &&  6,  &&   18,  &&   \ldots, && \ldots
@@ -1709,7 +1704,7 @@ $
 \text{First missing number}     &= 18 \times 3 \\\\
                                 &= 54 \\\\
 \text{Second missing number}    &= 54 \times 3 \\\\
-                                &= 162 \\\\                      
+                                &= 162
 \end{aligned}
 $
 
@@ -1747,14 +1742,14 @@ The next number is tripled and added by one.
 
 $
 \begin{aligned}
-&= \dfrac{-2} {9} \times 3 + 1 \\\\
+&= \dfrac {-2} {9} \times 3 + 1 \\\\
 &= \dfrac {-2 \times 3} {9} + 1 \\\\
-&= \dfrac {-6} {9} + \dfrac{1 \times 9}{1 \times 9} \\\\
-&= \dfrac {-6} {9} + \dfrac{9}{9} \\\\
-&= \dfrac{-6 + 9}{9} \\\\
-&= \dfrac{3}{9} \\\\
-&= \dfrac{3}{3 \times 3} \\\\
-&= \dfrac{\cancel {3}}{\cancel {3} \times 3} \\\\
+&= \dfrac {-6} {9} + \dfrac {1 \times 9} {1 \times 9} \\\\
+&= \dfrac {-6} {9} + \dfrac {9} {9} \\\\
+&= \dfrac {-6 + 9} {9} \\\\
+&= \dfrac {3} {9} \\\\
+&= \dfrac {3} {3 \times 3} \\\\
+&= \dfrac {\cancel {3}} {\cancel {3} \times 3} \\\\
 &= \dfrac {1} {3}
 \end{aligned}
 $
@@ -1793,31 +1788,25 @@ The next number is tripled and added by one.
 
 Second term = $\dfrac {1} {3}$
 
-Third term $=$
-
 $
 \begin{aligned}
-&= \dfrac{1}{3} \times 3 + 1 \\\\
-&= \dfrac{1 \times 3}{3} + 1 \\\\
-&= \dfrac{1 \times \cancel{3}}{\cancel{3}} + 1 \\\\
-&= 1 + 1 \\\\
-&= 2
+\text {Third term}  &= \dfrac {1}{3} \times 3 + 1 \\\\
+                    &= \dfrac {1 \times 3} {3} + 1 \\\\
+                    &= \dfrac {1 \times \cancel{3}} {\cancel{3}} + 1 \\\\
+                    &= 1 + 1 \\\\
+                    &= 2
 \end{aligned}
 $
 
-Third term $=2$
-
-Fourth term $=$ 
+Using the above solution, we get
 
 $
 \begin{aligned}
-&= 2 \times 3 + 1 \\\\\
-&= 6 + 1 \\\\
-&= 7
+\text {Fourth term} &= 2 \times 3 + 1 \\\\\
+                    &= 6 + 1 \\\\
+                    &= 7
 \end{aligned}
 $
-
-Fourth term $= 7$ 
 
 </div>
 </div>
@@ -1836,7 +1825,7 @@ $7$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2012,7 +2001,7 @@ $22 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>10F6A653-86A6-4A15-B189-E38E373A64BD</p>
 </div>
@@ -2101,7 +2090,7 @@ $
 2 - x       &= 3 - 3x \\\\
 3x - x      &= 3 - 2 \\\\
 2x          &= 1 \\\\
-x           &= \dfrac{1} {2} 
+x           &= \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -2110,7 +2099,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{1} {2}$
+$\dfrac {1} {2}$
 
 </div>
 </div>
@@ -2133,13 +2122,13 @@ $\frac {𝑥} {3} =\frac {𝑥-4} {2}$
 
 $
 \begin{aligned}
-\frac {x} {3}       &= \frac {x-4} {2} \\\\
-x \times 2          &= 3 \times (x-4) \\\\
-2x                  &= (3 \times x) - (3 \times 4) \\\\
-2x                  &= 3x - 12 \\\\
-12                  &= 3x - 2x \\\\
-12                  &= x \\\\
-x                   &= 12
+\dfrac {x} {3}       &= \dfrac {x-4} {2} \\\\
+x \times 2           &= 3 \times (x-4) \\\\
+2x                   &= (3 \times x) - (3 \times 4) \\\\
+2x                   &= 3x - 12 \\\\
+12                   &= 3x - 2x \\\\
+12                   &= x \\\\
+x                    &= 12
 \end{aligned}
 $
 
@@ -2160,7 +2149,7 @@ $12$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

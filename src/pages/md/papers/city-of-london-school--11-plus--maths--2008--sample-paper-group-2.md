@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2008-sample-paper-group-2"
 title: "City Of London School - 11 Plus - Maths - 2008 - Sample Paper Group 2"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>City of London School</h1>
@@ -918,8 +918,8 @@ Show your working.
 
 $
 \begin {aligned}
-\text {Cost of calculator in} 1979   &= 1.25 \times 22 \\\\
-                                     &= \pounds 27.5
+\text {Cost of calculator in} \ 1979   &= 1.25 \times 22 \\\\
+                                       &= \pounds 27.5
 \end {aligned}
 $
 
@@ -1698,6 +1698,9 @@ TODOANSWER
 <li>
 tnumber
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2040,6 +2043,7 @@ $
 \begin{aligned}
 \text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
                     &= \dfrac {90 \times 100} {100} \\\\
+                    &= \dfrac {90 \times \cancel {100} } {\cancel {100} } \\\\
                     &= 90 \%
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-pr"
 title: "Topic - Speed - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -64,138 +64,7 @@ $9 \ \text{km}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>0B2DD2B6-B549-4742-8C8B-E59718ECB00B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-My train left Hocksworth at $8.20$ and arrived in Abbleshem at $10.50$ later that morning.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long in minutes did the journey take?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Time taken}            &= 10.50 - 8.20 \\\\
-                              &= 2 \ \text {hour} \ 30 \ \text {minutes} \\\\
-                              &= 2 \times 60 + 30 \ \text {minutes} \\\\
-                              &= 120 + 30 \ \text {minutes} \\\\
-                              &= 150 \ \text {minutes}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Given that Abbleshem is $170 \ \text{miles}$ away from Hocksworth, what was the average speed of my train?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required. The time is calculated in minutes, but the final speed has to be in miles per hour.
-
-$
-\begin {aligned}
-\text {Time taken}   &= 150 \ \text {minutes} \\\\
-                     &= \dfrac {150} {60} \ \text {hours}
-\end {aligned}
-$
-
-Let's find the speed now.
-
-$
-\begin {aligned}
-\text {Speed}    &= \dfrac {\text{Distance}} {\text{Time}} \\\\
-                 &= \dfrac {170} {\dfrac {150}{60}} \ \text {miles/hour} \\\\
-                 &= \dfrac {170 \times 60} {150} \ \text {miles/hour} \\\\
-                 &= \dfrac {17 \times 10 \times 15 \times 4} {15 \times 10} \\\\
-                 &= \dfrac {17 \times \cancel{10} \times \cancel{15} \times 4} {\cancel{15} \times \cancel{10}} \\\\
-                 &= 17 \times 4 \\\\
-                 &= 68 \ \text {miles/hour}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$68 \ \text {miles/hour}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>3C1A8ECE-FC50-4AC9-B755-F100FE9325E2</p>
 </div>
@@ -249,7 +118,7 @@ $3 \ \text {hours} \ 20 \ \text {minutes}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -403,7 +272,7 @@ Josh can walk at $6 \ \text{km}$ per hour. How long will he take to finish the w
 <div class='workings'>
 <div class='working'>
 
-Time $= \dfrac {\text{Distance}} {\text{Speed}}$
+$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 As per the question,
 

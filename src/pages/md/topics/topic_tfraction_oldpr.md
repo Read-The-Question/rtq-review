@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-oldpr"
 title: "Topic - Fraction - Old PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -343,119 +343,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $17 \dfrac{1}{2} \div 5$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 17 \dfrac{1}{2} \div 5 \\\\
-&= \dfrac {35} {2} \div 5 \\\\
-&= \dfrac {35} {2} \times \dfrac {1} {5} \\\\
-&= \dfrac {35} {2 \times 5} \\\\
-&= \dfrac {35} {10} \\\\
-&= 3.5
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 17 \dfrac{1}{2} \div 5 \\\\
-&= \dfrac {35} {2} \div 5 \\\\
-&= \dfrac {35} {2} \times \dfrac {1} {5} \\\\
-&= \dfrac {35} {2 \times 5} \\\\
-&= \dfrac {7 \times 5} {2 \times 5} \\\\
-&= \dfrac {7 \times \cancel{5}} {2 \times \cancel{5}} \\\\
-&= \dfrac {7} {2} \\\\
-&= 3 \dfrac {1} {2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>69D9A9B8-8B5E-4E13-992D-5BBC123F9133</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write $0.64$ as a fraction in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.64 \\\\
-&= \dfrac{64}{100} \\\\
-&= \dfrac{4 \times 16}{4 \times 25} \\\\
-&= \dfrac{\cancel{4} \times 16}{\cancel{4} \times 25} \\\\
-&= \dfrac{ 16}{25}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{ 16}{25}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-pr"
 title: "Topic - Infer - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -155,11 +155,11 @@ To compare, let's find the sum first.
 $
 \begin{aligned}
 \text {DOG}     &= 4 + 15 + 7 \\\\
-                &= 26
+                &= 26 \\\\
 \text {CATS}    &= 3 + 1 + 20 + 19 \\\\
-                &= 43
+                &= 43 \\\\
 \text {FISH}    &= 6 + 9 + 19 + 8 \\\\
-                &= 42
+                &= 42 \\\\
 \text {BIRD}    &= 2 + 9 + 18 + 4 \\\\
                 &= 33
 \end{aligned}
@@ -340,11 +340,11 @@ To compare, let's find the product first.
 $
 \begin{aligned}
 \text {DOG}     &= 4 \times 15 \times 7 \\\\
-                &= 420
+                &= 420 \\\\
 \text {CATS}    &= 3 \times 1 \times 20 \times 19 \\\\
-                &= 1140
+                &= 1140 \\\\
 \text {FISH}    &= 6 \times 9 \times 19 \times 8 \\\\
-                &= 8208
+                &= 8208 \\\\
 \text {BIRD}    &= 2 \times 9 \times 18 \times 4 \\\\
                 &= 1296
 \end{aligned}
@@ -1217,75 +1217,6 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>C9620571-1496-4114-9AAF-B424470A86A3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have a painting in a frame. The frame is $75 \ \text{cm}$ wide and $65 \ \text{cm}$ high. There is a border $15 \ \text{cm}$ wide around the painting. Find the width and height of the painting.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the picture,
-
-$
-\begin{aligned}
-\text{Width of the painting}                        &= \text{Total width} - 2 \times \text{Frame height} \\\\
-                                                    &= 75 \ \text{cm} - 2 \times 15 \ \text{cm} \\\\
-                                                    &= 75 - 30 \\\\
-                                                    &= 45 \ \text{cm}
-\end{aligned}
-$
-
-
-Let's find the height of the painting.
-
-$
-\begin{aligned}
-\text{Height of the painting}                       &= \text{Total height} - 2 \times \text{Frame height} \\\\
-                                                    &= 65 \ \text{cm} - 2 \times 15 \ \text{cm} \\\\
-                                                    &= 65 - 30 \\\\
-                                                    &= 35 \ \text{cm}
-\end{aligned}
-$
-
-Width $= 45 \ \text{cm}$
-
-Height $= 35 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Width $= 45 \ \text{cm}$
-
-Height $= 35 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
 <p>A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E</p>
@@ -1727,195 +1658,6 @@ $34$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>589E5E44-10C8-4537-8ED7-9C02B0A0532C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-You are given that $27 \times 351 = 9477$. 
-
-Use this information to answer the following questions
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$9477 \div 351 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-27 \times 351   &= 9477 \\\\
-27              &= \dfrac {9477} {351} \\\\
-9477 \div 351   &= 27
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2.7 \times 3.51 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-27 \times 351                                &= 9477 \\\\
-\dfrac {27} {10} \times \dfrac {351} {100}   &= \dfrac {9477} {1000} \\\\
-2.7 \times 3.51                              &= 94.77
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9.477$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$947.7 \div 270 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-27 \times 351                                        &= 9477 \\\\
-351                                                  &= \dfrac {9477} {27} \\\\
-\dfrac {9477} {27} \times \dfrac {1} {100}           &= 351 \times \dfrac {1} {100} \\\\
-\dfrac {9477} {10 \times 27 \times 10}               &= \dfrac {351} {100} \\\\
-\dfrac {947.7} {270}                                 &= 3.51
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.51$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$54 \times 351 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-27 \times 351                   &= 9477 \\\\
-2 \times 27 \times 351          &= 2 \times 9477 \\\\
-54 \times 351                   &= 18954
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18954$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>6692F471-DA27-4415-ADF6-727EF20ED385</p>
@@ -2108,57 +1850,6 @@ $504$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>C20A4A1C-A26D-4559-B8BE-890AC044C5DD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these numbers when multiplied by itself gives an answer which ends in a $4$?
-
-$26 \quad 44 \quad 58 \quad 73$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We can figure out if a number multiplied by itself ends in $4$ just by multiplying the unit digit of the number to itself.
-
-|      Number       | Unit Digit    |       Answer          |
-|:----------------: |:----------:   |:-----------------:    |
-| $2 \underline 6$  |     $6$       | $6 \times 6 = 36$     |
-| $4 \underline 4$  |     $4$       | $4 \times 4 = 16$     |
-| $5 \underline 8$  |     $8$       | $8 \times 8 = 64$     |
-| $7 \underline 3$  |     $3$       | $3 \times 3 = 9$      |
-
-From the table above, the answer is $58$ as it has $4$ in its unit place.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$58$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

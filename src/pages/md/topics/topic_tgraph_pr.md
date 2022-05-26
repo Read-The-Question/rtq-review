@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-pr"
 title: "Topic - Graph - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -597,7 +597,7 @@ $\text{Food technology}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>0CC40F6E-A0EB-4D96-A29B-510F9BBC8915</p>
 </div>
@@ -672,10 +672,12 @@ How many more people liked crisps than biscuits?
 <div class='workings'>
 <div class='working'>
 
+As per the bar chart,
+
 $
 \begin{aligned}
-&= 15 - 7 \\\\
-&= 8
+\text {Crisp - Biscuits} &= 15 - 7 \\\\
+                         &= 8
 \end{aligned}
 $
 
@@ -705,10 +707,12 @@ How many friends did she ask in total?
 <div class='workings'>
 <div class='working'>
 
+As per the bar chart,
+
 $
 \begin{aligned}
-\text{Total friends} &=  5 + 7 + 14 + 15 + 11 \\\\
-                     &=  52
+\text{Total friends} &= 5 + 7 + 14 + 15 + 11 \\\\
+                     &= 52
 \end{aligned}
 $
 
@@ -729,12 +733,12 @@ $52$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>422F78A1-EBFB-4834-9E93-8E37FE51E544</p>
 </div>
@@ -812,14 +816,14 @@ What does this word mean?
 <div class='workings'>
 <div class='working'>
 
-$\text {Obtuse angle is any angle greater than 90\degree}$
+$\text {Obtuse angle is any angle greater than 90\degree but less than 180 \degree}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Obtuse angle is any angle greater than 90\degree}$
+$\text {Obtuse angle is any angle greater than 90 \degree but less than 180 \degree}$
 
 </div>
 </div>
@@ -831,7 +835,7 @@ $\text {Obtuse angle is any angle greater than 90\degree}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

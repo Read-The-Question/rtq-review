@@ -1,57 +1,9 @@
 ---
 slug: "topics/topic-tprobability-pr"
 title: "Topic - Probability - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>4D10C32B-84EF-4926-8792-562717818250</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If the probability of it raining tomorrow is $0.08$, what is the probability of it not raining tomorrow?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Probabilities ALWAYS add up to 1.
-
-$
-\begin {aligned} 
-\text {Probability of not raining}    &= 1 - \text {Probability of raining tomorrow} \\\\
-                                      &= 1 - 0.08 \\\\
-                                      &= 0.92
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.92$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-all"
 title: "Owner - Sahil Choudhary - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10182,7 +10182,7 @@ $2.34$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>4DAC2267-23FB-4819-9BFF-D6661D1E820C</p>
 </div>
@@ -10237,7 +10237,7 @@ $499.5$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -11443,7 +11443,7 @@ $
                         &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
                         &= 2 \times 3 \\\\
                         &= 6 \\\\
-\text{Total age}        &= \text{Age (Richard) + Age (Adam) + Age (Will)} \\\\
+\text{Total age}        &= \text{Richard's age + Adam's age + Will's age} \\\\
                         &= 18 + 9 + 6 \\\\
                         &= 33
 \end{aligned}
@@ -12066,7 +12066,7 @@ b                        &= 5
 \end{aligned}
 $
 
-Two numbers that have a difference of 8 and added upto 18 are $13$ and $5$
+Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
 
 </div>
 </div>
@@ -12473,7 +12473,7 @@ Cylinder
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>E74386F9-853B-41A1-A1B6-1E43F7517043</p>
 </div>
@@ -12639,7 +12639,7 @@ $\text{Closest number to} \ 60 = 58 \\\\
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -13119,7 +13119,7 @@ $804 \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>4252BA5D-0BF6-433E-9D77-6F405A9A2820</p>
 </div>
@@ -13160,7 +13160,7 @@ $1085$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -13205,7 +13205,7 @@ $36043$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>D30B2018-F522-4962-8607-0CC146C6A765</p>
 </div>
@@ -13246,7 +13246,7 @@ $744$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -13287,7 +13287,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-3.33, \quad 3.303, \quad 3.3, \quad 3.03, \quad 3
+$3.33, \quad 3.303, \quad 3.3, \quad 3.03, \quad 3$
 
 </div>
 </div>
@@ -13301,7 +13301,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>07B7F155-62F9-4100-8C73-1796ABA98DCB</p>
 </div>
@@ -13345,7 +13345,7 @@ $\pounds 2.20$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -13392,7 +13392,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>9F69A09F-DC67-4C65-9482-73903E4F9BB4</p>
 </div>
@@ -13453,7 +13453,7 @@ $28 \ \text{cm}$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -13726,7 +13726,7 @@ $\dfrac {22} {25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>5E19CBBE-54A1-4C50-9739-F3060E708FD9</p>
 </div>
@@ -13781,7 +13781,7 @@ $21$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -13904,7 +13904,7 @@ $0.125$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>2FE662D1-5747-42DC-BB3C-817459AFFB50</p>
 </div>
@@ -13947,12 +13947,12 @@ $\pounds 7.30$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>03309616-DD87-4C53-89CA-064E7763B9C2</p>
 </div>
@@ -13993,7 +13993,7 @@ $1044$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -14262,15 +14262,18 @@ What is $5371 \div 131?$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+Using the information given above,
 
 $
 \begin{aligned}
-5371                                               &= 41 \times 131 \\\\
-\dfrac {5371} {131}                                &= 41 \\\\
-5371 \div 131                                      &= 41
+41 \times 131                                      &= 5371 \\\\
+41                                                 &= \dfrac {5371} {131}
 \end{aligned}
 $
+
+As per the question,
+
+$5371 \div 131 = 41$
 
 </div>
 </div>
@@ -14300,7 +14303,7 @@ What is $4.1 \times 13.1$
 
 As per the question, 
 
-$41 \times 31 = 5371$
+$41 \times 131 = 5371$
 
 To find $4.1 \times 13.1$ we need to count the total number of digits after the decimal points and  account for the same in the answer given above.
 
@@ -14596,7 +14599,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>219060A7-EC1A-4ED0-B135-50542C15C7B7</p>
 </div>
@@ -14640,12 +14643,12 @@ $3{:}18 \ \text{pm}$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>B72AF037-E752-4BED-91CE-38848837F037</p>
 </div>
@@ -14688,7 +14691,7 @@ $36$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -14743,7 +14746,7 @@ How many bricks will there be in the wall?
 
 $
 \begin{aligned}
-\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick Width} \\\\
+\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick width} \\\\
                                                     &= 23 \times 12 \\\\
                                                     &= 276
 \end{aligned}
@@ -14810,7 +14813,7 @@ $3 \ \text{hours} \ 4 \ \text{minutes or} \ 184 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>20EB0151-9603-4A9B-8AA6-93D45586F5A7</p>
 </div>
@@ -14933,7 +14936,7 @@ $8$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -14965,9 +14968,9 @@ As per the diagram,
 
 $
 \begin{aligned}
-90 + 35 + x              &= 180 \degree \\\\
-x                        &= 180 - 90 - 35 \\\\
-x                        &= 55 \degree
+90 \degree + 35 \degree + x \degree      &= 180 \degree \\\\
+x                                        &= 180 - 90 - 35 \\\\
+x                                        &= 55 \degree
 \end{aligned}
 $
 
@@ -15038,7 +15041,7 @@ Josh can walk at $6 \ \text{km}$ per hour. How long will he take to finish the w
 <div class='workings'>
 <div class='working'>
 
-Time $= \dfrac {\text{Distance}} {\text{Speed}}$
+$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 As per the question,
 
@@ -15111,7 +15114,7 @@ $6 \ \text{km}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>C9620571-1496-4114-9AAF-B424470A86A3</p>
 </div>
@@ -15175,7 +15178,7 @@ Height $= 35 \ \text{cm}$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -15205,7 +15208,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Sweets Martin took}                               &= \text{Total sweets} - \text{Sweets Dai took} \\\\
+\text{Sweets Martin take}                               &= \text{Total sweets} - \text{Sweets Dai take} \\\\
 a                                                       &= 65 - (a - 7) \\\\
 a                                                       &= 65 - a + 7 \\\\
 a + a                                                   &= 65 + 7 \\\\
@@ -15238,7 +15241,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>1386CD9E-4F45-4B19-8D78-E266D298EDFB</p>
 </div>
@@ -15287,7 +15290,7 @@ $24$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -15448,7 +15451,7 @@ $7 \ \text{or} \ -4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>9696AFF2-8BB6-47BB-AB96-3D55F6294E9D</p>
 </div>
@@ -15489,7 +15492,7 @@ $897$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -15534,7 +15537,7 @@ $45702$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>6AD5A951-0BD7-4634-81E4-6B0A6EF29F28</p>
 </div>
@@ -15575,12 +15578,12 @@ $2436$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>2C461D4B-A0D4-4142-815D-87E7AEDBA08F</p>
 </div>
@@ -15625,12 +15628,12 @@ $7.77, \quad 7.707, \quad 7.7, \quad 7.07, \quad 7$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>56C543D5-BB5B-4474-8B73-44CAEEF83470</p>
 </div>
@@ -15674,7 +15677,7 @@ $\pounds 23.20$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -15721,7 +15724,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>FB99253B-2684-4954-B0CD-C244509033ED</p>
 </div>
@@ -15786,7 +15789,7 @@ $32 \ \text{cm}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -16179,7 +16182,7 @@ $0.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>EFD43A9D-C622-4E56-8393-2CA2B39FA64E</p>
 </div>
@@ -16223,7 +16226,7 @@ $\pounds 6.20$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -16538,6 +16541,15 @@ Using the information given above, what is $7504 \div 56$?
 <div class='working'>
 
 Using the information given above,
+
+$
+\begin{aligned}
+56 \times 134              &= 7504 \\\\
+134                        &= \dfrac {7504} {56}
+\end{aligned}
+$
+
+As per the question,
 
 $7504 \div 56 = 134$
 
@@ -16863,7 +16875,7 @@ $45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>434CD114-4752-47E2-A24B-B5229509F3BD</p>
 </div>
@@ -16907,12 +16919,12 @@ $2{:}32 \ \text{pm}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>535DDC7C-F46C-4FFD-AF90-E1FC89C96B9F</p>
 </div>
@@ -16961,12 +16973,12 @@ $1440 \ \text{minutes}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>40F554A0-24C8-450E-8BE8-E1659D2E8274</p>
 </div>
@@ -17078,12 +17090,12 @@ $3 \ \text{hours} \ 10 \ \text{minutes or } 190 \ \text{minutes}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>5E0750D3-B277-4BD3-9DE3-609CCC70C5CD</p>
 </div>
@@ -17129,7 +17141,7 @@ $4 \degree \text{C}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -17358,7 +17370,7 @@ Julie can walk at $6 \ \text{km}$ per hour. How long will she take to finish the
 <div class='workings'>
 <div class='working'>
 
-Time $= \dfrac {\text{Distance}} {\text{Speed}}$
+$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 As per the question,
 
@@ -17532,6 +17544,7 @@ Money Fran have $= \pounds 18$
 
 $
 \begin{aligned}
+\text{Money Fran have}                                  &= \pounds 18 \\\\
 \text{Money Karen have}                                 &= \pounds 45 - \pounds 18 \\\\
                                                         &= \pounds 27
 \end{aligned}
@@ -17686,11 +17699,13 @@ If an adult ticket on the bus costs $\pounds 1.50$ and a child ticket costs $90 
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Change (Received)}                        &= \text{Money (Paid)} - (\text{Ticket Cost ( 2 x Adults)} + \text{Ticket Cost ( 3 x Children)}) \\\\
+\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 3 \ \text{Children} \\\\
                                                 &= \pounds 10 - (2 \times \pounds 1.50 + 3 \times 90 \text{p}) \\\\
                                                 &= \pounds 10 - (\pounds 3 + 270 \text{p}) \\\\
                                                 &= \pounds 10 - (\pounds 3 + \pounds \dfrac {270} {100}) \\\\
@@ -17743,7 +17758,7 @@ If a square has an area of $36cm^2$, what is its perimeter?
 <div class='workings'>
 <div class='working'>
 
-Area of square $= \text{Side} \times \text{Side}$
+Area of a square $= \text{Side} \times \text{Side}$
 
 As per the question,
 
@@ -17757,7 +17772,7 @@ a                                               &= 6 \ \text{cm}
 \end{aligned}
 $
 
-The Length of the side of square $= 6 \ \text{cm}$
+The length of the side of the square $= 6 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
@@ -17862,7 +17877,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times (\text{No. of minutes in an hour} \\\\
+\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times \text{No. of minutes in an hour} \\\\
                                 &= 24 \times 60 \\\\
                                 &= 1440 \ \text{minutes}
 \end{aligned}
@@ -17910,7 +17925,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature difference}                                       &= \text{Temperature (Rome)} - \text{Temperature (Moscow)} \\\\
+\text{Temperature difference}                                       &= \text{Temperature in Rome} - \text{Temperature in Moscow} \\\\
                                                                     &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
                                                                     &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
                                                                     &= 19 \degree \text{C}
@@ -17963,13 +17978,13 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Maximum passengers}                                           &= \text{Passenger per capsule} + \text{No. of capsules} \\\\
+\text{Maximum passengers}                                           &= \text{Passengers per capsule} \times \text{No. of capsules} \\\\
                                                                     &= 18 \times 32 \\\\
                                                                     &= 576
 \end{aligned}
 $
 
-The maximum number of passengers that can travel at once $= 576$
+The maximum number of passengers that can travel at any one time $= 576$
 
 </div>
 </div>
@@ -19520,7 +19535,7 @@ $13083$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>0599F702-1B64-45DB-AEE4-5001AF8C4CBC</p>
 </div>
@@ -19564,12 +19579,12 @@ $\text{One million, five-hundred twenty-thousand, one-hundred}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>64E8E815-C669-487D-AEA2-5443BC448443</p>
 </div>
@@ -19629,7 +19644,7 @@ $4 \dfrac {2} {5}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -19719,7 +19734,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Players (Glasses)}                 &= 3 \times  \text {Players (Left-handed)} \\\\
+\text {Fraction wearing glasses}          &= 3 \times  \text{Left-handed players} \\\\
                                           &= 3 \times \dfrac {1}{9} \\\\
                                           &= \dfrac {3 \times 1} {9} \\\\
                                           &= \dfrac {3 \times 1} {3 \times 3} \\\\
@@ -19772,7 +19787,7 @@ The angles in a triangle always add up to $180 \degree$ . In the triangle shown 
 
 As per the question,
 
-We know that the sum of all angles of a triangle $= 180 \degree$.
+We know that the sum of all angles of a triangle is $180 \degree$.
 
 $
 \begin{aligned}
@@ -19787,7 +19802,7 @@ c                                             &= 20 \degree
 \end{aligned}
 $
 
-Let's find angel $b$
+Let's find angle $b$
 
 $
 \begin{aligned}
@@ -19813,7 +19828,7 @@ $
 
 Alternative Solution
 
-We know that the sum of all angles of a triangle $= 180 \degree$.
+We know that the sum of all angles of a triangle is $180 \degree$.
 
 As per the question,
 
@@ -19864,7 +19879,7 @@ $140 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9</p>
 </div>
@@ -19917,7 +19932,7 @@ $150 \degree$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -20323,7 +20338,7 @@ $18046$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>12F83AD1-E7FF-442E-89CC-590C4E8E912A</p>
 </div>
@@ -20358,7 +20373,7 @@ $\text{Three million, sixty thousand, one hundred and twenty}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -20432,10 +20447,9 @@ Work out one third of one quarter of 252
 <div class='workings'>
 <div class='working'>
 
-One third of one quarter of $= 252$
-
 $
 \begin{aligned}
+$= \text{one third of one quarter of 252} \\\\
 &= \dfrac {1} {3} \times \dfrac {1} {4} \times 252 \\\\
 &= \dfrac {1 \times 1 \times 252} {3 \times 4} \\\\
 &= \dfrac {2 \times 126} {3 \times 2 \times 2} \\\\
@@ -20804,20 +20818,15 @@ A theatre has seats arranged in rows of 22. If an audience of 483 fills the rows
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$
+\begin {aligned}
+\text {No. of rows occupied}          &= \text \dfrac {Total audience} {Seats per row} \\\\
+                                      &= \dfrac {483} {22} \\\\
+                                      &= 21 \dfrac {21} {22}
+\end {aligned}
+$
 
-$
-\begin{aligned}
-&= \dfrac {483} {22} \\\\
-&= 21 \dfrac {21} {22}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of rows that will be occupied}              &= 21                                   
-\end{aligned}
-$
+Number of rows that will be full $= 21$
 
 </div>
 </div>
@@ -20876,7 +20885,8 @@ $
 
 There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
 
-Multiplying $3$ both side in the first equation.
+Multiply the first equation by $3$.
+
 $
 \begin{aligned} 
 3(a + b)                    &= 3 \times 57 \\\\
@@ -20895,14 +20905,36 @@ a                         &= 40 \ \text{cm}
 \end{aligned}
 $
 
-The length of the each gap is $40 \ \text{cm}$
+The length of the each gap is $= 40 \ \text{cm}$
+
+</div>
+<div class='working'>
+
+Alternative answer,
+
+As per the question,
+
+$
+\begin {aligned}
+57 \ \text{cm} + 57 \ \text{cm}  + \ \text{Post}     &= 131 \ \text{cm} \\\\
+\text{Post}                                          &= 131 - 57 - 57 \\\\
+                                                     &= 17 \ \text{cm}
+\end {aligned} 
+$
+
+$
+\begin {aligned}
+\text{Width of gap}                                  &= 57 \ \text{cm} -17  \ \text{cm} \\\\
+                                                     &= 40  \ \text{cm}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$40$
+$40 \ \text{cm}$
 
 </div>
 </div>

@@ -1,9 +1,351 @@
 ---
 slug: "topics/topic-tmoney-g1"
 title: "Topic - Money - G1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>36F489C8-4D43-443D-8436-ED8F6DD25EB8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sophie and her friends decided to raise money for charity by baking and selling cookies.
+They set themselves a target of $\pounds 200$ profit to raise.
+
+Each cookie cost them $10 \text{p}$ to make and they sold them for $50 \text{p}$.
+
+How many cookies did they need to sell to reach their target?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert the total amount into pence.
+
+$
+\begin {aligned}
+\text{Total amount}     &= \pounds 200 \\\\
+                        &= 200 \times 100 \text{p} \\\\
+                        &= 20000 \text{p}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Cost of each cookie}              &= 10 \text{p} \\\\
+\text {Sale Price for each cookie}       &= 50 \text{p} \\\\
+\text {Profit per cookie}                &= 50 - 10 \\\\
+                                         &= 40 \text{p}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Number of cookies needed}             &= \dfrac {\text{Total target}} {\text{Profit per cookie}} \\\\
+                                             &= \dfrac {20000} {40} \\\\
+                                             &= 500
+\end {aligned}
+$
+
+</div>
+<div class='working'>
+
+This can be solved using algebra as well.
+
+Let the number of cookies $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+(50 - 10) \times c              &= 20000 \\\\
+40c                             &= 20000 \\\\
+c                               &= \dfrac {20000} {40} \\\\
+c                               &= 500
+\end {aligned}
+$
+
+Number of cookies needed $= 500$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$500$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>B9A0C103-F37E-45E0-8E72-914E65E4982D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$200$ items are bought for $\pounds 2.10$. Each are now worth $\pounds 1.61$. Find the total loss.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Loss for} \ 1 \ \text{item}     &= 2.10 - 1.61 \\\\
+                                      &= 0.49 \\\\
+\text{Loss for} \ 200 \ \text{items}  &= 0.49 \times 200 \\\\
+                                      &= \pounds 98
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 98$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>CCEC5B5B-5806-4EE1-84D1-019B559F2867</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these amounts is the cheaper? Circle your answer.
+
+$25 \%$ of $\pounds 64$ or $20 \%$ of $\pounds 75$
+
+Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate both the values.
+
+$
+\begin {aligned}
+\text {First amount}     &= 25 \% \ \text{of} \ \pounds 64 \\\\
+                         &= \dfrac {25} {100} \times 64 \\\\
+                         &= \dfrac {25 \times 64} {100} \\\\
+                         &= \dfrac {25 \times 4 \times 16} {25 \times 4} \\\\
+                         &= \dfrac {\cancel{25} \times \cancel{4} \times 16} {\cancel{25} \times \cancel{4}} \\\\
+                         &= \pounds 16 \\\\
+\text {Second amount}    &= 20 \% \ \text{of} \ \pounds 75 \\\\
+                         &= \dfrac {20} {100} \times 75 \\\\
+                         &= \dfrac {20 \times 75} {100} \\\\
+                         &= \dfrac {20 \times 5 \times 15} {20 \times 5} \\\\
+                         &= \dfrac {\cancel{20} \times \cancel{5} \times 15} {\cancel{20} \times \cancel{5}} \\\\
+                         &= \pounds 15
+\end {aligned}
+$
+
+From the calculation above, $20 \%$ of $\pounds 75$ is cheaper.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \%$ of $\pounds 75$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>3535C8D5-DE86-4450-A6FD-9386A9F13C8D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tprofit
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Have a look at the deals ticket vendors are offering: 
+
+Each ticket cost $\pounds 480$. 
+
+| Super Tickets            |
+|:--------------------:    |
+| Buy $2$ get $1$ free     |
+
+| Tickets R US                            |
+|:-------------------------------------:|
+| Buy $3$ get $25 \%$ off total price     |
+
+
+| Ticket Galore                      |
+|:--------------------------------:    |
+| Buy $1$ get $2$ at $40 \%$ off     |
+ 
+|         Top Ticket             |
+|:--------------------------:    |
+| Buy $2$ get $1$ half price     |
+
+If I needed $3$ tickets, put the vendors in order (cheapest first).
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the best price of $3$ tickets from each vendor.
+
+**Super Tickets**
+
+$
+\begin  {aligned}
+\text{Cost of } 3 \text{ tickets}     &= 480 \times 2 \\\\
+                                      &= \pounds 960
+\end {aligned}
+$
+
+**Tickets R US**
+
+If the total price is reduced by $25 \%$, then the sale price will be $100 - 25 = 75 \%$ of the original price. Using that, we get
+
+$
+\begin {aligned}
+\text {Cost of} \ 3 \text \ {tickets}      &= 75\% \times 480 \times 3 \\\\
+                                           &= \dfrac{75}{100} \times 480 \times 3 \\\\
+                                           &= \dfrac{75 \times 480 \times 3}{100} \\\\
+                                           &= \dfrac{25 \times 3 \times 4 \times 120 \times 3}{25 \times 4} \\\\
+                                           &= \dfrac{\cancel{25} \times 3 \times \cancel{4} \times 120 \times 3}{\cancel{25} \times \cancel{4}} \\\\
+                                           &= 3 \times 120 \times 3 \\\\
+                                           &= \pounds 1080
+\end {aligned}
+$
+
+**Ticket Galore**
+
+If the price is reduced by $40 \%$, then the sale price will be $100 - 40 = 60 \%$ of the original price. Using that, we get
+
+$
+\begin {aligned}
+\text {Cost of} \ 3 \ \text{tickets}      &= 480 + 60\% \times 480 \times 2 \\\\
+                                          &= 480 + \dfrac{60}{100} \times 480 \times 2 \\\\
+                                          &= 480 + \dfrac{60 \times 480 \times 2}{100} \\\\
+                                          &= 480 + \dfrac{6\cancel{0} \times 48\cancel{0} \times 2}{1\cancel{0}\cancel{0}} \\\\
+                                          &= 480 + 6 \times 48 \times 2 \\\\
+                                          &= 480 + 576 \\\\
+                                          &= \pounds 1056
+\end {aligned}
+$
+
+
+**Top Ticket**
+
+If the price is reduced by $\dfrac{1}{2}$, then the sale price will be $1 - \dfrac{1}{2} = \dfrac{1}{2}$ of the original price. Using that, we get
+
+$
+\begin {aligned}
+\text{Cost of} \ 3 \ \text{tickets}      &= 480 \times 2 + \dfrac{1}{2} \times 480 \\\\
+                                         &= 960 + \dfrac{480}{2} \\\\
+                                         &= 960 + 240 \\\\
+                                         &= \pounds 1200
+\end {aligned}
+$
+
+Using the calculation above, the vendors in order (cheapest first):
+
+|  Vendor       | Price          |
+|:-------------:|:--------------:|
+| Super Tickets | $\pounds 960$  |
+| Ticket Galore | $\pounds 1056$ |
+| Tickets R US  | $\pounds 1080$ |
+| Top Ticket    | $\pounds 1200$ |
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top Ticket}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
@@ -4579,6 +4921,55 @@ $255 \text{p}$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>07B7F155-62F9-4100-8C73-1796ABA98DCB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A family with two adults and four children go to the circus. If an adult ticket costs $\pounds 11.50$ and a child ticket costs $\pounds 3.70$, how much change will they get if they pay with two $\pounds 20$ notes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 4 \ \text{Children} \\\\
+                                                &= 2 \times \pounds 20 - 2 \times \pounds 11.50 - 4 \times \pounds 3.70 \\\\
+                                                &= 40 - 23 - 14.80 \\\\
+                                                &= \pounds 2.20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>F3F34EA3-2E57-420F-B3B7-CB31E96031AB</p>
 </div>
 <div class='topics'>
@@ -4689,6 +5080,103 @@ $\pounds 104.50$
 </ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>2FE662D1-5747-42DC-BB3C-817459AFFB50</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Julie owed Tasweer $\pounds 12.70$. She paid her back with a $\pounds 20$ note but she did not have any change. How much does Tasweer now owe Julie?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Tasweer owe Julie}                           &= \text{Money Julie paid - Money Julie owed} \\\\
+                                                   &= \pounds 20 - \pounds 12.70 \\\\
+                                                   &= \pounds 7.30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7.30$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>56C543D5-BB5B-4474-8B73-44CAEEF83470</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A family with $\text{two}$ adults and $\text{three}$ children go to the Zoo. If an adult ticket costs $\pounds 9.50$ and a child ticket costs $\pounds 2.60$, how much change will they get if they pay with a $\pounds 50$ note? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 3 \ \text{Children} \\\\
+                                                &= \pounds 50 - 2 \times \pounds 9.50 - 3 \times \pounds 2.60 \\\\
+                                                &= 50 - 19 - 7.80 \\\\
+                                                &= \pounds 23.20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 23.20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -4811,6 +5299,55 @@ $\pounds 114$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>EFD43A9D-C622-4E56-8393-2CA2B39FA64E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tina owed Josh $\pounds 23.80$. She paid him back with three $\pounds 10$ notes but he did not have any change. How much does Josh now owe Tina?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Josh owe Tina}                               &= \text{Money Julie paid} - \text{Money Julie owed} \\\\
+                                                   &= 3 \times \pounds 10 - \pounds 23.80 \\\\
+                                                   &= \pounds 30 - \pounds 23.80 \\\\
+                                                   &= \pounds 6.20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 6.20$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
@@ -5677,7 +6214,7 @@ $\pounds 1.70$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>83315ED9-DB65-48DC-A17E-D2511B4529A7</p>
 </div>
@@ -5768,7 +6305,7 @@ $\pounds 7,\pounds 1,\pounds 1$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -6248,7 +6785,7 @@ $\pounds 1.45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>768047AF-2D34-4B56-88E6-802A32B95806</p>
 </div>
@@ -6470,12 +7007,12 @@ $\pounds 1.85$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>AAF50B0C-7B6A-4176-B987-3E6426D91A8E</p>
 </div>
@@ -6685,7 +7222,7 @@ $\pounds 51.9$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -7593,6 +8130,134 @@ $\pounds 52.2$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>92ED95C5-5173-4603-A6B6-7ACBF5D59202</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When I emptied my pockets recently I found I had a mixture of $10 \text{p}$, $20 \text{p}$, $50 \text{p}$ and $\pounds 1$ coins. 
+When I counted the value of all the coins, the total amount came to $\pounds 7.20$ and there were equal numbers of each coin. 
+
+How many coins were there altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of coins of each denomination $= c$.
+
+It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+
+As per the question,
+
+$
+\begin{aligned}
+10 \times c + 20 \times c + 50 \times c + 100 \times c   &= \pounds 7.20 \\\\
+10c + 20c + 50c + 100c                                   &= 720 \\\\
+180c                                                     &= 720 \\\\
+c                                                        &= \dfrac {720} { 180} \\\\
+c                                                        &= \dfrac {180 \times 4} { 180} \\\\
+c                                                        &= \dfrac {\cancel{180} \times 4} { \cancel{180}} \\\\
+c                                                        &= 4
+\end{aligned}
+$ 
+
+There are $4$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}   &=  4 \times 4 \\\\
+                     &= 16 \ \text{coins}
+\end{aligned}
+$   
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>81E1B098-E3D4-4FFB-8782-94935FEFD938</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $30 \%$ of $\pounds 16.80$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 30 \% \ \text {of} \ \pounds 16.80 \\\\
+&=\dfrac {30} {100} \times 16.8 \\\\
+&=\dfrac {30 \times 16.8} {100} \\\\
+&=\dfrac {504} {100} \\\\
+&= \pounds 5.04
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 5.04$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-pr"
 title: "Topic - Perimeter - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -143,55 +143,6 @@ Length $= 9 \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>C0C8BAF7-9385-479F-9E5D-1E52D264A4D0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the perimeter of the shape below.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Perimeter}   &= \text {Sum of all sides} \\\\
-                    &= 20 \ \text {cm} + 5 \ \text {cm} + (20 - 12) \ \text {cm} + (8 - 5) \ \text {cm} + 12 \ \text {cm} + 8 \ \text {cm} \\\\
-                    &= 25 + 8 + 3 + 20 \\\\
-                    &= 56 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$56 \ \text {cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -724,10 +675,10 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total distance travelled bye the mouse}  &= \text {Perimeter of the field} \\\\
-                                                &= 70 + 75 + (130 - 70) + 25 + 130 + (75 + 25) \\\\
-                                                &= 145 + 60 + 155 + 100 \\\\
-                                                &= 460 \ \text {m}
+\text {The mouse walked}  &= \text {Sum of all edges} \\\\
+                          &= 70 + 75 + (130 - 70) + 25 + 130 + (75 + 25) \\\\
+                          &= 145 + 60 + 155 + 100 \\\\
+                          &= 460 \ \text {m}
 \end {aligned}
 $
 
@@ -2292,142 +2243,6 @@ $24 \text{m}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>9F69A09F-DC67-4C65-9482-73903E4F9BB4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A square has area $49\ \text{cm}^2$. What is the perimeter of the square?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know, 
-
-Area of a square $= \text{Side} \times \text{Side}$
-
-As per the question,
-
-Let the length of the square (in cm) $= a$
-
-$
-\begin{aligned}
-a \times a                                      &= 49 \ \text{cm}^2\\\\
-a^{2}                                           &= 7^{2} \\\\
-a                                               &= 7 \ \text{cm}
-\end{aligned}
-$
-
-The length of the side of the square $= 7 \ \text{cm}$
-
-Let's find the perimeter of the square.
-
-$
-\begin{aligned}
-\text{Perimeter of the square}                  &= 4 \times a \\\\
-                                                &= 4 \times 7 \\\\
-                                                &= 28 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$28 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>FB99253B-2684-4954-B0CD-C244509033ED</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A square has area $64\ \text{cm}^2$. What is the perimeter of the square? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know,
-
-Area of a square $= \text{Side} \times \text{Side}$
-
-As per the question,
-
-Let the length of the square (in cm) $= a$
-
-
-$
-\begin{aligned}
-a \times a                                      &= 64 \ \text{cm}^2\\\\
-a^{2}                                           &= 8^{2} \\\\
-a                                               &= 8 \ \text{cm}
-\end{aligned}
-$
-
-The length of the side of the square $= 8 \ \text{cm}$
-
-Let's find the perimeter of the square.
-
-$
-\begin{aligned}
-\text{Perimeter of the square}                  &= 4 \times a \\\\
-                                                &= 4 \times 8 \\\\
-                                                &= 32 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>4AFBC40F-1638-4EA4-8624-F4D2729AD1A4</p>
 </div>
 <div class='topics'>
@@ -2448,7 +2263,7 @@ If a square has an area of $36cm^2$, what is its perimeter?
 <div class='workings'>
 <div class='working'>
 
-Area of square $= \text{Side} \times \text{Side}$
+Area of a square $= \text{Side} \times \text{Side}$
 
 As per the question,
 
@@ -2462,7 +2277,7 @@ a                                               &= 6 \ \text{cm}
 \end{aligned}
 $
 
-The Length of the side of square $= 6 \ \text{cm}$
+The length of the side of the square $= 6 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
@@ -5229,6 +5044,93 @@ $18 \ \text {stickers}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>74DBCD36-37BB-4856-BF34-7C3AA8E7DF0E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tarea
+</li>
+<li>
+tquadraticprompt
+</li>
+<li>
+tperimeter
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The area of a rectangle is $72$ square centimetres. The length of the rectangle is $1 \ \text{cm}$ more than the width.
+
+Work out the length of the perimeter of the rectangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle in ($\text{cm}$) $= a$
+
+Then, as per the question, the length of the rectangle in ($\text{cm}$) $= a +1$
+
+$\text{Area} = \text{length} \times \text{width}$
+
+Equating dimensions to the area, we get
+
+$a \times (a + 1) = 72$
+
+This is a quadratic equation and we can infer the value for $a$ by looking at the factors for $72$.
+
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+
+$
+\begin{aligned}
+a \times (a + 1)    &= 72 \\\\
+8 \times (8 + 1)    &= 72 \\\\
+8 \times 9          &= 72  \\\\
+a                   &= 8  \ \text{cm}
+\end{aligned}
+$
+
+Let's find the perimeter of the rectangle.
+
+$
+\begin{aligned}
+\text{Perimeter}    &= 2 \times (\text{length} + \text{width}) \\\\
+                    &= 2 \times (a + a + 1) \\\\
+                    &= 2 \times (8 + 8 + 1) \\\\
+                    &= 2 \times 17 \\\\
+                    &= 34 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B</p>
@@ -5351,6 +5253,92 @@ $38 \ \text {cm} ^ 2$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle is $4 \ \text{cm}$ longer than it is wide. The 
+distance all the way round the rectangle (its perimeter) 
+is $32 \ \text{cm}$.  What is the area of the rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text{cm}$) $= a$
+
+Then as per the question,
+
+Length $= a + 4$
+
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
+Equating the perimeter to the length and width we get,
+
+$
+\begin{aligned}
+2 \times (a + 4 + a)      &= 32 \\\\
+2 \times (2a + 4)         &= 32 \\\\
+4a + 8                    &= 32 \\\\
+4a                        &= 32 - 8\\\\
+4a                        &= 24\\\\
+a                         &= \dfrac {24} {4} \\\\
+a                         &= 6  \ \text{cm}
+\end{aligned}
+$
+
+$\text{Width} = 6 \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Length}       &= a + 4 \\\\
+                    &= 6 + 4 \\\\
+                    &= 10 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area}         &= \text{length} \times \text{width} \\\\
+                    &= 10 \times 6 \\\\
+                    &= 60 \ \text{cm}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \ \text{cm}^{2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

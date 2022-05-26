@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-all"
 title: "Topic - Factor - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1270,6 +1270,7 @@ $
 \begin{aligned}
 \text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
                     &= \dfrac {90 \times 100} {100} \\\\
+                    &= \dfrac {90 \times \cancel {100} } {\cancel {100} } \\\\
                     &= 90 \%
 \end{aligned}
 $
@@ -1482,7 +1483,7 @@ What is the largest total that can be made adding two cards?
 
 $
 \begin{aligned}
-\text {Largest Total}   &= 49 - 41 \\\\
+\text {Largest Total}   &= 49 + 41 \\\\
                         &= 100
 \end{aligned}
 $
@@ -1658,6 +1659,9 @@ $91$
 <ul>
 <li>
 tfactor
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -3170,7 +3174,7 @@ $3, \ 17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_g1 question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>FD93ED24-BEF8-4802-AAED-9BC436001678</p>
 </div>
@@ -3205,7 +3209,7 @@ $2, 4, 8$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nc_g1</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -7710,7 +7714,7 @@ $\text {Prime numbers}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1</p>
 </div>
@@ -7748,12 +7752,12 @@ $72$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>97113A2F-A515-4241-95D3-B163DACFDAA2</p>
 </div>
@@ -7895,7 +7899,7 @@ $4325$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -8006,7 +8010,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>8BA8E32C-E6C1-449D-8EF9-64E872737D42</p>
 </div>
@@ -8047,7 +8051,7 @@ $195$
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

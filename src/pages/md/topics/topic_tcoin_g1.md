@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-g1"
 title: "Topic - Coin - G1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -240,6 +240,215 @@ $96 \ \text{g}$
 </div>
 <div class='rag'>
 <p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>62371EC4-9B97-4727-A38F-16A5F80DE4BE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tcoin
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I only have five coins in my purse. They are 
+$1 \text{p}, 2 \text{p}, 5 \text{p}, 10 \text{p}$ and $20 \text{p}$. It 
+is not possible to make exactly $19 \text{p}$ with these coins.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the smallest amount that can not be made using my coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4 \text{p}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the two other amounts, less than $20 \text{p}$, which I cannot make.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9 \text{p}, \ 14 \text{p}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \text{p}, \ 14 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The largest amount of money that can be made using these coins
+ is $38 \text{p}$. Find the largest amount of money less 
+ than $38 \text{p}$ which can not be made using these coins.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$34 \text{p}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>92ED95C5-5173-4603-A6B6-7ACBF5D59202</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When I emptied my pockets recently I found I had a mixture of $10 \text{p}$, $20 \text{p}$, $50 \text{p}$ and $\pounds 1$ coins. 
+When I counted the value of all the coins, the total amount came to $\pounds 7.20$ and there were equal numbers of each coin. 
+
+How many coins were there altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of coins of each denomination $= c$.
+
+It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+
+As per the question,
+
+$
+\begin{aligned}
+10 \times c + 20 \times c + 50 \times c + 100 \times c   &= \pounds 7.20 \\\\
+10c + 20c + 50c + 100c                                   &= 720 \\\\
+180c                                                     &= 720 \\\\
+c                                                        &= \dfrac {720} { 180} \\\\
+c                                                        &= \dfrac {180 \times 4} { 180} \\\\
+c                                                        &= \dfrac {\cancel{180} \times 4} { \cancel{180}} \\\\
+c                                                        &= 4
+\end{aligned}
+$ 
+
+There are $4$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}   &=  4 \times 4 \\\\
+                     &= 16 \ \text{coins}
+\end{aligned}
+$   
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

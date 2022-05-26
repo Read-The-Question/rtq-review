@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-g1"
 title: "Owner - Nitin Joshi - G1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12279,6 +12279,1249 @@ $60$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>D22E8139-C56E-4623-B929-0A178195BA8D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write a number in each box to complete the statements.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$16.7 \times 1000 = \boxed{\phantom{1111}}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 16.7 \times 1000 \\\\
+&= 16700
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16700$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\boxed{\phantom{1111}} \div 100 = 3.7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+a \div 100          &= 3.7 \\\\
+\dfrac {a} {100}    &= 3.7 \\\\
+a                   &= 3.7 \times 100 \\\\
+a                   &= 370
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$370$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>407F2714-A43E-4361-B05E-37CC2E87E623</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinequality
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the missing sign $( = , <$ or $>)$ in the box.
+
+$19 \times 3 \ \boxed{\phantom{11}} \  28 \times 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let's calculate the first value.
+
+$
+\begin{aligned}
+&= 19 \times 3 \\\\
+&= 57
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 28 \times 2 \\\\
+&= 56
+\end{aligned}
+$
+
+Using the calculation above,
+
+$19 \times 3 \ \quad \boxed{\green{>}}  \quad  28 \times 2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19 \times 3 \ \quad  > \quad  28 \times 2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The temperature inside Nanook’s igloo is $9 \degree \text{C}$ and the temperature outside is $-12 \degree \text{C}$.
+
+How many degrees warmer is it inside than outside? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Difference in  temperature}  &= 9 - (- 12) \degree \ \text {C} \\\\
+                                    &= 9 + 12 \\\\
+                                    &= 21 \degree \ \text {C}
+\end{aligned}
+$
+
+It is $21 \degree$ warmer inside than outside.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21 \degree \ \text {C}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which number between $60$ and $80$ is a multiple of both $3$ and $8$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$72$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$72$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>97113A2F-A515-4241-95D3-B163DACFDAA2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tfactor
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Cameron has five number cards.
+
+$\boxed{1} \quad \boxed{2} \quad \boxed{3} \quad \boxed{4} \quad \boxed{5}$
+
+The cards can be placed together to form a number.
+
+For example, using three of his cards Cameron can create the smallest $3$-digit multiple of $3$.
+
+$\boxed{1} \quad \boxed{2} \quad \boxed{3}$
+
+In the questions that follow, *choosing from Cameron’s cards*, write numbers on the blank cards to make:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+the *smallest* possible $3$-digit multiple of $6$
+
+$\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$132$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$132$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+the *largest* possible $2$-digit prime number
+
+$\boxed{\phantom{1}} \ \boxed{\phantom{1}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$53$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$53$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+the *largest* possible $4$-digit multiple of $5$
+
+$\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4325$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4325$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>506DE463-6915-4AC5-B7BF-327E32F4475E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It is known that $425 \times 134 = 56950$
+
+Use this calculation to work out: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4.25 \times 1.34$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+425 \times 134                                &= 56950 \\\\
+425 \div 100 \times 134 \div 100              &= 56950 \div 10000 \\\\
+\dfrac {425} {100} \times \dfrac {134} {100}  &= \dfrac {56950} {10000} \\\\
+4.25 \times 1.34                              &= 5.6950
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5.6950$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$56950 \div 4.25$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+425 \times 134                                &= 56950 \\\\
+134                                           &= \dfrac {56950} {425} \\\\
+134 \times 100                                &= \dfrac {56950} {425} \times 100 \\\\
+134 \times 100                                &= \dfrac {56950} {4.25} \\\\
+56950 \div 4.25                               &= 13400
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13400$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$42.5 \times 67$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+425 \times 134                               &= 56950 \\\\
+425 \div 10 \times 134 \div 2                &= 56950 \div 20 \\\\
+\dfrac {425} {10} \times \dfrac {134} {2}    &= \dfrac {56950} {20} \\\\
+42.5 \times 67                               &= 2847.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2847.5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>ECB9BF93-8E27-42A0-873B-87BFA9D37BB8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Janet’s marks on five mental arithmetic tests are:
+
+$15 \quad 19 \quad 13 \quad 18 \quad 20$
+
+What is her mean (average) mark?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Average marks}            &= \dfrac {15 + 19 + 13 + 18 + 20} {5} \\\\
+                                &= \dfrac {85} {5} \\\\
+                                &= \dfrac {17 \times 5} {5} \\\\
+                                &= 17
+\end{aligned}
+$
+
+Janet’s average marks are $= 17$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>589E5E44-10C8-4537-8ED7-9C02B0A0532C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You are given that $27 \times 351 = 9477$. 
+
+Use this information to answer the following questions
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$9477 \div 351 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+27 \times 351   &= 9477 \\\\
+27              &= \dfrac {9477} {351} \\\\
+9477 \div 351   &= 27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2.7 \times 3.51 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+27 \times 351                                &= 9477 \\\\
+\dfrac {27} {10} \times \dfrac {351} {100}   &= \dfrac {9477} {1000} \\\\
+2.7 \times 3.51                              &= 94.77
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9.477$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$947.7 \div 270 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+27 \times 351                                        &= 9477 \\\\
+351                                                  &= \dfrac {9477} {27} \\\\
+\dfrac {9477} {27} \times \dfrac {1} {100}           &= 351 \times \dfrac {1} {100} \\\\
+\dfrac {9477} {10 \times 27 \times 10}               &= \dfrac {351} {100} \\\\
+\dfrac {947.7} {270}                                 &= 3.51
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.51$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$54 \times 351 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+27 \times 351                   &= 9477 \\\\
+2 \times 27 \times 351          &= 2 \times 9477 \\\\
+54 \times 351                   &= 18954
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18954$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>015DFF3A-EF9A-4D74-94DA-EDC2D94B9633</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+taddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $374 + 528$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &       3       & 7     & 4 \\
+{}+ &       5       & 2     & 8 \\
+\hline
+    &       9       & 0     & 2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$902$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>17BF339B-7079-4966-BEB2-8B3FF23FA92A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $44.8 \div 0.7$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {44.8} {0.7} \\\\
+&= \dfrac {44.8 \times 10} {0.7 \times 10} \\\\
+&= \dfrac{448} {7} \\\\
+&= \dfrac {64 \times 7} {7} \\\\
+&= \dfrac {64 \times \cancel{7}} {\cancel{7}} \\\\
+&= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>D2FE9565-387E-4FF3-BFA2-D8C35AC57EF1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number in the following sequence? 
+
+$2.3, \quad 3.4, \quad 4.7, \quad 6.2, \quad \ldots, \quad 9.8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+1.1)}} 
+&&  \footnotesize {\maroonC {(+1.3)}}  
+&&  \footnotesize {\maroonC {(1.5)}}   
+&&  \footnotesize {\maroonC {(+1.7)}}  
+&&  \footnotesize {\maroonC {(+1.9)}} \\
+2.3,  &&    3.4,  &&    4.7,  &&   6.2,  &&   \ldots,  &&   9.8
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 6.2 + 1.7 \\\\
+                        &= 7.9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>0C204FF4-56BC-4832-8FCF-F9D7CC6ACE1E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Subtract $1 \dfrac{3}{4}$ from $3 \dfrac{3}{8}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= 3 \dfrac {3} {8} - 1 \dfrac {3} {4} \\\\
+&= \dfrac {27} {8} - \dfrac {7} {4} \\\\
+&= \dfrac {27} {8} - \dfrac {7 \times 2} {4 \times 2} \\\\
+&= \dfrac {27} {8} - \dfrac {14} {8} \\\\
+&= \dfrac {27 - 14} {8} \\\\
+&= \dfrac {13} {8} \\\\
+&= 1\dfrac {5} {8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \dfrac {5} {8}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>091E6F1C-295F-45D6-A212-41256EE84A75</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $2.35 \times 3000$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first multiply the numbers ignoring the decimal points and zeroes.
+
+$
+\begin{array}{cccccccccccccc}
+            &       2       & 3     & 5 \\
+{}\times    &               &       & 3 \\
+\hline 
+            &       7       & 0     & 5
+\end{array}
+$
+
+Let's account for the three zeroes now.
+
+$= 705000$
+
+The total number of digits after the decimal point is two.
+
+Let's account for the decimal point now.
+
+$= 7050$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7050$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>9A0A3024-E276-47D9-92A1-2D8CA04AFD8E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Express $0.85$ as a fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.85 \\\\
+&= \dfrac {85} {100}\\\\
+&= \dfrac {17 \times 5} {20 \times 5}\\\\
+&= \dfrac {17 \times \cancel{5}} {20 \times \cancel{5}}\\\\
+&= \dfrac {17} {20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {17} {20}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>EC2A9B83-84D4-486D-8D93-A7BB3D422618</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the **__least__** number which can be added to $278$ to make a number which is exactly divisible by $13$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If we divide $278$ by $13$, the quotient is $21$ and the remainder is $5$.
+
+So we can add $13 - 5 = 8$ to $278$ to make it exactly divisible by $13$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>A6AC1588-C3E0-4190-A84D-7153A5624431</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $\dfrac{3}{7}$ of a number is $18$, what is $\dfrac{5}{6}$ of the **same** number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times \dfrac{3} {7} &= 18 \\\\
+a                      &= 18 \times \dfrac {7} {3} \\\\
+a                      &= \dfrac {18 \times 7} {3} \\\\
+a                      &= \dfrac {6 \times 3 \times 7} {3} \\\\
+a                      &= \dfrac {6 \times \cancel{3} \times 7} {\cancel{3}} \\\\
+a                      &= 6 \times 7 \\\\
+a                      &= 42
+\end{aligned}
+$
+
+Now let's find $\dfrac {5} {6}$ of the number.
+
+$
+\begin{aligned}
+&= \dfrac {5} {6} \times 42 \\\\
+&= \dfrac {5 \times 42} {6}  \\\\
+&= \dfrac {5 \times 7 \times 6} {6}  \\\\
+&= \dfrac {5 \times 7 \times \cancel{6}} {\cancel{6}}  \\\\
+&= 5 \times 7 \\\\
+&= 35
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>Colfe's School</h1>
@@ -718,10 +718,10 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total distance travelled bye the mouse}  &= \text {Perimeter of the field} \\\\
-                                                &= 70 + 75 + (130 - 70) + 25 + 130 + (75 + 25) \\\\
-                                                &= 145 + 60 + 155 + 100 \\\\
-                                                &= 460 \ \text {m}
+\text {The mouse walked}  &= \text {Sum of all edges} \\\\
+                          &= 70 + 75 + (130 - 70) + 25 + 130 + (75 + 25) \\\\
+                          &= 145 + 60 + 155 + 100 \\\\
+                          &= 460 \ \text {m}
 \end {aligned}
 $
 
@@ -1164,14 +1164,27 @@ $0.77, \quad 0.7, \quad 7.7, \quad 7.07$
 <div class='workings'>
 <div class='working'>
 
-$0.7, \quad 0.77, \quad 7.07, \quad 7.77$
+$
+\begin{aligned}
+&= 0.77, \quad 0.7, \quad 7.7, \quad 7.07 \\\\
+&= 0.77, \quad 0.70, \quad 7.70, \quad 7.07
+\end {aligned}
+
+Let's put them in ascending order now.
+
+$
+\begin {aligned}
+&= 0.70 < \quad 0.77 < \quad 7.07 < \quad 7.70 \\\\
+&= 0.7 < \quad 0.77 < \quad 7.07 < \quad 7.7
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.7, \quad 0.77, \quad 7.07, \quad 7.77$
+$0.7, \quad 0.77, \quad 7.07, \quad 7.7$
 
 </div>
 </div>
@@ -1192,7 +1205,12 @@ $5, \quad -8, \quad -16, \quad 9, \quad 8$
 <div class='workings'>
 <div class='working'>
 
-$-16, \quad -8, \quad 5, \quad 8, \quad 9$
+$
+\begin{aligned}
+&= 5, \quad -8, \quad -16, \quad 9, \quad 8 \\\\
+&= -16 < \quad -8 < \quad 5 < \quad 8 < \quad 9
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1244,9 +1262,9 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Change left}  &= \pounds 100 - (3 \times \text {Cost of a computer game} + 2 \times \text {Cost of a doughnut}) \\\\
-                     &= \pounds 100 - (3 \times \pounds 25.50 + 2 \times \pounds 1.30) \\\\
-                     &= 100 - (76.50 + 2.60) \\\\
+\text {Change left}  &= \pounds 100 - 3 \times \text {Cost of a game} - 2 \times \text {Cost of a doughnut} \\\\
+                     &= \pounds 100 - 3 \times \pounds 25.50 - 2 \times \pounds 1.30 \\\\
+                     &= 100 - -76.50 - 2.60) \\\\
                      &= 100 - 79.10 \\\\
                      &= \pounds 20.90
 \end {aligned}
@@ -1293,24 +1311,16 @@ Catherine gets $22$ sweets. How many sweets are there in the bag?
 <div class='workings'>
 <div class='working'>
 
-Let the number of sweets Bhavini got $= a$.
-
 As per the question,
 
 $
 \begin {aligned}
-\text {Number of sweets Catherine got}     &= 22 \\\\
-2 \times (a + 5)                           &= 22 \\\\
-2a + 2 \times 5                            &= 22 \\\\
-2a + 10                                    &= 22 \\\\
-2a                                         &= 22 - 10 \\\\
-2a                                         &= 12 \\\\
-a                                          &= \dfrac {12} {2} \\\\
-a                                          &= \dfrac {6 \times 2} {2} \\\\
-a                                          &= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
-a                                          &= 6 \\\\
-\text {Total number of sweets in the bag}  &= 22 + (6 + 5) + 6 \\\\
-                                           &= 22 + 11 + 6 \\\\
+\text {Total number of sweets}             &= \text {Number of sweets Alison got} + \text {Number of sweets Bhavini got} + \text {Number of sweets Catherine got} \\\\
+                                           &= \dfrac {22} {2} + \dfrac {22} {2} - 5 + 22 \\\\
+                                           &= \dfrac {11 \times 2} {2} + \dfrac {11 \times 2} {2} - 5 + 22 \\\\
+                                           &= \dfrac {11 \times \cancel {2}} {\cancel {2}} + \dfrac {11 \times \cancel {2}} {\cancel {2}} - 5 + 22 \\\\
+                                           &= 11 + 11 - 5 + 22 \\\\
+                                           &= 44 - 5 \\\\
                                            &= 39
 \end {aligned}
 $
@@ -1629,24 +1639,19 @@ Find the size of angle $k$.
 <div class='workings'>
 <div class='working'>
 
+As we know, the sum of angles on a straight line is $180 \degree$ and 
+
+the sum of angles of a triangle is $180 \degree$. So,
+
 As per the diagram,
-
-As we know, the sum of angles on a straight line is $180 \degree$.
-
-the second angle $= (180 \degree - 130 \degree)$.
-
-the third angle $= (180 \degree - 85 \degree)$
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin {aligned}
-k + \text {Second angle} + \text {Third angle}  &= 180 \degree \\\\
-k + (180 - 130) + (180 - 85)                    &= 180 \\\\
-k + 50 + 95                                     &= 180 \\\\
-k + 145                                         &= 180 \\\\
-k                                               &= 180 - 145 \\\\
-k                                               &= 35 \degree
+k + (180 \degree - 130 \degree) + (180 \degree - 85 \degree)    &= 180 \degree \\\\
+k + 50 + 95                                                     &= 180 \\\\
+k + 145                                                         &= 180 \\\\
+k                                                               &= 180 - 145 \\\\
+k                                                               &= 35 \degree
 \end {aligned}
 $
 
@@ -1790,14 +1795,14 @@ In this formula $a$ stands for the number of adults and $k$ stands for the numbe
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1820,10 +1825,10 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Cost to go to the cinema}  &= 8a + 3k \\\\
-                                  &= 8 \times 3 + 3 \times 1 \\\\
-                                  &= 24 + 3 \\\\
-                                  &= \pounds 27
+\text {Cost}  &= 8a + 3k \\\\
+              &= 8 \times 3 + 3 \times 1 \\\\
+              &= 24 + 3 \\\\
+              &= \pounds 27
 \end {aligned}
 $
 
@@ -1855,27 +1860,38 @@ The total cost for the Bryant family is $\pounds 25$. How many adults and how ma
 
 As per the question,
 
+The maximum count of adult tickets possible with $\pounds 25 = 2$ adults.
+
 $
 \begin {aligned}
-\text {Total cost for Bryant family}  &= \pounds 25 \\\\
-8a + 3k                               &= 25 \\\\
-8a + 3k                               &= (8 \times 2) + (3 \times 3)
+8 \times 2 + 3k     &= 25 \\\\
+16 + 3k             &= 25 \\\\
+3k                  &= 25 - 16 \\\\
+3k                  &= 9 \\\\
+k                   &= \dfrac {9} {3} \\\\
+k                   &= \dfrac {3 \times 3} {3} \\\\
+k                   &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
+k                   &= 3
 \end {aligned}
 $
 
-Hence, there are $2$ adults and $3$ children in Bryant family.
+Bryant family has,
+
+Adults $= 2$
+
+Children $= 3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2$
+%empty%
 
 </div>
 <div class='answer'>
 
-$3$
+%empty%
 
 </div>
 </div>

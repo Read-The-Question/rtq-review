@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-g1"
 title: "Topic - Unit - G1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1403,7 +1403,7 @@ $1.535 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_g1 question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>159DEF67-72A1-41FE-BBD4-431F17B1BE4E</p>
 </div>
@@ -1435,7 +1435,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3.284 \ \text {m}$
+$3.284$m
 
 </div>
 </div>
@@ -1444,7 +1444,7 @@ $3.284 \ \text {m}$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nc_g1</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

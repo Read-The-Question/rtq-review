@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-4"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 4"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -58,7 +58,7 @@ $401$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>0116AD01-1516-4A9D-AD3F-738ECA82148C</p>
 </div>
@@ -97,7 +97,7 @@ Calculate each of the following:
 </div>
 <div class='question subquestion'>
 
-$23\frac{1} {3}+7\frac{3} {4}$
+$23\frac{1} {3} + 7\frac{3} {4}$
 
 </div>
 <div class='workings'>
@@ -120,7 +120,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{373} {12} \ \text{or} \ 31 \dfrac{1} {12}$
+$\dfrac{373} {12} \ \text {or} \ 31 \dfrac{1} {12}$
 
 </div>
 </div>
@@ -156,7 +156,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{91} {3} \ \text{or} \ 30 \dfrac{1} {3}$
+$\dfrac{91} {3} \ \text {or} \ 30 \dfrac{1} {3}$
 
 </div>
 </div>
@@ -168,7 +168,7 @@ $\dfrac{91} {3} \ \text{or} \ 30 \dfrac{1} {3}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

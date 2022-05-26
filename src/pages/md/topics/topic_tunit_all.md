@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-all"
 title: "Topic - Unit - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3249,7 +3249,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_g1 question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>159DEF67-72A1-41FE-BBD4-431F17B1BE4E</p>
 </div>
@@ -3281,7 +3281,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3.284 \ \text {m}$
+$3.284$m
 
 </div>
 </div>
@@ -3290,7 +3290,7 @@ $3.284 \ \text {m}$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nc_g1</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -5955,7 +5955,7 @@ $0.008 \ \text{mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>F7B20DEF-90DB-4F1C-858F-9F35E931F593</p>
 </div>
@@ -6109,9 +6109,9 @@ $2.45\, kg$ in grams
 
 $
 \begin{aligned}
-&= 2.45 \ \text{kg} \\\\
-&= 2.45 \times 1000 \text{g} \\\\
-&= 2450 \ \text{g}
+&= 2.45 \ \text {kg} \\\\
+&= 2.45 \times 1000 \text {g} \\\\
+&= 2450 \text {g}
 \end{aligned}
 $
 
@@ -6263,7 +6263,7 @@ $\frac {9} {100}$ as a decimal
 $
 \begin{aligned}
 &= \dfrac {9} {100} \\\\
-&== 0.09 \\\\
+&= 0.09 \\\\
 \end{aligned}
 $
 
@@ -6284,7 +6284,7 @@ $0.09$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

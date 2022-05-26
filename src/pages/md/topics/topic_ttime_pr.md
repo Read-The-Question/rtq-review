@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-pr"
 title: "Topic - Time - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -221,191 +221,6 @@ $140  \ \text{minutes}$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>0B2DD2B6-B549-4742-8C8B-E59718ECB00B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-My train left Hocksworth at $8.20$ and arrived in Abbleshem at $10.50$ later that morning.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long in minutes did the journey take?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Time taken}            &= 10.50 - 8.20 \\\\
-                              &= 2 \ \text {hour} \ 30 \ \text {minutes} \\\\
-                              &= 2 \times 60 + 30 \ \text {minutes} \\\\
-                              &= 120 + 30 \ \text {minutes} \\\\
-                              &= 150 \ \text {minutes}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Given that Abbleshem is $170 \ \text{miles}$ away from Hocksworth, what was the average speed of my train?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required. The time is calculated in minutes, but the final speed has to be in miles per hour.
-
-$
-\begin {aligned}
-\text {Time taken}   &= 150 \ \text {minutes} \\\\
-                     &= \dfrac {150} {60} \ \text {hours}
-\end {aligned}
-$
-
-Let's find the speed now.
-
-$
-\begin {aligned}
-\text {Speed}    &= \dfrac {\text{Distance}} {\text{Time}} \\\\
-                 &= \dfrac {170} {\dfrac {150}{60}} \ \text {miles/hour} \\\\
-                 &= \dfrac {170 \times 60} {150} \ \text {miles/hour} \\\\
-                 &= \dfrac {17 \times 10 \times 15 \times 4} {15 \times 10} \\\\
-                 &= \dfrac {17 \times \cancel{10} \times \cancel{15} \times 4} {\cancel{15} \times \cancel{10}} \\\\
-                 &= 17 \times 4 \\\\
-                 &= 68 \ \text {miles/hour}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$68 \ \text {miles/hour}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>652278E2-8C43-4EAE-A78E-26EF36905775</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The students on the Aldenham Football Tour to Madrid arrive at Heathrow Airport at $05{:}35$.
-
-Their flight leaves at $08{:}10$.
-
-How many minutes do they have to wait at the airport before their flight leaves?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Wait at the airport}     &= 08{:}10 - 05{:}35 \\\\
-                                &= 2 \ \text{hour} \ 35 \ \text {minutes} \\\\
-                                &= 2 \times 60 + 35 \ \text {minutes} \\\\
-                                &= 120 + 35 \\\\
-                                &= 155 \ \text{minutes}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$155 \ \text{minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -2288,103 +2103,6 @@ $36 \ \text{minutes}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>219060A7-EC1A-4ED0-B135-50542C15C7B7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Antony is making some cupcakes. It takes him $20 \ \text{minutes}$ to prepare the ingredients, the cakes take $22 \ \text{minutes}$ to bake and he needs to leave them for $10 \ \text{minutes}$ to cool down. If he wants to eat them at 4:10pm, what time should he start preparing the ingredients?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
-                                                                       &= 4{:}10 \ \text{pm} - (20 + 22 + 10) \ \text{minutes} \\\\
-                                                                       &= 4{:}10 \ \text{pm} - 52 \ \text{minutes} \\\\
-                                                                       &= 3{:}18 \ \text{pm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3{:}18 \ \text{pm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>B72AF037-E752-4BED-91CE-38848837F037</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Subtract the number of $\text{hours}$ in a day from the number of $\text{seconds}$ in a $\text{minute}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= \text{Number of seconds in a minute} - \text{Number of hours in a day} \\\\
-&= 60 - 24 \\\\
-&= 36
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>AB8D141C-6937-4BD2-823D-644039CF0E18</p>
 </div>
 <div class='topics'>
@@ -2433,7 +2151,7 @@ How many bricks will there be in the wall?
 
 $
 \begin{aligned}
-\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick Width} \\\\
+\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick width} \\\\
                                                     &= 23 \times 12 \\\\
                                                     &= 276
 \end{aligned}
@@ -2548,7 +2266,7 @@ Josh can walk at $6 \ \text{km}$ per hour. How long will he take to finish the w
 <div class='workings'>
 <div class='working'>
 
-Time $= \dfrac {\text{Distance}} {\text{Speed}}$
+$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
 
 As per the question,
 
@@ -2623,226 +2341,6 @@ $6 \ \text{km}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>434CD114-4752-47E2-A24B-B5229509F3BD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Tasweer is making some cupcakes. It takes her $15 \ \text{minutes}$ to prepare the ingredients, the cakes take $18 \ \text{minutes}$ to bake and she needs to leave them for $10 \ \text{minutes}$ to cool down. If she wants to eat them at $3:15 \ \text{pm}$, what time should she start preparing the ingredients? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
-                                                                       &= 3{:}15 \ \text{pm} - (15 + 18 + 10) \ \text{minutes} \\\\
-                                                                       &= 3{:}15 \ \text{pm} - 43 \ \text{minutes} \\\\
-                                                                       &= 2{:}32 \ \text{pm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2{:}32 \ \text{pm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>535DDC7C-F46C-4FFD-AF90-E1FC89C96B9F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many $\text{minutes}$ are there in one day? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know,
-
-$1$ day $= 24$ hours
-
-$1$ hour $= 60$ minutes
-
-As per the question,
-
-$
-\begin{aligned}
-\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times \text{No. of minutes in an hour} \\\\
-                                &= 24 \times 60 \\\\
-                                &= 1440 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1440 \ \text{minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>40F554A0-24C8-450E-8BE8-E1659D2E8274</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Martin the builder needs to build a wall $19$ bricks wide and $14$ bricks high. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many bricks will there be in the wall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick width} \\\\
-                                                    &= 19 \times 14 \\\\
-                                                    &= 266
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$266$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-He can lay 7 bricks every $5 \ \text{minutes}$. How long will it take him to build the wall? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Time to build the wall}                       &= \dfrac {\text{Total bricks}} {7} \times 5 \ \text{minutes} \\\\
-                                                    &= \dfrac {266} {7} \times 5 \\\\
-                                                    &= \dfrac {7 \times 38 \times 5} {7} \\\\
-                                                    &= \dfrac {\cancel{7} \times 38 \times 5} {\cancel{7}} \\\\
-                                                    &= 38 \times 5 \\\\
-                                                    &= 190 \ \text{minutes} \\\\
-                                                    &= 60 + 60 + 60 + 10 \\\\
-                                                    &= 3 \ \text{hours} \ 10 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{hours} \ 10 \ \text{minutes or } 190 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>9004924A-FAFE-4C44-A7D2-20DAF504FB5B</p>
 </div>
 <div class='topics'>
@@ -2870,7 +2368,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times (\text{No. of minutes in an hour} \\\\
+\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times \text{No. of minutes in an hour} \\\\
                                 &= 24 \times 60 \\\\
                                 &= 1440 \ \text{minutes}
 \end{aligned}
@@ -5614,54 +5112,6 @@ $6{:}00 \ \text{pm}$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>72B6948E-CEFE-403E-AB86-3937A9FDB31F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I arrived at the station at $7.47 \ \text{a.m}$. My train was due at five past eight but was $13 \ \text{minutes}$ late.
-
-How long did I have to wait for my train?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Waiting time} &= (8{:}05 \ \text{am} + 13 \ \text{minutes}) - 7{:}47 \ \text{am} \\\\
-                    &= 8{:}18 \ \text{am} - 7{:}47 \ \text{am} \\\\
-                    &= 31 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$31 \ \text{minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
 </div>
 <div class='topics'>
@@ -5758,54 +5208,6 @@ $10 \ \text{hours} \ 48 \ \text{minutes}$
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>9269D2C1-1332-4C0D-A7DE-F011F1B802CF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-ttime
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a $24 \ \text{hour}$ day, what are the two possible times of day shown by the clock?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9{:}40, \ 21{:}40$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9{:}40, \ 21{:}40$
-
-</div>
-</div>
-
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
@@ -6765,6 +6167,67 @@ $35 \ \text{minutes}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>08CCE0CE-B784-477D-8641-E1FBE38BAD33</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alison watches two quiz programmes on TV. The first 
+is on from $6.35 \ \text{pm}$ until $7.15 \ \text{pm}$, the 
+second lasts for half an hour. Later on, she watches 
+a film from $9.30 \ \text{pm}$ until $11.25 \ \text{pm}$. In 
+hours and minutes, how long has she spent watching TV?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{First quiz duration}  &= 7.15 \ \text{pm} - 6.35 \ \text{pm} \\\\
+                            &= 40 \ \text{min} \\\\
+\text{Second quiz duration} &= 30 \ \text{min} \\\\
+\text{Film duration}        &= 11.25 \ \text{pm} - 9.30 \ \text{pm} \\\\
+                            &= 1 \ \text{hour} \ 55 \ \text{min}
+\end{aligned}
+$
+
+Let's calculate the total time spent watching TV.
+
+$
+\begin{aligned}
+\text{Total time}   &= 40 \ \text{min} + 30 \ \text{min} + 1 \ \text{hour} \ 55 \ \text{min} \\\\
+                    &= 3 \ \text{hour} \ 5 \ \text{minutes} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$ hours $5$ minutes
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
 <p>FD0DC878-E1F6-4200-96B6-EF2237097FF7</p>
@@ -6925,7 +6388,7 @@ $6 \ \text{kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>F7B20DEF-90DB-4F1C-858F-9F35E931F593</p>
 </div>
@@ -7079,9 +6542,9 @@ $2.45\, kg$ in grams
 
 $
 \begin{aligned}
-&= 2.45 \ \text{kg} \\\\
-&= 2.45 \times 1000 \text{g} \\\\
-&= 2450 \ \text{g}
+&= 2.45 \ \text {kg} \\\\
+&= 2.45 \times 1000 \text {g} \\\\
+&= 2450 \text {g}
 \end{aligned}
 $
 
@@ -7233,7 +6696,7 @@ $\frac {9} {100}$ as a decimal
 $
 \begin{aligned}
 &= \dfrac {9} {100} \\\\
-&== 0.09 \\\\
+&= 0.09 \\\\
 \end{aligned}
 $
 
@@ -7254,7 +6717,7 @@ $0.09$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

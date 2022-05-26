@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-all"
 title: "Topic - Sequence - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -379,7 +379,7 @@ $60, 7.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>69DF6F66-1121-4766-9A63-B20D699A29B5</p>
 </div>
@@ -616,12 +616,12 @@ $9, 36$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6CDE9B85-33D8-4FE1-8A7C-C1030D86C401</p>
 </div>
@@ -688,7 +688,7 @@ $8, 13$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -4836,7 +4836,12 @@ $
                                         &= ((108 \div 2) +1) \times 2 \\\\
                                         &= (55 +1) \times 2 \\\\
                                         &= 55 \times 2 \\\\
-                                        &= 110
+                                        &= 110 \\\\
+\text{Fifth number in the sequence}     &= (((110 + 2) \div 2) + 1) \times 2 \\\\
+                                        &= ((112 \div 2) +1) \times 2 \\\\
+                                        &= (56 +1) \times 2 \\\\
+                                        &= 57 \times 2 \\\\
+                                        &= 114
 \end{aligned}
 $
 
@@ -4845,7 +4850,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$106, 108$
+$106, 110, 114$
 
 </div>
 </div>
@@ -5065,6 +5070,7 @@ $
                             &= 0.032 \\\\
 \text{Second number}        &= 12.8 \times 20 \\\\
                             &= 256
+\end{aligned}
 $
 
 </div>
@@ -5152,7 +5158,7 @@ $\dfrac{2}{3}, \quad \ldots, \quad \ldots, \quad 1 \dfrac{1}{6}$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The next term is calculated by subtracting the previous term by $1 \dfrac {1} {6}$. Hence, the sequence would be:
+The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -5165,12 +5171,11 @@ $
 
 $
 \begin{aligned}
-\text{First number}         &= \dfrac {2} {3} + 1 \dfrac {1} {6} \\\\
-                            &= \dfrac {2} {3} + \dfrac {7} {6} \\\\
-                            &= \dfrac {2 \times 2} {3 \times 2} + \dfrac {7} {6} \\\\
-                            &= \dfrac {4} {6} + \dfrac {7} {6} \\\\
-                            &= \dfrac {11} {6} \\\\
-\text{Second number}        &= 1 \dfrac {1} {6} - 1 \dfrac {1} {6} \\\\
+\text{First number}         &= \dfrac {2} {3} + \dfrac {1} {6} \\\\
+                            &= \dfrac {2 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
+                            &= \dfrac {4} {6} + \dfrac {1} {6} \\\\
+                            &= \dfrac {5} {6} \\\\
+\text{Second number}        &= \dfrac {1} {6} - \dfrac {1} {6} \\\\
                             &= 0
 \end{aligned}
 $
@@ -10904,7 +10909,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>7CF85E54-C3FE-4D36-8D4E-EFDA111557AD</p>
 </div>
@@ -10955,12 +10960,12 @@ $21$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>6226AC8D-FE2D-4404-80C6-B5657566AEF2</p>
 </div>
@@ -11006,12 +11011,12 @@ $987$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>DF2ED620-4CF1-49DA-B107-4A09B973A98C</p>
 </div>
@@ -11052,7 +11057,7 @@ $233$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -25197,7 +25202,7 @@ $37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>644EEE25-F82A-4DD4-A616-390BB876F410</p>
 </div>
@@ -25474,7 +25479,7 @@ $51$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -27407,7 +27412,7 @@ $27, \ 81$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>61DF5227-3001-41C5-83ED-E0E7D5D0CCB3</p>
 </div>
@@ -27449,7 +27454,7 @@ $18$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -27635,7 +27640,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D168A689-BEA7-4B56-857F-9D17A9FE37E3</p>
 </div>
@@ -27833,12 +27838,12 @@ $1, \ 4$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B</p>
 </div>
@@ -27951,12 +27956,12 @@ $20$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>4049C025-C8E3-420D-90F0-FEE76BCC81C5</p>
 </div>
@@ -28084,7 +28089,7 @@ $6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -30973,7 +30978,7 @@ $3$ and $84$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>2349EC95-009A-4E52-B1CF-35DE1F43DFBA</p>
 </div>
@@ -31027,7 +31032,7 @@ $69$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -31151,7 +31156,7 @@ $129$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D2FE9565-387E-4FF3-BFA2-D8C35AC57EF1</p>
 </div>
@@ -31206,7 +31211,7 @@ $7.9$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -31788,7 +31793,7 @@ Missing Numbers : $3 , 27 , 81$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>2C62B880-A422-46C5-81F2-06361F7646FC</p>
 </div>
@@ -31839,8 +31844,8 @@ The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+4)}}  
-&&  \footnotesize{\maroonC{(+4)}}    
+&   \footnotesize{\maroonC{(+4)}}
+&&  \footnotesize{\maroonC{(+4)}}
 &&  \footnotesize{\maroonC{(+4)}}
 &&  \footnotesize{\maroonC{(+4)}} \\
 11,  &&    15,  &&  19,  &&   23, && \ldots
@@ -31849,8 +31854,8 @@ $
 
 $
 \begin{aligned}
-\text{Next number}      &= 23 + 4 \\\\
-                        &= 27 \\\\                 
+\text{Next number}  &= 23 + 4 \\\\
+                    &= 27 \\\\
 \end{aligned}
 $
 
@@ -31886,9 +31891,9 @@ The difference between the terms is $5$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-5)}}  
+&   \footnotesize{\maroonC{(-5)}}
 &&  \footnotesize{\maroonC{(-5)}}
-&&  \footnotesize{\maroonC{(-5)}}    
+&&  \footnotesize{\maroonC{(-5)}}
 &&  \footnotesize{\maroonC{(-5)}} \\
 17,  &&    12,  &&  7,  &&   2, && \ldots
 \end{matrix}
@@ -31896,8 +31901,8 @@ $
 
 $
 \begin{aligned}
-\text{Next number}              &= 2 - 5 \\\\
-                                &= -3                   
+\text{Next number}  &= 2 - 5 \\\\
+                    &= -3
 \end{aligned}
 $
 
@@ -31932,9 +31937,9 @@ Let's find the difference between the consecutive terms of the sequence.
 The difference between the terms is 1 more than the difference between the previous sequence. Hence the sequence would be :
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}  
+&   \footnotesize{\maroonC{(+2)}}
 &&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+4)}} 
+&&  \footnotesize{\maroonC{(+4)}}
 &&  \footnotesize{\maroonC{(+5)}} \\
 2,  &&    4,  &&  7,  &&   11 , && \ldots
 \end{matrix}
@@ -31942,8 +31947,8 @@ $
 
 $
 \begin{aligned}
-\text{Next number}              &= 11 + 5 \\\\
-                                &= 16                   
+\text{Next number}  &= 11 + 5 \\\\
+                    &= 16
 \end{aligned}
 $
 
@@ -31964,7 +31969,7 @@ $16$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -32030,7 +32035,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3487109B-E395-4D4B-9784-14DBAA11998B</p>
 </div>
@@ -32079,8 +32084,8 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}  
-&&  \footnotesize{\maroonC{(+3)}}  
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+3)}}
 &&  \footnotesize{\maroonC{(+4)}}
 &&  \footnotesize{\maroonC{(+5)}}
 &&  \footnotesize{\maroonC{(+6)}} \\
@@ -32093,7 +32098,7 @@ $
 \text{First missing number}     &= 11 + 5 \\\\
                                 &= 16 \\\\
 \text{Second missing number}    &= 16 + 6 \\\\
-                                &= 22 \\\\                      
+                                &= 22
 \end{aligned}
 $
 
@@ -32127,9 +32132,9 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 3)}}  
-&&  \footnotesize{\maroonC{(\times 3)}} 
-&&  \footnotesize{\maroonC{(\times 3)}}   
+&   \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
 &&  \footnotesize{\maroonC{(\times 3)}}
 &&  \footnotesize{\maroonC{(\times 3)}} \\
 \dfrac {2} {3},  &&    2,  &&  6,  &&   18,  &&   \ldots, && \ldots
@@ -32141,7 +32146,7 @@ $
 \text{First missing number}     &= 18 \times 3 \\\\
                                 &= 54 \\\\
 \text{Second missing number}    &= 54 \times 3 \\\\
-                                &= 162 \\\\                      
+                                &= 162
 \end{aligned}
 $
 
@@ -32179,14 +32184,14 @@ The next number is tripled and added by one.
 
 $
 \begin{aligned}
-&= \dfrac{-2} {9} \times 3 + 1 \\\\
+&= \dfrac {-2} {9} \times 3 + 1 \\\\
 &= \dfrac {-2 \times 3} {9} + 1 \\\\
-&= \dfrac {-6} {9} + \dfrac{1 \times 9}{1 \times 9} \\\\
-&= \dfrac {-6} {9} + \dfrac{9}{9} \\\\
-&= \dfrac{-6 + 9}{9} \\\\
-&= \dfrac{3}{9} \\\\
-&= \dfrac{3}{3 \times 3} \\\\
-&= \dfrac{\cancel {3}}{\cancel {3} \times 3} \\\\
+&= \dfrac {-6} {9} + \dfrac {1 \times 9} {1 \times 9} \\\\
+&= \dfrac {-6} {9} + \dfrac {9} {9} \\\\
+&= \dfrac {-6 + 9} {9} \\\\
+&= \dfrac {3} {9} \\\\
+&= \dfrac {3} {3 \times 3} \\\\
+&= \dfrac {\cancel {3}} {\cancel {3} \times 3} \\\\
 &= \dfrac {1} {3}
 \end{aligned}
 $
@@ -32225,31 +32230,25 @@ The next number is tripled and added by one.
 
 Second term = $\dfrac {1} {3}$
 
-Third term $=$
-
 $
 \begin{aligned}
-&= \dfrac{1}{3} \times 3 + 1 \\\\
-&= \dfrac{1 \times 3}{3} + 1 \\\\
-&= \dfrac{1 \times \cancel{3}}{\cancel{3}} + 1 \\\\
-&= 1 + 1 \\\\
-&= 2
+\text {Third term}  &= \dfrac {1}{3} \times 3 + 1 \\\\
+                    &= \dfrac {1 \times 3} {3} + 1 \\\\
+                    &= \dfrac {1 \times \cancel{3}} {\cancel{3}} + 1 \\\\
+                    &= 1 + 1 \\\\
+                    &= 2
 \end{aligned}
 $
 
-Third term $=2$
-
-Fourth term $=$ 
+Using the above solution, we get
 
 $
 \begin{aligned}
-&= 2 \times 3 + 1 \\\\\
-&= 6 + 1 \\\\
-&= 7
+\text {Fourth term} &= 2 \times 3 + 1 \\\\\
+                    &= 6 + 1 \\\\
+                    &= 7
 \end{aligned}
 $
-
-Fourth term $= 7$ 
 
 </div>
 </div>
@@ -32268,7 +32267,7 @@ $7$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

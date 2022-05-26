@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-g1"
 title: "Owner - Chiliveru Aravind - G1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5366,6 +5366,197 @@ $= 12$
 <div class='answer'>
 
 $12$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>353BB995-A155-4687-A64F-8268496F03B4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate, giving your answers as fractions or mixed numbers;
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\frac{1} {4} + \frac{1} {3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{1} {4} + \dfrac {1} {3} \\\\
+&= \dfrac{1 \times 3} {4 \times 3} + \dfrac {1 \times 4} {3 \times 4} \\\\
+&= \dfrac{3} {12} + \dfrac {4} {12} \\\\
+&= \dfrac{3 + 4} {12} \\\\
+&= \dfrac{7} {12}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{7} {12}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3\frac{1} {4}-1\frac{2} {5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3 \dfrac{1} {4} - 1 \dfrac {2} {5} \\\\
+&= \dfrac{13} {4} - \dfrac {7} {5} \\\\
+&= \dfrac{13 \times 5} {4 \times 5} - \dfrac {7 \times 4} {5 \times 4} \\\\
+&= \dfrac{65} {20} - \dfrac {28} {20} \\\\
+&= \dfrac{65 - 28} {20} \\\\
+&= \dfrac{37} {20} \\\\
+&=  1 \dfrac{17} {20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \dfrac{17} {20}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2\frac{1} {2}\times1\frac{3} {5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2 \dfrac{1} {2} \times 1 \dfrac {3} {5} \\\\
+&= \dfrac{5} {2} \times \dfrac {8} {5} \\\\
+&= \dfrac{5 \times 8} {2 \times 5} \\\\
+&= \dfrac{5 \times 2 \times 4} {2 \times 5} \\\\
+&= \dfrac{\cancel {5}{ }\times \cancel {2}{ }\times 4} {\cancel {2}{ }\times \cancel {5}{}} \\\\
+&= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\frac{4} {5}\div\frac{3} {10}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{4} {5} \div \dfrac {3} {10} \\\\
+&= \dfrac{4} {5} \times \dfrac {10} {3} \\\\
+&= \dfrac{4 \times 10} {5 \times 3} \\\\
+&= \dfrac{4 \times 2 \times 5} {5 \times 3} \\\\
+&= \dfrac{4 \times 2 \times \cancel {5}} {\cancel {5} \times 3} \\\\
+&= \dfrac{4 \times 2} {3} \\\\
+&= \dfrac {8} {3} \\\\
+&= 2\dfrac{2} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2\dfrac{2} {3}$
 
 </div>
 </div>

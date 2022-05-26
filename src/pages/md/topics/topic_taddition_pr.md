@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-taddition-pr"
 title: "Topic - Addition - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -906,103 +906,6 @@ $849$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>9CC30235-DC53-4707-B16D-A55C6E1D768F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%waffles%
-
-$5924 + 3578$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   5   &   9   &   2   &   4 \\
-{}+ &   3   &   5   &   7   &   8 \\
-\hline
-    &   9   &   5   &   0   &   2 \\
-\hline
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9502$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>19341413-65A3-4BC8-B57B-2F00FE94B081</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $2567 + 824$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   2   &   5   &   6   &   7 \\
-{}+ &       &   8   &   2   &   4 \\
-\hline
-    &   3   &   3   &   9   &   1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3391$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>75B9E812-184B-487F-B1BE-CF32FECF07B6</p>
@@ -1348,37 +1251,32 @@ $864$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>A4EADF93-B120-460C-B5F1-D9351665FB41</p>
+<p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 taddition
 </li>
-<li>
-tmultiplication
-</li>
-<li>
-tsubtraction
-</li>
 </ul>
 </div>
 <div class='question question'>
 
-What is the product of the sum of $6$ and $3$ with the difference between $2$ and $10$?
+Work out $569 + 372$.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
 $
-\begin {aligned}
-&= (6 + 3) \times (2 - 10) \\\\
-&= 9 \times (-8) \\\\
-&= -72
-\end {aligned}
+\begin{array}{cccccccccccccc}
+    &       5       & 6     & 9  \\
+{}+ &       3       & 7     & 2 \\
+\hline
+    &       9       & 4     & 1
+\end{array}
 $
 
 </div>
@@ -1386,16 +1284,16 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-72$
+$941$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -1443,53 +1341,6 @@ $1237$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>015DFF3A-EF9A-4D74-94DA-EDC2D94B9633</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $374 + 528$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       3       & 7     & 4 \\
-{}+ &       5       & 2     & 8 \\
-\hline
-    &       9       & 0     & 2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$902$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

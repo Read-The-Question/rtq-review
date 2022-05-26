@@ -1,9 +1,58 @@
 ---
 slug: "topics/topic-tperimeter-g1"
 title: "Topic - Perimeter - G1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>C0C8BAF7-9385-479F-9E5D-1E52D264A4D0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the perimeter of the shape below.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Perimeter}   &= \text {Sum of all sides} \\\\
+                    &= 20 \ \text {cm} + 5 \ \text {cm} + (20 - 12) \ \text {cm} + (8 - 5) \ \text {cm} + 12 \ \text {cm} + 8 \ \text {cm} \\\\
+                    &= 25 + 8 + 3 + 20 \\\\
+                    &= 56 \ \text {cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
@@ -1873,6 +1922,142 @@ $\dfrac{45}{4}$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>9F69A09F-DC67-4C65-9482-73903E4F9BB4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square has area $49\ \text{cm}^2$. What is the perimeter of the square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know, 
+
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
+
+Let the length of the square (in cm) $= a$
+
+$
+\begin{aligned}
+a \times a                                      &= 49 \ \text{cm}^2\\\\
+a^{2}                                           &= 7^{2} \\\\
+a                                               &= 7 \ \text{cm}
+\end{aligned}
+$
+
+The length of the side of the square $= 7 \ \text{cm}$
+
+Let's find the perimeter of the square.
+
+$
+\begin{aligned}
+\text{Perimeter of the square}                  &= 4 \times a \\\\
+                                                &= 4 \times 7 \\\\
+                                                &= 28 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>FB99253B-2684-4954-B0CD-C244509033ED</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square has area $64\ \text{cm}^2$. What is the perimeter of the square? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know,
+
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
+
+Let the length of the square (in cm) $= a$
+
+
+$
+\begin{aligned}
+a \times a                                      &= 64 \ \text{cm}^2\\\\
+a^{2}                                           &= 8^{2} \\\\
+a                                               &= 8 \ \text{cm}
+\end{aligned}
+$
+
+The length of the side of the square $= 8 \ \text{cm}$
+
+Let's find the perimeter of the square.
+
+$
+\begin{aligned}
+\text{Perimeter of the square}                  &= 4 \times a \\\\
+                                                &= 4 \times 8 \\\\
+                                                &= 32 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>

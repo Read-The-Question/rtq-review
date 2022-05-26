@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>St Albans High School For Girls</h1>
@@ -245,7 +245,7 @@ $13083$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>0599F702-1B64-45DB-AEE4-5001AF8C4CBC</p>
 </div>
@@ -289,12 +289,12 @@ $\text{One million, five-hundred twenty-thousand, one-hundred}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>64E8E815-C669-487D-AEA2-5443BC448443</p>
 </div>
@@ -354,7 +354,7 @@ $4 \dfrac {2} {5}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -718,7 +718,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Players (Glasses)}                 &= 3 \times  \text {Players (Left-handed)} \\\\
+\text {Fraction wearing glasses}          &= 3 \times  \text{Left-handed players} \\\\
                                           &= 3 \times \dfrac {1}{9} \\\\
                                           &= \dfrac {3 \times 1} {9} \\\\
                                           &= \dfrac {3 \times 1} {3 \times 3} \\\\
@@ -1294,7 +1294,7 @@ The angles in a triangle always add up to $180 \degree$ . In the triangle shown 
 
 As per the question,
 
-We know that the sum of all angles of a triangle $= 180 \degree$.
+We know that the sum of all angles of a triangle is $180 \degree$.
 
 $
 \begin{aligned}
@@ -1309,7 +1309,7 @@ c                                             &= 20 \degree
 \end{aligned}
 $
 
-Let's find angel $b$
+Let's find angle $b$
 
 $
 \begin{aligned}
@@ -1335,7 +1335,7 @@ $
 
 Alternative Solution
 
-We know that the sum of all angles of a triangle $= 180 \degree$.
+We know that the sum of all angles of a triangle is $180 \degree$.
 
 As per the question,
 
@@ -1648,7 +1648,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9</p>
 </div>
@@ -1701,7 +1701,7 @@ $150 \degree$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>

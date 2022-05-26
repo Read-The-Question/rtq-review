@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tdraw-pr"
 title: "Topic - Draw - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B245DB80-06AB-4146-8632-C2E68446994E</p>
 </div>
@@ -35,6 +35,8 @@ How many lines of symmetry has a square?
 <div class='workings'>
 <div class='working'>
 
+** TODO: Add diagrams to show all lines of symmetry **
+
 $4$
 
 </div>
@@ -54,12 +56,12 @@ $4$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1F0E1A23-FEB9-4030-8F80-C0D56311A323</p>
 </div>
@@ -91,6 +93,8 @@ The diagram shows part of a regular shape along with its two lines of symmetry. 
 <div class='workings'>
 <div class='working'>
 
+** TODO: Add the complete diagram **
+
 a trapezium
 
 </div>
@@ -107,12 +111,12 @@ $\text{a trapezium}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1560E53F-1121-4690-82F4-852BE2494204</p>
 </div>
@@ -166,7 +170,7 @@ Calculate the missing angles $p, q$ and $r$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+As we know, the sum of angles on a straight line is $180 \degree$.
 
 As per the diagram,
 
@@ -244,7 +248,7 @@ $47 \degree$
 <div class='workings'>
 <div class='working'>
 
-As per the diagram, the rhombus is having its opposite sides equal, So which means the angles opposite are also equal.
+As per the diagram, the rhombus is having its opposite sides equal, Which means the angles opposite are also equal.
 
 As we know, the sum of angles in a triangle is $180 \degree$.
 
@@ -276,7 +280,7 @@ $16 \degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

@@ -1,54 +1,9 @@
 ---
 slug: "topics/topic-tdecimal-pr"
 title: "Topic - Decimal - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is half of $3.08$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 3.08 \div 2  \\\\
-&= 1.54
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.54$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
@@ -315,6 +270,7 @@ $0.01$ and $0.26$?
 <div class='workings'>
 <div class='working'>
 
+$
 \begin {aligned}
 &= \dfrac {0.01 + 0.26} {2} \\\\
 &= \dfrac {0.27} {2} \\\\
@@ -2716,56 +2672,6 @@ $2 \text {Meat Pie}, 1 \text {Cup of Tea}, 1 \text {Cups of Coffee}$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>A750C241-48C7-4C08-BD12-8DD6F69FB939</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsubtraction
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate $2.7 - 0.47$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   2 \ .   &   7   &   0 \\
-{}- &   0 \ .   &   4   &   7 \\
-\hline
-    &   2 \ .   &   2   &   3
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.23$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>5702F561-6E2E-4760-BBD8-682C0DF387A6</p>
 </div>
 <div class='topics'>
@@ -2971,23 +2877,23 @@ $1.746$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>A1E17D61-21D9-42A4-9375-6EFCBEE2EB18</p>
+<p>A9D3F12F-85C8-4CF8-8225-C1BB3ABCA272</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tmultiplication
 </li>
 <li>
-tmultiplication
+tdecimal
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Work out $2.35 \times 1.8$.
+Work out $2.42 \times 1.6$.
 
 </div>
 <div class='workings'>
@@ -2996,38 +2902,38 @@ Work out $2.35 \times 1.8$.
 Let's first multiply the numbers ignoring the decimal points.
 
 $
-\begin {array}{cccccccccccccc}
-         &     2     &     3     &     5 \\
-\times   &           &     1     &     8 \\
-\hline 
-   1     &     8     &     8     &     0 \\
-   2     &     3     &     5     &     0 \\
-\hline 
-   4     &     2     &     3     &     0
-\end {array}
+\begin{array}{cccccccccccccc}
+            &   2  &   4 &    2 \\
+\times      &      &   1 &    6 \\
+\hline  
+1           &   4  &   5 &    2 \\ 
+2           &   4  &   2 &    0 \\
+\hline  
+3           &   8  &   7 &    2
+\end{array}
 $
 
 Between the two numbers, the total number of digits after the decimal point is three.
 
-Let's account for the decimal point now. 
+Let's account for the decimal point now.
 
-$= 4.23$
+$= 3.872$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4.23$
+$3.872$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -3075,172 +2981,6 @@ $0.35$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>ED448CD6-9057-4F77-BD62-61F1272214D8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmultiplication
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $0.03 \times 3200$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.03 \times 3200 \\\\
-&= \dfrac {3} {100} \times 3200 \\\\
-&= \dfrac {3 \times 3200} {100} \\\\
-&= \dfrac {3 \times 32\cancel{00}} {1\cancel{00}} \\\\
-&= 3 \times 32 \\\\
-&= 96
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$96$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>17BF339B-7079-4966-BEB2-8B3FF23FA92A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $44.8 \div 0.7$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {44.8} {0.7} \\\\
-&= \dfrac {44.8 \times 10} {0.7 \times 10} \\\\
-&= \dfrac{448} {7} \\\\
-&= \dfrac {64 \times 7} {7} \\\\
-&= \dfrac {64 \times \cancel{7}} {\cancel{7}} \\\\
-&= 64
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$64$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>091E6F1C-295F-45D6-A212-41256EE84A75</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmultiplication
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $2.35 \times 3000$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first multiply the numbers ignoring the decimal points and zeroes.
-
-$
-\begin{array}{cccccccccccccc}
-            &       2       & 3     & 5 \\
-{}\times    &               &       & 3 \\
-\hline 
-            &       7       & 0     & 5
-\end{array}
-$
-
-Let's account for the three zeroes now.
-
-$= 705000$
-
-The total number of digits after the decimal point is two.
-
-Let's account for the decimal point now.
-
-$= 7050$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7050$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -3573,7 +3313,7 @@ $2.716$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>F7B20DEF-90DB-4F1C-858F-9F35E931F593</p>
 </div>
@@ -3727,9 +3467,9 @@ $2.45\, kg$ in grams
 
 $
 \begin{aligned}
-&= 2.45 \ \text{kg} \\\\
-&= 2.45 \times 1000 \text{g} \\\\
-&= 2450 \ \text{g}
+&= 2.45 \ \text {kg} \\\\
+&= 2.45 \times 1000 \text {g} \\\\
+&= 2450 \text {g}
 \end{aligned}
 $
 
@@ -3881,7 +3621,7 @@ $\frac {9} {100}$ as a decimal
 $
 \begin{aligned}
 &= \dfrac {9} {100} \\\\
-&== 0.09 \\\\
+&= 0.09 \\\\
 \end{aligned}
 $
 
@@ -3902,7 +3642,7 @@ $0.09$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

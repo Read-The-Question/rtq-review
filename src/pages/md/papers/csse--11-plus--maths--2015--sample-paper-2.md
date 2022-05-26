@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-2"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 2"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>CSSE</h1>
@@ -103,7 +103,7 @@ What is the largest total that can be made adding two cards?
 
 $
 \begin{aligned}
-\text {Largest Total}   &= 49 - 41 \\\\
+\text {Largest Total}   &= 49 + 41 \\\\
                         &= 100
 \end{aligned}
 $
@@ -509,9 +509,9 @@ $
                                          &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
                                          &= 5
 \end{aligned}
+$
 
 Dad is $5$ times older than Dave.
-$
 
 </div>
 </div>
@@ -1711,6 +1711,7 @@ Largest number that Dean can create $= 7531$.
 Smallest number that Dean can create $= 1357$.
 
 As per the question,
+
 $
 \begin{aligned}
 \text {Difference}  &= 7531 - 1357 \\\\
@@ -2676,7 +2677,12 @@ $
                                         &= ((108 \div 2) +1) \times 2 \\\\
                                         &= (55 +1) \times 2 \\\\
                                         &= 55 \times 2 \\\\
-                                        &= 110
+                                        &= 110 \\\\
+\text{Fifth number in the sequence}     &= (((110 + 2) \div 2) + 1) \times 2 \\\\
+                                        &= ((112 \div 2) +1) \times 2 \\\\
+                                        &= (56 +1) \times 2 \\\\
+                                        &= 57 \times 2 \\\\
+                                        &= 114
 \end{aligned}
 $
 
@@ -2685,7 +2691,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$106, 108$
+$106, 110, 114$
 
 </div>
 </div>

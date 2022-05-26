@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -1506,7 +1506,7 @@ $
                         &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
                         &= 2 \times 3 \\\\
                         &= 6 \\\\
-\text{Total age}        &= \text{Age (Richard) + Age (Adam) + Age (Will)} \\\\
+\text{Total age}        &= \text{Richard's age + Adam's age + Will's age} \\\\
                         &= 18 + 9 + 6 \\\\
                         &= 33
 \end{aligned}
@@ -2260,7 +2260,7 @@ b                        &= 5
 \end{aligned}
 $
 
-Two numbers that have a difference of 8 and added upto 18 are $13$ and $5$
+Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
 
 </div>
 </div>
@@ -3135,7 +3135,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>E74386F9-853B-41A1-A1B6-1E43F7517043</p>
 </div>
@@ -3301,7 +3301,7 @@ $\text{Closest number to} \ 60 = 58 \\\\
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-all"
 title: "Topic - Infer - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8123,11 +8123,11 @@ To compare, let's find the sum first.
 $
 \begin{aligned}
 \text {DOG}     &= 4 + 15 + 7 \\\\
-                &= 26
+                &= 26 \\\\
 \text {CATS}    &= 3 + 1 + 20 + 19 \\\\
-                &= 43
+                &= 43 \\\\
 \text {FISH}    &= 6 + 9 + 19 + 8 \\\\
-                &= 42
+                &= 42 \\\\
 \text {BIRD}    &= 2 + 9 + 18 + 4 \\\\
                 &= 33
 \end{aligned}
@@ -8308,11 +8308,11 @@ To compare, let's find the product first.
 $
 \begin{aligned}
 \text {DOG}     &= 4 \times 15 \times 7 \\\\
-                &= 420
+                &= 420 \\\\
 \text {CATS}    &= 3 \times 1 \times 20 \times 19 \\\\
-                &= 1140
+                &= 1140 \\\\
 \text {FISH}    &= 6 \times 9 \times 19 \times 8 \\\\
-                &= 8208
+                &= 8208 \\\\
 \text {BIRD}    &= 2 \times 9 \times 18 \times 4 \\\\
                 &= 1296
 \end{aligned}
@@ -23375,7 +23375,7 @@ $600$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>C9620571-1496-4114-9AAF-B424470A86A3</p>
 </div>
@@ -23439,7 +23439,7 @@ Height $= 35 \ \text{cm}$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -46699,7 +46699,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>589E5E44-10C8-4537-8ED7-9C02B0A0532C</p>
 </div>
@@ -46883,7 +46883,7 @@ $18954$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -55149,7 +55149,7 @@ $1.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_red question'>
 <div class='uuid'>
 <p>C20A4A1C-A26D-4559-B8BE-890AC044C5DD</p>
 </div>
@@ -55195,7 +55195,7 @@ $58$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_red</p>
 </div>
 </div>
 </li>

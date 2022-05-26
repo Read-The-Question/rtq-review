@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-5"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 5"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -61,7 +61,7 @@ $1996$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>EF90B9B4-8BF8-49FC-86B2-6102DFA704A6</p>
 </div>
@@ -82,11 +82,10 @@ Calculate $\dfrac {7} {12}$ of $864$
 
 $
 \begin{aligned}
-&= \dfrac{7} {12} \times 864 \\\\
-&= \dfrac{7 \times 864} {12} \\\\
-&= \dfrac{7 \times 8 \times 108} {12} \\\\
-&= \dfrac{7 \times 8 \times 9 \times 12} {12} \\\\
-&= \dfrac{7 \times 8 \times 9 \times {\cancel {12}}} {\cancel {12}} \\\\
+&= \dfrac {7} {12} \times 864 \\\\
+&= \dfrac {7 \times 864} {12} \\\\
+&= \dfrac {7 \times 8 \times 9 \times 12} {12} \\\\
+&= \dfrac {7 \times 8 \times 9 \times {\cancel {12}}} {\cancel {12}} \\\\
 &= 504
 \end{aligned}
 $
@@ -105,7 +104,7 @@ $504$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -299,7 +298,7 @@ $10000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>D5EA307D-A637-466A-B45F-001616286B7A</p>
 </div>
@@ -327,13 +326,11 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 Missing angle $+ 82 + 71 = 180$
 
-Missing angle $= 180 - 82 - 71$
-
 $
 \begin{aligned}
-&= 180 - 82 - 71\\\\
-&= 180 - 153 \\\\
-&= 27 \degree
+\text {Missing angle} &= 180 - 82 - 71 \\\\
+                      &= 180 - 153 \\\\
+                      &= 27 \degree
 \end{aligned}
 $
 
@@ -353,7 +350,7 @@ $27 \degree$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

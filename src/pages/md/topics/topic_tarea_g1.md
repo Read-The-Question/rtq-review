@@ -1,9 +1,200 @@
 ---
 slug: "topics/topic-tarea-g1"
 title: "Topic - Area - G1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>B6EA02DB-3A6A-46CC-B578-F9C15B5E1948</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+This triangle and rectangle have the same area. Find the height of the triangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {1} {2} \times 12 \times h   &= 24 \times 8 \\\\
+h                                   &= \dfrac {24 \times 8 \times 2} {12} \\\\
+h                                   &= \dfrac {12 \times 2 \times 8 \times 2} {12} \\\\
+h                                   &= \dfrac {\cancel{12} \times 2 \times 8 \times 2} {\cancel{12}} \\\\
+h                                   &= 2 \times 8 \times 2 \\\\
+h                                   &= 32 \ \text {cm}
+\end {aligned}
+$
+
+Height of the triangle $= 32 \ \text {cm}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>07245738-EE23-46C0-B539-ABA88C3BF450</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I wish to cover a wall measuring $2 \ \text{m}$ by $6 \ \text{m}$ in tiles which are each $50 \ \text{cm}$ by $50 \ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many tiles will I need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+The wall measurement is given in metres while the tile measurement is given in cm.
+
+Let's convert the wall measurements into $\text{cm}$.
+
+$\text{Area} = \text{length} \times \text{width}$
+
+$
+\begin {aligned}
+\text {Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
+                         &= \dfrac {2 \ \text{m} \times 6 \ \text{m}} {50 \ \text{cm} \times 50 \ \text{cm}} \\\\
+                         &= \dfrac {2 \times 100 \ \text{cm} \times 6 \times 100 \ \text{cm}} {50 \ \text{cm} \times 50 \ \text{cm}} \\\\
+                         &= \dfrac {2 \times 100 \times 6 \times 100} {50  \times 50} \\\\
+                         &= \dfrac {2 \times 50 \times 2 \times 6 \times 50 \times 2} {50  \times 50} \\\\
+                         &= \dfrac {2 \times \cancel{50} \times 2 \times 6 \times \cancel{50} \times 2} {\cancel{50}  \times \cancel{50}} \\\\
+                         &= 2 \times 2 \times 6 \times 2 \\\\
+                         &= 48
+\end {aligned}
+$
+
+Number of tiles $= 48$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If I now choose to use tiles which are $40 \ \text{cm}$ by $20 \ \text{cm}$ how many of these smaller tiles will I need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text{Number of tiles}  &= \dfrac {\text{Area of Wall}} {\text{Area of a Tile}} \\\\
+                        &= \dfrac {2 \ \text{m} \times 6 \ \text{m}} {40 \ \text{cm} \times 20 \ \text{cm}} \\\\
+                        &= \dfrac {2 \times 100  \ \text{cm} \times 6 \times 100 \ \text{cm}} {40 \ \text{cm} \times 20 \ \text{cm}} \\\\
+                        &= \dfrac {2 \times 100 \times 6 \times 100} {40  \times 20} \\\\
+                        &= \dfrac {2 \times 5 \times 20 \times 6 \times 5 \times 20} {2 \times 20  \times 20} \\\\
+                        &= \dfrac {\cancel{2} \times 5 \times \cancel{20} \times 6 \times 5 \times \cancel{20}} {\cancel{2} \times \cancel{20}  \times \cancel{20}} \\\\
+                        &= 5 \times 6 \times 5 \\\\
+                        &= 150
+\end{aligned}
+$
+
+Number of tiles $= 150$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
@@ -495,6 +686,68 @@ $28 cm ^ 2$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>4949CC7C-97FA-4954-8FC3-B05DB7B7F7C1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle is $6\ \text{cm}$ longer than it is wide. Its perimeter is $32\ \text{cm}$. Find its area.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the wide $= a$
+
+As per the question length $= 6 + a$
+
+$
+\begin{aligned}
+ 2 \times a + 2 \times (6 + a)  &= 32 \\\\
+ 2a + 12 + 2a                   &= 32 \\\\
+ 4a                             &= 32 - 12 \\\\
+ a                              &= \dfrac {20} {4} \\\\
+ a                              &= \dfrac {5 \times 4} {4} \\\\
+ a                              &= \dfrac {5 \times \cancel {4} } {\cancel {4} } \\\\
+ a                              &= 5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area}  &= 5 \times (6 + 5) \\\\
+             &= 5 \times 11 \\\\
+             &= 55 \text{ cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55 \text{ cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -1794,6 +2047,76 @@ $\dfrac{45}{4}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>FB99253B-2684-4954-B0CD-C244509033ED</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square has area $64\ \text{cm}^2$. What is the perimeter of the square? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know,
+
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
+
+Let the length of the square (in cm) $= a$
+
+
+$
+\begin{aligned}
+a \times a                                      &= 64 \ \text{cm}^2\\\\
+a^{2}                                           &= 8^{2} \\\\
+a                                               &= 8 \ \text{cm}
+\end{aligned}
+$
+
+The length of the side of the square $= 8 \ \text{cm}$
+
+Let's find the perimeter of the square.
+
+$
+\begin{aligned}
+\text{Perimeter of the square}                  &= 4 \times a \\\\
+                                                &= 4 \times 8 \\\\
+                                                &= 32 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>A1D15272-7F0D-49A8-960B-75D4D345810F</p>
@@ -2292,7 +2615,7 @@ $50 \ \text{cm}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>19234F0C-4C85-4F00-8A0C-D18A9430B6A0</p>
 </div>
@@ -2342,7 +2665,7 @@ $80 \ \text {cm}^2$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -2587,6 +2910,133 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 </div>
 <div class='rag'>
 <p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>7CD28E97-9AFA-46F8-9A9E-B995C440D735</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two identical square holes are cut from a rectangular sheet leaving an 
+area of $58$ square centimetres. How long are the sides of the square?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of the square hole $= a$
+
+$
+\begin{aligned}
+\text{Area of two square holes} &= \text{Area of the rectangular sheet} - \text{Left area} \\\\
+2 \times a ^ 2                  &= 10 \times 9 - 58 \\\\
+2 \times a ^ 2                  &= 90 - 58 \\\\
+2 \times a ^ 2                  &= 32 \\\\
+a ^ 2                           &= \dfrac {32} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
+a                               &= \sqrt 16 \\\\
+a                               &= 4 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>99D0FFC6-A645-4175-8EA6-1E27EC96521C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the following diagram the two shaded rectangles have equal areas. What is the **total** shaded area?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the shaded left bottom rectangle (in $\text{cm}$) $= a$
+
+Then, as per the diagram, the length of the shaded right top rectangle (in $\text{cm}$) $= 14 - a$
+
+As per the question, the area of both the rectangles are same.
+
+Putting this into an equation, we get
+
+$
+\begin{aligned}
+3 \times a  &= 4 \times (14 - a) \\\\
+3a          &= 56 - 4a \\\\
+3a + 4a     &= 56 \\\\
+7a          &= 56 \\\\
+a           &= \dfrac {56} {7} \\\\
+a           &= 8 \ \text{cm}
+\end {aligned}
+$
+
+$
+\begin{aligned}
+\text{Total shaded area}    &= 2 (3 \times 8) \\\\
+                            &= 2 \times 24 \\\\
+                            &= 48 \ \text{cm}^2
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text{cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tsymmetry-all"
 title: "Topic - Symmetry - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B245DB80-06AB-4146-8632-C2E68446994E</p>
 </div>
@@ -35,6 +35,8 @@ How many lines of symmetry has a square?
 <div class='workings'>
 <div class='working'>
 
+** TODO: Add diagrams to show all lines of symmetry **
+
 $4$
 
 </div>
@@ -54,12 +56,12 @@ $4$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1F0E1A23-FEB9-4030-8F80-C0D56311A323</p>
 </div>
@@ -91,6 +93,8 @@ The diagram shows part of a regular shape along with its two lines of symmetry. 
 <div class='workings'>
 <div class='working'>
 
+** TODO: Add the complete diagram **
+
 a trapezium
 
 </div>
@@ -107,7 +111,7 @@ $\text{a trapezium}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

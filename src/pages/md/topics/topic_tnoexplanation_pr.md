@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-pr"
 title: "Topic - Noexplanation - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -538,6 +538,51 @@ $1$ January.
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>79795420-38FD-4AE7-84E8-377DBD4317D4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many triangles are there in this diagram?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>4B7CDE91-4C3F-4F86-89D2-B8D194C48EBA</p>
@@ -622,6 +667,247 @@ $12$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>46999D58-537F-44BC-B9A5-9C2318BA2DC8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+tclock
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the angle between the hour hand and the minute hand of a clock, at $3 \ \text{o'clock}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$90 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Through how many degrees does the hour hand of a clock turn betweeb noon and $5 \ \text{o'clock}$ in the afternoon?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$150 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Through how many degrees does the minute hand of a clock turn between $0900$ and $0945$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$270 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$270 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>75DCC5C4-E1C9-4A03-AAE9-DB54181531B6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In each part of this question, the printed number can be made by multiplying two **prime numbers** together.
+
+Write the two **prime numbers** in the empty boxes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$57 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+57 &= \maroonC {19} \times \maroonC {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19 \times 3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$91 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+91 &= \maroonC {13} \times \maroonC {7}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13 \times 7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -894,54 +1180,6 @@ $1349$
 
 <div class='papername'>
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>F432AD9A-242A-4CE5-A114-1BB951BB20B5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**For Questions** $\bold{12-15}$, **use the clock below**.
-
-![missing image](/papers/missing_image.svg)
-
-One **afternoon**, Eadie looks at the clock.
-Write the time in $12 \ \text{hour}$ clock
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$03 {:} 35 \ \text {p.m.}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$03 {:} 35 \ \text {p.m.}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -2437,49 +2675,6 @@ $35948$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>57899371-850E-46B7-BFFF-CB143D4B4F5C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the number thirty thousand, two hundred and ninety seven in figures.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$30297$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30297$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>3D815431-0738-48E8-8632-A526A05E2823</p>
 </div>
 <div class='topics'>
@@ -2647,113 +2842,6 @@ $3124, \ 3214, \ 3412$
 <div class='answer'>
 
 $3124, \ 3214, \ 3412$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>23224CB2-4846-4DFA-A09A-8AC4B9FAAE31</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Hayfield School girls' football team played Greentops School at home last week. The final score was $3{:}1$. (The home team is listed first.)
-
-Below is a list of possible half time scores, but one has been missed out. Can you find it?
-
-$2{:}1$
-
-$0{:}0$    
-
-$2{:}0$    
-
-$1{:}1$
-
-$3{:}0$    
-
-$3{:}1$    
-
-$1{:}0$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0{:}1$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0{:}1$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>61DF5227-3001-41C5-83ED-E0E7D5D0CCB3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The second pattern has four small squares and is made from six lines. 
-
-How many lines are needed to draw $64$ small squares?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$18$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18$
 
 </div>
 </div>
@@ -2971,54 +3059,6 @@ $\dfrac {4} {5}$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>9269D2C1-1332-4C0D-A7DE-F011F1B802CF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-ttime
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a $24 \ \text{hour}$ day, what are the two possible times of day shown by the clock?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9{:}40, \ 21{:}40$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9{:}40, \ 21{:}40$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>6C0D2582-A45B-4E63-9DBD-EBD8E755B0AC</p>
 </div>
 <div class='topics'>
@@ -3065,440 +3105,6 @@ $11{:}11$
 </div>
 </div>
 
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at this pattern:
-  
-$
-\begin{aligned} 
-6 \times 6          &=  36         \\
-66 \times 66        &=  4356       \\
-666 \times 666      &=  443556     \\
-6666 \times 6666    &=  44435556   
-\end{aligned}
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Use the pattern to fill in the spaces:
-    
-$
-\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore}
-\times
-\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore}
-= 44444435555556
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$6666666 \times 6666666$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6666666 \times 6666666$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many digits are in the answer to
-
-$6666666666 \times 6666666666$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$20$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>1D255A1A-F215-41A1-BB54-D55256E112FB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Janice has $10$ pens.
-
-$5$ are blue pens and $5$ are red.
-
-$8$ are felt tip pens.
-
-Fill in the blanks in this statement:
-
-There are between $\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$ blue felt tip pens.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$3, \ 5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3, \ 5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>62371EC4-9B97-4727-A38F-16A5F80DE4BE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tcoin
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I only have five coins in my purse. They are 
-$1 \text{p}, 2 \text{p}, 5 \text{p}, 10 \text{p}$ and $20 \text{p}$. It 
-is not possible to make exactly $19 \text{p}$ with these coins.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the smallest amount that can not be made using my coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4 \text{p}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the two other amounts, less than $20 \text{p}$, which I cannot make.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9 \text{p}, \ 14 \text{p}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9 \text{p}, \ 14 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The largest amount of money that can be made using these coins
- is $38 \text{p}$. Find the largest amount of money less 
- than $38 \text{p}$ which can not be made using these coins.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$34 \text{p}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$34 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>4049C025-C8E3-420D-90F0-FEE76BCC81C5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the following pattern, you can only move from a letter to a 
-letter immediately below it but slightly to the side in the next line.
-
-![missing image](/papers/missing_image.svg)
-
-One route from $L$ to $W$ is $LMOSW$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a route from $L$ to $Y$ that goes through $Q$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {LNQUY}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {LNQUY}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down all the possible routes from $L$ to $W$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {LMPSW}, \ \text{LNPSW}, \ \text{LMOSW}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {LMPSW}, \ \text{LNPSW}, \ \text{LMOSW}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many possible routes are there from $L$ to $X$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$6$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
@@ -4166,196 +3772,6 @@ $13750$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which number between $60$ and $80$ is a multiple of both $3$ and $8$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$72$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$72$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>97113A2F-A515-4241-95D3-B163DACFDAA2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Cameron has five number cards.
-
-$\boxed{1} \quad \boxed{2} \quad \boxed{3} \quad \boxed{4} \quad \boxed{5}$
-
-The cards can be placed together to form a number.
-
-For example, using three of his cards Cameron can create the smallest $3$-digit multiple of $3$.
-
-$\boxed{1} \quad \boxed{2} \quad \boxed{3}$
-
-In the questions that follow, *choosing from Cameron’s cards*, write numbers on the blank cards to make:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the *smallest* possible $3$-digit multiple of $6$
-
-$\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$132$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$132$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the *largest* possible $2$-digit prime number
-
-$\boxed{\phantom{1}} \ \boxed{\phantom{1}}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$53$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$53$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the *largest* possible $4$-digit multiple of $5$
-
-$\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4325$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4325$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

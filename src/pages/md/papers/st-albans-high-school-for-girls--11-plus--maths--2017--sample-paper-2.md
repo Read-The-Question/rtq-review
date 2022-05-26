@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>St Albans High School For Girls</h1>
@@ -294,7 +294,7 @@ $18046$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>12F83AD1-E7FF-442E-89CC-590C4E8E912A</p>
 </div>
@@ -329,7 +329,7 @@ $\text{Three million, sixty thousand, one hundred and twenty}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -403,10 +403,9 @@ Work out one third of one quarter of 252
 <div class='workings'>
 <div class='working'>
 
-One third of one quarter of $= 252$
-
 $
 \begin{aligned}
+$= \text{one third of one quarter of 252} \\\\
 &= \dfrac {1} {3} \times \dfrac {1} {4} \times 252 \\\\
 &= \dfrac {1 \times 1 \times 252} {3 \times 4} \\\\
 &= \dfrac {2 \times 126} {3 \times 2 \times 2} \\\\
@@ -1550,20 +1549,15 @@ A theatre has seats arranged in rows of 22. If an audience of 483 fills the rows
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$
+\begin {aligned}
+\text {No. of rows occupied}          &= \text \dfrac {Total audience} {Seats per row} \\\\
+                                      &= \dfrac {483} {22} \\\\
+                                      &= 21 \dfrac {21} {22}
+\end {aligned}
+$
 
-$
-\begin{aligned}
-&= \dfrac {483} {22} \\\\
-&= 21 \dfrac {21} {22}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of rows that will be occupied}              &= 21                                   
-\end{aligned}
-$
+Number of rows that will be full $= 21$
 
 </div>
 </div>
@@ -2781,7 +2775,8 @@ $
 
 There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
 
-Multiplying $3$ both side in the first equation.
+Multiply the first equation by $3$.
+
 $
 \begin{aligned} 
 3(a + b)                    &= 3 \times 57 \\\\
@@ -2800,14 +2795,36 @@ a                         &= 40 \ \text{cm}
 \end{aligned}
 $
 
-The length of the each gap is $40 \ \text{cm}$
+The length of the each gap is $= 40 \ \text{cm}$
+
+</div>
+<div class='working'>
+
+Alternative answer,
+
+As per the question,
+
+$
+\begin {aligned}
+57 \ \text{cm} + 57 \ \text{cm}  + \ \text{Post}     &= 131 \ \text{cm} \\\\
+\text{Post}                                          &= 131 - 57 - 57 \\\\
+                                                     &= 17 \ \text{cm}
+\end {aligned} 
+$
+
+$
+\begin {aligned}
+\text{Width of gap}                                  &= 57 \ \text{cm} -17  \ \text{cm} \\\\
+                                                     &= 40  \ \text{cm}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$40$
+$40 \ \text{cm}$
 
 </div>
 </div>

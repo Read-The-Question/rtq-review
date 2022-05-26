@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-oldpr"
 title: "Topic - Number - Old PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -653,46 +653,6 @@ $1000$
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>42FA7203-A19E-4735-B96B-0DE10464E8A4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write in figures the number three hundred thousand, four hundred and seven.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$300407$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$300407$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>

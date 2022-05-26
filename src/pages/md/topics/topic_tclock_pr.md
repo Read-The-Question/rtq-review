@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-pr"
 title: "Topic - Clock - PR"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -16,6 +16,9 @@ tangle
 </li>
 <li>
 tclock
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -129,54 +132,6 @@ $270 \degree$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>F432AD9A-242A-4CE5-A114-1BB951BB20B5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**For Questions** $\bold{12-15}$, **use the clock below**.
-
-![missing image](/papers/missing_image.svg)
-
-One **afternoon**, Eadie looks at the clock.
-Write the time in $12 \ \text{hour}$ clock
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$03 {:} 35 \ \text {p.m.}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$03 {:} 35 \ \text {p.m.}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -327,54 +282,6 @@ $1440 \degree$
 </ul>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>9269D2C1-1332-4C0D-A7DE-F011F1B802CF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-ttime
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a $24 \ \text{hour}$ day, what are the two possible times of day shown by the clock?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9{:}40, \ 21{:}40$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9{:}40, \ 21{:}40$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>

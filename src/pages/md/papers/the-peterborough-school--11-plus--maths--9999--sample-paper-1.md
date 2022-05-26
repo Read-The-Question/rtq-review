@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-peterborough-school-11-plus-maths-9999-sample-paper-1"
 title: "The Peterborough School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>The Peterborough School</h1>
@@ -14,7 +14,7 @@ date: 2022-05-25 23:11:59
 </div>
 <ul class='question TODO'>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3DEA1C5D-5098-4644-85E8-342D00E123E8</p>
 </div>
@@ -165,7 +165,7 @@ $3$
 </div>
 <div class='question subquestion'>
 
-$\frac {1} {2} of 7$
+$\dfrac {1} {2} \text {of} 7$
 
 </div>
 <div class='workings'>
@@ -173,10 +173,10 @@ $\frac {1} {2} of 7$
 
 $
 \begin{aligned}
-&= \dfrac {1} {2} \ \text{of} \ 7 \\\\
-&= \dfrac{1}{2} \times 7 \\\\
+&= \dfrac {1} {2} \ \text {of} \ 7 \\\\
+&= \dfrac {1} {2} \times 7 \\\\
 &= \dfrac {7} {2} \\\\
-&= 3 \dfrac{1} {2} 
+&= 3 \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -185,7 +185,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3 \dfrac{1} {2}$
+$3 \dfrac {1} {2}$
 
 </div>
 </div>
@@ -197,7 +197,7 @@ $3 \dfrac{1} {2}$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -384,7 +384,7 @@ $234$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>40063D7A-77F1-4202-9161-7E6E6C22F8EF</p>
 </div>
@@ -411,25 +411,25 @@ Let's write all the fractions in its lowest forms,
 
 $
 \begin{aligned}
-&\dfrac {1}{2}, \quad \dfrac {2}{3}, \quad \dfrac {3}{5}, \quad \dfrac {9}{18}, \quad \dfrac {10}{15} \\\\
-&\dfrac {1}{2}, \quad \dfrac {2}{3}, \quad \dfrac {3}{5}, \quad \dfrac {9 \times 1}{9 \times 2}, \quad \dfrac {5 \times 2}{5 \times 3} \\\\
-&\dfrac {1}{2}, \quad \dfrac {2}{3}, \quad \dfrac {3}{5}, \quad \dfrac {\cancel {9} \times 1}{\cancel {9}\times 2}, \quad \dfrac {\cancel {5} \times 2}{\cancel {5} \times 3} \\\\
-&\dfrac {1}{2}, \quad \dfrac {2}{3}, \quad \dfrac {3}{5}, \quad \dfrac {1}{2}, \quad \dfrac {2}{3} \\\\
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9} {18}, \quad \dfrac {10} {15} \\\\
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9 \times 1} {9 \times 2}, \quad \dfrac {5 \times 2} {5 \times 3} \\\\
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {\cancel {9} \times 1} {\cancel {9} \times 2}, \quad \dfrac {\cancel {5} \times 2} {\cancel {5} \times 3} \\\\
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {1} {2}, \quad \dfrac {2} {3} \\\\
 \end{aligned}
 $
 
-Answer : $\dfrac {1}{2}$ and $\dfrac {9}{18}$  and $\dfrac {2}{3}$ and $\dfrac {10}{15}$
+Answer : $\dfrac {1} {2}$ and $\dfrac {9} {18}$  and $\dfrac {2} {3}$ and $\dfrac {10} {15}$
 
-Odd one out : $ \dfrac {3}{5}$
+Odd one out : $ \dfrac {3} {5}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1}{2}$ and $\dfrac {9}{18}$  and $\dfrac {2}{3}$ and $\dfrac {10}{15}$
+$\dfrac {1} {2}$ and $\dfrac {9} {18}$  and $\dfrac {2} {3}$ and $\dfrac {10} {15}$
 
-Odd one out : $ \dfrac {3}{5}$
+Odd one out : $ \dfrac {3} {5}$
 
 </div>
 </div>
@@ -438,7 +438,7 @@ Odd one out : $ \dfrac {3}{5}$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1487,7 +1487,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>D61C4BCD-16FD-4C38-A89B-A1E29838248E</p>
 </div>
@@ -1605,8 +1605,7 @@ $
 \end{array}
 $
 
-Let's account for the one zero now
-$= 7420$
+Let's account for the one zero now $= 7420$
 
 </div>
 </div>
@@ -1625,7 +1624,7 @@ $7420$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1966,7 +1965,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>B67C812C-8264-4E3E-AE90-257236E2DAC5</p>
 </div>
@@ -1987,14 +1986,14 @@ Aled had $67$ marbles when he went to school. He gave $19$ to his best friend Ow
 
 As per the question,
 
-Marbles Alen had initially = $67$
+Marbles Alen had initially $= 67$
 
 $
 \begin{aligned}
 \text {Marbles (he got home)} &= \text {Marbles (to school) - Given(Owen) - Given (Swap Jess) + Taken (Swap Jess) + Won (Meg) - Lost (Ben)} \\\\
-&=  67 - 19 - 5 + 9 + 27 - 34 \\\\
-&= 79 - 34 \\\\
-&= 45
+                              &= 67 - 19 - 5 + 9 + 27 - 34 \\\\
+                              &= 79 - 34 \\\\
+                              &= 45
 \end{aligned}
 $
 
@@ -2012,7 +2011,7 @@ $45$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

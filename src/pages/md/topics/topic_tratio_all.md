@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-all"
 title: "Topic - Ratio - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -6249,7 +6249,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E79F071C-7363-457A-AB2E-0827A05F9BF1</p>
 </div>
@@ -6307,7 +6307,7 @@ Calculate the quantities needed to make $16$ cupcakes.
 
 A recipe for making $16$ cupcakes includes the following ingredients:
 
-Sugar 
+Sugar
 $
 \begin{aligned}
 &= \dfrac {120} {12} \times 16 \\\\
@@ -6338,12 +6338,12 @@ $
 &= \dfrac {\cancel {4} \times 40} {3 \times \cancel {4} } \times 16 \\\\
 &= \dfrac {40 \times 16} {3} \\\\
 &= \dfrac {640} {3} \\\\
-&= 213.33 \ \text{g} 
+&= 213.33 \ \text{g}
 \end{aligned}
-$ 
+$
 
 
-Flour 
+Flour
 $
 \begin{aligned}
 &= \dfrac {180} {12} \times 16 \\\\
@@ -6352,17 +6352,16 @@ $
 &= \dfrac {30 \times 16} {2} \\\\
 &= \dfrac {15 \times 2 \times 16} {2} \\\\
 &= \dfrac {15 \times \cancel {2}  \times 16} {\cancel {2} } \\\\
-&= 240 \ \text{g} 
+&= 240 \ \text{g}
 \end{aligned}
-$ 
-
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$160 \ \text{g}, 4, 213.33 \ \text{g}, 240 \ \text{g}$
+$Sugar 160 \ \text{g}, Eggs 4, Butter 213.33 \ \text{g}, Flour 240 \ \text{g}$
 
 </div>
 </div>
@@ -6402,7 +6401,7 @@ $28$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-red"
 title: "Topic - Infer - Red"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2650,6 +2650,57 @@ $59$
 </div>
 <div class='rag'>
 <p>rag_up_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_red question'>
+<div class='uuid'>
+<p>C20A4A1C-A26D-4559-B8BE-890AC044C5DD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these numbers when multiplied by itself gives an answer which ends in a $4$?
+
+$26 \quad 44 \quad 58 \quad 73$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We can figure out if a number multiplied by itself ends in $4$ just by multiplying the unit digit of the number to itself.
+
+|      Number       | Unit Digit    |       Answer          |
+|:----------------: |:----------:   |:-----------------:    |
+| $2 \underline 6$  |     $6$       | $6 \times 6 = 36$     |
+| $4 \underline 4$  |     $4$       | $4 \times 4 = 16$     |
+| $5 \underline 8$  |     $8$       | $8 \times 8 = 64$     |
+| $7 \underline 3$  |     $3$       | $3 \times 3 = 9$      |
+
+From the table above, the answer is $58$ as it has $4$ in its unit place.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$58$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_red</p>
 </div>
 </div>
 </li>

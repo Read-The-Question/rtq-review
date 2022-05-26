@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-all"
 title: "Topic - Age - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -60,7 +60,7 @@ $1953$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>EE87B35D-AFC8-4F45-A49A-D40F8F3B3AA8</p>
 </div>
@@ -113,7 +113,7 @@ $24$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -1011,9 +1011,9 @@ $
                                          &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
                                          &= 5
 \end{aligned}
+$
 
 Dad is $5$ times older than Dave.
-$
 
 </div>
 </div>
@@ -1978,7 +1978,7 @@ $
                         &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
                         &= 2 \times 3 \\\\
                         &= 6 \\\\
-\text{Total age}        &= \text{Age (Richard) + Age (Adam) + Age (Will)} \\\\
+\text{Total age}        &= \text{Richard's age + Adam's age + Will's age} \\\\
                         &= 18 + 9 + 6 \\\\
                         &= 33
 \end{aligned}

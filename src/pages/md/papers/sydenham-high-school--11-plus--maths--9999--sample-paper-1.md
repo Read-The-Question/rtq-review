@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <div class='paper'>
 <h1>Sydenham High School</h1>
@@ -469,7 +469,7 @@ $370$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>85EB3724-4385-40C7-99FC-BD96F06DD4F3</p>
 </div>
@@ -489,7 +489,45 @@ that is the same as one of the two integers that you are thinking of.
 <div class='workings'>
 <div class='working'>
 
-$3 \ \text{and} 6$
+Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b            &= 18 \\\\
+a - b                 &= b \\\\
+a                     &= 2 \times b \\\\
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable.
+
+Substuting the value of $a$ from second equation to first equation.
+
+$
+\begin{aligned}
+a \times b            &= 18 \\\\
+2 \times b \times b   &= 18 \\\\
+b ^ 2                 &= \dfrac {18} {2} \\\\
+b ^ 2                 &= \dfrac {2 \times 9} {2} \\\\
+b ^ 2                 &= \dfrac {\cancel {2} \times 9} {\cancel {2}} \\\\
+b ^ 2                 &= 9 \\\\
+b                     &= 3
+\end{aligned}
+$
+
+Substuting the value of $b$ in second equation.
+
+$
+\begin{aligned}
+a - b &= b \\\\
+a - 3 &= 3 \\\\
+a     &= 6 \\\\
+\end{aligned}
+$
+
+The two integers are $3 \ \text{and} 6$.
 
 </div>
 </div>
@@ -505,7 +543,7 @@ $3 \ \text{and} 6$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -644,7 +682,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E79F071C-7363-457A-AB2E-0827A05F9BF1</p>
 </div>
@@ -702,7 +740,7 @@ Calculate the quantities needed to make $16$ cupcakes.
 
 A recipe for making $16$ cupcakes includes the following ingredients:
 
-Sugar 
+Sugar
 $
 \begin{aligned}
 &= \dfrac {120} {12} \times 16 \\\\
@@ -733,12 +771,12 @@ $
 &= \dfrac {\cancel {4} \times 40} {3 \times \cancel {4} } \times 16 \\\\
 &= \dfrac {40 \times 16} {3} \\\\
 &= \dfrac {640} {3} \\\\
-&= 213.33 \ \text{g} 
+&= 213.33 \ \text{g}
 \end{aligned}
-$ 
+$
 
 
-Flour 
+Flour
 $
 \begin{aligned}
 &= \dfrac {180} {12} \times 16 \\\\
@@ -747,17 +785,16 @@ $
 &= \dfrac {30 \times 16} {2} \\\\
 &= \dfrac {15 \times 2 \times 16} {2} \\\\
 &= \dfrac {15 \times \cancel {2}  \times 16} {\cancel {2} } \\\\
-&= 240 \ \text{g} 
+&= 240 \ \text{g}
 \end{aligned}
-$ 
-
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$160 \ \text{g}, 4, 213.33 \ \text{g}, 240 \ \text{g}$
+$Sugar 160 \ \text{g}, Eggs 4, Butter 213.33 \ \text{g}, Flour 240 \ \text{g}$
 
 </div>
 </div>
@@ -797,12 +834,12 @@ $28$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>29826990-7CF3-48F9-A4E1-518D0B0296D5</p>
 </div>
@@ -823,7 +860,8 @@ Write in the missing digits to make this correct.
 <div class='workings'>
 <div class='working'>
 
-Let the whole value $=a$
+Let's take the whole number (with missing digits) $=a$
+
 $
 \begin{aligned}
 a \times 7  &=  896 \\\\ 
@@ -833,6 +871,8 @@ a           &=  \dfrac {128 \times \cancel{7}} {\cancel{7}} \\\\
 a           &=  128
 \end{aligned}
 $
+
+The missing digits are $1 \ \text{and} 8$.
 
 </div>
 </div>
@@ -848,12 +888,12 @@ $1 \ \text{and} 8$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>A44515A9-1C0B-4A2E-99CA-D73054BD487E</p>
 </div>
@@ -878,9 +918,11 @@ Find the number that Sam was thinking of.
 Let the number $=a$
 
 $
+\begin{aligned}
 2a + 6  &=  3a - 3 \\\\
 3a - 2a &=  6 + 3 \\\\
-a       &=  9 
+a       &=  9
+\end{aligned}
 $
 
 </div>
@@ -897,7 +939,7 @@ $9$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1085,7 +1127,7 @@ $35 cm^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
 </div>
@@ -1135,12 +1177,12 @@ $\dfrac {7} {19}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>CB9E833C-477C-416F-9F7E-B57C7CF7ECEC</p>
 </div>
@@ -1182,7 +1224,7 @@ $5 \degree \text {C}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1261,7 +1303,7 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>E8BEF82D-E970-4508-A623-9BC202200751</p>
 </div>
@@ -1303,12 +1345,12 @@ $4 {:} 50 \ \text {pm}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>A2AB9E52-5757-48BA-893F-644438CCA57D</p>
 </div>
@@ -1483,7 +1525,7 @@ $135$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -2135,7 +2177,7 @@ $30 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>D6EF16C9-114E-4ACE-83AF-27BBE42B409E</p>
 </div>
@@ -2263,7 +2305,7 @@ $20$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -2443,7 +2485,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>19234F0C-4C85-4F00-8A0C-D18A9430B6A0</p>
 </div>
@@ -2493,7 +2535,7 @@ $80 \ \text {cm}^2$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -2712,7 +2754,7 @@ $105 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>83315ED9-DB65-48DC-A17E-D2511B4529A7</p>
 </div>
@@ -2803,7 +2845,7 @@ $\pounds 7,\pounds 1,\pounds 1$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>

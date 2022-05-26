@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-all"
 title: "Owner - Nitin Joshi - All"
-date: 2022-05-25 23:11:59
+date: 2022-05-26 14:58:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -153,8 +153,8 @@ Show your working.
 
 $
 \begin {aligned}
-\text {Cost of calculator in} 1979   &= 1.25 \times 22 \\\\
-                                     &= \pounds 27.5
+\text {Cost of calculator in} \ 1979   &= 1.25 \times 22 \\\\
+                                       &= \pounds 27.5
 \end {aligned}
 $
 
@@ -185,6 +185,9 @@ $\pounds 27.5$
 <ul>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -352,6 +355,7 @@ $
 \begin{aligned}
 \text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
                     &= \dfrac {90 \times 100} {100} \\\\
+                    &= \dfrac {90 \times \cancel {100} } {\cancel {100} } \\\\
                     &= 90 \%
 \end{aligned}
 $
@@ -921,7 +925,17 @@ $13 \times 1{?}1 = 1703$
 <div class='workings'>
 <div class='working'>
 
-$13 \times 1 \maroonC {3} 1 = 1703$
+$
+\begin{array}{ccccccccc}
+       &        &                             1   &   3 \\
+\times &    1   &     \maroonC {3}   &   1 \\
+\hline
+       &        &                             1   &   3 \\
+       &    3   &                             9   &   0 \\
+1      &    3   &                             0   &   0 \\
+\hline
+1      &    7   &                             0   &   3 \\
+\end{array}
 
 </div>
 </div>
@@ -1219,11 +1233,11 @@ To compare, let's find the sum first.
 $
 \begin{aligned}
 \text {DOG}     &= 4 + 15 + 7 \\\\
-                &= 26
+                &= 26 \\\\
 \text {CATS}    &= 3 + 1 + 20 + 19 \\\\
-                &= 43
+                &= 43 \\\\
 \text {FISH}    &= 6 + 9 + 19 + 8 \\\\
-                &= 42
+                &= 42 \\\\
 \text {BIRD}    &= 2 + 9 + 18 + 4 \\\\
                 &= 33
 \end{aligned}
@@ -1830,11 +1844,11 @@ To compare, let's find the product first.
 $
 \begin{aligned}
 \text {DOG}     &= 4 \times 15 \times 7 \\\\
-                &= 420
+                &= 420 \\\\
 \text {CATS}    &= 3 \times 1 \times 20 \times 19 \\\\
-                &= 1140
+                &= 1140 \\\\
 \text {FISH}    &= 6 \times 9 \times 19 \times 8 \\\\
-                &= 8208
+                &= 8208 \\\\
 \text {BIRD}    &= 2 \times 9 \times 18 \times 4 \\\\
                 &= 1296
 \end{aligned}
@@ -2007,7 +2021,7 @@ What is the largest total that can be made adding two cards?
 
 $
 \begin{aligned}
-\text {Largest Total}   &= 49 - 41 \\\\
+\text {Largest Total}   &= 49 + 41 \\\\
                         &= 100
 \end{aligned}
 $
@@ -2413,9 +2427,9 @@ $
                                          &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
                                          &= 5
 \end{aligned}
+$
 
 Dad is $5$ times older than Dave.
-$
 
 </div>
 </div>
@@ -3147,6 +3161,7 @@ Largest number that Dean can create $= 7531$.
 Smallest number that Dean can create $= 1357$.
 
 As per the question,
+
 $
 \begin{aligned}
 \text {Difference}  &= 7531 - 1357 \\\\
@@ -3587,7 +3602,12 @@ $
                                         &= ((108 \div 2) +1) \times 2 \\\\
                                         &= (55 +1) \times 2 \\\\
                                         &= 55 \times 2 \\\\
-                                        &= 110
+                                        &= 110 \\\\
+\text{Fifth number in the sequence}     &= (((110 + 2) \div 2) + 1) \times 2 \\\\
+                                        &= ((112 \div 2) +1) \times 2 \\\\
+                                        &= (56 +1) \times 2 \\\\
+                                        &= 57 \times 2 \\\\
+                                        &= 114
 \end{aligned}
 $
 
@@ -3596,7 +3616,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$106, 108$
+$106, 110, 114$
 
 </div>
 </div>
@@ -3991,6 +4011,7 @@ $
                             &= 0.032 \\\\
 \text{Second number}        &= 12.8 \times 20 \\\\
                             &= 256
+\end{aligned}
 $
 
 </div>
@@ -4078,7 +4099,7 @@ $\dfrac{2}{3}, \quad \ldots, \quad \ldots, \quad 1 \dfrac{1}{6}$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The next term is calculated by subtracting the previous term by $1 \dfrac {1} {6}$. Hence, the sequence would be:
+The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -4091,12 +4112,11 @@ $
 
 $
 \begin{aligned}
-\text{First number}         &= \dfrac {2} {3} + 1 \dfrac {1} {6} \\\\
-                            &= \dfrac {2} {3} + \dfrac {7} {6} \\\\
-                            &= \dfrac {2 \times 2} {3 \times 2} + \dfrac {7} {6} \\\\
-                            &= \dfrac {4} {6} + \dfrac {7} {6} \\\\
-                            &= \dfrac {11} {6} \\\\
-\text{Second number}        &= 1 \dfrac {1} {6} - 1 \dfrac {1} {6} \\\\
+\text{First number}         &= \dfrac {2} {3} + \dfrac {1} {6} \\\\
+                            &= \dfrac {2 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
+                            &= \dfrac {4} {6} + \dfrac {1} {6} \\\\
+                            &= \dfrac {5} {6} \\\\
+\text{Second number}        &= \dfrac {1} {6} - \dfrac {1} {6} \\\\
                             &= 0
 \end{aligned}
 $
@@ -4257,6 +4277,7 @@ Calculate $13 \times 13$.
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{array}{ccccc}
        &    1   &   3 \\
 \times &    1   &   3 \\
@@ -4331,6 +4352,9 @@ tangle
 </li>
 <li>
 tclock
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -5348,6 +5372,9 @@ $143$
 <li>
 tfactor
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -5732,6 +5759,7 @@ $0.01$ and $0.26$?
 <div class='workings'>
 <div class='working'>
 
+$
 \begin {aligned}
 &= \dfrac {0.01 + 0.26} {2} \\\\
 &= \dfrac {0.27} {2} \\\\
@@ -24679,7 +24707,7 @@ $95, 191$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D22E8139-C56E-4623-B929-0A178195BA8D</p>
 </div>
@@ -24787,7 +24815,7 @@ $370$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -24839,7 +24867,7 @@ $\text {Two thousand and sixteen}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>407F2714-A43E-4361-B05E-37CC2E87E623</p>
 </div>
@@ -24897,12 +24925,12 @@ $19 \times 3 \ \quad  > \quad  28 \times 2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7</p>
 </div>
@@ -24947,7 +24975,7 @@ $21 \degree \ \text {C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -25004,7 +25032,7 @@ $14{:}35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>B5DB3AFD-E2AC-4A89-AEFA-2E6E6188E3D1</p>
 </div>
@@ -25042,7 +25070,7 @@ $72$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -25106,7 +25134,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>97113A2F-A515-4241-95D3-B163DACFDAA2</p>
 </div>
@@ -25248,12 +25276,12 @@ $4325$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>506DE463-6915-4AC5-B7BF-327E32F4475E</p>
 </div>
@@ -25403,7 +25431,7 @@ $2847.5$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -25656,7 +25684,7 @@ $2 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>ECB9BF93-8E27-42A0-873B-87BFA9D37BB8</p>
 </div>
@@ -25704,7 +25732,7 @@ $17$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -26571,7 +26599,7 @@ $362880$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>589E5E44-10C8-4537-8ED7-9C02B0A0532C</p>
 </div>
@@ -26755,12 +26783,12 @@ $18954$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>015DFF3A-EF9A-4D74-94DA-EDC2D94B9633</p>
 </div>
@@ -26802,12 +26830,12 @@ $902$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>17BF339B-7079-4966-BEB2-8B3FF23FA92A</p>
 </div>
@@ -26854,12 +26882,12 @@ $64$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D2FE9565-387E-4FF3-BFA2-D8C35AC57EF1</p>
 </div>
@@ -26914,12 +26942,12 @@ $7.9$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>0C204FF4-56BC-4832-8FCF-F9D7CC6ACE1E</p>
 </div>
@@ -26966,12 +26994,12 @@ $1 \dfrac {5} {8}$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>091E6F1C-295F-45D6-A212-41256EE84A75</p>
 </div>
@@ -27028,7 +27056,7 @@ $7050$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -27082,7 +27110,7 @@ $260 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>9A0A3024-E276-47D9-92A1-2D8CA04AFD8E</p>
 </div>
@@ -27125,7 +27153,7 @@ $\dfrac {17} {20}$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -27183,58 +27211,7 @@ $219.41$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>C20A4A1C-A26D-4559-B8BE-890AC044C5DD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these numbers when multiplied by itself gives an answer which ends in a $4$?
-
-$26 \quad 44 \quad 58 \quad 73$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We can figure out if a number multiplied by itself ends in $4$ just by multiplying the unit digit of the number to itself.
-
-|      Number       | Unit Digit    |       Answer          |
-|:----------------: |:----------:   |:-----------------:    |
-| $2 \underline 6$  |     $6$       | $6 \times 6 = 36$     |
-| $4 \underline 4$  |     $4$       | $4 \times 4 = 16$     |
-| $5 \underline 8$  |     $8$       | $8 \times 8 = 64$     |
-| $7 \underline 3$  |     $3$       | $3 \times 3 = 9$      |
-
-From the table above, the answer is $58$ as it has $4$ in its unit place.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$58$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>EC2A9B83-84D4-486D-8D93-A7BB3D422618</p>
 </div>
@@ -27271,12 +27248,12 @@ $8$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A6AC1588-C3E0-4190-A84D-7153A5624431</p>
 </div>
@@ -27338,7 +27315,7 @@ $35$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

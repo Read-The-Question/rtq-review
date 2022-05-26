@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-26 14:58:43
+date: 2022-05-26 20:06:10
 ---
 <div class='paper'>
 <h1>Eltham College</h1>
@@ -525,12 +525,38 @@ What is the length of the largest tile she can use so that all the floor will be
 <div class='workings'>
 <div class='working'>
 
-Area of the room $= 8 \ \text{m} \times 20 \ \text{m} = 160 \ \text{m}^2$
+As per the question, 
+
+Length $= 8 \ \text{m}$
+
+Width  $= 20 \ \text{m}$
+
+
+To use complete tiles, without cutting, the size of the square tile must divide both the length and width of the room. 
+
+Let's find the highest common factor of $8$ and $20$.
+
+Factors of $8 = 1, 2, \bold 4, 8$
+Factors of $20 = 1, 2, \bold 4, 5, 20$
+
+The highest common factor of $8$ and $20$ is $4$.
+
+So, the length of the largest square Isabelle can use so that all the floor will be covered $= 4 \ \text{m}$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+As per the question,
 
 LCM of 8 and 20 $= 40$
 
 $
 \begin{aligned}
+\text{Area of room}                                   &= \text{Length} \times \text{Width} \\\\
+                                                      &= 8 \ \text{m} \times 20 \ \text{m}\\\\
+                                                      &= 160 \ \text{m}^2
 \text{Largest square tile that can be used}           &= \dfrac {160} {40} \\\\
                                                       &= 4 \ \text{m}
 \end{aligned}

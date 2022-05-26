@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-26 14:58:43
+date: 2022-05-26 20:06:10
 ---
 <div class='paper'>
 <h1>James Allen's Girls' School</h1>

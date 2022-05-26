@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-pr"
 title: "Topic - Money - PR"
-date: 2022-05-26 14:58:43
+date: 2022-05-26 20:06:10
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4952,15 +4952,17 @@ What is $5\%$ of $\pounds 250$?
 <div class='workings'>
 <div class='working'>
 
+Using previous answer,
+
 $
 \begin{aligned}
 &= 5\% \ \text{of} \ \pounds 250 \\\\
 &= 5\% \times 250 \\\\
-&= \dfrac {5 \times 2} {1 \times 2} \% \times 250 \\\\
 &= \dfrac {10\%} {2} \times 250 \\\\
-&= \dfrac {10\% \text{of} 250} {2} \\\\
+&= \dfrac {10\% \times 250} {2} \\\\
 &= \dfrac {25} {2} \\\\
-&= \pounds 12.5
+&= 12 \dfrac {1} {2} \\\\
+&= \pounds 12.50
 \end{aligned}
 $
 
@@ -4969,7 +4971,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 12.5$
+$\pounds 12.50$
 
 </div>
 </div>
@@ -4990,12 +4992,14 @@ What is $2 1/2\%$ of $\pounds 250$?
 <div class='workings'>
 <div class='working'>
 
+Using previous answer,
+
 $
 \begin{aligned}
 &= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 2 \dfrac {1} {2}\% \times 250 \\\\
 &= \dfrac {5} {2}\% \times 250 \\\\
-&= \dfrac {5\% \ \text{of} \ 250} {2} \\\\
+&= \dfrac {5\% \times 250} {2} \\\\
 &= \dfrac {12.5} {2} \\\\
 &= \dfrac {125} {20} \\\\
 &= \dfrac {25 \times 5} {4 \times 5} \\\\
@@ -5031,14 +5035,14 @@ Use your answers to find $17 \dfrac {1} {2}\%$ of $\pounds 250$?
 <div class='workings'>
 <div class='working'>
 
-Using previous answers
+Using previous answers,
 
 $
 \begin{aligned}
-&= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds \ 250 \\\\
+&= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 17 \dfrac {1} {2}\% \times 250 \\\\
-&= (10 + 5 + 2) \dfrac {1} {2}\% \times 250 \\\\
-&= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250
+&= (10 + 5 + 2 \dfrac {1} {2}) \% \times 250 \\\\
+&= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 25 + 12.5 + 6.25 \\\\
 &= \pounds 43.75
 \end{aligned}

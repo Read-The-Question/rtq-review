@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-all"
 title: "Topic - Perimeter - All"
-date: 2022-05-26 14:58:43
+date: 2022-05-26 20:06:10
 ---
 <ul class='question default-decimal'>
 <li>
@@ -7495,7 +7495,7 @@ What Is the area of each individual square?
 
 $
 \begin{aligned} 
-\text{Area of individual square}                    &= \dfrac {\text{Total area}} {\text{Total square}} \\\\
+\text{Area of individual square}                    &= \dfrac {\text{Total area}} {\text{No. of squares}} \\\\
                                                     &= \dfrac {20 \text{m}^{2}} {5} \\\\
                                                     &= \dfrac {4 \times 5} {5} \\\\
                                                     &= \dfrac {4 \times \cancel{5}} {\cancel{5}} \\\\
@@ -7531,17 +7531,16 @@ What Is the length of each side of each Individual square?
 
 Let the length of each side of the individual square (in m) $= a$
 
-We know, area of square $= \text{Side} \times \text{Side}
-
 $
 \begin{aligned}
+\text{Area} &= \text{side} \times \text{side} \\\\
 a \times a                                      &= 4 \text{m}^{2} \\\\
 a^{2}                                           &= 2^{2} \\\\
-a                                               &= 2 \ \text{m}
+a                                               &= 2 \text{m}
 \end{aligned}
 $
 
-The length of each side of the individual square $= 2 \ \text{m}$
+The length of each side of the individual square $= 2 \text{m}$.
 
 </div>
 </div>
@@ -7571,8 +7570,8 @@ What Is the perimeter of the path?
 
 $
 \begin{aligned} 
-\text{Perimeter of the path}                        &= \text{No. of outer sides} \times \text{Length of each side} \\\\
-                                                    &= 12 \times 2 \text{m} \\\\
+\text{Perimeter}                                    &= \text{Sum of all sides} \\\\
+                                                    &= 2 \text{m} \times 12 \\\\
                                                     &= 24 \text{m}
 \end{aligned}
 $

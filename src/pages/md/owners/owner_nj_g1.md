@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-g1"
 title: "Owner - Nitin Joshi - G1"
-date: 2022-05-26 14:58:43
+date: 2022-05-26 20:06:10
 ---
 <ul class='question default-decimal'>
 <li>

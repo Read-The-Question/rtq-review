@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-jn-all"
 title: "Reviewer - Jaishree Nair - All"
-date: 2022-05-26 14:58:43
+date: 2022-05-26 20:06:10
 ---
 <ul class='question default-decimal'>
 <li>
@@ -18483,12 +18483,38 @@ What is the length of the largest tile she can use so that all the floor will be
 <div class='workings'>
 <div class='working'>
 
-Area of the room $= 8 \ \text{m} \times 20 \ \text{m} = 160 \ \text{m}^2$
+As per the question, 
+
+Length $= 8 \ \text{m}$
+
+Width  $= 20 \ \text{m}$
+
+
+To use complete tiles, without cutting, the size of the square tile must divide both the length and width of the room. 
+
+Let's find the highest common factor of $8$ and $20$.
+
+Factors of $8 = 1, 2, \bold 4, 8$
+Factors of $20 = 1, 2, \bold 4, 5, 20$
+
+The highest common factor of $8$ and $20$ is $4$.
+
+So, the length of the largest square Isabelle can use so that all the floor will be covered $= 4 \ \text{m}$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+As per the question,
 
 LCM of 8 and 20 $= 40$
 
 $
 \begin{aligned}
+\text{Area of room}                                   &= \text{Length} \times \text{Width} \\\\
+                                                      &= 8 \ \text{m} \times 20 \ \text{m}\\\\
+                                                      &= 160 \ \text{m}^2
 \text{Largest square tile that can be used}           &= \dfrac {160} {40} \\\\
                                                       &= 4 \ \text{m}
 \end{aligned}
@@ -42753,6 +42779,37 @@ In this case, we will convert all the numbers into fraction.
 $
 \begin{aligned}
 &= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
+&= \dfrac {65} {100} , \quad 0.605 , \quad \dfrac {3 \times 2} {5 \times 2} \\\\
+&= 0.65 , \quad 0.605 , \quad \dfrac {6} {10} \\\\
+&= 0.65 , \quad 0.605 , \quad 0.6 \\\\
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 0.6<  \quad 0.605<  \quad 0.65 \\\\
+&= \dfrac{3}{5}<  \quad 0.605<  \quad 65\%
+\end{aligned}
+$
+
+Largest $= \ 65\%$
+
+Smallest $= \ \dfrac {3} {5}$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+To compare, we can convert all the numbers to fractions, decimals or percentages.
+
+In this case, we will convert all the numbers into fraction.
+
+$
+\begin{aligned}
+&= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
 &= \dfrac {65} {100} , \quad \dfrac {605} {1000} , \quad \dfrac {3} {5} \\\\
 &= \dfrac {65 \times 10} {100 \times 10} , \quad \dfrac {605} {1000} , \quad \dfrac {3 \times 200} {5 \times 200} \\\\
 &= \dfrac {650} {1000} , \quad \dfrac {605} {1000} , \quad \dfrac {600} {1000} \\\\
@@ -42878,15 +42935,17 @@ What is $5\%$ of $\pounds 250$?
 <div class='workings'>
 <div class='working'>
 
+Using previous answer,
+
 $
 \begin{aligned}
 &= 5\% \ \text{of} \ \pounds 250 \\\\
 &= 5\% \times 250 \\\\
-&= \dfrac {5 \times 2} {1 \times 2} \% \times 250 \\\\
 &= \dfrac {10\%} {2} \times 250 \\\\
-&= \dfrac {10\% \text{of} 250} {2} \\\\
+&= \dfrac {10\% \times 250} {2} \\\\
 &= \dfrac {25} {2} \\\\
-&= \pounds 12.5
+&= 12 \dfrac {1} {2} \\\\
+&= \pounds 12.50
 \end{aligned}
 $
 
@@ -42895,7 +42954,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 12.5$
+$\pounds 12.50$
 
 </div>
 </div>
@@ -42916,12 +42975,14 @@ What is $2 1/2\%$ of $\pounds 250$?
 <div class='workings'>
 <div class='working'>
 
+Using previous answer,
+
 $
 \begin{aligned}
 &= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 2 \dfrac {1} {2}\% \times 250 \\\\
 &= \dfrac {5} {2}\% \times 250 \\\\
-&= \dfrac {5\% \ \text{of} \ 250} {2} \\\\
+&= \dfrac {5\% \times 250} {2} \\\\
 &= \dfrac {12.5} {2} \\\\
 &= \dfrac {125} {20} \\\\
 &= \dfrac {25 \times 5} {4 \times 5} \\\\
@@ -42957,14 +43018,14 @@ Use your answers to find $17 \dfrac {1} {2}\%$ of $\pounds 250$?
 <div class='workings'>
 <div class='working'>
 
-Using previous answers
+Using previous answers,
 
 $
 \begin{aligned}
-&= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds \ 250 \\\\
+&= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 17 \dfrac {1} {2}\% \times 250 \\\\
-&= (10 + 5 + 2) \dfrac {1} {2}\% \times 250 \\\\
-&= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250
+&= (10 + 5 + 2 \dfrac {1} {2}) \% \times 250 \\\\
+&= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 25 + 12.5 + 6.25 \\\\
 &= \pounds 43.75
 \end{aligned}
@@ -43406,7 +43467,7 @@ What is the smallest number that $3,5$ and $12$ all divide into?
 
 LCM of $3$, $5$ and $12 = 60$
 
-The smallest number that $3, 5,$ and $12$ all divide into is $= 60$
+The smallest number that $3, 5,$ and $12$ all divide into $= 60$
 
 </div>
 </div>
@@ -43559,7 +43620,7 @@ What Is the area of each individual square?
 
 $
 \begin{aligned} 
-\text{Area of individual square}                    &= \dfrac {\text{Total area}} {\text{Total square}} \\\\
+\text{Area of individual square}                    &= \dfrac {\text{Total area}} {\text{No. of squares}} \\\\
                                                     &= \dfrac {20 \text{m}^{2}} {5} \\\\
                                                     &= \dfrac {4 \times 5} {5} \\\\
                                                     &= \dfrac {4 \times \cancel{5}} {\cancel{5}} \\\\
@@ -43595,17 +43656,16 @@ What Is the length of each side of each Individual square?
 
 Let the length of each side of the individual square (in m) $= a$
 
-We know, area of square $= \text{Side} \times \text{Side}
-
 $
 \begin{aligned}
+\text{Area} &= \text{side} \times \text{side} \\\\
 a \times a                                      &= 4 \text{m}^{2} \\\\
 a^{2}                                           &= 2^{2} \\\\
-a                                               &= 2 \ \text{m}
+a                                               &= 2 \text{m}
 \end{aligned}
 $
 
-The length of each side of the individual square $= 2 \ \text{m}$
+The length of each side of the individual square $= 2 \text{m}$.
 
 </div>
 </div>
@@ -43635,8 +43695,8 @@ What Is the perimeter of the path?
 
 $
 \begin{aligned} 
-\text{Perimeter of the path}                        &= \text{No. of outer sides} \times \text{Length of each side} \\\\
-                                                    &= 12 \times 2 \text{m} \\\\
+\text{Perimeter}                                    &= \text{Sum of all sides} \\\\
+                                                    &= 2 \text{m} \times 12 \\\\
                                                     &= 24 \text{m}
 \end{aligned}
 $
@@ -43709,61 +43769,6 @@ The PIN number is $= 8640$
 <div class='answer'>
 
 $8640$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>11864F13-15AE-442B-A8E6-F4F08A54A7D5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the $100^\text{th}$ symbol in this endless string of symbols
-
-&f=&f=&f=&f=&?=
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-After oberserving the pattern, the first symbol is &, second is f and third is =. This pattern is repeating in a set of 3.
-
-As per the question,
-
-$
-\begin{aligned}
-&= \dfrac {100} {3} \\\\
-&= 33 \dfrac {1} {3}
-\end{aligned}
-$
-
-As the remainder is $1$, The symbol in the first position is going to repeat in the $100^{\text{th}}$.
-
-The $100^{\text{th}}$ symbol is $=$ &
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-&
 
 </div>
 </div>

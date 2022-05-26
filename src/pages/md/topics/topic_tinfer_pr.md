@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-pr"
 title: "Topic - Infer - PR"
-date: 2022-05-26 14:58:43
+date: 2022-05-26 20:06:10
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1144,7 +1144,7 @@ What is the smallest number that $3,5$ and $12$ all divide into?
 
 LCM of $3$, $5$ and $12 = 60$
 
-The smallest number that $3, 5,$ and $12$ all divide into is $= 60$
+The smallest number that $3, 5,$ and $12$ all divide into $= 60$
 
 </div>
 </div>

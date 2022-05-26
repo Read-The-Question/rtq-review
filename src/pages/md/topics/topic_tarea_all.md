@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-all"
 title: "Topic - Area - All"
-date: 2022-05-26 14:58:43
+date: 2022-05-26 20:06:10
 ---
 <ul class='question default-decimal'>
 <li>
@@ -7928,12 +7928,38 @@ What is the length of the largest tile she can use so that all the floor will be
 <div class='workings'>
 <div class='working'>
 
-Area of the room $= 8 \ \text{m} \times 20 \ \text{m} = 160 \ \text{m}^2$
+As per the question, 
+
+Length $= 8 \ \text{m}$
+
+Width  $= 20 \ \text{m}$
+
+
+To use complete tiles, without cutting, the size of the square tile must divide both the length and width of the room. 
+
+Let's find the highest common factor of $8$ and $20$.
+
+Factors of $8 = 1, 2, \bold 4, 8$
+Factors of $20 = 1, 2, \bold 4, 5, 20$
+
+The highest common factor of $8$ and $20$ is $4$.
+
+So, the length of the largest square Isabelle can use so that all the floor will be covered $= 4 \ \text{m}$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+As per the question,
 
 LCM of 8 and 20 $= 40$
 
 $
 \begin{aligned}
+\text{Area of room}                                   &= \text{Length} \times \text{Width} \\\\
+                                                      &= 8 \ \text{m} \times 20 \ \text{m}\\\\
+                                                      &= 160 \ \text{m}^2
 \text{Largest square tile that can be used}           &= \dfrac {160} {40} \\\\
                                                       &= 4 \ \text{m}
 \end{aligned}
@@ -12728,7 +12754,7 @@ What Is the area of each individual square?
 
 $
 \begin{aligned} 
-\text{Area of individual square}                    &= \dfrac {\text{Total area}} {\text{Total square}} \\\\
+\text{Area of individual square}                    &= \dfrac {\text{Total area}} {\text{No. of squares}} \\\\
                                                     &= \dfrac {20 \text{m}^{2}} {5} \\\\
                                                     &= \dfrac {4 \times 5} {5} \\\\
                                                     &= \dfrac {4 \times \cancel{5}} {\cancel{5}} \\\\
@@ -12764,17 +12790,16 @@ What Is the length of each side of each Individual square?
 
 Let the length of each side of the individual square (in m) $= a$
 
-We know, area of square $= \text{Side} \times \text{Side}
-
 $
 \begin{aligned}
+\text{Area} &= \text{side} \times \text{side} \\\\
 a \times a                                      &= 4 \text{m}^{2} \\\\
 a^{2}                                           &= 2^{2} \\\\
-a                                               &= 2 \ \text{m}
+a                                               &= 2 \text{m}
 \end{aligned}
 $
 
-The length of each side of the individual square $= 2 \ \text{m}$
+The length of each side of the individual square $= 2 \text{m}$.
 
 </div>
 </div>
@@ -12804,8 +12829,8 @@ What Is the perimeter of the path?
 
 $
 \begin{aligned} 
-\text{Perimeter of the path}                        &= \text{No. of outer sides} \times \text{Length of each side} \\\\
-                                                    &= 12 \times 2 \text{m} \\\\
+\text{Perimeter}                                    &= \text{Sum of all sides} \\\\
+                                                    &= 2 \text{m} \times 12 \\\\
                                                     &= 24 \text{m}
 \end{aligned}
 $

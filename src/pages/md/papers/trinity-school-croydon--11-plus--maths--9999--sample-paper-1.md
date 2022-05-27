@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <div class='paper'>
 <h1>Trinity School Croydon</h1>
@@ -637,7 +637,7 @@ $15 \text{rounds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>33FD2E24-6D5F-48B6-8104-E7A1C7EBD9B0</p>
 </div>
@@ -658,7 +658,7 @@ If he gets the answer $105$ what number did he start with and what answer should
 <div class='workings'>
 <div class='working'>
 
-Let the number = $a$
+Let the number $= a$
 
 As per the question, Simon by mistake multiplies by $3$ and adds $15$.
 
@@ -675,9 +675,15 @@ a                           &= 30
 \end{aligned}
 $
 
-The number = $30$
+The number he started with $= 30$
 
-Correct answer = $(30 + 15) \times 3 = 45 \times 3 = 135$
+$
+\begin{aligned}
+\text {The answer he should have obtained}  &= (30 + 15) \times 3 \\\\
+                                            &= 45 \times 3 \\\\
+                                            &= 135
+\end{aligned}
+$
 
 </div>
 </div>
@@ -693,7 +699,7 @@ $30, 135$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-pr"
 title: "Owner - Sahil Choudhary - PR"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1010,6 +1010,74 @@ $
 <div class='answer'>
 
 $4 \ \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>2D14E878-11B5-46B1-A002-9A3CA82CED1D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A hexagon is worth $6$ points.
+A square is worth $4$ points.
+How much is triangle worth?
+
+![missing image](/papers/missing_image.svg)
+
+-  Can't tell
+-  $1$
+-  $2$
+-  $4$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the worth of triangle $= a$
+
+Let the worth of circle $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+6 + 4 + 6 + b                                  &= 6 + b + 4 + 4 + a + a \\\\
+16 + b                                         &= 14 + b + 2a \\\\
+16 + b - b                                     &= 14 + 2a \\\\
+16                                             &= 14 + 2a \\\\
+16 - 14                                        &= 14 + 2a \\\\
+2                                              &= 2a \\\\
+\dfrac {2} {2}                                 &= a \\\\
+1                                              &= a \\\\
+a                                              &= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
 
 </div>
 </div>
@@ -3106,9 +3174,24 @@ What is the biggest number that divides exactly into $60, 72$ and $84$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $60$, $72$ and $84 = 2 \times 2 \times 3 = 12$
+To find the biggest number that divides exactly into $60$, $72$, and $84$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $60$, $72$ and $84 = 12$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 60 &= \bold {2 \times 2 \times 3} \times 5 \\\\
+\text {Prime Factors of} \ 72 &= \bold {2 \times 2 \times 3} \times 2 \times 3 \\\\
+\text {Prime Factors of} \ 84 &= \bold {2 \times 2 \times 3} \times 7
+\end{aligned}
+$
+
+Highest common factor of $60$, $72$ and $84$
+
+$
+\begin{aligned}
+&= 2 \times 2 \times 3 \\\\
+&= 12
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3667,393 +3750,6 @@ Smallest $= \dfrac {3} {5}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>A1C5A3A8-776A-4AE7-A826-842521976016</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $10\%$ of $\pounds 250$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 10\% \ \text{of} \ \pounds 250 \\\\
-&= 10\% \times 250 \\\\
-&= \dfrac {10} {100} \times 250 \\\\
-&= \dfrac {10 \times 250} {100} \\\\
-&= \dfrac {1 \cancel{0} \times 25 \cancel{0}} {1 \cancel{00}} \\\\
-&= \pounds 25
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 25$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $5\%$ of $\pounds 250$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using previous answer,
-
-$
-\begin{aligned}
-&= 5\% \ \text{of} \ \pounds 250 \\\\
-&= 5\% \times 250 \\\\
-&= \dfrac {10\%} {2} \times 250 \\\\
-&= \dfrac {10\% \times 250} {2} \\\\
-&= \dfrac {25} {2} \\\\
-&= 12 \dfrac {1} {2} \\\\
-&= \pounds 12.50
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 12.50$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $2 1/2\%$ of $\pounds 250$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using previous answer,
-
-$
-\begin{aligned}
-&= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
-&= 2 \dfrac {1} {2}\% \times 250 \\\\
-&= \dfrac {5} {2}\% \times 250 \\\\
-&= \dfrac {5\% \times 250} {2} \\\\
-&= \dfrac {12.5} {2} \\\\
-&= \dfrac {125} {20} \\\\
-&= \dfrac {25 \times 5} {4 \times 5} \\\\
-&= \dfrac {25 \times \cancel{5}} {4 \times \cancel{5}} \\\\
-&= \dfrac {25} {4} \\\\
-&= \pounds 6.25
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 6.25$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Use your answers to find $17 \dfrac {1} {2}\%$ of $\pounds 250$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using previous answers,
-
-$
-\begin{aligned}
-&= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
-&= 17 \dfrac {1} {2}\% \times 250 \\\\
-&= (10 + 5 + 2 \dfrac {1} {2}) \% \times 250 \\\\
-&= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
-&= 25 + 12.5 + 6.25 \\\\
-&= \pounds 43.75
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 43.75$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>1B5D8F8D-C8DE-4749-80CE-805DE7791F8B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $\text{one seventh of 280}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \text{one seventh of 280} \\\\
-&= \dfrac {1} {7} \ \text{of} \ 280 \\\\
-&= \dfrac {1} {7} \times 280 \\\\
-&= \dfrac {1 \times 280} {7} \\\\
-&= \dfrac {7 \times 40} {7} \\\\
-&= \dfrac {\cancel{7} \times 40} {\cancel{7}} \\\\
-&= 40
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Use your answer to find $\text{four sevenths of 280}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using previous answer
-
-$
-\begin{aligned}
-&= \dfrac {4} {7} \ \text{of} \ 280 \\\\
-&= \dfrac {4} {7} \times 280 \\\\
-&= 4 \times \dfrac {1} {7} \times 280 \\\\
-&= 4 \times 40 \\\\
-&= 160
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$160$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>F74409E6-423C-450E-BDFB-21338241A8A0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Richard is $18$ years old.
-
-Adam is half as old as Richard.
-
-Will is $\dfrac{2}{3}$ of Adam's age.
-
-What is their total age?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Richard's age}    &= 18 \\\\
-\text{Adam's age}       &= \dfrac {\text{Richard's age}} {2}  \\\\
-                        &= \dfrac {18} {2} \\\\
-                        &= \dfrac {2 \times 9} {2} \\\\
-                        &= \dfrac {\cancel{2} \times 9} {\cancel{2}} \\\\ 
-                        &= 9 \\\\
-\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
-                        &= \dfrac {2} {3} \times 9 \\\\
-                        &= \dfrac {2 \times 9} {3} \\\\
-                        &= \dfrac {2 \times 3 \times 3} {3} \\\\
-                        &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
-                        &= 2 \times 3 \\\\
-                        &= 6 \\\\
-\text{Total age}        &= \text{Richard's age + Adam's age + Will's age} \\\\
-                        &= 18 + 9 + 6 \\\\
-                        &= 33
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$33$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>7F7BEB1F-1352-462D-862B-8AEFB56B58F6</p>
 </div>
 <div class='topics'>
@@ -4238,9 +3934,24 @@ What is the biggest number that divides exactly into $28 , 84$ and $126$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $28$, $84$ and $126 = 2 \times 7 = 14$
+To find the biggest number that divides exactly into $28$, $84$, and $126$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $28$, $84$ and $126 = 14$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 28 &= 2 \times \bold {2 \times 7} \\\\
+\text {Prime Factors of} \ 84 &= 2 \times \bold {2} \times 3 \times \bold{7} \\\\
+\text {Prime Factors of} \ 126 &= \bold {2} \times 3 \times \bold{7}
+\end{aligned}
+$
+
+Highest common factor of $28$, $84$ and $126$
+
+$
+\begin{aligned}
+&= 2 \times 7 \\\\
+&= 14
+\end{aligned}
+$
 
 </div>
 </div>
@@ -4252,283 +3963,6 @@ $14$
 </div>
 </div>
 
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>7C81779B-E92C-4725-B417-DA7968C3341A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the smallest number that $3,5$ and $12$ all divide into?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-LCM of $3$, $5$ and $12 = 60$
-
-The smallest number that $3, 5,$ and $12$ all divide into $= 60$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>4C9A3109-398C-46C7-B66E-8EC1E868DD8C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find two numbers that have a difference of $8$ and added upto $18$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the first number $= a$
-
-Let the second number $= b$
-
-As per the question,
-
-$
-\begin{aligned} 
-a - b                    &= 8 \\\\
-a + b                    &= 18
-\end{aligned}
-$
-
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Add the second equation to the first to reduce it to one variable.
-
-$
-\begin{aligned}
-a - b + (a - b)          &= 8 + 18 \\\\
-a - b + a + b            &= 26 \\\\
-2a                       &= 26 \\\\
-a                        &= \dfrac {26} {2} \\\\
-a                        &= \dfrac {2 \times 13} {2} \\\\
-a                        &= \dfrac {\cancel{2} \times 13} {\cancel{2}} \\\\
-a                        &= 13
-\end{aligned}
-$
-
-Let's substitute the value of $a$ in one of the equations.
-
-$
-\begin{aligned} 
-a + b                    &= 18 \\\\
-13 + b                   &= 18 \\\\
-b                        &= 18 - 13 \\\\
-b                        &= 5
-\end{aligned}
-$
-
-Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13 \ \text{and} \ 5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>80A03144-6FE7-47FE-80C3-2CE1292F70D2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What Is the area of each individual square?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned} 
-\text{Area of individual square}                    &= \dfrac {\text{Total area}} {\text{No. of squares}} \\\\
-                                                    &= \dfrac {20 \text{m}^{2}} {5} \\\\
-                                                    &= \dfrac {4 \times 5} {5} \\\\
-                                                    &= \dfrac {4 \times \cancel{5}} {\cancel{5}} \\\\
-                                                    &= 4 \text{m}^{2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 \text{m}^{2}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What Is the length of each side of each Individual square?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length of each side of the individual square (in m) $= a$
-
-$
-\begin{aligned}
-\text{Area} &= \text{side} \times \text{side} \\\\
-a \times a                                      &= 4 \text{m}^{2} \\\\
-a^{2}                                           &= 2^{2} \\\\
-a                                               &= 2 \text{m}
-\end{aligned}
-$
-
-The length of each side of the individual square $= 2 \text{m}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \text{m}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What Is the perimeter of the path?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned} 
-\text{Perimeter}                                    &= \text{Sum of all sides} \\\\
-                                                    &= 2 \text{m} \times 12 \\\\
-                                                    &= 24 \text{m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24 \text{m}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
@@ -4579,6 +4013,47 @@ As the remainder is $0$, Subtracting $60$ from $8700 = 8700 - 60 = 8640$
 The PIN number is $= 8640$
 
 </div>
+<div class='working'>
+
+Alternative solution
+
+We can solve this my trial and error method using divisibility rule.
+
+We know,
+
+A number is divisible by $5$ if the last digit $0$ or $5$.
+
+A number is divisible by $4$ if the last $2$ digits are divisible by $4$.
+
+A number is divisible by $3$ if the cross addition is divisible by $3$.
+
+Let's look at units place
+
+$= 0$ (then only my PIN will be divisible by $4$)
+
+Let's look at tens place
+
+$\not 1$ (as $10$ is not divisible by $4$)
+
+$= 2$ (as $20$ is divisible by $4$)
+
+Let's now check if $8620$ is divisible by $3$
+
+$= 8 + 6 + 2 + 0 = 16 \not$ divisible by $3$ 
+
+The next multiple of $3$ would be $18$
+
+$= 8 + 6 + 4 + 0 = 18$ 
+
+$18$ is divisible by $3$
+
+$40$ is divisible by $4$ and
+
+$8640$ has $0$ at unit place, as such divisible by $5$.
+
+My PIN number is $8640$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -4616,17 +4091,15 @@ On holiday last year Phil bought $10$ post cards at $45 \text{p}$ each and $10\ 
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - (10 \times \text{Cost (Post cards)} + 10 \times \text{Cost (Second class stamp)}) \\\\
-                                                &= \pounds 10 - (10 \times 45 \text{p} + 10 \times 27 \text{p}) \\\\
-                                                &= \pounds 10 - (450 \text{p} + 270 \text{p}) \\\\
-                                                &= \pounds 10 - 720\text{p} \\\\
-                                                &= \pounds 10 - \pounds \dfrac {720} {100} \\\\
-                                                &= 10 - \dfrac {72 \cancel{0}} {10 \cancel{0}} \\\\
-                                                &= 10 - \dfrac {72} {10} \\\\
-                                                &= 10 - 7.2 \\\\
-                                                &= \pounds 2.8
+\text{Change he will get}                       &= \text{Total money} - 10 \times \text{Cost of postcard} - 10 \times \text{Cost of stamp} \\\\
+                                                &= \pounds 10 - 10 \times 45 \text{p} - 10 \times 27 \text{p} \\\\
+                                                &= \pounds 10 - \pounds \dfrac {450} {100} - \pounds \dfrac {270} {100} \\\\
+                                                &= \pounds 10 - \pounds 4.50 - \pounds 2.70 \\\\
+                                                &= \pounds 2.80
 \end{aligned}
 $
 
@@ -4635,7 +4108,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.8$
+$\pounds 2.80$
 
 </div>
 </div>
@@ -4733,6 +4206,19 @@ $
 $
 
 </div>
+<div class='working'>
+
+Alternative solution
+
+LCM of $2$ and $5 = 10$
+
+Numbers less than 100 that are both divisible by $2$ and $5$ are number ending with $0$
+
+$= 10, \ 20, \ 30, \ 40, \ 50, \ 60, \ 70, \ 80, \ 90$
+
+Total count of numbers less than $100$ and both divisible by $2$ and $5 = 9$ 
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -4744,107 +4230,6 @@ $9$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Seven telegraph poles are equally spaced along a road. The distance between the first and the third pole is $268 \ \text{m}$. How far is it between the first and last pole?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Distance between the first and last pole}         &= \text{Total pole - 1} \times \text{Distance of one pole to other} \\\\\
-                                                        &= 7 - 1 \times \dfrac {268 \text{m}} {2} \\\\\
-                                                        &= 6 \times \dfrac {2 \times 134} {2} \\\\\
-                                                        &= 6 \times \dfrac {\cancel{2} \times 134} {\cancel{2}} \\\\\
-                                                        &= 6 \times 134 \\\\\
-                                                        &= 804 \text{m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$804 \text{m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>C317FFB3-531A-4B29-B714-8A597C1050E8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put these numbers in order of size, starting with the LARGEST:
-
-$3.33, 3.03, 3.3, 3, 3.303$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 3.33, \quad 3.03, \quad 3.3, \quad 3, \quad 3.303 \\\\
-&= 3.330, \quad 3.030, \quad 3.300, \quad 3, \quad 3.303 \\\\
-&\text{Let's put them in descending order now.} \\\\
-&= 3.330> \quad 3.303> \quad 3.300> \quad 3.030> \quad 3 \\\\
-&= 3.33> \quad 3.303> \quad 3.3> \quad 3.03> \quad 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.33, \quad 3.303, \quad 3.3, \quad 3.03, \quad 3$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
@@ -4871,9 +4256,23 @@ What is the biggest number that divides into $14, 35,$ and $42$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $14$, $35$ and $42 = 7$
+To find the biggest number that divides exactly into $14$, $35$, and $42$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $14$, $35$ and $42 = 7$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 14 &= 2 \times \bold{7} \\\\
+\text {Prime Factors of} \ 35 &= 5 \times \bold{7} \\\\ \\\\
+\text {Prime Factors of} \ 42 &= 2 \times 3 \times \bold{7}
+\end{aligned}
+$
+
+Highest common factor of $14$, $35$ and $42$
+
+$
+\begin{aligned}
+&= 7
+\end{aligned}
+$
 
 </div>
 </div>
@@ -4881,474 +4280,6 @@ The biggest number that divides into $14$, $35$ and $42 = 7$
 <div class='answer'>
 
 $7$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>AE100B61-1477-42BE-973B-C710053D72C4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This multiplication has been worked out for you.
-
-$41 \times 131 = 5371$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $5371 \div 131?$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using the information given above,
-
-$
-\begin{aligned}
-41 \times 131                                      &= 5371 \\\\
-41                                                 &= \dfrac {5371} {131}
-\end{aligned}
-$
-
-As per the question,
-
-$5371 \div 131 = 41$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$41$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $4.1 \times 13.1$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question, 
-
-$41 \times 131 = 5371$
-
-To find $4.1 \times 13.1$ we need to count the total number of digits after the decimal points and  account for the same in the answer given above.
-
-$
-\begin{aligned}
-4.1 \times 13.1                                    &= 53.71
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$53.71$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>AB8D141C-6937-4BD2-823D-644039CF0E18</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Linda the builder needs to build a wall $23$ bricks wide and $12$ bricks high.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many bricks will there be in the wall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick width} \\\\
-                                                    &= 23 \times 12 \\\\
-                                                    &= 276
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$276$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-She can lay $6$ bricks every $4 \ \text{minutes}$. How long will it take her to build the wall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Time to build the wall}                       &= \dfrac {\text{Total bricks}} {6} \times 4 \ \text{minutes} \\\\
-                                                    &= \dfrac {276} {6} \times 4 \\\\
-                                                    &= \dfrac {6 \times 46 \times 4} {6} \\\\
-                                                    &= \dfrac {\cancel{6} \times 46 \times 4} {\cancel{6}} \\\\
-                                                    &= 46 \times 4 \\\\
-                                                    &= 184 \ \text{minutes} \\\\
-                                                    &= 60 + 60 + 60 + 4 \\\\
-                                                    &= 3 \ \text{hours} \ 4 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{hours} \ 4 \ \text{minutes or} \ 184 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>F2C47797-13C0-4FDF-AA9D-ED17BA456CC4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the value of $𝑥$ in the triangle shown.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know, the sum of angles in a triangle is $180 \degree$
-
-As per the diagram,
-
-$
-\begin{aligned}
-90 \degree + 35 \degree + x \degree      &= 180 \degree \\\\
-x                                        &= 180 - 90 - 35 \\\\
-x                                        &= 55 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$55 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>2345E090-B8BA-4D8C-BDCC-6077A8A3A4E5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tspeed
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Josh and Gary are doing a $36 \ \text{km}$ sponsored walk.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Josh can walk at $6 \ \text{km}$ per hour. How long will he take to finish the walk?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Time taken by Josh}                           &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
-                                                    &= \dfrac {6 \times 6} {6} \\\\
-                                                    &= \dfrac {\cancel{6} \times 6} {\cancel{6}} \\\\
-                                                    &= 6 \ \text{hours}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6 \ \text{hours}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Gary can walk at $5 \ \text{km}$ per hour. How far will he still have left to walk when Josh finishes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know,  Josh took $6$ hours to finish walking $36$ km.
-
-$
-\begin{aligned}
-\text{Remaining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
-                                                    &= 36 \ \text{km} - \text{Speed} \times \text{Time} \\\\
-                                                    &= 36 \ \text{km} - 5 \ \text{km per hour} \times 6 \ \text{hours} \\\\
-                                                    &= 36 - 30 \\\\
-                                                    &= 6 \ \text{km}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6 \ \text{km}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>C4D5964E-323E-4324-81EE-4EA60C92CF15</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Martin and Dai divide some sweets between them. There are $65$ sweets, and Martin takes $7$ more than Dai. How many does Martin take?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of sweets Martin take $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Sweets Martin take}                               &= \text{Total sweets} - \text{Sweets Dai take} \\\\
-a                                                       &= 65 - (a - 7) \\\\
-a                                                       &= 65 - a + 7 \\\\
-a + a                                                   &= 65 + 7 \\\\
-2a                                                      &= 72 \\\\
-a                                                       &= \dfrac {72} {2} \\\\
-a                                                       &= \dfrac {2 \times 36} {2} \\\\
-a                                                       &= \dfrac {\cancel{2} \times 36} {\cancel{2}} \\\\
-a                                                       &= 36
-\end{aligned}
-$
-
-Number of sweets Martin take $= 36$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36$
 
 </div>
 </div>
@@ -5381,9 +4312,24 @@ What is the biggest number that divides into $16, 32,$ and $56$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $16$, $32$ and $56 = 2 \times 2 \times 2 = 8$
+To find the biggest number that divides exactly into $16$, $32$, and $56$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $16$, $32$ and $56 = 8$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 16 &= 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime Factors of} \ 32 &= 2 \times 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime Factors of} \ 56 &= \bold{2 \times 2 \times 2} \times 7
+\end{aligned}
+$
+
+Highest common factor of $16$, $32$ and $56$
+
+$
+\begin{aligned}
+&= 2 \times 2 \times 2  \\\\
+&= 8
+\end{aligned}
+$
 
 </div>
 </div>
@@ -5395,241 +4341,6 @@ $8$
 </div>
 </div>
 
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>090C6174-3961-4CC8-A0F4-F54FAA46018D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This multiplication has been worked out for you. 
-
-$56 \times 134 = 7504$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using the information given above, what is $7504 \div 56$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using the information given above,
-
-$
-\begin{aligned}
-56 \times 134              &= 7504 \\\\
-134                        &= \dfrac {7504} {56}
-\end{aligned}
-$
-
-As per the question,
-
-$7504 \div 56 = 134$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$134$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using the information given above, what is $112 \times 67$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 112 \times 67 \\\\
-&= 56 \times 2 \times 67 \\\\
-&= 56 \times 134 \\\\
-&= 7504
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7504$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>C080FD51-AF57-4871-AB17-719829BD7FA9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Julie and Sarika are doing a $24 \ \text{km}$ sponsored walk. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Julie can walk at $6 \ \text{km}$ per hour. How long will she take to finish the walk? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Time taken by Julie}                          &= \dfrac {24 \ \text{km}} {6 \ \text{km per hour}} \\\\
-                                                    &= \dfrac {4 \times 6} {6} \\\\
-                                                    &= \dfrac {4 \times \cancel{6}} {\cancel{6}} \\\\
-                                                    &= 4 \ \text{hours}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 \ \text{hours}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Sarika can walk at $4 \ \text{km}$ per hour. How far will she still have left to walk when Julie finishes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know,  Julie took $4$ hours to finish walking $24$ km.
-
-$
-\begin{aligned}
-\text{Reamining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
-                                                    &= 24 \ \text{km} - (\text{Speed} \times \text{Time}) \\\\
-                                                    &= 24 \ \text{km} - (4 \ \text{km per hour} \times 4 \ \text{hours}) \\\\
-                                                    &= 24 - 16 \\\\
-                                                    &= 8 \ \text{km}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 \ \text{km}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
@@ -5861,230 +4572,6 @@ $
 <div class='answer'>
 
 $\pounds 4.30$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>4AFBC40F-1638-4EA4-8624-F4D2729AD1A4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If a square has an area of $36cm^2$, what is its perimeter?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Area of a square $= \text{Side} \times \text{Side}$
-
-As per the question,
-
-Let the length of the side of the square (in cm) $= a$
-
-$
-\begin{aligned}
-a \times a                                      &= 36 \ \text{cm}^2\\\\
-a^{2}                                           &= 6^{2} \\\\
-a                                               &= 6 \ \text{cm}
-\end{aligned}
-$
-
-The length of the side of the square $= 6 \ \text{cm}$
-
-Let's find the perimeter of the square.
-
-$
-\begin{aligned}
-\text{Perimeter of the square}                  &= 4 \times a \\\\
-                                                &= 4 \times 6 \ \text{cm} \\\\
-                                                &= 24 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>9004924A-FAFE-4C44-A7D2-20DAF504FB5B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many $\text{minutes}$ are there in one day?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know,
-
-$1$ day $= 24$ hours
-
-$1$ hour $= 60$ minutes
-
-As per the question,
-
-$
-\begin{aligned}
-\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times \text{No. of minutes in an hour} \\\\
-                                &= 24 \times 60 \\\\
-                                &= 1440 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1440 \ \text{minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>4520A825-7CCE-49E3-BF14-4A90C942392B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On January $1^\text{st}$, the temperature in Moscow was -$6 \degree \text{C}$ and the temperature in Rome was $13 \degree \text{C}$. How many degrees warmer was it in Rome than in Moscow?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Temperature difference}                                       &= \text{Temperature in Rome} - \text{Temperature in Moscow} \\\\
-                                                                    &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
-                                                                    &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
-                                                                    &= 19 \degree \text{C}
-\end{aligned}
-$
-
-Rome is warmer than Moscow by $= 19 \degree \text{C}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19 \degree \text{C}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>866159B1-4B81-4AB7-8216-C0F736137635</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The London Eye has $32$ passenger capsules, each of which can take up to $18$ people. What is the maximum number of passengers that can travel at any one time?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Maximum passengers}                                           &= \text{Passengers per capsule} \times \text{No. of capsules} \\\\
-                                                                    &= 18 \times 32 \\\\
-                                                                    &= 576
-\end{aligned}
-$
-
-The maximum number of passengers that can travel at any one time $= 576$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$576$
 
 </div>
 </div>
@@ -6612,176 +5099,6 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>27EFB859-4E01-4629-9090-039B54CC9BF6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a Tennis club $\dfrac {1} {9}$ of the players are left handed.
-                 
-There are three times as many players who wear glasses as there are who are left handed. What fraction of the players wear glasses? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Fraction wearing glasses}          &= 3 \times  \text{Left-handed players} \\\\
-                                          &= 3 \times \dfrac {1}{9} \\\\
-                                          &= \dfrac {3 \times 1} {9} \\\\
-                                          &= \dfrac {3 \times 1} {3 \times 3} \\\\
-                                          &= \dfrac {\cancel{3} \times 1} {\cancel{3} \times 3} \\\\
-                                          &= \dfrac {1} {3}
-\end{aligned}
-$
-
-The fraction of players wearing glasses $= \dfrac {1} {3}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {3}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>338F96DE-9214-4EE9-A056-D7F61969FCBE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg) 
-
-The angles in a triangle always add up to $180 \degree$ . In the triangle shown above angle $a \degree$ is three times as big as angle $b \degree$ and angle $b \degree$ is twice as large as angle $c \degree$. Find the angle $d \degree$ shown in the diagram.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-We know that the sum of all angles of a triangle is $180 \degree$.
-
-$
-\begin{aligned}
-a + b + c                                     &= 180 \\\\
-3 (2c)+ 2c + c                                &= 180 \\\\
-6c+ 2c + c                                    &= 180 \\\\
-9c                                            &= 180 \\\\
-c                                             &= \dfrac {180} {9} \\\\
-c                                             &= \dfrac {9 \times 20} {9} \\\\
-c                                             &= \dfrac {\cancel{9} \times 20} {\cancel{9}} \\\\
-c                                             &= 20 \degree
-\end{aligned}
-$
-
-Let's find angle $b$
-
-$
-\begin{aligned}
-b                                             &= 2 \times c \\\\
-b                                             &= 2 \times 20 \\\\
-b                                             &= 40
-\end{aligned}
-$
-
-We know that the sum of angles on a straight line is $180 \degree$. 
-
-$
-\begin{aligned}
-b + d                                         &= 180 \\\\
-40 + d                                        &= 180 \\\\
-d                                             &= 180 - 40 \\\\
-d                                             &= 140 \degree
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Alternative Solution
-
-We know that the sum of all angles of a triangle is $180 \degree$.
-
-As per the question,
-
-$
-\begin{aligned}
-a + b + c                                                                          &= 180 \\\\
-3b + b  + \dfrac {b}{2}                                                            &= 180 \\\\
-\dfrac {3b \times 2}{1 \times 2} + \dfrac {b \times 2}{1 \times 2} + \dfrac {b}{2} &= 180 \\\\
-\dfrac {6b}{2} + \dfrac {2b}{2} + \dfrac {b}{2}                                    &= 180 \\\\
-\dfrac {6b + 2b + b}{2}                                                            &= 180 \\\\
-\dfrac {9b}{2}                                                                     &= 180 \\\\  
-b                                                                                  &= \dfrac {180 \times 2} {9} \\\\
-b                                                                                  &= \dfrac {9 \times 20 \times 2} {9} \\\\
-b                                                                                  &= \dfrac {\cancel{9} \times 20 \times 2} {\cancel{9}} \\\\
-b                                                                                  &= 20 \times 2
-b                                                                                  &= 40 \degree
-\end{aligned}
-$
-
-
-We know that the sum of angles on a straight line is $180 \degree$.
-
-$
-\begin{aligned}
-b + d                                         &= 180 \\\\
-40 + d                                        &= 180 \\\\
-d                                             &= 180 - 40 \\\\
-d                                             &= 140 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$140 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>438BD9BA-0277-473A-99CB-FE5F23A3718E</p>
 </div>
 <div class='topics'>
@@ -6932,7 +5249,11 @@ A factor of 28 bigger than 1 and a factor of 21 bigger than 1
 <div class='workings'>
 <div class='working'>
 
-$7$ 
+Factor of 28 bigger than 1 = 2, \ 4, \ \bold{7}, \ 14, \ 28
+
+Factors of 21 bigger than 1= 3, \ \bold{7}, \ 21
+
+A factor of 28 bigger than 1 and a factor of 21 bigger than 1  $= 7$
 
 </div>
 </div>
@@ -7008,10 +5329,6 @@ How much more cake does Simon have left than Paulina?
 
 As per the question,
 
-Paulina sold $= $4 \dfrac {3} {4}$ cakes
-
-Simon sold $= $2 \dfrac {1} {4}$ cakes
-
 As both baked $5$ cakes each,to find how much more cake Simon have left than Paulina we need to find the difference only.
 
 $
@@ -7020,7 +5337,10 @@ $
 &= \dfrac {19} {4} - \dfrac {9} {4} \\\\
 &= \dfrac {19 - 9} {4} \\\\
 &= \dfrac {10} {4} \\\\
-&= 2 \dfrac {2} {4}
+&= \dfrac {2 \times 5} {2 \times 2} \\\\
+&= \dfrac {\cancel{2} \times 5} {\cancel{2} \times 2} \\\\
+&= \dfrac {5} {2} \\\\
+&= 2 \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -7029,7 +5349,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \dfrac {2} {4}$
+$2 \dfrac {1} {2}$
 
 </div>
 </div>
@@ -7064,9 +5384,15 @@ Repeated digits are allowed.
 <div class='workings'>
 <div class='working'>
 
-Biggest prime number in digits $= 7$
+As we know,
 
-Smallest prime number in digits $= 2$
+The biggest single digit prime number $= 7$
+
+The smalles  single digit prime number $= 2$
+
+The biggest single digit $= 9$
+
+The smallest single digit $= 0$
 
 $
 \begin{aligned}
@@ -7080,8 +5406,9 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\text{Largest} = 7997 \\\\
-\text{Smallest} = 2002$
+$\text{Largest} = 7997$
+
+$\text{Smallest} = 2002$
 
 </div>
 </div>
@@ -7323,13 +5650,9 @@ How many balloons are blue?
 
 Let the number of red balloons $= a$
 
-The number of green balloons $= 3a$
-
-The number of blue balloons $= 2 \times 3a = 6a$
-
 $
 \begin{aligned}
-\text{Blue balloons} + text{Green balloons} + \text{Red balloons}           &= \text{Total balloons} \\\\
+\text{Blue} + text{Green} + \text{Red}                                      &= \text{Total balloons} \\\\
 6a + 3a + a                                                                 &= 40 \\\\
 10a                                                                         &= 40 \\\\
 a                                                                           &= \dfrac {40} {10} \\\\
@@ -7338,15 +5661,12 @@ a                                                                           &= 4
 \end{aligned}
 $
 
-Number of red balloons $= 4$
-
-Let's find the number of blue balloons
-
 $
 \begin{aligned}
-&= 6a \\\\
-&= 6 \times 4 \\\\
-&= 24
+\text{Number of red balloons}                        &= 4 \\\\
+\text{Number of blue balloons}                       &= 6 \times a \\\\
+                                                     &= 6 \times 4 \\\\
+                                                    &= 24
 \end{aligned}
 $
 
@@ -7357,7 +5677,7 @@ The number of blue balloons are $= 24$
 <div class='answers'>
 <div class='answer'>
 
-$24$
+$24 \ \text{Balloons}$
 
 </div>
 </div>
@@ -7393,14 +5713,14 @@ itself. A cube number comes from multiplying a number by itself and then by itse
 <div class='workings'>
 <div class='working'>
 
-$4$
+$64$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4$
+$64$
 
 </div>
 </div>

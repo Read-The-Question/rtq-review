@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-all"
 title: "Topic - Percentage - All"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8423,7 +8423,7 @@ Smallest $= \dfrac {3} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>A1C5A3A8-776A-4AE7-A826-842521976016</p>
 </div>
@@ -8508,12 +8508,17 @@ What is $5\%$ of $\pounds 250$?
 <div class='workings'>
 <div class='working'>
 
-Using previous answer,
-
 $
 \begin{aligned}
 &= 5\% \ \text{of} \ \pounds 250 \\\\
 &= 5\% \times 250 \\\\
+\end{aligned}
+$
+
+Using previous answer,
+
+$
+\begin{aligned}
 &= \dfrac {10\%} {2} \times 250 \\\\
 &= \dfrac {10\% \times 250} {2} \\\\
 &= \dfrac {25} {2} \\\\
@@ -8548,12 +8553,17 @@ What is $2 1/2\%$ of $\pounds 250$?
 <div class='workings'>
 <div class='working'>
 
-Using previous answer,
-
 $
 \begin{aligned}
 &= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 2 \dfrac {1} {2}\% \times 250 \\\\
+\end{aligned}
+$
+
+Using previous answer,
+
+$
+\begin{aligned}
 &= \dfrac {5} {2}\% \times 250 \\\\
 &= \dfrac {5\% \times 250} {2} \\\\
 &= \dfrac {12.5} {2} \\\\
@@ -8561,6 +8571,7 @@ $
 &= \dfrac {25 \times 5} {4 \times 5} \\\\
 &= \dfrac {25 \times \cancel{5}} {4 \times \cancel{5}} \\\\
 &= \dfrac {25} {4} \\\\
+&= 6 \dfrac {1} {4} \\\\
 &= \pounds 6.25
 \end{aligned}
 $
@@ -8597,7 +8608,7 @@ $
 \begin{aligned}
 &= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 17 \dfrac {1} {2}\% \times 250 \\\\
-&= (10 + 5 + 2 \dfrac {1} {2}) \% \times 250 \\\\
+&= (10 + 5 + 2) \dfrac {1} {2}\% \times 250 \\\\
 &= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 25 + 12.5 + 6.25 \\\\
 &= \pounds 43.75
@@ -8621,7 +8632,7 @@ $\pounds 43.75$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>

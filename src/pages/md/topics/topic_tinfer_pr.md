@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-pr"
 title: "Topic - Infer - PR"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -967,9 +967,24 @@ What is the biggest number that divides exactly into $60, 72$ and $84$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $60$, $72$ and $84 = 2 \times 2 \times 3 = 12$
+To find the biggest number that divides exactly into $60$, $72$, and $84$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $60$, $72$ and $84 = 12$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 60 &= \bold {2 \times 2 \times 3} \times 5 \\\\
+\text {Prime Factors of} \ 72 &= \bold {2 \times 2 \times 3} \times 2 \times 3 \\\\
+\text {Prime Factors of} \ 84 &= \bold {2 \times 2 \times 3} \times 7
+\end{aligned}
+$
+
+Highest common factor of $60$, $72$ and $84$
+
+$
+\begin{aligned}
+&= 2 \times 2 \times 3 \\\\
+&= 12
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1100,9 +1115,24 @@ What is the biggest number that divides exactly into $28 , 84$ and $126$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $28$, $84$ and $126 = 2 \times 7 = 14$
+To find the biggest number that divides exactly into $28$, $84$, and $126$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $28$, $84$ and $126 = 14$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 28 &= 2 \times \bold {2 \times 7} \\\\
+\text {Prime Factors of} \ 84 &= 2 \times \bold {2} \times 3 \times \bold{7} \\\\
+\text {Prime Factors of} \ 126 &= \bold {2} \times 3 \times \bold{7}
+\end{aligned}
+$
+
+Highest common factor of $28$, $84$ and $126$
+
+$
+\begin{aligned}
+&= 2 \times 7 \\\\
+&= 14
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1110,48 +1140,6 @@ The biggest number that divides into $28$, $84$ and $126 = 14$
 <div class='answer'>
 
 $14$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>7C81779B-E92C-4725-B417-DA7968C3341A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the smallest number that $3,5$ and $12$ all divide into?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-LCM of $3$, $5$ and $12 = 60$
-
-The smallest number that $3, 5,$ and $12$ all divide into $= 60$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60$
 
 </div>
 </div>
@@ -1197,6 +1185,19 @@ $
                                                 &= 9
 \end{aligned}
 $
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+LCM of $2$ and $5 = 10$
+
+Numbers less than 100 that are both divisible by $2$ and $5$ are number ending with $0$
+
+$= 10, \ 20, \ 30, \ 40, \ 50, \ 60, \ 70, \ 80, \ 90$
+
+Total count of numbers less than $100$ and both divisible by $2$ and $5 = 9$ 
 
 </div>
 </div>

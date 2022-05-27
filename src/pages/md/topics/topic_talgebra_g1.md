@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-g1"
 title: "Topic - Algebra - G1"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -9328,6 +9328,86 @@ $60$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>4C9A3109-398C-46C7-B66E-8EC1E868DD8C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find two numbers that have a difference of $8$ and added upto $18$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first number $= a$
+
+Let the second number $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+a - b                    &= 8 \\\\
+a + b                    &= 18
+\end{aligned}
+$
+
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
+
+Add the second equation to the first to reduce it to one variable.
+
+$
+\begin{aligned}
+a - b + (a - b)          &= 8 + 18 \\\\
+a - b + a + b            &= 26 \\\\
+2a                       &= 26 \\\\
+a                        &= \dfrac {26} {2} \\\\
+a                        &= \dfrac {2 \times 13} {2} \\\\
+a                        &= \dfrac {\cancel{2} \times 13} {\cancel{2}} \\\\
+a                        &= 13
+\end{aligned}
+$
+
+Let's substitute the value of $a$ in one of the equations.
+
+$
+\begin{aligned} 
+a + b                    &= 18 \\\\
+13 + b                   &= 18 \\\\
+b                        &= 18 - 13 \\\\
+b                        &= 5
+\end{aligned}
+$
+
+Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13 \ \text{and} \ 5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>D10222B7-3539-4A50-96F9-131B2DC288B9</p>
 </div>
 <div class='topics'>
@@ -9499,6 +9579,64 @@ $8$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>C4D5964E-323E-4324-81EE-4EA60C92CF15</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Martin and Dai divide some sweets between them. There are $65$ sweets, and Martin takes $7$ more than Dai. How many does Martin take?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of sweets Martin take $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Sweets Martin take}                               &= \text{Total sweets} - \text{Sweets Dai take} \\\\
+a                                                       &= 65 - (a - 7) \\\\
+a                                                       &= 65 - a + 7 \\\\
+a + a                                                   &= 65 + 7 \\\\
+2a                                                      &= 72 \\\\
+a                                                       &= \dfrac {72} {2} \\\\
+a                                                       &= \dfrac {2 \times 36} {2} \\\\
+a                                                       &= \dfrac {\cancel{2} \times 36} {\cancel{2}} \\\\
+a                                                       &= 36
+\end{aligned}
+$
+
+Number of sweets Martin take $= 36$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
@@ -13122,6 +13260,119 @@ $2 \text{p}$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>580C4232-E3E9-45F3-9E28-CF2700B10FA3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A number is multiplied by $100$ to give $2030$.
+
+What is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 100 &= 2030 \\\\
+a            &= \dfrac {2030} {100} \\\\
+a            &= 20.3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20.3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>53762856-3EC8-489C-8BC4-5F21432EF753</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Caley starts with a number, doubles it and then subtracts $7$.
+
+The result is $31$.
+
+What number did Caley start with?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times a - 7 &= 31 \\\\
+2 a            &= 31 + 7 \\\\
+2 a            &= 38 \\\\
+a              &= \dfrac {38} {2} \\\\
+a              &= \dfrac {19 \times 2} {2} \\\\
+a              &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
+a              &= 19
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>

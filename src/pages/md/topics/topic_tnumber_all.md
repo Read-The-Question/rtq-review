@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-all"
 title: "Topic - Number - All"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -22872,7 +22872,7 @@ Sarah has theses digits cards:
 
 $\boxed{5} \quad \boxed{2} \quad \boxed{4}$
 
-She makes a $2$-digit nuber and $1$-digit number using all the cards.
+She makes a $2$-digit number and $1$-digit number using all the cards.
 She multiplies them together.
 Her answer is the multiple of $3$.
 
@@ -22887,19 +22887,23 @@ Which of the following could NOT be a possible answer?
 <div class='workings'>
 <div class='working'>
 
-This can be inferred by using trial and error.
+We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
 
-Since, Non of the three digits are divisible by $3$, We will try the combinations of 2 digits.
+| Number    |         Sum                                           | Divisible $3$
+|:------:   |:----------------------------------------------------: | :-----:
+|  $25$     | $2 + 5 = \green{7}$                                   |  No
+|  $42$     | $4 + 2 = \red{6}$                                     |  Yes
+|  $54$     | $5 + 4 = \red{9}$                                     |  Yes
+|  $24$     | $2 + 4 = \red{6}$                                     |  Yes
 
-Possibile combination of 2 digit number $= 52, 54, 24, 25, 45 \text{and} 42.
-
-Multiples of 3 $= 52, 54, 24, 45 and 42.
-
-Here, Only 25 is not divisible by 3. This means $25 \times 4$ is also not divisible by 3.
+The answer that could not be possible $= 25 \times 4$
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
 <div class='answer'>
 
 $25 \times 4$
@@ -23039,7 +23043,7 @@ $(4.65 \div 15) \times 19$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>2D14E878-11B5-46B1-A002-9A3CA82CED1D</p>
 </div>
@@ -23102,7 +23106,7 @@ $1$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -48243,6 +48247,47 @@ As the remainder is $0$, Subtracting $60$ from $8700 = 8700 - 60 = 8640$
 The PIN number is $= 8640$
 
 </div>
+<div class='working'>
+
+Alternative solution
+
+We can solve this my trial and error method using divisibility rule.
+
+We know,
+
+A number is divisible by $5$ if the last digit $0$ or $5$.
+
+A number is divisible by $4$ if the last $2$ digits are divisible by $4$.
+
+A number is divisible by $3$ if the cross addition is divisible by $3$.
+
+Let's look at units place
+
+$= 0$ (then only my PIN will be divisible by $4$)
+
+Let's look at tens place
+
+$\not 1$ (as $10$ is not divisible by $4$)
+
+$= 2$ (as $20$ is divisible by $4$)
+
+Let's now check if $8620$ is divisible by $3$
+
+$= 8 + 6 + 2 + 0 = 16 \not$ divisible by $3$ 
+
+The next multiple of $3$ would be $18$
+
+$= 8 + 6 + 4 + 0 = 18$ 
+
+$18$ is divisible by $3$
+
+$40$ is divisible by $4$ and
+
+$8640$ has $0$ at unit place, as such divisible by $5$.
+
+My PIN number is $8640$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -48311,7 +48356,7 @@ $820$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D</p>
 </div>
@@ -48332,14 +48377,16 @@ Seven telegraph poles are equally spaced along a road. The distance between the 
 
 As per the question,
 
+Distance between the first and the last Pole
+
 $
 \begin{aligned}
-\text{Distance between the first and last pole}         &= \text{Total pole - 1} \times \text{Distance of one pole to other} \\\\\
-                                                        &= 7 - 1 \times \dfrac {268 \text{m}} {2} \\\\\
-                                                        &= 6 \times \dfrac {2 \times 134} {2} \\\\\
-                                                        &= 6 \times \dfrac {\cancel{2} \times 134} {\cancel{2}} \\\\\
-                                                        &= 6 \times 134 \\\\\
-                                                        &= 804 \text{m}
+&= \text{Count of poles - 1} \times \text{Distance between two poles} \\\\\
+&= 7 - 1 \times \dfrac {268 \text{m}} {2} \\\\\
+&= 6 \times \dfrac {2 \times 134} {2} \\\\\
+&= 6 \times \dfrac {\cancel{2} \times 134} {\cancel{2}} \\\\\
+&= 6 \times 134 \\\\\
+&= 804 \text{m}
 \end{aligned}
 $
 
@@ -48357,7 +48404,7 @@ $804 \text{m}$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -48600,7 +48647,7 @@ $1044$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>AE100B61-1477-42BE-973B-C710053D72C4</p>
 </div>
@@ -48715,7 +48762,7 @@ $53.71$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -48930,7 +48977,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>AB8D141C-6937-4BD2-823D-644039CF0E18</p>
 </div>
@@ -49042,7 +49089,7 @@ $3 \ \text{hours} \ 4 \ \text{minutes or} \ 184 \ \text{minutes}$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -49285,7 +49332,7 @@ $576$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>090C6174-3961-4CC8-A0F4-F54FAA46018D</p>
 </div>
@@ -49397,7 +49444,7 @@ $7504$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -49784,7 +49831,7 @@ $3 \ \text{hours} \ 10 \ \text{minutes or } 190 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>C080FD51-AF57-4871-AB17-719829BD7FA9</p>
 </div>
@@ -49897,7 +49944,7 @@ $8 \ \text{km}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -49962,7 +50009,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>866159B1-4B81-4AB7-8216-C0F736137635</p>
 </div>
@@ -50009,7 +50056,7 @@ $576$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -56267,7 +56314,11 @@ A factor of 28 bigger than 1 and a factor of 21 bigger than 1
 <div class='workings'>
 <div class='working'>
 
-$7$ 
+Factor of 28 bigger than 1 = 2, \ 4, \ \bold{7}, \ 14, \ 28
+
+Factors of 21 bigger than 1= 3, \ \bold{7}, \ 21
+
+A factor of 28 bigger than 1 and a factor of 21 bigger than 1  $= 7$
 
 </div>
 </div>
@@ -56340,9 +56391,15 @@ Repeated digits are allowed.
 <div class='workings'>
 <div class='working'>
 
-Biggest prime number in digits $= 7$
+As we know,
 
-Smallest prime number in digits $= 2$
+The biggest single digit prime number $= 7$
+
+The smalles  single digit prime number $= 2$
+
+The biggest single digit $= 9$
+
+The smallest single digit $= 0$
 
 $
 \begin{aligned}
@@ -56356,8 +56413,9 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\text{Largest} = 7997 \\\\
-\text{Smallest} = 2002$
+$\text{Largest} = 7997$
+
+$\text{Smallest} = 2002$
 
 </div>
 </div>
@@ -56947,14 +57005,14 @@ itself. A cube number comes from multiplying a number by itself and then by itse
 <div class='workings'>
 <div class='working'>
 
-$4$
+$64$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4$
+$64$
 
 </div>
 </div>
@@ -83208,7 +83266,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BDFCCF5D-46E4-4B44-9A26-FC5620E9DA7C</p>
 </div>
@@ -83243,12 +83301,12 @@ $300030$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>580C4232-E3E9-45F3-9E28-CF2700B10FA3</p>
 </div>
@@ -83298,12 +83356,12 @@ $20.3$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8E0B311F-6F56-4C98-8A81-501317524481</p>
 </div>
@@ -83346,12 +83404,12 @@ $0.06, \ 0.09$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F02FB4F1-68F5-4FE5-9070-16666391FDCB</p>
 </div>
@@ -83502,7 +83560,7 @@ $152$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -83924,7 +83982,7 @@ $45 \ \text{grams}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3D2E7488-20B5-4B96-84D7-95DE7A4100B6</p>
 </div>
@@ -83968,7 +84026,7 @@ $1105$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -84314,7 +84372,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>9A64528B-6242-4CDD-BB90-C08FC34825DB</p>
 </div>
@@ -84417,12 +84475,12 @@ $\text{litres}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>82493CCD-0442-4D34-8D6E-A55C61D88DF4</p>
 </div>
@@ -84473,7 +84531,7 @@ $600 \ \text{ml}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -84659,7 +84717,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>0E054B14-2436-4D6D-9E10-3C0CF4470C70</p>
 </div>
@@ -84707,7 +84765,7 @@ $38$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

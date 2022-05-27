@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-all"
 title: "Topic - Factor - All"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2350,7 +2350,7 @@ Sarah has theses digits cards:
 
 $\boxed{5} \quad \boxed{2} \quad \boxed{4}$
 
-She makes a $2$-digit nuber and $1$-digit number using all the cards.
+She makes a $2$-digit number and $1$-digit number using all the cards.
 She multiplies them together.
 Her answer is the multiple of $3$.
 
@@ -2365,19 +2365,23 @@ Which of the following could NOT be a possible answer?
 <div class='workings'>
 <div class='working'>
 
-This can be inferred by using trial and error.
+We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
 
-Since, Non of the three digits are divisible by $3$, We will try the combinations of 2 digits.
+| Number    |         Sum                                           | Divisible $3$
+|:------:   |:----------------------------------------------------: | :-----:
+|  $25$     | $2 + 5 = \green{7}$                                   |  No
+|  $42$     | $4 + 2 = \red{6}$                                     |  Yes
+|  $54$     | $5 + 4 = \red{9}$                                     |  Yes
+|  $24$     | $2 + 4 = \red{6}$                                     |  Yes
 
-Possibile combination of 2 digit number $= 52, 54, 24, 25, 45 \text{and} 42.
-
-Multiples of 3 $= 52, 54, 24, 45 and 42.
-
-Here, Only 25 is not divisible by 3. This means $25 \times 4$ is also not divisible by 3.
+The answer that could not be possible $= 25 \times 4$
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
 <div class='answer'>
 
 $25 \times 4$
@@ -4315,9 +4319,23 @@ What is the biggest number that divides into $14, 35,$ and $42$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $14$, $35$ and $42 = 7$
+To find the biggest number that divides exactly into $14$, $35$, and $42$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $14$, $35$ and $42 = 7$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 14 &= 2 \times \bold{7} \\\\
+\text {Prime Factors of} \ 35 &= 5 \times \bold{7} \\\\ \\\\
+\text {Prime Factors of} \ 42 &= 2 \times 3 \times \bold{7}
+\end{aligned}
+$
+
+Highest common factor of $14$, $35$ and $42$
+
+$
+\begin{aligned}
+&= 7
+\end{aligned}
+$
 
 </div>
 </div>
@@ -4357,9 +4375,24 @@ What is the biggest number that divides into $16, 32,$ and $56$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $16$, $32$ and $56 = 2 \times 2 \times 2 = 8$
+To find the biggest number that divides exactly into $16$, $32$, and $56$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $16$, $32$ and $56 = 8$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 16 &= 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime Factors of} \ 32 &= 2 \times 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime Factors of} \ 56 &= \bold{2 \times 2 \times 2} \times 7
+\end{aligned}
+$
+
+Highest common factor of $16$, $32$ and $56$
+
+$
+\begin{aligned}
+&= 2 \times 2 \times 2  \\\\
+&= 8
+\end{aligned}
+$
 
 </div>
 </div>

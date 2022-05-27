@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-na-all"
 title: "Owner - Naman Pant - All"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4820,6 +4820,73 @@ $12$
 </ul>
 <div class='papername'>
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>33FD2E24-6D5F-48B6-8104-E7A1C7EBD9B0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Simon is asked to add $15$ to a number and then multiply by $3$. By mistake he first multiplies by $3$ and then adds $15$.
+
+If he gets the answer $105$ what number did he start with and what answer should he have obtained?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question, Simon by mistake multiplies by $3$ and adds $15$.
+
+$
+\begin{aligned}
+a \times 3 + 15             &= 105 \\\\
+3a + 15                     &= 105 \\\\
+3a                          &= 105 - 15 \\\\
+3a                          &= 90 \\\\
+a                           &= \dfrac {90} {3} \\\\
+a                           &= \dfrac {3 \times 30} {3} \\\\
+a                           &= \dfrac {\cancel{3} \times 30} {\cancel{3}} \\\\
+a                           &= 30
+\end{aligned}
+$
+
+The number he started with $= 30$
+
+$
+\begin{aligned}
+\text {The answer he should have obtained}  &= (30 + 15) \times 3 \\\\
+                                            &= 45 \times 3 \\\\
+                                            &= 135
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30, 135$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>

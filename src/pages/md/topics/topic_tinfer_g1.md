@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-g1"
 title: "Topic - Infer - G1"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -331,6 +331,48 @@ $5570$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>7C81779B-E92C-4725-B417-DA7968C3341A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the smallest number that $3,5$ and $12$ all divide into?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+LCM of $3$, $5$ and $12 = 60$
+
+The smallest number that $3, 5,$ and $12$ all divide into $= 60$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>

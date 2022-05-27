@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-all"
 title: "Topic - Fraction - All"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -22287,7 +22287,7 @@ Smallest $= \dfrac {3} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>1B5D8F8D-C8DE-4749-80CE-805DE7791F8B</p>
 </div>
@@ -22399,7 +22399,7 @@ $160$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -27083,7 +27083,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>27EFB859-4E01-4629-9090-039B54CC9BF6</p>
 </div>
@@ -27133,7 +27133,7 @@ $\dfrac {1} {3}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -27263,10 +27263,6 @@ How much more cake does Simon have left than Paulina?
 
 As per the question,
 
-Paulina sold $= $4 \dfrac {3} {4}$ cakes
-
-Simon sold $= $2 \dfrac {1} {4}$ cakes
-
 As both baked $5$ cakes each,to find how much more cake Simon have left than Paulina we need to find the difference only.
 
 $
@@ -27275,7 +27271,10 @@ $
 &= \dfrac {19} {4} - \dfrac {9} {4} \\\\
 &= \dfrac {19 - 9} {4} \\\\
 &= \dfrac {10} {4} \\\\
-&= 2 \dfrac {2} {4}
+&= \dfrac {2 \times 5} {2 \times 2} \\\\
+&= \dfrac {\cancel{2} \times 5} {\cancel{2} \times 2} \\\\
+&= \dfrac {5} {2} \\\\
+&= 2 \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -27284,7 +27283,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \dfrac {2} {4}$
+$2 \dfrac {1} {2}$
 
 </div>
 </div>

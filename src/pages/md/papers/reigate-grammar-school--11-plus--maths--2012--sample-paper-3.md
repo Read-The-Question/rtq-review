@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -1943,9 +1943,24 @@ What is the biggest number that divides exactly into $60, 72$ and $84$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $60$, $72$ and $84 = 2 \times 2 \times 3 = 12$
+To find the biggest number that divides exactly into $60$, $72$, and $84$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $60$, $72$ and $84 = 12$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 60 &= \bold {2 \times 2 \times 3} \times 5 \\\\
+\text {Prime Factors of} \ 72 &= \bold {2 \times 2 \times 3} \times 2 \times 3 \\\\
+\text {Prime Factors of} \ 84 &= \bold {2 \times 2 \times 3} \times 7
+\end{aligned}
+$
+
+Highest common factor of $60$, $72$ and $84$
+
+$
+\begin{aligned}
+&= 2 \times 2 \times 3 \\\\
+&= 12
+\end{aligned}
+$
 
 </div>
 </div>

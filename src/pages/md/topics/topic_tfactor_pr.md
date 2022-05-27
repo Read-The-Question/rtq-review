@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-pr"
 title: "Topic - Factor - PR"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -803,9 +803,23 @@ What is the biggest number that divides into $14, 35,$ and $42$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $14$, $35$ and $42 = 7$
+To find the biggest number that divides exactly into $14$, $35$, and $42$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $14$, $35$ and $42 = 7$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 14 &= 2 \times \bold{7} \\\\
+\text {Prime Factors of} \ 35 &= 5 \times \bold{7} \\\\ \\\\
+\text {Prime Factors of} \ 42 &= 2 \times 3 \times \bold{7}
+\end{aligned}
+$
+
+Highest common factor of $14$, $35$ and $42$
+
+$
+\begin{aligned}
+&= 7
+\end{aligned}
+$
 
 </div>
 </div>
@@ -845,9 +859,24 @@ What is the biggest number that divides into $16, 32,$ and $56$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $16$, $32$ and $56 = 2 \times 2 \times 2 = 8$
+To find the biggest number that divides exactly into $16$, $32$, and $56$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $16$, $32$ and $56 = 8$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 16 &= 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime Factors of} \ 32 &= 2 \times 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime Factors of} \ 56 &= \bold{2 \times 2 \times 2} \times 7
+\end{aligned}
+$
+
+Highest common factor of $16$, $32$ and $56$
+
+$
+\begin{aligned}
+&= 2 \times 2 \times 2  \\\\
+&= 8
+\end{aligned}
+$
 
 </div>
 </div>

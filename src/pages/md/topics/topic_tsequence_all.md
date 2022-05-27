@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-all"
 title: "Topic - Sequence - All"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -17059,61 +17059,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
-<div class='uuid'>
-<p>11864F13-15AE-442B-A8E6-F4F08A54A7D5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the $100^\text{th}$ symbol in this endless string of symbols
-
-&f=&f=&f=&f=&?=
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-After oberserving the pattern, the first symbol is &, second is f and third is =. This pattern is repeating in a set of 3.
-
-As per the question,
-
-$
-\begin{aligned}
-&= \dfrac {100} {3} \\\\
-&= 33 \dfrac {1} {3}
-\end{aligned}
-$
-
-As the remainder is $1$, The symbol in the first position is going to repeat in the $100^{\text{th}}$.
-
-The $100^{\text{th}}$ symbol is $=$ &
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-&
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_red</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>4902223C-331B-4077-83E4-51988080D5A0</p>
@@ -28396,7 +28341,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3EA2B2B0-ECDC-49E5-AC93-A0CB15B62B35</p>
 </div>
@@ -28537,7 +28482,7 @@ $16, \ 22$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

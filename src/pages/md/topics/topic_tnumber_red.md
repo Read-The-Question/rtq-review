@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-red"
 title: "Topic - Number - Red"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -218,7 +218,7 @@ Sarah has theses digits cards:
 
 $\boxed{5} \quad \boxed{2} \quad \boxed{4}$
 
-She makes a $2$-digit nuber and $1$-digit number using all the cards.
+She makes a $2$-digit number and $1$-digit number using all the cards.
 She multiplies them together.
 Her answer is the multiple of $3$.
 
@@ -233,90 +233,26 @@ Which of the following could NOT be a possible answer?
 <div class='workings'>
 <div class='working'>
 
-This can be inferred by using trial and error.
+We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
 
-Since, Non of the three digits are divisible by $3$, We will try the combinations of 2 digits.
+| Number    |         Sum                                           | Divisible $3$
+|:------:   |:----------------------------------------------------: | :-----:
+|  $25$     | $2 + 5 = \green{7}$                                   |  No
+|  $42$     | $4 + 2 = \red{6}$                                     |  Yes
+|  $54$     | $5 + 4 = \red{9}$                                     |  Yes
+|  $24$     | $2 + 4 = \red{6}$                                     |  Yes
 
-Possibile combination of 2 digit number $= 52, 54, 24, 25, 45 \text{and} 42.
-
-Multiples of 3 $= 52, 54, 24, 45 and 42.
-
-Here, Only 25 is not divisible by 3. This means $25 \times 4$ is also not divisible by 3.
+The answer that could not be possible $= 25 \times 4$
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
 <div class='answer'>
 
 $25 \times 4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_red question'>
-<div class='uuid'>
-<p>2D14E878-11B5-46B1-A002-9A3CA82CED1D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A hexagon is worth $6$ points.
-A square is worth $4$ points.
-How much is triangle worth?
-
-![missing image](/papers/missing_image.svg)
-
--  Can't tell
--  $1$
--  $2$
--  $4$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the worth of triangle $= a$
-
-Let the worth of circle $= b$
-
-As per the question,
-
-$
-\begin{aligned}
-6 + 4 + 6 + b                                  &= 6 + b + 4 + 4 + a + a \\\\
-16 + b                                         &= 14 + b + 2a \\\\
-16 + b - b                                     &= 14 + 2a \\\\
-16                                             &= 14 + 2a \\\\
-16 - 14                                        &= 14 + 2a \\\\
-2                                              &= 2a \\\\
-\dfrac {2} {2}                                 &= a \\\\
-1                                              &= a \\\\
-a                                              &= 1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
 
 </div>
 </div>

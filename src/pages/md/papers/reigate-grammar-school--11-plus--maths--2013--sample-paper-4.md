@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -1119,7 +1119,7 @@ Smallest $= \dfrac {3} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>A1C5A3A8-776A-4AE7-A826-842521976016</p>
 </div>
@@ -1204,12 +1204,17 @@ What is $5\%$ of $\pounds 250$?
 <div class='workings'>
 <div class='working'>
 
-Using previous answer,
-
 $
 \begin{aligned}
 &= 5\% \ \text{of} \ \pounds 250 \\\\
 &= 5\% \times 250 \\\\
+\end{aligned}
+$
+
+Using previous answer,
+
+$
+\begin{aligned}
 &= \dfrac {10\%} {2} \times 250 \\\\
 &= \dfrac {10\% \times 250} {2} \\\\
 &= \dfrac {25} {2} \\\\
@@ -1244,12 +1249,17 @@ What is $2 1/2\%$ of $\pounds 250$?
 <div class='workings'>
 <div class='working'>
 
-Using previous answer,
-
 $
 \begin{aligned}
 &= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 2 \dfrac {1} {2}\% \times 250 \\\\
+\end{aligned}
+$
+
+Using previous answer,
+
+$
+\begin{aligned}
 &= \dfrac {5} {2}\% \times 250 \\\\
 &= \dfrac {5\% \times 250} {2} \\\\
 &= \dfrac {12.5} {2} \\\\
@@ -1257,6 +1267,7 @@ $
 &= \dfrac {25 \times 5} {4 \times 5} \\\\
 &= \dfrac {25 \times \cancel{5}} {4 \times \cancel{5}} \\\\
 &= \dfrac {25} {4} \\\\
+&= 6 \dfrac {1} {4} \\\\
 &= \pounds 6.25
 \end{aligned}
 $
@@ -1293,7 +1304,7 @@ $
 \begin{aligned}
 &= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 17 \dfrac {1} {2}\% \times 250 \\\\
-&= (10 + 5 + 2 \dfrac {1} {2}) \% \times 250 \\\\
+&= (10 + 5 + 2) \dfrac {1} {2}\% \times 250 \\\\
 &= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
 &= 25 + 12.5 + 6.25 \\\\
 &= \pounds 43.75
@@ -1317,12 +1328,12 @@ $\pounds 43.75$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>1B5D8F8D-C8DE-4749-80CE-805DE7791F8B</p>
 </div>
@@ -1434,7 +1445,7 @@ $160$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -1499,7 +1510,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>F74409E6-423C-450E-BDFB-21338241A8A0</p>
 </div>
@@ -1561,7 +1572,7 @@ $33$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -2171,9 +2182,24 @@ What is the biggest number that divides exactly into $28 , 84$ and $126$?
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $28$, $84$ and $126 = 2 \times 7 = 14$
+To find the biggest number that divides exactly into $28$, $84$, and $126$, we need to find the highest common factor of the three numbers.
 
-The biggest number that divides into $28$, $84$ and $126 = 14$
+$
+\begin{aligned}
+\text {Prime Factors of} \ 28 &= 2 \times \bold {2 \times 7} \\\\
+\text {Prime Factors of} \ 84 &= 2 \times \bold {2} \times 3 \times \bold{7} \\\\
+\text {Prime Factors of} \ 126 &= \bold {2} \times 3 \times \bold{7}
+\end{aligned}
+$
+
+Highest common factor of $28$, $84$ and $126$
+
+$
+\begin{aligned}
+&= 2 \times 7 \\\\
+&= 14
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2194,7 +2220,7 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>7C81779B-E92C-4725-B417-DA7968C3341A</p>
 </div>
@@ -2231,12 +2257,12 @@ $60$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>4C9A3109-398C-46C7-B66E-8EC1E868DD8C</p>
 </div>
@@ -2311,7 +2337,7 @@ $13 \ \text{and} \ 5$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -3341,7 +3367,7 @@ $\text{Closest number to} \ 60 = 58 \\\\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>80A03144-6FE7-47FE-80C3-2CE1292F70D2</p>
 </div>
@@ -3491,7 +3517,7 @@ $24 \text{m}$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -3773,6 +3799,47 @@ As the remainder is $0$, Subtracting $60$ from $8700 = 8700 - 60 = 8640$
 The PIN number is $= 8640$
 
 </div>
+<div class='working'>
+
+Alternative solution
+
+We can solve this my trial and error method using divisibility rule.
+
+We know,
+
+A number is divisible by $5$ if the last digit $0$ or $5$.
+
+A number is divisible by $4$ if the last $2$ digits are divisible by $4$.
+
+A number is divisible by $3$ if the cross addition is divisible by $3$.
+
+Let's look at units place
+
+$= 0$ (then only my PIN will be divisible by $4$)
+
+Let's look at tens place
+
+$\not 1$ (as $10$ is not divisible by $4$)
+
+$= 2$ (as $20$ is divisible by $4$)
+
+Let's now check if $8620$ is divisible by $3$
+
+$= 8 + 6 + 2 + 0 = 16 \not$ divisible by $3$ 
+
+The next multiple of $3$ would be $18$
+
+$= 8 + 6 + 4 + 0 = 18$ 
+
+$18$ is divisible by $3$
+
+$40$ is divisible by $4$ and
+
+$8640$ has $0$ at unit place, as such divisible by $5$.
+
+My PIN number is $8640$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -3798,7 +3865,7 @@ $8640$
 <div class='topics'>
 <ul>
 <li>
-tsequence
+tinfer
 </li>
 </ul>
 </div>
@@ -3865,17 +3932,15 @@ On holiday last year Phil bought $10$ post cards at $45 \text{p}$ each and $10\ 
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - (10 \times \text{Cost (Post cards)} + 10 \times \text{Cost (Second class stamp)}) \\\\
-                                                &= \pounds 10 - (10 \times 45 \text{p} + 10 \times 27 \text{p}) \\\\
-                                                &= \pounds 10 - (450 \text{p} + 270 \text{p}) \\\\
-                                                &= \pounds 10 - 720\text{p} \\\\
-                                                &= \pounds 10 - \pounds \dfrac {720} {100} \\\\
-                                                &= 10 - \dfrac {72 \cancel{0}} {10 \cancel{0}} \\\\
-                                                &= 10 - \dfrac {72} {10} \\\\
-                                                &= 10 - 7.2 \\\\
-                                                &= \pounds 2.8
+\text{Change he will get}                       &= \text{Total money} - 10 \times \text{Cost of postcard} - 10 \times \text{Cost of stamp} \\\\
+                                                &= \pounds 10 - 10 \times 45 \text{p} - 10 \times 27 \text{p} \\\\
+                                                &= \pounds 10 - \pounds \dfrac {450} {100} - \pounds \dfrac {270} {100} \\\\
+                                                &= \pounds 10 - \pounds 4.50 - \pounds 2.70 \\\\
+                                                &= \pounds 2.80
 \end{aligned}
 $
 
@@ -3884,7 +3949,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.8$
+$\pounds 2.80$
 
 </div>
 </div>
@@ -4084,6 +4149,19 @@ $
 $
 
 </div>
+<div class='working'>
+
+Alternative solution
+
+LCM of $2$ and $5 = 10$
+
+Numbers less than 100 that are both divisible by $2$ and $5$ are number ending with $0$
+
+$= 10, \ 20, \ 30, \ 40, \ 50, \ 60, \ 70, \ 80, \ 90$
+
+Total count of numbers less than $100$ and both divisible by $2$ and $5 = 9$ 
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -4102,7 +4180,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D</p>
 </div>
@@ -4123,14 +4201,16 @@ Seven telegraph poles are equally spaced along a road. The distance between the 
 
 As per the question,
 
+Distance between the first and the last Pole
+
 $
 \begin{aligned}
-\text{Distance between the first and last pole}         &= \text{Total pole - 1} \times \text{Distance of one pole to other} \\\\\
-                                                        &= 7 - 1 \times \dfrac {268 \text{m}} {2} \\\\\
-                                                        &= 6 \times \dfrac {2 \times 134} {2} \\\\\
-                                                        &= 6 \times \dfrac {\cancel{2} \times 134} {\cancel{2}} \\\\\
-                                                        &= 6 \times 134 \\\\\
-                                                        &= 804 \text{m}
+&= \text{Count of poles - 1} \times \text{Distance between two poles} \\\\\
+&= 7 - 1 \times \dfrac {268 \text{m}} {2} \\\\\
+&= 6 \times \dfrac {2 \times 134} {2} \\\\\
+&= 6 \times \dfrac {\cancel{2} \times 134} {\cancel{2}} \\\\\
+&= 6 \times 134 \\\\\
+&= 804 \text{m}
 \end{aligned}
 $
 
@@ -4148,7 +4228,7 @@ $804 \text{m}$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>

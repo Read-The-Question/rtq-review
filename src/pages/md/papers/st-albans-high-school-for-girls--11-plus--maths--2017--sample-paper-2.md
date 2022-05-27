@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <div class='paper'>
 <h1>St Albans High School For Girls</h1>
@@ -1037,7 +1037,11 @@ A factor of 28 bigger than 1 and a factor of 21 bigger than 1
 <div class='workings'>
 <div class='working'>
 
-$7$ 
+Factor of 28 bigger than 1 = 2, \ 4, \ \bold{7}, \ 14, \ 28
+
+Factors of 21 bigger than 1= 3, \ \bold{7}, \ 21
+
+A factor of 28 bigger than 1 and a factor of 21 bigger than 1  $= 7$
 
 </div>
 </div>
@@ -1113,10 +1117,6 @@ How much more cake does Simon have left than Paulina?
 
 As per the question,
 
-Paulina sold $= $4 \dfrac {3} {4}$ cakes
-
-Simon sold $= $2 \dfrac {1} {4}$ cakes
-
 As both baked $5$ cakes each,to find how much more cake Simon have left than Paulina we need to find the difference only.
 
 $
@@ -1125,7 +1125,10 @@ $
 &= \dfrac {19} {4} - \dfrac {9} {4} \\\\
 &= \dfrac {19 - 9} {4} \\\\
 &= \dfrac {10} {4} \\\\
-&= 2 \dfrac {2} {4}
+&= \dfrac {2 \times 5} {2 \times 2} \\\\
+&= \dfrac {\cancel{2} \times 5} {\cancel{2} \times 2} \\\\
+&= \dfrac {5} {2} \\\\
+&= 2 \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -1134,7 +1137,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \dfrac {2} {4}$
+$2 \dfrac {1} {2}$
 
 </div>
 </div>
@@ -1169,9 +1172,15 @@ Repeated digits are allowed.
 <div class='workings'>
 <div class='working'>
 
-Biggest prime number in digits $= 7$
+As we know,
 
-Smallest prime number in digits $= 2$
+The biggest single digit prime number $= 7$
+
+The smalles  single digit prime number $= 2$
+
+The biggest single digit $= 9$
+
+The smallest single digit $= 0$
 
 $
 \begin{aligned}
@@ -1185,8 +1194,9 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\text{Largest} = 7997 \\\\
-\text{Smallest} = 2002$
+$\text{Largest} = 7997$
+
+$\text{Smallest} = 2002$
 
 </div>
 </div>
@@ -3166,13 +3176,9 @@ How many balloons are blue?
 
 Let the number of red balloons $= a$
 
-The number of green balloons $= 3a$
-
-The number of blue balloons $= 2 \times 3a = 6a$
-
 $
 \begin{aligned}
-\text{Blue balloons} + text{Green balloons} + \text{Red balloons}           &= \text{Total balloons} \\\\
+\text{Blue} + text{Green} + \text{Red}                                      &= \text{Total balloons} \\\\
 6a + 3a + a                                                                 &= 40 \\\\
 10a                                                                         &= 40 \\\\
 a                                                                           &= \dfrac {40} {10} \\\\
@@ -3181,15 +3187,12 @@ a                                                                           &= 4
 \end{aligned}
 $
 
-Number of red balloons $= 4$
-
-Let's find the number of blue balloons
-
 $
 \begin{aligned}
-&= 6a \\\\
-&= 6 \times 4 \\\\
-&= 24
+\text{Number of red balloons}                        &= 4 \\\\
+\text{Number of blue balloons}                       &= 6 \times a \\\\
+                                                     &= 6 \times 4 \\\\
+                                                    &= 24
 \end{aligned}
 $
 
@@ -3200,7 +3203,7 @@ The number of blue balloons are $= 24$
 <div class='answers'>
 <div class='answer'>
 
-$24$
+$24 \ \text{Balloons}$
 
 </div>
 </div>
@@ -3412,14 +3415,14 @@ itself. A cube number comes from multiplying a number by itself and then by itse
 <div class='workings'>
 <div class='working'>
 
-$4$
+$64$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4$
+$64$
 
 </div>
 </div>

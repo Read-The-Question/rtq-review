@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-g1"
 title: "Topic - Speed - G1"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -546,6 +546,127 @@ $800 \ \text{kilometres per hour}$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>2345E090-B8BA-4D8C-BDCC-6077A8A3A4E5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Josh and Gary are doing a $36 \ \text{km}$ sponsored walk.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Josh can walk at $6 \ \text{km}$ per hour. How long will he take to finish the walk?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time taken by Josh}                           &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
+                                                    &= \dfrac {6 \times 6} {6} \\\\
+                                                    &= \dfrac {\cancel{6} \times 6} {\cancel{6}} \\\\
+                                                    &= 6 \ \text{hours}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text{hours}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Gary can walk at $5 \ \text{km}$ per hour. How far will he still have left to walk when Josh finishes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know,  Josh took $6$ hours to finish walking $36$ km.
+
+$
+\begin{aligned}
+\text{Remaining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
+                                                    &= 36 \ \text{km} - \text{Speed} \times \text{Time} \\\\
+                                                    &= 36 \ \text{km} - 5 \ \text{km per hour} \times 6 \ \text{hours} \\\\
+                                                    &= 36 - 30 \\\\
+                                                    &= 6 \ \text{km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text{km}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-pr"
 title: "Topic - Age - PR"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -680,73 +680,6 @@ $52$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>F74409E6-423C-450E-BDFB-21338241A8A0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Richard is $18$ years old.
-
-Adam is half as old as Richard.
-
-Will is $\dfrac{2}{3}$ of Adam's age.
-
-What is their total age?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Richard's age}    &= 18 \\\\
-\text{Adam's age}       &= \dfrac {\text{Richard's age}} {2}  \\\\
-                        &= \dfrac {18} {2} \\\\
-                        &= \dfrac {2 \times 9} {2} \\\\
-                        &= \dfrac {\cancel{2} \times 9} {\cancel{2}} \\\\ 
-                        &= 9 \\\\
-\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
-                        &= \dfrac {2} {3} \times 9 \\\\
-                        &= \dfrac {2 \times 9} {3} \\\\
-                        &= \dfrac {2 \times 3 \times 3} {3} \\\\
-                        &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
-                        &= 2 \times 3 \\\\
-                        &= 6 \\\\
-\text{Total age}        &= \text{Richard's age + Adam's age + Will's age} \\\\
-                        &= 18 + 9 + 6 \\\\
-                        &= 33
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$33$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>

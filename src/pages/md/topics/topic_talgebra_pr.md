@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-pr"
 title: "Topic - Algebra - PR"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5488,144 +5488,6 @@ $40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>4C9A3109-398C-46C7-B66E-8EC1E868DD8C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find two numbers that have a difference of $8$ and added upto $18$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the first number $= a$
-
-Let the second number $= b$
-
-As per the question,
-
-$
-\begin{aligned} 
-a - b                    &= 8 \\\\
-a + b                    &= 18
-\end{aligned}
-$
-
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Add the second equation to the first to reduce it to one variable.
-
-$
-\begin{aligned}
-a - b + (a - b)          &= 8 + 18 \\\\
-a - b + a + b            &= 26 \\\\
-2a                       &= 26 \\\\
-a                        &= \dfrac {26} {2} \\\\
-a                        &= \dfrac {2 \times 13} {2} \\\\
-a                        &= \dfrac {\cancel{2} \times 13} {\cancel{2}} \\\\
-a                        &= 13
-\end{aligned}
-$
-
-Let's substitute the value of $a$ in one of the equations.
-
-$
-\begin{aligned} 
-a + b                    &= 18 \\\\
-13 + b                   &= 18 \\\\
-b                        &= 18 - 13 \\\\
-b                        &= 5
-\end{aligned}
-$
-
-Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13 \ \text{and} \ 5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>C4D5964E-323E-4324-81EE-4EA60C92CF15</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Martin and Dai divide some sweets between them. There are $65$ sweets, and Martin takes $7$ more than Dai. How many does Martin take?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of sweets Martin take $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Sweets Martin take}                               &= \text{Total sweets} - \text{Sweets Dai take} \\\\
-a                                                       &= 65 - (a - 7) \\\\
-a                                                       &= 65 - a + 7 \\\\
-a + a                                                   &= 65 + 7 \\\\
-2a                                                      &= 72 \\\\
-a                                                       &= \dfrac {72} {2} \\\\
-a                                                       &= \dfrac {2 \times 36} {2} \\\\
-a                                                       &= \dfrac {\cancel{2} \times 36} {\cancel{2}} \\\\
-a                                                       &= 36
-\end{aligned}
-$
-
-Number of sweets Martin take $= 36$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>7025FD21-D901-49E5-BD69-BFFDCA9D731C</p>
@@ -7469,13 +7331,9 @@ How many balloons are blue?
 
 Let the number of red balloons $= a$
 
-The number of green balloons $= 3a$
-
-The number of blue balloons $= 2 \times 3a = 6a$
-
 $
 \begin{aligned}
-\text{Blue balloons} + text{Green balloons} + \text{Red balloons}           &= \text{Total balloons} \\\\
+\text{Blue} + text{Green} + \text{Red}                                      &= \text{Total balloons} \\\\
 6a + 3a + a                                                                 &= 40 \\\\
 10a                                                                         &= 40 \\\\
 a                                                                           &= \dfrac {40} {10} \\\\
@@ -7484,15 +7342,12 @@ a                                                                           &= 4
 \end{aligned}
 $
 
-Number of red balloons $= 4$
-
-Let's find the number of blue balloons
-
 $
 \begin{aligned}
-&= 6a \\\\
-&= 6 \times 4 \\\\
-&= 24
+\text{Number of red balloons}                        &= 4 \\\\
+\text{Number of blue balloons}                       &= 6 \times a \\\\
+                                                     &= 6 \times 4 \\\\
+                                                    &= 24
 \end{aligned}
 $
 
@@ -7503,7 +7358,7 @@ The number of blue balloons are $= 24$
 <div class='answers'>
 <div class='answer'>
 
-$24$
+$24 \ \text{Balloons}$
 
 </div>
 </div>
@@ -10716,119 +10571,6 @@ $9$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>580C4232-E3E9-45F3-9E28-CF2700B10FA3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A number is multiplied by $100$ to give $2030$.
-
-What is the number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 100 &= 2030 \\\\
-a            &= \dfrac {2030} {100} \\\\
-a            &= 20.3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20.3$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>53762856-3EC8-489C-8BC4-5F21432EF753</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Caley starts with a number, doubles it and then subtracts $7$.
-
-The result is $31$.
-
-What number did Caley start with?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-2 \times a - 7 &= 31 \\\\
-2 a            &= 31 + 7 \\\\
-2 a            &= 38 \\\\
-a              &= \dfrac {38} {2} \\\\
-a              &= \dfrac {19 \times 2} {2} \\\\
-a              &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
-a              &= 19
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -16897,7 +16639,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>33FD2E24-6D5F-48B6-8104-E7A1C7EBD9B0</p>
 </div>
@@ -16918,7 +16660,7 @@ If he gets the answer $105$ what number did he start with and what answer should
 <div class='workings'>
 <div class='working'>
 
-Let the number = $a$
+Let the number $= a$
 
 As per the question, Simon by mistake multiplies by $3$ and adds $15$.
 
@@ -16935,9 +16677,15 @@ a                           &= 30
 \end{aligned}
 $
 
-The number = $30$
+The number he started with $= 30$
 
-Correct answer = $(30 + 15) \times 3 = 45 \times 3 = 135$
+$
+\begin{aligned}
+\text {The answer he should have obtained}  &= (30 + 15) \times 3 \\\\
+                                            &= 45 \times 3 \\\\
+                                            &= 135
+\end{aligned}
+$
 
 </div>
 </div>
@@ -16953,7 +16701,7 @@ $30, 135$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

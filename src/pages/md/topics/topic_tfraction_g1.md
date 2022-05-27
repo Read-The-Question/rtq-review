@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-g1"
 title: "Topic - Fraction - G1"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -7899,6 +7899,123 @@ $0.06$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>1B5D8F8D-C8DE-4749-80CE-805DE7791F8B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $\text{one seventh of 280}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \text{one seventh of 280} \\\\
+&= \dfrac {1} {7} \ \text{of} \ 280 \\\\
+&= \dfrac {1} {7} \times 280 \\\\
+&= \dfrac {1 \times 280} {7} \\\\
+&= \dfrac {7 \times 40} {7} \\\\
+&= \dfrac {\cancel{7} \times 40} {\cancel{7}} \\\\
+&= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use your answer to find $\text{four sevenths of 280}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using previous answer
+
+$
+\begin{aligned}
+&= \dfrac {4} {7} \ \text{of} \ 280 \\\\
+&= \dfrac {4} {7} \times 280 \\\\
+&= 4 \times \dfrac {1} {7} \times 280 \\\\
+&= 4 \times 40 \\\\
+&= 160
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$160$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>2FBBFEB4-886D-4E5F-A72B-7176F96FCF55</p>
 </div>
 <div class='topics'>
@@ -10505,6 +10622,61 @@ $
 <div class='answer'>
 
 $4 \dfrac {2} {5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>27EFB859-4E01-4629-9090-039B54CC9BF6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a Tennis club $\dfrac {1} {9}$ of the players are left handed.
+                 
+There are three times as many players who wear glasses as there are who are left handed. What fraction of the players wear glasses? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Fraction wearing glasses}          &= 3 \times  \text{Left-handed players} \\\\
+                                          &= 3 \times \dfrac {1}{9} \\\\
+                                          &= \dfrac {3 \times 1} {9} \\\\
+                                          &= \dfrac {3 \times 1} {3 \times 3} \\\\
+                                          &= \dfrac {\cancel{3} \times 1} {\cancel{3} \times 3} \\\\
+                                          &= \dfrac {1} {3}
+\end{aligned}
+$
+
+The fraction of players wearing glasses $= \dfrac {1} {3}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}$
 
 </div>
 </div>

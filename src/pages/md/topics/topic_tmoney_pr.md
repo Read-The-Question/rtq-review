@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-pr"
 title: "Topic - Money - PR"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4869,209 +4869,6 @@ $\pounds 2.88$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>A1C5A3A8-776A-4AE7-A826-842521976016</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $10\%$ of $\pounds 250$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 10\% \ \text{of} \ \pounds 250 \\\\
-&= 10\% \times 250 \\\\
-&= \dfrac {10} {100} \times 250 \\\\
-&= \dfrac {10 \times 250} {100} \\\\
-&= \dfrac {1 \cancel{0} \times 25 \cancel{0}} {1 \cancel{00}} \\\\
-&= \pounds 25
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 25$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $5\%$ of $\pounds 250$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using previous answer,
-
-$
-\begin{aligned}
-&= 5\% \ \text{of} \ \pounds 250 \\\\
-&= 5\% \times 250 \\\\
-&= \dfrac {10\%} {2} \times 250 \\\\
-&= \dfrac {10\% \times 250} {2} \\\\
-&= \dfrac {25} {2} \\\\
-&= 12 \dfrac {1} {2} \\\\
-&= \pounds 12.50
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 12.50$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $2 1/2\%$ of $\pounds 250$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using previous answer,
-
-$
-\begin{aligned}
-&= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
-&= 2 \dfrac {1} {2}\% \times 250 \\\\
-&= \dfrac {5} {2}\% \times 250 \\\\
-&= \dfrac {5\% \times 250} {2} \\\\
-&= \dfrac {12.5} {2} \\\\
-&= \dfrac {125} {20} \\\\
-&= \dfrac {25 \times 5} {4 \times 5} \\\\
-&= \dfrac {25 \times \cancel{5}} {4 \times \cancel{5}} \\\\
-&= \dfrac {25} {4} \\\\
-&= \pounds 6.25
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 6.25$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Use your answers to find $17 \dfrac {1} {2}\%$ of $\pounds 250$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using previous answers,
-
-$
-\begin{aligned}
-&= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
-&= 17 \dfrac {1} {2}\% \times 250 \\\\
-&= (10 + 5 + 2 \dfrac {1} {2}) \% \times 250 \\\\
-&= 10\% \ \text{of} \ \pounds 250 + 5\% \ \text{of} \ \pounds 250 + 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 250 \\\\
-&= 25 + 12.5 + 6.25 \\\\
-&= \pounds 43.75
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 43.75$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>B474E464-5AEF-419A-9B3D-08581A43D0DE</p>
 </div>
 <div class='topics'>
@@ -5089,17 +4886,15 @@ On holiday last year Phil bought $10$ post cards at $45 \text{p}$ each and $10\ 
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - (10 \times \text{Cost (Post cards)} + 10 \times \text{Cost (Second class stamp)}) \\\\
-                                                &= \pounds 10 - (10 \times 45 \text{p} + 10 \times 27 \text{p}) \\\\
-                                                &= \pounds 10 - (450 \text{p} + 270 \text{p}) \\\\
-                                                &= \pounds 10 - 720\text{p} \\\\
-                                                &= \pounds 10 - \pounds \dfrac {720} {100} \\\\
-                                                &= 10 - \dfrac {72 \cancel{0}} {10 \cancel{0}} \\\\
-                                                &= 10 - \dfrac {72} {10} \\\\
-                                                &= 10 - 7.2 \\\\
-                                                &= \pounds 2.8
+\text{Change he will get}                       &= \text{Total money} - 10 \times \text{Cost of postcard} - 10 \times \text{Cost of stamp} \\\\
+                                                &= \pounds 10 - 10 \times 45 \text{p} - 10 \times 27 \text{p} \\\\
+                                                &= \pounds 10 - \pounds \dfrac {450} {100} - \pounds \dfrac {270} {100} \\\\
+                                                &= \pounds 10 - \pounds 4.50 - \pounds 2.70 \\\\
+                                                &= \pounds 2.80
 \end{aligned}
 $
 
@@ -5108,7 +4903,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.8$
+$\pounds 2.80$
 
 </div>
 </div>

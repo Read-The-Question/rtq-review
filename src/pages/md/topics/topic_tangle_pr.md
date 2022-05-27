@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-pr"
 title: "Topic - Angle - PR"
-date: 2022-05-26 20:06:10
+date: 2022-05-27 04:53:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1907,58 +1907,6 @@ $75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>F2C47797-13C0-4FDF-AA9D-ED17BA456CC4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the value of $𝑥$ in the triangle shown.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know, the sum of angles in a triangle is $180 \degree$
-
-As per the diagram,
-
-$
-\begin{aligned}
-90 \degree + 35 \degree + x \degree      &= 180 \degree \\\\
-x                                        &= 180 - 90 - 35 \\\\
-x                                        &= 55 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$55 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>6F88E47C-D07C-48F0-9094-F886FF0D2CFA</p>
@@ -2241,121 +2189,6 @@ $
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>338F96DE-9214-4EE9-A056-D7F61969FCBE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg) 
-
-The angles in a triangle always add up to $180 \degree$ . In the triangle shown above angle $a \degree$ is three times as big as angle $b \degree$ and angle $b \degree$ is twice as large as angle $c \degree$. Find the angle $d \degree$ shown in the diagram.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-We know that the sum of all angles of a triangle is $180 \degree$.
-
-$
-\begin{aligned}
-a + b + c                                     &= 180 \\\\
-3 (2c)+ 2c + c                                &= 180 \\\\
-6c+ 2c + c                                    &= 180 \\\\
-9c                                            &= 180 \\\\
-c                                             &= \dfrac {180} {9} \\\\
-c                                             &= \dfrac {9 \times 20} {9} \\\\
-c                                             &= \dfrac {\cancel{9} \times 20} {\cancel{9}} \\\\
-c                                             &= 20 \degree
-\end{aligned}
-$
-
-Let's find angle $b$
-
-$
-\begin{aligned}
-b                                             &= 2 \times c \\\\
-b                                             &= 2 \times 20 \\\\
-b                                             &= 40
-\end{aligned}
-$
-
-We know that the sum of angles on a straight line is $180 \degree$. 
-
-$
-\begin{aligned}
-b + d                                         &= 180 \\\\
-40 + d                                        &= 180 \\\\
-d                                             &= 180 - 40 \\\\
-d                                             &= 140 \degree
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Alternative Solution
-
-We know that the sum of all angles of a triangle is $180 \degree$.
-
-As per the question,
-
-$
-\begin{aligned}
-a + b + c                                                                          &= 180 \\\\
-3b + b  + \dfrac {b}{2}                                                            &= 180 \\\\
-\dfrac {3b \times 2}{1 \times 2} + \dfrac {b \times 2}{1 \times 2} + \dfrac {b}{2} &= 180 \\\\
-\dfrac {6b}{2} + \dfrac {2b}{2} + \dfrac {b}{2}                                    &= 180 \\\\
-\dfrac {6b + 2b + b}{2}                                                            &= 180 \\\\
-\dfrac {9b}{2}                                                                     &= 180 \\\\  
-b                                                                                  &= \dfrac {180 \times 2} {9} \\\\
-b                                                                                  &= \dfrac {9 \times 20 \times 2} {9} \\\\
-b                                                                                  &= \dfrac {\cancel{9} \times 20 \times 2} {\cancel{9}} \\\\
-b                                                                                  &= 20 \times 2
-b                                                                                  &= 40 \degree
-\end{aligned}
-$
-
-
-We know that the sum of angles on a straight line is $180 \degree$.
-
-$
-\begin{aligned}
-b + d                                         &= 180 \\\\
-40 + d                                        &= 180 \\\\
-d                                             &= 180 - 40 \\\\
-d                                             &= 140 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$140 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
 </div>
 </div>
 </li>

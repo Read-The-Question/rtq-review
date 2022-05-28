@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nm-red"
 title: "Owner - Neeraj Mani - Red"
-date: 2022-05-28 13:42:11
+date: 2022-05-28 14:33:22
 ---
 <ul class='question default-decimal'>
 <li>

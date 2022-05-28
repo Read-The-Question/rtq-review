@@ -1,37 +1,24 @@
 ---
-slug: "topics/topic-tfactor-g2"
-title: "Topic - Factor - G2"
+slug: "reviewers/reviewer-ap-pr"
+title: "Reviewer - Anshruta Pandey - PR"
 date: 2022-05-28 14:33:22
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_ad_g2 question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>EA4D8FA1-CDB2-4F52-894E-2C891BA634A8</p>
+<p>7C2113F9-AB30-441B-B2AE-B6D84D249E3E</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tfactor
-</li>
-<li>
-tfraction
-</li>
-<li>
 tnumber
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Choose from this set of numbers:
-
-$11\:\:\:  12\:\:\:  13\:\:\:  14$  
-
-$15\:\:\:  16\:\:\:  17\:\:\:  18$
+Work out 
 
 </div>
 <div class='workings'>
@@ -57,20 +44,27 @@ $15\:\:\:  16\:\:\:  17\:\:\:  18$
 </div>
 <div class='question subquestion'>
 
-a square number
+$2717 + 1987$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$16$
+$
+\begin{array}{cccccccccccccc}
+    &   2   &   7   &   1   &   7 \\
+{}+ &   1   &   9   &   8   &   7 \\
+\hline
+    &   4   &   7   &   0   &   4 	
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$16$
+$4704$
 
 </div>
 </div>
@@ -85,20 +79,30 @@ $16$
 </div>
 <div class='question subquestion'>
 
-a multiple of $5$
+$63 \times 41$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$15$
+$
+\begin{array}{cccccccccccccc}
+            &       &           &   6   &   3 \\
+            &       &  \times   &   4   &   1 \\
+\hline
+            &       &           &   6   &   3 \\
+            &   2   &   5       &   2   &   0 \\
+\hline
+            &   2   &   5       &   8   &   3
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$15$
+$2583$
 
 </div>
 </div>
@@ -113,63 +117,7 @@ $15$
 </div>
 <div class='question subquestion'>
 
-three prime numbers
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$11 \ 13 \ 17$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11 \ 13 \ 17$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-two factors of $60$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$12 \ 15$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12 \ 15$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3\diagup4$ of $24$
+$8008 \div 13$
 
 </div>
 <div class='workings'>
@@ -177,11 +125,11 @@ $3\diagup4$ of $24$
 
 $
 \begin{aligned}
-&= \dfrac {3} {4} \ \text {of} \ 24 \\\\
-&= \dfrac {3} {4} \times 24 \\\\
-&= \dfrac {3 \times 24} {4} \\\\
-&= \dfrac {3 \times \cancel {4} \times 6} {\cancel {4}} \\\\
-&= 18
+8008 \div 13 \\\\
+&=  \dfrac{8008}{13} \\\\
+&=  \dfrac{616 \times 13}{13} \\\\
+&=  \dfrac{616 \times \cancel {13}}{\cancel {13}} \\\\
+&=   616
 \end{aligned}
 $
 
@@ -190,7 +138,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$18$
+$616$
 
 </div>
 </div>
@@ -205,8 +153,7 @@ $18$
 </div>
 <div class='question subquestion'>
 
-The two numbers which multiplied together will produce the
-largest product.
+$21\%$ of $426$
 
 </div>
 <div class='workings'>
@@ -214,8 +161,10 @@ largest product.
 
 $
 \begin{aligned}
-&= 17 \times 18 \\\\
-&= 306
+&= \dfrac {21} {100} \times 426 \% \\\\
+&= \dfrac {21 \times 426} {100} \\\\
+&= \dfrac {8946} {100} \\\\
+&= 89.46 
 \end{aligned}
 $
 
@@ -224,7 +173,80 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$306$
+$89.46$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{4}{7}-\dfrac{3}{5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {4} {7} - \dfrac {3} {5} \\\\
+&= \dfrac {4 \times 7} {7 \times 5} - \dfrac {3 \times 7} {5 \times 7} \\\\
+&= \dfrac {28} {35} - \dfrac {21} {35} \\\\
+&= \dfrac {28 - 21} {35} \\\\
+&= \dfrac {7} {35} \\\\
+&= \dfrac {1} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2\dfrac{1}{3} \times 3\dfrac{3}{7}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2\dfrac {1} {3} \times 3\dfrac {3} {7} \\\\
+&= \dfrac {7} {3} \times \dfrac {24} {7} \\\\
+&= \dfrac{7 \times 24} {3 \times 7} \\\\
+&= \dfrac{\cancel {7} \times 24} {3 \times \cancel{7}} \\\\
+&= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
 
 </div>
 </div>
@@ -233,10 +255,10 @@ $306$
 </li>
 </ul>
 <div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+<p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g2</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

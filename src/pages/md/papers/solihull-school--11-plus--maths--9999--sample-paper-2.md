@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-2"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-28 13:42:11
+date: 2022-05-28 14:33:22
 ---
 <div class='paper'>
 <h1>Solihull School</h1>

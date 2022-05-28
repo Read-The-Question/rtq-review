@@ -1,9 +1,554 @@
 ---
 slug: "reviewers/reviewer-jn-pr"
 title: "Reviewer - Jaishree Nair - PR"
-date: 2022-05-28 13:42:11
+date: 2022-05-28 14:33:22
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>497B0D73-E53D-490C-9D71-8CF4C974875D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing numbers in the number patterns.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$-2, \quad 5,  \quad 12,  \quad 19,  \quad 26,  \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+7)}} 
+&&  \footnotesize{\maroonC{(+7)}}  
+&&  \footnotesize{\maroonC{(+7)}}   
+&&  \footnotesize{\maroonC{(+7)}}   
+&&  \footnotesize{\maroonC{(+7)}}  \\
+-2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 26 + 7 \\\\
+                        &= 33
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$43,  \quad \ldots,  \quad 31,  \quad 25,  \quad 19,  \quad 13$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(-6)}} 
+&&  \footnotesize{\maroonC{(-6)}}  
+&&  \footnotesize{\maroonC{(-6)}}   
+&&  \footnotesize{\maroonC{(-6)}}   
+&&  \footnotesize{\maroonC{(-6)}}  \\
+43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 43 - 6 \\\\
+                        &= 37
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$37$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2,  \quad 5,  \quad 10,  \quad 17,  \quad \ldots,  \quad 37$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(3)}} 
+&&  \footnotesize{\maroonC{(5)}}  
+&&  \footnotesize{\maroonC{(7)}}   
+&&  \footnotesize{\maroonC{(9)}}   
+&&  \footnotesize{\maroonC{(11)}}  \\
+2,  &&    5,  &&  10,  &&   17,  &&  \ldots && 37
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 17 + 9 \\\\
+                        &= 26
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$26$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>E08043A3-1AF9-4DBF-86C5-BE917D72DCEF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing numbers in the sequences below. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$-8 \quad -3 \quad 2 \quad 7 \quad \ldots \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $5$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+5)}} 
+&&  \footnotesize{\maroonC{(+5)}}  
+&&  \footnotesize{\maroonC{(+5)}}   
+&&  \footnotesize{\maroonC{(+5)}}   
+&&  \footnotesize{\maroonC{(+5)}}  \\
+-8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 7 + 5 \\\\
+                                &= 12 \\\\
+\text{Second missing number}       &= 12 + 5 \\\\
+                                &= 17
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12, 17$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is decreasing $8$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(-8)}} 
+&&  \footnotesize{\maroonC{(-8)}}  
+&&  \footnotesize{\maroonC{(-8)}}   
+&&  \footnotesize{\maroonC{(-8)}}   
+&&  \footnotesize{\maroonC{(-8)}}  \\
+61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 53 - 8 \\\\
+                                &= 45 \\\\
+\text{Second missing number}       &= 37 - 8 \\\\
+                                &= 29
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45, 29$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$240 \quad 120 \quad \ldots \quad 30 \quad 15 \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(\div 2)}} 
+&&  \footnotesize{\maroonC{(\div 2)}}  
+&&  \footnotesize{\maroonC{(\div 2)}}   
+&&  \footnotesize{\maroonC{(\div 2)}}   
+&&  \footnotesize{\maroonC{(\div 2)}}  \\
+240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 120 \div 2 \\\\
+                                &= 60 \\\\
+\text{Second missing number}       &= 15 \div 2 \\\\
+                                &= 7.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60, 7.5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2C145610-ABC7-4EB3-BF0E-4516DEA62C12</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $235 \times 68$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+         &      &       &       2       & 3     & 5     \\
+{}\times &      &       &               & 6     & 8     \\
+\hline 
+         &       &  1    &       8       & 8     & 0     \\
+         &  1    &  4    &       1       & 0     & 0     \\
+\hline
+         &  1    &  5    &       9       & 8     & 0
+\end{array}
+
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15980$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>CB985892-807A-481A-863E-243A882E5ED9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$246 \times 28$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &   2   &   4   &   6 \\
+\times  &       &   2   &   8 \\
+\hline
+   1    &   9   &   6   &   8 \\
+   4    &   9   &   2   &   0 \\
+\hline
+   6    &   8   &   8   &   8
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6888$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2460 \div 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2460 \div 5 \\\\
+&= \dfrac {2460} {5} \\\\
+&= \dfrac {2460 \times 2} {5 \times 2} \\\\
+&= \dfrac {4920} {10} \\\\
+&= \dfrac {492\cancel{0}} {1\cancel{0}} \\\\
+&= 492
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$492$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
@@ -23298,6 +23843,601 @@ $56$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>698B11F8-9733-47E3-A64E-683A3E3D6D13</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The first two terms of a sequence are $1, 2$. 
+Each term after is the sum of all the previous terms in the sequence. 
+Which of these is not part of the sequence?
+
+- $3$
+- $6$
+- $24$
+- $50$
+- $96$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Let's find the difference between the consecutive terms of the sequence.
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+1)}} 
+&&  \footnotesize{\maroonC{(+2)}} 
+&&  \footnotesize{\maroonC{(+3)}}  
+&&  \footnotesize{\maroonC{(+6)}}
+&&  \footnotesize{\maroonC{(+12)}}
+&&  \footnotesize{\maroonC{(+24)}}  
+&&  \footnotesize{\maroonC{(+48)}}  \\
+1,  &&    2,  &&  \ldots,  &&   \ldots,  &&   \ldots   && \ldots   &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First  number}       &= 3 \\\\
+\text{Second  number}      &= 6 \\\\
+\text{third  number}       &= 12 \\\\
+\text{fourth  number}      &= 24 \\\\
+\text{fifth  number}       &= 48 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>6535F557-D651-4907-9B26-9B6E5BC0C1D5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the following sum
+
+%waffles%
+
+$1384 + 642$
+
+- $1026$
+- $2006$  
+- $2026$
+- $226$
+- $1926$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+     & 1   &  3    & 8    & 4  \\
+{}+  &     &  6    & 4    & 2 \\
+\hline
+    & 2    &  0    & 2    & 6
+\end{array} 
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$2026$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>40C6D51F-4323-450E-8F8E-0EB94069101F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $361 \times 13$.
+
+- $1344$
+- $833$
+- $1703$
+- $4693$
+- $1444$   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+            &       &       3       & 6     & 1     \\
+{}\times    &       &               & 1     & 3     \\
+\hline
+            &  1    &       0       & 8     & 3     \\
+            &  3    &       6       & 1     &0     \\
+\hline
+            &  4    &       6       & 9     & 3
+\end{array} 
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$4693$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>ED704D79-81D3-4EB7-A041-6E67CD5FE873</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$13, \quad 9, \quad 5, \quad 1, \quad -3, \quad \ldots$
+
+What are the next two numbers in the sequence?
+
+- $-1, -5$
+- $-6, -9$
+- $-8, -12$
+- $-7, -11$
+- $0, -4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is decreasing by $7$. Hence, the sequence would be
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(-4)}} 
+&&  \footnotesize{\maroonC{(-4)}}
+&&  \footnotesize{\maroonC{(-4)}}  
+&&  \footnotesize{\maroonC{(-4)}}   
+&&  \footnotesize{\maroonC{(-4)}}   
+&&  \footnotesize{\maroonC{(-4)}}  \\
+13,  &&    9,  &&  5,  &&   1,  &&   -3, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number }   &= -3 + -4 \\\\
+                        &= -7 \\\\\
+\text{Second number }   &= -7 + -4 \\\\
+                        &= -11                    
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$-7, -11$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the rule of the above sequence?
+
+- $4n - 17$
+- $17 - 4n$
+- $-7n + 13$
+- $5 - 3n$
+- $9n + 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The difference between the terms is decreasing by $4$. Hence, the rule of the above sequence would be:
+$17 - 4n$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$17 - 4n$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>516A8256-4FAD-4AF0-A7CC-7D00BB6B5147</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many prime numbers are there between $20$ and $30$?
+
+- $0$
+- $1$
+- $2$
+- $3$
+- $4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The prime numbers between 20 and 30 $=23 \  \text {and} 29$
+
+Number of prime numbers between $20$ and $30 = 2$"
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2B5548B0-4A90-4DCB-A9E3-58324AFEF5E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)  
+
+This is a magic square.  
+
+All the columns, rows and diagonals add up to $30$.  
+
+Several numbers have been missed out.
+
+What number replaces $B$?
+
+- $6$
+- $8$
+- $7$
+- $5$
+- $10$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per hte question,
+
+All the columns, rows and diagonals add up to $30$
+
+$
+\begin{aligned}
+\text{In diagonal let the missing number br 'C' then} \\\\
+9 + 10 + C &= 30 \\\\
+19 + C &= 30 \\\\
+C &= 30 - 19 \\\\
+C &= 11 \\\\
+\text{if C} &= 11 \text{then,} \\\\
+13 + B + 11 &= 30 \\\\
+24 + B &= 30 \\\\
+B &= 30 - 24 \\\\
+B &= 6 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>1BF5B2D6-98CF-4595-ACA4-62872303DF5D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number replaces $A$?
+
+- $12$ 
+- $13$  
+- $14$
+- $15$
+- $16$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per hte question,
+
+All the columns, rows and diagonals add up to $30$
+
+$
+\begin{aligned}
+A + 10 + B &= 30 \\\\
+\text{the value of B} &= 6 \\\\
+A + 10 + B &= 30 \\\\
+A + 10 + 6 &= 30 \\\\
+A          &= 30 -10 -6 \\\\
+A          &= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>H</p>
+</div>
+<div class='answer'>
+
+$A = 14$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>21F86FF9-737E-4AF5-8F7F-6D8695AFFE38</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A number of shapes have been made with matches.
+
+For this pattern:
+
+![missing image](/papers/missing_image.svg)
+
+How many matches will be in the $4 \text{th}$ shape?
+
+- $26$
+- $18$  
+- $24$   
+- $20$  
+- $22$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The given pattern follow an arthemetic progression 
+
+$6$ matches increase $1$ on next one
+
+$ a = 4 , n = 4 , d = 6 $
+
+$
+\begin{aligned}
+\text{The arthemetic progression} \\\\
+a_4 &= a + (n-1)d \\\\
+&= 4 + (4-1) \times 6 \\\\
+&= 4 + 3 \times 6 \\\\
+&= 4 + 18 \\\\
+&= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>Q</p>
+</div>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>4BE31404-8368-4FC0-AD60-34110662E9C4</p>
@@ -24150,6 +25290,412 @@ $250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.5
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>D3586240-8AF8-4DFE-9B41-8E2CAD789B2F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add these two numbers together:
+
+Ten thousand and thirty four and
+
+Three thousand nine hundred and sixty eight
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &    1    &    0    &    0    &    3    &    4 \\
+{}+        &    &    3    &    9    &    6    &    8 \\
+\hline
+    &    1    &    4    &    0    &    0    &    2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14002$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>F46BD077-5724-4B71-BA48-162435F7D628</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$7004 - 358$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &    7    &    0    &    0    &    4 \\
+{}-    &        &    3    &    5    &    8 \\
+\hline
+    &    6    &    6    &    4    &    6
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6646$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>01FADDAD-8EFA-4AE9-B369-FC2FBAFE48DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Multiply $34$ by $17$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &    3    &    4 \\
+\times    &    1    &    7 \\
+\hline
+    2    &    3    &    8 \\
+    3    &    4    &    0 \\
+\hline
+    5    &    7    &    8
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$578$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>6532C137-9071-4123-8B77-BEABFCDB3BC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. 
+
+$
+\begin{aligned}
+&= 3.2 \text{m} - 30 \ \text{cm} \\\\
+&= 3.2 \times 100 \ \text{cm} - 30 \ \text{cm} \\\\
+&= 320  - 30  \\\\
+&= 290  \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$290  \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedsubtraction
+</li>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put the correct number in the empty box.
+
+
+$\boxed { \phantom{20} } - 8 = 4 \times 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\boxed { \green{20} } - 8 = 4 \times 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>FFAD2427-919C-438B-9726-234F1F3EA395</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$
+\begin{array}{cccccccccccccc}
+    &    2    &    4    &    1    &    5    &    3 \\
+{}+    &        &    3    &    2    &    7    &    4 \\
+\hline \\
+\hline
+\end{array}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &    2    &    4    &    1    &    5    &    3 \\
+{}+    &        &    3    &    2    &    7    &    4 \\
+\hline
+    &    2    &    7    &    4    &    2    &    7
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27427$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>48CC7C13-DA2B-4CE6-A050-04C92A669FCA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$
+\begin{array}{cccccccccccccc}
+          &    5    &    1    &    3    &    7 \\
+\times    &         &         &         &    8 \\
+\hline \\
+\hline
+\end{array}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+          &    5    &    1    &    3    &    7 \\
+\times    &         &         &         &    8 \\
+\hline
+4        &    1    &    0    &    9    &    6
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$41096$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>7E1A8AB3-C593-4477-9220-607D3E76FDBE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedsubtraction
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the difference between $2.7 \ \text{metres}$ and $32 \ \text{centimetres}$.
+
+Give your answer in metres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. 
+
+$
+\begin{aligned}
+&= 2.7 \text{m} - 30 \ \text{cm} \\\\
+&= \dfrac{30}{100} \text{m} \\\\
+&= 2.7 \text{m} - 0.3 \text{m} \\\\
+&= 2.7  - 0.3  \\\\
+&= 2.4 \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.4 \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-nj-pr"
 title: "Reviewer - Nitin Joshi - PR"
-date: 2022-05-28 13:42:11
+date: 2022-05-28 14:33:22
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1658,6 +1658,63 @@ $46$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $148 + 476$?
+
+A: $514$
+
+B: $524$
+
+C: $614$
+
+D: $624$
+
+E: $634$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        & 1  & 4 & 8 \\
+    {}+ & 4  & 7 & 6 \\
+    \hline
+        & 6 & 2 & 4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+&624$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

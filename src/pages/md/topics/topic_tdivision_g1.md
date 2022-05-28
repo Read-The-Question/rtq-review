@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-g1"
 title: "Topic - Division - G1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -214,7 +214,7 @@ $\pounds 1.720$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -241,7 +241,7 @@ You may show your working or work them out in your head.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -602,7 +602,7 @@ $63$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -628,7 +628,7 @@ Complete these calculations by writing a number in the box
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -913,13 +913,13 @@ $13$
 tdecimal
 </li>
 <li>
-taddition
+tdetailedaddition
 </li>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -945,7 +945,7 @@ Find the value of each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

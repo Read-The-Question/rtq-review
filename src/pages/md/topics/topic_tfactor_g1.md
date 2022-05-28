@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-g1"
 title: "Topic - Factor - G1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -303,6 +303,77 @@ $30, 10, 3$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>E0DF26E4-1A30-4BCD-84C9-1C135AACA602</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttrialerror
+</li>
+<li>
+tfactor
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sarah has theses digits cards:
+
+$\boxed{5} \quad \boxed{2} \quad \boxed{4}$
+
+She makes a $2$-digit number and $1$-digit number using all the cards.
+She multiplies them together.
+Her answer is the multiple of $3$.
+
+Which of the following could NOT be a possible answer?
+
+-  $25 \times 4$
+-  $42 \times 5$
+-  $54 \times 2$
+-  $24 \times 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
+
+| Number    |         Sum                                           | Divisible $3$
+|:------:   |:----------------------------------------------------: | :-----:
+|  $25$     | $2 + 5 = \green{7}$                                   |  No
+|  $42$     | $4 + 2 = \red{6}$                                     |  Yes
+|  $54$     | $5 + 4 = \red{9}$                                     |  Yes
+|  $24$     | $2 + 4 = \red{6}$                                     |  Yes
+
+The answer that could not be possible $= 25 \times 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$25 \times 4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>601C328B-929D-4CC4-9443-D89375DA371E</p>
 </div>
 <div class='topics'>
@@ -330,10 +401,10 @@ Which of this calculation produces a multiple of $5$?
 
 $
 \begin{aligned}
-&\text {A.} \quad   1 + 2 \times 3 + 4 &= 11 \not = {\text{multiple of}} \ 5 \\\\
-&\text {B.} \quad   1 \times 2 + 3 \times 4 &= 14 \not = {\text{multiple of}} \ 5 \\\\
-&\text {C.} \quad   1 + 2 \times 3 \times 4 &= 25 = {\text{multiple of}} \ 5 \\\\
-&\text {D.} \quad   1 \times 2 \times 3 \times 4 &= 24 \not = {\text{multiple of}} \ 5
+&\text {a.} \quad   1 + 2 \times 3 + 4 &= 11 \not = {\text{multiple of}} \ 5 \\\\
+&\text {b.} \quad   1 \times 2 + 3 \times 4 &= 14 \not = {\text{multiple of}} \ 5 \\\\
+&\text {c.} \quad   1 + 2 \times 3 \times 4 &= 25 = {\text{multiple of}} \ 5 \\\\
+&\text {d.} \quad   1 \times 2 \times 3 \times 4 &= 24 \not = {\text{multiple of}} \ 5
 \end{aligned}
 $
 
@@ -399,7 +470,7 @@ From the numbers in the list, write down:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -611,7 +682,7 @@ Write down any of these numbers which are:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -853,7 +924,7 @@ Write down, in ascending order, the factors of the following numbers.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -953,7 +1024,7 @@ Write down the prime factorisation of the following numbers
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1022,6 +1093,119 @@ $2 \times 3 \times 5 \times 5$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>00B5F39E-C744-444A-A565-D57BCA594277</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the biggest number that divides into $14, 35,$ and $42$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To find the biggest number that divides exactly into $14$, $35$, and $42$, we need to find the highest common factor of the three numbers.
+
+$
+\begin{aligned}
+\text {Prime factors of} \ 14 &= 2 \times \bold{7} \\\\
+\text {Prime factors of} \ 35 &= 5 \times \bold{7} \\\\
+\text {Prime factors of} \ 42 &= 2 \times 3 \times \bold{7}
+\end{aligned}
+$
+
+Highest common factor of $14$, $35$ and $42=7$
+
+The biggest number that divides exactly into $14$, $35$, and $42=7$
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>0EC15166-4610-4A6E-9117-A2461D762D1D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the biggest number that divides into $16, 32,$ and $56$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To find the biggest number that divides exactly into $16$, $32$, and $56$, we need to find the highest common factor of the three numbers.
+
+$
+\begin{aligned}
+\text {Prime factors of} \ 16 &= 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime factors of} \ 32 &= 2 \times 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime factors of} \ 56 &= \bold{2 \times 2 \times 2} \times 7
+\end{aligned}
+$
+
+Highest common factor of $16$, $32$ and $56$
+
+$
+\begin{aligned}
+&= 2 \times 2 \times 2  \\\\
+&= 8
+\end{aligned}
+$
+
+The biggest number that divides exactly into $16$, $32$, and $56=8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>91FE409B-1661-46BC-A704-FA8A43CF6F5C</p>
 </div>
 <div class='topics'>
@@ -1050,7 +1234,7 @@ tfactor
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1250,7 +1434,7 @@ $1 \,\,\,\,\, 5 \,\,\,\,\, 8 \,\,\,\,\, 9 \,\,\,\,\, 17 \,\,\,\,\, 23 \,\,\,\,\,
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1457,7 +1641,7 @@ tfactor
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1682,7 +1866,7 @@ From the numbers above, write down:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2315,7 +2499,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2542,7 +2726,7 @@ In the questions that follow, *choosing from Cameron’s cards*, write numbers o
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2727,7 +2911,7 @@ Choose from this set of numbers
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

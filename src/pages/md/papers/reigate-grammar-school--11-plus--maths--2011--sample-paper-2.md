@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -68,7 +68,7 @@ $3010$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -122,7 +122,7 @@ $1012$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -188,7 +188,7 @@ $22121$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -237,7 +237,7 @@ $22.121$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -284,7 +284,7 @@ $216$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -336,7 +336,7 @@ $216000$
 tdecimal
 </li>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -388,7 +388,7 @@ $20.2$
 tdecimal
 </li>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -440,7 +440,7 @@ $21.01$
 tdecimal
 </li>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -517,7 +517,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -680,7 +680,7 @@ Use this answer to find
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -799,7 +799,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -926,15 +926,15 @@ Let's put them in decending order now.
 
 $
 \begin{aligned}
-&= \dfrac {48} {120}, \quad \dfrac {45} {120}, \quad \dfrac {40}{120} \\\\
-&= \dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}
+&= \dfrac {48} {120}> \quad \dfrac {45} {120}> \quad \dfrac {40}{120} \\\\
+&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {1} {3}
 \end{aligned}
 $
 
 </div>
 <div class='working'>
 
-Alternative Solution
+Alternative solution
 
 If two or more fraction has common numerator then fraction with smallest denominator is the largest.
 
@@ -950,8 +950,8 @@ Let's put them in decending order now.
 
 $
 \begin{aligned}
-&= \dfrac {6} {15}, \quad \dfrac {6} {16}, \quad \dfrac {6}{18} \\\\
-&= \dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}
+&= \dfrac {6} {15}> \quad \dfrac {6} {16}> \quad \dfrac {6}{18} \\\\
+&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -1004,7 +1004,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1117,6 +1117,7 @@ Find five eighths of $408 \text{p}$
 
 $
 \begin{aligned}
+&= \text[five eighths of} \ 408 \text{p} \\\\
 &= \dfrac {5} {8} \ \text{of} \ 408 \text{p} \\\\
 &= \dfrac {5} {8} \times 408 \text{p} \\\\
 &= \dfrac {5 \times 408} {8} \\\\
@@ -1220,7 +1221,7 @@ What is the smallest number that $2, 3$ and $4$ all divide into exactly?
 
 LCM of $2$, $3$ and $4 = 12$.
 
-Hence, 12 is the smallest number that $2, 3$ and $4$ all divide into exactly.
+The smallest number that 2, 3 and 4 all divide into exactly  $= 12$
 
 </div>
 </div>
@@ -1241,7 +1242,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_amber question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>A5348D26-A0E4-42B9-BBF8-248FF7506613</p>
 </div>
@@ -1274,7 +1275,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1289,23 +1290,14 @@ Write down a $\underline{fraction}$ between $0.5$ and $0.6$
 <div class='workings'>
 <div class='working'>
 
-We will first convert the given decimals into fractions.
+Half-way between two numbers is the same as finding the average of two numbers.
 
 $
 \begin{aligned}
-&= 0.5 , \ 0.6 \\\\
-&= \dfrac {5} {10} , \ \dfrac {6} {10}
-\end{aligned}
-$
-
-Every fraction between $dfrac {5} {10}$ and $\dfrac {6} {10}$ lies between the given two decimals.
-
-$
-\begin{aligned}
-&= \dfrac {5} {10} + \dfrac {1} {100} \\\\
-&= \dfrac {5 \times 10} {10 \times 10} + \dfrac {1} {100} \\\\
-&= \dfrac {50} {100} + \dfrac {1} {100} \\\\
-&= \dfrac {51} {100}
+&= \dfrac {0.5 + 0.6} {2} \\\\
+&= \dfrac {1.1} {2} \\\\
+&= \dfrac {1.1 \times 10} {2 \times 10} \\\\
+&= \dfrac {11} {20}
 \end{aligned}
 $
 
@@ -1314,7 +1306,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {51} {100}$
+$\dfrac {11} {20}$
 
 </div>
 </div>
@@ -1335,24 +1327,17 @@ Write down a $\underline{decimal}$ between $\dfrac{3}{4}$ and $1$
 <div class='workings'>
 <div class='working'>
 
-We will first convert the given fractions into decimals.
+Half-way between two numbers is the same as finding the average of two numbers.
 
 $
 \begin{aligned}
-&= \dfrac {3} {4} , \ \dfrac {1} {1} \\\\
-&= \dfrac {3 \times } {4} , \ \dfrac {1} {1} \\\\
-&= 0.5 , \ 0.6 
-\end{aligned}
-$
-
-Every fraction between $dfrac {5} {10}$ and $\dfrac {6} {10}$ lies between the given two decimals.
-
-$
-\begin{aligned}
-&= \dfrac {5} {10} + \dfrac {1} {100} \\\\
-&= \dfrac {5 \times 10} {10 \times 10} + \dfrac {1} {100} \\\\
-&= \dfrac {50} {100} + \dfrac {1} {100} \\\\
-&= \dfrac {51} {100}
+&= \dfrac {\dfrac {3} {4} + 1} {2}\\\\
+&= \dfrac {\dfrac {3} {4} + \dfrac {1 \times 4} {1 \times 4}} {2} \\\\
+&= \dfrac {\dfrac {3} {4} + \dfrac {4} {4}} {2} \\\\
+&= \dfrac {\dfrac {3 + 4} {4}}} {2} \\\\
+&= \dfrac {7} {4 \times 2} \\\\
+&= \dfrac {7} {8}\\\\
+&= 0.875
 \end{aligned}
 $
 
@@ -1361,7 +1346,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$0.875$
 
 </div>
 </div>
@@ -1373,7 +1358,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_amber</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -1439,7 +1424,6 @@ What is $\text{two thousand, four hundred and five plus one thousand, eight hund
 
 $
 \begin{aligned}
-&= \text{two thousand, four hundred and five plus one thousand, eight hundred and twenty seven} \\\\
 &= 2005 + 1827 \\\\
 &= 3832 \\\\
 &= \text{three thousand, eight hundred thirty two}
@@ -1505,7 +1489,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1613,12 +1597,9 @@ What fraction of this flag has been shaded? Give the fraction as simply as possi
 <div class='workings'>
 <div class='working'>
 
-If we look at the flag, we can see that $9$ portions have been shaded and there are $24$ portions in total.
-
-The fraction that has been shaded $= \dfrac {9} {24}$
-
 $
 \begin{aligned}
+&= \dfrac {\text{Shaded portion}} {\text{Count of portions}} \\\\
 &= \dfrac {9} {24} \\\\
 &= \dfrac {3 \times 3} {8 times 3} \\\\
 &= \dfrac {3 \times \cancel{3}} {8 times \cancel{3}} \\\\
@@ -1926,7 +1907,7 @@ Change these fractions into decimals.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2199,7 +2180,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2387,7 +2368,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2559,7 +2540,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2845,7 +2826,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3023,7 +3004,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3240,7 +3221,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

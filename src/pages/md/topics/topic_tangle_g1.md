@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-g1"
 title: "Topic - Angle - G1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -114,7 +114,7 @@ tangle
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -971,7 +971,7 @@ The diagram shows a triangle and a line. The two angles marked $y \degree$ are e
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1100,7 +1100,7 @@ The diagram shows a triangle and a line. The two angles marked $y\degree$ are eq
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1218,20 +1218,20 @@ In this diagram what is the value of $x$?
 
 As we know, 
 
-The sum of angles of a triangle is $= 180 \degree$
+The sum of angles of a triangle is is $180 \degree$.
 
-Angles on straight line add up to $= 180 \degree$.
+Angles on straight line add up to is $180 \degree$.
 
-The circular measures an angle of $= 360 \degree$.
+The circular measure an angle of is $360 \degree$.
 
 As per the diagram,
 
 $
 \begin{aligned}
-x + ( 180 - 100 ) + ( 360 - 324 )              &= 180 \\\\
-x + 80 + 36                                    &= 180 \\\\
-x                                              &= 180 - 80 - 36 \\\\
-x                                              &= 64 \degree
+x \degree + (180 \degree - 100 \degree) + (360 \degree - 324 \degree)              &= 180 \degree \\\\
+x + 80 + 36                                                                        &= 180 \\\\
+x                                                                                  &= 180 - 80 - 36 \\\\
+x                                                                                  &= 64 \degree
 \end{aligned}
 $
 
@@ -1334,7 +1334,7 @@ Calculate the missing angles.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1525,7 +1525,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1579,7 +1579,7 @@ Showing your working, calculate the size of the angle:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -1703,7 +1703,7 @@ tangle
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1992,9 +1992,9 @@ As per the diagram,
 
 $
 \begin{aligned}
-110 + 100 + 75 + x            &= 360 \\\\
-x                             &= 360 - 110 - 100 - 75 \\\\
-x                             &= 75 \degree
+110 \degree + 100 \degree + 75 \degree + x \degree            &= 360 \degree \\\\
+x                                                             &= 360 - 110 - 100 - 75 \\\\
+x                                                             &= 75 \degree
 \end{aligned}
 $
 
@@ -2044,9 +2044,9 @@ As per the diagram,
 
 $
 \begin{aligned}
-80 + 60 + x              &= 180 \\\\
-x                        &= 180 - 80 - 60 \\\\
-x                        &= 40 \degree
+80 \degree + 60 \degree + x \degree              &= 180 \degree \\\\
+x                                                &= 180 - 80 - 60 \\\\
+x                                                &= 40 \degree
 \end{aligned}
 $
 
@@ -2088,9 +2088,7 @@ An equilateral triangle has three sides the same length. What is the size of one
 <div class='workings'>
 <div class='working'>
 
-An equilateral triangle has three sides the same length. Therefore, the three angles, opposite to the equal sides, are equal.
-
-We also know that the sum of all three angles of a triangle is $= 180 \degree$
+We know, in an equilateral triangle, the three angles opposite to the equal sides are equal and the sum is $180 \degree$.
 
 Let's take  an angle $= a$
 
@@ -2215,7 +2213,7 @@ Calculate the value of $x$ in each of the diagrams below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2518,7 +2516,7 @@ The   angles   of a  triangle add   up to **$180^\degree$**
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2652,7 +2650,7 @@ Look at these angles:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3034,7 +3032,7 @@ tangle
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

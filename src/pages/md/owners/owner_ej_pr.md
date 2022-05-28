@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-pr"
 title: "Owner - Eshudhi Jangid - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -35,7 +35,7 @@ tsymmetry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -193,7 +193,7 @@ and one ball is chosen at random.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -293,7 +293,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -580,7 +580,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -695,7 +695,7 @@ An approximate method   of deciding how   much  sleep a  young person   needs is
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -988,7 +988,7 @@ Write the next two numbers for each of the following sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1280,7 +1280,7 @@ I buy $22$ items which cost $\pounds 7.05$ each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1382,7 +1382,7 @@ I start watching a film at $6:55\,pm$ and turn the television off at $9:35\,pm$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1496,7 +1496,7 @@ Solve the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1622,7 +1622,7 @@ Write the next two numbers for each of the following sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1884,7 +1884,7 @@ Complete the spaces shown by dotted lines below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2026,7 +2026,7 @@ Write the name of the following shapes underneath them.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2185,7 +2185,7 @@ Look at the chart below which shows the number of vehicles of different types in
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2319,7 +2319,7 @@ Tickets for the zoo cost $\pounds 9.30$ for adults and $\pounds 6.40$ for childr
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2475,7 +2475,7 @@ Look at the grids below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2675,7 +2675,7 @@ Round each of the following numbers to the accuracy given in brackets.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2963,7 +2963,7 @@ $6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\, 53 \,\,\,\, 169$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3128,7 +3128,7 @@ Write the following numbers in words
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3226,7 +3226,7 @@ I buy 12 items which cost $\pounds 3.05$ each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3329,7 +3329,7 @@ A pencil is measured as $7.8\,cm$ long. How long is the pencil in these units,
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3488,7 +3488,7 @@ Solve the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3608,7 +3608,7 @@ Write the next two numbers for each of the following sequences
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3867,7 +3867,7 @@ Complete the spaces shown by dotted lines below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4004,7 +4004,7 @@ Write the name of the following 3-dimensional shapes underneath them.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4162,7 +4162,7 @@ Look at the chart below which shows the number of cars of different colours pass
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4301,7 +4301,7 @@ Look at the grids below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4500,7 +4500,7 @@ Round each of the following numbers to the accuracy given in brackets.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4678,7 +4678,7 @@ $6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\,  53 \,\,\,\, 96$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4914,7 +4914,7 @@ I buy 5 items which cost $\pounds 12.98$ each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5017,7 +5017,7 @@ I live $5.2\,km$ from Anfield.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5169,7 +5169,7 @@ A man starts work at $08:15$. He then has a break from $10:15$ to $10:35$. After
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5294,7 +5294,7 @@ Solve the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5412,7 +5412,7 @@ Write the next two numbers for each of the following sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5673,7 +5673,7 @@ Complete the spaces shown by dotted lines below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5854,7 +5854,7 @@ A number of Year $7$ pupils were asked to choose a favourite subject from a list
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5988,7 +5988,7 @@ Tickets for the zoo cost $\pounds 12.50$ for adults and $\pounds 8.00$ for child
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6137,7 +6137,7 @@ Round each of the following numbers to the accuracy given in brackets.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6406,7 +6406,7 @@ Write the following in order of size, smallest first
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6542,7 +6542,7 @@ Write down
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6946,131 +6946,6 @@ $35 cm^2$
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
-<p>C7288C8F-5D25-4733-9478-7992288F6CD7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is a rectangle.
-
-![missing image](/papers/missing_image.svg)
-
-All measurements on the diagram are in centimetres. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the value of $x$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-x - 1 &= 4 \\\\
-x     &= 4 + 1 \\\\
-x     &= 5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Here is a triangle.
-
-![missing image](/papers/missing_image.svg)
-
-Find the size of the angle marked $y$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-y + 2y + 3y &= 180 \degree \\\\
-6y          &= 180 \degree \\\\
-y           &= \dfrac {180} {6} \\\\
-y           &= \dfrac {30 \times 6} {6} \\\\
-y           &= \dfrac {30 \times \cancel {6} } {\cancel {6} } \\\\
-y           &= 30 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
 <p>66F3BB48-9E07-49F4-B6BC-D5FF57B45B59</p>
 </div>
 <div class='topics'>
@@ -7108,7 +6983,7 @@ She has one $50 \ \text{pence}$ coin, two $20 \ \text{pence}$ coins, one $5 \ \t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7208,7 +7083,7 @@ On the scale below, mark:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -7364,216 +7239,6 @@ $\text{Even chance}, \text{Certain}, \text{Even chance}$
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
-<p>D77A8B7B-174A-43B6-BD7A-E491EC6999DC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-ttime
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The lunch break at Harry's school lasts $60 \ \text{minutes}$.
-Harry spends $\dfrac{1}{3}$ of his lunch break eating his lunch.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many minutes does he spend eating lunch?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} \ \text {of} \ 60 \ \text{min} \\\\
-&= \dfrac {1} {3} \ \times 60 \\\\\
-&= \dfrac {60} {3} \\\\\
-&= \dfrac {20 \times 3} {3} \\\\\
-&= \dfrac {20 \times \cancel 3} {\cancel 3} \\\\\
-&= 20 \  \text {mins}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20 \ \text {mins}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-He spends $75\%$ of the remaining time playing with his friends.
-
-How long does he spend playing with his friends?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 75 \% \ \text {of} 20 \ \text {min} \\\\
-&= \dfrac {75} {100} \times 20 \\\\
-&= \dfrac {75} {10 \cancel 0} \times 2\ cancel 0 \\\\
-&= \dfrac {15 \times 5 \times 2} {5 \times 2} \\\\
-&= \dfrac {15 \times \cancel 5 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
-&= 15 \ \text {min}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15 \ \text {min}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What percentage of his total lunch break does Harry spend playing with his friends?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {15 \times 100} {100} \\\\
-&= 15 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Arrange these distances in size order, from smallest to largest.
-
-$250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 250 \ \text {m} \quad  0.52 \ \text {km}    \quad 0.5 \ \text {km} \quad 2.05 \ \text {km} \quad 502 \ \text {m} \\\\
-&= 250 \ \text {m} \quad  520 \ \text {m}    \quad 500 \ \text {m} \quad 2050 \ \text {m} \quad 502 \ \text {m} \\\\
-&= 250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
 <p>2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C</p>
 </div>
 <div class='topics'>
@@ -7602,7 +7267,7 @@ tangle
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

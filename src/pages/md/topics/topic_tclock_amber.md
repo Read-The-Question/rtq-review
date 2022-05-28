@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-amber"
 title: "Topic - Clock - Amber"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -41,7 +41,7 @@ tclock
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -199,7 +199,7 @@ My clock shows the following time. Both hours and minutes are multiples of 3, as
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -353,7 +353,7 @@ Work out the angle which the hour hand on a clock move through between
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

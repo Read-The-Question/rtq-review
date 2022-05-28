@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic B"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>

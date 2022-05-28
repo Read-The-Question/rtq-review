@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nm-g2"
 title: "Owner - Neeraj Mani - G2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -59,7 +59,7 @@ $833$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -106,7 +106,7 @@ $259$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -200,7 +200,7 @@ $312$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -247,7 +247,7 @@ $827$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -294,7 +294,7 @@ $259$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -341,7 +341,7 @@ $3258$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -388,7 +388,7 @@ $1002$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -435,7 +435,7 @@ $232$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -482,7 +482,7 @@ $3702$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -529,7 +529,7 @@ $1019$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -576,7 +576,7 @@ $164$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -623,7 +623,7 @@ $2737$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -671,7 +671,7 @@ $1267$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -770,7 +770,7 @@ $2.769$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -817,7 +817,7 @@ $2614$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -867,7 +867,7 @@ $2646$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -915,7 +915,7 @@ $425$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -962,7 +962,7 @@ $208$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1062,7 +1062,7 @@ $630$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -1109,7 +1109,7 @@ $6193$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -1156,7 +1156,7 @@ $1133$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1203,7 +1203,7 @@ $1768$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -1250,7 +1250,7 @@ $1582$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -1297,7 +1297,7 @@ $668$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1344,7 +1344,7 @@ $5348$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -1391,7 +1391,7 @@ $983$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -1438,7 +1438,7 @@ $82$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1485,7 +1485,7 @@ $2628$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -1532,7 +1532,7 @@ $994$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1579,7 +1579,7 @@ $1968$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -1629,7 +1629,7 @@ $1020$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -1678,7 +1678,7 @@ $166$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -1728,7 +1728,7 @@ $1130$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -1777,7 +1777,7 @@ $487$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/halifax-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Halifax Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Halifax Grammar School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>

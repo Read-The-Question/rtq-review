@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -68,7 +68,7 @@ $153$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -115,7 +115,7 @@ $56$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -505,7 +505,7 @@ Continue the sequences, giving the next two numbers each time :
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -743,7 +743,7 @@ Find the missing numbers:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1050,7 +1050,7 @@ You are told that $22 \times 46 = 1012$. Use this fact to write down the answers
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>King Henry VIII School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nc_g1 question'>
 <div class='uuid'>
@@ -44,7 +44,7 @@ Complete the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -267,7 +267,7 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -314,7 +314,7 @@ $847$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -361,7 +361,7 @@ $352$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -408,7 +408,7 @@ $247$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -455,7 +455,7 @@ $1725$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -594,7 +594,7 @@ $53$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -644,7 +644,10 @@ $3074$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
+</li>
+<li>
+tdecimal
 </li>
 </ul>
 </div>
@@ -691,7 +694,7 @@ $11.021$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tdecimal
@@ -804,14 +807,14 @@ Write the time in $24 \ \text{hour}$ clock
 <div class='workings'>
 <div class='working'>
 
-$15 {:} 35 \ \text {p.m.}$
+$15 {:} 35$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$15 {:} 35 \ \text {p.m.}$
+$15 {:} 35$
 
 </div>
 </div>
@@ -843,6 +846,8 @@ Eadie’s favourite television programme started $1 \ \text{hour}$ and $15 \ \te
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin {aligned}
@@ -893,7 +898,7 @@ Eadie has to catch a train at $1710$. How long does she have before the train le
 $
 \begin {aligned}
 \text {Time she have before train leaves}  &= \text {Time to catch the train} - \text {Time on clock} \\\\
-                                           &= 17 {:} 10 \ \text {p.m.} - 15 {:} 35 \ \text {p.m.} \\\\
+                                           &= 17 {:} 10 - 15 {:} 35 \\\\
                                            &= 1 \ \text {hour} \ 35 \ \text {minutes}
 \end {aligned}
 $
@@ -1560,7 +1565,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-taddition
+tnumber
 </li>
 </ul>
 </div>
@@ -1613,7 +1618,7 @@ $120$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -1663,7 +1668,7 @@ $111$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -2115,9 +2120,13 @@ Bill is twice as old as his son, who is $50$ years younger than Bill’s father.
 <div class='workings'>
 <div class='working'>
 
-Let Bill’s father age $= a$.
+Let Bill’s father age $= a$
 
 As per the question,
+
+Bill’s son age $= a - 50$
+
+Bill’s age $= 2 \times (a - 50)$
 
 $
 \begin {aligned}

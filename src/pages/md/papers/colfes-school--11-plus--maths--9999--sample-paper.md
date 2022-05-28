@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Colfe's School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -69,7 +69,7 @@ $724$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -116,7 +116,7 @@ $3679$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -774,7 +774,7 @@ Write down the next two numbers in each sequence
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -994,7 +994,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1149,7 +1149,7 @@ Write each list of numbers in order from smallest to largest
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1395,7 +1395,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1560,7 +1560,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1806,7 +1806,7 @@ In this formula $a$ stands for the number of adults and $k$ stands for the numbe
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1889,11 +1889,6 @@ Children $= 3$
 %empty%
 
 </div>
-<div class='answer'>
-
-%empty%
-
-</div>
 </div>
 
 </div>
@@ -1938,7 +1933,7 @@ Work out the value of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2118,7 +2113,7 @@ Solve each equation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2273,7 +2268,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2295,12 +2290,12 @@ As per the question,
 $
 \begin {aligned}
 \text {Perimeter of the square}  &= 32 \ \text {cm} \\\\
-4a                               &= 32 \\\\
+4 \times a                       &= 32 \\\\
 a                                &= \dfrac {32} {4} \\\\
 a                                &= \dfrac {8 \times 4} {4} \\\\
 a                                &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
 a                                &= 8 \ \text {cm} \\\\
-\text {Area of the square}       &= a ^ 2 \\\\
+\text {Area of the square}       &= \text {Side} \times \text {Side} \\\\
                                  &= a \times a \\\\
                                  &= 8 \times 8 \\\\
                                  &= 64 \ \text {cm} ^ 2
@@ -2335,24 +2330,24 @@ A rectangle has perimeter $32 \ \text{cm}$. The rectangle is three times as long
 
 Let the width of the rectangle $= w$.
 
-Length of the rectangle $= 3w$.
-
 As per the question,
+
+Length of the rectangle $= 3 \times w$.
 
 $
 \begin {aligned}
-\text {Perimeter of the rectangle}  &= 32 \ \text {cm} \\\\
-2 \times (3w + w)                   &= 32 \\\\
-2 \times 4w                         &= 32 \\\\
-8w                                  &= 32 \\\\
-w                                   &= \dfrac {32} {8} \\\\
-w                                   &= \dfrac {4 \times 8} {8} \\\\
-w                                   &= \dfrac {4 \times \cancel {8}} {\cancel {8}} \\\\
-w                                   &= 4 \ \text {cm} \\\\
-\text {Area of the rectangle}       &= \text {length} \times \text {width} \\\\
-                                    &= (3 \times 4) \times 4 \\\\
-                                    &= 12 \times 4 \\\\
-                                    &= 48 \ \text {cm} ^ 2
+2 \times (\text {length} + \text {width})   &= \text {Perimeter of a rectangle} \\\\
+2 \times (3w + w)                           &= 32 \ \text {cm} \\\\
+2 \times 4w                                 &= 32 \\\\
+8w                                          &= 32 \\\\
+w                                           &= \dfrac {32} {8} \\\\
+w                                           &= \dfrac {4 \times 8} {8} \\\\
+w                                           &= \dfrac {4 \times \cancel {8}} {\cancel {8}} \\\\
+w                                           &= 4 \ \text {cm} \\\\
+\text {Area of the rectangle}               &= \text {length} \times \text {width} \\\\
+                                            &= (3 \times 4) \times 4 \\\\
+                                            &= 12 \times 4 \\\\
+                                            &= 48 \ \text {cm} ^ 2
 \end {aligned}
 $
 
@@ -2399,24 +2394,28 @@ How many tiles do I need to buy?
 <div class='workings'>
 <div class='working'>
 
+Area of a rectangle $=$ length $\times$ width
+
+It is really important to use the right units in calculations and convert where required.
+
+The floor measurement is given in meters and tile measurement is in centimetres.
+
+Let's convert all the measurements into meters.
+
 As per the question,
 
 $
 \begin {aligned}
-\text {Area of the floor}       &= \text {length} \times \text {width} \\\\
-                                &= 4 \ \text {metres} \times 3 \ \text {metres} \\\\
-                                &= 12 \ \text {metres} ^ 2 \\\\
-\text {Area of a tile}          &= 50 \ \text {centimetres} \times \ 25 \ \text {centimetres} \\\\
-                                &= \dfrac {50} {100} \ \text {metres} \times \dfrac {25} {100} \ \text {metres} \\\\
-                                &= 0.50 \times 0.25 \\\\
-                                &= 0.125 \ \text {metres} ^ 2 \\\\
 \text {Number of tiles needed}  &= \dfrac {\text {Area of the floor}} {\text {Area of a tile}} \\\\
-                                &= \dfrac {12} {0.125} \\\\
+                                &= \dfrac {4 \ \text {m} \times 3 \ \text {m}} {50 \ \text {cm} \times \ 25 \ \text {cm}} \\\\
+                                &= \dfrac {12 \ \text {m} ^ 2} {\dfrac {50} {100} \ \text {m} \times \dfrac {25} {100} \ \text {m}} \\\\
+                                &= \dfrac {12} {0.50 \times 0.25} \\\\
+                                &= \dfrac {12 \ \text {m} ^ 2} {0.125 \ \text {m} ^ 2} \\\\
                                 &= \dfrac {12 \times 1000} {0.125 \times 1000} \\\\
                                 &= \dfrac {12 \times 1000} {125} \\\\
-                                &= \dfrac {12 \times 5 \times 5 \times 5 \times 8} {5 \times 5 \times 5} \\\\
-                                &= \dfrac {12 \times \cancel {5} \times \cancel {5} \times \cancel {5} \times 8} {\cancel {5} \times \cancel {5} \times \cancel {5}} \\\\
-                                &= 12 \times 8 \\\\
+                                &= \dfrac {12 \times 5 \times 2 \times 5 \times 2 \times 5 \times 2} {5 \times 5 \times 5} \\\\
+                                &= \dfrac {12 \times \cancel {5} \times 2 \times \cancel {5} \times 2 \times \cancel {5} \times 2} {\cancel {5} \times \cancel {5} \times \cancel {5}} \\\\
+                                &= 12 \times 2 \times 2 \times 2 \\\\
                                 &= 96
 \end {aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircle-pr"
 title: "Topic - Circle - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -159,7 +159,7 @@ The number machine below changes numbers according to the rule
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -398,7 +398,7 @@ The diagram below shows a **regular** eight-sided polygon.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -485,7 +485,7 @@ $CD$ measures $34 \ \text{mm}$.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -606,7 +606,7 @@ In each list below, circle the most sensible unit to measure:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -685,6 +685,163 @@ $\text{litres}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>CEB88377-E568-4AA9-86C7-30EC02DF65EB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Cirlce the number which will be in the middle when the numbers written below are written in size order.
+
+$1.905 \quad 1.05 \quad 0.905 \quad 1.005 \quad 1.095$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write the numbers in order to find the middle number,
+
+$0.905, \quad 1.005, \quad 1.05, \quad 1.095, \quad 1.905$
+
+$1.05$ is in middle when the numbers are written in size orders.
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$1.05$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>50CE6371-E3A6-4DD2-8DE3-54A80451672D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the three numbers in the list below which have a sum of $43$.
+
+$5 \quad 8 \quad 11 \quad 14 \quad 21 \quad 31$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  8 + 14 + 21 \\\\
+&=  22 + 21 \\\\
+&=  43
+\end{aligned}
+$
+
+$8$, $14$, $21$ are three numbers that have a sum of $43$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B, D, E</p>
+</div>
+<div class='answer'>
+
+$8, 14, 21$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>55915BFE-F660-43D9-B855-A23AD77C520A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the number which will be in the middle when the numbers below are written in order of increasing size.
+
+$3.64 \quad 3.564 \quad 3.654 \quad 3.465 \quad 3.546$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write the numbers in increasing order to find the middle number,
+
+$3.465, \quad 3.546, \quad 3.564, \quad 3.64, \quad 3.654$
+
+$3.564$ is in middle when the numbers are written in size orders.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.564$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE</p>
@@ -733,6 +890,62 @@ $0.603$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the number in the list below that is closest to $\dfrac{1}{2}$
+                                                      
+$\dfrac{1}{5} \quad \dfrac{3}{7} \quad \dfrac{5}{9} \quad \dfrac{7}{11}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {1} {2} = 0.5$
+
+Let's convert all the numbers to decimal.
+
+$
+\begin {aligned}
+&= \dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
+&= 0.2, \quad 0.42, \quad 0.55, \quad \dfrac 0.63
+\end {aligned}
+$
+
+$0.55 = \dfrac {5} {9}$ is the closest to $\dfrac {1} {2}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {5} {9}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

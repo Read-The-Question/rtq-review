@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-pr"
 title: "Topic - Money - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,10 +12,10 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-tmoney
+tsimpleword
 </li>
 <li>
-tpercentage
+tmoney
 </li>
 </ul>
 </div>
@@ -45,7 +45,7 @@ The prices were as follows
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -169,6 +169,73 @@ $7040$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
+<p>05561C2E-68D5-42DC-876C-EC372F879900</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The original price of a bicycle is $\pounds 260$. Which of these is the better deal?
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+Show workings. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Original price $= \pounds 260$
+
+Let's look at Deal A. 
+
+If the price is reduced by $25 \%$, then the sale price will be $100 - 25 = 75 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text{Deal A}     &= 75 \% \ \text{of} \ 260 \\\\
+                  &= \dfrac {75} {100} \times 260   \\\\
+                  &= \dfrac {75 \times 260 } {100}  \\\\
+                  &= \dfrac {25 \times 3 \times 4 \times 65 } {25 \times 4}  \\\\
+                  &= \dfrac {\cancel{25} \times 3 \times \cancel{4} \times 65 } {\cancel{25}  \times \cancel{4}}   \\\\
+                  &= 3 \times 65 \\\\
+                  &= \pounds 195
+\end{aligned}
+$
+
+Deal B $= \pounds 205$
+
+
+From the above calcuation, we can see that Deal A is better than Deal B.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Deal A
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
 <p>46202F60-6AFF-44CC-9683-1646AF85C31F</p>
 </div>
 <div class='topics'>
@@ -221,6 +288,195 @@ $\pounds  90$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
+<p>D48EBB7F-6353-41D8-8F7E-D81284AECC1E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tmoney
+</li>
+<li>
+tinequality
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which sign makes each of the following statements true?
+
+$\large { \boxed{\phantom{5} > \phantom{5} } \quad \boxed{\phantom{5} < \phantom{5} } \quad \boxed{\phantom{5} = \phantom{5} } }$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0.022 \quad \ldots  \quad 0.2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.022 \quad \boxed{\green{<}}  \quad 0.2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.022 < 0.2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15\%$ of $\pounds 300\  \quad \ldots  \quad  20\%$ of $\pounds 240$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the first value.
+
+$
+\begin{aligned}
+&= 15\% \text{ of } \pounds 300 \\\\
+&= \dfrac{15}{100} \times 300 \\\\
+&= \dfrac{15 \times 300}{100}  \\\\
+&= \dfrac{15 \times 3\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 15 \times 3  \\\\
+&= \pounds 45
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 20\% \text{ of } \pounds 240 \\\\
+&= \dfrac{20}{100} \times 240 \\\\
+&= \dfrac{20 \times 240}{100}  \\\\
+&= \dfrac{2\cancel{0} \times 24\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 2 \times 24  \\\\
+&= \pounds 48
+\end{aligned}
+$
+
+Using the calculation above,
+
+$15\%$ of $\pounds 300\  \quad \boxed{\green{<}}  \quad  20\%$ of $\pounds 240$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15\%$ of $\pounds 300\  \quad <  \quad  20\%$ of $\pounds 240$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \ldots  \quad 25\%$ of $\pounds 64$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the first value.
+
+$
+\begin{aligned}
+&= \dfrac {2}{5} \text{ of } \pounds 40 \\\\
+&= \dfrac{2 \times 40}{5} \\\\
+&= \dfrac{2 \times 5 \times 8}{5} \\\\
+&= \dfrac{2 \times \cancel{5} \times 8}{\cancel{5}} \\\\
+&= 2 \times 8 \\\\
+&= \pounds 16
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 25\% \text{ of } \pounds 64 \\\\
+&= \dfrac{25}{100} \times 64 \\\\
+&= \dfrac{25 \times 64}{100}  \\\\
+&= \dfrac{1600}{100}  \\\\
+&= \dfrac{16\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= \pounds 16
+\end{aligned}
+$
+
+Using the calculation above,
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green{=}}  \quad 25\%$ of $\pounds 64$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
 <p>D8CD5DBE-7A2A-47CB-9D63-90512FB0BB7B</p>
 </div>
 <div class='topics'>
@@ -254,7 +510,7 @@ Car Parking Charges: $\pounds 1.80$ per hour
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -357,7 +613,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -594,11 +850,14 @@ Let's convert all the expenses into $\text{pence}$.
 $
 \begin {aligned}
 \text {Money spent}     &= \pounds 1.90 +  \pounds 2.45 + 75 \text {p} \\\\
-                        &= 190 \text {p} +  245 \text {p} + 75 \text {p} \\\\
+                        &= 1.90 \times 100 \text {p} +  245 \text {p} + 75 \text {p} \\\\
+                        &= 190 + 245 + 75 \\\\
                         &= 510  \text {p} \\\\
 \text {Money left}      &= \pounds 10 - 510  \text {p} \\\\
-                        &= 1000 \text {p}  - 510 \text {p} \\\\
+                        &= 10 \times 100 \text {p}  - 510 \text {p} \\\\
+                        &= 1000 - 510 \\\\
                         &= 490 \text {p} \\\\
+                        &= \pounds \dfrac {490} {100} \\\\
                         &= \pounds 4.90
 \end {aligned}
 $
@@ -618,6 +877,57 @@ $\pounds 4.90$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much will $46$ lollipops cost if they cost $\pounds 1.25$ each?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios. 
+
+$
+\begin{aligned}
+1  \text{ lollipop}                 &: \pounds 1.25 \\\\
+1 \times 46  \text{ lollipops}         &: \pounds 1.25 \times 46 \\\\
+46  \text{ lollipops}                 &: \pounds 57.50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 57.50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -997,7 +1307,7 @@ tage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1153,7 +1463,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1332,7 +1642,7 @@ This is the sign in a shop:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1637,7 +1947,7 @@ $\pounds 100$ (pounds) is worth the same as $€120$ (euros).
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1906,7 +2216,7 @@ In this formula $a$ stands for the number of adults and $k$ stands for the numbe
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1989,11 +2299,6 @@ Children $= 3$
 %empty%
 
 </div>
-<div class='answer'>
-
-%empty%
-
-</div>
 </div>
 
 </div>
@@ -2029,10 +2334,11 @@ How much change would there be from a $\pounds 20$ note for Alice, Owen, Mum, Da
 
 $
 \begin{aligned}
-\text{Total car parking charges}    &= 1.50 \times 5 \\\\
-                                    &= \pounds 7.5 \\\\
-\text{Change left }                 &= 20 - 7.5 \\\\
-                                    &= \pounds 12.5
+\text{Total charges}    &= (1.60 \times 2) + (2.40 \times 3) + 1.50 \\\\
+                        &= 3.20 + 7.20 + 1.50 \\\\
+                        &= \pounds 11.90 \\\\
+\text{Change left }     &= 20 - 11.90 \\\\
+                        &= \pounds 8.10
 \end{aligned}
 $
 
@@ -2041,7 +2347,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 12.5$
+$\pounds 8.10$
 
 </div>
 </div>
@@ -2135,11 +2441,11 @@ c       &= 6 + 10 t \\\\
 10t     &= 50 - 6 \\\\
 10t     &= 44 \\\\
 t       &= \dfrac {44} {10} \\\\
-t       &= 4.4
+t       &= 4 \text { remainder } 4
 \end{aligned}
 $
 
-$4$ tickets can be bought with $\pounds 50$.
+Max $4$ tickets can be bought with $\pounds 50$.
 
 </div>
 </div>
@@ -2200,7 +2506,7 @@ Find the cost of:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2392,7 +2698,7 @@ The following questions are about a butcher's shop.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2664,7 +2970,7 @@ Mr Green's garden is a mixture of lawn, patio and flower beds. A plan of the gar
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3100,7 +3406,7 @@ Cream Teas $\pounds 2.60$ each
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3219,10 +3525,10 @@ What is the total cost ?
 
 $
 \begin {aligned}
-\text {Total cost}  &= 4 \times \text {Cost of a sausage roll} + 5 \times \text {Cost of a hotdog} + 7 \times \text {Cost of a drink} \\\\
-                    &= 4 \times 24 \ \text {pence} + 5 \times 81 \ \text {pence} + 7 \times 20 \ \text {pence} \\\\
+\text {Total cost}  &= \text {Cost of} \ (4 \times \text {sausage} + 5 \times \text {hotdog} + 7 \times \text {Drinks}) \\\\
+                    &= 4 \times 24 \text {p} + 5 \times 81 \text {p} + 7 \times 20 \text {p} \\\\
                     &= 96 + 405 + 140 \\\\
-                    &= 641 \ \text {pence}
+                    &= 641 \text {p}
 \end {aligned}
 $
 
@@ -3277,7 +3583,7 @@ A balloon pump and four packs of balloons cost $\pounds 11$ altogether.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3390,7 +3696,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3578,6 +3884,67 @@ $36 \text{ coins}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>9AA2E90D-7CEB-4445-8395-AC73877C9536</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $80\%$ of $\pounds535$
+
+A: $\pounds107$
+
+B: $\pounds372$
+
+C: $\pounds400$
+
+D: $\pounds418$
+
+E: $\pounds428$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= \dfrac {80} {100} \times 535 \\\\
+&= \dfrac {80 \times 535} {100} \\\\
+&= \dfrac {42,800} {100} \\\\
+&= \dfrac {42,8 \cancel{00}} {1\cancel{00}} \\\\
+&= 428
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds428$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>4EC4603B-A686-444D-BCC6-4FF6758A4EF6</p>
@@ -3727,7 +4094,7 @@ A return train ticket for an adult travelling from Leicester to Cambridge costs 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3948,7 +4315,7 @@ How much will she earn if she sells:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4150,7 +4517,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4414,7 +4781,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4631,7 +4998,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4860,178 +5227,6 @@ $\pounds 2.88$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>B474E464-5AEF-419A-9B3D-08581A43D0DE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On holiday last year Phil bought $10$ post cards at $45 \text{p}$ each and $10\ \text{second}$ class stamps at $27 \text{p}$ each. How much change did he get from a $\pounds 10$ note?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-$
-\begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - 10 \times \text{Cost of postcard} - 10 \times \text{Cost of stamp} \\\\
-                                                &= \pounds 10 - 10 \times 45 \text{p} - 10 \times 27 \text{p} \\\\
-                                                &= \pounds 10 - \pounds \dfrac {450} {100} - \pounds \dfrac {270} {100} \\\\
-                                                &= \pounds 10 - \pounds 4.50 - \pounds 2.70 \\\\
-                                                &= \pounds 2.80
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2.80$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>7CF52F4B-090D-493A-8346-80188BAA6634</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Karen and Fran have some money. Karen has $\pounds 9$ more than Fran, together they have $\pounds 45$. How much money does Karen have?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the money Fran have $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Money Karen have} + \text{Money Fran have}        &= \text{Total money} \\\\
-(a + 9) + a                                             &= \pounds 45 \\\\
-2a                                                      &= 45 - 9 \\\\
-2a                                                      &= 36 \\\\
-2a                                                      &= 36 \\\\
-a                                                       &= \dfrac {36} {2} \\\\
-a                                                       &= \dfrac {2 \times 18} {2} \\\\
-a                                                       &= \dfrac {\cancel{2} \times 18} {\cancel{2}} \\\\
-a                                                       &= \pounds 18
-\end{aligned}
-$
-
-Money Fran have $= \pounds 18$
-
-$
-\begin{aligned}
-\text{Money Fran have}                                  &= \pounds 18 \\\\
-\text{Money Karen have}                                 &= \pounds 45 - \pounds 18 \\\\
-                                                        &= \pounds 27
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 27$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>29A6018D-4F9B-47BC-AEF7-2AB556029423</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If an adult ticket on the bus costs $\pounds 1.50$ and a child ticket costs $90 \text{p}$, how much change will a family of $2$ adults and their $3$ children get if they pay with a $\pounds 10$ note?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 3 \ \text{Children} \\\\
-                                                &= \pounds 10 - (2 \times \pounds 1.50 + 3 \times 90 \text{p}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + 270 \text{p}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + \pounds \dfrac {270} {100}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + \pounds \dfrac {27 \cancel{0}} {10 \cancel{0}}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + \pounds \dfrac {27} {10}) \\\\
-                                                &= 10 - (3 + 2.70) \\\\
-                                                &= 10 - 5.70 \\\\
-                                                &= \pounds 4.30
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4.30$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
@@ -5351,7 +5546,7 @@ Danielle went to the store to buy stationery for school. She bought four rulers,
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5621,7 +5816,7 @@ $39$ members of Alwick Youth Club went on an outing to a leisure centre. They we
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5846,7 +6041,7 @@ The cost of one original glazed doughnut is $\pounds 1.45$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5967,7 +6162,7 @@ Patrick spends $\pounds 375.84$ on his electricity bill each year.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6154,7 +6349,7 @@ Every month John, Peter and Helen received a sum of money which was divided so t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6537,7 +6732,7 @@ I buy $22$ items which cost $\pounds 7.05$ each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6639,7 +6834,7 @@ Tickets for the zoo cost $\pounds 9.30$ for adults and $\pounds 6.40$ for childr
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6856,7 +7051,7 @@ I buy 12 items which cost $\pounds 3.05$ each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7007,7 +7202,7 @@ I buy 5 items which cost $\pounds 12.98$ each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7113,7 +7308,7 @@ A man starts work at $08:15$. He then has a break from $10:15$ to $10:35$. After
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7238,7 +7433,7 @@ Tickets for the zoo cost $\pounds 12.50$ for adults and $\pounds 8.00$ for child
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7388,7 +7583,7 @@ I would receive $2.4 \ \text{Euros}$ in exchange for $\pounds 2$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7756,7 +7951,7 @@ $\pounds 14,000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6B84438A-B59E-4370-8EA5-017FA8C5AADA</p>
 </div>
@@ -7800,12 +7995,12 @@ $\pounds 110.50$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>59DED6AF-072C-4471-8B10-931ECD8F050E</p>
 </div>
@@ -7852,9 +8047,10 @@ The cost of a banana
 
 $
 \begin{aligned}
-&= 32 - 3 \times 7 \text{p} \\\\
-&= 32 - 21 \text{p} \\\\\
-&= 11 \text{p}
+b &= 32 - 3 \times a \\\\
+b &= 32 - 3 \times 7 \text {p} \\\\
+b &= 32 - 21 \text {p} \\\\\
+b &= 11 \text {p}
 \end{aligned}
 $
 
@@ -7872,7 +8068,7 @@ $11 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -7949,7 +8145,7 @@ Dana $= \pounds 22.5$, Harry $ \pounds 42.5$, Charlotte $= \pounds 75.5$, Sid $=
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>23F08023-3E57-40D1-BED1-91FEF237609C</p>
 </div>
@@ -7972,9 +8168,9 @@ $13 \text{p} \quad 23 \text{p} \quad 33 \text{p} \quad 43 \text{p} \quad 53 \tex
 
 $
 \begin{aligned}
-13 \text{p}     &= 10 \text{p} + 2 \text{p} + 1 \text{p} \\\\
-23 \text{p}     &= 20 \text{p} + 2 \text{p} + 1 \text{p} \\\\
-53 \text{p}     &= 50 \text{p} + 2 \text{p} + 1 \text{p}
+13 \text {p}     &= 10 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+23 \text {p}     &= 20 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+53 \text {p}     &= 50 \text {p} + 2 \text {p} + 1 \text {p}
 \end{aligned}
 $
 
@@ -7992,12 +8188,12 @@ $13 \text{p},23 \text{p},53 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>ED0E72A9-DD21-4A7F-9701-21CDEA62D691</p>
 </div>
@@ -8026,10 +8222,10 @@ As per the question,
 
 $
 \begin{aligned}
-  1 \ \text{apple} + 2 \ \text{oranges}           &= 48 \ \text{p} \\\\
-- 1 \ \text{apple} + 1 \ \text{oranges}           &= 31 \ \text{p} \\\\
+  1 \ \text {apple} + 2 \ \text {oranges}           &= 48 \ \text {p} \\\\
+- 1 \ \text {apple} + 1 \ \text {oranges}           &= 31 \ \text {p} \\\\
 \uline
-                     1 \ \text{orange}            &= 17 \ \text{p}
+                     1 \ \text {orange}             &= 17 \ \text {p}
 \end{aligned}
 $
 
@@ -8038,7 +8234,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$17 \ \text{p}$
+$17 \ \text {p}$
 
 </div>
 </div>
@@ -8047,7 +8243,7 @@ $17 \ \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -8191,7 +8387,7 @@ $42 \ \text{coins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>ED194211-094B-4A65-A8B1-1480273C455A</p>
 </div>
@@ -8215,11 +8411,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of sugar}        &= \text{Total cost} - \text{Cost of coffee} - \text{Cost of milk} \\\\
-                            &= \pounds 5.15 - \pounds 3.69 - 89 \text{p} \\\\
+\text {Cost of sugar}       &= \text {Total cost} - \text {Cost of coffee} - \text {Cost of milk} \\\\
+                            &= \pounds 5.15 - \pounds 3.69 - 89 \text {p} \\\\
                             &= \pounds 5.15 - \pounds 3.69 - \pounds 0.89 \\\\
                             &= 5.15 - 4.58 \\\\
-\text{Cost of sugar}        &= \pounds 0.57 = 57 \text{p}
+\text {Cost of sugar}       &= \pounds 0.57 = 57 \text {p}
 \end{aligned}
 $
 
@@ -8237,12 +8433,12 @@ $57 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1BDA0077-610F-493E-B36C-43C8D0A51441</p>
 </div>
@@ -8265,13 +8461,13 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money per crisp}      &= \text{Money per bag of crisps} \\\\
-\text{Number of crisp bag}  &= \dfrac{\text{Total money}}{\text{Money per crisp}} \\\\
-                            &= \dfrac{\pounds 2}{16 \text{p}} \\\\
-                            &= \dfrac{200}{16} \\\\
-                            &= \dfrac{25 \times 8}{2 \times 8} \\\\
-                            &= \dfrac{25 \times \cancel{8}}{2 \times \cancel{8}} \\\\
-                            &= \dfrac{25}{2} \\\\
+\text {Money per crisp}     &= \text {Money per bag of crisps} \\\\
+\text {Number of crisp bag} &= \dfrac {\text {Total money}} {\text {Money per crisp}} \\\\
+                            &= \dfrac {\pounds 2} {16 \text{p}} \\\\
+                            &= \dfrac {200} {16} \\\\
+                            &= \dfrac {25 \times 8} {2 \times 8} \\\\
+                            &= \dfrac {25 \times \cancel{8}} {2 \times \cancel{8}} \\\\
+                            &= \dfrac {25} {2} \\\\
                             &= 12.5
 \end{aligned}
 $
@@ -8292,7 +8488,7 @@ $12$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -8928,7 +9124,7 @@ Duncan decide to stop by for a meal on their way home from work one day.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9493,7 +9689,7 @@ costing $67$ pence. She paid with a $\pounds 5$ note.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9514,7 +9710,6 @@ $
 \begin{aligned}
 \text{Change received} &= \pounds 5 - (\pounds 1.55 + 67 \ \text{pence}) \\\\
                        &= \pounds 5 - (\pounds 1.55 + \pounds \dfrac {67} {100}) \\\\
-                       &= 5 - (1.55 + 0.67) \\\\
                        &= 5 - (1.55 + 0.67) \\\\
                        &= 5 - 2.22 \\\\
                        &= \pounds 2.78
@@ -9609,7 +9804,7 @@ A packet of $7$ Doggy chews cost $\pounds 3.43$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9626,7 +9821,7 @@ Give your answer in pence.
 <div class='workings'>
 <div class='working'>
 
-As per the question, cost of seven Doggy Chews $= \pounds 3.43$. So,
+As per the question,
 
 $
 \begin{aligned}
@@ -9668,7 +9863,7 @@ How much change should she receive?
 <div class='workings'>
 <div class='working'>
 
-As per the question, cost of one packet of Doggy Chew $= \pounds 3.43$. So,
+As per the question,
 
 $
 \begin{aligned}
@@ -9734,7 +9929,7 @@ tcoin
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9849,7 +10044,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10011,7 +10206,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10108,7 +10303,7 @@ Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, 
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -10287,7 +10482,7 @@ How much is each monthly amount?
 
 $
 \begin{aligned}
-\text {Each monthly amount}     &= \dfrac {\text {total amount} - {initial payment}} {6} \\\\
+\text {Each monthly amount}     &= \dfrac {\text {total amount} - \text {initial payment}} {6} \\\\
                                 &= \dfrac {572.50 - 136} {6} \\\\
                                 &= \dfrac {436.5} {6} \\\\
                                 &= \pounds 72.75
@@ -10408,7 +10603,7 @@ A $10 \text{p}$ coin has a diameter of $25 \ \text{mm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10428,7 +10623,8 @@ $
 &= 40 \times 25 \ \text {mm} \\\\
 &= 40 \times \dfrac {25} {1000} \ \text {m} \\\\
 &= \dfrac {40 \times 25} {1000} \ \text {m} \\\\
-&= \dfrac {1000} {1000} \\\\
+&= \dfrac {40 \times 25} {40 \times 25} \\\\
+&= \dfrac {\cancel {40} \times \cancel {25}} {\cancel {40} \times \cancel {25}} \\\\
 &= 1 \ \text {m}
 \end {aligned}
 $
@@ -10464,7 +10660,7 @@ $
 &= 40 \times 10 \ \text {p} \\\\
 &= 40 \times \pounds \dfrac {10} {100} \\\\
 &= \dfrac {40 \times 10} {100} \\\\
-&= \dfrac {400} {100} \\\\
+&= \dfrac {4 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
 &= \pounds 4
 \end {aligned}
 $
@@ -10497,11 +10693,12 @@ How many coins will Penny need for a $1 \ \text{kilometre}$ line of $10 \text{p}
 
 $
 \begin {aligned}
-&= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
-&= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
-&= \dfrac {40000 \times 25} {25} \\\\
-&= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
-&= 40000
+\text {Penny required}  &= \dfrac {\text {Total distance}} {\text {diameter of one coin}} \\\\
+                        &= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {40000 \times 25} {25} \\\\
+                        &= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
+                        &= 40000
 \end {aligned}
 $
 
@@ -10533,11 +10730,12 @@ What is the total value of a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
 
 $
 \begin {aligned}
-&= 40000 \times 10 \ \text {p} \\\\
-&= 40000 \times \pounds \dfrac {10} {100} \\\\
-&= \dfrac {40000 \times 10} {100} \\\\
-&= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
-&= \pounds 4000
+\text {Total value}     &= \text {Total penny} \times \text {value of one penny} \\\\
+                        &= 40000 \times 10 \ \text {p} \\\\
+                        &= 40000 \times \pounds \dfrac {10} {100} \\\\
+                        &= \dfrac {40000 \times 10} {100} \\\\
+                        &= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+                        &= \pounds 4000
 \end {aligned}
 $
 
@@ -10815,14 +11013,14 @@ As per the question,
 
 Count of $20 \text {p}$ coins $= 2c$
 
-It is really important to convert into the right units. 
+It is really important to convert into the right units.
 
 Let's convert the total amount into pence.
 
 $
 \begin{aligned} 
 \text{Total Amount}     &=  \pounds 2 \\\\
-                        &=  2 \times 100 \text{p}\\\\
+                        &=  2 \times 100 \text{p} \\\\
                         &=  200 \text{p}
 \end{aligned}
 $
@@ -10831,12 +11029,12 @@ As per the question,
 
 $
 \begin{aligned} 
-10 \times c + 20 \times 2c      &= 200  \\\\
-10c + 40c                       &= 200  \\\\
-50c                             &= 200  \\\\
-c                               &= \dfrac{200} {50}  \\\\
-c                               &= \dfrac{50 \times 4} {50}  \\\\
-c                               &= \dfrac{\cancel{50} \times 4} {\cancel{50}}  \\\\
+10 \times c + 20 \times 2c      &= 200 \\\\
+10c + 40c                       &= 200 \\\\
+50c                             &= 200 \\\\
+c                               &= \dfrac{200} {50} \\\\
+c                               &= \dfrac{50 \times 4} {50} \\\\
+c                               &= \dfrac{\cancel{50} \times 4} {\cancel{50}} \\\\
 c                               &= 4
 \end{aligned}
 $
@@ -10935,7 +11133,8 @@ Work out $15 \%$ of $\pounds 5$.
 $
 \begin{aligned}
 &= 15 \% \ \text {of} \ \pounds 5 \\\\
-&= 15 \% \ \text {of} \ 500 \ \text{pence} \\\\
+&= 15 \% \ \text {of} \ 5 \times 100 \ \text{pence} \\\\
+&= 15 \% \times 5 \times 100 \ \text{pence} \\\\
 &= \dfrac {15} {100} \times 500 \\\\
 &= \dfrac {15 \times 500} {100} \\\\
 &= \dfrac {15 \times 5\cancel{00}} {1\cancel{00}} \\\\
@@ -11063,7 +11262,7 @@ Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11089,7 +11288,7 @@ $
 \end{aligned}
 $
 
-Let the starting fare $= x$
+Let the starting fare $= a$
 
 QMC = $80$ pence
 
@@ -11097,13 +11296,13 @@ Total fare = starting charge + (quarter miles $\times 80p$)
 
 $
 \begin{aligned}
-\pounds 9.60 &= x + (10 \times 80p) \\\\
-\pounds 9.60 &= x + 800p \\\\
-\pounds 9.60 &= x + \pounds \dfrac {800} {100} \\\\
-\pounds 9.60 &= x + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
-9.60 - 8     &= x \\\\
-x            &= 9.60 - 8 \\\\
-x            &= \pounds 1.60
+\pounds 9.60 &= a + (10 \times 80p) \\\\
+\pounds 9.60 &= a + 800p \\\\
+\pounds 9.60 &= a + \pounds \dfrac {800} {100} \\\\
+\pounds 9.60 &= a + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
+9.60 - 8     &= a \\\\
+a            &= 9.60 - 8 \\\\
+a            &= \pounds 1.60
 \end{aligned}
 $
 
@@ -11524,7 +11723,7 @@ M-power charge a fixed amount of $\pounds 16.20$ **each month** plus $40\text{p}
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11763,7 +11962,7 @@ $C = 3n +40$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12333,7 +12532,7 @@ A minibus can carry a maximum of $17$ people.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12529,7 +12728,7 @@ $1011$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>A3C01E30-4AAA-4DBB-B19E-8F08BBF264E5</p>
 </div>
@@ -12569,7 +12768,7 @@ $
 \begin{aligned}
 &= \dfrac {15} {300} \times 100 \\\\
 &= \dfrac {15 \times 100} {300} \\\\
-&= \dfrac {15 \times 1 \cancel{0} \cancel{0}} {3 \cancel{0} \cancel{0}} \\\\
+&= \dfrac {15 \times 1 \cancel {00}} {3 \cancel {00}} \\\\
 &= \dfrac {15} {3} \\\\
 &= \dfrac {3 \times 5} {3} \\\\
 &= \dfrac {\cancel {3} \times 5} {\cancel {3}} \\\\
@@ -12591,12 +12790,12 @@ $5\%$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>CB25A103-14EA-41BF-BF3D-B461BBA32FAB</p>
 </div>
@@ -12629,7 +12828,7 @@ Write each of these amounts to the nearest hundred pounds:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12638,7 +12837,7 @@ Write each of these amounts to the nearest hundred pounds:
 </div>
 <div class='question subquestion'>
 
-$$\pounds 675$
+$\pounds 675$
 
 </div>
 <div class='workings'>
@@ -12666,20 +12865,20 @@ $\pounds 700$
 </div>
 <div class='question subquestion'>
 
-$$\pounds 2,945$
+$\pounds 2,945$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\pounds 2900$
+$\pounds 2,900$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2900$
+$\pounds 2,900$
 
 </div>
 </div>
@@ -12694,7 +12893,7 @@ $\pounds 2900$
 </div>
 <div class='question subquestion'>
 
-$$\pounds 90,095$
+$\pounds 90,095$
 
 </div>
 <div class='workings'>
@@ -12719,7 +12918,7 @@ $\pounds 90,100$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -12815,7 +13014,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-4"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Aldenham School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
@@ -22,6 +22,9 @@ date: 2022-05-27 04:53:12
 <ul>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -84,7 +87,7 @@ Fill in the gaps
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -214,7 +217,7 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -334,11 +337,14 @@ Let's convert all the expenses into $\text{pence}$.
 $
 \begin {aligned}
 \text {Money spent}     &= \pounds 1.90 +  \pounds 2.45 + 75 \text {p} \\\\
-                        &= 190 \text {p} +  245 \text {p} + 75 \text {p} \\\\
+                        &= 1.90 \times 100 \text {p} +  245 \text {p} + 75 \text {p} \\\\
+                        &= 190 + 245 + 75 \\\\
                         &= 510  \text {p} \\\\
 \text {Money left}      &= \pounds 10 - 510  \text {p} \\\\
-                        &= 1000 \text {p}  - 510 \text {p} \\\\
+                        &= 10 \times 100 \text {p}  - 510 \text {p} \\\\
+                        &= 1000 - 510 \\\\
                         &= 490 \text {p} \\\\
+                        &= \pounds \dfrac {490} {100} \\\\
                         &= \pounds 4.90
 \end {aligned}
 $
@@ -392,7 +398,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -497,6 +503,9 @@ $0.2$
 <li>
 tnumber
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -520,7 +529,7 @@ Look at the numbers in the star.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -816,7 +825,7 @@ Circle the smallest number in each group.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -948,15 +957,12 @@ $0.22$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>EB3A5A5B-3EA3-4765-ABA1-9AE3D43D7550</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-ttable
-</li>
 <li>
 ttemperature
 </li>
@@ -998,7 +1004,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1077,7 +1083,7 @@ $12 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -1168,7 +1174,7 @@ Fill in the missing numbers in the sequences below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1410,7 +1416,7 @@ tangle
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1584,7 +1590,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1773,7 +1779,7 @@ A survey was carried out to see what colour cars people owned. Here are the resu
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1877,7 +1883,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
 </div>
@@ -1885,9 +1891,6 @@ TODOANSWER
 <ul>
 <li>
 tmoney
-</li>
-<li>
-tratio
 </li>
 <li>
 talgebra
@@ -1926,7 +1929,7 @@ $\pounds 57.50$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -2026,7 +2029,7 @@ Bob is very proud of his new car. It is $370 \ \text{cm}$ long.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2146,7 +2149,7 @@ $2$ eggs
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2372,7 +2375,7 @@ Fill in the gaps.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

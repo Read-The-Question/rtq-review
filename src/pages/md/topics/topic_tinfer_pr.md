@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-pr"
 title: "Topic - Infer - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -100,7 +100,7 @@ For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -284,7 +284,7 @@ For example: the product value of ‘$HEAD$’ $= 8 \times 5 \times 1 \times 4 =
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -471,7 +471,7 @@ Similarly $4 \ \Psi\  7 = 35$ because $4 + 1 = 5$, then $5 \times 7 = 35$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -732,7 +732,7 @@ tinfer
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1096,128 +1096,6 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>98B9C18C-5D45-4158-A859-9750F91F8CE8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the biggest number that divides exactly into $28 , 84$ and $126$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To find the biggest number that divides exactly into $28$, $84$, and $126$, we need to find the highest common factor of the three numbers.
-
-$
-\begin{aligned}
-\text {Prime Factors of} \ 28 &= 2 \times \bold {2 \times 7} \\\\
-\text {Prime Factors of} \ 84 &= 2 \times \bold {2} \times 3 \times \bold{7} \\\\
-\text {Prime Factors of} \ 126 &= \bold {2} \times 3 \times \bold{7}
-\end{aligned}
-$
-
-Highest common factor of $28$, $84$ and $126$
-
-$
-\begin{aligned}
-&= 2 \times 7 \\\\
-&= 14
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>72AA9961-FE6B-438D-AEFB-1F49998E249D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many numbers less than $100$ are divisible by both $2$ and $5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-LCM of $2$ and $5 = 10$
-
-Less than $100$ means numbers between $1$ to $99$.
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Number divisible by both 2 and 5}         &= \dfrac {99} {10} \\\\ 
-                                                &= 9 \dfrac {1} {10} \\\\
-                                                &= 9
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-LCM of $2$ and $5 = 10$
-
-Numbers less than 100 that are both divisible by $2$ and $5$ are number ending with $0$
-
-$= 10, \ 20, \ 30, \ 40, \ 50, \ 60, \ 70, \ 80, \ 90$
-
-Total count of numbers less than $100$ and both divisible by $2$ and $5 = 9$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
 <p>A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E</p>
@@ -1266,7 +1144,7 @@ $
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1465,7 +1343,7 @@ Complete the spaces shown by dotted lines below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1696,7 +1574,7 @@ For example:- if $\text{S} = 3$, $\text{P} = 4$ and $\text{Y} = 6$ then the word
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2035,7 +1913,7 @@ Find the values of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

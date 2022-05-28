@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-trecipe-all"
 title: "Topic - Recipe - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -46,7 +46,7 @@ $2$ eggs
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -338,7 +338,7 @@ Flour $180 \ \text{g}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -505,7 +505,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -667,7 +667,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -789,7 +789,7 @@ $80 \ \text{millilitres}$ olive oil
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -808,8 +808,10 @@ What mass of oatmeal does James need to use?
 
 $
 \begin{aligned}
-\text{Mass of oatmeal required} &= 9 \times 140 \\\\
-                                &= 1260 \ \text{grams}
+\text{Mass of oatmeal required} &= \dfrac {140} {2} \\\\
+                                &= \dfrac {70 \times 2} {2} \\\\
+                                &= \dfrac {70 \times \cancel {2}} {\cancel {2}} \\\\
+                                &= 70 \ \text{grams}
 \end{aligned}
 $
 
@@ -818,7 +820,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1260 \ \text{grams}$
+$70 \ \text{grams}$
 
 </div>
 </div>
@@ -845,10 +847,10 @@ What is the largest number of oatcakes which Sarah can make?
 
 $
 \begin{aligned}
-\text{Largest number of oatcakes that can be made} &= \dfrac {400} {80} \\\\
-                                                   &= \dfrac {80 \times 5} {80} \\\\
-                                                   &= \dfrac {\cancel {80} \times 5} {\cancel {80}} \\\\
-                                                   &= 5 \\\\
+\text{Largest number of oatcakes that can be made} &= \dfrac {400} {80} \times 18 \\\\
+                                                   &= \dfrac {400 \times 18} {80} \\\\
+                                                   &= \dfrac {80 \times 5 \times 18} {80} \\\\
+                                                   &= \dfrac {\cancel {80} \times 5 \times 18} {\cancel {80}} \\\\
                                                    &= 5 \times 18 \\\\
                                                    &= 90
 \end{aligned}
@@ -859,7 +861,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$80$
+$90$
 
 </div>
 </div>
@@ -980,7 +982,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1126,7 +1128,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1164,7 +1166,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -1327,7 +1329,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

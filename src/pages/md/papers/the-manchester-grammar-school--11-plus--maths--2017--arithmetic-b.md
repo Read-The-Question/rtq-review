@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic B"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
@@ -36,7 +36,7 @@ $17 \times 18 \times 19 = 5814$
 </div>
 
 
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -53,11 +53,9 @@ $17 \times 18 \times 38 =$
 
 $
 \begin{aligned}
-&= 17 \times 18 \times 38 \\\\
-&= 17 \times 18 \times 19 \times 2 \\\\
-&= 17 \times 18 \times 19 \times 2 \\\\
-&= 5814 \times 2 \\\\
-&= 11628
+17 \times 18 \times 19          &= 5814 \\\\
+17 \times 18 \times 19 \times 2 &= 5814 \times 2 \\\\
+17 \times 18 \times 38          &= 11628
 \end{aligned}
 $
 
@@ -89,11 +87,11 @@ $9 \times 19 \times 34 =$
 
 $
 \begin{aligned}
-&= 9 \times 19 \times 34 \\\\
-&= 9 \times 19 \times 17 \times 2 \\\\
-&= 9 \times 2 \times 19 \times 17 \\\\
-&= 18 \times 19 \times 17 \\\\
-&= 5814
+17 \times 18 \times 19         &= 5814 \\\\
+17 \times 9 \times 2 \times 19 &= 5814 \\\\
+17 \times 2 \times 9 \times 19 &= 5814 \\\\
+34 \times 9 \times 19          &= 5814 \\\\
+9 \times 19 \times 34          &= 5814
 \end{aligned}
 $
 
@@ -126,11 +124,9 @@ $170 \times 180 \times 190 =$
 
 $
 \begin{aligned}
-&= 170 \times 180 \times 190 \\\\
-&= 17 \times 10 \times 18 \times 10 \times 19 \times 10 \\\\
-&= (17 \times 18 \times 19) \times (10 \times 10 \times 10) \\\\
-&= 5814 \times 1000 \\\\
-&= 5814000
+17 \times 18 \times 19                               &= 5814 \\\\
+17 \times 10 \times 18 \times 10 \times 19 \times 10 &= 5814 \times 1000 \\\\
+170 \times 180 \times 190                            &= 5814000
 \end{aligned}
 $
 
@@ -162,14 +158,20 @@ $5814 \div 51 \div 38 =$
 
 $
 \begin{aligned}
-&= 5814 \div 51 \div 38 \\\\
-&= \dfrac {5814} {51 \times 38} \\\\
-&= \dfrac {17 \times 18 \times 19} {(17 \times 3) \times (19 \times 2)} \\\\
-&= \dfrac {{\cancel {17} \times 18 \times {\cancel {19}}}} {{(\cancel {17} \times 3) \times (\cancel {19} \times 2)}} \\\\
-&= \dfrac {18} {3 \times 2} \\\\
-&= \dfrac {2 \times 3 \times 3} {3 \times 2} \\\\
-&= \dfrac {\cancel {2} \times \cancel {3} \times 3} {\cancel {3} \times \cancel {2}} \\\\
-&= 3
+17 \times 18 \times 19                       &= 5814 \\\\
+18 \times 19                                 &= 5814 \div 17 \\\\
+18                                           &= 5814 \div 17 \div 19 \\\\
+18 \div 3                                    &= 5814 \div (17 \times 3) \div 19 \\\\
+\dfrac {18} {3}                              &= 5814 \div 51 \div 19 \\\\
+\dfrac {6 \times 3} {3}                      &= 5814 \div 51 \div 19 \\\\
+\dfrac {6 \times \cancel {3}} {\cancel {3}}  &= 5814 \div 51 \div 19 \\\\
+6                                            &= 5814 \div 51 \div 19 \\\\
+6 \div 2                                     &= 5814 \div 51 \div (19 \times 2) \\\\
+\dfrac {6} {2}                               &= 5814 \div 51 \div 38 \\\\
+5814 \div 51 \div 38                         &= \dfrac {6} {2} \\\\
+5814 \div 51 \div 38                         &= \dfrac {3 \times 2} {2} \\\\
+5814 \div 51 \div 38                         &= \dfrac {3 \times \cancel {2}} {\cancel {2}} \\\\
+5814 \div 51 \div 38                         &= 3
 \end{aligned}
 $
 
@@ -225,7 +227,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -507,7 +509,7 @@ For example:- if $\text{S} = 3$, $\text{P} = 4$ and $\text{Y} = 6$ then the word
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -703,7 +705,7 @@ Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -729,7 +731,7 @@ $
 \end{aligned}
 $
 
-Let the starting fare $= x$
+Let the starting fare $= a$
 
 QMC = $80$ pence
 
@@ -737,13 +739,13 @@ Total fare = starting charge + (quarter miles $\times 80p$)
 
 $
 \begin{aligned}
-\pounds 9.60 &= x + (10 \times 80p) \\\\
-\pounds 9.60 &= x + 800p \\\\
-\pounds 9.60 &= x + \pounds \dfrac {800} {100} \\\\
-\pounds 9.60 &= x + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
-9.60 - 8     &= x \\\\
-x            &= 9.60 - 8 \\\\
-x            &= \pounds 1.60
+\pounds 9.60 &= a + (10 \times 80p) \\\\
+\pounds 9.60 &= a + 800p \\\\
+\pounds 9.60 &= a + \pounds \dfrac {800} {100} \\\\
+\pounds 9.60 &= a + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
+9.60 - 8     &= a \\\\
+a            &= 9.60 - 8 \\\\
+a            &= \pounds 1.60
 \end{aligned}
 $
 
@@ -859,7 +861,7 @@ because $4 \ \text{cm} \times 2.5 = 10 \ \text{cm}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1081,7 +1083,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1340,7 +1342,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1622,7 +1624,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2062,7 +2064,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2088,7 +2090,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>

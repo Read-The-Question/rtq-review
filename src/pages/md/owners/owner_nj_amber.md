@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-amber"
 title: "Owner - Nitin Joshi - Amber"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -36,7 +36,7 @@ $\pounds 4.05$. He plans to sell the bars for $35 \text{p}$ each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -216,7 +216,7 @@ For each part of this question, complete the calculation by inserting the correc
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -410,7 +410,7 @@ For each statemnt in this question, write your answer as 'true' or 'false'.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -573,7 +573,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1284,7 +1284,7 @@ Work out the angle which the hour hand on a clock move through between
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1444,7 +1444,7 @@ For example, when it is $3 \ \text{p.m.}$ in London, it is $7.30 \ \text{p.m.}$ 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1559,7 +1559,7 @@ The information on a pack of ‘*Salmon pasta*’ is shown in the table.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

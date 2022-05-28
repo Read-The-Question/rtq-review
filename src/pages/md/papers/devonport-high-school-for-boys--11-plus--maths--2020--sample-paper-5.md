@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Devonport High School for Boys</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
@@ -272,14 +272,14 @@ In the number $236.751$, what does the $7$ stand for?
 <div class='workings'>
 <div class='working'>
 
-$\text {Tenths}$
+$0.7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Tenths}$
+$0.7$
 
 </div>
 </div>
@@ -1661,7 +1661,7 @@ $30.282$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tmoney

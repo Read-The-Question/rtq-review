@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Alderley Edge School for Girls</h1>
@@ -14,7 +14,7 @@ date: 2022-05-27 04:53:12
 </div>
 
 # Section A
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
@@ -1404,9 +1404,9 @@ $-16$
 </ul>
 
 # Section B
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>806A70B8-E2A8-4CC6-99FB-54DFD0C55F33</p>
 </div>
@@ -1426,10 +1426,11 @@ How much more than $523$ is $872$?
 <div class='working'>
 
 As per the question,
+
 $
 \begin{aligned}
 \text{Difference}    &=  872 - 523 \\\\
-                    &=  340 
+                     &=  340 
 \end{aligned}
 $
 
@@ -1441,18 +1442,13 @@ $
 $340$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -1549,7 +1545,7 @@ $-43$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -1596,7 +1592,7 @@ $172$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1933,7 +1929,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2319,7 +2315,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2479,7 +2475,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2695,7 +2691,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2819,7 +2815,7 @@ Write down the number of:
 %empty%
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3009,7 +3005,7 @@ Calculate the missing angles $p, q$ and $r$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3245,7 +3241,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3383,7 +3379,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

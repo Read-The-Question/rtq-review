@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-11-plus-maths-9999-sample-paper-1"
 title: "Tonbridge School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Tonbridge School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -59,7 +59,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -224,7 +224,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -418,7 +418,7 @@ Calculate
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -498,7 +498,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>F8D3AEA5-00FC-4260-A2B7-A0A6D9A6B650</p>
 </div>
@@ -533,7 +533,7 @@ From the list of numbers: $5,\:\: 6,\:\: 8,\:\: 23,\:\: 27,\:\: 45,\:\: 72$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -623,7 +623,7 @@ $23$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -661,7 +661,7 @@ torder
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -849,7 +849,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -974,7 +974,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>4E026293-8092-4F84-94CD-07F5A6F4E37D</p>
 </div>
@@ -1004,7 +1004,7 @@ If $𝑎 = 3,\:\:𝑏 = 5\:\: and\:\: 𝑐 = -2$, find the value of;
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1091,7 +1091,7 @@ $\frac{𝑎+𝑏}{c}$
 
 $
 \begin{aligned}
-&= \dfrac {a+b} {c} \\\\
+&= \dfrac {a + b} {c} \\\\
 &= \dfrac {3 + 5} {-2} \\\\
 &= - \dfrac {8} {2} \\\\
 &= - \dfrac {2 \times 4} {2} \\\\
@@ -1168,9 +1168,9 @@ As per the question,
 
 $
 \begin{aligned}
-&= a - \dfrac{b} {c} \\\\
-&= 3 - \dfrac{5} {-2} \\\\
-&= 3 + \dfrac{5} {2} \\\\
+&= a - \dfrac {b} {c} \\\\
+&= 3 - \dfrac {5} {-2} \\\\
+&= 3 + \dfrac {5} {2} \\\\
 &= \dfrac {3 \times 2} {1 \times 2} + \dfrac {5} {2} \\\\
 &= \dfrac {6} {2} + \dfrac {5} {2} \\\\
 &= \dfrac {6 + 5} {2} \\\\
@@ -1184,7 +1184,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{11} {2} \ \text{or} \ 5 \dfrac {1} {2}$
+$\dfrac {11} {2} \ \ \text{or} \ \ 5 \dfrac {1} {2}$
 
 </div>
 </div>
@@ -1196,7 +1196,7 @@ $\dfrac{11} {2} \ \text{or} \ 5 \dfrac {1} {2}$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1231,7 +1231,7 @@ Calculate, giving your answers as fractions or mixed numbers;
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1422,7 +1422,7 @@ Simplify
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1623,7 +1623,7 @@ Write down the next two terms of the following sequences;
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1872,7 +1872,7 @@ $\pounds 72.25$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2031,7 +2031,7 @@ Solve the equations (showing clear working);
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2197,7 +2197,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2366,7 +2366,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

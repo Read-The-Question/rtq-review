@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-g2"
 title: "Topic - Unit - G2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -35,7 +35,7 @@ tunit
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

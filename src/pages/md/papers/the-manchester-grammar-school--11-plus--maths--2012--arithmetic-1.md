@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -68,7 +68,7 @@ $864$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -293,14 +293,14 @@ As per the question,
 
 Count of $20 \text {p}$ coins $= 2c$
 
-It is really important to convert into the right units. 
+It is really important to convert into the right units.
 
 Let's convert the total amount into pence.
 
 $
 \begin{aligned} 
 \text{Total Amount}     &=  \pounds 2 \\\\
-                        &=  2 \times 100 \text{p}\\\\
+                        &=  2 \times 100 \text{p} \\\\
                         &=  200 \text{p}
 \end{aligned}
 $
@@ -309,12 +309,12 @@ As per the question,
 
 $
 \begin{aligned} 
-10 \times c + 20 \times 2c      &= 200  \\\\
-10c + 40c                       &= 200  \\\\
-50c                             &= 200  \\\\
-c                               &= \dfrac{200} {50}  \\\\
-c                               &= \dfrac{50 \times 4} {50}  \\\\
-c                               &= \dfrac{\cancel{50} \times 4} {\cancel{50}}  \\\\
+10 \times c + 20 \times 2c      &= 200 \\\\
+10c + 40c                       &= 200 \\\\
+50c                             &= 200 \\\\
+c                               &= \dfrac{200} {50} \\\\
+c                               &= \dfrac{50 \times 4} {50} \\\\
+c                               &= \dfrac{\cancel{50} \times 4} {\cancel{50}} \\\\
 c                               &= 4
 \end{aligned}
 $
@@ -373,13 +373,13 @@ As per the question,
 
 $
 \begin{aligned}
-80\% \text{ of } p              &= 60 \\\\ 
-\dfrac {80 } { 100 } \times p   &= 60 \\\\ 
-p                               &= \dfrac {60 \times 100 } { 80 } \\\\ 
-p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\ 
-p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\ 
-p                               &= 3 \times 25 \\\\ 
-p                               &= \pounds 75 
+80\% \text{ of } p              &= 60 \\\\
+\dfrac {80 } { 100 } \times p   &= 60 \\\\
+p                               &= \dfrac {60 \times 100 } { 80 } \\\\
+p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\
+p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\
+p                               &= 3 \times 25 \\\\
+p                               &= \pounds 75
 \end{aligned}
 $
 
@@ -427,7 +427,7 @@ As per the question,
 
 $
 \begin{aligned} 
-\text {Number of Pencil + Number of Ruler} &= 52 \\\\      
+\text {Number of Pencil + Number of Ruler} &= 52 \\\\
 r + (r + 8)                                &= 52 \\\\
 2r + 8                                     &= 52 \\\\
 2r                                         &= 52 - 8 \\\\
@@ -539,7 +539,7 @@ $\text{Area} = \text{length} \times \text{width}$
 Putting this into an equation, we get,
 
 $
-\begin{aligned}                            
+\begin{aligned}
 l \times 7  &= 28 \times 12 \\\\
 l           &= \dfrac {28 \times 12} { 7} \\\\
 l           &= \dfrac {7 \times 4 \times 12} { 7} \\\\
@@ -699,7 +699,7 @@ Let's convert all the numbers into decimals.
 $
 \begin{aligned}
 &= 0.66, \quad \dfrac{3}{4}, \quad 70\%, \quad \dfrac{2}{3}, \quad \dfrac{6}{10} \\\\
-&= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60 \\\\
+&= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60
 \end{aligned}
 $
 
@@ -808,7 +808,7 @@ For the first $12$ months after I bought my new phone I downloaded $4$ apps to i
 $
 \begin{aligned}
 \text{Average number of apps}       &= \dfrac {\text{Total apps}} {\text{Total months}} \\\\
-                                    &= \dfrac { (12 \times 4) + (7 \times 1) + (1 \times 5) } { 12 + 7 + 1 }\\\\
+                                    &= \dfrac { (12 \times 4) + (7 \times 1) + (1 \times 5) } { 12 + 7 + 1 } \\\\
                                     &= \dfrac { 48 + 7 + 5 } { 20 } \\\\
                                     &= \dfrac {60} {20} \\\\
                                     &= 3
@@ -1096,12 +1096,12 @@ Let's write down all the factors for $72$.
 
 $
 \begin{aligned}
-1 &\times 72 &= 72 \\
-2 &\times 36 &= 72 \\
-3 &\times 24 &= 72 \\
-4 &\times 18 &= 72 \\
-6 &\times 12 &= 72 \\
-8 &\times 9\ &= 72 \\
+1 \times 72 &= 72 \\\\
+2 \times 36 &= 72 \\\\
+3 \times 24 &= 72 \\\\
+4 \times 18 &= 72 \\\\
+6 \times 12 &= 72 \\\\
+8 \times 9  &= 72
 \end{aligned}
 $
 

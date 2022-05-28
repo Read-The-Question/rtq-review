@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-all"
 title: "Owner - Arun Dalakoti - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -35,7 +35,7 @@ Fill in the missing numbers in the boxes.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -276,7 +276,7 @@ $0$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -323,7 +323,7 @@ $6363$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -370,7 +370,7 @@ $7083$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -496,7 +496,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -745,7 +745,7 @@ tsequence
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -865,7 +865,7 @@ What are the missing values on each of these scales?
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -962,7 +962,7 @@ torder
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1205,7 +1205,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1324,7 +1324,7 @@ Work out the value of:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1519,10 +1519,10 @@ $2 \dfrac {1} {2} \text{jugs of water required}$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tsimpleword
 </li>
 <li>
-tsubtraction
+tmoney
 </li>
 </ul>
 </div>
@@ -1545,7 +1545,7 @@ tsubtraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1658,7 +1658,7 @@ First-class stamps cost $27 \text{p}$ ech.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1801,7 +1801,7 @@ This is the sign in a shop:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1966,7 +1966,7 @@ Show how she could arrange them to get:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2170,7 +2170,7 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -2398,7 +2398,7 @@ $4$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -2425,7 +2425,7 @@ You may show your working or work them out in your head.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2609,7 +2609,7 @@ $28 \quad 25 \quad 22 \quad 19 \quad 16 \quad 13 \quad 10 \quad \ldots \quad \ld
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3002,7 +3002,7 @@ $11.0009$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -3049,7 +3049,7 @@ $3211$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -3096,7 +3096,7 @@ $5702$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -4171,294 +4171,12 @@ $292 \ \text{cm}$
 <li>
 <div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
-<p>A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmultiplication
-</li>
-<li>
-tdivision
-</li>
-<li>
-tsubtraction
-</li>
-<li>
-taddition
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate and show all your working, 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$465 + 67 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   4   &   6   &   5 \\
-{}+ &       &   6   &   7 \\
-\hline
-    &   5   &   3   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$532$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$4177 - 1315$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   4   &   1   &   7   &   7 \\
-{}- &   1   &   3   &   1   &   5 \\
-\hline
-    &   2   &   8   &   6   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2862$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$67 \times 7 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-       &   6   &   7 \\
-\times &       &   7 \\
-\hline
-   4   &   6   &   9
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$402 \div 6 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\pounds 20 - \pounds 12.53$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$41 \times 63 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-       &        &            &   4   &   1 \\
-       &        &   \times   &   6   &   3 \\
-\hline
-       &        &   1        &   2   &   3 \\
-       &    2   &   4        &   6   &   0 \\
-\hline
-       &    2   &   5        &   8   &   3
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2583$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_amber</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_amber question'>
-<div class='uuid'>
 <p>076162DF-A050-42F4-A027-B259BDE6BD88</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -4494,7 +4212,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4687,7 +4405,7 @@ Work out
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4800,7 +4518,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4952,7 +4670,7 @@ A balloon pump and four packs of balloons cost $\pounds 11$ altogether.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5065,7 +4783,7 @@ Place the following sets of numbers in order, **smallest first**.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5212,7 +4930,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5318,7 +5036,7 @@ Fill in the gaps in the sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5459,7 +5177,7 @@ Write in the missing numbers.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5662,7 +5380,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5935,7 +5653,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6103,7 +5821,7 @@ Tom is making patterns with matches.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6344,7 +6062,7 @@ Subtract the child’s age in years from $30$, then divide the result by $2$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6586,7 +6304,7 @@ $20$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -6646,7 +6364,7 @@ $541$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -6706,7 +6424,7 @@ $417$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -7616,7 +7334,7 @@ Complete the missing numbers in each of the number sequences below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7783,7 +7501,7 @@ $-40, 80$
 tdivision
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 torder
@@ -7809,7 +7527,7 @@ torder
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7976,7 +7694,7 @@ For each part of this question you should try to find **all** the possible answe
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8098,7 +7816,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8293,7 +8011,7 @@ $85 \ \text{cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -8351,7 +8069,7 @@ $69977$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -8485,7 +8203,7 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -9355,169 +9073,6 @@ $64$
 <li>
 <div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
-<p>E333CCD4-4A4B-4AE8-8804-73CF98BB3014</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-<li>
-tsubtraction
-</li>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $287 + 365$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   2   &   8   &   7 \\
-{}+ &   3   &   6   &   5 \\
-\hline
-    &   6   &   5   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$652$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Subtract $-23$ from $-81$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-\begin{array}{cccccccccccccc}
-         &   {}-   &   2   &   3 \\
-         &   {}-   &   8   &   1 \\
-\hline
-{}-      &   1     &   0   &   4
-\end{array}
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Divide $1898$ by $26$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_amber</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_amber question'>
-<div class='uuid'>
 <p>06E17CF9-0C41-4B64-9204-75A7DE980218</p>
 </div>
 <div class='topics'>
@@ -9549,7 +9104,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9730,7 +9285,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9922,19 +9477,10 @@ $67 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-taddition
-</li>
-<li>
-tsubtraction
+tnumber
 </li>
 <li>
 tmoney
-</li>
-<li>
-tdivision
-</li>
-<li>
-tmultiplication
 </li>
 </ul>
 </div>
@@ -9967,7 +9513,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10288,7 +9834,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10344,7 +9890,7 @@ Using any of the digits $4,\ 5$ and $2$ only once in each answer, write down
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -10531,7 +10077,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10694,7 +10240,7 @@ In the next two questions write a number in the box which will make the statemen
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10801,7 +10347,7 @@ tangle
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10918,7 +10464,7 @@ $12.10\ \text{BBC News; Weather}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11020,7 +10566,7 @@ Write down the next two numbers in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11215,7 +10761,7 @@ Line 3: $3 \times 3 + 7 = 16$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11336,7 +10882,7 @@ She can use two or more pieces each time.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11362,7 +10908,7 @@ Which pieces should she use to make the following lengths?
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -11467,171 +11013,6 @@ $11 \ \text {m}$
 <li>
 <div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
-<p>2FFF4985-E128-4223-A3A6-63DFE0284470</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-<li>
-tmultiplication
-</li>
-<li>
-tsubtraction
-</li>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$836 + 79 - 108$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-\begin{aligned}
-&= 836 + 79 - 108 \\\\
-&= 915 - 108 \\\\
-&= 807
-\end{aligned}
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$34 \times 8$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-       &   3   &   4 \\
-\times &       &   8 \\
-\hline
-   2   &   7   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$272$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$259 \div 7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_amber</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_amber question'>
-<div class='uuid'>
 <p>FC723669-28F5-4DD7-8D03-9D1BA3DA811D</p>
 </div>
 <div class='topics'>
@@ -11665,7 +11046,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11784,7 +11165,7 @@ Curtain material costs $\pounds4.25 \ \text{per}\ \text{metre}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11894,7 +11275,7 @@ A school are collecting tokens for ‘free books’. Sarah brings $28$ tokens to
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12008,7 +11389,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12200,7 +11581,7 @@ A return train ticket for an adult travelling from Leicester to Cambridge costs 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12320,7 +11701,7 @@ $15\:\:\:  16\:\:\:  17\:\:\:  18$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12589,7 +11970,7 @@ Write down the value of $N$ which makes each of the statements true.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12775,7 +12156,7 @@ The shaded area is to be the lawn.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12932,7 +12313,7 @@ Mary is saving pennies. She draws the grid above for seven days of the week. Eac
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12958,7 +12339,7 @@ How much did she save on
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -13108,7 +12489,7 @@ This frequency table shows Anna’s score out of $10$ in $15$ weekly mental arit
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13236,7 +12617,7 @@ Meera is $1.62\ \text{m}$ tall and Ellie is $1.39\ \text{m}$ tall.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13353,7 +12734,7 @@ Pencils are bought in two ways, either $15\text{p}$ each or $\pounds{3.12}$ for 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13538,7 +12919,7 @@ Calculate
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13656,7 +13037,7 @@ A square has a perimeter of $20\ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13883,7 +13264,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14109,7 +13490,7 @@ Jelly beans are sold in boxes which are cuboids measuring $10\ \text{cm}$ by $3\
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14223,7 +13604,7 @@ Solve these equations to find the value of the letter.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14406,7 +13787,7 @@ Each of these sequences follow a pattern. Write down the next two terms in seque
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14622,7 +14003,7 @@ $9, 8$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -14648,7 +14029,7 @@ tdivision
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14866,7 +14247,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14999,7 +14380,7 @@ $\boxed{3k}$     $\boxed{(4k+2)}$      $\boxed{k^2}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15154,7 +14535,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15268,7 +14649,7 @@ Solve these equations.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15466,7 +14847,7 @@ Not drawn accurately
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15633,7 +15014,7 @@ Rearrange the equations.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15777,320 +15158,6 @@ $\dfrac {t ^ 2} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_amber question'>
-<div class='uuid'>
-<p>39FEECD6-F2F2-4967-9FC1-5D2680489012</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-<li>
-tsubtraction
-</li>
-<li>
-tdivision
-</li>
-<li>
-tmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$153 + 78$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   1   &   5   &   3 \\
-{}+ &       &   7   &   8 \\
-\hline
-    &   2   &   3   &   1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$231$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$185 - 43$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   1   &   8   &   5 \\
-{}- &       &   4   &   3 \\
-\hline
-    &   1   &   4   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$142$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$532 - 85$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   5   &   3   &   2 \\
-{}- &       &   8   &   5 \\
-\hline
-    &   4   &   4   &   7
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$447$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$53 \times 9$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-       &              &   5   &   3 \\
-       &    \times    &       &   9 \\
-\hline
-       &    4         &   7   &   7
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$477$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$37 \times 23$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-       &              &   3   &   7 \\
-       &    \times    &   2   &   3 \\
-\hline
-       &    1         &   1   &   1 \\
-       &    7         &   4   &   0 \\
-\hline
-       &    8         &   5   &   1     
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$851$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$238 \div 7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$442 \div 17$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_amber</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>5D763DCC-BA8B-4FED-92C6-D8B848454B73</p>
@@ -16183,7 +15250,7 @@ Calculate, giving your answer as simply as possible
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16303,7 +15370,7 @@ Find:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16548,7 +15615,7 @@ Find the next $2$ numbers in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16773,7 +15840,7 @@ James was given $\pounds 15$ to buy supplies for the university year. He chose t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17076,7 +16143,7 @@ $\boxed{2} \boxed{4}  \boxed{6} \boxed{7} \boxed{8}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17280,7 +16347,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17481,7 +16548,7 @@ Write down the next two terms in each of the sequences below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17675,7 +16742,7 @@ Fill in the missing operations in the boxes:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17821,7 +16888,7 @@ Each pupil in a class were asked their favourite colour. The bar graph shows the
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17924,7 +16991,7 @@ The following table shows the runs that Michael scored in each of the $11$ crick
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18034,7 +17101,7 @@ If you roll an ordinary six sided die what is the probability of obtaining:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18060,7 +17127,7 @@ If you roll an ordinary six sided die what is the probability of obtaining:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -18165,7 +17232,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -18286,7 +17353,7 @@ How much will she earn if she sells:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18400,7 +17467,7 @@ Find:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18525,7 +17592,7 @@ Find the size of the angle, in degrees, turned by the **minute** hand of a clock
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18629,7 +17696,7 @@ The above diagram shows a solid box.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18794,7 +17861,7 @@ She shares out the chocolates equally amongst her $27$ students.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18912,7 +17979,7 @@ From the numbers in the ring write down all the
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19065,7 +18132,7 @@ Given that $a = 2, b = 3$ and $c = 4$, find the value of the following expressio
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19214,7 +18281,7 @@ The number of insects in a colony doubles each week. If there were $100$ insects
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19340,7 +18407,7 @@ What are the length and width of a rectangle:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19518,7 +18585,7 @@ Using the same operation for the diamond and triangle, find the missing numbers.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19709,7 +18776,7 @@ London          ,$10{:}45$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19859,7 +18926,7 @@ She pays for her apples with a $\pounds 5$ note.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20046,7 +19113,7 @@ At noon the temperature is $3$ degrees Celsius and it rises at a steady $1.5$ de
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20160,7 +19227,7 @@ watch started going backwards at the correct rate. What is the real time if my w
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20320,7 +19387,7 @@ Find the value of:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20471,7 +19538,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20617,7 +19684,7 @@ $5,  \quad 2,  \quad 14,  \quad 2,  \quad 4,  \quad 6,  \quad 7$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20753,7 +19820,7 @@ Write the next two terms in each of the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20946,7 +20013,7 @@ The diagram below (not to scale) shows a cuboid.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21246,7 +20313,7 @@ Replace the question marks with either a $+,- , \times$ or $\div$ and make the c
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21401,7 +20468,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21581,7 +20648,7 @@ Similarly $4 \ \Psi\  7 = 35$ because $4 + 1 = 5$, then $5 \times 7 = 35$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21844,7 +20911,7 @@ In order to save time banks weigh bags of coins instead of counting them. The ma
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22040,7 +21107,7 @@ A tree initially has $400000$ leaves.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22216,7 +21283,7 @@ Write down the names of the following shapes:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22410,7 +21477,7 @@ Write the next term in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22750,7 +21817,7 @@ A class of pupils were surveyed to find out their favourite number. The results 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22872,7 +21939,7 @@ Cristiano Ronaldo   ,Spanish        ,26         ,29
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23166,7 +22233,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23273,7 +22340,7 @@ Simplify the following algebraic expressions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23490,7 +22557,7 @@ Solve the following equations:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23833,7 +22900,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23887,7 +22954,7 @@ Showing your working, calculate the size of the angle:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -24218,7 +23285,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24326,7 +23393,7 @@ $\boxed{2 \quad 5 \quad 9 \quad 15 \quad 24 \quad 28 \quad  36 \quad 45 \quad 53
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24451,7 +23518,7 @@ tangle
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24629,7 +23696,7 @@ torder
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24877,7 +23944,7 @@ A gardener measures the night time temperatures over two evenings and records th
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25047,7 +24114,7 @@ Solve the following equations:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25196,7 +24263,7 @@ Write the next two terms in each of the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25444,7 +24511,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25544,7 +24611,7 @@ tinfer
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25721,7 +24788,7 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tsimpleword
 </li>
 </ul>
 </div>
@@ -25841,7 +24908,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26100,7 +25167,7 @@ $36$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -26148,7 +25215,7 @@ $4232$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -26239,7 +25306,7 @@ $32027$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -26358,7 +25425,7 @@ Fill in the gaps in these number patterns:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26673,7 +25740,7 @@ $2 \ \text {hours} \ 37 \ \text {minutes}$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -26895,7 +25962,7 @@ Continue the sequences, giving the next two numbers each time :
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -27133,7 +26200,7 @@ You are told that $22 \times 46 = 1012$. Use this fact to write down the answers
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -27366,7 +26433,7 @@ Below is a repeated pattern of numbered shapes.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -27465,7 +26532,7 @@ Any of these numbers can be used in each part of the question.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -27640,7 +26707,7 @@ Continue the following patterns, filling in the next two terms for each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -27946,7 +27013,7 @@ If $x = 7, y = -5$ and $z = -6$, find the value of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28127,7 +27194,7 @@ ttime
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28237,7 +27304,7 @@ Write down the missing number in each of the following
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28400,7 +27467,7 @@ Work out the following
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28682,7 +27749,7 @@ If $a = 9, b = -2$ and $c = -7$, find the value of the following expressions
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28823,7 +27890,7 @@ For the questions below, form an equation from the given information and solve i
 </div>
 </div>
 
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29047,7 +28114,7 @@ $356241$ is a number which contains the digits from one to six, each appearing o
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29180,7 +28247,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29425,7 +28492,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29540,7 +28607,7 @@ Insert brackets to make the following statements correct:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29643,7 +28710,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29894,7 +28961,7 @@ For the questions below, form an equation from the given information and solve i
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -30118,7 +29185,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -30332,7 +29399,7 @@ Calculate the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -30505,7 +29572,7 @@ Solve the following equations, leaving your answers as improper fractions where 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -30787,7 +29854,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -31005,7 +30072,7 @@ Write down the missing number in each part.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -31171,7 +30238,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -31371,7 +30438,7 @@ $\dfrac {17} {42}$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -31418,7 +30485,7 @@ $75$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -31465,7 +30532,7 @@ $66$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -31608,7 +30675,7 @@ $\pounds 0.52$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -31955,7 +31022,7 @@ $0.4$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -31974,7 +31041,7 @@ $
     &   5   &   7   &   8   &   4 \\
 {}+ &       &   4   &   1   &   9 \\
 \hline
-    &   6   &   2   &   0   &   3
+    &   6   &   2   &   0   &   3 \\
 \hline
 \end{array}
 $
@@ -32005,7 +31072,7 @@ $6203$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -32024,7 +31091,7 @@ $
     &   2   &   6   &   0   &   5 \\
 {}- &       &   8   &   3   &   2 \\
 \hline
-    &   1   &   7   &   7   &   3
+    &   1   &   7   &   7   &   3 \\
 \hline
 \end{array}
 $
@@ -32055,7 +31122,7 @@ $1773$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -32074,7 +31141,7 @@ $
             &   9   &   2   &   7 \\
    \times   &       &       &   7 \\
 \hline
-   6        &   4   &   8   &   9
+   6        &   4   &   8   &   9 \\
 \hline
 \end{array}
 $
@@ -32150,7 +31217,10 @@ $7998$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
+</li>
+<li>
+tmissingdigits
 </li>
 </ul>
 </div>
@@ -32329,7 +31399,7 @@ Fill in the missing numbers in each of these number patterns:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -32680,7 +31750,7 @@ ttime
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -33104,7 +32174,7 @@ $111 \text{p}$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tnumber
@@ -33135,7 +32205,7 @@ Use this information to work out:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -33395,7 +32465,7 @@ The time in Australia is $9 \ \text{hours}$ ahead of our time in the UK.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -33508,7 +32578,7 @@ Using all these digits once only make
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -33836,7 +32906,7 @@ Starting with the clear button, show how to use five more buttons to make the an
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -34056,7 +33126,7 @@ $5, \quad 3, \quad 8, \quad 11, \quad 19$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -34106,7 +33176,7 @@ $849$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -34156,7 +33226,7 @@ $7113$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -34359,7 +33429,7 @@ Write down the next two terms in each sequence:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -34562,7 +33632,7 @@ tage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -34961,7 +34031,7 @@ Use the symbols $+, -, \div$ or $\times$ to make each calculation correct.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -35410,7 +34480,7 @@ $4$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -35460,7 +34530,7 @@ $3, \ 8, \ 2, \ 6$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -35483,7 +34553,7 @@ Use the fact that $742 \times 36 = 26712$ to work out these sums:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -35690,7 +34760,7 @@ $18$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -35740,7 +34810,7 @@ $9502$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -35788,7 +34858,7 @@ $2148$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -35836,7 +34906,7 @@ $456$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tdecimal
@@ -36182,7 +35252,7 @@ How long does the train take
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -36537,7 +35607,7 @@ Continue each sequence by giving the next two terms.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -36747,7 +35817,7 @@ Work out the missing input or output in each case shown.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -36943,7 +36013,7 @@ $
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -37238,7 +36308,7 @@ is not possible to make exactly $19 \text{p}$ with these coins.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -37430,7 +36500,7 @@ One route from $L$ to $W$ is $LMOSW$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -37690,7 +36760,7 @@ Now the letter $M$ is under the letter $A$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -37835,7 +36905,7 @@ Pia arranges her cards in the order $A \ B \ C$ and starts with the number $3$. 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -38023,7 +37093,7 @@ so $3 \ a \ 2 = (3 + 2) \times (3 + 2) = 5 \times 5 = 25$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -38241,7 +37311,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -38288,7 +37358,7 @@ $3391$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -38335,7 +37405,7 @@ $8072$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -40793,7 +39863,7 @@ costing $67$ pence. She paid with a $\pounds 5$ note.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -40814,7 +39884,6 @@ $
 \begin{aligned}
 \text{Change received} &= \pounds 5 - (\pounds 1.55 + 67 \ \text{pence}) \\\\
                        &= \pounds 5 - (\pounds 1.55 + \pounds \dfrac {67} {100}) \\\\
-                       &= 5 - (1.55 + 0.67) \\\\
                        &= 5 - (1.55 + 0.67) \\\\
                        &= 5 - 2.22 \\\\
                        &= \pounds 2.78
@@ -40916,7 +39985,7 @@ The number machine below changes numbers according to the rule
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41160,7 +40229,7 @@ $80 \ \text{millilitres}$ olive oil
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41179,8 +40248,10 @@ What mass of oatmeal does James need to use?
 
 $
 \begin{aligned}
-\text{Mass of oatmeal required} &= 9 \times 140 \\\\
-                                &= 1260 \ \text{grams}
+\text{Mass of oatmeal required} &= \dfrac {140} {2} \\\\
+                                &= \dfrac {70 \times 2} {2} \\\\
+                                &= \dfrac {70 \times \cancel {2}} {\cancel {2}} \\\\
+                                &= 70 \ \text{grams}
 \end{aligned}
 $
 
@@ -41189,7 +40260,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1260 \ \text{grams}$
+$70 \ \text{grams}$
 
 </div>
 </div>
@@ -41216,10 +40287,10 @@ What is the largest number of oatcakes which Sarah can make?
 
 $
 \begin{aligned}
-\text{Largest number of oatcakes that can be made} &= \dfrac {400} {80} \\\\
-                                                   &= \dfrac {80 \times 5} {80} \\\\
-                                                   &= \dfrac {\cancel {80} \times 5} {\cancel {80}} \\\\
-                                                   &= 5 \\\\
+\text{Largest number of oatcakes that can be made} &= \dfrac {400} {80} \times 18 \\\\
+                                                   &= \dfrac {400 \times 18} {80} \\\\
+                                                   &= \dfrac {80 \times 5 \times 18} {80} \\\\
+                                                   &= \dfrac {\cancel {80} \times 5 \times 18} {\cancel {80}} \\\\
                                                    &= 5 \times 18 \\\\
                                                    &= 90
 \end{aligned}
@@ -41230,7 +40301,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$80$
+$90$
 
 </div>
 </div>
@@ -41354,7 +40425,7 @@ The diagram below shows a **regular** eight-sided polygon.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41441,7 +40512,7 @@ $CD$ measures $34 \ \text{mm}$.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -41562,7 +40633,7 @@ In each list below, circle the most sensible unit to measure:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41648,7 +40719,7 @@ $\text{litres}$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -41695,7 +40766,7 @@ $864$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -41920,14 +40991,14 @@ As per the question,
 
 Count of $20 \text {p}$ coins $= 2c$
 
-It is really important to convert into the right units. 
+It is really important to convert into the right units.
 
 Let's convert the total amount into pence.
 
 $
 \begin{aligned} 
 \text{Total Amount}     &=  \pounds 2 \\\\
-                        &=  2 \times 100 \text{p}\\\\
+                        &=  2 \times 100 \text{p} \\\\
                         &=  200 \text{p}
 \end{aligned}
 $
@@ -41936,12 +41007,12 @@ As per the question,
 
 $
 \begin{aligned} 
-10 \times c + 20 \times 2c      &= 200  \\\\
-10c + 40c                       &= 200  \\\\
-50c                             &= 200  \\\\
-c                               &= \dfrac{200} {50}  \\\\
-c                               &= \dfrac{50 \times 4} {50}  \\\\
-c                               &= \dfrac{\cancel{50} \times 4} {\cancel{50}}  \\\\
+10 \times c + 20 \times 2c      &= 200 \\\\
+10c + 40c                       &= 200 \\\\
+50c                             &= 200 \\\\
+c                               &= \dfrac{200} {50} \\\\
+c                               &= \dfrac{50 \times 4} {50} \\\\
+c                               &= \dfrac{\cancel{50} \times 4} {\cancel{50}} \\\\
 c                               &= 4
 \end{aligned}
 $
@@ -42000,13 +41071,13 @@ As per the question,
 
 $
 \begin{aligned}
-80\% \text{ of } p              &= 60 \\\\ 
-\dfrac {80 } { 100 } \times p   &= 60 \\\\ 
-p                               &= \dfrac {60 \times 100 } { 80 } \\\\ 
-p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\ 
-p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\ 
-p                               &= 3 \times 25 \\\\ 
-p                               &= \pounds 75 
+80\% \text{ of } p              &= 60 \\\\
+\dfrac {80 } { 100 } \times p   &= 60 \\\\
+p                               &= \dfrac {60 \times 100 } { 80 } \\\\
+p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\
+p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\
+p                               &= 3 \times 25 \\\\
+p                               &= \pounds 75
 \end{aligned}
 $
 
@@ -42054,7 +41125,7 @@ As per the question,
 
 $
 \begin{aligned} 
-\text {Number of Pencil + Number of Ruler} &= 52 \\\\      
+\text {Number of Pencil + Number of Ruler} &= 52 \\\\
 r + (r + 8)                                &= 52 \\\\
 2r + 8                                     &= 52 \\\\
 2r                                         &= 52 - 8 \\\\
@@ -42166,7 +41237,7 @@ $\text{Area} = \text{length} \times \text{width}$
 Putting this into an equation, we get,
 
 $
-\begin{aligned}                            
+\begin{aligned}
 l \times 7  &= 28 \times 12 \\\\
 l           &= \dfrac {28 \times 12} { 7} \\\\
 l           &= \dfrac {7 \times 4 \times 12} { 7} \\\\
@@ -42326,7 +41397,7 @@ Let's convert all the numbers into decimals.
 $
 \begin{aligned}
 &= 0.66, \quad \dfrac{3}{4}, \quad 70\%, \quad \dfrac{2}{3}, \quad \dfrac{6}{10} \\\\
-&= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60 \\\\
+&= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60
 \end{aligned}
 $
 
@@ -42435,7 +41506,7 @@ For the first $12$ months after I bought my new phone I downloaded $4$ apps to i
 $
 \begin{aligned}
 \text{Average number of apps}       &= \dfrac {\text{Total apps}} {\text{Total months}} \\\\
-                                    &= \dfrac { (12 \times 4) + (7 \times 1) + (1 \times 5) } { 12 + 7 + 1 }\\\\
+                                    &= \dfrac { (12 \times 4) + (7 \times 1) + (1 \times 5) } { 12 + 7 + 1 } \\\\
                                     &= \dfrac { 48 + 7 + 5 } { 20 } \\\\
                                     &= \dfrac {60} {20} \\\\
                                     &= 3
@@ -42723,12 +41794,12 @@ Let's write down all the factors for $72$.
 
 $
 \begin{aligned}
-1 &\times 72 &= 72 \\
-2 &\times 36 &= 72 \\
-3 &\times 24 &= 72 \\
-4 &\times 18 &= 72 \\
-6 &\times 12 &= 72 \\
-8 &\times 9\ &= 72 \\
+1 \times 72 &= 72 \\\\
+2 \times 36 &= 72 \\\\
+3 \times 24 &= 72 \\\\
+4 \times 18 &= 72 \\\\
+6 \times 12 &= 72 \\\\
+8 \times 9  &= 72
 \end{aligned}
 $
 
@@ -42838,7 +41909,7 @@ $17 \times 18 \times 19 = 5814$
 </div>
 
 
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -42855,11 +41926,9 @@ $17 \times 18 \times 38 =$
 
 $
 \begin{aligned}
-&= 17 \times 18 \times 38 \\\\
-&= 17 \times 18 \times 19 \times 2 \\\\
-&= 17 \times 18 \times 19 \times 2 \\\\
-&= 5814 \times 2 \\\\
-&= 11628
+17 \times 18 \times 19          &= 5814 \\\\
+17 \times 18 \times 19 \times 2 &= 5814 \times 2 \\\\
+17 \times 18 \times 38          &= 11628
 \end{aligned}
 $
 
@@ -42891,11 +41960,11 @@ $9 \times 19 \times 34 =$
 
 $
 \begin{aligned}
-&= 9 \times 19 \times 34 \\\\
-&= 9 \times 19 \times 17 \times 2 \\\\
-&= 9 \times 2 \times 19 \times 17 \\\\
-&= 18 \times 19 \times 17 \\\\
-&= 5814
+17 \times 18 \times 19         &= 5814 \\\\
+17 \times 9 \times 2 \times 19 &= 5814 \\\\
+17 \times 2 \times 9 \times 19 &= 5814 \\\\
+34 \times 9 \times 19          &= 5814 \\\\
+9 \times 19 \times 34          &= 5814
 \end{aligned}
 $
 
@@ -42928,11 +41997,9 @@ $170 \times 180 \times 190 =$
 
 $
 \begin{aligned}
-&= 170 \times 180 \times 190 \\\\
-&= 17 \times 10 \times 18 \times 10 \times 19 \times 10 \\\\
-&= (17 \times 18 \times 19) \times (10 \times 10 \times 10) \\\\
-&= 5814 \times 1000 \\\\
-&= 5814000
+17 \times 18 \times 19                               &= 5814 \\\\
+17 \times 10 \times 18 \times 10 \times 19 \times 10 &= 5814 \times 1000 \\\\
+170 \times 180 \times 190                            &= 5814000
 \end{aligned}
 $
 
@@ -42964,14 +42031,20 @@ $5814 \div 51 \div 38 =$
 
 $
 \begin{aligned}
-&= 5814 \div 51 \div 38 \\\\
-&= \dfrac {5814} {51 \times 38} \\\\
-&= \dfrac {17 \times 18 \times 19} {(17 \times 3) \times (19 \times 2)} \\\\
-&= \dfrac {{\cancel {17} \times 18 \times {\cancel {19}}}} {{(\cancel {17} \times 3) \times (\cancel {19} \times 2)}} \\\\
-&= \dfrac {18} {3 \times 2} \\\\
-&= \dfrac {2 \times 3 \times 3} {3 \times 2} \\\\
-&= \dfrac {\cancel {2} \times \cancel {3} \times 3} {\cancel {3} \times \cancel {2}} \\\\
-&= 3
+17 \times 18 \times 19                       &= 5814 \\\\
+18 \times 19                                 &= 5814 \div 17 \\\\
+18                                           &= 5814 \div 17 \div 19 \\\\
+18 \div 3                                    &= 5814 \div (17 \times 3) \div 19 \\\\
+\dfrac {18} {3}                              &= 5814 \div 51 \div 19 \\\\
+\dfrac {6 \times 3} {3}                      &= 5814 \div 51 \div 19 \\\\
+\dfrac {6 \times \cancel {3}} {\cancel {3}}  &= 5814 \div 51 \div 19 \\\\
+6                                            &= 5814 \div 51 \div 19 \\\\
+6 \div 2                                     &= 5814 \div 51 \div (19 \times 2) \\\\
+\dfrac {6} {2}                               &= 5814 \div 51 \div 38 \\\\
+5814 \div 51 \div 38                         &= \dfrac {6} {2} \\\\
+5814 \div 51 \div 38                         &= \dfrac {3 \times 2} {2} \\\\
+5814 \div 51 \div 38                         &= \dfrac {3 \times \cancel {2}} {\cancel {2}} \\\\
+5814 \div 51 \div 38                         &= 3
 \end{aligned}
 $
 
@@ -43034,7 +42107,7 @@ For example:- if $\text{S} = 3$, $\text{P} = 4$ and $\text{Y} = 6$ then the word
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -43230,7 +42303,7 @@ Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -43256,7 +42329,7 @@ $
 \end{aligned}
 $
 
-Let the starting fare $= x$
+Let the starting fare $= a$
 
 QMC = $80$ pence
 
@@ -43264,13 +42337,13 @@ Total fare = starting charge + (quarter miles $\times 80p$)
 
 $
 \begin{aligned}
-\pounds 9.60 &= x + (10 \times 80p) \\\\
-\pounds 9.60 &= x + 800p \\\\
-\pounds 9.60 &= x + \pounds \dfrac {800} {100} \\\\
-\pounds 9.60 &= x + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
-9.60 - 8     &= x \\\\
-x            &= 9.60 - 8 \\\\
-x            &= \pounds 1.60
+\pounds 9.60 &= a + (10 \times 80p) \\\\
+\pounds 9.60 &= a + 800p \\\\
+\pounds 9.60 &= a + \pounds \dfrac {800} {100} \\\\
+\pounds 9.60 &= a + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
+9.60 - 8     &= a \\\\
+a            &= 9.60 - 8 \\\\
+a            &= \pounds 1.60
 \end{aligned}
 $
 
@@ -43386,7 +42459,7 @@ because $4 \ \text{cm} \times 2.5 = 10 \ \text{cm}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

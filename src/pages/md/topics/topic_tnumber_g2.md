@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-g2"
 title: "Topic - Number - G2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -35,7 +35,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -181,7 +181,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -455,6 +455,127 @@ $121$
 <li>
 <div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
+<p>43C95808-BF77-4C0E-AB13-6950EA8A04D3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tdetailedaddition
+</li>
+<li>
+tdetailedsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Do the following sums
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%waffles%
+
+$785 + 541$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   7   &   8   &   5 \\
+{}+ &   5   &   4   &   1 \\
+\hline
+1   &   3   &   2   &   6
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1326$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%waffles%
+
+$867 - 382$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   8   &   6   &   7 \\
+{}- &   3   &   8   &   2 \\
+\hline
+    &   4   &   8   &   5
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$485$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g2 question'>
+<div class='uuid'>
 <p>076C322A-4256-441B-A7AC-33130D028CB9</p>
 </div>
 <div class='topics'>
@@ -632,7 +753,7 @@ Work out
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -797,7 +918,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -960,7 +1081,7 @@ In the next two questions write a number in the box which will make the statemen
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1070,7 +1191,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1275,7 +1396,7 @@ $15\:\:\:  16\:\:\:  17\:\:\:  18$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1500,7 +1621,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1602,7 +1723,7 @@ From the numbers in the ring write down all the
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1755,7 +1876,7 @@ Find the value of:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1906,7 +2027,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2006,7 +2127,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2114,7 +2235,7 @@ $\boxed{2 \quad 5 \quad 9 \quad 15 \quad 24 \quad 28 \quad  36 \quad 45 \quad 53
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2250,6 +2371,328 @@ $1979$
 </div>
 <div class='rag'>
 <p>rag_ad_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g2 question'>
+<div class='uuid'>
+<p>D1F2C306-6F2F-4BEC-8034-EAA69C85106F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tdetailedaddition
+</li>
+<li>
+tdetailedsubtraction
+</li>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate each of the following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7921 + 846$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   7   &   9   &   2   &   1 \\
+{}+ &       &   8   &   4   &   6 \\
+\hline
+    &   8   &   7   &   6   &   7
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8767$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2031 - 1357$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   2   &   0   &   3   &   1 \\
+{}- &   1   &   3   &   5   &   7 \\
+\hline
+    &       &   6   &   7   &   4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$674$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$73 \times 8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+            &   7   &   3 \\
+{}  \times  &       &   8 \\
+\hline
+5           &   8   &   4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$584$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g2 question'>
+<div class='uuid'>
+<p>B09594F6-C583-4EFB-8072-0453A8DD522A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tdetailedaddition
+</li>
+<li>
+tdetailedmultiplication
+</li>
+<li>
+tdetailedsubtraction
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate each of the following 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8547 + 929$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   8   &   5   &   4   &   7 \\
+{}+ &       &   9   &   2   &   9 \\
+\hline
+    &   9   &   4   &   7   &   6
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9476$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3712 - 1821$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   3   &   7   &   1   &   2 \\
+{}- &   1   &   8   &   2   &   1 \\
+\hline
+    &   1   &   8   &   9   &   1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1891$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3.6 \times 9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let's first multiply the numbers ignoring the decimal points.
+
+$
+\begin{array}{cccccccccccccc}
+            &   3   &   6 \\
+{} \times   &       &   9 \\
+\hline
+3           &   2   &   4
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is one.
+
+Let's account for the decimal point now.
+
+$= 32.4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32.4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g2</p>
 </div>
 </div>
 </li>

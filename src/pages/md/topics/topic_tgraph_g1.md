@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-g1"
 title: "Topic - Graph - G1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -40,7 +40,7 @@ Each pupil in a class were asked their favourite colour. The bar graph shows the
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

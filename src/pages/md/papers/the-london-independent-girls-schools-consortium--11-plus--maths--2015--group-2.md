@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>The London Independent Girls' Schools Consortium</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -68,7 +68,7 @@ $3023$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -115,7 +115,7 @@ $1667$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -288,7 +288,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -391,11 +391,11 @@ Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    0 \ .   &   7   &   0   &   0 \\
-    0 \ .   &   0   &   4   &   0 \\
-{}+ 1 \ .   &   0   &   0   &   6 \\
+    &   0 \ .   &   7   &   0   &   0 \\
+    &   0 \ .   &   0   &   4   &   0 \\
+{}+ &   1 \ .   &   0   &   0   &   6 \\
 \hline
-    1 \ .   &   7   &   4   &   6
+    &   1 \ .   &   7   &   4   &   6
 \end{array}
 $
 
@@ -488,6 +488,9 @@ $87$
 <li>
 tfraction
 </li>
+<li>
+tcircle
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -506,8 +509,8 @@ Let's convert all the numbers to decimal.
 
 $
 \begin {aligned}
-\dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
-0.2, \quad 0.42, \quad 0.55, \quad \dfrac 0.63
+&= \dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
+&= 0.2, \quad 0.42, \quad 0.55, \quad \dfrac 0.63
 \end {aligned}
 $
 
@@ -516,9 +519,6 @@ $0.55 = \dfrac {5} {9}$ is the closest to $\dfrac {1} {2}$.
 </div>
 </div>
 <div class='answers'>
-<div class='option'>
-<p>$\dfrac {5} {9}$</p>
-</div>
 <div class='answer'>
 
 $\dfrac {5} {9}$
@@ -543,6 +543,9 @@ $\dfrac {5} {9}$
 <ul>
 <li>
 torder
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -620,7 +623,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -741,7 +744,7 @@ Write the missing numbers in the boxes to make the calculations correct.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -902,7 +905,7 @@ Wombley Arena can seat $7490 supporters when full.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1073,7 +1076,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1490,7 +1493,7 @@ How much is each monthly amount?
 
 $
 \begin{aligned}
-\text {Each monthly amount}     &= \dfrac {\text {total amount} - {initial payment}} {6} \\\\
+\text {Each monthly amount}     &= \dfrac {\text {total amount} - \text {initial payment}} {6} \\\\
                                 &= \dfrac {572.50 - 136} {6} \\\\
                                 &= \dfrac {436.5} {6} \\\\
                                 &= \pounds 72.75
@@ -1546,7 +1549,7 @@ Given that $900 \div 12 = 75$, work out
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1805,7 +1808,7 @@ The numbers around the outside are in grams (g), and the numbers inside the circ
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1890,6 +1893,9 @@ tage
 <li>
 tdate
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1911,7 +1917,7 @@ Jessica was born on $5$ January $2003$ and her friend Amelia was born exactly $9
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2083,7 +2089,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2221,7 +2227,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2453,7 +2459,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2732,7 +2738,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2772,7 +2778,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -3065,7 +3071,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3309,7 +3315,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3472,7 +3478,7 @@ $44 \quad 323 \quad 1221 \quad 1234321$ and so on
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3675,7 +3681,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

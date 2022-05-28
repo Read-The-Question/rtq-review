@@ -1,79 +1,9 @@
 ---
 slug: "topics/topic-tprofit-all"
 title: "Topic - Profit - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>05561C2E-68D5-42DC-876C-EC372F879900</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprofit
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The original price of a bicycle is $\pounds 260$. Which of these is the better deal?
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-Show workings. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Original price $= \pounds 260$
-
-Let's look at Deal A. 
-
-If the price is reduced by $25 \%$, then the sale price will be $100 - 25 = 75 \%$ of the original price. Using that, we get
-
-$
-\begin{aligned}
-\text{Deal A}     &= 75 \% \ \text{of} \ 260 \\\\
-                  &= \dfrac {75} {100} \times 260   \\\\
-                  &= \dfrac {75 \times 260 } {100}  \\\\
-                  &= \dfrac {25 \times 3 \times 4 \times 65 } {25 \times 4}  \\\\
-                  &= \dfrac {\cancel{25} \times 3 \times \cancel{4} \times 65 } {\cancel{25}  \times \cancel{4}}   \\\\
-                  &= 3 \times 65 \\\\
-                  &= \pounds 195
-\end{aligned}
-$
-
-Deal B $= \pounds 205$
-
-
-From the above calcuation, we can see that Deal A is better than Deal B.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Deal A
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
@@ -416,7 +346,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -633,7 +563,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1313,7 +1243,7 @@ and she worked out that if she bought $8$ lollipops she would end up with $30 \t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1568,7 +1498,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1839,7 +1769,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2109,7 +2039,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2370,7 +2300,7 @@ She pays for her apples with a $\pounds 5$ note.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2622,7 +2552,7 @@ Tickets for the zoo cost $\pounds 12.50$ for adults and $\pounds 8.00$ for child
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3015,7 +2945,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3242,7 +3172,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3417,7 +3347,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3638,13 +3568,13 @@ As per the question,
 
 $
 \begin{aligned}
-80\% \text{ of } p              &= 60 \\\\ 
-\dfrac {80 } { 100 } \times p   &= 60 \\\\ 
-p                               &= \dfrac {60 \times 100 } { 80 } \\\\ 
-p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\ 
-p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\ 
-p                               &= 3 \times 25 \\\\ 
-p                               &= \pounds 75 
+80\% \text{ of } p              &= 60 \\\\
+\dfrac {80 } { 100 } \times p   &= 60 \\\\
+p                               &= \dfrac {60 \times 100 } { 80 } \\\\
+p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\
+p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\
+p                               &= 3 \times 25 \\\\
+p                               &= \pounds 75
 \end{aligned}
 $
 
@@ -3978,7 +3908,7 @@ $\pounds 72.25$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

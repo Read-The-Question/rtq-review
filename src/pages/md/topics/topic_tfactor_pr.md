@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-pr"
 title: "Topic - Factor - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -41,7 +41,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -314,7 +314,7 @@ $\boxed{18} \quad \boxed{26} \quad \boxed{37} \quad \boxed{49}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -569,7 +569,7 @@ Write the two **prime numbers** in the empty boxes.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -784,119 +784,6 @@ $210$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>00B5F39E-C744-444A-A565-D57BCA594277</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the biggest number that divides into $14, 35,$ and $42$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To find the biggest number that divides exactly into $14$, $35$, and $42$, we need to find the highest common factor of the three numbers.
-
-$
-\begin{aligned}
-\text {Prime Factors of} \ 14 &= 2 \times \bold{7} \\\\
-\text {Prime Factors of} \ 35 &= 5 \times \bold{7} \\\\ \\\\
-\text {Prime Factors of} \ 42 &= 2 \times 3 \times \bold{7}
-\end{aligned}
-$
-
-Highest common factor of $14$, $35$ and $42$
-
-$
-\begin{aligned}
-&= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>0EC15166-4610-4A6E-9117-A2461D762D1D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the biggest number that divides into $16, 32,$ and $56$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To find the biggest number that divides exactly into $16$, $32$, and $56$, we need to find the highest common factor of the three numbers.
-
-$
-\begin{aligned}
-\text {Prime Factors of} \ 16 &= 2 \times \bold{2 \times 2 \times 2} \\\\
-\text {Prime Factors of} \ 32 &= 2 \times 2 \times \bold{2 \times 2 \times 2} \\\\
-\text {Prime Factors of} \ 56 &= \bold{2 \times 2 \times 2} \times 7
-\end{aligned}
-$
-
-Highest common factor of $16$, $32$ and $56$
-
-$
-\begin{aligned}
-&= 2 \times 2 \times 2  \\\\
-&= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>BA7E261E-10D9-4C7B-8591-880AD1DD4EF9</p>
@@ -933,7 +820,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1062,7 +949,7 @@ $6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\, 53 \,\,\,\, 169$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1232,7 +1119,7 @@ $6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\,  53 \,\,\,\, 96$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1390,7 +1277,7 @@ Write down
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1513,7 +1400,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>FB21F97F-B716-4F28-B691-6FF3FCEA330A</p>
 </div>
@@ -1560,7 +1447,7 @@ $42$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1645,7 +1532,7 @@ $5, \quad 8, \quad 9, \quad 11, \quad 12, \quad 13, \quad 17, \quad 18, \quad 20
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1755,6 +1642,9 @@ $3$
 <li>
 tfactor
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1776,7 +1666,7 @@ The number $8$ has four factors: $1, 2, 4$ and $8$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1902,12 +1792,12 @@ Let's write down all the factors for $72$.
 
 $
 \begin{aligned}
-1 &\times 72 &= 72 \\
-2 &\times 36 &= 72 \\
-3 &\times 24 &= 72 \\
-4 &\times 18 &= 72 \\
-6 &\times 12 &= 72 \\
-8 &\times 9\ &= 72 \\
+1 \times 72 &= 72 \\\\
+2 \times 36 &= 72 \\\\
+3 \times 24 &= 72 \\\\
+4 \times 18 &= 72 \\\\
+6 \times 12 &= 72 \\\\
+8 \times 9  &= 72
 \end{aligned}
 $
 
@@ -2060,7 +1950,7 @@ $45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>F8D3AEA5-00FC-4260-A2B7-A0A6D9A6B650</p>
 </div>
@@ -2095,7 +1985,7 @@ From the list of numbers: $5,\:\: 6,\:\: 8,\:\: 23,\:\: 27,\:\: 45,\:\: 72$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2185,12 +2075,12 @@ $23$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>9918BF12-FEBA-4F5C-898C-ACF17E04EDD0</p>
 </div>
@@ -2223,7 +2113,7 @@ Give one answer only for each of the following questions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2238,11 +2128,14 @@ Write down any multiple of $8$ between $50$ and $70$
 <div class='workings'>
 <div class='working'>
 
-$8 \times 7 = 56$
+$
+\begin{aligned}
+8 \times 7 &= 56 \ \text {Or,} \\\\
+8 \times 8 &= 64
+\end{aligned}
+$
 
-$8 \times 8 = 64$
-
-$8 \times 9 = 72$
+A multiple of $8$ between $50$ and $70$ $= 56$.
 
 </div>
 </div>
@@ -2270,7 +2163,7 @@ Write down a prime number between $48$ and $60$
 <div class='workings'>
 <div class='working'>
 
-Prime numbers between $48$ and $60 = 53, 59$
+Prime numbers between $48$ and $60 = 53,\ 59$
 
 </div>
 </div>
@@ -2298,7 +2191,7 @@ Write down a factor of $90$ that is between $12$ and $25$
 <div class='workings'>
 <div class='working'>
 
-Factors of $90$ between $12$ and $25 = 15, 18$
+Factors of $90$ between $12$ and $25 = 15, \ 18$
 
 </div>
 </div>
@@ -2326,7 +2219,7 @@ Write down a square number between $30$ and $60$
 <div class='workings'>
 <div class='working'>
 
-Square numbers between $30$ and $60 = 36, 49$
+Square numbers between $30$ and $60 = 36, \ 49$
 
 </div>
 </div>
@@ -2354,13 +2247,16 @@ Write down a 2-digit number that is both a square number and cube number
 <div class='workings'>
 <div class='working'>
 
-2-digit numbers that are squares $=16, 25, 36, 49, 64, 81$
+2-digit numbers that are squares $=16, \ 25, \ 36, \ 49, \ 64, \ 81$
 
-$25, 36, 49$ and $81$ are not cube numbers.
+$25, \ 36, \ 49$ and $81$ are not cube numbers.
 
-$8^2 = 64$
-
-$4^3 = 64$
+$
+\begin{aligned}
+8^2 &= 64 \\\\
+4^3 &= 64
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2379,7 +2275,7 @@ $64$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

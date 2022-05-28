@@ -1,9 +1,140 @@
 ---
 slug: "topics/topic-ttemperature-pr"
 title: "Topic - Temperature - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>EB3A5A5B-3EA3-4765-ABA1-9AE3D43D7550</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+<!--
+World weather   ,Temp
+Algiers         ,$16 \degree \text{C}$ 
+Barcelona       ,$17 \degree \text{C}$ 
+London          ,$5  \degree \text{C}$ 
+Moscow          ,$-9 \degree \text{C}$ 
+New York        ,$7  \degree \text{C}$ 
+Oslo            ,$-5 \degree \text{C}$
+-->
+
+| World weather |          Temp         |
+|:-------------:|:---------------------:|
+|    Algiers    | $16 \degree \text{C}$ |
+|   Barcelona   | $17 \degree \text{C}$ |
+|     London    | $5  \degree \text{C}$ |
+|     Moscow    | $-9 \degree \text{C}$ |
+|    New York   | $7  \degree \text{C}$ |
+|      Oslo     | $-5 \degree \text{C}$ |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The temperature recorded in Paris was $8 \degree \text{C}$ lower than in London. 
+
+What was the temperature in Paris?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Temperature in Paris} &= \text{Temperature in London} - 8 \\\\
+                             &= 5 - 8 \\\\
+                             &= -3  \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-3  \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What was the difference in temperature between Oslo and NewYork?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Difference in temperature} &= 7 - (-5) \\\\
+                             &= 12 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
@@ -86,7 +217,7 @@ At noon the temperature is $3$ degrees Celsius and it rises at a steady $1.5$ de
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -204,7 +335,7 @@ $5,  \quad 2,  \quad 14,  \quad 2,  \quad 4,  \quad 6,  \quad 7$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -343,7 +474,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -500,7 +631,7 @@ On $1 \text{st}$ January the temperature in London was $-2 \degree \text{C}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -622,7 +753,7 @@ The thermometres below show the tempratures inside and outside a window at midda
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -740,7 +871,7 @@ The thermometers below show the temperatures, in $\degree \text{C}$, inside a fr
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -860,7 +991,7 @@ You can use the following rule to work out the temperature:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1140,7 +1271,7 @@ $-8 \degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6</p>
 </div>
@@ -1166,7 +1297,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Temperature in midday}    &= -3 \degree C \\\\
-\text{Temperature at midnight}  &= -3 + 5 - 11 \degree C 
+\text{Temperature at midnight}  &= -3 \degree C + 5 \degree C - 11 \degree C \\\\
                                 &= -9 \degree C
 \end{aligned}
 $
@@ -1185,7 +1316,7 @@ $-9 \degree C$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>The London Independent Girls' Schools Consortium</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -68,7 +68,7 @@ $2344$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -115,7 +115,7 @@ $1686$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -349,7 +349,7 @@ Write a number in each box to complete the statements.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -458,14 +458,14 @@ $
 \end{aligned}
 $
 
-$\text {Two thousand and sixteen}$ is $\text {one hundred}$ less than $\text {three thousand and sixteen}$.
+$\text {Two thousand nine hundred and sixteen}$ is $\text {one hundred}$ less than $\text {three thousand and sixteen}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Two thousand and sixteen}$
+$\text {Two thousand nine hundred and sixteen}$
 
 </div>
 </div>
@@ -773,12 +773,12 @@ As per the question,
 $
 \begin{aligned}
 (a \times 2) - 3    &= 19 \\\\
-a \times 2          &= 19 - 3 \\\\
-a \times 2          &= 16 \\\\
-a                   &= \dfrac {16} {2} \\\\
-a                   &= \dfrac {8 \times 2} {2} \\\\
-a                   &= \dfrac {8 \times \cancel {2}} {\cancel {2}} \\\\
-a                   &= 8
+a \times 2          &= 19 + 3 \\\\
+a \times 2          &= 22 \\\\
+a                   &= \dfrac {22} {2} \\\\
+a                   &= \dfrac {11 \times 2} {2} \\\\
+a                   &= \dfrac {11 \times \cancel {2}} {\cancel {2}} \\\\
+a                   &= 11
 \end{aligned}
 $
 
@@ -787,7 +787,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8$
+$11$
 
 </div>
 </div>
@@ -841,7 +841,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -991,7 +991,7 @@ In the questions that follow, *choosing from Cameron’s cards*, write numbers o
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1127,7 +1127,7 @@ The information on a pack of ‘*Salmon pasta*’ is shown in the table.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1323,7 +1323,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1480,7 +1480,7 @@ Use this calculation to work out:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1696,7 +1696,7 @@ There are twelve ginger biscuits.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1712,6 +1712,8 @@ How many custard creams are there?
 <div class='working'>
 
 As per the question,
+
+Custard biscuit are a third of other biscuits then chocolate biscuits so they are a third of ginger biscuits. Using that,
 
 $
 \begin{aligned}
@@ -2224,7 +2226,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2350,7 +2352,7 @@ A $10 \text{p}$ coin has a diameter of $25 \ \text{mm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2370,7 +2372,8 @@ $
 &= 40 \times 25 \ \text {mm} \\\\
 &= 40 \times \dfrac {25} {1000} \ \text {m} \\\\
 &= \dfrac {40 \times 25} {1000} \ \text {m} \\\\
-&= \dfrac {1000} {1000} \\\\
+&= \dfrac {40 \times 25} {40 \times 25} \\\\
+&= \dfrac {\cancel {40} \times \cancel {25}} {\cancel {40} \times \cancel {25}} \\\\
 &= 1 \ \text {m}
 \end {aligned}
 $
@@ -2406,7 +2409,7 @@ $
 &= 40 \times 10 \ \text {p} \\\\
 &= 40 \times \pounds \dfrac {10} {100} \\\\
 &= \dfrac {40 \times 10} {100} \\\\
-&= \dfrac {400} {100} \\\\
+&= \dfrac {4 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
 &= \pounds 4
 \end {aligned}
 $
@@ -2439,11 +2442,12 @@ How many coins will Penny need for a $1 \ \text{kilometre}$ line of $10 \text{p}
 
 $
 \begin {aligned}
-&= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
-&= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
-&= \dfrac {40000 \times 25} {25} \\\\
-&= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
-&= 40000
+\text {Penny required}  &= \dfrac {\text {Total distance}} {\text {diameter of one coin}} \\\\
+                        &= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {40000 \times 25} {25} \\\\
+                        &= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
+                        &= 40000
 \end {aligned}
 $
 
@@ -2475,11 +2479,12 @@ What is the total value of a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
 
 $
 \begin {aligned}
-&= 40000 \times 10 \ \text {p} \\\\
-&= 40000 \times \pounds \dfrac {10} {100} \\\\
-&= \dfrac {40000 \times 10} {100} \\\\
-&= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
-&= \pounds 4000
+\text {Total value}     &= \text {Total penny} \times \text {value of one penny} \\\\
+                        &= 40000 \times 10 \ \text {p} \\\\
+                        &= 40000 \times \pounds \dfrac {10} {100} \\\\
+                        &= \dfrac {40000 \times 10} {100} \\\\
+                        &= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+                        &= \pounds 4000
 \end {aligned}
 $
 
@@ -2548,7 +2553,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2670,7 +2675,7 @@ Their marks were $13 \quad 18 \quad 14 \quad 20 \quad 7 \quad 18$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2722,7 +2727,7 @@ What was Ashleigh’s mark?
 <div class='workings'>
 <div class='working'>
 
-$14$
+Ashleigh’s marks are $14$ as $7 + 7 = 14$, $7$ more than Bella’s marks, also $20 - 6 = 14$, $6$ less than Connie’s marks.
 
 </div>
 </div>
@@ -2781,7 +2786,7 @@ Amira checks the time when she sets off on her journey to school in the morning.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2934,7 +2939,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3203,7 +3208,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3339,7 +3344,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3599,7 +3604,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3851,7 +3856,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3983,7 +3988,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4174,7 +4179,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4341,7 +4346,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4624,7 +4629,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4660,7 +4665,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>

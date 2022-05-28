@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -35,10 +35,10 @@ Add: $34 + 87$
 
 $
 \begin{array}{cccccccccccccc}
-    & 3 & 4 \\
-{}+ & 8 & 7 \\
+    &   3   &   4 \\
+{}+ &   8   &   7 \\
 \hline
-1   & 2 & 1
+1   &   2   &   1
 \end{array}
 $
 
@@ -68,7 +68,7 @@ $121$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -82,13 +82,12 @@ Subtract: $82 - 33$
 
 $
 \begin{array}{cccccccccccccc}
-    & 8 & 2 \\
-{}- & 3 & 3 \\
+    &   8   &   2 \\
+{}- &   3   &   3 \\
 \hline
-    & 4 & 9
+    &   4   &   9
 \end{array}
 $
-
 
 </div>
 </div>
@@ -116,7 +115,7 @@ $49$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -128,13 +127,12 @@ Multiply: $17 \times 5$
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{array}{cccccccccccccc}
-       & 1 & 7 \\
-\times &   & 5 \\
+       &    1   &   7 \\
+\times &        &   5 \\
 \hline
-       & 8 & 5 \\
+       &    8   &   5
 \end{array}
 $
 
@@ -364,7 +362,7 @@ $\pounds 11$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -378,10 +376,10 @@ Work out the sum of $43, 108, 57$ and $92$.
 
 $
 \begin{aligned}
-& = 43 + 108 + 57 + 92 \\\\
-& = (43 + 57) + (108 + 92) \\\\
-& = 100 + 200 \\\\
-& = 300
+&= 43 + 108 + 57 + 92 \\\\
+&= (43 + 57) + (108 + 92) \\\\
+&= 100 + 200 \\\\
+&= 300
 \end{aligned}
 $
 
@@ -426,7 +424,6 @@ Write the number fifty-three thousand and eighteen in figures.
 </div>
 <div class='workings'>
 <div class='working'>
-
 
 $53018$
 
@@ -762,7 +759,7 @@ $19$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -788,7 +785,7 @@ Work out each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -938,7 +935,7 @@ following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1226,7 +1223,7 @@ $18$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1295,7 +1292,7 @@ Write one of the words "always", "sometimes" and "never" in the spaces below to 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1499,7 +1496,7 @@ Fill in the missing **words**:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1599,7 +1596,7 @@ In Sydney Australia the time is $11 \ \text{hours}$ ahead of the UK.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1732,7 +1729,7 @@ Duncan decide to stop by for a meal on their way home from work one day.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2025,7 +2022,7 @@ The timetable below shows the morning train times between St Albans and City Tha
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2260,7 +2257,7 @@ Work out, in the same way:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2377,7 +2374,7 @@ Use this method to work out:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2541,7 +2538,7 @@ Isobel travels from $S$ to $T$ on her journey to work each day. Find the shortes
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2777,7 +2774,7 @@ The one that has been circled was used to find Jill's $BMI$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3026,7 +3023,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

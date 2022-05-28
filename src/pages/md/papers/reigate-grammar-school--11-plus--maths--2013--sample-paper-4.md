@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -75,7 +75,7 @@ $3027$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -129,7 +129,7 @@ $1033$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -193,7 +193,7 @@ $40600$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -251,7 +251,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -304,7 +304,7 @@ TODOANSWER
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -546,7 +546,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -678,7 +678,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdecimal
@@ -704,7 +704,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -885,7 +885,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1010,7 +1010,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>51D8875F-8112-439E-9983-2C3C35DDC20B</p>
 </div>
@@ -1043,7 +1043,7 @@ Smallest =
 
 To compare, we can convert all the numbers to fractions, decimals or percentages.
 
-In this case, we will convert all the numbers into fraction.
+In this case, we will convert all the numbers into decimal.
 
 $
 \begin{aligned}
@@ -1114,7 +1114,7 @@ Smallest $= \dfrac {3} {5}$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -1152,7 +1152,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1363,7 +1363,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1641,7 +1641,7 @@ $0.925$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1731,7 +1731,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1822,7 +1822,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>1A62C45F-6E91-4DB6-A919-79615DA30CE9</p>
 </div>
@@ -1838,7 +1838,7 @@ tdecimal
 </div>
 <div class='question question'>
 
-Put these decimals in order,starting with the largest.
+Put these decimals in order, starting with the largest.
 
 $0.201,0.021,0.21$
 
@@ -1870,7 +1870,7 @@ $0.21, \quad 0.201, \quad 0.021$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -1905,7 +1905,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1920,12 +1920,9 @@ What fraction of this flag is shaded?
 <div class='workings'>
 <div class='working'>
 
-If we look at the flag, we can see that 12 portions have been shaded and there are 30 portions in total.
-
-Hence, the fraction that has been shaded $= \dfrac {12} {30}$
-
 $
 \begin{aligned}
+&= \dfrac {\text{Shaded portion}} {\text{Count of portions}} \\\\
 &= \dfrac {12} {30} \\\\
 &= \dfrac {2 \times 6} {5 \times 6} \\\\
 &= \dfrac {2 \times \cancel{6}} {5 \times \cancel{6}} \\\\
@@ -1968,17 +1965,18 @@ Required rectangles to be shaded = Rectangle to be shaded - shaded rectangles
 
 $
 \begin{aligned}
-&= \dfrac {4} {5} \times 30 - \ \text{Shaded rectangle} \\\\
-&= \dfrac {4 \times 30} {5} - 12 \\\\
-&= \dfrac {120} {5} - 12 \\\\
-&= \dfrac {24 \times 5} {5} - 12 \\\\
-&= \dfrac {24 \times \cancel{5}} {\cancel{5}} - 12 \\\\
-&= 24 - 12 \\\\
-&= 12
+\text{No. of rectangels to be shaded}                &= \text{Fraction to be filled} - \ \text{Shaded rectangle} \\\\
+                                                     &= \dfrac {4} {5} \times 30 - 12 \\\\
+                                                     &= \dfrac {4 \times 30} {5} - 12 \\\\
+                                                     &= \dfrac {120} {5} - 12 \\\\
+                                                     &= \dfrac {24 \times 5} {5} - 12 \\\\
+                                                     &= \dfrac {24 \times \cancel{5}} {\cancel{5}} - 12 \\\\
+                                                     &= 24 - 12 \\\\
+                                                     &= 12
 \end{aligned}
 $
 
-So $12$ rectangles more need to be shaded to fill $\dfrac {4} {5}$ of the flag.
+Number of rectangles that needs to be shaded to fill $\dfrac {4} {5} = 12$
 
 </div>
 </div>
@@ -2163,7 +2161,7 @@ $1.354$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>98B9C18C-5D45-4158-A859-9750F91F8CE8</p>
 </div>
@@ -2186,9 +2184,9 @@ To find the biggest number that divides exactly into $28$, $84$, and $126$, we n
 
 $
 \begin{aligned}
-\text {Prime Factors of} \ 28 &= 2 \times \bold {2 \times 7} \\\\
-\text {Prime Factors of} \ 84 &= 2 \times \bold {2} \times 3 \times \bold{7} \\\\
-\text {Prime Factors of} \ 126 &= \bold {2} \times 3 \times \bold{7}
+\text {Prime factors of} \ 28 &= 2 \times \bold {2 \times 7} \\\\
+\text {Prime factors of} \ 84 &= 2 \times \bold {2} \times 3 \times \bold{7} \\\\
+\text {Prime factors of} \ 126 &= \bold {2} \times 3 \times \bold{7}
 \end{aligned}
 $
 
@@ -2200,6 +2198,9 @@ $
 &= 14
 \end{aligned}
 $
+
+
+The biggest number that divides exactly into $28 , 84$ and $126 = 14$
 
 </div>
 </div>
@@ -2215,7 +2216,7 @@ $14$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -2372,7 +2373,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2515,7 +2516,7 @@ tdecimal
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2661,7 +2662,7 @@ Name the shapes below
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2843,7 +2844,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3232,7 +3233,7 @@ You can use each card once to make the number $2538$ like this
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3402,7 +3403,7 @@ The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3580,7 +3581,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3758,7 +3759,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>EA145F02-7976-40D3-B801-9CB40DAF3F47</p>
 </div>
@@ -3853,7 +3854,7 @@ $8640$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -3913,7 +3914,7 @@ The $100^{\text{th}}$ symbol is $=$ &
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>B474E464-5AEF-419A-9B3D-08581A43D0DE</p>
 </div>
@@ -3958,7 +3959,7 @@ $\pounds 2.80$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -4115,7 +4116,7 @@ $820$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>72AA9961-FE6B-438D-AEFB-1F49998E249D</p>
 </div>
@@ -4155,7 +4156,7 @@ Alternative solution
 
 LCM of $2$ and $5 = 10$
 
-Numbers less than 100 that are both divisible by $2$ and $5$ are number ending with $0$
+Numbers less than 100 that are both divisible by $2$ and $5$ are numbers with $0$ at unit place.
 
 $= 10, \ 20, \ 30, \ 40, \ 50, \ 60, \ 70, \ 80, \ 90$
 
@@ -4175,7 +4176,7 @@ $9$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -4201,7 +4202,7 @@ Seven telegraph poles are equally spaced along a road. The distance between the 
 
 As per the question,
 
-Distance between the first and the last Pole
+Let's find the distance between the first and the last pole
 
 $
 \begin{aligned}
@@ -4213,6 +4214,8 @@ $
 &= 804 \text{m}
 \end{aligned}
 $
+
+The distance between the first and the last pole $=804 \text{m}$
 
 </div>
 </div>

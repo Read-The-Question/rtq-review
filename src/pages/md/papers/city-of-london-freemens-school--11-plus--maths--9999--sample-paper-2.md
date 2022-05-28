@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-2"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>City of London Freemen's School</h1>
@@ -14,7 +14,7 @@ date: 2022-05-27 04:53:12
 </div>
 
 # Section Foundation
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_pr_ks question'>
 <div class='uuid'>
@@ -23,7 +23,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -78,7 +78,7 @@ $12000$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -245,7 +245,7 @@ $16$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tnumber
 </li>
 </ul>
 </div>
@@ -485,7 +485,7 @@ $37 , \ 45$
 tdecimal
 </li>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -535,7 +535,7 @@ $5.28$
 </ul>
 
 # Section Middle
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
@@ -547,7 +547,7 @@ $5.28$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -779,7 +779,7 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -890,7 +890,7 @@ $18,14$
 </ul>
 
 # Section Advanced
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-all"
 title: "Topic - Sequence - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -35,7 +35,7 @@ Fill in the missing numbers in the number patterns.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -61,7 +61,7 @@ $
 &&  \footnotesize{\maroonC{(+7)}}   
 &&  \footnotesize{\maroonC{(+7)}}   
 &&  \footnotesize{\maroonC{(+7)}}  \\
--2,  &&    5,  &&  12,  &&   19,  &&   26 && \ldots
+-2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
 \end{matrix}
 $
 
@@ -109,7 +109,7 @@ $
 &&  \footnotesize{\maroonC{(-6)}}   
 &&  \footnotesize{\maroonC{(-6)}}   
 &&  \footnotesize{\maroonC{(-6)}}  \\
-43,  &&    \ldots,  &&  31,  &&   25,  &&   19 && 13
+43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
 \end{matrix}
 $
 
@@ -148,6 +148,7 @@ $2,  \quad 5,  \quad 10,  \quad 17,  \quad \ldots,  \quad 37$
 
 Let's find the difference between the consecutive terms of the sequence.
 
+The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(3)}} 
@@ -218,7 +219,7 @@ Fill in the missing numbers in the sequences below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -244,7 +245,7 @@ $
 &&  \footnotesize{\maroonC{(+5)}}   
 &&  \footnotesize{\maroonC{(+5)}}   
 &&  \footnotesize{\maroonC{(+5)}}  \\
--8,  &&    -3,  &&  2,  &&   7,  &&   \ldots && \ldots
+-8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
 \end{matrix}
 $
 
@@ -285,7 +286,7 @@ $61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is $8$. Hence, the sequence would be:
+The difference between the terms is decreasing $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -294,7 +295,7 @@ $
 &&  \footnotesize{\maroonC{(-8)}}   
 &&  \footnotesize{\maroonC{(-8)}}   
 &&  \footnotesize{\maroonC{(-8)}}  \\
-61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots && 21
+61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
 \end{matrix}
 $
 
@@ -344,7 +345,7 @@ $
 &&  \footnotesize{\maroonC{(\div 2)}}   
 &&  \footnotesize{\maroonC{(\div 2)}}   
 &&  \footnotesize{\maroonC{(\div 2)}}  \\
-240,  &&    120,  &&  \ldots,  &&   30,  &&   15 && \ldots
+240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
 \end{matrix}
 $
 
@@ -409,7 +410,7 @@ Fill in the missing numbers in the sequences below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -733,7 +734,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -896,7 +897,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1138,7 +1139,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1562,7 +1563,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1768,7 +1769,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1940,7 +1941,7 @@ tsequence
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2075,7 +2076,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2254,7 +2255,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2409,7 +2410,7 @@ Fill in the next two numbers in each of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2713,7 +2714,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2851,7 +2852,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3086,7 +3087,7 @@ Write down the next two numbers in these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3302,7 +3303,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3530,7 +3531,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3708,7 +3709,7 @@ Write down the next two items in each of these patterns:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3990,7 +3991,7 @@ $37 , \45$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4161,7 +4162,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4392,7 +4393,7 @@ Write down the next two numbers in each sequence
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4551,7 +4552,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4652,7 +4653,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4808,7 +4809,7 @@ dividing by $2$, adding $1$, multiplying by $2$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4980,7 +4981,7 @@ For each part of this question, complete the sequence by inserting the correct n
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5296,7 +5297,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6419,7 +6420,7 @@ Fill in the missing number of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6591,7 +6592,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6826,7 +6827,7 @@ Fill in the missing numbers in these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6977,7 +6978,7 @@ Fill in the missing numbers from these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7118,7 +7119,7 @@ Write down the next two terms in each of the sequences below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7363,7 +7364,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7538,7 +7539,7 @@ Write down the missing terms in each of the sequences below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7781,7 +7782,7 @@ Fill in the missing numbers in these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8001,7 +8002,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8202,7 +8203,7 @@ $
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8336,7 +8337,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8533,7 +8534,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8748,7 +8749,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9065,7 +9066,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9182,7 +9183,7 @@ Complete the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9329,7 +9330,7 @@ $28 \quad 25 \quad 22 \quad 19 \quad 16 \quad 13 \quad 10 \quad \ldots \quad \ld
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9619,7 +9620,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9900,7 +9901,7 @@ Write down the next term in each of these sequences
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10137,7 +10138,7 @@ Write down the next two numbers in each of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10398,14 +10399,14 @@ $
 &&  \footnotesize{\maroonC{(+3)}}
 &&  \footnotesize{\maroonC{(+3)}}
 &&  \footnotesize{\maroonC{(+3)}}  \\
-6,  &&   9,  &&   12,  &&   15,  &&   18  &&   \ldots
+6,  &&   9,  &&   12,  &&   15,  &&   \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Fifth number}     &= 15 + 3 \\\\
-                        &= 18
+\text{Fifth term}     &= 15 + 3 \\\\
+                      &= 18
 \end{aligned}
 $
 
@@ -10414,7 +10415,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6, && 9, && 12, && 15, && 18$
+$18$
 
 </div>
 </div>
@@ -10476,7 +10477,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10633,7 +10634,7 @@ Fill in the gaps in the sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10773,7 +10774,7 @@ Tom is making patterns with matches.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11092,7 +11093,7 @@ Find the next number in each of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11421,7 +11422,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11710,7 +11711,7 @@ Fill in the missing numbers in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11919,7 +11920,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12156,7 +12157,7 @@ Complete the missing numbers in each of the number sequences below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12418,7 +12419,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12613,7 +12614,7 @@ Write down the next two numbers in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12808,7 +12809,7 @@ Line 3: $3 \times 3 + 7 = 16$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12991,7 +12992,7 @@ Each of these sequences follow a pattern. Write down the next two terms in seque
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13247,7 +13248,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13409,7 +13410,7 @@ Find the next $2$ numbers in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13628,7 +13629,7 @@ Write down the next two terms in each of the sequences below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13819,7 +13820,7 @@ Write the next two terms in each of the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14010,7 +14011,7 @@ Write the next term in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14192,7 +14193,7 @@ Write the next two terms in each of the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14383,7 +14384,7 @@ Fill in the gaps in these number patterns:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14591,7 +14592,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14665,7 +14666,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -14844,7 +14845,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15005,7 +15006,7 @@ Continue the sequences, giving the next two numbers each time :
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15248,7 +15249,7 @@ Below is a repeated pattern of numbered shapes.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15345,7 +15346,7 @@ Continue the following patterns, filling in the next two terms for each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15668,7 +15669,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15871,7 +15872,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16115,7 +16116,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16459,7 +16460,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16658,7 +16659,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16785,7 +16786,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16934,7 +16935,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17307,7 +17308,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17547,7 +17548,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17712,7 +17713,7 @@ Write down the next two terms of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17912,7 +17913,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18039,7 +18040,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18228,7 +18229,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18378,7 +18379,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -18508,7 +18509,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18664,7 +18665,7 @@ Find the missing numbers in the sequences below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18902,7 +18903,7 @@ Write down the next two numbers in each of the following sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19160,7 +19161,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19353,7 +19354,7 @@ What is the next number in each of these sequences?
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19540,7 +19541,7 @@ Find the next **two** numbers in these sequences. Write your answers in the gaps
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19884,7 +19885,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20087,7 +20088,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20254,7 +20255,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20368,7 +20369,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -20602,7 +20603,7 @@ Write the next two numbers for each of the following sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20854,7 +20855,7 @@ Write the next two numbers for each of the following sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21116,7 +21117,7 @@ Write the next two numbers for each of the following sequences
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21375,7 +21376,7 @@ Write the next two numbers for each of the following sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21633,7 +21634,7 @@ Write down the next two numbers in each of the following sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21778,7 +21779,7 @@ Fill in the missing numbers in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22030,7 +22031,7 @@ $-1, -7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>0E67D44A-5CEB-4D9A-884E-E749B2C1F9D0</p>
 </div>
@@ -22055,26 +22056,26 @@ Each number in the sequence is double the previous number. Hence the sequence wo
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}} \\
+&   \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}} \\
 \ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48,  &&  \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Second missing number}       &= \dfrac{3}{2} \\\\
-                                   &= 1.5 \\\\
-\text{First missing number}        &= \dfrac{3}{2 \times 2} \\\\
-                                   &= \dfrac{3}{4} \\\\
-                                   &= 0.75
-\text{Third missing number}        &= 48 \times 2 \\\\
-                                   &= 96
+\text {Second missing number}       &= \dfrac {3} {2} \\\\
+                                    &= 1.5 \\\\
+\text {First missing number}        &= \dfrac {3} {2 \times 2} \\\\
+                                    &= \dfrac {3} {4} \\\\
+                                    &= 0.75
+\text {Third missing number}        &= 48 \times 2 \\\\
+                                    &= 96
 \end{aligned}
 $
 
@@ -22092,12 +22093,12 @@ $\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>DA1C609B-7D16-4855-AF28-E9B812315F33</p>
 </div>
@@ -22130,10 +22131,10 @@ The difference between the terms is $15$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(+15)}} 
-&&  \footnotesize{\maroonC{(+15)}}  
-&&  \footnotesize{\maroonC{(+15)}}   
-&&  \footnotesize{\maroonC{(+15)}}   
+    \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
 &&  \footnotesize{\maroonC{(+15)}}
 &&  \footnotesize{\maroonC{(+15)}}  \\
 150,  &&    165,  &&  180,  &&   195,   &&   210  &&   \ldots && \ldots
@@ -22160,7 +22161,7 @@ $315, 240$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -22213,7 +22214,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22391,7 +22392,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22950,9 +22951,9 @@ Which of these is not part of the sequence?
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+As per the question,
 
-The difference between the terms is $5$. Hence, the sequence would be:
+Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
@@ -22969,11 +22970,11 @@ $
 
 $
 \begin{aligned}
-\text{First  number}       &= 6 \\\\
-\text{Second  number}      &= 12 \\\\
-\text{third  number}       &= 24 \\\\
-\text{fourth  number}      &= 48 \\\\
-\text{fifth  number}       &= \bold{96} \\\\
+\text{First  number}       &= 3 \\\\
+\text{Second  number}      &= 6 \\\\
+\text{third  number}       &= 12 \\\\
+\text{fourth  number}      &= 24 \\\\
+\text{fifth  number}       &= 48 \\\\
 \end{aligned}
 $
 
@@ -22985,7 +22986,7 @@ $
 </div>
 <div class='answer'>
 
-$96$
+$50$
 
 </div>
 </div>
@@ -23029,7 +23030,7 @@ tsequence
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23052,6 +23053,10 @@ What are the next two numbers in the sequence?
 <div class='workings'>
 <div class='working'>
 
+ Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is decreasing by $7$. Hence, the sequence would be
+
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(-4)}} 
@@ -23060,16 +23065,16 @@ $
 &&  \footnotesize{\maroonC{(-4)}}   
 &&  \footnotesize{\maroonC{(-4)}}   
 &&  \footnotesize{\maroonC{(-4)}}  \\
-13,  &&    9,  &&  5,  &&   1,  &&   -3 && \ldots && \ldots
+13,  &&    9,  &&  5,  &&   1,  &&   -3, && \ldots, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First number is}   &= -3 + -4 \\\\
-                        &= -7
-\text{Second number is}   &= -7 + -4 \\\\
-                        &= -11                       
+\text{First number }   &= -3 + -4 \\\\
+                        &= -7 \\\\\
+\text{Second number }   &= -7 + -4 \\\\
+                        &= -11                    
 \end{aligned}
 $
 
@@ -23108,83 +23113,25 @@ What is the rule of the above sequence?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>516A8256-4FAD-4AF0-A7CC-7D00BB6B5147</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many prime numbers are there between $20$ and $30$?
-
-- $0$
-- $1$
-- $2$
-- $3$
-- $4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The prime numbers between $20$ and $30$ are $23, 29$
-
-There are total $2$ prime numbers are there between $20$ and $30$
-
+The difference between the terms is decreasing by $4$. Hence, the rule of the above sequence would be:
+$17 - 4n$
 
 </div>
 </div>
 <div class='answers'>
 <div class='option'>
-<p>C</p>
+<p>B</p>
 </div>
 <div class='answer'>
 
-$2$
+$17 - 4n$
 
 </div>
 </div>
 
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -23303,9 +23250,8 @@ A + 10 + B &= 30 \\\\
 \text{the value of B} &= 6 \\\\
 A + 10 + B &= 30 \\\\
 A + 10 + 6 &= 30 \\\\
-A + 16 &= 30 \\\\
-A &= 30 - 16 \\\\
-A &= 14
+A          &= 30 -10 -6 \\\\
+A          &= 14
 \end{aligned}
 $
 
@@ -23317,7 +23263,7 @@ $
 </div>
 <div class='answer'>
 
-$14$
+$A = 14$
 
 </div>
 </div>
@@ -23509,7 +23455,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23681,7 +23627,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23967,7 +23913,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24145,7 +24091,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24358,7 +24304,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24569,7 +24515,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24739,7 +24685,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25182,7 +25128,7 @@ $3 \quad 7 \quad 11 \quad 15 \quad 19 \quad 23 \quad 27$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25208,7 +25154,7 @@ From the numbers written above, write down
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -25478,7 +25424,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25594,7 +25540,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -25766,7 +25712,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25962,7 +25908,7 @@ tcircle
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26276,7 +26222,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26378,7 +26324,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26547,7 +26493,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26709,7 +26655,7 @@ Fill in the missing numbers in each of these number patterns:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -27184,7 +27130,7 @@ Write down the next two terms in each sequence:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -27404,7 +27350,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>A56D32B4-ADA7-4676-BE6D-CAD6C5B21EE8</p>
 </div>
@@ -27434,7 +27380,7 @@ Fill in the next number in these patterns:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -27534,7 +27480,7 @@ $48$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -27615,7 +27561,7 @@ Continue each sequence by giving the next two terms.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -27830,7 +27776,7 @@ $
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -27944,7 +27890,7 @@ One route from $L$ to $W$ is $LMOSW$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28182,7 +28128,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28794,7 +28740,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28998,7 +28944,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29213,7 +29159,7 @@ The number sequences in this question all go up or down by a fixed number.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29239,7 +29185,7 @@ Write a number in each box to continue the sequence.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -29528,7 +29474,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29992,7 +29938,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -30401,7 +30347,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -31768,7 +31714,7 @@ Write down the next number in each of these sequences
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -32010,7 +31956,7 @@ Write down the next two terms of the following sequences;
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -32249,7 +32195,7 @@ Write your answers in the boxes provided
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

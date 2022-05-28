@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-pr"
 title: "Topic - Ratio - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -89,57 +89,6 @@ $25$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>B1035CFF-9D27-4291-9D78-74E41193350E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A minibus carries $14$ pupils.
-How many buses would be needed to take $300$ pupils?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's solve this using ratios. 
-
-$
-\begin{aligned}
-1 \ \text{minibus}                &: 14 \ \text{pupils} \\\\
-1 \times 22 \ \text{minibuses}    &: 14 \times 22 \ \text{pupils} \\\\
-22 \ \text{minibuses}             &: 308 \ \text{pupils}
-\end{aligned}
-$
-
-$22$ buses are needed to carry $300$ pupils.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$22$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -290,7 +239,7 @@ Work out the following
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -542,7 +491,7 @@ $613$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4C42DA9B-C12A-4A7A-B493-F806C22437DB</p>
 </div>
@@ -570,9 +519,9 @@ This can be solved using ratios.
 
 $
 \begin{aligned}
-2 \ \text{boys}             &: 3 \ \text{girls} \\\\
-2 \times 21 \ \text{boys}   &: 3 \times 21 \ \text{girls} \\\\
-42 \ \text{boys}            &: 63 \ \text{girls}
+2 \ \text {boys}             &: 3 \ \text {girls} \\\\
+2 \times 21 \ \text {boys}   &: 3 \times 21 \ \text {girls} \\\\
+42 \ \text {boys}            &: 63 \ \text {girls}
 \end{aligned}
 $
 
@@ -590,7 +539,7 @@ $63 \ \text{girls}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -636,7 +585,7 @@ Flour $180 \ \text{g}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -791,7 +740,7 @@ tratio
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

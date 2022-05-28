@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Streatham and Clapham High School</h1>
@@ -14,7 +14,7 @@ date: 2022-05-27 04:53:12
 </div>
 
 # Section A
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
@@ -410,7 +410,7 @@ $5, \quad 8, \quad 9, \quad 11, \quad 12, \quad 13, \quad 17, \quad 18, \quad 20
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -644,7 +644,7 @@ $28$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tdecimal
@@ -918,7 +918,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1314,7 +1314,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1420,7 +1420,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1526,7 +1526,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2083,7 +2083,7 @@ $90\%$
 </ul>
 
 # Section B
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -2237,9 +2237,9 @@ Which of these is not part of the sequence?
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+As per the question,
 
-The difference between the terms is $5$. Hence, the sequence would be:
+Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
@@ -2256,11 +2256,11 @@ $
 
 $
 \begin{aligned}
-\text{First  number}       &= 6 \\\\
-\text{Second  number}      &= 12 \\\\
-\text{third  number}       &= 24 \\\\
-\text{fourth  number}      &= 48 \\\\
-\text{fifth  number}       &= \bold{96} \\\\
+\text{First  number}       &= 3 \\\\
+\text{Second  number}      &= 6 \\\\
+\text{third  number}       &= 12 \\\\
+\text{fourth  number}      &= 24 \\\\
+\text{fifth  number}       &= 48 \\\\
 \end{aligned}
 $
 
@@ -2272,7 +2272,7 @@ $
 </div>
 <div class='answer'>
 
-$96$
+$50$
 
 </div>
 </div>
@@ -2296,7 +2296,7 @@ $96$
 tnumber
 </li>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>

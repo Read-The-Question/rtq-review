@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2017-sample-paper-4"
 title: "Csse - 11 Plus - Maths - 2017 - Sample Paper 4"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>CSSE</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nj_g2 question'>
 <div class='uuid'>
@@ -44,7 +44,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -195,7 +195,7 @@ Write the two **prime numbers** in the empty boxes.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -300,7 +300,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -503,7 +503,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -650,7 +650,7 @@ INPUT %symbol% [$\times 7$] %symbol% [-3] %symbol% OUTPUT
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -701,15 +701,18 @@ John obtains an OUTPUT of $39$. What was his INPUT?
 <div class='workings'>
 <div class='working'>
 
+Let input $= a$
+
 As per the question,
 
 $
 \begin {aligned}
-\text {INPUT}   &= (39 +3) \div 7 \\\\
-                &= \dfrac {42} {7} \\\\
-                &= \dfrac {6 \times 7} {7} \\\\
-                &= \dfrac {6 \times \cancel {7}} {\cancel {7}} \\\\
-                &= 6
+(a \times 7) - 3    &= 39 \\\\
+7a                  &= 39 + 3 \\\\
+a                   &= \dfrac {42} {7} \\\\
+a                   &= \dfrac {6 \times 7} {7} \\\\
+a                   &= \dfrac {6 \times \cancel {7}} {\cancel {7}} \\\\
+a                   &= 6
 \end {aligned}
 $
 
@@ -859,7 +862,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -971,7 +974,7 @@ tpower
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1163,7 +1166,7 @@ tunitprompt
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1249,7 +1252,7 @@ A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in *kg*.
 $
 \begin{aligned}
 &= 1029 \ \text {g} \\\\
-&= \dfrac {1029} {100} \ \text {kg} \\\\
+&= \dfrac {1029} {1000} \ \text {kg} \\\\
 &= 1.029 \ \text {kg}
 \end{aligned}
 $
@@ -1450,7 +1453,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1550,6 +1553,9 @@ TODOANSWER
 <li>
 tnumber
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1627,7 +1633,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1808,7 +1814,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1981,7 +1987,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2154,7 +2160,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2313,7 +2319,7 @@ Fill in the missing numbers in these fraction calculations.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2497,7 +2503,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2726,7 +2732,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2895,7 +2901,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

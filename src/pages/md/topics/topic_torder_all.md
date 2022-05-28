@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-all"
 title: "Topic - Order - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -330,7 +330,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -507,7 +507,7 @@ torder
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -694,7 +694,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1085,7 +1085,7 @@ Write each list of numbers in order from smallest to largest
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1212,7 +1212,7 @@ For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1396,7 +1396,7 @@ For example: the product value of ‘$HEAD$’ $= 8 \times 5 \times 1 \times 4 =
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2053,8 +2053,8 @@ Let's arrange them in increasing order of size.
 
 $
 \begin{aligned}
-&= \dfrac {60} {120}, \quad \dfrac {60} {108}, \quad \dfrac {60}{105}, \quad \dfrac {60} {100} \\\\
-&= \dfrac {1} {2}, \quad \dfrac {5} {9}, \quad \dfrac {4} {7}, \quad \dfrac {3} {5}
+&= \dfrac {60} {120}< \quad \dfrac {60} {108}< \quad \dfrac {60}{105}< \quad \dfrac {60} {100} \\\\
+&= \dfrac {1} {2}< \quad \dfrac {5} {9}< \quad \dfrac {4} {7}< \quad \dfrac {3} {5}
 \end{aligned}
 $
 
@@ -2081,8 +2081,8 @@ Let's arrange them in increasing order of size.
 
 $
 \begin{aligned}
-&= \dfrac {315} {630}, \quad \dfrac {350} {630}, \quad \dfrac {360} {630}, \quad \dfrac {378} {630} \\\\
-&= \dfrac {1} {2}, \quad \dfrac {5} {9}, \quad \dfrac {4} {7}, \quad \dfrac {3} {5}
+&= \dfrac {315} {630}< \quad \dfrac {350} {630}< \quad \dfrac {360} {630}< \quad \dfrac {378} {630} \\\\
+&= \dfrac {1} {2}< \quad \dfrac {5} {9}< \quad \dfrac {4} {7}< \quad \dfrac {3} {5}
 \end{aligned}
 $
 
@@ -2146,7 +2146,7 @@ Write these numbers in order of size. Start with the smallest number.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2310,7 +2310,7 @@ Place the following sets of numbers in order, **smallest first**.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2503,7 +2503,7 @@ TODOANSWER
 tdivision
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 torder
@@ -2529,7 +2529,7 @@ torder
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2699,7 +2699,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2755,7 +2755,7 @@ Using any of the digits $4,\ 5$ and $2$ only once in each answer, write down
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -3107,7 +3107,7 @@ $5,  \quad 2,  \quad 14,  \quad 2,  \quad 4,  \quad 6,  \quad 7$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3318,7 +3318,7 @@ torder
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3631,7 +3631,7 @@ Write down, in ascending order, the factors of the following numbers.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3754,8 +3754,8 @@ Let's put them in decending order now.
 
 $
 \begin{aligned}
-&= \dfrac {60} {300} , \quad \dfrac {50} {300} ,  \quad \dfrac {45} {300} \\\\
-&= 20\% , \quad \dfrac {1} {6} , \quad 0.15
+&= \dfrac {60} {300}> \quad \dfrac {50} {300}>  \quad \dfrac {45} {300} \\\\
+&= 20\%> \quad \dfrac {1} {6}> \quad 0.15
 \end{aligned}
 $
 
@@ -3965,15 +3965,15 @@ Let's put them in decending order now.
 
 $
 \begin{aligned}
-&= \dfrac {48} {120}, \quad \dfrac {45} {120}, \quad \dfrac {40}{120} \\\\
-&= \dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}
+&= \dfrac {48} {120}> \quad \dfrac {45} {120}> \quad \dfrac {40}{120} \\\\
+&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {1} {3}
 \end{aligned}
 $
 
 </div>
 <div class='working'>
 
-Alternative Solution
+Alternative solution
 
 If two or more fraction has common numerator then fraction with smallest denominator is the largest.
 
@@ -3989,8 +3989,8 @@ Let's put them in decending order now.
 
 $
 \begin{aligned}
-&= \dfrac {6} {15}, \quad \dfrac {6} {16}, \quad \dfrac {6}{18} \\\\
-&= \dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}
+&= \dfrac {6} {15}> \quad \dfrac {6} {16}> \quad \dfrac {6}{18} \\\\
+&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -4119,7 +4119,7 @@ $0.11> \quad 0.101> \quad 0.011$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>1A62C45F-6E91-4DB6-A919-79615DA30CE9</p>
 </div>
@@ -4135,7 +4135,7 @@ tdecimal
 </div>
 <div class='question question'>
 
-Put these decimals in order,starting with the largest.
+Put these decimals in order, starting with the largest.
 
 $0.201,0.021,0.21$
 
@@ -4167,7 +4167,7 @@ $0.21, \quad 0.201, \quad 0.021$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -4502,7 +4502,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4584,7 +4584,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -4863,7 +4863,7 @@ $\boxed {\dfrac {5} {6}} \quad \boxed {\dfrac {4} {5}} \quad \boxed {70\%} \quad
 torder
 </li>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -5001,7 +5001,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5301,7 +5301,7 @@ Write the following in order of size, smallest first
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5452,7 +5452,7 @@ $9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>C42057EE-31C0-41F9-A55F-42198886E116</p>
 </div>
@@ -5497,12 +5497,12 @@ $0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>8B86594B-D155-4131-86F4-90AD8D47F02B</p>
 </div>
@@ -5529,9 +5529,9 @@ LCM for $4, 5, 10, 20 = 20$
 
 $
 \begin{aligned}
-&= \dfrac{3}{4}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10},  \quad\dfrac{17}{20} \\\\
-&= \dfrac{3 \times 5}{4 \times 5}, \quad \dfrac{3 \times 4}{5 \times 4}, \quad \dfrac{9 \times 2}{10 \times 2}, \quad\dfrac{17}{20} \\\\
-&= \dfrac{15}{20}, \quad \dfrac{12}{20}, \quad \dfrac{18}{20} , \quad\dfrac{17}{20}
+&= \dfrac {3} {4}, \quad \dfrac {3} {5}, \quad \dfrac {9} {10},  \quad\dfrac {17} {20} \\\\
+&= \dfrac {3 \times 5} {4 \times 5}, \quad \dfrac {3 \times 4} {5 \times 4}, \quad \dfrac {9 \times 2} {10 \times 2}, \quad\dfrac{17}{20} \\\\
+&= \dfrac {15} {20}, \quad \dfrac {12} {20}, \quad \dfrac {18} {20} , \quad\dfrac {17} {20}
 \end{aligned}
 $
 
@@ -5539,8 +5539,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac{12}{20} < \quad  \dfrac{15}{20} < \quad \dfrac{17}{20} < \quad \dfrac{18}{20} \\\\
-&= \dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}
+&= \dfrac {12} {20} < \quad  \dfrac {15} {20} < \quad \dfrac {17}{20} < \quad \dfrac {18} {20} \\\\
+&= \dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {9} {10}
 \end{aligned}
 $
 
@@ -5549,7 +5549,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}$
+$\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {9} {10}$
 
 </div>
 </div>
@@ -5558,12 +5558,12 @@ $\dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>CF7CE30C-0A7F-4300-862F-365FA5F28396</p>
 </div>
@@ -5608,7 +5608,7 @@ $4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -5674,7 +5674,7 @@ $1.023, \quad 1.032, \quad 1.2, \quad 1.203, \quad 1.23, \quad 1.302, \quad 1.32
 tnumber
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 torder
@@ -5868,7 +5868,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
 </div>
@@ -5892,11 +5892,15 @@ $250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \t
 <div class='workings'>
 <div class='working'>
 
+$250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m}$
+
+Let's convert them to same units
+
 $
 \begin{aligned}
-&= 250 \ \text {m} \quad  0.52 \ \text {km}    \quad 0.5 \ \text {km} \quad 2.05 \ \text {km} \quad 502 \ \text {m} \\\\
 &= 250 \ \text {m} \quad  520 \ \text {m}    \quad 500 \ \text {m} \quad 2050 \ \text {m} \quad 502 \ \text {m} \\\\
-&= 250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m}
+&= 250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m} \\\\
+&= 250 \ \text{m} \ < \quad 0.5 \ \text{km} \ < \quad 502 \ \text{m} \ < \quad 0.52 \ \text{km} \ < \quad 2.05 \ \text{km}
 \end{aligned}
 $
 
@@ -5905,7 +5909,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m}$
+$250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.52 \ \text{km} \ , \quad 2.05 \ \text{km}$
 
 </div>
 </div>
@@ -5914,7 +5918,7 @@ $250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -5960,7 +5964,7 @@ $\boxed{3} \boxed{5} \boxed{6}  \boxed{7}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5986,7 +5990,7 @@ Using all $5$ cards:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -6530,7 +6534,7 @@ $\text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfra
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>005C15B9-60F0-488A-8FFD-A63DB387E325</p>
 </div>
@@ -6586,7 +6590,7 @@ $\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -6690,6 +6694,9 @@ $5.02, \quad  5.2, \quad 5.202, \quad 5.22$
 <li>
 torder
 </li>
+<li>
+tcircle
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -6781,6 +6788,9 @@ $3.08, \quad 3.8, \quad 3.808, \quad 3.88$
 <li>
 torder
 </li>
+<li>
+tcircle
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -6826,6 +6836,9 @@ $3.564$
 <ul>
 <li>
 torder
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -6942,7 +6955,7 @@ Let's convert all the numbers into decimals.
 $
 \begin{aligned}
 &= 0.66, \quad \dfrac{3}{4}, \quad 70\%, \quad \dfrac{2}{3}, \quad \dfrac{6}{10} \\\\
-&= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60 \\\\
+&= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60
 \end{aligned}
 $
 
@@ -7080,7 +7093,7 @@ Let's convert all the numbers into decimals.
 $
 \begin{aligned}
 &= 0.67, \quad 55 \%, \quad \dfrac {3} {5}, \quad \dfrac {7} {10}, \quad \dfrac {2} {3} \\\\
-&= 0.67, \quad 0.55, \quad 0.60, \quad 0.70, \quad 0.666 \\\\
+&= 0.67, \quad 0.55, \quad 0.60, \quad 0.70, \quad 0.666
 \end{aligned}
 $
 
@@ -7088,13 +7101,12 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= 0.55, \quad  0.60, \quad  0.666, \quad  0.67, \quad  0.70
+&= 0.55, \quad  0.60, \quad  0.666, \quad  0.67, \quad  0.70 \\\\
+&= 55 \%, \quad \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad 0.67, \quad \dfrac {7} {10}
 \end{aligned}
 $
 
-The number in the middle $= 0.666$.
-
-The number in the middle $= \dfrac{2}{3}$.
+The number in the middle $= \dfrac{2}{3}$
 
 </div>
 </div>
@@ -7207,7 +7219,7 @@ Frank chooses **two different** numbers from the bubble shown below, and divides
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7500,7 +7512,7 @@ torder
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7598,7 +7610,7 @@ $0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>75A55853-F6F6-49CC-BDCE-31C9343FD3FB</p>
 </div>
@@ -7626,24 +7638,24 @@ In this case, let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
-&= \dfrac {4} {5} , \quad 0.82 , \quad 0.802 , \quad 8\% , \quad 9 \ \text{hundredths} , \quad \dfrac {3} {4} \\\\
-&= \dfrac {4 \times 20} {5 \times 20} , \quad 0.82 , \quad \dfrac 0.802 , \quad \dfrac {8} {100} , \quad \dfrac {9} {100} , \quad \dfrac {3 \times 25} {4 \times 25} \\\\
-&= \dfrac {80} {100} , \quad 0.82 , \quad 0.802 , \quad \dfrac 0.08 , \quad 0.09 , \quad \dfrac {75}{100} \\\\
-&= 0.8 , \quad 0.82 , \quad 0.802 , \quad \dfrac 0.08 , \quad 0.09 , \quad 0.75
+&= \dfrac {4} {5} , \quad 0.82 , \quad 0.802 , \quad 8\% , \quad 9 \ \text {hundredths} , \quad \dfrac {3} {4} \\\\
+&= \dfrac {4 \times 20} {5 \times 20} , \quad 0.82 , \quad 0.802 , \quad \dfrac {8} {100} , \quad \dfrac {9} {100} , \quad \dfrac {3 \times 25} {4 \times 25} \\\\
+&= \dfrac {80} {100} , \quad 0.82 , \quad 0.802 , \quad 0.08 , \quad 0.09 , \quad \dfrac {75} {100} \\\\
+&= 0.8 , \quad 0.82 , \quad 0.802 , \quad 0.08 , \quad 0.09 , \quad 0.75
 \end{aligned}
 $
 
 Let's put them in ascending order now.
 
-$&= 0.08 , \quad 0.09 , \quad 0.75 , \quad \dfrac 0.8 , \quad 802 , \quad 0.82$
-$8% , \quad 9 \ \text{hundredths}, \quad \dfrac {3}{4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
+$&= 0.08 , \quad 0.09 , \quad 0.75 , \quad 0.8 , \quad 0.802 , \quad 0.82$
+$8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8% , \quad 9 \ \text{hundredths}, \quad \dfrac {3}{4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
+$8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
 
 </div>
 </div>
@@ -7652,7 +7664,7 @@ $8% , \quad 9 \ \text{hundredths}, \quad \dfrac {3}{4} , \quad \dfrac {4} {5} , 
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

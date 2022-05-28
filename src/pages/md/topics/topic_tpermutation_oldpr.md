@@ -1,66 +1,9 @@
 ---
 slug: "topics/topic-tpermutation-oldpr"
 title: "Topic - Permutation - Old PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpermutation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This number plate has the number $279$.
-
-$\boxed {\quad 279 \quad}$
-
-Write down all the other $3$-figure numbers 
-you could make using $2, 7$ and $9$ once in each $3$-figure number.
-You can only use $2, 7$ and $9$ once in each $3$-figure number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find all the $3$ digit numbers using $2, 7$ and $9$.
-
-The possible arrangements are:
-
-- $279$
-- $297$
-- $729$
-- $792$
-- $927$
-- $972$
-
-Count $= 6$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_up_oldpr question'>
 <div class='uuid'>

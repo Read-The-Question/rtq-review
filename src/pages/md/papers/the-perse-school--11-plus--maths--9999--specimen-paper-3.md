@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-3"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -862,13 +862,16 @@ $149.5$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tnumber
 </li>
 <li>
-tmultiplication
+tdetailedaddition
 </li>
 <li>
-tsubtraction
+tdetailedmultiplication
+</li>
+<li>
+tdetailedsubtraction
 </li>
 <li>
 tdecimal

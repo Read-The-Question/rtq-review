@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-pr"
 title: "Topic - Age - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,10 +12,10 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-tage
+tsimpleword
 </li>
 <li>
-tdate
+tage
 </li>
 </ul>
 </div>
@@ -93,7 +93,7 @@ tage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -333,7 +333,7 @@ tage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -555,9 +555,10 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Age of Oak Tree in 2011}  &= \text {Age of Lord Owlynose when he died} + (2011 - 1940) \\\\
-                                 &= 80 + 71 \\\\
-                                 &= 151
+\text {Age of Tree in 2011}  &= \text {Lord's age at death} + (2011 - \text {Year lord died}) \\\\
+                             &= 80 + 2011 - 1940 \\\\
+                             &= 80 + 71 \\\\
+                             &= 151 \ \text {years}
 \end {aligned}
 $
 
@@ -569,7 +570,7 @@ $
 </div>
 <div class='answer'>
 
-$151$
+$151 \ \text {years}$
 
 </div>
 </div>
@@ -793,7 +794,7 @@ The combined age of Alan and Carl is fifty five and the combined age of Ben and 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -890,7 +891,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D315CB50-201F-44CC-B34C-D567BD5B3098</p>
 </div>
@@ -911,15 +912,15 @@ On $1 \text{st}$ December $2008$ my grandmother was $80$ years old. Her daughter
 
 As per the question,
 
-Age of grandmother on $1 \text{st}$ December $2008 = 80 \ \text{years}$
+Age of grandmother on $1 \text {st}$ December $2008 = 80 \ \text {years}$
 
-Age of her daughter on $1 \text{st}$ December $1996 = 40 \ \text{years}$
+Age of her daughter on $1 \text {st}$ December $1996 = 40 \ \text {years}$
 
-Date on which her daughter was born $= 1 \text{st December} 1996 - 40 \ \text{years}$
-                                    $= 1 \text{st December} 1956$
+Date on which her daughter was born $= 1 \text {st December} 1996 - 40 \ \text {years}$
+                                    $= 1 \text {st December} 1956$
 
-Age of grandmother on $1 \text{st December} = 1956 + 80 - 2006$
-                                    $30 \ \text{years}$
+Age of grandmother on $1 \text {st December} = 1956 + 80 - 2006$
+                                    $30 \ \text {years}$
 
 </div>
 </div>
@@ -935,7 +936,7 @@ $30 \ \text{years}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1032,7 +1033,7 @@ tage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1207,7 +1208,7 @@ Helen was born on $1 \text{st}$ March $2003$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1302,6 +1303,9 @@ tage
 <li>
 tdate
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1323,7 +1327,7 @@ Jessica was born on $5$ January $2003$ and her friend Amelia was born exactly $9
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

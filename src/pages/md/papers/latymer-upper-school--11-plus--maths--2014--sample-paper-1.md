@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2014-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Latymer Upper School</h1>
@@ -10,18 +10,18 @@ date: 2022-05-27 04:53:12
 <h3>independent</h3>
 <h3>latymer-upper-school</h3>
 <h3></h3>
-<h3>5</h3>
+<h3>TODO</h3>
 </div>
-<ul class='question number'>
+<ul class='question decimal'>
 <li>
-<div class='question_envelope rag_nc_amber question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -53,21 +53,11 @@ $
 $
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-624
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+&624$
 
 </div>
 </div>
@@ -76,7 +66,7 @@ TODOANSWER
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nc_amber</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -157,7 +147,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -919,17 +909,17 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_amber question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>9AA2E90D-7CEB-4445-8395-AC73877C9536</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tmoney
+tfraction
 </li>
 <li>
-taddition
+tmoney
 </li>
 </ul>
 </div>
@@ -956,26 +946,17 @@ $
 &= \dfrac {80} {100} \times 535 \\\\
 &= \dfrac {80 \times 535} {100} \\\\
 &= \dfrac {42,800} {100} \\\\
+&= \dfrac {42,8 \cancel{00}} {1\cancel{00}} \\\\
 &= 428
 \end {aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-428 pounds
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds428$
 
 </div>
 </div>
@@ -984,7 +965,7 @@ TODOANSWER
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nc_amber</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -1324,7 +1305,7 @@ Fill in the missing numbers in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1531,7 +1512,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1724,7 +1705,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1853,7 +1834,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1972,7 +1953,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2203,7 +2184,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2410,7 +2391,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2660,7 +2641,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2834,7 +2815,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

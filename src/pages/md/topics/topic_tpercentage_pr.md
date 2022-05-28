@@ -1,34 +1,32 @@
 ---
 slug: "topics/topic-tpercentage-pr"
 title: "Topic - Percentage - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>B41505AF-AC7A-4238-AB31-AC2803A3A26B</p>
+<p>D48EBB7F-6353-41D8-8F7E-D81284AECC1E</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
+tpercentage
+</li>
+<li>
 tmoney
 </li>
 <li>
-tpercentage
+tinequality
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Mr and Mrs Newland and their $2$ children were going to a pop concert. 
+Which sign makes each of the following statements true?
 
-The prices were as follows 
-
-|       | Cost            |
-|-------|-----------------|
-| Adult | $\pounds 45.00$ |
-| Child | $\pounds 30.50$ |
+$\large { \boxed{\phantom{5} > \phantom{5} } \quad \boxed{\phantom{5} < \phantom{5} } \quad \boxed{\phantom{5} = \phantom{5} } }$ 
 
 </div>
 <div class='workings'>
@@ -45,7 +43,7 @@ The prices were as follows
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -54,27 +52,20 @@ The prices were as follows
 </div>
 <div class='question subquestion'>
 
-What is the total cost for all four of the family to go to the concert?
+$0.022 \quad \ldots  \quad 0.2$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Total cost} &= 2 \times \text{Adult} + 2 \times \text{Child}  \\\\
-&= 2 \times 45 + 2 \times 30.5 \\\\
-&= 90 + 61 \\\\
-&= \pounds 151 
-\end{aligned}
-$
+$0.022 \quad \boxed{\green{<}}  \quad 0.2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 151$
+$0.022 < 0.2$
 
 </div>
 </div>
@@ -89,28 +80,48 @@ $\pounds 151$
 </div>
 <div class='question subquestion'>
 
-To see the mid-week show there is a special offer where a family ticket, for $2$ adults and $2$ children, costs only $\pounds 125$.
-
-How much would this ticket save the family?
+$15\%$ of $\pounds 300\  \quad \ldots  \quad  20\%$ of $\pounds 240$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+Let's calculate the first value.
+
 $
 \begin{aligned}
-\text{Saving} &= \text{Full price} - \text{Special Offer}  \\\\
-&= 151 - 125 \\\\
-&= \pounds 26 
+&= 15\% \text{ of } \pounds 300 \\\\
+&= \dfrac{15}{100} \times 300 \\\\
+&= \dfrac{15 \times 300}{100}  \\\\
+&= \dfrac{15 \times 3\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 15 \times 3  \\\\
+&= \pounds 45
 \end{aligned}
 $
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 20\% \text{ of } \pounds 240 \\\\
+&= \dfrac{20}{100} \times 240 \\\\
+&= \dfrac{20 \times 240}{100}  \\\\
+&= \dfrac{2\cancel{0} \times 24\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 2 \times 24  \\\\
+&= \pounds 48
+\end{aligned}
+$
+
+Using the calculation above,
+
+$15\%$ of $\pounds 300\  \quad \boxed{\green{<}}  \quad  20\%$ of $\pounds 240$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 26$
+$15\%$ of $\pounds 300\  \quad <  \quad  20\%$ of $\pounds 240$
 
 </div>
 </div>
@@ -125,32 +136,48 @@ $\pounds 26$
 </div>
 <div class='question subquestion'>
 
-$17600$ people attended the concert.
-
-Given that $40 \%$ of these were adults, how many people were adults?
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \ldots  \quad 25\%$ of $\pounds 64$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+Let's calculate the first value.
+
 $
 \begin{aligned}
-\text{Adults}   &= 40 \% \ \text{of} \ 17600  \\\\
-                &= \dfrac {40} {100} \times 17600 \\\\
-                &= \dfrac {40 \times 17600} {100} \\\\
-                &= \dfrac {40 \times 176 \times 100} {100} \\\\
-                &= \dfrac {40 \times 176 \times 1\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
-                &= {40 \times 176} \\\\
-                &= 7040 
+&= \dfrac {2}{5} \text{ of } \pounds 40 \\\\
+&= \dfrac{2 \times 40}{5} \\\\
+&= \dfrac{2 \times 5 \times 8}{5} \\\\
+&= \dfrac{2 \times \cancel{5} \times 8}{\cancel{5}} \\\\
+&= 2 \times 8 \\\\
+&= \pounds 16
 \end{aligned}
 $
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 25\% \text{ of } \pounds 64 \\\\
+&= \dfrac{25}{100} \times 64 \\\\
+&= \dfrac{25 \times 64}{100}  \\\\
+&= \dfrac{1600}{100}  \\\\
+&= \dfrac{16\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= \pounds 16
+\end{aligned}
+$
+
+Using the calculation above,
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green{=}}  \quad 25\%$ of $\pounds 64$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$7040$
+$\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
 
 </div>
 </div>
@@ -296,7 +323,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -415,7 +442,7 @@ This is the sign in a shop:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -993,13 +1020,13 @@ As per the diagram,
 
 $
 \begin {aligned}
-\text {Percentage of the shape that is shaded}  &= \dfrac {\text {Number of boxes shaded}} {\text {Total number of boxes}} \ \text {of} \  100 \\\\
-                                                &= \dfrac {3} {5} \ \text {of} \ 100 \\\\
-                                                &= \dfrac {3 \times 100} {5} \\\\
-                                                &= \dfrac {3 \times 20 \times 5} {5} \\\\
-                                                &= \dfrac {3 \times 20 \times \cancel {5}} {\cancel {5}} \\\\
-                                                &= 3 \times 20 \\\\
-                                                &= 60 \%
+\text {Percentage shaded}   &= \text {Fraction shaded} \times 100 \% \\\\
+                            &= \dfrac {3} 5 \times 100 \\\\
+                            &= \dfrac {3 \times 100} {5} \\\\
+                            &= \dfrac {3 \times 20 \times 5} {5} \\\\
+                            &= \dfrac {3 \times 20 \times \cancel {5}} {\cancel {5}} \\\\
+                            &= 3 \times 20 \\\\
+                            &= 60 \%
 \end {aligned}
 $
 
@@ -1055,7 +1082,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1210,7 +1237,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1401,7 +1428,7 @@ torder
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1644,7 +1671,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1843,7 +1870,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1931,115 +1958,6 @@ $\dfrac {13} {20}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>51D8875F-8112-439E-9983-2C3C35DDC20B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these three is largest and which the smallest?
-
-$65\%\:\:0.605\:\:\dfrac{3}{5}$
-
-Largest =
-
-Smallest = 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, we will convert all the numbers into fraction.
-
-$
-\begin{aligned}
-&= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
-&= \dfrac {65} {100} , \quad 0.605 , \quad \dfrac {3 \times 2} {5 \times 2} \\\\
-&= 0.65 , \quad 0.605 , \quad \dfrac {6} {10} \\\\
-&= 0.65 , \quad 0.605 , \quad 0.6 \\\\
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 0.6<  \quad 0.605<  \quad 0.65 \\\\
-&= \dfrac{3}{5}<  \quad 0.605<  \quad 65\%
-\end{aligned}
-$
-
-Largest $= \ 65\%$
-
-Smallest $= \ \dfrac {3} {5}$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, we will convert all the numbers into fraction.
-
-$
-\begin{aligned}
-&= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
-&= \dfrac {65} {100} , \quad \dfrac {605} {1000} , \quad \dfrac {3} {5} \\\\
-&= \dfrac {65 \times 10} {100 \times 10} , \quad \dfrac {605} {1000} , \quad \dfrac {3 \times 200} {5 \times 200} \\\\
-&= \dfrac {650} {1000} , \quad \dfrac {605} {1000} , \quad \dfrac {600} {1000} \\\\
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {600} {1000}<  \quad \dfrac {605} {1000}<  \quad \dfrac {650} {1000} \\\\
-&= \dfrac{3}{5}<  \quad 0.605<  \quad 65\%
-\end{aligned}
-$
-
-Largest $= \ 65\%$
-
-Smallest $= \ \dfrac {3} {5}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Largest $= 65\%$
-
-Smallest $= \dfrac {3} {5}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>7F7BEB1F-1352-462D-862B-8AEFB56B58F6</p>
 </div>
 <div class='topics'>
@@ -2102,7 +2020,7 @@ $0.925$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2242,7 +2160,7 @@ Work out, making sure to show your working:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2568,7 +2486,7 @@ In one week, the hens on the Billings family farm lay $389$ eggs. The eggs are p
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2782,7 +2700,7 @@ A concert hall has $128$ rows of $35$ seats.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2913,7 +2831,7 @@ The rest of the members are children.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3166,7 +3084,7 @@ $\dfrac{3}{25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4856BEAB-6A07-4C28-8CA2-6773788E9F82</p>
 </div>
@@ -3209,12 +3127,12 @@ $459$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1F54DF7F-1E4E-4CDC-A7A2-5D50C56188C5</p>
 </div>
@@ -3241,13 +3159,13 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
-\text{Hebe score}       &= 60\% \ \text{of} \ 60 - 30 \\\\
-                        &= \dfrac {60}{100} \times 60 - 30 \\\\
-                        &= \dfrac{60 \times 60}{100} - 30 \\\\
-                        &= \dfrac{6 \cancel{0} \times 6 \cancel{0}}{1 \cancel{0} \cancel{0}} -30 \\\\
-                        &=36 - 30 \\\\
-                        &= 6
+\text {Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
+\text {Hebe score}            &= 60\% \ \text{of} \ 60 - 30 \\\\
+                              &= \dfrac {60} {100} \times 60 - 30 \\\\
+                              &= \dfrac {60 \times 60} {100} - 30 \\\\
+                              &= \dfrac {6 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} -30 \\\\
+                              &=36 - 30 \\\\
+                              &= 6
 \end{aligned}
 $
 
@@ -3267,12 +3185,12 @@ $6$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>007B2641-042F-43E0-8E20-0BE481209612</p>
 </div>
@@ -3294,10 +3212,10 @@ What number is $40\%$ of $75$?
 $
 \begin{aligned}
 &= 40\%$ \ \text{of} \ 75 \\\\
-&= \dfrac{40}{100} \times 75 \\\\
-&= \dfrac{40 \times 75}{100} \\\\
-&= \dfrac{4 \times 10 \times 3 \times 25}{4 \times 25} \\\\
-&= \dfrac{\cancel{4} \times 10 \times 3 \times \cancel{25}}{\cancel{4} \times \cancel{25}} \\\\
+&= \dfrac {40} {100} \times 75 \\\\
+&= \dfrac {40 \times 75} {100} \\\\
+&= \dfrac {4 \times 10 \times 3 \times 25} {4 \times 25} \\\\
+&= \dfrac {\cancel{4} \times 10 \times 3 \times \cancel{25}} {\cancel{4} \times \cancel{25}} \\\\
 &= 10 \times 3 \\\\
 &= 30 
 \end{aligned}
@@ -3317,7 +3235,7 @@ $30$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -3698,7 +3616,7 @@ She has one $50 \ \text{pence}$ coin, two $20 \ \text{pence}$ coins, one $5 \ \t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3798,7 +3716,7 @@ On the scale below, mark:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -3898,7 +3816,7 @@ $\text {Impossible}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D77A8B7B-174A-43B6-BD7A-E491EC6999DC</p>
 </div>
@@ -3993,12 +3911,13 @@ How long does he spend playing with his friends?
 
 $
 \begin{aligned}
-&= 75 \% \ \text {of} 20 \ \text {min} \\\\
-&= \dfrac {75} {100} \times 20 \\\\
-&= \dfrac {75} {10 \cancel 0} \times 2\ cancel 0 \\\\
-&= \dfrac {15 \times 5 \times 2} {5 \times 2} \\\\
-&= \dfrac {15 \times \cancel 5 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
-&= 15 \ \text {min}
+&= 75 \% \ \text {of} \ 40 \ \text {min} \\\\
+&= \dfrac {75} {100} \times 40 \\\\
+&= \dfrac {75} {10 \cancel 0} \times 4\cancel 0 \\\\
+&= \dfrac {15 \times 5 \times 4} {5 \times 2} \\\\
+&= \dfrac {15 \times 5 \times 2 \times 2} {5 \times 2} \\\\
+&= \dfrac {15 \times \cancel 5 \times 2 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
+&= 30 \ \text {min}
 \end{aligned}
 $
 
@@ -4007,7 +3926,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15 \ \text {min}$
+$30 \ \text {min}$
 
 </div>
 </div>
@@ -4030,8 +3949,8 @@ What percentage of his total lunch break does Harry spend playing with his frien
 
 $
 \begin{aligned}
-&= \dfrac {15 \times 100} {100} \\\\
-&= 15 \%
+&= \dfrac {30} {60} \times 100 \\\\
+&= 50 \%
 \end{aligned}
 $
 
@@ -4040,7 +3959,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15 \%$
+$50 \%$
 
 </div>
 </div>
@@ -4052,7 +3971,7 @@ $15 \%$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -4244,13 +4163,13 @@ As per the question,
 
 $
 \begin{aligned}
-80\% \text{ of } p              &= 60 \\\\ 
-\dfrac {80 } { 100 } \times p   &= 60 \\\\ 
-p                               &= \dfrac {60 \times 100 } { 80 } \\\\ 
-p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\ 
-p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\ 
-p                               &= 3 \times 25 \\\\ 
-p                               &= \pounds 75 
+80\% \text{ of } p              &= 60 \\\\
+\dfrac {80 } { 100 } \times p   &= 60 \\\\
+p                               &= \dfrac {60 \times 100 } { 80 } \\\\
+p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\
+p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\
+p                               &= 3 \times 25 \\\\
+p                               &= \pounds 75
 \end{aligned}
 $
 
@@ -4348,7 +4267,8 @@ Work out $15 \%$ of $\pounds 5$.
 $
 \begin{aligned}
 &= 15 \% \ \text {of} \ \pounds 5 \\\\
-&= 15 \% \ \text {of} \ 500 \ \text{pence} \\\\
+&= 15 \% \ \text {of} \ 5 \times 100 \ \text{pence} \\\\
+&= 15 \% \times 5 \times 100 \ \text{pence} \\\\
 &= \dfrac {15} {100} \times 500 \\\\
 &= \dfrac {15 \times 500} {100} \\\\
 &= \dfrac {15 \times 5\cancel{00}} {1\cancel{00}} \\\\
@@ -4397,12 +4317,12 @@ What is $40 \%$ of $650 \ \text{grams}$?
 
 $
 \begin{aligned}
-&= 40\% \ \text{of}\ 650 \ \text{grams} \\\\
+&= 40\% \ \text {of}\ 650 \ \text{grams} \\\\
 &= \dfrac {40} {100} \times 650 \\\\
 &= \dfrac {40 \times 650} {100} \\\\
-&= \dfrac {4\cancel{0} \times 65\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
+&= \dfrac {4 \cancel {0} \times 65 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
 &= 4 \times 65 \\\\
-&= 260 \ \text{g}
+&= 260 \ \text {grams}
 \end{aligned}
 $
 
@@ -4411,7 +4331,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$260 \ \text{g}$
+$260 \ \text {grams}$
 
 </div>
 </div>
@@ -4509,7 +4429,7 @@ M-power charge a fixed amount of $\pounds 16.20$ **each month** plus $40\text{p}
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4681,7 +4601,7 @@ tratio
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4843,7 +4763,7 @@ $3 \ratio 7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>AB828C03-B38E-492A-A9FB-885D098D187F</p>
 </div>
@@ -4867,13 +4787,12 @@ Calculate $(40\% of 90) + (3/7 of 63)$
 
 $
 \begin{aligned}
-&= 40\% \ \text{of} \ 90 + \dfrac {3} {7} \ \text{of} \ 63 \\\\
+&= 40\% \ \text {of} \ 90 + \dfrac {3} {7} \ \text {of} \ 63 \\\\
 &= \dfrac {40} {100} \times 90 + \dfrac {3} {7} \times 63 \\\\
 &= \dfrac {40 \times 90} {100} + \dfrac {3 \times 63} {7} \\\\
 &= \dfrac {4 \cancel {0} \times 9 \cancel {0}} {1 \cancel {0} \cancel {0}} + \dfrac {3 \times 9 \times 7} {7} \\\\
 &= 4 \times 9 + \dfrac {3 \times 9 \times \cancel {7}} {\cancel {7}} \\\\
 &= 4 \times 9 + 3 \times 9 \\\\
-&= 36 + 27 \\\\
 &= 36 + 27 \\\\
 &= 63
 \end{aligned}
@@ -4893,7 +4812,7 @@ $63$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -4931,7 +4850,7 @@ A bag contains coloured balls. There are **4 red**, **2 blue** and **1 green** i
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5106,7 +5025,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>A3C01E30-4AAA-4DBB-B19E-8F08BBF264E5</p>
 </div>
@@ -5146,7 +5065,7 @@ $
 \begin{aligned}
 &= \dfrac {15} {300} \times 100 \\\\
 &= \dfrac {15 \times 100} {300} \\\\
-&= \dfrac {15 \times 1 \cancel{0} \cancel{0}} {3 \cancel{0} \cancel{0}} \\\\
+&= \dfrac {15 \times 1 \cancel {00}} {3 \cancel {00}} \\\\
 &= \dfrac {15} {3} \\\\
 &= \dfrac {3 \times 5} {3} \\\\
 &= \dfrac {\cancel {3} \times 5} {\cancel {3}} \\\\
@@ -5168,7 +5087,7 @@ $5\%$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -5203,7 +5122,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5229,7 +5148,7 @@ Write the missing numbers.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>

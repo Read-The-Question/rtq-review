@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-pr"
 title: "Topic - Unit - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -88,7 +88,7 @@ Convert these lengths:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -270,7 +270,7 @@ tunitprompt
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -356,7 +356,7 @@ A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in *kg*.
 $
 \begin{aligned}
 &= 1029 \ \text {g} \\\\
-&= \dfrac {1029} {100} \ \text {kg} \\\\
+&= \dfrac {1029} {1000} \ \text {kg} \\\\
 &= 1.029 \ \text {kg}
 \end{aligned}
 $
@@ -518,6 +518,9 @@ $760 \ \text{g}$
 <li>
 tunit
 </li>
+<li>
+tfakeratio
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -528,15 +531,14 @@ One inch is about $2.5 \ \text{centimetres}$. How many inches are roughly equal 
 <div class='workings'>
 <div class='working'>
 
-As we know, $1 \ \text{metre} = 100 \ \text{centimetres}$ $52$. So,
-
 $
 \begin{aligned}
-\text {Total inches in 1 metre}      &= 100 \div 2.5  \\\\
-                                     &= \dfrac {100} {2.5} \\\\
-                                     &= \dfrac {2.5 \times 40} {2.5} \\\\
-                                     &= \dfrac {\cancel {2.5} \times 40} {\cancel {2.5}} \\\\
-                                     &= 40 \ \text{inches}
+1 \ \text {centimetres}               &= \dfrac {1} {2.5} \ \text {inches} \\\\
+1 \times 100 \ \text {centimetres}    &= \dfrac {100} {2.5} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {1000} {25} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {40 \times 25} {25} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {40 \times \cancel {25}} {\cancel {25}} \ \text {inches} \\\\
+1 \ \text {metre}                     &= 40 \ \text {inches} \\\\
 \end{aligned}
 $
 
@@ -647,7 +649,7 @@ A pencil is measured as $7.8\,cm$ long. How long is the pencil in these units,
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -754,7 +756,7 @@ I live $5.2\,km$ from Anfield.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -955,7 +957,7 @@ A ream of paper consists of $500$ sheets. If one sheet of paper has a mass of $4
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1166,7 +1168,7 @@ $0.034 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
 </div>
@@ -1190,11 +1192,15 @@ $250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \t
 <div class='workings'>
 <div class='working'>
 
+$250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m}$
+
+Let's convert them to same units
+
 $
 \begin{aligned}
-&= 250 \ \text {m} \quad  0.52 \ \text {km}    \quad 0.5 \ \text {km} \quad 2.05 \ \text {km} \quad 502 \ \text {m} \\\\
 &= 250 \ \text {m} \quad  520 \ \text {m}    \quad 500 \ \text {m} \quad 2050 \ \text {m} \quad 502 \ \text {m} \\\\
-&= 250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m}
+&= 250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m} \\\\
+&= 250 \ \text{m} \ < \quad 0.5 \ \text{km} \ < \quad 502 \ \text{m} \ < \quad 0.52 \ \text{km} \ < \quad 2.05 \ \text{km}
 \end{aligned}
 $
 
@@ -1203,7 +1209,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m}$
+$250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.52 \ \text{km} \ , \quad 2.05 \ \text{km}$
 
 </div>
 </div>
@@ -1212,7 +1218,7 @@ $250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1253,7 +1259,7 @@ In each list below, circle the most sensible unit to measure:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1369,7 +1375,7 @@ A $10 \text{p}$ coin has a diameter of $25 \ \text{mm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1389,7 +1395,8 @@ $
 &= 40 \times 25 \ \text {mm} \\\\
 &= 40 \times \dfrac {25} {1000} \ \text {m} \\\\
 &= \dfrac {40 \times 25} {1000} \ \text {m} \\\\
-&= \dfrac {1000} {1000} \\\\
+&= \dfrac {40 \times 25} {40 \times 25} \\\\
+&= \dfrac {\cancel {40} \times \cancel {25}} {\cancel {40} \times \cancel {25}} \\\\
 &= 1 \ \text {m}
 \end {aligned}
 $
@@ -1425,7 +1432,7 @@ $
 &= 40 \times 10 \ \text {p} \\\\
 &= 40 \times \pounds \dfrac {10} {100} \\\\
 &= \dfrac {40 \times 10} {100} \\\\
-&= \dfrac {400} {100} \\\\
+&= \dfrac {4 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
 &= \pounds 4
 \end {aligned}
 $
@@ -1458,11 +1465,12 @@ How many coins will Penny need for a $1 \ \text{kilometre}$ line of $10 \text{p}
 
 $
 \begin {aligned}
-&= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
-&= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
-&= \dfrac {40000 \times 25} {25} \\\\
-&= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
-&= 40000
+\text {Penny required}  &= \dfrac {\text {Total distance}} {\text {diameter of one coin}} \\\\
+                        &= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {40000 \times 25} {25} \\\\
+                        &= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
+                        &= 40000
 \end {aligned}
 $
 
@@ -1494,11 +1502,12 @@ What is the total value of a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
 
 $
 \begin {aligned}
-&= 40000 \times 10 \ \text {p} \\\\
-&= 40000 \times \pounds \dfrac {10} {100} \\\\
-&= \dfrac {40000 \times 10} {100} \\\\
-&= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
-&= \pounds 4000
+\text {Total value}     &= \text {Total penny} \times \text {value of one penny} \\\\
+                        &= 40000 \times 10 \ \text {p} \\\\
+                        &= 40000 \times \pounds \dfrac {10} {100} \\\\
+                        &= \dfrac {40000 \times 10} {100} \\\\
+                        &= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+                        &= \pounds 4000
 \end {aligned}
 $
 
@@ -1557,7 +1566,7 @@ There are $200$ sheets of paper in a pad. The pad is $1.6\,cm$ thick. Find the t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1693,7 +1702,7 @@ ttime
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

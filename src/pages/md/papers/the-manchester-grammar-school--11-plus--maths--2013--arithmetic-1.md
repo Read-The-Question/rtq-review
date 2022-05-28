@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2013-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2013 - Arithmetic 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
@@ -22,6 +22,9 @@ date: 2022-05-27 04:53:12
 <ul>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -61,7 +64,7 @@ $212057$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -108,7 +111,7 @@ $247$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -206,13 +209,7 @@ $\dfrac {7} {25}$
 <div class='topics'>
 <ul>
 <li>
-taddition
-</li>
-<li>
-tmultiplication
-</li>
-<li>
-tsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -407,12 +404,14 @@ As per the question,
 
 $
 \begin {aligned}
-85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w     &= 5 \ \text {metre} \\\\
-85 \ \text {cm} +  250 \ \text {cm} + 65 \ \text {cm} + w         &= 500 \ \text {cm} \\\\
-85  + 250  + 65 + w                                               &= 500  \\\\
-400 + w                                                           &= 500 \\\\
-w                                                                 &= 500 - 400 \\\\
-w                                                                 &= 100 \ \text {cm}
+85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w                                               &= 5 \ \text {metre} \\\\
+85 \ \text {cm} +  2.5 \times 100 \ \text {cm} + \dfrac {650} {10} \ \text {cm} + w                         &= 5 \times 100 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + \dfrac {65 \cancel {0}} {1 \cancel {0}} \ \text {cm} + w              &= 500 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + 65 \ \text {cm} + w                                                   &= 500 \ \text {cm} \\\\
+85  + 250  + 65 + w                                                                                         &= 500  \\\\
+400 + w                                                                                                     &= 500 \\\\
+w                                                                                                           &= 500 - 400 \\\\
+w                                                                                                           &= 100 \ \text {cm}
 \end {aligned}
 $
 
@@ -668,7 +667,7 @@ $\pounds 7$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -744,7 +743,8 @@ Work out $15 \%$ of $\pounds 5$.
 $
 \begin{aligned}
 &= 15 \% \ \text {of} \ \pounds 5 \\\\
-&= 15 \% \ \text {of} \ 500 \ \text{pence} \\\\
+&= 15 \% \ \text {of} \ 5 \times 100 \ \text{pence} \\\\
+&= 15 \% \times 5 \times 100 \ \text{pence} \\\\
 &= \dfrac {15} {100} \times 500 \\\\
 &= \dfrac {15 \times 500} {100} \\\\
 &= \dfrac {15 \times 5\cancel{00}} {1\cancel{00}} \\\\
@@ -864,7 +864,7 @@ l                       &= 24 \ \text{cm}
 \end{aligned}
 $
 
-Length of the second cuboid (in $\text{cm}$) $= 24 \ \text{cm}$
+Length of the second cuboid $= 24 \ \text{cm}$
 
 </div>
 </div>

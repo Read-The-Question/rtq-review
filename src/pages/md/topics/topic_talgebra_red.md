@@ -1,86 +1,9 @@
 ---
 slug: "topics/topic-talgebra-red"
 title: "Topic - Algebra - Red"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_up_red question'>
-<div class='uuid'>
-<p>5956440A-E503-4587-BFE7-D009144AE8EE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tperimeter
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mr Bevestock has a square garden which is $81 \ \text{m}^2$.
-
-He decides to put a post every $1 \ \text{m}$ around the perimeter of his garden from which to hang decorations.
-
-How many posts will he need?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's the side of the square garden (in $\text{m}$) $= s$
-
-$\text{Area of square} = \text{side} \times \text{side}$
-
-As per the question,
-
-$
-\begin{aligned}
-s \times s      &= 81 \\\\
-s^2             &= 81 \\\\
-s               &= \sqrt{81} \\\\
-s               &= 9  \ \text{m}
-\end{aligned}
-$
-
-** INFER_DESCRIPTION_STARTS The $4$ corners will be counted twice, so ensure we account for that in the final calculation INFER_DESCRIPTION_ENDS **
-
-*Note: The $4$ corners will be counted twice, so ensure we account for that in the final calculation.*
-
-$
-\begin{aligned}
-\text{Tree height after second year}    &= 4 \times 9 - 4 \\\\
-                                        &= 36 - 4 \\\\
-                                        &= 32
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_red</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_nm_red question'>
 <div class='uuid'>
@@ -448,7 +371,7 @@ $17$ tickets cost $\pounds 21.25$. They all cost the same.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -753,7 +676,7 @@ She says that the result is $33$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -970,7 +893,7 @@ A tea leaf weighs $0.008 \ \text{grams}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1374,7 +1297,7 @@ Susan is making a necklace of beads, using red and yellow beads in the ratio 2 :
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

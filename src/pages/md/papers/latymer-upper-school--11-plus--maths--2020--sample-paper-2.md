@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-2"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Latymer Upper School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -79,7 +79,7 @@ $69977$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -273,7 +273,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -1261,20 +1261,14 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_amber question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>E333CCD4-4A4B-4AE8-8804-73CF98BB3014</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-taddition
-</li>
-<li>
-tsubtraction
-</li>
-<li>
-tdivision
+tnumber
 </li>
 </ul>
 </div>
@@ -1307,7 +1301,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1357,19 +1351,21 @@ Subtract $-23$ from $-81$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{array}{cccccccccccccc}
          &   {}-   &   2   &   3 \\
          &   {}-   &   8   &   1 \\
 \hline
 {}-      &   1     &   0   &   4
 \end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$-104$
 
 </div>
 </div>
@@ -1390,24 +1386,22 @@ Divide $1898$ by $26$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+1898 \div 26 \\\\
+&= \dfrac{1898}{26} \\\\
+&=  \dfrac{73 \times 26}{26} \\\\
+&=  \dfrac{73 \times \cancel {26}}{\cancel {26}} \\\\
+&=  73
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$73$
 
 </div>
 </div>
@@ -1419,7 +1413,7 @@ TODOANSWER
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_amber</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -1457,7 +1451,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1651,7 +1645,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1781,7 +1775,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1904,7 +1898,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2134,7 +2128,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2341,7 +2335,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2509,7 +2503,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

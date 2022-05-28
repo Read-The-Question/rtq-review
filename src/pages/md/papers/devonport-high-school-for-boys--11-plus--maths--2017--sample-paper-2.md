@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2017-sample-paper-2"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Devonport High School for Boys</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
@@ -243,7 +243,7 @@ $9$
 <div class='topics'>
 <ul>
 <li>
-tratio
+tfakeratio
 </li>
 </ul>
 </div>
@@ -256,17 +256,15 @@ How many buses would be needed to take $300$ pupils?
 <div class='workings'>
 <div class='working'>
 
-Let's solve this using ratios. 
-
 $
 \begin{aligned}
-1 \ \text{minibus}                &: 14 \ \text{pupils} \\\\
-1 \times 22 \ \text{minibuses}    &: 14 \times 22 \ \text{pupils} \\\\
-22 \ \text{minibuses}             &: 308 \ \text{pupils}
+\text{Buses needed}     &= \dfrac {300} {14} \\\\
+                        &= 21.\dot{4} \\\\
+                        &= 22
 \end{aligned}
 $
 
-$22$ buses are needed to carry $300$ pupils.
+Rounding up, $22$ buses are needed to carry $300$ pupils.
 
 </div>
 </div>
@@ -488,14 +486,14 @@ What does the $6$ in the number $3567.23$ stand for?
 <div class='workings'>
 <div class='working'>
 
-$\text {Tens}$
+$60$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Tens}$
+$60$
 
 </div>
 </div>
@@ -594,24 +592,13 @@ How many times can $137$ be subtracted from $1024$ before we get to zero?
 
 $
 \begin{aligned}
-\text {one}     &= 1024 - 137 \\\\
-                &= 887 \\\\
-\text {two}     &= 887 - 137 \\\\
-                &= 750 \\\\
-\text {three}   &= 750 - 137 \\\\
-                &= 613 \\\\
-\text {four}    &= 613 - 137 \\\\
-                &= 476 \\\\
-\text {five}    &= 476 - 137 \\\\
-                &= 339 \\\\
-\text {six}     &= 339 - 137 \\\\
-                &= 202 \\\\
-\text {seven}   &= 202 - 137 \\\\
-                &= 65
+\text{Number of times}  &= \dfrac {1024} {137} \\\\
+                        &= 7.47 \\\\
+                        &= 7
 \end{aligned}
 $
 
-$137$ can be subtracted seven times from $1024$ before we get zero. 
+$137$ can be subtracted seven times from $1024$ before we get to zero.
 
 </div>
 </div>
@@ -1285,8 +1272,6 @@ What fraction of an hour is $5$ minutes?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As we know, minutes in an hour $=60$. So,
 
 $
 \begin{aligned} 

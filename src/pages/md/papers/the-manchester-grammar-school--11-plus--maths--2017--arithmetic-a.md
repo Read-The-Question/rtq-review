@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic A"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
@@ -22,6 +22,9 @@ date: 2022-05-27 04:53:12
 <ul>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -61,7 +64,7 @@ $308520$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -241,7 +244,7 @@ Let's convert all the numbers into decimals.
 $
 \begin{aligned}
 &= 0.67, \quad 55 \%, \quad \dfrac {3} {5}, \quad \dfrac {7} {10}, \quad \dfrac {2} {3} \\\\
-&= 0.67, \quad 0.55, \quad 0.60, \quad 0.70, \quad 0.666 \\\\
+&= 0.67, \quad 0.55, \quad 0.60, \quad 0.70, \quad 0.666
 \end{aligned}
 $
 
@@ -249,13 +252,12 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= 0.55, \quad  0.60, \quad  0.666, \quad  0.67, \quad  0.70
+&= 0.55, \quad  0.60, \quad  0.666, \quad  0.67, \quad  0.70 \\\\
+&= 55 \%, \quad \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad 0.67, \quad \dfrac {7} {10}
 \end{aligned}
 $
 
-The number in the middle $= 0.666$.
-
-The number in the middle $= \dfrac{2}{3}$.
+The number in the middle $= \dfrac{2}{3}$
 
 </div>
 </div>
@@ -283,7 +285,7 @@ $\dfrac {2} {3}$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdecimal
@@ -480,8 +482,8 @@ As per the question,
 $
 \begin{aligned}
 &= 1.4 \ \text{m} + 33 \ \text{cm} + 580 \ \text{mm} \\\\
+&= 1.4 \times 100 \ \text {cm} + 33 \ \text{cm} + \dfrac {580} {10} \ \text{cm} \\\\
 &= 140 \ \text{cm} + 33 \ \text{cm} + 58 \ \text{cm} \\\\
-&= 140 + 33  + 58  \\\\
 &= 231 \ \text{cm}
 \end {aligned}
 $
@@ -723,12 +725,13 @@ $
 
 Original number is $= 476$
 
-
 Let's find the actual answer Aidan should have got.
 
 $
 \begin{aligned}
 &= \dfrac {476} {17} \\\\
+&= \dfrac {28 \times 17} {17} \\\\
+&= \dfrac {28 \times \cancel {17}} {\cancel {17}} \\\\
 &= 28
 \end{aligned}
 $
@@ -778,39 +781,39 @@ Work out the area of the rectangle in $\text{square centimetres}$ $(\text{cm}^2)
 <div class='workings'>
 <div class='working'>
 
-Let the width of the rectangle (in $\text{cm}$) $= w$
+Let the width of the rectangle (in $\text {cm}$) $= w$
 
 Then as per the question, length of the rectangle $= 3w$
 
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+$\text {Perimeter} = 2 \times (\text {length} + \text {width})$
 
 Equating the perimeter to length and width we get,
 
 $
-\begin{aligned}
+\begin {aligned}
 2 \times (3w + w)   &= 160 \\\\
 2 \times 4w         &= 160 \\\\
 8w                  &= 160 \\\\
-w                   &= \dfrac{160}{8} \\\\
-w                   &= 20 \ \text{cm}
-\end{aligned}
+w                   &= \dfrac {160} {8} \\\\
+w                   &= 20 \ \text {cm}
+\end {aligned}
 $
 
 $
-\begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-\text{Length}       &= 3w \\\\
-                    &= 3 \times 20 \\\\
-                    &= 60 \ \text{cm}
-\end{aligned}
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+\text {Length}       &= 3w \\\\
+                     &= 3 \times 20 \\\\
+                     &= 60 \ \text {cm}
+\end {aligned}
 $
 
 $
-\begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-                    &= 60 \times 20 \\\\
-                    &= 1200 \ \text{cm}^{2}
-\end{aligned}
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+                     &= 60 \times 20 \\\\
+                     &= 1200 \ \text {cm}^{2}
+\end {aligned}
 $
 
 </div>
@@ -818,7 +821,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1200 \ \text{cm}^2$
+$1200 \ \text {cm}^2$
 
 </div>
 </div>

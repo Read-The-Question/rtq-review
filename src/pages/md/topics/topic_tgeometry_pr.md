@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-pr"
 title: "Topic - Geometry - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -253,7 +253,7 @@ Write down the number of:
 %empty%
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -550,7 +550,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -768,98 +768,6 @@ $60 \degree$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>FA3111F3-33F1-4247-9DB3-34AB4A300F6F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tgeometry
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A room measures $8 \ \text{m}$ by $20 \ \text{m}$.
-Isabelle wants to tile the floor with square tiles.
-
-What is the length of the largest tile she can use so that all the floor will be covered?
-
--  $2 \ \text{m}$
--  $3 \ \text{m}$
--  $4 \ \text{m}$
--  $5 \ \text{m}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question, 
-
-Length $= 8 \ \text{m}$
-
-Width  $= 20 \ \text{m}$
-
-
-To use complete tiles, without cutting, the size of the square tile must divide both the length and width of the room. 
-
-Let's find the highest common factor of $8$ and $20$.
-
-Factors of $8 = 1, 2, \bold 4, 8$
-Factors of $20 = 1, 2, \bold 4, 5, 20$
-
-The highest common factor of $8$ and $20$ is $4$.
-
-So, the length of the largest square Isabelle can use so that all the floor will be covered $= 4 \ \text{m}$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-As per the question,
-
-LCM of 8 and 20 $= 40$
-
-$
-\begin{aligned}
-\text{Area of room}                                   &= \text{Length} \times \text{Width} \\\\
-                                                      &= 8 \ \text{m} \times 20 \ \text{m}\\\\
-                                                      &= 160 \ \text{m}^2
-\text{Largest square tile that can be used}           &= \dfrac {160} {40} \\\\
-                                                      &= 4 \ \text{m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$4 \ \text{m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -1316,7 +1224,7 @@ Write the name of the following shapes underneath them.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1413,7 +1321,7 @@ Write the name of the following 3-dimensional shapes underneath them.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1552,7 +1460,7 @@ Underneath each shape write down its name.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1647,7 +1555,7 @@ $\text {Octagon}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>C7288C8F-5D25-4733-9478-7992288F6CD7</p>
 </div>
@@ -1684,7 +1592,7 @@ All measurements on the diagram are in centimetres.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1767,7 +1675,7 @@ $30 \degree$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1810,7 +1718,7 @@ The diagram below shows a **regular** eight-sided polygon.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1897,7 +1805,7 @@ $CD$ measures $34 \ \text{mm}$.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2210,7 +2118,7 @@ A pattern is made using $4$ of these tiles.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2414,7 +2322,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6</p>
 </div>
@@ -2444,9 +2352,9 @@ In a triangle, the exterior angle is always equal to the sum of the interior opp
 
 We also know that, in an isosceles triangle the two angles opposite to the equal side are congruent to each other.
 
-Exterior angle = $134 \degree$
+Exterior angle $= 134 \degree$
 
-Two angles of isosceles triangle = $x$
+Two angles of isosceles triangle $= x$
 $
 \begin{aligned}
 x + x                   &= 134 \\\\
@@ -2474,7 +2382,7 @@ $67 \degree$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

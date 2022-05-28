@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Trinity School Croydon</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ac_g2 question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -69,7 +69,7 @@ $7929$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -116,7 +116,7 @@ $3288$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -209,7 +209,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>9C5A0EF1-A8A5-42F9-8717-C0DB88208ECE</p>
 </div>
@@ -242,7 +242,7 @@ tdecimal
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -304,7 +304,7 @@ $10.47$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -804,7 +804,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>92F50556-BDE8-4519-B178-C9ADAC015801</p>
 </div>
@@ -834,7 +834,7 @@ For each set of numbers write down which of the numbers is the largest and which
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -853,19 +853,20 @@ To compare, we can convert all the numbers to fractions, decimals or percentages
 
 In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
 
-$\dfrac {4} {5}, \quad 0.9, \quad 0.1, \quad \dfrac {1} {100}, \quad \dfrac{2}{10}$
-
-$\dfrac {4} {5}, \quad \dfrac{9} {10}, \quad \dfrac {1} {10}, \quad \dfrac {1} {100}, \quad \dfrac{2}{10}$
-
-$\dfrac {4 \times 20} {5 \times 20}, \quad \dfrac{9 \times 10} {10 \times 10}, \quad \dfrac {1 \times 10} {10 \times 10}, \quad \dfrac {1} {100}, \quad \dfrac{2 \times 10}{10 \times 10}$
-
-$\dfrac {80} {100}, \quad \dfrac{90} {100}, \quad \dfrac {10} {100}, \quad \dfrac {1} {100}, \quad \dfrac{20}{100}$
+$
+\begin{aligned}
+&\dfrac {4} {5},                     \quad 0.9,                                 \quad 0.1,                                  \quad \dfrac {1} {100}, \quad \dfrac {2} {10} \\\\
+&\dfrac {4} {5},                     \quad \dfrac {9} {10},                     \quad \dfrac {1} {10},                      \quad \dfrac {1} {100}, \quad \dfrac {2} {10} \\\\
+&\dfrac {4 \times 20} {5 \times 20}, \quad \dfrac {9 \times 10} {10 \times 10}, \quad \dfrac {1 \times 10} {10 \times 10},  \quad \dfrac {1} {100}, \quad \dfrac {2 \times 10} {10 \times 10} \\\\
+&\dfrac {80} {100},                  \quad \dfrac {90} {100},                   \quad \dfrac {10} {100},                    \quad \dfrac {1} {100}, \quad \dfrac {20} {100}
+\end{aligned}
+$
 
 Let's put them in ascending order now.
 
-$\dfrac {1} {100}, \quad \dfrac {10} {100}, \quad \dfrac{20}{100}, \quad \dfrac {80} {100}, \quad \dfrac{90} {100}$
+$\dfrac {1} {100}, \quad \dfrac {10} {100}, \quad \dfrac{20} {100}, \quad \dfrac {80} {100}, \quad \dfrac{90} {100}$
 
-$\dfrac {1} {100}, \quad 0.1, \quad \dfrac{2}{10}, \quad \dfrac {4} {5}, \quad 0.9$
+$\dfrac {1} {100}, \quad 0.1, \quad \dfrac{2} {10}, \quad \dfrac {4} {5}, \quad 0.9$
 
 Largest number = $0.9$
 
@@ -876,7 +877,7 @@ Smallest number = $\dfrac {1} {100}$
 <div class='answers'>
 <div class='answer'>
 
-$ \text{Largest} = 0.9, \text{Smallest} = \dfrac {1} {100}$
+$ \text {Largest} = 0.9, \text {Smallest} = \dfrac {1} {100}$
 
 </div>
 </div>
@@ -924,7 +925,7 @@ Smallest number = $\dfrac {1} {2}$
 <div class='answers'>
 <div class='answer'>
 
-$\text{Largest} = \dfrac {4} {3}, \text{Smallest} =  \dfrac {1} {2}$
+$\text {Largest} = \dfrac {4} {3}, \text {Smallest} =  \dfrac {1} {2}$
 
 </div>
 </div>
@@ -964,7 +965,7 @@ Smallest number = $0.087$
 <div class='answers'>
 <div class='answer'>
 
-$\text{Largest} = 0.84, \text{Smallest} =  0.087$
+$\text {Largest} = 0.84, \text {Smallest} =  0.087$
 
 </div>
 </div>
@@ -976,7 +977,7 @@ $\text{Largest} = 0.84, \text{Smallest} =  0.087$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1125,7 +1126,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1300,7 +1301,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1427,7 +1428,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>14E5F246-D749-41FC-B5F4-8237AC1F466F</p>
 </div>
@@ -1462,7 +1463,7 @@ Use this result to answer these questions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1558,7 +1559,7 @@ $146700$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1721,7 +1722,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1853,7 +1854,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2022,7 +2023,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2197,7 +2198,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2322,7 +2323,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>48C8A320-D1E7-4D75-84D8-799A4AA7A4A2</p>
 </div>
@@ -2352,7 +2353,7 @@ Two numbers are 'curdled' by adding them together and then multiplying the answe
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2412,10 +2413,11 @@ As per the question,
 $
 \begin{aligned}
 (a + 5) \times (a + 5)      &= 81 \\\\
-(a + 5)^2           &= 9^2 \\\\
-a + 5               &= 9 \\\\
-a                   &= 9 - 5 \\\\
-a                   &= 4
+(a + 5)^2                   &= 81 \\\\
+a + 5                       &= \sqrt {81} \\\\
+a + 5                       &= 9 \\\\
+a                           &= 9 - 5 \\\\
+a                           &= 4
 \end{aligned}
 $
 
@@ -2436,12 +2438,12 @@ $4$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>84DF97A5-920D-4BF6-91EC-3314D5655765</p>
 </div>
@@ -2473,7 +2475,7 @@ $4!$ is a quick way of writing $4 \times 3 \times 2 \times 1$ and so on.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2527,7 +2529,7 @@ Calculate the value of:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2571,9 +2573,9 @@ $3! \times 2!$
 <div class='working'>
 
 $
-/begin{aligned}
+\begin{aligned}
 &= 3! \times 2! \\\\
-&= 3 \times 2 \times 1 \times 2 \times 1 \\\\
+&= (3 \times 2 \times 1) \times (2 \times 1) \\\\
 &= 6 \times 2 \\\\
 &= 12
 \end{aligned}
@@ -2643,7 +2645,7 @@ $(3!)!$
 $
 \begin{aligned}
 &= (3!)! \\\\
-&= (3 \times 2 \times 1) \\\\
+&= (3 \times 2 \times 1)! \\\\
 &= 6! \\\\
 &= 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
 &= 720
@@ -2715,16 +2717,11 @@ $100! \div 98!$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-$100! =  100 \times 99 \times 98 \ldots \times 2 \times 1$
-
-$98! = 98 \ldots \times 2 \times 1$
-
 $
 \begin{aligned}
 &= 100! \div 98! \\\\
-&= \dfrac {100 \times 99 \times 98!} {98!1} \\\\
+&= \dfrac {100!} {98!} \\\\
+&= \dfrac {100 \times 99 \times 98!} {98!} \\\\
 &= \dfrac {100 \times 99 \times \cancel {98!}} {\cancel {98!}} \\\\
 &= 100 \times 99 \\\\
 &= 9900
@@ -2760,8 +2757,6 @@ If $13! = 13 \times n!$ what number does $'n'$ stand for?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 13 \times n!        &= 13! \\\\
@@ -2788,7 +2783,7 @@ $12$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

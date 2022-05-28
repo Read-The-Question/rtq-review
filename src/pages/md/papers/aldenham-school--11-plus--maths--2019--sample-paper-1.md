@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-2019-sample-paper-1"
 title: "Aldenham School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Aldenham School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
@@ -21,10 +21,10 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-tmoney
+tsimpleword
 </li>
 <li>
-tpercentage
+tmoney
 </li>
 </ul>
 </div>
@@ -54,7 +54,7 @@ The prices were as follows
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -183,10 +183,10 @@ $7040$
 <div class='topics'>
 <ul>
 <li>
-tage
+tsimpleword
 </li>
 <li>
-tdate
+tage
 </li>
 </ul>
 </div>
@@ -261,7 +261,7 @@ Fill in the gaps
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -415,7 +415,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -615,7 +615,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -734,7 +734,7 @@ Fill in the missing numbers in the number patterns.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -760,7 +760,7 @@ $
 &&  \footnotesize{\maroonC{(+7)}}   
 &&  \footnotesize{\maroonC{(+7)}}   
 &&  \footnotesize{\maroonC{(+7)}}  \\
--2,  &&    5,  &&  12,  &&   19,  &&   26 && \ldots
+-2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
 \end{matrix}
 $
 
@@ -808,7 +808,7 @@ $
 &&  \footnotesize{\maroonC{(-6)}}   
 &&  \footnotesize{\maroonC{(-6)}}   
 &&  \footnotesize{\maroonC{(-6)}}  \\
-43,  &&    \ldots,  &&  31,  &&   25,  &&   19 && 13
+43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
 \end{matrix}
 $
 
@@ -847,6 +847,7 @@ $2,  \quad 5,  \quad 10,  \quad 17,  \quad \ldots,  \quad 37$
 
 Let's find the difference between the consecutive terms of the sequence.
 
+The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(3)}} 
@@ -893,6 +894,9 @@ $26$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tsimpleword
+</li>
 <li>
 ttime
 </li>
@@ -1002,15 +1006,12 @@ $42 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>05561C2E-68D5-42DC-876C-EC372F879900</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tprofit
-</li>
 <li>
 tmoney
 </li>
@@ -1067,7 +1068,7 @@ Deal A
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -1230,7 +1231,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1419,7 +1420,7 @@ Given that $a = 5, b = 2$ and $c = 10$ find:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1686,7 +1687,7 @@ tvolume
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1933,7 +1934,7 @@ Evaluate the following expressions.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2082,7 +2083,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2261,7 +2262,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2405,7 +2406,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>D48EBB7F-6353-41D8-8F7E-D81284AECC1E</p>
 </div>
@@ -2443,7 +2444,7 @@ $\large { \boxed{\phantom{5} > \phantom{5} } \quad \boxed{\phantom{5} < \phantom
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2589,7 +2590,7 @@ $\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

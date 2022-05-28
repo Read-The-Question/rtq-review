@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-pr"
 title: "Owner - Nitin Joshi - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -192,7 +192,7 @@ This is indicated by a question mark. For each part of the question, state the v
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -454,7 +454,7 @@ For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -638,7 +638,7 @@ For example: the product value of ‘$HEAD$’ $= 8 \times 5 \times 1 \times 4 =
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -819,7 +819,7 @@ $\boxed{18} \quad \boxed{26} \quad \boxed{37} \quad \boxed{49}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1069,7 +1069,7 @@ tage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1292,7 +1292,7 @@ $\boxed{7} \quad \boxed{3} \quad \boxed{1} \quad \boxed{5}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1404,7 +1404,7 @@ dividing by $2$, adding $1$, multiplying by $2$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1576,7 +1576,7 @@ For each part of this question, complete the sequence by inserting the correct n
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1883,7 +1883,7 @@ tpower
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2032,7 +2032,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2167,7 +2167,7 @@ He can fit exactly $6$ tiles along the shorter edge of the worktop and $15$ alon
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2364,7 +2364,7 @@ Write the two **prime numbers** in the empty boxes.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2472,7 +2472,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2619,7 +2619,7 @@ INPUT %symbol% [$\times 7$] %symbol% [-3] %symbol% OUTPUT
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2670,15 +2670,18 @@ John obtains an OUTPUT of $39$. What was his INPUT?
 <div class='workings'>
 <div class='working'>
 
+Let input $= a$
+
 As per the question,
 
 $
 \begin {aligned}
-\text {INPUT}   &= (39 +3) \div 7 \\\\
-                &= \dfrac {42} {7} \\\\
-                &= \dfrac {6 \times 7} {7} \\\\
-                &= \dfrac {6 \times \cancel {7}} {\cancel {7}} \\\\
-                &= 6
+(a \times 7) - 3    &= 39 \\\\
+7a                  &= 39 + 3 \\\\
+a                   &= \dfrac {42} {7} \\\\
+a                   &= \dfrac {6 \times 7} {7} \\\\
+a                   &= \dfrac {6 \times \cancel {7}} {\cancel {7}} \\\\
+a                   &= 6
 \end {aligned}
 $
 
@@ -2831,7 +2834,7 @@ tunitprompt
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2917,7 +2920,7 @@ A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in *kg*.
 $
 \begin{aligned}
 &= 1029 \ \text {g} \\\\
-&= \dfrac {1029} {100} \ \text {kg} \\\\
+&= \dfrac {1029} {1000} \ \text {kg} \\\\
 &= 1.029 \ \text {kg}
 \end{aligned}
 $
@@ -3027,6 +3030,9 @@ $500 \ \text{mm}^2$
 <ul>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -3173,6 +3179,9 @@ $760 \ \text{g}$
 <li>
 tprobability
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -3280,22 +3289,17 @@ For how many hours is it open each week?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Sat}            &= 9 \ \text {till} \ 5 \\\\
-                      &= 8 \ \text {hours} \\\\
-\text{Sun}            &= 1 \ \text {till} \ 5 \\\\
-                      &= 4 \ \text {hours} \\\\
-\text{Wed and fri}    &= 2 \ \text {till} \ 5 \\\\
-                      &= 3 \ \text {hours each}
-\end{aligned}
-$
+| Day                | Opening hours   |
+|--------------------|-----------------|
+| SAT                | 9 Till 5        |
+| SUN                | 1 Till 5        |
+| WEDS and FRI       | 2 Till 5        |
 
 Let's calculate the total hours it is open in each week.
 
 $
 \begin{aligned}
-\text{Total hours}   &= \text {Opening hours on Sat} + \text {Opening hours on Sun} + \text {Opening hours on Wed} + \text {Opening hours on Fri} \\\\
+\text{Total hours}   &= \text {Sat} + \text {Sun} + \text {Wed} + \text {Fri} \\\\
                      &= 8 \ \text {hours}  +  4 \ \text {hours} +  3 \ \text {hours} +  3 \ \text {hours} \\\\
                      &= 18 \ \text{hours}
 \end{aligned}
@@ -3341,10 +3345,11 @@ How much change would there be from a $\pounds 20$ note for Alice, Owen, Mum, Da
 
 $
 \begin{aligned}
-\text{Total car parking charges}    &= 1.50 \times 5 \\\\
-                                    &= \pounds 7.5 \\\\
-\text{Change left }                 &= 20 - 7.5 \\\\
-                                    &= \pounds 12.5
+\text{Total charges}    &= (1.60 \times 2) + (2.40 \times 3) + 1.50 \\\\
+                        &= 3.20 + 7.20 + 1.50 \\\\
+                        &= \pounds 11.90 \\\\
+\text{Change left }     &= 20 - 11.90 \\\\
+                        &= \pounds 8.10
 \end{aligned}
 $
 
@@ -3353,7 +3358,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 12.5$
+$\pounds 8.10$
 
 </div>
 </div>
@@ -3376,6 +3381,9 @@ $\pounds 12.5$
 <li>
 tunit
 </li>
+<li>
+tfakeratio
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -3386,15 +3394,14 @@ One inch is about $2.5 \ \text{centimetres}$. How many inches are roughly equal 
 <div class='workings'>
 <div class='working'>
 
-As we know, $1 \ \text{metre} = 100 \ \text{centimetres}$ $52$. So,
-
 $
 \begin{aligned}
-\text {Total inches in 1 metre}      &= 100 \div 2.5  \\\\
-                                     &= \dfrac {100} {2.5} \\\\
-                                     &= \dfrac {2.5 \times 40} {2.5} \\\\
-                                     &= \dfrac {\cancel {2.5} \times 40} {\cancel {2.5}} \\\\
-                                     &= 40 \ \text{inches}
+1 \ \text {centimetres}               &= \dfrac {1} {2.5} \ \text {inches} \\\\
+1 \times 100 \ \text {centimetres}    &= \dfrac {100} {2.5} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {1000} {25} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {40 \times 25} {25} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {40 \times \cancel {25}} {\cancel {25}} \ \text {inches} \\\\
+1 \ \text {metre}                     &= 40 \ \text {inches} \\\\
 \end{aligned}
 $
 
@@ -3436,14 +3443,14 @@ The angles are all the same size, because it is regular. What is the special nam
 <div class='workings'>
 <div class='working'>
 
-$\text {Obtuse angle}$
+Obtuse angle
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Obtuse angle}$
+Obtuse angle
 
 </div>
 </div>
@@ -3468,6 +3475,9 @@ tcoin
 </li>
 <li>
 tprobability
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -3513,6 +3523,9 @@ $\text {likely}$
 <li>
 tprobability
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -3553,6 +3566,9 @@ $\text {Certain}$
 <li>
 tprobability
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -3592,6 +3608,9 @@ $\text {unlikely}$
 <ul>
 <li>
 tprobability
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -3720,7 +3739,7 @@ $\pounds 2.150$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -3888,7 +3907,7 @@ $\dfrac {4} {15}$
 <div class='topics'>
 <ul>
 <li>
-tratio
+tfakeratio
 </li>
 </ul>
 </div>
@@ -3901,17 +3920,15 @@ How many buses would be needed to take $300$ pupils?
 <div class='workings'>
 <div class='working'>
 
-Let's solve this using ratios. 
-
 $
 \begin{aligned}
-1 \ \text{minibus}                &: 14 \ \text{pupils} \\\\
-1 \times 22 \ \text{minibuses}    &: 14 \times 22 \ \text{pupils} \\\\
-22 \ \text{minibuses}             &: 308 \ \text{pupils}
+\text{Buses needed}     &= \dfrac {300} {14} \\\\
+                        &= 21.\dot{4} \\\\
+                        &= 22
 \end{aligned}
 $
 
-$22$ buses are needed to carry $300$ pupils.
+Rounding up, $22$ buses are needed to carry $300$ pupils.
 
 </div>
 </div>
@@ -3954,14 +3971,14 @@ What does the $6$ in the number $3567.23$ stand for?
 <div class='workings'>
 <div class='working'>
 
-$\text {Tens}$
+$60$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Tens}$
+$60$
 
 </div>
 </div>
@@ -3996,24 +4013,13 @@ How many times can $137$ be subtracted from $1024$ before we get to zero?
 
 $
 \begin{aligned}
-\text {one}     &= 1024 - 137 \\\\
-                &= 887 \\\\
-\text {two}     &= 887 - 137 \\\\
-                &= 750 \\\\
-\text {three}   &= 750 - 137 \\\\
-                &= 613 \\\\
-\text {four}    &= 613 - 137 \\\\
-                &= 476 \\\\
-\text {five}    &= 476 - 137 \\\\
-                &= 339 \\\\
-\text {six}     &= 339 - 137 \\\\
-                &= 202 \\\\
-\text {seven}   &= 202 - 137 \\\\
-                &= 65
+\text{Number of times}  &= \dfrac {1024} {137} \\\\
+                        &= 7.47 \\\\
+                        &= 7
 \end{aligned}
 $
 
-$137$ can be subtracted seven times from $1024$ before we get zero. 
+$137$ can be subtracted seven times from $1024$ before we get to zero.
 
 </div>
 </div>
@@ -4055,8 +4061,6 @@ What fraction of an hour is $5$ minutes?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As we know, minutes in an hour $=60$. So,
 
 $
 \begin{aligned} 
@@ -4261,26 +4265,13 @@ How many times can $147$ be subtracted from $1270$ before we get to zero?
 
 $
 \begin{aligned}
-\text {one}     &= 1270 - 147 \\\\
-                &= 1123 \\\\
-\text {two}     &= 1123 - 147 \\\\
-                &= 976 \\\\
-\text {three}   &= 976 - 147 \\\\
-                &= 829 \\\\
-\text {four}    &= 829 - 147 \\\\
-                &= 682 \\\\
-\text {five}    &= 682 - 147 \\\\
-                &= 535 \\\\
-\text {six}     &= 535 - 147 \\\\
-                &= 388 \\\\
-\text {seven}   &= 388 - 147 \\\\
-                &= 241 \\\\
-\text {eight}   &= 241 - 147 \\\\
-                &= 94
+\text{Number of times}  &= \dfrac {1270} {147} \\\\
+                        &= 8.63 \\\\
+                        &= 8
 \end{aligned}
 $
 
-$137$ can be subtracted eight times from $1024$ before we get zero. 
+$147$ can be subtracted eight times from $1270$ before we get to zero. 
 
 </div>
 </div>
@@ -4374,14 +4365,13 @@ What fraction of a day is $15 \ \text{minutes}$?
 <div class='workings'>
 <div class='working'>
 
-As we know, minutes in an hour $=60$. So,
-
 $
 \begin{aligned} 
-\text {Fraction}    &= \dfrac {15} {60} \\\\
-                    &= \dfrac {15} {15 \times 4} \\\\
-                    &= \dfrac {\cancel {15}} {\cancel {15} \times 4} \\\\
-                    &= \dfrac {1} {4}
+\text {Fraction}    &= \dfrac {15} {3600} \times 24 \\\\
+                    &= \dfrac {15 \times 24} {3600} \\\\
+                    &= \dfrac {15 \times 24} {15 \times 24 \times 10} \\\\
+                    &= \dfrac {\cancel {15} \times \cancel {24}} {\cancel {15} \times \cancel {24} \times {10}} \\\\
+                    &= \dfrac {1} {10}
 \end{aligned}
 $
 
@@ -4390,7 +4380,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {4}$
+$\dfrac {1} {10}$
 
 </div>
 </div>
@@ -4423,14 +4413,14 @@ What does the $2$ in the number $3567.23$ stand for?
 <div class='workings'>
 <div class='working'>
 
-$\text {Tenths}$
+$0.2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Tenths}$
+$0.2$
 
 </div>
 </div>
@@ -4474,17 +4464,11 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {1} {5} \times a             &= 6 \\\\ 
-a                                   &= 6 \times 5 \\\\
-a                                   &= 30
-\end{aligned}
-$
-
-$
-\begin{aligned}
 \text {One half of the number}      &= \dfrac {1} {2} \times a \\\\
                                     &= \dfrac {1} {2} \times 30 \\\\
-                                    &= \dfrac {1 \times 15 \times \cancel {2}} {\cancel {2}} \\\\
+                                    &= \dfrac {30} {2} \\\\
+                                    &= \dfrac {15 \times 2} {2} \\\\
+                                    &= \dfrac {15 \times \cancel {2}} {\cancel {2}} \\\\
                                     &= 15
 \end{aligned}
 $
@@ -4529,8 +4513,6 @@ What fraction of an hour is $4 \ \text{minutes}$?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As we know, minutes in an hour $=60$. So,
 
 $
 \begin{aligned} 
@@ -4636,11 +4618,11 @@ c       &= 6 + 10 t \\\\
 10t     &= 50 - 6 \\\\
 10t     &= 44 \\\\
 t       &= \dfrac {44} {10} \\\\
-t       &= 4.4
+t       &= 4 \text { remainder } 4
 \end{aligned}
 $
 
-$4$ tickets can be bought with $\pounds 50$.
+Max $4$ tickets can be bought with $\pounds 50$.
 
 </div>
 </div>
@@ -4745,14 +4727,14 @@ In the number $236.751$, what does the $7$ stand for?
 <div class='workings'>
 <div class='working'>
 
-$\text {Tenths}$
+$0.7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Tenths}$
+$0.7$
 
 </div>
 </div>
@@ -4935,7 +4917,7 @@ The following questions are about a butcher's shop.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5207,7 +5189,7 @@ Mr Green's garden is a mixture of lawn, patio and flower beds. A plan of the gar
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5422,7 +5404,7 @@ $\pounds 360$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -5436,10 +5418,10 @@ Add: $34 + 87$
 
 $
 \begin{array}{cccccccccccccc}
-    & 3 & 4 \\
-{}+ & 8 & 7 \\
+    &   3   &   4 \\
+{}+ &   8   &   7 \\
 \hline
-1   & 2 & 1
+1   &   2   &   1
 \end{array}
 $
 
@@ -5469,7 +5451,7 @@ $121$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -5483,13 +5465,12 @@ Subtract: $82 - 33$
 
 $
 \begin{array}{cccccccccccccc}
-    & 8 & 2 \\
-{}- & 3 & 3 \\
+    &   8   &   2 \\
+{}- &   3   &   3 \\
 \hline
-    & 4 & 9
+    &   4   &   9
 \end{array}
 $
-
 
 </div>
 </div>
@@ -5517,7 +5498,7 @@ $49$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -5529,13 +5510,12 @@ Multiply: $17 \times 5$
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{array}{cccccccccccccc}
-       & 1 & 7 \\
-\times &   & 5 \\
+       &    1   &   7 \\
+\times &        &   5 \\
 \hline
-       & 8 & 5 \\
+       &    8   &   5
 \end{array}
 $
 
@@ -5714,7 +5694,7 @@ $\pounds 11$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -5728,10 +5708,10 @@ Work out the sum of $43, 108, 57$ and $92$.
 
 $
 \begin{aligned}
-& = 43 + 108 + 57 + 92 \\\\
-& = (43 + 57) + (108 + 92) \\\\
-& = 100 + 200 \\\\
-& = 300
+&= 43 + 108 + 57 + 92 \\\\
+&= (43 + 57) + (108 + 92) \\\\
+&= 100 + 200 \\\\
+&= 300
 \end{aligned}
 $
 
@@ -5776,7 +5756,6 @@ Write the number fifty-three thousand and eighteen in figures.
 </div>
 <div class='workings'>
 <div class='working'>
-
 
 $53018$
 
@@ -5955,7 +5934,7 @@ $19$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -5981,7 +5960,7 @@ Work out each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6079,7 +6058,7 @@ following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6297,7 +6276,7 @@ $18$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -6366,7 +6345,7 @@ Write one of the words "always", "sometimes" and "never" in the spaces below to 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6570,7 +6549,7 @@ Fill in the missing **words**:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6670,7 +6649,7 @@ In Sydney Australia the time is $11 \ \text{hours}$ ahead of the UK.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6803,7 +6782,7 @@ Duncan decide to stop by for a meal on their way home from work one day.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7028,7 +7007,7 @@ The timetable below shows the morning train times between St Albans and City Tha
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7263,7 +7242,7 @@ Work out, in the same way:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7380,7 +7359,7 @@ Use this method to work out:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -7544,7 +7523,7 @@ Isobel travels from $S$ to $T$ on her journey to work each day. Find the shortes
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7745,7 +7724,7 @@ $8 \ \text {min}$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -7759,10 +7738,10 @@ Add: $24 + 91$
 
 $
 \begin{array}{cccccccccccccc}
-    & 2 & 4 \\
-{}+ & 9 & 1 \\
+    &   2   &   4 \\
+{}+ &   9   &   1 \\
 \hline
-  1 & 1 & 5
+  1 &   1   &   5
 \end{array}
 $
 
@@ -7792,7 +7771,7 @@ $115$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -7806,10 +7785,10 @@ Subtract: $72 - 38$
 
 $
 \begin{array}{cccccccccccccc}
-    & 7 & 2 \\
-{}- & 3 & 8 \\
+    &   7   &   2 \\
+{}- &   3   &   8 \\
 \hline
-    & 3 & 4
+    &   3   &   4
 \end{array}
 $
 
@@ -7840,7 +7819,7 @@ $34$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -7854,10 +7833,10 @@ Multiply: $43 \times 6$
 
 $
 \begin{array}{cccccccccccccc}
-       & 4 & 3 \\
-\times &   & 6 \\
+       &    4   &   3 \\
+\times &        &   6 \\
 \hline
-2      & 5 & 8
+2      &    5   &   8
 \end{array}
 $
 
@@ -7903,7 +7882,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time taken}           &= 11:34 - 09:42 \\\\
+\text{Time taken}           &= 11 {:} 34 - 09 {:} 42 \\\\
                             &= 1 \ \text {hour} \ 52 \ \text {minutes} \\\\
                             &= 1 \times 60 \ \text {minutes} \ 52 \ \text {minutes} \\\\
                             &= 60 + 52 \\\\
@@ -8087,7 +8066,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8102,14 +8081,14 @@ Write in figures the number *twenty thousand and thirteen*.
 <div class='workings'>
 <div class='working'>
 
-$2013$
+$20013$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2013$
+$20013$
 
 </div>
 </div>
@@ -8171,6 +8150,9 @@ $29.07$
 <li>
 torder
 </li>
+<li>
+tcircle
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -8219,6 +8201,9 @@ $1.05$
 <ul>
 <li>
 tnumber
+</li>
+<li>
+tcircle
 </li>
 </ul>
 </div>
@@ -8294,7 +8279,7 @@ A packet of $7$ Doggy chews cost $\pounds 3.43$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8311,7 +8296,7 @@ Give your answer in pence.
 <div class='workings'>
 <div class='working'>
 
-As per the question, cost of seven Doggy Chews $= \pounds 3.43$. So,
+As per the question,
 
 $
 \begin{aligned}
@@ -8353,7 +8338,7 @@ How much change should she receive?
 <div class='workings'>
 <div class='working'>
 
-As per the question, cost of one packet of Doggy Chew $= \pounds 3.43$. So,
+As per the question,
 
 $
 \begin{aligned}
@@ -8420,7 +8405,7 @@ The thermometres below show the tempratures inside and outside a window at midda
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8544,7 +8529,7 @@ $\boxed{2} \boxed{4} \boxed{6} \boxed{7} \boxed{8}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8570,7 +8555,7 @@ Using all $5$ cards:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -8710,7 +8695,7 @@ $608$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -8724,10 +8709,10 @@ Work out $345 + 6789$
 
 $
 \begin{array}{cccccccccccccc}
-        &   3   &   4   &   5 \\
-{}+ 6   &   7   &   8   &   9 \\
+    &       &   3   &   4   &   5 \\
+{}+ &   6   &   7   &   8   &   9 \\
 \hline
-    7   &   1   &   3   &   4
+    &   7   &   1   &   3   &   4
 \end{array}
 $
 
@@ -8758,6 +8743,9 @@ $7134$
 <ul>
 <li>
 torder
+</li>
+<li>
+tcircle
 </li>
 </ul>
 </div>
@@ -8826,7 +8814,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8845,9 +8833,9 @@ $
 \begin{aligned}
 &=  \text {One fifth of} \ 180 \\\\
 &=  \dfrac {1} {5} \times 180 \\\\
-&=  \dfrac {1 \times 180} {5} \\\\
-&=  \dfrac {1 \times 36 \times 5} {5} \\\\
-&=  \dfrac {1 \times 36 \times \cancel {5}} {\cancel {5}} \\\\
+&=  \dfrac {180} {5} \\\\
+&=  \dfrac {36 \times 5} {5} \\\\
+&=  \dfrac {36 \times \cancel {5}} {\cancel {5}} \\\\
 &=  36
 \end{aligned}
 $
@@ -8937,11 +8925,11 @@ Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    0 \ .   &   0   &   4 \\
-    0 \ .   &   6   &   0 \\
-{}+ 0 \ .   &   1   &   6 \\
+    &   0 \ .   &   0   &   4 \\
+    &   0 \ .   &   6   &   0 \\
+{}+ &   0 \ .   &   1   &   6 \\
 \hline
-    0 \ .   &   8   &   0
+    &   0 \ .   &   8   &   0
 \end{array}
 $
 
@@ -8994,7 +8982,7 @@ Write a number in each box in order to make the calculations correct.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9097,7 +9085,7 @@ As per the question,
 $
 \begin{aligned}
 7 ^ 2            &= 51 - (a \times 4) \\\\
-7 \times 47      &= 51 - 4 a \\\\
+7 \times 7       &= 51 - 4 a \\\\
 49               &= 51 - 4 a \\\\
 4 a              &= 51 - 49 \\\\
 4 a              &= 2 \\\\
@@ -9160,7 +9148,7 @@ The thermometers below show the temperatures, in $\degree \text{C}$, inside a fr
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9255,6 +9243,9 @@ $- 17 \degree \ \text {C}$
 <li>
 tfactor
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -9276,7 +9267,7 @@ The number $8$ has four factors: $1, 2, 4$ and $8$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9412,7 +9403,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9509,7 +9500,7 @@ Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, 
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -9633,7 +9624,7 @@ You can use the following rule to work out the temperature:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9804,7 +9795,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9907,11 +9898,11 @@ Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    0 \ .   &   7   &   0   &   0 \\
-    0 \ .   &   0   &   4   &   0 \\
-{}+ 1 \ .   &   0   &   0   &   6 \\
+    &   0 \ .   &   7   &   0   &   0 \\
+    &   0 \ .   &   0   &   4   &   0 \\
+{}+ &   1 \ .   &   0   &   0   &   6 \\
 \hline
-    1 \ .   &   7   &   4   &   6
+    &   1 \ .   &   7   &   4   &   6
 \end{array}
 $
 
@@ -9943,6 +9934,9 @@ $1.746$
 <li>
 tfraction
 </li>
+<li>
+tcircle
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -9961,8 +9955,8 @@ Let's convert all the numbers to decimal.
 
 $
 \begin {aligned}
-\dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
-0.2, \quad 0.42, \quad 0.55, \quad \dfrac 0.63
+&= \dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
+&= 0.2, \quad 0.42, \quad 0.55, \quad \dfrac 0.63
 \end {aligned}
 $
 
@@ -9971,9 +9965,6 @@ $0.55 = \dfrac {5} {9}$ is the closest to $\dfrac {1} {2}$.
 </div>
 </div>
 <div class='answers'>
-<div class='option'>
-<p>$\dfrac {5} {9}$</p>
-</div>
 <div class='answer'>
 
 $\dfrac {5} {9}$
@@ -9998,6 +9989,9 @@ $\dfrac {5} {9}$
 <ul>
 <li>
 torder
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -10062,7 +10056,7 @@ Wombley Arena can seat $7490 supporters when full.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10279,7 +10273,7 @@ How much is each monthly amount?
 
 $
 \begin{aligned}
-\text {Each monthly amount}     &= \dfrac {\text {total amount} - {initial payment}} {6} \\\\
+\text {Each monthly amount}     &= \dfrac {\text {total amount} - \text {initial payment}} {6} \\\\
                                 &= \dfrac {572.50 - 136} {6} \\\\
                                 &= \dfrac {436.5} {6} \\\\
                                 &= \pounds 72.75
@@ -10342,7 +10336,7 @@ The numbers around the outside are in grams (g), and the numbers inside the circ
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10427,6 +10421,9 @@ tage
 <li>
 tdate
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -10448,7 +10445,7 @@ Jessica was born on $5$ January $2003$ and her friend Amelia was born exactly $9
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10706,7 +10703,7 @@ $44 \quad 323 \quad 1221 \quad 1234321$ and so on
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10954,14 +10951,14 @@ $
 \end{aligned}
 $
 
-$\text {Two thousand and sixteen}$ is $\text {one hundred}$ less than $\text {three thousand and sixteen}$.
+$\text {Two thousand nine hundred and sixteen}$ is $\text {one hundred}$ less than $\text {three thousand and sixteen}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Two thousand and sixteen}$
+$\text {Two thousand nine hundred and sixteen}$
 
 </div>
 </div>
@@ -11058,12 +11055,12 @@ As per the question,
 $
 \begin{aligned}
 (a \times 2) - 3    &= 19 \\\\
-a \times 2          &= 19 - 3 \\\\
-a \times 2          &= 16 \\\\
-a                   &= \dfrac {16} {2} \\\\
-a                   &= \dfrac {8 \times 2} {2} \\\\
-a                   &= \dfrac {8 \times \cancel {2}} {\cancel {2}} \\\\
-a                   &= 8
+a \times 2          &= 19 + 3 \\\\
+a \times 2          &= 22 \\\\
+a                   &= \dfrac {22} {2} \\\\
+a                   &= \dfrac {11 \times 2} {2} \\\\
+a                   &= \dfrac {11 \times \cancel {2}} {\cancel {2}} \\\\
+a                   &= 11
 \end{aligned}
 $
 
@@ -11072,7 +11069,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8$
+$11$
 
 </div>
 </div>
@@ -11125,7 +11122,7 @@ There are twelve ginger biscuits.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11141,6 +11138,8 @@ How many custard creams are there?
 <div class='working'>
 
 As per the question,
+
+Custard biscuit are a third of other biscuits then chocolate biscuits so they are a third of ginger biscuits. Using that,
 
 $
 \begin{aligned}
@@ -11478,7 +11477,7 @@ A $10 \text{p}$ coin has a diameter of $25 \ \text{mm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11498,7 +11497,8 @@ $
 &= 40 \times 25 \ \text {mm} \\\\
 &= 40 \times \dfrac {25} {1000} \ \text {m} \\\\
 &= \dfrac {40 \times 25} {1000} \ \text {m} \\\\
-&= \dfrac {1000} {1000} \\\\
+&= \dfrac {40 \times 25} {40 \times 25} \\\\
+&= \dfrac {\cancel {40} \times \cancel {25}} {\cancel {40} \times \cancel {25}} \\\\
 &= 1 \ \text {m}
 \end {aligned}
 $
@@ -11534,7 +11534,7 @@ $
 &= 40 \times 10 \ \text {p} \\\\
 &= 40 \times \pounds \dfrac {10} {100} \\\\
 &= \dfrac {40 \times 10} {100} \\\\
-&= \dfrac {400} {100} \\\\
+&= \dfrac {4 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
 &= \pounds 4
 \end {aligned}
 $
@@ -11567,11 +11567,12 @@ How many coins will Penny need for a $1 \ \text{kilometre}$ line of $10 \text{p}
 
 $
 \begin {aligned}
-&= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
-&= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
-&= \dfrac {40000 \times 25} {25} \\\\
-&= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
-&= 40000
+\text {Penny required}  &= \dfrac {\text {Total distance}} {\text {diameter of one coin}} \\\\
+                        &= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {40000 \times 25} {25} \\\\
+                        &= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
+                        &= 40000
 \end {aligned}
 $
 
@@ -11603,11 +11604,12 @@ What is the total value of a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
 
 $
 \begin {aligned}
-&= 40000 \times 10 \ \text {p} \\\\
-&= 40000 \times \pounds \dfrac {10} {100} \\\\
-&= \dfrac {40000 \times 10} {100} \\\\
-&= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
-&= \pounds 4000
+\text {Total value}     &= \text {Total penny} \times \text {value of one penny} \\\\
+                        &= 40000 \times 10 \ \text {p} \\\\
+                        &= 40000 \times \pounds \dfrac {10} {100} \\\\
+                        &= \dfrac {40000 \times 10} {100} \\\\
+                        &= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+                        &= \pounds 4000
 \end {aligned}
 $
 
@@ -11668,7 +11670,7 @@ Their marks were $13 \quad 18 \quad 14 \quad 20 \quad 7 \quad 18$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11720,7 +11722,7 @@ What was Ashleigh’s mark?
 <div class='workings'>
 <div class='working'>
 
-$14$
+Ashleigh’s marks are $14$ as $7 + 7 = 14$, $7$ more than Bella’s marks, also $20 - 6 = 14$, $6$ less than Connie’s marks.
 
 </div>
 </div>
@@ -11779,7 +11781,7 @@ Amira checks the time when she sets off on her journey to school in the morning.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11919,7 +11921,7 @@ All the measurements in the following diagram are given in centimetres
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12045,7 +12047,7 @@ So $\text{FAB } 3 = 6$ because $3 \times 2 \times 1 = 6$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12094,11 +12096,10 @@ FAB $5 = 120$
 
 $
 \begin{aligned}
-\text {FAB} 6   &= 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
-                &= 720
+\text {FAB} \ 6   &= 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
+                  &= 720
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -12132,7 +12133,7 @@ So, $\text {FAB } 11 \div \text {FAB } 9$ is
 
 $
 \begin{aligned}
-&= \dfrac {11 \times 10 \times (\text {FAB} \ 9)} {\text {FAB} \ 9)} \\\\
+&= \dfrac {11 \times 10 \times (\text {FAB} \ 9)} {\text {FAB} \ 9} \\\\
 &= \dfrac {11 \times 10 \times \cancel {\text {FAB} \ 9}} {\cancel {\text {FAB} \ 9}} \\\\
 &= 11 \times 10 \\\\
 &= 110
@@ -12217,12 +12218,12 @@ What is $40 \%$ of $650 \ \text{grams}$?
 
 $
 \begin{aligned}
-&= 40\% \ \text{of}\ 650 \ \text{grams} \\\\
+&= 40\% \ \text {of}\ 650 \ \text{grams} \\\\
 &= \dfrac {40} {100} \times 650 \\\\
 &= \dfrac {40 \times 650} {100} \\\\
-&= \dfrac {4\cancel{0} \times 65\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
+&= \dfrac {4 \cancel {0} \times 65 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
 &= 4 \times 65 \\\\
-&= 260 \ \text{g}
+&= 260 \ \text {grams}
 \end{aligned}
 $
 
@@ -12231,7 +12232,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$260 \ \text{g}$
+$260 \ \text {grams}$
 
 </div>
 </div>
@@ -12252,7 +12253,7 @@ $260 \ \text{g}$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 <li>
 tdecimal
@@ -12271,11 +12272,11 @@ Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-       &    &   &6  \ .  &3  &7 \\
-{}     &    &1  &0  \ .  &0  &4 \\
-{}+    &2   &0  &3  \ .  &0  &0 \\
+    &       &      &    6 \ .  &    3  &    7 \\
+    &       &   1  &    0 \ .  &    0  &    4 \\
+{}+ &   2   &   0  &    3 \ .  &    0  &    0 \\
 \hline
-       &2   &1  &9  \ .  &4  &1
+    &   2   &   1  &    9 \ .  &    4  &    1
 \end{array}
 $
 
@@ -12876,9 +12877,9 @@ $
 \end{aligned}
 $
 
-Let's put them in ascending order.
+Let's put them in descending order.
 
-$0, \quad 4, \quad 8, \quad 22, \quad 42$
+$42, \quad 22, \quad 8, \quad 4, \quad 0$
 
 Answer in the middle $= 8$
 

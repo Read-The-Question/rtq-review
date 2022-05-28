@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-3"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -12,31 +12,16 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ks_amber question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>7C2113F9-AB30-441B-B2AE-B6D84D249E3E</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-taddition
-</li>
-<li>
-tmultiplication
-</li>
-<li>
-tdivision
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tfraction
-</li>
-<li>
-tsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -59,7 +44,7 @@ Work out
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -115,8 +100,7 @@ $
             &       &  \times   &   4   &   1 \\
 \hline
             &       &           &   6   &   3 \\
-{}+         &   2   &   5       &   2   &   0 \\
-
+            &   2   &   5       &   2   &   0 \\
 \hline
             &   2   &   5       &   8   &   3
 \end{array}
@@ -148,24 +132,22 @@ $8008 \div 13$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+8008 \div 13 \\\\
+&=  \dfrac{8008}{13} \\\\
+&=  \dfrac{616 \times 13}{13} \\\\
+&=  \dfrac{616 \times \cancel {13}}{\cancel {13}} \\\\
+&=   616
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$616$
 
 </div>
 </div>
@@ -221,6 +203,7 @@ $\dfrac{4}{7}-\dfrac{3}{5}$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 &= \dfrac {4} {7} - \dfrac {3} {5} \\\\
 &= \dfrac {4 \times 7} {7 \times 5} - \dfrac {3 \times 7} {5 \times 7} \\\\
@@ -258,11 +241,13 @@ $2\dfrac{1}{3} \times 3\dfrac{3}{7}$
 <div class='working'>
 
 $
+\begin{aligned}
 &= 2\dfrac {1} {3} \times 3\dfrac {3} {7} \\\\
-&= dfrac {7} {3} \times dfrac {24} {7} \\\\
-&= dfrac{7 \times 24} {3 \times 7} \\\\
-&= dfrac{cancel {7} \times 24} {3 \times \cancel{7}} \\\\
+&= \dfrac {7} {3} \times \dfrac {24} {7} \\\\
+&= \dfrac{7 \times 24} {3 \times 7} \\\\
+&= \dfrac{\cancel {7} \times 24} {3 \times \cancel{7}} \\\\
 &= 8
+\end{aligned}
 $
 
 </div>
@@ -282,7 +267,7 @@ $8$
 <p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ks_amber</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -317,7 +302,7 @@ Calculate each of the following
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -463,7 +448,7 @@ Continue the following patterns, filling in the next two terms for each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -769,7 +754,7 @@ If $x = 7, y = -5$ and $z = -6$, find the value of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1015,7 +1000,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1132,7 +1117,7 @@ ttime
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1242,7 +1227,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1451,7 +1436,7 @@ Write down the missing number in each of the following
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1608,7 +1593,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1732,7 +1717,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

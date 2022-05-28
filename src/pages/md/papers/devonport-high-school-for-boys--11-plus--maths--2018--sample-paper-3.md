@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2018-sample-paper-3"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Devonport High School for Boys</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
@@ -571,26 +571,13 @@ How many times can $147$ be subtracted from $1270$ before we get to zero?
 
 $
 \begin{aligned}
-\text {one}     &= 1270 - 147 \\\\
-                &= 1123 \\\\
-\text {two}     &= 1123 - 147 \\\\
-                &= 976 \\\\
-\text {three}   &= 976 - 147 \\\\
-                &= 829 \\\\
-\text {four}    &= 829 - 147 \\\\
-                &= 682 \\\\
-\text {five}    &= 682 - 147 \\\\
-                &= 535 \\\\
-\text {six}     &= 535 - 147 \\\\
-                &= 388 \\\\
-\text {seven}   &= 388 - 147 \\\\
-                &= 241 \\\\
-\text {eight}   &= 241 - 147 \\\\
-                &= 94
+\text{Number of times}  &= \dfrac {1270} {147} \\\\
+                        &= 8.63 \\\\
+                        &= 8
 \end{aligned}
 $
 
-$137$ can be subtracted eight times from $1024$ before we get zero. 
+$147$ can be subtracted eight times from $1270$ before we get to zero. 
 
 </div>
 </div>
@@ -1343,14 +1330,13 @@ What fraction of a day is $15 \ \text{minutes}$?
 <div class='workings'>
 <div class='working'>
 
-As we know, minutes in an hour $=60$. So,
-
 $
 \begin{aligned} 
-\text {Fraction}    &= \dfrac {15} {60} \\\\
-                    &= \dfrac {15} {15 \times 4} \\\\
-                    &= \dfrac {\cancel {15}} {\cancel {15} \times 4} \\\\
-                    &= \dfrac {1} {4}
+\text {Fraction}    &= \dfrac {15} {3600} \times 24 \\\\
+                    &= \dfrac {15 \times 24} {3600} \\\\
+                    &= \dfrac {15 \times 24} {15 \times 24 \times 10} \\\\
+                    &= \dfrac {\cancel {15} \times \cancel {24}} {\cancel {15} \times \cancel {24} \times {10}} \\\\
+                    &= \dfrac {1} {10}
 \end{aligned}
 $
 
@@ -1359,7 +1345,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {4}$
+$\dfrac {1} {10}$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-all"
 title: "Topic - Area - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -181,7 +181,7 @@ I wish to cover a wall measuring $2 \ \text{m}$ by $6 \ \text{m}$ in tiles which
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -502,7 +502,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -723,7 +723,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -912,7 +912,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1174,7 +1174,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1651,7 +1651,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1838,7 +1838,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1980,7 +1980,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2145,7 +2145,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2353,7 +2353,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2618,7 +2618,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2745,7 +2745,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2881,7 +2881,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3109,7 +3109,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3231,7 +3231,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3406,7 +3406,7 @@ The diagram shows a T shape. The diagram is not accurately drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3828,7 +3828,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4036,7 +4036,7 @@ A right angled triangle is shown below. It is not drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4235,7 +4235,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4393,7 +4393,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4415,12 +4415,12 @@ As per the question,
 $
 \begin {aligned}
 \text {Perimeter of the square}  &= 32 \ \text {cm} \\\\
-4a                               &= 32 \\\\
+4 \times a                       &= 32 \\\\
 a                                &= \dfrac {32} {4} \\\\
 a                                &= \dfrac {8 \times 4} {4} \\\\
 a                                &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
 a                                &= 8 \ \text {cm} \\\\
-\text {Area of the square}       &= a ^ 2 \\\\
+\text {Area of the square}       &= \text {Side} \times \text {Side} \\\\
                                  &= a \times a \\\\
                                  &= 8 \times 8 \\\\
                                  &= 64 \ \text {cm} ^ 2
@@ -4455,24 +4455,24 @@ A rectangle has perimeter $32 \ \text{cm}$. The rectangle is three times as long
 
 Let the width of the rectangle $= w$.
 
-Length of the rectangle $= 3w$.
-
 As per the question,
+
+Length of the rectangle $= 3 \times w$.
 
 $
 \begin {aligned}
-\text {Perimeter of the rectangle}  &= 32 \ \text {cm} \\\\
-2 \times (3w + w)                   &= 32 \\\\
-2 \times 4w                         &= 32 \\\\
-8w                                  &= 32 \\\\
-w                                   &= \dfrac {32} {8} \\\\
-w                                   &= \dfrac {4 \times 8} {8} \\\\
-w                                   &= \dfrac {4 \times \cancel {8}} {\cancel {8}} \\\\
-w                                   &= 4 \ \text {cm} \\\\
-\text {Area of the rectangle}       &= \text {length} \times \text {width} \\\\
-                                    &= (3 \times 4) \times 4 \\\\
-                                    &= 12 \times 4 \\\\
-                                    &= 48 \ \text {cm} ^ 2
+2 \times (\text {length} + \text {width})   &= \text {Perimeter of a rectangle} \\\\
+2 \times (3w + w)                           &= 32 \ \text {cm} \\\\
+2 \times 4w                                 &= 32 \\\\
+8w                                          &= 32 \\\\
+w                                           &= \dfrac {32} {8} \\\\
+w                                           &= \dfrac {4 \times 8} {8} \\\\
+w                                           &= \dfrac {4 \times \cancel {8}} {\cancel {8}} \\\\
+w                                           &= 4 \ \text {cm} \\\\
+\text {Area of the rectangle}               &= \text {length} \times \text {width} \\\\
+                                            &= (3 \times 4) \times 4 \\\\
+                                            &= 12 \times 4 \\\\
+                                            &= 48 \ \text {cm} ^ 2
 \end {aligned}
 $
 
@@ -4519,24 +4519,28 @@ How many tiles do I need to buy?
 <div class='workings'>
 <div class='working'>
 
+Area of a rectangle $=$ length $\times$ width
+
+It is really important to use the right units in calculations and convert where required.
+
+The floor measurement is given in meters and tile measurement is in centimetres.
+
+Let's convert all the measurements into meters.
+
 As per the question,
 
 $
 \begin {aligned}
-\text {Area of the floor}       &= \text {length} \times \text {width} \\\\
-                                &= 4 \ \text {metres} \times 3 \ \text {metres} \\\\
-                                &= 12 \ \text {metres} ^ 2 \\\\
-\text {Area of a tile}          &= 50 \ \text {centimetres} \times \ 25 \ \text {centimetres} \\\\
-                                &= \dfrac {50} {100} \ \text {metres} \times \dfrac {25} {100} \ \text {metres} \\\\
-                                &= 0.50 \times 0.25 \\\\
-                                &= 0.125 \ \text {metres} ^ 2 \\\\
 \text {Number of tiles needed}  &= \dfrac {\text {Area of the floor}} {\text {Area of a tile}} \\\\
-                                &= \dfrac {12} {0.125} \\\\
+                                &= \dfrac {4 \ \text {m} \times 3 \ \text {m}} {50 \ \text {cm} \times \ 25 \ \text {cm}} \\\\
+                                &= \dfrac {12 \ \text {m} ^ 2} {\dfrac {50} {100} \ \text {m} \times \dfrac {25} {100} \ \text {m}} \\\\
+                                &= \dfrac {12} {0.50 \times 0.25} \\\\
+                                &= \dfrac {12 \ \text {m} ^ 2} {0.125 \ \text {m} ^ 2} \\\\
                                 &= \dfrac {12 \times 1000} {0.125 \times 1000} \\\\
                                 &= \dfrac {12 \times 1000} {125} \\\\
-                                &= \dfrac {12 \times 5 \times 5 \times 5 \times 8} {5 \times 5 \times 5} \\\\
-                                &= \dfrac {12 \times \cancel {5} \times \cancel {5} \times \cancel {5} \times 8} {\cancel {5} \times \cancel {5} \times \cancel {5}} \\\\
-                                &= 12 \times 8 \\\\
+                                &= \dfrac {12 \times 5 \times 2 \times 5 \times 2 \times 5 \times 2} {5 \times 5 \times 5} \\\\
+                                &= \dfrac {12 \times \cancel {5} \times 2 \times \cancel {5} \times 2 \times \cancel {5} \times 2} {\cancel {5} \times \cancel {5} \times \cancel {5}} \\\\
+                                &= 12 \times 2 \times 2 \times 2 \\\\
                                 &= 96
 \end {aligned}
 $
@@ -4602,7 +4606,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4737,7 +4741,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4944,7 +4948,7 @@ He can fit exactly $6$ tiles along the shorter edge of the worktop and $15$ alon
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5154,7 +5158,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5982,7 +5986,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6234,7 +6238,7 @@ The hole in the middle has an area of $400 \ \text{cm}^2$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6494,7 +6498,7 @@ A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6633,7 +6637,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6883,7 +6887,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7058,7 +7062,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7277,7 +7281,7 @@ The perimeter of the rectangle below is $18 \ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7444,7 +7448,7 @@ Find:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7583,7 +7587,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7895,7 +7899,7 @@ $50 \ \text{cm} ^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>FA3111F3-33F1-4247-9DB3-34AB4A300F6F</p>
 </div>
@@ -7940,9 +7944,10 @@ To use complete tiles, without cutting, the size of the square tile must divide 
 Let's find the highest common factor of $8$ and $20$.
 
 Factors of $8 = 1, 2, \bold 4, 8$
+
 Factors of $20 = 1, 2, \bold 4, 5, 20$
 
-The highest common factor of $8$ and $20$ is $4$.
+The highest common factor of $8$ and $20=4$.
 
 So, the length of the largest square Isabelle can use so that all the floor will be covered $= 4 \ \text{m}$
 
@@ -7982,7 +7987,7 @@ $4 \ \text{m}$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -8074,7 +8079,7 @@ tarea
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8208,7 +8213,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8836,7 +8841,7 @@ Mr Green's garden is a mixture of lawn, patio and flower beds. A plan of the gar
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9080,7 +9085,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9357,7 +9362,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9815,7 +9820,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10002,7 +10007,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10212,7 +10217,7 @@ As the radius of circle is $6 \ \text {cm}$, the length of a side of the square 
 $
 \begin {aligned}
 \text {Area of a square}  &= \text {Side} ^ 2 \\\\
-                          &= (12 \ \text {cm}) ^ 2 \\\\
+                          &= 12 ^ 2 \\\\
                           &= 144 \ \text {cm} ^ 2
 \end {aligned}
 $
@@ -10633,7 +10638,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10671,7 +10676,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -10871,7 +10876,7 @@ The shaded area is to be the lawn.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11023,7 +11028,7 @@ A square has a perimeter of $20\ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11158,7 +11163,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11290,7 +11295,7 @@ Not drawn accurately
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11421,7 +11426,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11557,7 +11562,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11780,7 +11785,7 @@ The above diagram shows a solid box.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11896,7 +11901,7 @@ What are the length and width of a rectangle:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12070,7 +12075,7 @@ The diagram below (not to scale) shows a cuboid.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12200,7 +12205,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12737,7 +12742,7 @@ The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12927,7 +12932,7 @@ $32 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>B355D689-5D56-4D03-B1EC-8DC3BB5F8DEE</p>
 </div>
@@ -12982,7 +12987,7 @@ $76 \text{m}^{2}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -13157,7 +13162,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13231,7 +13236,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -13486,7 +13491,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14141,7 +14146,7 @@ Mr Howden is landscaping his garden, the shape of which is illustrated below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14478,7 +14483,7 @@ In this question the shapes are NOT drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14653,7 +14658,7 @@ In this question the shapes are NOT drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -14949,7 +14954,7 @@ The total volume of the solid is $56\,cm^3$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15076,7 +15081,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15696,7 +15701,7 @@ $204 \ \text{m}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6BC8FC6A-56E2-4B38-905F-06368D1DB22F</p>
 </div>
@@ -15725,12 +15730,12 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Area of shaded triangle}      &= \dfrac{4}{9} \times \text{Area of larger triangle} \\\\
-\text{Area of larger triangle}      &= \dfrac{9}{4} \times \text{Area of shaded triangle} \\\\
-                                    &= \dfrac{9}{4} \times 52 \\\\
-                                    &= \dfrac{9 \times 52}{4} \\\\
-                                    &= \dfrac{9 \times 13 \times 4}{4} \\\\
-                                    &= \dfrac{9 \times 13 \times \cancel{4}}{\cancel{4}} \\\\
+\text {Area of shaded triangle}     &= \dfrac {4} {9} \times \text {Area of larger triangle} \\\\
+\text {Area of larger triangle}     &= \dfrac {9} {4} \times \text {Area of shaded triangle} \\\\
+                                    &= \dfrac {9} {4} \times 52 \\\\
+                                    &= \dfrac {9 \times 52}{4} \\\\
+                                    &= \dfrac {9 \times 13 \times 4} {4} \\\\
+                                    &= \dfrac {9 \times 13 \times \cancel{4}} {\cancel{4}} \\\\
                                     &= 9 \times 13 \\\\
 \text{Area of larger triangle}      &= 117 \ \text{cm}^2
 \end{aligned}
@@ -15750,7 +15755,7 @@ $117 \ \text{cm}^2$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -15917,7 +15922,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16029,7 +16034,7 @@ tarea
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16174,7 +16179,7 @@ The following grid is made of $1 \ \text{cm}$ squares.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16425,7 +16430,7 @@ This is a plan of a house and its garden:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16801,7 +16806,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16898,7 +16903,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17074,7 +17079,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17244,7 +17249,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17517,7 +17522,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17614,7 +17619,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17708,7 +17713,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17887,7 +17892,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18256,7 +18261,7 @@ Here is the first plan:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18282,7 +18287,7 @@ Here is the first plan:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -18791,7 +18796,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19372,7 +19377,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19545,7 +19550,7 @@ Its length is $8 \ \text{m}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19792,7 +19797,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19922,7 +19927,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20206,7 +20211,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20342,7 +20347,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20589,7 +20594,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20691,7 +20696,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20793,7 +20798,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20894,7 +20899,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21054,7 +21059,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21310,7 +21315,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21682,7 +21687,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21738,7 +21743,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -21905,7 +21910,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21943,7 +21948,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -22169,7 +22174,7 @@ Shape $D$ is drawn on centimetre-squared paper below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22309,7 +22314,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22687,7 +22692,7 @@ Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22915,7 +22920,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23420,7 +23425,7 @@ $\text{Area} = \text{length} \times \text{width}$
 Putting this into an equation, we get,
 
 $
-\begin{aligned}                            
+\begin{aligned}
 l \times 7  &= 28 \times 12 \\\\
 l           &= \dfrac {28 \times 12} { 7} \\\\
 l           &= \dfrac {7 \times 4 \times 12} { 7} \\\\
@@ -23484,7 +23489,7 @@ All the measurements in the following diagram are given in centimetres
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23782,7 +23787,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23935,39 +23940,39 @@ Work out the area of the rectangle in $\text{square centimetres}$ $(\text{cm}^2)
 <div class='workings'>
 <div class='working'>
 
-Let the width of the rectangle (in $\text{cm}$) $= w$
+Let the width of the rectangle (in $\text {cm}$) $= w$
 
 Then as per the question, length of the rectangle $= 3w$
 
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+$\text {Perimeter} = 2 \times (\text {length} + \text {width})$
 
 Equating the perimeter to length and width we get,
 
 $
-\begin{aligned}
+\begin {aligned}
 2 \times (3w + w)   &= 160 \\\\
 2 \times 4w         &= 160 \\\\
 8w                  &= 160 \\\\
-w                   &= \dfrac{160}{8} \\\\
-w                   &= 20 \ \text{cm}
-\end{aligned}
+w                   &= \dfrac {160} {8} \\\\
+w                   &= 20 \ \text {cm}
+\end {aligned}
 $
 
 $
-\begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-\text{Length}       &= 3w \\\\
-                    &= 3 \times 20 \\\\
-                    &= 60 \ \text{cm}
-\end{aligned}
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+\text {Length}       &= 3w \\\\
+                     &= 3 \times 20 \\\\
+                     &= 60 \ \text {cm}
+\end {aligned}
 $
 
 $
-\begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-                    &= 60 \times 20 \\\\
-                    &= 1200 \ \text{cm}^{2}
-\end{aligned}
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+                     &= 60 \times 20 \\\\
+                     &= 1200 \ \text {cm}^{2}
+\end {aligned}
 $
 
 </div>
@@ -23975,7 +23980,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1200 \ \text{cm}^2$
+$1200 \ \text {cm}^2$
 
 </div>
 </div>
@@ -24775,7 +24780,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25009,7 +25014,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25261,7 +25266,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25683,7 +25688,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>52D2DD9F-0C37-4A1E-B05E-34549F9806B3</p>
 </div>
@@ -25724,7 +25729,7 @@ $28.4 \ \text{cm}^2$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

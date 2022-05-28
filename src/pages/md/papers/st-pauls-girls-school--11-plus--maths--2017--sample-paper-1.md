@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>
@@ -14,16 +14,16 @@ date: 2022-05-27 04:53:12
 </div>
 
 # Section A
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>F5C3AB3C-C84A-4D5B-AB13-C1400D84FD8E</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -46,7 +46,7 @@ Fill in the blanks so that the calculation on the left is equal to the calculati
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -121,12 +121,12 @@ $90$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>007B2641-042F-43E0-8E20-0BE481209612</p>
 </div>
@@ -148,10 +148,10 @@ What number is $40\%$ of $75$?
 $
 \begin{aligned}
 &= 40\%$ \ \text{of} \ 75 \\\\
-&= \dfrac{40}{100} \times 75 \\\\
-&= \dfrac{40 \times 75}{100} \\\\
-&= \dfrac{4 \times 10 \times 3 \times 25}{4 \times 25} \\\\
-&= \dfrac{\cancel{4} \times 10 \times 3 \times \cancel{25}}{\cancel{4} \times \cancel{25}} \\\\
+&= \dfrac {40} {100} \times 75 \\\\
+&= \dfrac {40 \times 75} {100} \\\\
+&= \dfrac {4 \times 10 \times 3 \times 25} {4 \times 25} \\\\
+&= \dfrac {\cancel{4} \times 10 \times 3 \times \cancel{25}} {\cancel{4} \times \cancel{25}} \\\\
 &= 10 \times 3 \\\\
 &= 30 
 \end{aligned}
@@ -171,7 +171,7 @@ $30$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -228,7 +228,7 @@ $\dfrac{2}{3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>CF7CE30C-0A7F-4300-862F-365FA5F28396</p>
 </div>
@@ -273,12 +273,12 @@ $4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1F45A013-A394-4AD2-A795-8AA3EF051A9F</p>
 </div>
@@ -305,19 +305,19 @@ Let's take the second missing number $= b$
 
 $
 \begin{aligned}
-\dfrac{a}{12}                       &= \dfrac{12}{18} \\\\
-a                                   &= \dfrac{12}{18} \times 12 \\\\
-                                    &= \dfrac{12 \times 12}{18} \\\\
-                                    &= \dfrac{4 \times 3 \times 2 \times 6}{3 \times 6} \\\\
-                                    &= \dfrac{4 \times \cancel{3} \times 2 \times 6}{\cancel{3} \times \cancel{6}} \\\\
+\dfrac {a} {12}                     &= \dfrac {12} {18} \\\\
+a                                   &= \dfrac {12} {18} \times 12 \\\\
+a                                   &= \dfrac {12 \times 12} {18} \\\\
+a                                   &= \dfrac {4 \times 3 \times 2 \times 6} {3 \times 6} \\\\
+a                                   &= \dfrac {4 \times \cancel{3} \times 2 \times 6} {\cancel{3} \times \cancel{6}} \\\\
 a                                   &= 4 \times 2 \\\\
-\text{First missing number}         &= 8 \\\\
-\dfrac{b}{18}                       &= \dfrac{18}{12} \\\\
-b                                   &= \dfrac{18}{12} \times 18 \\\\
-                                    &= \dfrac{18 \times 18}{12} \\\\
-                                    &= \dfrac{6 \times 3 \times 9 \times 2}{6 \times 2} \\\\
-                                    &= \dfrac{\cancel{6} \times 3 \times 9 \times \cancel{2}}{\cancel{6} \times \cancel{2}} \\\\
-b                                  &= 3 \times 9 \\\\
+\text {First missing number}        &= 8 \\\\
+\dfrac {b} {18}                     &= \dfrac {18} {12} \\\\
+b                                   &= \dfrac {18} {12} \times 18 \\\\
+b                                   &= \dfrac {18 \times 18} {12} \\\\
+b                                   &= \dfrac {6 \times 3 \times 9 \times 2} {6 \times 2} \\\\
+b                                   &= \dfrac {\cancel{6} \times 3 \times 9 \times \cancel{2}} {\cancel{6} \times \cancel{2}} \\\\
+b                                   &= 3 \times 9 \\\\
 \text{Second missing number}        &= 27
 \end{aligned}
 $
@@ -336,7 +336,7 @@ $8, 27$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -391,7 +391,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>FB21F97F-B716-4F28-B691-6FF3FCEA330A</p>
 </div>
@@ -438,7 +438,7 @@ $42$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -507,7 +507,7 @@ $13, 14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D7A80376-0605-421E-8C3B-6A9A36B38446</p>
 </div>
@@ -528,10 +528,10 @@ Sarah won a large jar of sweets in a Christmas raffle. If there are $486$ sweets
 
 $
 \begin{aligned}
-\text{Sweets per person}        &= \dfrac{\text{Total sweets}}{\text{Total people}} \\\\
-                                &= \dfrac{486}{18} \\\\
-                                &= \dfrac{27 \times 18}{18} \\\\
-                                &= \dfrac{27 \times \cancel{18}}{\cancel{18}} \\\\
+\text {Sweets per person}       &= \dfrac {\text{Total sweets}} {\text{Total people}} \\\\
+                                &= \dfrac {486} {18} \\\\
+                                &= \dfrac {27 \times 18} {18} \\\\
+                                &= \dfrac {27 \times \cancel{18}} {\cancel{18}} \\\\
                                 &= 27
 
 \end{aligned}
@@ -553,12 +553,12 @@ $27$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D315CB50-201F-44CC-B34C-D567BD5B3098</p>
 </div>
@@ -579,15 +579,15 @@ On $1 \text{st}$ December $2008$ my grandmother was $80$ years old. Her daughter
 
 As per the question,
 
-Age of grandmother on $1 \text{st}$ December $2008 = 80 \ \text{years}$
+Age of grandmother on $1 \text {st}$ December $2008 = 80 \ \text {years}$
 
-Age of her daughter on $1 \text{st}$ December $1996 = 40 \ \text{years}$
+Age of her daughter on $1 \text {st}$ December $1996 = 40 \ \text {years}$
 
-Date on which her daughter was born $= 1 \text{st December} 1996 - 40 \ \text{years}$
-                                    $= 1 \text{st December} 1956$
+Date on which her daughter was born $= 1 \text {st December} 1996 - 40 \ \text {years}$
+                                    $= 1 \text {st December} 1956$
 
-Age of grandmother on $1 \text{st December} = 1956 + 80 - 2006$
-                                    $30 \ \text{years}$
+Age of grandmother on $1 \text {st December} = 1956 + 80 - 2006$
+                                    $30 \ \text {years}$
 
 </div>
 </div>
@@ -603,12 +603,12 @@ $30 \ \text{years}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>ED194211-094B-4A65-A8B1-1480273C455A</p>
 </div>
@@ -632,11 +632,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of sugar}        &= \text{Total cost} - \text{Cost of coffee} - \text{Cost of milk} \\\\
-                            &= \pounds 5.15 - \pounds 3.69 - 89 \text{p} \\\\
+\text {Cost of sugar}       &= \text {Total cost} - \text {Cost of coffee} - \text {Cost of milk} \\\\
+                            &= \pounds 5.15 - \pounds 3.69 - 89 \text {p} \\\\
                             &= \pounds 5.15 - \pounds 3.69 - \pounds 0.89 \\\\
                             &= 5.15 - 4.58 \\\\
-\text{Cost of sugar}        &= \pounds 0.57 = 57 \text{p}
+\text {Cost of sugar}       &= \pounds 0.57 = 57 \text {p}
 \end{aligned}
 $
 
@@ -654,12 +654,12 @@ $57 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1BDA0077-610F-493E-B36C-43C8D0A51441</p>
 </div>
@@ -682,13 +682,13 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money per crisp}      &= \text{Money per bag of crisps} \\\\
-\text{Number of crisp bag}  &= \dfrac{\text{Total money}}{\text{Money per crisp}} \\\\
-                            &= \dfrac{\pounds 2}{16 \text{p}} \\\\
-                            &= \dfrac{200}{16} \\\\
-                            &= \dfrac{25 \times 8}{2 \times 8} \\\\
-                            &= \dfrac{25 \times \cancel{8}}{2 \times \cancel{8}} \\\\
-                            &= \dfrac{25}{2} \\\\
+\text {Money per crisp}     &= \text {Money per bag of crisps} \\\\
+\text {Number of crisp bag} &= \dfrac {\text {Total money}} {\text {Money per crisp}} \\\\
+                            &= \dfrac {\pounds 2} {16 \text{p}} \\\\
+                            &= \dfrac {200} {16} \\\\
+                            &= \dfrac {25 \times 8} {2 \times 8} \\\\
+                            &= \dfrac {25 \times \cancel{8}} {2 \times \cancel{8}} \\\\
+                            &= \dfrac {25} {2} \\\\
                             &= 12.5
 \end{aligned}
 $
@@ -709,7 +709,7 @@ $12$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -920,7 +920,7 @@ The table shows the distances in miles between some towns in the West country.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -995,7 +995,7 @@ $3$
 </ul>
 
 # Section B
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
@@ -1170,7 +1170,7 @@ In *Mathsland* currency is arranged in alphas, betas and gammas where
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1635,7 +1635,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1724,7 +1724,7 @@ TODOANSWER
 </ul>
 
 # Section C
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
@@ -1756,7 +1756,7 @@ todo
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1790,7 +1790,7 @@ $
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -1899,7 +1899,7 @@ $
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2079,7 +2079,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2364,7 +2364,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2544,7 +2544,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2736,7 +2736,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2772,7 +2772,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>

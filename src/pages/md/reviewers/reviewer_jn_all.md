@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-jn-all"
 title: "Reviewer - Jaishree Nair - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -528,7 +528,7 @@ $1050$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1017,7 +1017,7 @@ $25 \ \text{cm}^{2}$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1144,7 +1144,7 @@ Write the missing numbers in the boxes.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1302,7 +1302,7 @@ Convert these lengths:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1481,7 +1481,7 @@ If $u = 2$, $v = -5$ and $w = -3$, find the value of:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1678,7 +1678,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1975,7 +1975,7 @@ Fill in the next two numbers in each of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2269,7 +2269,7 @@ From the numbers $21, 22, 23, 25, 27, 29$ choose one which is:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2678,7 +2678,7 @@ Write down the next two numbers in these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2885,7 +2885,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3110,7 +3110,7 @@ $1$ January.
 tdivision
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -3135,7 +3135,7 @@ Use the answers to the multiplication above to answer the following questions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3710,64 +3710,6 @@ $\text {Six guinea pigs weigh the same as} \ = 4 \ \text {rabbits}$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>38069E88-D243-49CC-BCD6-9BF82C104E6B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Liam started with the number $2$ and counted up in $3$s.
-He got the numbers $2, 5, 8, 11, \ldots$
-
-Louise started with the number $3$ and counted up in $2$s. She got the numbers $3, 5, 7, 9, \ldots$
-
-What is the difference between Liam's $50 \text{th}$ number and Louise's $50 \text{th}$ number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
- 
-Let Liam's $50 \text{th}$ number $= a$.
-
-Let Louise's $50 \text{th}$ number $= b$.
-
-$
-\begin {aligned}
-\text {Difference between Liam's 50th number and Louise's 50th number}  &= a - b \\\\
-                                                                        &= (2 + 3 \times 49) - (3 + 2 \times 49) \\\\
-                                                                        &= (2 + 147) - (3 + 98) \\\\
-                                                                        &= 149 - 101 \\\\
-                                                                        &= 48
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>78560253-2BD8-42B2-8E55-911BFF244038</p>
 </div>
 <div class='topics'>
@@ -4058,7 +4000,7 @@ Write down the next two items in each of these patterns:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4316,7 +4258,7 @@ $
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4746,7 +4688,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4904,7 +4846,7 @@ The diagram shows a T shape. The diagram is not accurately drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5057,7 +4999,7 @@ If $x$ is a number, then $3x$ means "three times $x$"
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5205,7 +5147,7 @@ $\pounds 100$ (pounds) is worth the same as $€120$ (euros).
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5335,7 +5277,7 @@ $\text {Bruno}$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -5390,7 +5332,7 @@ $12000$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -5669,7 +5611,7 @@ $5.28$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -6034,7 +5976,7 @@ $4 \dfrac{47}{60}$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tnumber
 </li>
 </ul>
 </div>
@@ -6202,7 +6144,7 @@ $\dfrac {1} {4}$
 tdecimal
 </li>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -6260,7 +6202,7 @@ $5.28$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -6367,7 +6309,7 @@ $4.20$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -6672,7 +6614,7 @@ $4 \dfrac{47}{60}$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -7099,7 +7041,7 @@ Write each list of numbers in order from smallest to largest
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7389,7 +7331,7 @@ In this formula $a$ stands for the number of adults and $k$ stands for the numbe
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7472,11 +7414,6 @@ Children $= 3$
 %empty%
 
 </div>
-<div class='answer'>
-
-%empty%
-
-</div>
 </div>
 
 </div>
@@ -7524,7 +7461,7 @@ Solve each equation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7679,7 +7616,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7701,12 +7638,12 @@ As per the question,
 $
 \begin {aligned}
 \text {Perimeter of the square}  &= 32 \ \text {cm} \\\\
-4a                               &= 32 \\\\
+4 \times a                       &= 32 \\\\
 a                                &= \dfrac {32} {4} \\\\
 a                                &= \dfrac {8 \times 4} {4} \\\\
 a                                &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
 a                                &= 8 \ \text {cm} \\\\
-\text {Area of the square}       &= a ^ 2 \\\\
+\text {Area of the square}       &= \text {Side} \times \text {Side} \\\\
                                  &= a \times a \\\\
                                  &= 8 \times 8 \\\\
                                  &= 64 \ \text {cm} ^ 2
@@ -7741,24 +7678,24 @@ A rectangle has perimeter $32 \ \text{cm}$. The rectangle is three times as long
 
 Let the width of the rectangle $= w$.
 
-Length of the rectangle $= 3w$.
-
 As per the question,
+
+Length of the rectangle $= 3 \times w$.
 
 $
 \begin {aligned}
-\text {Perimeter of the rectangle}  &= 32 \ \text {cm} \\\\
-2 \times (3w + w)                   &= 32 \\\\
-2 \times 4w                         &= 32 \\\\
-8w                                  &= 32 \\\\
-w                                   &= \dfrac {32} {8} \\\\
-w                                   &= \dfrac {4 \times 8} {8} \\\\
-w                                   &= \dfrac {4 \times \cancel {8}} {\cancel {8}} \\\\
-w                                   &= 4 \ \text {cm} \\\\
-\text {Area of the rectangle}       &= \text {length} \times \text {width} \\\\
-                                    &= (3 \times 4) \times 4 \\\\
-                                    &= 12 \times 4 \\\\
-                                    &= 48 \ \text {cm} ^ 2
+2 \times (\text {length} + \text {width})   &= \text {Perimeter of a rectangle} \\\\
+2 \times (3w + w)                           &= 32 \ \text {cm} \\\\
+2 \times 4w                                 &= 32 \\\\
+8w                                          &= 32 \\\\
+w                                           &= \dfrac {32} {8} \\\\
+w                                           &= \dfrac {4 \times 8} {8} \\\\
+w                                           &= \dfrac {4 \times \cancel {8}} {\cancel {8}} \\\\
+w                                           &= 4 \ \text {cm} \\\\
+\text {Area of the rectangle}               &= \text {length} \times \text {width} \\\\
+                                            &= (3 \times 4) \times 4 \\\\
+                                            &= 12 \times 4 \\\\
+                                            &= 48 \ \text {cm} ^ 2
 \end {aligned}
 $
 
@@ -7805,24 +7742,28 @@ How many tiles do I need to buy?
 <div class='workings'>
 <div class='working'>
 
+Area of a rectangle $=$ length $\times$ width
+
+It is really important to use the right units in calculations and convert where required.
+
+The floor measurement is given in meters and tile measurement is in centimetres.
+
+Let's convert all the measurements into meters.
+
 As per the question,
 
 $
 \begin {aligned}
-\text {Area of the floor}       &= \text {length} \times \text {width} \\\\
-                                &= 4 \ \text {metres} \times 3 \ \text {metres} \\\\
-                                &= 12 \ \text {metres} ^ 2 \\\\
-\text {Area of a tile}          &= 50 \ \text {centimetres} \times \ 25 \ \text {centimetres} \\\\
-                                &= \dfrac {50} {100} \ \text {metres} \times \dfrac {25} {100} \ \text {metres} \\\\
-                                &= 0.50 \times 0.25 \\\\
-                                &= 0.125 \ \text {metres} ^ 2 \\\\
 \text {Number of tiles needed}  &= \dfrac {\text {Area of the floor}} {\text {Area of a tile}} \\\\
-                                &= \dfrac {12} {0.125} \\\\
+                                &= \dfrac {4 \ \text {m} \times 3 \ \text {m}} {50 \ \text {cm} \times \ 25 \ \text {cm}} \\\\
+                                &= \dfrac {12 \ \text {m} ^ 2} {\dfrac {50} {100} \ \text {m} \times \dfrac {25} {100} \ \text {m}} \\\\
+                                &= \dfrac {12} {0.50 \times 0.25} \\\\
+                                &= \dfrac {12 \ \text {m} ^ 2} {0.125 \ \text {m} ^ 2} \\\\
                                 &= \dfrac {12 \times 1000} {0.125 \times 1000} \\\\
                                 &= \dfrac {12 \times 1000} {125} \\\\
-                                &= \dfrac {12 \times 5 \times 5 \times 5 \times 8} {5 \times 5 \times 5} \\\\
-                                &= \dfrac {12 \times \cancel {5} \times \cancel {5} \times \cancel {5} \times 8} {\cancel {5} \times \cancel {5} \times \cancel {5}} \\\\
-                                &= 12 \times 8 \\\\
+                                &= \dfrac {12 \times 5 \times 2 \times 5 \times 2 \times 5 \times 2} {5 \times 5 \times 5} \\\\
+                                &= \dfrac {12 \times \cancel {5} \times 2 \times \cancel {5} \times 2 \times \cancel {5} \times 2} {\cancel {5} \times \cancel {5} \times \cancel {5}} \\\\
+                                &= 12 \times 2 \times 2 \times 2 \\\\
                                 &= 96
 \end {aligned}
 $
@@ -7853,7 +7794,7 @@ $96$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 <li>
 tdecimal
@@ -7879,7 +7820,7 @@ tdecimal
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7969,7 +7910,7 @@ $25.51$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tdecimal
@@ -7995,7 +7936,7 @@ tdecimal
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8108,7 +8049,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8248,7 +8189,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13878,7 +13819,7 @@ $30.282$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tmoney
@@ -14890,7 +14831,7 @@ Fill in the missing number of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15101,7 +15042,7 @@ Fill in the missing numbers in these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15252,7 +15193,7 @@ A sleeper train leaves London at $22{:}45$ and reaches Aberdeen at $06{:}30$ the
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15376,7 +15317,7 @@ and she worked out that if she bought $8$ lollipops she would end up with $30 \t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15511,7 +15452,7 @@ The hole in the middle has an area of $400 \ \text{cm}^2$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15694,7 +15635,7 @@ Fill in the missing numbers from these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15887,7 +15828,7 @@ The diagram shows a triangle and a line. The two angles marked $y \degree$ are e
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16011,7 +15952,7 @@ Write down the next two terms in each of the sequences below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16420,7 +16361,7 @@ Write down the missing terms in each of the sequences below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16848,7 +16789,7 @@ Fill in the missing numbers in these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17053,7 +16994,7 @@ tdecimal
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17175,7 +17116,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17294,7 +17235,7 @@ The diagram shows a triangle and a line. The two angles marked $y\degree$ are eq
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17414,7 +17355,7 @@ For example: $2 \ \ast \ 6 = (6 - 2) \times 3 = 12$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17678,7 +17619,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17812,7 +17753,7 @@ $
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17931,7 +17872,7 @@ ttime
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18109,7 +18050,7 @@ Find:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18276,7 +18217,7 @@ $50 \ \text{cm} ^2$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -18343,7 +18284,7 @@ $12441$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -18399,7 +18340,7 @@ $0.006$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -18446,166 +18387,6 @@ $37620$
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>FA3111F3-33F1-4247-9DB3-34AB4A300F6F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tgeometry
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A room measures $8 \ \text{m}$ by $20 \ \text{m}$.
-Isabelle wants to tile the floor with square tiles.
-
-What is the length of the largest tile she can use so that all the floor will be covered?
-
--  $2 \ \text{m}$
--  $3 \ \text{m}$
--  $4 \ \text{m}$
--  $5 \ \text{m}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question, 
-
-Length $= 8 \ \text{m}$
-
-Width  $= 20 \ \text{m}$
-
-
-To use complete tiles, without cutting, the size of the square tile must divide both the length and width of the room. 
-
-Let's find the highest common factor of $8$ and $20$.
-
-Factors of $8 = 1, 2, \bold 4, 8$
-Factors of $20 = 1, 2, \bold 4, 5, 20$
-
-The highest common factor of $8$ and $20$ is $4$.
-
-So, the length of the largest square Isabelle can use so that all the floor will be covered $= 4 \ \text{m}$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-As per the question,
-
-LCM of 8 and 20 $= 40$
-
-$
-\begin{aligned}
-\text{Area of room}                                   &= \text{Length} \times \text{Width} \\\\
-                                                      &= 8 \ \text{m} \times 20 \ \text{m}\\\\
-                                                      &= 160 \ \text{m}^2
-\text{Largest square tile that can be used}           &= \dfrac {160} {40} \\\\
-                                                      &= 4 \ \text{m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$4 \ \text{m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>2D14E878-11B5-46B1-A002-9A3CA82CED1D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A hexagon is worth $6$ points.
-A square is worth $4$ points.
-How much is triangle worth?
-
-![missing image](/papers/missing_image.svg)
-
--  Can't tell
--  $1$
--  $2$
--  $4$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the worth of triangle $= a$
-
-Let the worth of circle $= b$
-
-As per the question,
-
-$
-\begin{aligned}
-6 + 4 + 6 + b                                  &= 6 + b + 4 + 4 + a + a \\\\
-16 + b                                         &= 14 + b + 2a \\\\
-16 + b - b                                     &= 14 + 2a \\\\
-16                                             &= 14 + 2a \\\\
-16 - 14                                        &= 14 + 2a \\\\
-2                                              &= 2a \\\\
-\dfrac {2} {2}                                 &= a \\\\
-1                                              &= a \\\\
-a                                              &= 1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -18720,7 +18501,7 @@ From the numbers in the list, write down:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -18886,7 +18667,7 @@ Write these numbers in order of size. Start with the smallest number.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19004,7 +18785,7 @@ to find the value of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19128,7 +18909,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20381,7 +20162,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20635,7 +20416,7 @@ tunit
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20998,7 +20779,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21799,10 +21580,10 @@ $2$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -21825,7 +21606,7 @@ Calculate:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21983,7 +21764,7 @@ $607.3$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -22006,7 +21787,7 @@ Work out:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22117,7 +21898,7 @@ Calculate:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22297,7 +22078,7 @@ Calculate:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22540,7 +22321,7 @@ Calculate the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22690,7 +22471,7 @@ Simplify if possible:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22981,7 +22762,7 @@ Daniela is travelling from London to Birmingham.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23061,7 +22842,7 @@ $12{:}43$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -23137,7 +22918,7 @@ Jon keeps chickens and ducks. He has $6$ chickens and $2$ ducks.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23338,7 +23119,7 @@ Solve these equations to find $x$:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23449,7 +23230,7 @@ Calculate the missing angles.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23568,7 +23349,7 @@ Write the following as top heavy fractions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23675,7 +23456,7 @@ Solve the following, leaving your answers in the simplest form.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -23842,7 +23623,7 @@ Write down the next term in each of these sequences
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24082,7 +23863,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24206,7 +23987,7 @@ Write down the next two numbers in each of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24540,7 +24321,7 @@ $11.0009$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -24587,7 +24368,7 @@ $3211$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -24634,7 +24415,7 @@ $5702$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -24934,7 +24715,7 @@ Find the value of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25117,7 +24898,7 @@ Work out
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25248,9 +25029,9 @@ Angela caught a train at $7.30$ in the morning and arrived at Newcastle at $1.42
 
 $
 \begin {aligned}
-\text {Time taken}  &= \text {Time she arrived Newcastle} - \text {Time she caught train} \\\\
-                    &= 1 {:} 42 \ \text {p.m.} - 7 {:} 30 \ \text {a.m.} \\\\
-                    &= 6 \ \text {hours} \ 12 \ \text {minutes}
+\text {Journey duration}  &= \text {Arrival time} - \text {Boarding time} \\\\
+                          &= 1 {:} 42 \ \text {pm} - 7 {:} 30 \ \text {am} \\\\
+                          &= 6 \ \text {hours} \ 12 \ \text {minutes}
 \end {aligned}
 $
 
@@ -25303,7 +25084,7 @@ tvolume
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25357,9 +25138,7 @@ Find the volume of this shape.
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
-
-The shape can be divided into two shapes, a cube and a cuboid.
+As per the diagram, we can divide the shape into a cube and a cuboid.
 
 $
 \begin {aligned}
@@ -25378,136 +25157,6 @@ $
 <div class='answer'>
 
 $24 \ \text {cm} ^ 3$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>00C311D7-5CAB-401B-AE03-78A75AFA3E88</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-
-Entry $20 \text{p}$
-
-Side Show $30 \text{p}$ a go
-
-Cream Teas $\pounds 2.60$ each
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Mary goes to the school fair.
-
-She pays to get in. She visits $3$ side shows and she has a cream tea.
-
-How much does Mary spend altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Total money Mary spent}  &= \text {Entry cost} + 3 \times \text {Side shows cost} + \text {Cost of cream tea} \\\\
-                                &= 20 \text {p} + 3 \times 30 \text {p} + \pounds 2.60 \\\\
-                                &= \pounds \dfrac {20} {100} + 3 \times \pounds \dfrac {30} {100} + \pounds 2.60 \\\\
-                                &= 0.20 + 3 \times 0.30 + 2.60 \\\\
-                                &= 2.80 + 0.90 \\\\
-                                &= \pounds 3.70
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 3.70$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Anna has $\pounds 5$ to spend at the school fair. She must pay to get in.
-
-How many times can she visit a side show if she has a cream tea as well?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Number of times Anna can visit a side show}  &= \dfrac {\text {Total money she has} - (\text {Entry cost} + \text {Cost of a cream tea})} {\text {Cost of a side show}} \\\\ 
-                                                    &= \dfrac {\pounds 5 - (20 \text {p} + \pounds 2.60)} {30 \text {p}} \\\\
-                                                    &= \dfrac {5 \times 100 \text {p} - (20 \text {p} + 2.60 \times 100 \text {p})} {30 \text {p}} \\\\
-                                                    &= \dfrac {500 - (20 + 260)} {30} \\\\
-                                                    &= \dfrac {500 - 280} {30} \\\\
-                                                    &= \dfrac {220} {30} \\\\
-                                                    &= 7
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
 
 </div>
 </div>
@@ -25581,7 +25230,7 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -25649,13 +25298,13 @@ As per the diagram,
 
 $
 \begin {aligned}
-\text {Percentage of the shape that is shaded}  &= \dfrac {\text {Number of boxes shaded}} {\text {Total number of boxes}} \ \text {of} \  100 \\\\
-                                                &= \dfrac {3} {5} \ \text {of} \ 100 \\\\
-                                                &= \dfrac {3 \times 100} {5} \\\\
-                                                &= \dfrac {3 \times 20 \times 5} {5} \\\\
-                                                &= \dfrac {3 \times 20 \times \cancel {5}} {\cancel {5}} \\\\
-                                                &= 3 \times 20 \\\\
-                                                &= 60 \%
+\text {Percentage shaded}   &= \text {Fraction shaded} \times 100 \% \\\\
+                            &= \dfrac {3} 5 \times 100 \\\\
+                            &= \dfrac {3 \times 100} {5} \\\\
+                            &= \dfrac {3 \times 20 \times 5} {5} \\\\
+                            &= \dfrac {3 \times 20 \times \cancel {5}} {\cancel {5}} \\\\
+                            &= 3 \times 20 \\\\
+                            &= 60 \%
 \end {aligned}
 $
 
@@ -25704,7 +25353,7 @@ As per the diagram,
 $
 \begin {aligned}
 \text {Perimeter of a rectangle}  &= 2 \times (\text {length} + \text {width}) \\\\
-                                  &= 2 \times (1.8 \text {m} + 4.65 \text {m}) \\\\
+                                  &= 2 \times (4.65 \text {m} + 1.8 \text {m}) \\\\
                                   &= 2 \times 6.45 \\\\
                                   &= 12.90 \text {m}
 \end {aligned}
@@ -25759,7 +25408,7 @@ Find the missing angles by calculation. The diagrams are not to scale:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -25774,16 +25423,19 @@ Find the missing angles by calculation. The diagrams are not to scale:
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
+Let the missing angle $= a$
+
+As per the diagram it is a right angle. The sum of a right angle $= 90 \degree$
 
 $
 \begin {aligned}
-\text {Sum of all the angles}  &= 90 \degree \\\\
 a + 44 \degree                 &= 90 \degree \\\\
 a                              &= 90 \degree - 44 \degree \\\\
 a                              &= 46 \degree
 \end {aligned}
 $
+
+Missing angle $= 46 \degree$
 
 </div>
 </div>
@@ -25811,17 +25463,22 @@ $46 \degree$
 <div class='workings'>
 <div class='working'>
 
+Let the missing angle $= b$
+
+As we know, the sum of angles on a straight line is $180 \degree$ 
+
 As per the diagram,
 
 $
 \begin {aligned}
-\text {Sum of all the angles}  &= 180 \degree \\\\
 b + 48 \degree + 67 \degree    &= 180 \degree \\\\
 b + 115 \degree                &= 180 \degree \\\\
 b                              &= 180 \degree - 115 \degree \\\\
 b                              &= 65 \degree
 \end {aligned}
 $
+
+Missing angle $= 65 \degree$
 
 </div>
 </div>
@@ -25849,14 +25506,15 @@ $65 \degree$
 <div class='workings'>
 <div class='working'>
 
+The sum of a complete angle is $360 \degree$ 
+
 As per the diagram,
 
 $
 \begin {aligned}
-\text {Sum of all angles}     &= 360 \degree \\\\
 d + 140 \degree + 160 \degree &= 360 \degree \\\\
-d + 300 \degree               &= 360 \degree \\\\
-d                             &= 360 \degree - 300 \degree \\\\
+d + 300                       &= 360 \\\\
+d                             &= 360 - 300 \\\\
 d                             &= 60 \degree
 \end {aligned}
 $
@@ -25917,14 +25575,14 @@ $
 &&  \footnotesize{\maroonC{(+3)}}
 &&  \footnotesize{\maroonC{(+3)}}
 &&  \footnotesize{\maroonC{(+3)}}  \\
-6,  &&   9,  &&   12,  &&   15,  &&   18  &&   \ldots
+6,  &&   9,  &&   12,  &&   15,  &&   \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Fifth number}     &= 15 + 3 \\\\
-                        &= 18
+\text{Fifth term}     &= 15 + 3 \\\\
+                      &= 18
 \end{aligned}
 $
 
@@ -25933,7 +25591,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6, && 9, && 12, && 15, && 18$
+$18$
 
 </div>
 </div>
@@ -25979,7 +25637,7 @@ There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26002,11 +25660,11 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Fraction of a bar they each have}  &= \dfrac {\text {Number of chocolate bars}} {\text {Number of People}} \\\\
-                                          &= \dfrac {3} {9} \\\\
-                                          &= \dfrac {3} {3 \times 3} \\\\
-                                          &= \dfrac {\cancel {3}} {3 \times \cancel {3}} \\\\
-                                          &= \dfrac {1} {3}
+\text {Fraction per person}  &= \dfrac {\text {Total bars}} {\text {Total people}} \\\\
+                             &= \dfrac {3} {9} \\\\
+                             &= \dfrac {3} {3 \times 3} \\\\
+                             &= \dfrac {\cancel {3}} {3 \times \cancel {3}} \\\\
+                             &= \dfrac {1} {3}
 \end {aligned}
 $
 
@@ -26156,10 +25814,10 @@ What is the total cost ?
 
 $
 \begin {aligned}
-\text {Total cost}  &= 4 \times \text {Cost of a sausage roll} + 5 \times \text {Cost of a hotdog} + 7 \times \text {Cost of a drink} \\\\
-                    &= 4 \times 24 \ \text {pence} + 5 \times 81 \ \text {pence} + 7 \times 20 \ \text {pence} \\\\
+\text {Total cost}  &= \text {Cost of} \ (4 \times \text {sausage} + 5 \times \text {hotdog} + 7 \times \text {Drinks}) \\\\
+                    &= 4 \times 24 \text {p} + 5 \times 81 \text {p} + 7 \times 20 \text {p} \\\\
                     &= 96 + 405 + 140 \\\\
-                    &= 641 \ \text {pence}
+                    &= 641 \text {p}
 \end {aligned}
 $
 
@@ -26212,7 +25870,7 @@ Work out
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26325,7 +25983,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26478,7 +26136,7 @@ Place the following sets of numbers in order, **smallest first**.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26625,7 +26283,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26731,7 +26389,7 @@ Fill in the gaps in the sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -26846,7 +26504,7 @@ $15, -3$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -26900,7 +26558,7 @@ $57821$
 tdecimal
 </li>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -26965,14 +26623,14 @@ that you can make using the
 digits $4, 3, 9$ and $1$?
 Use each digit only once.
 
-A      B   C     D   E
+A        B       C       D       E
 $9413$  $1349$  $4319$  $1439$  $1934$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$1349$.
+$1349$
 
 </div>
 </div>
@@ -27003,7 +26661,7 @@ $1349$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -27058,7 +26716,7 @@ $9600$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -27114,7 +26772,7 @@ $41976$
 ttime
 </li>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -27124,7 +26782,7 @@ I start counting at $19$ and go up to $89$.
 I take one second to say each number.
 How long do I take altogether?
 
-A B C D E
+A                      B                     C                     D                     E
 $70 \ \text{seconds}$ $71 \ \text{seconds}$ $72 \ \text{seconds}$ $73 \ \text{seconds}$ $74 \ \text{seconds}$
 
 </div>
@@ -27135,7 +26793,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Time taken}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
+\text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
                     &= 89 - 20 \\\\
                     &= 71 \ \text {seconds}
 \end {aligned}
@@ -27194,9 +26852,10 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Age of Oak Tree in 2011}  &= \text {Age of Lord Owlynose when he died} + (2011 - 1940) \\\\
-                                 &= 80 + 71 \\\\
-                                 &= 151
+\text {Age of Tree in 2011}  &= \text {Lord's age at death} + (2011 - \text {Year lord died}) \\\\
+                             &= 80 + 2011 - 1940 \\\\
+                             &= 80 + 71 \\\\
+                             &= 151 \ \text {years}
 \end {aligned}
 $
 
@@ -27208,7 +26867,7 @@ $
 </div>
 <div class='answer'>
 
-$151$
+$151 \ \text {years}$
 
 </div>
 </div>
@@ -27255,7 +26914,7 @@ As the radius of circle is $6 \ \text {cm}$, the length of a side of the square 
 $
 \begin {aligned}
 \text {Area of a square}  &= \text {Side} ^ 2 \\\\
-                          &= (12 \ \text {cm}) ^ 2 \\\\
+                          &= 12 ^ 2 \\\\
                           &= 144 \ \text {cm} ^ 2
 \end {aligned}
 $
@@ -27269,82 +26928,6 @@ $
 <div class='answer'>
 
 $144 \ \text {cm} ^ 2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>B5420130-A56B-4BA2-8654-2576766211F0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Woody organised a quiz night in the toy room. He asked $25$ questions.
-
-For each correct answer you gained $4$ points.
-
-For each incorrect answer you lost $2$ points.
-
-For each question you did not attempt you scored $0$ points.
-
-
-Rex answered all but one of the questions and got a score of $66$ points.
-How many correct answers did he have?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let number of correct answers $= a$.
-
-and let number of incorrect answers $= b$.
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Total number of questions Rex answered}  &= \text {Correct answers} + \text {Incorrect answers} + \text {Questions he left} \\\\
-25                                              &= a + b + 1 \\\\
-a + b                                           &= 25 - 1 \\\\
-a + b                                           &= 24 \\\\
-b                                               &= 24 - a \\\\
-\text {Total points he scored}                  &= 66 \\\\
-4a - 2b                                         &= 66 \\\\
-4a - 2 \times (24 - a)                          &= 66 \\\\
-4a - 48 + 2a                                    &= 66 \\\\
-6a                                              &= 66 + 48 \\\\
-6a                                              &= 114 \\\\
-a                                               &= \dfrac {114} {6} \\\\
-a                                               &= \dfrac {19 \times 6} {6} \\\\
-a                                               &= \dfrac {19 \times \cancel {6}} {\cancel {6}} \\\\
-a                                               &= 19
-\end {aligned}
-$
-
-Correct answers $= 19$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19$
 
 </div>
 </div>
@@ -27591,7 +27174,7 @@ $2.494$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -27841,7 +27424,7 @@ Solve each of these equations below to find the value of $x$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28087,7 +27670,7 @@ Solve the following two step , below, to find the value of $x$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28277,7 +27860,7 @@ tvolume
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28399,7 +27982,7 @@ Calculate the following, using the most appropriate unit for your answers.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28618,7 +28201,7 @@ Find the next number in each of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28932,7 +28515,7 @@ Calculate the size of the missing angles
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29174,7 +28757,7 @@ empty
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29446,7 +29029,7 @@ $1102$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -29729,7 +29312,7 @@ $550000$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -29986,7 +29569,7 @@ Fill in the missing numbers in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -30160,7 +29743,7 @@ $16, -32$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -30220,7 +29803,7 @@ $541$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -30280,7 +29863,7 @@ $417$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -30681,7 +30264,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -30825,7 +30408,7 @@ $15$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -30888,7 +30471,7 @@ $3648$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -31336,7 +30919,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -31392,7 +30975,7 @@ Using any of the digits $4,\ 5$ and $2$ only once in each answer, write down
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -31579,7 +31162,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -31742,7 +31325,7 @@ In the next two questions write a number in the box which will make the statemen
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -31849,7 +31432,7 @@ Write down the next two numbers in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -32041,7 +31624,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -32246,7 +31829,7 @@ $15\:\:\:  16\:\:\:  17\:\:\:  18$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -32471,7 +32054,7 @@ Write down the value of $N$ which makes each of the statements true.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -32653,7 +32236,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -32768,7 +32351,7 @@ Solve these equations to find the value of the letter.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -33012,7 +32595,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -33180,7 +32763,7 @@ Calculate, giving your answer as simply as possible
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -33300,7 +32883,7 @@ Find:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -33455,7 +33038,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -33607,7 +33190,7 @@ Write down the next two terms in each of the sequences below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -33803,7 +33386,7 @@ Each pupil in a class were asked their favourite colour. The bar graph shows the
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -33954,7 +33537,7 @@ From the numbers in the ring write down all the
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -34107,7 +33690,7 @@ Given that $a = 2, b = 3$ and $c = 4$, find the value of the following expressio
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -34299,7 +33882,7 @@ Find the value of:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -34450,7 +34033,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -34591,7 +34174,7 @@ Write the next two terms in each of the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -34877,7 +34460,7 @@ Replace the question marks with either a $+,- , \times$ or $\div$ and make the c
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -35179,7 +34762,7 @@ Simplify the following algebraic expressions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -35288,7 +34871,7 @@ Solve the following equations:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -35586,7 +35169,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -35640,7 +35223,7 @@ Showing your working, calculate the size of the angle:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -35767,7 +35350,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -35875,7 +35458,7 @@ $\boxed{2 \quad 5 \quad 9 \quad 15 \quad 24 \quad 28 \quad  36 \quad 45 \quad 53
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -36000,7 +35583,7 @@ tangle
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -36177,7 +35760,7 @@ A gardener measures the night time temperatures over two evenings and records th
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -36347,7 +35930,7 @@ Solve the following equations:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -36496,7 +36079,7 @@ Write the next two terms in each of the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -36943,7 +36526,7 @@ $36$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -36991,7 +36574,7 @@ $4232$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -37082,7 +36665,7 @@ $32027$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -37274,7 +36857,7 @@ $2 \ \text {hours} \ 37 \ \text {minutes}$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -37325,7 +36908,7 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -37372,7 +36955,7 @@ $153$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -37419,7 +37002,7 @@ $56$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -37674,7 +37257,7 @@ Find the missing numbers:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -38018,7 +37601,7 @@ Calculate the following
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -38127,7 +37710,7 @@ Insert brackets to make the following statements correct
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -38593,7 +38176,7 @@ Write down the missing number in each part:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -38798,7 +38381,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -38963,7 +38546,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -39308,7 +38891,7 @@ Any of these numbers can be used in each part of the question.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -39482,7 +39065,7 @@ Calculate each of the following
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -39632,7 +39215,7 @@ If $x = 3, y = -7$ and $z = -9$, find the value of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -39811,7 +39394,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -40093,7 +39676,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -40265,7 +39848,7 @@ If $a = 11, b = -3$ and $c = -6$, find the value of the following expressions
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -40569,7 +40152,7 @@ Work out the following, obeying the correct order of operations.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -40932,7 +40515,7 @@ Where possible, fully simplify the following algebraic expressions
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41112,7 +40695,7 @@ Write down, in ascending order, the factors of the following numbers.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41212,7 +40795,7 @@ Write down the prime factorisation of the following numbers
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41369,7 +40952,7 @@ If $a = 6, b = -2$ and $c = -5$, find the value of the following expressions
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41519,7 +41102,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41688,7 +41271,7 @@ Insert brackets to make the following statements correct:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41914,7 +41497,7 @@ Any of these numbers can be used in each part of the question.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -42089,7 +41672,7 @@ Calculate each of the following
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -42234,7 +41817,7 @@ If $x = -2, y = 3$ and $z = -1$, find the value of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -42415,7 +41998,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -42583,7 +42166,7 @@ Solve the following equations, giving your answers as whole numbers or fractions
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -42756,7 +42339,7 @@ $\dfrac{45}{4}$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -42805,115 +42388,6 @@ $50.75$
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>51D8875F-8112-439E-9983-2C3C35DDC20B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these three is largest and which the smallest?
-
-$65\%\:\:0.605\:\:\dfrac{3}{5}$
-
-Largest =
-
-Smallest = 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, we will convert all the numbers into fraction.
-
-$
-\begin{aligned}
-&= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
-&= \dfrac {65} {100} , \quad 0.605 , \quad \dfrac {3 \times 2} {5 \times 2} \\\\
-&= 0.65 , \quad 0.605 , \quad \dfrac {6} {10} \\\\
-&= 0.65 , \quad 0.605 , \quad 0.6 \\\\
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 0.6<  \quad 0.605<  \quad 0.65 \\\\
-&= \dfrac{3}{5}<  \quad 0.605<  \quad 65\%
-\end{aligned}
-$
-
-Largest $= \ 65\%$
-
-Smallest $= \ \dfrac {3} {5}$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, we will convert all the numbers into fraction.
-
-$
-\begin{aligned}
-&= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
-&= \dfrac {65} {100} , \quad \dfrac {605} {1000} , \quad \dfrac {3} {5} \\\\
-&= \dfrac {65 \times 10} {100 \times 10} , \quad \dfrac {605} {1000} , \quad \dfrac {3 \times 200} {5 \times 200} \\\\
-&= \dfrac {650} {1000} , \quad \dfrac {605} {1000} , \quad \dfrac {600} {1000} \\\\
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {600} {1000}<  \quad \dfrac {605} {1000}<  \quad \dfrac {650} {1000} \\\\
-&= \dfrac{3}{5}<  \quad 0.605<  \quad 65\%
-\end{aligned}
-$
-
-Largest $= \ 65\%$
-
-Smallest $= \ \dfrac {3} {5}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Largest $= 65\%$
-
-Smallest $= \dfrac {3} {5}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -42982,7 +42456,7 @@ $0.925$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -43023,266 +42497,6 @@ $\dfrac {17} {20}$
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>1A62C45F-6E91-4DB6-A919-79615DA30CE9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put these decimals in order,starting with the largest.
-
-$0.201,0.021,0.21$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.201, \quad 0.021, \quad 0.21 \\\\
-&= 0.201, \quad 0.021, \quad 0.210 \\\\
-& \text{Let's put them in descending order now.} \\\\
-&= 0.210> \quad 0.201> \quad 0.021 \\\\
-&= 0.21> \quad 0.201> \quad 0.021
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.21, \quad 0.201, \quad 0.021$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>98B9C18C-5D45-4158-A859-9750F91F8CE8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the biggest number that divides exactly into $28 , 84$ and $126$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To find the biggest number that divides exactly into $28$, $84$, and $126$, we need to find the highest common factor of the three numbers.
-
-$
-\begin{aligned}
-\text {Prime Factors of} \ 28 &= 2 \times \bold {2 \times 7} \\\\
-\text {Prime Factors of} \ 84 &= 2 \times \bold {2} \times 3 \times \bold{7} \\\\
-\text {Prime Factors of} \ 126 &= \bold {2} \times 3 \times \bold{7}
-\end{aligned}
-$
-
-Highest common factor of $28$, $84$ and $126$
-
-$
-\begin{aligned}
-&= 2 \times 7 \\\\
-&= 14
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>EA145F02-7976-40D3-B801-9CB40DAF3F47</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have forgotten the last two digits of my PIN number, but know that the first two digits are $8$ and $6$
-
-$8 6 * *$
-
-However,I know that my PIN number is divisible by $3, 4$ and $5$. What is my PIN number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-LCM of $3, \ 4 \ \text{and} \ 5 = 60$
-
-Since, Multiplying $60$ with any number will give $0$ at last digit. So, The last digit of the PIN is $0$.
-
-$
-\begin{aligned}
-&= \dfrac {8700} {60} \\\\
-&= \dfrac {6 \times \times 1450} {60} \\\\
-&= \dfrac {\cancel{6} \times 145 \cancel{0}} {\cancel{60}} \\\\
-&= 145
-\end{aligned}
-$
-
-As the remainder is $0$, Subtracting $60$ from $8700 = 8700 - 60 = 8640$
-
-The PIN number is $= 8640$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-We can solve this my trial and error method using divisibility rule.
-
-We know,
-
-A number is divisible by $5$ if the last digit $0$ or $5$.
-
-A number is divisible by $4$ if the last $2$ digits are divisible by $4$.
-
-A number is divisible by $3$ if the cross addition is divisible by $3$.
-
-Let's look at units place
-
-$= 0$ (then only my PIN will be divisible by $4$)
-
-Let's look at tens place
-
-$\not 1$ (as $10$ is not divisible by $4$)
-
-$= 2$ (as $20$ is divisible by $4$)
-
-Let's now check if $8620$ is divisible by $3$
-
-$= 8 + 6 + 2 + 0 = 16 \not$ divisible by $3$ 
-
-The next multiple of $3$ would be $18$
-
-$= 8 + 6 + 4 + 0 = 18$ 
-
-$18$ is divisible by $3$
-
-$40$ is divisible by $4$ and
-
-$8640$ has $0$ at unit place, as such divisible by $5$.
-
-My PIN number is $8640$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8640$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>B474E464-5AEF-419A-9B3D-08581A43D0DE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On holiday last year Phil bought $10$ post cards at $45 \text{p}$ each and $10\ \text{second}$ class stamps at $27 \text{p}$ each. How much change did he get from a $\pounds 10$ note?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-$
-\begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - 10 \times \text{Cost of postcard} - 10 \times \text{Cost of stamp} \\\\
-                                                &= \pounds 10 - 10 \times 45 \text{p} - 10 \times 27 \text{p} \\\\
-                                                &= \pounds 10 - \pounds \dfrac {450} {100} - \pounds \dfrac {270} {100} \\\\
-                                                &= \pounds 10 - \pounds 4.50 - \pounds 2.70 \\\\
-                                                &= \pounds 2.80
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2.80$
-
-</div>
-</div>
-
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
@@ -43342,419 +42556,6 @@ $820$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>72AA9961-FE6B-438D-AEFB-1F49998E249D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many numbers less than $100$ are divisible by both $2$ and $5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-LCM of $2$ and $5 = 10$
-
-Less than $100$ means numbers between $1$ to $99$.
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Number divisible by both 2 and 5}         &= \dfrac {99} {10} \\\\ 
-                                                &= 9 \dfrac {1} {10} \\\\
-                                                &= 9
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-LCM of $2$ and $5 = 10$
-
-Numbers less than 100 that are both divisible by $2$ and $5$ are number ending with $0$
-
-$= 10, \ 20, \ 30, \ 40, \ 50, \ 60, \ 70, \ 80, \ 90$
-
-Total count of numbers less than $100$ and both divisible by $2$ and $5 = 9$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>00B5F39E-C744-444A-A565-D57BCA594277</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the biggest number that divides into $14, 35,$ and $42$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To find the biggest number that divides exactly into $14$, $35$, and $42$, we need to find the highest common factor of the three numbers.
-
-$
-\begin{aligned}
-\text {Prime Factors of} \ 14 &= 2 \times \bold{7} \\\\
-\text {Prime Factors of} \ 35 &= 5 \times \bold{7} \\\\ \\\\
-\text {Prime Factors of} \ 42 &= 2 \times 3 \times \bold{7}
-\end{aligned}
-$
-
-Highest common factor of $14$, $35$ and $42$
-
-$
-\begin{aligned}
-&= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>0EC15166-4610-4A6E-9117-A2461D762D1D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the biggest number that divides into $16, 32,$ and $56$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To find the biggest number that divides exactly into $16$, $32$, and $56$, we need to find the highest common factor of the three numbers.
-
-$
-\begin{aligned}
-\text {Prime Factors of} \ 16 &= 2 \times \bold{2 \times 2 \times 2} \\\\
-\text {Prime Factors of} \ 32 &= 2 \times 2 \times \bold{2 \times 2 \times 2} \\\\
-\text {Prime Factors of} \ 56 &= \bold{2 \times 2 \times 2} \times 7
-\end{aligned}
-$
-
-Highest common factor of $16$, $32$ and $56$
-
-$
-\begin{aligned}
-&= 2 \times 2 \times 2  \\\\
-&= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>B355D689-5D56-4D03-B1EC-8DC3BB5F8DEE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around the edge of the garden, with a swimming pool inside the path. Find the area of the path.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know,
-
-$\text{Area of rectangle} = \text{length} \times \text{width}$
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text{Area of pool}                                &= (\text{Length of garden - 2} \times \text{Width of path}) \times (\text{Width of garden - 2} \times \text{Width of path}) \\\\
-                                                   &= (15 \text{m} - 2 \text{m} \times 2 \text{m}) \times (8 \text{m} - 2 \text{m} \times 2 \text{m}) \\\\
-                                                   &= (15 - 4) \times (8 - 4) \\\\
-                                                   &= 11 \times 4 \\\\
-                                                   &= 44 \text{m}^{2} \\\\
-\text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
-                                                   &= 15 \text{m} \times 8 \text{m}  - 44 \text{m}^{2} \\\\
-                                                   &= 120 - 44 \\\\
-                                                   &= 76 \text{m}^{2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$76 \text{m}^{2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>7CF52F4B-090D-493A-8346-80188BAA6634</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Karen and Fran have some money. Karen has $\pounds 9$ more than Fran, together they have $\pounds 45$. How much money does Karen have?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the money Fran have $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Money Karen have} + \text{Money Fran have}        &= \text{Total money} \\\\
-(a + 9) + a                                             &= \pounds 45 \\\\
-2a                                                      &= 45 - 9 \\\\
-2a                                                      &= 36 \\\\
-2a                                                      &= 36 \\\\
-a                                                       &= \dfrac {36} {2} \\\\
-a                                                       &= \dfrac {2 \times 18} {2} \\\\
-a                                                       &= \dfrac {\cancel{2} \times 18} {\cancel{2}} \\\\
-a                                                       &= \pounds 18
-\end{aligned}
-$
-
-Money Fran have $= \pounds 18$
-
-$
-\begin{aligned}
-\text{Money Fran have}                                  &= \pounds 18 \\\\
-\text{Money Karen have}                                 &= \pounds 45 - \pounds 18 \\\\
-                                                        &= \pounds 27
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 27$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>7B83BD4F-38FE-4088-BDD0-C94A2203662F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a car park there are $48$ cars. $\dfrac{3}{8}$ of the cars are blue and $25\%$ of the cars are red. How many cars are neither blue nor red?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Cars neither blue nor red)}             &= \text{Total cars - Blue cars - Red cars}  \\\\
-                                              &= 48 - \dfrac {3} {8} \times 48 - 25\% \times 48 \\\\
-                                              &= 48 - \dfrac {3 \times 48} {8} - \dfrac {25 \times 48} {100} \\\\
-                                              &= 48 - \dfrac {3 \times 6 \times 8} {8} -  \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
-                                              &= 48 - \dfrac {3 \times 6 \times \cancel{8}} {\cancel{8}}  -\dfrac {\cancel{25} \times \cancel{4} \times 12} {\cancel{25} \times \cancel{4}} \\\\
-                                              &= 48 - 3 \times 6 - 12 \\\\
-                                              &= 48 - 18 - 12 \\\\
-                                              &= 18
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>29A6018D-4F9B-47BC-AEF7-2AB556029423</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If an adult ticket on the bus costs $\pounds 1.50$ and a child ticket costs $90 \text{p}$, how much change will a family of $2$ adults and their $3$ children get if they pay with a $\pounds 10$ note?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 3 \ \text{Children} \\\\
-                                                &= \pounds 10 - (2 \times \pounds 1.50 + 3 \times 90 \text{p}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + 270 \text{p}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + \pounds \dfrac {270} {100}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + \pounds \dfrac {27 \cancel{0}} {10 \cancel{0}}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + \pounds \dfrac {27} {10}) \\\\
-                                                &= 10 - (3 + 2.70) \\\\
-                                                &= 10 - 5.70 \\\\
-                                                &= \pounds 4.30
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4.30$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>A7C319CF-83DA-4579-B28A-5CF2D1F00791</p>
@@ -43785,7 +42586,7 @@ tunit
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -44147,7 +42948,7 @@ Find the value of $x$ for each of the following equations:
 </div>
 
 
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -44338,7 +43139,7 @@ Find the missing numbers in the sequences below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -44576,7 +43377,7 @@ The cost of a calculator is $\pounds 6.79$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -44876,7 +43677,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -45116,7 +43917,7 @@ The cost of one original glazed doughnut is $\pounds 1.45$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -45231,7 +44032,7 @@ Write down the next two numbers in each of the following sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -45479,7 +44280,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -45596,7 +44397,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -45762,7 +44563,7 @@ Mr Howden is landscaping his garden, the shape of which is illustrated below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -45898,7 +44699,7 @@ $125 \ \text{cm} ^ 3$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -46071,7 +44872,7 @@ $12$ strawberry boot laces
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -46185,7 +44986,7 @@ A concert hall has $128$ rows of $35$ seats.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -46309,7 +45110,7 @@ Calculate:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -46499,7 +45300,7 @@ Round $325.48$ to the following degrees of accuracy:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -46697,7 +45498,7 @@ Add or subtract these fractions. Give your answers in their simplest terms.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -46812,7 +45613,7 @@ Find
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -47000,7 +45801,7 @@ The picture shows a tipper truck.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -47300,7 +46101,7 @@ Calculate:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -47530,7 +46331,7 @@ Patrick spends $\pounds 375.84$ on his electricity bill each year.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -47717,7 +46518,7 @@ The rest of the members are children.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -47955,7 +46756,7 @@ $0.9, 0.899, 0.0999, 0.909, 0.09, 0.9009$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -48052,7 +46853,7 @@ What is the next number in each of these sequences?
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -48301,7 +47102,7 @@ A hockey tournament has $32$ teams competing, each with $11$ players.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -48455,7 +47256,7 @@ In this question the shapes are NOT drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -48630,7 +47431,7 @@ In this question the shapes are NOT drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -48861,7 +47662,7 @@ When we multiply $5$ by itself the answer is $25$. We call $5$ the square root o
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -48938,7 +47739,7 @@ $20$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -49059,7 +47860,7 @@ $28 , 29$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -49154,7 +47955,7 @@ Every month John, Peter and Helen received a sum of money which was divided so t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -49298,65 +48099,6 @@ $\pounds 10$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>EDB8D422-9368-4C8B-8C79-7E41BBCC1FC9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-One quarter of the people at a party are men, a half are girls, one sixth are women, and there are five boys. How many people were at the party? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the total people in the party $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Total people}                                                                                                                 &= \text{Men} + \text{Women} + \text{Girls} + \text{Boys} \\\\
-a                                                                                                                                   &= \dfrac {1} {4} \times a + \dfrac {1} {2} \times a + \dfrac {1} {6} \times a + 5 \\\\
-a                                                                                                                                   &= \dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5 \\\\
-a - \dfrac {a} {4} - \dfrac {a} {2} - \dfrac {a} {6}                                                                                &= 5 \\\\
-\dfrac {12 \times a} {12} - \dfrac {3 \times a} {3 \times 4} - \dfrac {6 \times a} {6 \times 2} - \dfrac {2 \times a} {2 \times 6}  &= 5 \\\\
-\dfrac{12a} {12} - \dfrac {3a} {12} - \dfrac {6a} {12} - \dfrac {2a} {12}                                                           &= 5 \\\\
-\dfrac {12a - 3a - 6a - 2a} {12}                                                                                                    &= 5 \\\\
-\dfrac {a} {12}                                                                                                                     &= 5 \\\\
-a                                                                                                                                   &= 5 \times 12 \\\\
-a                                                                                                                                   &= 60
-\end{aligned}
-$
-
-Total number of people $= 60$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E</p>
 </div>
 <div class='topics'>
@@ -49403,7 +48145,7 @@ $
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -49571,75 +48313,6 @@ $2$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>D1ACF183-0702-4413-B707-24443D6D16E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$\dfrac {3} {8}$  of a number is $27$. What is $\dfrac {1} {2}$ of the number? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {3} {8} \times a     &= 27 \\\\
-\dfrac {3a} {8}             &= 27 \\\\
-3a                          &= 27 \times 8 \\\\
-a                           &= \dfrac{27 \times 8} {3} \\\\
-a                           &= \dfrac{3 \times 9 \times 8} {3} \\\\
-a                           &= \dfrac{\cancel {3} \times 9 \times 8} {\cancel {3}} \\\\
-a                           &= 9 \times 8 \\\\
-a                           &= 72
-\end{aligned}
-$
-
-The number $= 72$
-
-Let's find $\dfrac {1} {2} \text{of} 72$
-
-$
-\begin{aligned}
-&= \dfrac {1} {2} \times 72 \\\\
-&= \dfrac {72} {2} \\\\
-&= \dfrac {2 \times 36} {2} \\\\
-&= \dfrac {\cancel {2} \times 36} {\cancel {2}} \\\\
-&= 36
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>196B7FB7-BE4D-4577-B993-353DAB477794</p>
 </div>
 <div class='topics'>
@@ -49696,658 +48369,6 @@ $500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>9AC85AEC-FC01-4FB6-9FC8-DC6ADCBB5690</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The total of the ages of a father, his daughter and his two twin sons is $96$ years. 
-The daughter’s age is half the father’s age and twice the age of each of her two brothers. 
-
-How old is the **father**? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the age of father $= a$
-
-Age of daughter $= \dfrac{a}{2}$
-
-Age of brother $= \dfrac{a}{4}$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{age of father} + \text{age of daughter} + \text{age of 2 sons}                            &= 96 \\\\
-a + \dfrac{a}{2} + \dfrac{a}{4} + \dfrac{a}{4}                                                  &= 96 \\\\
-\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a}{4} + \dfrac{a}{4}        &= 96 \\\\
-\dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\ 
-\dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
-\dfrac {8a} {4}                                                                                 &= 96 \\\\
-7a                                                                                              &= 96 \times 4 \\\\
-a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{8 \times 12 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
-a                                                                                               &= 12 \times 4 \\\\
-a                                                                                               &= 48 \\\\
-\text {the age of father}                                                                       &= 48
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>438BD9BA-0277-473A-99CB-FE5F23A3718E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out one third of one quarter of 252 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-$= \text{one third of one quarter of 252} \\\\
-&= \dfrac {1} {3} \times \dfrac {1} {4} \times 252 \\\\
-&= \dfrac {1 \times 1 \times 252} {3 \times 4} \\\\
-&= \dfrac {2 \times 126} {3 \times 2 \times 2} \\\\
-&= \dfrac {2 \times 3 \times 42} {3 \times 2 \times 2} \\\\
-&= \dfrac {2 \times 3 \times 2 \times 21} {3 \times 2 \times 2} \\\\
-&= \dfrac {\cancel{2} \times \cancel{3} \times \cancel{2} \times 21} {\cancel{3} \times \cancel{2} \times \cancel{2}} \\\\
-&= 21
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$21$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>BF011AD7-448A-452F-AB01-4F18D04E9B41</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down one number that is both 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Even and prime
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Odd and square
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A factor of 28 bigger than 1 and a factor of 21 bigger than 1
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Factor of 28 bigger than 1 = 2, \ 4, \ \bold{7}, \ 14, \ 28
-
-Factors of 21 bigger than 1= 3, \ \bold{7}, \ 21
-
-A factor of 28 bigger than 1 and a factor of 21 bigger than 1  $= 7$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Smaller than 20 and has exactly three  different factors
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>8992E35F-6A69-4AF4-AE67-0068769E9060</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Paulina and Simon have baked $5$ cakes each to sell at a tea party. Paulina sells cakes $4 \dfrac {3} {4}$ and Simon sells $2 \dfrac {1} {4}$ cakes.
-
-
-How much more cake does Simon have left than Paulina?                                    
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-As both baked $5$ cakes each,to find how much more cake Simon have left than Paulina we need to find the difference only.
-
-$
-\begin{aligned}
-&= 4 \dfrac {3} {4} - 2 \dfrac {1} {4} \\\\
-&= \dfrac {19} {4} - \dfrac {9} {4} \\\\
-&= \dfrac {19 - 9} {4} \\\\
-&= \dfrac {10} {4} \\\\
-&= \dfrac {2 \times 5} {2 \times 2} \\\\
-&= \dfrac {\cancel{2} \times 5} {\cancel{2} \times 2} \\\\
-&= \dfrac {5} {2} \\\\
-&= 2 \dfrac {1} {2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \dfrac {1} {2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>42298452-3901-4F31-B105-1CEC26501B64</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Gita wants to form a 4 digit number where the first and last digits are both prime. What are the largest and smallest numbers that Gita can form?
-
-Repeated digits are allowed. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know,
-
-The biggest single digit prime number $= 7$
-
-The smalles  single digit prime number $= 2$
-
-The biggest single digit $= 9$
-
-The smallest single digit $= 0$
-
-$
-\begin{aligned}
-\text{Largest 4 digit number that geeta can form}    &= 7997 \\\\
-\text{Smallest 4 digit number that geeta can form}   &= 2002
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{Largest} = 7997$
-
-$\text{Smallest} = 2002$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>C207B486-E1C2-4DBB-91FE-CCBBCB8F1F7A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A theatre has seats arranged in rows of 22. If an audience of 483 fills the rows one by one, leaving no empty seats, how many rows will be full? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {No. of rows occupied}          &= \text \dfrac {Total audience} {Seats per row} \\\\
-                                      &= \dfrac {483} {22} \\\\
-                                      &= 21 \dfrac {21} {22}
-\end {aligned}
-$
-
-Number of rows that will be full $= 21$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$21$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>0891E350-B1EF-4829-93AF-297FCA83A01C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In this fence the posts are all the same width as each other. The gaps are all the same width as each other, too.
-
-![missing image](/papers/missing_image.svg)
-
-How wide is each gap? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length of gap $=a$
-
-Let the length of the post $= b$
-
-As per the question,
-
-$
-\begin{aligned} 
-a + b                    &= 57 \\\\
-2a + 3b                  &= 131
-\end{aligned}
-$
-
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Multiply the first equation by $3$.
-
-$
-\begin{aligned} 
-3(a + b)                    &= 3 \times 57 \\\\
-3a + 3b                     &= 171 \\\\
-\end{aligned}
-$
-
-Subtract the second equation from this new equation to reduce it to one variable.
-
-$
-\begin{aligned}
-3a + 3b - (2a + 3b)       &= 171 - 131 \\\\
-3a + 3b - 2a - 3b         &= 40 \\\\
-3a - 2a                   &= 40 \\\\
-a                         &= 40 \ \text{cm}
-\end{aligned}
-$
-
-The length of the each gap is $= 40 \ \text{cm}$
-
-</div>
-<div class='working'>
-
-Alternative answer,
-
-As per the question,
-
-$
-\begin {aligned}
-57 \ \text{cm} + 57 \ \text{cm}  + \ \text{Post}     &= 131 \ \text{cm} \\\\
-\text{Post}                                          &= 131 - 57 - 57 \\\\
-                                                     &= 17 \ \text{cm}
-\end {aligned} 
-$
-
-$
-\begin {aligned}
-\text{Width of gap}                                  &= 57 \ \text{cm} -17  \ \text{cm} \\\\
-                                                     &= 40  \ \text{cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>FEAB2ACE-3E49-46F1-A250-9631A7EA7469</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sholto has 40 helium balloons. Some of the balloons are red, some are blue and some are green. There are three times as many green balloons as there are red balloons and there are twice as many blue balloons as there are green balloons. 
-
-How many balloons are blue? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of red balloons $= a$
-
-$
-\begin{aligned}
-\text{Blue} + text{Green} + \text{Red}                                      &= \text{Total balloons} \\\\
-6a + 3a + a                                                                 &= 40 \\\\
-10a                                                                         &= 40 \\\\
-a                                                                           &= \dfrac {40} {10} \\\\
-a                                                                           &= \dfrac {4 \cancel{0}} {1 \cancel{0}} \\\\
-a                                                                           &= 4
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of red balloons}                        &= 4 \\\\
-\text{Number of blue balloons}                       &= 6 \times a \\\\
-                                                     &= 6 \times 4 \\\\
-                                                    &= 24
-\end{aligned}
-$
-
-The number of blue balloons are $= 24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24 \ \text{Balloons}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>E45D50A1-C037-4479-BF15-60CA06B7E05D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A square number is what we get if we multiply a whole number by 
-itself. A cube number comes from multiplying a number by itself and then by itself again. So 9 is a square number because 9 = 3 $\times$ 3, and 8 is a cube number because 8 = 2 $\times$ 2 $\times$ 2.
-
-1 is both a square and a cube because 1 = 1 $\times$ 1 and 1 = 1 $\times$ 1 $\times$ 1. Find another number **bigger than 0** that it both a square and cube number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$64$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$64$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>2FA424AE-D274-4664-A786-BD0EEF973FF7</p>
@@ -50378,7 +48399,7 @@ Solve the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -50504,7 +48525,7 @@ Write the next two numbers for each of the following sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -50766,7 +48787,7 @@ Complete the spaces shown by dotted lines below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -50908,7 +48929,7 @@ Write the name of the following shapes underneath them.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -51067,7 +49088,7 @@ Look at the chart below which shows the number of vehicles of different types in
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -51201,7 +49222,7 @@ Tickets for the zoo cost $\pounds 9.30$ for adults and $\pounds 6.40$ for childr
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -51357,7 +49378,7 @@ Look at the grids below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -51557,7 +49578,7 @@ Round each of the following numbers to the accuracy given in brackets.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -51845,7 +49866,7 @@ $6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\, 53 \,\,\,\, 169$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -52010,7 +50031,7 @@ Write the following numbers in words
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -52108,7 +50129,7 @@ I buy 12 items which cost $\pounds 3.05$ each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -52211,7 +50232,7 @@ A pencil is measured as $7.8\,cm$ long. How long is the pencil in these units,
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -52370,7 +50391,7 @@ Solve the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -52490,7 +50511,7 @@ Write the next two numbers for each of the following sequences
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -52749,7 +50770,7 @@ Complete the spaces shown by dotted lines below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -52886,7 +50907,7 @@ Write the name of the following 3-dimensional shapes underneath them.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -53044,7 +51065,7 @@ Look at the chart below which shows the number of cars of different colours pass
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -53183,7 +51204,7 @@ Look at the grids below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -53382,7 +51403,7 @@ Round each of the following numbers to the accuracy given in brackets.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -53560,7 +51581,7 @@ $6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\,  53 \,\,\,\, 96$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -53796,7 +51817,7 @@ I buy 5 items which cost $\pounds 12.98$ each.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -53899,7 +51920,7 @@ I live $5.2\,km$ from Anfield.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -54051,7 +52072,7 @@ A man starts work at $08:15$. He then has a break from $10:15$ to $10:35$. After
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -54176,7 +52197,7 @@ Solve the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -54294,7 +52315,7 @@ Write the next two numbers for each of the following sequences.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -54555,7 +52576,7 @@ Complete the spaces shown by dotted lines below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -54736,7 +52757,7 @@ A number of Year $7$ pupils were asked to choose a favourite subject from a list
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -54870,7 +52891,7 @@ Tickets for the zoo cost $\pounds 12.50$ for adults and $\pounds 8.00$ for child
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -55019,7 +53040,7 @@ Round each of the following numbers to the accuracy given in brackets.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -55290,7 +53311,7 @@ Sophie carried out a survey and asked her friends what their favourite snack was
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -55429,7 +53450,7 @@ Underneath each shape write down its name.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -55557,7 +53578,7 @@ tgraph
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -55659,7 +53680,7 @@ Write down
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -55978,7 +53999,7 @@ $20 \ \text{minutes}$ extra. Find how long you should cook a joint weighing:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -56153,7 +54174,7 @@ Every day a jogger runs $4 \ \text{km}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -56279,7 +54300,7 @@ In fact the ferry left $17 \ \text{minutes}$ late and arrived at Calais at $0911
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -56487,7 +54508,7 @@ The smaller number $=13$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -56560,7 +54581,7 @@ I use $5$ eggs for each cake.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -56712,7 +54733,7 @@ A ream of paper consists of $500$ sheets. If one sheet of paper has a mass of $4
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -56837,7 +54858,7 @@ I would receive $2.4 \ \text{Euros}$ in exchange for $\pounds 2$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -56960,7 +54981,7 @@ Fill in the missing numbers in the following sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -57103,7 +55124,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -57266,7 +55287,7 @@ Find the values of:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -57541,7 +55562,7 @@ $687$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tnumber
 </li>
 </ul>
 </div>
@@ -59095,7 +57116,7 @@ $9$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -59327,7 +57348,7 @@ $204 \ \text{m}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>C23CC024-39E3-4323-97B6-0FC20D88C36D</p>
 </div>
@@ -59350,10 +57371,10 @@ Ensure to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    &1   &    5 \ .    &    0    &    5 \\
-{}- &1   &    4 \ .    &    8    &    4 \\
+    &   1   &    5 \ .    &    0    &    5 \\
+{}- &   1   &    4 \ .    &    8    &    4 \\
 \hline
-    &   &    0 \ .    &    2    &    1
+    &       &    0 \ .    &    2    &    1
 \end{array}
 $
 
@@ -59371,12 +57392,12 @@ $0.21$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>0FCDA851-B2B2-4FFB-A955-50509068409F</p>
 </div>
@@ -59424,12 +57445,12 @@ $221.2$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4856BEAB-6A07-4C28-8CA2-6773788E9F82</p>
 </div>
@@ -59472,12 +57493,12 @@ $459$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6B84438A-B59E-4370-8EA5-017FA8C5AADA</p>
 </div>
@@ -59521,12 +57542,12 @@ $\pounds 110.50$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>88D05932-EA04-4EA0-8EB7-90462AA68E6E</p>
 </div>
@@ -59572,12 +57593,12 @@ $6$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>25E902FC-7725-4A86-B481-912E52709734</p>
 </div>
@@ -59596,22 +57617,21 @@ Fill in the missing numbers:
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-&= \dfrac{3}{4} 100 \\\\
-&= \dfrac{3}{2 \times 2} \times 50 \times 2 \\\\
-&= \dfrac{3}{2 \times \cancel{2}} \times 50 \times \cancel{2} \\\\
-&= \dfrac{3}{2} \times 50 \\\\
-&= \dfrac{1}{2} \times 150
+&= \dfrac {3} {4} 100 \\\\
+&= \dfrac {3} {2 \times 2} \times 50 \times 2 \\\\
+&= \dfrac {3} {2 \times \cancel{2}} \times 50 \times \cancel{2} \\\\
+&= \dfrac {3 \times 50} {2} \\\\
+&= \dfrac {1} {2} \times 150
 \end{aligned}
 $
 
 $
 \begin{aligned}
-&= \dfrac{1}{3} \times 60 \\\\
-&= \dfrac{1}{3} \times 2 \times 30 \\\\
-&= \dfrac{2}{3} \times 30
+&= \dfrac {1} {3} \times 60 \\\\
+&= \dfrac {1} {3} \times 2 \times 30 \\\\
+&= \dfrac {2} {3} \times 30
 \end{aligned}
 $
 
@@ -59624,7 +57644,7 @@ $40, 150, 30$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -59645,17 +57665,16 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{1}{2} \times 20  &= \dfrac{1}{4} \times a \\\\
-\dfrac{1}{4} \times a   &= \dfrac{1}{2} \times 20 \\\\
-a                       &= \dfrac{1}{2} \times 20 \times 4 \\\\
-a                       &= \dfrac{1}{2} \times 20 \times 2 \times 2 \\\\
-a                       &= \dfrac{1}{\cancel{2}} \times 20 \times 2 \times \cancel{2} \\\\
+\dfrac{1}{2} \times 20  &= \dfrac {1} {4} \times a \\\\
+\dfrac{1}{4} \times a   &= \dfrac {1} {2} \times 20 \\\\
+a                       &= \dfrac {1} {2} \times 20 \times 4 \\\\
+a                       &= \dfrac {1} {2} \times 20 \times 2 \times 2 \\\\
+a                       &= \dfrac {1} {\cancel{2}} \times 20 \times 2 \times \cancel{2} \\\\
 a                       &= 20 \times 2 \\\\
 a                       &= 40
 \end{aligned}
 $
 
-
 </div>
 <div class='working'>
 
@@ -59665,13 +57684,13 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{3}{4} \times 100 &= \dfrac{1}{2} \times a \\\\
-\dfrac{1}{2} \times a   &= \dfrac{3}{4} \times 100 \\\\
-a                       &= \dfrac{3}{4} \times 100 \times 2 \\\\
-a                       &= \dfrac{3}{4} \times 25 \times 4 \times 2 \\\\
-a                       &= \dfrac{3}{\cancel{4}} \times 25 \times \cancel{4} \times 2 \\\\
-a                       &= 3 \times 25 \times 2 \\\\
-a                       &= 150
+\dfrac {3} {4} \times 100 &= \dfrac {1} {2} \times a \\\\
+\dfrac {1} {2} \times a   &= \dfrac {3} {4} \times 100 \\\\
+a                         &= \dfrac {3} {4} \times 100 \times 2 \\\\
+a                         &= \dfrac {3} {4} \times 25 \times 4 \times 2 \\\\
+a                         &= \dfrac {3} {\cancel{4}} \times 25 \times \cancel{4} \times 2 \\\\
+a                         &= 3 \times 25 \times 2 \\\\
+a                         &= 150
 \end{aligned}
 $
 
@@ -59684,12 +57703,12 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{1}{3} \times 60  &= \dfrac{2}{3} \times a \\\\
-\dfrac{2}{3} \times a   &= \dfrac{1}{3} \times 60 \\\\
-a                       &= \dfrac{1}{3} \times 60 \times \dfrac{3}{2} \\\\
-a                       &= \dfrac{1}{3} \times 30 \times 2 \times \dfrac{3}{2} \\\\
-a                       &= \dfrac{1}{\cancel{3}} \times 30 \times \cancel{2} \times \dfrac{\cancel{3}}{\cancel{2}}  \\\\
-a                       &= 30
+\dfrac{1} {3} \times 60  &= \dfrac {2} {3} \times a \\\\
+\dfrac{2} {3} \times a   &= \dfrac {1} {3} \times 60 \\\\
+a                        &= \dfrac {1} {3} \times 60 \times \dfrac {3} {2} \\\\
+a                        &= \dfrac {1} {3} \times 30 \times 2 \times \dfrac {3} {2} \\\\
+a                        &= \dfrac {1} {\cancel{3}} \times 30 \times \cancel{2} \times \dfrac {\cancel{3}} {\cancel{2}}  \\\\
+a                        &= 30
 \end{aligned}
 $
 
@@ -59720,12 +57739,12 @@ $30$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>7D2466F0-AE57-429A-BA31-12DECBC77D48</p>
 </div>
@@ -59748,11 +57767,11 @@ $0.627 = 0.6 + 0.02 + \ldots$
 
 $
 \begin{aligned}
-0.627 &= 0.6 + 0.02 + \ldots \\\\
-0.627 &= 0.6 + 0.02 + \text{Missing number} \\\\
-\text{Missing number}   &= 0.627 - 0.6 - 0.02 \\\\
-                        &= 0.627 - 0.62 \\\\
-                        &= 0.007
+0.627                    &= 0.6 + 0.02 + \ldots \\\\
+0.627                    &= 0.6 + 0.02 + \text {Missing number} \\\\
+\text {Missing number}   &= 0.627 - 0.6 - 0.02 \\\\
+                         &= 0.627 - 0.62 \\\\
+                         &= 0.007
 
 \end{aligned}
 $
@@ -59772,12 +57791,12 @@ $0.007$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>05AA06CF-C57A-4771-B89F-03FFAD47E78D</p>
 </div>
@@ -59798,8 +57817,6 @@ $0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
 <div class='workings'>
 <div class='working'>
 
-$= 0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
-
 The number closest to $0.1 = 0.13$
 
 </div>
@@ -59816,12 +57833,12 @@ $0.13$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>FAB770D5-5506-4C76-B3C8-1CBAE36619B4</p>
 </div>
@@ -59868,12 +57885,12 @@ $3, 7, 11$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>DFD8D8D5-83F1-4AA0-B9E2-0ED508142867</p>
 </div>
@@ -59897,16 +57914,16 @@ Write in the missing numbers:
 
 As per the question,
 
-Halid adds the same amount each time. The difference between the consecutive terms of the sequence is always same. 
+Halid adds the same amount each time. The difference between the consecutive terms of the sequence is always same.
 
 Let take the amount $= a$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+a)}} 
-&&  \footnotesize{\maroonC{(+a)}}  
-&&  \footnotesize{\maroonC{(+a)}}   
-&&  \footnotesize{\maroonC{(+a)}} \\
+&   \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}} \\
 2,  &&    \ldots ,  &&  \ldots ,  &&   \ldots ,  &&   18
 \end{matrix}
 $
@@ -59916,8 +57933,8 @@ $
 2 + 4a      &= 18 \\\\
 4a          &= 18 - 2 \\\\
 4a          &= 16 \\\\
-a           &= \dfrac{4 \times 4}{4} \\\\
-a           &= \dfrac{4 \times \cancel{4}}{\cancel{4}} \\\\
+a           &= \dfrac {4 \times 4} {4} \\\\
+a           &= \dfrac {4 \times \cancel{4}} {\cancel{4}} \\\\
 a           &= 4
 \end{aligned}
 $
@@ -59928,10 +57945,10 @@ Hence the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+4)}} 
-&&  \footnotesize{\maroonC{(+4)}}  
-&&  \footnotesize{\maroonC{(+4)}}   
-&&  \footnotesize{\maroonC{(+4)}} \\
+&   \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}} \\
 2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
 \end{matrix}
 $
@@ -59950,12 +57967,12 @@ $6, 10, 14$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>0E67D44A-5CEB-4D9A-884E-E749B2C1F9D0</p>
 </div>
@@ -59980,26 +57997,26 @@ Each number in the sequence is double the previous number. Hence the sequence wo
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}} \\
+&   \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}} \\
 \ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48,  &&  \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Second missing number}       &= \dfrac{3}{2} \\\\
-                                   &= 1.5 \\\\
-\text{First missing number}        &= \dfrac{3}{2 \times 2} \\\\
-                                   &= \dfrac{3}{4} \\\\
-                                   &= 0.75
-\text{Third missing number}        &= 48 \times 2 \\\\
-                                   &= 96
+\text {Second missing number}       &= \dfrac {3} {2} \\\\
+                                    &= 1.5 \\\\
+\text {First missing number}        &= \dfrac {3} {2 \times 2} \\\\
+                                    &= \dfrac {3} {4} \\\\
+                                    &= 0.75
+\text {Third missing number}        &= 48 \times 2 \\\\
+                                    &= 96
 \end{aligned}
 $
 
@@ -60017,12 +58034,12 @@ $\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B51C61A9-BBFD-4FCA-9F5F-BB543CC361E8</p>
 </div>
@@ -60055,16 +58072,16 @@ $
 2a + 2  &= 14 \\\\
 2a      &= 14 - 2 \\\\
 2a      &= 12 \\\\
-a       &= \dfrac{12}{2} \\\\
-a       &= \dfrac{6 \times 2}{2} \\\\
-a       &= \dfrac{6 \times \cancel{2}}{\cancel{2}} \\\\
+a       &= \dfrac {12} {2} \\\\
+a       &= \dfrac {6 \times 2} {2} \\\\
+a       &= \dfrac {6 \times \cancel{2}} {\cancel{2}} \\\\
 a       &= 6
 \end{aligned}
 $
 
 No. of biscuits Juilia has $= 6$
 
-No. of biscuits Alysha has 
+No. of biscuits Alysha has
 
 $
 \begin{aligned}
@@ -60088,12 +58105,12 @@ Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>7B74D5EE-ABDD-4862-9E72-635714D53045</p>
 </div>
@@ -60123,9 +58140,9 @@ As per the question,
 $
 \begin{aligned}
 (a + 3) \times 5    &= 35 \\\\
-a + 3               &= \dfrac{35}{5} \\\\
-a + 3               &= \dfrac{7 \times 5}{5} \\\\
-a + 3               &= \dfrac{7 \times \cancel{5}}{\cancel{5}} \\\\
+a + 3               &= \dfrac {35} {5} \\\\
+a + 3               &= \dfrac {7 \times 5} {5} \\\\
+a + 3               &= \dfrac {7 \times \cancel{5}} {\cancel{5}} \\\\
 a + 3               &= 7 \\\\
 a                   &= 7 - 3 \\\\
 a                   &= 4
@@ -60148,12 +58165,12 @@ $4$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>485D2C3B-79CA-4AFB-A224-7A24063389FC</p>
 </div>
@@ -60181,14 +58198,14 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Weight of one match}      &= \dfrac{\text{Total weight} - \text{Weight of the box}}{\text{Number of matches}} \\\\
-                                &= \dfrac{45 - 12}{220} \\\\
-                                &= \dfrac{33}{220} \\\\
-                                &= \dfrac{3 \times 11}{2 \times 10 \times 11} \\\\
-                                &= \dfrac{3 \times \cancel{11}}{2 \times 10 \times \cancel{11}} \\\\
-                                &= \dfrac{3}{2} \times \dfrac{1}{10} \\\\
-                                &= \dfrac{1.5}{10} \\\\
-\text{Weight of one match}      &= 0.15 \ \text{grams}
+\text {Weight of one match}      &= \dfrac {\text {Weight of match box} - \text {Weight of empty box}} {\text{Number of matches}} \\\\
+                                 &= \dfrac {45 - 12} {220} \\\\
+                                 &= \dfrac {33} {220} \\\\
+                                 &= \dfrac {3 \times 11} {2 \times 10 \times 11} \\\\
+                                 &= \dfrac {3 \times \cancel{11}} {2 \times 10 \times \cancel{11}} \\\\
+                                 &= \dfrac {3} {2} \times \dfrac{1} {10} \\\\
+                                 &= \dfrac {1.5} {10} \\\\
+\text {Weight of one match}      &= 0.15 \ \text {grams}
 \end{aligned}
 $
 
@@ -60206,12 +58223,12 @@ $0.15 \ \text{grams}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>786ECD30-5585-4FE5-91C7-28D8FFC8B3AE</p>
 </div>
@@ -60249,9 +58266,9 @@ $
 a + 2a + 3a         &= 24 \\\\
 6a                  &= 24 \\\\
 3 \times 2a         &= 24 \\\\
-2a                  &= \dfrac{8 \times 3}{3} \\\\
-2a                   &= \dfrac{8 \times \cancel{3}}{\cancel{3}} \\\\
-2a                   &= 8
+2a                  &= \dfrac {8 \times 3} {3} \\\\
+2a                  &= \dfrac {8 \times \cancel{3}} {\cancel{3}} \\\\
+2a                  &= 8
 \end{aligned}
 $
 
@@ -60262,7 +58279,7 @@ Number of oranges used $= 2a = 8$
 <div class='answers'>
 <div class='answer'>
 
-$8 \ \text{oranges}$
+$8 \ \text {oranges}$
 
 </div>
 </div>
@@ -60271,12 +58288,12 @@ $8 \ \text{oranges}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4C42DA9B-C12A-4A7A-B493-F806C22437DB</p>
 </div>
@@ -60304,9 +58321,9 @@ This can be solved using ratios.
 
 $
 \begin{aligned}
-2 \ \text{boys}             &: 3 \ \text{girls} \\\\
-2 \times 21 \ \text{boys}   &: 3 \times 21 \ \text{girls} \\\\
-42 \ \text{boys}            &: 63 \ \text{girls}
+2 \ \text {boys}             &: 3 \ \text {girls} \\\\
+2 \times 21 \ \text {boys}   &: 3 \times 21 \ \text {girls} \\\\
+42 \ \text {boys}            &: 63 \ \text {girls}
 \end{aligned}
 $
 
@@ -60324,12 +58341,12 @@ $63 \ \text{girls}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6BC8FC6A-56E2-4B38-905F-06368D1DB22F</p>
 </div>
@@ -60358,12 +58375,12 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Area of shaded triangle}      &= \dfrac{4}{9} \times \text{Area of larger triangle} \\\\
-\text{Area of larger triangle}      &= \dfrac{9}{4} \times \text{Area of shaded triangle} \\\\
-                                    &= \dfrac{9}{4} \times 52 \\\\
-                                    &= \dfrac{9 \times 52}{4} \\\\
-                                    &= \dfrac{9 \times 13 \times 4}{4} \\\\
-                                    &= \dfrac{9 \times 13 \times \cancel{4}}{\cancel{4}} \\\\
+\text {Area of shaded triangle}     &= \dfrac {4} {9} \times \text {Area of larger triangle} \\\\
+\text {Area of larger triangle}     &= \dfrac {9} {4} \times \text {Area of shaded triangle} \\\\
+                                    &= \dfrac {9} {4} \times 52 \\\\
+                                    &= \dfrac {9 \times 52}{4} \\\\
+                                    &= \dfrac {9 \times 13 \times 4} {4} \\\\
+                                    &= \dfrac {9 \times 13 \times \cancel{4}} {\cancel{4}} \\\\
                                     &= 9 \times 13 \\\\
 \text{Area of larger triangle}      &= 117 \ \text{cm}^2
 \end{aligned}
@@ -60383,12 +58400,12 @@ $117 \ \text{cm}^2$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF</p>
 </div>
@@ -60407,27 +58424,27 @@ I am thinking of a number that when I multiply it by two and divide the result b
 <div class='workings'>
 <div class='working'>
 
-Let the number I think $=a$
+Let the number you thought of $=a$
 
 As per the question,
 
 $
 \begin{aligned}
-\dfrac{\dfrac{2 \times a}{4} \times \dfrac{2 \times a}{4} - 4 } {10}        &= 6 \\\\
-\dfrac{2 \times a}{2 \times 2} \times \dfrac{2 \times a}{2 \times 2} - 4    &= 6 \times 10 \\\\
-\dfrac{\cancel{2} \times a}{\cancel{2} \times 2} \times \dfrac{\cancel{2} \times a}{\cancel{2} \times 2} - 4    &= 60 \\\\
-\dfrac{a}{2} \times \dfrac{a}{2} - 4                                        &= 60 \\\\
-\dfrac{a}{2} \times \dfrac{a}{2}                                            &= 60 + 4 \\\\
-\dfrac{a \times a}{2 \times 2}                                              &= 64 \\\\
-\dfrac{a \times a}{4}                                                       &= 64 \\\\
-a \times a                                                                  &= 64 \times 4 \\\\
-a \times a                                                                  &= 256 \\\\
-a \times a                                                                  &= 16 \times 16 \\\\
-a                                                                           &= 16
+\dfrac {\dfrac {2 \times a} {4} \times \dfrac {2 \times a} {4} - 4 } {10}                                           &= 6 \\\\
+\dfrac {2 \times a} {2 \times 2} \times \dfrac {2 \times a} {2 \times 2} - 4                                        &= 6 \times 10 \\\\
+\dfrac {\cancel{2} \times a} {\cancel{2} \times 2} \times \dfrac {\cancel{2} \times a} {\cancel{2} \times 2} - 4    &= 60 \\\\
+\dfrac {a} {2} \times \dfrac{a}{2} - 4                                                                              &= 60 \\\\
+\dfrac {a} {2} \times \dfrac{a}{2}                                                                                  &= 60 + 4 \\\\
+\dfrac {a \times a} {2 \times 2}                                                                                    &= 64 \\\\
+\dfrac {a \times a} {4}                                                                                             &= 64 \\\\
+a \times a                                                                                                          &= 64 \times 4 \\\\
+a \times a                                                                                                          &= 256 \\\\
+a \times a                                                                                                          &= 16 \times 16 \\\\
+a                                                                                                                   &= 16
 \end{aligned}
 $
 
-The number I think $=16$
+The number you thought of $=16$
 
 </div>
 </div>
@@ -60443,12 +58460,12 @@ $16$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>59DED6AF-072C-4471-8B10-931ECD8F050E</p>
 </div>
@@ -60495,9 +58512,10 @@ The cost of a banana
 
 $
 \begin{aligned}
-&= 32 - 3 \times 7 \text{p} \\\\
-&= 32 - 21 \text{p} \\\\\
-&= 11 \text{p}
+b &= 32 - 3 \times a \\\\
+b &= 32 - 3 \times 7 \text {p} \\\\
+b &= 32 - 21 \text {p} \\\\\
+b &= 11 \text {p}
 \end{aligned}
 $
 
@@ -60515,7 +58533,7 @@ $11 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -60631,14 +58649,14 @@ $\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>95B95D83-440E-4D37-9093-A8502BF8615F</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -60683,12 +58701,12 @@ $740$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>C42057EE-31C0-41F9-A55F-42198886E116</p>
 </div>
@@ -60733,12 +58751,12 @@ $0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>8B86594B-D155-4131-86F4-90AD8D47F02B</p>
 </div>
@@ -60765,9 +58783,9 @@ LCM for $4, 5, 10, 20 = 20$
 
 $
 \begin{aligned}
-&= \dfrac{3}{4}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10},  \quad\dfrac{17}{20} \\\\
-&= \dfrac{3 \times 5}{4 \times 5}, \quad \dfrac{3 \times 4}{5 \times 4}, \quad \dfrac{9 \times 2}{10 \times 2}, \quad\dfrac{17}{20} \\\\
-&= \dfrac{15}{20}, \quad \dfrac{12}{20}, \quad \dfrac{18}{20} , \quad\dfrac{17}{20}
+&= \dfrac {3} {4}, \quad \dfrac {3} {5}, \quad \dfrac {9} {10},  \quad\dfrac {17} {20} \\\\
+&= \dfrac {3 \times 5} {4 \times 5}, \quad \dfrac {3 \times 4} {5 \times 4}, \quad \dfrac {9 \times 2} {10 \times 2}, \quad\dfrac{17}{20} \\\\
+&= \dfrac {15} {20}, \quad \dfrac {12} {20}, \quad \dfrac {18} {20} , \quad\dfrac {17} {20}
 \end{aligned}
 $
 
@@ -60775,8 +58793,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac{12}{20} < \quad  \dfrac{15}{20} < \quad \dfrac{17}{20} < \quad \dfrac{18}{20} \\\\
-&= \dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}
+&= \dfrac {12} {20} < \quad  \dfrac {15} {20} < \quad \dfrac {17}{20} < \quad \dfrac {18} {20} \\\\
+&= \dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {9} {10}
 \end{aligned}
 $
 
@@ -60785,7 +58803,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}$
+$\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {9} {10}$
 
 </div>
 </div>
@@ -60794,12 +58812,12 @@ $\dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E095A1B1-A5D7-4A9A-9C71-AB7E49731549</p>
 </div>
@@ -60830,11 +58848,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time taken by Jess}       &= 18 \ \text{seconds} \\\\
-\text{Time taken by Mary}       &= \text{Time taken by Jo} + 4 \\\\
-                                &= \text{Time taken by Jess} - 6 + 4 \\\\
-                                &= 18 - 6 + 4 \\\\
-\text{Time taken by Mary}       &= 16 \ \text{seconds}
+\text {Time taken by Jess}       &= 18 \ \text {seconds} \\\\
+\text {Time taken by Mary}       &= \text {Time taken by Jo} + 4 \\\\
+                                 &= \text {Time taken by Jess} - 6 + 4 \\\\
+                                 &= 18 - 6 + 4 \\\\
+\text {Time taken by Mary}       &= 16 \ \text {seconds}
 \end{aligned}
 $
 
@@ -60843,7 +58861,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16 \ \text{seconds}$
+$16 \ \text {seconds}$
 
 </div>
 </div>
@@ -60852,12 +58870,12 @@ $16 \ \text{seconds}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>495FD032-B939-449E-9F1F-6F8D821D8B70</p>
 </div>
@@ -60904,12 +58922,12 @@ $72$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>23F08023-3E57-40D1-BED1-91FEF237609C</p>
 </div>
@@ -60932,9 +58950,9 @@ $13 \text{p} \quad 23 \text{p} \quad 33 \text{p} \quad 43 \text{p} \quad 53 \tex
 
 $
 \begin{aligned}
-13 \text{p}     &= 10 \text{p} + 2 \text{p} + 1 \text{p} \\\\
-23 \text{p}     &= 20 \text{p} + 2 \text{p} + 1 \text{p} \\\\
-53 \text{p}     &= 50 \text{p} + 2 \text{p} + 1 \text{p}
+13 \text {p}     &= 10 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+23 \text {p}     &= 20 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+53 \text {p}     &= 50 \text {p} + 2 \text {p} + 1 \text {p}
 \end{aligned}
 $
 
@@ -60952,12 +58970,12 @@ $13 \text{p},23 \text{p},53 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>DA1C609B-7D16-4855-AF28-E9B812315F33</p>
 </div>
@@ -60990,10 +59008,10 @@ The difference between the terms is $15$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(+15)}} 
-&&  \footnotesize{\maroonC{(+15)}}  
-&&  \footnotesize{\maroonC{(+15)}}   
-&&  \footnotesize{\maroonC{(+15)}}   
+    \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
 &&  \footnotesize{\maroonC{(+15)}}
 &&  \footnotesize{\maroonC{(+15)}}  \\
 150,  &&    165,  &&  180,  &&   195,   &&   210  &&   \ldots && \ldots
@@ -61020,12 +59038,12 @@ $315, 240$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1F54DF7F-1E4E-4CDC-A7A2-5D50C56188C5</p>
 </div>
@@ -61052,13 +59070,13 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
-\text{Hebe score}       &= 60\% \ \text{of} \ 60 - 30 \\\\
-                        &= \dfrac {60}{100} \times 60 - 30 \\\\
-                        &= \dfrac{60 \times 60}{100} - 30 \\\\
-                        &= \dfrac{6 \cancel{0} \times 6 \cancel{0}}{1 \cancel{0} \cancel{0}} -30 \\\\
-                        &=36 - 30 \\\\
-                        &= 6
+\text {Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
+\text {Hebe score}            &= 60\% \ \text{of} \ 60 - 30 \\\\
+                              &= \dfrac {60} {100} \times 60 - 30 \\\\
+                              &= \dfrac {60 \times 60} {100} - 30 \\\\
+                              &= \dfrac {6 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} -30 \\\\
+                              &=36 - 30 \\\\
+                              &= 6
 \end{aligned}
 $
 
@@ -61078,12 +59096,12 @@ $6$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>ED0E72A9-DD21-4A7F-9701-21CDEA62D691</p>
 </div>
@@ -61112,10 +59130,10 @@ As per the question,
 
 $
 \begin{aligned}
-  1 \ \text{apple} + 2 \ \text{oranges}           &= 48 \ \text{p} \\\\
-- 1 \ \text{apple} + 1 \ \text{oranges}           &= 31 \ \text{p} \\\\
+  1 \ \text {apple} + 2 \ \text {oranges}           &= 48 \ \text {p} \\\\
+- 1 \ \text {apple} + 1 \ \text {oranges}           &= 31 \ \text {p} \\\\
 \uline
-                     1 \ \text{orange}            &= 17 \ \text{p}
+                     1 \ \text {orange}             &= 17 \ \text {p}
 \end{aligned}
 $
 
@@ -61124,7 +59142,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$17 \ \text{p}$
+$17 \ \text {p}$
 
 </div>
 </div>
@@ -61133,7 +59151,7 @@ $17 \ \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -61212,7 +59230,7 @@ $\pounds 1.8, \pounds 1.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>8887F042-1EF1-4B73-B76D-1171B3382465</p>
 </div>
@@ -61241,13 +59259,13 @@ Packs to be bought
 
 $
 \begin{aligned}
-&= \dfrac{\text{Total pens}} {\text{Pens per pack}} \\\\
-&= \dfrac{3 \times 70}{8} \\\\
-&= \dfrac{3 \times 35 \times 2}{4 \times 2} \\\\
-&= \dfrac{3 \times 35 \times \cancel{2}}{4 \times \cancel{2}} \\\\
-&= \dfrac{3 \times 35}{4} \\\\
-&= \dfrac{105}{4} \\\\
-&= 26 \dfrac{1}{4} \\\\
+&= \dfrac {\text {Total pens}} {\text {Pens per pack}} \\\\
+&= \dfrac {3 \times 70} {8} \\\\
+&= \dfrac {3 \times 35 \times 2} {4 \times 2} \\\\
+&= \dfrac {3 \times 35 \times \cancel{2}} {4 \times \cancel{2}} \\\\
+&= \dfrac {3 \times 35} {4} \\\\
+&= \dfrac {105} {4} \\\\
+&= 26 \dfrac {1} {4} \\\\
 \end{aligned}
 $
 
@@ -61267,12 +59285,12 @@ $27$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E1623FA7-4357-40D5-B38B-F87B2832B3C4</p>
 </div>
@@ -61299,18 +59317,18 @@ How much does each person pay?
 
 As per the question,
 
-$\text{Total cost} = \text{Cost per person per km} \times \text{No. of kilometers.}
+$\text {Total cost} = \text {Cost per person per km} \times \text {No. of kilometers.}
 
 $
 \begin{aligned}
-\text{Cost per person}      &= \dfrac{Total cost} {Total persons} \\\\
-                            &= \dfrac{2.42 \times 32}{11} \\\\
-                            &= \dfrac{2.42 \times 100 \times 32}{11 \times 100} \\\\
-                            &= \dfrac{242 \times 32} {11 \times 100} \\\\
-                            &= \dfrac{11 \times 11 \times 2 \times 32} {11 \times 100} \\\\
-                            &= \dfrac{11 \times 2 \times 32} {100} \\\\
-                            &= \dfrac{704}{100} \\\\
-\text{Cost per person}      &= \pounds 7.04
+\text {Cost per person}      &= \dfrac {Total cost} {Total persons} \\\\
+                             &= \dfrac {2.42 \times 32} {11} \\\\
+                             &= \dfrac {2.42 \times 100 \times 32} {11 \times 100} \\\\
+                             &= \dfrac {242 \times 32} {11 \times 100} \\\\
+                             &= \dfrac {11 \times 11 \times 2 \times 32} {11 \times 100} \\\\
+                             &= \dfrac {11 \times 2 \times 32} {100} \\\\
+                             &= \dfrac {704} {100} \\\\
+\text {Cost per person}      &= \pounds 7.04
 \end{aligned}
 $
 
@@ -61328,12 +59346,12 @@ $\pounds 7.04$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B09AF32E-2996-4090-B6BE-24F80181CD57</p>
 </div>
@@ -61362,9 +59380,9 @@ a \times 3 + 6      &= a + 16 \\\\
 3a + 6              &= a + 16 \\\\
 3a - a              &= 16 - 6 \\\\
 2a                  &= 10 \\\\
-a                   &= \dfrac{10}{2} \\\\
-a                   &= \dfrac{5 \times 2}{2} \\\\
-a                   &= \dfrac{5 \times \cancel{2}}{\cancel{2}} \\\\
+a                   &= \dfrac {10} {2} \\\\
+a                   &= \dfrac {5 \times 2} {2} \\\\
+a                   &= \dfrac {5 \times \cancel{2}} {\cancel{2}} \\\\
 a                   &= 5
 \end{aligned}
 $
@@ -61385,12 +59403,12 @@ $5$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>CC0F7948-FB93-4B7D-B62E-499490AD2FB6</p>
 </div>
@@ -61420,7 +59438,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -61451,7 +59469,7 @@ We can easily infer the values by using trial and error. Let's find out $2$ numb
 
 Factors of $84 = 1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 84$
 
-Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text{and} \ 7, 12$
+Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text {and} \ 7, 12$
 
 | Factors   |  Sum  | Numbers $< 20$    |
 |:-------:  |:----: |:---------------:  |
@@ -61499,9 +59517,9 @@ $
 a \times 9 - 15     &= 66 \\\\
 a \times 9          &= 66 + 15 \\\\
 a \times 9          &= 81 \\\\
-a                   &= \dfrac{81}{9} \\\\
-a                   &= \dfrac{9 \times 9}{9} \\\\
-a                   &= \dfrac{\cancel{9} \times 9}{\cancel{9}} \\\\
+a                   &= \dfrac {81} {9} \\\\
+a                   &= \dfrac {9 \times 9} {9} \\\\
+a                   &= \dfrac {\cancel{9} \times 9} {\cancel{9}} \\\\
 a                   &= 9
 \end{aligned}
 $
@@ -61525,12 +59543,12 @@ $9$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>51170D23-A840-4FED-BD59-6DC695B27849</p>
 </div>
@@ -61558,12 +59576,12 @@ Volume = length $\times$ width $\times$ height
 
 $
 \begin{aligned}
-\text{Maximum number of blocks}         &= \dfrac{\text{Volume of case}}{\text{Volume of brick}} \\\\
-                                        &= \dfrac{200 \times 180 \times 120}{30 \times 20 \times 15} \\\\
-                                        &= \dfrac{20 \times 2 \times 5 \times 30 \times 3 \times 3 \times 120}{30 \times 20 \times 5 \times 3} \\\\
-                                        &= \dfrac{\cancel{20} \times 2 \times \cancel{5} \times \cancel{30} \times \cancel{3} \times 3 \times 120}{\cancel{30} \times \cancel{20} \times \cancel{5} \times \cancel{3}} \\\\
-                                        &= 2 \times 2 \times 120 \\\\
-\text{Maximum number of blocks which can be fitted into the packing case}         &= 480
+\text{Maximum number of blocks}                                                    &= \dfrac {\text{Volume of case}} {\text{Volume of brick}} \\\\
+                                                                                   &= \dfrac {200 \times 180 \times 120} {30 \times 20 \times 15} \\\\
+                                                                                   &= \dfrac {20 \times 2 \times 5 \times 30 \times 3 \times 3 \times 120} {30 \times 20 \times 5 \times 3} \\\\
+                                                                                   &= \dfrac {\cancel{20} \times 2 \times \cancel{5} \times \cancel{30} \times \cancel{3} \times 3 \times 120} {\cancel{30} \times \cancel{20} \times \cancel{5} \times \cancel{3}} \\\\
+                                                                                   &= 2 \times 2 \times 120 \\\\
+\text {Maximum number of blocks which can be fitted into the packing case}         &= 480
 \end{aligned}
 $
 
@@ -61581,19 +59599,19 @@ $480$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>F5C3AB3C-C84A-4D5B-AB13-C1400D84FD8E</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -61616,7 +59634,7 @@ Fill in the blanks so that the calculation on the left is equal to the calculati
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -61691,12 +59709,12 @@ $90$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>007B2641-042F-43E0-8E20-0BE481209612</p>
 </div>
@@ -61718,10 +59736,10 @@ What number is $40\%$ of $75$?
 $
 \begin{aligned}
 &= 40\%$ \ \text{of} \ 75 \\\\
-&= \dfrac{40}{100} \times 75 \\\\
-&= \dfrac{40 \times 75}{100} \\\\
-&= \dfrac{4 \times 10 \times 3 \times 25}{4 \times 25} \\\\
-&= \dfrac{\cancel{4} \times 10 \times 3 \times \cancel{25}}{\cancel{4} \times \cancel{25}} \\\\
+&= \dfrac {40} {100} \times 75 \\\\
+&= \dfrac {40 \times 75} {100} \\\\
+&= \dfrac {4 \times 10 \times 3 \times 25} {4 \times 25} \\\\
+&= \dfrac {\cancel{4} \times 10 \times 3 \times \cancel{25}} {\cancel{4} \times \cancel{25}} \\\\
 &= 10 \times 3 \\\\
 &= 30 
 \end{aligned}
@@ -61741,12 +59759,12 @@ $30$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>CF7CE30C-0A7F-4300-862F-365FA5F28396</p>
 </div>
@@ -61791,12 +59809,12 @@ $4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1F45A013-A394-4AD2-A795-8AA3EF051A9F</p>
 </div>
@@ -61823,19 +59841,19 @@ Let's take the second missing number $= b$
 
 $
 \begin{aligned}
-\dfrac{a}{12}                       &= \dfrac{12}{18} \\\\
-a                                   &= \dfrac{12}{18} \times 12 \\\\
-                                    &= \dfrac{12 \times 12}{18} \\\\
-                                    &= \dfrac{4 \times 3 \times 2 \times 6}{3 \times 6} \\\\
-                                    &= \dfrac{4 \times \cancel{3} \times 2 \times 6}{\cancel{3} \times \cancel{6}} \\\\
+\dfrac {a} {12}                     &= \dfrac {12} {18} \\\\
+a                                   &= \dfrac {12} {18} \times 12 \\\\
+a                                   &= \dfrac {12 \times 12} {18} \\\\
+a                                   &= \dfrac {4 \times 3 \times 2 \times 6} {3 \times 6} \\\\
+a                                   &= \dfrac {4 \times \cancel{3} \times 2 \times 6} {\cancel{3} \times \cancel{6}} \\\\
 a                                   &= 4 \times 2 \\\\
-\text{First missing number}         &= 8 \\\\
-\dfrac{b}{18}                       &= \dfrac{18}{12} \\\\
-b                                   &= \dfrac{18}{12} \times 18 \\\\
-                                    &= \dfrac{18 \times 18}{12} \\\\
-                                    &= \dfrac{6 \times 3 \times 9 \times 2}{6 \times 2} \\\\
-                                    &= \dfrac{\cancel{6} \times 3 \times 9 \times \cancel{2}}{\cancel{6} \times \cancel{2}} \\\\
-b                                  &= 3 \times 9 \\\\
+\text {First missing number}        &= 8 \\\\
+\dfrac {b} {18}                     &= \dfrac {18} {12} \\\\
+b                                   &= \dfrac {18} {12} \times 18 \\\\
+b                                   &= \dfrac {18 \times 18} {12} \\\\
+b                                   &= \dfrac {6 \times 3 \times 9 \times 2} {6 \times 2} \\\\
+b                                   &= \dfrac {\cancel{6} \times 3 \times 9 \times \cancel{2}} {\cancel{6} \times \cancel{2}} \\\\
+b                                   &= 3 \times 9 \\\\
 \text{Second missing number}        &= 27
 \end{aligned}
 $
@@ -61854,12 +59872,12 @@ $8, 27$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>FB21F97F-B716-4F28-B691-6FF3FCEA330A</p>
 </div>
@@ -61906,12 +59924,12 @@ $42$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D7A80376-0605-421E-8C3B-6A9A36B38446</p>
 </div>
@@ -61932,10 +59950,10 @@ Sarah won a large jar of sweets in a Christmas raffle. If there are $486$ sweets
 
 $
 \begin{aligned}
-\text{Sweets per person}        &= \dfrac{\text{Total sweets}}{\text{Total people}} \\\\
-                                &= \dfrac{486}{18} \\\\
-                                &= \dfrac{27 \times 18}{18} \\\\
-                                &= \dfrac{27 \times \cancel{18}}{\cancel{18}} \\\\
+\text {Sweets per person}       &= \dfrac {\text{Total sweets}} {\text{Total people}} \\\\
+                                &= \dfrac {486} {18} \\\\
+                                &= \dfrac {27 \times 18} {18} \\\\
+                                &= \dfrac {27 \times \cancel{18}} {\cancel{18}} \\\\
                                 &= 27
 
 \end{aligned}
@@ -61957,12 +59975,12 @@ $27$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>ED194211-094B-4A65-A8B1-1480273C455A</p>
 </div>
@@ -61986,11 +60004,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of sugar}        &= \text{Total cost} - \text{Cost of coffee} - \text{Cost of milk} \\\\
-                            &= \pounds 5.15 - \pounds 3.69 - 89 \text{p} \\\\
+\text {Cost of sugar}       &= \text {Total cost} - \text {Cost of coffee} - \text {Cost of milk} \\\\
+                            &= \pounds 5.15 - \pounds 3.69 - 89 \text {p} \\\\
                             &= \pounds 5.15 - \pounds 3.69 - \pounds 0.89 \\\\
                             &= 5.15 - 4.58 \\\\
-\text{Cost of sugar}        &= \pounds 0.57 = 57 \text{p}
+\text {Cost of sugar}       &= \pounds 0.57 = 57 \text {p}
 \end{aligned}
 $
 
@@ -62008,12 +60026,12 @@ $57 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1BDA0077-610F-493E-B36C-43C8D0A51441</p>
 </div>
@@ -62036,13 +60054,13 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money per crisp}      &= \text{Money per bag of crisps} \\\\
-\text{Number of crisp bag}  &= \dfrac{\text{Total money}}{\text{Money per crisp}} \\\\
-                            &= \dfrac{\pounds 2}{16 \text{p}} \\\\
-                            &= \dfrac{200}{16} \\\\
-                            &= \dfrac{25 \times 8}{2 \times 8} \\\\
-                            &= \dfrac{25 \times \cancel{8}}{2 \times \cancel{8}} \\\\
-                            &= \dfrac{25}{2} \\\\
+\text {Money per crisp}     &= \text {Money per bag of crisps} \\\\
+\text {Number of crisp bag} &= \dfrac {\text {Total money}} {\text {Money per crisp}} \\\\
+                            &= \dfrac {\pounds 2} {16 \text{p}} \\\\
+                            &= \dfrac {200} {16} \\\\
+                            &= \dfrac {25 \times 8} {2 \times 8} \\\\
+                            &= \dfrac {25 \times \cancel{8}} {2 \times \cancel{8}} \\\\
+                            &= \dfrac {25} {2} \\\\
                             &= 12.5
 \end{aligned}
 $
@@ -62063,7 +60081,7 @@ $12$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -62075,7 +60093,7 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -62098,7 +60116,7 @@ Work out the answers to:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -62212,7 +60230,7 @@ Work out the answers to:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -62327,7 +60345,7 @@ Work out the answers to:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -62735,7 +60753,7 @@ $\pounds 14.90$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tnumber
 </li>
 </ul>
 </div>
@@ -63053,7 +61071,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D77A8B7B-174A-43B6-BD7A-E491EC6999DC</p>
 </div>
@@ -63148,12 +61166,13 @@ How long does he spend playing with his friends?
 
 $
 \begin{aligned}
-&= 75 \% \ \text {of} 20 \ \text {min} \\\\
-&= \dfrac {75} {100} \times 20 \\\\
-&= \dfrac {75} {10 \cancel 0} \times 2\ cancel 0 \\\\
-&= \dfrac {15 \times 5 \times 2} {5 \times 2} \\\\
-&= \dfrac {15 \times \cancel 5 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
-&= 15 \ \text {min}
+&= 75 \% \ \text {of} \ 40 \ \text {min} \\\\
+&= \dfrac {75} {100} \times 40 \\\\
+&= \dfrac {75} {10 \cancel 0} \times 4\cancel 0 \\\\
+&= \dfrac {15 \times 5 \times 4} {5 \times 2} \\\\
+&= \dfrac {15 \times 5 \times 2 \times 2} {5 \times 2} \\\\
+&= \dfrac {15 \times \cancel 5 \times 2 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
+&= 30 \ \text {min}
 \end{aligned}
 $
 
@@ -63162,7 +61181,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15 \ \text {min}$
+$30 \ \text {min}$
 
 </div>
 </div>
@@ -63185,8 +61204,8 @@ What percentage of his total lunch break does Harry spend playing with his frien
 
 $
 \begin{aligned}
-&= \dfrac {15 \times 100} {100} \\\\
-&= 15 \%
+&= \dfrac {30} {60} \times 100 \\\\
+&= 50 \%
 \end{aligned}
 $
 
@@ -63195,7 +61214,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15 \%$
+$50 \%$
 
 </div>
 </div>
@@ -63207,12 +61226,12 @@ $15 \%$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
 </div>
@@ -63236,11 +61255,15 @@ $250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \t
 <div class='workings'>
 <div class='working'>
 
+$250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m}$
+
+Let's convert them to same units
+
 $
 \begin{aligned}
-&= 250 \ \text {m} \quad  0.52 \ \text {km}    \quad 0.5 \ \text {km} \quad 2.05 \ \text {km} \quad 502 \ \text {m} \\\\
 &= 250 \ \text {m} \quad  520 \ \text {m}    \quad 500 \ \text {m} \quad 2050 \ \text {m} \quad 502 \ \text {m} \\\\
-&= 250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m}
+&= 250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m} \\\\
+&= 250 \ \text{m} \ < \quad 0.5 \ \text{km} \ < \quad 502 \ \text{m} \ < \quad 0.52 \ \text{km} \ < \quad 2.05 \ \text{km}
 \end{aligned}
 $
 
@@ -63249,7 +61272,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m}$
+$250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.52 \ \text{km} \ , \quad 2.05 \ \text{km}$
 
 </div>
 </div>
@@ -63258,7 +61281,7 @@ $250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -63270,7 +61293,7 @@ $250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -63317,7 +61340,7 @@ $12221$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -63438,7 +61461,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -63523,7 +61546,7 @@ $3.49$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 <li>
 tdecimal
@@ -63764,7 +61787,7 @@ Fill in the gaps in the calculations below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -63926,7 +61949,7 @@ One of the times has been covered.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -64037,7 +62060,7 @@ On $1 \text{st}$ January the temperature in London was $-2 \degree \text{C}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -64157,7 +62180,7 @@ Helen was born on $1 \text{st}$ March $2003$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -64247,7 +62270,7 @@ $1 \ \text {st} \ \text {November} \ 1998$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -64294,7 +62317,7 @@ $1886$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -64364,7 +62387,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -64660,7 +62683,7 @@ Write a number in each box in order to make the calculations correct.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -64826,7 +62849,7 @@ tcoin
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -64993,7 +63016,7 @@ Without doing any long multiplication or division, use Summer’s calculation to
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -65148,7 +63171,7 @@ Shape $D$ is drawn on centimetre-squared paper below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -65282,7 +63305,7 @@ Roger trains every morning by running around the running track until he has run 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -65416,7 +63439,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -65552,7 +63575,7 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -65622,7 +63645,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -65836,7 +63859,7 @@ Write the missing numbers in the boxes to make the calculations correct.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -66087,7 +64110,7 @@ $464+273$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -66135,7 +64158,7 @@ $7392$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -66316,7 +64339,7 @@ Write a number in each box to complete the statements.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -66792,7 +64815,7 @@ For example, using four of the cards, the largest $4$-digit even number that can
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -66980,7 +65003,7 @@ Without doing any long multiplications, use Sammy’s calculation to help you wr
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -67268,7 +65291,7 @@ Write down the mass:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -67375,7 +65398,7 @@ Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -67496,74 +65519,6 @@ $18 \ \text {stickers}$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>4B61C938-79C7-44C1-871D-5818101388C0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-My garden centre sells Summer bedding plants at $85 \text{p}$ each. I have $\pounds 30$ to spend. How many plants can I buy? Show your working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-Let's convert the total amount into pence.
-
-$
-\begin{aligned}
-\text{Total amount} &= \pounds 30 \\\\
-&= 30 \times 100 \text{p} \\\\
-&= 3000 \text{p}
-\end{aligned}
-$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Number of plants}     &= \dfrac{\text{Total amount}} {\text{Amount per plant}} \\\\
-                            &= \dfrac {3000} {85} \\\\
-                            &= \dfrac {6 \times 5 \times 100} {17 \times 5} \\\\
-                            &= \dfrac {6 \times \cancel {5} \times 100} {17 \times \cancel {5}} \\\\
-                            &= \dfrac {600} {17} \\\\
-                            &= 39.29
-\end{aligned}
-$
-
-Number of plants that can be brought = $39$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$39$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
 </div>
 </div>
 </li>
@@ -67780,7 +65735,7 @@ $C = 3n +40$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -67874,13 +65829,13 @@ $5$
 tdecimal
 </li>
 <li>
-taddition
+tdetailedaddition
 </li>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -67906,7 +65861,7 @@ Find the value of each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -69141,7 +67096,7 @@ Calculate each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -69233,16 +67188,16 @@ $\dfrac{91} {3} \ \text {or} \ 30 \dfrac{1} {3}$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tdecimal
 </li>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -69265,7 +67220,7 @@ Calculate
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -69562,7 +67517,7 @@ Write down the answers to the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -69751,7 +67706,7 @@ Calculate the answers to the following. Remember to show your working.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -69925,7 +67880,7 @@ $0.78$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>34FA6ECE-8C84-4446-BE71-0079B97B3AE6</p>
 </div>
@@ -69955,7 +67910,7 @@ Calculate the answers to the following: Remember to show your working.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -70035,7 +67990,7 @@ $47$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -70070,7 +68025,7 @@ Work out the answers to
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -70240,7 +68195,7 @@ $45$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -70323,7 +68278,7 @@ ttime
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -70645,7 +68600,7 @@ Write down the next number in each of these sequences
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -70846,7 +68801,7 @@ $18.87$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3451CE50-4E36-45DB-A7E7-4BEAA4FFABA4</p>
 </div>
@@ -70868,18 +68823,18 @@ $2,\:\:\:5 000,\:\:\:50 000,\:\:\:2 000,\:\:\:200,\:\:\:50,\:\:\:20$
 <div class='workings'>
 <div class='working'>
 
-$2,\quad  \boxed{5 000},\quad 50 000,\quad 2 000,\quad  \boxed{200},\quad 50,\quad 20$
+$2, \qquad  \boxed{5 \ 000}, \qquad 50 \ 000, \qquad 2 000, \qquad  \boxed {2 \ 00}, \qquad 50, \qquad 20$
 
 Or
 
-$2,\quad 5 000,\quad  \boxed {50 000},\quad 2 000,\quad 200,\quad 50,\quad  \boxed {20}$
+$2, \qquad 5 \ 000, \qquad  \boxed {50 \ 000}, \qquad 2 \ 000, \qquad 200, \qquad 50, \qquad  \boxed {20}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(5000, 200) \ \text{or} \ (50000, 20)$
+$(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 
 </div>
 </div>
@@ -70888,7 +68843,7 @@ $(5000, 200) \ \text{or} \ (50000, 20)$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -71011,7 +68966,7 @@ $8.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>F8D3AEA5-00FC-4260-A2B7-A0A6D9A6B650</p>
 </div>
@@ -71046,7 +69001,7 @@ From the list of numbers: $5,\:\: 6,\:\: 8,\:\: 23,\:\: 27,\:\: 45,\:\: 72$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -71136,7 +69091,7 @@ $23$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -71174,7 +69129,7 @@ torder
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -71272,7 +69227,7 @@ $0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>4E026293-8092-4F84-94CD-07F5A6F4E37D</p>
 </div>
@@ -71302,7 +69257,7 @@ If $𝑎 = 3,\:\:𝑏 = 5\:\: and\:\: 𝑐 = -2$, find the value of;
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -71389,7 +69344,7 @@ $\frac{𝑎+𝑏}{c}$
 
 $
 \begin{aligned}
-&= \dfrac {a+b} {c} \\\\
+&= \dfrac {a + b} {c} \\\\
 &= \dfrac {3 + 5} {-2} \\\\
 &= - \dfrac {8} {2} \\\\
 &= - \dfrac {2 \times 4} {2} \\\\
@@ -71466,9 +69421,9 @@ As per the question,
 
 $
 \begin{aligned}
-&= a - \dfrac{b} {c} \\\\
-&= 3 - \dfrac{5} {-2} \\\\
-&= 3 + \dfrac{5} {2} \\\\
+&= a - \dfrac {b} {c} \\\\
+&= 3 - \dfrac {5} {-2} \\\\
+&= 3 + \dfrac {5} {2} \\\\
 &= \dfrac {3 \times 2} {1 \times 2} + \dfrac {5} {2} \\\\
 &= \dfrac {6} {2} + \dfrac {5} {2} \\\\
 &= \dfrac {6 + 5} {2} \\\\
@@ -71482,7 +69437,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{11} {2} \ \text{or} \ 5 \dfrac {1} {2}$
+$\dfrac {11} {2} \ \ \text{or} \ \ 5 \dfrac {1} {2}$
 
 </div>
 </div>
@@ -71494,7 +69449,7 @@ $\dfrac{11} {2} \ \text{or} \ 5 \dfrac {1} {2}$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -71529,7 +69484,7 @@ Simplify
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -71730,7 +69685,7 @@ Write down the next two terms of the following sequences;
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -71967,7 +69922,7 @@ Solve the equations (showing clear working);
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -72090,7 +70045,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>9C5A0EF1-A8A5-42F9-8717-C0DB88208ECE</p>
 </div>
@@ -72123,7 +70078,7 @@ tdecimal
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -72185,7 +70140,7 @@ $10.47$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -72257,7 +70212,7 @@ $30, 135$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>92F50556-BDE8-4519-B178-C9ADAC015801</p>
 </div>
@@ -72287,7 +70242,7 @@ For each set of numbers write down which of the numbers is the largest and which
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -72306,19 +70261,20 @@ To compare, we can convert all the numbers to fractions, decimals or percentages
 
 In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
 
-$\dfrac {4} {5}, \quad 0.9, \quad 0.1, \quad \dfrac {1} {100}, \quad \dfrac{2}{10}$
-
-$\dfrac {4} {5}, \quad \dfrac{9} {10}, \quad \dfrac {1} {10}, \quad \dfrac {1} {100}, \quad \dfrac{2}{10}$
-
-$\dfrac {4 \times 20} {5 \times 20}, \quad \dfrac{9 \times 10} {10 \times 10}, \quad \dfrac {1 \times 10} {10 \times 10}, \quad \dfrac {1} {100}, \quad \dfrac{2 \times 10}{10 \times 10}$
-
-$\dfrac {80} {100}, \quad \dfrac{90} {100}, \quad \dfrac {10} {100}, \quad \dfrac {1} {100}, \quad \dfrac{20}{100}$
+$
+\begin{aligned}
+&\dfrac {4} {5},                     \quad 0.9,                                 \quad 0.1,                                  \quad \dfrac {1} {100}, \quad \dfrac {2} {10} \\\\
+&\dfrac {4} {5},                     \quad \dfrac {9} {10},                     \quad \dfrac {1} {10},                      \quad \dfrac {1} {100}, \quad \dfrac {2} {10} \\\\
+&\dfrac {4 \times 20} {5 \times 20}, \quad \dfrac {9 \times 10} {10 \times 10}, \quad \dfrac {1 \times 10} {10 \times 10},  \quad \dfrac {1} {100}, \quad \dfrac {2 \times 10} {10 \times 10} \\\\
+&\dfrac {80} {100},                  \quad \dfrac {90} {100},                   \quad \dfrac {10} {100},                    \quad \dfrac {1} {100}, \quad \dfrac {20} {100}
+\end{aligned}
+$
 
 Let's put them in ascending order now.
 
-$\dfrac {1} {100}, \quad \dfrac {10} {100}, \quad \dfrac{20}{100}, \quad \dfrac {80} {100}, \quad \dfrac{90} {100}$
+$\dfrac {1} {100}, \quad \dfrac {10} {100}, \quad \dfrac{20} {100}, \quad \dfrac {80} {100}, \quad \dfrac{90} {100}$
 
-$\dfrac {1} {100}, \quad 0.1, \quad \dfrac{2}{10}, \quad \dfrac {4} {5}, \quad 0.9$
+$\dfrac {1} {100}, \quad 0.1, \quad \dfrac{2} {10}, \quad \dfrac {4} {5}, \quad 0.9$
 
 Largest number = $0.9$
 
@@ -72329,7 +70285,7 @@ Smallest number = $\dfrac {1} {100}$
 <div class='answers'>
 <div class='answer'>
 
-$ \text{Largest} = 0.9, \text{Smallest} = \dfrac {1} {100}$
+$ \text {Largest} = 0.9, \text {Smallest} = \dfrac {1} {100}$
 
 </div>
 </div>
@@ -72377,7 +70333,7 @@ Smallest number = $\dfrac {1} {2}$
 <div class='answers'>
 <div class='answer'>
 
-$\text{Largest} = \dfrac {4} {3}, \text{Smallest} =  \dfrac {1} {2}$
+$\text {Largest} = \dfrac {4} {3}, \text {Smallest} =  \dfrac {1} {2}$
 
 </div>
 </div>
@@ -72417,7 +70373,7 @@ Smallest number = $0.087$
 <div class='answers'>
 <div class='answer'>
 
-$\text{Largest} = 0.84, \text{Smallest} =  0.087$
+$\text {Largest} = 0.84, \text {Smallest} =  0.087$
 
 </div>
 </div>
@@ -72429,12 +70385,12 @@ $\text{Largest} = 0.84, \text{Smallest} =  0.087$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>14E5F246-D749-41FC-B5F4-8237AC1F466F</p>
 </div>
@@ -72469,7 +70425,7 @@ Use this result to answer these questions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -72565,12 +70521,12 @@ $146700$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>48C8A320-D1E7-4D75-84D8-799A4AA7A4A2</p>
 </div>
@@ -72600,7 +70556,7 @@ Two numbers are 'curdled' by adding them together and then multiplying the answe
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -72660,10 +70616,11 @@ As per the question,
 $
 \begin{aligned}
 (a + 5) \times (a + 5)      &= 81 \\\\
-(a + 5)^2           &= 9^2 \\\\
-a + 5               &= 9 \\\\
-a                   &= 9 - 5 \\\\
-a                   &= 4
+(a + 5)^2                   &= 81 \\\\
+a + 5                       &= \sqrt {81} \\\\
+a + 5                       &= 9 \\\\
+a                           &= 9 - 5 \\\\
+a                           &= 4
 \end{aligned}
 $
 
@@ -72684,12 +70641,12 @@ $4$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>84DF97A5-920D-4BF6-91EC-3314D5655765</p>
 </div>
@@ -72721,7 +70678,7 @@ $4!$ is a quick way of writing $4 \times 3 \times 2 \times 1$ and so on.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -72775,7 +70732,7 @@ Calculate the value of:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -72819,9 +70776,9 @@ $3! \times 2!$
 <div class='working'>
 
 $
-/begin{aligned}
+\begin{aligned}
 &= 3! \times 2! \\\\
-&= 3 \times 2 \times 1 \times 2 \times 1 \\\\
+&= (3 \times 2 \times 1) \times (2 \times 1) \\\\
 &= 6 \times 2 \\\\
 &= 12
 \end{aligned}
@@ -72891,7 +70848,7 @@ $(3!)!$
 $
 \begin{aligned}
 &= (3!)! \\\\
-&= (3 \times 2 \times 1) \\\\
+&= (3 \times 2 \times 1)! \\\\
 &= 6! \\\\
 &= 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
 &= 720
@@ -72963,16 +70920,11 @@ $100! \div 98!$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-$100! =  100 \times 99 \times 98 \ldots \times 2 \times 1$
-
-$98! = 98 \ldots \times 2 \times 1$
-
 $
 \begin{aligned}
 &= 100! \div 98! \\\\
-&= \dfrac {100 \times 99 \times 98!} {98!1} \\\\
+&= \dfrac {100!} {98!} \\\\
+&= \dfrac {100 \times 99 \times 98!} {98!} \\\\
 &= \dfrac {100 \times 99 \times \cancel {98!}} {\cancel {98!}} \\\\
 &= 100 \times 99 \\\\
 &= 9900
@@ -73008,8 +70960,6 @@ If $13! = 13 \times n!$ what number does $'n'$ stand for?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 13 \times n!        &= 13! \\\\
@@ -73036,12 +70986,12 @@ $12$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>9918BF12-FEBA-4F5C-898C-ACF17E04EDD0</p>
 </div>
@@ -73074,7 +71024,7 @@ Give one answer only for each of the following questions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -73089,11 +71039,14 @@ Write down any multiple of $8$ between $50$ and $70$
 <div class='workings'>
 <div class='working'>
 
-$8 \times 7 = 56$
+$
+\begin{aligned}
+8 \times 7 &= 56 \ \text {Or,} \\\\
+8 \times 8 &= 64
+\end{aligned}
+$
 
-$8 \times 8 = 64$
-
-$8 \times 9 = 72$
+A multiple of $8$ between $50$ and $70$ $= 56$.
 
 </div>
 </div>
@@ -73121,7 +71074,7 @@ Write down a prime number between $48$ and $60$
 <div class='workings'>
 <div class='working'>
 
-Prime numbers between $48$ and $60 = 53, 59$
+Prime numbers between $48$ and $60 = 53,\ 59$
 
 </div>
 </div>
@@ -73149,7 +71102,7 @@ Write down a factor of $90$ that is between $12$ and $25$
 <div class='workings'>
 <div class='working'>
 
-Factors of $90$ between $12$ and $25 = 15, 18$
+Factors of $90$ between $12$ and $25 = 15, \ 18$
 
 </div>
 </div>
@@ -73177,7 +71130,7 @@ Write down a square number between $30$ and $60$
 <div class='workings'>
 <div class='working'>
 
-Square numbers between $30$ and $60 = 36, 49$
+Square numbers between $30$ and $60 = 36, \ 49$
 
 </div>
 </div>
@@ -73205,13 +71158,16 @@ Write down a 2-digit number that is both a square number and cube number
 <div class='workings'>
 <div class='working'>
 
-2-digit numbers that are squares $=16, 25, 36, 49, 64, 81$
+2-digit numbers that are squares $=16, \ 25, \ 36, \ 49, \ 64, \ 81$
 
-$25, 36, 49$ and $81$ are not cube numbers.
+$25, \ 36, \ 49$ and $81$ are not cube numbers.
 
-$8^2 = 64$
-
-$4^3 = 64$
+$
+\begin{aligned}
+8^2 &= 64 \\\\
+4^3 &= 64
+\end{aligned}
+$
 
 </div>
 </div>
@@ -73230,12 +71186,12 @@ $64$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>75A55853-F6F6-49CC-BDCE-31C9343FD3FB</p>
 </div>
@@ -73263,24 +71219,24 @@ In this case, let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
-&= \dfrac {4} {5} , \quad 0.82 , \quad 0.802 , \quad 8\% , \quad 9 \ \text{hundredths} , \quad \dfrac {3} {4} \\\\
-&= \dfrac {4 \times 20} {5 \times 20} , \quad 0.82 , \quad \dfrac 0.802 , \quad \dfrac {8} {100} , \quad \dfrac {9} {100} , \quad \dfrac {3 \times 25} {4 \times 25} \\\\
-&= \dfrac {80} {100} , \quad 0.82 , \quad 0.802 , \quad \dfrac 0.08 , \quad 0.09 , \quad \dfrac {75}{100} \\\\
-&= 0.8 , \quad 0.82 , \quad 0.802 , \quad \dfrac 0.08 , \quad 0.09 , \quad 0.75
+&= \dfrac {4} {5} , \quad 0.82 , \quad 0.802 , \quad 8\% , \quad 9 \ \text {hundredths} , \quad \dfrac {3} {4} \\\\
+&= \dfrac {4 \times 20} {5 \times 20} , \quad 0.82 , \quad 0.802 , \quad \dfrac {8} {100} , \quad \dfrac {9} {100} , \quad \dfrac {3 \times 25} {4 \times 25} \\\\
+&= \dfrac {80} {100} , \quad 0.82 , \quad 0.802 , \quad 0.08 , \quad 0.09 , \quad \dfrac {75} {100} \\\\
+&= 0.8 , \quad 0.82 , \quad 0.802 , \quad 0.08 , \quad 0.09 , \quad 0.75
 \end{aligned}
 $
 
 Let's put them in ascending order now.
 
-$&= 0.08 , \quad 0.09 , \quad 0.75 , \quad \dfrac 0.8 , \quad 802 , \quad 0.82$
-$8% , \quad 9 \ \text{hundredths}, \quad \dfrac {3}{4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
+$&= 0.08 , \quad 0.09 , \quad 0.75 , \quad 0.8 , \quad 0.802 , \quad 0.82$
+$8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8% , \quad 9 \ \text{hundredths}, \quad \dfrac {3}{4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
+$8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
 
 </div>
 </div>
@@ -73289,12 +71245,12 @@ $8% , \quad 9 \ \text{hundredths}, \quad \dfrac {3}{4} , \quad \dfrac {4} {5} , 
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6</p>
 </div>
@@ -73320,7 +71276,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Temperature in midday}    &= -3 \degree C \\\\
-\text{Temperature at midnight}  &= -3 + 5 - 11 \degree C 
+\text{Temperature at midnight}  &= -3 \degree C + 5 \degree C - 11 \degree C \\\\
                                 &= -9 \degree C
 \end{aligned}
 $
@@ -73339,12 +71295,12 @@ $-9 \degree C$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>63ED19B8-7E96-4F52-9B00-D3ED22D0D160</p>
 </div>
@@ -73363,21 +71319,21 @@ I think of a number, add $4$ and then multiply by $3$. The result is $63$. What 
 <div class='workings'>
 <div class='working'>
 
-Let the number I thought = $a$
+Let the number I thought $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-(a + 4) \times 3        &= 63 \\\\
-3a + 4 \times 3         &= 63 \\\\
-3a + 12                 &= 63 \\\\
-3a                      &= 63 - 12 \\\\
-3a                      &= 51 \\\\
-a                       &= \dfrac {51} {3} \\\\
-a                       &= \dfrac {17 \times 3} {3} \\\\
-a                       &= \dfrac {17 \times \cancel {3}} {\cancel {3}} \\\\
-a                       &= 17
+(a + 4) \times 3              &= 63 \\\\
+3 \times a + 4 \times 3       &= 63 \\\\
+3a + 12                       &= 63 \\\\
+3a                            &= 63 - 12 \\\\
+3a                            &= 51 \\\\
+a                             &= \dfrac {51} {3} \\\\
+a                             &= \dfrac {17 \times 3} {3} \\\\
+a                             &= \dfrac {17 \times \cancel {3}} {\cancel {3}} \\\\
+a                             &= 17
 \end{aligned}
 $
 
@@ -73395,127 +71351,7 @@ $17$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>AB828C03-B38E-492A-A9FB-885D098D187F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate $(40\% of 90) + (3/7 of 63)$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 40\% \ \text{of} \ 90 + \dfrac {3} {7} \ \text{of} \ 63 \\\\
-&= \dfrac {40} {100} \times 90 + \dfrac {3} {7} \times 63 \\\\
-&= \dfrac {40 \times 90} {100} + \dfrac {3 \times 63} {7} \\\\
-&= \dfrac {4 \cancel {0} \times 9 \cancel {0}} {1 \cancel {0} \cancel {0}} + \dfrac {3 \times 9 \times 7} {7} \\\\
-&= 4 \times 9 + \dfrac {3 \times 9 \times \cancel {7}} {\cancel {7}} \\\\
-&= 4 \times 9 + 3 \times 9 \\\\
-&= 36 + 27 \\\\
-&= 36 + 27 \\\\
-&= 63
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$63$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The triangle in the diagram below is isosceles. 
-
-Calculate angle **$x$**
-$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-In a triangle, the exterior angle is always equal to the sum of the interior opposite angles.
-
-We also know that, in an isosceles triangle the two angles opposite to the equal side are congruent to each other.
-
-Exterior angle = $134 \degree$
-
-Two angles of isosceles triangle = $x$
-$
-\begin{aligned}
-x + x                   &= 134 \\\\
-2x                      &= 134 \\\\
-x                       &= \dfrac{134} {2} \\\\
-x                       &= \dfrac{2 \times 67} {2} \\\\
-x                       &= \dfrac{\cancel {2} \times 67} {\cancel {2}} \\\\
-x                       &= 67 \degree
-\end{aligned}
-$
-
-The angle $x = 67 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$67 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -73527,7 +71363,7 @@ $67 \degree$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -73589,380 +71425,6 @@ $196$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>A547290D-8C41-4C9B-A7F1-47894E812D75</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$18-17+16-15+14-13$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using BIDMAS,
-
-$
-\begin{aligned}
-&= 18 - 17 + 16 - 15 + 14 - 13 \\\\
-&= 18 - 1 -1 - 13 \\\\
-&= 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>C1973D01-029D-4F22-8DE1-F3678679D1B4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write in figures the number forty-two thousand and eight. How much is this number less than one million? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The number is = $42008$
-
-$1000000 - 42008 = 957992$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42008 \\\\ 957992$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>A3C01E30-4AAA-4DBB-B19E-8F08BBF264E5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What percentage is $15 \text{p}$ out of $\pounds 3.00$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-Let's convert the total amount into pence.
-
-$
-\begin{aligned}
-\text{Total amount} &= \pounds 3 \\\\
-                    &= 3 \times 100 \text{p} \\\\
-                    &= 300 \text{p}
-\end{aligned}
-$
-
-Let's find the percentage of $15 \text{p}$
-
-$
-\begin{aligned}
-&= \dfrac {15} {300} \times 100 \\\\
-&= \dfrac {15 \times 100} {300} \\\\
-&= \dfrac {15 \times 1 \cancel{0} \cancel{0}} {3 \cancel{0} \cancel{0}} \\\\
-&= \dfrac {15} {3} \\\\
-&= \dfrac {3 \times 5} {3} \\\\
-&= \dfrac {\cancel {3} \times 5} {\cancel {3}} \\\\
-&= 5\%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5\%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>CB25A103-14EA-41BF-BF3D-B461BBA32FAB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write each of these amounts to the nearest hundred pounds:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$$\pounds 675$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\pounds 700$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 700$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$$\pounds 2,945$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\pounds 2900$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2900$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$$\pounds 90,095$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\pounds 90,100$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 90,100$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>C18FCA7C-4FCC-4CEF-A7BC-74F2C643EE3C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ravi has $32$ sweets. He eats $24$ of them. What fraction of the sweets has he eaten? Write your answer in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= \dfrac {24} {32} \\\\
-&= \dfrac {8 \times 3} {8 \times 4} \\\\
-&= \dfrac{\cancel{8} \times 3}{\cancel{8} \times 4} \\\\
-&= \dfrac {3} {4} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {4}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down in rising order of size all the 3-digit numbers which can be formed by using te digits $7$,$8$ and $9$ once each. The first is $789$.
- 
-</div>
-<div class='workings'>
-<div class='working'>
-
-$789 < \quad 798 < \quad 879 < \quad 897 < \quad 978 < \quad 987$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$789 < \quad 798 < \quad 879 < \quad 897 < \quad 978 < \quad 987$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>07CD4B67-7485-4B17-AF5E-4254EB60E880</p>
@@ -74013,115 +71475,7 @@ $4.744$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>5C46037A-9D8E-4709-A27D-EC329D33E470</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$6 \times ………………….. = $\pounds 9.60$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-$
-\begin{aligned}
-6 \times a                          &= \pounds 9.60 \\\\
-a                                   &= \dfrac {9.6} {6} \\\\
-                                    &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
-                                    &= \dfrac {96} {6 \times 10} \\\\
-                                    &= \dfrac {6 \times 16} {6 \times 10} \\\\
-                                    &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
-                                    &= \dfrac {16} {10} \\\\
-a                                   &= \pounds 1.6
-\end{aligned}
-$
-
-The missing number $= \pounds 1.6$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1.6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>09339FC7-5927-4473-9600-A2EBB5E14701</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$…………..\div 8 = 1.$05 \ \text{cm}$$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-$
-\begin{aligned}
-a \div 8       &= 1.05 \ \text{cm} \\\\
-a              &= 1.05 \times 8 \\\\
-a              &= 8.40 \ \text{cm}
-\end{aligned}
-$
-
-The missing number $= 8.40 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8.40 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>52D2DD9F-0C37-4A1E-B05E-34549F9806B3</p>
 </div>
@@ -74162,132 +71516,12 @@ $28.4 \ \text{cm}^2$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>3167920D-0D61-408D-81BB-04D02838D8D1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $40$ coloured counters in a box. Half of them are red, one-fifth are yellow and the rest are green.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many are green?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Green counters} &= \text{Total counters} - \text{Red counters} - \text{Yellow counters} \\\\
-                      &= 40 - \dfrac {1} {2} \times 40 - \dfrac {1} {5} \times 40 \\\\
-                      &= 40 - \dfrac {40} {2} - \dfrac {40} {5} \\\\
-                      &= 40 - \dfrac {2 \times 20} {2} - \dfrac {5 \times 8} {5} \\\\
-                      &= 40 - \dfrac {\cancel{2} \times 20} {\cancel{2}} - \dfrac {\cancel{5} \times 8} {\cancel{5}} \\\\
-                      &= 40 - 20 - 8 \\\\
-                      &= 12
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If I shake the box and then pick out one counter, what is the probability that it is green?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned} 
-\text{Probability of getting green counter}     &= \dfrac {\text{Green counters}} {\text{Total counters}} \\\\
-                                                &= \dfrac {12} {40} \\\\
-                                                &= \dfrac {4 \times 3} {4 \times 10} \\\\
-                                                &= \dfrac {\cancel{4} \times 3} {\cancel{4} \times 10} \\\\
-                                                &= \dfrac {3} {10}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {10}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>909EAF41-1B93-4DEA-8461-5EBF848DAA72</p>
 </div>
@@ -74322,12 +71556,12 @@ $7$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>FD085C84-CBB1-4F3D-9214-8C8986D4496E</p>
 </div>
@@ -74350,7 +71584,7 @@ $
 \begin{aligned}
 &= 4000 \div 100 \\\\
 &= \dfrac{4000}{100} \\\\
-&= \dfrac{40 \cancel{0} \cancel{0}}{1 \cancel{0} \cancel{0}}  \\\\
+&= \dfrac{40 \cancel {00}} {1 \cancel {00}}  \\\\
 &= 40
 \end{aligned}
 $
@@ -74369,12 +71603,12 @@ $40$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>CD45A7DB-1E28-4E52-9013-D5CAC95F4635</p>
 </div>
@@ -74415,7 +71649,7 @@ $57$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

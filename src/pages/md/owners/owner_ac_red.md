@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-red"
 title: "Owner - Chiliveru Aravind - Red"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -273,7 +273,7 @@ Susan is making a necklace of beads, using red and yellow beads in the ratio 2 :
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -778,7 +778,7 @@ $\pounds 72.25$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

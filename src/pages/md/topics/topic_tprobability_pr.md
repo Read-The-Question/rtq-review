@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-pr"
 title: "Topic - Probability - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,6 +13,9 @@ date: 2022-05-27 04:53:12
 <ul>
 <li>
 tprobability
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -63,6 +66,9 @@ tcoin
 <li>
 tprobability
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -107,6 +113,9 @@ $\text {likely}$
 <li>
 tprobability
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -147,6 +156,9 @@ $\text {Certain}$
 <li>
 tprobability
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -186,6 +198,9 @@ $\text {unlikely}$
 <ul>
 <li>
 tprobability
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -469,7 +484,7 @@ and one ball is chosen at random.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -535,59 +550,6 @@ $\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>7B83BD4F-38FE-4088-BDD0-C94A2203662F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a car park there are $48$ cars. $\dfrac{3}{8}$ of the cars are blue and $25\%$ of the cars are red. How many cars are neither blue nor red?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Cars neither blue nor red)}             &= \text{Total cars - Blue cars - Red cars}  \\\\
-                                              &= 48 - \dfrac {3} {8} \times 48 - 25\% \times 48 \\\\
-                                              &= 48 - \dfrac {3 \times 48} {8} - \dfrac {25 \times 48} {100} \\\\
-                                              &= 48 - \dfrac {3 \times 6 \times 8} {8} -  \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
-                                              &= 48 - \dfrac {3 \times 6 \times \cancel{8}} {\cancel{8}}  -\dfrac {\cancel{25} \times \cancel{4} \times 12} {\cancel{25} \times \cancel{4}} \\\\
-                                              &= 48 - 3 \times 6 - 12 \\\\
-                                              &= 48 - 18 - 12 \\\\
-                                              &= 18
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -684,7 +646,7 @@ She has one $50 \ \text{pence}$ coin, two $20 \ \text{pence}$ coins, one $5 \ \t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -784,7 +746,7 @@ On the scale below, mark:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -1082,7 +1044,7 @@ There are $40$ coloured counters in a box. Half of them are red, one-fifth are y
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

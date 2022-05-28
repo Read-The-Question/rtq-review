@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-all"
 title: "Topic - Volume - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -38,7 +38,7 @@ tvolume
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -445,7 +445,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -566,7 +566,7 @@ The diagram above is not drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -835,7 +835,7 @@ tvolume
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -889,9 +889,7 @@ Find the volume of this shape.
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
-
-The shape can be divided into two shapes, a cube and a cuboid.
+As per the diagram, we can divide the shape into a cube and a cuboid.
 
 $
 \begin {aligned}
@@ -956,7 +954,7 @@ tvolume
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1074,7 +1072,7 @@ Jelly beans are sold in boxes which are cuboids measuring $10\ \text{cm}$ by $3\
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1206,7 +1204,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1648,7 +1646,7 @@ $150, 200\text{cm}^3$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1918,7 +1916,7 @@ $125 \ \text{cm} ^ 3$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2034,7 +2032,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2110,7 +2108,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2237,7 +2235,7 @@ The total volume of the solid is $56\,cm^3$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2481,7 +2479,7 @@ $31.33 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>51170D23-A840-4FED-BD59-6DC695B27849</p>
 </div>
@@ -2509,12 +2507,12 @@ Volume = length $\times$ width $\times$ height
 
 $
 \begin{aligned}
-\text{Maximum number of blocks}         &= \dfrac{\text{Volume of case}}{\text{Volume of brick}} \\\\
-                                        &= \dfrac{200 \times 180 \times 120}{30 \times 20 \times 15} \\\\
-                                        &= \dfrac{20 \times 2 \times 5 \times 30 \times 3 \times 3 \times 120}{30 \times 20 \times 5 \times 3} \\\\
-                                        &= \dfrac{\cancel{20} \times 2 \times \cancel{5} \times \cancel{30} \times \cancel{3} \times 3 \times 120}{\cancel{30} \times \cancel{20} \times \cancel{5} \times \cancel{3}} \\\\
-                                        &= 2 \times 2 \times 120 \\\\
-\text{Maximum number of blocks which can be fitted into the packing case}         &= 480
+\text{Maximum number of blocks}                                                    &= \dfrac {\text{Volume of case}} {\text{Volume of brick}} \\\\
+                                                                                   &= \dfrac {200 \times 180 \times 120} {30 \times 20 \times 15} \\\\
+                                                                                   &= \dfrac {20 \times 2 \times 5 \times 30 \times 3 \times 3 \times 120} {30 \times 20 \times 5 \times 3} \\\\
+                                                                                   &= \dfrac {\cancel{20} \times 2 \times \cancel{5} \times \cancel{30} \times \cancel{3} \times 3 \times 120} {\cancel{30} \times \cancel{20} \times \cancel{5} \times \cancel{3}} \\\\
+                                                                                   &= 2 \times 2 \times 120 \\\\
+\text {Maximum number of blocks which can be fitted into the packing case}         &= 480
 \end{aligned}
 $
 
@@ -2532,7 +2530,7 @@ $480$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -2625,7 +2623,7 @@ tvolume
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2762,7 +2760,7 @@ a width of $2 \ \text{cm}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2904,7 +2902,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3170,7 +3168,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3388,7 +3386,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3426,7 +3424,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -3740,7 +3738,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3854,7 +3852,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4016,7 +4014,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4177,7 +4175,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4416,7 +4414,7 @@ l                       &= 24 \ \text{cm}
 \end{aligned}
 $
 
-Length of the second cuboid (in $\text{cm}$) $= 24 \ \text{cm}$
+Length of the second cuboid $= 24 \ \text{cm}$
 
 </div>
 </div>
@@ -4479,7 +4477,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4917,7 +4915,7 @@ A model tower block is made from centimetre cubes as shown below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5041,7 +5039,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

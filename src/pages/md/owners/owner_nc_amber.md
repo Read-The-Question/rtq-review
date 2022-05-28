@@ -1,76 +1,9 @@
 ---
 slug: "owners/owner-nc-amber"
 title: "Owner - Neel Chalke - Amber"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_nc_amber question'>
-<div class='uuid'>
-<p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $148 + 476$?
-
-A: $514$
-
-B: $524$
-
-C: $614$
-
-D: $624$
-
-E: $634$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-        & 1  & 4 & 8 \\
-    {}+ & 4  & 7 & 6 \\
-    \hline
-        & 6 & 2 & 4
-\end{array}
-$
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-624
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nc_amber</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_nc_amber question'>
 <div class='uuid'>
@@ -148,7 +81,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -550,76 +483,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_nc_amber question'>
 <div class='uuid'>
-<p>9AA2E90D-7CEB-4445-8395-AC73877C9536</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-taddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $80\%$ of $\pounds535$
-
-A: $\pounds107$
-
-B: $\pounds372$
-
-C: $\pounds400$
-
-D: $\pounds418$
-
-E: $\pounds428$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= \dfrac {80} {100} \times 535 \\\\
-&= \dfrac {80 \times 535} {100} \\\\
-&= \dfrac {42,800} {100} \\\\
-&= 428
-\end {aligned}
-$
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-428 pounds
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nc_amber</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nc_amber question'>
-<div class='uuid'>
 <p>07C9B12E-3E52-4065-B971-8A932EE40907</p>
 </div>
 <div class='topics'>
@@ -658,7 +521,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

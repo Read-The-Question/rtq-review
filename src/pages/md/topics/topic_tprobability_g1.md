@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-g1"
 title: "Topic - Probability - G1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -236,7 +236,7 @@ A box contains $2$ blue pencils, $3$ green pencils and $4$ red pencils. If I pic
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -316,6 +316,59 @@ $\dfrac {5} {9}$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>7B83BD4F-38FE-4088-BDD0-C94A2203662F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a car park there are $48$ cars. $\dfrac{3}{8}$ of the cars are blue and $25\%$ of the cars are red. How many cars are neither blue nor red?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Cars neither blue nor red}              &= \text{Total cars - Blue cars - Red cars}  \\\\
+                                              &= 48 - \dfrac {3} {8} \times 48 - 25\% \times 48 \\\\
+                                              &= 48 - \dfrac {3 \times 48} {8} - \dfrac {25 \times 48} {100} \\\\
+                                              &= 48 - \dfrac {3 \times 6 \times 8} {8} -  \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
+                                              &= 48 - \dfrac {3 \times 6 \times \cancel{8}} {\cancel{8}}  -\dfrac {\cancel{25} \times \cancel{4} \times 12} {\cancel{25} \times \cancel{4}} \\\\
+                                              &= 48 - 3 \times 6 - 12 \\\\
+                                              &= 48 - 18 - 12 \\\\
+                                              &= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -468,7 +521,7 @@ A box contains $7$ red smarties, $4$ blue smarties, $5$ orange smarties and $2$ 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

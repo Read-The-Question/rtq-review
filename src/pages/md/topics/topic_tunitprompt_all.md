@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-all"
 title: "Topic - Unitprompt - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -35,7 +35,7 @@ Bob is very proud of his new car. It is $370 \ \text{cm}$ long.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -287,7 +287,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -403,7 +403,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -747,7 +747,7 @@ He can fit exactly $6$ tiles along the shorter edge of the worktop and $15$ alon
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -942,7 +942,7 @@ tunitprompt
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1028,7 +1028,7 @@ A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in *kg*.
 $
 \begin{aligned}
 &= 1029 \ \text {g} \\\\
-&= \dfrac {1029} {100} \ \text {kg} \\\\
+&= \dfrac {1029} {1000} \ \text {kg} \\\\
 &= 1.029 \ \text {kg}
 \end{aligned}
 $
@@ -1442,7 +1442,7 @@ and she worked out that if she bought $8$ lollipops she would end up with $30 \t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1577,7 +1577,7 @@ The hole in the middle has an area of $400 \ \text{cm}^2$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2094,7 +2094,7 @@ Find:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2221,7 +2221,7 @@ She pays for her apples with a $\pounds 5$ note.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2465,7 +2465,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2692,7 +2692,7 @@ tunitprompt
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2809,7 +2809,7 @@ I live $0.6$ miles from Goodison Park football stadium. There are $1760$ yards i
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3067,7 +3067,7 @@ following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3275,7 +3275,7 @@ Five miles is the same distance as eight kilometres. Use this fact to convert:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3452,7 +3452,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3582,7 +3582,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3730,7 +3730,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -4545,7 +4545,7 @@ Use this information to write:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4846,7 +4846,7 @@ $\pounds 51.9$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tunitprompt
@@ -4867,10 +4867,11 @@ It is really important to use the right units in calculations and convert where 
 
 $
 \begin{aligned}
-&= 2.7 \ \text{metres} - 30 \ \text{cm} \\\\
-&= 2.7 \ \text{metres} - 0.3 \ \text{metres} \\\\
+&= 2.7 \text{m} - 30 \ \text{cm} \\\\
+&= \dfrac{30}{100} \text{m} \\\\
+&= 2.7 \text{m} - 0.3 \text{m} \\\\
 &= 2.7  - 0.3  \\\\
-&= 2.4  \ \text{metres}
+&= 2.4 \text{m}
 \end{aligned}
 $
 
@@ -4879,7 +4880,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2.4  \ \text{metres}$
+$2.4 \text{m}$
 
 </div>
 </div>
@@ -4972,7 +4973,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5075,7 +5076,7 @@ Write down the mass:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5463,7 +5464,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5869,12 +5870,14 @@ As per the question,
 
 $
 \begin {aligned}
-85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w     &= 5 \ \text {metre} \\\\
-85 \ \text {cm} +  250 \ \text {cm} + 65 \ \text {cm} + w         &= 500 \ \text {cm} \\\\
-85  + 250  + 65 + w                                               &= 500  \\\\
-400 + w                                                           &= 500 \\\\
-w                                                                 &= 500 - 400 \\\\
-w                                                                 &= 100 \ \text {cm}
+85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w                                               &= 5 \ \text {metre} \\\\
+85 \ \text {cm} +  2.5 \times 100 \ \text {cm} + \dfrac {650} {10} \ \text {cm} + w                         &= 5 \times 100 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + \dfrac {65 \cancel {0}} {1 \cancel {0}} \ \text {cm} + w              &= 500 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + 65 \ \text {cm} + w                                                   &= 500 \ \text {cm} \\\\
+85  + 250  + 65 + w                                                                                         &= 500  \\\\
+400 + w                                                                                                     &= 500 \\\\
+w                                                                                                           &= 500 - 400 \\\\
+w                                                                                                           &= 100 \ \text {cm}
 \end {aligned}
 $
 
@@ -6413,8 +6416,8 @@ As per the question,
 $
 \begin{aligned}
 &= 1.4 \ \text{m} + 33 \ \text{cm} + 580 \ \text{mm} \\\\
+&= 1.4 \times 100 \ \text {cm} + 33 \ \text{cm} + \dfrac {580} {10} \ \text{cm} \\\\
 &= 140 \ \text{cm} + 33 \ \text{cm} + 58 \ \text{cm} \\\\
-&= 140 + 33  + 58  \\\\
 &= 231 \ \text{cm}
 \end {aligned}
 $

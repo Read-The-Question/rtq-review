@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2010-sample-paper-2"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2010 - Sample Paper 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -35,10 +35,10 @@ Add: $24 + 91$
 
 $
 \begin{array}{cccccccccccccc}
-    & 2 & 4 \\
-{}+ & 9 & 1 \\
+    &   2   &   4 \\
+{}+ &   9   &   1 \\
 \hline
-  1 & 1 & 5
+  1 &   1   &   5
 \end{array}
 $
 
@@ -68,7 +68,7 @@ $115$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -82,10 +82,10 @@ Subtract: $72 - 38$
 
 $
 \begin{array}{cccccccccccccc}
-    & 7 & 2 \\
-{}- & 3 & 8 \\
+    &   7   &   2 \\
+{}- &   3   &   8 \\
 \hline
-    & 3 & 4
+    &   3   &   4
 \end{array}
 $
 
@@ -116,7 +116,7 @@ $34$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -130,10 +130,10 @@ Multiply: $43 \times 6$
 
 $
 \begin{array}{cccccccccccccc}
-       & 4 & 3 \\
-\times &   & 6 \\
+       &    4   &   3 \\
+\times &        &   6 \\
 \hline
-2      & 5 & 8
+2      &    5   &   8
 \end{array}
 $
 
@@ -212,7 +212,7 @@ $38$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -330,7 +330,7 @@ was completed which is $1472 \ \text{feet}$ tall.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -556,7 +556,7 @@ $45670$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -776,7 +776,7 @@ $\dfrac {9} {25}$
 tnumber
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 torder
@@ -847,7 +847,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time taken}           &= 11:34 - 09:42 \\\\
+\text{Time taken}           &= 11 {:} 34 - 09 {:} 42 \\\\
                             &= 1 \ \text {hour} \ 52 \ \text {minutes} \\\\
                             &= 1 \times 60 \ \text {minutes} \ 52 \ \text {minutes} \\\\
                             &= 60 + 52 \\\\
@@ -911,7 +911,7 @@ $9{:}30 \ \text{pm}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1471,7 +1471,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1682,7 +1682,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2116,7 +2116,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2435,7 +2435,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2670,7 +2670,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2901,7 +2901,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

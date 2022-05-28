@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-g1"
 title: "Topic - Geometry - G1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -190,6 +190,99 @@ $16$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>FA3111F3-33F1-4247-9DB3-34AB4A300F6F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tgeometry
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A room measures $8 \ \text{m}$ by $20 \ \text{m}$.
+Isabelle wants to tile the floor with square tiles.
+
+What is the length of the largest tile she can use so that all the floor will be covered?
+
+-  $2 \ \text{m}$
+-  $3 \ \text{m}$
+-  $4 \ \text{m}$
+-  $5 \ \text{m}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+Length $= 8 \ \text{m}$
+
+Width  $= 20 \ \text{m}$
+
+
+To use complete tiles, without cutting, the size of the square tile must divide both the length and width of the room. 
+
+Let's find the highest common factor of $8$ and $20$.
+
+Factors of $8 = 1, 2, \bold 4, 8$
+
+Factors of $20 = 1, 2, \bold 4, 5, 20$
+
+The highest common factor of $8$ and $20=4$.
+
+So, the length of the largest square Isabelle can use so that all the floor will be covered $= 4 \ \text{m}$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+As per the question,
+
+LCM of 8 and 20 $= 40$
+
+$
+\begin{aligned}
+\text{Area of room}                                   &= \text{Length} \times \text{Width} \\\\
+                                                      &= 8 \ \text{m} \times 20 \ \text{m}\\\\
+                                                      &= 160 \ \text{m}^2
+\text{Largest square tile that can be used}           &= \dfrac {160} {40} \\\\
+                                                      &= 4 \ \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$4 \ \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>A4235F04-280E-476A-BD32-2553DE1134CA</p>
 </div>
 <div class='topics'>
@@ -219,7 +312,9 @@ What is the perimeter of the shape?
 <div class='workings'>
 <div class='working'>
 
-We know, perimeter of a rectangle is $2(\text{Length} + \text{Width})$
+We know,
+
+Perimeter of a rectangle is $2(\text{length} + \text{width})$
 
 As per the diagram,
 
@@ -286,20 +381,20 @@ In this diagram what is the value of $x$?
 
 As we know, 
 
-The sum of angles of a triangle is $= 180 \degree$
+The sum of angles of a triangle is is $180 \degree$.
 
-Angles on straight line add up to $= 180 \degree$.
+Angles on straight line add up to is $180 \degree$.
 
-The circular measures an angle of $= 360 \degree$.
+The circular measure an angle of is $360 \degree$.
 
 As per the diagram,
 
 $
 \begin{aligned}
-x + ( 180 - 100 ) + ( 360 - 324 )              &= 180 \\\\
-x + 80 + 36                                    &= 180 \\\\
-x                                              &= 180 - 80 - 36 \\\\
-x                                              &= 64 \degree
+x \degree + (180 \degree - 100 \degree) + (360 \degree - 324 \degree)              &= 180 \degree \\\\
+x + 80 + 36                                                                        &= 180 \\\\
+x                                                                                  &= 180 - 80 - 36 \\\\
+x                                                                                  &= 64 \degree
 \end{aligned}
 $
 
@@ -548,7 +643,7 @@ Write down the names of the following shapes:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -676,7 +771,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -730,7 +825,7 @@ Showing your working, calculate the size of the angle:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -860,7 +955,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1106,7 +1201,7 @@ Name the shapes below
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1208,7 +1303,7 @@ The diagram shows an equilateral triangle.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ac-all"
 title: "Reviewer - Chiliveru Aravind - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -140,7 +140,7 @@ $\pounds 1.33$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tdate
@@ -358,7 +358,7 @@ tvolume
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -491,7 +491,7 @@ Here is a recipe to make $6$ pancakes.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -644,7 +644,7 @@ A clock shows $14{:}27$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -831,7 +831,7 @@ eg $5 * 4$ means $5^{2}+ (3 \times 4) = 25 + 12 = 37$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1152,7 +1152,7 @@ $5, \quad 8, \quad 9, \quad 11, \quad 12, \quad 13, \quad 17, \quad 18, \quad 20
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1327,7 +1327,7 @@ $28$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tdecimal

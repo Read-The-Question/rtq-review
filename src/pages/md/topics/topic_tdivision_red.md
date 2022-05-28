@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-red"
 title: "Topic - Division - Red"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -80,7 +80,7 @@ Work out these divisions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -758,6 +758,55 @@ $23$
 </div>
 <div class='rag'>
 <p>rag_ad_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_red question'>
+<div class='uuid'>
+<p>A5886C63-792D-42D7-825B-AAD388FD247F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $525 \div 25$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 525 \div 25 \\\\
+&= \dfrac {525} {25} \\\\
+&= \dfrac {5 \times 105} {5 \times 5} \\\\
+&= \dfrac {5 \times 5 \times 21} {5 \times 5} \\\\
+&= \dfrac {\cancel{5} \times \cancel{5} \times 21} {\cancel{5} \times \cancel{5}} \\\\
+&= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_red</p>
 </div>
 </div>
 </li>

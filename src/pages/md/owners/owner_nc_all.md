@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nc-all"
 title: "Owner - Neel Chalke - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,7 +57,7 @@ $6.610995$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -107,7 +107,7 @@ $8352$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -183,7 +183,7 @@ Work out the answer to each of these arithmetic problems:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -419,7 +419,7 @@ Work out these divisions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -559,7 +559,7 @@ $128$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -687,7 +687,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -837,7 +837,7 @@ If $x$ is a number, then $3x$ means "three times $x$"
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -958,7 +958,7 @@ $27$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1656,7 +1656,7 @@ Work out the value of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1836,7 +1836,7 @@ Solve each equation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1988,7 +1988,7 @@ Find the value of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2171,7 +2171,7 @@ Work out
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2338,7 +2338,7 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -2388,7 +2388,7 @@ $18738$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -2442,7 +2442,7 @@ $57821$
 tdecimal
 </li>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -2493,7 +2493,7 @@ $17.01$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -2548,7 +2548,7 @@ $9600$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -2624,7 +2624,7 @@ Complete the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2847,7 +2847,7 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -2894,7 +2894,7 @@ $847$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -2941,7 +2941,7 @@ $352$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -2988,7 +2988,7 @@ $247$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -3035,7 +3035,7 @@ $1725$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -3174,7 +3174,7 @@ $53$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -3224,7 +3224,10 @@ $3074$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
+</li>
+<li>
+tdecimal
 </li>
 </ul>
 </div>
@@ -3271,7 +3274,7 @@ $11.021$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tdecimal
@@ -3597,7 +3600,7 @@ $2.494$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tnumber
 </li>
 </ul>
 </div>
@@ -3650,7 +3653,7 @@ $120$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -3700,7 +3703,7 @@ $111$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -3952,7 +3955,7 @@ Solve each of these equations below to find the value of $x$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4198,7 +4201,7 @@ Solve the following two step , below, to find the value of $x$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4394,7 +4397,7 @@ Calculate the following, using the most appropriate unit for your answers.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4613,7 +4616,7 @@ empty
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4877,73 +4880,6 @@ $\text {A coin toss has a probabiltiy of 1/2, because there is equal chance of t
 <li>
 <div class='question_envelope rag_nc_amber question'>
 <div class='uuid'>
-<p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $148 + 476$?
-
-A: $514$
-
-B: $524$
-
-C: $614$
-
-D: $624$
-
-E: $634$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-        & 1  & 4 & 8 \\
-    {}+ & 4  & 7 & 6 \\
-    \hline
-        & 6 & 2 & 4
-\end{array}
-$
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-624
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nc_amber</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nc_amber question'>
-<div class='uuid'>
 <p>767A83AB-D696-47B5-958B-CB9F94B0FA06</p>
 </div>
 <div class='topics'>
@@ -5018,7 +4954,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -5420,76 +5356,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_nc_amber question'>
 <div class='uuid'>
-<p>9AA2E90D-7CEB-4445-8395-AC73877C9536</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-taddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $80\%$ of $\pounds535$
-
-A: $\pounds107$
-
-B: $\pounds372$
-
-C: $\pounds400$
-
-D: $\pounds418$
-
-E: $\pounds428$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= \dfrac {80} {100} \times 535 \\\\
-&= \dfrac {80 \times 535} {100} \\\\
-&= \dfrac {42,800} {100} \\\\
-&= 428
-\end {aligned}
-$
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-428 pounds
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nc_amber</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nc_amber question'>
-<div class='uuid'>
 <p>07C9B12E-3E52-4065-B971-8A932EE40907</p>
 </div>
 <div class='topics'>
@@ -5528,7 +5394,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

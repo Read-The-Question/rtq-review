@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-pr"
 title: "Topic - Algebra - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -207,7 +207,7 @@ Given that $a = 5, b = 2$ and $c = 10$ find:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -353,7 +353,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -840,6 +840,131 @@ Banana $= 50 \ \text{pence}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>5956440A-E503-4587-BFE7-D009144AE8EE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mr Bevestock has a square garden which is $81 \ \text{m}^2$.
+
+He decides to put a post every $1 \ \text{m}$ around the perimeter of his garden from which to hang decorations.
+
+How many posts will he need?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's the side of the square garden (in $\text{m}$) $= s$
+
+$\text{Area of square} = \text{side} \times \text{side}$
+
+As per the question,
+
+$
+\begin{aligned}
+s \times s      &= 81 \\\\
+s^2             &= 81 \\\\
+s               &= \sqrt{81} \\\\
+s               &= 9  \ \text{m}
+\end{aligned}
+$
+
+** INFER_DESCRIPTION_STARTS The $4$ corners will be counted twice, so ensure we account for that in the final calculation INFER_DESCRIPTION_ENDS **
+
+*Note: The $4$ corners will be counted twice, so ensure we account for that in the final calculation.*
+
+$
+\begin{aligned}
+\text{Tree height after second year}    &= 4 \times 9 - 4 \\\\
+                                        &= 36 - 4 \\\\
+                                        &= 32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much will $46$ lollipops cost if they cost $\pounds 1.25$ each?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios. 
+
+$
+\begin{aligned}
+1  \text{ lollipop}                 &: \pounds 1.25 \\\\
+1 \times 46  \text{ lollipops}         &: \pounds 1.25 \times 46 \\\\
+46  \text{ lollipops}                 &: \pounds 57.50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 57.50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>756BF331-A51F-4A21-87F9-88110C57C73D</p>
@@ -1036,7 +1161,7 @@ $y = 2x + 10$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1431,7 +1556,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1605,7 +1730,7 @@ If $u = 2$, $v = -5$ and $w = -3$, find the value of:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2130,7 +2255,7 @@ In this formula $a$ stands for the number of adults and $k$ stands for the numbe
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2208,11 +2333,6 @@ Children $= 3$
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
 <div class='answer'>
 
 %empty%
@@ -2418,17 +2538,11 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {1} {5} \times a             &= 6 \\\\ 
-a                                   &= 6 \times 5 \\\\
-a                                   &= 30
-\end{aligned}
-$
-
-$
-\begin{aligned}
 \text {One half of the number}      &= \dfrac {1} {2} \times a \\\\
                                     &= \dfrac {1} {2} \times 30 \\\\
-                                    &= \dfrac {1 \times 15 \times \cancel {2}} {\cancel {2}} \\\\
+                                    &= \dfrac {30} {2} \\\\
+                                    &= \dfrac {15 \times 2} {2} \\\\
+                                    &= \dfrac {15 \times \cancel {2}} {\cancel {2}} \\\\
                                     &= 15
 \end{aligned}
 $
@@ -2483,11 +2597,11 @@ c       &= 6 + 10 t \\\\
 10t     &= 50 - 6 \\\\
 10t     &= 44 \\\\
 t       &= \dfrac {44} {10} \\\\
-t       &= 4.4
+t       &= 4 \text { remainder } 4
 \end{aligned}
 $
 
-$4$ tickets can be bought with $\pounds 50$.
+Max $4$ tickets can be bought with $\pounds 50$.
 
 </div>
 </div>
@@ -2616,7 +2730,7 @@ The following questions are about a butcher's shop.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2946,9 +3060,13 @@ Bill is twice as old as his son, who is $50$ years younger than Bill’s father.
 <div class='workings'>
 <div class='working'>
 
-Let Bill’s father age $= a$.
+Let Bill’s father age $= a$
 
 As per the question,
+
+Bill’s son age $= a - 50$
+
+Bill’s age $= 2 \times (a - 50)$
 
 $
 \begin {aligned}
@@ -3019,7 +3137,7 @@ Form an equation for each of the following problems and then solve the equation 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3147,7 +3265,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion number'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3379,7 +3497,7 @@ A school are collecting tokens for ‘free books’. Sarah brings $28$ tokens to
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3544,7 +3662,7 @@ $\boxed{3k}$     $\boxed{(4k+2)}$      $\boxed{k^2}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3699,7 +3817,7 @@ Solve these equations.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3903,7 +4021,7 @@ Similarly $4 \ \Psi\  7 = 35$ because $4 + 1 = 5$, then $5 \times 7 = 35$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4266,7 +4384,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4547,7 +4665,7 @@ If $a = 9, b = -2$ and $c = -7$, find the value of the following expressions
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4742,7 +4860,7 @@ For the questions below, form an equation from the given information and solve i
 </div>
 </div>
 
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4963,7 +5081,7 @@ For the questions below, form an equation from the given information and solve i
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5187,7 +5305,7 @@ Solve the following equations, leaving your answers as improper fractions where 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5518,7 +5636,7 @@ Solve the following equations:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5705,7 +5823,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5913,7 +6031,7 @@ $8, 3, 10, 3$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6276,7 +6394,7 @@ $39$ members of Alwick Youth Club went on an outing to a leisure centre. They we
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6443,7 +6561,7 @@ The cost of a calculator is $\pounds 6.79$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6635,7 +6753,7 @@ The cost of one original glazed doughnut is $\pounds 1.45$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6753,7 +6871,7 @@ Every month John, Peter and Helen received a sum of money which was divided so t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7002,7 +7120,7 @@ $
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7308,70 +7426,6 @@ $48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>FEAB2ACE-3E49-46F1-A250-9631A7EA7469</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sholto has 40 helium balloons. Some of the balloons are red, some are blue and some are green. There are three times as many green balloons as there are red balloons and there are twice as many blue balloons as there are green balloons. 
-
-How many balloons are blue? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of red balloons $= a$
-
-$
-\begin{aligned}
-\text{Blue} + text{Green} + \text{Red}                                      &= \text{Total balloons} \\\\
-6a + 3a + a                                                                 &= 40 \\\\
-10a                                                                         &= 40 \\\\
-a                                                                           &= \dfrac {40} {10} \\\\
-a                                                                           &= \dfrac {4 \cancel{0}} {1 \cancel{0}} \\\\
-a                                                                           &= 4
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of red balloons}                        &= 4 \\\\
-\text{Number of blue balloons}                       &= 6 \times a \\\\
-                                                     &= 6 \times 4 \\\\
-                                                    &= 24
-\end{aligned}
-$
-
-The number of blue balloons are $= 24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24 \ \text{Balloons}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>FC4F6CFA-9375-4C0E-8FA7-3428B8E1BD56</p>
@@ -7620,7 +7674,7 @@ Solve the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7749,7 +7803,7 @@ Solve the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7872,7 +7926,7 @@ Solve the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7991,7 +8045,7 @@ $20 \ \text{minutes}$ extra. Find how long you should cook a joint weighing:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8120,7 +8174,7 @@ I use $5$ eggs for each cake.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8345,7 +8399,7 @@ $36 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B51C61A9-BBFD-4FCA-9F5F-BB543CC361E8</p>
 </div>
@@ -8378,16 +8432,16 @@ $
 2a + 2  &= 14 \\\\
 2a      &= 14 - 2 \\\\
 2a      &= 12 \\\\
-a       &= \dfrac{12}{2} \\\\
-a       &= \dfrac{6 \times 2}{2} \\\\
-a       &= \dfrac{6 \times \cancel{2}}{\cancel{2}} \\\\
+a       &= \dfrac {12} {2} \\\\
+a       &= \dfrac {6 \times 2} {2} \\\\
+a       &= \dfrac {6 \times \cancel{2}} {\cancel{2}} \\\\
 a       &= 6
 \end{aligned}
 $
 
 No. of biscuits Juilia has $= 6$
 
-No. of biscuits Alysha has 
+No. of biscuits Alysha has
 
 $
 \begin{aligned}
@@ -8411,12 +8465,12 @@ Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>7B74D5EE-ABDD-4862-9E72-635714D53045</p>
 </div>
@@ -8446,9 +8500,9 @@ As per the question,
 $
 \begin{aligned}
 (a + 3) \times 5    &= 35 \\\\
-a + 3               &= \dfrac{35}{5} \\\\
-a + 3               &= \dfrac{7 \times 5}{5} \\\\
-a + 3               &= \dfrac{7 \times \cancel{5}}{\cancel{5}} \\\\
+a + 3               &= \dfrac {35} {5} \\\\
+a + 3               &= \dfrac {7 \times 5} {5} \\\\
+a + 3               &= \dfrac {7 \times \cancel{5}} {\cancel{5}} \\\\
 a + 3               &= 7 \\\\
 a                   &= 7 - 3 \\\\
 a                   &= 4
@@ -8471,12 +8525,12 @@ $4$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>786ECD30-5585-4FE5-91C7-28D8FFC8B3AE</p>
 </div>
@@ -8514,9 +8568,9 @@ $
 a + 2a + 3a         &= 24 \\\\
 6a                  &= 24 \\\\
 3 \times 2a         &= 24 \\\\
-2a                  &= \dfrac{8 \times 3}{3} \\\\
-2a                   &= \dfrac{8 \times \cancel{3}}{\cancel{3}} \\\\
-2a                   &= 8
+2a                  &= \dfrac {8 \times 3} {3} \\\\
+2a                  &= \dfrac {8 \times \cancel{3}} {\cancel{3}} \\\\
+2a                  &= 8
 \end{aligned}
 $
 
@@ -8527,7 +8581,7 @@ Number of oranges used $= 2a = 8$
 <div class='answers'>
 <div class='answer'>
 
-$8 \ \text{oranges}$
+$8 \ \text {oranges}$
 
 </div>
 </div>
@@ -8536,12 +8590,12 @@ $8 \ \text{oranges}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4C42DA9B-C12A-4A7A-B493-F806C22437DB</p>
 </div>
@@ -8569,9 +8623,9 @@ This can be solved using ratios.
 
 $
 \begin{aligned}
-2 \ \text{boys}             &: 3 \ \text{girls} \\\\
-2 \times 21 \ \text{boys}   &: 3 \times 21 \ \text{girls} \\\\
-42 \ \text{boys}            &: 63 \ \text{girls}
+2 \ \text {boys}             &: 3 \ \text {girls} \\\\
+2 \times 21 \ \text {boys}   &: 3 \times 21 \ \text {girls} \\\\
+42 \ \text {boys}            &: 63 \ \text {girls}
 \end{aligned}
 $
 
@@ -8589,12 +8643,12 @@ $63 \ \text{girls}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF</p>
 </div>
@@ -8613,27 +8667,27 @@ I am thinking of a number that when I multiply it by two and divide the result b
 <div class='workings'>
 <div class='working'>
 
-Let the number I think $=a$
+Let the number you thought of $=a$
 
 As per the question,
 
 $
 \begin{aligned}
-\dfrac{\dfrac{2 \times a}{4} \times \dfrac{2 \times a}{4} - 4 } {10}        &= 6 \\\\
-\dfrac{2 \times a}{2 \times 2} \times \dfrac{2 \times a}{2 \times 2} - 4    &= 6 \times 10 \\\\
-\dfrac{\cancel{2} \times a}{\cancel{2} \times 2} \times \dfrac{\cancel{2} \times a}{\cancel{2} \times 2} - 4    &= 60 \\\\
-\dfrac{a}{2} \times \dfrac{a}{2} - 4                                        &= 60 \\\\
-\dfrac{a}{2} \times \dfrac{a}{2}                                            &= 60 + 4 \\\\
-\dfrac{a \times a}{2 \times 2}                                              &= 64 \\\\
-\dfrac{a \times a}{4}                                                       &= 64 \\\\
-a \times a                                                                  &= 64 \times 4 \\\\
-a \times a                                                                  &= 256 \\\\
-a \times a                                                                  &= 16 \times 16 \\\\
-a                                                                           &= 16
+\dfrac {\dfrac {2 \times a} {4} \times \dfrac {2 \times a} {4} - 4 } {10}                                           &= 6 \\\\
+\dfrac {2 \times a} {2 \times 2} \times \dfrac {2 \times a} {2 \times 2} - 4                                        &= 6 \times 10 \\\\
+\dfrac {\cancel{2} \times a} {\cancel{2} \times 2} \times \dfrac {\cancel{2} \times a} {\cancel{2} \times 2} - 4    &= 60 \\\\
+\dfrac {a} {2} \times \dfrac{a}{2} - 4                                                                              &= 60 \\\\
+\dfrac {a} {2} \times \dfrac{a}{2}                                                                                  &= 60 + 4 \\\\
+\dfrac {a \times a} {2 \times 2}                                                                                    &= 64 \\\\
+\dfrac {a \times a} {4}                                                                                             &= 64 \\\\
+a \times a                                                                                                          &= 64 \times 4 \\\\
+a \times a                                                                                                          &= 256 \\\\
+a \times a                                                                                                          &= 16 \times 16 \\\\
+a                                                                                                                   &= 16
 \end{aligned}
 $
 
-The number I think $=16$
+The number you thought of $=16$
 
 </div>
 </div>
@@ -8649,7 +8703,7 @@ $16$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -8689,7 +8743,7 @@ The combined age of Alan and Carl is fifty five and the combined age of Ben and 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8860,7 +8914,7 @@ $\pounds 1.8, \pounds 1.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B09AF32E-2996-4090-B6BE-24F80181CD57</p>
 </div>
@@ -8889,9 +8943,9 @@ a \times 3 + 6      &= a + 16 \\\\
 3a + 6              &= a + 16 \\\\
 3a - a              &= 16 - 6 \\\\
 2a                  &= 10 \\\\
-a                   &= \dfrac{10}{2} \\\\
-a                   &= \dfrac{5 \times 2}{2} \\\\
-a                   &= \dfrac{5 \times \cancel{2}}{\cancel{2}} \\\\
+a                   &= \dfrac {10} {2} \\\\
+a                   &= \dfrac {5 \times 2} {2} \\\\
+a                   &= \dfrac {5 \times \cancel{2}} {\cancel{2}} \\\\
 a                   &= 5
 \end{aligned}
 $
@@ -8912,12 +8966,12 @@ $5$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>CC0F7948-FB93-4B7D-B62E-499490AD2FB6</p>
 </div>
@@ -8947,7 +9001,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8978,7 +9032,7 @@ We can easily infer the values by using trial and error. Let's find out $2$ numb
 
 Factors of $84 = 1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 84$
 
-Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text{and} \ 7, 12$
+Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text {and} \ 7, 12$
 
 | Factors   |  Sum  | Numbers $< 20$    |
 |:-------:  |:----: |:---------------:  |
@@ -9026,9 +9080,9 @@ $
 a \times 9 - 15     &= 66 \\\\
 a \times 9          &= 66 + 15 \\\\
 a \times 9          &= 81 \\\\
-a                   &= \dfrac{81}{9} \\\\
-a                   &= \dfrac{9 \times 9}{9} \\\\
-a                   &= \dfrac{\cancel{9} \times 9}{\cancel{9}} \\\\
+a                   &= \dfrac {81} {9} \\\\
+a                   &= \dfrac {9 \times 9} {9} \\\\
+a                   &= \dfrac {\cancel{9} \times 9} {\cancel{9}} \\\\
 a                   &= 9
 \end{aligned}
 $
@@ -9052,12 +9106,12 @@ $9$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D7A80376-0605-421E-8C3B-6A9A36B38446</p>
 </div>
@@ -9078,10 +9132,10 @@ Sarah won a large jar of sweets in a Christmas raffle. If there are $486$ sweets
 
 $
 \begin{aligned}
-\text{Sweets per person}        &= \dfrac{\text{Total sweets}}{\text{Total people}} \\\\
-                                &= \dfrac{486}{18} \\\\
-                                &= \dfrac{27 \times 18}{18} \\\\
-                                &= \dfrac{27 \times \cancel{18}}{\cancel{18}} \\\\
+\text {Sweets per person}       &= \dfrac {\text{Total sweets}} {\text{Total people}} \\\\
+                                &= \dfrac {486} {18} \\\\
+                                &= \dfrac {27 \times 18} {18} \\\\
+                                &= \dfrac {27 \times \cancel{18}} {\cancel{18}} \\\\
                                 &= 27
 
 \end{aligned}
@@ -9103,7 +9157,7 @@ $27$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -9199,7 +9253,7 @@ eg $5 * 4$ means $5^{2}+ (3 \times 4) = 25 + 12 = 37$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9702,7 +9756,7 @@ $900$
 talgebra
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -10520,6 +10574,75 @@ $3, 12$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>71244B72-5BA2-4E9F-B6E1-473CCA0B319A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If two numbers multiply to give $36$ and their difference is $5$, what are the two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b          &= 36 \\\\
+a - b                 &= 5
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error.
+
+
+Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+| Numbers   |  Multiplication  |  Difference  |
+|:-------:  |:----------------:|:------------:|
+| $36, 1$   | $36$             | $35$         |
+| $18, 2$   | $36$             | $16$         |
+| $12, 3$   | $36$             | $9$          |
+| $9, 4$    | $36$             | $5$          |
+
+
+A quick check shows that $9$ and $4$ meets the criteria above.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>C3254CDA-4FF0-4DD2-B767-58165F53A978</p>
@@ -10571,6 +10694,91 @@ $9$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>86501673-7B9E-47F8-95C0-554BDF31C482</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Give two numbers which add up to make $40$ and have a difference of $10$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first number $= a$
+
+Let the second number $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+a + b      &= 40   \\\\
+a - b     &= 10         
+\end{aligned}
+$
+
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+a + b - (a - b)     &= 40 - 10 \\\\
+a + b -a + b        &= 30 \\\\
+2b                     &= 30 \\\\
+b                   &= \dfrac{30}{2} \\\\
+b                   &= 15
+\end{aligned}
+$
+
+Let's substitute the value of $b$ in one of the initial equations.
+
+$
+\begin{aligned} 
+a + b                          &= 40  \\\\
+a + 15                         &= 40 \\\\
+a                              &= 40 - 15 \\\\
+a                              &= 25
+\end{aligned}
+$
+
+First number $= 25$
+
+Second number $= 15$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25$
+
+</div>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -10908,7 +11116,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11279,7 +11487,7 @@ There are twelve ginger biscuits.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11295,6 +11503,8 @@ How many custard creams are there?
 <div class='working'>
 
 As per the question,
+
+Custard biscuit are a third of other biscuits then chocolate biscuits so they are a third of ginger biscuits. Using that,
 
 $
 \begin{aligned}
@@ -11466,7 +11676,7 @@ Their marks were $13 \quad 18 \quad 14 \quad 20 \quad 7 \quad 18$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11518,7 +11728,7 @@ What was Ashleigh’s mark?
 <div class='workings'>
 <div class='working'>
 
-$14$
+Ashleigh’s marks are $14$ as $7 + 7 = 14$, $7$ more than Bella’s marks, also $20 - 6 = 14$, $6$ less than Connie’s marks.
 
 </div>
 </div>
@@ -12114,14 +12324,14 @@ As per the question,
 
 Count of $20 \text {p}$ coins $= 2c$
 
-It is really important to convert into the right units. 
+It is really important to convert into the right units.
 
 Let's convert the total amount into pence.
 
 $
 \begin{aligned} 
 \text{Total Amount}     &=  \pounds 2 \\\\
-                        &=  2 \times 100 \text{p}\\\\
+                        &=  2 \times 100 \text{p} \\\\
                         &=  200 \text{p}
 \end{aligned}
 $
@@ -12130,12 +12340,12 @@ As per the question,
 
 $
 \begin{aligned} 
-10 \times c + 20 \times 2c      &= 200  \\\\
-10c + 40c                       &= 200  \\\\
-50c                             &= 200  \\\\
-c                               &= \dfrac{200} {50}  \\\\
-c                               &= \dfrac{50 \times 4} {50}  \\\\
-c                               &= \dfrac{\cancel{50} \times 4} {\cancel{50}}  \\\\
+10 \times c + 20 \times 2c      &= 200 \\\\
+10c + 40c                       &= 200 \\\\
+50c                             &= 200 \\\\
+c                               &= \dfrac{200} {50} \\\\
+c                               &= \dfrac{50 \times 4} {50} \\\\
+c                               &= \dfrac{\cancel{50} \times 4} {\cancel{50}} \\\\
 c                               &= 4
 \end{aligned}
 $
@@ -12194,13 +12404,13 @@ As per the question,
 
 $
 \begin{aligned}
-80\% \text{ of } p              &= 60 \\\\ 
-\dfrac {80 } { 100 } \times p   &= 60 \\\\ 
-p                               &= \dfrac {60 \times 100 } { 80 } \\\\ 
-p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\ 
-p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\ 
-p                               &= 3 \times 25 \\\\ 
-p                               &= \pounds 75 
+80\% \text{ of } p              &= 60 \\\\
+\dfrac {80 } { 100 } \times p   &= 60 \\\\
+p                               &= \dfrac {60 \times 100 } { 80 } \\\\
+p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\
+p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\
+p                               &= 3 \times 25 \\\\
+p                               &= \pounds 75
 \end{aligned}
 $
 
@@ -12248,7 +12458,7 @@ As per the question,
 
 $
 \begin{aligned} 
-\text {Number of Pencil + Number of Ruler} &= 52 \\\\      
+\text {Number of Pencil + Number of Ruler} &= 52 \\\\
 r + (r + 8)                                &= 52 \\\\
 2r + 8                                     &= 52 \\\\
 2r                                         &= 52 - 8 \\\\
@@ -12310,7 +12520,7 @@ $\text{Area} = \text{length} \times \text{width}$
 Putting this into an equation, we get,
 
 $
-\begin{aligned}                            
+\begin{aligned}
 l \times 7  &= 28 \times 12 \\\\
 l           &= \dfrac {28 \times 12} { 7} \\\\
 l           &= \dfrac {7 \times 4 \times 12} { 7} \\\\
@@ -12437,7 +12647,7 @@ So $\text{FAB } 3 = 6$ because $3 \times 2 \times 1 = 6$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12486,11 +12696,10 @@ FAB $5 = 120$
 
 $
 \begin{aligned}
-\text {FAB} 6   &= 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
-                &= 720
+\text {FAB} \ 6   &= 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
+                  &= 720
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -12524,7 +12733,7 @@ So, $\text {FAB } 11 \div \text {FAB } 9$ is
 
 $
 \begin{aligned}
-&= \dfrac {11 \times 10 \times (\text {FAB} \ 9)} {\text {FAB} \ 9)} \\\\
+&= \dfrac {11 \times 10 \times (\text {FAB} \ 9)} {\text {FAB} \ 9} \\\\
 &= \dfrac {11 \times 10 \times \cancel {\text {FAB} \ 9}} {\cancel {\text {FAB} \ 9}} \\\\
 &= 11 \times 10 \\\\
 &= 110
@@ -12620,12 +12829,14 @@ As per the question,
 
 $
 \begin {aligned}
-85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w     &= 5 \ \text {metre} \\\\
-85 \ \text {cm} +  250 \ \text {cm} + 65 \ \text {cm} + w         &= 500 \ \text {cm} \\\\
-85  + 250  + 65 + w                                               &= 500  \\\\
-400 + w                                                           &= 500 \\\\
-w                                                                 &= 500 - 400 \\\\
-w                                                                 &= 100 \ \text {cm}
+85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w                                               &= 5 \ \text {metre} \\\\
+85 \ \text {cm} +  2.5 \times 100 \ \text {cm} + \dfrac {650} {10} \ \text {cm} + w                         &= 5 \times 100 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + \dfrac {65 \cancel {0}} {1 \cancel {0}} \ \text {cm} + w              &= 500 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + 65 \ \text {cm} + w                                                   &= 500 \ \text {cm} \\\\
+85  + 250  + 65 + w                                                                                         &= 500  \\\\
+400 + w                                                                                                     &= 500 \\\\
+w                                                                                                           &= 500 - 400 \\\\
+w                                                                                                           &= 100 \ \text {cm}
 \end {aligned}
 $
 
@@ -12692,7 +12903,7 @@ l                       &= 24 \ \text{cm}
 \end{aligned}
 $
 
-Length of the second cuboid (in $\text{cm}$) $= 24 \ \text{cm}$
+Length of the second cuboid $= 24 \ \text{cm}$
 
 </div>
 </div>
@@ -13306,12 +13517,13 @@ $
 
 Original number is $= 476$
 
-
 Let's find the actual answer Aidan should have got.
 
 $
 \begin{aligned}
 &= \dfrac {476} {17} \\\\
+&= \dfrac {28 \times 17} {17} \\\\
+&= \dfrac {28 \times \cancel {17}} {\cancel {17}} \\\\
 &= 28
 \end{aligned}
 $
@@ -13361,39 +13573,39 @@ Work out the area of the rectangle in $\text{square centimetres}$ $(\text{cm}^2)
 <div class='workings'>
 <div class='working'>
 
-Let the width of the rectangle (in $\text{cm}$) $= w$
+Let the width of the rectangle (in $\text {cm}$) $= w$
 
 Then as per the question, length of the rectangle $= 3w$
 
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+$\text {Perimeter} = 2 \times (\text {length} + \text {width})$
 
 Equating the perimeter to length and width we get,
 
 $
-\begin{aligned}
+\begin {aligned}
 2 \times (3w + w)   &= 160 \\\\
 2 \times 4w         &= 160 \\\\
 8w                  &= 160 \\\\
-w                   &= \dfrac{160}{8} \\\\
-w                   &= 20 \ \text{cm}
-\end{aligned}
+w                   &= \dfrac {160} {8} \\\\
+w                   &= 20 \ \text {cm}
+\end {aligned}
 $
 
 $
-\begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-\text{Length}       &= 3w \\\\
-                    &= 3 \times 20 \\\\
-                    &= 60 \ \text{cm}
-\end{aligned}
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+\text {Length}       &= 3w \\\\
+                     &= 3 \times 20 \\\\
+                     &= 60 \ \text {cm}
+\end {aligned}
 $
 
 $
-\begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-                    &= 60 \times 20 \\\\
-                    &= 1200 \ \text{cm}^{2}
-\end{aligned}
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+                     &= 60 \times 20 \\\\
+                     &= 1200 \ \text {cm}^{2}
+\end {aligned}
 $
 
 </div>
@@ -13401,7 +13613,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1200 \ \text{cm}^2$
+$1200 \ \text {cm}^2$
 
 </div>
 </div>
@@ -13642,7 +13854,7 @@ For example:- if $\text{S} = 3$, $\text{P} = 4$ and $\text{Y} = 6$ then the word
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13838,7 +14050,7 @@ Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13864,7 +14076,7 @@ $
 \end{aligned}
 $
 
-Let the starting fare $= x$
+Let the starting fare $= a$
 
 QMC = $80$ pence
 
@@ -13872,13 +14084,13 @@ Total fare = starting charge + (quarter miles $\times 80p$)
 
 $
 \begin{aligned}
-\pounds 9.60 &= x + (10 \times 80p) \\\\
-\pounds 9.60 &= x + 800p \\\\
-\pounds 9.60 &= x + \pounds \dfrac {800} {100} \\\\
-\pounds 9.60 &= x + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
-9.60 - 8     &= x \\\\
-x            &= 9.60 - 8 \\\\
-x            &= \pounds 1.60
+\pounds 9.60 &= a + (10 \times 80p) \\\\
+\pounds 9.60 &= a + 800p \\\\
+\pounds 9.60 &= a + \pounds \dfrac {800} {100} \\\\
+\pounds 9.60 &= a + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
+9.60 - 8     &= a \\\\
+a            &= 9.60 - 8 \\\\
+a            &= \pounds 1.60
 \end{aligned}
 $
 
@@ -14822,7 +15034,7 @@ $C = 3n +40$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15248,7 +15460,7 @@ Find the values of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15443,7 +15655,7 @@ Solve each of the following equations:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15762,7 +15974,7 @@ $5$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15908,7 +16120,7 @@ $5 * 7 = 32$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15989,7 +16201,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>4E026293-8092-4F84-94CD-07F5A6F4E37D</p>
 </div>
@@ -16019,7 +16231,7 @@ If $𝑎 = 3,\:\:𝑏 = 5\:\: and\:\: 𝑐 = -2$, find the value of;
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16106,7 +16318,7 @@ $\frac{𝑎+𝑏}{c}$
 
 $
 \begin{aligned}
-&= \dfrac {a+b} {c} \\\\
+&= \dfrac {a + b} {c} \\\\
 &= \dfrac {3 + 5} {-2} \\\\
 &= - \dfrac {8} {2} \\\\
 &= - \dfrac {2 \times 4} {2} \\\\
@@ -16183,9 +16395,9 @@ As per the question,
 
 $
 \begin{aligned}
-&= a - \dfrac{b} {c} \\\\
-&= 3 - \dfrac{5} {-2} \\\\
-&= 3 + \dfrac{5} {2} \\\\
+&= a - \dfrac {b} {c} \\\\
+&= 3 - \dfrac {5} {-2} \\\\
+&= 3 + \dfrac {5} {2} \\\\
 &= \dfrac {3 \times 2} {1 \times 2} + \dfrac {5} {2} \\\\
 &= \dfrac {6} {2} + \dfrac {5} {2} \\\\
 &= \dfrac {6 + 5} {2} \\\\
@@ -16199,7 +16411,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{11} {2} \ \text{or} \ 5 \dfrac {1} {2}$
+$\dfrac {11} {2} \ \ \text{or} \ \ 5 \dfrac {1} {2}$
 
 </div>
 </div>
@@ -16211,7 +16423,7 @@ $\dfrac{11} {2} \ \text{or} \ 5 \dfrac {1} {2}$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -16246,7 +16458,7 @@ Simplify
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16447,7 +16659,7 @@ Solve the equations (showing clear working);
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16706,7 +16918,7 @@ $30, 135$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>48C8A320-D1E7-4D75-84D8-799A4AA7A4A2</p>
 </div>
@@ -16736,7 +16948,7 @@ Two numbers are 'curdled' by adding them together and then multiplying the answe
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -16796,10 +17008,11 @@ As per the question,
 $
 \begin{aligned}
 (a + 5) \times (a + 5)      &= 81 \\\\
-(a + 5)^2           &= 9^2 \\\\
-a + 5               &= 9 \\\\
-a                   &= 9 - 5 \\\\
-a                   &= 4
+(a + 5)^2                   &= 81 \\\\
+a + 5                       &= \sqrt {81} \\\\
+a + 5                       &= 9 \\\\
+a                           &= 9 - 5 \\\\
+a                           &= 4
 \end{aligned}
 $
 
@@ -16820,12 +17033,12 @@ $4$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>63ED19B8-7E96-4F52-9B00-D3ED22D0D160</p>
 </div>
@@ -16844,21 +17057,21 @@ I think of a number, add $4$ and then multiply by $3$. The result is $63$. What 
 <div class='workings'>
 <div class='working'>
 
-Let the number I thought = $a$
+Let the number I thought $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-(a + 4) \times 3        &= 63 \\\\
-3a + 4 \times 3         &= 63 \\\\
-3a + 12                 &= 63 \\\\
-3a                      &= 63 - 12 \\\\
-3a                      &= 51 \\\\
-a                       &= \dfrac {51} {3} \\\\
-a                       &= \dfrac {17 \times 3} {3} \\\\
-a                       &= \dfrac {17 \times \cancel {3}} {\cancel {3}} \\\\
-a                       &= 17
+(a + 4) \times 3              &= 63 \\\\
+3 \times a + 4 \times 3       &= 63 \\\\
+3a + 12                       &= 63 \\\\
+3a                            &= 63 - 12 \\\\
+3a                            &= 51 \\\\
+a                             &= \dfrac {51} {3} \\\\
+a                             &= \dfrac {17 \times 3} {3} \\\\
+a                             &= \dfrac {17 \times \cancel {3}} {\cancel {3}} \\\\
+a                             &= 17
 \end{aligned}
 $
 
@@ -16876,7 +17089,7 @@ $17$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -16914,7 +17127,7 @@ A minibus can carry a maximum of $17$ people.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17069,7 +17282,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17224,7 +17437,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -17250,7 +17463,7 @@ Find the values of $x$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -17376,7 +17589,7 @@ The first one is done for you.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

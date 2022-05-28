@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-11-plus-maths-9999-sample-paper-1"
 title: "Kent College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Kent College</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nc_g1 question'>
 <div class='uuid'>
@@ -44,7 +44,7 @@ Find the value of
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -227,7 +227,7 @@ Work out
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -358,9 +358,9 @@ Angela caught a train at $7.30$ in the morning and arrived at Newcastle at $1.42
 
 $
 \begin {aligned}
-\text {Time taken}  &= \text {Time she arrived Newcastle} - \text {Time she caught train} \\\\
-                    &= 1 {:} 42 \ \text {p.m.} - 7 {:} 30 \ \text {a.m.} \\\\
-                    &= 6 \ \text {hours} \ 12 \ \text {minutes}
+\text {Journey duration}  &= \text {Arrival time} - \text {Boarding time} \\\\
+                          &= 1 {:} 42 \ \text {pm} - 7 {:} 30 \ \text {am} \\\\
+                          &= 6 \ \text {hours} \ 12 \ \text {minutes}
 \end {aligned}
 $
 
@@ -413,7 +413,7 @@ tvolume
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -467,9 +467,7 @@ Find the volume of this shape.
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
-
-The shape can be divided into two shapes, a cube and a cuboid.
+As per the diagram, we can divide the shape into a cube and a cuboid.
 
 $
 \begin {aligned}
@@ -542,7 +540,7 @@ Cream Teas $\pounds 2.60$ each
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -674,7 +672,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -818,7 +816,7 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -886,13 +884,13 @@ As per the diagram,
 
 $
 \begin {aligned}
-\text {Percentage of the shape that is shaded}  &= \dfrac {\text {Number of boxes shaded}} {\text {Total number of boxes}} \ \text {of} \  100 \\\\
-                                                &= \dfrac {3} {5} \ \text {of} \ 100 \\\\
-                                                &= \dfrac {3 \times 100} {5} \\\\
-                                                &= \dfrac {3 \times 20 \times 5} {5} \\\\
-                                                &= \dfrac {3 \times 20 \times \cancel {5}} {\cancel {5}} \\\\
-                                                &= 3 \times 20 \\\\
-                                                &= 60 \%
+\text {Percentage shaded}   &= \text {Fraction shaded} \times 100 \% \\\\
+                            &= \dfrac {3} 5 \times 100 \\\\
+                            &= \dfrac {3 \times 100} {5} \\\\
+                            &= \dfrac {3 \times 20 \times 5} {5} \\\\
+                            &= \dfrac {3 \times 20 \times \cancel {5}} {\cancel {5}} \\\\
+                            &= 3 \times 20 \\\\
+                            &= 60 \%
 \end {aligned}
 $
 
@@ -941,7 +939,7 @@ As per the diagram,
 $
 \begin {aligned}
 \text {Perimeter of a rectangle}  &= 2 \times (\text {length} + \text {width}) \\\\
-                                  &= 2 \times (1.8 \text {m} + 4.65 \text {m}) \\\\
+                                  &= 2 \times (4.65 \text {m} + 1.8 \text {m}) \\\\
                                   &= 2 \times 6.45 \\\\
                                   &= 12.90 \text {m}
 \end {aligned}
@@ -996,7 +994,7 @@ Find the missing angles by calculation. The diagrams are not to scale:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1011,16 +1009,19 @@ Find the missing angles by calculation. The diagrams are not to scale:
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
+Let the missing angle $= a$
+
+As per the diagram it is a right angle. The sum of a right angle $= 90 \degree$
 
 $
 \begin {aligned}
-\text {Sum of all the angles}  &= 90 \degree \\\\
 a + 44 \degree                 &= 90 \degree \\\\
 a                              &= 90 \degree - 44 \degree \\\\
 a                              &= 46 \degree
 \end {aligned}
 $
+
+Missing angle $= 46 \degree$
 
 </div>
 </div>
@@ -1048,17 +1049,22 @@ $46 \degree$
 <div class='workings'>
 <div class='working'>
 
+Let the missing angle $= b$
+
+As we know, the sum of angles on a straight line is $180 \degree$ 
+
 As per the diagram,
 
 $
 \begin {aligned}
-\text {Sum of all the angles}  &= 180 \degree \\\\
 b + 48 \degree + 67 \degree    &= 180 \degree \\\\
 b + 115 \degree                &= 180 \degree \\\\
 b                              &= 180 \degree - 115 \degree \\\\
 b                              &= 65 \degree
 \end {aligned}
 $
+
+Missing angle $= 65 \degree$
 
 </div>
 </div>
@@ -1086,14 +1092,15 @@ $65 \degree$
 <div class='workings'>
 <div class='working'>
 
+The sum of a complete angle is $360 \degree$ 
+
 As per the diagram,
 
 $
 \begin {aligned}
-\text {Sum of all angles}     &= 360 \degree \\\\
 d + 140 \degree + 160 \degree &= 360 \degree \\\\
-d + 300 \degree               &= 360 \degree \\\\
-d                             &= 360 \degree - 300 \degree \\\\
+d + 300                       &= 360 \\\\
+d                             &= 360 - 300 \\\\
 d                             &= 60 \degree
 \end {aligned}
 $
@@ -1162,7 +1169,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1283,14 +1290,14 @@ $
 &&  \footnotesize{\maroonC{(+3)}}
 &&  \footnotesize{\maroonC{(+3)}}
 &&  \footnotesize{\maroonC{(+3)}}  \\
-6,  &&   9,  &&   12,  &&   15,  &&   18  &&   \ldots
+6,  &&   9,  &&   12,  &&   15,  &&   \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Fifth number}     &= 15 + 3 \\\\
-                        &= 18
+\text{Fifth term}     &= 15 + 3 \\\\
+                      &= 18
 \end{aligned}
 $
 
@@ -1299,7 +1306,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6, && 9, && 12, && 15, && 18$
+$18$
 
 </div>
 </div>
@@ -1408,7 +1415,7 @@ Write down any of these numbers which are:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1576,7 +1583,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1756,7 +1763,7 @@ There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1779,11 +1786,11 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Fraction of a bar they each have}  &= \dfrac {\text {Number of chocolate bars}} {\text {Number of People}} \\\\
-                                          &= \dfrac {3} {9} \\\\
-                                          &= \dfrac {3} {3 \times 3} \\\\
-                                          &= \dfrac {\cancel {3}} {3 \times \cancel {3}} \\\\
-                                          &= \dfrac {1} {3}
+\text {Fraction per person}  &= \dfrac {\text {Total bars}} {\text {Total people}} \\\\
+                             &= \dfrac {3} {9} \\\\
+                             &= \dfrac {3} {3 \times 3} \\\\
+                             &= \dfrac {\cancel {3}} {3 \times \cancel {3}} \\\\
+                             &= \dfrac {1} {3}
 \end {aligned}
 $
 
@@ -1961,7 +1968,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2230,10 +2237,10 @@ What is the total cost ?
 
 $
 \begin {aligned}
-\text {Total cost}  &= 4 \times \text {Cost of a sausage roll} + 5 \times \text {Cost of a hotdog} + 7 \times \text {Cost of a drink} \\\\
-                    &= 4 \times 24 \ \text {pence} + 5 \times 81 \ \text {pence} + 7 \times 20 \ \text {pence} \\\\
+\text {Total cost}  &= \text {Cost of} \ (4 \times \text {sausage} + 5 \times \text {hotdog} + 7 \times \text {Drinks}) \\\\
+                    &= 4 \times 24 \text {p} + 5 \times 81 \text {p} + 7 \times 20 \text {p} \\\\
                     &= 96 + 405 + 140 \\\\
-                    &= 641 \ \text {pence}
+                    &= 641 \text {p}
 \end {aligned}
 $
 
@@ -2304,7 +2311,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2477,7 +2484,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

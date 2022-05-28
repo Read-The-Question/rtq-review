@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Streatham and Clapham High School</h1>
@@ -14,7 +14,7 @@ date: 2022-05-27 04:53:12
 </div>
 
 # Section A
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
@@ -23,7 +23,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -83,7 +83,7 @@ $2026$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -391,7 +391,7 @@ $136$
 talgebra
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -904,7 +904,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1032,7 +1032,7 @@ tsequence
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1055,6 +1055,10 @@ What are the next two numbers in the sequence?
 <div class='workings'>
 <div class='working'>
 
+ Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is decreasing by $7$. Hence, the sequence would be
+
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(-4)}} 
@@ -1063,16 +1067,16 @@ $
 &&  \footnotesize{\maroonC{(-4)}}   
 &&  \footnotesize{\maroonC{(-4)}}   
 &&  \footnotesize{\maroonC{(-4)}}  \\
-13,  &&    9,  &&  5,  &&   1,  &&   -3 && \ldots && \ldots
+13,  &&    9,  &&  5,  &&   1,  &&   -3, && \ldots, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First number is}   &= -3 + -4 \\\\
-                        &= -7
-\text{Second number is}   &= -7 + -4 \\\\
-                        &= -11                       
+\text{First number }   &= -3 + -4 \\\\
+                        &= -7 \\\\\
+\text{Second number }   &= -7 + -4 \\\\
+                        &= -11                    
 \end{aligned}
 $
 
@@ -1111,24 +1115,18 @@ What is the rule of the above sequence?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+The difference between the terms is decreasing by $4$. Hence, the rule of the above sequence would be:
+$17 - 4n$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>B</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$17 - 4n$
 
 </div>
 </div>
@@ -1376,7 +1374,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1482,7 +1480,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tsequence
+tnumber
 </li>
 </ul>
 </div>
@@ -1500,10 +1498,9 @@ How many prime numbers are there between $20$ and $30$?
 <div class='workings'>
 <div class='working'>
 
-The prime numbers between $20$ and $30$ are $23, 29$
+The prime numbers between 20 and 30 $=23 \  \text {and} 29$
 
-There are total $2$ prime numbers are there between $20$ and $30$
-
+Number of prime numbers between $20$ and $30 = 2$"
 
 </div>
 </div>
@@ -1625,7 +1622,7 @@ This is a plan of a house and its garden:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1766,7 +1763,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2222,7 +2219,7 @@ $\dfrac{9}{10}$
 </ul>
 
 # Section B
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
@@ -2333,9 +2330,8 @@ A + 10 + B &= 30 \\\\
 \text{the value of B} &= 6 \\\\
 A + 10 + B &= 30 \\\\
 A + 10 + 6 &= 30 \\\\
-A + 16 &= 30 \\\\
-A &= 30 - 16 \\\\
-A &= 14
+A          &= 30 -10 -6 \\\\
+A          &= 14
 \end{aligned}
 $
 
@@ -2347,7 +2343,7 @@ $
 </div>
 <div class='answer'>
 
-$14$
+$A = 14$
 
 </div>
 </div>
@@ -2368,7 +2364,7 @@ $14$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2018-sample-paper-5"
 title: "Reigate Grammar School - 11 Plus - Maths - 2018 - Sample Paper 5"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
@@ -245,7 +245,7 @@ $\pounds 2.20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>00B5F39E-C744-444A-A565-D57BCA594277</p>
 </div>
@@ -268,19 +268,17 @@ To find the biggest number that divides exactly into $14$, $35$, and $42$, we ne
 
 $
 \begin{aligned}
-\text {Prime Factors of} \ 14 &= 2 \times \bold{7} \\\\
-\text {Prime Factors of} \ 35 &= 5 \times \bold{7} \\\\ \\\\
-\text {Prime Factors of} \ 42 &= 2 \times 3 \times \bold{7}
+\text {Prime factors of} \ 14 &= 2 \times \bold{7} \\\\
+\text {Prime factors of} \ 35 &= 5 \times \bold{7} \\\\
+\text {Prime factors of} \ 42 &= 2 \times 3 \times \bold{7}
 \end{aligned}
 $
 
-Highest common factor of $14$, $35$ and $42$
+Highest common factor of $14$, $35$ and $42=7$
 
-$
-\begin{aligned}
-&= 7
-\end{aligned}
-$
+The biggest number that divides exactly into $14$, $35$, and $42=7$
+
+
 
 </div>
 </div>
@@ -296,7 +294,7 @@ $7$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -400,7 +398,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -516,7 +514,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -731,7 +729,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -937,7 +935,7 @@ Calculate:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1156,7 +1154,7 @@ $41 \times 131 = 5371$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1380,7 +1378,7 @@ What are the missing numbers in the following calculations?
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1690,7 +1688,7 @@ Linda the builder needs to build a wall $23$ bricks wide and $12$ bricks high.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1861,7 +1859,7 @@ The diagram shows an equilateral triangle.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1999,7 +1997,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2171,7 +2169,7 @@ Josh and Gary are doing a $36 \ \text{km}$ sponsored walk.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2431,7 +2429,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2700,7 +2698,7 @@ A new mathematical operation has been invented. For any two numbers $𝑥 ⋆ �
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2868,7 +2866,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

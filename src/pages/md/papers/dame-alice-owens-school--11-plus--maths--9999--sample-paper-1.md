@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Dame Alice Owen's School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nj_g2 question'>
 <div class='uuid'>
@@ -802,6 +802,9 @@ $7{:}35 \ \text{a.m}$
 <li>
 tprobability
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1213,22 +1216,17 @@ For how many hours is it open each week?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Sat}            &= 9 \ \text {till} \ 5 \\\\
-                      &= 8 \ \text {hours} \\\\
-\text{Sun}            &= 1 \ \text {till} \ 5 \\\\
-                      &= 4 \ \text {hours} \\\\
-\text{Wed and fri}    &= 2 \ \text {till} \ 5 \\\\
-                      &= 3 \ \text {hours each}
-\end{aligned}
-$
+| Day                | Opening hours   |
+|--------------------|-----------------|
+| SAT                | 9 Till 5        |
+| SUN                | 1 Till 5        |
+| WEDS and FRI       | 2 Till 5        |
 
 Let's calculate the total hours it is open in each week.
 
 $
 \begin{aligned}
-\text{Total hours}   &= \text {Opening hours on Sat} + \text {Opening hours on Sun} + \text {Opening hours on Wed} + \text {Opening hours on Fri} \\\\
+\text{Total hours}   &= \text {Sat} + \text {Sun} + \text {Wed} + \text {Fri} \\\\
                      &= 8 \ \text {hours}  +  4 \ \text {hours} +  3 \ \text {hours} +  3 \ \text {hours} \\\\
                      &= 18 \ \text{hours}
 \end{aligned}
@@ -1274,10 +1272,11 @@ How much change would there be from a $\pounds 20$ note for Alice, Owen, Mum, Da
 
 $
 \begin{aligned}
-\text{Total car parking charges}    &= 1.50 \times 5 \\\\
-                                    &= \pounds 7.5 \\\\
-\text{Change left }                 &= 20 - 7.5 \\\\
-                                    &= \pounds 12.5
+\text{Total charges}    &= (1.60 \times 2) + (2.40 \times 3) + 1.50 \\\\
+                        &= 3.20 + 7.20 + 1.50 \\\\
+                        &= \pounds 11.90 \\\\
+\text{Change left }     &= 20 - 11.90 \\\\
+                        &= \pounds 8.10
 \end{aligned}
 $
 
@@ -1286,7 +1285,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 12.5$
+$\pounds 8.10$
 
 </div>
 </div>
@@ -1516,6 +1515,9 @@ TODOANSWER
 <li>
 tunit
 </li>
+<li>
+tfakeratio
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1526,15 +1528,14 @@ One inch is about $2.5 \ \text{centimetres}$. How many inches are roughly equal 
 <div class='workings'>
 <div class='working'>
 
-As we know, $1 \ \text{metre} = 100 \ \text{centimetres}$ $52$. So,
-
 $
 \begin{aligned}
-\text {Total inches in 1 metre}      &= 100 \div 2.5  \\\\
-                                     &= \dfrac {100} {2.5} \\\\
-                                     &= \dfrac {2.5 \times 40} {2.5} \\\\
-                                     &= \dfrac {\cancel {2.5} \times 40} {\cancel {2.5}} \\\\
-                                     &= 40 \ \text{inches}
+1 \ \text {centimetres}               &= \dfrac {1} {2.5} \ \text {inches} \\\\
+1 \times 100 \ \text {centimetres}    &= \dfrac {100} {2.5} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {1000} {25} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {40 \times 25} {25} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {40 \times \cancel {25}} {\cancel {25}} \ \text {inches} \\\\
+1 \ \text {metre}                     &= 40 \ \text {inches} \\\\
 \end{aligned}
 $
 
@@ -1719,14 +1720,14 @@ The angles are all the same size, because it is regular. What is the special nam
 <div class='workings'>
 <div class='working'>
 
-$\text {Obtuse angle}$
+Obtuse angle
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Obtuse angle}$
+Obtuse angle
 
 </div>
 </div>
@@ -1913,6 +1914,9 @@ tcoin
 <li>
 tprobability
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1957,6 +1961,9 @@ $\text {likely}$
 <li>
 tprobability
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1997,6 +2004,9 @@ $\text {Certain}$
 <li>
 tprobability
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2036,6 +2046,9 @@ $\text {unlikely}$
 <ul>
 <li>
 tprobability
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>

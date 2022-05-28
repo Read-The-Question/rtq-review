@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tdecimal-pr"
 title: "Topic - Decimal - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>5CC2AA10-9BD1-4023-B610-74254B953442</p>
 </div>
@@ -41,7 +41,7 @@ Use this information to write the missing decimals below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -125,7 +125,7 @@ $0.575$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -217,7 +217,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -352,14 +352,14 @@ What does the $6$ in the number $3567.23$ stand for?
 <div class='workings'>
 <div class='working'>
 
-$\text {Tens}$
+$60$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Tens}$
+$60$
 
 </div>
 </div>
@@ -392,14 +392,14 @@ What does the $2$ in the number $3567.23$ stand for?
 <div class='workings'>
 <div class='working'>
 
-$\text {Tenths}$
+$0.2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Tenths}$
+$0.2$
 
 </div>
 </div>
@@ -435,14 +435,14 @@ In the number $236.751$, what does the $7$ stand for?
 <div class='workings'>
 <div class='working'>
 
-$\text {Tenths}$
+$0.7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Tenths}$
+$0.7$
 
 </div>
 </div>
@@ -726,7 +726,7 @@ Work out the following
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1040,122 +1040,6 @@ $24.12$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>6B808AC4-4CFF-40C1-8C23-9EF0AB4FCA3D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-taddition
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Given that 
-
-$34567 - 13579 = 20988$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is
-
-$13579 + 20988 =$
-
-and
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$34567$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$34567$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$34.567 - 20.988 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 34.567 - 20.988 \\\\
-&= \dfrac {34567 - 20988} {1000} \\\\
-&= \dfrac {13579} {1000} \\\\
-&= 13.579
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13.579$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>002CE465-5C32-4749-89F4-8D638E9BD366</p>
 </div>
 <div class='topics'>
@@ -1187,7 +1071,7 @@ tdecimal
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1209,7 +1093,7 @@ $
 &= \dfrac {0.8 + 0.9} {2} \\\\
 &= \dfrac {1.7} {2} \\\\
 &= \dfrac {1.7 \times 10} {2 \times 10} \\\\
-&= \dfrac {17} {4}
+&= \dfrac {17} {20}
 \end{aligned}
 $
 
@@ -1218,7 +1102,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {17} {4}$
+$\dfrac {17} {20}$
 
 </div>
 </div>
@@ -1334,7 +1218,7 @@ Largest $= 0.79$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -1367,6 +1251,127 @@ $22.121$
 </div>
 </div>
 
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>A5348D26-A0E4-42B9-BBF8-248FF7506613</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a $\underline{fraction}$ between $0.5$ and $0.6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {0.5 + 0.6} {2} \\\\
+&= \dfrac {1.1} {2} \\\\
+&= \dfrac {1.1 \times 10} {2 \times 10} \\\\
+&= \dfrac {11} {20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {11} {20}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a $\underline{decimal}$ between $\dfrac{3}{4}$ and $1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\dfrac {3} {4} + 1} {2}\\\\
+&= \dfrac {\dfrac {3} {4} + \dfrac {1 \times 4} {1 \times 4}} {2} \\\\
+&= \dfrac {\dfrac {3} {4} + \dfrac {4} {4}} {2} \\\\
+&= \dfrac {\dfrac {3 + 4} {4}}} {2} \\\\
+&= \dfrac {7} {4 \times 2} \\\\
+&= \dfrac {7} {8}\\\\
+&= 0.875
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.875$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
@@ -1461,7 +1466,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1664,7 +1669,7 @@ $0.925$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1714,59 +1719,6 @@ $\dfrac {17} {20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>1A62C45F-6E91-4DB6-A919-79615DA30CE9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put these decimals in order,starting with the largest.
-
-$0.201,0.021,0.21$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.201, \quad 0.021, \quad 0.21 \\\\
-&= 0.201, \quad 0.021, \quad 0.210 \\\\
-& \text{Let's put them in descending order now.} \\\\
-&= 0.210> \quad 0.201> \quad 0.021 \\\\
-&= 0.21> \quad 0.201> \quad 0.021
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.21, \quad 0.201, \quad 0.021$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>41E24F51-54D1-465E-BE3F-59870A03565B</p>
@@ -1800,7 +1752,7 @@ Write the following fractions as decimals:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1919,7 +1871,7 @@ Patrick spends $\pounds 375.84$ on his electricity bill each year.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2011,7 +1963,7 @@ $\pounds 1879.20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>C23CC024-39E3-4323-97B6-0FC20D88C36D</p>
 </div>
@@ -2034,10 +1986,10 @@ Ensure to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    &1   &    5 \ .    &    0    &    5 \\
-{}- &1   &    4 \ .    &    8    &    4 \\
+    &   1   &    5 \ .    &    0    &    5 \\
+{}- &   1   &    4 \ .    &    8    &    4 \\
 \hline
-    &   &    0 \ .    &    2    &    1
+    &       &    0 \ .    &    2    &    1
 \end{array}
 $
 
@@ -2055,12 +2007,12 @@ $0.21$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>0FCDA851-B2B2-4FFB-A955-50509068409F</p>
 </div>
@@ -2108,12 +2060,12 @@ $221.2$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>7D2466F0-AE57-429A-BA31-12DECBC77D48</p>
 </div>
@@ -2136,11 +2088,11 @@ $0.627 = 0.6 + 0.02 + \ldots$
 
 $
 \begin{aligned}
-0.627 &= 0.6 + 0.02 + \ldots \\\\
-0.627 &= 0.6 + 0.02 + \text{Missing number} \\\\
-\text{Missing number}   &= 0.627 - 0.6 - 0.02 \\\\
-                        &= 0.627 - 0.62 \\\\
-                        &= 0.007
+0.627                    &= 0.6 + 0.02 + \ldots \\\\
+0.627                    &= 0.6 + 0.02 + \text {Missing number} \\\\
+\text {Missing number}   &= 0.627 - 0.6 - 0.02 \\\\
+                         &= 0.627 - 0.62 \\\\
+                         &= 0.007
 
 \end{aligned}
 $
@@ -2160,7 +2112,7 @@ $0.007$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -2287,7 +2239,7 @@ $33.6 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tdecimal
@@ -2351,7 +2303,7 @@ $52.55$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -2377,7 +2329,7 @@ Work out each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2480,7 +2432,7 @@ Duncan decide to stop by for a meal on their way home from work one day.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2725,7 +2677,7 @@ $2.203, \quad 2.23, \quad 2.303, \quad 2.3$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 <li>
 tdecimal
@@ -2798,11 +2750,11 @@ Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    0 \ .   &   0   &   4 \\
-    0 \ .   &   6   &   0 \\
-{}+ 0 \ .   &   1   &   6 \\
+    &   0 \ .   &   0   &   4 \\
+    &   0 \ .   &   6   &   0 \\
+{}+ &   0 \ .   &   1   &   6 \\
 \hline
-    0 \ .   &   8   &   0
+    &   0 \ .   &   8   &   0
 \end{array}
 $
 
@@ -2850,11 +2802,11 @@ Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    0 \ .   &   7   &   0   &   0 \\
-    0 \ .   &   0   &   4   &   0 \\
-{}+ 1 \ .   &   0   &   0   &   6 \\
+    &   0 \ .   &   7   &   0   &   0 \\
+    &   0 \ .   &   0   &   4   &   0 \\
+{}+ &   1 \ .   &   0   &   0   &   6 \\
 \hline
-    1 \ .   &   7   &   4   &   6
+    &   1 \ .   &   7   &   4   &   6
 \end{array}
 $
 
@@ -2884,7 +2836,7 @@ $1.746$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdecimal
@@ -2992,7 +2944,7 @@ $0.35$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 <li>
 tdecimal
@@ -3011,11 +2963,11 @@ Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-       &    &   &6  \ .  &3  &7 \\
-{}     &    &1  &0  \ .  &0  &4 \\
-{}+    &2   &0  &3  \ .  &0  &0 \\
+    &       &      &    6 \ .  &    3  &    7 \\
+    &       &   1  &    0 \ .  &    0  &    4 \\
+{}+ &   2   &   0  &    3 \ .  &    0  &    0 \\
 \hline
-       &2   &1  &9  \ .  &4  &1
+    &   2   &   1  &    9 \ .  &    4  &    1
 \end{array}
 $
 
@@ -3092,7 +3044,7 @@ $0.72$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tdecimal
@@ -3355,7 +3307,7 @@ ttime
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3647,7 +3599,7 @@ $0.09$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>9C5A0EF1-A8A5-42F9-8717-C0DB88208ECE</p>
 </div>
@@ -3680,7 +3632,7 @@ tdecimal
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3742,12 +3694,12 @@ $10.47$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>14E5F246-D749-41FC-B5F4-8237AC1F466F</p>
 </div>
@@ -3782,7 +3734,7 @@ Use this result to answer these questions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3878,7 +3830,7 @@ $146700$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -3922,7 +3874,7 @@ tratio
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4119,7 +4071,7 @@ Use this result to give the answers to the questions below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

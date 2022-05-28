@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-oldpr"
 title: "Topic - Ratio - Old PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -44,60 +44,6 @@ Number of glasses $= 5$
 <div class='answer'>
 
 $5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tratio
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How much will $46$ lollipops cost if they cost $\pounds 1.25$ each?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-This can be solved using ratios. 
-
-$
-\begin{aligned}
-1  \text{ lollipop}                 &: \pounds 1.25 \\\\
-1 \times 46  \text{ lollipops}         &: \pounds 1.25 \times 46 \\\\
-46  \text{ lollipops}                 &: \pounds 57.50
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 57.50$
 
 </div>
 </div>
@@ -217,7 +163,7 @@ $2$ eggs
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

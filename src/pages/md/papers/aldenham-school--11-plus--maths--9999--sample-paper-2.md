@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Aldenham School</h1>
@@ -12,17 +12,14 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>269CAEB1-ECC7-4634-9068-42EF39354F2F</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-ttable
-</li>
 <li>
 tnumber
 </li>
@@ -55,7 +52,7 @@ The table shows the size of population for five Derbyshire villages.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -184,7 +181,7 @@ $7995$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -219,7 +216,7 @@ Fill in the gaps:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -377,7 +374,7 @@ Car Parking Charges: $\pounds 1.80$ per hour
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -486,7 +483,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -699,7 +696,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1138,7 +1135,7 @@ Circle the highest number in each group.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1272,7 +1269,7 @@ The temperature, in $\degree \text{C}$, at midday at the theme park on $6$ winte
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1522,7 +1519,7 @@ $4 \quad 23 \quad 45 \quad 58 \quad 120$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1637,7 +1634,7 @@ Fill in the missing numbers in the sequences below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1663,7 +1660,7 @@ $
 &&  \footnotesize{\maroonC{(+5)}}   
 &&  \footnotesize{\maroonC{(+5)}}   
 &&  \footnotesize{\maroonC{(+5)}}  \\
--8,  &&    -3,  &&  2,  &&   7,  &&   \ldots && \ldots
+-8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1704,7 +1701,7 @@ $61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is $8$. Hence, the sequence would be:
+The difference between the terms is decreasing $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1713,7 +1710,7 @@ $
 &&  \footnotesize{\maroonC{(-8)}}   
 &&  \footnotesize{\maroonC{(-8)}}   
 &&  \footnotesize{\maroonC{(-8)}}  \\
-61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots && 21
+61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
 \end{matrix}
 $
 
@@ -1763,7 +1760,7 @@ $
 &&  \footnotesize{\maroonC{(\div 2)}}   
 &&  \footnotesize{\maroonC{(\div 2)}}   
 &&  \footnotesize{\maroonC{(\div 2)}}  \\
-240,  &&    120,  &&  \ldots,  &&   30,  &&   15 && \ldots
+240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
 \end{matrix}
 $
 
@@ -2112,7 +2109,7 @@ The pie charts show the results of a cycling test taken by all pupils in year $7
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2215,7 +2212,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -2229,14 +2226,15 @@ Work out $235 \times 68$.
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       2       & 1     & 3     \\
-{}\times    &       &               & 1     & 7     \\
+         &      &       &       2       & 3     & 5     \\
+{}\times &      &       &               & 6     & 8     \\
+\hline 
+         &       &  1    &       8       & 8     & 0     \\
+         &  1    &  4    &       1       & 0     & 0     \\
 \hline
-            &  1    &       4       & 9     & 1     \\
-           &  2    &       1       & 3     & 0     \\
-\hline
-          &      3&       6       & 2     & 1
+         &  1    &  5    &       9       & 8     & 0
 \end{array}
+
 $
 
 </div>
@@ -2298,7 +2296,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-pr"
 title: "Topic - Perimeter - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -140,6 +140,80 @@ Length $= 9 \ \text{cm}$
 
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>5956440A-E503-4587-BFE7-D009144AE8EE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mr Bevestock has a square garden which is $81 \ \text{m}^2$.
+
+He decides to put a post every $1 \ \text{m}$ around the perimeter of his garden from which to hang decorations.
+
+How many posts will he need?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's the side of the square garden (in $\text{m}$) $= s$
+
+$\text{Area of square} = \text{side} \times \text{side}$
+
+As per the question,
+
+$
+\begin{aligned}
+s \times s      &= 81 \\\\
+s^2             &= 81 \\\\
+s               &= \sqrt{81} \\\\
+s               &= 9  \ \text{m}
+\end{aligned}
+$
+
+** INFER_DESCRIPTION_STARTS The $4$ corners will be counted twice, so ensure we account for that in the final calculation INFER_DESCRIPTION_ENDS **
+
+*Note: The $4$ corners will be counted twice, so ensure we account for that in the final calculation.*
+
+$
+\begin{aligned}
+\text{Tree height after second year}    &= 4 \times 9 - 4 \\\\
+                                        &= 36 - 4 \\\\
+                                        &= 32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -320,7 +394,7 @@ The diagram shows a T shape. The diagram is not accurately drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -562,7 +636,7 @@ A right angled triangle is shown below. It is not drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -734,7 +808,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -756,12 +830,12 @@ As per the question,
 $
 \begin {aligned}
 \text {Perimeter of the square}  &= 32 \ \text {cm} \\\\
-4a                               &= 32 \\\\
+4 \times a                       &= 32 \\\\
 a                                &= \dfrac {32} {4} \\\\
 a                                &= \dfrac {8 \times 4} {4} \\\\
 a                                &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
 a                                &= 8 \ \text {cm} \\\\
-\text {Area of the square}       &= a ^ 2 \\\\
+\text {Area of the square}       &= \text {Side} \times \text {Side} \\\\
                                  &= a \times a \\\\
                                  &= 8 \times 8 \\\\
                                  &= 64 \ \text {cm} ^ 2
@@ -796,24 +870,24 @@ A rectangle has perimeter $32 \ \text{cm}$. The rectangle is three times as long
 
 Let the width of the rectangle $= w$.
 
-Length of the rectangle $= 3w$.
-
 As per the question,
+
+Length of the rectangle $= 3 \times w$.
 
 $
 \begin {aligned}
-\text {Perimeter of the rectangle}  &= 32 \ \text {cm} \\\\
-2 \times (3w + w)                   &= 32 \\\\
-2 \times 4w                         &= 32 \\\\
-8w                                  &= 32 \\\\
-w                                   &= \dfrac {32} {8} \\\\
-w                                   &= \dfrac {4 \times 8} {8} \\\\
-w                                   &= \dfrac {4 \times \cancel {8}} {\cancel {8}} \\\\
-w                                   &= 4 \ \text {cm} \\\\
-\text {Area of the rectangle}       &= \text {length} \times \text {width} \\\\
-                                    &= (3 \times 4) \times 4 \\\\
-                                    &= 12 \times 4 \\\\
-                                    &= 48 \ \text {cm} ^ 2
+2 \times (\text {length} + \text {width})   &= \text {Perimeter of a rectangle} \\\\
+2 \times (3w + w)                           &= 32 \ \text {cm} \\\\
+2 \times 4w                                 &= 32 \\\\
+8w                                          &= 32 \\\\
+w                                           &= \dfrac {32} {8} \\\\
+w                                           &= \dfrac {4 \times 8} {8} \\\\
+w                                           &= \dfrac {4 \times \cancel {8}} {\cancel {8}} \\\\
+w                                           &= 4 \ \text {cm} \\\\
+\text {Area of the rectangle}               &= \text {length} \times \text {width} \\\\
+                                            &= (3 \times 4) \times 4 \\\\
+                                            &= 12 \times 4 \\\\
+                                            &= 48 \ \text {cm} ^ 2
 \end {aligned}
 $
 
@@ -879,7 +953,7 @@ He can fit exactly $6$ tiles along the shorter edge of the worktop and $15$ alon
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1076,7 +1150,7 @@ The perimeter of the rectangle below is $18 \ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1783,7 +1857,7 @@ As per the diagram,
 $
 \begin {aligned}
 \text {Perimeter of a rectangle}  &= 2 \times (\text {length} + \text {width}) \\\\
-                                  &= 2 \times (1.8 \text {m} + 4.65 \text {m}) \\\\
+                                  &= 2 \times (4.65 \text {m} + 1.8 \text {m}) \\\\
                                   &= 2 \times 6.45 \\\\
                                   &= 12.90 \text {m}
 \end {aligned}
@@ -1892,7 +1966,7 @@ Not drawn accurately
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2118,7 +2192,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2238,7 +2312,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2422,7 +2496,7 @@ Mr Howden is landscaping his garden, the shape of which is illustrated below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2655,7 +2729,7 @@ In this question the shapes are NOT drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2827,7 +2901,7 @@ I want to draw a square in which the perimeter (total length around the outside)
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2959,7 +3033,7 @@ In this question the shapes are NOT drawn to scale.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3196,7 +3270,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4020,7 +4094,7 @@ The diagram below shows a **regular** eight-sided polygon.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4107,7 +4181,7 @@ $CD$ measures $34 \ \text{mm}$.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -4227,7 +4301,7 @@ Shape $D$ is drawn on centimetre-squared paper below.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4361,7 +4435,7 @@ Roger trains every morning by running around the running track until he has run 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4696,7 +4770,7 @@ Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4943,7 +5017,7 @@ All the measurements in the following diagram are given in centimetres
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5146,39 +5220,39 @@ Work out the area of the rectangle in $\text{square centimetres}$ $(\text{cm}^2)
 <div class='workings'>
 <div class='working'>
 
-Let the width of the rectangle (in $\text{cm}$) $= w$
+Let the width of the rectangle (in $\text {cm}$) $= w$
 
 Then as per the question, length of the rectangle $= 3w$
 
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+$\text {Perimeter} = 2 \times (\text {length} + \text {width})$
 
 Equating the perimeter to length and width we get,
 
 $
-\begin{aligned}
+\begin {aligned}
 2 \times (3w + w)   &= 160 \\\\
 2 \times 4w         &= 160 \\\\
 8w                  &= 160 \\\\
-w                   &= \dfrac{160}{8} \\\\
-w                   &= 20 \ \text{cm}
-\end{aligned}
+w                   &= \dfrac {160} {8} \\\\
+w                   &= 20 \ \text {cm}
+\end {aligned}
 $
 
 $
-\begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-\text{Length}       &= 3w \\\\
-                    &= 3 \times 20 \\\\
-                    &= 60 \ \text{cm}
-\end{aligned}
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+\text {Length}       &= 3w \\\\
+                     &= 3 \times 20 \\\\
+                     &= 60 \ \text {cm}
+\end {aligned}
 $
 
 $
-\begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-                    &= 60 \times 20 \\\\
-                    &= 1200 \ \text{cm}^{2}
-\end{aligned}
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+                     &= 60 \times 20 \\\\
+                     &= 1200 \ \text {cm}^{2}
+\end {aligned}
 $
 
 </div>
@@ -5186,7 +5260,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1200 \ \text{cm}^2$
+$1200 \ \text {cm}^2$
 
 </div>
 </div>
@@ -5300,7 +5374,7 @@ A pattern is made using $4$ of these tiles.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

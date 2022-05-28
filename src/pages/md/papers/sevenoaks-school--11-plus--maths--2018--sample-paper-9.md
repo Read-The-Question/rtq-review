@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2018-sample-paper-9"
 title: "Sevenoaks School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
@@ -56,7 +56,7 @@ $12$ strawberry boot laces
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -170,7 +170,7 @@ A concert hall has $128$ rows of $35$ seats.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -294,7 +294,7 @@ Calculate:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -535,7 +535,7 @@ Round $325.48$ to the following degrees of accuracy:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -724,16 +724,16 @@ The sum of three different primes is $16$. What are the three numbers?
 
 Let's first see prime numbers which are less than $16$ :
 
-$1, 2, 3, 5, 7, 11, 13$.
+$2, 3, 5, 7, 11, 13$.
 
-As we can see, $1 + 2 + 13 = 16$.
+As we can see, $2 + 3 + 11 = 16$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1, 2, 13$
+$2, 3, 11$
 
 </div>
 </div>
@@ -787,7 +787,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -904,7 +904,7 @@ Add or subtract these fractions. Give your answers in their simplest terms.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1019,7 +1019,7 @@ Insert an inequality sign $<$ or $>$ to make the following statements correct:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1156,7 +1156,7 @@ Find
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1399,7 +1399,7 @@ The picture shows a tipper truck.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

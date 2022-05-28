@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>St Albans High School For Girls</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -68,7 +68,7 @@ $111$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -164,7 +164,7 @@ $20.14$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -384,7 +384,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>438BD9BA-0277-473A-99CB-FE5F23A3718E</p>
 </div>
@@ -405,7 +405,7 @@ Work out one third of one quarter of 252
 
 $
 \begin{aligned}
-$= \text{one third of one quarter of 252} \\\\
+&= \text{one third of one quarter of} 252 \\\\
 &= \dfrac {1} {3} \times \dfrac {1} {4} \times 252 \\\\
 &= \dfrac {1 \times 1 \times 252} {3 \times 4} \\\\
 &= \dfrac {2 \times 126} {3 \times 2 \times 2} \\\\
@@ -430,7 +430,7 @@ $21$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -478,7 +478,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -681,7 +681,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -849,7 +849,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -936,7 +936,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>BF011AD7-448A-452F-AB01-4F18D04E9B41</p>
 </div>
@@ -966,7 +966,7 @@ Write down one number that is both
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1037,11 +1037,15 @@ A factor of 28 bigger than 1 and a factor of 21 bigger than 1
 <div class='workings'>
 <div class='working'>
 
-Factor of 28 bigger than 1 = 2, \ 4, \ \bold{7}, \ 14, \ 28
 
-Factors of 21 bigger than 1= 3, \ \bold{7}, \ 21
+$
+\begin{aligned}
+\text {Factors of} 28 \text {bigger than} 1 &= 2, \ 4, \ \bold{7}, \ 14, \ 28  \\\\
+\text {Factors of} 21 \text {bigger than} 1 &= 3, \ \bold{7}, \ 21
+\end{aligned}
+$
 
-A factor of 28 bigger than 1 and a factor of 21 bigger than 1  $= 7$
+A factor of $28$ bigger than $1$ and a factor of $21$ bigger than $1= 7$
 
 </div>
 </div>
@@ -1069,7 +1073,7 @@ Smaller than 20 and has exactly three  different factors
 <div class='workings'>
 <div class='working'>
 
-$4$
+$\text {Factors of} 4 &= 1, 2, \ \text {and} \ 4$
 
 </div>
 </div>
@@ -1088,12 +1092,12 @@ $4$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>8992E35F-6A69-4AF4-AE67-0068769E9060</p>
 </div>
@@ -1117,10 +1121,11 @@ How much more cake does Simon have left than Paulina?
 
 As per the question,
 
-As both baked $5$ cakes each,to find how much more cake Simon have left than Paulina we need to find the difference only.
+As both baked $5$ cakes each, to find how much more cake Simon have left than Paulina we need to find the difference only.
 
 $
 \begin{aligned}
+&= \text {Cake Paulina sold} - \text {Cake Simon sold}
 &= 4 \dfrac {3} {4} - 2 \dfrac {1} {4} \\\\
 &= \dfrac {19} {4} - \dfrac {9} {4} \\\\
 &= \dfrac {19 - 9} {4} \\\\
@@ -1131,6 +1136,8 @@ $
 &= 2 \dfrac {1} {2}
 \end{aligned}
 $
+
+Cake Simon have left more than Paulina $= 2 \dfrac {1} {2}$
 
 </div>
 </div>
@@ -1146,12 +1153,12 @@ $2 \dfrac {1} {2}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>42298452-3901-4F31-B105-1CEC26501B64</p>
 </div>
@@ -1176,7 +1183,7 @@ As we know,
 
 The biggest single digit prime number $= 7$
 
-The smalles  single digit prime number $= 2$
+The smallest  single digit prime number $= 2$
 
 The biggest single digit $= 9$
 
@@ -1184,8 +1191,8 @@ The smallest single digit $= 0$
 
 $
 \begin{aligned}
-\text{Largest 4 digit number that geeta can form}    &= 7997 \\\\
-\text{Smallest 4 digit number that geeta can form}   &= 2002
+\text{Largest} 4 \text{digit number that Gita can form}    &= 7997 \\\\
+\text{Smallest} 4 \text{digit number that Gita can form}   &= 2002
 \end{aligned}
 $
 
@@ -1205,7 +1212,7 @@ $\text{Smallest} = 2002$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -1362,7 +1369,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1540,7 +1547,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>C207B486-E1C2-4DBB-91FE-CCBBCB8F1F7A</p>
 </div>
@@ -1561,7 +1568,7 @@ A theatre has seats arranged in rows of 22. If an audience of 483 fills the rows
 
 $
 \begin {aligned}
-\text {No. of rows occupied}          &= \text \dfrac {Total audience} {Seats per row} \\\\
+\text {No. of rows occupied}          &= \dfrac { \text{Total audience}} { \text{Seats per row}} \\\\
                                       &= \dfrac {483} {22} \\\\
                                       &= 21 \dfrac {21} {22}
 \end {aligned}
@@ -1583,7 +1590,7 @@ $21$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -1628,7 +1635,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1755,7 +1762,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1944,7 +1951,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2164,7 +2171,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2331,7 +2338,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2445,7 +2452,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2747,7 +2754,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>0891E350-B1EF-4829-93AF-297FCA83A01C</p>
 </div>
@@ -2810,7 +2817,7 @@ The length of the each gap is $= 40 \ \text{cm}$
 </div>
 <div class='working'>
 
-Alternative answer,
+Alternative Solution,
 
 As per the question,
 
@@ -2824,7 +2831,8 @@ $
 
 $
 \begin {aligned}
-\text{Width of gap}                                  &= 57 \ \text{cm} -17  \ \text{cm} \\\\
+\text{Width of gap}                                  &= 57 \ \text{cm} - \text{Width of post} \\\\
+                                                     &= 57 \ \text{cm} -17  \ \text{cm} \\\\
                                                      &= 40  \ \text{cm}
 \end {aligned}
 $
@@ -2843,7 +2851,7 @@ $40 \ \text{cm}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -2951,7 +2959,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3153,7 +3161,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>FEAB2ACE-3E49-46F1-A250-9631A7EA7469</p>
 </div>
@@ -3178,7 +3186,7 @@ Let the number of red balloons $= a$
 
 $
 \begin{aligned}
-\text{Blue} + text{Green} + \text{Red}                                      &= \text{Total balloons} \\\\
+\text{Blue} + \text{Green} + \text{Red}                                     &= \text{Total balloons} \\\\
 6a + 3a + a                                                                 &= 40 \\\\
 10a                                                                         &= 40 \\\\
 a                                                                           &= \dfrac {40} {10} \\\\
@@ -3212,7 +3220,7 @@ $24 \ \text{Balloons}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -3393,7 +3401,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>E45D50A1-C037-4479-BF15-60CA06B7E05D</p>
 </div>
@@ -3407,15 +3415,27 @@ tnumber
 <div class='question question'>
 
 A square number is what we get if we multiply a whole number by 
-itself. A cube number comes from multiplying a number by itself and then by itself again. So 9 is a square number because 9 = 3 $\times$ 3, and 8 is a cube number because 8 = 2 $\times$ 2 $\times$ 2.
+itself. A cube number comes from multiplying a number by itself and then by itself again. 
+So 9 is a square number because 9 = 3 $\times$ 3, and 8 is a cube number because 8 = 2 $\times$ 2 $\times$ 2.
 
-1 is both a square and a cube because 1 = 1 $\times$ 1 and 1 = 1 $\times$ 1 $\times$ 1. Find another number **bigger than 0** that it both a square and cube number.
+1 is both a square and a cube because 1 = 1 $\times$ 1 and 1 = 1 $\times$ 1 $\times$ 1. 
+Find another number **bigger than 0** that is both a square and cube number.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$64$
+$
+\begin{aligned}
+    8 \times 8                 & = 64 \\\\
+    8^2                        & = 64 \\\\
+    4 \times 4 \times \times 4 & = 64 \\\\
+    4^3                        & = 64 
+\end{aligned}
+$
+
+Another number **bigger than 0** that is both a square and cube number $= 64$
+
 
 </div>
 </div>
@@ -3431,7 +3451,7 @@ $64$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -3530,7 +3550,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

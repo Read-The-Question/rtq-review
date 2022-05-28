@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7"
 title: "Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -12,9 +12,9 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>29A6018D-4F9B-47BC-AEF7-2AB556029423</p>
 </div>
@@ -39,14 +39,12 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Change they get}                          &= \text{Money paid - Ticket cost of} \ 2 \ \text {Adults -  Ticket cost of} \ 3 \ \text{Children} \\\\
-                                                &= \pounds 10 - (2 \times \pounds 1.50 + 3 \times 90 \text{p}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + 270 \text{p}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + \pounds \dfrac {270} {100}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + \pounds \dfrac {27 \cancel{0}} {10 \cancel{0}}) \\\\
-                                                &= \pounds 10 - (\pounds 3 + \pounds \dfrac {27} {10}) \\\\
-                                                &= 10 - (3 + 2.70) \\\\
-                                                &= 10 - 5.70 \\\\
+\text{Change they get}                          &= \text{Money paid - Cost of ticket for} \ 2 \ \text {Adults -  Cost of ticket for} \ 3 \ \text{Children} \\\\
+                                                &= \pounds 10 - 2 \times \pounds 1.50 - 3 \times 90 \text{p} \\\\
+                                                &= \pounds 10 - \pounds 3 - 270 \text{p} \\\\
+                                                &= \pounds 10 - \pounds 3 - \pounds \dfrac {270} {100} \\\\
+                                                &= \pounds 10 - \pounds 3 - \pounds 2.70 \\\\
+                                                &= \pounds 10 - \pounds 5.70 \\\\
                                                 &= \pounds 4.30
 \end{aligned}
 $
@@ -65,7 +63,7 @@ $\pounds 4.30$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -369,7 +367,7 @@ Find:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -472,10 +470,10 @@ What is $4\dfrac{1}{4}-2\dfrac{1}{2}$
 
 $
 \begin{aligned}
-&= 4 \dfrac {1} {4} \times 2 \dfrac {1} {2} \\\\
-&= \dfrac {17} {4} \times \dfrac {5} {2} \\\\
-&= \dfrac {17} {4} \times \dfrac {5 \times 2} {2 \times 2} \\\\
-&= \dfrac {17} {4} \times \dfrac {10} {4} \\\\
+&= 4 \dfrac {1} {4} - 2 \dfrac {1} {2} \\\\
+&= \dfrac {17} {4} - \dfrac {5} {2} \\\\
+&= \dfrac {17} {4} - \dfrac {5 \times 2} {2 \times 2} \\\\
+&= \dfrac {17} {4} - \dfrac {10} {4} \\\\
 &= \dfrac {17 - 10} {4} \\\\
 &= \dfrac {7} {4}
 \end{aligned}
@@ -642,7 +640,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -814,7 +812,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -952,7 +950,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1066,9 +1064,9 @@ As per the diagram,
 
 $
 \begin{aligned}
-80 + 60 + x              &= 180 \\\\
-x                        &= 180 - 80 - 60 \\\\
-x                        &= 40 \degree
+80 \degree + 60 \degree + x \degree              &= 180 \degree \\\\
+x                                                &= 180 - 80 - 60 \\\\
+x                                                &= 40 \degree
 \end{aligned}
 $
 
@@ -1263,7 +1261,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1528,7 +1526,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1695,7 +1693,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

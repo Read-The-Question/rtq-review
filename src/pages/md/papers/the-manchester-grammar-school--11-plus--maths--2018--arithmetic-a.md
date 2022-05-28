@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic A"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
@@ -21,7 +21,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -232,7 +232,7 @@ $1 \dfrac {5} {8}$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdecimal
@@ -308,12 +308,12 @@ What is $40 \%$ of $650 \ \text{grams}$?
 
 $
 \begin{aligned}
-&= 40\% \ \text{of}\ 650 \ \text{grams} \\\\
+&= 40\% \ \text {of}\ 650 \ \text{grams} \\\\
 &= \dfrac {40} {100} \times 650 \\\\
 &= \dfrac {40 \times 650} {100} \\\\
-&= \dfrac {4\cancel{0} \times 65\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
+&= \dfrac {4 \cancel {0} \times 65 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
 &= 4 \times 65 \\\\
-&= 260 \ \text{g}
+&= 260 \ \text {grams}
 \end{aligned}
 $
 
@@ -322,7 +322,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$260 \ \text{g}$
+$260 \ \text {grams}$
 
 </div>
 </div>
@@ -391,7 +391,7 @@ $\dfrac {17} {20}$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 <li>
 tdecimal
@@ -410,11 +410,11 @@ Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-       &    &   &6  \ .  &3  &7 \\
-{}     &    &1  &0  \ .  &0  &4 \\
-{}+    &2   &0  &3  \ .  &0  &0 \\
+    &       &      &    6 \ .  &    3  &    7 \\
+    &       &   1  &    0 \ .  &    0  &    4 \\
+{}+ &   2   &   0  &    3 \ .  &    0  &    0 \\
 \hline
-       &2   &1  &9  \ .  &4  &1
+    &   2   &   1  &    9 \ .  &    4  &    1
 \end{array}
 $
 
@@ -1312,9 +1312,9 @@ $
 \end{aligned}
 $
 
-Let's put them in ascending order.
+Let's put them in descending order.
 
-$0, \quad 4, \quad 8, \quad 22, \quad 42$
+$42, \quad 22, \quad 8, \quad 4, \quad 0$
 
 Answer in the middle $= 8$
 

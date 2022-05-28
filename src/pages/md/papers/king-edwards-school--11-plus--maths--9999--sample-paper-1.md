@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-edwards-school-11-plus-maths-9999-sample-paper-1"
 title: "King Edwards School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>King Edward's School</h1>
@@ -14,7 +14,7 @@ date: 2022-05-27 04:53:12
 </div>
 
 # Section A
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_nc_g1 question'>
 <div class='uuid'>
@@ -23,7 +23,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -77,7 +77,7 @@ $57821$
 tdecimal
 </li>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -142,14 +142,14 @@ that you can make using the
 digits $4, 3, 9$ and $1$?
 Use each digit only once.
 
-A      B   C     D   E
+A        B       C       D       E
 $9413$  $1349$  $4319$  $1439$  $1934$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$1349$.
+$1349$
 
 </div>
 </div>
@@ -180,7 +180,7 @@ $1349$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -235,7 +235,7 @@ $9600$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -291,7 +291,7 @@ $41976$
 ttime
 </li>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -301,7 +301,7 @@ I start counting at $19$ and go up to $89$.
 I take one second to say each number.
 How long do I take altogether?
 
-A B C D E
+A                      B                     C                     D                     E
 $70 \ \text{seconds}$ $71 \ \text{seconds}$ $72 \ \text{seconds}$ $73 \ \text{seconds}$ $74 \ \text{seconds}$
 
 </div>
@@ -312,7 +312,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Time taken}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
+\text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
                     &= 89 - 20 \\\\
                     &= 71 \ \text {seconds}
 \end {aligned}
@@ -347,7 +347,7 @@ $71 \ \text {seconds}$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -400,7 +400,7 @@ $2021$
 </ul>
 
 # Section B
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
@@ -433,9 +433,10 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Age of Oak Tree in 2011}  &= \text {Age of Lord Owlynose when he died} + (2011 - 1940) \\\\
-                                 &= 80 + 71 \\\\
-                                 &= 151
+\text {Age of Tree in 2011}  &= \text {Lord's age at death} + (2011 - \text {Year lord died}) \\\\
+                             &= 80 + 2011 - 1940 \\\\
+                             &= 80 + 71 \\\\
+                             &= 151 \ \text {years}
 \end {aligned}
 $
 
@@ -447,7 +448,7 @@ $
 </div>
 <div class='answer'>
 
-$151$
+$151 \ \text {years}$
 
 </div>
 </div>
@@ -560,7 +561,7 @@ As the radius of circle is $6 \ \text {cm}$, the length of a side of the square 
 $
 \begin {aligned}
 \text {Area of a square}  &= \text {Side} ^ 2 \\\\
-                          &= (12 \ \text {cm}) ^ 2 \\\\
+                          &= 12 ^ 2 \\\\
                           &= 144 \ \text {cm} ^ 2
 \end {aligned}
 $
@@ -589,7 +590,7 @@ $144 \ \text {cm} ^ 2$
 </ul>
 
 # Section C
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>

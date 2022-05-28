@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>
@@ -14,7 +14,7 @@ date: 2022-05-27 04:53:12
 </div>
 
 # Section A
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
@@ -182,14 +182,14 @@ $\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>95B95D83-440E-4D37-9093-A8502BF8615F</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -234,7 +234,7 @@ $740$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -336,7 +336,7 @@ $5.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>C42057EE-31C0-41F9-A55F-42198886E116</p>
 </div>
@@ -381,12 +381,12 @@ $0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>8B86594B-D155-4131-86F4-90AD8D47F02B</p>
 </div>
@@ -413,9 +413,9 @@ LCM for $4, 5, 10, 20 = 20$
 
 $
 \begin{aligned}
-&= \dfrac{3}{4}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10},  \quad\dfrac{17}{20} \\\\
-&= \dfrac{3 \times 5}{4 \times 5}, \quad \dfrac{3 \times 4}{5 \times 4}, \quad \dfrac{9 \times 2}{10 \times 2}, \quad\dfrac{17}{20} \\\\
-&= \dfrac{15}{20}, \quad \dfrac{12}{20}, \quad \dfrac{18}{20} , \quad\dfrac{17}{20}
+&= \dfrac {3} {4}, \quad \dfrac {3} {5}, \quad \dfrac {9} {10},  \quad\dfrac {17} {20} \\\\
+&= \dfrac {3 \times 5} {4 \times 5}, \quad \dfrac {3 \times 4} {5 \times 4}, \quad \dfrac {9 \times 2} {10 \times 2}, \quad\dfrac{17}{20} \\\\
+&= \dfrac {15} {20}, \quad \dfrac {12} {20}, \quad \dfrac {18} {20} , \quad\dfrac {17} {20}
 \end{aligned}
 $
 
@@ -423,8 +423,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac{12}{20} < \quad  \dfrac{15}{20} < \quad \dfrac{17}{20} < \quad \dfrac{18}{20} \\\\
-&= \dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}
+&= \dfrac {12} {20} < \quad  \dfrac {15} {20} < \quad \dfrac {17}{20} < \quad \dfrac {18} {20} \\\\
+&= \dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {9} {10}
 \end{aligned}
 $
 
@@ -433,7 +433,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}$
+$\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {9} {10}$
 
 </div>
 </div>
@@ -442,7 +442,7 @@ $\dfrac{3}{5} < \quad \dfrac{3}{5} < \quad \dfrac{17}{20} < \quad \dfrac{9}{10}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -511,7 +511,7 @@ $2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E095A1B1-A5D7-4A9A-9C71-AB7E49731549</p>
 </div>
@@ -542,11 +542,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time taken by Jess}       &= 18 \ \text{seconds} \\\\
-\text{Time taken by Mary}       &= \text{Time taken by Jo} + 4 \\\\
-                                &= \text{Time taken by Jess} - 6 + 4 \\\\
-                                &= 18 - 6 + 4 \\\\
-\text{Time taken by Mary}       &= 16 \ \text{seconds}
+\text {Time taken by Jess}       &= 18 \ \text {seconds} \\\\
+\text {Time taken by Mary}       &= \text {Time taken by Jo} + 4 \\\\
+                                 &= \text {Time taken by Jess} - 6 + 4 \\\\
+                                 &= 18 - 6 + 4 \\\\
+\text {Time taken by Mary}       &= 16 \ \text {seconds}
 \end{aligned}
 $
 
@@ -555,7 +555,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16 \ \text{seconds}$
+$16 \ \text {seconds}$
 
 </div>
 </div>
@@ -564,12 +564,12 @@ $16 \ \text{seconds}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>495FD032-B939-449E-9F1F-6F8D821D8B70</p>
 </div>
@@ -616,12 +616,12 @@ $72$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>23F08023-3E57-40D1-BED1-91FEF237609C</p>
 </div>
@@ -644,9 +644,9 @@ $13 \text{p} \quad 23 \text{p} \quad 33 \text{p} \quad 43 \text{p} \quad 53 \tex
 
 $
 \begin{aligned}
-13 \text{p}     &= 10 \text{p} + 2 \text{p} + 1 \text{p} \\\\
-23 \text{p}     &= 20 \text{p} + 2 \text{p} + 1 \text{p} \\\\
-53 \text{p}     &= 50 \text{p} + 2 \text{p} + 1 \text{p}
+13 \text {p}     &= 10 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+23 \text {p}     &= 20 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+53 \text {p}     &= 50 \text {p} + 2 \text {p} + 1 \text {p}
 \end{aligned}
 $
 
@@ -664,12 +664,12 @@ $13 \text{p},23 \text{p},53 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>DA1C609B-7D16-4855-AF28-E9B812315F33</p>
 </div>
@@ -702,10 +702,10 @@ The difference between the terms is $15$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(+15)}} 
-&&  \footnotesize{\maroonC{(+15)}}  
-&&  \footnotesize{\maroonC{(+15)}}   
-&&  \footnotesize{\maroonC{(+15)}}   
+    \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
+&&  \footnotesize{\maroonC{(+15)}}
 &&  \footnotesize{\maroonC{(+15)}}
 &&  \footnotesize{\maroonC{(+15)}}  \\
 150,  &&    165,  &&  180,  &&   195,   &&   210  &&   \ldots && \ldots
@@ -732,7 +732,7 @@ $315, 240$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -796,7 +796,7 @@ $8{:}45 \ \text{am}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>1F54DF7F-1E4E-4CDC-A7A2-5D50C56188C5</p>
 </div>
@@ -823,13 +823,13 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
-\text{Hebe score}       &= 60\% \ \text{of} \ 60 - 30 \\\\
-                        &= \dfrac {60}{100} \times 60 - 30 \\\\
-                        &= \dfrac{60 \times 60}{100} - 30 \\\\
-                        &= \dfrac{6 \cancel{0} \times 6 \cancel{0}}{1 \cancel{0} \cancel{0}} -30 \\\\
-                        &=36 - 30 \\\\
-                        &= 6
+\text {Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
+\text {Hebe score}            &= 60\% \ \text{of} \ 60 - 30 \\\\
+                              &= \dfrac {60} {100} \times 60 - 30 \\\\
+                              &= \dfrac {60 \times 60} {100} - 30 \\\\
+                              &= \dfrac {6 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} -30 \\\\
+                              &=36 - 30 \\\\
+                              &= 6
 \end{aligned}
 $
 
@@ -849,12 +849,12 @@ $6$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>ED0E72A9-DD21-4A7F-9701-21CDEA62D691</p>
 </div>
@@ -883,10 +883,10 @@ As per the question,
 
 $
 \begin{aligned}
-  1 \ \text{apple} + 2 \ \text{oranges}           &= 48 \ \text{p} \\\\
-- 1 \ \text{apple} + 1 \ \text{oranges}           &= 31 \ \text{p} \\\\
+  1 \ \text {apple} + 2 \ \text {oranges}           &= 48 \ \text {p} \\\\
+- 1 \ \text {apple} + 1 \ \text {oranges}           &= 31 \ \text {p} \\\\
 \uline
-                     1 \ \text{orange}            &= 17 \ \text{p}
+                     1 \ \text {orange}             &= 17 \ \text {p}
 \end{aligned}
 $
 
@@ -895,7 +895,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$17 \ \text{p}$
+$17 \ \text {p}$
 
 </div>
 </div>
@@ -904,7 +904,7 @@ $17 \ \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -983,7 +983,7 @@ $\pounds 1.8, \pounds 1.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>8887F042-1EF1-4B73-B76D-1171B3382465</p>
 </div>
@@ -1012,13 +1012,13 @@ Packs to be bought
 
 $
 \begin{aligned}
-&= \dfrac{\text{Total pens}} {\text{Pens per pack}} \\\\
-&= \dfrac{3 \times 70}{8} \\\\
-&= \dfrac{3 \times 35 \times 2}{4 \times 2} \\\\
-&= \dfrac{3 \times 35 \times \cancel{2}}{4 \times \cancel{2}} \\\\
-&= \dfrac{3 \times 35}{4} \\\\
-&= \dfrac{105}{4} \\\\
-&= 26 \dfrac{1}{4} \\\\
+&= \dfrac {\text {Total pens}} {\text {Pens per pack}} \\\\
+&= \dfrac {3 \times 70} {8} \\\\
+&= \dfrac {3 \times 35 \times 2} {4 \times 2} \\\\
+&= \dfrac {3 \times 35 \times \cancel{2}} {4 \times \cancel{2}} \\\\
+&= \dfrac {3 \times 35} {4} \\\\
+&= \dfrac {105} {4} \\\\
+&= 26 \dfrac {1} {4} \\\\
 \end{aligned}
 $
 
@@ -1038,12 +1038,12 @@ $27$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E1623FA7-4357-40D5-B38B-F87B2832B3C4</p>
 </div>
@@ -1070,18 +1070,18 @@ How much does each person pay?
 
 As per the question,
 
-$\text{Total cost} = \text{Cost per person per km} \times \text{No. of kilometers.}
+$\text {Total cost} = \text {Cost per person per km} \times \text {No. of kilometers.}
 
 $
 \begin{aligned}
-\text{Cost per person}      &= \dfrac{Total cost} {Total persons} \\\\
-                            &= \dfrac{2.42 \times 32}{11} \\\\
-                            &= \dfrac{2.42 \times 100 \times 32}{11 \times 100} \\\\
-                            &= \dfrac{242 \times 32} {11 \times 100} \\\\
-                            &= \dfrac{11 \times 11 \times 2 \times 32} {11 \times 100} \\\\
-                            &= \dfrac{11 \times 2 \times 32} {100} \\\\
-                            &= \dfrac{704}{100} \\\\
-\text{Cost per person}      &= \pounds 7.04
+\text {Cost per person}      &= \dfrac {Total cost} {Total persons} \\\\
+                             &= \dfrac {2.42 \times 32} {11} \\\\
+                             &= \dfrac {2.42 \times 100 \times 32} {11 \times 100} \\\\
+                             &= \dfrac {242 \times 32} {11 \times 100} \\\\
+                             &= \dfrac {11 \times 11 \times 2 \times 32} {11 \times 100} \\\\
+                             &= \dfrac {11 \times 2 \times 32} {100} \\\\
+                             &= \dfrac {704} {100} \\\\
+\text {Cost per person}      &= \pounds 7.04
 \end{aligned}
 $
 
@@ -1099,7 +1099,7 @@ $\pounds 7.04$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1157,9 +1157,9 @@ $45, 53$
 </ul>
 
 # Section B
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B09AF32E-2996-4090-B6BE-24F80181CD57</p>
 </div>
@@ -1188,9 +1188,9 @@ a \times 3 + 6      &= a + 16 \\\\
 3a + 6              &= a + 16 \\\\
 3a - a              &= 16 - 6 \\\\
 2a                  &= 10 \\\\
-a                   &= \dfrac{10}{2} \\\\
-a                   &= \dfrac{5 \times 2}{2} \\\\
-a                   &= \dfrac{5 \times \cancel{2}}{\cancel{2}} \\\\
+a                   &= \dfrac {10} {2} \\\\
+a                   &= \dfrac {5 \times 2} {2} \\\\
+a                   &= \dfrac {5 \times \cancel{2}} {\cancel{2}} \\\\
 a                   &= 5
 \end{aligned}
 $
@@ -1211,7 +1211,7 @@ $5$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1281,7 +1281,7 @@ $42 \ \text{coins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>CC0F7948-FB93-4B7D-B62E-499490AD2FB6</p>
 </div>
@@ -1311,7 +1311,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1342,7 +1342,7 @@ We can easily infer the values by using trial and error. Let's find out $2$ numb
 
 Factors of $84 = 1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 84$
 
-Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text{and} \ 7, 12$
+Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text {and} \ 7, 12$
 
 | Factors   |  Sum  | Numbers $< 20$    |
 |:-------:  |:----: |:---------------:  |
@@ -1390,9 +1390,9 @@ $
 a \times 9 - 15     &= 66 \\\\
 a \times 9          &= 66 + 15 \\\\
 a \times 9          &= 81 \\\\
-a                   &= \dfrac{81}{9} \\\\
-a                   &= \dfrac{9 \times 9}{9} \\\\
-a                   &= \dfrac{\cancel{9} \times 9}{\cancel{9}} \\\\
+a                   &= \dfrac {81} {9} \\\\
+a                   &= \dfrac {9 \times 9} {9} \\\\
+a                   &= \dfrac {\cancel{9} \times 9} {\cancel{9}} \\\\
 a                   &= 9
 \end{aligned}
 $
@@ -1416,7 +1416,7 @@ $9$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1461,7 +1461,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1548,7 +1548,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>51170D23-A840-4FED-BD59-6DC695B27849</p>
 </div>
@@ -1576,12 +1576,12 @@ Volume = length $\times$ width $\times$ height
 
 $
 \begin{aligned}
-\text{Maximum number of blocks}         &= \dfrac{\text{Volume of case}}{\text{Volume of brick}} \\\\
-                                        &= \dfrac{200 \times 180 \times 120}{30 \times 20 \times 15} \\\\
-                                        &= \dfrac{20 \times 2 \times 5 \times 30 \times 3 \times 3 \times 120}{30 \times 20 \times 5 \times 3} \\\\
-                                        &= \dfrac{\cancel{20} \times 2 \times \cancel{5} \times \cancel{30} \times \cancel{3} \times 3 \times 120}{\cancel{30} \times \cancel{20} \times \cancel{5} \times \cancel{3}} \\\\
-                                        &= 2 \times 2 \times 120 \\\\
-\text{Maximum number of blocks which can be fitted into the packing case}         &= 480
+\text{Maximum number of blocks}                                                    &= \dfrac {\text{Volume of case}} {\text{Volume of brick}} \\\\
+                                                                                   &= \dfrac {200 \times 180 \times 120} {30 \times 20 \times 15} \\\\
+                                                                                   &= \dfrac {20 \times 2 \times 5 \times 30 \times 3 \times 3 \times 120} {30 \times 20 \times 5 \times 3} \\\\
+                                                                                   &= \dfrac {\cancel{20} \times 2 \times \cancel{5} \times \cancel{30} \times \cancel{3} \times 3 \times 120} {\cancel{30} \times \cancel{20} \times \cancel{5} \times \cancel{3}} \\\\
+                                                                                   &= 2 \times 2 \times 120 \\\\
+\text {Maximum number of blocks which can be fitted into the packing case}         &= 480
 \end{aligned}
 $
 
@@ -1599,7 +1599,7 @@ $480$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1637,7 +1637,7 @@ There are $3$ moos in a quack and $13$ quacks in an oink.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1793,7 +1793,7 @@ A clock is $18 \ \text{minutes}$ slow, but is gaining $7 \dfrac{1}{2} \ \text{se
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1922,7 +1922,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2090,7 +2090,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2232,7 +2232,7 @@ TODOANSWER
 </ul>
 
 # Section C
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -2281,7 +2281,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2453,7 +2453,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2677,7 +2677,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2861,7 +2861,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3039,7 +3039,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

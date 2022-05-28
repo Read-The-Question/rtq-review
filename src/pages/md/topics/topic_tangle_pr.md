@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-pr"
 title: "Topic - Angle - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -212,7 +212,7 @@ Calculate the missing angles $p, q$ and $r$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -868,7 +868,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -982,14 +982,14 @@ The angles are all the same size, because it is regular. What is the special nam
 <div class='workings'>
 <div class='working'>
 
-$\text {Obtuse angle}$
+Obtuse angle
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Obtuse angle}$
+Obtuse angle
 
 </div>
 </div>
@@ -1181,7 +1181,7 @@ Find the missing angles by calculation. The diagrams are not to scale:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1196,16 +1196,19 @@ Find the missing angles by calculation. The diagrams are not to scale:
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
+Let the missing angle $= a$
+
+As per the diagram it is a right angle. The sum of a right angle $= 90 \degree$
 
 $
 \begin {aligned}
-\text {Sum of all the angles}  &= 90 \degree \\\\
 a + 44 \degree                 &= 90 \degree \\\\
 a                              &= 90 \degree - 44 \degree \\\\
 a                              &= 46 \degree
 \end {aligned}
 $
+
+Missing angle $= 46 \degree$
 
 </div>
 </div>
@@ -1233,17 +1236,22 @@ $46 \degree$
 <div class='workings'>
 <div class='working'>
 
+Let the missing angle $= b$
+
+As we know, the sum of angles on a straight line is $180 \degree$ 
+
 As per the diagram,
 
 $
 \begin {aligned}
-\text {Sum of all the angles}  &= 180 \degree \\\\
 b + 48 \degree + 67 \degree    &= 180 \degree \\\\
 b + 115 \degree                &= 180 \degree \\\\
 b                              &= 180 \degree - 115 \degree \\\\
 b                              &= 65 \degree
 \end {aligned}
 $
+
+Missing angle $= 65 \degree$
 
 </div>
 </div>
@@ -1271,14 +1279,15 @@ $65 \degree$
 <div class='workings'>
 <div class='working'>
 
+The sum of a complete angle is $360 \degree$ 
+
 As per the diagram,
 
 $
 \begin {aligned}
-\text {Sum of all angles}     &= 360 \degree \\\\
 d + 140 \degree + 160 \degree &= 360 \degree \\\\
-d + 300 \degree               &= 360 \degree \\\\
-d                             &= 360 \degree - 300 \degree \\\\
+d + 300                       &= 360 \\\\
+d                             &= 360 - 300 \\\\
 d                             &= 60 \degree
 \end {aligned}
 $
@@ -1337,7 +1346,7 @@ Calculate the size of the missing angles
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1579,7 +1588,7 @@ tangle
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1785,7 +1794,7 @@ Find the size of the angle, in degrees, turned by the **minute** hand of a clock
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2022,7 +2031,7 @@ The picture shows a tipper truck.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2223,7 +2232,7 @@ Calculate the angles marked with letters on the following diagrams.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2544,7 +2553,7 @@ $110\degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>C7288C8F-5D25-4733-9478-7992288F6CD7</p>
 </div>
@@ -2581,7 +2590,7 @@ All measurements on the diagram are in centimetres.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2664,7 +2673,7 @@ $30 \degree$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -2699,7 +2708,7 @@ tangle
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3122,7 +3131,7 @@ $16 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6</p>
 </div>
@@ -3152,9 +3161,9 @@ In a triangle, the exterior angle is always equal to the sum of the interior opp
 
 We also know that, in an isosceles triangle the two angles opposite to the equal side are congruent to each other.
 
-Exterior angle = $134 \degree$
+Exterior angle $= 134 \degree$
 
-Two angles of isosceles triangle = $x$
+Two angles of isosceles triangle $= x$
 $
 \begin{aligned}
 x + x                   &= 134 \\\\
@@ -3182,7 +3191,7 @@ $67 \degree$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

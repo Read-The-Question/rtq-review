@@ -1,9 +1,210 @@
 ---
 slug: "topics/topic-tnoexplanation-pr"
 title: "Topic - Noexplanation - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>D66F927C-0A34-4DAE-BB63-EAB3689C61CC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the number fourteen thousand and thirty six in figures.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$14036$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14036$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>680B2DDC-4438-441C-A50B-D93FE578EBF9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at the numbers in the star.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which two numbers are multiples of $6$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12, 30$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12, 30$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which two numbers are prime?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$17, 29$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17, 29$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which two numbers are factors of $70$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10, 14$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10, 14$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which two numbers are square numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9, 49$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9, 49$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
@@ -248,7 +449,7 @@ What are the missing values on each of these scales?
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -351,7 +552,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -707,7 +908,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -837,7 +1038,7 @@ Write the two **prime numbers** in the empty boxes.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -914,6 +1115,283 @@ $13 \times 7$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
+<p>20FCDF7C-160A-422B-8553-7B721DA71113</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two square numbers have a difference of $33$. Identify the two missing whole numbers that complete this calculation.
+
+$A^2 - B^2 = 33$
+
+Fill in the two empty boxes to show your answer:
+
+$\boxed{\phantom{1}} \ ^2 - \boxed{\phantom{1}} \ ^2 = 33$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\maroonC {7 ^ 2} - \maroonC {4 ^ 2} = 33$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 ^2 , 4 ^ 2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>2EF6FBC9-C042-42F3-9C0F-7BBB8E6DF8E8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**For question $\bold{17}$ and $\bold{18}$ use this information.**
+
+In my pencil case there are six pencils and two pens.
+
+If I take out one item and want it to be a pen which of these words best describes my chances?
+
+certain: $\quad$  fairly likely: $\quad$  evens: $\quad$  fairly unlikely: $\quad$  impossible
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Fairly unlikely}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Fairly unlikely}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>F96ADDDB-D1DA-4669-B9D8-6F1709C2D0E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tcoin
+</li>
+<li>
+tprobability
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**For question $\bold{39}$ to $\bold{43}$ make the most appropriate choice from this list to describe the chances.**
+
+impossible: $\quad$  very unlikely: $\quad$  unlikely: $\quad$  as likely as not: $\quad$  likely: $\quad$  very likely: $\quad$  certian
+
+When thrown a coin will show heads.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {likely}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {likely}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A bicycle will have two wheels.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Certain}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Certain}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>A47DB4E1-F2E1-4223-910E-E35218E5B40F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A boy selected at random from Year $7$ will have red hair.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {unlikely}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {unlikely}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>97658705-5BFD-43C2-8EC0-F96EA2170CC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+An ordinary dice will show a number below ten.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Certain}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Certain}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
 <p>32CCF206-C0DE-480B-BDD6-BAA8DE6F3758</p>
 </div>
 <div class='topics'>
@@ -934,14 +1412,14 @@ What does the $6$ in the number $3567.23$ stand for?
 <div class='workings'>
 <div class='working'>
 
-$\text {Tens}$
+$60$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Tens}$
+$60$
 
 </div>
 </div>
@@ -1025,14 +1503,14 @@ In the number $236.751$, what does the $7$ stand for?
 <div class='workings'>
 <div class='working'>
 
-$\text {Tenths}$
+$0.7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Tenths}$
+$0.7$
 
 </div>
 </div>
@@ -1156,14 +1634,14 @@ that you can make using the
 digits $4, 3, 9$ and $1$?
 Use each digit only once.
 
-A      B   C     D   E
+A        B       C       D       E
 $9413$  $1349$  $4319$  $1439$  $1934$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$1349$.
+$1349$
 
 </div>
 </div>
@@ -1209,14 +1687,14 @@ Write the time in $24 \ \text{hour}$ clock
 <div class='workings'>
 <div class='working'>
 
-$15 {:} 35 \ \text {p.m.}$
+$15 {:} 35$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$15 {:} 35 \ \text {p.m.}$
+$15 {:} 35$
 
 </div>
 </div>
@@ -1459,7 +1937,7 @@ $\boxed{2} \boxed{4}  \boxed{6} \boxed{7} \boxed{8}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1664,7 +2142,7 @@ Fill in the missing operations in the boxes:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1813,7 +2291,7 @@ Find the size of the angle, in degrees, turned by the **minute** hand of a clock
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1939,7 +2417,7 @@ London          ,$10{:}45$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2085,7 +2563,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2213,7 +2691,7 @@ Round $325.48$ to the following degrees of accuracy:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2416,7 +2894,7 @@ The table shows the distances in miles between some towns in the West country.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2512,7 +2990,6 @@ Write the number fifty-three thousand and eighteen in figures.
 <div class='workings'>
 <div class='working'>
 
-
 $53018$
 
 </div>
@@ -2578,7 +3055,7 @@ Using all these digits once only make
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2706,7 +3183,7 @@ Use the symbols $+, -, \div$ or $\times$ to make each calculation correct.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2938,7 +3415,7 @@ How long does the train take
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3154,7 +3631,7 @@ Now the letter $M$ is under the letter $A$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3345,7 +3822,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3360,14 +3837,14 @@ Write in figures the number *twenty thousand and thirteen*.
 <div class='workings'>
 <div class='working'>
 
-$2013$
+$20013$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2013$
+$20013$
 
 </div>
 </div>
@@ -3413,6 +3890,142 @@ $29.07$
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>5689F773-F52D-4D11-90B1-2CBEC3FBD759</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The number $8$ has four factors: $1, 2, 4$ and $8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which is the first number greater than $10$ to have exactly **four** factors?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$14$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down any number less than $20$ which has exactly **three** factors.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Some numbers have only **two** factors.
+
+What is the special name given to this type of number?
+
+*It may help you to write down some numbers with only two factors*.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+These numbers are called $\text {Prime numbers}$.
+
+Some of the $\text {Prime numbers}$ are,
+
+$2, 3, 5, 7, 11, 13, 17$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Prime numbers}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
@@ -3468,6 +4081,51 @@ $0.603$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>096131F4-72CE-446C-9543-2653E59BA346</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write these numbers in order of size, starting with the smallest:
+
+$3.4 \quad 3.34 \quad 3.304 \quad 3.043$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3.043, \quad 3.304, \quad 3.34, \quad 3.4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.043, \quad 3.304, \quad 3.34, \quad 3.4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -3563,7 +4221,7 @@ The numbers around the outside are in grams (g), and the numbers inside the circ
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3620,6 +4278,111 @@ The mass of the parcel $= 2.75 \ \text {oz}$
 <div class='answer'>
 
 $2.75 \ \text {oz}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>460183B0-7FB1-4AE5-A539-6CE39B381434</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+tdate
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jessica was born on $5$ January $2003$ and her friend Amelia was born exactly $9$ days earlier. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On which date was Amelia born?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$27 \ \text {December} 2002$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27 \ \text {December} 2002$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jessica’s $12 \text{th}$ birthday was on a Monday.
+
+On what day of the week was Amelia’s $12 \text{th}$ birthday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\ \text {Saturday}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\ \text {Saturday}$
 
 </div>
 </div>
@@ -3769,6 +4532,92 @@ $12.15$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>0C0A430F-C37E-414F-92E1-7B932AD3DBDA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in figures the number $\text{two hundred and twelve thousand and fifty seven}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$212057$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$212057$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>39E20826-B8B1-4C4D-AF60-A2D391BC499E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in figures the number three hundred and eight thousand, five hundred and twenty.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$308520$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$308520$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

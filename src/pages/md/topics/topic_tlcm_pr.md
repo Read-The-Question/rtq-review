@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tlcm-pr"
 title: "Topic - Lcm - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -186,6 +186,48 @@ $144$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>CE083B1E-5BCC-4335-A042-D895FCF015A8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tlcm
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which number between $60$ and $70$ is both divisble by $7$ and $9$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The LCM of $7$ and $9$ is $63$. 
+
+$63$ is between $60$ and $70$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$63$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>

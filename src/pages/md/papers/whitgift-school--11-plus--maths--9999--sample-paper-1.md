@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Whitgift School</h1>
@@ -14,7 +14,7 @@ date: 2022-05-27 04:53:12
 </div>
 
 # Section A
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ac_g2 question'>
 <div class='uuid'>
@@ -23,7 +23,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -71,7 +71,7 @@ $1080$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -119,7 +119,7 @@ $696$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -181,7 +181,7 @@ $196$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>A547290D-8C41-4C9B-A7F1-47894E812D75</p>
 </div>
@@ -205,7 +205,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= 18 - 17 + 16 - 15 + 14 - 13 \\\\
-&= 18 - 1 -1 - 13 \\\\
+&= 18 - 1 - 1 - 13 \\\\
 &= 3
 \end{aligned}
 $
@@ -224,7 +224,7 @@ $3$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -236,7 +236,7 @@ $3$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -430,7 +430,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>C1973D01-029D-4F22-8DE1-F3678679D1B4</p>
 </div>
@@ -449,9 +449,11 @@ Write in figures the number forty-two thousand and eight. How much is this numbe
 <div class='workings'>
 <div class='working'>
 
-The number is = $42008$
+The number is $= 42008$
 
 $1000000 - 42008 = 957992$
+
+This number is $957992$ less than one million.
 
 </div>
 </div>
@@ -467,7 +469,7 @@ $42008 \\\\ 957992$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -552,7 +554,7 @@ tunit
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -684,7 +686,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>A3C01E30-4AAA-4DBB-B19E-8F08BBF264E5</p>
 </div>
@@ -724,7 +726,7 @@ $
 \begin{aligned}
 &= \dfrac {15} {300} \times 100 \\\\
 &= \dfrac {15 \times 100} {300} \\\\
-&= \dfrac {15 \times 1 \cancel{0} \cancel{0}} {3 \cancel{0} \cancel{0}} \\\\
+&= \dfrac {15 \times 1 \cancel {00}} {3 \cancel {00}} \\\\
 &= \dfrac {15} {3} \\\\
 &= \dfrac {3 \times 5} {3} \\\\
 &= \dfrac {\cancel {3} \times 5} {\cancel {3}} \\\\
@@ -746,7 +748,7 @@ $5\%$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -801,7 +803,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>CB25A103-14EA-41BF-BF3D-B461BBA32FAB</p>
 </div>
@@ -834,7 +836,7 @@ Write each of these amounts to the nearest hundred pounds:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -843,7 +845,7 @@ Write each of these amounts to the nearest hundred pounds:
 </div>
 <div class='question subquestion'>
 
-$$\pounds 675$
+$\pounds 675$
 
 </div>
 <div class='workings'>
@@ -871,20 +873,20 @@ $\pounds 700$
 </div>
 <div class='question subquestion'>
 
-$$\pounds 2,945$
+$\pounds 2,945$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\pounds 2900$
+$\pounds 2,900$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2900$
+$\pounds 2,900$
 
 </div>
 </div>
@@ -899,7 +901,7 @@ $\pounds 2900$
 </div>
 <div class='question subquestion'>
 
-$$\pounds 90,095$
+$\pounds 90,095$
 
 </div>
 <div class='workings'>
@@ -924,12 +926,12 @@ $\pounds 90,100$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>C18FCA7C-4FCC-4CEF-A7BC-74F2C643EE3C</p>
 </div>
@@ -954,7 +956,7 @@ $
 \begin{aligned}
 &= \dfrac {24} {32} \\\\
 &= \dfrac {8 \times 3} {8 \times 4} \\\\
-&= \dfrac{\cancel{8} \times 3}{\cancel{8} \times 4} \\\\
+&= \dfrac {\cancel {8} \times 3} {\cancel {8} \times 4} \\\\
 &= \dfrac {3} {4} \\\\
 \end{aligned}
 $
@@ -973,7 +975,7 @@ $\dfrac {3} {4}$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1018,7 +1020,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1145,7 +1147,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1352,7 +1354,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B</p>
 </div>
@@ -1371,14 +1373,14 @@ Write down in rising order of size all the 3-digit numbers which can be formed b
 <div class='workings'>
 <div class='working'>
 
-$789 < \quad 798 < \quad 879 < \quad 897 < \quad 978 < \quad 987$
+$789 \quad < \quad 798 \quad < \quad 879 \quad < \quad 897 \quad < \quad 978 \quad < \quad 987$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$789 < \quad 798 < \quad 879 < \quad 897 < \quad 978 < \quad 987$
+$789 \quad < \quad 798 \quad < \quad 879 \quad < \quad 897 \quad < \quad 978 \quad < \quad 987$
 
 </div>
 </div>
@@ -1387,7 +1389,7 @@ $789 < \quad 798 < \quad 879 < \quad 897 < \quad 978 < \quad 987$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1457,7 +1459,7 @@ TODOANSWER
 </ul>
 
 # Section B C
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ac_g2 question'>
 <div class='uuid'>
@@ -1466,7 +1468,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-taddition
+tdetailedaddition
 </li>
 </ul>
 </div>
@@ -1715,7 +1717,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>52D2DD9F-0C37-4A1E-B05E-34549F9806B3</p>
 </div>
@@ -1756,7 +1758,7 @@ $28.4 \ \text{cm}^2$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1794,7 +1796,7 @@ There are $40$ coloured counters in a box. Half of them are red, one-fifth are y
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

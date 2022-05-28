@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>
@@ -14,9 +14,9 @@ date: 2022-05-27 04:53:12
 </div>
 
 # Section A
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>C23CC024-39E3-4323-97B6-0FC20D88C36D</p>
 </div>
@@ -39,10 +39,10 @@ Ensure to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    &1   &    5 \ .    &    0    &    5 \\
-{}- &1   &    4 \ .    &    8    &    4 \\
+    &   1   &    5 \ .    &    0    &    5 \\
+{}- &   1   &    4 \ .    &    8    &    4 \\
 \hline
-    &   &    0 \ .    &    2    &    1
+    &       &    0 \ .    &    2    &    1
 \end{array}
 $
 
@@ -60,12 +60,12 @@ $0.21$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>0FCDA851-B2B2-4FFB-A955-50509068409F</p>
 </div>
@@ -113,12 +113,12 @@ $221.2$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4856BEAB-6A07-4C28-8CA2-6773788E9F82</p>
 </div>
@@ -161,12 +161,12 @@ $459$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6B84438A-B59E-4370-8EA5-017FA8C5AADA</p>
 </div>
@@ -210,12 +210,12 @@ $\pounds 110.50$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>88D05932-EA04-4EA0-8EB7-90462AA68E6E</p>
 </div>
@@ -261,12 +261,12 @@ $6$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>25E902FC-7725-4A86-B481-912E52709734</p>
 </div>
@@ -285,22 +285,21 @@ Fill in the missing numbers:
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-&= \dfrac{3}{4} 100 \\\\
-&= \dfrac{3}{2 \times 2} \times 50 \times 2 \\\\
-&= \dfrac{3}{2 \times \cancel{2}} \times 50 \times \cancel{2} \\\\
-&= \dfrac{3}{2} \times 50 \\\\
-&= \dfrac{1}{2} \times 150
+&= \dfrac {3} {4} 100 \\\\
+&= \dfrac {3} {2 \times 2} \times 50 \times 2 \\\\
+&= \dfrac {3} {2 \times \cancel{2}} \times 50 \times \cancel{2} \\\\
+&= \dfrac {3 \times 50} {2} \\\\
+&= \dfrac {1} {2} \times 150
 \end{aligned}
 $
 
 $
 \begin{aligned}
-&= \dfrac{1}{3} \times 60 \\\\
-&= \dfrac{1}{3} \times 2 \times 30 \\\\
-&= \dfrac{2}{3} \times 30
+&= \dfrac {1} {3} \times 60 \\\\
+&= \dfrac {1} {3} \times 2 \times 30 \\\\
+&= \dfrac {2} {3} \times 30
 \end{aligned}
 $
 
@@ -313,7 +312,7 @@ $40, 150, 30$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -334,17 +333,16 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{1}{2} \times 20  &= \dfrac{1}{4} \times a \\\\
-\dfrac{1}{4} \times a   &= \dfrac{1}{2} \times 20 \\\\
-a                       &= \dfrac{1}{2} \times 20 \times 4 \\\\
-a                       &= \dfrac{1}{2} \times 20 \times 2 \times 2 \\\\
-a                       &= \dfrac{1}{\cancel{2}} \times 20 \times 2 \times \cancel{2} \\\\
+\dfrac{1}{2} \times 20  &= \dfrac {1} {4} \times a \\\\
+\dfrac{1}{4} \times a   &= \dfrac {1} {2} \times 20 \\\\
+a                       &= \dfrac {1} {2} \times 20 \times 4 \\\\
+a                       &= \dfrac {1} {2} \times 20 \times 2 \times 2 \\\\
+a                       &= \dfrac {1} {\cancel{2}} \times 20 \times 2 \times \cancel{2} \\\\
 a                       &= 20 \times 2 \\\\
 a                       &= 40
 \end{aligned}
 $
 
-
 </div>
 <div class='working'>
 
@@ -354,13 +352,13 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{3}{4} \times 100 &= \dfrac{1}{2} \times a \\\\
-\dfrac{1}{2} \times a   &= \dfrac{3}{4} \times 100 \\\\
-a                       &= \dfrac{3}{4} \times 100 \times 2 \\\\
-a                       &= \dfrac{3}{4} \times 25 \times 4 \times 2 \\\\
-a                       &= \dfrac{3}{\cancel{4}} \times 25 \times \cancel{4} \times 2 \\\\
-a                       &= 3 \times 25 \times 2 \\\\
-a                       &= 150
+\dfrac {3} {4} \times 100 &= \dfrac {1} {2} \times a \\\\
+\dfrac {1} {2} \times a   &= \dfrac {3} {4} \times 100 \\\\
+a                         &= \dfrac {3} {4} \times 100 \times 2 \\\\
+a                         &= \dfrac {3} {4} \times 25 \times 4 \times 2 \\\\
+a                         &= \dfrac {3} {\cancel{4}} \times 25 \times \cancel{4} \times 2 \\\\
+a                         &= 3 \times 25 \times 2 \\\\
+a                         &= 150
 \end{aligned}
 $
 
@@ -373,12 +371,12 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{1}{3} \times 60  &= \dfrac{2}{3} \times a \\\\
-\dfrac{2}{3} \times a   &= \dfrac{1}{3} \times 60 \\\\
-a                       &= \dfrac{1}{3} \times 60 \times \dfrac{3}{2} \\\\
-a                       &= \dfrac{1}{3} \times 30 \times 2 \times \dfrac{3}{2} \\\\
-a                       &= \dfrac{1}{\cancel{3}} \times 30 \times \cancel{2} \times \dfrac{\cancel{3}}{\cancel{2}}  \\\\
-a                       &= 30
+\dfrac{1} {3} \times 60  &= \dfrac {2} {3} \times a \\\\
+\dfrac{2} {3} \times a   &= \dfrac {1} {3} \times 60 \\\\
+a                        &= \dfrac {1} {3} \times 60 \times \dfrac {3} {2} \\\\
+a                        &= \dfrac {1} {3} \times 30 \times 2 \times \dfrac {3} {2} \\\\
+a                        &= \dfrac {1} {\cancel{3}} \times 30 \times \cancel{2} \times \dfrac {\cancel{3}} {\cancel{2}}  \\\\
+a                        &= 30
 \end{aligned}
 $
 
@@ -409,12 +407,12 @@ $30$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>7D2466F0-AE57-429A-BA31-12DECBC77D48</p>
 </div>
@@ -437,11 +435,11 @@ $0.627 = 0.6 + 0.02 + \ldots$
 
 $
 \begin{aligned}
-0.627 &= 0.6 + 0.02 + \ldots \\\\
-0.627 &= 0.6 + 0.02 + \text{Missing number} \\\\
-\text{Missing number}   &= 0.627 - 0.6 - 0.02 \\\\
-                        &= 0.627 - 0.62 \\\\
-                        &= 0.007
+0.627                    &= 0.6 + 0.02 + \ldots \\\\
+0.627                    &= 0.6 + 0.02 + \text {Missing number} \\\\
+\text {Missing number}   &= 0.627 - 0.6 - 0.02 \\\\
+                         &= 0.627 - 0.62 \\\\
+                         &= 0.007
 
 \end{aligned}
 $
@@ -461,12 +459,12 @@ $0.007$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>05AA06CF-C57A-4771-B89F-03FFAD47E78D</p>
 </div>
@@ -487,8 +485,6 @@ $0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
 <div class='workings'>
 <div class='working'>
 
-$= 0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
-
 The number closest to $0.1 = 0.13$
 
 </div>
@@ -505,7 +501,7 @@ $0.13$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -564,7 +560,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>FAB770D5-5506-4C76-B3C8-1CBAE36619B4</p>
 </div>
@@ -611,12 +607,12 @@ $3, 7, 11$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>DFD8D8D5-83F1-4AA0-B9E2-0ED508142867</p>
 </div>
@@ -640,16 +636,16 @@ Write in the missing numbers:
 
 As per the question,
 
-Halid adds the same amount each time. The difference between the consecutive terms of the sequence is always same. 
+Halid adds the same amount each time. The difference between the consecutive terms of the sequence is always same.
 
 Let take the amount $= a$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+a)}} 
-&&  \footnotesize{\maroonC{(+a)}}  
-&&  \footnotesize{\maroonC{(+a)}}   
-&&  \footnotesize{\maroonC{(+a)}} \\
+&   \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}}
+&&  \footnotesize {\maroonC{(+a)}} \\
 2,  &&    \ldots ,  &&  \ldots ,  &&   \ldots ,  &&   18
 \end{matrix}
 $
@@ -659,8 +655,8 @@ $
 2 + 4a      &= 18 \\\\
 4a          &= 18 - 2 \\\\
 4a          &= 16 \\\\
-a           &= \dfrac{4 \times 4}{4} \\\\
-a           &= \dfrac{4 \times \cancel{4}}{\cancel{4}} \\\\
+a           &= \dfrac {4 \times 4} {4} \\\\
+a           &= \dfrac {4 \times \cancel{4}} {\cancel{4}} \\\\
 a           &= 4
 \end{aligned}
 $
@@ -671,10 +667,10 @@ Hence the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+4)}} 
-&&  \footnotesize{\maroonC{(+4)}}  
-&&  \footnotesize{\maroonC{(+4)}}   
-&&  \footnotesize{\maroonC{(+4)}} \\
+&   \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}}
+&&  \footnotesize {\maroonC{(+4)}} \\
 2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
 \end{matrix}
 $
@@ -693,12 +689,12 @@ $6, 10, 14$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>0E67D44A-5CEB-4D9A-884E-E749B2C1F9D0</p>
 </div>
@@ -723,26 +719,26 @@ Each number in the sequence is double the previous number. Hence the sequence wo
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}} \\
+&   \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}}
+&&  \footnotesize {\maroonC{(\times 2)}} \\
 \ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48,  &&  \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Second missing number}       &= \dfrac{3}{2} \\\\
-                                   &= 1.5 \\\\
-\text{First missing number}        &= \dfrac{3}{2 \times 2} \\\\
-                                   &= \dfrac{3}{4} \\\\
-                                   &= 0.75
-\text{Third missing number}        &= 48 \times 2 \\\\
-                                   &= 96
+\text {Second missing number}       &= \dfrac {3} {2} \\\\
+                                    &= 1.5 \\\\
+\text {First missing number}        &= \dfrac {3} {2 \times 2} \\\\
+                                    &= \dfrac {3} {4} \\\\
+                                    &= 0.75
+\text {Third missing number}        &= 48 \times 2 \\\\
+                                    &= 96
 \end{aligned}
 $
 
@@ -760,12 +756,12 @@ $\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B51C61A9-BBFD-4FCA-9F5F-BB543CC361E8</p>
 </div>
@@ -798,16 +794,16 @@ $
 2a + 2  &= 14 \\\\
 2a      &= 14 - 2 \\\\
 2a      &= 12 \\\\
-a       &= \dfrac{12}{2} \\\\
-a       &= \dfrac{6 \times 2}{2} \\\\
-a       &= \dfrac{6 \times \cancel{2}}{\cancel{2}} \\\\
+a       &= \dfrac {12} {2} \\\\
+a       &= \dfrac {6 \times 2} {2} \\\\
+a       &= \dfrac {6 \times \cancel{2}} {\cancel{2}} \\\\
 a       &= 6
 \end{aligned}
 $
 
 No. of biscuits Juilia has $= 6$
 
-No. of biscuits Alysha has 
+No. of biscuits Alysha has
 
 $
 \begin{aligned}
@@ -831,12 +827,12 @@ Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>7B74D5EE-ABDD-4862-9E72-635714D53045</p>
 </div>
@@ -866,9 +862,9 @@ As per the question,
 $
 \begin{aligned}
 (a + 3) \times 5    &= 35 \\\\
-a + 3               &= \dfrac{35}{5} \\\\
-a + 3               &= \dfrac{7 \times 5}{5} \\\\
-a + 3               &= \dfrac{7 \times \cancel{5}}{\cancel{5}} \\\\
+a + 3               &= \dfrac {35} {5} \\\\
+a + 3               &= \dfrac {7 \times 5} {5} \\\\
+a + 3               &= \dfrac {7 \times \cancel{5}} {\cancel{5}} \\\\
 a + 3               &= 7 \\\\
 a                   &= 7 - 3 \\\\
 a                   &= 4
@@ -891,12 +887,12 @@ $4$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>485D2C3B-79CA-4AFB-A224-7A24063389FC</p>
 </div>
@@ -924,14 +920,14 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Weight of one match}      &= \dfrac{\text{Total weight} - \text{Weight of the box}}{\text{Number of matches}} \\\\
-                                &= \dfrac{45 - 12}{220} \\\\
-                                &= \dfrac{33}{220} \\\\
-                                &= \dfrac{3 \times 11}{2 \times 10 \times 11} \\\\
-                                &= \dfrac{3 \times \cancel{11}}{2 \times 10 \times \cancel{11}} \\\\
-                                &= \dfrac{3}{2} \times \dfrac{1}{10} \\\\
-                                &= \dfrac{1.5}{10} \\\\
-\text{Weight of one match}      &= 0.15 \ \text{grams}
+\text {Weight of one match}      &= \dfrac {\text {Weight of match box} - \text {Weight of empty box}} {\text{Number of matches}} \\\\
+                                 &= \dfrac {45 - 12} {220} \\\\
+                                 &= \dfrac {33} {220} \\\\
+                                 &= \dfrac {3 \times 11} {2 \times 10 \times 11} \\\\
+                                 &= \dfrac {3 \times \cancel{11}} {2 \times 10 \times \cancel{11}} \\\\
+                                 &= \dfrac {3} {2} \times \dfrac{1} {10} \\\\
+                                 &= \dfrac {1.5} {10} \\\\
+\text {Weight of one match}      &= 0.15 \ \text {grams}
 \end{aligned}
 $
 
@@ -949,12 +945,12 @@ $0.15 \ \text{grams}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>786ECD30-5585-4FE5-91C7-28D8FFC8B3AE</p>
 </div>
@@ -992,9 +988,9 @@ $
 a + 2a + 3a         &= 24 \\\\
 6a                  &= 24 \\\\
 3 \times 2a         &= 24 \\\\
-2a                  &= \dfrac{8 \times 3}{3} \\\\
-2a                   &= \dfrac{8 \times \cancel{3}}{\cancel{3}} \\\\
-2a                   &= 8
+2a                  &= \dfrac {8 \times 3} {3} \\\\
+2a                  &= \dfrac {8 \times \cancel{3}} {\cancel{3}} \\\\
+2a                  &= 8
 \end{aligned}
 $
 
@@ -1005,7 +1001,7 @@ Number of oranges used $= 2a = 8$
 <div class='answers'>
 <div class='answer'>
 
-$8 \ \text{oranges}$
+$8 \ \text {oranges}$
 
 </div>
 </div>
@@ -1014,12 +1010,12 @@ $8 \ \text{oranges}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4C42DA9B-C12A-4A7A-B493-F806C22437DB</p>
 </div>
@@ -1047,9 +1043,9 @@ This can be solved using ratios.
 
 $
 \begin{aligned}
-2 \ \text{boys}             &: 3 \ \text{girls} \\\\
-2 \times 21 \ \text{boys}   &: 3 \times 21 \ \text{girls} \\\\
-42 \ \text{boys}            &: 63 \ \text{girls}
+2 \ \text {boys}             &: 3 \ \text {girls} \\\\
+2 \times 21 \ \text {boys}   &: 3 \times 21 \ \text {girls} \\\\
+42 \ \text {boys}            &: 63 \ \text {girls}
 \end{aligned}
 $
 
@@ -1067,12 +1063,12 @@ $63 \ \text{girls}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6BC8FC6A-56E2-4B38-905F-06368D1DB22F</p>
 </div>
@@ -1101,12 +1097,12 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Area of shaded triangle}      &= \dfrac{4}{9} \times \text{Area of larger triangle} \\\\
-\text{Area of larger triangle}      &= \dfrac{9}{4} \times \text{Area of shaded triangle} \\\\
-                                    &= \dfrac{9}{4} \times 52 \\\\
-                                    &= \dfrac{9 \times 52}{4} \\\\
-                                    &= \dfrac{9 \times 13 \times 4}{4} \\\\
-                                    &= \dfrac{9 \times 13 \times \cancel{4}}{\cancel{4}} \\\\
+\text {Area of shaded triangle}     &= \dfrac {4} {9} \times \text {Area of larger triangle} \\\\
+\text {Area of larger triangle}     &= \dfrac {9} {4} \times \text {Area of shaded triangle} \\\\
+                                    &= \dfrac {9} {4} \times 52 \\\\
+                                    &= \dfrac {9 \times 52}{4} \\\\
+                                    &= \dfrac {9 \times 13 \times 4} {4} \\\\
+                                    &= \dfrac {9 \times 13 \times \cancel{4}} {\cancel{4}} \\\\
                                     &= 9 \times 13 \\\\
 \text{Area of larger triangle}      &= 117 \ \text{cm}^2
 \end{aligned}
@@ -1126,7 +1122,7 @@ $117 \ \text{cm}^2$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1242,7 +1238,7 @@ TODOANSWER
 </ul>
 
 # Section B
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -1354,7 +1350,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF</p>
 </div>
@@ -1373,27 +1369,27 @@ I am thinking of a number that when I multiply it by two and divide the result b
 <div class='workings'>
 <div class='working'>
 
-Let the number I think $=a$
+Let the number you thought of $=a$
 
 As per the question,
 
 $
 \begin{aligned}
-\dfrac{\dfrac{2 \times a}{4} \times \dfrac{2 \times a}{4} - 4 } {10}        &= 6 \\\\
-\dfrac{2 \times a}{2 \times 2} \times \dfrac{2 \times a}{2 \times 2} - 4    &= 6 \times 10 \\\\
-\dfrac{\cancel{2} \times a}{\cancel{2} \times 2} \times \dfrac{\cancel{2} \times a}{\cancel{2} \times 2} - 4    &= 60 \\\\
-\dfrac{a}{2} \times \dfrac{a}{2} - 4                                        &= 60 \\\\
-\dfrac{a}{2} \times \dfrac{a}{2}                                            &= 60 + 4 \\\\
-\dfrac{a \times a}{2 \times 2}                                              &= 64 \\\\
-\dfrac{a \times a}{4}                                                       &= 64 \\\\
-a \times a                                                                  &= 64 \times 4 \\\\
-a \times a                                                                  &= 256 \\\\
-a \times a                                                                  &= 16 \times 16 \\\\
-a                                                                           &= 16
+\dfrac {\dfrac {2 \times a} {4} \times \dfrac {2 \times a} {4} - 4 } {10}                                           &= 6 \\\\
+\dfrac {2 \times a} {2 \times 2} \times \dfrac {2 \times a} {2 \times 2} - 4                                        &= 6 \times 10 \\\\
+\dfrac {\cancel{2} \times a} {\cancel{2} \times 2} \times \dfrac {\cancel{2} \times a} {\cancel{2} \times 2} - 4    &= 60 \\\\
+\dfrac {a} {2} \times \dfrac{a}{2} - 4                                                                              &= 60 \\\\
+\dfrac {a} {2} \times \dfrac{a}{2}                                                                                  &= 60 + 4 \\\\
+\dfrac {a \times a} {2 \times 2}                                                                                    &= 64 \\\\
+\dfrac {a \times a} {4}                                                                                             &= 64 \\\\
+a \times a                                                                                                          &= 64 \times 4 \\\\
+a \times a                                                                                                          &= 256 \\\\
+a \times a                                                                                                          &= 16 \times 16 \\\\
+a                                                                                                                   &= 16
 \end{aligned}
 $
 
-The number I think $=16$
+The number you thought of $=16$
 
 </div>
 </div>
@@ -1409,7 +1405,7 @@ $16$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1456,7 +1452,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1544,7 +1540,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>59DED6AF-072C-4471-8B10-931ECD8F050E</p>
 </div>
@@ -1591,9 +1587,10 @@ The cost of a banana
 
 $
 \begin{aligned}
-&= 32 - 3 \times 7 \text{p} \\\\
-&= 32 - 21 \text{p} \\\\\
-&= 11 \text{p}
+b &= 32 - 3 \times a \\\\
+b &= 32 - 3 \times 7 \text {p} \\\\
+b &= 32 - 21 \text {p} \\\\\
+b &= 11 \text {p}
 \end{aligned}
 $
 
@@ -1611,7 +1608,7 @@ $11 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1651,7 +1648,7 @@ The combined age of Alan and Carl is fifty five and the combined age of Ben and 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1915,7 +1912,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2100,7 +2097,7 @@ TODOANSWER
 </ul>
 
 # Section C
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -2149,7 +2146,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2437,7 +2434,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2712,7 +2709,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2848,7 +2845,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3033,7 +3030,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-g1"
 title: "Topic - Money - G1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -598,6 +598,120 @@ $\pounds 10.08$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>46664E26-E770-4B0F-B7E5-14B5277F63F5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Neruka bought a pen costing $\pounds 4.93$, a pencil costing $24 \text{p}$ and a ruler costing $58 \text{p}$. How much did she spend altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Money spent} &= \pounds 4.93 + 24 \text{p} + 58 \text{p} \\\\
+                   &= \pounds 4.93 + \pounds \dfrac {24} {100} + \pounds \dfrac {58} {100} \\\\
+                   &= \pounds 4.93 + \pounds 0.24 + \pounds 0.58 \\\\
+                   &= \pounds 5.75
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 5.75$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+She paid for them witha $\pounds 20$ note.
+
+How much change did she get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Change received} &= 20 - 5.75 \\\\
+                       &= \pounds 14.25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 14.25$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>ADF03135-2BED-4722-A77F-AEF96CA568D8</p>
@@ -741,7 +855,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -935,7 +1049,7 @@ He hopes to complete *either* $8$ or $10 \ \text{miles}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1133,7 +1247,7 @@ Sasha is selling greetings cards and gifts for Mothers' Day.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1890,7 +2004,7 @@ $20 \ \%$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tmoney
@@ -2152,7 +2266,7 @@ and she worked out that if she bought $8$ lollipops she would end up with $30 \t
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2358,7 +2472,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2535,7 +2649,7 @@ He buys a burger for $\pounds 3.99$, a milk shake for $\pounds 1.65$, and a fudg
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2721,7 +2835,7 @@ tpercentage
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3270,7 +3384,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3400,7 +3514,7 @@ Calculate the following, using the most appropriate unit for your answers.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3627,7 +3741,7 @@ Mary is saving pennies. She draws the grid above for seven days of the week. Eac
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3653,7 +3767,7 @@ How much did she save on
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -3799,7 +3913,7 @@ Calculate
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3920,7 +4034,7 @@ Find:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4199,7 +4313,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4620,7 +4734,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4837,6 +4951,7 @@ Find four ninths of $963\text{p}$
 
 $
 \begin{aligned}
+&= \text {four ninths of} \ 963 \text{p} \\\\
 &= \dfrac {4} {9} \ \text{ of } \ 963 \text{p} \\\\
 &= \dfrac {4} {9} \times 963 \text{p} \\\\
 &= \dfrac {4 \times 963} {9} \\\\
@@ -4890,6 +5005,7 @@ Find five eighths of $408 \text{p}$
 
 $
 \begin{aligned}
+&= \text[five eighths of} \ 408 \text{p} \\\\
 &= \dfrac {5} {8} \ \text{of} \ 408 \text{p} \\\\
 &= \dfrac {5} {8} \times 408 \text{p} \\\\
 &= \dfrac {5 \times 408} {8} \\\\
@@ -4952,7 +5068,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5135,6 +5251,56 @@ $\pounds 43.75$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>B474E464-5AEF-419A-9B3D-08581A43D0DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On holiday last year Phil bought $10$ post cards at $45 \text{p}$ each and $10\ \text{second}$ class stamps at $27 \text{p}$ each. How much change did he get from a $\pounds 10$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+$
+\begin{aligned}
+\text{Change he will get}                       &= \text{Total money} - 10 \times \text{Cost of postcard} - 10 \times \text{Cost of stamp} \\\\
+                                                &= \pounds 10 - 10 \times 45 \text{p} - 10 \times 27 \text{p} \\\\
+                                                &= \pounds 10 - \pounds \dfrac {450} {100} - \pounds \dfrac {270} {100} \\\\
+                                                &= \pounds 10 - \pounds 4.50 - \pounds 2.70 \\\\
+                                                &= \pounds 2.80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.80$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>07B7F155-62F9-4100-8C73-1796ABA98DCB</p>
 </div>
 <div class='topics'>
@@ -5215,7 +5381,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5431,7 +5597,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5573,6 +5739,70 @@ $\pounds 6.20$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>7CF52F4B-090D-493A-8346-80188BAA6634</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Karen and Fran have some money. Karen has $\pounds 9$ more than Fran, together they have $\pounds 45$. How much money does Karen have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the money Fran have $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Money Karen have} + \text{Money Fran have}        &= \text{Total money} \\\\
+(a + 9) + a                                             &= \pounds 45 \\\\
+2a                                                      &= 45 - 9 \\\\
+2a                                                      &= 36 \\\\
+2a                                                      &= 36 \\\\
+a                                                       &= \dfrac {36} {2} \\\\
+a                                                       &= \dfrac {2 \times 18} {2} \\\\
+a                                                       &= \dfrac {\cancel{2} \times 18} {\cancel{2}} \\\\
+a                                                       &= \pounds 18
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Money Fran have}                                  &= \pounds 18 \\\\
+\text{Money Karen have}                                 &= \pounds 45 - \pounds 18 \\\\
+                                                        &= \pounds 27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>E939A9F2-9AF4-43F6-9C5F-9F1C96A47959</p>
 </div>
 <div class='topics'>
@@ -5629,6 +5859,60 @@ $\pounds 4$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>29A6018D-4F9B-47BC-AEF7-2AB556029423</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If an adult ticket on the bus costs $\pounds 1.50$ and a child ticket costs $90 \text{p}$, how much change will a family of $2$ adults and their $3$ children get if they pay with a $\pounds 10$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Change they get}                          &= \text{Money paid - Cost of ticket for} \ 2 \ \text {Adults -  Cost of ticket for} \ 3 \ \text{Children} \\\\
+                                                &= \pounds 10 - 2 \times \pounds 1.50 - 3 \times 90 \text{p} \\\\
+                                                &= \pounds 10 - \pounds 3 - 270 \text{p} \\\\
+                                                &= \pounds 10 - \pounds 3 - \pounds \dfrac {270} {100} \\\\
+                                                &= \pounds 10 - \pounds 3 - \pounds 2.70 \\\\
+                                                &= \pounds 10 - \pounds 5.70 \\\\
+                                                &= \pounds 4.30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4.30$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>F83507F2-235E-4ABA-AC49-C50C6D08899E</p>
@@ -5662,7 +5946,7 @@ In a sale, normal prices were reduced by $35 \%$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5831,7 +6115,7 @@ I am counting up the money from the tombola at the end of the school fair.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5953,7 +6237,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6136,9 +6420,6 @@ $\pounds 2.6$
 <div class='topics'>
 <ul>
 <li>
-taddition
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -6188,7 +6469,7 @@ $\pounds 1.85$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 <li>
 tmoney
@@ -6270,7 +6551,7 @@ biscuits and one cup of tea and is charged $\pounds 6.50$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7038,7 +7319,7 @@ This week he bought $72$ football cards.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7140,7 +7421,7 @@ Each pack costs $35 \ \text{pence}$.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -7784,7 +8065,7 @@ A box of $7$ grapefruit costs $\pounds 3.29$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8194,7 +8475,7 @@ talgebra
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

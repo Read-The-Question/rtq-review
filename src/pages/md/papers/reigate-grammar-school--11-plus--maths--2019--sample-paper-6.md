@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Reigate Grammar School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
@@ -245,7 +245,7 @@ $\pounds 23.20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>0EC15166-4610-4A6E-9117-A2461D762D1D</p>
 </div>
@@ -268,9 +268,9 @@ To find the biggest number that divides exactly into $16$, $32$, and $56$, we ne
 
 $
 \begin{aligned}
-\text {Prime Factors of} \ 16 &= 2 \times \bold{2 \times 2 \times 2} \\\\
-\text {Prime Factors of} \ 32 &= 2 \times 2 \times \bold{2 \times 2 \times 2} \\\\
-\text {Prime Factors of} \ 56 &= \bold{2 \times 2 \times 2} \times 7
+\text {Prime factors of} \ 16 &= 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime factors of} \ 32 &= 2 \times 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime factors of} \ 56 &= \bold{2 \times 2 \times 2} \times 7
 \end{aligned}
 $
 
@@ -282,6 +282,8 @@ $
 &= 8
 \end{aligned}
 $
+
+The biggest number that divides exactly into $16$, $32$, and $56=8$
 
 </div>
 </div>
@@ -297,7 +299,7 @@ $8$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -405,7 +407,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -526,7 +528,7 @@ tfraction
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -726,7 +728,7 @@ tdecimal
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -933,7 +935,7 @@ Calculate:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1151,7 +1153,7 @@ $56 \times 134 = 7504$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1374,7 +1376,7 @@ What are the missing numbers in the following calculations?
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1689,7 +1691,7 @@ Martin the builder needs to build a wall $19$ bricks wide and $14$ bricks high.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1856,7 +1858,7 @@ The diagram shows a regular pentagon.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1996,7 +1998,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2110,9 +2112,9 @@ As per the diagram,
 
 $
 \begin{aligned}
-110 + 100 + 75 + x            &= 360 \\\\
-x                             &= 360 - 110 - 100 - 75 \\\\
-x                             &= 75 \degree
+110 \degree + 100 \degree + 75 \degree + x \degree            &= 360 \degree \\\\
+x                                                             &= 360 - 110 - 100 - 75 \\\\
+x                                                             &= 75 \degree
 \end{aligned}
 $
 
@@ -2165,7 +2167,7 @@ Julie and Sarika are doing a $24 \ \text{km}$ sponsored walk.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2253,7 +2255,7 @@ $8 \ \text{km}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>B355D689-5D56-4D03-B1EC-8DC3BB5F8DEE</p>
 </div>
@@ -2308,12 +2310,12 @@ $76 \text{m}^{2}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>7CF52F4B-090D-493A-8346-80188BAA6634</p>
 </div>
@@ -2350,8 +2352,6 @@ a                                                       &= \pounds 18
 \end{aligned}
 $
 
-Money Fran have $= \pounds 18$
-
 $
 \begin{aligned}
 \text{Money Fran have}                                  &= \pounds 18 \\\\
@@ -2374,7 +2374,7 @@ $\pounds 27$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -2421,7 +2421,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2546,7 +2546,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>7B83BD4F-38FE-4088-BDD0-C94A2203662F</p>
 </div>
@@ -2569,7 +2569,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cars neither blue nor red)}             &= \text{Total cars - Blue cars - Red cars}  \\\\
+\text{Cars neither blue nor red}              &= \text{Total cars - Blue cars - Red cars}  \\\\
                                               &= 48 - \dfrac {3} {8} \times 48 - 25\% \times 48 \\\\
                                               &= 48 - \dfrac {3 \times 48} {8} - \dfrac {25 \times 48} {100} \\\\
                                               &= 48 - \dfrac {3 \times 6 \times 8} {8} -  \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
@@ -2594,7 +2594,7 @@ $18$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -2689,7 +2689,7 @@ A new mathematical operation has been invented. For any two numbers $𝑥∎𝑦
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2856,7 +2856,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

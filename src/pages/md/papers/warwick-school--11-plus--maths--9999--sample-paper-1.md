@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>Warwick School</h1>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
@@ -44,7 +44,7 @@ Work out:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -229,7 +229,7 @@ Calculate
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -379,7 +379,7 @@ Write your answers in the boxes provided
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -665,7 +665,7 @@ tratio
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -874,7 +874,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1007,7 +1007,7 @@ $7.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>9918BF12-FEBA-4F5C-898C-ACF17E04EDD0</p>
 </div>
@@ -1040,7 +1040,7 @@ Give one answer only for each of the following questions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1055,11 +1055,14 @@ Write down any multiple of $8$ between $50$ and $70$
 <div class='workings'>
 <div class='working'>
 
-$8 \times 7 = 56$
+$
+\begin{aligned}
+8 \times 7 &= 56 \ \text {Or,} \\\\
+8 \times 8 &= 64
+\end{aligned}
+$
 
-$8 \times 8 = 64$
-
-$8 \times 9 = 72$
+A multiple of $8$ between $50$ and $70$ $= 56$.
 
 </div>
 </div>
@@ -1087,7 +1090,7 @@ Write down a prime number between $48$ and $60$
 <div class='workings'>
 <div class='working'>
 
-Prime numbers between $48$ and $60 = 53, 59$
+Prime numbers between $48$ and $60 = 53,\ 59$
 
 </div>
 </div>
@@ -1115,7 +1118,7 @@ Write down a factor of $90$ that is between $12$ and $25$
 <div class='workings'>
 <div class='working'>
 
-Factors of $90$ between $12$ and $25 = 15, 18$
+Factors of $90$ between $12$ and $25 = 15, \ 18$
 
 </div>
 </div>
@@ -1143,7 +1146,7 @@ Write down a square number between $30$ and $60$
 <div class='workings'>
 <div class='working'>
 
-Square numbers between $30$ and $60 = 36, 49$
+Square numbers between $30$ and $60 = 36, \ 49$
 
 </div>
 </div>
@@ -1171,13 +1174,16 @@ Write down a 2-digit number that is both a square number and cube number
 <div class='workings'>
 <div class='working'>
 
-2-digit numbers that are squares $=16, 25, 36, 49, 64, 81$
+2-digit numbers that are squares $=16, \ 25, \ 36, \ 49, \ 64, \ 81$
 
-$25, 36, 49$ and $81$ are not cube numbers.
+$25, \ 36, \ 49$ and $81$ are not cube numbers.
 
-$8^2 = 64$
-
-$4^3 = 64$
+$
+\begin{aligned}
+8^2 &= 64 \\\\
+4^3 &= 64
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1196,7 +1202,7 @@ $64$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1269,7 +1275,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>75A55853-F6F6-49CC-BDCE-31C9343FD3FB</p>
 </div>
@@ -1297,24 +1303,24 @@ In this case, let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
-&= \dfrac {4} {5} , \quad 0.82 , \quad 0.802 , \quad 8\% , \quad 9 \ \text{hundredths} , \quad \dfrac {3} {4} \\\\
-&= \dfrac {4 \times 20} {5 \times 20} , \quad 0.82 , \quad \dfrac 0.802 , \quad \dfrac {8} {100} , \quad \dfrac {9} {100} , \quad \dfrac {3 \times 25} {4 \times 25} \\\\
-&= \dfrac {80} {100} , \quad 0.82 , \quad 0.802 , \quad \dfrac 0.08 , \quad 0.09 , \quad \dfrac {75}{100} \\\\
-&= 0.8 , \quad 0.82 , \quad 0.802 , \quad \dfrac 0.08 , \quad 0.09 , \quad 0.75
+&= \dfrac {4} {5} , \quad 0.82 , \quad 0.802 , \quad 8\% , \quad 9 \ \text {hundredths} , \quad \dfrac {3} {4} \\\\
+&= \dfrac {4 \times 20} {5 \times 20} , \quad 0.82 , \quad 0.802 , \quad \dfrac {8} {100} , \quad \dfrac {9} {100} , \quad \dfrac {3 \times 25} {4 \times 25} \\\\
+&= \dfrac {80} {100} , \quad 0.82 , \quad 0.802 , \quad 0.08 , \quad 0.09 , \quad \dfrac {75} {100} \\\\
+&= 0.8 , \quad 0.82 , \quad 0.802 , \quad 0.08 , \quad 0.09 , \quad 0.75
 \end{aligned}
 $
 
 Let's put them in ascending order now.
 
-$&= 0.08 , \quad 0.09 , \quad 0.75 , \quad \dfrac 0.8 , \quad 802 , \quad 0.82$
-$8% , \quad 9 \ \text{hundredths}, \quad \dfrac {3}{4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
+$&= 0.08 , \quad 0.09 , \quad 0.75 , \quad 0.8 , \quad 0.802 , \quad 0.82$
+$8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8% , \quad 9 \ \text{hundredths}, \quad \dfrac {3}{4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
+$8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
 
 </div>
 </div>
@@ -1323,7 +1329,7 @@ $8% , \quad 9 \ \text{hundredths}, \quad \dfrac {3}{4} , \quad \dfrac {4} {5} , 
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1380,7 +1386,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6</p>
 </div>
@@ -1406,7 +1412,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Temperature in midday}    &= -3 \degree C \\\\
-\text{Temperature at midnight}  &= -3 + 5 - 11 \degree C 
+\text{Temperature at midnight}  &= -3 \degree C + 5 \degree C - 11 \degree C \\\\
                                 &= -9 \degree C
 \end{aligned}
 $
@@ -1425,7 +1431,7 @@ $-9 \degree C$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1470,7 +1476,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1557,7 +1563,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>63ED19B8-7E96-4F52-9B00-D3ED22D0D160</p>
 </div>
@@ -1576,21 +1582,21 @@ I think of a number, add $4$ and then multiply by $3$. The result is $63$. What 
 <div class='workings'>
 <div class='working'>
 
-Let the number I thought = $a$
+Let the number I thought $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-(a + 4) \times 3        &= 63 \\\\
-3a + 4 \times 3         &= 63 \\\\
-3a + 12                 &= 63 \\\\
-3a                      &= 63 - 12 \\\\
-3a                      &= 51 \\\\
-a                       &= \dfrac {51} {3} \\\\
-a                       &= \dfrac {17 \times 3} {3} \\\\
-a                       &= \dfrac {17 \times \cancel {3}} {\cancel {3}} \\\\
-a                       &= 17
+(a + 4) \times 3              &= 63 \\\\
+3 \times a + 4 \times 3       &= 63 \\\\
+3a + 12                       &= 63 \\\\
+3a                            &= 63 - 12 \\\\
+3a                            &= 51 \\\\
+a                             &= \dfrac {51} {3} \\\\
+a                             &= \dfrac {17 \times 3} {3} \\\\
+a                             &= \dfrac {17 \times \cancel {3}} {\cancel {3}} \\\\
+a                             &= 17
 \end{aligned}
 $
 
@@ -1608,7 +1614,7 @@ $17$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1648,7 +1654,7 @@ Use this result to give the answers to the questions below:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1852,7 +1858,7 @@ $4446$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>AB828C03-B38E-492A-A9FB-885D098D187F</p>
 </div>
@@ -1876,13 +1882,12 @@ Calculate $(40\% of 90) + (3/7 of 63)$
 
 $
 \begin{aligned}
-&= 40\% \ \text{of} \ 90 + \dfrac {3} {7} \ \text{of} \ 63 \\\\
+&= 40\% \ \text {of} \ 90 + \dfrac {3} {7} \ \text {of} \ 63 \\\\
 &= \dfrac {40} {100} \times 90 + \dfrac {3} {7} \times 63 \\\\
 &= \dfrac {40 \times 90} {100} + \dfrac {3 \times 63} {7} \\\\
 &= \dfrac {4 \cancel {0} \times 9 \cancel {0}} {1 \cancel {0} \cancel {0}} + \dfrac {3 \times 9 \times 7} {7} \\\\
 &= 4 \times 9 + \dfrac {3 \times 9 \times \cancel {7}} {\cancel {7}} \\\\
 &= 4 \times 9 + 3 \times 9 \\\\
-&= 36 + 27 \\\\
 &= 36 + 27 \\\\
 &= 63
 \end{aligned}
@@ -1902,7 +1907,7 @@ $63$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2029,7 +2034,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2116,7 +2121,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6</p>
 </div>
@@ -2146,9 +2151,9 @@ In a triangle, the exterior angle is always equal to the sum of the interior opp
 
 We also know that, in an isosceles triangle the two angles opposite to the equal side are congruent to each other.
 
-Exterior angle = $134 \degree$
+Exterior angle $= 134 \degree$
 
-Two angles of isosceles triangle = $x$
+Two angles of isosceles triangle $= x$
 $
 \begin{aligned}
 x + x                   &= 134 \\\\
@@ -2176,7 +2181,7 @@ $67 \degree$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2278,7 +2283,7 @@ A bag contains coloured balls. There are **4 red**, **2 blue** and **1 green** i
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2557,7 +2562,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2712,7 +2717,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2977,7 +2982,7 @@ A minibus can carry a maximum of $17$ people.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3202,7 +3207,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

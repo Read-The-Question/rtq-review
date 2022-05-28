@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttrialerror-all"
 title: "Topic - Trialerror - All"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -264,7 +264,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -365,7 +365,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>E0DF26E4-1A30-4BCD-84C9-1C135AACA602</p>
 </div>
@@ -431,7 +431,7 @@ $25 \times 4$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -658,7 +658,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -740,7 +740,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>

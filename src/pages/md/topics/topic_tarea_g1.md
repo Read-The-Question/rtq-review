@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-g1"
 title: "Topic - Area - G1"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -95,7 +95,7 @@ I wish to cover a wall measuring $2 \ \text{m}$ by $6 \ \text{m}$ in tiles which
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -351,7 +351,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -845,7 +845,7 @@ The hole in the middle has an area of $400 \ \text{cm}^2$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1105,7 +1105,7 @@ A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1308,7 +1308,7 @@ Find:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1464,6 +1464,99 @@ $50 \ \text{cm} ^2$
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>FA3111F3-33F1-4247-9DB3-34AB4A300F6F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tgeometry
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A room measures $8 \ \text{m}$ by $20 \ \text{m}$.
+Isabelle wants to tile the floor with square tiles.
+
+What is the length of the largest tile she can use so that all the floor will be covered?
+
+-  $2 \ \text{m}$
+-  $3 \ \text{m}$
+-  $4 \ \text{m}$
+-  $5 \ \text{m}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+Length $= 8 \ \text{m}$
+
+Width  $= 20 \ \text{m}$
+
+
+To use complete tiles, without cutting, the size of the square tile must divide both the length and width of the room. 
+
+Let's find the highest common factor of $8$ and $20$.
+
+Factors of $8 = 1, 2, \bold 4, 8$
+
+Factors of $20 = 1, 2, \bold 4, 5, 20$
+
+The highest common factor of $8$ and $20=4$.
+
+So, the length of the largest square Isabelle can use so that all the floor will be covered $= 4 \ \text{m}$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+As per the question,
+
+LCM of 8 and 20 $= 40$
+
+$
+\begin{aligned}
+\text{Area of room}                                   &= \text{Length} \times \text{Width} \\\\
+                                                      &= 8 \ \text{m} \times 20 \ \text{m}\\\\
+                                                      &= 160 \ \text{m}^2
+\text{Largest square tile that can be used}           &= \dfrac {160} {40} \\\\
+                                                      &= 4 \ \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$4 \ \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -1776,7 +1869,7 @@ A square has a perimeter of $20\ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2082,7 +2175,7 @@ The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2259,6 +2352,66 @@ $
 <div class='answer'>
 
 $32 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>B355D689-5D56-4D03-B1EC-8DC3BB5F8DEE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around the edge of the garden, with a swimming pool inside the path. Find the area of the path.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know,
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of pool}                                &= (\text{Length of garden - 2} \times \text{Width of path}) \times (\text{Width of garden - 2} \times \text{Width of path}) \\\\
+                                                   &= (15 \text{m} - 2 \text{m} \times 2 \text{m}) \times (8 \text{m} - 2 \text{m} \times 2 \text{m}) \\\\
+                                                   &= (15 - 4) \times (8 - 4) \\\\
+                                                   &= 11 \times 4 \\\\
+                                                   &= 44 \text{m}^{2} \\\\
+\text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
+                                                   &= 15 \text{m} \times 8 \text{m}  - 44 \text{m}^{2} \\\\
+                                                   &= 120 - 44 \\\\
+                                                   &= 76 \text{m}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$76 \text{m}^{2}$
 
 </div>
 </div>
@@ -2562,7 +2715,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2679,7 +2832,7 @@ The following grid is made of $1 \ \text{cm}$ squares.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2934,7 +3087,7 @@ Its length is $8 \ \text{m}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

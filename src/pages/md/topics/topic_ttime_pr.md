@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-pr"
 title: "Topic - Time - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-27 04:53:12
 </div>
 <div class='topics'>
 <ul>
+<li>
+tsimpleword
+</li>
 <li>
 ttime
 </li>
@@ -93,7 +96,7 @@ Car Parking Charges: $\pounds 1.80$ per hour
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -575,22 +578,17 @@ For how many hours is it open each week?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Sat}            &= 9 \ \text {till} \ 5 \\\\
-                      &= 8 \ \text {hours} \\\\
-\text{Sun}            &= 1 \ \text {till} \ 5 \\\\
-                      &= 4 \ \text {hours} \\\\
-\text{Wed and fri}    &= 2 \ \text {till} \ 5 \\\\
-                      &= 3 \ \text {hours each}
-\end{aligned}
-$
+| Day                | Opening hours   |
+|--------------------|-----------------|
+| SAT                | 9 Till 5        |
+| SUN                | 1 Till 5        |
+| WEDS and FRI       | 2 Till 5        |
 
 Let's calculate the total hours it is open in each week.
 
 $
 \begin{aligned}
-\text{Total hours}   &= \text {Opening hours on Sat} + \text {Opening hours on Sun} + \text {Opening hours on Wed} + \text {Opening hours on Fri} \\\\
+\text{Total hours}   &= \text {Sat} + \text {Sun} + \text {Wed} + \text {Fri} \\\\
                      &= 8 \ \text {hours}  +  4 \ \text {hours} +  3 \ \text {hours} +  3 \ \text {hours} \\\\
                      &= 18 \ \text{hours}
 \end{aligned}
@@ -636,8 +634,6 @@ What fraction of an hour is $5$ minutes?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As we know, minutes in an hour $=60$. So,
 
 $
 \begin{aligned} 
@@ -689,14 +685,13 @@ What fraction of a day is $15 \ \text{minutes}$?
 <div class='workings'>
 <div class='working'>
 
-As we know, minutes in an hour $=60$. So,
-
 $
 \begin{aligned} 
-\text {Fraction}    &= \dfrac {15} {60} \\\\
-                    &= \dfrac {15} {15 \times 4} \\\\
-                    &= \dfrac {\cancel {15}} {\cancel {15} \times 4} \\\\
-                    &= \dfrac {1} {4}
+\text {Fraction}    &= \dfrac {15} {3600} \times 24 \\\\
+                    &= \dfrac {15 \times 24} {3600} \\\\
+                    &= \dfrac {15 \times 24} {15 \times 24 \times 10} \\\\
+                    &= \dfrac {\cancel {15} \times \cancel {24}} {\cancel {15} \times \cancel {24} \times {10}} \\\\
+                    &= \dfrac {1} {10}
 \end{aligned}
 $
 
@@ -705,7 +700,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {4}$
+$\dfrac {1} {10}$
 
 </div>
 </div>
@@ -740,8 +735,6 @@ What fraction of an hour is $4 \ \text{minutes}$?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As we know, minutes in an hour $=60$. So,
 
 $
 \begin{aligned} 
@@ -812,7 +805,7 @@ John takes the train to school from Brixton to West Dulwich every day. Here is p
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -982,9 +975,9 @@ Angela caught a train at $7.30$ in the morning and arrived at Newcastle at $1.42
 
 $
 \begin {aligned}
-\text {Time taken}  &= \text {Time she arrived Newcastle} - \text {Time she caught train} \\\\
-                    &= 1 {:} 42 \ \text {p.m.} - 7 {:} 30 \ \text {a.m.} \\\\
-                    &= 6 \ \text {hours} \ 12 \ \text {minutes}
+\text {Journey duration}  &= \text {Arrival time} - \text {Boarding time} \\\\
+                          &= 1 {:} 42 \ \text {pm} - 7 {:} 30 \ \text {am} \\\\
+                          &= 6 \ \text {hours} \ 12 \ \text {minutes}
 \end {aligned}
 $
 
@@ -1088,7 +1081,7 @@ Subtract the child’s age in years from $30$, then divide the result by $2$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1197,7 +1190,7 @@ $7 \ \text {pm}$
 ttime
 </li>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -1207,7 +1200,7 @@ I start counting at $19$ and go up to $89$.
 I take one second to say each number.
 How long do I take altogether?
 
-A B C D E
+A                      B                     C                     D                     E
 $70 \ \text{seconds}$ $71 \ \text{seconds}$ $72 \ \text{seconds}$ $73 \ \text{seconds}$ $74 \ \text{seconds}$
 
 </div>
@@ -1218,7 +1211,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Time taken}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
+\text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
                     &= 89 - 20 \\\\
                     &= 71 \ \text {seconds}
 \end {aligned}
@@ -1264,6 +1257,8 @@ Eadie’s favourite television programme started $1 \ \text{hour}$ and $15 \ \te
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin {aligned}
@@ -1314,7 +1309,7 @@ Eadie has to catch a train at $1710$. How long does she have before the train le
 $
 \begin {aligned}
 \text {Time she have before train leaves}  &= \text {Time to catch the train} - \text {Time on clock} \\\\
-                                           &= 17 {:} 10 \ \text {p.m.} - 15 {:} 35 \ \text {p.m.} \\\\
+                                           &= 17 {:} 10 - 15 {:} 35 \\\\
                                            &= 1 \ \text {hour} \ 35 \ \text {minutes}
 \end {aligned}
 $
@@ -1481,7 +1476,7 @@ $12.10\ \text{BBC News; Weather}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1632,7 +1627,7 @@ The number of insects in a colony doubles each week. If there were $100$ insects
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1776,7 +1771,7 @@ London          ,$10{:}45$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1876,7 +1871,7 @@ At noon the temperature is $3$ degrees Celsius and it rises at a steady $1.5$ de
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2347,7 +2342,7 @@ Patrick spends $\pounds 375.84$ on his electricity bill each year.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2469,7 +2464,7 @@ I start watching a film at $6:55\,pm$ and turn the television off at $9:35\,pm$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2635,7 +2630,7 @@ A man starts work at $08:15$. He then has a break from $10:15$ to $10:35$. After
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2816,7 +2811,7 @@ In fact the ferry left $17 \ \text{minutes}$ late and arrived at Calais at $0911
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3087,7 +3082,7 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E095A1B1-A5D7-4A9A-9C71-AB7E49731549</p>
 </div>
@@ -3118,11 +3113,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time taken by Jess}       &= 18 \ \text{seconds} \\\\
-\text{Time taken by Mary}       &= \text{Time taken by Jo} + 4 \\\\
-                                &= \text{Time taken by Jess} - 6 + 4 \\\\
-                                &= 18 - 6 + 4 \\\\
-\text{Time taken by Mary}       &= 16 \ \text{seconds}
+\text {Time taken by Jess}       &= 18 \ \text {seconds} \\\\
+\text {Time taken by Mary}       &= \text {Time taken by Jo} + 4 \\\\
+                                 &= \text {Time taken by Jess} - 6 + 4 \\\\
+                                 &= 18 - 6 + 4 \\\\
+\text {Time taken by Mary}       &= 16 \ \text {seconds}
 \end{aligned}
 $
 
@@ -3131,7 +3126,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16 \ \text{seconds}$
+$16 \ \text {seconds}$
 
 </div>
 </div>
@@ -3140,7 +3135,7 @@ $16 \ \text{seconds}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -3175,7 +3170,7 @@ A clock is $18 \ \text{minutes}$ slow, but is gaining $7 \dfrac{1}{2} \ \text{se
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3339,7 +3334,7 @@ A clock shows $14{:}27$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3737,7 +3732,7 @@ In Sydney Australia the time is $11 \ \text{hours}$ ahead of the UK.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3869,7 +3864,7 @@ The timetable below shows the morning train times between St Albans and City Tha
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4102,7 +4097,7 @@ Isobel travels from $S$ to $T$ on her journey to work each day. Find the shortes
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4319,7 +4314,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time taken}           &= 11:34 - 09:42 \\\\
+\text{Time taken}           &= 11 {:} 34 - 09 {:} 42 \\\\
                             &= 1 \ \text {hour} \ 52 \ \text {minutes} \\\\
                             &= 1 \times 60 \ \text {minutes} \ 52 \ \text {minutes} \\\\
                             &= 60 + 52 \\\\
@@ -4453,7 +4448,7 @@ $96 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D77A8B7B-174A-43B6-BD7A-E491EC6999DC</p>
 </div>
@@ -4548,12 +4543,13 @@ How long does he spend playing with his friends?
 
 $
 \begin{aligned}
-&= 75 \% \ \text {of} 20 \ \text {min} \\\\
-&= \dfrac {75} {100} \times 20 \\\\
-&= \dfrac {75} {10 \cancel 0} \times 2\ cancel 0 \\\\
-&= \dfrac {15 \times 5 \times 2} {5 \times 2} \\\\
-&= \dfrac {15 \times \cancel 5 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
-&= 15 \ \text {min}
+&= 75 \% \ \text {of} \ 40 \ \text {min} \\\\
+&= \dfrac {75} {100} \times 40 \\\\
+&= \dfrac {75} {10 \cancel 0} \times 4\cancel 0 \\\\
+&= \dfrac {15 \times 5 \times 4} {5 \times 2} \\\\
+&= \dfrac {15 \times 5 \times 2 \times 2} {5 \times 2} \\\\
+&= \dfrac {15 \times \cancel 5 \times 2 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
+&= 30 \ \text {min}
 \end{aligned}
 $
 
@@ -4562,7 +4558,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15 \ \text {min}$
+$30 \ \text {min}$
 
 </div>
 </div>
@@ -4585,8 +4581,8 @@ What percentage of his total lunch break does Harry spend playing with his frien
 
 $
 \begin{aligned}
-&= \dfrac {15 \times 100} {100} \\\\
-&= 15 \%
+&= \dfrac {30} {60} \times 100 \\\\
+&= 50 \%
 \end{aligned}
 $
 
@@ -4595,7 +4591,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15 \%$
+$50 \%$
 
 </div>
 </div>
@@ -4607,7 +4603,7 @@ $15 \%$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -4642,7 +4638,7 @@ ttime
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4749,7 +4745,7 @@ The time in Australia is $9 \ \text{hours}$ ahead of our time in the UK.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4858,7 +4854,7 @@ How long does the train take
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5113,7 +5109,7 @@ One of the times has been covered.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5278,7 +5274,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5375,7 +5371,7 @@ Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, 
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -5659,7 +5655,7 @@ Amira checks the time when she sets off on her journey to school in the morning.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5915,7 +5911,7 @@ A cookbook gives the time to cook a turkey as “$25\, minutes$ per kilogram plu
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6084,7 +6080,7 @@ ttime
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

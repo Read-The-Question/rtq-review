@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-pr"
 title: "Topic - Division - PR"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,7 +12,7 @@ date: 2022-05-27 04:53:12
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -38,7 +38,7 @@ tdivision
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -134,7 +134,7 @@ $492$
 tdivision
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -159,7 +159,7 @@ Use the answers to the multiplication above to answer the following questions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -440,7 +440,7 @@ $146$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -466,7 +466,7 @@ tdivision
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -671,7 +671,7 @@ Use this answer to find
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -788,7 +788,7 @@ Use this answer to find
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -895,7 +895,7 @@ Work out the answers to:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -990,7 +990,7 @@ $32$
 tdecimal
 </li>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tdivision
@@ -1016,7 +1016,7 @@ Work out each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1083,6 +1083,54 @@ $0.392$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>5ED908E1-39A0-43F9-80AC-A99FF713C37B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Divide $1908$ by $6$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1908 \div 6 \\\\
+&= \dfrac{1908}{6} \\\\
+&=  \dfrac{318 \times 6}{6} \\\\
+&=  \dfrac{318 \times \cancel 6}{\cancel 6} \\\\
+&= 318
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$318$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>F2D84620-5FC8-4469-A7DA-4FEFD38284C0</p>
@@ -1090,7 +1138,7 @@ $0.392$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 <li>
 tnumber
@@ -1121,7 +1169,7 @@ Use this information to work out:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1296,55 +1344,6 @@ $814$
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>A5886C63-792D-42D7-825B-AAD388FD247F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $525 \div 25$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 525 \div 25 \\\\
-&= \dfrac {525} {25} \\\\
-&= \dfrac {5 \times 105} {5 \times 5} \\\\
-&= \dfrac {5 \times 5 \times 21} {5 \times 5} \\\\
-&= \dfrac {\cancel{5} \times \cancel{5} \times 21} {\cancel{5} \times \cancel{5}} \\\\
-&= 21
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$21$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
 <p>7A0547CE-4780-4C98-8F44-705D53000745</p>
 </div>
 <div class='topics'>
@@ -1446,7 +1445,7 @@ $70, 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>909EAF41-1B93-4DEA-8461-5EBF848DAA72</p>
 </div>
@@ -1481,12 +1480,12 @@ $7$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>FD085C84-CBB1-4F3D-9214-8C8986D4496E</p>
 </div>
@@ -1509,7 +1508,7 @@ $
 \begin{aligned}
 &= 4000 \div 100 \\\\
 &= \dfrac{4000}{100} \\\\
-&= \dfrac{40 \cancel{0} \cancel{0}}{1 \cancel{0} \cancel{0}}  \\\\
+&= \dfrac{40 \cancel {00}} {1 \cancel {00}}  \\\\
 &= 40
 \end{aligned}
 $
@@ -1528,7 +1527,7 @@ $40$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

@@ -1,86 +1,9 @@
 ---
 slug: "topics/topic-tinfer-red"
 title: "Topic - Infer - Red"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_up_red question'>
-<div class='uuid'>
-<p>5956440A-E503-4587-BFE7-D009144AE8EE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tperimeter
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mr Bevestock has a square garden which is $81 \ \text{m}^2$.
-
-He decides to put a post every $1 \ \text{m}$ around the perimeter of his garden from which to hang decorations.
-
-How many posts will he need?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's the side of the square garden (in $\text{m}$) $= s$
-
-$\text{Area of square} = \text{side} \times \text{side}$
-
-As per the question,
-
-$
-\begin{aligned}
-s \times s      &= 81 \\\\
-s^2             &= 81 \\\\
-s               &= \sqrt{81} \\\\
-s               &= 9  \ \text{m}
-\end{aligned}
-$
-
-** INFER_DESCRIPTION_STARTS The $4$ corners will be counted twice, so ensure we account for that in the final calculation INFER_DESCRIPTION_ENDS **
-
-*Note: The $4$ corners will be counted twice, so ensure we account for that in the final calculation.*
-
-$
-\begin{aligned}
-\text{Tree height after second year}    &= 4 \times 9 - 4 \\\\
-                                        &= 36 - 4 \\\\
-                                        &= 32
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_red</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
@@ -268,7 +191,7 @@ $4$ in History, and $8$ in Science.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -518,7 +441,7 @@ The following sentences are either TRUE, or FALSE, or NOT CERTAIN. Ring the one 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -978,7 +901,7 @@ On each of the cards below, **n** can be any positive number. The answers given 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1105,7 +1028,7 @@ Inside   the   large square   (of   “size 16”)  a  smaller  square   of “s
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1289,7 +1212,7 @@ $6 \,\,\, 10 \,\,\, 17  \,\,\, 30 \,\,\, 52 \,\,\,  81 \,\,\, 96$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1490,7 +1413,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1651,7 +1574,7 @@ $Number \,\, A \,\, = 12 \,\, \times \,\, Number \,\, B \,\, and \,\,  Number \,
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1815,7 +1738,7 @@ I bought.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2377,7 +2300,7 @@ For example, using just $4$ cards, the smallest $4$-digit number which can be ma
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

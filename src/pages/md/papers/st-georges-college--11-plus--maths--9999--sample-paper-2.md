@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-27 04:53:12
+date: 2022-05-28 13:42:11
 ---
 <div class='paper'>
 <h1>St George's College</h1>
@@ -207,7 +207,7 @@ $687$
 <div class='topics'>
 <ul>
 <li>
-taddition
+tnumber
 </li>
 </ul>
 </div>
@@ -2069,7 +2069,7 @@ $9$
 <div class='topics'>
 <ul>
 <li>
-tmultiplication
+tdetailedmultiplication
 </li>
 </ul>
 </div>

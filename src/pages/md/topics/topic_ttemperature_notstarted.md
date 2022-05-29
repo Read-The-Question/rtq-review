@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-notstarted"
 title: "Topic - Temperature - Not Started"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -68,187 +71,13 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>39DAF11E-BE1E-4FE3-8CF7-F0280EB3A60A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttemperature
-</li>
-<li>
-ttime
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A car journey starts at $10{:}27 \ \text{am}$ and finishes at $1{:}24 \ \text{pm}$. 
-
-How many minutes did the journey take?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A child is $13$ years old and their parent is $40$ years old. 
-
-In how many years' time will it be before the parent is exactly twice the child's age?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-I am facing South East. I then turn $225$ degrees anticlockwise. 
-
-What direction am I facing now?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>190C260A-B709-4BC3-B1A5-EB1669D52A22</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -457,6 +286,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 <li>
@@ -627,6 +459,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 <li>
@@ -774,6 +609,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 </ul>
@@ -827,6 +665,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -887,6 +728,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 <li>
@@ -945,6 +789,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 <li>
@@ -998,6 +845,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 <li>
@@ -1050,6 +900,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -1184,6 +1037,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -1407,6 +1263,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 </ul>
@@ -1505,6 +1364,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -1609,6 +1471,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 </ul>
@@ -1711,6 +1576,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -1987,6 +1855,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 </ul>
@@ -2089,6 +1960,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>

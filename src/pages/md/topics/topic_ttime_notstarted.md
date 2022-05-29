@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-notstarted"
 title: "Topic - Time - Not Started"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -67,6 +70,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -203,6 +209,9 @@ TODOWORKING
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -257,6 +266,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tspeed
 </li>
@@ -394,6 +406,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -459,6 +474,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tspeed
 </li>
@@ -667,187 +685,13 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>39DAF11E-BE1E-4FE3-8CF7-F0280EB3A60A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttemperature
-</li>
-<li>
-ttime
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A car journey starts at $10{:}27 \ \text{am}$ and finishes at $1{:}24 \ \text{pm}$. 
-
-How many minutes did the journey take?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A child is $13$ years old and their parent is $40$ years old. 
-
-In how many years' time will it be before the parent is exactly twice the child's age?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-I am facing South East. I then turn $225$ degrees anticlockwise. 
-
-What direction am I facing now?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>92900B3E-B695-40CA-A45F-B8FC384C3A0B</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -903,6 +747,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1111,6 +958,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -1312,186 +1162,13 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>352F3C44-BB51-43E0-917D-DF972F69E92B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bahia has arranged to meet her friend Emma at $15{:}30$, at a coffee shop which is five minutes’ walk from the station in Greyton.
-
-She has to catch a train in Aliston.
-
-The journey takes $40 \ \text{minutes}$ from Aliston to Greyton. There are trains at:
-
-$11{:}05, 11{:}35, 12{:}05, \allowbreak 12{:}35, 13{:}05, 13{:}35, \allowbreak 14{:}05, 14{:}35, 15{:}05, \allowbreak 15{:}35, 16{:}05$  etc.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the latest train Bahia can catch, so as not to be late meeting Emma?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Bahia does catch this train and it arrives on time. She walks straight to the coffee shop and waits there for her friend. 
-Emma is late and arrives when Bahia has been sitting there for $15 \ \text{minutes}$. At what time does Emma arrive at the coffee shop?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-While she waits, Bahia looks at the clock in the coffee shop.
-What angle does the minute hand turn through between $15{:}25$ and $15{:}35$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>9BEAAA43-A79C-4097-81BF-27BD5C510042</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1794,6 +1471,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -2001,6 +1681,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -2056,6 +1739,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2113,6 +1799,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -2165,6 +1854,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -2222,6 +1914,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tspeed
 </li>
@@ -2353,6 +2048,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -2540,6 +2238,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 <li>
@@ -2593,6 +2294,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2725,6 +2429,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -2780,6 +2487,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -3002,6 +2712,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -3068,6 +2781,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -3124,6 +2840,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -3184,6 +2903,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -3225,6 +2947,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -3284,6 +3009,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -3417,6 +3145,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -3477,6 +3208,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -3529,6 +3263,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -3589,6 +3326,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -3642,6 +3382,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -3776,6 +3519,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -3995,6 +3741,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -4054,6 +3803,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -4225,6 +3977,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -4395,6 +4150,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 <li>
@@ -4524,6 +4282,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -4702,6 +4463,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tspeed
 </li>
 <li>
@@ -4831,6 +4595,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -5041,6 +4808,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -5204,221 +4974,13 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>265B80BE-9E6E-4413-BBDD-F6650C3E42E1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-ttime
-</li>
-<li>
-tclock
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $417 \ \text{minutes}$ in hours and minutes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Change $7.8 \ \text{hours}$ into minutes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The time is $20{:}14$. What is the smaller angle between the hour hand and the minute hand on an accurate analogue clock?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A short time after $1{:}50$, the hour and minute hands are both the same angle away from $12$ o’clock. 
-
-What is the exact time when this occurs?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>4A211DD3-39E1-458B-9182-D6B34B1BB55C</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -5555,6 +5117,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -5604,6 +5169,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -5655,6 +5223,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -5704,6 +5275,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -5755,6 +5329,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -5804,6 +5381,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -5855,6 +5435,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -5904,6 +5487,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -5963,6 +5549,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -6012,6 +5601,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -6065,6 +5657,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -6193,6 +5788,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 <li>
@@ -6246,6 +5844,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tspeed
 </li>
 <li>
@@ -6298,6 +5899,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -6358,6 +5962,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -6537,6 +6144,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -6665,6 +6275,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -6812,6 +6425,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -6991,6 +6607,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -7158,6 +6777,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -7288,6 +6910,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -7417,6 +7042,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -7485,6 +7113,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -7615,6 +7246,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -7792,6 +7426,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tspeed
 </li>
 <li>
@@ -7848,6 +7485,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdate
 </li>
@@ -7980,6 +7620,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -8157,6 +7800,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -8304,6 +7950,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -8357,6 +8006,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -8487,6 +8139,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -8782,6 +8437,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -8886,6 +8544,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -8933,6 +8594,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -9040,6 +8704,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -9100,6 +8767,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -9210,6 +8880,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -9310,6 +8983,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -9471,6 +9147,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -9518,6 +9197,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -9699,6 +9381,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -9832,6 +9517,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -9974,6 +9662,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -10020,6 +9711,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -10168,6 +9862,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -10339,6 +10036,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -10388,6 +10088,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -10519,6 +10222,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -10568,6 +10274,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -10702,6 +10411,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -10797,6 +10509,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -10846,6 +10561,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -11022,6 +10740,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -11074,6 +10795,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -11123,6 +10847,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -11250,6 +10977,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>

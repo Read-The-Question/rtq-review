@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-2"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 2"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The Independent Schools Examinations Board</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -276,6 +279,9 @@ $1256$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 <li>
@@ -515,6 +521,9 @@ $37$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -707,6 +716,9 @@ $\pounds 1.45$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 <li>
@@ -864,7 +876,7 @@ $\dfrac {2} {3}$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -993,6 +1005,9 @@ $1.63$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -1282,6 +1297,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 </ul>
@@ -1413,6 +1431,9 @@ $\text {Yogi}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -1672,6 +1693,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunitprompt
 </li>
 <li>
@@ -1904,6 +1928,9 @@ $2.4 \ \text {kg}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2171,6 +2198,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 <li>
@@ -2294,6 +2324,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2606,6 +2639,9 @@ $\text{Even chance}, \text{Certain}, \text{Even chance}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -2781,6 +2817,9 @@ $13$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tangle
 </li>
@@ -2992,6 +3031,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>

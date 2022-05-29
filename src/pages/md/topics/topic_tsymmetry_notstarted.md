@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsymmetry-notstarted"
 title: "Topic - Symmetry - Not Started"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -70,6 +73,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -277,6 +283,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 <li>
@@ -483,6 +492,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -657,6 +669,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -711,6 +726,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -762,6 +780,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -823,6 +844,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -874,6 +898,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -935,6 +962,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -1066,6 +1096,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 <li>
@@ -1121,6 +1154,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 <li>
@@ -1175,6 +1211,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -1352,6 +1391,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgraph
 </li>
 <li>
@@ -1528,6 +1570,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -1582,6 +1627,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1798,6 +1846,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -1850,6 +1901,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -1899,6 +1953,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -1954,6 +2011,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -2003,6 +2063,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -2056,6 +2119,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -2107,6 +2173,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -2160,6 +2229,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -2211,6 +2283,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2267,6 +2342,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -2321,6 +2399,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -2456,6 +2537,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2716,6 +2800,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -2889,6 +2976,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -3066,6 +3156,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 <li>
@@ -3121,6 +3214,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 <li>
@@ -3175,6 +3271,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tlogic
 </li>
@@ -3319,6 +3418,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -3611,6 +3713,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -3669,6 +3774,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -3723,6 +3831,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -3797,6 +3908,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -3846,6 +3960,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -3901,6 +4018,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -4164,6 +4284,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -4218,6 +4341,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -4353,6 +4479,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -4481,6 +4610,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -4537,6 +4669,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -4707,6 +4842,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -4758,6 +4896,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -4937,6 +5078,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -4994,6 +5138,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -5356,6 +5503,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -5410,6 +5560,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -5467,6 +5620,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -5517,6 +5673,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -5559,6 +5718,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -5693,6 +5855,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -5744,6 +5909,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -5921,6 +6089,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -5976,6 +6147,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -6030,6 +6204,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -6167,6 +6344,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -6387,6 +6567,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -6517,6 +6700,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -6569,6 +6755,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -6625,6 +6814,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -6759,6 +6951,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -6896,6 +7091,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 <li>
@@ -6952,6 +7150,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -7327,6 +7528,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -7585,6 +7789,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -7804,6 +8011,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -8025,6 +8235,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -8207,6 +8420,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -8264,6 +8480,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -8317,6 +8536,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -8372,6 +8594,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -8587,6 +8812,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 <li>
@@ -8725,6 +8953,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -8900,6 +9131,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -9037,6 +9271,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -9267,6 +9504,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -9318,6 +9558,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -9493,6 +9736,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -9549,6 +9795,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -9603,6 +9852,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -9661,6 +9913,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -9794,6 +10049,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -9848,6 +10106,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -10017,6 +10278,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 <li>
@@ -10073,6 +10337,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>

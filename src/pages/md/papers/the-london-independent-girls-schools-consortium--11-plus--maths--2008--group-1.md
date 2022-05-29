@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The London Independent Girls' Schools Consortium</h1>
@@ -14,7 +14,7 @@ date: 2022-05-28 14:33:22
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>D3586240-8AF8-4DFE-9B41-8E2CAD789B2F</p>
 </div>
@@ -60,17 +60,20 @@ $14002$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>F46BD077-5724-4B71-BA48-162435F7D628</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -107,17 +110,20 @@ $6646$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>01FADDAD-8EFA-4AE9-B369-FC2FBAFE48DC</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -157,7 +163,7 @@ $578$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -168,6 +174,9 @@ $578$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -216,6 +225,9 @@ $318$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -279,6 +291,9 @@ $3, 12$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -328,6 +343,9 @@ $90$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -390,6 +408,9 @@ $3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -432,12 +453,15 @@ $290  \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -473,7 +497,7 @@ $20$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -484,6 +508,9 @@ $20$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -549,6 +576,9 @@ $11, 12 \dfrac{1}{2}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedaddition
 </li>
 <li>
@@ -600,6 +630,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -707,6 +740,9 @@ $13587$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 trecipe
 </li>
@@ -826,6 +862,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -869,6 +908,9 @@ TODOANSWER
 <li>
 tage
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -909,6 +951,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -953,6 +998,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -1055,6 +1103,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -1097,6 +1148,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -1141,6 +1195,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -1181,6 +1238,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -1280,6 +1340,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -1323,6 +1386,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -1421,6 +1487,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -1462,6 +1531,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -1605,6 +1677,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgraph
 </li>
 <li>
@@ -1738,6 +1813,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -1780,6 +1858,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -1821,6 +1902,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1866,6 +1950,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -1994,6 +2081,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 <li>
@@ -2043,6 +2133,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -2084,6 +2177,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -2216,6 +2312,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 <li>
@@ -2265,6 +2364,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -2310,6 +2412,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -2419,6 +2524,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -2521,6 +2629,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -2682,9 +2793,6 @@ TODOANSWER
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2782,6 +2890,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -2825,6 +2936,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -2956,6 +3070,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -3085,6 +3202,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>

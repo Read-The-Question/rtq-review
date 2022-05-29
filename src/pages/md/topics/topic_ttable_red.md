@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttable-red"
 title: "Topic - Table - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -68,6 +71,9 @@ $40 \%$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -251,6 +257,9 @@ Manchester
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -307,6 +316,9 @@ $62$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -499,6 +511,9 @@ $12.8$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 </ul>
@@ -630,6 +645,9 @@ $\text {Yogi}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>

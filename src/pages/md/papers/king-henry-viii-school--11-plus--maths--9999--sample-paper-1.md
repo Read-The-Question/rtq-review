@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>King Henry VIII School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -314,6 +317,9 @@ $847$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -360,6 +366,9 @@ $352$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -408,6 +417,9 @@ $247$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -454,6 +466,9 @@ $1725$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -502,6 +517,9 @@ $4734$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -549,6 +567,9 @@ $55$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -593,6 +614,9 @@ $53$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -744,6 +768,9 @@ $1.774$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -785,12 +812,15 @@ $03 {:} 35 \ \text {p.m.}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>DBB8C89C-F97B-4199-91D5-98FAE00EFC21</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -823,17 +853,20 @@ $15 {:} 35$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>2AF9BF1A-6E92-4492-9B1C-3C71893FDA24</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -871,17 +904,20 @@ $02 {:} 20 \ \text {p.m.}$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>74EEEB13-FE38-4F2F-92DC-B391E32A54D9</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -917,7 +953,7 @@ $1 \ \text {hour} \ 35 \ \text {minutes}$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -928,6 +964,9 @@ $1 \ \text {hour} \ 35 \ \text {minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -974,6 +1013,9 @@ $5003$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -1018,6 +1060,9 @@ $\text {Ten thousand two hundred and three}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunit
 </li>
@@ -1071,6 +1116,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 </ul>
@@ -1123,6 +1171,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 </ul>
@@ -1173,6 +1224,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 </ul>
@@ -1222,6 +1276,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -1277,6 +1334,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 </ul>
@@ -1327,10 +1387,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tdecimal
-</li>
-<li>
-tfraction
+tnumber
 </li>
 </ul>
 </div>
@@ -1377,6 +1434,9 @@ $1.03$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -1421,6 +1481,9 @@ $\dfrac {27} {100}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnoexplanation
 </li>
@@ -1468,6 +1531,9 @@ $6798$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnoexplanation
 </li>
 </ul>
@@ -1512,6 +1578,9 @@ $2.494$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmap
 </li>
@@ -1618,6 +1687,9 @@ $120$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -1667,6 +1739,9 @@ $111$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1719,6 +1794,9 @@ $12$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -1773,6 +1851,9 @@ $40$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -1815,6 +1896,9 @@ $\text {Pentagon}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -1854,6 +1938,9 @@ $\text {Cuboid}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1913,6 +2000,9 @@ $20$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -1969,6 +2059,9 @@ $21$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -2020,6 +2113,9 @@ $987$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -2066,6 +2162,9 @@ $233$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -2101,12 +2200,15 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>5AD43B4B-E920-4612-9106-152878ACCB28</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2162,7 +2264,7 @@ $46$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

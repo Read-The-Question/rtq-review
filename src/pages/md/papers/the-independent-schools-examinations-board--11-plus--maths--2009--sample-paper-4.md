@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-4"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 4"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The Independent Schools Examinations Board</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -208,6 +211,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -308,6 +314,9 @@ $\text {Thousand}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunitprompt
 </li>
@@ -524,6 +533,9 @@ $\pounds 51.9$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -715,6 +727,9 @@ $64 \ \text {p}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -973,6 +988,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -1156,6 +1174,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -1302,6 +1323,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -1463,6 +1487,9 @@ $50 \%$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 <li>
@@ -1517,6 +1544,9 @@ $250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.5
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -1712,6 +1742,9 @@ $26$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -1933,6 +1966,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 <li>
@@ -2096,6 +2132,9 @@ $-5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -2308,6 +2347,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 <li>
@@ -2428,6 +2470,9 @@ $\pounds 7.14$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -2569,6 +2614,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfactor
 </li>
@@ -2779,6 +2827,9 @@ $6$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -68,6 +68,9 @@ $1237$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -121,7 +124,7 @@ $171900$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -167,6 +170,9 @@ $0.35$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -217,6 +223,9 @@ $\dfrac{3}{8}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -279,6 +288,9 @@ $5.9$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -329,6 +341,9 @@ $2 \dfrac{13}{20}$ or $\dfrac{53}{20}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 <li>
@@ -371,6 +386,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -494,6 +512,9 @@ $105  \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprofit
 </li>
 <li>
@@ -556,6 +577,9 @@ $\pounds 50$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -632,6 +656,9 @@ $144 \ \text{cm}^{2}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -774,6 +801,9 @@ $30 \ \text{pence}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -841,6 +871,9 @@ $130 \ \text {grams}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -898,6 +931,9 @@ $129$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1014,6 +1050,9 @@ $\dfrac { 6 } { 25 }$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 <li>
@@ -1067,6 +1106,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tlcm
 </li>
 </ul>
@@ -1118,6 +1160,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -1189,6 +1234,9 @@ $\dfrac{1}{12} + \dfrac{1}{6} + \dfrac{1}{4}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-all"
 title: "Topic - Volume - All"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -154,6 +154,9 @@ Label both vertices with $*$.
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -178,7 +181,7 @@ It is really important to use the right units in calculations and convert where 
 
 $
 \begin{aligned}
-\text{Total water} &= 5 \ \text{litres} \\\\
+\text{Total water}  &= 5 \ \text{litres} \\\\
                     &= 5 \times 1000 \ \text{ml} \\\\
                     &= 5000 \ \text{ml}
 \end{aligned}
@@ -187,30 +190,10 @@ $
 $
 \begin{aligned}
 \text{Number of glasses} &= \dfrac { \text{Total Water in cooler} } { \text{Water in a glass} } \\\\
-                        &= \dfrac { 5000 } { 200 } \\\\
-                        &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
-                        &= \dfrac { 50 } { 2 } \\\\
-                        &= 25
-\end{aligned}
-$
-
-Number of glasses of water $= 25$
-
-</div>
-<div class='working'>
-
-Alternatively, we can solve this using ratios. 
-
-$
-\begin{aligned}
-200 \ \text{ml}                             & : 1 \ \text{glass}  \\\\
-\dfrac{200}{200}  \ \text{ml}                  & : \dfrac{1}{200} \ \text{glasses} \\\\
-1  \ \text{ml}                              & : \dfrac{1}{200}  \\\\
-5000 \times 1  \ \text{ml}                   & : 5000 \times \dfrac{1}{200}  \\\\
-5000 \ \text{ml}                               & : \dfrac{5000}{200}  \\\\
-5000 \ \text{ml}                               & : \dfrac{50\cancel{0}\cancel{0}}{2\cancel{0}\cancel{0}}  \\\\
-5000 \ \text{ml}                               & : \dfrac{50}{2}  \\\\
-5000 \ \text{ml}                               & : 25 \ \text{glasses}                          
+                         &= \dfrac { 5000 } { 200 } \\\\
+                         &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
+                         &= \dfrac { 50 } { 2 } \\\\
+                         &= 25
 \end{aligned}
 $
 
@@ -241,6 +224,9 @@ $25$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -300,6 +286,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 <li>
@@ -355,6 +344,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -408,6 +400,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -541,6 +536,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -655,6 +653,9 @@ $130 \text{ cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 <li>
@@ -708,6 +709,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -760,6 +764,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -805,12 +812,15 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>E7BD6A06-5B5F-4598-9094-CAB4FE07D5E3</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -919,7 +929,7 @@ $24 \ \text {cm} ^ 3$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -930,6 +940,9 @@ $24 \ \text {cm} ^ 3$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -1047,6 +1060,9 @@ $8$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -1162,6 +1178,9 @@ $60$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1302,6 +1321,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -1363,6 +1385,9 @@ $34$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -1416,6 +1441,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -1467,6 +1495,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -1525,6 +1556,9 @@ $\dfrac {1} {12}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -1585,6 +1619,9 @@ $74$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -1742,6 +1779,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 <li>
@@ -1821,6 +1861,9 @@ $140 \text { ml}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -1872,6 +1915,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -1993,6 +2039,9 @@ $2.5 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -2205,6 +2254,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 <li>
@@ -2332,6 +2384,9 @@ $144 \text {cm}^2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -2486,6 +2541,9 @@ $31.33 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -2541,6 +2599,9 @@ $480$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -2599,6 +2660,9 @@ $16$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -2730,6 +2794,9 @@ $\dfrac{3}{4}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -2863,6 +2930,9 @@ $20$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -3034,6 +3104,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 testimate
 </li>
 <li>
@@ -3078,6 +3151,9 @@ $0.25 \text{ liters}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -3131,6 +3207,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -3225,6 +3304,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -3349,6 +3431,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -3566,6 +3651,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -3713,6 +3801,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -3811,6 +3902,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -3984,6 +4078,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -4090,6 +4187,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -4136,6 +4236,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -4270,6 +4373,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -4320,12 +4426,15 @@ $100$ bricks
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>590B7D5D-D512-4EDC-A83A-462C6FF47FF8</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -4367,17 +4476,20 @@ $200$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>1902F906-A937-4906-A778-A09ED836599C</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -4430,7 +4542,7 @@ $24 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -4441,6 +4553,9 @@ $24 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -4608,6 +4723,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -4819,12 +4937,15 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>26E16C3C-4AED-4018-A4B3-041DDC0C4959</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -4878,7 +4999,7 @@ $8 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -4889,6 +5010,9 @@ $8 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -5004,6 +5128,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-all"
 title: "Topic - Coin - All"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -61,71 +64,15 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>9D4AAFBD-929B-4085-BF68-987E2C0DF9F0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Issy tosses a **fair coin** four times. She gets Heads, Heads, Heads, Tails. If she tosses it a
-fifth time, is she **more likely** to get Heads or Tails?
-
--  equally likely
--  Heads
--  Tails
--  not enough information
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>08B091C3-398E-4C33-9232-9F1C961D0DD6</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -147,13 +94,15 @@ How much more does she need to reach $\pounds 5$?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin {aligned}
 \text {Amount collected}    &= 35 \times 5 \text {p} \\\\
                             &= 35 \times \pounds \dfrac {5} {100} \\\\
-                            &= \dfrac {5 \times 35} {100} \\\\
-                            &= \dfrac {5 \times 5 \times 7} {5 \times 5 \times 4} \\\\
-                            &= \dfrac {\cancel {5} \times \cancel {5} \times 7} {\cancel {5} \times \cancel {5} \times 4} \\\\
+                            &= \dfrac {35 \times 5} {100} \\\\
+                            &= \dfrac {5 \times 7 \times 5} {5 \times 5 \times 4} \\\\
+                            &= \dfrac {\cancel {5} \times 7 \times \cancel {5}} {\cancel {5} \times \cancel {5} \times 4} \\\\
                             &= \dfrac {7} {4} \\\\
                             &= \pounds 1.75 \\\\
 \text {Amount needed}       &= \pounds 5 - \pounds 1.75 \\\\
@@ -186,6 +135,9 @@ $\pounds 3.25$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -249,6 +201,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -315,6 +270,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 <li>
@@ -364,6 +322,9 @@ $\text {likely}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -465,6 +426,9 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 <li>
@@ -528,6 +492,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 </ul>
@@ -588,6 +555,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 </ul>
@@ -641,12 +611,15 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
 <p>0B4EA44D-BD3F-4217-9050-070265E7D6BE</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -836,7 +809,7 @@ TODOANSWER
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_amber</p>
 </div>
 </div>
 </li>
@@ -847,6 +820,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -1018,6 +994,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -1072,6 +1051,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -1114,6 +1096,9 @@ $56 p , So 10*5 and 5*5 and 1*1$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1180,6 +1165,9 @@ $24$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -1254,6 +1242,9 @@ $96 \ \text{g}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 </ul>
@@ -1311,6 +1302,9 @@ $24 \ \text{coins}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -1551,6 +1545,9 @@ $\text {Impossible}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 </ul>
@@ -1603,6 +1600,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 <li>
@@ -1645,6 +1645,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -1745,6 +1748,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -1853,6 +1859,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -1986,6 +1995,9 @@ $34 \text{p}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -2032,6 +2044,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -2152,6 +2167,9 @@ $278$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -2267,6 +2285,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -2335,6 +2356,9 @@ $20 \ \text{coins}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2426,6 +2450,9 @@ $56$ coins
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -2501,6 +2528,9 @@ $4$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2578,6 +2608,9 @@ $16$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -2664,6 +2697,9 @@ $60$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>

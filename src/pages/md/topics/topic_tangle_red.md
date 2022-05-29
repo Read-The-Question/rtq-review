@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-red"
 title: "Topic - Angle - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -16,9 +16,6 @@ tangle
 </li>
 <li>
 talgebra
-</li>
-<li>
-tdraw
 </li>
 </ul>
 </div>
@@ -53,174 +50,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_red question'>
-<div class='uuid'>
-<p>A3D346FE-86AB-4EB5-BDA9-07C1CE5349D7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows a rod with five equally space points $A, B, C, D$ and $E$ marked on it. 
-
-![missing image](/papers/missing_image.svg)
-
-The rod is rotated three times through $180 \degree$, first about the point $A$, then about the point $B$ and finally about the point $E$. Which point finishes in the same position as it was at the start?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-**Fixed at point A**
-
-$
-\begin{aligned}
-\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
-\maroonC {\text{\textcircled a} }\text{---}
-  \text{\textcircled b} \text{---}
-  \text{\textcircled c}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled e}   \text{---}
-\text{\textcircled {}}\text{---}\text{\textcircled {}}\\ 
-\text {Turned through  }  {180}\degree \text {at point A then \ results in  }   \\
-\text{\textcircled {}} \text{---}
-  \text{\textcircled e}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-  \text{\textcircled b}  \text{---}
-\maroonC {\text{\textcircled a}  }
-\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
-\end{aligned}
-$
-
-
-**Fixed at point B**
-
-$
-\begin{aligned}
-\text{\textcircled {}} \text{---}
-  \text{\textcircled e}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-\maroonC {\text{\textcircled b}  } \text{---}
-  \text{\textcircled a}  \text{---}
-\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\\
-\text {Turned through  }  {180}\degree \text {at point B then \ results in  }   \\
-  \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
-\text{\textcircled {}}\text{---}
-\text{\textcircled a}  \text{---}
- \maroonC {\text{\textcircled b}  } \text{---}
- \text{\textcircled c}  \text{---}
- \text{\textcircled d}  \text{---}
- \text{\textcircled e}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
-\end{aligned}
-$
-
-
-**Fixed at point E**
-
-$
-\begin{aligned}
-\text{\textcircled {}} \text{---}
-   \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
-\text{\textcircled a}  \text{---}
- \text{\textcircled b}  \text{---}
- \text{\textcircled c}  \text{---}
- \text{\textcircled d}  \text{---}
- \maroonC {\text{\textcircled e}  } \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\
-\text {Turned through  }  {180}\degree \text {at point E then \ results in  }   \\
-\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
-\maroonC {\text{\textcircled e} }  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-\text{\textcircled b}  \text{---}
- \text{\textcircled a} \\ 
-\end{aligned}
-$
-
-
-
-
-**Now, Let's find which point finishes in the same position as it was at the start.**
-
-$
-\begin{aligned}
-\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
-\maroonC {\text{\textcircled a} }\text{---}
-  \text{\textcircled b} \text{---}
-  \text{\textcircled c}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled e}   \text{---}
-\text{\textcircled {}}\text{---}\text{\textcircled {}}\\ 
-\text {Turned through  }  {180}\degree \text {at point A then \ results in  }   \\
-\text{\textcircled {}} \text{---}
-  \text{\textcircled e}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-  \text{\textcircled b}  \text{---}
-\maroonC {\text{\textcircled a}  }
-\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
-\hline \\\
-\text{\textcircled {}} \text{---}
-  \text{\textcircled e}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-\maroonC {\text{\textcircled b}  } \text{---}
-  \text{\textcircled a}  \text{---}
-\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\\
-\text {Turned through  }  {180}\degree \text {at point B then \ results in  }   \\
-  \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
-\text{\textcircled {}}\text{---}
-\text{\textcircled a}  \text{---}
- \maroonC {\text{\textcircled b}  } \text{---}
- \text{\textcircled c}  \text{---}
- \text{\textcircled d}  \text{---}
- \text{\textcircled e}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
-\hline \\\
-\text{\textcircled {}} \text{---}
-   \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
-\text{\textcircled a}  \text{---}
- \text{\textcircled b}  \text{---}
- \text{\textcircled c}  \text{---}
- \text{\textcircled d}  \text{---}
- \maroonC {\text{\textcircled e}  } \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\
-\text {Turned through  }  {180}\degree \text {at point E then \ results in  }   \\
-\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
-\maroonC {\text{\textcircled e} }  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-\text{\textcircled b}  \text{---}
- \text{\textcircled a} \\ 
-\end{aligned}
-$
-
-it can be observed that the **point D** finishes in the same position as it was at the start.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Point D
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_ga_red</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>6B2636D1-144E-416C-AFF5-4E6348F2D18B</p>
@@ -231,7 +60,7 @@ Point D
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -297,54 +126,6 @@ $150\degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_red question'>
-<div class='uuid'>
-<p>FD242CB2-2E51-4FB4-8221-CB91DA5B1239</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tclock
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the angle between the hands of a clock at $2{:}30 \ \text{pm}$. (Remember that the hour hand moves as well) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$ 
-\begin{aligned}
-&= 30 \degree + 30 \degree + 30 \degree + 15 \degree \\\\
-&= 105 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$105 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_red</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
 <p>17360B83-7524-4915-9C57-EA134B592244</p>
@@ -353,6 +134,9 @@ $105 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-g1"
 title: "Topic - Angle - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -92,6 +92,9 @@ $27 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -191,6 +194,59 @@ $135 \degree$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>CFF3BE59-53C8-4689-9970-4DE5520555CE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a protractor being used to measure the angle between two lines.
+
+![missing image](/papers/missing_image.svg)
+
+The lines are labelled **Line $1$** and **Line $2$**.
+
+Use the protractor to measure the angle between **Line $1$** and **Line $2$**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Angle}   &= 110 \degree - 50 \degree \\\\
+                &= 60 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \ \text {degrees}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
 <p>40FF7E29-DBCE-405A-9982-1F39CD4E3D5E</p>
@@ -199,6 +255,9 @@ $135 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -267,6 +326,9 @@ $48,63$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -331,6 +393,9 @@ $48, \63$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tangle
 </li>
@@ -432,58 +497,6 @@ $43 \degree$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>9A2CE487-4367-455E-A627-FFFE0C8FF292</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Through what angles does the hour hand of a clock rotate between $8 \ \text{am}$ and $9{:}30 \ \text{am}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The hand of a clock moves by $30 \degree$ for every one unit covered.
-
-So the hour hand move by $30 \degree$ between $8 \ \text{am}$ and $9{:}00 \ \text{am}$ and another $15 \degree$ for $9{:}30 \ \text{am}$.
-
-$
-\begin {aligned}
-\text {The hour hand moved by}  &= 30 + 15 \\\\
-                                &= 45 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
 <p>DBB54740-C177-4685-AD73-ECFA3880007B</p>
 </div>
 <div class='topics'>
@@ -522,58 +535,6 @@ $
 <div class='answer'>
 
 $131 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Through what angles does the hour hand of a clock rotate between $6 \ \text{am}$ and $11{:}30 \ \text{am}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The hand of a clock moves by $30 \degree$ for every one unit covered.
-
-So the hour hand move by $30 \times 5 = 150 \degree$ between $6 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
-
-$
-\begin {aligned}
-\text {The hour hand moved by}  &= 150 + 15 \\\\
-                                &= 165 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$165 \degree$
 
 </div>
 </div>
@@ -643,60 +604,6 @@ $122 \degree$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>14F5E25E-982B-4BD0-99BF-68170A5DA82C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What angle do the hours of a clock make between each other at $7{:}30$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total angles for the complete round in a clock $= 360 \degree$.
-
-$
-\begin {aligned}
-\text {Angle between every hour}    &= \dfrac {360} {12} \\\\
-                                    &= \dfrac {30 \times 12} {12} \\\\
-                                    &= \dfrac {30 \times \cancel {12}} {12} \\\\
-                                    &= 30 \degree
-\end {aligned}
-$
-
-The angle the hours of a clock make between each other at $7{:}30$ is $30 \degree$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
 <p>4B420308-03FA-4469-A36A-B00E5A3340D8</p>
 </div>
 <div class='topics'>
@@ -744,194 +651,6 @@ $91 \degree$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>4FAE2ECB-8394-4207-9FAD-04BFD8BDE179</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Through what angles does the hour hand of a clock rotate between $3 \ \text{am}$ and $11{:}30 \ \text{am}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The hand of a clock moves by $30 \degree$ for every one unit covered.
-
-So the hour hand move by $30 \times 8 = 240 \degree$ between $3 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
-
-$
-\begin {aligned}
-\text {The hour hand moved by}  &= 240 + 15 \\\\
-                                &= 255 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$255 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nm_g1 question'>
-<div class='uuid'>
-<p>0C657190-6716-4EA4-B662-51AE68C07DC7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-An equilateral triangle is divided into smaller equilateral triangles as shown below. State out how many angles of $60\degree$ there 
-are in the diagram.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As shown in the figure,
-
-There are total $8$ triangles.
-
-In equilateral triangles no. of $60 \degree = 3$.
-
-Then,
-
-$
-\begin{aligned}
-&= 3 \times 8 \\\\
-&= 24
-\end{aligned}
-$
-
-Total no. of $60 \degree$ $= 24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The diagram is now squashed to make the top angle $90\degree$, turning all the triangles into right angled isosceles triangles. 
-Calculate how many acute angles there are in the diagram now.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know,
-
-Every right angled isosceles triangle has $2$ acute angles.
-
-And there is total $8$ triangles.
-
-Then,
-
-$
-\begin{aligned}
-&= 2 \times 8 \\\\
-&= 16
-\end{aligned}
-$
-
-Total no. of acute angles $= 16$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
 </div>
 </div>
 </li>
@@ -1198,7 +917,7 @@ $36 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -1257,53 +976,6 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>6D165971-36D0-4B4A-B952-DF86DAEDFFAF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many different sized acute angles are there in the diagram below?
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know, an acute angle is an angle that measures between $90 \degree$ and $0 \degree$.
-
-As per the diagram, there are $2$ acute angles.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
 <p>4EE39D55-56B3-48D1-8889-F7D3D5976C87</p>
@@ -1312,6 +984,9 @@ $2$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1433,7 +1108,7 @@ $111 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -1502,7 +1177,7 @@ $51 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -1682,6 +1357,9 @@ $110 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1854,6 +1532,9 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1922,6 +1603,9 @@ $20 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1974,6 +1658,9 @@ $55 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2025,6 +1712,9 @@ $75 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2133,6 +1823,9 @@ $60 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2191,6 +1884,9 @@ $
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2317,6 +2013,9 @@ $36 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2431,6 +2130,9 @@ $140 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2627,6 +2329,9 @@ $90 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2698,6 +2403,9 @@ $\text{angle Q}$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2749,6 +2457,9 @@ $58 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2802,79 +2513,15 @@ $56 \degree$
 <li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
-<p>98FB3AC6-2728-458B-AA28-1E5EF428AAFB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the obtuse angle between the hands of a clock at $5$ o’clock. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-In the clock from $12$ to $12$ it was $360 \degree$
-
-In the clock from $12$ to $6$ it was $180 \degree$
-
-$
-\begin{aligned}
-\text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
-&= \dfrac{30 \times 6}{6} \\\\
-&=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
-&= 30 \degree \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{So, the obtuse angle for} \  5  \ \text{O'clock} &= 30 \times 5 \\\\
-&=  30 \times 5 \\\\
-&=  150 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_g1 question'>
-<div class='uuid'>
 <p>42DD1DEA-9421-4D3A-9922-9C450DDF4E3F</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -2929,6 +2576,77 @@ $85 \degree$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One angle of a triangle is $30 \degree$. The second angle is twice the size of the third. What is the largest angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle $= a$
+
+As per the question, the second angle $= 2a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 2a + 30     &= 180  \\\\
+3a + 30         &= 180  \\\\
+3a              &= 180 - 30  \\\\
+3a              &= 150  \\\\
+a               &= \dfrac {150} {3}  \\\\
+a               &= \dfrac {50 \times 3} {3}  \\\\
+a               &= \dfrac {50 \times \cancel{3}}{\cancel{3}}   \\\\
+a               &= 50 \degree
+\end{aligned}
+$
+
+We know the size of the third angle now. 
+However, we need to find the largest angle which is the second angle.
+
+$
+\begin{aligned}
+\text{Largest angle} &= 2a  \\\\
+&= 2 \times 50  \\\\
+&= 100  \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>891C1C55-B5B1-425B-8595-6A3DDCA6BB8B</p>
@@ -2936,10 +2654,10 @@ $85 \degree$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -3006,10 +2724,10 @@ $108 \degree$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -3198,6 +2916,79 @@ $40 \degree$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a triangle, the largest angle is two times the middle angle and the middle angle is three times the smallest angle. What is the size of the **largest** angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the smallest angle $= a$
+
+As per the question, 
+
+Middle angle $= 3a$
+
+Largest angle $= 6a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 3a + 6a     &= 180 \\\\
+10a             &= 180 \\\\
+a               &= \dfrac {180} {10} \\\\
+a               &= \dfrac {18\cancel{0}} {1\cancel{0}} \\\\
+a               &= 18 \degree
+\end{aligned}
+$
+
+We know the size of the smallest angle now.
+
+However, we need to find the largest angle.
+
+$
+\begin{aligned}
+\text{Largest angle}    &= 6a \\\\
+                        &= 6 \times 18 \\\\
+                        &= 108 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$108 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>D5B7995B-1A69-47C2-AD74-3593471D778A</p>
@@ -3208,7 +2999,7 @@ $40 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -3278,7 +3069,7 @@ $x = 117 \degree, \ \ y = 29 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>

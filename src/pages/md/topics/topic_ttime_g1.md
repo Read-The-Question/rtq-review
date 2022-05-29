@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-g1"
 title: "Topic - Time - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -143,6 +146,9 @@ $68 \ \text {miles/hour}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -196,6 +202,9 @@ $155 \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -252,6 +261,9 @@ $210 \text{ minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -301,6 +313,9 @@ $4 \ \text{hours} \ 05 \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -457,6 +472,9 @@ $1982$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -513,6 +531,9 @@ $2 \ \text {hour} \ 8 \ \text {minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -557,6 +578,9 @@ $7{:}35 \ \text{a.m}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -612,6 +636,9 @@ $\dfrac {1} {5}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -662,6 +689,9 @@ $86400  \ \text {seconds}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -709,6 +739,9 @@ $742  \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -759,6 +792,9 @@ $43200 \ \text {seconds}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -811,6 +847,9 @@ $941  \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -850,6 +889,9 @@ $16.30$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -902,6 +944,9 @@ $385  \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -952,6 +997,9 @@ $86400 \ \text {seconds}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -1000,6 +1048,9 @@ $933  \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -1044,6 +1095,9 @@ $17.00$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1092,6 +1146,9 @@ $81  \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1142,6 +1199,9 @@ $40 \ \text {miles per hour}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1194,6 +1254,9 @@ $86400 \ \text {seconds}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunit
 </li>
@@ -1392,6 +1455,9 @@ $2 \ \text {hours} \ 30 \ \text {minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -1455,6 +1521,9 @@ $10 {:} 40$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1573,6 +1642,9 @@ $17:20$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tspeed
 </li>
 <li>
@@ -1690,6 +1762,9 @@ $800 \ \text{kilometres per hour}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -1805,6 +1880,9 @@ $5.44 \ \text {p.m.}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -1866,6 +1944,9 @@ $2 \ \text{h} \ 25 \ \text{mins}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -1914,6 +1995,9 @@ $111 \ \text {minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1965,6 +2049,9 @@ $92 \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunit
 </li>
@@ -2065,12 +2152,164 @@ $12{:}43$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>251849A4-EE0C-47E3-BB34-4CEBC3CC1509</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Angela caught a train at $7.30$ in the morning and arrived at Newcastle at $1.42$ in the afternoon. How long did her journey take?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Journey duration}  &= \text {Arrival time} - \text {Boarding time} \\\\
+                          &= 1 {:} 42 \ \text {pm} - 7 {:} 30 \ \text {am} \\\\
+                          &= 6 \ \text {hours} \ 12 \ \text {minutes}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text {hours} \ 12 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>2AF9BF1A-6E92-4492-9B1C-3C71893FDA24</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Eadie’s favourite television programme started $1 \ \text{hour}$ and $15 \ \text{minutes}$ ago. What time was this? Write your answer in either $12$ or $24 \ \text{hour}$ clock.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Time when the Programme started}  &= \text {Time on clock} - 1 \ \text {hour} \ 15 \ \text {minutes} \\\\
+                                         &= 03 {:} 35 \ \text {p.m.} - 1 \ \text {hour} \ 15 \ \text {minutes} \\\\
+                                         &= 02 {:} 20 \ \text {p.m.}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$02 {:} 20 \ \text {p.m.}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>74EEEB13-FE38-4F2F-92DC-B391E32A54D9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Eadie has to catch a train at $1710$. How long does she have before the train leaves?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Time she have before train leaves}  &= \text {Time to catch the train} - \text {Time on clock} \\\\
+                                           &= 17 {:} 10 - 15 {:} 35 \\\\
+                                           &= 1 \ \text {hour} \ 35 \ \text {minutes}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \text {hour} \ 35 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2122,6 +2361,9 @@ $55800 \ \text {seconds}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2177,6 +2419,9 @@ $2{:}11 \ \text {pm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2234,6 +2479,9 @@ $5{:}55 \ \text{am}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2343,6 +2591,9 @@ $11{:}05 \ \text{a.m}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -2394,6 +2645,9 @@ $2 \ \text {hours} \ 37 \ \text {minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -2438,6 +2692,9 @@ $7 \ \text{hours} \ 43 \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2484,6 +2741,9 @@ $1:10$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -2529,6 +2789,9 @@ $276 \text{seconds}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2640,6 +2903,9 @@ $576 \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -2689,6 +2955,9 @@ $3{:}18 \ \text{pm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -2736,6 +3005,9 @@ $36$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2853,6 +3125,9 @@ $3 \ \text{hours} \ 4 \ \text{minutes or} \ 184 \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tspeed
 </li>
@@ -2975,6 +3250,9 @@ $6 \ \text{km}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -3023,6 +3301,9 @@ $2{:}32 \ \text{pm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -3077,6 +3358,9 @@ $1440 \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -3195,6 +3479,9 @@ $3 \ \text{hours} \ 10 \ \text{minutes or } 190 \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -3248,6 +3535,9 @@ $1440 \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -3355,76 +3645,15 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_g1 question'>
-<div class='uuid'>
-<p>98FB3AC6-2728-458B-AA28-1E5EF428AAFB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the obtuse angle between the hands of a clock at $5$ o’clock. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-In the clock from $12$ to $12$ it was $360 \degree$
-
-In the clock from $12$ to $6$ it was $180 \degree$
-
-$
-\begin{aligned}
-\text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
-&= \dfrac{30 \times 6}{6} \\\\
-&=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
-&= 30 \degree \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{So, the obtuse angle for} \  5  \ \text{O'clock} &= 30 \times 5 \\\\
-&=  30 \times 5 \\\\
-&=  150 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>E8BEF82D-E970-4508-A623-9BC202200751</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -3466,12 +3695,173 @@ $4 {:} 50 \ \text {pm}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>D5012DF2-F430-4487-8A7E-139B87DBBF34</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many days are there in $48 \ \text{weeks}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know there are $7$ days in a week. Using that we get,
+
+$
+\begin{aligned}
+\text {Number of days in 48 weeks}  &= 48 \times 7 \\\\
+                                    &= 336
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$336$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>C48AA42C-D9F5-4E65-943B-3DCB0718938D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Rob works $40 \ \text{hours}$ a week and earns $\pounds 440. What is his hourly rate of pay?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Rob's hourly pay}    &= \dfrac {440} {40} \\\\
+                            &= \dfrac {40 \times 11} {40} \\\\
+                            &= \dfrac {\cancel {40} \times 11} {\cancel {40}} \\\\
+                            &= \pounds 11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>A6FC38CB-D02D-48DD-BC05-EFFF3A076124</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A train leaves Stevenage at $0942$ and arrives in York at $1134$. How many **minutes** does the journey take?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time taken}           &= 11 {:} 34 - 09 {:} 42 \\\\
+                            &= 1 \ \text {hour} \ 52 \ \text {minutes} \\\\
+                            &= 1 \times 60 \ \text {minutes} \ 52 \ \text {minutes} \\\\
+                            &= 60 + 52 \\\\
+                            &= 112  \ \text {minutes}
+\end{aligned}
+$
+
+The journey took $=112 \ \text {minutes}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$112 \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F62A204D-13DB-4426-A702-451397983AD5</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -3518,6 +3908,9 @@ $6$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -3579,6 +3972,9 @@ $11{:}11, \ 08{:}08$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -3627,6 +4023,9 @@ $31 \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -3674,6 +4073,9 @@ $9{:}40, \ 21{:}40$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -3729,6 +4131,9 @@ $2 \ \text{hours} \ 49 \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -3768,6 +4173,121 @@ $17.13$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>CD5A1E82-56E8-47B2-B92C-58E1FED3F03B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sherry’s train to Bristol was scheduled to leave at $13{:}40$ and to arrive at $14{:}20$
+
+However, the train left eight minutes late and then took $47 \ \text{minutes}$.
+
+At what time did Sherry arrive?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 13{:}40 + 8 \ \text {minutes} + 47 \ \text {minutes} \\\\
+&= 13{:}40 + 55 \ \text {minutes} \\\\
+&= 14{:}35
+\end{aligned}
+$
+
+Sherry arrived at $14{:}35$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14{:}35$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>B849C7F3-0940-4425-9D2F-7AFBF02E5585</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Neil is allowed to watch three hours of TV each day in the holidays. 
+He watches cartoons from $6{:}20 \ \text{pm}$ to $7{:}10 \ \text{pm}$ and a 
+sports programme from $7{:}25 \ \text{pm}$ to $9{:}00 \ \text{pm}$. 
+
+For how much longer could he have watched TV without breaking his rule?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the total time spent by Neil watching TV.
+
+$
+\begin{aligned}
+\text{Cartoons duration}    &= 7{:}10 \ \text{pm} - 6{:}20 \ \text{pm} \\\\
+                            &= 50 \ \text{minutes} \\\\
+\text{Sports duration}      &= 9{:}00 \ \text{pm} - 7{:}25 \ \text{pm} \\\\
+                            &= 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
+\text{Total time spent}     &= 50 \ \text{minutes} + 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
+                            &= 2 \ \text{hr} \ 25 \ \text{minutes} \\\\
+\text{Time left}            &= 3 \ \text{hr} - 2 \ \text{hr} \ 25 \ \text{minutes}  \\\\
+                            &= 35 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35 \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

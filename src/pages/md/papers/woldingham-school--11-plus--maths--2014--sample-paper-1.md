@@ -1,7 +1,7 @@
 ---
 slug: "papers/woldingham-school-11-plus-maths-2014-sample-paper-1"
 title: "Woldingham School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Woldingham School</h1>
@@ -22,6 +22,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -63,6 +66,9 @@ $48$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -102,6 +108,9 @@ $7$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -150,6 +159,9 @@ $40$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -190,7 +202,7 @@ $56$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -235,7 +247,7 @@ $432$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -279,6 +291,9 @@ $9800$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -326,6 +341,9 @@ $32.4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -372,6 +390,9 @@ $0.82$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -415,6 +436,9 @@ $18$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -462,6 +486,9 @@ $57$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -507,6 +534,9 @@ $\dfrac{3} {5}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -556,6 +586,9 @@ $\dfrac {1} {6}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -604,6 +637,9 @@ $\dfrac {4} {5}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -647,6 +683,9 @@ $3 \dfrac{1}{2}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -805,6 +844,9 @@ $6$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1067,6 +1109,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 <li>
@@ -1143,6 +1188,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -1202,6 +1250,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1359,6 +1410,9 @@ Any number between $795$ to $805$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -1418,6 +1472,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -1651,6 +1708,9 @@ $44 \dfrac {4} {5}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -1796,6 +1856,9 @@ $-5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -1986,6 +2049,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -2215,6 +2281,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -2366,6 +2435,9 @@ $1125$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 <li>
@@ -2477,6 +2549,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>

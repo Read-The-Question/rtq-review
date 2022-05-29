@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-all"
 title: "Topic - Probability - All"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -116,9 +116,6 @@ TODOANSWER
 <ul>
 <li>
 tprobability
-</li>
-<li>
-tcoin
 </li>
 </ul>
 </div>
@@ -312,6 +309,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -384,9 +384,6 @@ TODOANSWER
 <ul>
 <li>
 tprobability
-</li>
-<li>
-ttable
 </li>
 </ul>
 </div>
@@ -1009,6 +1006,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -1743,6 +1743,9 @@ $4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprobability
 </li>
 </ul>
@@ -1798,6 +1801,9 @@ $17$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 <li>
@@ -1848,6 +1854,9 @@ $\text {likely}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprobability
 </li>
 <li>
@@ -1890,6 +1899,9 @@ $\text {Certain}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tprobability
 </li>
@@ -1934,6 +1946,9 @@ $\text {unlikely}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprobability
 </li>
 <li>
@@ -1977,6 +1992,9 @@ $\text {Certain}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprobability
 </li>
 </ul>
@@ -2010,12 +2028,15 @@ $\text {Impossible}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>FA4F6584-F867-4263-B1CA-F813E4733C7A</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2064,17 +2085,20 @@ $\dfrac {4} {15}$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>2B0B43F3-6E8B-41F9-A516-B83235232CD8</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2123,7 +2147,7 @@ $\dfrac {2} {15}$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2182,6 +2206,9 @@ $\dfrac {7} {15}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2244,6 +2271,9 @@ $\dfrac {1} {5}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2614,9 +2644,6 @@ $\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3
 <li>
 tprobability
 </li>
-<li>
-tinfer
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2948,6 +2975,9 @@ $\dfrac {5} {9}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -3198,19 +3228,13 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tinfer
+</li>
+<li>
 tprobability
 </li>
 <li>
 tarea
-</li>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-<li>
-tlogic
 </li>
 </ul>
 </div>
@@ -3470,9 +3494,6 @@ TODOANSWER
 <ul>
 <li>
 tprobability
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -4547,6 +4568,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 <li>
@@ -4716,6 +4740,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -4942,6 +4969,9 @@ TODOANSWER
 <ul>
 <li>
 tprobability
+</li>
+<li>
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -5355,112 +5385,6 @@ $\dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>7B83BD4F-38FE-4088-BDD0-C94A2203662F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a car park there are $48$ cars. $\dfrac{3}{8}$ of the cars are blue and $25\%$ of the cars are red. How many cars are neither blue nor red?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Cars neither blue nor red}              &= \text{Total cars - Blue cars - Red cars}  \\\\
-                                              &= 48 - \dfrac {3} {8} \times 48 - 25\% \times 48 \\\\
-                                              &= 48 - \dfrac {3 \times 48} {8} - \dfrac {25 \times 48} {100} \\\\
-                                              &= 48 - \dfrac {3 \times 6 \times 8} {8} -  \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
-                                              &= 48 - \dfrac {3 \times 6 \times \cancel{8}} {\cancel{8}}  -\dfrac {\cancel{25} \times \cancel{4} \times 12} {\cancel{25} \times \cancel{4}} \\\\
-                                              &= 48 - 3 \times 6 - 12 \\\\
-                                              &= 48 - 18 - 12 \\\\
-                                              &= 18
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>050EE19D-DD2B-4EAE-B94A-09B3971155EF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars are blue. How many cares are there that are neither red nor blue?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Cars (Neither blue nor red)}            &= \text{Total Cars - Red Cars - Blue Cars}  \\\\
-                                              &= 60 - \dfrac {5} {12} \times 60 - 20\% \times 60 \\\\
-                                              &= 60 - \dfrac {5 \times 60} {12} - \dfrac {20 \times 60} {100} \\\\
-                                              &= 60 - \dfrac {5 \times 5 \times 12} {12} -  \dfrac {20 \times 5 \times 12} {20 \times 5} \\\\
-                                              &= 60 - \dfrac {5 \times 5 \times \cancel{12}} {\cancel{12}}  -\dfrac {\cancel{20} \times \cancel{5} \times 12} {\cancel{20} \times \cancel{5}} \\\\
-                                              &= 60 - 5 \times 5 - 12 \\\\
-                                              &= 60 - 25 - 12 \\\\
-                                              &= 23
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ej_amber question'>
 <div class='uuid'>
 <p>91EA7C9C-B1CA-4BC9-B4C1-8F292EB3A141</p>
@@ -5629,6 +5553,9 @@ $105$
 <li>
 tprobability
 </li>
+<li>
+tcircleanswer
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -5733,7 +5660,7 @@ $82$
 tprobability
 </li>
 <li>
-tdraw
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -6024,6 +5951,9 @@ $\dfrac {13} {18}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -6223,146 +6153,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>591380D5-0D24-4220-9C89-328954BC831D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In six of her end of term tests, each out of $50$ marks, 
-Madhia scores $48$ in Mathematics, $37$ in Physics, $40$ in English, 
-$48$ in Chemistry, $36$ in biology and $31$ in Geography. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the mode of Madhika's six scores?
-- $48$
-- $37$
-- $30$
-- $31$
-- $40$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate her mean average score.
-
-- $36$
-- $37$
-- $38$
-- $39$
-- $40$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>01C82474-EE28-4573-8473-6CD059D0B162</p>
 </div>
 <div class='topics'>
@@ -6502,7 +6292,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_jn_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B</p>
 </div>
@@ -6625,7 +6415,7 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_jn_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -7015,6 +6805,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -7156,6 +6949,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 <li>
@@ -7289,9 +7085,6 @@ TODOANSWER
 <ul>
 <li>
 tprobability
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -7546,6 +7339,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 <li>
@@ -7784,6 +7580,9 @@ $\text {Impossible}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -8105,6 +7904,9 @@ $\text{Even chance}, \text{Certain}, \text{Even chance}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -8382,6 +8184,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -9317,6 +9122,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -9763,6 +9571,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 <li>
@@ -10090,7 +9901,7 @@ $\dfrac { 6 } { 25 }$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>3C2D79BD-AEA4-4564-8DED-BB94FFC30951</p>
 </div>
@@ -10134,7 +9945,7 @@ $\dfrac {11} {20}$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -10145,6 +9956,9 @@ $\dfrac {11} {20}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -10463,6 +10277,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -10733,9 +10550,6 @@ TODOANSWER
 <ul>
 <li>
 tprobability
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>

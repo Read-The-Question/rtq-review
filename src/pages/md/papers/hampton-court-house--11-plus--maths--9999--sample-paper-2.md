@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Hampton Court House</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -403,6 +406,9 @@ $45$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -452,6 +458,9 @@ $18738$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -730,6 +739,9 @@ $-2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -847,6 +859,9 @@ $25 \%$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfactor
 </li>
 </ul>
@@ -889,6 +904,9 @@ $2 \times 3 \times 17$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfactor
 </li>
 <li>
@@ -904,11 +922,7 @@ What is the **smallest number** that has four different prime factors?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-2 \times 3 \times 5 \times 7  &= 210
-\end{aligned}
-$
+$2 \times 3 \times 5 \times 7 = 210$
 
 </div>
 </div>
@@ -935,6 +949,9 @@ $210$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -980,6 +997,9 @@ $-3x + 30y$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1093,6 +1113,9 @@ $18$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1210,6 +1233,9 @@ $111 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1342,6 +1368,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -1593,6 +1622,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 </ul>
@@ -1839,6 +1871,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -1945,6 +1980,9 @@ $\dfrac{7} {3}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -2059,6 +2097,9 @@ $\dfrac {-9} {28}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -2113,6 +2154,9 @@ $2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -2285,6 +2329,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -2348,6 +2395,9 @@ $108 \ \text {cm} ^ 2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -2422,6 +2472,9 @@ $108 \ \text {cm} ^ 2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>

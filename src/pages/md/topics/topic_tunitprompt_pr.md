@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-pr"
 title: "Topic - Unitprompt - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -32,13 +35,15 @@ How much more does she need to reach $\pounds 5$?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin {aligned}
 \text {Amount collected}    &= 35 \times 5 \text {p} \\\\
                             &= 35 \times \pounds \dfrac {5} {100} \\\\
-                            &= \dfrac {5 \times 35} {100} \\\\
-                            &= \dfrac {5 \times 5 \times 7} {5 \times 5 \times 4} \\\\
-                            &= \dfrac {\cancel {5} \times \cancel {5} \times 7} {\cancel {5} \times \cancel {5} \times 4} \\\\
+                            &= \dfrac {35 \times 5} {100} \\\\
+                            &= \dfrac {5 \times 7 \times 5} {5 \times 5 \times 4} \\\\
+                            &= \dfrac {\cancel {5} \times 7 \times \cancel {5}} {\cancel {5} \times \cancel {5} \times 4} \\\\
                             &= \dfrac {7} {4} \\\\
                             &= \pounds 1.75 \\\\
 \text {Amount needed}       &= \pounds 5 - \pounds 1.75 \\\\
@@ -72,6 +77,9 @@ $\pounds 3.25$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunitprompt
 </li>
 </ul>
@@ -94,10 +102,10 @@ Give your answer in millimetres.
 
 Lets convert all units of volume into milliliters,
 
-| Container |   Conversion                           | in millilitres    |
+| Container |             Conversion                 |   in millilitres  |
 |-----------|----------------------------------------|-------------------|
-|     A     |    750 millilitres                     |   750 millilitres |
-|     B     |    0.5 \times 1000 = 500 millilitres   |   500 millilitres |
+|    A      |    750 millilitres                     |   750 millilitres |
+|    B      |    0.5 \times 1000 = 500 millilitres   |   500 millilitres |
 
 Container A holds the greater amount.
 
@@ -115,7 +123,7 @@ Container A holds $250 \ \text {milliliters}$ more than container B.
 <div class='answers'>
 <div class='answer'>
 
-$250 \ \text{ milliliters}$
+$250 \ \text{milliliters}$
 
 </div>
 </div>
@@ -135,6 +143,9 @@ $250 \ \text{ milliliters}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunitprompt
 </li>
@@ -194,6 +205,9 @@ $\text {One-quarter}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -396,6 +410,9 @@ $3.6 \ \text {m} ^ 2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunit
 </li>
@@ -618,6 +635,9 @@ $500 \ \text{mm}^2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunitprompt
 </li>
 <li>
@@ -634,13 +654,13 @@ What is their total mass, give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-$1 \ \text {kg} = 1000 \ \text {g}$
+It is really important to use the right units in calculations and convert where required. Let's convert all the masses into $\text{g}$.
 
 $
 \begin{aligned}
-\text {Total mass} &= 720 \text{g} + 3.46 \text{kg} + 2  \text{kg} \ 53 \text{g} \\\\
-                   &= 720 \text{g} + 3460 \text{g} + 2053 \text{g} \\\\
-                   &= 6233 \text{g}
+\text {Total mass} &= 720 \ \text{g} + 3.46 \ \text{kg} + 2 \ \text{kg} \ 53 \ \text{g} \\\\
+                   &= 720 \ \text{g} + 3460 \ \text{g} + 2053 \ \text{g} \\\\
+                   &= 6233 \ \text{g}
 \end{aligned}
 $
 
@@ -649,7 +669,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6233 \text{g}$
+$6233 \ \text{g}$
 
 </div>
 </div>
@@ -669,6 +689,9 @@ $6233 \text{g}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -729,6 +752,9 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunitprompt
 </li>
@@ -893,6 +919,9 @@ $295 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunitprompt
 </li>
 </ul>
@@ -1002,6 +1031,9 @@ $25 \ \text {miles}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunitprompt
 </li>
 </ul>
@@ -1048,6 +1080,9 @@ One million millimetres
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -1103,6 +1138,9 @@ $2.4 \text{m}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunitprompt
 </li>
@@ -1210,6 +1248,9 @@ $2400 \text{g}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -1268,76 +1309,15 @@ $135$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>1A6AB009-2F49-47AF-BA34-6312AA658C67</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-John the electrician needs to cut three lengths of wire from the $5 \ \text{metre}$ roll he has brought with him to do a job. The three lengths he cuts are $85 \ \text{cm}$, $2.5 \ \text{metre}$s and $650 \ \text{mm}$. How much wire (in cms) will he have left after cutting off his lengths?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the left over wire (in $\text {cm}$) $= w$.
-
-It is really important to use the right units in calculations and convert where required. The wire measurement are given in multiple units.
-
-Let's convert all the measurements into $\text{cm}$.
-
-As per the question,
-
-$
-\begin {aligned}
-85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w                                               &= 5 \ \text {metre} \\\\
-85 \ \text {cm} +  2.5 \times 100 \ \text {cm} + \dfrac {650} {10} \ \text {cm} + w                         &= 5 \times 100 \ \text {cm} \\\\
-85 \ \text {cm} +  250 \ \text {cm} + \dfrac {65 \cancel {0}} {1 \cancel {0}} \ \text {cm} + w              &= 500 \ \text {cm} \\\\
-85 \ \text {cm} +  250 \ \text {cm} + 65 \ \text {cm} + w                                                   &= 500 \ \text {cm} \\\\
-85  + 250  + 65 + w                                                                                         &= 500  \\\\
-400 + w                                                                                                     &= 500 \\\\
-w                                                                                                           &= 500 - 400 \\\\
-w                                                                                                           &= 100 \ \text {cm}
-\end {aligned}
-$
-
-The left over wire length is = $100\ \text {cm}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$100 \ \text {cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>4D18C421-3F30-45CC-ACE9-047E6EF86035</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunitprompt
 </li>
@@ -1391,66 +1371,13 @@ $80$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>F990AB7B-48EF-4668-8814-D68C1917C568</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunitprompt
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \text{mm}$ giving your answer in $\text{cm}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required. The three lengths are given in multiple units.
-
-Let's convert all the measurements into the same unit $\text{cm}$.
-
-As per the question,
-
-$
-\begin{aligned}
-&= 1.4 \ \text{m} + 33 \ \text{cm} + 580 \ \text{mm} \\\\
-&= 1.4 \times 100 \ \text {cm} + 33 \ \text{cm} + \dfrac {580} {10} \ \text{cm} \\\\
-&= 140 \ \text{cm} + 33 \ \text{cm} + 58 \ \text{cm} \\\\
-&= 231 \ \text{cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$231 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1595,6 +1522,9 @@ $45p$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunitprompt
 </li>

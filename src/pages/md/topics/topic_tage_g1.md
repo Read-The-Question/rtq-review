@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-g1"
 title: "Topic - Age - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,6 +59,230 @@ $24$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>0BC6DC5C-B1B3-4EBE-AC5C-839914A2772E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Anna is $3$ years younger than Brian. Brian is $7$ years older than Callum.
+
+How much older is Anna than Callum?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Anna be $a$ year older than Callum.
+
+As per the question,
+
+$
+\begin{aligned}
+a &= 7 - 3 \\\\
+  &= 4 \ \text {years}
+\end{aligned}
+$
+
+Anna is $4$ years older than Callum.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text {years}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Derek is $15$ years old. His Dad is three times his age.
+Derek's brother, Dave, is six year younger than him.
+
+How many times older is Dad than Dave?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Times Dave is older than his dad}  &= \dfrac {\text {Age of Derek's dad}} {\text {Dave's age}} \\\\
+                                         &= \dfrac {15 \times 3} {15 - 6} \\\\
+                                         &= \dfrac {15 \times 3} {9} \\\\
+                                         &= \dfrac {5 \times 3 \times 3} {3 \times 3} \\\\
+                                         &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
+                                         &= 5
+\end{aligned}
+$
+
+Dad is $5$ times older than Dave.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Emily is one quarter the age of her Aunt Ingrid.
+Their ages total $60$.
+
+How old is Emily?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of Emily $= a$
+
+Age of Emily’s aunt Ingrid $= 4a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 4a &= 60 \\\\
+5a     &= 60 \\\\
+a      &= \dfrac {60} {5} \\\\
+a      &= \dfrac {12 \times 5} {5} \\\\
+a      &= \dfrac {12 \times \cancel {5}} {\cancel {5}} \\\\
+a      &= 12
+\end{aligned}
+$
+
+Emily is $12$ years old.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sanjay is two years younger than Sara, who is five years older than Sasha. Sanjay's age and Sasha's age total to $31$.
+
+How old is Sara?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of Sara $= a$.
+
+Sanjay's age $= a - 2$.
+
+Sasha's age $= a - 2 - 5 = a - 7$.
+
+As per the question,
+
+$
+\begin{aligned}
+a - 2 + a - 7 &= 31 \\\\
+2a - 9        &= 31 \\\\
+2a            &= 31 + 9 \\\\
+2a            &= 40 \\\\
+a             &= \dfrac {40} {2} \\\\
+a             &= 20
+\end{aligned}
+$
+
+Sara is $20$ years old.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -126,10 +350,10 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tage
 </li>
 <li>
-tage
+talgebra
 </li>
 </ul>
 </div>
@@ -189,10 +413,10 @@ $14$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tage
 </li>
 <li>
-tage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -313,6 +537,9 @@ $46 \ \text{years}$
 <li>
 tage
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -370,6 +597,9 @@ $47 \ \text {years}$
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -429,6 +659,77 @@ $33$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>9AC85AEC-FC01-4FB6-9FC8-DC6ADCBB5690</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The total of the ages of a father, his daughter and his two twin sons is $96$ years. 
+The daughter’s age is half the father’s age and twice the age of each of her two brothers. 
+
+How old is the **father**? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of father $= a$
+
+Age of daughter $= \dfrac{a}{2}$
+
+Age of brother $= \dfrac{a}{4}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{age of father} + \text{age of daughter} + \text{age of 2 sons}                            &= 96 \\\\
+a + \dfrac{a}{2} + \dfrac{a}{4} + \dfrac{a}{4}                                                  &= 96 \\\\
+\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a}{4} + \dfrac{a}{4}        &= 96 \\\\
+\dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\ 
+\dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
+\dfrac {8a} {4}                                                                                 &= 96 \\\\
+7a                                                                                              &= 96 \times 4 \\\\
+a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac{8 \times 12 \times 4} {8} \\\\
+a                                                                                               &= \dfrac{\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
+a                                                                                               &= 12 \times 4 \\\\
+a                                                                                               &= 48 \\\\
+\text {the age of father}                                                                       &= 48
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3EBB0F49-3BA5-4488-971D-510882EA7B7A</p>
@@ -437,6 +738,9 @@ $33$
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -545,6 +849,9 @@ $9, \ 3, \ 16, \ 11$
 <li>
 tage
 </li>
+<li>
+tsimpleword
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -594,6 +901,9 @@ $9 \ \text {years} \ 6 \ \text {months}$
 <li>
 tage
 </li>
+<li>
+tsimpleword
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -627,6 +937,108 @@ $20 \ \text {years} \ 9 \ \text {months}$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>460183B0-7FB1-4AE5-A539-6CE39B381434</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jessica was born on $5$ January $2003$ and her friend Amelia was born exactly $9$ days earlier. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On which date was Amelia born?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$27 \ \text {December} 2002$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27 \ \text {December} 2002$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jessica’s $12 \text{th}$ birthday was on a Monday.
+
+On what day of the week was Amelia’s $12 \text{th}$ birthday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\ \text {Saturday}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\ \text {Saturday}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>

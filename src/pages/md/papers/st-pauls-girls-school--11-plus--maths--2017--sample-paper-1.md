@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>St Paul's Girls' School</h1>
@@ -22,6 +22,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -133,6 +136,9 @@ $90$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 </ul>
@@ -183,10 +189,7 @@ $30$
 <div class='topics'>
 <ul>
 <li>
-tfraction
-</li>
-<li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -234,6 +237,9 @@ $\dfrac{2}{3}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -284,6 +290,9 @@ $4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -348,6 +357,9 @@ $8, 27$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -397,6 +409,9 @@ $23$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfactor
 </li>
@@ -449,6 +464,9 @@ $42$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -514,6 +532,9 @@ $13, 14$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -567,6 +588,9 @@ $27$
 <li>
 tage
 </li>
+<li>
+tsimpleword
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -614,6 +638,9 @@ $30 \ \text{years}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -665,6 +692,9 @@ $57 \text{p}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -720,6 +750,9 @@ $12$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -783,6 +816,9 @@ $30 \text{p}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 todo
 </li>
 </ul>
@@ -836,6 +872,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -891,6 +930,9 @@ $\pounds 49.5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnoexplanation
 </li>
@@ -1004,6 +1046,9 @@ $3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 </ul>
@@ -1061,6 +1106,9 @@ $24 \ \text{coins}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1144,6 +1192,9 @@ Gifts in fourth pile $= 10$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1278,6 +1329,9 @@ $7 \ \text{Alphas} + 17 \ \text{Betas} + 4 \ \text{Gammas}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -1321,6 +1375,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -1378,6 +1435,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 todo
 </li>
 </ul>
@@ -1428,6 +1488,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -1481,6 +1544,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1546,6 +1612,9 @@ $10 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 todo
 </li>
 </ul>
@@ -1597,6 +1666,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -1732,6 +1804,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -2040,6 +2115,9 @@ $3,1 \ \text{and} \ 2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 todo
 </li>
 </ul>
@@ -2325,6 +2403,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 todo
 </li>
 </ul>
@@ -2495,6 +2576,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -2694,6 +2778,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>

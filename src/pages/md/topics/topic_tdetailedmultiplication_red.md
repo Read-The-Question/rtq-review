@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-red"
 title: "Topic - Detailedmultiplication - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -70,6 +73,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -104,180 +110,6 @@ TODOANSWER
 </div>
 </div>
 
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_red question'>
-<div class='uuid'>
-<p>998EFCB6-EF19-4B92-8115-132CC13DB0AF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $500 \times 15$ ?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-         &    5    &    0    &    0 \\
-{}\times &         &    1    &    5 \\
-\hline
-2        &    5    &    0    &    0 \\
-5        &    0    &    0    &    0 \\
-\hline
-7        &     5   &    0    &    0
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7500$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $500 \times 1.5$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first multiply the numbers ignoring the decimal points.
-
-$
-\begin{array}{cccccccccccccc}
-         &    5    &    0    &    0 \\
-{}\times &         &    1    &    5 \\
-\hline
-2        &    5    &    0    &    0 \\
-5        &    0    &    0    &    0 \\
-\hline
-7        &     5   &    0    &    0
-\end{array}
-$
-
-Between the two numbers, the total number of digits after the decimal point is one.
-
-Let's account for the decimal point now. 
-
-$= 750$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$750$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $500 \times 0.15$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first multiply the numbers ignoring the decimal points.
-
-$
-\begin{array}{cccccccccccccc}
-         &    5    &    0    &    0 \\
-{}\times &         &    1    &    5 \\
-\hline
-2        &    5    &    0    &    0 \\
-5        &    0    &    0    &    0 \\
-\hline
-7        &     5   &    0    &    0
-\end{array}
-$
-
-Between the two numbers, the total number of digits after the decimal point is two.
-
-Let's account for the decimal point now. 
-
-$= 75$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$75$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>

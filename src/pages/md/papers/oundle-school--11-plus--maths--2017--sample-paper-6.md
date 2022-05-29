@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-6"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 6"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -278,6 +281,9 @@ $\dfrac {10} {3}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -427,6 +433,9 @@ $2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -607,6 +616,9 @@ $117$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -770,6 +782,9 @@ $-6$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -836,6 +851,9 @@ $20 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 </ul>
@@ -887,6 +905,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -941,6 +962,9 @@ $1$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpermutation
 </li>
 </ul>
@@ -990,6 +1014,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1046,6 +1073,9 @@ $40$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -1100,12 +1130,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
-<li>
-ttime
-</li>
 <li>
 tclock
 </li>

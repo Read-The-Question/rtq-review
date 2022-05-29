@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-e"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper E"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Dulwich College</h1>
@@ -69,6 +69,9 @@ $1267$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -119,7 +122,7 @@ $1691$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tdivision
 </li>
 </ul>
 </div>
@@ -164,6 +167,9 @@ $8.6$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tdetailedsubtraction
+</li>
 <li>
 tdecimal
 </li>
@@ -213,6 +219,9 @@ $2.769$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -443,6 +452,9 @@ $13, \quad 17$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfactor
 </li>
 </ul>
@@ -497,6 +509,9 @@ $30, 10, 3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -545,6 +560,9 @@ $48$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -770,7 +788,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -885,6 +903,9 @@ $0.16$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -936,6 +957,9 @@ $\dfrac {15} {26}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -1153,6 +1177,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -1329,6 +1356,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -1504,6 +1534,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentageadvance
 </li>
 <li>
@@ -1585,6 +1618,9 @@ $90 \ \text {ml}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -1660,6 +1696,9 @@ $158 \ \text {cm}^2, \ 76 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1802,6 +1841,9 @@ $8 \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 </ul>
@@ -1851,6 +1893,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1923,6 +1968,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 <li>
@@ -1976,6 +2024,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -2150,6 +2201,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -2341,6 +2395,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>

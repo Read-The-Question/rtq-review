@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-3"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -136,6 +139,9 @@ $352$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 <li>
@@ -202,6 +208,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -253,6 +262,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -358,6 +370,9 @@ $\text{D}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -548,6 +563,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -600,6 +618,9 @@ $3 \ \text{kg}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -660,6 +681,9 @@ $30 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -811,6 +835,9 @@ $-1, -2 \ \text{or} \ -3, 0 \ \text{or} \ -4, 1$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -863,18 +890,6 @@ $149.5$
 <ul>
 <li>
 tnumber
-</li>
-<li>
-tdetailedaddition
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdecimal
 </li>
 </ul>
 </div>
@@ -1029,6 +1044,9 @@ $32.4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -1168,9 +1186,6 @@ $640 \text { mm}$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -1226,6 +1241,9 @@ $0.101$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -1275,6 +1293,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1340,7 +1361,7 @@ $5$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -1409,6 +1430,9 @@ $30 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -1487,12 +1511,15 @@ Missing numbers : 10, 17, 24
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>54012999-742D-48BD-A138-DB7E6775B4C3</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -1508,16 +1535,14 @@ On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day th
 
 As per the question,
 
-Temperature on Christmas day = $-5 \degree C$
-
-Temperature on New Year’s day = $-5 - 3 \degree C = -8 \degree C$
+Temperature on New Year’s day $= -5 - 3 = -8 \degree \text {C}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-8 \degree C$
+$-8 \degree \text {C}$
 
 </div>
 </div>
@@ -1526,17 +1551,20 @@ $-8 \degree C$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>8A24363A-173B-47A3-9255-922EF8A300A3</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1569,13 +1597,16 @@ Let the number Bob thinks = $a$
 As per the question,
 
 $a > 40$
+
 $a$ is a multiple of $3$
+
 $a$ is a multiple of $5$
+
 $a <60$
 
-Numbers between $40$ and $60$ which are dvisible by $5$ = ${45, 50, 55}$
+Numbers between $40$ and $60$ which are dvisible by $5 = {45, 50, 55}$
 
-Out of which number divisible by $3$ = $4 + 5 = 9$ which is divisible by 3.
+Numbers between $40$ and $60$ which are dvisible by $5 = {45, 48, 51, 54, 57}$
 
 $a = 45$
 
@@ -1593,7 +1624,7 @@ $45$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1604,6 +1635,9 @@ $45$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1664,6 +1698,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -1832,6 +1869,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -1947,9 +1987,6 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -2002,6 +2039,9 @@ $0.872$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -2062,6 +2102,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2186,15 +2229,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>CF222902-2477-42D2-AE75-3A8396F1AAC7</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tdecimal
-</li>
 <li>
 tnumber
 </li>
@@ -2299,7 +2339,7 @@ $2.716$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -2310,6 +2350,9 @@ $2.716$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>

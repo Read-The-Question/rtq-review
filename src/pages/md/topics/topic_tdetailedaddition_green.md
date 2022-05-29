@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedaddition-green"
 title: "Topic - Detailedaddition - Green"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>

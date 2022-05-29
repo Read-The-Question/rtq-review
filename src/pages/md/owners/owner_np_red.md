@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-np-red"
 title: "Owner - Nalini Prakash - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -64,6 +67,9 @@ $14$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -123,6 +129,9 @@ $1:4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -171,6 +180,9 @@ $521$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -217,6 +229,9 @@ $26063$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -286,6 +301,9 @@ $12$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -483,6 +501,9 @@ $12 \text{ litres}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -527,6 +548,9 @@ $10:30$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -580,6 +604,9 @@ $\pounds23.95$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -630,6 +657,9 @@ $14, 12$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>

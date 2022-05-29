@@ -1,7 +1,7 @@
 ---
 slug: "papers/john-lyon-school-11-plus-maths-9999-sample-paper-1"
 title: "John Lyon School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>John Lyon School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -168,6 +171,9 @@ $3211$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -214,6 +220,9 @@ $5702$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -265,6 +274,9 @@ $77691$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -314,6 +326,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -376,6 +391,9 @@ $63$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -391,17 +409,17 @@ Gavin buys four bottles of cola at $\pounds 1.09$ each and $8$ chocolate bars at
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+
 Price of Cola $= \pounds 1.09$
 
 Price of $8$ Chocolate bars $= 62 \text{p}$
 
 $
 \begin{aligned}
-\text {Change received} &= 10 - (\text{Cost of cola} + \text{Cost of chocolate bars}) \\\\
-                        &= 10 - (4 \times 1.09 + 62) \\\\
-                        &= 10 - (4.36 + 62) \\\\
-                        &= 10 - (4.36 + \dfrac {62} {100}) \\\\
-                        &= 10 - (4.36 + 0.62) \\\\
+\text {Change received} &= \pounds 10 - (\text{Cost of cola} + \text{Cost of chocolate bars}) \\\\
+                        &= \pounds 10 - (4 \times \pounds 1.09 + 62 \text{p}) \\\\
+                        &= \pounds 10 - (\pounds 4.36 + \pounds 0.62) \\\\
                         &= 10 - 4.98 \\\\
                         &= \pounds 5.02
 \end{aligned}
@@ -432,6 +450,9 @@ $\pounds 5.02$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -484,6 +505,9 @@ $1.535 \ \text {m}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -688,6 +712,9 @@ $6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -743,6 +770,9 @@ $56$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -793,6 +823,9 @@ $155 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -847,6 +880,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1057,6 +1093,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunitprompt
 </li>
 <li>
@@ -1073,13 +1112,13 @@ What is their total mass, give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-$1 \ \text {kg} = 1000 \ \text {g}$
+It is really important to use the right units in calculations and convert where required. Let's convert all the masses into $\text{g}$.
 
 $
 \begin{aligned}
-\text {Total mass} &= 720 \text{g} + 3.46 \text{kg} + 2  \text{kg} \ 53 \text{g} \\\\
-                   &= 720 \text{g} + 3460 \text{g} + 2053 \text{g} \\\\
-                   &= 6233 \text{g}
+\text {Total mass} &= 720 \ \text{g} + 3.46 \ \text{kg} + 2 \ \text{kg} \ 53 \ \text{g} \\\\
+                   &= 720 \ \text{g} + 3460 \ \text{g} + 2053 \ \text{g} \\\\
+                   &= 6233 \ \text{g}
 \end{aligned}
 $
 
@@ -1088,7 +1127,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6233 \text{g}$
+$6233 \ \text{g}$
 
 </div>
 </div>
@@ -1108,6 +1147,9 @@ $6233 \text{g}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttrialerror
 </li>
@@ -1168,6 +1210,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -1372,6 +1417,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -1433,6 +1481,9 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -1639,6 +1690,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -1689,6 +1743,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 </ul>
@@ -1703,13 +1760,18 @@ What is the area of this shape?
 <div class='workings'>
 <div class='working'>
 
+We can divide the shape into $2$ rectangle as per the diagram shown below.
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+As per the diagram,
+
 $
 \begin{aligned}
-\text {Area of the shape} &= \text {Area of rectangle 1} + \text {Area of rectangle 2} \\\\
-                          &= \text {length1} \times \text {breadth1} + \text {length2} \times \text {breadth2} \\\\
+\text {Area of the shape} &= \text {Area of Rectangle 1} + \text {Area of Rectangle 2} \\\\
                           &= 24 \times 11 + 7 \times 4 \\\\
                           &= 264 + 28 \\\\
-                          &= 292 \text {cm}^2
+                          &= 292 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -1718,7 +1780,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$292 \text {cm}^2$
+$292 \ \text {cm}^2$
 
 </div>
 </div>
@@ -1742,7 +1804,7 @@ $292 \text {cm}^2$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -1808,7 +1870,7 @@ $51 \degree$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -1993,6 +2055,9 @@ $2.79$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -2274,6 +2339,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>

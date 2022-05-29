@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-pr"
 title: "Topic - Perimeter - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -34,11 +37,11 @@ $
 \begin{aligned}
 \text{Perimeter} &= 2 \times (\text{length} + \text{width}) \\\\
 36                                         &= 2 \times (10 + t) \\\\
-2 \times (10 + t)                        &= 36 \\\\
-10 + t                                  &= \dfrac{36}{2} \\\\
-10 + t                                  &= 18 \\\\
-t                                        &= 18 - 10 \\\\
-t                                        &= 8 \ \text{mm} \\\\
+2 \times (10 + t)                          &= 36 \\\\
+10 + t                                     &= \dfrac{36}{2} \\\\
+10 + t                                     &= 18 \\\\
+t                                          &= 18 - 10 \\\\
+t                                          &= 8 \ \text{mm} \\\\
 \end{aligned}
 $
 
@@ -67,6 +70,9 @@ $8 \ \text{mm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -154,6 +160,9 @@ Length $= 9 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -228,6 +237,9 @@ $32$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -256,8 +268,13 @@ $
 \begin {aligned}
 \text {Area of square}          &= 36 \ \text {cm} ^ 2 \\\\
 a ^ 2                           &= 36 \\\\
-a                               &= \sqrt{36} \\\\
-a                               &= 6 \ \text {cm} \\\\
+a                               &= \sqrt {36} \\\\
+a                               &= 6 \ \text {cm}
+\end {aligned}
+$
+
+$
+\begin {aligned}
 \text {Perimeter of square}     &= 4 \times a \\\\
                                 &= 4 \times 6 \\\\
                                 &= 24 \ \text {cm}
@@ -292,6 +309,9 @@ $24 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -356,173 +376,15 @@ $30 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>83171B40-5CB7-43E9-84C7-6F8C993632BD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdraw
-</li>
-<li>
-tperimeter
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows a T shape. The diagram is not accurately drawn to scale.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write the two remaining lengths on the diagram.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Top missing length}  &= 5 + 2 + 5 \\\\
-                            &= 12 \ \text {cm} \\\\
-\text {Side missing length} &= 8 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12 \ \text {cm}, 8 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the **perimeter** of the T shape. State the units.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin {aligned}
-\text {Perimeter of the T shape}  &= \text {Sum of all sides} \\\\
-                                  &= 2 \times 3 + 5 \times 2 + 8 \times 2 + 12 \\\\
-                                  &= 6 + 10 + 16 + 12 \\\\
-                                  &= 44 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$44 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the **area** of the T shape, showing how you did it.
-
-State the units.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-Let's draw a line at the neck of the T shape and make two separate rectangles.
-
-$
-\begin {aligned}
-\text {Area of the T shape}  &= \text {Area of horizontal rectangle} + \text {Area of vertical rectangle} \\\\
-                             &= 12 \times 2 + 2 \times 8 \\\\
-                             &= 24 + 16 \\\\
-                             &= 40 \ \text {cm} ^ 2
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \ \text {cm} ^ 2$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>37241372-32CF-4C98-A54E-BBD279C33AA8</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -607,6 +469,9 @@ $400 \text{ cm}^2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -724,63 +589,13 @@ $7.5 \text { cm}^2$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>D36EB8D1-F797-4291-92E6-21171425524C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows a field viewed from above. All dimensions are given in metres.
-
-![missing image](/papers/missing_image.svg)
-
-A mouse walks all the way around the edge of this field. How far does the mouse walk in metres?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {The mouse walked}  &= \text {Sum of all edges} \\\\
-                          &= 70 + 75 + (130 - 70) + 25 + 130 + (75 + 25) \\\\
-                          &= 145 + 60 + 155 + 100 \\\\
-                          &= 460 \ \text {m}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$460 \ \text {m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>A378EBC6-7DBB-440C-8EF8-40C2D3B7F5D7</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -919,6 +734,9 @@ $48 \ \text {cm} ^ 2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1122,6 +940,9 @@ $3.6 \ \text {m} ^ 2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 <li>
@@ -1287,6 +1108,9 @@ $2 (h + w)$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -1353,6 +1177,9 @@ $60 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -1416,6 +1243,9 @@ $108 \ \text {cm} ^ 2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1484,87 +1314,15 @@ $108 \ \text {cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>3AC41847-B315-468A-A2D7-E375F2BF6A55</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Tanya cuts out a piece of card into a rectangle. The rectangle is twice as long as it is wide. 
-The area of the rectangle is $128 \ \text{cm}^2$.
-
-What is the perimeter of rectangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the width of the rectangle $= a$.
-
-As per the question, 
-
-Length of the rectangle $= 2a$. 
-
-$
-\begin {aligned}
-\text {Area of the rectangle}   &= \text {length} \times \text {width} \\\\
-128                             &= 2a \times a \\\\
-2a ^ 2                          &= 128 \\\\
-a ^ 2                           &= \dfrac {128} {2} \\\\
-a ^ 2                           &= \dfrac {64 \times 2} {2} \\\\
-a ^ 2                           &= \dfrac {64 \times \cancel {2}} {\cancel {2}} \\\\
-a ^ 2                           &= 64 \\\\
-a                               &= \sqrt {64} \\\\
-a                               &= 8
-\end {aligned}
-$
-
-Width of the rectangle $= 8 \ \text {cm}$, length of the rectangle $2 \times 8 = 16 \ \text {cm}$.
-
-$
-\begin {aligned}
-\text {Perimeter of rectangle}  &= 2 (\text {length} + \text {width}) \\\\
-                                &= 2 \times (16 + 8) \\\\
-                                &= 2 \times 24 \\\\
-                                &= 48 \ \text {cm}
-\end {aligned}
-$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48 \ \text {cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>A20AFDC2-95C4-452E-9FD1-E1DA45F1399F</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1648,6 +1406,9 @@ $100 \text{ cm}^2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 <li>
@@ -1705,6 +1466,9 @@ $7.4 \text{m}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -1831,63 +1595,15 @@ $292 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>C0AB44D2-C8F2-43F6-90E6-EE207A3C6863</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the perimeter of this rectangle:
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin {aligned}
-\text {Perimeter of a rectangle}  &= 2 \times (\text {length} + \text {width}) \\\\
-                                  &= 2 \times (4.65 \text {m} + 1.8 \text {m}) \\\\
-                                  &= 2 \times 6.45 \\\\
-                                  &= 12.90 \text {m}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12.90 \text {m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>F39DD2AD-6A07-4797-A7BC-FA6F904C2A63</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -1935,6 +1651,9 @@ $67 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -2056,6 +1775,9 @@ $5 \text {cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -2118,6 +1840,9 @@ $24 \text {cm}, \ 30 \text {cm}^2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -2165,6 +1890,9 @@ $4x + 3$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2289,6 +2017,9 @@ $105 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -2403,6 +2134,9 @@ $P = 30 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 <li>
@@ -2467,6 +2201,9 @@ $1.96 \text{m}^2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -2589,6 +2326,9 @@ $83 \ \text {m} ^ 2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -2637,6 +2377,9 @@ $19.4 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -2702,6 +2445,9 @@ $98 \ \text {cm} ^ 2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -2878,6 +2624,9 @@ $81 \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -3006,6 +2755,9 @@ $6$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -3241,6 +2993,9 @@ $52 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -3362,6 +3117,9 @@ $32 \text {cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -3421,6 +3179,9 @@ $12 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -3478,6 +3239,9 @@ $64$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -3546,6 +3310,9 @@ $28$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -3612,6 +3379,9 @@ $36$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -3699,6 +3469,9 @@ $26 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -3768,6 +3541,9 @@ $9.5 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -3833,6 +3609,9 @@ $80 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -3934,6 +3713,9 @@ $44 \text { cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -3996,6 +3778,9 @@ $252 \ \text{cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -4016,6 +3801,8 @@ Find the perimeter of the shape.
 
 Let the side of square tile $= a$
 
+As per the diagram,
+
 $
 \begin{aligned}
 \text{Area of the shape} &= 63 \\\\
@@ -4025,15 +3812,15 @@ a ^ 2                    &= \dfrac {7 \times 9} {7} \\\\
 a ^ 2                    &= \dfrac {\cancel {7} \times 9} {\cancel {7}} \\\\
 a ^ 2                    &= 9 \\\\
 a                        &= \sqrt 9 \\\\
-a                        &= 3
+a                        &= 3 \ \text{cm}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Perimeter of the shape} &= 22 \times a \\\\
-                              &= 22 \times 9 \\\\
-                              &= 198 \ \text{cm}
+\text{Perimeter of the shape} &= 16 \times a \\\\
+                              &= 16 \times 3 \\\\
+                              &= 48 \ \text{cm}
 \end{aligned}
 $
 
@@ -4042,7 +3829,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$198 \ \text{cm}$
+$48 \ \text{cm}$
 
 </div>
 </div>
@@ -4056,222 +3843,15 @@ $198 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>99A136E5-4463-4C0B-8C30-09F313B15F04</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgeometry
-</li>
-<li>
-tperimeter
-</li>
-<li>
-tcircle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram below shows a **regular** eight-sided polygon.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the special name given to a polygon with eight sides?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Octagon}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{Octagon}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Circle the word below which describes the type of angle inside the polygon at $A$.
-
-- acute 
-- reflex 
-- right-angle 
-- obtuse
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{obtuse}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{obtuse}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$CD$ measures $34 \ \text{mm}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Write this measurement in centimetres.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \ \text{cm} = 10 \ \text{mm}$
-
-$
-\begin{aligned}
-&= 34 \ \text{mm} \\\\
-&= \dfrac {34} {10} \ \text{cm} \\\\
-&= 3.4 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.4 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Adam the ant runs once around the perimeter of the polygon.
-
-How far does Adam run?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Distance covered by Adam} &= 8 \times 3.4 \\\\
-                                &= 27.2 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27.2 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>65A996BA-1ABC-470D-B822-F72E0A1706DD</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -4404,6 +3984,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tspeed
 </li>
@@ -4543,6 +4126,9 @@ $28.4 \ \text {kilometres}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -4615,6 +4201,9 @@ $8 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -4682,6 +4271,9 @@ $8 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 <li>
@@ -4741,6 +4333,9 @@ $25 \ \text {cm} ^ 2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -4902,6 +4497,9 @@ $18 \ \text {stickers}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -4988,6 +4586,9 @@ $34 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -5115,6 +4716,9 @@ $38 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -5194,92 +4798,15 @@ $60 \ \text{cm}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>4F58585B-5B01-496D-8865-FFF0FEAC8FD6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A piece of string is $160 \  \text{cm}$ long. It is formed into a rectangle whose length is three times its width. 
-Work out the area of the rectangle in $\text{square centimetres}$ $(\text{cm}^2)$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the width of the rectangle (in $\text {cm}$) $= w$
-
-Then as per the question, length of the rectangle $= 3w$
-
-$\text {Perimeter} = 2 \times (\text {length} + \text {width})$
-
-Equating the perimeter to length and width we get,
-
-$
-\begin {aligned}
-2 \times (3w + w)   &= 160 \\\\
-2 \times 4w         &= 160 \\\\
-8w                  &= 160 \\\\
-w                   &= \dfrac {160} {8} \\\\
-w                   &= 20 \ \text {cm}
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Area}         &= \text {length} \times \text {width} \\\\
-\text {Length}       &= 3w \\\\
-                     &= 3 \times 20 \\\\
-                     &= 60 \ \text {cm}
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Area}         &= \text {length} \times \text {width} \\\\
-                     &= 60 \times 20 \\\\
-                     &= 1200 \ \text {cm}^{2}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1200 \ \text {cm}^2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
 <p>E9FF9787-440D-4FF4-81D1-4D7C427F8BD2</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -5340,6 +4867,9 @@ $30 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -5449,12 +4979,15 @@ $16 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>879257AD-7CA0-4670-881E-438490A5C1DC</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -5485,8 +5018,7 @@ $
                                 &= 2 \times (11 + 6) + 12 - 10 \\\\
                                 &= 2 \times 17 + 12 - 10 \\\\
                                 &= 34 + 12 - 10 \\\\
-\text{Perimeter of shape}       &= 36 \ \text{cm}
-
+                                &= 36 \ \text{cm}
 \end{aligned}
 $
 
@@ -5504,7 +5036,7 @@ $36 \ \text{cm}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -5515,6 +5047,9 @@ $36 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>

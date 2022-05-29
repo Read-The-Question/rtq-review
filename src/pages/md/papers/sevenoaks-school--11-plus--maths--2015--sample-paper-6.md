@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -152,6 +155,9 @@ $\pounds 5.92$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -199,6 +205,9 @@ $1596 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -274,6 +283,9 @@ $\pounds 2.65$ and $\pounds 2.25$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 todo
 </li>
 </ul>
@@ -329,6 +341,9 @@ $1325$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -568,6 +583,9 @@ $9$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -630,6 +648,9 @@ $\pounds 290$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -687,6 +708,9 @@ $20 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -769,6 +793,9 @@ $750 \text{ ml}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -814,6 +841,9 @@ $1$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -887,6 +917,9 @@ $2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tlogic
 </li>
@@ -974,7 +1007,7 @@ $24$
 <div class='topics'>
 <ul>
 <li>
-tangle
+tinfer
 </li>
 </ul>
 </div>
@@ -1142,6 +1175,9 @@ Point D
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -1192,6 +1228,9 @@ $18{:}27$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -1255,6 +1294,9 @@ $\dfrac {4} {9}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -1315,6 +1357,9 @@ $50$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -1474,6 +1519,9 @@ $21$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 todo
 </li>
 </ul>
@@ -1525,6 +1573,9 @@ E
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>

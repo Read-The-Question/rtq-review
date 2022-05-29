@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The Queens' School</h1>
@@ -69,6 +69,9 @@ $5581$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -117,19 +120,7 @@ $447$
 <div class='topics'>
 <ul>
 <li>
-tunit
-</li>
-<li>
-tfraction
-</li>
-<li>
 tnumber
-</li>
-<li>
-tdecimal
-</li>
-<li>
-ttime
 </li>
 </ul>
 </div>
@@ -451,6 +442,9 @@ $0.09$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -632,7 +626,7 @@ $16$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -682,6 +676,9 @@ $18.87$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -728,6 +725,9 @@ $(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tspeed
 </li>
@@ -820,6 +820,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 <li>
@@ -876,6 +879,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 </ul>
@@ -928,6 +934,9 @@ One $2 \text{p}$ coin.
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -973,6 +982,9 @@ $0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -1029,6 +1041,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 </ul>
@@ -1082,6 +1097,9 @@ $13 \text{packets}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1171,12 +1189,15 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>5A02BFDB-4654-4CDA-8AB3-4762789C5789</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -1195,15 +1216,12 @@ $\frac {5} {7},\:\:\:\frac {2} {3},\:\:\:\frac {3} {5},\:\:\:\frac {7} {8},\:\:\
 <div class='workings'>
 <div class='working'>
 
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $7, 3, 5, 8, 9, 10 = 2520$
+Let's convert all the numbers into decimals..
 
 $
 \begin{aligned}
 &= \dfrac {5} {7}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {7} {8}, \quad \dfrac {8} {9}, \quad \dfrac {7} {10} \\\\
-&= \dfrac {5 \times 360} {7 \times 360}, \quad \dfrac {2 \times 840} {3 \times 840}, \quad \dfrac {3 \times 504} {5 \times 504}, \quad \dfrac {7 \times 315} {8 \times 315}, \quad \dfrac {8 \times 280} {9 \times 280}, \quad \dfrac {7 \times 252} {10 \times 252} \\\\
-&= \dfrac {1800} {2520}, \quad \dfrac {1680} {2520} , \quad \dfrac {1512} {2520} , \quad \dfrac {2205} {2520} , \quad \dfrac {2240} {2520} , \quad \dfrac {1764} {2520} \\\\
+&= 0.714, \quad 0.666, \quad 0.6, \quad 0.875, \quad 0.888, \quad 0.7
 \end{aligned}
 $
 
@@ -1211,9 +1229,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {1800} {2520}, \quad \dfrac {1680} {2520} , \quad \dfrac {1512} {2520} , \quad \dfrac {2205} {2520} , \quad \dfrac {2240} {2520} , \quad \dfrac {1764} {2520} \\\\
-&= \dfrac {1512} {2520} , \quad \dfrac {1680} {2520} , \quad \dfrac {1764} {2520} , \quad \dfrac {1800} {2520} , \quad \dfrac {2205} {2520} , \quad \dfrac {2240} {2520} \\\\
-&= \dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5} {7} , \quad \dfrac {7} {8} , \quad \dfrac {8} {9}
+&= 0.6, \quad 0.666, \quad 0.7, \quad 0.714, \quad 0.875, \quad 0.888 \\\\
+&= \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}, \quad \dfrac {5} {7}, \quad \dfrac {7} {8}, \quad \boxed {\dfrac {8} {9}}
 \end{aligned}
 $
 
@@ -1222,7 +1239,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5} {7} , \quad \dfrac {7} {8} , \quad \dfrac {8} {9}$
+$\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5} {7} , \quad \dfrac {7} {8} , \quad \boxed {\dfrac {8} {9}}$
 
 </div>
 </div>
@@ -1231,17 +1248,20 @@ $\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>879257AD-7CA0-4670-881E-438490A5C1DC</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -1272,8 +1292,7 @@ $
                                 &= 2 \times (11 + 6) + 12 - 10 \\\\
                                 &= 2 \times 17 + 12 - 10 \\\\
                                 &= 34 + 12 - 10 \\\\
-\text{Perimeter of shape}       &= 36 \ \text{cm}
-
+                                &= 36 \ \text{cm}
 \end{aligned}
 $
 
@@ -1291,7 +1310,7 @@ $36 \ \text{cm}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1302,9 +1321,6 @@ $36 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
 <li>
 tclock
 </li>
@@ -1357,6 +1373,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -1453,6 +1472,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -1517,6 +1539,9 @@ $189 \text{p}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -1613,10 +1638,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tfraction
-</li>
-<li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -1685,6 +1707,9 @@ $8.4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -1709,6 +1734,7 @@ As per the question,
 Cost of tickets for $4$ adults = $\pounds 62$
 
 Cost of ticket for $1$ adult = $\dfrac {62}{4}$
+
 $
 \begin{aligned}
 &= 15 \dfrac{2} {4} \\\\
@@ -1723,7 +1749,7 @@ Cost of ticket for $1$ adult = $\pounds 15.5$
 
 Cost of ticket for $1$ child = $\pounds \dfrac{15.5} {2} = \pounds 7.75$
 
-Cost for $2$ adults and one child to attend the concert = $2 \times 15.5 + 1 \times 7.75$
+Cost for $2$ adults and one child to attend the concert $= 2 \times 15.5 + 1 \times 7.75$
 
 $
 \begin{aligned}
@@ -1754,12 +1780,15 @@ $\pounds 38.75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1779,21 +1808,19 @@ how many are white chocolate?
 
 As per the question,
 
-Total number of chocolates in the box = $30$
-
-Fraction of white chocolates = $\dfrac {1} {6}$
-
-Number of white chocolates = $\dfrac {1} {6} \times 30$
+Total number of chocolates in the box $= 30$
 
 $
 \begin{aligned}
-&= \dfrac{1} {6} \times 6 \times 5 \\\\
-&= \dfrac{1} {\cancel {6}} \times \cancel {6} \times 5 \\\\
-&= 5
+\text {Number of white chocolates}  &= \dfrac {1} {6} \times 30 \\\\
+                                    &= \dfrac {30} {6} \\\\
+                                    &= \dfrac {6 \times 5} {6} \\\\
+                                    &= \dfrac {\cancel {6} \times 5} {\cancel {6}} \\\\
+                                    &= 5
 \end{aligned}
 $
 
-Number of white chocolates = $5$
+Number of white chocolates $= 5$
 
 </div>
 </div>
@@ -1823,24 +1850,25 @@ What fraction, of all the chocolates, are milk chocolate?
 
 As per the question,
 
-Number of milk chocolates = $10$
+Number of milk chocolates $= 10$
 
-Fraction of milk chocolates = $\dfrac {10} {60}$
+Fraction of milk chocolates $= \dfrac {10} {30}$
+
 $
 \begin{aligned}
-&= \dfrac {1 \cancel {0}} {6 \cancel {0}} \\\\
-&= \dfrac {1} {6}
+&= \dfrac {1 \cancel {0}} {3 \cancel {0}} \\\\
+&= \dfrac {1} {3}
 \end{aligned}
 $
 
-Fraction of milk chocolates = $\dfrac {1} {6}$
+Fraction of milk chocolates $= \dfrac {1} {3}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {6}$
+$\dfrac {1} {3}$
 
 </div>
 </div>
@@ -1852,7 +1880,7 @@ $\dfrac {1} {6}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1915,12 +1943,15 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>225FE540-8613-4C8B-B119-CC67CEA85C4B</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1942,20 +1973,27 @@ Make sure you state the units.
 
 As per the question,
 
-Length of the pond $= 11 \ \text{m} - 2 \times 1.5$
-$= 11 - 3
-$= 8 \ \text{m}$
-
-Width of the pond $= 8 \ \text{m} - 2 \times 1.5$
-$= 8 - 3
-$= 5 \ \text{m}$
-
-    Area of the pond,
 $
-\begi{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-                    &= 8 \times 5 \\\\
-                    &= 40 \text{cm}^2
+\begin{aligned}
+\text {Length of the pond}  &= 11 - 2 \times 1.5 \\\\
+                            &= 11 - 3 \\\\
+                            &= 8 \ \text{m}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Width of the pond}   &= 8 - 2 \times 1.5 \\\\
+                            &= 8 - 3 \\\\
+                            &= 5 \ \text{m}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area of the pond}     &= \text{length} \times \text{width} \\\\
+                            &= 8 \times 5 \\\\
+                            &= 40 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -1964,7 +2002,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$40 \text{cm}^2$
+$40 \ \text{cm}^2$
 
 </div>
 </div>
@@ -1973,17 +2011,20 @@ $40 \text{cm}^2$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -1994,7 +2035,7 @@ talgebra
 </div>
 <div class='question question'>
 
-It costs $$\pounds 400$ to carpet a room measuring $2\, metres$ by $3\, metres$. How much would it costto carpet another room measuring $4\, metres$ by $6\, metres$ with the same carpet? 
+It costs $\pounds 400$ to carpet a room measuring $2\, metres$ by $3\, metres$. How much would it costto carpet another room measuring $4\, metres$ by $6\, metres$ with the same carpet? 
 
 ![missing image](/papers/missing_image.svg)                                                     
 
@@ -2004,20 +2045,23 @@ It costs $$\pounds 400$ to carpet a room measuring $2\, metres$ by $3\, metres$.
 
 As per the question, 
 
-Cost to carpet a room measuring $2\, metres$ by $3\, metres$ = $\pounds 400$
+Cost to carpet a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $\pounds 400$
 
-Area of a room measuring $2\, metres$ by $3\, metres$ = $2 \times 3 = 6 \text{m}^2$
+Area of a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $2 \times 3 = 6 \text{m}^2$
 
-Cost to carpet a room measuring $1\, metres$ by $1\, metres$ = $\dfrac{400} {6}$
+Cost to carpet a room measuring $1\, \text {metres}$ by $1\, \text {metres}$ = $\dfrac{400} {6}$
 
-Cost to carpet a room measuring $4\, metres$ by $6\, metres$ = $\dfrac{400} {6} \times 4 \times 6$
+Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\dfrac{400} {6} \times 4 \times 6$
+
 $
+\begin{aligned}
 &= \dfrac{400} {\cancel {6}} \times 4 \times \cancel {6} \\\\\
-&= \dfrac {400} \times 4 \\\\
+&= 400 \times 4 \\\\
 &= \pounds 1600
+\end{aligned}
 $
 
-Cost to carpet a room measuring $4\, metres$ by $6\, metres$ = $\pounds 1600$
+Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\pounds 1600$
 
 </div>
 </div>
@@ -2033,7 +2077,7 @@ $\pounds 1600$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2044,6 +2088,9 @@ $\pounds 1600$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -2173,12 +2220,15 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>59A15B1E-9BD7-46F5-A252-A20015C38A1A</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2260,7 +2310,7 @@ $
 d \times d + 3      &= 19 \\\\
 d \times d          &= 19 - 3 \\\\
 d^2                 &= 16 \\\\
-d^2                 &= 4^2 \\\\
+d                   &= \sqrt {4} \\\\
 d                   &= 4
 \end{aligned}
 $
@@ -2282,7 +2332,7 @@ $4$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2293,6 +2343,9 @@ $4$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -2354,6 +2407,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>

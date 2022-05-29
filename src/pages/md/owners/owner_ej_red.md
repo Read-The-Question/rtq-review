@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-red"
 title: "Owner - Eshudhi Jangid - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -164,6 +167,9 @@ $200$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 </ul>
@@ -305,6 +311,9 @@ $5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -352,6 +361,9 @@ $362$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -406,6 +418,9 @@ $\dfrac {2} {5}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -658,6 +673,9 @@ $35\%$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -705,6 +723,9 @@ $55$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -806,6 +827,9 @@ $\text {Option 3}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -1022,6 +1046,9 @@ $\text{It shows that the mean is maintained}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 <li>
@@ -1127,6 +1154,9 @@ $\text{Triangle}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -1174,6 +1204,9 @@ $86$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -1233,6 +1266,9 @@ $4$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -1309,6 +1345,9 @@ $-4, -1, 5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -1369,7 +1408,7 @@ $62$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -1441,6 +1480,9 @@ $150\degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -1568,6 +1610,9 @@ $0.8n, \sqrt {n}, \dfrac {1} {n}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1730,6 +1775,9 @@ $72$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -1856,6 +1904,9 @@ $30$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2020,6 +2071,9 @@ $Yes$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -2186,6 +2240,9 @@ $\dfrac{3}{13}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 <li>
@@ -2237,6 +2294,9 @@ $5, 10, 9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentageadvance
 </li>
@@ -2306,6 +2366,9 @@ $104$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2502,6 +2565,9 @@ $ 33 $
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tspeed
 </li>
 <li>
@@ -2621,6 +2687,9 @@ $2 \text {miles}$
 <li>
 tprobability
 </li>
+<li>
+tcircleanswer
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2662,6 +2731,9 @@ $\text {A score of more than 10 }$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -2831,6 +2903,9 @@ $2, 14, 42$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdirection
 </li>
 <li>
@@ -2877,6 +2952,9 @@ $\text {North}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -3047,6 +3125,9 @@ $2, 24, 72$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -3189,6 +3270,9 @@ $12$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 </ul>
@@ -3258,6 +3342,9 @@ $116.5 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvenn
 </li>
 </ul>
@@ -3311,6 +3398,9 @@ $103$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 </ul>
@@ -3359,6 +3449,9 @@ $14.5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -3474,9 +3567,6 @@ $10 \ \text {seconds}$
 <div class='topics'>
 <ul>
 <li>
-tangle
-</li>
-<li>
 tclock
 </li>
 </ul>
@@ -3521,6 +3611,9 @@ $105 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -3712,6 +3805,9 @@ $12.8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -3912,6 +4008,9 @@ $150 \ \text {grams}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -4128,6 +4227,9 @@ $\text {To get some rest}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -4353,6 +4455,9 @@ $\text {square}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 <li>
@@ -4510,6 +4615,9 @@ $\dfrac {2} {3}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 </ul>
@@ -4641,6 +4749,9 @@ $\text {Yogi}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -4899,6 +5010,9 @@ $325 \ \text{oranges}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -5074,6 +5188,9 @@ $13$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -5371,6 +5488,9 @@ $2, 2, 5, 5, 11$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -5568,6 +5688,9 @@ $60 \pounds$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -5783,6 +5906,9 @@ $
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmap
 </li>
 <li>
@@ -5954,6 +6080,9 @@ $-3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 </ul>
@@ -6094,6 +6223,9 @@ $17$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -6290,6 +6422,9 @@ $26$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 <li>
@@ -6454,6 +6589,9 @@ $-5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgraph
 </li>
 <li>
@@ -6587,6 +6725,9 @@ $10 {:} 30$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>

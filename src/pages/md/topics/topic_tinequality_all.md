@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinequality-all"
 title: "Topic - Inequality - All"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -201,6 +204,9 @@ $\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -348,6 +354,9 @@ $2a^2 \quad = \quad  ab$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinequality
 </li>
@@ -541,6 +550,9 @@ $4 \times 5 + 7 \ \quad  =  \quad  (5 + 4) \times (7 - 4)$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinequality
 </li>
 <li>
@@ -692,6 +704,9 @@ $64 \ \text {and} \ 729$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinequality
 </li>
 </ul>
@@ -829,6 +844,9 @@ $\dfrac {8} {7} \quad  >  \quad \dfrac {11} {13}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinequality
 </li>
 </ul>
@@ -877,6 +895,9 @@ $2^5 < 5^2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinequality
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-pr"
 title: "Topic - Ratio - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -36,7 +39,7 @@ It is really important to use the right units in calculations and convert where 
 
 $
 \begin{aligned}
-\text{Total water} &= 5 \ \text{litres} \\\\
+\text{Total water}  &= 5 \ \text{litres} \\\\
                     &= 5 \times 1000 \ \text{ml} \\\\
                     &= 5000 \ \text{ml}
 \end{aligned}
@@ -45,30 +48,10 @@ $
 $
 \begin{aligned}
 \text{Number of glasses} &= \dfrac { \text{Total Water in cooler} } { \text{Water in a glass} } \\\\
-                        &= \dfrac { 5000 } { 200 } \\\\
-                        &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
-                        &= \dfrac { 50 } { 2 } \\\\
-                        &= 25
-\end{aligned}
-$
-
-Number of glasses of water $= 25$
-
-</div>
-<div class='working'>
-
-Alternatively, we can solve this using ratios. 
-
-$
-\begin{aligned}
-200 \ \text{ml}                             & : 1 \ \text{glass}  \\\\
-\dfrac{200}{200}  \ \text{ml}                  & : \dfrac{1}{200} \ \text{glasses} \\\\
-1  \ \text{ml}                              & : \dfrac{1}{200}  \\\\
-5000 \times 1  \ \text{ml}                   & : 5000 \times \dfrac{1}{200}  \\\\
-5000 \ \text{ml}                               & : \dfrac{5000}{200}  \\\\
-5000 \ \text{ml}                               & : \dfrac{50\cancel{0}\cancel{0}}{2\cancel{0}\cancel{0}}  \\\\
-5000 \ \text{ml}                               & : \dfrac{50}{2}  \\\\
-5000 \ \text{ml}                               & : 25 \ \text{glasses}                          
+                         &= \dfrac { 5000 } { 200 } \\\\
+                         &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
+                         &= \dfrac { 50 } { 2 } \\\\
+                         &= 25
 \end{aligned}
 $
 
@@ -93,12 +76,171 @@ $25$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>1F535340-0428-42BD-88F5-40CC8436C8ED</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A crate holds $8$ cartons of milk. How many crates are needed to hold $349$ cartons?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Crates needed}                          &= \dfrac {349} {8} \\\\
+                                              &= 43 \text{ remainder } 5 \\\\
+                                              &= 44
+\end{aligned}
+$
+
+Total crates needed to hold $349$ cartons $= 44$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Seven adult cinema tickets cost $\pounds 24.50$. How much will four adult tickets cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Cost of 4 adult tickets}                &= 4 \times \pounds 24.50 \\\\
+                                              &= \pounds 98
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 98$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Flora is exactly eleven and a half years old. How many months old is she?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Flora's age (in months)}                &= 11 \dfrac {1} {2} \times 12 \\\\
+                                              &= \dfrac {23 \times 12} {2} \\\\
+                                              &= \dfrac {23 \times 2 \times 6} {2} \\\\
+                                              &= \dfrac {23 \times \cancel{2} \times 6} {\cancel{2}} \\\\
+                                              &= 23 \times 6 \\\\
+                                              &= 138 \ \text{months}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$138$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -156,6 +298,9 @@ $50 \ \text{days}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -207,16 +352,10 @@ $\pounds 2500$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tsimpleword
 </li>
 <li>
 tratio
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tpercentageadvance
 </li>
 </ul>
 </div>
@@ -498,6 +637,9 @@ $613$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 <li>
@@ -550,6 +692,9 @@ $63 \ \text{girls}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -697,207 +842,6 @@ $28$
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>68EF857B-DBC0-4ACE-A0B1-53CE2C550065</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write $\frac {14} {20}$ as a **decimal**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {14} {20} \\\\
-&= \dfrac {14 \times 5} {20 \times 5} \\\\
-&= \dfrac {70} {100} \\\\
-&= 0.7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write $0.625$ as a **fraction** in its $\underbar {lowest terms}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.625 \\\\
-&= \dfrac {625} {1000} \\\\
-&= \dfrac {25 \times 5 \times 5} {25 \times 5 \times 8} \\\\
-&= \dfrac {\cancel {25} \times \cancel {5} \times 5} {\cancel {25} \times \cancel {5} \times 8} \\\\
-&= \dfrac {5} {8}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {5} {8}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write the answer to $\frac {13} {20} + 0.1$ as a **percentage** 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= ( \dfrac {13} {20} + 0.1) \times 100 \\\\
-&= ( \dfrac {13} {20} + \dfrac {1} {10}) \times 100 \\\\
-&= ( \dfrac {13} {20} + \dfrac {1 \times 2} {10 \times 2}) \times 100 \\\\
-&= ( \dfrac {13} {20} + \dfrac {2} {20}) \times 100 \\\\
-&= ( \dfrac {13 + 2} {20}) \times 100 \\\\
-&= \dfrac {15} {20} \times 100 \\\\
-&= \dfrac {15 \times 100} {20} \\\\
-&= \dfrac {5 \times 3 \times 100} {5 \times 4} \\\\
-&= \dfrac {5 \times 3 \times 25 \times 4} {5 \times 4} \\\\
-&= \dfrac {\cancel {5} \times 3 \times 25 \times \cancel {4}} {\cancel {5} \times \cancel {4}} \\\\
-&= 3 \times 25 \\\\
-&= 75 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$75 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Give the ratio 36 : 84 in its **simplest form**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 36 \ratio 84 \\\\
-&= \dfrac {36} {84} \\\\
-&= \dfrac {12 \times 3} {12 \times 7} \\\\
-&= \dfrac {\cancel {12} \times 3} {\cancel {12} \times 7} \\\\
-&= \dfrac {3} {7} \\\\
-&= 3 \ratio 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ratio 7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
 </div>
 </div>
 </li>

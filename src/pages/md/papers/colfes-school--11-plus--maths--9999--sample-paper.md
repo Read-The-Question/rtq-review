@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Colfe's School</h1>
@@ -69,6 +69,9 @@ $724$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -115,6 +118,9 @@ $3679$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -163,6 +169,9 @@ $413$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -207,6 +216,9 @@ $702$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -257,6 +269,9 @@ $\dfrac {13} {24}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -309,6 +324,9 @@ $\dfrac {61} {36}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 </ul>
@@ -358,6 +376,9 @@ $36$
 <div class='topics'>
 <ul>
 <li>
+tdetailedaddition
+</li>
+<li>
 tdecimal
 </li>
 </ul>
@@ -405,6 +426,9 @@ $16.76$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -454,6 +478,9 @@ $858$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -499,6 +526,9 @@ $146$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -549,6 +579,9 @@ $\pounds 7.37$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -567,7 +600,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {First friends share} - \text {Second friends share} \\\\
+\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {1st friends share} - \text {2nd friends share} \\\\
                                 &= 1 - \dfrac {1} {5} - \dfrac {3} {10} \\\\
                                 &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {1 \times 2} {5 \times 2} - \dfrac {3} {10} \\\\
                                 &= \dfrac {10} {10} - \dfrac {2} {10} - \dfrac {3} {10} \\\\
@@ -604,6 +637,9 @@ $\dfrac {1} {2}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -650,6 +686,9 @@ $656$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunitprompt
 </li>
 </ul>
@@ -691,12 +730,15 @@ $25100 \ \text{mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>D36EB8D1-F797-4291-92E6-21171425524C</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -739,7 +781,7 @@ $460 \ \text {m}$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -750,6 +792,9 @@ $460 \ \text {m}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -900,6 +945,9 @@ $69, 60$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -953,6 +1001,9 @@ $3$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -1126,6 +1177,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -1169,6 +1223,7 @@ $
 &= 0.77, \quad 0.7, \quad 7.7, \quad 7.07 \\\\
 &= 0.77, \quad 0.70, \quad 7.70, \quad 7.07
 \end {aligned}
+$
 
 Let's put them in ascending order now.
 
@@ -1241,6 +1296,9 @@ $-16, \quad -8, \quad 5, \quad 8, \quad 9$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -1262,10 +1320,9 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Change left}  &= \pounds 100 - 3 \times \text {Cost of a game} - 2 \times \text {Cost of a doughnut} \\\\
+\text {Change got}   &= \pounds 100 - 3 \times \text {Cost of a game} - 2 \times \text {Cost of a doughnut} \\\\
                      &= \pounds 100 - 3 \times \pounds 25.50 - 2 \times \pounds 1.30 \\\\
-                     &= 100 - -76.50 - 2.60) \\\\
-                     &= 100 - 79.10 \\\\
+                     &= 100 - 76.50 - 2.60 \\\\
                      &= \pounds 20.90
 \end {aligned}
 $
@@ -1296,6 +1353,9 @@ $\pounds 20.90$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -1315,13 +1375,24 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total number of sweets}             &= \text {Number of sweets Alison got} + \text {Number of sweets Bhavini got} + \text {Number of sweets Catherine got} \\\\
-                                           &= \dfrac {22} {2} + \dfrac {22} {2} - 5 + 22 \\\\
-                                           &= \dfrac {11 \times 2} {2} + \dfrac {11 \times 2} {2} - 5 + 22 \\\\
-                                           &= \dfrac {11 \times \cancel {2}} {\cancel {2}} + \dfrac {11 \times \cancel {2}} {\cancel {2}} - 5 + 22 \\\\
-                                           &= 11 + 11 - 5 + 22 \\\\
-                                           &= 44 - 5 \\\\
-                                           &= 39
+\text {Catherine get}   &= 22 \ \text {sweets} \\\\
+                        &= 2 \times \text {Alison} \\\\
+\text {Alison get}      &= \dfrac {22} {2} \\\\
+                        &= \text {Bhavini} + 5 \\\\
+\text {Bhavini get}     &= \text {Alison} - 5 \\\\
+                        &= \dfrac {22} {2} - 5
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Total sweets}    &= \text {No. of sweets (Alison + Bhavini + Catherine)} \\\\
+                        &= \dfrac {22} {2} + \dfrac {22} {2} - 5 + 22 \\\\
+                        &= \dfrac {2 \times 11} {2} + \dfrac {2 \times 11} {2} - 5 + 22 \\\\
+                        &= \dfrac {\cancel {2} \times 11} {\cancel {2}} + \dfrac {\cancel {2} \times 11} {\cancel {2}} - 5 + 22 \\\\
+                        &= 11 + 11 - 5 + 22 \\\\
+                        &= 44 - 5 \\\\
+                        &= 39
 \end {aligned}
 $
 
@@ -1350,6 +1421,9 @@ $39$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -1527,6 +1601,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -1625,6 +1702,9 @@ TODOANSWER
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1639,9 +1719,9 @@ Find the size of angle $k$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$ and 
+As we know, the sum of angles of a triangle is 180°.
 
-the sum of angles of a triangle is $180 \degree$. So,
+Also the sum of angles on a straight line is 180°. So,
 
 As per the diagram,
 
@@ -1680,6 +1760,9 @@ $35 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -1776,6 +1859,9 @@ $400$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -1825,8 +1911,8 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Cost}  &= 8a + 3k \\\\
-              &= 8 \times 3 + 3 \times 1 \\\\
+\text {Cost}  &= 8 \times 3 \ \text {adults} + 3 \times 1 \ \text {child} \\\\
+C             &= 8a + 3k \\\\
               &= 24 + 3 \\\\
               &= \pounds 27
 \end {aligned}
@@ -1882,11 +1968,55 @@ Adults $= 2$
 Children $= 3$
 
 </div>
+<div class='working'>
+
+This can be inferred by using trial and error.
+
+Let's find the maximum number of adult tickets that can be bought with $\pounds 25$.
+
+$
+\begin {aligned}
+\dfrac {\text {Total money}} {\text {Cost per adult}}   &= \text {No. of adult tickets} \\\\
+\pounds \dfrac {25} {8}                                 &= \text {No. of adult tickets} \\\\
+\dfrac {8 \times 3 + 1} {8}                             &= 3 \ \text {adult tickets}  + \text {Rest} \ \pounds 1
+\end {aligned}
+$
+
+For $\pounds 1$ we cannot buy any child ticket. Let's reduce $1$ adult ticket and buy child tickets.
+
+$
+\begin {aligned}
+8 \times 2 \ \text {adults}     &= \pounds 16 \\\\
+\pounds 25 - \pounds 16         &= \pounds 9
+\end {aligned}
+$
+
+Let's find the maximum number of child tickets that can be bought with $\pounds 9$
+
+$
+\begin {aligned}
+\dfrac {\text {Total money}} {\text {Cost per child}}   &= \text {No. of child tickets} \\\\
+\pounds \dfrac {9} {3}                                  &= 3 \ \text {tickets}
+\end {aligned}
+$
+
+$8 \times 2 + 3 \times 3 = \pounds 25$
+
+Bryant family has,
+
+Adults $= 2$
+
+Children $= 3$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+$
+\text {Adult}    = 2 \\
+\text {Children} = 3
+$
 
 </div>
 </div>
@@ -1909,6 +2039,9 @@ Children $= 3$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2087,6 +2220,9 @@ $-40$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -2242,6 +2378,9 @@ $9.8$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -2380,6 +2519,9 @@ $48 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 </ul>
@@ -2497,6 +2639,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>

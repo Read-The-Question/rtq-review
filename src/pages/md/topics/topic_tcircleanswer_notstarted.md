@@ -1,40 +1,50 @@
 ---
-slug: "topics/topic-tdecimal-amber"
-title: "Topic - Decimal - Amber"
-date: 2022-05-28 14:33:22
+slug: "topics/topic-tcircleanswer-notstarted"
+title: "Topic - Circleanswer - Not Started"
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_np_amber question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>997E5915-77AC-41C6-9B42-F5D2F45BAADF</p>
+<p>C8A777C3-BE0B-4C01-88DC-AB5A6A3D4A55</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tprobability
 </li>
 <li>
-tdetailedmultiplication
+tcircleanswer
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Calculate the following, showing your working clearly
+A box of celebrations contains one Twix, one Snickers, one Milky Way, and ten Bounty chocolates. Jane chooses a chocolate at random. Put a ring around the correct answer in the list to show the probability that the chocolate will be:
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
@@ -47,79 +57,8 @@ Calculate the following, showing your working clearly
 </div>
 <div class='question subquestion'>
 
-$12.31 + 1.75$ 
+A Bounty
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-        &  1 & 2\ .  & 3 & 1\\
-    
-{}+     &    & 1\ .  & 7 & 5 \\
-\hline
-          &1 & 4 \ . & 0 & 6
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14.06$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2.76 - 1.842$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-        &  1 & 2\ .  & 3 & 1\\
-    
-{}+     &    & 1\ .  & 7 & 5 \\
-\hline
-          &1 & 4 \ . & 0 & 6
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14.06$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$128 \times 47$
 
 </div>
 <div class='workings'>
@@ -157,7 +96,47 @@ TODOANSWER
 </div>
 <div class='question subquestion'>
 
-$110 \div 0.2$
+A Twix
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A Galaxy
+
 
 </div>
 <div class='workings'>
@@ -189,10 +168,68 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_amber</p>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>CF5DDBB3-9175-4C69-B830-A9D981A702B6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If a fair die is rolled, which of the following outcomes is 
+least likely? Circle your answer.
+
+a)  A score of more than 4 
+b)  A score of less than 5
+c)  A score that is an odd number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

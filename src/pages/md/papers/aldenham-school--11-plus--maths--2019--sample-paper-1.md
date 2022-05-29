@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-2019-sample-paper-1"
 title: "Aldenham School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Aldenham School</h1>
@@ -22,9 +22,6 @@ date: 2022-05-28 14:33:22
 <ul>
 <li>
 tsimpleword
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -147,8 +144,7 @@ $
 \text{Adults}   &= 40 \% \ \text{of} \ 17600  \\\\
                 &= \dfrac {40} {100} \times 17600 \\\\
                 &= \dfrac {40 \times 17600} {100} \\\\
-                &= \dfrac {40 \times 176 \times 100} {100} \\\\
-                &= \dfrac {40 \times 176 \times 1\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
+                &= \dfrac {40 \times 176 \times 1\cancel{00}} {1\cancel{00}} \\\\
                 &= {40 \times 176} \\\\
                 &= 7040 
 \end{aligned}
@@ -185,9 +181,6 @@ $7040$
 <li>
 tsimpleword
 </li>
-<li>
-tage
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -206,7 +199,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Year dad was born}       &= 1985 - 32  \\\\
+\text{Year dad was born}    &= 1985 - 32  \\\\
                             &= 1953 
 \end{aligned}
 $
@@ -276,6 +269,16 @@ $60 - \ldots = 43$
 <div class='workings'>
 <div class='working'>
 
+$60 - \ldots = 43$
+
+Let the missing number be 'a'
+
+$60 - a = 43$
+
+$60 - 43 = a$
+
+$a = 17$
+
 $60 - \underline{\green{17}} = 43$
 
 </div>
@@ -303,6 +306,20 @@ $\ldots \times 40 = 280$
 </div>
 <div class='workings'>
 <div class='working'>
+
+$\ldots \times 40 = 280$
+
+Let the missing number be 'a'
+
+$a \times 40 = 280$
+
+$a = \dfrac{280}{40}$
+
+$a = \dfrac{7 \times 40}{40}$
+
+$a = \dfrac{7 \times \cancel{40}}{\cancel{40}}$
+
+$a = 7$
 
 $\underline{\green{7}} \times 40 = 280$
 
@@ -333,6 +350,16 @@ $\ldots \div 30 = 5$
 <div class='workings'>
 <div class='working'>
 
+$\ldots \div 30 = 5$
+
+Let the missing number be 'a'
+
+$a \div 30 = 5$
+
+$a = 5 \times 30$
+
+$a = 150$
+
 $\underline{\green{150}} \div 30 = 5$
 
 </div>
@@ -360,6 +387,16 @@ $-8 + \ldots = -1$
 </div>
 <div class='workings'>
 <div class='working'>
+
+$-8 + \ldots = -1$
+
+Let the missing number be 'a'
+
+$-8 + a = -1$
+
+$a = -1 + 8$
+
+$a = 7$
 
 $-8 + \underline{\green{7}} = -1$
 
@@ -429,6 +466,8 @@ $100 \times 2.8 = \ldots$
 </div>
 <div class='workings'>
 <div class='working'>
+
+
 
 $100 \times 2.8 = \underline{\green{280}}$
 
@@ -529,7 +568,7 @@ $\dfrac {4} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>0F57C9C9-F2AD-4B34-BB50-53249F45FAE3</p>
 </div>
@@ -570,7 +609,7 @@ $p - 71$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -918,8 +957,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time left}             &= 10 \ \text{am} - 8{:}15 \ \text{am} \\\\
+\text{Time left}              &= 10 \ \text{am} - 8{:}15 \ \text{am} \\\\
                               &= 1 \ \text{hour} \ 45 \ \text{minutes}   \\\\
+                              &= 1 \times 60 + 45  \ \text{minutes} \\\\
                               &= 60 + 45  \ \text{minutes} \\\\
                               &= 105  \ \text{minutes}
 \end{aligned}
@@ -972,11 +1012,11 @@ Let the missing angle $= a$
 
 As the triangle is an isosceles triangle, the third angle is also $= a$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As we know, the sum of angles in a triangle is $180 \degree$.
 
 $
 \begin{aligned}
-a + a + 96      &= 180  \\\\
+a + a + 96      &= 180 \degree  \\\\
 2a + 96         &= 180  \\\\
 2a              &= 180 - 96  \\\\
 2a              &= 84  \\\\
@@ -1198,6 +1238,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tstatistics
+</li>
+<li>
 tgraph
 </li>
 </ul>
@@ -1353,9 +1396,9 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{2}{5} \times a                         &= 14  \\\\
+\dfrac{2}{5} \times a                          &= 14  \\\\
 \dfrac{2 \times a}{5}                          &= 14  \\\\
-a                                               &= \dfrac{14 \times 5}{2} \\\\
+a                                              &= \dfrac{14 \times 5}{2} \\\\
                                                &= \dfrac{7 \times 2 \times 5}{2} \\\\
                                                &= \dfrac{7 \times \cancel{2} \times 5}{\cancel{2}} \\\\
                                                &= 7 \times 5 \\\\
@@ -1363,10 +1406,14 @@ a                                               &= \dfrac{14 \times 5}{2} \\\\
 \end{aligned}
 $
 
+The total number of children in the club $= 35$
+
+Let's find how many girls are in the club.
+
 $
 \begin{aligned}
-\text{Total Students}     &= 35  \\\\
-\text{Girls}             &= 35 - 14  \\\\
+\text{Girls}            &= \text{Total children} - \text{Total boys} \\\\      
+                        &= 35 - 14  \\\\
                         &= 21
 \end{aligned}
 $
@@ -1509,6 +1556,7 @@ $
 \begin{aligned}
 &= 3b^2 \\\\
 &= 3 \times 2^2  \\\\
+&= 3 \times 2 \times 2  \\\\
 &= 3 \times 4 \\\\
 &= 12
 \end{aligned}
@@ -1573,8 +1621,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac{65}{100}, \quad \dfrac{70}{100},  \quad \dfrac{75}{100} \\\\
-&= 65\%, \quad \dfrac{14}{20}, \quad \dfrac{3}{4} 
+&= \dfrac{65}{100}< \quad \dfrac{70}{100}<  \quad \dfrac{75}{100} \\\\
+&= 65\%< \quad \dfrac{14}{20}< \quad \dfrac{3}{4} 
 \end{aligned}
 $
 
@@ -1803,6 +1851,9 @@ Label both vertices with $*$.
 <div class='topics'>
 <ul>
 <li>
+tsimpleword
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -1822,10 +1873,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Count of pupils}         &= 24 \\\\
-\text{Cost per frame}         &= \pounds 3.75 \\\\
-\text{Total cost}             &= 24 \times 3.75 \\\\
-                            &= \pounds  90
+\text{Total cost}            &= \text{Count of pupils} \times \text{Cost per frame} \\\\\
+                             &= 24 \times 3.75 \\\\
+                             &= \pounds  90
 \end{aligned}
 $
 
@@ -1855,6 +1905,9 @@ $\pounds  90$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -1877,11 +1930,11 @@ $
 \begin{aligned}
 \text{Perimeter} &= 2 \times (\text{length} + \text{width}) \\\\
 36                                         &= 2 \times (10 + t) \\\\
-2 \times (10 + t)                        &= 36 \\\\
-10 + t                                  &= \dfrac{36}{2} \\\\
-10 + t                                  &= 18 \\\\
-t                                        &= 18 - 10 \\\\
-t                                        &= 8 \ \text{mm} \\\\
+2 \times (10 + t)                          &= 36 \\\\
+10 + t                                     &= \dfrac{36}{2} \\\\
+10 + t                                     &= 18 \\\\
+t                                          &= 18 - 10 \\\\
+t                                          &= 8 \ \text{mm} \\\\
 \end{aligned}
 $
 
@@ -1910,6 +1963,9 @@ $8 \ \text{mm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1954,7 +2010,11 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= 13 + 4 \div 2 \\\\
-&= 13 + 2 \\\\
+&= 13 + \dfrac{4}{2} \\\\
+&=\dfrac{26 + 4}{2} \\\\
+&=\dfrac{30}{2} \\\\
+&=\dfrac{15 \times 2}{2} \\\\
+&=\dfrac{15 \times \cancel 2}{\cancel 2} \\\\
 &= 15
 \end{aligned}
 $
@@ -2060,6 +2120,9 @@ $27$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -2107,11 +2170,11 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {a + 5} { 2} &= 6 \\\\
+\dfrac {a + 5} { 2}    &= 6 \\\\
 a + 5                  &= 6 \times 2 \\\\
 a + 5                  &= 12 \\\\
-a                     &= 12 - 5\\\\
-a                     &= 7\\\\
+a                      &= 12 - 5\\\\
+a                      &= 7\\\\
 \end{aligned}
 $
 
@@ -2146,8 +2209,8 @@ $5x - 7 = 43$
 $
 \begin{aligned}
 5x - 7         &= 43 \\\\
-5x          &= 43 + 7 \\\\
-5x          &= 50 \\\\
+5x             &= 43 + 7 \\\\
+5x             &= 50 \\\\
 x              &= \dfrac {50} {5} \\\\
 x              &= 10
 \end{aligned}
@@ -2181,6 +2244,9 @@ $10$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2239,6 +2305,9 @@ $50$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -2282,6 +2351,7 @@ $
 &= \dfrac{2}{5} + \dfrac{3}{8} \\\\
 &= \dfrac{2 \times 8}{5 \times 8} + \dfrac{3 \times 5}{8 \times 5} \\\\
 &= \dfrac{16}{40} + \dfrac{15}{40} \\\\
+&= \dfrac{16 + 15}{40} \\\\
 &= \dfrac{31}{40}
 \end{aligned}
 $
@@ -2350,6 +2420,9 @@ $\dfrac{1} {5}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -2412,6 +2485,9 @@ $2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -2601,6 +2677,9 @@ $\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>

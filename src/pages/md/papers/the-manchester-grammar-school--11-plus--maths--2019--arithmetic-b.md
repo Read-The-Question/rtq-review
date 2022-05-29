@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic B"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -239,6 +242,9 @@ Munich
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -288,12 +294,10 @@ January reading = $6045$
 October reading = $5475$ 
 
 $
-\begin{array}{cccccccccccccc}
-       & 6     & 0     & 4     & 5  \\
-{}-    & 5     & 4     & 7     & 5  \\
-\hline
-       &       & 5     & 7     & 0
-\end{array}
+\begin {aligned}
+&= 6045 - 5475 \\\\
+&= 570
+\end {aligned}
 $
 
 $570$ units of gas has Andrew used in the three month period from October to January.
@@ -406,6 +410,9 @@ $\pounds 290.43$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -622,6 +629,9 @@ $25$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -818,6 +828,9 @@ $4 \ \text {m}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -1060,6 +1073,9 @@ $\pounds 122$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -1240,6 +1256,9 @@ $3 \text {cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tspeed
 </li>
@@ -1515,6 +1534,9 @@ $0.5$ secs
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -1668,6 +1690,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2010,6 +2035,9 @@ $200$ cards
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -2237,6 +2265,9 @@ $22, 23, 25, 26, 28, 29$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>

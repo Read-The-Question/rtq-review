@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-pr"
 title: "Topic - Angle - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -33,11 +33,11 @@ Let the missing angle $= a$
 
 As the triangle is an isosceles triangle, the third angle is also $= a$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As we know, the sum of angles in a triangle is $180 \degree$.
 
 $
 \begin{aligned}
-a + a + 96      &= 180  \\\\
+a + a + 96      &= 180 \degree  \\\\
 2a + 96         &= 180  \\\\
 2a              &= 180 - 96  \\\\
 2a              &= 84  \\\\
@@ -76,6 +76,9 @@ $42 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -96,10 +99,10 @@ As per the diagram,
 
 $
 \begin{aligned}
-a + 90 + 23     &= 180  \\\\
-a + 113         &= 180  \\\\
-a               &= 180 - 113 \\\\
-a               &= 67 \degree
+a + 90 \degree + 23 \degree     &= 180 \degree  \\\\
+a                               &= 180 - 90 - 23 \\\\
+a                               &= 180 - 113 \\\\
+a                               &= 67 \degree
 \end{aligned}
 $
 
@@ -130,6 +133,9 @@ $67 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -183,7 +189,7 @@ $300 \degree$
 tangle
 </li>
 <li>
-tdraw
+talgebra
 </li>
 </ul>
 </div>
@@ -352,7 +358,7 @@ $16 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -406,6 +412,9 @@ $79\degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -466,6 +475,9 @@ $28 \degree, 48 \degree, 68 \degree, 88 \degree, 180 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -599,7 +611,7 @@ $
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -668,59 +680,6 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>CFF3BE59-53C8-4689-9970-4DE5520555CE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows a protractor being used to measure the angle between two lines.
-
-![missing image](/papers/missing_image.svg)
-
-The lines are labelled **Line $1$** and **Line $2$**.
-
-Use the protractor to measure the angle between **Line $1$** and **Line $2$**.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin {aligned}
-\text {Angle}   &= 110 \degree - 50 \degree \\\\
-                &= 60 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60 \ \text {degrees}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
@@ -729,6 +688,9 @@ $60 \ \text {degrees}$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -783,6 +745,9 @@ $62 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -797,9 +762,9 @@ Find the size of angle $k$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$ and 
+As we know, the sum of angles of a triangle is 180°.
 
-the sum of angles of a triangle is $180 \degree$. So,
+Also the sum of angles on a straight line is 180°. So,
 
 As per the diagram,
 
@@ -834,177 +799,6 @@ $35 \degree$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>46999D58-537F-44BC-B9A5-9C2318BA2DC8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tclock
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the angle between the hour hand and the minute hand of a clock, at $3 \ \text{o'clock}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$90 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Through how many degrees does the hour hand of a clock turn betweeb noon and $5 \ \text{o'clock}$ in the afternoon?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$150 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Through how many degrees does the minute hand of a clock turn between $0900$ and $0945$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$270 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$270 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2016--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>DFE28FF1-618F-43C0-9BCB-05877CC899BC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The angles are all the same size, because it is regular. What is the special name given to an angle of this size?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Obtuse angle
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Obtuse angle
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>DA636143-50D9-44F2-92E7-6E0251062FF1</p>
 </div>
 <div class='topics'>
@@ -1014,9 +808,6 @@ tangle
 </li>
 <li>
 talgebra
-</li>
-<li>
-tgeometry
 </li>
 </ul>
 </div>
@@ -1069,9 +860,6 @@ $60 \degree$
 <ul>
 <li>
 tangle
-</li>
-<li>
-tgeometry
 </li>
 </ul>
 </div>
@@ -1159,6 +947,9 @@ $a = 68 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1322,6 +1113,9 @@ $60 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1676,6 +1470,9 @@ $90 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1756,116 +1553,6 @@ $28 \degree, \ 28 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>8D9C54BC-6E17-4740-929F-C604E748B5B7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-Find the size of the angle, in degrees, turned by the **minute** hand of a clock as it moves from the
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$12$ to the $1$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$360 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$360 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3$ to the $7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{From 3 to 7} &= 4 \times 360
-                   &= 1440 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1440 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>2A28B44D-4B73-46C1-955A-1029E0F22147</p>
@@ -1874,6 +1561,9 @@ $1440 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1926,7 +1616,7 @@ $75$
 tangle
 </li>
 <li>
-tdraw
+talgebra
 </li>
 </ul>
 </div>
@@ -2007,6 +1697,9 @@ $15\degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2142,6 +1835,9 @@ $105 \ \text {degrees}$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2210,6 +1906,9 @@ $
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2367,6 +2066,9 @@ $73 \degree, 107 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2431,6 +2133,9 @@ $190$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2493,6 +2198,9 @@ $136$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2563,7 +2271,7 @@ $110\degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -2687,6 +2395,9 @@ $30 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2800,53 +2511,79 @@ $30 \degree, 150 \degree, 150 \degree$
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
+<p>49AAD1B8-2F4E-4147-AA60-E6B5D8F00875</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-One angle of a triangle is $30 \degree$. The second angle is twice the size of the third. What is the largest angle?
+The formula to work out the sum of the angles inside any shape is 
+
+$\text{Sum of angles} = 180 \degree \times \text{number of sides} - 360 \degree$
+
+For example,
+
+![missing image](/papers/missing_image.svg)
+
+$
+\begin{aligned} 
+a + b + c + d + e &= 180 \degree \times 5 - 360 \degree \\
+                  &= 900 \degree - 360 \degree \\
+                  &= 540 \degree
+\end{aligned}
+$
+
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the third angle $= a$
+%empty%
 
-As per the question, the second angle $= 2a$
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $a$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
 
 $
 \begin{aligned}
-a + 2a + 30     &= 180  \\\\
-3a + 30         &= 180  \\\\
-3a              &= 180 - 30  \\\\
-3a              &= 150  \\\\
-a               &= \dfrac {150} {3}  \\\\
-a               &= \dfrac {50 \times 3} {3}  \\\\
-a               &= \dfrac {50 \times \cancel{3}}{\cancel{3}}   \\\\
-a               &= 50 \degree
-\end{aligned}
-$
-
-We know the size of the third angle now. 
-However, we need to find the largest angle which is the second angle.
-
-$
-\begin{aligned}
-\text{Largest angle} &= 2a  \\\\
-&= 2 \times 50  \\\\
-&= 100  \degree
+\text{Sum of angles}                                  &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+a \degree + 120 \degree + 70 \degree + 60 \degree     &= 180 \degree \times 4 - 360 \degree \\\\
+a + 250                                               &= 720 - 360 \\\\
+a + 250                                               &= 360 \\\\
+a                                                     &= 360 - 250 \\\\
+a                                                     &= 110 \degree
 \end{aligned}
 $
 
@@ -2855,13 +2592,116 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$100 \degree$
+$110 \degree$
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $b$
+
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Sum of angles}                                                           &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+b \degree + b \degree + b \degree + 150 \degree + 120 \degree + 60 \degree     &= 180 \degree \times 6 - 360 \degree \\\\
+3b + 330                                                                       &= 1080 - 360 \\\\
+3b + 330                                                                       &= 720 \\\\
+3b                                                                             &= 720 - 330 \\\\
+3b                                                                             &= 360 \\\\
+b                                                                              &= \dfrac {390} {3} \\\\
+b                                                                              &= \dfrac {130 \times 3} {3} \\\\
+b                                                                              &= \dfrac {130 \times \cancel{3}} {\cancel{3}} \\\\
+b                                                                              &= 130 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$130 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $c$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Sum of angles}                        &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+x \degree + x \degree + x \degree + x \degree + x \degree + x \degree + x \degree + x \degree        &= 180 \degree \times 8 - 360 \degree \\\\
+8x                                          &= 1440 - 360 \\\\
+8x                                          &= 1080 \\\\
+x                                           &= \dfrac {1080} {8} \\\\
+x                                           &= \dfrac {135 \times 8} {8} \\\\
+x                                           &= \dfrac {135 \times \cancel{8}} {\cancel{8}} \\\\
+x                                           &= 135 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles on a straight line is $180 \degree$.
+
+$
+\begin{aligned}
+x \degree + c \degree        &= 180 \degree \\\\
+135 + c                      &= 180 \\\\
+c                            &= 180 - 135 \\\\
+c                            &= 45 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
@@ -2940,79 +2780,6 @@ $105  \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a triangle, the largest angle is two times the middle angle and the middle angle is three times the smallest angle. What is the size of the **largest** angle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the smallest angle $= a$
-
-As per the question, 
-
-Middle angle $= 3a$
-
-Largest angle $= 6a$
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
-$
-\begin{aligned}
-a + 3a + 6a     &= 180 \\\\
-10a             &= 180 \\\\
-a               &= \dfrac {180} {10} \\\\
-a               &= \dfrac {18\cancel{0}} {1\cancel{0}} \\\\
-a               &= 18 \degree
-\end{aligned}
-$
-
-We know the size of the smallest angle now.
-
-However, we need to find the largest angle.
-
-$
-\begin{aligned}
-\text{Largest angle}    &= 6a \\\\
-                        &= 6 \times 18 \\\\
-                        &= 108 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$108 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>D5EA307D-A637-466A-B45F-001616286B7A</p>
@@ -3023,7 +2790,7 @@ $108 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -3080,7 +2847,7 @@ $27 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -3141,7 +2908,7 @@ $16 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>

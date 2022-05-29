@@ -1,7 +1,7 @@
 ---
 slug: "papers/blackheath-high-school-11-plus-maths-2007-sample-paper-1"
 title: "Blackheath High School - 11 Plus - Maths - 2007 - Sample Paper 1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Blackheath High School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -74,6 +77,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -147,6 +153,9 @@ $2 \dfrac {1} {2} \text{jugs of water required}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -196,7 +205,7 @@ $
 &&  \footnotesize{\maroonC{(+2)}}
 &&  \footnotesize{\maroonC{(+2)}}
 &&  \footnotesize{\maroonC{(+2)}}  \\
-3,  &&   5,  &&   7,  &&   9,  &&   \ldots  &&   \ldots
+3,  &&  5,  &&  7,  &&  9,  &&  \ldots, &&  \ldots
 \end{matrix}
 $
 
@@ -246,7 +255,7 @@ $
 &&  \footnotesize{\maroonC{(+1.2)}}
 &&  \footnotesize{\maroonC{(+1.2)}}
 &&  \footnotesize{\maroonC{(+1.2)}}  \\
-5.1,  &&   6.3,  &&   7.5,  &&   8.7,  &&   \ldots  &&   \ldots
+5.1,    &&  6.3,    &&  7.5,    &&  8.7,    &&  \ldots, &&  \ldots
 \end{matrix}
 $
 
@@ -296,7 +305,7 @@ $
 &&  \footnotesize{\maroonC{(\times 3)}}
 &&  \footnotesize{\maroonC{(\times 3)}}
 &&  \footnotesize{\maroonC{(\times 3)}}  \\
-1,  &&   3,  &&   9,  &&   27,  &&   \ldots  &&   \ldots
+1,  &&  3,  &&  9,  &&  27, &&  \ldots, &&  \ldots
 \end{matrix}
 $
 
@@ -346,7 +355,7 @@ $
 &&  \footnotesize{\maroonC{(\times 2)}}
 &&  \footnotesize{\maroonC{(\times 2)}}
 &&  \footnotesize{\maroonC{(\times 2)}}  \\
-0.3,  &&   0.6,  &&   1.2,  &&   2.4,  &&   \ldots  &&   \ldots
+0.3,    &&  0.6,    &&  1.2,    &&  2.4,    &&  \ldots,  &&  \ldots
 \end{matrix}
 $
 
@@ -396,7 +405,7 @@ $
 &&  \footnotesize{\maroonC{(-4)}}
 &&  \footnotesize{\maroonC{(-4)}}
 &&  \footnotesize{\maroonC{(-4)}}  \\
-15,  &&   11,  &&   7,  &&   3,  &&   \ldots  &&   \ldots
+15, &&  11, &&  7,  &&  3,  &&  \ldots,  && \ldots
 \end{matrix}
 $
 
@@ -551,6 +560,9 @@ $\pounds 14.25$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -795,6 +807,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgraph
 </li>
 <li>
@@ -856,6 +871,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -898,9 +916,10 @@ How many stamps did she get?
 
 $
 \begin{aligned}
-\text{Stamps she get} &= \dfrac {5 \times 100 \text{p}} {27} \\\\
+\text{Stamps she get} &= \pounds \dfrac {5} {27} \\\\
+                      &= \dfrac {5 \times 100 \text{p}} {27} \\\\
                       &= \dfrac {500} {27} \\\\
-                      &= 18.518 \\\\
+                      &= 18 \dfrac {14} {27} \\\\
                       &= 18
 \end{aligned}
 $
@@ -995,6 +1014,9 @@ $\text{Because 500 is not a multiple of 27}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1208,6 +1230,9 @@ $21$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -1299,6 +1324,9 @@ $1,6,21,20$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -1432,6 +1460,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 <li>
@@ -1476,6 +1507,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -1525,6 +1559,9 @@ $80 \ %$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -1612,6 +1649,7 @@ Snadra chooses a pair of jeans marked $\pounds 48$. How much did Sandra save by 
 $
 \begin{aligned}
 \text{Sandra saved} &= 48 - 25 \% \times 48 \\\\
+                    &= 48 - \dfrac {25} {100} \times 48 \\\\
                     &= 48 - \dfrac {25 \times 48} {100} \\\\
                     &= 48 - \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
                     &= 48 - \dfrac {\cancel {25} \times \cancel {4} \times 12} {\cancel {25} \times \cancel {4}} \\\\
@@ -1823,6 +1861,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgraph
 </li>
 </ul>
@@ -1880,6 +1921,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -2014,6 +2058,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2184,6 +2231,9 @@ $49.31$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 </ul>
@@ -2353,6 +2403,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 <li>
@@ -2482,6 +2535,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -2738,6 +2794,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>

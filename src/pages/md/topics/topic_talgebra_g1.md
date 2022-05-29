@@ -1,9 +1,55 @@
 ---
 slug: "topics/topic-talgebra-g1"
 title: "Topic - Algebra - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>0F57C9C9-F2AD-4B34-BB50-53249F45FAE3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Scarlett has $p$ pence. She spends $71$ pence on a new rubber. Circle the expression that shows how much money Scarlett has left.
+
+- $71p$
+- $71 + p$
+- $p - 71$
+- $71 - p$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$p - 71$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$p - 71$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
@@ -11,6 +57,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -71,6 +120,9 @@ $63$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -224,6 +276,9 @@ $24$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -452,6 +507,9 @@ $27 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -577,6 +635,9 @@ $6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -665,6 +726,9 @@ $292.5 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -744,6 +808,9 @@ $4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -801,12 +868,125 @@ $6$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>62828D73-0B00-4BFC-AA4D-B041295BF244</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Estimate the size of angle $A$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+angle A $= 45 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+**Use your answer to part (a)** to find the size of angle $B$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin {aligned}
+B + 45        &= 180  \\\\
+B             &= 180 - 45 \\\\
+B             &= 135 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$135 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>FCDA8DA7-63FA-4DE6-B114-DC8D5BBB3D6C</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -858,6 +1038,9 @@ $21$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -997,12 +1180,214 @@ $64$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>390841FC-F40F-4579-93B4-7F3BE8284DF2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Six times a number, minus $4$, is the same as four times the number, plus $10$. What is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$.
+
+As per the question,
+
+$
+\begin {aligned}
+6 \times a - 4  &= 4 \times a + 10 \\\\
+6a - 4a         &= 10 + 4 \\\\
+2a              &= 14 \\\\
+a               &= \dfrac {14} {2} \\\\
+a               &= \dfrac {7 \times 2} {2} \\\\
+a               &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+a               &= 7
+\end {aligned}
+$
+
+The number is $= 7$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_g1 question'>
+<div class='uuid'>
+<p>40FF7E29-DBCE-405A-9982-1F39CD4E3D5E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the missing angles $a \degree$ and $b \degree$ :
+
+![missing image](/papers/missing_image.svg)
+
+-  $a = 48 \degree, \ b = 53 \degree$
+-  $a = 48 \degree, \ b = 63 \degree$
+-  $a = 58 \degree, \ b = 53 \degree$
+-  $a = 58 \degree, \ b = 63 \degree$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a , b$
+
+As we know the sum of two interior angles is equal to sum of opposite exterior angle
+
+Also the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+b + 69                                                  &= 132 \\\\
+b                                                       &= 132 - 69 \\\\
+b                                                       &= 63 \\\\
+a + b + 69                                              &= 180 \\\\
+a + 63 + 69                                             &= 180 \\\\
+a + 132                                                 &= 180 \\\\
+a                                                       &= 180 - 132 \\\\
+a                                                       &= 48
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$48,63$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_g1 question'>
+<div class='uuid'>
+<p>6F6B6B48-EC9B-41A8-8A65-09482A6B04A0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the missing angles a ̊and b ̊:
+
+![missing image](/papers/missing_image.svg)
+
+%format% - a = 48o, b = 53o
+%format% - a = 48o, b = 63o
+%format% - a = 58o, b = 53o
+%format% - a = 58o, b = 63o
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a , b$
+
+As we know the sum of two interior angles is equal to sum of opposite exterior angle
+
+Also the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+b + 69                                                  &= 132 \\\\
+b                                                       &= 132 - 69 \\\\
+b                                                       &= 63 \\\\
+a + b + 69                                              &= 180 \\\\
+a + 63 + 69                                             &= 180 \\\\
+a + 132                                                 &= 180 \\\\
+a                                                       &= 180 - 132 \\\\
+a                                                       &= 48
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$48, \63$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nc_g1 question'>
 <div class='uuid'>
 <p>2D83F97D-6DC7-4679-9E45-09038681DA89</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1057,6 +1442,9 @@ $3$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1208,10 +1596,237 @@ $9.8$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>0BC6DC5C-B1B3-4EBE-AC5C-839914A2772E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Anna is $3$ years younger than Brian. Brian is $7$ years older than Callum.
+
+How much older is Anna than Callum?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Anna be $a$ year older than Callum.
+
+As per the question,
+
+$
+\begin{aligned}
+a &= 7 - 3 \\\\
+  &= 4 \ \text {years}
+\end{aligned}
+$
+
+Anna is $4$ years older than Callum.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text {years}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Derek is $15$ years old. His Dad is three times his age.
+Derek's brother, Dave, is six year younger than him.
+
+How many times older is Dad than Dave?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Times Dave is older than his dad}  &= \dfrac {\text {Age of Derek's dad}} {\text {Dave's age}} \\\\
+                                         &= \dfrac {15 \times 3} {15 - 6} \\\\
+                                         &= \dfrac {15 \times 3} {9} \\\\
+                                         &= \dfrac {5 \times 3 \times 3} {3 \times 3} \\\\
+                                         &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
+                                         &= 5
+\end{aligned}
+$
+
+Dad is $5$ times older than Dave.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Emily is one quarter the age of her Aunt Ingrid.
+Their ages total $60$.
+
+How old is Emily?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of Emily $= a$
+
+Age of Emily’s aunt Ingrid $= 4a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 4a &= 60 \\\\
+5a     &= 60 \\\\
+a      &= \dfrac {60} {5} \\\\
+a      &= \dfrac {12 \times 5} {5} \\\\
+a      &= \dfrac {12 \times \cancel {5}} {\cancel {5}} \\\\
+a      &= 12
+\end{aligned}
+$
+
+Emily is $12$ years old.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sanjay is two years younger than Sara, who is five years older than Sasha. Sanjay's age and Sasha's age total to $31$.
+
+How old is Sara?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of Sara $= a$.
+
+Sanjay's age $= a - 2$.
+
+Sasha's age $= a - 2 - 5 = a - 7$.
+
+As per the question,
+
+$
+\begin{aligned}
+a - 2 + a - 7 &= 31 \\\\
+2a - 9        &= 31 \\\\
+2a            &= 31 + 9 \\\\
+2a            &= 40 \\\\
+a             &= \dfrac {40} {2} \\\\
+a             &= 20
+\end{aligned}
+$
+
+Sara is $20$ years old.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>A53C7015-4325-4F04-9324-7266EA307FB1</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1388,6 +2003,9 @@ $64$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -1447,6 +2065,9 @@ $6280$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -1502,6 +2123,9 @@ $9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1620,6 +2244,9 @@ $43 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -1679,6 +2306,9 @@ $\pounds 5.82$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -1732,6 +2362,9 @@ $21$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1789,6 +2422,9 @@ $7$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -1844,6 +2480,9 @@ $9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1962,6 +2601,9 @@ $131 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -2015,6 +2657,9 @@ $9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2071,6 +2716,9 @@ $7$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2182,6 +2830,9 @@ $122 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -2235,6 +2886,9 @@ $7$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2344,6 +2998,9 @@ $91 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -2397,6 +3054,9 @@ $1$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2506,6 +3166,9 @@ $12$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2700,6 +3363,9 @@ $35 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentageadvance
 </li>
 <li>
@@ -2780,6 +3446,9 @@ $90 \ \text {ml}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -3057,6 +3726,9 @@ $36 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -3281,6 +3953,9 @@ $\dfrac {9} {2}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -3354,6 +4029,9 @@ $50 \ \text{cm} ^2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -3418,6 +4096,9 @@ $135$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -3481,10 +4162,82 @@ $5$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>762303C7-0D1C-4345-AD02-7E755C4F0CE4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this diagram what is the value of $x$?
+![missing image](/papers/missing_image.svg)
+
+- $36$
+- $64$
+- $100$
+- $144$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, 
+
+The sum of angles of a triangle is is $180 \degree$.
+
+Angles on straight line add up to is $180 \degree$.
+
+The circular measure an angle of is $360 \degree$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+x \degree + (180 \degree - 100 \degree) + (360 \degree - 324 \degree)              &= 180 \degree \\\\
+x + 80 + 36                                                                        &= 180 \\\\
+x                                                                                  &= 180 - 80 - 36 \\\\
+x                                                                                  &= 64 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>ACBD2F74-0174-460D-93C5-F21245389B8B</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -3556,6 +4309,9 @@ $5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -3639,6 +4395,9 @@ $19 \ \text{and} \ 13$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -3696,6 +4455,9 @@ $9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -3823,6 +4585,9 @@ $\pounds 4.80$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -3881,6 +4646,9 @@ $18$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -3941,6 +4709,9 @@ $7.7 \ \text {m}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -3996,6 +4767,9 @@ $9 \ \text {hours}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -4060,10 +4834,10 @@ $3$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tage
 </li>
 <li>
-tage
+talgebra
 </li>
 </ul>
 </div>
@@ -4123,6 +4897,9 @@ $14$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -4181,6 +4958,9 @@ $22$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -4242,6 +5022,9 @@ $32$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -4291,6 +5074,9 @@ $960$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -4367,6 +5153,9 @@ $1$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -4428,6 +5217,9 @@ $16 \ \text {p}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -4482,6 +5274,9 @@ $6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -4528,62 +5323,13 @@ $7$
 <li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
-<p>5628A8F8-B6F9-4B5F-A53D-63CCA2DEEBAC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-My father was $31$ on my $8 \text{th}$ birthday.
-How old will he be  on my $30 \text{th}$ birthday? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {My father's age on my 30th birthday}  &= 30 + (31 - 8) \\\\
-                                             &= 30 + 23 \\\\
-                                             &= 53
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$53$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nm_g1 question'>
-<div class='uuid'>
 <p>6398C5BF-C910-451F-A847-5199C8321DD0</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -4646,6 +5392,9 @@ $90$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -4706,6 +5455,9 @@ $6$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -4948,6 +5700,9 @@ $3c (-5ct + 4c)$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -4992,6 +5747,9 @@ $-3x + 30y$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -5097,12 +5855,137 @@ $18$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ks_g1 question'>
+<div class='uuid'>
+<p>4EE39D55-56B3-48D1-8889-F7D3D5976C87</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the missing angles.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 52 + 37     &= 180  \\\\
+a + 89          &= 180  \\\\
+a               &= 180 - 89 \\\\
+a               &= 91 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$91 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+b + 115 + 134   &= 360  \\\\
+b + 249         &= 360  \\\\
+b               &= 360 - 249 \\\\
+b               &= 111 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$111 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>BA1D755E-247B-459D-BA62-7EACF068C6A6</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -5170,12 +6053,162 @@ $84$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>3AC41847-B315-468A-A2D7-E375F2BF6A55</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tanya cuts out a piece of card into a rectangle. The rectangle is twice as long as it is wide. 
+The area of the rectangle is $128 \ \text{cm}^2$.
+
+What is the perimeter of rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle $= a$.
+
+As per the question, 
+
+Length of the rectangle $= 2a$. 
+
+$
+\begin {aligned}
+\text {Area of the rectangle}   &= \text {length} \times \text {width} \\\\
+128                             &= 2a \times a \\\\
+2a ^ 2                          &= 128 \\\\
+a ^ 2                           &= \dfrac {128} {2} \\\\
+a ^ 2                           &= \dfrac {64 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {64 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2                           &= 64 \\\\
+a                               &= \sqrt {64} \\\\
+a                               &= 8
+\end {aligned}
+$
+
+Width of the rectangle $= 8 \ \text {cm}$, length of the rectangle $2 \times 8 = 16 \ \text {cm}$.
+
+$
+\begin {aligned}
+\text {Perimeter of rectangle}  &= 2 (\text {length} + \text {width}) \\\\
+                                &= 2 \times (16 + 8) \\\\
+                                &= 2 \times 24 \\\\
+                                &= 48 \ \text {cm}
+\end {aligned}
+$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>B2F39BD7-5D8B-4067-8AD3-B1B40BE19482</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a **right angled triangle** inside a **rectangle**. Calculate the value of angle $x$. Do not use a protractor.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle of triangle $=a$
+
+As we know, the sum of angles on a straight line is $180 \degree$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+83 + a + 58  &= 180 \\\\
+141 + a      &= 180 \\\\
+a            &= 180 - 141 \\\\
+a            &= 39 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + 39 + 90  &= 180 \\\\
+x + 129      &= 180 \\\\
+x            &= 180 - 129 \\\\
+x            &= 51 \degree 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>8CFB528C-79C4-4BDA-83CD-5EE537CC7589</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -5319,12 +6352,163 @@ $46 \ \text{years}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>B5420130-A56B-4BA2-8654-2576766211F0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Woody organised a quiz night in the toy room. He asked $25$ questions.
+
+For each correct answer you gained $4$ points.
+
+For each incorrect answer you lost $2$ points.
+
+For each question you did not attempt you scored $0$ points.
+
+
+Rex answered all but one of the questions and got a score of $66$ points.
+How many correct answers did he have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let number of correct answers $= a$.
+
+and let number of incorrect answers $= b$.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Total number of questions Rex answered}  &= \text {Correct answers} + \text {Incorrect answers} + \text {Questions he left} \\\\
+25                                              &= a + b + 1 \\\\
+a + b                                           &= 25 - 1 \\\\
+a + b                                           &= 24 \\\\
+b                                               &= 24 - a \\\\
+\text {Total points he scored}                  &= 66 \\\\
+4a - 2b                                         &= 66 \\\\
+4a - 2 \times (24 - a)                          &= 66 \\\\
+4a - 48 + 2a                                    &= 66 \\\\
+6a                                              &= 66 + 48 \\\\
+6a                                              &= 114 \\\\
+a                                               &= \dfrac {114} {6} \\\\
+a                                               &= \dfrac {19 \times 6} {6} \\\\
+a                                               &= \dfrac {19 \times \cancel {6}} {\cancel {6}} \\\\
+a                                               &= 19
+\end {aligned}
+$
+
+Correct answers $= 19$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>5AD43B4B-E920-4612-9106-152878ACCB28</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bill is twice as old as his son, who is $50$ years younger than Bill’s father. If the total of their ages is $142$, how old is Bill?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Bill’s father age $= a$
+
+As per the question,
+
+Bill’s son age $= a - 50$
+
+Bill’s age $= 2 \times (a - 50)$
+
+$
+\begin {aligned}
+\text {Bill’s father age} + \text {Bill’s son age} + \text {Bill’s age}  &= 142 \\\\
+a + (a - 50) + 2 \times (a - 50)                                         &= 142 \\\\
+a + a - 50 + 2a - 100                                                    &= 142 \\\\
+4a - 150                                                                 &= 142 \\\\
+4a                                                                       &= 142 + 150 \\\\
+4a                                                                       &= 292 \\\\
+a                                                                        &= \dfrac {292} {4} \\\\
+a                                                                        &= \dfrac {73 \times 4} {4} \\\\
+a                                                                        &= \dfrac {73 \times \cancel {4}} {\cancel {4}} \\\\
+a                                                                        &= 73 \\\\
+\text {Bill’s age}                                                       &= 2 \times (a - 50) \\\\
+                                                                         &= 2 \times (73 - 50) \\\\
+                                                                         &= 2 \times 23 \\\\
+                                                                         &= 46
+\end {aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$46$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nc_g1 question'>
 <div class='uuid'>
 <p>A56CC986-6FB6-44CD-B429-F2315A65E217</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -5572,6 +6756,9 @@ $\dfrac {37} {7}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -5762,6 +6949,9 @@ $-2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -5832,6 +7022,9 @@ $8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -5904,6 +7097,9 @@ $64$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -6072,6 +7268,9 @@ $14$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -6247,6 +7446,9 @@ $\dfrac {t ^ 2} {4}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -6300,6 +7502,9 @@ $6$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -6468,6 +7673,9 @@ $11$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -6525,10 +7733,194 @@ $600 \ \text{g}$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>15416CC2-104A-4AFC-B2E3-BD1EFCF2BC21</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the name that is given to this type of triangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Isosceles triangle}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Isosceles triangle}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Showing your working, calculate the size of the angle:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$x \degree$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As the triangle is an isosceles triangle, the third angle is also $= a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + 40 + x  &= 180 \\\\
+2 x + 40    &= 180 \\\\
+2 x         &= 180 - 40 \\\\
+2 x         &= 140 \\\\
+x           &= \dfrac {140} {2} \\\\
+x           &= \dfrac {70 \times 2} {2} \\\\
+x           &= \dfrac {70 \times \cancel {2}} {\cancel {2}} \\\\
+x           &= 70 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$70 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$y \degree$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + y  &= 180 \\\\
+70 + y &= 180 \\\\
+y      &= 180 - 70 \\\\
+y      &= 110 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$110 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>251FBF03-47A6-429C-803A-6682014D04F1</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -6570,12 +7962,251 @@ $240 \ \text{g}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>01546D3D-3C3F-4170-93D2-BAF39200375E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the angles marked $x$ and $y$ in the diagram below
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a straight line is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + 133 &= 180 \\\\
+x       &= 180 - 133 \\\\
+x       &= 47 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles in a quardilateral is $360 \degree$. So,
+
+$
+\begin{aligned}
+47 + 90 + y + 100 &= 360 \\\\
+y + 237           &= 360 \\\\
+y                 &= 360 - 237 \\\\
+y                 &= 123 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47 \degree, \ 123 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a straight line is $180 \degree$. So,
+
+$
+\begin{aligned}
+p + 48  &= 180 \\\\
+p       &= 180 - 48 \\\\
+p       &= 132 \degree
+\end{aligned}
+$
+
+As it is an isosceles triangle so angle q will be equal to angle r
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+q + 48 + r  &= 180 \\\\
+q + q       &= 180 - 48 \\\\
+2 q         &= 132 \\\\
+q           &= \dfrac {132} {2} \\\\
+q           &= \dfrac {66 \times 2} {2} \\\\
+q           &= \dfrac {66 \times \cancel {2}} {\cancel {2}} \\\\
+q           &= 66 \degree
+\end{aligned}
+$
+
+$\text {q} = \text {r} = 66 \degree$
+
+r will be equal to t as they are opposite angles.
+
+$\text {r} = \text {t} = 66 \degree$
+
+Similarly,
+
+u will be equal to s.
+
+As we know, the sum of a complete angle is $360 \degree$. So,
+
+$
+\begin{aligned}
+u + r + s + t    &= 360 \\\\
+s + 66 + s + 66  &= 360 \\\\
+2 s + 132        &= 360 \\\\
+2 s              &= 360 - 132 \\\\
+2 s              &= 228 \\\\
+s                &= \dfrac {228} {2} \\\\
+s                &= \dfrac {114 \times 2} {2} \\\\
+s                &= \dfrac {114 \times \cancel {2}} {\cancel {2}} \\\\
+s                &= 114 \degree
+\end{aligned}
+$
+
+$\text {s} = \text {u} = 114 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>03E012B1-67E0-4542-B1B2-6F0B3069FFA8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs Jones is $24$ years older than her daughter. The sum of their ages is $70$ years. How old is Mrs Jones?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Mrs Jones age $=a$
+
+Her daughter's age $= a - 24$
+
+As per the question,
+
+$
+\begin{aligned}
+a - 24 + a &= 70 \\\\
+2 a        &= 70 + 24 \\\\
+2 a        &= 94 \\\\
+a          &= \dfrac {94} {2} \\\\
+a          &= \dfrac {47 \times 2} {2} \\\\
+a          &= \dfrac {47 \times \cancel {2}} {\cancel {2}} \\\\
+a          &= 47 \ \text {years}
+\end{aligned}
+$
+
+Mrs Jones age $= 47$ years
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47 \ \text {years}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
 <p>00C17084-5529-4DED-AB9D-84C6F2769CA9</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -6647,6 +8278,9 @@ a = 2,b = 12$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -6717,6 +8351,9 @@ $p = 575, q= 425$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -6774,6 +8411,9 @@ $23,483$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -6956,6 +8596,9 @@ $- 280$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -7118,6 +8761,9 @@ $6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -7186,6 +8832,9 @@ $a=12 b=0,a=3 b=12$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -7366,6 +9015,9 @@ $117$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -7522,10 +9174,84 @@ $-6$
 <li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
+<p>C4397B4E-BA18-4B0D-A072-7C5F9C2B0637</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The six angles of two different triangles are listed in decreasing order. The list starts $115 \degree, 85 \degree, 75 \degree$ and $35 \degree$. 
+
+What is the last angle in the list? Explain your answer.
+
+*Hint: Remember that the angles inside any triangle always add up to 180 degrees*. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle of first triangle $= a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 115 + 35    &= 180 \\\\
+a + 150         &= 180 \\\\
+a               &= 180 - 150 \\\\
+a               &= 30 \degree
+\end{aligned}
+$
+
+Let the third angle of second triangle $= b$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+b + 85 + 75     &= 180 \\\\
+b + 160         &= 180 \\\\
+b               &= 180 - 160 \\\\
+b               &= 20 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_g1 question'>
+<div class='uuid'>
 <p>F2F22AA6-D55F-4788-A3CE-CE3F27F8216D</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -7671,6 +9397,9 @@ $-108$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -7723,6 +9452,9 @@ $63$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -7898,6 +9630,9 @@ $10x ^ 3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -8041,6 +9776,9 @@ $42$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -8217,6 +9955,9 @@ $1.2,4.8$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -8279,6 +10020,9 @@ $(12,0),(4,18)$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -8461,6 +10205,9 @@ $-11$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -8626,6 +10373,9 @@ $4.5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -8745,6 +10495,9 @@ $48$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -8822,6 +10575,9 @@ $\dfrac{45}{4}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -8879,6 +10635,9 @@ $501$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -8952,6 +10711,9 @@ $8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -9035,6 +10797,9 @@ $24 \ \text{and} \ 11$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -9095,6 +10860,9 @@ $5570$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -9269,6 +11037,9 @@ $6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -9330,10 +11101,83 @@ $60$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>F74409E6-423C-450E-BDFB-21338241A8A0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Richard is $18$ years old.
+
+Adam is half as old as Richard.
+
+Will is $\dfrac{2}{3}$ of Adam's age.
+
+What is their total age?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Richard's age}    &= 18 \\\\
+\text{Adam's age}       &= \dfrac {\text{Richard's age}} {2}  \\\\
+                        &= \dfrac {18} {2} \\\\
+                        &= \dfrac {2 \times 9} {2} \\\\
+                        &= \dfrac {\cancel{2} \times 9} {\cancel{2}} \\\\ 
+                        &= 9 \\\\
+\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
+                        &= \dfrac {2} {3} \times 9 \\\\
+                        &= \dfrac {2 \times 9} {3} \\\\
+                        &= \dfrac {2 \times 3 \times 3} {3} \\\\
+                        &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
+                        &= 2 \times 3 \\\\
+                        &= 6 \\\\
+\text{Total age}        &= \text{Richard's age + Adam's age + Will's age} \\\\
+                        &= 18 + 9 + 6 \\\\
+                        &= 33
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>4C9A3109-398C-46C7-B66E-8EC1E868DD8C</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -9415,6 +11259,9 @@ $13 \ \text{and} \ 5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -9468,6 +11315,9 @@ $33$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -9592,10 +11442,68 @@ $8$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>F2C47797-13C0-4FDF-AA9D-ED17BA456CC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the value of $𝑥$ in the triangle shown.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know, the sum of angles in a triangle is $180 \degree$
+
+As per the diagram,
+
+$
+\begin{aligned}
+90 \degree + 35 \degree + x \degree      &= 180 \degree \\\\
+x                                        &= 180 - 90 - 35 \\\\
+x                                        &= 55 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>C4D5964E-323E-4324-81EE-4EA60C92CF15</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -9655,6 +11563,9 @@ $36$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -9708,6 +11619,9 @@ $24$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -9831,10 +11745,123 @@ $13$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>4A3EA266-6BEF-4B0E-9F13-1DCD864E5C55</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the value of $𝑥$ in the quadrilateral shown.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The sum of all four angles of a quadrilateral is $360 \degree$
+
+As per the diagram,
+
+$
+\begin{aligned}
+110 \degree + 100 \degree + 75 \degree + x \degree            &= 360 \degree \\\\
+x                                                             &= 360 - 110 - 100 - 75 \\\\
+x                                                             &= 75 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>3E5707E8-A605-4AEB-83F5-1DF28EF49EA0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the value of 𝑥 in the triangle shown.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The sum of all three angles of a triangle is $180 \degree$
+
+As per the diagram,
+
+$
+\begin{aligned}
+80 \degree + 60 \degree + x \degree              &= 180 \degree \\\\
+x                                                &= 180 - 80 - 60 \\\\
+x                                                &= 40 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>9A5AA44C-95FB-4E78-B769-9322CA0C9120</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -9981,6 +12008,9 @@ $50$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -10165,6 +12195,9 @@ $12$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -10344,6 +12377,9 @@ $8$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -10427,6 +12463,9 @@ $10, 11, 9$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -10496,6 +12535,9 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -10548,12 +12590,77 @@ $29, 58$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>71BF2B3D-3BE5-4C50-B05E-2EC50982167D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the size of the angles marked with the letters $a$ and $b$ .
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know, if two parallel lines are cut by a transversal, then the alternate interior angles are equal. So,
+
+As per the diagram,
+
+Angle $a$ and $b$ are two alternate interior angles.
+
+$
+\begin{aligned}
+a           &= 31 \degree \\\\
+b           &= 31 \degree + 35 \degree \\\\
+            &= 66 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$
+\begin{aligned}
+a &= 31 \degree \\
+b &= 66 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -10692,12 +12799,143 @@ $1600 \ \text {ml}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>05657E57-5AAE-47F6-9CCF-40E96CD77C36</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the value of $x$ in each of the diagrams below.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Sum of all the angles}   &= 360 \degree \\\\
+2x + x + 5x + 4x                &= 360 \\\\
+12x                             &= 360 \\\\
+x                               &= \dfrac {360} {12} \\\\
+x                               &= \dfrac {30 \times 12} {12} \\\\
+x                               &= \dfrac {30 \times \cancel {12}} {\cancel {12}} \\\\
+x                               &= 30 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+2x + (x + 32) + 40 \degree  &= 180 \degree \\\\
+2x + x + 32 + 40            &= 180 \\\\
+3x + 72                     &= 180 \\\\
+3x                          &= 180 - 72 \\\\
+3x                          &= 108 \\\\
+x                           &= \dfrac {108} {3} \\\\
+x                           &= \dfrac {36 \times 3} {3} \\\\
+x                           &= \dfrac {36 \times \cancel {3}} {\cancel {3}} \\\\
+x                           &= 36 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>AF17E277-3722-4E4E-A504-06257C3D772B</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -10815,6 +13053,9 @@ $8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -11064,6 +13305,9 @@ $32$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -11129,6 +13373,9 @@ $24$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -11350,6 +13597,9 @@ $70$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -11573,12 +13823,399 @@ $\dfrac {1} {6}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>EDB8D422-9368-4C8B-8C79-7E41BBCC1FC9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One quarter of the people at a party are men, a half are girls, one sixth are women, and there are five boys. How many people were at the party? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total people in the party $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total people}                                                                                                                 &= \text{Men} + \text{Women} + \text{Girls} + \text{Boys} \\\\
+a                                                                                                                                   &= \dfrac {1} {4} \times a + \dfrac {1} {2} \times a + \dfrac {1} {6} \times a + 5 \\\\
+a                                                                                                                                   &= \dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5 \\\\
+a - \dfrac {a} {4} - \dfrac {a} {2} - \dfrac {a} {6}                                                                                &= 5 \\\\
+\dfrac {12 \times a} {12} - \dfrac {3 \times a} {3 \times 4} - \dfrac {6 \times a} {6 \times 2} - \dfrac {2 \times a} {2 \times 6}  &= 5 \\\\
+\dfrac{12a} {12} - \dfrac {3a} {12} - \dfrac {6a} {12} - \dfrac {2a} {12}                                                           &= 5 \\\\
+\dfrac {12a - 3a - 6a - 2a} {12}                                                                                                    &= 5 \\\\
+\dfrac {a} {12}                                                                                                                     &= 5 \\\\
+a                                                                                                                                   &= 5 \times 12 \\\\
+a                                                                                                                                   &= 60
+\end{aligned}
+$
+
+Total number of people $= 60$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>D1ACF183-0702-4413-B707-24443D6D16E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\dfrac {3} {8}$  of a number is $27$. What is $\dfrac {1} {2}$ of the number? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3} {8} \times a     &= 27 \\\\
+\dfrac {3a} {8}             &= 27 \\\\
+3a                          &= 27 \times 8 \\\\
+a                           &= \dfrac{27 \times 8} {3} \\\\
+a                           &= \dfrac{3 \times 9 \times 8} {3} \\\\
+a                           &= \dfrac{\cancel {3} \times 9 \times 8} {\cancel {3}} \\\\
+a                           &= 9 \times 8 \\\\
+a                           &= 72
+\end{aligned}
+$
+
+The number $= 72$
+
+Let's find $\dfrac {1} {2} \text{of} 72$
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times 72 \\\\
+&= \dfrac {72} {2} \\\\
+&= \dfrac {2 \times 36} {2} \\\\
+&= \dfrac {\cancel {2} \times 36} {\cancel {2}} \\\\
+&= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>9AC85AEC-FC01-4FB6-9FC8-DC6ADCBB5690</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The total of the ages of a father, his daughter and his two twin sons is $96$ years. 
+The daughter’s age is half the father’s age and twice the age of each of her two brothers. 
+
+How old is the **father**? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of father $= a$
+
+Age of daughter $= \dfrac{a}{2}$
+
+Age of brother $= \dfrac{a}{4}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{age of father} + \text{age of daughter} + \text{age of 2 sons}                            &= 96 \\\\
+a + \dfrac{a}{2} + \dfrac{a}{4} + \dfrac{a}{4}                                                  &= 96 \\\\
+\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a}{4} + \dfrac{a}{4}        &= 96 \\\\
+\dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\ 
+\dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
+\dfrac {8a} {4}                                                                                 &= 96 \\\\
+7a                                                                                              &= 96 \times 4 \\\\
+a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac{8 \times 12 \times 4} {8} \\\\
+a                                                                                               &= \dfrac{\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
+a                                                                                               &= 12 \times 4 \\\\
+a                                                                                               &= 48 \\\\
+\text {the age of father}                                                                       &= 48
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>338F96DE-9214-4EE9-A056-D7F61969FCBE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg) 
+
+The angles in a triangle always add up to $180 \degree$ . In the triangle shown above angle $a \degree$ is three times as big as angle $b \degree$ and angle $b \degree$ is twice as large as angle $c \degree$. Find the angle $d \degree$ shown in the diagram.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+We know that the sum of all angles of a triangle is $180 \degree$.
+
+$
+\begin{aligned}
+a + b + c                                     &= 180 \\\\
+3 (2c)+ 2c + c                                &= 180 \\\\
+6c+ 2c + c                                    &= 180 \\\\
+9c                                            &= 180 \\\\
+c                                             &= \dfrac {180} {9} \\\\
+c                                             &= \dfrac {9 \times 20} {9} \\\\
+c                                             &= \dfrac {\cancel{9} \times 20} {\cancel{9}} \\\\
+c                                             &= 20 \degree
+\end{aligned}
+$
+
+Let's find angle $b$
+
+$
+\begin{aligned}
+b                                             &= 2 \times c \\\\
+b                                             &= 2 \times 20 \\\\
+b                                             &= 40
+\end{aligned}
+$
+
+We know that the sum of angles on a straight line is $180 \degree$. 
+
+$
+\begin{aligned}
+b + d                                         &= 180 \\\\
+40 + d                                        &= 180 \\\\
+d                                             &= 180 - 40 \\\\
+d                                             &= 140 \degree
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Alternative Solution
+
+We know that the sum of all angles of a triangle is $180 \degree$.
+
+As per the question,
+
+$
+\begin{aligned}
+a + b + c                                                                          &= 180 \\\\
+3b + b  + \dfrac {b}{2}                                                            &= 180 \\\\
+\dfrac {3b \times 2}{1 \times 2} + \dfrac {b \times 2}{1 \times 2} + \dfrac {b}{2} &= 180 \\\\
+\dfrac {6b}{2} + \dfrac {2b}{2} + \dfrac {b}{2}                                    &= 180 \\\\
+\dfrac {6b + 2b + b}{2}                                                            &= 180 \\\\
+\dfrac {9b}{2}                                                                     &= 180 \\\\  
+b                                                                                  &= \dfrac {180 \times 2} {9} \\\\
+b                                                                                  &= \dfrac {9 \times 20 \times 2} {9} \\\\
+b                                                                                  &= \dfrac {\cancel{9} \times 20 \times 2} {\cancel{9}} \\\\
+b                                                                                  &= 20 \times 2
+b                                                                                  &= 40 \degree
+\end{aligned}
+$
+
+
+We know that the sum of angles on a straight line is $180 \degree$.
+
+$
+\begin{aligned}
+b + d                                         &= 180 \\\\
+40 + d                                        &= 180 \\\\
+d                                             &= 180 - 40 \\\\
+d                                             &= 140 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$140 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows two equilateral triangles and a rectangle. Calculate the size of angle $a \degree$.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know,
+
+An angle of an equilateral $= 60 \degree$
+
+An angle of a rectangle $= 90 \degree$
+
+Sum of all angles at a point $= 360 \degree$
+
+As per the diagram,
+
+$
+\begin{aligned}
+90 + 60 + 60 + a                               &= 360 \\\\
+a                                              &= 360 - 90 - 60 - 60\\\\
+a                                              &= 150 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>FEAB2ACE-3E49-46F1-A250-9631A7EA7469</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -11644,6 +14281,9 @@ $24 \ \text{Balloons}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -11699,6 +14339,9 @@ $5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -11825,6 +14468,9 @@ $6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -11878,6 +14524,9 @@ $16$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -12069,6 +14718,9 @@ $90 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -12187,10 +14839,87 @@ $2$
 <li>
 <div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
+<p>6F9F32E1-F006-4C6E-8240-5A785690A7E2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at these angles:
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+One of the angles measures $120^o$ Write down which angle it must be.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{angle Q}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{angle Q}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
 <p>98887762-1849-4F10-9E68-211B94B015A0</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -12239,6 +14968,9 @@ $4$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -12294,15 +15026,132 @@ $8{:}45 \ \text{am}$
 <li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
+<p>A34D1AFD-1A13-4C1A-8344-2A8E62131D4A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the missing angle, $x$: 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + 32 + 90   &= 180  \\\\
+x             &= 180 - 122 \\\\
+x             &= 58 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$58 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>473B53F9-0065-4183-A92E-E456B6396E3B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the size of angle $x$:
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= x$
+
+As the triangle is an isosceles triangle, the third angle is also $= x$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + x + 68      &= 180  \\\\
+2x + 68         &= 180  \\\\
+2x              &= 180 - 68  \\\\
+2x              &= 112  \\\\
+x               &= \dfrac {112} {2}  \\\\
+x               &= \dfrac {56 \times 2} {2}  \\\\
+x               &= \dfrac {56 \times \cancel{2}}{\cancel{2}}   \\\\
+x               &= 56 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
 <p>42DD1DEA-9421-4D3A-9922-9C450DDF4E3F</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -12364,6 +15213,9 @@ $85 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -12420,6 +15272,9 @@ $6c - 3d$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -12510,12 +15365,70 @@ $\pounds 7,\pounds 1,\pounds 1$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>226E8E2D-19C1-4607-A921-E9F025A6322B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a Maths test Freddie gets $37$ more marks than George. If Freddie gets $61$, what mark does George get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let George's marks $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 37      & = 61 \\\\
+a           & = 61 - 37 \\\\
+a           & = 24
+\end{aligned}
+$
+
+Marks George got $= 24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -12761,6 +15674,9 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -12956,10 +15872,123 @@ $7$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>3EBB0F49-3BA5-4488-971D-510882EA7B7A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Clara has four brothers.
+
+Sam's age added to Ben's age gives $12$.
+
+The total of Frederick's and Sam's and Ben's ages is $28$.
+
+Mylo's age added to Sam's age gives $20$. 
+
+The total of all the brothers' ages is $39$.
+
+Work out the ages of Clara's brothers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of four brothers $= s, \ b, \ f, m$
+
+As per the question,
+
+$s + b = 12$
+
+$f + s + b = 28$
+
+$m + s = 20$
+
+$f + s + b + m = 39$
+
+$
+\begin{aligned}
+f + s + b + m   &= 39 \\\\
+(f + s + b) + m &= 39 \\\\
+28 + m          &= 39 \\\\
+m               &= 39 - 28 \\\\
+m               &= 11 \ \text{years}
+\end{aligned}
+$
+
+Mylo's age $= 11 \ \text{years}$
+
+$
+\begin{aligned}
+f + s + b + m    &= 39 \\\\
+f + (s + b) + 11 &= 39 \\\\
+f + 12 + 11      &= 39 \\\\
+f + 23           &= 39 \\\\
+f                &= 39 - 23 \\\\
+f                &= 16 \ \text{years}
+\end{aligned}
+$
+
+Frederick's age $= 16 \ \text{years}$
+
+$
+\begin{aligned}
+m + s  &= 20 \\\\
+11 + s &= 20 \\\\
+s      &= 20 - 11 \\\\
+s      &= 9 \ \text{years}
+\end{aligned}
+$
+
+Sam's age $= 9 \ \text{years}$
+
+$
+\begin{aligned}
+s + b &= 12 \\\\
+9 + b &= 12 \\\\
+b     &= 12 - 9 \\\\
+b     &= 3 \ \text{years}
+\end{aligned}
+$
+
+Ben's age $= 3 \ \text{years}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9, \ 3, \ 16, \ 11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>017292F5-B2A1-4C79-85DD-F6BA7E5EF275</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -13030,6 +16059,9 @@ $\pounds 5.5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -13085,6 +16117,9 @@ $8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -13144,6 +16179,9 @@ $18$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -13208,6 +16246,9 @@ $4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -13263,6 +16304,9 @@ $14$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -13340,6 +16384,9 @@ $2 \text{p}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -13395,6 +16442,9 @@ $20.3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -13446,12 +16496,69 @@ $19$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>B5A67EBF-7804-44BA-A78D-4588DF38FCE3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Half of a certain number is $17$. What is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned} 
+\dfrac {1} {2} \times a                           &= 17 \\\\
+a                                                 &= 17 \times 2 \\\\
+a                                                 &= 34
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -13518,6 +16625,9 @@ $11$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -13571,6 +16681,9 @@ $52$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -13705,6 +16818,9 @@ $\pounds 3.95$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -13771,6 +16887,9 @@ $24$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -13823,6 +16942,9 @@ $14$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -13887,6 +17009,279 @@ $150 \ \text {grams}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Barbara buys a box containing a selection of three types of biscuit.
+
+There are eight chocolate biscuits.
+
+A third of the other biscuits are custard creams.
+
+There are twelve ginger biscuits. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many custard creams are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Custard biscuit are a third of other biscuits then chocolate biscuits so they are a third of ginger biscuits. Using that,
+
+$
+\begin{aligned}
+\text {Total custard creams}    &= \dfrac {1} {3} \times 12 \\\\
+                                &= \dfrac {12} {3} \\\\
+                                &= \dfrac {4 \times 3} {3} \\\\
+                                &= \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
+                                &= 4
+\end{aligned}
+$
+
+There are $4$ custard creams.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many biscuits are in the box?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Total biscuits in the box}    &= 8 + 12 + \dfrac {1} {3} \times 12 \\\\
+                                     &= 20 + \dfrac {12} {3} \\\\
+                                     &= 20 + \dfrac {4 \times 3} {3} \\\\
+                                     &= 20 + \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
+                                     &= 20+ 4 \\\\
+                                     &= 24
+\end{aligned}
+$
+
+There are $24$ biscuits in the box.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One angle of a triangle is $30 \degree$. The second angle is twice the size of the third. What is the largest angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle $= a$
+
+As per the question, the second angle $= 2a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 2a + 30     &= 180  \\\\
+3a + 30         &= 180  \\\\
+3a              &= 180 - 30  \\\\
+3a              &= 150  \\\\
+a               &= \dfrac {150} {3}  \\\\
+a               &= \dfrac {50 \times 3} {3}  \\\\
+a               &= \dfrac {50 \times \cancel{3}}{\cancel{3}}   \\\\
+a               &= 50 \degree
+\end{aligned}
+$
+
+We know the size of the third angle now. 
+However, we need to find the largest angle which is the second angle.
+
+$
+\begin{aligned}
+\text{Largest angle} &= 2a  \\\\
+&= 2 \times 50  \\\\
+&= 100  \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>521214EB-CA81-4E61-8F79-5E1BF8007C95</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jo writes down a two digit number. When she reverses the digits and subtracts the smaller 
+number from the larger number the answer she gets is $36$. What is the difference between the 
+two digits in her original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the tens digit for the number $= a$
+
+Let the unit digit for the number $= b$
+
+Value of the original number $= 10a + b$
+
+When the digits are reversed, the value of the reversed number $= 10b + a$
+
+As per the question,
+
+$
+\begin{aligned}
+(10a + b)- (10b + a)    &= 36 \\\\
+10a + b- 10b - a        &= 36 \\\\
+9a -9b                  &= 36 \\\\
+9 (a - b)               &= 36 \\\\
+a - b                   &= \dfrac {36}{9} \\\\
+a - b                   &= 4
+\end{aligned}
+$
+
+The difference between the two digits in her original number is $= 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>891C1C55-B5B1-425B-8595-6A3DDCA6BB8B</p>
@@ -13894,10 +17289,10 @@ $150 \ \text {grams}$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -13964,6 +17359,9 @@ $108 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -14013,10 +17411,146 @@ $42$
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
+<p>1A6AB009-2F49-47AF-BA34-6312AA658C67</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John the electrician needs to cut three lengths of wire from the $5 \ \text{metre}$ roll he has brought with him to do a job. The three lengths he cuts are $85 \ \text{cm}$, $2.5 \ \text{metre}$s and $650 \ \text{mm}$. How much wire (in cms) will he have left after cutting off his lengths?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the left over wire (in $\text {cm}$) $= w$.
+
+It is really important to use the right units in calculations and convert where required. The wire measurement are given in multiple units.
+
+Let's convert all the measurements into $\text{cm}$.
+
+As per the question,
+
+$
+\begin {aligned}
+85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w                                               &= 5 \ \text {metre} \\\\
+85 \ \text {cm} +  2.5 \times 100 \ \text {cm} + \dfrac {650} {10} \ \text {cm} + w                         &= 5 \times 100 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + \dfrac {65 \cancel {0}} {1 \cancel {0}} \ \text {cm} + w              &= 500 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + 65 \ \text {cm} + w                                                   &= 500 \ \text {cm} \\\\
+85  + 250  + 65 + w                                                                                         &= 500  \\\\
+400 + w                                                                                                     &= 500 \\\\
+w                                                                                                           &= 500 - 400 \\\\
+w                                                                                                           &= 100 \ \text {cm}
+\end {aligned}
+$
+
+The left over wire length is = $100\ \text {cm}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>1902F906-A937-4906-A778-A09ED836599C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tvolume
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two metal weights in the form of cuboids have the same volume.  One is $20 \ \text{cm}$ long, $16 \ \text{cm}$ wide and $9 \ \text{cm}$ high. 
+The other weight is $10 \ \text{cm}$ wide and $12 \ \text{cm}$ high. 
+
+What is its length if the volume of a cuboid is given by length x width x height?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the second cuboid (in $\text{cm}$) $= l$
+
+$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+
+As per the question, the two weights have the same volume. Using that we get,
+
+$
+\begin{aligned}
+10 \times 12 \times l   &=20 \times 16 \times 9 \\\\
+l                       &= \dfrac {20 \times 16 \times 9} {10 \times 12} \\\\
+l                       &= \dfrac {2 \times 10 \times 4 \times 4 \times 3 \times 3} {10 \times 4 \times 3} \\\\
+l                       &= \dfrac {2 \times 1\cancel{0} \times \cancel{4} \times 4 \times \cancel{3} \times 3} {1\cancel{0} \times \cancel{4} \times \cancel{3}} \\\\
+l                       &= 2 \times 4 \times 3 \\\\
+l                       &= 24 \ \text{cm}
+\end{aligned}
+$
+
+Length of the second cuboid $= 24 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
 <p>92ED95C5-5173-4603-A6B6-7ACBF5D59202</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -14095,10 +17629,10 @@ $16$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -14289,10 +17823,162 @@ $40 \degree$
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
+<p>99B771D4-952B-4603-BB61-6A63F668BA1F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Aidan was told to divide a certain number by $17$. Instead he divided the number by $7$ and got the answer $68$. What was the answer to the division he was supposed to do?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the original number $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {a}{7}   &= 68 \\\\
+a               &= 68 \times 7 \\\\
+a               &= 476
+\end{aligned}
+$
+
+Original number is $= 476$
+
+Let's find the actual answer Aidan should have got.
+
+$
+\begin{aligned}
+&= \dfrac {476} {17} \\\\
+&= \dfrac {28 \times 17} {17} \\\\
+&= \dfrac {28 \times \cancel {17}} {\cancel {17}} \\\\
+&= 28
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>4F58585B-5B01-496D-8865-FFF0FEAC8FD6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A piece of string is $160 \  \text{cm}$ long. It is formed into a rectangle whose length is three times its width. 
+Work out the area of the rectangle in $\text{square centimetres}$ $(\text{cm}^2)$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text {cm}$) $= w$
+
+Then as per the question, length of the rectangle $= 3w$
+
+$\text {Perimeter} = 2 \times (\text {length} + \text {width})$
+
+Equating the perimeter to length and width we get,
+
+$
+\begin {aligned}
+2 \times (3w + w)   &= 160 \\\\
+2 \times 4w         &= 160 \\\\
+8w                  &= 160 \\\\
+w                   &= \dfrac {160} {8} \\\\
+w                   &= 20 \ \text {cm}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+\text {Length}       &= 3w \\\\
+                     &= 3 \times 20 \\\\
+                     &= 60 \ \text {cm}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+                     &= 60 \times 20 \\\\
+                     &= 1200 \ \text {cm}^{2}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1200 \ \text {cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
 <p>99D0FFC6-A645-4175-8EA6-1E27EC96521C</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -14364,6 +18050,9 @@ $48 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -14424,12 +18113,291 @@ $35$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a triangle, the largest angle is two times the middle angle and the middle angle is three times the smallest angle. What is the size of the **largest** angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the smallest angle $= a$
+
+As per the question, 
+
+Middle angle $= 3a$
+
+Largest angle $= 6a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 3a + 6a     &= 180 \\\\
+10a             &= 180 \\\\
+a               &= \dfrac {180} {10} \\\\
+a               &= \dfrac {18\cancel{0}} {1\cancel{0}} \\\\
+a               &= 18 \degree
+\end{aligned}
+$
+
+We know the size of the smallest angle now.
+
+However, we need to find the largest angle.
+
+$
+\begin{aligned}
+\text{Largest angle}    &= 6a \\\\
+                        &= 6 \times 18 \\\\
+                        &= 108 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$108 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>200C8D82-5237-4C70-B9AC-2480E77462EA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the picture below is the net of a cube. What would be the total surface area of the outside of the cube when the net is made into the cube?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of the cube (in $\text{cm}$) $= a$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+3a      &= 15 \ \text{cm} \\\\
+a       &= \dfrac {15} {3} \\\\
+a       &= 5 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Surface area}  &= 6a^{2} \\\\
+                     &= 6 \times 5 \times 5 \\\\
+                     &= 150 \ \text{cm}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \ \text {cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>26E16C3C-4AED-4018-A4B3-041DDC0C4959</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tvolume
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bilal has made a box in the shape of a cuboid with sides $4 \ \text{cm}, 5 \ \text{cm}$ and $32 \ \text{cm}$. 
+He wants to make another **different** shaped box but with the **same** volume. 
+This box will have a height of $10 \ \text{cm}$ and a square base. What will be the length of the base?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the base (in $\text{cm}$) $= a$
+
+$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+
+As per the question, the two boxes have the same volume. Using that we get,
+
+$
+\begin{aligned}
+10 \times a \times a    &= 4 \times 5 \times 32 \\\\
+a^{2}                   &= \dfrac {4 \times 5 \times 32} {10} \\\\
+a^{2}                   &= \dfrac {2 \times 2 \times 5 \times 32} {2 \times 5} \\\\
+a^{2}                   &= \dfrac {2 \times \cancel{2} \times \cancel{5} \times 32} {\cancel{2} \times \cancel{5}} \\\\
+a^{2}                   &= 2 \times 32 \\\\
+a^{2}                   &= 64 \\\\
+a                       &= \sqrt{64} \\\\
+a                       &= 8 \ \text{cm}
+\end{aligned}
+$
+
+Length of the base $= 8 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>D5B7995B-1A69-47C2-AD74-3593471D778A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below shows a triangle [not drawn to scale]. 
+
+Calculate each of the angles marked $x$ and $y$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + 63 \degree          &= 180 \degree  \\\\
+x                       &= 180 - 63 \\\\
+x                       &= 117 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles in a triangle is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+y + 63 \degree + 88 \degree         &= 180 \degree \\\\
+y + 151                             &= 180 \\\\
+y                                   &= 180 - 151 \\\\
+y                                   &= 29 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$x = 117 \degree, \ \ y = 29 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>0A3C048F-79C4-49D7-B58E-976896702ECF</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -14542,6 +18510,9 @@ $5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -14641,6 +18612,79 @@ $352$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>93995941-DF79-4306-A16E-1B3F36315184</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the size of the angle marked $χ$ in the diagram below? [diagram not drawn to scale]
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the other angles in the triangle $=a, b$
+
+As we know, the sum of angles in a straight line is $180 \degree$.
+
+$
+\begin{aligned}
+a               &= 180 - 110 \\\\
+a              &= 70 \degree
+\end{aligned}
+$
+
+$
+\begin{aligned}
+b               &= 180 - 100 \\\\
+b              &= 80 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles in a triangle is $180 \degree$.
+
+$
+\begin{aligned}
+χ + a + b           &= 180 \\\\
+χ                   &= 180 - a - b \\\\
+χ                   &= 180 - 70 - 80 \\\\
+χ                   &= 180 - 150 \\\\
+χ                   &= 30 \degree \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \degree$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>

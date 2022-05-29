@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -68,6 +68,9 @@ $75$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -115,6 +118,9 @@ $66$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -161,6 +167,9 @@ $434$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -210,6 +219,9 @@ $23$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -257,6 +269,9 @@ $\pounds 0.52$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -309,6 +324,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -358,6 +376,9 @@ $52272$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -410,6 +431,9 @@ $\pounds 46200$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunitprompt
 </li>
 </ul>
@@ -456,6 +480,9 @@ $7400 \ \text{grams}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -497,6 +524,9 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -551,6 +581,9 @@ $90 \ \text {hours}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -603,6 +636,9 @@ $7325$
 <div class='topics'>
 <ul>
 <li>
+tdetailedmultiplication
+</li>
+<li>
 tdecimal
 </li>
 </ul>
@@ -649,12 +685,15 @@ $0.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_jn_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>C74F6145-1D9D-471D-9081-11DC74346EC6</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -678,7 +717,7 @@ $
 \begin{aligned}
     \text{Make-over programmes}                     & = \dfrac {2}{7} \ \text {of \ } 98 \ \text{hours}                  \\\\
     \text{Total Broadcast time}                     & = 98 \ \text{hours a week}                                         \\\\
-    \text{Total Broadcast time} \ 98 \ \text{hours} & = \dfrac {7}{7}                                                    \\\\ \test {So,}
+    \text{Total Broadcast time} \ 98 \ \text{hours} & = \dfrac {7}{7}                                                    \\\\ \text {So,}
     \text{Celebrity gossip}                         & = \dfrac {7}{7} - \dfrac {2}{7}\ \text {of \ } 98 \ \ \text{hours} \\\\
                                                     & = \dfrac {7-2}{7}                                                  \\\\
                                                     & = \dfrac {5}{7}                                                    
@@ -718,17 +757,20 @@ $70 \ \text{hours}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_jn_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_jn_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>79E27990-373F-47F4-8BF5-B595A17F83E7</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -781,7 +823,7 @@ The coffee making takes $2 \ \text{minutes}$, which I can do while my bread is g
 <div class='answers'>
 <div class='answer'>
 
-$\underline {{\text {Jonathan is wrong because I can manage making a coffee in a machine and toasting the breast in a toaster as a parallel task.}}$ 
+$\underline {{\text {Jonathan is wrong because I can manage making a coffee in a machine and toasting the breast in a toaster as a parallel task.}}}$ 
 
 </div>
 </div>
@@ -831,7 +873,7 @@ $4 \ \text{minutes}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_jn_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -842,6 +884,9 @@ $4 \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tspeed
 </li>
@@ -914,6 +959,9 @@ She travelled altogether $= 60 \ \text{miles}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -1019,6 +1067,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tspeed
 </li>
 </ul>
@@ -1113,6 +1164,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -1165,6 +1219,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -1336,6 +1393,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpermutation
 </li>
 </ul>
@@ -1433,6 +1493,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 <li>
@@ -1494,6 +1557,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 testimate
 </li>
@@ -1565,6 +1631,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -1737,6 +1806,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -1802,6 +1874,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -2227,6 +2302,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgraph
 </li>
 </ul>
@@ -2478,6 +2556,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -2615,6 +2696,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>

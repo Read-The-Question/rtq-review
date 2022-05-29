@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-g1"
 title: "Topic - Probability - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -109,6 +109,9 @@ $4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprobability
 </li>
 </ul>
@@ -150,6 +153,130 @@ $17$
 
 <div class='papername'>
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>FA4F6584-F867-4263-B1CA-F813E4733C7A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgraph
+</li>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$16$ cards each have a letter on them. The chart below shows how many with each letter on them.
+
+![missing image](/papers/missing_image.svg)
+
+I pick a card with a $D$ on it and don’t put it back.
+
+If I pick another card, what is the probability it will have a $C$ on it?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the graph,
+
+Total cards with D left after one card is removed $4 - 1 = 3$ 
+
+$
+\begin{aligned} 
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {4} {1 + 2 + 4 + 3 + 3 + 2} \\\\
+                    &= \dfrac {4} {15}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {15}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>2B0B43F3-6E8B-41F9-A516-B83235232CD8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgraph
+</li>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$16$ cards each have a letter on them. The chart below shows how many with each letter on them.
+
+![missing image](/papers/missing_image.svg)
+
+I pick a card with an $E$ on it and don’t put it back.
+
+If I pick another card, what is the probability it will have a $F$ on it?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the graph,
+
+Total cards with D left after one card is removed $3 - 1 = 2$ 
+
+$
+\begin{aligned} 
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {2} {1 + 2 + 4 + 4 + 2 + 2} \\\\
+                    &= \dfrac {2} {15}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {15}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -316,59 +443,6 @@ $\dfrac {5} {9}$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>7B83BD4F-38FE-4088-BDD0-C94A2203662F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a car park there are $48$ cars. $\dfrac{3}{8}$ of the cars are blue and $25\%$ of the cars are red. How many cars are neither blue nor red?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Cars neither blue nor red}              &= \text{Total cars - Blue cars - Red cars}  \\\\
-                                              &= 48 - \dfrac {3} {8} \times 48 - 25\% \times 48 \\\\
-                                              &= 48 - \dfrac {3 \times 48} {8} - \dfrac {25 \times 48} {100} \\\\
-                                              &= 48 - \dfrac {3 \times 6 \times 8} {8} -  \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
-                                              &= 48 - \dfrac {3 \times 6 \times \cancel{8}} {\cancel{8}}  -\dfrac {\cancel{25} \times \cancel{4} \times 12} {\cancel{25} \times \cancel{4}} \\\\
-                                              &= 48 - 3 \times 6 - 12 \\\\
-                                              &= 48 - 18 - 12 \\\\
-                                              &= 18
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -633,6 +707,55 @@ $\dfrac {13} {18}$
 </div>
 <div class='rag'>
 <p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>3C2D79BD-AEA4-4564-8DED-BB94FFC30951</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alison has $6$ yellow discs, $5$ blue discs and $9$ red discs which she places in a bag. 
+When she draws one disc out, what is the probability that the disc is **NOT** red?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+**NOT** selecting a red disc is same as selecting a blue or yellow disc instead.
+
+$
+\begin{aligned} 
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+&= \dfrac {6 + 5} {6 + 5 + 9} \\\\
+&= \dfrac {11} {20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {11} {20}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-pr"
 title: "Topic - Sequence - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -196,6 +196,9 @@ $26$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -387,6 +390,9 @@ $60, 7.5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -459,6 +465,9 @@ $8, 13$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -508,7 +517,7 @@ $
 &&  \footnotesize{\maroonC{(+2)}}
 &&  \footnotesize{\maroonC{(+2)}}
 &&  \footnotesize{\maroonC{(+2)}}  \\
-3,  &&   5,  &&   7,  &&   9,  &&   \ldots  &&   \ldots
+3,  &&  5,  &&  7,  &&  9,  &&  \ldots, &&  \ldots
 \end{matrix}
 $
 
@@ -558,7 +567,7 @@ $
 &&  \footnotesize{\maroonC{(+1.2)}}
 &&  \footnotesize{\maroonC{(+1.2)}}
 &&  \footnotesize{\maroonC{(+1.2)}}  \\
-5.1,  &&   6.3,  &&   7.5,  &&   8.7,  &&   \ldots  &&   \ldots
+5.1,    &&  6.3,    &&  7.5,    &&  8.7,    &&  \ldots, &&  \ldots
 \end{matrix}
 $
 
@@ -608,7 +617,7 @@ $
 &&  \footnotesize{\maroonC{(\times 3)}}
 &&  \footnotesize{\maroonC{(\times 3)}}
 &&  \footnotesize{\maroonC{(\times 3)}}  \\
-1,  &&   3,  &&   9,  &&   27,  &&   \ldots  &&   \ldots
+1,  &&  3,  &&  9,  &&  27, &&  \ldots, &&  \ldots
 \end{matrix}
 $
 
@@ -658,7 +667,7 @@ $
 &&  \footnotesize{\maroonC{(\times 2)}}
 &&  \footnotesize{\maroonC{(\times 2)}}
 &&  \footnotesize{\maroonC{(\times 2)}}  \\
-0.3,  &&   0.6,  &&   1.2,  &&   2.4,  &&   \ldots  &&   \ldots
+0.3,    &&  0.6,    &&  1.2,    &&  2.4,    &&  \ldots,  &&  \ldots
 \end{matrix}
 $
 
@@ -708,7 +717,7 @@ $
 &&  \footnotesize{\maroonC{(-4)}}
 &&  \footnotesize{\maroonC{(-4)}}
 &&  \footnotesize{\maroonC{(-4)}}  \\
-15,  &&   11,  &&   7,  &&   3,  &&   \ldots  &&   \ldots
+15, &&  11, &&  7,  &&  3,  &&  \ldots,  && \ldots
 \end{matrix}
 $
 
@@ -749,6 +758,9 @@ $-1, -5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -949,68 +961,13 @@ $39, \quad 52$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>38069E88-D243-49CC-BCD6-9BF82C104E6B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Liam started with the number $2$ and counted up in $3$s.
-He got the numbers $2, 5, 8, 11, \ldots$
-
-Louise started with the number $3$ and counted up in $2$s. She got the numbers $3, 5, 7, 9, \ldots$
-
-What is the difference between Liam's $50 \text{th}$ number and Louise's $50 \text{th}$ number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
- 
-Let Liam's $50 \text{th}$ number $= a$.
-
-Let Louise's $50 \text{th}$ number $= b$.
-
-$
-\begin {aligned}
-\text {Difference between Liam's 50th number and Louise's 50th number}  &= a - b \\\\
-                                                                        &= (2 + 3 \times 49) - (3 + 2 \times 49) \\\\
-                                                                        &= (2 + 147) - (3 + 98) \\\\
-                                                                        &= 149 - 101 \\\\
-                                                                        &= 48
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>C3A742AC-6B5D-47FB-8A76-E187A7C93BDE</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -1073,6 +1030,9 @@ $50$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -1125,7 +1085,7 @@ $
 &&  \footnotesize {\maroonC {(+4)} }
 &&  \footnotesize {\maroonC {(+4)} }
 &&  \footnotesize {\maroonC {(+4)} }  \\
-7,  &&    11,  &&  15,  &&   19,  &&   \ldots  &&   \ldots
+7,  &&    11,  &&  15,  &&   19,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
 
@@ -1178,7 +1138,7 @@ $
 &&  \footnotesize {\maroonC {(\div 2)} }
 &&  \footnotesize {\maroonC {(\div 2)} }
 &&  \footnotesize {\maroonC {(\div 2)} }  \\
-96,  &&    48,  &&  24,  &&   12,  &&   \ldots  &&   \ldots
+96,  &&    48,  &&  24,  &&   12,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
 
@@ -1222,6 +1182,8 @@ $
 
 Let's find the difference between the consecutive terms of the sequence.
 
+The next term is calculated by adding $1$ more to difference between the previous sequence. Hence, the sequence would be:
+
 $
 \begin {matrix}
 &   \footnotesize {\maroonC {(+2)} }
@@ -1229,7 +1191,7 @@ $
 &&  \footnotesize {\maroonC {(+4)} }
 &&  \footnotesize {\maroonC {(+5)} }
 &&  \footnotesize {\maroonC {(+6)} }  \\
-2,  &&    4,  &&  7,  &&   11,  &&   \ldots  &&   \ldots
+2,  &&    4,  &&  7,  &&   11,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
 
@@ -1266,183 +1228,13 @@ $16, \ 22$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This question concerns the number sequence that is starting at '$100$', then repeatedly following four steps: adding $2$,
-dividing by $2$, adding $1$, multiplying by $2$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The first two numbers are $100$ and $102$. What are the next three numbers in the sequence?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Third number in the sequence}     &= (((102 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((104 \div 2) +1) \times 2 \\\\
-                                        &= (52 +1) \times 2 \\\\
-                                        &= 53 \times 2 \\\\
-                                        &= 106 \\\\
-\text{Fourth number in the sequence}    &= (((106 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((108 \div 2) +1) \times 2 \\\\
-                                        &= (55 +1) \times 2 \\\\
-                                        &= 55 \times 2 \\\\
-                                        &= 110 \\\\
-\text{Fifth number in the sequence}     &= (((110 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((112 \div 2) +1) \times 2 \\\\
-                                        &= (56 +1) \times 2 \\\\
-                                        &= 57 \times 2 \\\\
-                                        &= 114
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$106, 110, 114$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which number comes after $108$ in the sequence?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Next number after 108}            &= (((108 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((110 \div 2) +1) \times 2 \\\\
-                                        &= (55 +1) \times 2 \\\\
-                                        &= 56 \times 2 \\\\
-                                        &= 112
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$112$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The $21 \text{st}$ number is $120$ and the $22 \text{nd}$ number is $122$. 
-
-What is the $24 \text{th}$ number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{23rd number}                      &= (((122 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((124 \div 2) + 1) \times 2 \\\\
-                                        &= (62 + 1) \times 2 \\\\
-                                        &= 63 \times 2 \\\\
-                                        &= 126 \\\\
-\text{24th number}                      &= (((126 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((128 \div 2) + 1) \times 2 \\\\
-                                        &= (64 + 1) \times 2 \\\\
-                                        &= 65 \times 2 \\\\
-                                        &= 130
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$130$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>47724B7C-71A5-4E55-B831-A798B3984E25</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -1748,6 +1540,9 @@ $\dfrac {2} {3}, \dfrac {2} {9}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -1796,6 +1591,9 @@ $10$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -1936,6 +1734,9 @@ $25, 36$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -1999,6 +1800,9 @@ $18$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -2312,6 +2116,9 @@ $64$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -2509,6 +2316,9 @@ $16, -32$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -2568,6 +2378,9 @@ $35$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -2807,6 +2620,9 @@ $13, \ 21$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 <li>
@@ -2905,6 +2721,9 @@ Largest $= \dfrac {2} {5}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 <li>
@@ -2957,6 +2776,9 @@ $0.92> \quad 0.909> \quad 0.9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -3146,6 +2968,9 @@ $70, 60$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -3329,6 +3154,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -3567,6 +3395,9 @@ $9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -3816,6 +3647,9 @@ $29, 40$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -4002,6 +3836,9 @@ $594$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -4254,6 +4091,9 @@ $0.16, 0.032$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -4517,6 +4357,9 @@ $13, 21$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -4776,6 +4619,9 @@ $122, 365$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -5034,6 +4880,9 @@ $\dfrac {1} {16}, \quad \dfrac {1} {64}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -5177,6 +5026,9 @@ $24, 3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -5316,6 +5168,9 @@ $-1, -7$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -5382,6 +5237,9 @@ $\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -5450,6 +5308,9 @@ $315, 240$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -5570,6 +5431,9 @@ $16,32,64$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -5644,6 +5508,9 @@ $3,-1$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -5720,6 +5587,9 @@ $50$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -5862,6 +5732,9 @@ $17 - 4n$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -5936,6 +5809,9 @@ $6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -5997,6 +5873,9 @@ $A = 14$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -6066,6 +5945,9 @@ $28$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -6130,6 +6012,9 @@ $11, 12 \dfrac{1}{2}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -6192,6 +6077,9 @@ $\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -6241,6 +6129,9 @@ $0.092$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -6445,6 +6336,9 @@ $27, \ 81$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -6573,72 +6467,15 @@ $48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>23C2C66A-F265-4FF5-8FF4-FAF4BF40218D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write a number in the box to complete the number pattern below:
-
-$45  \quad 53 \quad \boxed{\phantom{55}}  \quad 69$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $8$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC {(+8)} } 
-&&  \footnotesize {\maroonC {(+8)} }  
-&&  \footnotesize {\maroonC {(+8)} } \\
-45,  &&    53,  &&   \ldots,  &&   69
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {Missing number} &= 53 + 8 \\\\
-                       &= 61
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$61$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -6691,6 +6528,9 @@ $0.603$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -6753,6 +6593,9 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{55}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -6810,168 +6653,15 @@ $95, 191$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>88DB0446-3822-4E24-9EE8-BAD9AAF0EC47</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the missing number in this list?
-
-$75, \quad 66, \quad \ldots, \quad 48, \quad 39$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $- 9$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(- 9)}} 
-&&  \footnotesize{\maroonC{(- 9)}} 
-&&  \footnotesize{\maroonC{(- 9)}}   
-&&  \footnotesize{\maroonC{(- 9)}}  \\
-75,  &&    66,  &&     \ldots,  &&   48,  &&   39
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 66 - 9 \\\\
-                        &= 57
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$57$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>D4788CA3-B338-4047-8521-069529293876</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-<li>
-ttrialerror
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Andy works out the sums of numbers as follows $1 + 2, 1 + 2 + 3, 1 + 2 + 3 + 4$ and so on. What is the first of these sums of numbers that is greater than $80$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-This is a triangular number sequence.
-
-Let's start with numbers starting with $= 10$.
-
-As we need to find the sum adding up to $80$, let's start with first $10$ numbers.
-
-We also use the result from the previous calculation to save effort.
-
-| Number    |         Sum                                           | $> 80$
-|:------:   |:----------------------------------------------------: | :-----:
-|  $10$     | $1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = \red{55}$   |  No
-|  $11$     | $\text{Sum}(10) + 11 = \red{66}$                      |  No
-|  $12$     | $\text{Sum}(11) + 12 = \red{78}$                      |  No
-|  $11$     | $\text{Sum}(12) + 13 = \green{91}$                    |  Yes
-
-Answer $= 91$
-
-</div>
-<div class='working'>
-
-Is there any way other than using trial and error? This is a sum of whole numbers in a sequence and we can use the formula for the sum of whole numbers.
-
-$\text{Sum} = \dfrac {n (n+1)}{2}$ 
-
-Let's try for $n = 12$.
-
-$
-\begin{aligned}
-&= \dfrac { 12 (12 + 1)}{2} \\\\
-&= \dfrac { 12 \times 13 }{2} \\\\
-&= \dfrac { 6 \times 2 \times 13 }{2} \\\\
-&= \dfrac { 6 \times \cancel{2} \times 13 }{\cancel{2}} \\\\
-&= 6 \times 13 \\\\
-&= 78
-\end{aligned}
-$
-
-$78$ is less than $80$, so let's try for $n = 13$.
-
-$
-\begin{aligned}
-&= \dfrac { 13 (13 + 1)}{2} \\\\
-&= \dfrac { 13 \times 14 }{2} \\\\
-&= \dfrac { 13 \times 7 \times 2 }{2} \\\\
-&= \dfrac { 13 \times 7 \times \cancel{2} }{\cancel{2}} \\\\
-&= 13 \times 7 \\\\
-&= 91
-\end{aligned}
-$
-
-$91$ is greater than $80$.
-
-Answer $= 91$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$91$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>2349EC95-009A-4E52-B1CF-35DE1F43DFBA</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -7031,6 +6721,9 @@ $69$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -7093,6 +6786,9 @@ $5.9$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -7144,72 +6840,15 @@ $129$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>4066AA9A-0380-459C-81DF-A2F9AAEC3DE5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the missing number in this list?
-
-$101, \quad 86, \quad 74, \quad 65, \quad \ldots, \quad 56$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(-15)}}
-&&  \footnotesize{\maroonC{(-12)}}
-&&  \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-6)}}
-&&  \footnotesize{\maroonC{(-3)}} \\
-101,  &&      86,  &&      74,   &&      65,  &&      \ldots,  &&      56\\\\
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 65 - 6 \\\\
-                        &= 59
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$59$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
 <p>1471A425-F628-4303-8DA0-7BB245A45C26</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -7289,6 +6928,9 @@ Second line : $6^2 + 13 = 49$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 <li>
@@ -7366,6 +7008,9 @@ As 1330 is not a multiple of 30, it is not in the sequence given.
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -7451,6 +7096,9 @@ Missing numbers : 10, 17, 24
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -7526,6 +7174,9 @@ Missing Numbers : $3 , 27 , 81$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -7707,6 +7358,9 @@ $16$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -7944,6 +7598,9 @@ $7$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>

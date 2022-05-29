@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Alderley Edge School for Girls</h1>
@@ -22,6 +22,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -71,6 +74,9 @@ $360$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -117,6 +123,9 @@ $13$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfactor
 </li>
@@ -168,6 +177,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 </ul>
@@ -213,6 +225,9 @@ $2400 \ \text{g}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -263,6 +278,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnoexplanation
 </li>
 </ul>
@@ -302,6 +320,9 @@ $11$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -365,6 +386,9 @@ $\dfrac{6}{8}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttrialerror
 </li>
 </ul>
@@ -413,6 +437,9 @@ $ (3 \times (4 - 2)) + 3 = 9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -466,6 +493,9 @@ $\pounds 16$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -514,6 +544,9 @@ $7 : 58$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 </ul>
@@ -561,6 +594,9 @@ $7 \degree \text{C}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -605,6 +641,9 @@ $\pounds 2.76$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -658,6 +697,9 @@ $9$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -707,6 +749,9 @@ $\pounds 16$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -727,13 +772,15 @@ How much more does she need to reach $\pounds 5$?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin {aligned}
 \text {Amount collected}    &= 35 \times 5 \text {p} \\\\
                             &= 35 \times \pounds \dfrac {5} {100} \\\\
-                            &= \dfrac {5 \times 35} {100} \\\\
-                            &= \dfrac {5 \times 5 \times 7} {5 \times 5 \times 4} \\\\
-                            &= \dfrac {\cancel {5} \times \cancel {5} \times 7} {\cancel {5} \times \cancel {5} \times 4} \\\\
+                            &= \dfrac {35 \times 5} {100} \\\\
+                            &= \dfrac {5 \times 7 \times 5} {5 \times 5 \times 4} \\\\
+                            &= \dfrac {\cancel {5} \times 7 \times \cancel {5}} {\cancel {5} \times \cancel {5} \times 4} \\\\
                             &= \dfrac {7} {4} \\\\
                             &= \pounds 1.75 \\\\
 \text {Amount needed}       &= \pounds 5 - \pounds 1.75 \\\\
@@ -766,6 +813,9 @@ $\pounds 3.25$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -819,6 +869,9 @@ $\pounds 3.20$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -836,10 +889,10 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Number of pieces}    &= \dfrac {\text {Total length of the string}} {\text {Length of a piece}} \\\\
-                            &= \dfrac {50 \ \text {cm}} {6 \ \text {cm}} \\\\
-                            &= 8 \dfrac {2} {6} \\\\
-                            &= 8
+\text {No. of pieces}   &= \dfrac {\text {Total length of the string}} {\text {Length of a piece}} \\\\
+                        &= \dfrac {50 \ \text {cm}} {6 \ \text {cm}} \\\\
+                        &= 8 \dfrac {2} {6} \\\\
+                        &= 8 \ \text {pieces}
 \end {aligned}
 $
 
@@ -848,7 +901,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8$
+$8 \ \text {pieces}$
 
 </div>
 </div>
@@ -868,6 +921,9 @@ $8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -918,6 +974,9 @@ $85 \%$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -970,6 +1029,9 @@ $11$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -1019,6 +1081,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfactor
 </li>
@@ -1077,7 +1142,7 @@ TODOANSWER
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -1129,6 +1194,9 @@ $79\degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1195,6 +1263,9 @@ $25 \ \text{cm}^{2}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 </ul>
@@ -1247,9 +1318,6 @@ TODOANSWER
 <li>
 tgraph
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1298,6 +1366,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1348,6 +1419,9 @@ $0$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -1377,6 +1451,7 @@ $
 \dfrac {1} {2} \times 6 \ \text {cm} \times 4 \ \text {cm}      &= \dfrac {1} {2} \times 8 \ \text {cm} \times a \\\\
 \dfrac {1} {2} \times 24                                        &= \dfrac {8} {2} \times a \\\\
 \dfrac {24} {2} \times \dfrac {2} {8}                           &= a \\\\
+a                                                               &= \dfrac {24} {2} \times \dfrac {2} {8} \\\\
 a                                                               &= \dfrac {24 \times 2} {2 \times 8} \\\\
 a                                                               &= \dfrac {3 \times 8 \times 2} {2 \times 8} \\\\
 a                                                               &= \dfrac {3 \times \cancel {8} \times \cancel {2}} {\cancel {2} \times \cancel {8}} \\\\
@@ -1409,6 +1484,9 @@ $3 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1465,6 +1543,9 @@ $3.5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -1513,6 +1594,9 @@ $\dfrac {1} {2}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -1570,6 +1654,9 @@ $14$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -1642,6 +1729,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -1700,6 +1790,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -1864,6 +1957,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -2022,6 +2118,9 @@ $50$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -2072,6 +2171,9 @@ D
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2246,6 +2348,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 </ul>
@@ -2417,6 +2522,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -2544,6 +2652,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -2603,6 +2714,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -2664,6 +2778,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -2776,6 +2893,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunitprompt
 </li>
 </ul>
@@ -2798,10 +2918,10 @@ Give your answer in millimetres.
 
 Lets convert all units of volume into milliliters,
 
-| Container |   Conversion                           | in millilitres    |
+| Container |             Conversion                 |   in millilitres  |
 |-----------|----------------------------------------|-------------------|
-|     A     |    750 millilitres                     |   750 millilitres |
-|     B     |    0.5 \times 1000 = 500 millilitres   |   500 millilitres |
+|    A      |    750 millilitres                     |   750 millilitres |
+|    B      |    0.5 \times 1000 = 500 millilitres   |   500 millilitres |
 
 Container A holds the greater amount.
 
@@ -2819,7 +2939,7 @@ Container A holds $250 \ \text {milliliters}$ more than container B.
 <div class='answers'>
 <div class='answer'>
 
-$250 \ \text{ milliliters}$
+$250 \ \text{milliliters}$
 
 </div>
 </div>
@@ -2839,6 +2959,9 @@ $250 \ \text{ milliliters}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -2954,6 +3077,9 @@ $270$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -3012,6 +3138,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -3064,6 +3193,9 @@ $\text{1. } 8 \text{ cm} \times 3 \text{ cm}, \text{2. } 4 \text{ cm} \times 6 \
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -3184,12 +3316,12 @@ $
 <div class='workings'>
 <div class='working'>
 
-| Expression           | $x = -4$                  | $x = 4$                 | Equal or not |
+| Expression           |        $x = -4$           |        $x = 4$          | Equal or not |
 |----------------------|---------------------------|-------------------------|--------------|
-| $y = 2x$             | y = 2 \times -4 = -8      | y = 2 \times 4 = 8      | No           |
-| $y = 2 + x$          | y = 2 + (-4) = -2         | y = 2 + 4 = 6           | No           |
-| $y = x ^2$           | y = (-4) ^ 2 = 16         | y = 4 ^ 2 = 16          | Yes          |
-| $y = \dfrac {x} {2}$ | y = \dfrac {-4} {2} = -2  | y = \dfrac {4} {2} = 2  | No           |
+| $y = 2x$             | y = 2 \times -4 = -8      | y = 2 \times 4 = 8      |     No       |
+| $y = 2 + x$          | y = 2 + (-4) = -2         | y = 2 + 4 = 6           |     No       |
+| $y = x ^2$           | y = (-4) ^ 2 = 16         | y = 4 ^ 2 = 16          |     Yes      |
+| $y = \dfrac {x} {2}$ | y = \dfrac {-4} {2} = -2  | y = \dfrac {4} {2} = 2  |     No       |
 
 $y = x ^ 2$ gives the same value if $y$ for both $x = 4$ and $x = -4$.
 
@@ -3223,9 +3355,6 @@ $y = x ^ 2$
 <ul>
 <li>
 tprobability
-</li>
-<li>
-ttable
 </li>
 </ul>
 </div>
@@ -3364,6 +3493,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -3559,6 +3691,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 </ul>
@@ -3618,6 +3753,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -3751,6 +3889,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -3784,7 +3925,7 @@ Work out
 <div class='question subquestion'>
 
 $
-\dfrac{1 \times 2 \times 3 \times 4 \times 5}{1 \times 2 \times 3} 
+\dfrac{1 \times 2 \times 3 \times 4 \times 5}{1 \times 2 \times 3}
 = 
 \text{\textunderscore \textunderscore \textunderscore}
 $
@@ -3796,7 +3937,7 @@ $
 $
 \begin{aligned}
 &= \dfrac {1 \times 2 \times 3 \times 4 \times 5} {1 \times 2 \times 3} \\\\
-&= \dfrac {\cancel {1} \times \cancel {2} \times \cancel {3} \times 4 \times 5} {\cancel {1} \times \cancel {2} \times \cancel {3} } \\\\
+&= \dfrac {\cancel {1} \times \cancel {2} \times \cancel {3} \times 4 \times 5} {\cancel {1} \times \cancel {2} \times \cancel {3}} \\\\
 &= 4 \times 5 \\\\
 &= 20
 \end{aligned}
@@ -3834,9 +3975,9 @@ $
 
 $
 \begin{aligned}
-&= \dfrac{(1 \times 2 \times 3 \times 4 \times 5)^{2} }{(1 \times 2 \times 3)^{2}} \\\\
-&= \dfrac{(1 \times 2 \times 3 ) ^ {2}  \times (4 \times 5)^{2} }{(1 \times 2 \times 3)^{2}} \\\\
-&= \dfrac{\cancel{(1 \times 2 \times 3 ) ^ {2}}  \times (4 \times 5)^{2} }{\cancel{(1 \times 2 \times 3)^{2}}} \\\\
+&= \dfrac{(1 \times 2 \times 3 \times 4 \times 5)^ {2}} {(1 \times 2 \times 3) ^ {2}} \\\\
+&= \dfrac{(1 \times 2 \times 3 ) ^ {2}  \times (4 \times 5)^{2}} {(1 \times 2 \times 3) ^ {2}} \\\\
+&= \dfrac{\cancel{(1 \times 2 \times 3 ) ^ {2}}  \times (4 \times 5) ^ {2}} {\cancel{(1 \times 2 \times 3)^{2}}} \\\\
 &= (4 \times 5 ) ^ 2 \\\\
 &= 20 ^ 2 \\\\
 &= 20 \times 20 \\\\
@@ -3872,6 +4013,9 @@ $400$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -3930,6 +4074,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -4021,6 +4168,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -4200,6 +4350,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -4342,10 +4495,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tgeometry
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -4402,6 +4555,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -4463,6 +4619,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -4611,6 +4770,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tnumber
+</li>
 <li>
 tdecimal
 </li>

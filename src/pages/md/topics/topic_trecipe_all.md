@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-trecipe-all"
 title: "Topic - Recipe - All"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 trecipe
 </li>
@@ -139,6 +142,9 @@ $60$ cupcakes
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 <li>
@@ -193,6 +199,9 @@ $225 \ \text{g flour}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -249,6 +258,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -303,6 +315,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -461,6 +476,9 @@ $28$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 trecipe
 </li>
 <li>
@@ -579,6 +597,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 trecipe
 </li>
 </ul>
@@ -632,6 +653,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 trecipe
 </li>
@@ -752,6 +776,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 trecipe
 </li>
@@ -954,6 +981,9 @@ $210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{m
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 trecipe
 </li>
 <li>
@@ -1090,6 +1120,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 trecipe
 </li>
@@ -1300,6 +1333,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 trecipe
 </li>

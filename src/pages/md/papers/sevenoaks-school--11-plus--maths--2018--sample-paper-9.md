@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2018-sample-paper-9"
 title: "Sevenoaks School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -75,7 +78,7 @@ $
 \begin {aligned}
 \text {Total number of sweets}  &= 80 + 78 + 68 + 56 + 44 + 12 \\\\
                                 &= 158 + 124 + 56 \\\\
-                                &= 338 \ \ text {sweets}
+                                &= 338
 \end {aligned}
 $
 
@@ -84,7 +87,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$338 \ \text {sweets}$
+$338$
 
 </div>
 </div>
@@ -107,11 +110,11 @@ She shares the sweets equally amongst $13$ bags. How many sweets are in each bag
 
 $
 \begin {aligned}
-\text {Number of sweets a bag}  &= \dfrac {\text {Total number of sweets}} {\text {Number of bags}} \\\\
-                                      &= \dfrac {338} {13} \\\\
-                                      &= \dfrac {13 \times 26} {13} \\\\
-                                      &= \dfrac {\cancel {13} \times 26} {\cancel {13}} \\\\
-                                      &= 26 \ \text {sweets}
+\text {Sweets in each bag}  &= \dfrac {\text {Total sweets}} {\text {No. of bags}} \\\\
+                            &= \dfrac {338} {13} \\\\
+                            &= \dfrac {13 \times 26} {13} \\\\
+                            &= \dfrac {\cancel {13} \times 26} {\cancel {13}} \\\\
+                            &= 26
 \end {aligned}
 $
 
@@ -120,7 +123,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$26 \ \text {sweets}$
+$26$
 
 </div>
 </div>
@@ -143,6 +146,9 @@ $26 \ \text {sweets}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -185,9 +191,14 @@ How many seats are there in the concert hall?
 <div class='workings'>
 <div class='working'>
 
-Total seats $=$ Number of rows $\times$ Number of seats in each row
 
 $
+\begin {aligned}
+\text {Total seats}  &= \text {No. of rows} \times \text {No. of seats in each row} \\\\
+                     &= 128 \times 35
+\end {aligned}
+$
+
 \begin {array}{cccccccccccccc}
        &        &    1    &     2     &    8 \\
        & \times &         &     3     &    5 \\
@@ -229,14 +240,14 @@ If the concert hall is $75\%$ full, how many seats are **empty**?
 
 If the concert is $75 \%$ full, then the hall is $(100 \% - 75 \%) = 25 \%$ empty.
 
-Using this, we get
+Using this we get,
 
 $
 \begin {aligned}
 \text {Empty seats}  &= 25 \% \ \text {of} \ 4480 \\\\
                      &= \dfrac {25} {100} \times 4480 \\\\
                      &= \dfrac {25 \times 4480} {100} \\\\
-                     &= \dfrac {25 \times 4 \times 1140} {25 \times 4} \\\\
+                     &= \dfrac {25 \times 4 \times 1120} {25 \times 4} \\\\
                      &= \dfrac {\cancel {25} \times \cancel {4} \times 1120} {\cancel {25} \times \cancel {4}} \\\\
                      &= 1120
 \end {aligned}
@@ -264,12 +275,15 @@ $1120$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>93D7639A-7EFA-4748-8BCE-99A908F62670</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -446,7 +460,7 @@ $-2$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -457,6 +471,9 @@ $-2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -502,12 +519,15 @@ $7462$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>757DF606-973F-46EB-8D7C-1533BB3C6ED6</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -653,7 +673,7 @@ $325.5$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -664,6 +684,9 @@ $325.5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -703,12 +726,15 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>A61865AA-6630-4CE9-83F3-826FE700031F</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -742,7 +768,7 @@ $2, 3, 11$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -753,6 +779,9 @@ $2, 3, 11$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -881,6 +910,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -995,6 +1027,9 @@ $\dfrac {3} {7}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinequality
 </li>
@@ -1126,12 +1161,15 @@ $\dfrac {8} {7} \quad  >  \quad \dfrac {11} {13}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>233159F2-0892-43F4-B76A-47078777DA90</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1237,7 +1275,7 @@ $64$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -1248,6 +1286,9 @@ $64$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1270,11 +1311,11 @@ As per the question,
 $
 \begin {aligned}
 \dfrac {5} {6} \times a  &= 60 \\\\
-a                        &= \dfrac {6} {5} \times 60 \\\\
-a                        &= \dfrac {6 \times 60} {5} \\\\
-a                        &= \dfrac {6 \times 12 \times 5} {5} \\\\
-a                        &= \dfrac {6 \times \cancel{5} \times 12} {\cancel{5}} \\\\
-a                        &= 6 \times 12 \\\\
+a                        &= 60 \times \dfrac {6} {5} \\\\
+a                        &= \dfrac {60 \times 6} {5} \\\\
+a                        &= \dfrac {5 \times 12 \times 6} {5} \\\\
+a                        &= \dfrac {\cancel {5} \times 12 \times 6} {\cancel {5}} \\\\
+a                        &= 12 \times 6 \\\\
 a                        &= 72
 \end {aligned}
 $
@@ -1319,16 +1360,7 @@ $54$
 <div class='topics'>
 <ul>
 <li>
-ttable
-</li>
-<li>
-tfraction
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -1375,6 +1407,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1508,6 +1543,9 @@ $105 \ \text {degrees}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -1556,6 +1594,9 @@ $19.4 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1607,6 +1648,9 @@ $18 \ \text {cm} ^ 2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1673,6 +1717,9 @@ $98 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -1715,6 +1762,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -1767,6 +1817,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>

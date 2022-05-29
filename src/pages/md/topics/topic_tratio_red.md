@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-red"
 title: "Topic - Ratio - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -70,6 +73,9 @@ $1:4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 </ul>
@@ -117,6 +123,9 @@ $300 \ \text{g sugar}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -174,6 +183,9 @@ $4.565$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 <li>
@@ -224,6 +236,9 @@ $\pounds 0.23$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -287,6 +302,9 @@ $384$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 </ul>
@@ -334,6 +352,9 @@ $330 \ \text{g sugar}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -391,6 +412,9 @@ $4.565$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -441,6 +465,9 @@ $\pounds 0.22$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -498,6 +525,9 @@ $4.565$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 </ul>
@@ -546,6 +576,9 @@ $284 \ \text{ml}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -597,6 +630,9 @@ $\pounds 192$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -653,6 +689,9 @@ $225 \ \text{g flour}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 </ul>
@@ -700,12 +739,69 @@ $\dfrac {2} {5}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nm_red question'>
+<div class='uuid'>
+<p>2287967E-4500-459C-959D-1FB4C7C5EC7A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Cheese costs $\pounds 5.40$ per kg. Jessica buys $0.6\ \text{kg}$ of cheese. How much does Jessica pay? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+             1 \ \text {kg} &: \pounds 5.40 \\\\
+  1 \times 0.6 \ \text {kg} &: \pounds 5.40 \times 0.6 \\\\
+           0.6 \ \text {kg} &: \pounds 3.24 \\\\
+\end{aligned}
+$
+
+cost of $0.6$ kg cheese $= \pounds 3.24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nm_red</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_red question'>
 <div class='uuid'>
 <p>B40A7337-6CB2-482B-9E8A-9CDC6C2E5BC9</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -761,6 +857,9 @@ $\pounds 4.55$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -830,6 +929,9 @@ $12$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -1027,6 +1129,9 @@ $12 \text{ litres}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 </ul>
@@ -1108,6 +1213,9 @@ $750 \text{ ml}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 <li>
@@ -1187,6 +1295,9 @@ $140 \text { ml}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -1238,6 +1349,9 @@ $\pounds23.95$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -1439,6 +1553,9 @@ $150 \ \text {grams}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -1634,6 +1751,9 @@ $26$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 </ul>
@@ -1733,6 +1853,9 @@ $23.33 \ \text {litres}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -1894,6 +2017,9 @@ $100 \ \text {bags}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tlcm
 </li>
 <li>
@@ -1965,6 +2091,9 @@ $121$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>

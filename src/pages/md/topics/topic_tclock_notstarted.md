@@ -1,9 +1,182 @@
 ---
 slug: "topics/topic-tclock-notstarted"
 title: "Topic - Clock - Not Started"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>352F3C44-BB51-43E0-917D-DF972F69E92B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tclock
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bahia has arranged to meet her friend Emma at $15{:}30$, at a coffee shop which is five minutes’ walk from the station in Greyton.
+
+She has to catch a train in Aliston.
+
+The journey takes $40 \ \text{minutes}$ from Aliston to Greyton. There are trains at:
+
+$11{:}05, 11{:}35, 12{:}05, \allowbreak 12{:}35, 13{:}05, 13{:}35, \allowbreak 14{:}05, 14{:}35, 15{:}05, \allowbreak 15{:}35, 16{:}05$  etc.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the latest train Bahia can catch, so as not to be late meeting Emma?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Bahia does catch this train and it arrives on time. She walks straight to the coffee shop and waits there for her friend. 
+Emma is late and arrives when Bahia has been sitting there for $15 \ \text{minutes}$. At what time does Emma arrive at the coffee shop?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+While she waits, Bahia looks at the clock in the coffee shop.
+What angle does the minute hand turn through between $15{:}25$ and $15{:}35$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -13,9 +186,6 @@ date: 2022-05-28 14:33:22
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 </ul>
 </div>
@@ -70,9 +240,6 @@ TODOANSWER
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -126,6 +293,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -312,6 +482,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -531,9 +704,6 @@ TODOANSWER
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -584,9 +754,6 @@ TODOANSWER
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 <li>
 tdraw
@@ -754,6 +921,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 </ul>
@@ -808,9 +978,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
 <li>
 tclock
 </li>
@@ -939,9 +1106,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tangle
-</li>
-<li>
 tclock
 </li>
 </ul>
@@ -993,12 +1157,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
-<li>
-ttime
-</li>
 <li>
 tclock
 </li>
@@ -1207,9 +1365,6 @@ TODOANSWER
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1260,6 +1415,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 </ul>
@@ -1309,6 +1467,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -1475,6 +1636,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 </ul>
@@ -1527,6 +1691,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 </ul>
@@ -1577,6 +1744,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -1663,6 +1833,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -1795,6 +1968,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -1855,6 +2031,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 </ul>
@@ -1906,9 +2085,6 @@ TODOANSWER
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 </ul>
 </div>
@@ -2007,6 +2183,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -2054,6 +2233,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -2194,9 +2376,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tangle
-</li>
-<li>
 tclock
 </li>
 </ul>
@@ -2246,6 +2425,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2379,9 +2561,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
 <li>
 tclock
 </li>

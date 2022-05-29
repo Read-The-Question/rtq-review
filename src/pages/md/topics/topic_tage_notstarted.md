@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-notstarted"
 title: "Topic - Age - Not Started"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,6 +13,9 @@ date: 2022-05-28 14:33:22
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -67,6 +70,9 @@ TODOANSWER
 <li>
 tage
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -114,183 +120,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>39DAF11E-BE1E-4FE3-8CF7-F0280EB3A60A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttemperature
-</li>
-<li>
-ttime
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A car journey starts at $10{:}27 \ \text{am}$ and finishes at $1{:}24 \ \text{pm}$. 
-
-How many minutes did the journey take?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A child is $13$ years old and their parent is $40$ years old. 
-
-In how many years' time will it be before the parent is exactly twice the child's age?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-I am facing South East. I then turn $225$ degrees anticlockwise. 
-
-What direction am I facing now?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>EEC05C31-44AD-443D-9B34-915485681096</p>
 </div>
 <div class='topics'>
@@ -299,7 +128,7 @@ TODOANSWER
 tage
 </li>
 <li>
-tinfer
+talgebra
 </li>
 </ul>
 </div>
@@ -351,214 +180,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>F506E507-7A45-42B3-B41D-B307DB9B1B2C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tstatistics
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here are the ages of some dogs waiting at a vet clinic:
-
-$1, \quad 3, \quad 4, \quad 4, \quad 5, \quad 6, \quad 6, \quad 6, \quad 10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many dogs were there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the mode of the ages of all the dogs.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the total of the ages of all the dogs.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the mean of the ages of the dogs. Explain how you did it.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>C5C3BAF3-583A-4F15-9F82-00938336CDCD</p>
 </div>
 <div class='topics'>
@@ -567,7 +188,7 @@ TODOANSWER
 tage
 </li>
 <li>
-tinfer
+talgebra
 </li>
 </ul>
 </div>
@@ -618,6 +239,9 @@ TODOANSWER
 <ul>
 <li>
 tage
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -672,187 +296,15 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>66AC9193-2DC6-421F-960E-5D37904B2D3A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tstatistics
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The mean age of the five members of the `Macaroon $5$' boy band is $18$. 
-
-A new member joins the band. His age is $24$. 
-What is the new mean age of the group?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $4$ numbers which have a mean of $7$, a median of $8$ and a mode of $9$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The mean weight of $5$ children is $45 \ \text{kg}$.
-
-The mean weight of the lightest three children is $42 \ \text{kg}$ and the mean weight of the heaviest three children is $49 \ \text{kg}$. 
-
-What is the median weight of the children in kg?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>9046A85D-22E1-4908-9897-72940C50BAAE</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -905,6 +357,9 @@ TODOANSWER
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1176,6 +631,9 @@ TODOANSWER
 <li>
 tage
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1229,6 +687,9 @@ TODOANSWER
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1285,6 +746,9 @@ TODOANSWER
 <li>
 tage
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1335,6 +799,9 @@ TODOANSWER
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1490,7 +957,7 @@ TODOANSWER
 tage
 </li>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1534,10 +1001,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tdate
+tage
 </li>
 <li>
-tage
+tsimpleword
 </li>
 </ul>
 </div>

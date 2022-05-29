@@ -1,9 +1,385 @@
 ---
 slug: "topics/topic-tinfer-g1"
 title: "Topic - Infer - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>08EA488F-9096-42F2-947D-B325B679E4A3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+torder
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this question letters of the alphabet are assigned number values:
+
+$A = 1, B = 2, C = 3, D = 4,$ ....
+
+The **sum total** of a word is created by **adding** the value of the letters.
+
+For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the sum total of the word ‘$TANK$’?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {TANK}  &= 20 + 1 + 14 + 11 \\\\
+              &= 46
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$46$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+List the following words in order of their sum total, starting with the lowest:
+
+$DOG \quad CATS \quad FISH \quad BIRD$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, let's find the sum first. 
+
+$
+\begin{aligned}
+\text {DOG}     &= 4 + 15 + 7 \\\\
+                &= 26 \\\\
+\text {CATS}    &= 3 + 1 + 20 + 19 \\\\
+                &= 43 \\\\
+\text {FISH}    &= 6 + 9 + 19 + 8 \\\\
+                &= 42 \\\\
+\text {BIRD}    &= 2 + 9 + 18 + 4 \\\\
+                &= 33
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 26, \quad 33, \quad 42, \quad 43 \\\\
+&= \text {DOG}, \quad \text {BIRD}, \quad \text {FISH}, \quad \text {CATS}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {DOG}, \quad \text {BIRD}, \quad \text {FISH}, \quad \text {CATS}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which single letter has the same value as the result of dividing the sum total for ‘$JET$’ by the sum total of ‘$BAD$’?
+
+$JET \div BAD = \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the division $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a   &= \text {JET} \div \text {BAD} \\\\
+    &= \dfrac {\text {JET}} {\text {BAD}} \\\\
+    &= \dfrac {10 + 5 + 20} {2 + 1 + 4} \\\\
+    &= \dfrac {35} {7} \\\\
+    &= \dfrac {5 \times 7} {7} \\\\
+    &= \dfrac {5 \times \cancel {7}} {\cancel {7}} \\\\
+    &= 5
+\end{aligned}
+$
+
+The letter is $\text {E}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {E}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>93D90ADD-9783-488E-8E72-B211E323F0BD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tinfer
+</li>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this question letters of the alphabet are assigned number values:
+
+$A = 1, B = 2, C = 3, D = 4,$ ....
+
+The product value of a word is created by multiplying the value of the letters.
+
+For example: the product value of ‘$HEAD$’ $= 8 \times 5 \times 1 \times 4 = 160$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the product value of the word ‘$YES$’?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {YES} &= 25 \times 5 \times 19 \\\\
+            &= 125 \times 19 \\\\
+            &= 2375
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2375$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+List the following words in order of their product value, starting with the lowest:
+
+$DOG \quad CATS \quad FISH \quad BIRD$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, let's find the product first. 
+
+$
+\begin{aligned}
+\text {DOG}     &= 4 \times 15 \times 7 \\\\
+                &= 420 \\\\
+\text {CATS}    &= 3 \times 1 \times 20 \times 19 \\\\
+                &= 1140 \\\\
+\text {FISH}    &= 6 \times 9 \times 19 \times 8 \\\\
+                &= 8208 \\\\
+\text {BIRD}    &= 2 \times 9 \times 18 \times 4 \\\\
+                &= 1296
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 420, \quad 1140, \quad 1296, \quad 8208 \\\\
+&= \text {DOG}, \quad \text {CATS}, \quad \text {BIRD}, \quad \text {FISH}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {DOG}, \quad \text {CATS}, \quad \text {BIRD}, \quad \text {FISH}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which three letter English word can be inserted to complete the sum below (adding with the product value of ‘$BAG$’ to
+make the product value of ‘$GALA$’?
+
+$BAG + \ldots = GALA$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the letter $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {BAG} + a &= \text {GALA} \\\\
+a               &= \text {GALA} - \text {BAG} \\\\
+                &= 7 \times 1 \times 12 \times 1 - 2 \times 1 \times 7 \\\\
+                &= 84 - 14 \\\\
+                &= 70 \\\\
+                &= 2 \times 5 \times 7 \\\\
+                &= \text {BEG}
+\end{aligned}
+$
+
+The three letters are $\text {B}$, $\text {E}$, $\text {G}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {B}, \text {E}, \text {G}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
@@ -11,6 +387,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -71,6 +450,9 @@ $6280$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfactor
 </li>
 <li>
@@ -118,6 +500,9 @@ $42$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -171,6 +556,9 @@ $1537$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -286,6 +674,9 @@ $0$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -347,6 +738,9 @@ $5570$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -407,6 +801,9 @@ $14$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -448,6 +845,9 @@ $60$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -513,6 +913,9 @@ $9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -582,6 +985,9 @@ Height $= 35 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -739,6 +1145,9 @@ $7 \ \text{or} \ -4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -893,10 +1302,103 @@ $0.7$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>3E0E5DE9-1583-44E0-BBF6-BB26C7321B11</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A bus has $35$ passengers on board. At the first stop two-fifths get off and then $7$ people get on. 
+At the next stop a quarter of the people remaining on the bus get off and then $13$ get on. 
+How many passengers are there on the bus now?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per question, 
+
+At the first stop two-fifths of the $35$ passengers got down and then $7$ people get on. 
+
+Let's put the above information in equation form and find out how many passengers were on the bus after the first stop. 
+
+$35 - \bigg({\dfrac {2}{5}} \ \text {of} \ 35 \bigg) + 7$
+
+Let's solve the equation.
+
+$
+\begin{aligned}
+& = 35 -  \bigg(\dfrac {2} {5} \times 35 \bigg) + 7 \\\\
+& = 35 -  \bigg(\dfrac {2 \times 35} {5} \bigg) + 7 \\\\
+& = 35 -  \bigg(\dfrac {2 \times 5 \times 7} {5} \bigg) + 7 \\\\
+& = 35 -  \bigg(\dfrac {2 \times \cancel {5} \times 7} {\cancel {5}} \bigg) + 7 \\\\
+& = 35 - (2 \times 7) + 7 \\\\
+& = 35 - 14 + 7 \\\\
+& = 28 \ \text {passengers}
+\end{aligned}
+$
+
+When the bus left for the next stop the count of passengers was $28$.
+
+At next stop a quarter i.e.,  $\dfrac {1}{4}$ of the $28$ remaining passengers from first stop got down and then $13$ people get on. 
+
+Let's put the above information in equation form and find the passengers at the next stop.
+
+$28 - \bigg({\dfrac {1}{4}} \ \text {of} \ 28 \bigg) + 13$
+
+$
+\begin{aligned}
+& = 28 -  \bigg(\dfrac {1} {4} \ \text {of} \ 28 \bigg) + 13 \\\\
+& = 28 -  \bigg(\dfrac {1} {4} \times 28 \bigg) + 13 \\\\
+& = 28 -  \bigg(\dfrac {1} {4} \times 4 \times 7 \bigg) + 13 \\\\
+& = 28 -  \bigg(\dfrac {4 \times 7} {4} \bigg) + 13 \\\\
+& = 28 -  \bigg(\dfrac {\cancel {4} \times 7} {\cancel {4} } \bigg) + 13 \\\\
+& = 28 - 7 + 13 \\\\
+& = 34 \ \text {passengers}
+\end{aligned}
+$
+
+$34$ passengers were on the bus after the next stop.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>589E5E44-10C8-4537-8ED7-9C02B0A0532C</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>

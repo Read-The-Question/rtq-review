@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdate-pr"
 title: "Topic - Date - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -63,6 +66,9 @@ $1$ January.
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 <li>
@@ -105,111 +111,6 @@ $377$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>460183B0-7FB1-4AE5-A539-6CE39B381434</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-tdate
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jessica was born on $5$ January $2003$ and her friend Amelia was born exactly $9$ days earlier. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-On which date was Amelia born?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$27 \ \text {December} 2002$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27 \ \text {December} 2002$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Jessica’s $12 \text{th}$ birthday was on a Monday.
-
-On what day of the week was Amelia’s $12 \text{th}$ birthday?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\ \text {Saturday}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\ \text {Saturday}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

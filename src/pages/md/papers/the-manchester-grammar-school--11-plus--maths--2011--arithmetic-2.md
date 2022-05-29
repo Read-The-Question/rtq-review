@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 2"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -85,6 +88,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -194,6 +200,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -429,14 +438,17 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>49AAD1B8-2F4E-4147-AA60-E6B5D8F00875</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-todo
+tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -463,24 +475,14 @@ $
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -501,24 +503,25 @@ Find $a$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question, 
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Sum of angles}                                  &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+a \degree + 120 \degree + 70 \degree + 60 \degree     &= 180 \degree \times 4 - 360 \degree \\\\
+a + 250                                               &= 720 - 360 \\\\
+a + 250                                               &= 360 \\\\
+a                                                     &= 360 - 250 \\\\
+a                                                     &= 110 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$110 \degree$
 
 </div>
 </div>
@@ -542,24 +545,29 @@ Find $b$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question, 
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Sum of angles}                                                           &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+b \degree + b \degree + b \degree + 150 \degree + 120 \degree + 60 \degree     &= 180 \degree \times 6 - 360 \degree \\\\
+3b + 330                                                                       &= 1080 - 360 \\\\
+3b + 330                                                                       &= 720 \\\\
+3b                                                                             &= 720 - 330 \\\\
+3b                                                                             &= 360 \\\\
+b                                                                              &= \dfrac {390} {3} \\\\
+b                                                                              &= \dfrac {130 \times 3} {3} \\\\
+b                                                                              &= \dfrac {130 \times \cancel{3}} {\cancel{3}} \\\\
+b                                                                              &= 130 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$130 \degree$
 
 </div>
 </div>
@@ -582,24 +590,38 @@ Find $c$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question, 
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+\text{Sum of angles}                        &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+x \degree + x \degree + x \degree + x \degree + x \degree + x \degree + x \degree + x \degree        &= 180 \degree \times 8 - 360 \degree \\\\
+8x                                          &= 1440 - 360 \\\\
+8x                                          &= 1080 \\\\
+x                                           &= \dfrac {1080} {8} \\\\
+x                                           &= \dfrac {135 \times 8} {8} \\\\
+x                                           &= \dfrac {135 \times \cancel{8}} {\cancel{8}} \\\\
+x                                           &= 135 \degree
+\end{aligned}
+$
 
-TODOWORKING
+As we know, the sum of angles on a straight line is $180 \degree$.
+
+$
+\begin{aligned}
+x \degree + c \degree        &= 180 \degree \\\\
+135 + c                      &= 180 \\\\
+c                            &= 180 - 135 \\\\
+c                            &= 45 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$45 \degree$
 
 </div>
 </div>
@@ -611,7 +633,7 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -622,6 +644,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -802,6 +827,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 todo
 </li>
 </ul>
@@ -861,6 +889,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -1103,6 +1134,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 todo
 </li>
 </ul>
@@ -1308,6 +1342,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 todo
 </li>
 </ul>
@@ -1472,6 +1509,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1699,6 +1739,9 @@ $4108$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -1990,6 +2033,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>
@@ -2366,6 +2412,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 todo
 </li>

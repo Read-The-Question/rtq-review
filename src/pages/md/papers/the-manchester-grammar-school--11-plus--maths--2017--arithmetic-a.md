@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic A"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The Manchester Grammar School</h1>
@@ -14,12 +14,15 @@ date: 2022-05-28 14:33:22
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>39E20826-B8B1-4C4D-AF60-A2D391BC499E</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -52,7 +55,7 @@ $308520$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -63,6 +66,9 @@ $308520$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -110,6 +116,9 @@ $252$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -173,6 +182,9 @@ $89$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -216,12 +228,15 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>51948298-6710-4968-BC7A-6F04A5AA66B1</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -273,7 +288,7 @@ $\dfrac {2} {3}$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -337,6 +352,9 @@ $96$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -384,6 +402,9 @@ $\dfrac {21} {25}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -451,12 +472,15 @@ $(8 + 4) \times 6 - 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>F990AB7B-48EF-4668-8814-D68C1917C568</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunitprompt
 </li>
@@ -502,7 +526,7 @@ $231 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -513,6 +537,9 @@ $231 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -564,6 +591,9 @@ $\pounds 5.04$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -621,6 +651,9 @@ $4.5 \ \text {kg}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvenn
 </li>
@@ -692,12 +725,15 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>99B771D4-952B-4603-BB61-6A63F668BA1F</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -750,17 +786,20 @@ $28$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>4F58585B-5B01-496D-8865-FFF0FEAC8FD6</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -830,7 +869,7 @@ $1200 \ \text {cm}^2$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -841,6 +880,9 @@ $1200 \ \text {cm}^2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -911,6 +953,9 @@ $48 \ \text{cm}^2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1017,6 +1062,9 @@ $\pounds 2.80$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -1042,15 +1090,15 @@ Let the width of the school hall (in m) $= w$
 
 Let the height of the school hall (in m) $= h$
 
-$\text{Area} = \text{length} \times \text{width}$
+$\text {Area} = \text {length} \times \text {width}$
 
 As per the question,
 
 $
 \begin{aligned}
-l \times w   &= 200  \\\\
-l \times h   &= 150  \\\\
-l            &= \dfrac{150}{h}  \\\\
+l \times w   &= 200 \\\\
+l \times h   &= 150 \\\\
+l            &= \dfrac {150} {h} \\\\
 w \times h   &= 48 \\\\
 w            &= \dfrac{48}{h}
 \end{aligned}
@@ -1061,20 +1109,20 @@ Substituting $l$ and $w$ in the first equation in terms of $h$, we get
 $
 \begin{aligned}
 l \times w                              &= 200 \\\\
-\dfrac{150}{h} \times \dfrac{48}{h}     &= 200 \\\\
-\dfrac{150 \times 48}{h^2}              &= 200 \\\\
-\dfrac{150 \times 48}{200}              &= h^2 \\\\
-h^2                                     &= \dfrac{150 \times 48}{200} \\\\
-h^2                                     &= \dfrac{50 \times 3 \times 12 \times 4}{50 \times 4} \\\\
-h^2                                     &= \dfrac{\cancel{50} \times 3 \times 12 \times \cancel{4}}{\cancel{50} \times \cancel{4}} \\\\
+\dfrac {150} {h} \times \dfrac {48} {h} &= 200 \\\\
+\dfrac {150 \times 48} {h^2}            &= 200 \\\\
+\dfrac {150 \times 48} {200}            &= h^2 \\\\
+h^2                                     &= \dfrac {150 \times 48} {200} \\\\
+h^2                                     &= \dfrac {50 \times 3 \times 12 \times 4} {50 \times 4} \\\\
+h^2                                     &= \dfrac {\cancel{50} \times 3 \times 12 \times \cancel{4}} {\cancel{50} \times \cancel{4}} \\\\
 h^2                                     &= 3 \times 12 \\\\
 h^2                                     &= 36 \\\\
-h                                       &= \sqrt{36} \\\\
-h                                       &= 6 \ \text{m}
+h                                       &= \sqrt {36} \\\\
+h                                       &= 6 \ \text {m}
 \end{aligned}
 $
 
-Height of the school hall (in m) $= 6  \ \text{m}$
+Height of the school hall (in m) $= 6  \ \text {m}$
 
 </div>
 </div>
@@ -1101,6 +1149,9 @@ $6 \ \text {m}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -1164,6 +1215,9 @@ $14$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -1221,6 +1275,9 @@ $60$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>

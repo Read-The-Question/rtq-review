@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -181,6 +184,9 @@ $75 \%$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -298,6 +304,9 @@ $\pounds 7.95$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -540,12 +549,15 @@ $29, 40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>9059ED0D-559C-4990-8449-866D2BE0C151</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -652,7 +664,7 @@ $11$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -663,6 +675,9 @@ $11$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -807,6 +822,9 @@ $1600 \ \text {ml}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -1099,6 +1117,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -1161,6 +1182,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -1199,13 +1223,9 @@ Express $36$ as a product of its prime factors.
 <div class='workings'>
 <div class='working'>
 
-Prime factors of $36 = 1, 2, 3$.
+Prime factors of $36 = 1, 2 \ \text {and} \ 3$
 
-$
-\begin {aligned}
-36  &= 2 \times 2 \times 3 \times 3
-\end {aligned}
-$
+$36$ as a product of its prime factors $= 2 \times 2 \times 3 \times 3$
 
 </div>
 </div>
@@ -1233,11 +1253,11 @@ What is the largest of the common factors of $24$ and $36$?
 <div class='workings'>
 <div class='working'>
 
-Factors of $24 = 1, 2, 3, 4, 6, 8, 12, 24$.
+Factors of $24 = 1, 2, 3, 4, 6, 8, \bold {12}, 24$
 
-Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$.
+Factors of $36$ (< 24) $= 1, 2, 3, 4, 6, 9, \bold {12}, 18$
 
-The largest common factors of $24$ and $36 = 12$.
+The largest common factors of $24$ and $36 = 12$
 
 </div>
 </div>
@@ -1267,6 +1287,9 @@ $12$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -1321,6 +1344,9 @@ $\pounds 40.8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -1442,6 +1468,9 @@ $83 \ \text {m} ^ 2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -1566,6 +1595,9 @@ $2.5 \ \text{cm}$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1689,6 +1721,9 @@ $36 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 </ul>
@@ -1741,6 +1776,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tlogic
 </li>
 </ul>
@@ -1792,6 +1830,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -1853,6 +1894,9 @@ $450 \ \text {seconds}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -1888,6 +1932,9 @@ Which of the following could not be the resulting shape?
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -1922,6 +1969,9 @@ For which map will Matteo require the most colours?
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -1970,6 +2020,9 @@ How many magazines does she buy?
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tlogic
 </li>

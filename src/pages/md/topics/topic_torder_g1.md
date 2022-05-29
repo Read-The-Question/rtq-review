@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-g1"
 title: "Topic - Order - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -76,6 +79,9 @@ $\dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -133,6 +139,9 @@ $\dfrac {5} {6}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -263,6 +272,9 @@ $\dfrac {1} {3}, \quad \dfrac {5} {12}, \quad 0.5, \quad 75 \%, \quad \dfrac {5}
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 <li>
@@ -307,6 +319,9 @@ $0.1444, \quad  0.4, \quad  0.414, \quad  1.4, \quad  4.41$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -380,6 +395,9 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -443,10 +461,389 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>08EA488F-9096-42F2-947D-B325B679E4A3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+torder
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this question letters of the alphabet are assigned number values:
+
+$A = 1, B = 2, C = 3, D = 4,$ ....
+
+The **sum total** of a word is created by **adding** the value of the letters.
+
+For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the sum total of the word ‘$TANK$’?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {TANK}  &= 20 + 1 + 14 + 11 \\\\
+              &= 46
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$46$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+List the following words in order of their sum total, starting with the lowest:
+
+$DOG \quad CATS \quad FISH \quad BIRD$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, let's find the sum first. 
+
+$
+\begin{aligned}
+\text {DOG}     &= 4 + 15 + 7 \\\\
+                &= 26 \\\\
+\text {CATS}    &= 3 + 1 + 20 + 19 \\\\
+                &= 43 \\\\
+\text {FISH}    &= 6 + 9 + 19 + 8 \\\\
+                &= 42 \\\\
+\text {BIRD}    &= 2 + 9 + 18 + 4 \\\\
+                &= 33
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 26, \quad 33, \quad 42, \quad 43 \\\\
+&= \text {DOG}, \quad \text {BIRD}, \quad \text {FISH}, \quad \text {CATS}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {DOG}, \quad \text {BIRD}, \quad \text {FISH}, \quad \text {CATS}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which single letter has the same value as the result of dividing the sum total for ‘$JET$’ by the sum total of ‘$BAD$’?
+
+$JET \div BAD = \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the division $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a   &= \text {JET} \div \text {BAD} \\\\
+    &= \dfrac {\text {JET}} {\text {BAD}} \\\\
+    &= \dfrac {10 + 5 + 20} {2 + 1 + 4} \\\\
+    &= \dfrac {35} {7} \\\\
+    &= \dfrac {5 \times 7} {7} \\\\
+    &= \dfrac {5 \times \cancel {7}} {\cancel {7}} \\\\
+    &= 5
+\end{aligned}
+$
+
+The letter is $\text {E}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {E}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>93D90ADD-9783-488E-8E72-B211E323F0BD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tinfer
+</li>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this question letters of the alphabet are assigned number values:
+
+$A = 1, B = 2, C = 3, D = 4,$ ....
+
+The product value of a word is created by multiplying the value of the letters.
+
+For example: the product value of ‘$HEAD$’ $= 8 \times 5 \times 1 \times 4 = 160$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the product value of the word ‘$YES$’?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {YES} &= 25 \times 5 \times 19 \\\\
+            &= 125 \times 19 \\\\
+            &= 2375
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2375$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+List the following words in order of their product value, starting with the lowest:
+
+$DOG \quad CATS \quad FISH \quad BIRD$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, let's find the product first. 
+
+$
+\begin{aligned}
+\text {DOG}     &= 4 \times 15 \times 7 \\\\
+                &= 420 \\\\
+\text {CATS}    &= 3 \times 1 \times 20 \times 19 \\\\
+                &= 1140 \\\\
+\text {FISH}    &= 6 \times 9 \times 19 \times 8 \\\\
+                &= 8208 \\\\
+\text {BIRD}    &= 2 \times 9 \times 18 \times 4 \\\\
+                &= 1296
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 420, \quad 1140, \quad 1296, \quad 8208 \\\\
+&= \text {DOG}, \quad \text {CATS}, \quad \text {BIRD}, \quad \text {FISH}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {DOG}, \quad \text {CATS}, \quad \text {BIRD}, \quad \text {FISH}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which three letter English word can be inserted to complete the sum below (adding with the product value of ‘$BAG$’ to
+make the product value of ‘$GALA$’?
+
+$BAG + \ldots = GALA$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the letter $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {BAG} + a &= \text {GALA} \\\\
+a               &= \text {GALA} - \text {BAG} \\\\
+                &= 7 \times 1 \times 12 \times 1 - 2 \times 1 \times 7 \\\\
+                &= 84 - 14 \\\\
+                &= 70 \\\\
+                &= 2 \times 5 \times 7 \\\\
+                &= \text {BEG}
+\end{aligned}
+$
+
+The three letters are $\text {B}$, $\text {E}$, $\text {G}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {B}, \text {E}, \text {G}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>30340F22-4D0A-4688-AA2E-85B3E019B213</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunit
 </li>
@@ -504,6 +901,9 @@ $42 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 <li>
@@ -558,6 +958,9 @@ $42 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunit
 </li>
@@ -614,6 +1017,9 @@ $52 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -653,6 +1059,9 @@ $2569$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -695,6 +1104,9 @@ $0.067, \quad 0.106, \quad 0.161, \quad 0.601$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -754,6 +1166,9 @@ $\dfrac {1} {20}, \quad \dfrac {1} {5}, \quad \dfrac {1} {4}, \quad \dfrac {3} {
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -817,6 +1232,9 @@ $\dfrac {3} {10}, \quad 0.305, \quad \dfrac {1} {3}, \quad 35 \%$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -858,6 +1276,9 @@ $2.03 \quad 2.3 \quad 2.302 \quad 2.32$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -958,12 +1379,6 @@ $\dfrac {1} {2}$
 <ul>
 <li>
 torder
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -1077,6 +1492,9 @@ $\dfrac {2} {5},  \quad \dfrac {1} {2},  \quad dfrac {2} {3},  \quad \dfrac {3} 
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -1123,6 +1541,9 @@ $7.012, \quad 7.02, \quad 7.102, \quad 7.12 $
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1315,6 +1736,9 @@ $24$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -1383,6 +1807,9 @@ $60 \%,  \quad 0.66, \quad \dfrac {2} {3}, \quad \dfrac {17} {25}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -1453,6 +1880,9 @@ $\dfrac {2} {5},  \quad \dfrac {3} {7}, \quad 0.43, \quad 44 \%$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -1516,6 +1946,9 @@ $\dfrac{25}{30}, \quad \dfrac{17}{20}, \quad \dfrac{13}{15}, \quad \dfrac{7}{8},
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfactor
 </li>
@@ -1622,15 +2055,6 @@ $1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
 <li>
 torder
 </li>
-<li>
-tfraction
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tpercentage
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1699,6 +2123,9 @@ $20\% , \quad \dfrac {1} {6} , \quad 0.15$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -1790,9 +2217,6 @@ $\dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}$
 <li>
 torder
 </li>
-<li>
-tdecimal
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1840,6 +2264,9 @@ $0.21, \quad 0.201, \quad 0.021$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -1891,6 +2318,9 @@ $3.33, \quad 3.303, \quad 3.3, \quad 3.03, \quad 3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -1940,6 +2370,9 @@ $7.77, \quad 7.707, \quad 7.7, \quad 7.07, \quad 7$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -2003,6 +2436,9 @@ $0.7, \quad 75 \%, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -2051,6 +2487,9 @@ $0.2, \quad 0.21, \quad \dfrac {3} {10}, \quad 0.36, \quad \dfrac {37} {100}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2110,6 +2549,9 @@ $35$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -2151,6 +2593,9 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2351,6 +2796,9 @@ $96$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 <li>
@@ -2415,6 +2863,9 @@ $2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 <li>
@@ -2455,55 +2906,13 @@ $4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
 <li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
-<p>72451A15-7547-4D75-9C09-DCFB7DF42FD8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdecimal
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle all numbers that are bigger than $0.45$
-
-$0.5 \quad 0.6 \quad 0.4 \quad 0.08 \quad 0.404$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.5, 0.6$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.5, 0.6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_g1 question'>
-<div class='uuid'>
 <p>2516CBC2-1DA0-4907-AFF5-DDE8C971594D</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -2561,6 +2970,226 @@ $\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>CEB88377-E568-4AA9-86C7-30EC02DF65EB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+torder
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Cirlce the number which will be in the middle when the numbers written below are written in size order.
+
+$1.905 \quad 1.05 \quad 0.905 \quad 1.005 \quad 1.095$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write the numbers in order to find the middle number,
+
+$0.905, \quad 1.005, \quad 1.05, \quad 1.095, \quad 1.905$
+
+$1.05$ is in middle when the numbers are written in size orders.
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$1.05$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>55915BFE-F660-43D9-B855-A23AD77C520A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+torder
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the number which will be in the middle when the numbers below are written in order of increasing size.
+
+$3.64 \quad 3.564 \quad 3.654 \quad 3.465 \quad 3.546$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write the numbers in increasing order to find the middle number,
+
+$3.465, \quad 3.546, \quad 3.564, \quad 3.64, \quad 3.654$
+
+$3.564$ is in middle when the numbers are written in size orders.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.564$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>096131F4-72CE-446C-9543-2653E59BA346</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+torder
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write these numbers in order of size, starting with the smallest:
+
+$3.4 \quad 3.34 \quad 3.304 \quad 3.043$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3.043, \quad 3.304, \quad 3.34, \quad 3.4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.043, \quad 3.304, \quad 3.34, \quad 3.4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>51948298-6710-4968-BC7A-6F04A5AA66B1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If the following numbers were put in order, which number would be in the middle? 
+
+$0.67, \quad 55 \%, \quad \dfrac{3}{5}, \quad \dfrac{7}{10}$ and $\dfrac{2}{3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+Let's convert all the numbers into decimals.
+
+$
+\begin{aligned}
+&= 0.67, \quad 55 \%, \quad \dfrac {3} {5}, \quad \dfrac {7} {10}, \quad \dfrac {2} {3} \\\\
+&= 0.67, \quad 0.55, \quad 0.60, \quad 0.70, \quad 0.666
+\end{aligned}
+$
+
+Now let's put them in ascending order.
+
+$
+\begin{aligned}
+&= 0.55, \quad  0.60, \quad  0.666, \quad  0.67, \quad  0.70 \\\\
+&= 55 \%, \quad \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad 0.67, \quad \dfrac {7} {10}
+\end{aligned}
+$
+
+The number in the middle $= \dfrac{2}{3}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {3}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

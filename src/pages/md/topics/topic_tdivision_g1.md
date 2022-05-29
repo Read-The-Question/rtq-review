@@ -1,9 +1,131 @@
 ---
 slug: "topics/topic-tdivision-g1"
 title: "Topic - Division - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>CB985892-807A-481A-863E-243A882E5ED9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tdetailedmultiplication
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$246 \times 28$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &   2   &   4   &   6 \\
+\times  &       &   2   &   8 \\
+\hline
+   1    &   9   &   6   &   8 \\
+   4    &   9   &   2   &   0 \\
+\hline
+   6    &   8   &   8   &   8
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6888$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2460 \div 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2460 \div 5 \\\\
+&= \dfrac {2460} {5} \\\\
+&= \dfrac {2460 \times 2} {5 \times 2} \\\\
+&= \dfrac {4920} {10} \\\\
+&= \dfrac {492\cancel{0}} {1\cancel{0}} \\\\
+&= 492
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$492$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
@@ -11,6 +133,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -60,6 +185,9 @@ $234$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -107,9 +235,6 @@ $1050$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tdecimal
-</li>
 <li>
 tdivision
 </li>
@@ -165,6 +290,9 @@ $0.4103$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 <li>
@@ -207,12 +335,158 @@ $\pounds 1.720$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>76853B80-475C-45FC-8F30-B40957F57E47</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$2.3 \div 1000 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  2.3 \div 1000 \\\\
+&=  \dfrac {2.3} {1000} \\\\
+&=  0.0023
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.0023$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>4B064430-A3B1-49A5-B5A7-D36E815440A4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$60.2 \div 7$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 60.2 \div 7 \\\\
+&= \dfrac {60.2} {7} \\\\
+&= 8.6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8.6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $6 \div 0.3$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 6 \div 0.3 \\\\
+&= 6 \div \dfrac {3} {10} \\\\
+&= 6 \times \dfrac {10} {3} \\\\
+&= 6 \times \dfrac {10} {3} \\\\
+&= \dfrac {6 \times 10} {3} \\\\
+&= \dfrac {3 \times 2 \times 10} {3} \\\\
+&= \dfrac {\cancel {3} \times 2 \times 10} {\cancel {3}} \\\\
+&= 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D342C8C4-AD2E-46B5-B114-061F539211E6</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -394,6 +668,9 @@ $87$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -447,6 +724,9 @@ $40$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -494,6 +774,9 @@ $1369$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -544,6 +827,9 @@ $23$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -601,6 +887,9 @@ $63$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -710,6 +999,9 @@ $27.9$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -766,6 +1058,9 @@ $30$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -814,6 +1109,9 @@ $13$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -857,10 +1155,64 @@ $27$
 <li>
 <div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
+<p>DEF306C6-4B02-40CC-97C6-0C1E0966876A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Divide $3$ by $0.5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3 \div 0.5 \\\\
+&= 3 \div \dfrac {5} {10} \\\\
+&= 3 \times \dfrac {10} {5} \\\\
+&= \dfrac {3 \times 10} {5} \\\\
+&= \dfrac {3 \times 2 \times 5} {5} \\\\
+&= \dfrac {3 \times 2 \times \cancel {5}} {\cancel {5}} \\\\
+&= 3 \times 2 \\\\
+&= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
 <p>9B643A5B-96B3-4E47-8CAD-CF6B0281E069</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -903,24 +1255,12 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>14E7D9BB-896F-4DD7-B682-0A66533FE48A</p>
+<p>17BF339B-7079-4966-BEB2-8B3FF23FA92A</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tdecimal
-</li>
-<li>
-tdetailedaddition
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdetailedmultiplication
-</li>
 <li>
 tdivision
 </li>
@@ -928,142 +1268,7 @@ tdivision
 </div>
 <div class='question question'>
 
-Find the value of each of the following:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$68.9 + 9.86$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Ensure to line up the decimal points
-
-$
-\begin{array}{cccccccccccccc}
-    &   6   &   8 \ .   &   9    &   0 \\
-{}+ &       &   9 \ .   &   8    &   6 \\
-\hline
-    &   7   &   8 \ .   &   7    &   6 
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$78.76$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$321 - 268$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   3   &   2   &   1 \\
-{}- &   2   &   6   &   8 \\
-\hline
-    &       &   5   &   3
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$53$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$391 \times 7$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-            &   3   &   9   &   1 \\
-{}  \times  &       &       &   7 \\
-\hline
-2           &   7   &   3   &   7
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2737$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$656 \div 8$
+Work out $44.8 \div 0.7$.
 
 </div>
 <div class='workings'>
@@ -1071,10 +1276,12 @@ $656 \div 8$
 
 $
 \begin{aligned}
-&= \dfrac {656} {8} \\\\
-&= \dfrac {8 \times 82} {8} \\\\
-&= \dfrac {\cancel {8} \times 82} {\cancel 8} \\\\
-&= 82
+&= \dfrac {44.8} {0.7} \\\\
+&= \dfrac {44.8 \times 10} {0.7 \times 10} \\\\
+&= \dfrac{448} {7} \\\\
+&= \dfrac {64 \times 7} {7} \\\\
+&= \dfrac {64 \times \cancel{7}} {\cancel{7}} \\\\
+&= 64
 \end{aligned}
 $
 
@@ -1083,19 +1290,16 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$82$
+$64$
 
 </div>
 </div>
 
-</div>
-</li>
-</ul>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ac_g1</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1106,6 +1310,9 @@ $82$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -1152,6 +1359,9 @@ $32.4$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>

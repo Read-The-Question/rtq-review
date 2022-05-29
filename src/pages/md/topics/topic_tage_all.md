@@ -1,64 +1,9 @@
 ---
 slug: "topics/topic-tage-all"
 title: "Topic - Age - All"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>6A4D3A4B-ED56-4425-A042-95E7B753ADB3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jonathon and his dad were both born on $5 \text{th}$ August.
-
-Jonathon was born in $1985$ and his father is $32$ years older than him. 
-
-In which year was his dad born?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Year dad was born}       &= 1985 - 32  \\\\
-                            &= 1953 
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1953$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
@@ -127,6 +72,9 @@ $24$
 <li>
 tage
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -171,162 +119,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>1F535340-0428-42BD-88F5-40CC8436C8ED</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A crate holds $8$ cartons of milk. How many crates are needed to hold $349$ cartons?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Crates needed}                          &= \dfrac {349} {8} \\\\
-                                              &= 43 \text{ remainder } 5 \\\\
-                                              &= 44
-\end{aligned}
-$
-
-Total crates needed to hold $349$ cartons $= 44$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$44$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Seven adult cinema tickets cost $\pounds 24.50$. How much will four adult tickets cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Cost of 4 adult tickets}                &= 4 \times \pounds 24.50 \\\\
-                                              &= \pounds 98
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 98$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Flora is exactly eleven and a half years old. How many months old is she?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Flora's age (in months)}                &= 11 \dfrac {1} {2} \times 12 \\\\
-                                              &= \dfrac {23 \times 12} {2} \\\\
-                                              &= \dfrac {23 \times 2 \times 6} {2} \\\\
-                                              &= \dfrac {23 \times \cancel{2} \times 6} {\cancel{2}} \\\\
-                                              &= 23 \times 6 \\\\
-                                              &= 138 \ \text{months}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$138$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>BD782688-6E8D-4514-AA56-D01E50FF22E7</p>
@@ -335,6 +127,9 @@ $138$
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -383,183 +178,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>39DAF11E-BE1E-4FE3-8CF7-F0280EB3A60A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttemperature
-</li>
-<li>
-ttime
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A car journey starts at $10{:}27 \ \text{am}$ and finishes at $1{:}24 \ \text{pm}$. 
-
-How many minutes did the journey take?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A child is $13$ years old and their parent is $40$ years old. 
-
-In how many years' time will it be before the parent is exactly twice the child's age?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-I am facing South East. I then turn $225$ degrees anticlockwise. 
-
-What direction am I facing now?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>EEC05C31-44AD-443D-9B34-915485681096</p>
 </div>
 <div class='topics'>
@@ -568,7 +186,7 @@ TODOANSWER
 tage
 </li>
 <li>
-tinfer
+talgebra
 </li>
 </ul>
 </div>
@@ -627,6 +245,9 @@ TODOANSWER
 <li>
 tage
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -641,37 +262,45 @@ Let Gill's age $= a$
 
 As per the question,
 
-Gerald's age $= 3 \times \text {Gill's age} = 3 a$
-
-Guy's age $= \text {Half as old as Gerald} = \dfrac {1} {2} \times 3 a$
-
 $
 \begin {aligned}
-\text {Gerald's age} + \text {Guy's age} + \text {Gill's age}                           &= 99 \\\\
-3a + \dfrac {3a} {2} + a                                                                &= 99 \\\\
-\dfrac {3a \times 2} {1 \times 2} + \dfrac {3a} {2} + \dfrac {a \times 2} {1 \times 2}  &= 99 \\\\
-\dfrac {6a} {2} + \dfrac {3a} {2} + \dfrac {2a} {2}                                     &= 99 \\\\
-\dfrac {6a + 3a + 2a} {2}                                                               &= 99 \\\\
-\dfrac {11a} {2}                                                                        &= 99 \\\\
-11a                                                                                     &= 99 \times 2 \\\\
-a                                                                                       &= \dfrac {99 \times 2} {11} \\\\
-a                                                                                       &= \dfrac {11 \times 9 \times 2} {11} \\\\
-a                                                                                       &= \dfrac {\cancel {11} \times 9 \times 2} {\cancel {11}} \\\\
-a                                                                                       &= 9 \times 2 \\\\
-a                                                                                       &= 18
+\text {Gerald's age}    &= 3 \times \text {older than Gill} \\\\
+                        &= 3 a \\\\
+\text {Guy's age}       &= \text {half as old as Gerald} \\\\
+                        &= \dfrac {1} {2} \times 3 a
 \end {aligned}
 $
 
-Gill's age $= 18 \ \text {years}$
+$
+\begin {aligned}
+\text {Gerald's age} + \text {Guy's age} + \text {Gill's age}   &= 99 \\\\
+3a + \dfrac {3a} {2} + a                                        &= 99 \\\\
+4a + \dfrac {3a} {2}                                            &= 99 \\\\
+\dfrac {4a \times 2} {1 \times 2} + \dfrac {3a} {2}             &= 99 \\\\
+\dfrac {8a} {2} + \dfrac {3a} {2}                               &= 99 \\\\
+\dfrac {8a + 3a} {2}                                            &= 99 \\\\
+\dfrac {11a} {2}                                                &= 99 \\\\
+11a                                                             &= 99 \times 2 \\\\
+a                                                               &= \dfrac {99 \times 2} {11} \\\\
+a                                                               &= \dfrac {11 \times 9 \times 2} {11} \\\\
+a                                                               &= \dfrac {\cancel {11} \times 9 \times 2} {\cancel {11}} \\\\
+a                                                               &= 9 \times 2 \\\\
+a                                                               &= 18
+\end {aligned}
+$
 
-Gerald's age $= 3 \times 18 = 54 \ \text {years}$
+$\text {Gill's age} = 18 \ \text {years}$
+
+Let's find Gerald and Guy's age.
 
 $
 \begin {aligned}
-\text {Guy's age}       &= \dfrac {3 a} {2} \\\\
+\text {Gerald's age}    &= 3 \times 18 \\\\
+                        &= 54 \ \text {years} \\\\
+\text {Guy's age}       &= \dfrac {3a} {2} \\\\
                         &= \dfrac {54} {2} \\\\
-                        &= \dfrac {27 \times 2} {2} \\\\
-                        &= \dfrac {27 \times \cancel {2}} {\cancel {2}} \\\\
+                        &= \dfrac {2 \times 27} {2} \\\\
+                        &= \dfrac {\cancel {2} \times 27} {\cancel {2}} \\\\
                         &= 27 \ \text {years}
 \end {aligned}
 $
@@ -681,17 +310,11 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$18 \ \text {years}$
-
-</div>
-<div class='answer'>
-
-$27 \ \text {years}$
-
-</div>
-<div class='answer'>
-
-$54 \ \text {years}$
+$
+\text {Gill}   = 18 \ \text {years} \\
+\text {Guy}    = 27 \ \text {years} \\
+\text {Gerald} = 54 \ \text {years}
+$
 
 </div>
 </div>
@@ -705,215 +328,7 @@ $54 \ \text {years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>F506E507-7A45-42B3-B41D-B307DB9B1B2C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tstatistics
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here are the ages of some dogs waiting at a vet clinic:
-
-$1, \quad 3, \quad 4, \quad 4, \quad 5, \quad 6, \quad 6, \quad 6, \quad 10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many dogs were there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the mode of the ages of all the dogs.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the total of the ages of all the dogs.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the mean of the ages of the dogs. Explain how you did it.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>0BC6DC5C-B1B3-4EBE-AC5C-839914A2772E</p>
 </div>
@@ -921,6 +336,9 @@ TODOANSWER
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1129,7 +547,7 @@ $20$
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1200,7 +618,7 @@ $12$
 tage
 </li>
 <li>
-tinfer
+talgebra
 </li>
 </ul>
 </div>
@@ -1250,10 +668,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tage
 </li>
 <li>
-tage
+talgebra
 </li>
 </ul>
 </div>
@@ -1313,10 +731,10 @@ $14$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tage
 </li>
 <li>
-tage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1437,6 +855,9 @@ $46 \ \text{years}$
 <li>
 tage
 </li>
+<li>
+tsimpleword
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1459,7 +880,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Age of Tree in 2011}  &= \text {Lord's age at death} + (2011 - \text {Year lord died}) \\\\
+\text {Age of Tree in 2011}  &= \text {Lord's age at death} + (2011 - \text {Year Lord died}) \\\\
                              &= 80 + 2011 - 1940 \\\\
                              &= 80 + 71 \\\\
                              &= 151 \ \text {years}
@@ -1496,6 +917,9 @@ $151 \ \text {years}$
 <ul>
 <li>
 tage
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1557,6 +981,9 @@ TODOANSWER
 <li>
 tage
 </li>
+<li>
+tsimpleword
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1594,181 +1021,6 @@ $28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>66AC9193-2DC6-421F-960E-5D37904B2D3A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tstatistics
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The mean age of the five members of the `Macaroon $5$' boy band is $18$. 
-
-A new member joins the band. His age is $24$. 
-What is the new mean age of the group?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $4$ numbers which have a mean of $7$, a median of $8$ and a mode of $9$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The mean weight of $5$ children is $45 \ \text{kg}$.
-
-The mean weight of the lightest three children is $42 \ \text{kg}$ and the mean weight of the heaviest three children is $49 \ \text{kg}$. 
-
-What is the median weight of the children in kg?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>03E012B1-67E0-4542-B1B2-6F0B3069FFA8</p>
@@ -1777,6 +1029,9 @@ TODOANSWER
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1836,6 +1091,9 @@ $47 \ \text {years}$
 <li>
 tage
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1887,6 +1145,9 @@ TODOANSWER
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1945,6 +1206,9 @@ $52$
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2012,6 +1276,9 @@ $33$
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2160,7 +1427,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>9AC85AEC-FC01-4FB6-9FC8-DC6ADCBB5690</p>
 </div>
@@ -2226,7 +1493,7 @@ $48$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -2354,6 +1621,9 @@ TODOANSWER
 <li>
 tage
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2407,6 +1677,9 @@ TODOANSWER
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2595,6 +1868,9 @@ $11$
 <li>
 tage
 </li>
+<li>
+tsimpleword
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2644,6 +1920,9 @@ $30 \ \text{years}$
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2695,6 +1974,9 @@ TODOANSWER
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2758,6 +2040,9 @@ $
 <li>
 tage
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2800,6 +2085,9 @@ TODOANSWER
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -2907,6 +2195,9 @@ $9, \ 3, \ 16, \ 11$
 <ul>
 <li>
 tage
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -3140,7 +2431,7 @@ TODOANSWER
 tage
 </li>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3184,10 +2475,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tfraction
+tage
 </li>
 <li>
-tage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3205,7 +2496,8 @@ How old is her brother?
 
 $
 \begin{aligned}
-\text{Brother's age} &= 10 \ \text{years} \ 6 \ \text{months} - 1 \ \text{years} \ 8 \ \text{months} \\\\
+\text{Brother's age} &= 10 \dfrac {1} {2} \ \text {years} - 1 \ \text {years} \ 8 \ \text {months} \\\\
+                     &= 10 \ \text{years} \ 6 \ \text{months} - 1 \ \text{years} \ 8 \ \text{months} \\\\
                      &= 8 \ \text{years} \ 10 \ \text{months}
 \end{aligned}
 $
@@ -3237,6 +2529,9 @@ $8 \ \text{years} \ 10 \ \text{months}$
 <ul>
 <li>
 tage
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3279,12 +2574,12 @@ By how many years and months is Katharine older than Helen?
 $
 \begin {aligned}
 \text {Difference in age}  &= \text {Helen's age} - \text {Katharine's age} \\\\
-                           &= 1 \ \text{st} \ \text {March} \ 2003 - 1 \ \text{st} \ \text {May} \ 1997 \\\\
+                           &= 1 \text{st} \ \text {March} \ 2003 - 1 \text{st} \ \text {May} \ 1997 \\\\
                            &= 5 \ \text {years} \ 10 \ \text {months}
 \end {aligned}
 $
 
-Katharine is $5 \ \text {years} \ 10 \ \text {months}$ older than Helen.
+Number of years and months Katharine is older than Helen $= 5 \ \text {years} \ 10 \ \text {months}$
 
 </div>
 </div>
@@ -3317,8 +2612,8 @@ Work out Sam’s date of birth.
 $
 \begin {aligned}
 \text {Sam’s date of birth}  &= \text {Katharine's date of birth} + 18 \ \text {months} \\\\
-                             &= 1 \ \text {st} \ \text {May} \ 1997 + 18 \ \text {months} \\\\
-                             &= 1 \ \text {st} \ \text {November} \ 1998
+                             &= 1 \text {st} \ \text {May} \ 1997 + 18 \ \text {months} \\\\
+                             &= 1 \text {st} \ \text {November} \ 1998
 \end {aligned}
 $
 
@@ -3327,7 +2622,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text {st} \ \text {November} \ 1998$
+$1 \text {st} \ \text {November} \ 1998$
 
 </div>
 </div>
@@ -3352,6 +2647,9 @@ $1 \ \text {st} \ \text {November} \ 1998$
 <ul>
 <li>
 tage
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3402,6 +2700,9 @@ $9 \ \text {years} \ 6 \ \text {months}$
 <li>
 tage
 </li>
+<li>
+tsimpleword
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -3442,7 +2743,7 @@ $20 \ \text {years} \ 9 \ \text {months}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>460183B0-7FB1-4AE5-A539-6CE39B381434</p>
 </div>
@@ -3452,10 +2753,7 @@ $20 \ \text {years} \ 9 \ \text {months}$
 tage
 </li>
 <li>
-tdate
-</li>
-<li>
-tnoexplanation
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3542,7 +2840,7 @@ $\ \text {Saturday}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3554,10 +2852,10 @@ $\ \text {Saturday}$
 <div class='topics'>
 <ul>
 <li>
-tdate
+tage
 </li>
 <li>
-tage
+tsimpleword
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-red"
 title: "Topic - Number - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,9 +13,6 @@ date: 2022-05-28 14:33:22
 <ul>
 <li>
 tnumber
-</li>
-<li>
-tdecimal
 </li>
 </ul>
 </div>
@@ -202,6 +199,9 @@ $26.18$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -254,6 +254,9 @@ $7$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -312,6 +315,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -375,6 +381,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -579,6 +588,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -634,6 +646,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -702,6 +717,9 @@ $9.3 \text{kg}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -780,6 +798,9 @@ $19.9 \text {cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -892,10 +913,65 @@ $90 \%$
 <li>
 <div class='question_envelope rag_sc_red question'>
 <div class='uuid'>
+<p>E172D520-4089-4F05-926E-DB8874B70DB6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use your previous answer to find
+
+$20.1 \div 6 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_red question'>
+<div class='uuid'>
 <p>72BEEC51-1902-4C41-BF4A-69B97ED5D4A7</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1059,10 +1135,184 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_sc_red question'>
 <div class='uuid'>
+<p>998EFCB6-EF19-4B92-8115-132CC13DB0AF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $500 \times 15$ ?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+         &    5    &    0    &    0 \\
+{}\times &         &    1    &    5 \\
+\hline
+2        &    5    &    0    &    0 \\
+5        &    0    &    0    &    0 \\
+\hline
+7        &     5   &    0    &    0
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7500$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $500 \times 1.5$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first multiply the numbers ignoring the decimal points.
+
+$
+\begin{array}{cccccccccccccc}
+         &    5    &    0    &    0 \\
+{}\times &         &    1    &    5 \\
+\hline
+2        &    5    &    0    &    0 \\
+5        &    0    &    0    &    0 \\
+\hline
+7        &     5   &    0    &    0
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is one.
+
+Let's account for the decimal point now. 
+
+$= 750$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$750$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $500 \times 0.15$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first multiply the numbers ignoring the decimal points.
+
+$
+\begin{array}{cccccccccccccc}
+         &    5    &    0    &    0 \\
+{}\times &         &    1    &    5 \\
+\hline
+2        &    5    &    0    &    0 \\
+5        &    0    &    0    &    0 \\
+\hline
+7        &     5   &    0    &    0
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now. 
+
+$= 75$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_sc_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_red question'>
+<div class='uuid'>
 <p>C1C41A7F-D924-446C-8350-2A48FC5ECD4B</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1259,6 +1509,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -1315,6 +1568,9 @@ $62$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1477,6 +1733,9 @@ $72$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 <li>
@@ -1528,6 +1787,9 @@ $5, 10, 9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1724,6 +1986,9 @@ $ 33 $
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -1778,6 +2043,9 @@ $3$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1838,6 +2106,9 @@ $21.6 \ \text{hrs}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2063,6 +2334,9 @@ $\text {square}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -2238,6 +2512,9 @@ $13$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2437,6 +2714,9 @@ $60 \pounds$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -2601,6 +2881,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -2649,6 +2932,55 @@ $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_red question'>
+<div class='uuid'>
+<p>F4652DE7-C2AD-4795-819E-73CC80ABCABB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmiddlenumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the number that is exactly halfway between $6.7$ and $9.1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {6.7 + 9.1} {2} \\\\
+&= \dfrac {15.8} {2} \\\\
+&= 7.9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ac_red</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The London Independent Girls' Schools Consortium</h1>
@@ -68,6 +68,9 @@ $3391$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -115,6 +118,9 @@ $8072$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -161,6 +167,9 @@ $2312$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -212,6 +221,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -251,6 +263,9 @@ $300030$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -398,6 +413,9 @@ $16, \ 22$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -453,6 +471,9 @@ $20.3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -467,6 +488,7 @@ Work out $\dfrac{2}{3}$  of $81$.
 
 $
 \begin{aligned}
+&= \dfrac{2}{3} \ \text {of} \ 81 \\\\
 &= \dfrac {2} {3} \times 81 \\\\
 &= \dfrac {2 \times 81} {3} \\\\
 &= \dfrac {2 \times 27 \times 3} {3} \\\\
@@ -501,6 +523,9 @@ $54$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -552,12 +577,6 @@ $0.06, \ 0.09$
 <li>
 torder
 </li>
-<li>
-tdecimal
-</li>
-<li>
-tnoexplanation
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -570,14 +589,14 @@ $2.3 \quad 2.23 \quad 2.303 \quad 2.203$
 <div class='workings'>
 <div class='working'>
 
-$2.203, \quad 2.23, \quad 2.303, \quad 2.3$
+$2.203, \quad 2.23, \quad 2.3, \quad 2.303$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2.203, \quad 2.23, \quad 2.303, \quad 2.3$
+$2.203, \quad 2.23, \quad 2.3, \quad 2.303$
 
 </div>
 </div>
@@ -597,6 +616,9 @@ $2.203, \quad 2.23, \quad 2.303, \quad 2.3$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -754,6 +776,9 @@ $152$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -836,7 +861,7 @@ $
 \begin{aligned}
 \text {Change received} &= 10 - 4 \times 2.47 \\\\
                         &= 10 - 9.88 \\\\
-                        &= 0.12 \text{p}
+                        &= \pounds 0.12
 \end{aligned}
 $
 
@@ -845,7 +870,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.12 \text{p}$
+$\pounds 0.12$
 
 </div>
 </div>
@@ -868,6 +893,9 @@ $0.12 \text{p}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -1046,6 +1074,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 </ul>
@@ -1159,6 +1190,9 @@ $-7 \degree C$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -1379,6 +1413,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -1437,10 +1474,10 @@ $19$
 <div class='topics'>
 <ul>
 <li>
-tfraction
+tage
 </li>
 <li>
-tage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1458,7 +1495,8 @@ How old is her brother?
 
 $
 \begin{aligned}
-\text{Brother's age} &= 10 \ \text{years} \ 6 \ \text{months} - 1 \ \text{years} \ 8 \ \text{months} \\\\
+\text{Brother's age} &= 10 \dfrac {1} {2} \ \text {years} - 1 \ \text {years} \ 8 \ \text {months} \\\\
+                     &= 10 \ \text{years} \ 6 \ \text{months} - 1 \ \text{years} \ 8 \ \text{months} \\\\
                      &= 8 \ \text{years} \ 10 \ \text{months}
 \end{aligned}
 $
@@ -1488,6 +1526,9 @@ $8 \ \text{years} \ 10 \ \text{months}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1542,6 +1583,9 @@ $2 \ \text{hours} \ 49 \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1658,7 +1702,7 @@ Similarly
 
 Butter required $= 345 \ \text{grams}$
 
-Sugar required $= 345 \ \text{grams$
+Sugar required $= 345 \ \text{grams}$
 
 $
 \begin{aligned}
@@ -1708,7 +1752,6 @@ $
                          &= \dfrac {15 \times \cancel {4} \times 3} {\cancel {4}} \\\\
                          &= 15 \times 3 \\\\
                          &= 45 \ \text{grams}
-
 \end{aligned}
 $
 
@@ -1740,6 +1783,9 @@ $45 \ \text{grams}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1789,6 +1835,9 @@ $1105$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1929,14 +1978,14 @@ Putting only $2$ of the cards together, what is the largest possible square numb
 <div class='workings'>
 <div class='working'>
 
-$25$
+$49$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$25$
+$49$
 
 </div>
 </div>
@@ -1996,6 +2045,9 @@ $71$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2131,6 +2183,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -2239,6 +2294,9 @@ $\text{litres}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -2294,6 +2352,9 @@ $600 \ \text{ml}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -2509,6 +2570,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 <li>
@@ -2711,6 +2775,9 @@ $\text{C and F}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 </ul>
@@ -2882,6 +2949,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -3180,6 +3250,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -3239,6 +3312,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -3291,6 +3367,9 @@ $38$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -3468,6 +3547,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 </ul>
@@ -3528,6 +3610,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -3584,6 +3669,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -3797,6 +3885,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -3944,7 +4035,7 @@ j                       &= 13
 \end{aligned}
 $
 
-Jumpers hung = Shirts hung = 13
+Jumpers hung = Shirts hung $= 13$
 
 </div>
 </div>
@@ -3974,6 +4065,9 @@ $13, \ 13$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -4126,6 +4220,9 @@ $\text{Wednesday}, \ 6{:}00$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -4187,6 +4284,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -4252,6 +4352,9 @@ $378 \ \text{cm} ^ 2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -4413,6 +4516,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>

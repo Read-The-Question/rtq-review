@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-red"
 title: "Topic - Algebra - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -16,9 +16,6 @@ tangle
 </li>
 <li>
 talgebra
-</li>
-<li>
-tdraw
 </li>
 </ul>
 </div>
@@ -59,6 +56,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -119,6 +119,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -164,6 +167,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -215,6 +221,9 @@ $6x + 4y$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -282,6 +291,9 @@ $7$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -344,6 +356,9 @@ $600$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -485,6 +500,9 @@ $\pounds 8.75$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -532,12 +550,91 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ej_red question'>
+<div class='uuid'>
+<p>6B2636D1-144E-416C-AFF5-4E6348F2D18B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two of the angles in a quardilateral are right angles. one of the others is five times larger than the fourth angle.
+
+What is the size of the largest angle?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let third angle be $=x$
+
+And fourth angle be $=y$
+
+As per the question,
+
+$y = 5 x$
+
+As we know, the sum of angles in a quardilateral is $360 \degree$. So,
+
+$
+\begin{aligned}
+90 + 90 + x + y   &= 360 \\\\
+180 + x + 5 x     &= 360 \\\\
+180 + 6 x         &= 360 \\\\
+6 x               &= 360 - 180 \\\\
+x                 &= \dfrac {180} {6} \\\\
+x                 &= \dfrac {6 \times 30} {6} \\\\
+x                 &= \dfrac {\cancel {6} \times 30} {\cancel {6}} \\\\
+x                 &= 30 \degree
+\end{aligned}
+$
+
+$
+\begin{aligned}
+y  &= 5 \times x \\\\
+y  &= 5 \times 30 \\\\
+y  &= 150 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150\degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_bs_red question'>
 <div class='uuid'>
 <p>2512EA6E-6A08-448C-BB2A-C8D9924A368E</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -592,6 +689,9 @@ $42 \text{toffees}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -642,6 +742,9 @@ $14, 12$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -867,6 +970,9 @@ $\text {square}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 <li>
@@ -1027,6 +1133,9 @@ $100 \ \text {bags}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -1155,6 +1264,9 @@ $\pounds 7$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -1264,12 +1376,214 @@ $59$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_red question'>
+<div class='uuid'>
+<p>6692F471-DA27-4415-ADF6-727EF20ED385</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a special code, words are replaced by the **product** of the **whole** numbers assigned to the letters. In the code, each letter is given a different number.
+
+For example:- if $\text{S} = 3$, $\text{P} = 4$ and $\text{Y} = 6$ then the word $\text{SPY} = 3 \times 4 \times 6 = 72$
+
+**Using this same method of creating our special code**, work out the answers to the following **four** questions.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $\text{TEE} = 20$, find the values of $\text{T}$ and $\text{E}$, if **neither** of the letters has the value $1$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+T \times E \times E &= 20 \\\\
+T \times 2E         &= 20 \\\\
+T \times E          &= \dfrac{20} {2} \\\\
+T \times E          &= \dfrac{10 \times 2} {2} \\\\
+T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
+T \times E          &= 10
+\end{aligned}
+$
+
+LCM of $10$ is $2$ and $5$
+
+So,
+
+T = $5$
+
+E = $2$
+
+$5 \times 2 \times 2 = 20$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5, \ 2$ 
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Then with those values for $\text{T}$ and $\text{E}$, if $\text{TEA} = 70$, find the value of $\text{A}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+T \times E \times A &= 70 \\\\
+5 \times 2 \times A &= 70 \\\\
+10 \times A         &= 70 \\\\
+A                   &= \dfrac {70} {10} \\\\
+A                   &= \dfrac {7 \cancel {0}} {1 \cancel {0}} \\\\
+A                   &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Now work out the value of the word $\text{SEAT}$ with the letter values you have, including those in the example at the start.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{SEAT} &= S \times E \times A  \times T \\\\
+            &= 3 \times 2 \times 7  \times 5 \\\\
+            &= 210
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$210$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Finally, if the value of the word $\text{FOAL} = 504$, work out the value of the word $\text{LOAF}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+FOAL and LOAF contain the same alphabets. LOAF is an anagram of FOAL
+
+So, LOAF = $504$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$504$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_ad_red</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
 <p>DD38D637-4C88-49D5-A00B-F650F7D2F6F7</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -1392,6 +1706,9 @@ $140 \ \text{beads}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -1495,6 +1812,9 @@ $\text{The missing numbers are :} 39, 187, 112, 10, 112$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1630,10 +1950,94 @@ $640 \text { mm}$
 <li>
 <div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
+<p>17360B83-7524-4915-9C57-EA134B592244</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the diagram below the straight lines ABG and DEF are parallel. Lines CB and EG are also parallel. Find the angles marked 𝑎, 𝑏, 𝑐 in the diagram.
+
+*The diagram is not drawn accurately*.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Since $DEF \parallel ABG$ and EG is the transversal,
+
+$\angle BGE$ and $\angle GEF$ are alternate interior angles. So,
+$
+\begin{aligned}
+\angle GEF          &= \angle BGE \\\\
+a                   &= 28 \degree \\\\
+\end{aligned} 
+$
+
+Since $CB \parallel EG$ and ABG is the transversal,
+
+$\angle ABC$ and $\angle BGE$ are corresponding angles. So,
+$
+\begin{aligned}
+\angle ABC          &= \angle BGE \\\\
+b                   &= 28 \degree \\\\
+\end{aligned}
+$
+
+Since $DEF \parallel ABG$ and DB is the transversal,
+
+$\angle ABD and \angle BDF$ are alternate interior angles. So,
+
+$
+\begin{aligned}
+\angle ABD          &= \angle BDF \\\\
+b + c               &= 50 \\\\
+28 + c              &= 50 \\\\
+c                   &= 50 - 28 \\\\
+c                   &= 22 \degree
+\end{aligned} 
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_red question'>
+<div class='uuid'>
 <p>8E48E97E-BA10-4089-919F-C660C53FBEF5</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>

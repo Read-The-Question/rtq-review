@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-g2"
 title: "Owner - Chiliveru Aravind - G2"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -63,15 +63,6 @@ $13253$
 <ul>
 <li>
 tnumber
-</li>
-<li>
-tdetailedaddition
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -218,18 +209,6 @@ $584$
 <ul>
 <li>
 tnumber
-</li>
-<li>
-tdetailedaddition
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdecimal
 </li>
 </ul>
 </div>
@@ -384,9 +363,6 @@ $32.4$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -536,6 +512,9 @@ $7929$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -582,6 +561,9 @@ $3288$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -681,6 +663,9 @@ $1080$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -728,6 +713,9 @@ $696$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -779,6 +767,9 @@ $71685$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunit
 </li>
@@ -937,6 +928,9 @@ $8000$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -976,6 +970,9 @@ $48$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1017,7 +1014,7 @@ $56$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -1062,7 +1059,7 @@ $432$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>

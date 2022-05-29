@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nm-red"
 title: "Owner - Neeraj Mani - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -243,9 +246,6 @@ tangle
 <li>
 talgebra
 </li>
-<li>
-tdraw
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -287,9 +287,6 @@ TODOANSWER
 <ul>
 <li>
 tnumber
-</li>
-<li>
-tdecimal
 </li>
 </ul>
 </div>
@@ -476,6 +473,9 @@ $26.18$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 </ul>
@@ -532,6 +532,9 @@ $1.75 \text{kg}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -583,6 +586,9 @@ $8 \dfrac {4} {12}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -636,6 +642,9 @@ $336 \text { hours}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -686,10 +695,13 @@ $524$
 <div class='topics'>
 <ul>
 <li>
-tmoney
+tsimpleword
 </li>
 <li>
-tdecimal
+tratio
+</li>
+<li>
+tmoney
 </li>
 </ul>
 </div>
@@ -736,6 +748,9 @@ $\pounds 3.24$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -804,6 +819,9 @@ $9.3 \text{kg}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -986,6 +1004,9 @@ Manchester
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>

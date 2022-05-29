@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-g1"
 title: "Topic - Geometry - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -58,9 +61,6 @@ $\text {Octagon}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
 <li>
 tgeometry
 </li>
@@ -195,6 +195,9 @@ $16$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -288,6 +291,9 @@ $4 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 <li>
@@ -353,13 +359,10 @@ $54 \ \text{m}$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
-<p>762303C7-0D1C-4345-AD02-7E755C4F0CE4</p>
+<p>6D165971-36D0-4B4A-B952-DF86DAEDFFAF</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
 <li>
 tgeometry
 </li>
@@ -367,76 +370,7 @@ tgeometry
 </div>
 <div class='question question'>
 
-In this diagram what is the value of $x$?
-![missing image](/papers/missing_image.svg)
-
-- $36$
-- $64$
-- $100$
-- $144$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know, 
-
-The sum of angles of a triangle is is $180 \degree$.
-
-Angles on straight line add up to is $180 \degree$.
-
-The circular measure an angle of is $360 \degree$.
-
-As per the diagram,
-
-$
-\begin{aligned}
-x \degree + (180 \degree - 100 \degree) + (360 \degree - 324 \degree)              &= 180 \degree \\\\
-x + 80 + 36                                                                        &= 180 \\\\
-x                                                                                  &= 180 - 80 - 36 \\\\
-x                                                                                  &= 64 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
-<div class='answer'>
-
-$64$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>B2F39BD7-5D8B-4067-8AD3-B1B40BE19482</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is a **right angled triangle** inside a **rectangle**. Calculate the value of angle $x$. Do not use a protractor.
+How many different sized acute angles are there in the diagram below?
 
 ![missing image](/papers/missing_image.svg) 
 
@@ -444,47 +378,25 @@ Here is a **right angled triangle** inside a **rectangle**. Calculate the value 
 <div class='workings'>
 <div class='working'>
 
-Let the third angle of triangle $=a$
+As we know, an acute angle is an angle that measures between $90 \degree$ and $0 \degree$.
 
-As we know, the sum of angles on a straight line is $180 \degree$.
-
-As per the diagram,
-
-$
-\begin{aligned}
-83 + a + 58  &= 180 \\\\
-141 + a      &= 180 \\\\
-a            &= 180 - 141 \\\\
-a            &= 39 \degree
-\end{aligned}
-$
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
-$
-\begin{aligned}
-x + 39 + 90  &= 180 \\\\
-x + 129      &= 180 \\\\
-x            &= 180 - 129 \\\\
-x            &= 51 \degree 
-\end{aligned}
-$
+As per the diagram, there are $2$ acute angles.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$51 \degree$
+$2$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g1</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -495,6 +407,9 @@ $51 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -538,6 +453,9 @@ $\text {Pentagon}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 </ul>
@@ -577,6 +495,9 @@ $\text {Cuboid}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -619,6 +540,9 @@ $14$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -738,193 +662,15 @@ $\text {Parallelogram}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>15416CC2-104A-4AFC-B2E3-BD1EFCF2BC21</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the name that is given to this type of triangle.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Isosceles triangle}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Isosceles triangle}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Showing your working, calculate the size of the angle:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-$x \degree$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As the triangle is an isosceles triangle, the third angle is also $= a$
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
-$
-\begin{aligned}
-x + 40 + x  &= 180 \\\\
-2 x + 40    &= 180 \\\\
-2 x         &= 180 - 40 \\\\
-2 x         &= 140 \\\\
-x           &= \dfrac {140} {2} \\\\
-x           &= \dfrac {70 \times 2} {2} \\\\
-x           &= \dfrac {70 \times \cancel {2}} {\cancel {2}} \\\\
-x           &= 70 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$70 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-$y \degree$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-x + y  &= 180 \\\\
-70 + y &= 180 \\\\
-y      &= 180 - 70 \\\\
-y      &= 110 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$110 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
 <p>A8B52462-A833-4D1A-AD6D-8D8F5E26916D</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -1101,6 +847,9 @@ $1.2,4.8$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -1177,6 +926,9 @@ $\dfrac{45}{4}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -1274,6 +1026,9 @@ Cylinder
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1403,6 +1158,9 @@ $8$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -1451,25 +1209,29 @@ $\dfrac {7} {19}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
-<p>D5B7995B-1A69-47C2-AD74-3593471D778A</p>
+<p>99A136E5-4463-4C0B-8C30-09F313B15F04</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tangle
+tunassigned
 </li>
 <li>
 tgeometry
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tcircle
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-The diagram below shows a triangle [not drawn to scale]. 
-
-Calculate each of the angles marked $x$ and $y$.
+The diagram below shows a **regular** eight-sided polygon.
 
 ![missing image](/papers/missing_image.svg)
 
@@ -1477,28 +1239,126 @@ Calculate each of the angles marked $x$ and $y$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+%empty%
 
-As per the diagram,
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the special name given to a polygon with eight sides?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Octagon}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Octagon}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the word below which describes the type of angle inside the polygon at $A$.
+
+- acute 
+- reflex 
+- right-angle 
+- obtuse
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{obtuse}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{obtuse}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$CD$ measures $34 \ \text{mm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Write this measurement in centimetres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{cm} = 10 \ \text{mm}$
 
 $
 \begin{aligned}
-x + 63 \degree          &= 180 \degree  \\\\
-x                       &= 180 - 63 \\\\
-x                       &= 117 \degree
-\end{aligned}
-$
-
-As we know, the sum of angles in a triangle is $180 \degree$. 
-
-As per the diagram,
-
-$
-\begin{aligned}
-y + 63 \degree + 88 \degree         &= 180 \degree \\\\
-y + 151                             &= 180 \\\\
-y                                   &= 180 - 151 \\\\
-y                                   &= 29 \degree
+&= 34 \ \text{mm} \\\\
+&= \dfrac {34} {10} \ \text{cm} \\\\
+&= 3.4 \ \text{cm}
 \end{aligned}
 $
 
@@ -1507,71 +1367,33 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$x = 117 \degree, \ \ y = 29 \degree$
+$3.4 \ \text{cm}$
 
 </div>
 </div>
 
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_g1</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
-<div class='uuid'>
-<p>93995941-DF79-4306-A16E-1B3F36315184</p>
-</div>
+<div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
-<li>
-tgeometry
-</li>
 </ul>
 </div>
-<div class='question question'>
+<div class='question subsubquestion'>
 
-What is the size of the angle marked $χ$ in the diagram below? [diagram not drawn to scale]
+Adam the ant runs once around the perimeter of the polygon.
 
-![missing image](/papers/missing_image.svg)
+How far does Adam run?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the other angles in the triangle $=a, b$
-
-As we know, the sum of angles in a straight line is $180 \degree$.
-
 $
 \begin{aligned}
-a               &= 180 - 110 \\\\
-a              &= 70 \degree
-\end{aligned}
-$
-
-$
-\begin{aligned}
-b               &= 180 - 100 \\\\
-b              &= 80 \degree
-\end{aligned}
-$
-
-As we know, the sum of angles in a triangle is $180 \degree$.
-
-$
-\begin{aligned}
-χ + a + b           &= 180 \\\\
-χ                   &= 180 - a - b \\\\
-χ                   &= 180 - 70 - 80 \\\\
-χ                   &= 180 - 150 \\\\
-χ                   &= 30 \degree \\\\
+\text{Distance covered by Adam} &= 8 \times 3.4 \\\\
+                                &= 27.2 \ \text{cm}
 \end{aligned}
 $
 
@@ -1580,16 +1402,22 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$30 \degree$
+$27.2 \ \text{cm}$
 
 </div>
 </div>
 
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_g1</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

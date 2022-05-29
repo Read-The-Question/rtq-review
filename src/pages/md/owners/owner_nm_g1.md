@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nm-g1"
 title: "Owner - Neeraj Mani - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,10 +12,7 @@ date: 2022-05-28 14:33:22
 <div class='topics'>
 <ul>
 <li>
-tfraction
-</li>
-<li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -66,6 +63,9 @@ $1.5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -218,6 +218,9 @@ $11 \quad 10.25$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -320,6 +323,9 @@ $2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -383,6 +389,9 @@ $85 \ \text {pence}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -441,9 +450,6 @@ $\dfrac {1} {20}, \quad \dfrac {1} {5}, \quad \dfrac {1} {4}, \quad \dfrac {3} {
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
 <li>
 tgeometry
 </li>
@@ -634,6 +640,9 @@ $12$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -695,6 +704,9 @@ $\dfrac {3} {10}, \quad 0.305, \quad \dfrac {1} {3}, \quad 35 \%$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -847,6 +859,9 @@ $24 \quad 48 \quad 96$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -906,6 +921,9 @@ $135 \ \text {pence}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -1058,6 +1076,9 @@ $18.5 \quad 23$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -1107,13 +1128,7 @@ $\dfrac {5} {8}$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tfraction
+tnumber
 </li>
 </ul>
 </div>
@@ -1226,6 +1241,9 @@ $12.5 \%$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1343,6 +1361,9 @@ $17:20$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -1475,6 +1496,9 @@ $\pounds 0.45$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -1669,6 +1693,9 @@ $1.6 \ \text {m}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -1804,6 +1831,9 @@ $6 \ \text {pairs}$
 <div class='topics'>
 <ul>
 <li>
+tdetailedsubtraction
+</li>
+<li>
 tdecimal
 </li>
 </ul>
@@ -1850,6 +1880,9 @@ $1.05$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -1992,6 +2025,9 @@ $23.5 \quad 21$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -2039,7 +2075,7 @@ $70$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -2281,6 +2317,9 @@ $35 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -2405,6 +2444,9 @@ $32 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -2635,6 +2677,9 @@ $13, \quad 17$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -2684,7 +2729,7 @@ $48$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -2799,6 +2844,9 @@ $0.16$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -2850,6 +2898,9 @@ $\dfrac {15} {26}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentageadvance
 </li>
@@ -2932,6 +2983,9 @@ $90 \ \text {ml}$
 <div class='topics'>
 <ul>
 <li>
+tdetailedsubtraction
+</li>
+<li>
 tdecimal
 </li>
 </ul>
@@ -2978,6 +3032,9 @@ $3.787$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -3222,6 +3279,9 @@ $120, \quad 5040$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -3271,7 +3331,7 @@ $120$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -3384,6 +3444,9 @@ $0.3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -3444,6 +3507,9 @@ $\dfrac {11} {35}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -3494,6 +3560,9 @@ $58 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -3648,6 +3717,9 @@ $50$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 <li>
@@ -3721,6 +3793,9 @@ $\pounds 26$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -3927,6 +4002,9 @@ $6, \quad -3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -4076,7 +4154,7 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -4190,6 +4268,9 @@ $0.85$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -4435,6 +4516,9 @@ $36 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -4659,6 +4743,9 @@ $\dfrac {9} {2}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -4700,6 +4787,9 @@ $2.03 \quad 2.3 \quad 2.302 \quad 2.32$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -4826,6 +4916,9 @@ $250 \text {g}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -4954,6 +5047,9 @@ $10^2 + 21 = 121$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -5069,6 +5165,9 @@ $5.44 \ \text {p.m.}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 </ul>
@@ -5124,6 +5223,9 @@ $200 \ \text {miles}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -5249,6 +5351,9 @@ $196 \ \text {cm} ^2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -5322,13 +5427,7 @@ $50 \ \text{cm} ^2$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
-</li>
-<li>
-tfraction
-</li>
-<li>
-tpercentage
+tnumber
 </li>
 </ul>
 </div>
@@ -5476,6 +5575,9 @@ $\dfrac {3} {5}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -5545,6 +5647,9 @@ $\pounds 5.06$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfactor
 </li>
@@ -5718,12 +5823,6 @@ $17$
 <li>
 torder
 </li>
-<li>
-tdecimal
-</li>
-<li>
-tfraction
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -5836,6 +5935,9 @@ $\dfrac {2} {5},  \quad \dfrac {1} {2},  \quad dfrac {2} {3},  \quad \dfrac {3} 
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 </ul>
@@ -5884,6 +5986,9 @@ $45$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -6006,6 +6111,9 @@ $340$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -6133,6 +6241,9 @@ $\pounds 4.80$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -6196,6 +6307,9 @@ $\pounds 15$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -6275,6 +6389,9 @@ $\dfrac {1} {6}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -6334,6 +6451,9 @@ $18$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -6376,6 +6496,9 @@ $\text {Four million forty thousand four hundred forty}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -6425,6 +6548,9 @@ $111 \ \text {minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -6485,7 +6611,10 @@ $7.7 \ \text {m}$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
+</li>
+<li>
+tmiddlenumber
 </li>
 </ul>
 </div>
@@ -6543,6 +6672,9 @@ $0.142$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -6598,6 +6730,9 @@ $9 \ \text {hours}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -6662,6 +6797,9 @@ $3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -6721,6 +6859,9 @@ $40 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -6771,10 +6912,10 @@ $210$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tage
 </li>
 <li>
-tage
+talgebra
 </li>
 </ul>
 </div>
@@ -6834,6 +6975,9 @@ $14$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -6880,6 +7024,9 @@ $9886543$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -6940,6 +7087,9 @@ $22$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -6990,6 +7140,9 @@ $14$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -7058,6 +7211,9 @@ $\pounds 64$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -7110,6 +7266,9 @@ $\pounds 4.15$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -7153,6 +7312,9 @@ $\text {ten}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tdetailedsubtraction
+</li>
 <li>
 tdecimal
 </li>
@@ -7202,6 +7364,9 @@ $33.33$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -7263,10 +7428,7 @@ $32$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
-</li>
-<li>
-tfraction
+tnumber
 </li>
 </ul>
 </div>
@@ -7376,6 +7538,9 @@ $0.45$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 </ul>
@@ -7424,6 +7589,9 @@ $480$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -7475,6 +7643,9 @@ $960$
 <div class='topics'>
 <ul>
 <li>
+tnumber
+</li>
+<li>
 tdecimal
 </li>
 </ul>
@@ -7519,6 +7690,9 @@ $0.06$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunit
 </li>
@@ -7629,6 +7803,9 @@ $2300000 \ \text {millilitres}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -7676,6 +7853,9 @@ $2, 5, 11$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -7752,6 +7932,9 @@ $1$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -7802,6 +7985,9 @@ $92 \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -7856,6 +8042,9 @@ $80 \ \text {cm} ^2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -7962,6 +8151,9 @@ $5600$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -8008,6 +8200,9 @@ $478$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -8070,6 +8265,9 @@ $16 \ \text {p}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -8112,6 +8310,9 @@ $2020020$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunit
 </li>
@@ -8158,6 +8359,9 @@ $2.5 \ \text {grams}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -8207,6 +8411,9 @@ $\dfrac {11} {4}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -8262,6 +8469,9 @@ $6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -8313,10 +8523,10 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tage
 </li>
 <li>
-tage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -8365,7 +8575,7 @@ $53$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tdivision
 </li>
 </ul>
 </div>
@@ -8415,6 +8625,9 @@ $20$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -8477,6 +8690,9 @@ $90$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -8537,6 +8753,9 @@ $22$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -8599,7 +8818,7 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -8650,6 +8869,9 @@ $0.005$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -8698,6 +8920,9 @@ $4109$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -8936,6 +9161,9 @@ $-5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -9062,6 +9290,9 @@ $52$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -9214,6 +9445,9 @@ $2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>

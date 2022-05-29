@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-notstarted"
 title: "Topic - Probability - Not Started"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -68,9 +68,6 @@ TODOANSWER
 <ul>
 <li>
 tprobability
-</li>
-<li>
-tcoin
 </li>
 </ul>
 </div>
@@ -264,6 +261,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -336,9 +336,6 @@ TODOANSWER
 <ul>
 <li>
 tprobability
-</li>
-<li>
-ttable
 </li>
 </ul>
 </div>
@@ -962,6 +959,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -1442,6 +1442,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgraph
 </li>
 <li>
@@ -1710,9 +1713,6 @@ TODOANSWER
 <li>
 tprobability
 </li>
-<li>
-tinfer
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1928,6 +1928,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -2179,19 +2182,13 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tinfer
+</li>
+<li>
 tprobability
 </li>
 <li>
 tarea
-</li>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-<li>
-tlogic
 </li>
 </ul>
 </div>
@@ -2451,9 +2448,6 @@ TODOANSWER
 <ul>
 <li>
 tprobability
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -3277,6 +3271,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 <li>
@@ -3446,6 +3443,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -3672,6 +3672,9 @@ TODOANSWER
 <ul>
 <li>
 tprobability
+</li>
+<li>
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -4047,7 +4050,7 @@ TODOANSWER
 tprobability
 </li>
 <li>
-tdraw
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -4191,6 +4194,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -4382,146 +4388,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>591380D5-0D24-4220-9C89-328954BC831D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In six of her end of term tests, each out of $50$ marks, 
-Madhia scores $48$ in Mathematics, $37$ in Physics, $40$ in English, 
-$48$ in Chemistry, $36$ in biology and $31$ in Geography. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the mode of Madhika's six scores?
-- $48$
-- $37$
-- $30$
-- $31$
-- $40$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate her mean average score.
-
-- $36$
-- $37$
-- $38$
-- $39$
-- $40$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -5055,6 +4921,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttable
 </li>
 <li>
@@ -5196,6 +5065,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 <li>
@@ -5329,9 +5201,6 @@ TODOANSWER
 <ul>
 <li>
 tprobability
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -5649,6 +5518,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -6584,6 +6456,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -7030,6 +6905,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 <li>
@@ -7195,6 +7073,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -7512,6 +7393,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>

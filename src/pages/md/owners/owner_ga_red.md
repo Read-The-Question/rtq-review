@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ga-red"
 title: "Owner - Gifty Abhishek - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdecimal
 </li>
@@ -88,6 +91,9 @@ Between $1000$ and $1100$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tratio
 </li>
@@ -170,6 +176,9 @@ $750 \text{ ml}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsymmetry
 </li>
 </ul>
@@ -215,6 +224,9 @@ $1$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -288,6 +300,9 @@ $2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tlogic
 </li>
@@ -375,7 +390,7 @@ $24$
 <div class='topics'>
 <ul>
 <li>
-tangle
+tinfer
 </li>
 </ul>
 </div>
@@ -543,6 +558,9 @@ Point D
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -683,6 +701,9 @@ $\pounds 8.75$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -747,6 +768,9 @@ $\pounds 30000$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -826,6 +850,9 @@ $140 \text { ml}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvenn
 </li>
@@ -910,6 +937,9 @@ Brown-eyed Brunettes $= 13$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-amber"
 title: "Topic - Clock - Amber"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,12 +11,6 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
-<li>
-ttime
-</li>
 <li>
 tclock
 </li>
@@ -167,6 +161,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -324,9 +321,6 @@ TODOANSWER
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 </ul>
 </div>

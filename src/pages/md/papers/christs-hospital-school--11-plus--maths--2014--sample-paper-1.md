@@ -1,7 +1,7 @@
 ---
 slug: "papers/christs-hospital-school-11-plus-maths-2014-sample-paper-1"
 title: "Christs Hospital School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Christ's Hospital School</h1>
@@ -22,6 +22,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -167,6 +170,9 @@ $42$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -211,6 +217,9 @@ $\pounds 29.95$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -264,7 +273,7 @@ $
 &&  \footnotesize {\maroonC {(+4)} }
 &&  \footnotesize {\maroonC {(+4)} }
 &&  \footnotesize {\maroonC {(+4)} }  \\
-7,  &&    11,  &&  15,  &&   19,  &&   \ldots  &&   \ldots
+7,  &&    11,  &&  15,  &&   19,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
 
@@ -317,7 +326,7 @@ $
 &&  \footnotesize {\maroonC {(\div 2)} }
 &&  \footnotesize {\maroonC {(\div 2)} }
 &&  \footnotesize {\maroonC {(\div 2)} }  \\
-96,  &&    48,  &&  24,  &&   12,  &&   \ldots  &&   \ldots
+96,  &&    48,  &&  24,  &&   12,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
 
@@ -361,6 +370,8 @@ $
 
 Let's find the difference between the consecutive terms of the sequence.
 
+The next term is calculated by adding $1$ more to difference between the previous sequence. Hence, the sequence would be:
+
 $
 \begin {matrix}
 &   \footnotesize {\maroonC {(+2)} }
@@ -368,7 +379,7 @@ $
 &&  \footnotesize {\maroonC {(+4)} }
 &&  \footnotesize {\maroonC {(+5)} }
 &&  \footnotesize {\maroonC {(+6)} }  \\
-2,  &&    4,  &&  7,  &&   11,  &&   \ldots  &&   \ldots
+2,  &&    4,  &&  7,  &&   11,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
 
@@ -403,7 +414,7 @@ $16, \ 22$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>CFF3BE59-53C8-4689-9970-4DE5520555CE</p>
 </div>
@@ -451,7 +462,7 @@ $60 \ \text {degrees}$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -462,6 +473,9 @@ $60 \ \text {degrees}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunit
 </li>
@@ -509,6 +523,9 @@ $350 \ \text{mm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 </ul>
@@ -554,6 +571,9 @@ $2.750 \ \text {kilograms}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -694,6 +714,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -806,6 +829,9 @@ $142$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -966,6 +992,9 @@ Hence, Molly is WRONG.
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunitprompt
 </li>
 <li>
@@ -1025,6 +1054,9 @@ $\text {One-quarter}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -1063,12 +1095,15 @@ $29, 31, 37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>5A9496E7-B32E-4AE6-87D8-FC2CF250E29B</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentageadvance
 </li>
@@ -1116,7 +1151,7 @@ $12 \%$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -1127,6 +1162,9 @@ $12 \%$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -1178,6 +1216,9 @@ $128$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -1227,6 +1268,9 @@ $1848$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -1284,9 +1328,6 @@ TODOANSWER
 <ul>
 <li>
 tstatistics
-</li>
-<li>
-tage
 </li>
 </ul>
 </div>
@@ -1484,12 +1525,15 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>390841FC-F40F-4579-93B4-7F3BE8284DF2</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -1535,7 +1579,7 @@ $7$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -1546,6 +1590,9 @@ $7$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tdetailedmultiplication
+</li>
 <li>
 tdecimal
 </li>
@@ -1605,7 +1652,7 @@ $17.28$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -1733,6 +1780,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -1877,12 +1927,15 @@ $92$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>83171B40-5CB7-43E9-84C7-6F8C993632BD</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -2033,7 +2086,7 @@ $40 \ \text {cm} ^ 2$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -2044,6 +2097,9 @@ $40 \ \text {cm} ^ 2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2189,6 +2245,9 @@ $27$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -2267,13 +2326,13 @@ How many pounds would be worth the same as $€300$ (euros)?
 <div class='workings'>
 <div class='working'>
 
-As per the answer above,
+As per the above answer,
 
 $
 \begin {aligned}
 \pounds 500                 &= € 600 \\\\
 \pounds \dfrac {500} {2}    &= € \dfrac {600} {2} \\\\
-€ 300                       &= \pounds 250
+\pounds 250                 &= € 300
 \end {aligned}
 $
 
@@ -2309,13 +2368,26 @@ As per the above answers,
 
 $
 \begin {aligned}
-\pounds 600     &= \pounds 500 + \pounds 100 \\\\
-                &= € 600 + € 120 \\\\
-                &= € 720
+\text {Bruno has}   &= \pounds 600 \\\\
+                    &= \pounds 500 + \pounds 100 \\\\
+                    &= € 600 + € 120 \\\\
+                    &= € 720
 \end {aligned}
 $
 
-Bruno has $€ 720$ and Marie has $€ 700$. Bruno has $€ 20$ more than Marie.
+Let's find who has the most money.
+
+$
+\begin {aligned}
+&= \text {Bruno} - \text {Marie} \\\\
+&= € 720 - € 700 \\\\
+&= € 20
+\end {aligned}
+$
+
+Bruno $\pounds 600$ > Marie $ € 700$
+
+Bruno has $€ 20$ more than Marie.
 
 </div>
 </div>
@@ -2349,6 +2421,9 @@ $\text {Bruno}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -2432,9 +2507,6 @@ TODOANSWER
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2488,6 +2560,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2547,6 +2622,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tratio
 </li>
 </ul>
@@ -2602,6 +2680,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -2660,6 +2741,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2724,6 +2808,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -2781,6 +2868,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2840,6 +2930,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -2897,6 +2990,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttrialerror
 </li>

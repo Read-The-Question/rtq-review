@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-pr"
 title: "Topic - Fraction - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -55,6 +58,7 @@ $
 &= \dfrac{2}{5} + \dfrac{3}{8} \\\\
 &= \dfrac{2 \times 8}{5 \times 8} + \dfrac{3 \times 5}{8 \times 5} \\\\
 &= \dfrac{16}{40} + \dfrac{15}{40} \\\\
+&= \dfrac{16 + 15}{40} \\\\
 &= \dfrac{31}{40}
 \end{aligned}
 $
@@ -123,6 +127,9 @@ $\dfrac{1} {5}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -184,6 +191,9 @@ Test $1$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -247,6 +257,9 @@ $\dfrac{6}{8}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -295,6 +308,9 @@ $\dfrac {1} {2}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -353,6 +369,9 @@ $\dfrac {4} {5}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -407,6 +426,9 @@ $\dfrac{3} {10}, \dfrac{1}{3}, \dfrac{10}{3}, \dfrac{3}{1}, \dfrac{3}{6}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -469,6 +491,9 @@ $\pounds 168$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -519,6 +544,9 @@ $14$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -537,7 +565,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {First friends share} - \text {Second friends share} \\\\
+\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {1st friends share} - \text {2nd friends share} \\\\
                                 &= 1 - \dfrac {1} {5} - \dfrac {3} {10} \\\\
                                 &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {1 \times 2} {5 \times 2} - \dfrac {3} {10} \\\\
                                 &= \dfrac {10} {10} - \dfrac {2} {10} - \dfrac {3} {10} \\\\
@@ -574,6 +602,9 @@ $\dfrac {1} {2}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -625,6 +656,9 @@ $\dfrac {1} {12}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -675,6 +709,9 @@ $\dfrac {1} {10}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -734,6 +771,9 @@ $15$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -783,6 +823,9 @@ $\dfrac {1} {15}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -850,6 +893,9 @@ $12$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -904,6 +950,9 @@ $2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -982,6 +1031,9 @@ $48$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -1129,6 +1181,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -1190,6 +1245,9 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -1375,9 +1433,6 @@ $15$
 <li>
 tfraction
 </li>
-<li>
-tmoney
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1402,9 +1457,9 @@ $
 \begin {aligned}
 &= \dfrac {80} {100} \times 535 \\\\
 &= \dfrac {80 \times 535} {100} \\\\
-&= \dfrac {42,800} {100} \\\\
-&= \dfrac {42,8 \cancel{00}} {1\cancel{00}} \\\\
-&= 428
+&= \dfrac {42800} {100} \\\\
+&= \dfrac {428 \cancel{00}} {1\cancel{00}} \\\\
+&=  \pounds 428
 \end {aligned}
 $
 
@@ -1413,7 +1468,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds428$
+$\pounds 428$
 
 </div>
 </div>
@@ -1433,6 +1488,9 @@ $\pounds428$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -1683,6 +1741,9 @@ $\dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -1739,6 +1800,9 @@ $\dfrac{5}{11}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1996,6 +2060,9 @@ $\dfrac {10} {3}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -2274,252 +2341,13 @@ $2 \ \dfrac {12} {13}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>002CE465-5C32-4749-89F4-8D638E9BD366</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a $\underline{fraction}$ between $0.8$ and $0.9$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Half-way between two numbers is the same as finding the average of two numbers.
-
-$
-\begin{aligned}
-&= \dfrac {0.8 + 0.9} {2} \\\\
-&= \dfrac {1.7} {2} \\\\
-&= \dfrac {1.7 \times 10} {2 \times 10} \\\\
-&= \dfrac {17} {20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {17} {20}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a $\underline{decimal}$ between $\dfrac{2}{5}$ and $\dfrac{1}{2}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Half-way between two numbers is the same as finding the average of two numbers.
-
-$
-\begin{aligned}
-&= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
-&= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
-&= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
-&= \dfrac {\dfrac {4 + 5} {10}} {2} \\\\
-&= \dfrac {9} {10 \times 2} \\\\
-&= \dfrac {9} {20}\\\\
-&= 0.45
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.45$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>A5348D26-A0E4-42B9-BBF8-248FF7506613</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdecimal
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a $\underline{fraction}$ between $0.5$ and $0.6$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Half-way between two numbers is the same as finding the average of two numbers.
-
-$
-\begin{aligned}
-&= \dfrac {0.5 + 0.6} {2} \\\\
-&= \dfrac {1.1} {2} \\\\
-&= \dfrac {1.1 \times 10} {2 \times 10} \\\\
-&= \dfrac {11} {20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {11} {20}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a $\underline{decimal}$ between $\dfrac{3}{4}$ and $1$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Half-way between two numbers is the same as finding the average of two numbers.
-
-$
-\begin{aligned}
-&= \dfrac {\dfrac {3} {4} + 1} {2}\\\\
-&= \dfrac {\dfrac {3} {4} + \dfrac {1 \times 4} {1 \times 4}} {2} \\\\
-&= \dfrac {\dfrac {3} {4} + \dfrac {4} {4}} {2} \\\\
-&= \dfrac {\dfrac {3 + 4} {4}}} {2} \\\\
-&= \dfrac {7} {4 \times 2} \\\\
-&= \dfrac {7} {8}\\\\
-&= 0.875
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.875$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -2580,132 +2408,13 @@ $\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>5533A075-BAD7-4675-83E0-25352274D043</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdecimal
-</li>
-<li>
-tfraction
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a decimal between $75\%$ and $80\%$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {75\% + 80\%} {2} \\\\
-&= \dfrac {155\%} {2} \\\\
-&= 77.5\% \\\\
-&= \dfrac {77.5} {100} \\\\
-&= 0.775
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.775
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a fraction between $60\%$ and $70\%$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {60\% + 70\%} {2} \\\\
-&= \dfrac {130\%} {2} \\\\
-&= \dfrac {130} {100 \times 2} \\\\
-&= \dfrac {130} {200} \\\\
-&= \dfrac {130} {200} \\\\
-&= \dfrac {10 \times 13} {10 \times 20} \\\\
-&= \dfrac {\cancel{10} \times 13} {\cancel{10} \times 20} \\\\
-&= \dfrac {13} {20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {13} {20}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>1A84B2C9-4A73-42D5-8C02-943A1F327DCC</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -2759,242 +2468,15 @@ $\text{Fraction of flag shaded}         &= \dfrac {1} {6} \\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>7F7BEB1F-1352-462D-862B-8AEFB56B58F6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdecimal
-</li>
-<li>
-tfraction
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down a decimal between $90\%$ and $95\%$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first list down other percentages between $90\%$ and $95\%$ and then convert one of them into decimal, as asked in the question.
-
-
-\begin{aligned}
-&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
-\end{aligned}
-
-
-Let's convert 92\% into decimal.
-
-
-\begin{aligned}
-&= \dfrac {92} {100}\\\\
-&= 0.92
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {90\% + 95\%} {2} \\\\
-&= \dfrac {185\%} {2} \\\\
-&= 92.5\% \\\\
-&= \dfrac {92.5} {100} \\\\
-&= 0.925
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.925$
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a decimal between $80\%$ and $90\%$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {80\% + 90\%} {2} \\\\
-&= \dfrac {170\%} {2} \\\\
-&= \dfrac {170} {100 \times 2} \\\\
-&= \dfrac {170} {200} \\\\
-&= \dfrac {170} {200} \\\\
-&= \dfrac {10 \times 17} {10 \times 20} \\\\
-&= \dfrac {\cancel{10} \times 17} {\cancel{10} \times 20} \\\\
-&= \dfrac {17} {20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {17} {20}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>41E24F51-54D1-465E-BE3F-59870A03565B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the following fractions as decimals:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\frac {3} {5}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac{3}{5} \\\\
-&= \dfrac{3 \times 2}{5 \times 2} \\\\
-&= \dfrac {6} {10} \\\\
-&= 0.6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.6$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1\frac {3} {8}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 1 \dfrac{3}{5}
-&= \dfrac {5 + 3} {5} \\\\
-&= \dfrac {8} {5} \\\\
-&= \dfrac {8 \times 2} {5 \times 2} \\\\
-&= \dfrac {16} {10} \\\\
-&= 1.6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.6$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>4C1B8DCB-8650-45C7-B21F-9B7053AD00F7</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -3052,6 +2534,9 @@ $\dfrac {a} {3}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -3168,6 +2653,9 @@ $15$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -3318,6 +2806,9 @@ $\dfrac {89} {99}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -3379,6 +2870,9 @@ $\dfrac {4} {9}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -3444,6 +2938,9 @@ $\dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -3493,6 +2990,9 @@ $\dfrac {7} {8} \ \text{km}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -3553,6 +3053,9 @@ $450 \ \text {seconds}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -3668,6 +3171,9 @@ $\dfrac {3} {7}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -3843,6 +3349,9 @@ $128$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentageadvance
 </li>
 <li>
@@ -3992,6 +3501,9 @@ $\dfrac {3} {8}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentageadvance
 </li>
 <li>
@@ -4138,6 +3650,9 @@ $30 \%$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -4249,6 +3764,9 @@ $1\dfrac{3}{4}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -4365,6 +3883,9 @@ $\dfrac{3}{25}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -4488,6 +4009,9 @@ $\dfrac{1}{3}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -4640,6 +4164,9 @@ $\dfrac {7}{2}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -4781,74 +4308,13 @@ $30$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>FB54FC28-0CE7-4805-A51B-22A1806749EC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put a circle around all the numbers that are between $2.2$ and $2.6$
-
-$2 \dfrac{1}{2} \quad 2 \dfrac{1}{7} \quad 2 \dfrac{6}{11} \quad 2 \dfrac{2}{5} \quad 2 \dfrac{1}{10}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's convert all the frations into decimals.
-
-$
-\begin{aligned}
-2 \dfrac{1}{2}      &= \dfrac{5}{2} = 2.5 \\\\
-2 \dfrac{1}{7}      &= \dfrac{15}{7} = 2.14 \\\\
-2 \dfrac{6}{11}     &= \dfrac{28}{11} = 2.55 \\\\
-2 \dfrac{2}{5}      &= \dfrac{12}{5} = 2.4 \\\\
-2 \dfrac{1}{10}     &= \dfrac{21}{10} = 2.1 \\\\
-\end{aligned}
-$
-
-Numbers between $2.2$ and $2.6$
-
-$
-\begin{aligned}
-&= 2.5, \quad 2.55, \quad 2.4 \\\\
-&= 2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>BD661B8E-C952-4FE7-B2A9-FBC925EF303A</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -5009,6 +4475,9 @@ $10 \ \text{piles} + 3 \ \text{Quacks} + 1 \ \text{Moos}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -5071,6 +4540,9 @@ $8, 27$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnoexplanation
 </li>
@@ -5180,6 +4652,9 @@ $3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -5226,6 +4701,9 @@ $22$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -5277,6 +4755,9 @@ $15$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -5339,6 +4820,9 @@ $\pounds 120$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -5491,6 +4975,9 @@ $=17500 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -5542,89 +5029,79 @@ $\dfrac{13}{20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>3E0E5DE9-1583-44E0-BBF6-BB26C7321B11</p>
+<p>C74F6145-1D9D-471D-9081-11DC74346EC6</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
-tinfer
+ttime
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-A bus has $35$ passengers on board. At the first stop two-fifths get off and then $7$ people get on. 
-At the next stop a quarter of the people remaining on the bus get off and then $13$ get on. 
-How many passengers are there on the bus now?
+The new TV channel, Lazy Living, broadcasts for $98 \ \text{hours}$ a week. 
+If two-sevenths of its output is devoted to make-over programmes and the rest to celebrity gossip, 
+for how many hours each week does the channel broadcast programmes on celebrity gossip?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-As per question, 
-
-At the first stop two-fifths of the $35$ passengers got down and then $7$ people get on. 
-
-Let's put the above information in equation form and find out how many passengers were on the bus after the first stop. 
-
-$35 - \bigg({\dfrac {2}{5}} \ \text {of} \ 35 \bigg) + 7$
-
-Let's solve the equation.
 
 $
 \begin{aligned}
-& = 35 -  \bigg(\dfrac {2} {5} \times 35 \bigg) + 7 \\\\
-& = 35 -  \bigg(\dfrac {2 \times 35} {5} \bigg) + 7 \\\\
-& = 35 -  \bigg(\dfrac {2 \times 5 \times 7} {5} \bigg) + 7 \\\\
-& = 35 -  \bigg(\dfrac {2 \times \cancel {5} \times 7} {\cancel {5}} \bigg) + 7 \\\\
-& = 35 - (2 \times 7) + 7 \\\\
-& = 35 - 14 + 7 \\\\
-& = 28 \ \text {passengers}
+    \text{Make-over programmes}                     & = \dfrac {2}{7} \ \text {of \ } 98 \ \text{hours}                  \\\\
+    \text{Total Broadcast time}                     & = 98 \ \text{hours a week}                                         \\\\
+    \text{Total Broadcast time} \ 98 \ \text{hours} & = \dfrac {7}{7}                                                    \\\\ \text {So,}
+    \text{Celebrity gossip}                         & = \dfrac {7}{7} - \dfrac {2}{7}\ \text {of \ } 98 \ \ \text{hours} \\\\
+                                                    & = \dfrac {7-2}{7}                                                  \\\\
+                                                    & = \dfrac {5}{7}                                                    
 \end{aligned}
 $
 
-When the bus left for the next stop the count of passengers was $28$.
-
-At next stop a quarter i.e.,  $\dfrac {1}{4}$ of the $28$ remaining passengers from first stop got down and then $13$ people get on. 
-
-Let's put the above information in equation form and find the passengers at the next stop.
-
-$28 - \bigg({\dfrac {1}{4}} \ \text {of} \ 28 \bigg) + 13$
+Let's find the total hours of celebrity gossip's broadcasted by the channel each week.
 
 $
 \begin{aligned}
-& = 28 -  \bigg(\dfrac {1} {4} \ \text {of} \ 28 \bigg) + 13 \\\\
-& = 28 -  \bigg(\dfrac {1} {4} \times 28 \bigg) + 13 \\\\
-& = 28 -  \bigg(\dfrac {1} {4} \times 4 \times 7 \bigg) + 13 \\\\
-& = 28 -  \bigg(\dfrac {4 \times 7} {4} \bigg) + 13 \\\\
-& = 28 -  \bigg(\dfrac {\cancel {4} \times 7} {\cancel {4} } \bigg) + 13 \\\\
-& = 28 - 7 + 13 \\\\
-& = 34 \ \text {passengers}
+      & = \dfrac {5}{7} \ \text{\ of \ } 98 \ \text{hours}  \\\\
+      & = \dfrac {5}{7} \times 98                           \\\\
+      & = \dfrac {5}{7} \times \dfrac {98}{1}               \\\\
+      & = \dfrac {5}{7} \times \dfrac {14 \times 7}{1}      \\\\
+      & = \dfrac {5 \times 14 \times 7 }{7}                 \\\\
+      & = \dfrac {5 \times 14 \times \cancel 7 }{\cancel 7} \\\\
+      & = 5 \times 14                                       \\\\
+      & = 70 \ \text{hours}                                
 \end{aligned}
 $
 
-$34$ passengers were on the bus after the next stop.
+Total hours of celebrity gossip programmes braodcasted by the channel each week $=70 \ \text{hours}
+
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$34$
+$70 \ \text{hours}$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -5635,6 +5112,9 @@ $34$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -5796,6 +5276,9 @@ $50 \%$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -5845,6 +5328,9 @@ $90$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -5896,6 +5382,9 @@ $\dfrac{2}{3}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -5945,6 +5434,9 @@ $18$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -6062,6 +5554,9 @@ $15$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -6117,6 +5612,9 @@ $0.4, \dfrac{3}{8}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -6169,6 +5667,9 @@ $\dfrac {4} {5}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -6219,6 +5720,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -6233,6 +5737,7 @@ Work out $\dfrac{2}{3}$  of $81$.
 
 $
 \begin{aligned}
+&= \dfrac{2}{3} \ \text {of} \ 81 \\\\
 &= \dfrac {2} {3} \times 81 \\\\
 &= \dfrac {2 \times 81} {3} \\\\
 &= \dfrac {2 \times 27 \times 3} {3} \\\\
@@ -6261,64 +5766,15 @@ $54$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>F858D0CE-F0D7-4B18-A22D-210D8F94DE51</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Becky is $10 \dfrac{1}{2} \ \text{years}$ old.
-
-Her brother is exactly $1 \ \text{year}$ and $8 \ \text{months}$ younger than Becky.
-
-How old is her brother?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Brother's age} &= 10 \ \text{years} \ 6 \ \text{months} - 1 \ \text{years} \ 8 \ \text{months} \\\\
-                     &= 8 \ \text{years} \ 10 \ \text{months}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 \ \text{years} \ 10 \ \text{months}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>334659B0-F886-4B5E-B1FD-FF0FA7CB2959</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -6370,6 +5826,9 @@ $36$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -6415,126 +5874,13 @@ $54$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>FF3E37F7-96DD-4E04-B676-7E81C801B314</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out one fifth of $180$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&=  \text {One fifth of} \ 180 \\\\
-&=  \dfrac {1} {5} \times 180 \\\\
-&=  \dfrac {180} {5} \\\\
-&=  \dfrac {36 \times 5} {5} \\\\
-&=  \dfrac {36 \times \cancel {5}} {\cancel {5}} \\\\
-&=  36
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $\dfrac{5}{8}$ of $96$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&=  \dfrac {5} {8} \ \text {of} \ 96 \\\\
-&=  \dfrac {5} {8} \times 96 \\\\
-&=  \dfrac {5 \times 96} {8} \\\\
-&=  \dfrac {5 \times 12 \times 8} {8} \\\\
-&=  \dfrac {5 \times 12 \times \cancel {8}} {\cancel {8}} \\\\
-&=  5 \times 12 \\\\
-&=  60
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -6592,6 +5938,9 @@ $\dfrac {5} {9}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -6642,6 +5991,9 @@ $72$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -6683,6 +6035,9 @@ $\dfrac{5} {8}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -6735,247 +6090,15 @@ $1.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Barbara buys a box containing a selection of three types of biscuit.
-
-There are eight chocolate biscuits.
-
-A third of the other biscuits are custard creams.
-
-There are twelve ginger biscuits. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many custard creams are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Custard biscuit are a third of other biscuits then chocolate biscuits so they are a third of ginger biscuits. Using that,
-
-$
-\begin{aligned}
-\text {Total custard creams}    &= \dfrac {1} {3} \times 12 \\\\
-                                &= \dfrac {12} {3} \\\\
-                                &= \dfrac {4 \times 3} {3} \\\\
-                                &= \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
-                                &= 4
-\end{aligned}
-$
-
-There are $4$ custard creams.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many biscuits are in the box?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Total biscuits in the box}    &= 8 + 12 + \dfrac {1} {3} \times 12 \\\\
-                                     &= 20 + \dfrac {12} {3} \\\\
-                                     &= 20 + \dfrac {4 \times 3} {3} \\\\
-                                     &= 20 + \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
-                                     &= 20+ 4 \\\\
-                                     &= 24
-\end{aligned}
-$
-
-There are $24$ biscuits in the box.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>3EB032BA-F853-47A6-B7BC-89CC6505AF43</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write $0·65$ as a fraction in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.65 \\\\
-&= \dfrac {65} { 100} \\\\
-&= \dfrac {5 \times 13} {5 \times 20} \\\\
-&= \dfrac {\cancel{5} \times 13} {\cancel{5} \times 20} \\\\
-&= \dfrac {13} {20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {13} {20}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>3E516FDA-B3CC-4682-8A7D-BA9751F541AB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What fraction of the area of the triangle has been shaded?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-![missing image](/papers/missing_image.svg)
-
-** IMAGE_PLACEHOLDER_STARTS Add an image with answer triangles drawn in IMAGE_PLACEHOLDER_ENDS **
-
-If we look at the diagram, we can see that $3$ triangles fit 
-in the middle row and $5$ triangles fit in the bottom row. 
-
-So, there are $9$ triangles in total and $1$ has been shaded in.
-
-Hence, the fraction that has been shaded = $\dfrac {1} {9}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {9}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>7A0547CE-4780-4C98-8F44-705D53000745</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -7031,6 +6154,9 @@ $\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -7079,6 +6205,9 @@ $\dfrac {9} {25}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -7123,110 +6252,15 @@ $30 \ \text{pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>8785FAA8-FBEF-4E7F-99FB-5C0DF172A032</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $2 \dfrac{2}{5} + 3 \dfrac{3}{10}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 2 \dfrac {2} {5} + 3 \dfrac {3} {10} \\\\
-&= \dfrac {12} {5} + \dfrac{33}{10} \\\\
-&= \dfrac {12 \times 2} {5 \times 2} + \dfrac {33} {10} \\\\
-&= \dfrac {24} {10}+ \dfrac {33} {10} \\\\
-&= \dfrac {24 + 33} {10} \\\\
-&= \dfrac {57} {10} \\\\
-&= {5} \dfrac {7} {10}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-${5} \dfrac {7} {10}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>D10A6085-4014-4283-8DD5-61D3BA1C5A67</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write $0.28$ as a fraction in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.28 \\\\
-&= \dfrac {28} {100} \\\\
-&= \dfrac {7 \times 4} {25 \times 4} \\\\
-&= \dfrac {7 \times \cancel{4}} {25 \times \cancel{4}} \\\\
-&= \dfrac {7} {25}
-\end{aligned}
-$                       
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {7} {25}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -7279,6 +6313,9 @@ $3\dfrac{1}{2}$ or $\dfrac{7}{2}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -7326,6 +6363,9 @@ $\dfrac{16}{25}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -7377,6 +6417,9 @@ $\dfrac{3}{8}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -7420,113 +6463,15 @@ $2 \dfrac{13}{20}$ or $\dfrac{53}{20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>D1E6B317-4876-44B4-8AF6-CFECB874C981</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $3 \dfrac{3}{4} \div 2 \dfrac{1}{2}$, giving your answer in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Dividing by a fraction is the same as multiplying by the reciprocal (inverse) of the fraction.
-
-$
-\begin{aligned}
-&= 3 \dfrac {3} {4} \div 2 \dfrac {1} {2} \\\\
-&= \dfrac {15} {4} \div \dfrac {5} {2} \\\\
-&= \dfrac {15} {4} \times \dfrac {2} {5} \\\\
-&= \dfrac {15 \times 2} {4 \times 5} \\\\
-&= \dfrac {5 \times 3 \times 2} {2 \times 2 \times 5} \\\\
-&= \dfrac {\cancel{5} \times 3 \times \cancel{2}} {2 \times \cancel{2} \times \cancel{5}} \\\\
-&= \dfrac {3} {2} \\\\
-&= 1 \dfrac {1} {2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1 \dfrac {1} {2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>79C0FC25-F281-49EB-AE07-3B81473C1FB4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Express $42 \ \text{minutes}$ as a fraction of one hour, giving your answer in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 42 \ \text{minutes} \\\\
-&= \dfrac {42} {60} \\\\
-&= \dfrac {6 \times 7} {6 \times 10} \\\\
-&= \dfrac {\cancel{6} \times 7} {\cancel{6} \times 10} \\\\
-&= \dfrac {7} {10}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {7} {10}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
 <p>C8B5AFE0-229B-4D30-9B2B-06F02E360468</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -7578,6 +6523,9 @@ $149.5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -7694,6 +6642,9 @@ $\dfrac{91} {3} \ \text {or} \ 30 \dfrac{1} {3}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -7741,6 +6692,9 @@ $504$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -7792,6 +6746,9 @@ $\dfrac{5} {12}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -7864,6 +6821,9 @@ $\dfrac{1} {2}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -7922,6 +6882,9 @@ Odd one out : $ \dfrac {3} {5}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -8046,344 +7009,13 @@ $4$
 <li>
 <div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
-<p>F7B20DEF-90DB-4F1C-858F-9F35E931F593</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunit
-</li>
-<li>
-tfraction
-</li>
-<li>
-tnumber
-</li>
-<li>
-tdecimal
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**Write down**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$236\, cm$ in meters
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 236 \ \text{cm} \\\\
-&= \dfrac {236} {100} \ \text{m} \\\\
-&= 2.36 \ \text{m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.36 \ \text{m}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0.07$ as a fraction
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.07 \\\\
-&= \dfrac {7} {100}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {7} {100}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5:39 \ \text{pm}$ using the $24\, hour$ clock
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$5:39 \ \text{pm} + 12 \ \text{hours} = 17:39 \ \text{pm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17:39 \ \text{pm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2.45\, kg$ in grams
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 2.45 \ \text {kg} \\\\
-&= 2.45 \times 1000 \text {g} \\\\
-&= 2450 \text {g}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2450 \text{g}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$867$ to the nearest $10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$860$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$860$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the number of sides on a pentagon
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The number of sides on a pentagon $= 5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$10\%$ as a fraction 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 10 \% \\\\
-&= \dfrac {10} {100} \\\\
-&= \dfrac {1 \cancel 0} {10 \cancel 0} \\\\
-&= \dfrac {1} {10}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {10}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the next prime number after $17$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The next prime number after $17 = 19$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\frac {9} {100}$ as a decimal 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {9} {100} \\\\
-&= 0.09 \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.09$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>5A02BFDB-4654-4CDA-8AB3-4762789C5789</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -8402,15 +7034,12 @@ $\frac {5} {7},\:\:\:\frac {2} {3},\:\:\:\frac {3} {5},\:\:\:\frac {7} {8},\:\:\
 <div class='workings'>
 <div class='working'>
 
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $7, 3, 5, 8, 9, 10 = 2520$
+Let's convert all the numbers into decimals..
 
 $
 \begin{aligned}
 &= \dfrac {5} {7}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {7} {8}, \quad \dfrac {8} {9}, \quad \dfrac {7} {10} \\\\
-&= \dfrac {5 \times 360} {7 \times 360}, \quad \dfrac {2 \times 840} {3 \times 840}, \quad \dfrac {3 \times 504} {5 \times 504}, \quad \dfrac {7 \times 315} {8 \times 315}, \quad \dfrac {8 \times 280} {9 \times 280}, \quad \dfrac {7 \times 252} {10 \times 252} \\\\
-&= \dfrac {1800} {2520}, \quad \dfrac {1680} {2520} , \quad \dfrac {1512} {2520} , \quad \dfrac {2205} {2520} , \quad \dfrac {2240} {2520} , \quad \dfrac {1764} {2520} \\\\
+&= 0.714, \quad 0.666, \quad 0.6, \quad 0.875, \quad 0.888, \quad 0.7
 \end{aligned}
 $
 
@@ -8418,9 +7047,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {1800} {2520}, \quad \dfrac {1680} {2520} , \quad \dfrac {1512} {2520} , \quad \dfrac {2205} {2520} , \quad \dfrac {2240} {2520} , \quad \dfrac {1764} {2520} \\\\
-&= \dfrac {1512} {2520} , \quad \dfrac {1680} {2520} , \quad \dfrac {1764} {2520} , \quad \dfrac {1800} {2520} , \quad \dfrac {2205} {2520} , \quad \dfrac {2240} {2520} \\\\
-&= \dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5} {7} , \quad \dfrac {7} {8} , \quad \dfrac {8} {9}
+&= 0.6, \quad 0.666, \quad 0.7, \quad 0.714, \quad 0.875, \quad 0.888 \\\\
+&= \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}, \quad \dfrac {5} {7}, \quad \dfrac {7} {8}, \quad \boxed {\dfrac {8} {9}}
 \end{aligned}
 $
 
@@ -8429,7 +7057,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5} {7} , \quad \dfrac {7} {8} , \quad \dfrac {8} {9}$
+$\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5} {7} , \quad \dfrac {7} {8} , \quad \boxed {\dfrac {8} {9}}$
 
 </div>
 </div>
@@ -8438,7 +7066,7 @@ $\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -8449,6 +7077,9 @@ $\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -8581,6 +7212,9 @@ $0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -8638,6 +7272,9 @@ $\pounds 51$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -8707,6 +7344,9 @@ $30$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -8849,213 +7489,15 @@ $\dfrac {13} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>68EF857B-DBC0-4ACE-A0B1-53CE2C550065</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write $\frac {14} {20}$ as a **decimal**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {14} {20} \\\\
-&= \dfrac {14 \times 5} {20 \times 5} \\\\
-&= \dfrac {70} {100} \\\\
-&= 0.7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write $0.625$ as a **fraction** in its $\underbar {lowest terms}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.625 \\\\
-&= \dfrac {625} {1000} \\\\
-&= \dfrac {25 \times 5 \times 5} {25 \times 5 \times 8} \\\\
-&= \dfrac {\cancel {25} \times \cancel {5} \times 5} {\cancel {25} \times \cancel {5} \times 8} \\\\
-&= \dfrac {5} {8}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {5} {8}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write the answer to $\frac {13} {20} + 0.1$ as a **percentage** 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= ( \dfrac {13} {20} + 0.1) \times 100 \\\\
-&= ( \dfrac {13} {20} + \dfrac {1} {10}) \times 100 \\\\
-&= ( \dfrac {13} {20} + \dfrac {1 \times 2} {10 \times 2}) \times 100 \\\\
-&= ( \dfrac {13} {20} + \dfrac {2} {20}) \times 100 \\\\
-&= ( \dfrac {13 + 2} {20}) \times 100 \\\\
-&= \dfrac {15} {20} \times 100 \\\\
-&= \dfrac {15 \times 100} {20} \\\\
-&= \dfrac {5 \times 3 \times 100} {5 \times 4} \\\\
-&= \dfrac {5 \times 3 \times 25 \times 4} {5 \times 4} \\\\
-&= \dfrac {\cancel {5} \times 3 \times 25 \times \cancel {4}} {\cancel {5} \times \cancel {4}} \\\\
-&= 3 \times 25 \\\\
-&= 75 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$75 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Give the ratio 36 : 84 in its **simplest form**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 36 \ratio 84 \\\\
-&= \dfrac {36} {84} \\\\
-&= \dfrac {12 \times 3} {12 \times 7} \\\\
-&= \dfrac {\cancel {12} \times 3} {\cancel {12} \times 7} \\\\
-&= \dfrac {3} {7} \\\\
-&= 3 \ratio 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ratio 7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>AB828C03-B38E-492A-A9FB-885D098D187F</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -9110,6 +7552,9 @@ $63$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -9174,6 +7619,9 @@ $\pounds 27$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -9383,6 +7831,9 @@ $3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -9431,6 +7882,9 @@ $\dfrac {3} {4}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -9498,126 +7952,6 @@ TODOANSWER
 </div>
 </div>
 
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>3167920D-0D61-408D-81BB-04D02838D8D1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $40$ coloured counters in a box. Half of them are red, one-fifth are yellow and the rest are green.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many are green?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Green counters} &= \text{Total counters} - \text{Red counters} - \text{Yellow counters} \\\\
-                      &= 40 - \dfrac {1} {2} \times 40 - \dfrac {1} {5} \times 40 \\\\
-                      &= 40 - \dfrac {40} {2} - \dfrac {40} {5} \\\\
-                      &= 40 - \dfrac {2 \times 20} {2} - \dfrac {5 \times 8} {5} \\\\
-                      &= 40 - \dfrac {\cancel{2} \times 20} {\cancel{2}} - \dfrac {\cancel{5} \times 8} {\cancel{5}} \\\\
-                      &= 40 - 20 - 8 \\\\
-                      &= 12
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If I shake the box and then pick out one counter, what is the probability that it is green?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned} 
-\text{Probability of getting green counter}     &= \dfrac {\text{Green counters}} {\text{Total counters}} \\\\
-                                                &= \dfrac {12} {40} \\\\
-                                                &= \dfrac {4 \times 3} {4 \times 10} \\\\
-                                                &= \dfrac {\cancel{4} \times 3} {\cancel{4} \times 10} \\\\
-                                                &= \dfrac {3} {10}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {10}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>

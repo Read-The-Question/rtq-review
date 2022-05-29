@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdraw-pr"
 title: "Topic - Draw - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -68,6 +71,9 @@ $4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 <li>
@@ -116,342 +122,15 @@ $\text{a trapezium}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>1560E53F-1121-4690-82F4-852BE2494204</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate the missing angles $p, q$ and $r$.
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know, the sum of angles on a straight line is $180 \degree$.
-
-As per the diagram,
-
-$
-\begin {aligned}
-35 + 90 + p   &= 180 \\\\
-125 + p       &= 180 \\\\
-p             &= 180 - 125 \\\\
-p             &= 55 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$55 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
-As per the diagram,
-
-$
-\begin {aligned}
-81 + 52 + q     &= 180 \\\\
-133 + q         &= 180 \\\\
-q               &= 180 - 133 \\\\
-q               &= 47 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$47 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram, the rhombus is having its opposite sides equal, Which means the angles opposite are also equal.
-
-As we know, the sum of angles in a triangle is $180 \degree$.
-
-Taking the lower triangle, we get
-
-$
-\begin {aligned}
-140 + 24 + r    &= 180 \\\\
-r + 164         &= 180 \\\\
-r               &= 180 - 164 \\\\
-r               &= 16 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>83171B40-5CB7-43E9-84C7-6F8C993632BD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdraw
-</li>
-<li>
-tperimeter
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows a T shape. The diagram is not accurately drawn to scale.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write the two remaining lengths on the diagram.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Top missing length}  &= 5 + 2 + 5 \\\\
-                            &= 12 \ \text {cm} \\\\
-\text {Side missing length} &= 8 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12 \ \text {cm}, 8 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the **perimeter** of the T shape. State the units.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin {aligned}
-\text {Perimeter of the T shape}  &= \text {Sum of all sides} \\\\
-                                  &= 2 \times 3 + 5 \times 2 + 8 \times 2 + 12 \\\\
-                                  &= 6 + 10 + 16 + 12 \\\\
-                                  &= 44 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$44 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the **area** of the T shape, showing how you did it.
-
-State the units.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-Let's draw a line at the neck of the T shape and make two separate rectangles.
-
-$
-\begin {aligned}
-\text {Area of the T shape}  &= \text {Area of horizontal rectangle} + \text {Area of vertical rectangle} \\\\
-                             &= 12 \times 2 + 2 \times 8 \\\\
-                             &= 24 + 16 \\\\
-                             &= 40 \ \text {cm} ^ 2
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \ \text {cm} ^ 2$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>E1F1B279-AD58-4BAB-9F64-310389A407AC</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -503,95 +182,15 @@ $\dfrac{5}{11}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>6F88E47C-D07C-48F0-9094-F886FF0D2CFA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the triangle.
-
-![missing image](/papers/missing_image.svg)
-
-Work out the value of $a$ and $b$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing angles are a, b.
-
-First let's see the triangle ABD
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
-$
-\begin{aligned}
-2a + a + 90     &= 180 \\\\
-3a + 90         &= 180 \\\\
-3a              &= 180 - 90 \\\\
-a               &= \dfrac{90}{3} \\\\
-a               &= \dfrac{30 \times 3}{3} \\\\
-a               &= \dfrac{30 \times \cancel{3}}{ \cancel{3}} \\\\
-a               &= 30\degree
-\end{aligned}
-$
-
-Let's use value of $a$ in triangle ABC
-
-$
-\begin{aligned}
-(b+2a) + b + 90     &= 180 \\\\
-2b + 2a             &= 180 - 90 \\\\
-2 \times 30 + 2b    &= 90 \\\\
-2b                  &= 90 - 60 \\\\
-b                   &= \dfrac {30} {2} \\\\
-b                   &= \dfrac {15 \times 2} {2} \\\\
-b                   &= \dfrac {15 \times \cancel {2} } {\cancel {2} } \\\\
-b                   &= 15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30\degree$
-
-</div>
-<div class='answer'>
-
-$15\degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
 <p>997305C0-43E0-414C-9637-DF71FC2B8CF8</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -714,6 +313,9 @@ $32 \text {cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -770,6 +372,9 @@ $\text {South}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>

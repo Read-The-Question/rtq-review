@@ -1,9 +1,70 @@
 ---
 slug: "topics/topic-tpercentageadvance-g1"
 title: "Topic - Percentageadvance - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>5A9496E7-B32E-4AE6-87D8-FC2CF250E29B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentageadvance
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The fraction **one eighth** is roughly the same as one of these percentages. Put a ring around the best one.
+
+$10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= \dfrac {1} {8} \ \text {of} \ 100 \\\\
+&= \dfrac {1} {8} \times 100 \\\\
+&= \dfrac {100} {8} \\\\
+&= \dfrac {25 \times 4} {2 \times 4} \\\\
+&= \dfrac {25 \times \cancel {4}} {2 \times \cancel {4}} \\\\
+&= \dfrac {25} {2} \\\\
+&= 12 \dfrac {1} {2} \\\\
+&= 12.5 \%
+\end {aligned}
+$
+
+The best answer is $= 12 \%$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
@@ -11,6 +72,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentageadvance
 </li>
@@ -93,6 +157,9 @@ $90 \ \text {ml}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentageadvance
 </li>
 </ul>
@@ -154,6 +221,9 @@ $40$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentageadvance
 </li>
 </ul>
@@ -202,6 +272,9 @@ $15.81$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentageadvance
 </li>
@@ -253,6 +326,9 @@ $1$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -310,6 +386,9 @@ $402.6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentageadvance
 </li>
 </ul>
@@ -366,6 +445,9 @@ $35,42$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentageadvance
 </li>
 </ul>
@@ -415,6 +497,9 @@ $1.3$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -473,6 +558,9 @@ $210$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -526,6 +614,9 @@ $610$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -759,6 +850,9 @@ $\dfrac {17} {42}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentageadvance
 </li>
 </ul>
@@ -819,6 +913,9 @@ $65 \%$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentageadvance
 </li>
 </ul>
@@ -868,6 +965,9 @@ $68$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentageadvance
 </li>
@@ -919,6 +1019,9 @@ $165$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentageadvance
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-pr"
 title: "Topic - Temperature - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -143,6 +146,9 @@ $12 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 </ul>
@@ -190,6 +196,9 @@ $61 \degree \text{C}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -306,6 +315,9 @@ $- 18 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -448,6 +460,9 @@ $-13$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 <li>
@@ -492,7 +507,7 @@ What temperature is $12$ degrees colder than $-4 \degree \text{C}$?
 $
 \begin{aligned}
 &= - 4 - 12 \\\\
-&= {}- 16 \degree C
+&= - 16 \degree C
 \end{aligned}
 $
 
@@ -501,7 +516,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-${}- 16 \degree C$
+$- 16 \degree C$
 
 </div>
 </div>
@@ -558,6 +573,9 @@ $\pounds 110$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 </ul>
@@ -607,6 +625,9 @@ $-7 \degree \text{C}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -725,6 +746,9 @@ $-7 \degree \text {C}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -846,6 +870,9 @@ $- 5 \degree \ \text {C}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 </ul>
@@ -963,6 +990,9 @@ $- 17 \degree \ \text {C}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -1139,6 +1169,9 @@ $16$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 </ul>
@@ -1188,6 +1221,9 @@ $3 \degree \text {C}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 <li>
@@ -1227,12 +1263,15 @@ $-6 \degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>54012999-742D-48BD-A138-DB7E6775B4C3</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -1248,16 +1287,14 @@ On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day th
 
 As per the question,
 
-Temperature on Christmas day = $-5 \degree C$
-
-Temperature on New Year’s day = $-5 - 3 \degree C = -8 \degree C$
+Temperature on New Year’s day $= -5 - 3 = -8 \degree \text {C}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-8 \degree C$
+$-8 \degree \text {C}$
 
 </div>
 </div>
@@ -1266,7 +1303,7 @@ $-8 \degree C$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1277,6 +1314,9 @@ $-8 \degree C$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>

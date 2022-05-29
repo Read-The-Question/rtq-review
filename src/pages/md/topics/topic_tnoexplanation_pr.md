@@ -1,210 +1,9 @@
 ---
 slug: "topics/topic-tnoexplanation-pr"
 title: "Topic - Noexplanation - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>D66F927C-0A34-4DAE-BB63-EAB3689C61CC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the number fourteen thousand and thirty six in figures.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$14036$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14036$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>680B2DDC-4438-441C-A50B-D93FE578EBF9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the numbers in the star.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which two numbers are multiples of $6$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$12, 30$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12, 30$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which two numbers are prime?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$17, 29$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17, 29$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which two numbers are factors of $70$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10, 14$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10, 14$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which two numbers are square numbers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9, 49$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9, 49$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
@@ -212,6 +11,9 @@ $9, 49$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -267,6 +69,9 @@ $0.08$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -319,6 +124,9 @@ nine tenths
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -367,6 +175,9 @@ $0.07$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -422,6 +233,9 @@ $0.25 \ \text{cm}, 2.5 \ \text{cm}, 25 \ \text{cm}, 250 \ \text{cm}, 2500 \ \tex
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -522,6 +336,9 @@ $8.0$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfactor
 </li>
@@ -695,6 +512,9 @@ $2, 3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -746,6 +566,9 @@ $1$ January.
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -790,6 +613,9 @@ $6$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -836,6 +662,9 @@ $1.3 \text{ litres}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -874,251 +703,13 @@ $12$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>46999D58-537F-44BC-B9A5-9C2318BA2DC8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tclock
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the angle between the hour hand and the minute hand of a clock, at $3 \ \text{o'clock}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$90 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Through how many degrees does the hour hand of a clock turn betweeb noon and $5 \ \text{o'clock}$ in the afternoon?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$150 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Through how many degrees does the minute hand of a clock turn between $0900$ and $0945$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$270 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$270 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2016--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>75DCC5C4-E1C9-4A03-AAE9-DB54181531B6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In each part of this question, the printed number can be made by multiplying two **prime numbers** together.
-
-Write the two **prime numbers** in the empty boxes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$57 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-57 &= \maroonC {19} \times \maroonC {3}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19 \times 3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$91 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-91 &= \maroonC {13} \times \maroonC {7}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13 \times 7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>20FCDF7C-160A-422B-8553-7B721DA71113</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1218,6 +809,9 @@ $\text {Fairly unlikely}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 <li>
@@ -1268,6 +862,9 @@ $\text {likely}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprobability
 </li>
 <li>
@@ -1310,6 +907,9 @@ $\text {Certain}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tprobability
 </li>
@@ -1354,6 +954,9 @@ $\text {unlikely}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprobability
 </li>
 <li>
@@ -1397,7 +1000,7 @@ $\text {Certain}$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 <li>
 tnoexplanation
@@ -1439,6 +1042,9 @@ $60$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfactor
 </li>
@@ -1483,12 +1089,55 @@ $84$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
+<p>362B2010-9590-466F-8D23-A4DCD45A3669</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What does the $2$ in the number $3567.23$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
 <p>51895EF4-90DD-4CC5-B028-99ED8D291204</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 <li>
 tnoexplanation
@@ -1530,6 +1179,9 @@ $0.7$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1574,6 +1226,9 @@ $2, 3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -1592,7 +1247,12 @@ How long did the journey take?
 <div class='workings'>
 <div class='working'>
 
-$3 \ \text {hours} 11 \ \text {minutes}$
+$
+\begin{aligned}
+\text{Time taken} &= 6.48 \ \text{pm} - 3.37 \ \text{pm} \\\\
+                  &= 3 \ \text {hours} 11 \ \text {minutes}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1613,107 +1273,15 @@ $3 \ \text {hours} 11 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>7A3EB116-901D-4C60-9906-5C7ECB21025B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the smallest number
-that you can make using the
-digits $4, 3, 9$ and $1$?
-Use each digit only once.
-
-A        B       C       D       E
-$9413$  $1349$  $4319$  $1439$  $1934$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1349$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
-<div class='answer'>
-
-$1349$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>DBB8C89C-F97B-4199-91D5-98FAE00EFC21</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the time in $24 \ \text{hour}$ clock
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$15 {:} 35$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15 {:} 35$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>212E224E-5582-4831-B6B2-47F9B128497C</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1780,6 +1348,9 @@ $7$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -1845,6 +1416,9 @@ $8$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -1903,6 +1477,9 @@ $12{:}28 \ \text {pm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -1952,14 +1529,14 @@ Using all $5$ cards what is the largest possible odd number?
 <div class='workings'>
 <div class='working'>
 
-$84627$
+$86427$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$84627$
+$86427$
 
 </div>
 </div>
@@ -2038,11 +1615,7 @@ $\boxed{\phantom{1}}  \boxed{\phantom{1}} \times \boxed{\phantom{1}}$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-76 \times 8 &= 608
-\end{aligned}
-$
+$76 \times 8 = 608$
 
 </div>
 </div>
@@ -2072,6 +1645,9 @@ $76 \times 8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2115,6 +1691,9 @@ $400$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2263,9 +1842,6 @@ ${} \div 3 \ \text {and} \ {} - 16$
 tclock
 </li>
 <li>
-tangle
-</li>
-<li>
 tnoexplanation
 </li>
 </ul>
@@ -2369,6 +1945,9 @@ $1440 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -2491,6 +2070,9 @@ $11:20$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -2533,6 +2115,9 @@ $81$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfactor
 </li>
@@ -2660,166 +2245,13 @@ $1, 7, 49$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>757DF606-973F-46EB-8D7C-1533BB3C6ED6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Round $325.48$ to the following degrees of accuracy:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Nearest $100$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$300$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$300$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Nearest $10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$330$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$330$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Nearest whole number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$325$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$325$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-One decimal place
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$325.5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$325.5$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>30BB4D17-C37D-40B1-AF7F-3F86ECBCA8C0</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -2865,6 +2297,9 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnoexplanation
 </li>
@@ -2967,56 +2402,15 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>72A94627-CCDA-4140-A5D9-DD033BFD3825</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the number fifty-three thousand and eighteen in figures.
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$53018$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$53018$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>77B7035B-4C89-427D-A347-E8D034630C49</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -3157,6 +2551,9 @@ $35948$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -3285,6 +2682,9 @@ $-, \ -$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -3339,6 +2739,9 @@ $3124, \ 3214, \ 3412$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -3381,6 +2784,9 @@ $67924$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -3489,6 +2895,9 @@ $10 \ \text{hours} \ 48 \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -3536,67 +2945,13 @@ $\dfrac {4} {5}$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>6C0D2582-A45B-4E63-9DBD-EBD8E755B0AC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Belinda has a digital alarm clock. 
-
-The numbers on the clock are displayed as:
-
-![missing image](/papers/missing_image.svg)
-
-Belinda's digital clock shows the time $01{:}10$
-
-She puts it upside down on her bedside table.
-
-The same time is shown.
-
-At what times between $01{:}10$ and $12{:}00$ does the clock 
-show the same time when it is upside down as when it is the 
-right way up?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$11{:}11$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11{:}11$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>49F43ACE-1EBA-464B-BF4D-AAF2D99392C6</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -3724,7 +3079,7 @@ $\text{N, \ O, \ C, \ F}$
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\text{N, \ O, \ C, \ F}$
 
 </div>
 </div>
@@ -3741,304 +3096,15 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>5702F561-6E2E-4760-BBD8-682C0DF387A6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write these decimals in order of size, starting with the smallest:
-
-$2.3 \quad 2.23 \quad 2.303 \quad 2.203$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2.203, \quad 2.23, \quad 2.303, \quad 2.3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.203, \quad 2.23, \quad 2.303, \quad 2.3$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>EB20817A-B886-4825-8C98-41B71915025C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write in figures the number *twenty thousand and thirteen*.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$20013$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20013$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which number is multipled by $100$ to give $2907$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&=  2907 \div 100 \\\\
-&=  \dfrac {2907} {100} \\\\
-&=  29.07
-\end{aligned}
-$
-
-$29.07$ is multiplied by $100$ to give $2907$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$29.07$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>5689F773-F52D-4D11-90B1-2CBEC3FBD759</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfactor
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The number $8$ has four factors: $1, 2, 4$ and $8$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which is the first number greater than $10$ to have exactly **four** factors?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$14$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down any number less than $20$ which has exactly **three** factors.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Some numbers have only **two** factors.
-
-What is the special name given to this type of number?
-
-*It may help you to write down some numbers with only two factors*.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-These numbers are called $\text {Prime numbers}$.
-
-Some of the $\text {Prime numbers}$ are,
-
-$2, 3, 5, 7, 11, 13, 17$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Prime numbers}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -4087,55 +3153,13 @@ $0.603$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>096131F4-72CE-446C-9543-2653E59BA346</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write these numbers in order of size, starting with the smallest:
-
-$3.4 \quad 3.34 \quad 3.304 \quad 3.043$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$3.043, \quad 3.304, \quad 3.34, \quad 3.4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.043, \quad 3.304, \quad 3.34, \quad 3.4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -4190,6 +3214,9 @@ $36$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -4296,115 +3323,13 @@ $2.75 \ \text {oz}$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>460183B0-7FB1-4AE5-A539-6CE39B381434</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-tdate
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jessica was born on $5$ January $2003$ and her friend Amelia was born exactly $9$ days earlier. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-On which date was Amelia born?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$27 \ \text {December} 2002$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27 \ \text {December} 2002$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Jessica’s $12 \text{th}$ birthday was on a Monday.
-
-On what day of the week was Amelia’s $12 \text{th}$ birthday?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\ \text {Saturday}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\ \text {Saturday}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>0EA6356F-FEB5-46B4-85FF-77EC923BBA69</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnoexplanation
 </li>
@@ -4449,6 +3374,9 @@ $29$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -4498,6 +3426,9 @@ $13750$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -4532,92 +3463,6 @@ $12.15$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>0C0A430F-C37E-414F-92E1-7B932AD3DBDA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write in figures the number $\text{two hundred and twelve thousand and fifty seven}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$212057$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$212057$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>39E20826-B8B1-4C4D-AF60-A2D391BC499E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write in figures the number three hundred and eight thousand, five hundred and twenty.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$308520$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$308520$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ap-g2"
 title: "Reviewer - Anshruta Pandey - G2"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,10 +59,7 @@ $6193$
 <div class='topics'>
 <ul>
 <li>
-tfraction
-</li>
-<li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>

@@ -1,137 +1,9 @@
 ---
 slug: "owners/owner-jn-oldpr"
 title: "Owner - Jaishree Nair - Old PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_jn_oldpr question'>
-<div class='uuid'>
-<p>DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-[In this question note that $1$ is NOT a prime number.] 
-
-The diagram below shows an ordinary die.
-
-![missing image](/papers/missing_image.svg)
-
-Consider the following events when a single die is rolled:
-
-A: "the score on the die is either a $5$ or a $6$" 
-
-B: "the score on the die is an even number" 
-
-C: "the score on the die is a prime number" 
-
-D: "the score on the die is a multiple of $3$"
-
-Write one of the following phrases in the spaces below to make each statement correct.
-
-"has the same chance of happening as" 
-
-"is more likely to happen than" 
-
-"is less likely to happen than"
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-If we read the question carefully, similar set of events are repeated and **we have to derive if the phrases are correct for the 
-inter-related statements for all the events**.
-
-Let's check the probability of outcomes of Events A, B C and D step by step and draw out interpretation at end.
-
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-\end{aligned}
-$
-
-We will compare the possibilties to derive which statement fits which two given events. 
-
-|   | Event                 | Favorable Outcome | Total Outcome   |  Probability    |
-|---|-----------------------|-------------------|:---------------:|:---------------:|
-| A | either a $5$ or a $6$ | $5$ and $6 = 2$   |       $6$       | $\dfrac {2}{6}$ |
-| B | an even number        | $2, 3$ and $6 = 3$|       $6$       | $\dfrac {3}{6}$ |
-| C | a prime number        | $2, 3$ and $5 = 3$|       $6$       | $\dfrac {3}{6}$ |
-| D | a multiple of $3$     | $3$ and $6 = 2$   |       $6$       | $\dfrac {2}{6}$ |
-
-
-Now lets **inspect** the statements.
-
-Statement 1 : A $\text{\textunderscore \textunderscore \textunderscore}$ B.
-
-$
-\begin{aligned} 
-    \text{A}             & : \text{B}             \\\\
-    \dfrac {2}{6}        & : \dfrac {3}{6}        \\\\
-    \text{Probability A} & < \text{Probability B} 
-\end{aligned}
-$
-
-A $\underline {\text {is less likely to happen than}}$ B.
-
-
-
-Statement 2 : B $\text{\textunderscore \textunderscore \textunderscore}$ C.
-
-$
-\begin{aligned} 
-    \text{B}             & : \text{C}             \\\\
-    \dfrac {3}{6}        & : \dfrac {3}{6}        \\\\
-    \text{Probability B} & < \text{Probability C} 
-\end{aligned}
-$
-
-B $\underline {\text {has the same chance of happening as}}$ C.
-
-Statement 3 : C $\text{\textunderscore \textunderscore \textunderscore}$ D.
-
-$
-\begin{aligned} 
-    \text{C}             & : \text{D}             \\\\
-    \dfrac {3}{6}        & : \dfrac {2}{6}        \\\\
-    \text{Probability C} & < \text{Probability D} 
-\end{aligned}
-$
-
-C $\underline {\text {is more likely to happen than}}$ D.
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-A $\underline {\text {is less likely to happen than}}$ B.
-
-B $\underline {\text  {has the same chance of happening as}}$ C.
-
-C $\underline {\text  {is more likely to happen than}}$ D.
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_jn_oldpr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_jn_oldpr question'>
 <div class='uuid'>
@@ -139,6 +11,9 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tprofit
 </li>
@@ -309,6 +184,9 @@ $\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for m
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -514,6 +392,9 @@ $55$ squares
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -724,6 +605,9 @@ We need only one option.
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 <li>
@@ -805,197 +689,13 @@ $
 <li>
 <div class='question_envelope rag_jn_oldpr question'>
 <div class='uuid'>
-<p>C74F6145-1D9D-471D-9081-11DC74346EC6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The new TV channel, Lazy Living, broadcasts for $98 \ \text{hours}$ a week. 
-If two-sevenths of its output is devoted to make-over programmes and the rest to celebrity gossip, 
-for how many hours each week does the channel broadcast programmes on celebrity gossip?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{aligned}
-    \text{Make-over programmes}                     & = \dfrac {2}{7} \ \text {of \ } 98 \ \text{hours}                  \\\\
-    \text{Total Broadcast time}                     & = 98 \ \text{hours a week}                                         \\\\
-    \text{Total Broadcast time} \ 98 \ \text{hours} & = \dfrac {7}{7}                                                    \\\\ \test {So,}
-    \text{Celebrity gossip}                         & = \dfrac {7}{7} - \dfrac {2}{7}\ \text {of \ } 98 \ \ \text{hours} \\\\
-                                                    & = \dfrac {7-2}{7}                                                  \\\\
-                                                    & = \dfrac {5}{7}                                                    
-\end{aligned}
-$
-
-Let's find the total hours of celebrity gossip's broadcasted by the channel each week.
-
-$
-\begin{aligned}
-      & = \dfrac {5}{7} \ \text{\ of \ } 98 \ \text{hours}  \\\\
-      & = \dfrac {5}{7} \times 98                           \\\\
-      & = \dfrac {5}{7} \times \dfrac {98}{1}               \\\\
-      & = \dfrac {5}{7} \times \dfrac {14 \times 7}{1}      \\\\
-      & = \dfrac {5 \times 14 \times 7 }{7}                 \\\\
-      & = \dfrac {5 \times 14 \times \cancel 7 }{\cancel 7} \\\\
-      & = 5 \times 14                                       \\\\
-      & = 70 \ \text{hours}                                
-\end{aligned}
-$
-
-Total hours of celebrity gossip programmes braodcasted by the channel each week $=70 \ \text{hours}
-
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$70 \ \text{hours}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_jn_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_jn_oldpr question'>
-<div class='uuid'>
-<p>79E27990-373F-47F4-8BF5-B595A17F83E7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-For breakfast I eat a slice of buttered toast and a cup of coffee. The time taken to complete these activities is as follows:
-
-![missing table](/papers/missing_table.svg)
-
-Brown toast in toaster $3 \ \text{minutes}$ 
-Butter the toast $1 \ \text{minute}$ 
-Make coffee in machine $2 \ \text{minutes}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Jonathan thinks that the shortest time taken for me to prepare my breakfast is $6 \ \text{minutes}$. Explain briefly why Jonathan is wrong.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Jonathan is wrong because I can manage making a coffee in a machine and toasting the breast in a toaster as a parallel task. 
-
-The coffee making takes $2 \ \text{minutes}$, which I can do while my bread is getting toasted in the toaster, which takes $3 \ \text{minutes}$. 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\underline {{\text {Jonathan is wrong because I can manage making a coffee in a machine and toasting the breast in a toaster as a parallel task.}}$ 
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the correct shortest time?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The shortest time taken by me to prepare my breakfast is,
-
-$
-\begin{aligned}
-      & = \text {Brown the toast in toaster + Butter the toast} \\\\
-      & = 3 + 1                                                 \\\\
-      & = 4 \ \text{minutes}                               
-\end{aligned}
-$
-
-The shortest time taken by me to prepare my breakfast is $=4 \ \text{minutes}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_jn_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_jn_oldpr question'>
-<div class='uuid'>
 <p>36CD4F24-0C6D-4BE2-ADC6-E8633C0E7C8A</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tspeed
 </li>
@@ -1068,6 +768,9 @@ She travelled altogether $= 60 \ \text{miles}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>

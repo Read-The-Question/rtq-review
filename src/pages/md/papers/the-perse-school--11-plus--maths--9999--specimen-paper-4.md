@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-4"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 4"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -14,12 +14,15 @@ date: 2022-05-28 14:33:22
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>6F86CD19-6141-43F1-9E8F-2A2A31A0E9AA</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -34,10 +37,17 @@ $2005 = \boxed{5}\:\:\:\times \:\:\:\Box\Box\Box$
 <div class='workings'>
 <div class='working'>
 
-$= \dfrac {2005} {5}$
-$= \dfrac {5 \times 401} {5}$
-$= \dfrac {\cancel {5} \times 401} {\cancel {5}}$
-$= 401$
+Let the missing number $= a$
+
+$
+\begin{aligned}
+2005    &= 5 \times a \\\\
+a       &= \dfrac {2005} {5} \\\\  
+a       &= \dfrac {5 \times 401} {5} \\\\
+a       &= \dfrac {\cancel {5} \times 401} {\cancel {5}} \\\\
+a       &= 401
+\end{aligned}
+$
 
 </div>
 </div>
@@ -53,7 +63,7 @@ $401$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -64,6 +74,9 @@ $401$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -180,6 +193,9 @@ $\dfrac{91} {3} \ \text {or} \ 30 \dfrac{1} {3}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunitprompt
 </li>
 </ul>
@@ -229,6 +245,9 @@ $2.848 \text { kg}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -283,6 +302,9 @@ $C$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -399,6 +421,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgraph
 </li>
 <li>
@@ -456,6 +481,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -639,6 +667,9 @@ $16$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -694,16 +725,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tdetailedaddition
+tnumber
 </li>
 </ul>
 </div>
@@ -895,9 +917,6 @@ $4.32$
 <div class='topics'>
 <ul>
 <li>
-tangle
-</li>
-<li>
 tclock
 </li>
 </ul>
@@ -947,6 +966,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1002,6 +1024,9 @@ Odd one : $2743$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -1042,16 +1067,7 @@ $47, 53, 59$
 <div class='topics'>
 <ul>
 <li>
-tfraction
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tpercentage
-</li>
-<li>
-ttable
+tnumber
 </li>
 </ul>
 </div>
@@ -1111,6 +1127,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -1160,6 +1179,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1372,6 +1394,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -1490,6 +1515,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -1651,6 +1679,9 @@ $6 \ \text{kg}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -1705,6 +1736,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1764,6 +1798,9 @@ $110 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 testimate
 </li>
@@ -1897,6 +1934,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>

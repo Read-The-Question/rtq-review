@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-pr"
 title: "Topic - Probability - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -61,6 +61,9 @@ $\text {Fairly unlikely}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tcoin
 </li>
 <li>
@@ -111,6 +114,9 @@ $\text {likely}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprobability
 </li>
 <li>
@@ -153,6 +159,9 @@ $\text {Certain}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tprobability
 </li>
@@ -197,6 +206,9 @@ $\text {unlikely}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprobability
 </li>
 <li>
@@ -240,6 +252,9 @@ $\text {Certain}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprobability
 </li>
 </ul>
@@ -275,128 +290,13 @@ $\text {Impossible}$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>FA4F6584-F867-4263-B1CA-F813E4733C7A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$16$ cards each have a letter on them. The chart below shows how many with each letter on them.
-
-![missing image](/papers/missing_image.svg)
-
-I pick a card with a $D$ on it and don’t put it back.
-
-If I pick another card, what is the probability it will have a $C$ on it?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the graph,
-
-Total cards with D left after one card is removed $4 - 1 = 3$ 
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {4} {1 + 2 + 4 + 3 + 3 + 2} \\\\
-                    &= \dfrac {4} {15}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {4} {15}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>2B0B43F3-6E8B-41F9-A516-B83235232CD8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$16$ cards each have a letter on them. The chart below shows how many with each letter on them.
-
-![missing image](/papers/missing_image.svg)
-
-I pick a card with an $E$ on it and don’t put it back.
-
-If I pick another card, what is the probability it will have a $F$ on it?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the graph,
-
-Total cards with D left after one card is removed $3 - 1 = 2$ 
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {2} {1 + 2 + 4 + 4 + 2 + 2} \\\\
-                    &= \dfrac {2} {15}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2} {15}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>869FD852-D1F1-49AF-B701-45D924CC185A</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -554,9 +454,9 @@ $\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>050EE19D-DD2B-4EAE-B94A-09B3971155EF</p>
+<p>DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B</p>
 </div>
 <div class='topics'>
 <ul>
@@ -567,42 +467,117 @@ tprobability
 </div>
 <div class='question question'>
 
-In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars are blue. How many cares are there that are neither red nor blue?
+[In this question note that $1$ is NOT a prime number.] 
+
+The diagram below shows an ordinary die.
+
+![missing image](/papers/missing_image.svg)
+
+Consider the following events when a single die is rolled:
+
+A: "the score on the die is either a $5$ or a $6$" 
+
+B: "the score on the die is an even number" 
+
+C: "the score on the die is a prime number" 
+
+D: "the score on the die is a multiple of $3$"
+
+Write one of the following phrases in the spaces below to make each statement correct.
+
+"has the same chance of happening as" 
+
+"is more likely to happen than" 
+
+"is less likely to happen than"
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
+If we read the question carefully, similar set of events are repeated and **we have to derive if the phrases are correct for the 
+inter-related statements for all the events**.
+
+Let's check the probability of outcomes of Events A, B C and D step by step and draw out interpretation at end.
+
 
 $
-\begin{aligned}
-\text{Cars (Neither blue nor red)}            &= \text{Total Cars - Red Cars - Blue Cars}  \\\\
-                                              &= 60 - \dfrac {5} {12} \times 60 - 20\% \times 60 \\\\
-                                              &= 60 - \dfrac {5 \times 60} {12} - \dfrac {20 \times 60} {100} \\\\
-                                              &= 60 - \dfrac {5 \times 5 \times 12} {12} -  \dfrac {20 \times 5 \times 12} {20 \times 5} \\\\
-                                              &= 60 - \dfrac {5 \times 5 \times \cancel{12}} {\cancel{12}}  -\dfrac {\cancel{20} \times \cancel{5} \times 12} {\cancel{20} \times \cancel{5}} \\\\
-                                              &= 60 - 5 \times 5 - 12 \\\\
-                                              &= 60 - 25 - 12 \\\\
-                                              &= 23
+\begin{aligned} 
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
 \end{aligned}
 $
+
+We will compare the possibilties to derive which statement fits which two given events. 
+
+|   | Event                 | Favorable Outcome | Total Outcome   |  Probability    |
+|---|-----------------------|-------------------|:---------------:|:---------------:|
+| A | either a $5$ or a $6$ | $5$ and $6 = 2$   |       $6$       | $\dfrac {2}{6}$ |
+| B | an even number        | $2, 3$ and $6 = 3$|       $6$       | $\dfrac {3}{6}$ |
+| C | a prime number        | $2, 3$ and $5 = 3$|       $6$       | $\dfrac {3}{6}$ |
+| D | a multiple of $3$     | $3$ and $6 = 2$   |       $6$       | $\dfrac {2}{6}$ |
+
+
+Now lets **inspect** the statements.
+
+Statement 1 : A $\text{\textunderscore \textunderscore \textunderscore}$ B.
+
+$
+\begin{aligned} 
+    \text{A}             & : \text{B}             \\\\
+    \dfrac {2}{6}        & : \dfrac {3}{6}        \\\\
+    \text{Probability A} & < \text{Probability B} 
+\end{aligned}
+$
+
+A $\underline {\text {is less likely to happen than}}$ B.
+
+
+
+Statement 2 : B $\text{\textunderscore \textunderscore \textunderscore}$ C.
+
+$
+\begin{aligned} 
+    \text{B}             & : \text{C}             \\\\
+    \dfrac {3}{6}        & : \dfrac {3}{6}        \\\\
+    \text{Probability B} & < \text{Probability C} 
+\end{aligned}
+$
+
+B $\underline {\text {has the same chance of happening as}}$ C.
+
+Statement 3 : C $\text{\textunderscore \textunderscore \textunderscore}$ D.
+
+$
+\begin{aligned} 
+    \text{C}             & : \text{D}             \\\\
+    \dfrac {3}{6}        & : \dfrac {2}{6}        \\\\
+    \text{Probability C} & < \text{Probability D} 
+\end{aligned}
+$
+
+C $\underline {\text {is more likely to happen than}}$ D.
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$23$
+A $\underline {\text {is less likely to happen than}}$ B.
+
+B $\underline {\text  {has the same chance of happening as}}$ C.
+
+C $\underline {\text  {is more likely to happen than}}$ D.
 
 </div>
 </div>
 
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -613,6 +588,9 @@ $23$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tcoin
 </li>
@@ -962,55 +940,6 @@ $\text {Getting a head with a fair coin}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>3C2D79BD-AEA4-4564-8DED-BB94FFC30951</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Alison has $6$ yellow discs, $5$ blue discs and $9$ red discs which she places in a bag. 
-When she draws one disc out, what is the probability that the disc is **NOT** red?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-**NOT** selecting a red disc is same as selecting a blue or yellow disc instead.
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-&= \dfrac {6 + 5} {6 + 5 + 9} \\\\
-&= \dfrac {11} {20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {11} {20}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
 <p>3167920D-0D61-408D-81BB-04D02838D8D1</p>
@@ -1019,9 +948,6 @@ $\dfrac {11} {20}$
 <ul>
 <li>
 tprobability
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-all"
 title: "Owner - Banoth Sairam - All"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,9 +13,6 @@ date: 2022-05-28 14:33:22
 <ul>
 <li>
 tsimpleword
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -138,8 +135,7 @@ $
 \text{Adults}   &= 40 \% \ \text{of} \ 17600  \\\\
                 &= \dfrac {40} {100} \times 17600 \\\\
                 &= \dfrac {40 \times 17600} {100} \\\\
-                &= \dfrac {40 \times 176 \times 100} {100} \\\\
-                &= \dfrac {40 \times 176 \times 1\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
+                &= \dfrac {40 \times 176 \times 1\cancel{00}} {1\cancel{00}} \\\\
                 &= {40 \times 176} \\\\
                 &= 7040 
 \end{aligned}
@@ -176,9 +172,6 @@ $7040$
 <li>
 tsimpleword
 </li>
-<li>
-tage
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -197,7 +190,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Year dad was born}       &= 1985 - 32  \\\\
+\text{Year dad was born}    &= 1985 - 32  \\\\
                             &= 1953 
 \end{aligned}
 $
@@ -267,6 +260,16 @@ $60 - \ldots = 43$
 <div class='workings'>
 <div class='working'>
 
+$60 - \ldots = 43$
+
+Let the missing number be 'a'
+
+$60 - a = 43$
+
+$60 - 43 = a$
+
+$a = 17$
+
 $60 - \underline{\green{17}} = 43$
 
 </div>
@@ -294,6 +297,20 @@ $\ldots \times 40 = 280$
 </div>
 <div class='workings'>
 <div class='working'>
+
+$\ldots \times 40 = 280$
+
+Let the missing number be 'a'
+
+$a \times 40 = 280$
+
+$a = \dfrac{280}{40}$
+
+$a = \dfrac{7 \times 40}{40}$
+
+$a = \dfrac{7 \times \cancel{40}}{\cancel{40}}$
+
+$a = 7$
 
 $\underline{\green{7}} \times 40 = 280$
 
@@ -324,6 +341,16 @@ $\ldots \div 30 = 5$
 <div class='workings'>
 <div class='working'>
 
+$\ldots \div 30 = 5$
+
+Let the missing number be 'a'
+
+$a \div 30 = 5$
+
+$a = 5 \times 30$
+
+$a = 150$
+
 $\underline{\green{150}} \div 30 = 5$
 
 </div>
@@ -351,6 +378,16 @@ $-8 + \ldots = -1$
 </div>
 <div class='workings'>
 <div class='working'>
+
+$-8 + \ldots = -1$
+
+Let the missing number be 'a'
+
+$-8 + a = -1$
+
+$a = -1 + 8$
+
+$a = 7$
 
 $-8 + \underline{\green{7}} = -1$
 
@@ -420,6 +457,8 @@ $100 \times 2.8 = \ldots$
 </div>
 <div class='workings'>
 <div class='working'>
+
+
 
 $100 \times 2.8 = \underline{\green{280}}$
 
@@ -520,7 +559,7 @@ $\dfrac {4} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>0F57C9C9-F2AD-4B34-BB50-53249F45FAE3</p>
 </div>
@@ -561,7 +600,7 @@ $p - 71$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -780,8 +819,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time left}             &= 10 \ \text{am} - 8{:}15 \ \text{am} \\\\
+\text{Time left}              &= 10 \ \text{am} - 8{:}15 \ \text{am} \\\\
                               &= 1 \ \text{hour} \ 45 \ \text{minutes}   \\\\
+                              &= 1 \times 60 + 45  \ \text{minutes} \\\\
                               &= 60 + 45  \ \text{minutes} \\\\
                               &= 105  \ \text{minutes}
 \end{aligned}
@@ -834,11 +874,11 @@ Let the missing angle $= a$
 
 As the triangle is an isosceles triangle, the third angle is also $= a$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As we know, the sum of angles in a triangle is $180 \degree$.
 
 $
 \begin{aligned}
-a + a + 96      &= 180  \\\\
+a + a + 96      &= 180 \degree  \\\\
 2a + 96         &= 180  \\\\
 2a              &= 180 - 96  \\\\
 2a              &= 84  \\\\
@@ -1021,9 +1061,9 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{2}{5} \times a                         &= 14  \\\\
+\dfrac{2}{5} \times a                          &= 14  \\\\
 \dfrac{2 \times a}{5}                          &= 14  \\\\
-a                                               &= \dfrac{14 \times 5}{2} \\\\
+a                                              &= \dfrac{14 \times 5}{2} \\\\
                                                &= \dfrac{7 \times 2 \times 5}{2} \\\\
                                                &= \dfrac{7 \times \cancel{2} \times 5}{\cancel{2}} \\\\
                                                &= 7 \times 5 \\\\
@@ -1031,10 +1071,14 @@ a                                               &= \dfrac{14 \times 5}{2} \\\\
 \end{aligned}
 $
 
+The total number of children in the club $= 35$
+
+Let's find how many girls are in the club.
+
 $
 \begin{aligned}
-\text{Total Students}     &= 35  \\\\
-\text{Girls}             &= 35 - 14  \\\\
+\text{Girls}            &= \text{Total children} - \text{Total boys} \\\\      
+                        &= 35 - 14  \\\\
                         &= 21
 \end{aligned}
 $
@@ -1177,6 +1221,7 @@ $
 \begin{aligned}
 &= 3b^2 \\\\
 &= 3 \times 2^2  \\\\
+&= 3 \times 2 \times 2  \\\\
 &= 3 \times 4 \\\\
 &= 12
 \end{aligned}
@@ -1241,8 +1286,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac{65}{100}, \quad \dfrac{70}{100},  \quad \dfrac{75}{100} \\\\
-&= 65\%, \quad \dfrac{14}{20}, \quad \dfrac{3}{4} 
+&= \dfrac{65}{100}< \quad \dfrac{70}{100}<  \quad \dfrac{75}{100} \\\\
+&= 65\%< \quad \dfrac{14}{20}< \quad \dfrac{3}{4} 
 \end{aligned}
 $
 
@@ -1272,6 +1317,9 @@ $65\%, \quad \dfrac{14}{20}, \quad \dfrac{3}{4}$
 <div class='topics'>
 <ul>
 <li>
+tsimpleword
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -1291,10 +1339,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Count of pupils}         &= 24 \\\\
-\text{Cost per frame}         &= \pounds 3.75 \\\\
-\text{Total cost}             &= 24 \times 3.75 \\\\
-                            &= \pounds  90
+\text{Total cost}            &= \text{Count of pupils} \times \text{Cost per frame} \\\\\
+                             &= 24 \times 3.75 \\\\
+                             &= \pounds  90
 \end{aligned}
 $
 
@@ -1324,6 +1371,9 @@ $\pounds  90$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -1346,11 +1396,11 @@ $
 \begin{aligned}
 \text{Perimeter} &= 2 \times (\text{length} + \text{width}) \\\\
 36                                         &= 2 \times (10 + t) \\\\
-2 \times (10 + t)                        &= 36 \\\\
-10 + t                                  &= \dfrac{36}{2} \\\\
-10 + t                                  &= 18 \\\\
-t                                        &= 18 - 10 \\\\
-t                                        &= 8 \ \text{mm} \\\\
+2 \times (10 + t)                          &= 36 \\\\
+10 + t                                     &= \dfrac{36}{2} \\\\
+10 + t                                     &= 18 \\\\
+t                                          &= 18 - 10 \\\\
+t                                          &= 8 \ \text{mm} \\\\
 \end{aligned}
 $
 
@@ -1379,6 +1429,9 @@ $8 \ \text{mm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1423,7 +1476,11 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= 13 + 4 \div 2 \\\\
-&= 13 + 2 \\\\
+&= 13 + \dfrac{4}{2} \\\\
+&=\dfrac{26 + 4}{2} \\\\
+&=\dfrac{30}{2} \\\\
+&=\dfrac{15 \times 2}{2} \\\\
+&=\dfrac{15 \times \cancel 2}{\cancel 2} \\\\
 &= 15
 \end{aligned}
 $
@@ -1529,6 +1586,9 @@ $27$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -1576,11 +1636,11 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {a + 5} { 2} &= 6 \\\\
+\dfrac {a + 5} { 2}    &= 6 \\\\
 a + 5                  &= 6 \times 2 \\\\
 a + 5                  &= 12 \\\\
-a                     &= 12 - 5\\\\
-a                     &= 7\\\\
+a                      &= 12 - 5\\\\
+a                      &= 7\\\\
 \end{aligned}
 $
 
@@ -1615,8 +1675,8 @@ $5x - 7 = 43$
 $
 \begin{aligned}
 5x - 7         &= 43 \\\\
-5x          &= 43 + 7 \\\\
-5x          &= 50 \\\\
+5x             &= 43 + 7 \\\\
+5x             &= 50 \\\\
 x              &= \dfrac {50} {5} \\\\
 x              &= 10
 \end{aligned}
@@ -1650,6 +1710,9 @@ $10$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -1694,6 +1757,7 @@ $
 &= \dfrac{2}{5} + \dfrac{3}{8} \\\\
 &= \dfrac{2 \times 8}{5 \times 8} + \dfrac{3 \times 5}{8 \times 5} \\\\
 &= \dfrac{16}{40} + \dfrac{15}{40} \\\\
+&= \dfrac{16 + 15}{40} \\\\
 &= \dfrac{31}{40}
 \end{aligned}
 $
@@ -1761,6 +1825,9 @@ $\dfrac{1} {5}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -1951,6 +2018,9 @@ $\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -2123,6 +2193,9 @@ $7995$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -2276,6 +2349,9 @@ $11$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -2356,7 +2432,7 @@ How much did she pay, in total, for parking her car?
 
 $
 \begin{aligned}
-\text{Total parking charges}    &=  1.80 \times 8 \\\\
+\text{Total parking charges}    &=  \pounds 1.80 \times 8 \\\\
                                 &=  \pounds 14.40 
 \end{aligned}
 $
@@ -2389,6 +2465,9 @@ $\pounds 14.40$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -2543,6 +2622,9 @@ $0.4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -2609,6 +2691,9 @@ $12$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -2637,9 +2722,9 @@ tmoney
 
 The entry prices at a theme park are
 
-|                  | Price             |
-|:-----------:    |:---------------------:|
-|   Adults       |   $\pounds 6.25$ each |
+|                  | Price                 |
+|:-----------:     |:---------------------:|
+|   Adults         |   $\pounds 6.25$ each |
 |   Children       |   $\pounds 2.50$ each |
 
 Find the cost for $2$ adults and $4$ children to visit the theme park.
@@ -2651,7 +2736,7 @@ Find the cost for $2$ adults and $4$ children to visit the theme park.
 $
 \begin{aligned}
 \text{Total cost} &= 2 \times \text{Adult} + 4 \times \text{Child}  \\\\
-&= 2 \times 6.25 + 4 \times 2.50 \\\\
+&= 2 \times \pounds 6.25 + 4 \times \pounds 2.50 \\\\
 &= 12.5 + 10 \\\\
 &= \pounds 22.50
 \end{aligned}
@@ -2741,6 +2826,9 @@ $8$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2761,10 +2849,10 @@ As per the diagram,
 
 $
 \begin{aligned}
-a + 90 + 23     &= 180  \\\\
-a + 113         &= 180  \\\\
-a               &= 180 - 113 \\\\
-a               &= 67 \degree
+a + 90 \degree + 23 \degree     &= 180 \degree  \\\\
+a                               &= 180 - 90 - 23 \\\\
+a                               &= 180 - 113 \\\\
+a                               &= 67 \degree
 \end{aligned}
 $
 
@@ -2793,6 +2881,9 @@ $67 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2869,6 +2960,9 @@ $275 \ \text{grams}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -2890,18 +2984,20 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Number of boys}     &= \dfrac {2}{3} \times 24 \\\\
-                          &= \dfrac {2 \times 24}{3} \\\\
-                          &= \dfrac {2 \times 3 \times 8}{3} \\\\
-                          &= \dfrac {2 \times \cancel{3} \times 8}{\cancel{3}} \\\\
-                          &= 2 \times 8 \\\\
-                          &= 16
+\text{Number of boys}     &= a \\\\
+a                         &= \dfrac {2}{3} \times 24 \\\\
+a                         &= \dfrac {2 \times 24}{3} \\\\
+a                         &= \dfrac {2 \times 3 \times 8}{3} \\\\
+a                         &= \dfrac {2 \times \cancel{3} \times 8}{\cancel{3}} \\\\
+a                         &= 2 \times 8 \\\\
+a                         &= 16
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Boys with brown hair}      &= \dfrac {1}{2} \times 16 \\\\
+\text{Boys with brown hair}       &= &= \dfrac {1}{2} \times a\\\\
+                                  &= \dfrac {1}{2} \times 16 \\\\
                                   &= 8
 \end{aligned}
 $
@@ -2931,6 +3027,9 @@ $8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -3064,6 +3163,9 @@ $0.44$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -3128,6 +3230,9 @@ Test $1$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -3176,6 +3281,9 @@ $300 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -3293,6 +3401,9 @@ $30$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -3485,6 +3596,9 @@ $60, 7.5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -3504,7 +3618,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time left}             &= 13{:}05 - 10{:}45 \\\\
+\text{Waiting Time}           &= 13{:}05 - 10{:}45 \\\\
                               &= 2 \ \text{hour} \ 20 \ \text{minutes}   \\\\
                               &= 2 \times 60 + 20  \ \text{minutes} \\\\
                               &= 120 + 20  \ \text{minutes} \\\\
@@ -3538,6 +3652,9 @@ $140  \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -3562,7 +3679,7 @@ It is really important to use the right units in calculations and convert where 
 
 $
 \begin{aligned}
-\text{Total water} &= 5 \ \text{litres} \\\\
+\text{Total water}  &= 5 \ \text{litres} \\\\
                     &= 5 \times 1000 \ \text{ml} \\\\
                     &= 5000 \ \text{ml}
 \end{aligned}
@@ -3571,30 +3688,10 @@ $
 $
 \begin{aligned}
 \text{Number of glasses} &= \dfrac { \text{Total Water in cooler} } { \text{Water in a glass} } \\\\
-                        &= \dfrac { 5000 } { 200 } \\\\
-                        &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
-                        &= \dfrac { 50 } { 2 } \\\\
-                        &= 25
-\end{aligned}
-$
-
-Number of glasses of water $= 25$
-
-</div>
-<div class='working'>
-
-Alternatively, we can solve this using ratios. 
-
-$
-\begin{aligned}
-200 \ \text{ml}                             & : 1 \ \text{glass}  \\\\
-\dfrac{200}{200}  \ \text{ml}                  & : \dfrac{1}{200} \ \text{glasses} \\\\
-1  \ \text{ml}                              & : \dfrac{1}{200}  \\\\
-5000 \times 1  \ \text{ml}                   & : 5000 \times \dfrac{1}{200}  \\\\
-5000 \ \text{ml}                               & : \dfrac{5000}{200}  \\\\
-5000 \ \text{ml}                               & : \dfrac{50\cancel{0}\cancel{0}}{2\cancel{0}\cancel{0}}  \\\\
-5000 \ \text{ml}                               & : \dfrac{50}{2}  \\\\
-5000 \ \text{ml}                               & : 25 \ \text{glasses}                          
+                         &= \dfrac { 5000 } { 200 } \\\\
+                         &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
+                         &= \dfrac { 50 } { 2 } \\\\
+                         &= 25
 \end{aligned}
 $
 
@@ -3625,6 +3722,9 @@ $25$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -3712,6 +3812,9 @@ Length $= 9 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3762,6 +3865,9 @@ $15980$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -3866,6 +3972,9 @@ Banana $= 50 \ \text{pence}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tprofit
 </li>
 <li>
@@ -3958,12 +4067,15 @@ $\text{Shop C} = \pounds 820$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>CB985892-807A-481A-863E-243A882E5ED9</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -4072,7 +4184,7 @@ $492$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -4083,6 +4195,9 @@ $492$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -4157,6 +4272,9 @@ $32$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttemperature
 </li>
@@ -4289,6 +4407,9 @@ $12 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 <li>
@@ -4340,6 +4461,9 @@ $\pounds 57.50$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -4386,6 +4510,9 @@ $340$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -4449,6 +4576,9 @@ $\dfrac{6}{8}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -4499,6 +4629,9 @@ Five Tenths
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -4552,7 +4685,7 @@ $16$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tdivision
 </li>
 </ul>
 </div>
@@ -4605,6 +4738,9 @@ $0.4103$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -4945,10 +5081,10 @@ E: $634$
 
 $
 \begin{array}{cccccccccccccc}
-        & 1  & 4 & 8 \\
-    {}+ & 4  & 7 & 6 \\
-    \hline
-        & 6 & 2 & 4
+        &   1   &   4   &   8 \\
+{}+     &   4   &   7   &   6 \\
+\hline
+        &   6   &   2   & 4
 \end{array}
 $
 
@@ -4980,9 +5116,6 @@ $
 <li>
 tfraction
 </li>
-<li>
-tmoney
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -5007,9 +5140,9 @@ $
 \begin {aligned}
 &= \dfrac {80} {100} \times 535 \\\\
 &= \dfrac {80 \times 535} {100} \\\\
-&= \dfrac {42,800} {100} \\\\
-&= \dfrac {42,8 \cancel{00}} {1\cancel{00}} \\\\
-&= 428
+&= \dfrac {42800} {100} \\\\
+&= \dfrac {428 \cancel{00}} {1\cancel{00}} \\\\
+&=  \pounds 428
 \end {aligned}
 $
 
@@ -5018,7 +5151,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds428$
+$\pounds 428$
 
 </div>
 </div>
@@ -5653,6 +5786,9 @@ $26$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -5699,6 +5835,9 @@ $56$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -6043,6 +6182,9 @@ $8$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -6202,6 +6344,9 @@ $0.2$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -6250,7 +6395,7 @@ $75$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tnumber
 </li>
 </ul>
 </div>
@@ -6364,6 +6509,9 @@ $1080$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -6418,6 +6566,9 @@ $696$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -6464,6 +6615,9 @@ $196$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -6509,6 +6663,9 @@ $3$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -6561,6 +6718,9 @@ $71685$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -6608,9 +6768,6 @@ $1369$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tmoney
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -6657,6 +6814,9 @@ $\pounds 1.85$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -6710,6 +6870,9 @@ $\pounds 0.71$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -6752,6 +6915,9 @@ $42008$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tunit
 </li>
@@ -6865,6 +7031,9 @@ $5.1 \ \text{m}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -6994,6 +7163,9 @@ $125 \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -7151,6 +7323,9 @@ $
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 </ul>
@@ -7197,6 +7372,9 @@ $28.4 \ \text{cm}^2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tspeed
 </li>
@@ -7322,6 +7500,9 @@ $16 \ \text{km/hour}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -7476,6 +7657,9 @@ $11 \ \text{ mins}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -7555,6 +7739,9 @@ The smaller number $=13$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -7603,6 +7790,9 @@ $8.85 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -7757,6 +7947,9 @@ $\pounds 11.76$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 </ul>
@@ -7877,6 +8070,9 @@ $2.3475 \ \text{kilograms}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -8004,6 +8200,9 @@ $\pounds 6.25$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -8148,6 +8347,9 @@ $24, 3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -8194,6 +8396,9 @@ $6$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvenn
 </li>
@@ -8250,6 +8455,9 @@ $4 \leq x > 8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -8414,6 +8622,9 @@ $\dfrac{5}{8}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -8525,6 +8736,9 @@ $1\dfrac{3}{4}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -8761,6 +8975,9 @@ $\text{Twenty one thousand one hundred seventy one}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -8880,6 +9097,9 @@ $100 = 9100$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -8996,6 +9216,9 @@ $\dfrac{3}{25}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 torder
 </li>
 </ul>
@@ -9043,6 +9266,9 @@ $9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -9094,6 +9320,9 @@ $\pounds 8.30$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -9209,6 +9438,9 @@ $\pounds1.52$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -9334,6 +9566,9 @@ $51$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -9473,6 +9708,9 @@ $-1, -7$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -9623,6 +9861,9 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -9675,6 +9916,9 @@ $42 \text{toffees}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -9735,6 +9979,9 @@ $\pounds 54$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -9789,6 +10036,9 @@ $60 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -9838,6 +10088,9 @@ $\pounds 14,000$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -9961,6 +10214,9 @@ $\dfrac{1}{3}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -10115,6 +10371,9 @@ $31.33 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -10266,6 +10525,9 @@ $\dfrac {7}{2}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -10319,6 +10581,9 @@ $9$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -10363,6 +10628,9 @@ $16.848$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -10412,6 +10680,9 @@ $36 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -10558,6 +10829,9 @@ $204 \ \text{m}^2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -10671,6 +10945,9 @@ $624$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -10787,6 +11064,9 @@ $32$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -10897,6 +11177,9 @@ $1142$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -11013,6 +11296,9 @@ $56$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 </ul>
@@ -11091,6 +11377,9 @@ $56$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -11209,6 +11498,9 @@ $616000 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -11263,6 +11555,9 @@ $0.35$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -11312,6 +11607,9 @@ $58 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -11370,6 +11668,9 @@ $\dfrac{13}{20}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -11441,6 +11742,9 @@ $\pounds 1.33$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 <li>
@@ -11493,6 +11797,9 @@ $377$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -11663,6 +11970,9 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -11709,6 +12019,9 @@ $1000$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -11757,6 +12070,9 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -11815,7 +12131,7 @@ $56 \degree$
 <div class='topics'>
 <ul>
 <li>
-tdecimal
+tsimpleword
 </li>
 </ul>
 </div>
@@ -11866,10 +12182,7 @@ $33.6 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tangle
-</li>
-<li>
-ttime
+tclock
 </li>
 </ul>
 </div>
@@ -11929,6 +12242,9 @@ $150 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -12042,6 +12358,9 @@ $16$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -12086,6 +12405,9 @@ $None (or) 0$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -12227,6 +12549,9 @@ Reflect the triangle in the x-axis and label your shape $B$.
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttemperature
 </li>
 </ul>
@@ -12344,6 +12669,9 @@ $-7 \degree \text{C}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvolume
 </li>
@@ -12475,6 +12803,9 @@ $\dfrac{3}{4}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -12631,6 +12962,9 @@ $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \t
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -12696,6 +13030,9 @@ $53$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -12773,6 +13110,9 @@ $65$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -12853,6 +13193,9 @@ $
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -12976,6 +13319,9 @@ $9 \ \text{hrs} \ \  33 \ \text{mins}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -13172,6 +13518,9 @@ $\pounds 1.70$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 <li>
@@ -13304,6 +13653,9 @@ $18 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -13362,6 +13714,9 @@ $60$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -13624,6 +13979,9 @@ $1, 2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -13680,6 +14038,9 @@ $63$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -13744,10 +14105,10 @@ $0.601$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -13809,6 +14170,9 @@ $85 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 </ul>
@@ -13868,6 +14232,9 @@ $78\%$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -13922,6 +14289,9 @@ $3$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -13982,6 +14352,9 @@ $\pounds 3.15$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -14119,6 +14492,9 @@ $3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -14177,6 +14553,9 @@ $\dfrac{9}{20}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -14306,6 +14685,9 @@ $52.55$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -14362,6 +14744,9 @@ $86{,}400$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -14425,6 +14810,9 @@ $14$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -14481,6 +14869,9 @@ $6c - 3d$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -14543,6 +14934,9 @@ $50 \ \text{cm}^{2}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 </ul>
@@ -14603,6 +14997,9 @@ $5.3 \ \ \text{Kilograms}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -14679,6 +15076,9 @@ $3,-1$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -14736,6 +15136,9 @@ $54 \ \text{mins}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -14795,6 +15198,9 @@ $576$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -14865,6 +15271,9 @@ $4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tperimeter
 </li>
 </ul>
@@ -14932,6 +15341,9 @@ $36$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -14997,6 +15409,9 @@ $4.272$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -15057,6 +15472,9 @@ $-1$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -15122,6 +15540,9 @@ $\dfrac{11}{10}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -15181,6 +15602,9 @@ $21.6 \ \text{hrs}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpercentage
 </li>
@@ -15254,6 +15678,9 @@ $90\%$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -15315,6 +15742,9 @@ $190$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -15392,6 +15822,9 @@ $50$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -15453,6 +15886,9 @@ $9899$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -15540,6 +15976,9 @@ $26 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -15593,6 +16032,9 @@ $U$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -15662,7 +16104,7 @@ $900$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>6535F557-D651-4907-9B26-9B6E5BC0C1D5</p>
 </div>
@@ -15717,17 +16159,20 @@ $2026$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>40C6D51F-4323-450E-8F8E-0EB94069101F</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -15776,7 +16221,7 @@ $4693$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -15787,6 +16232,9 @@ $4693$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -15849,6 +16297,9 @@ $96 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 </ul>
@@ -15908,6 +16359,9 @@ $36$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -15973,6 +16427,9 @@ $= 0.7098$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -16033,6 +16490,9 @@ $136$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -16097,6 +16557,9 @@ $70$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -16153,6 +16616,9 @@ $\dfrac{19}{25}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -16216,6 +16682,9 @@ $17$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -16274,6 +16743,9 @@ $18$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -16330,6 +16802,9 @@ $88.5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -16400,6 +16875,9 @@ $9.5 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tunit
 </li>
 </ul>
@@ -16458,6 +16936,9 @@ $0.034 \ \text{m}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -16600,6 +17081,9 @@ $17 - 4n$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -16666,6 +17150,9 @@ $7$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -16727,6 +17214,9 @@ $\pounds 8.75$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -16791,6 +17281,9 @@ $8.17 \ \text{am}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -16841,6 +17334,9 @@ $2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -16907,6 +17403,9 @@ $\pounds 120.00$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -17040,6 +17539,9 @@ $528  \ \text{m}^2$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -17096,6 +17598,9 @@ $3d + 9e$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -17164,6 +17669,9 @@ $8.32$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 </ul>
@@ -17218,6 +17726,9 @@ $60 \%$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -17282,6 +17793,9 @@ $5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -17337,6 +17851,9 @@ $\dfrac{9}{10}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -17412,6 +17929,9 @@ $6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -17473,6 +17993,9 @@ $A = 14$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedaddition
 </li>
@@ -17546,6 +18069,9 @@ $22$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -17613,6 +18139,9 @@ $28$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 testimate
 </li>
@@ -17693,6 +18222,9 @@ $49$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -17752,6 +18284,9 @@ $49$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -17816,6 +18351,9 @@ $25, 4$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -17882,6 +18420,9 @@ $125, 8$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -17943,6 +18484,9 @@ $21$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -17993,6 +18537,9 @@ $8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -18045,6 +18592,9 @@ $6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -18095,6 +18645,9 @@ $3$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -18162,6 +18715,9 @@ $80 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 </ul>
@@ -18218,6 +18774,9 @@ $64 \ \text{cm}^2$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -18277,6 +18836,9 @@ $3$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -18323,6 +18885,327 @@ $8$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
+<p>DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+[In this question note that $1$ is NOT a prime number.] 
+
+The diagram below shows an ordinary die.
+
+![missing image](/papers/missing_image.svg)
+
+Consider the following events when a single die is rolled:
+
+A: "the score on the die is either a $5$ or a $6$" 
+
+B: "the score on the die is an even number" 
+
+C: "the score on the die is a prime number" 
+
+D: "the score on the die is a multiple of $3$"
+
+Write one of the following phrases in the spaces below to make each statement correct.
+
+"has the same chance of happening as" 
+
+"is more likely to happen than" 
+
+"is less likely to happen than"
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+If we read the question carefully, similar set of events are repeated and **we have to derive if the phrases are correct for the 
+inter-related statements for all the events**.
+
+Let's check the probability of outcomes of Events A, B C and D step by step and draw out interpretation at end.
+
+
+$
+\begin{aligned} 
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\end{aligned}
+$
+
+We will compare the possibilties to derive which statement fits which two given events. 
+
+|   | Event                 | Favorable Outcome | Total Outcome   |  Probability    |
+|---|-----------------------|-------------------|:---------------:|:---------------:|
+| A | either a $5$ or a $6$ | $5$ and $6 = 2$   |       $6$       | $\dfrac {2}{6}$ |
+| B | an even number        | $2, 3$ and $6 = 3$|       $6$       | $\dfrac {3}{6}$ |
+| C | a prime number        | $2, 3$ and $5 = 3$|       $6$       | $\dfrac {3}{6}$ |
+| D | a multiple of $3$     | $3$ and $6 = 2$   |       $6$       | $\dfrac {2}{6}$ |
+
+
+Now lets **inspect** the statements.
+
+Statement 1 : A $\text{\textunderscore \textunderscore \textunderscore}$ B.
+
+$
+\begin{aligned} 
+    \text{A}             & : \text{B}             \\\\
+    \dfrac {2}{6}        & : \dfrac {3}{6}        \\\\
+    \text{Probability A} & < \text{Probability B} 
+\end{aligned}
+$
+
+A $\underline {\text {is less likely to happen than}}$ B.
+
+
+
+Statement 2 : B $\text{\textunderscore \textunderscore \textunderscore}$ C.
+
+$
+\begin{aligned} 
+    \text{B}             & : \text{C}             \\\\
+    \dfrac {3}{6}        & : \dfrac {3}{6}        \\\\
+    \text{Probability B} & < \text{Probability C} 
+\end{aligned}
+$
+
+B $\underline {\text {has the same chance of happening as}}$ C.
+
+Statement 3 : C $\text{\textunderscore \textunderscore \textunderscore}$ D.
+
+$
+\begin{aligned} 
+    \text{C}             & : \text{D}             \\\\
+    \dfrac {3}{6}        & : \dfrac {2}{6}        \\\\
+    \text{Probability C} & < \text{Probability D} 
+\end{aligned}
+$
+
+C $\underline {\text {is more likely to happen than}}$ D.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+A $\underline {\text {is less likely to happen than}}$ B.
+
+B $\underline {\text  {has the same chance of happening as}}$ C.
+
+C $\underline {\text  {is more likely to happen than}}$ D.
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>C74F6145-1D9D-471D-9081-11DC74346EC6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The new TV channel, Lazy Living, broadcasts for $98 \ \text{hours}$ a week. 
+If two-sevenths of its output is devoted to make-over programmes and the rest to celebrity gossip, 
+for how many hours each week does the channel broadcast programmes on celebrity gossip?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+    \text{Make-over programmes}                     & = \dfrac {2}{7} \ \text {of \ } 98 \ \text{hours}                  \\\\
+    \text{Total Broadcast time}                     & = 98 \ \text{hours a week}                                         \\\\
+    \text{Total Broadcast time} \ 98 \ \text{hours} & = \dfrac {7}{7}                                                    \\\\ \text {So,}
+    \text{Celebrity gossip}                         & = \dfrac {7}{7} - \dfrac {2}{7}\ \text {of \ } 98 \ \ \text{hours} \\\\
+                                                    & = \dfrac {7-2}{7}                                                  \\\\
+                                                    & = \dfrac {5}{7}                                                    
+\end{aligned}
+$
+
+Let's find the total hours of celebrity gossip's broadcasted by the channel each week.
+
+$
+\begin{aligned}
+      & = \dfrac {5}{7} \ \text{\ of \ } 98 \ \text{hours}  \\\\
+      & = \dfrac {5}{7} \times 98                           \\\\
+      & = \dfrac {5}{7} \times \dfrac {98}{1}               \\\\
+      & = \dfrac {5}{7} \times \dfrac {14 \times 7}{1}      \\\\
+      & = \dfrac {5 \times 14 \times 7 }{7}                 \\\\
+      & = \dfrac {5 \times 14 \times \cancel 7 }{\cancel 7} \\\\
+      & = 5 \times 14                                       \\\\
+      & = 70 \ \text{hours}                                
+\end{aligned}
+$
+
+Total hours of celebrity gossip programmes braodcasted by the channel each week $=70 \ \text{hours}
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$70 \ \text{hours}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>79E27990-373F-47F4-8BF5-B595A17F83E7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For breakfast I eat a slice of buttered toast and a cup of coffee. The time taken to complete these activities is as follows:
+
+![missing table](/papers/missing_table.svg)
+
+Brown toast in toaster $3 \ \text{minutes}$ 
+Butter the toast $1 \ \text{minute}$ 
+Make coffee in machine $2 \ \text{minutes}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jonathan thinks that the shortest time taken for me to prepare my breakfast is $6 \ \text{minutes}$. Explain briefly why Jonathan is wrong.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Jonathan is wrong because I can manage making a coffee in a machine and toasting the breast in a toaster as a parallel task. 
+
+The coffee making takes $2 \ \text{minutes}$, which I can do while my bread is getting toasted in the toaster, which takes $3 \ \text{minutes}$. 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\underline {{\text {Jonathan is wrong because I can manage making a coffee in a machine and toasting the breast in a toaster as a parallel task.}}}$ 
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the correct shortest time?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The shortest time taken by me to prepare my breakfast is,
+
+$
+\begin{aligned}
+      & = \text {Brown the toast in toaster + Butter the toast} \\\\
+      & = 3 + 1                                                 \\\\
+      & = 4 \ \text{minutes}                               
+\end{aligned}
+$
+
+The shortest time taken by me to prepare my breakfast is $=4 \ \text{minutes}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
 <p>D3586240-8AF8-4DFE-9B41-8E2CAD789B2F</p>
 </div>
 <div class='topics'>
@@ -18367,17 +19250,20 @@ $14002$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>F46BD077-5724-4B71-BA48-162435F7D628</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -18414,17 +19300,20 @@ $6646$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>01FADDAD-8EFA-4AE9-B369-FC2FBAFE48DC</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -18464,7 +19353,7 @@ $578$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -18475,6 +19364,9 @@ $578$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -18523,6 +19415,9 @@ $318$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -18586,6 +19481,9 @@ $3, 12$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -18635,6 +19533,9 @@ $90$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -18697,6 +19598,9 @@ $3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -18739,12 +19643,15 @@ $290  \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -18780,7 +19687,7 @@ $20$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -18791,6 +19698,9 @@ $20$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -18855,6 +19765,9 @@ $11, 12 \dfrac{1}{2}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -18956,7 +19869,7 @@ $13587$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>FFAD2427-919C-438B-9726-234F1F3EA395</p>
 </div>
@@ -19005,17 +19918,20 @@ $27427$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>48CC7C13-DA2B-4CE6-A050-04C92A669FCA</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -19059,7 +19975,7 @@ $41096$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -19070,6 +19986,9 @@ $41096$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdivision
 </li>
@@ -19120,6 +20039,9 @@ $814$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -19176,6 +20098,9 @@ $2.4 \text{m}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -19225,6 +20150,9 @@ $\dfrac{2}{3}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -19288,6 +20216,9 @@ $\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -19338,6 +20269,9 @@ $0.092$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -19384,6 +20318,9 @@ $63$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tlcm
 </li>
@@ -19482,6 +20419,9 @@ $9012213$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tspeed
 </li>
@@ -19597,6 +20537,9 @@ $11502$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -19651,6 +20594,9 @@ $2709$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -19704,6 +20650,9 @@ $43771$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 torder
 </li>
@@ -19766,6 +20715,9 @@ $\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -19815,6 +20767,9 @@ $18$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -19951,6 +20906,9 @@ $48$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -20004,6 +20962,9 @@ $1.009$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -20121,6 +21082,9 @@ $13602$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -20168,6 +21132,9 @@ $5745$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -20214,6 +21181,9 @@ $22352$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -20270,6 +21240,9 @@ $0, 0, 1, 1$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -20387,6 +21360,9 @@ $15$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -20430,6 +21406,9 @@ $36$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -20486,6 +21465,9 @@ $0.4, \dfrac{3}{8}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -20525,6 +21507,9 @@ $20306$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -20610,6 +21595,9 @@ $15$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tpermutation
 </li>
@@ -20715,6 +21703,9 @@ $9134$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -20768,6 +21759,9 @@ $8760$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -20814,6 +21808,9 @@ $2303$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -20922,6 +21919,9 @@ $220$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tlcm
 </li>
 </ul>
@@ -20963,6 +21963,9 @@ $63$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -21017,6 +22020,9 @@ $1.006$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>

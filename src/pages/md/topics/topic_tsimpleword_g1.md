@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-g1"
 title: "Topic - Simpleword - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -119,6 +119,103 @@ $\pounds 14.25$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>5628A8F8-B6F9-4B5F-A53D-63CCA2DEEBAC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+My father was $31$ on my $8 \text{th}$ birthday.
+How old will he be  on my $30 \text{th}$ birthday? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {My father's age on my 30th birthday}  &= 30 + (31 - 8) \\\\
+                                             &= 30 + 23 \\\\
+                                             &= 53
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$53$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>87808858-372B-4F74-AE78-99248501465B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A boy was asked to take $3.51$ away from $7.9$, but by mistake he took away $3.15$ instead. By how much is he wrong?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {He was wrong by} &= 3.51 - 3.15 \\\\
+                        &= 0.36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.36$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8</p>
@@ -169,6 +266,212 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>B7C56077-26E4-4AD6-8A1B-F22F480D40B8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+George is $2$ years and $9$ months older than his sister Sophie.
+
+George is $12$ years and $5$ months old.
+
+How old is Sophie?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Sophie's age}  &= 12 \ \text {years} \ 5 \ \text {months} - 2 \ \text {years} \ 9 \ \text {months} \\\\
+                      &= 9 \ \text {years} \ 6 \ \text {months}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \ \text {years} \ 6 \ \text {months}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>CEDD52CF-032F-4A9F-9B45-E9E5151A2F0A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The composer Johann Sebastian Bach lived for $65$ years and $4$ months.
+
+The composer Georg Philipp Telemann lived for $86$ years and $3$ months.
+
+For how much longer did Telemann live than Bach?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Years Telemann lived more than Bach}  &= 86 \ \text {years} \ 3 \ \text {months} - 65 \ \text {years} \ 4 \ \text {months} \\\\
+                                             &= 20 \ \text {years} \ 9 \ \text {months}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text {years} \ 9 \ \text {months}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>460183B0-7FB1-4AE5-A539-6CE39B381434</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jessica was born on $5$ January $2003$ and her friend Amelia was born exactly $9$ days earlier. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On which date was Amelia born?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$27 \ \text {December} 2002$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27 \ \text {December} 2002$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jessica’s $12 \text{th}$ birthday was on a Monday.
+
+On what day of the week was Amelia’s $12 \text{th}$ birthday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\ \text {Saturday}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\ \text {Saturday}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

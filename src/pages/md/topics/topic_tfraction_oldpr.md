@@ -1,83 +1,9 @@
 ---
 slug: "topics/topic-tfraction-oldpr"
 title: "Topic - Fraction - Old PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_jn_oldpr question'>
-<div class='uuid'>
-<p>C74F6145-1D9D-471D-9081-11DC74346EC6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The new TV channel, Lazy Living, broadcasts for $98 \ \text{hours}$ a week. 
-If two-sevenths of its output is devoted to make-over programmes and the rest to celebrity gossip, 
-for how many hours each week does the channel broadcast programmes on celebrity gossip?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{aligned}
-    \text{Make-over programmes}                     & = \dfrac {2}{7} \ \text {of \ } 98 \ \text{hours}                  \\\\
-    \text{Total Broadcast time}                     & = 98 \ \text{hours a week}                                         \\\\
-    \text{Total Broadcast time} \ 98 \ \text{hours} & = \dfrac {7}{7}                                                    \\\\ \test {So,}
-    \text{Celebrity gossip}                         & = \dfrac {7}{7} - \dfrac {2}{7}\ \text {of \ } 98 \ \ \text{hours} \\\\
-                                                    & = \dfrac {7-2}{7}                                                  \\\\
-                                                    & = \dfrac {5}{7}                                                    
-\end{aligned}
-$
-
-Let's find the total hours of celebrity gossip's broadcasted by the channel each week.
-
-$
-\begin{aligned}
-      & = \dfrac {5}{7} \ \text{\ of \ } 98 \ \text{hours}  \\\\
-      & = \dfrac {5}{7} \times 98                           \\\\
-      & = \dfrac {5}{7} \times \dfrac {98}{1}               \\\\
-      & = \dfrac {5}{7} \times \dfrac {14 \times 7}{1}      \\\\
-      & = \dfrac {5 \times 14 \times 7 }{7}                 \\\\
-      & = \dfrac {5 \times 14 \times \cancel 7 }{\cancel 7} \\\\
-      & = 5 \times 14                                       \\\\
-      & = 70 \ \text{hours}                                
-\end{aligned}
-$
-
-Total hours of celebrity gossip programmes braodcasted by the channel each week $=70 \ \text{hours}
-
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$70 \ \text{hours}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_jn_oldpr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_up_oldpr question'>
 <div class='uuid'>
@@ -85,6 +11,9 @@ $70 \ \text{hours}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-red"
 title: "Topic - Infer - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -163,6 +166,9 @@ $200$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -415,6 +421,9 @@ $35\%$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -543,6 +552,9 @@ False
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -586,6 +598,9 @@ $\text {A coin toss has a probabiltiy of 1/2, because there is equal chance of t
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -638,6 +653,9 @@ $6x + 4y$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -682,6 +700,9 @@ $81 \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -737,6 +758,9 @@ The $100^{\text{th}}$ symbol is $=$ &
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -794,12 +818,183 @@ $600$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ga_red question'>
+<div class='uuid'>
+<p>A3D346FE-86AB-4EB5-BDA9-07C1CE5349D7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a rod with five equally space points $A, B, C, D$ and $E$ marked on it. 
+
+![missing image](/papers/missing_image.svg)
+
+The rod is rotated three times through $180 \degree$, first about the point $A$, then about the point $B$ and finally about the point $E$. Which point finishes in the same position as it was at the start?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+**Fixed at point A**
+
+$
+\begin{aligned}
+\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
+\maroonC {\text{\textcircled a} }\text{---}
+  \text{\textcircled b} \text{---}
+  \text{\textcircled c}  \text{---}
+  \text{\textcircled d}  \text{---}
+  \text{\textcircled e}   \text{---}
+\text{\textcircled {}}\text{---}\text{\textcircled {}}\\ 
+\text {Turned through  }  {180}\degree \text {at point A then \ results in  }   \\
+\text{\textcircled {}} \text{---}
+  \text{\textcircled e}  \text{---}
+  \text{\textcircled d}  \text{---}
+  \text{\textcircled c}  \text{---}
+  \text{\textcircled b}  \text{---}
+\maroonC {\text{\textcircled a}  }
+\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
+\end{aligned}
+$
+
+
+**Fixed at point B**
+
+$
+\begin{aligned}
+\text{\textcircled {}} \text{---}
+  \text{\textcircled e}  \text{---}
+  \text{\textcircled d}  \text{---}
+  \text{\textcircled c}  \text{---}
+\maroonC {\text{\textcircled b}  } \text{---}
+  \text{\textcircled a}  \text{---}
+\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\\
+\text {Turned through  }  {180}\degree \text {at point B then \ results in  }   \\
+  \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
+\text{\textcircled {}}\text{---}
+\text{\textcircled a}  \text{---}
+ \maroonC {\text{\textcircled b}  } \text{---}
+ \text{\textcircled c}  \text{---}
+ \text{\textcircled d}  \text{---}
+ \text{\textcircled e}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
+\end{aligned}
+$
+
+
+**Fixed at point E**
+
+$
+\begin{aligned}
+\text{\textcircled {}} \text{---}
+   \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
+\text{\textcircled a}  \text{---}
+ \text{\textcircled b}  \text{---}
+ \text{\textcircled c}  \text{---}
+ \text{\textcircled d}  \text{---}
+ \maroonC {\text{\textcircled e}  } \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\
+\text {Turned through  }  {180}\degree \text {at point E then \ results in  }   \\
+\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
+\maroonC {\text{\textcircled e} }  \text{---}
+  \text{\textcircled d}  \text{---}
+  \text{\textcircled c}  \text{---}
+\text{\textcircled b}  \text{---}
+ \text{\textcircled a} \\ 
+\end{aligned}
+$
+
+
+
+
+**Now, Let's find which point finishes in the same position as it was at the start.**
+
+$
+\begin{aligned}
+\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
+\maroonC {\text{\textcircled a} }\text{---}
+  \text{\textcircled b} \text{---}
+  \text{\textcircled c}  \text{---}
+  \text{\textcircled d}  \text{---}
+  \text{\textcircled e}   \text{---}
+\text{\textcircled {}}\text{---}\text{\textcircled {}}\\ 
+\text {Turned through  }  {180}\degree \text {at point A then \ results in  }   \\
+\text{\textcircled {}} \text{---}
+  \text{\textcircled e}  \text{---}
+  \text{\textcircled d}  \text{---}
+  \text{\textcircled c}  \text{---}
+  \text{\textcircled b}  \text{---}
+\maroonC {\text{\textcircled a}  }
+\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
+\hline \\\
+\text{\textcircled {}} \text{---}
+  \text{\textcircled e}  \text{---}
+  \text{\textcircled d}  \text{---}
+  \text{\textcircled c}  \text{---}
+\maroonC {\text{\textcircled b}  } \text{---}
+  \text{\textcircled a}  \text{---}
+\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\\
+\text {Turned through  }  {180}\degree \text {at point B then \ results in  }   \\
+  \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
+\text{\textcircled {}}\text{---}
+\text{\textcircled a}  \text{---}
+ \maroonC {\text{\textcircled b}  } \text{---}
+ \text{\textcircled c}  \text{---}
+ \text{\textcircled d}  \text{---}
+ \text{\textcircled e}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
+\hline \\\
+\text{\textcircled {}} \text{---}
+   \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
+\text{\textcircled a}  \text{---}
+ \text{\textcircled b}  \text{---}
+ \text{\textcircled c}  \text{---}
+ \text{\textcircled d}  \text{---}
+ \maroonC {\text{\textcircled e}  } \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\
+\text {Turned through  }  {180}\degree \text {at point E then \ results in  }   \\
+\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
+\maroonC {\text{\textcircled e} }  \text{---}
+  \text{\textcircled d}  \text{---}
+  \text{\textcircled c}  \text{---}
+\text{\textcircled b}  \text{---}
+ \text{\textcircled a} \\ 
+\end{aligned}
+$
+
+it can be observed that the **point D** finishes in the same position as it was at the start.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Point D
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ga_red</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>F43D3602-5658-4346-A033-7622033D0D5E</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -875,6 +1070,9 @@ $-4, -1, 5$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -1003,6 +1201,9 @@ $0.8n, \sqrt {n}, \dfrac {1} {n}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -1130,6 +1331,9 @@ $30$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tstatistics
 </li>
 <li>
@@ -1181,6 +1385,9 @@ $5, 10, 9$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1377,6 +1584,9 @@ $ 33 $
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 <li>
@@ -1544,6 +1754,9 @@ $2, 14, 42$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -1714,6 +1927,9 @@ $2, 24, 72$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -1870,6 +2086,9 @@ $
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -1917,6 +2136,9 @@ $6$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -1963,6 +2185,9 @@ $32$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -2025,6 +2250,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -2089,6 +2317,9 @@ $13, 14$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -2266,6 +2497,9 @@ $13$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 <li>
@@ -2430,6 +2664,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -2522,6 +2759,9 @@ $4\ \text{hrs} \ 2 \ \text{min}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -2632,12 +2872,214 @@ $59$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_red question'>
+<div class='uuid'>
+<p>6692F471-DA27-4415-ADF6-727EF20ED385</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a special code, words are replaced by the **product** of the **whole** numbers assigned to the letters. In the code, each letter is given a different number.
+
+For example:- if $\text{S} = 3$, $\text{P} = 4$ and $\text{Y} = 6$ then the word $\text{SPY} = 3 \times 4 \times 6 = 72$
+
+**Using this same method of creating our special code**, work out the answers to the following **four** questions.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $\text{TEE} = 20$, find the values of $\text{T}$ and $\text{E}$, if **neither** of the letters has the value $1$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+T \times E \times E &= 20 \\\\
+T \times 2E         &= 20 \\\\
+T \times E          &= \dfrac{20} {2} \\\\
+T \times E          &= \dfrac{10 \times 2} {2} \\\\
+T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
+T \times E          &= 10
+\end{aligned}
+$
+
+LCM of $10$ is $2$ and $5$
+
+So,
+
+T = $5$
+
+E = $2$
+
+$5 \times 2 \times 2 = 20$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5, \ 2$ 
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Then with those values for $\text{T}$ and $\text{E}$, if $\text{TEA} = 70$, find the value of $\text{A}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+T \times E \times A &= 70 \\\\
+5 \times 2 \times A &= 70 \\\\
+10 \times A         &= 70 \\\\
+A                   &= \dfrac {70} {10} \\\\
+A                   &= \dfrac {7 \cancel {0}} {1 \cancel {0}} \\\\
+A                   &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Now work out the value of the word $\text{SEAT}$ with the letter values you have, including those in the example at the start.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{SEAT} &= S \times E \times A  \times T \\\\
+            &= 3 \times 2 \times 7  \times 5 \\\\
+            &= 210
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$210$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Finally, if the value of the word $\text{FOAL} = 504$, work out the value of the word $\text{LOAF}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+FOAL and LOAF contain the same alphabets. LOAF is an anagram of FOAL
+
+So, LOAF = $504$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$504$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_ad_red</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_red question'>
 <div class='uuid'>
 <p>C20A4A1C-A26D-4559-B8BE-890AC044C5DD</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>

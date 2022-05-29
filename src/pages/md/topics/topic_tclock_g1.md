@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-g1"
 title: "Topic - Clock - G1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,9 +13,6 @@ date: 2022-05-28 14:33:22
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 </ul>
 </div>
@@ -66,9 +63,6 @@ $45 \degree$
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -117,9 +111,6 @@ $165 \degree$
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 </ul>
 </div>
@@ -172,9 +163,6 @@ $30 \degree$
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -222,6 +210,9 @@ $255 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -263,12 +254,122 @@ $03 {:} 35 \ \text {p.m.}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>DBB8C89C-F97B-4199-91D5-98FAE00EFC21</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tclock
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the time in $24 \ \text{hour}$ clock
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$15 {:} 35$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15 {:} 35$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>98FB3AC6-2728-458B-AA28-1E5EF428AAFB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tclock
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the obtuse angle between the hands of a clock at $5$ o’clock. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+In the clock from $12$ to $12$ it was $360 \degree$
+
+In the clock from $12$ to $6$ it was $180 \degree$
+
+$
+\begin{aligned}
+\text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
+&= \dfrac{30 \times 6}{6} \\\\
+&=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
+&= 30 \degree \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{So, the obtuse angle for} \  5  \ \text{O'clock} &= 30 \times 5 \\\\
+&=  30 \times 5 \\\\
+&=  150 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>E59625D9-2685-424C-B233-E9123F55D6DF</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -330,6 +431,9 @@ $11{:}11, \ 08{:}08$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -358,6 +462,66 @@ $9{:}40, \ 21{:}40$
 <div class='answer'>
 
 $9{:}40, \ 21{:}40$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>6C0D2582-A45B-4E63-9DBD-EBD8E755B0AC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tclock
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Belinda has a digital alarm clock. 
+
+The numbers on the clock are displayed as:
+
+![missing image](/papers/missing_image.svg)
+
+Belinda's digital clock shows the time $01{:}10$
+
+She puts it upside down on her bedside table.
+
+The same time is shown.
+
+At what times between $01{:}10$ and $12{:}00$ does the clock 
+show the same time when it is upside down as when it is the 
+right way up?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$11{:}11$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11{:}11$
 
 </div>
 </div>

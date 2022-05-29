@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Aldenham School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -193,6 +196,9 @@ $7995$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tnumber
 </li>
 </ul>
@@ -346,6 +352,9 @@ $11$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -426,7 +435,7 @@ How much did she pay, in total, for parking her car?
 
 $
 \begin{aligned}
-\text{Total parking charges}    &=  1.80 \times 8 \\\\
+\text{Total parking charges}    &=  \pounds 1.80 \times 8 \\\\
                                 &=  \pounds 14.40 
 \end{aligned}
 $
@@ -459,6 +468,9 @@ $\pounds 14.40$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -613,6 +625,9 @@ $0.4$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -679,6 +694,9 @@ $12$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -707,9 +725,9 @@ tmoney
 
 The entry prices at a theme park are
 
-|                  | Price             |
-|:-----------:    |:---------------------:|
-|   Adults       |   $\pounds 6.25$ each |
+|                  | Price                 |
+|:-----------:     |:---------------------:|
+|   Adults         |   $\pounds 6.25$ each |
 |   Children       |   $\pounds 2.50$ each |
 
 Find the cost for $2$ adults and $4$ children to visit the theme park.
@@ -721,7 +739,7 @@ Find the cost for $2$ adults and $4$ children to visit the theme park.
 $
 \begin{aligned}
 \text{Total cost} &= 2 \times \text{Adult} + 4 \times \text{Child}  \\\\
-&= 2 \times 6.25 + 4 \times 2.50 \\\\
+&= 2 \times \pounds 6.25 + 4 \times \pounds 2.50 \\\\
 &= 12.5 + 10 \\\\
 &= \pounds 22.50
 \end{aligned}
@@ -811,6 +829,9 @@ $8$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -831,10 +852,10 @@ As per the diagram,
 
 $
 \begin{aligned}
-a + 90 + 23     &= 180  \\\\
-a + 113         &= 180  \\\\
-a               &= 180 - 113 \\\\
-a               &= 67 \degree
+a + 90 \degree + 23 \degree     &= 180 \degree  \\\\
+a                               &= 180 - 90 - 23 \\\\
+a                               &= 180 - 113 \\\\
+a                               &= 67 \degree
 \end{aligned}
 $
 
@@ -863,6 +884,9 @@ $67 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -939,6 +963,9 @@ $275 \ \text{grams}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvenn
 </li>
 </ul>
@@ -992,6 +1019,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tstatistics
 </li>
@@ -1049,6 +1079,9 @@ $10  \ \text{kg}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -1070,18 +1103,20 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Number of boys}     &= \dfrac {2}{3} \times 24 \\\\
-                          &= \dfrac {2 \times 24}{3} \\\\
-                          &= \dfrac {2 \times 3 \times 8}{3} \\\\
-                          &= \dfrac {2 \times \cancel{3} \times 8}{\cancel{3}} \\\\
-                          &= 2 \times 8 \\\\
-                          &= 16
+\text{Number of boys}     &= a \\\\
+a                         &= \dfrac {2}{3} \times 24 \\\\
+a                         &= \dfrac {2 \times 24}{3} \\\\
+a                         &= \dfrac {2 \times 3 \times 8}{3} \\\\
+a                         &= \dfrac {2 \times \cancel{3} \times 8}{\cancel{3}} \\\\
+a                         &= 2 \times 8 \\\\
+a                         &= 16
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Boys with brown hair}      &= \dfrac {1}{2} \times 16 \\\\
+\text{Boys with brown hair}       &= &= \dfrac {1}{2} \times a\\\\
+                                  &= \dfrac {1}{2} \times 16 \\\\
                                   &= 8
 \end{aligned}
 $
@@ -1111,6 +1146,9 @@ $8$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1243,6 +1281,9 @@ $0.44$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -1381,6 +1422,9 @@ $4 \degree  \text{C}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tfraction
 </li>
 </ul>
@@ -1445,6 +1489,9 @@ Test $1$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1493,6 +1540,9 @@ $300 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -1610,6 +1660,9 @@ $30$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -1802,6 +1855,9 @@ $60, 7.5$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 </ul>
@@ -1821,7 +1877,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time left}             &= 13{:}05 - 10{:}45 \\\\
+\text{Waiting Time}           &= 13{:}05 - 10{:}45 \\\\
                               &= 2 \ \text{hour} \ 20 \ \text{minutes}   \\\\
                               &= 2 \times 60 + 20  \ \text{minutes} \\\\
                               &= 120 + 20  \ \text{minutes} \\\\
@@ -1855,6 +1911,9 @@ $140  \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -1879,7 +1938,7 @@ It is really important to use the right units in calculations and convert where 
 
 $
 \begin{aligned}
-\text{Total water} &= 5 \ \text{litres} \\\\
+\text{Total water}  &= 5 \ \text{litres} \\\\
                     &= 5 \times 1000 \ \text{ml} \\\\
                     &= 5000 \ \text{ml}
 \end{aligned}
@@ -1888,30 +1947,10 @@ $
 $
 \begin{aligned}
 \text{Number of glasses} &= \dfrac { \text{Total Water in cooler} } { \text{Water in a glass} } \\\\
-                        &= \dfrac { 5000 } { 200 } \\\\
-                        &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
-                        &= \dfrac { 50 } { 2 } \\\\
-                        &= 25
-\end{aligned}
-$
-
-Number of glasses of water $= 25$
-
-</div>
-<div class='working'>
-
-Alternatively, we can solve this using ratios. 
-
-$
-\begin{aligned}
-200 \ \text{ml}                             & : 1 \ \text{glass}  \\\\
-\dfrac{200}{200}  \ \text{ml}                  & : \dfrac{1}{200} \ \text{glasses} \\\\
-1  \ \text{ml}                              & : \dfrac{1}{200}  \\\\
-5000 \times 1  \ \text{ml}                   & : 5000 \times \dfrac{1}{200}  \\\\
-5000 \ \text{ml}                               & : \dfrac{5000}{200}  \\\\
-5000 \ \text{ml}                               & : \dfrac{50\cancel{0}\cancel{0}}{2\cancel{0}\cancel{0}}  \\\\
-5000 \ \text{ml}                               & : \dfrac{50}{2}  \\\\
-5000 \ \text{ml}                               & : 25 \ \text{glasses}                          
+                         &= \dfrac { 5000 } { 200 } \\\\
+                         &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
+                         &= \dfrac { 50 } { 2 } \\\\
+                         &= 25
 \end{aligned}
 $
 
@@ -1942,6 +1981,9 @@ $25$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttable
 </li>
@@ -1996,6 +2038,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tarea
 </li>
@@ -2082,6 +2127,9 @@ Length $= 9 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2212,6 +2260,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2262,6 +2313,9 @@ $15980$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgeometry
 </li>
@@ -2392,6 +2446,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 <li>
@@ -2494,6 +2551,9 @@ Banana $= 50 \ \text{pence}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tprofit
 </li>

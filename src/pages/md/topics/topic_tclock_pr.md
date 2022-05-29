@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-pr"
 title: "Topic - Clock - PR"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,13 +12,7 @@ date: 2022-05-28 14:33:22
 <div class='topics'>
 <ul>
 <li>
-tangle
-</li>
-<li>
 tclock
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -136,49 +130,6 @@ $270 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>DBB8C89C-F97B-4199-91D5-98FAE00EFC21</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the time in $24 \ \text{hour}$ clock
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$15 {:} 35$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15 {:} 35$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>8D9C54BC-6E17-4740-929F-C604E748B5B7</p>
@@ -187,9 +138,6 @@ $15 {:} 35$
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 <li>
 tnoexplanation
@@ -289,69 +237,15 @@ $1440 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>6C0D2582-A45B-4E63-9DBD-EBD8E755B0AC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Belinda has a digital alarm clock. 
-
-The numbers on the clock are displayed as:
-
-![missing image](/papers/missing_image.svg)
-
-Belinda's digital clock shows the time $01{:}10$
-
-She puts it upside down on her bedside table.
-
-The same time is shown.
-
-At what times between $01{:}10$ and $12{:}00$ does the clock 
-show the same time when it is upside down as when it is the 
-right way up?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$11{:}11$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11{:}11$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
 <p>F3BE1318-A3C2-4027-94E9-36DD5A3FA799</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -396,6 +290,9 @@ $10{:}40$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>

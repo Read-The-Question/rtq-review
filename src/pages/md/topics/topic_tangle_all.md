@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-all"
 title: "Topic - Angle - All"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -33,11 +33,11 @@ Let the missing angle $= a$
 
 As the triangle is an isosceles triangle, the third angle is also $= a$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As we know, the sum of angles in a triangle is $180 \degree$.
 
 $
 \begin{aligned}
-a + a + 96      &= 180  \\\\
+a + a + 96      &= 180 \degree  \\\\
 2a + 96         &= 180  \\\\
 2a              &= 180 - 96  \\\\
 2a              &= 84  \\\\
@@ -76,6 +76,9 @@ $42 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -96,10 +99,10 @@ As per the diagram,
 
 $
 \begin{aligned}
-a + 90 + 23     &= 180  \\\\
-a + 113         &= 180  \\\\
-a               &= 180 - 113 \\\\
-a               &= 67 \degree
+a + 90 \degree + 23 \degree     &= 180 \degree  \\\\
+a                               &= 180 - 90 - 23 \\\\
+a                               &= 180 - 113 \\\\
+a                               &= 67 \degree
 \end{aligned}
 $
 
@@ -130,6 +133,9 @@ $67 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -261,6 +267,9 @@ $27 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -369,7 +378,7 @@ $135 \degree$
 tangle
 </li>
 <li>
-tdraw
+talgebra
 </li>
 </ul>
 </div>
@@ -538,7 +547,7 @@ $16 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -586,69 +595,15 @@ $79\degree$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>914E327B-A7A6-4DC8-B6D4-1728426C35A8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Seven out of forty pupils said they watch the news on television. 
-What angle would this be on a pie chart? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>D89D0F88-FC46-4178-A22E-462028F52077</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tgeometry
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -708,6 +663,9 @@ TODOANSWER
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -763,6 +721,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -824,6 +785,9 @@ $28 \degree, 48 \degree, 68 \degree, 88 \degree, 180 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -870,182 +834,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>352F3C44-BB51-43E0-917D-DF972F69E92B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bahia has arranged to meet her friend Emma at $15{:}30$, at a coffee shop which is five minutes’ walk from the station in Greyton.
-
-She has to catch a train in Aliston.
-
-The journey takes $40 \ \text{minutes}$ from Aliston to Greyton. There are trains at:
-
-$11{:}05, 11{:}35, 12{:}05, \allowbreak 12{:}35, 13{:}05, 13{:}35, \allowbreak 14{:}05, 14{:}35, 15{:}05, \allowbreak 15{:}35, 16{:}05$  etc.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the latest train Bahia can catch, so as not to be late meeting Emma?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Bahia does catch this train and it arrives on time. She walks straight to the coffee shop and waits there for her friend. 
-Emma is late and arrives when Bahia has been sitting there for $15 \ \text{minutes}$. At what time does Emma arrive at the coffee shop?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-While she waits, Bahia looks at the clock in the coffee shop.
-What angle does the minute hand turn through between $15{:}25$ and $15{:}35$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>4DFDE872-CA9D-4835-9FCF-E33BB1673E98</p>
@@ -1054,6 +842,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1187,7 +978,7 @@ $
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -1311,63 +1102,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>12548B45-68EA-4775-9632-A2AC3ED386E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate the angle between the hands of a clock at $9.30$.
-(Remember that when the minute hand is at half past, the hour hand has moved halfway between the $9$ and the $10$).
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>CFF3BE59-53C8-4689-9970-4DE5520555CE</p>
 </div>
@@ -1415,7 +1150,7 @@ $60 \ \text {degrees}$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -1430,7 +1165,7 @@ $60 \ \text {degrees}$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -1552,65 +1287,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>E8EB3103-93A6-476A-BE8D-CACD9D13E7BF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**Just a minute**
-
-Work out how many degrees the minute hand moves through between $07.30$ and $09.15$.
-
-You can use the clock face to help you.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
 <p>40FF7E29-DBCE-405A-9982-1F39CD4E3D5E</p>
@@ -1619,6 +1295,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1687,6 +1366,9 @@ $48,63$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1754,6 +1436,9 @@ $48, \63$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1805,6 +1490,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1859,6 +1547,9 @@ $62 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1873,9 +1564,9 @@ Find the size of angle $k$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$ and 
+As we know, the sum of angles of a triangle is 180°.
 
-the sum of angles of a triangle is $180 \degree$. So,
+Also the sum of angles on a straight line is 180°. So,
 
 As per the diagram,
 
@@ -1910,453 +1601,13 @@ $35 \degree$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>A8CD5AB1-157D-44AF-9C8D-F9AF644E3BA3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tangle
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The pie chart shows how $90$ Year $7$ pupils spent their time last night.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many pupils were doing homework?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$10$ pupils went to the youth club.
-
-What is the size of the angle for that sector of the chart?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>CD681FC9-00FF-49CB-9B02-D8EDF3F6026A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tangle
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Lily is planning an activity weekend with her youth club. She has asked $60$ members of the club what they would prefer to do.
-
-![missing image](/papers/missing_image.svg)
-
-In each part of this question, indicate whether the statement about the pie chart is true or false.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-True or false? The sector labelled 'archery' is created with a right angle.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-True or false? Five more members wanted to do archery than basketball.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-True or false? Two thirds of the embers wanted to do either skating or archery.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>46999D58-537F-44BC-B9A5-9C2318BA2DC8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tclock
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the angle between the hour hand and the minute hand of a clock, at $3 \ \text{o'clock}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$90 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Through how many degrees does the hour hand of a clock turn betweeb noon and $5 \ \text{o'clock}$ in the afternoon?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$150 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Through how many degrees does the minute hand of a clock turn between $0900$ and $0945$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$270 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$270 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2016--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>2BA835E1-7D92-469E-B7C7-5E510FB29702</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tgraph
 </li>
@@ -2535,6 +1786,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tangle
 </li>
 </ul>
@@ -2582,46 +1836,6 @@ $8$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>DFE28FF1-618F-43C0-9BCB-05877CC899BC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The angles are all the same size, because it is regular. What is the special name given to an angle of this size?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Obtuse angle
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Obtuse angle
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>DA636143-50D9-44F2-92E7-6E0251062FF1</p>
 </div>
 <div class='topics'>
@@ -2631,9 +1845,6 @@ tangle
 </li>
 <li>
 talgebra
-</li>
-<li>
-tgeometry
 </li>
 </ul>
 </div>
@@ -2731,58 +1942,6 @@ $43 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>9A2CE487-4367-455E-A627-FFFE0C8FF292</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Through what angles does the hour hand of a clock rotate between $8 \ \text{am}$ and $9{:}30 \ \text{am}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The hand of a clock moves by $30 \degree$ for every one unit covered.
-
-So the hour hand move by $30 \degree$ between $8 \ \text{am}$ and $9{:}00 \ \text{am}$ and another $15 \degree$ for $9{:}30 \ \text{am}$.
-
-$
-\begin {aligned}
-\text {The hour hand moved by}  &= 30 + 15 \\\\
-                                &= 45 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4</p>
@@ -2794,9 +1953,6 @@ tangle
 </li>
 <li>
 talgebra
-</li>
-<li>
-tgeometry
 </li>
 </ul>
 </div>
@@ -2896,58 +2052,6 @@ $131 \degree$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Through what angles does the hour hand of a clock rotate between $6 \ \text{am}$ and $11{:}30 \ \text{am}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The hand of a clock moves by $30 \degree$ for every one unit covered.
-
-So the hour hand move by $30 \times 5 = 150 \degree$ between $6 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
-
-$
-\begin {aligned}
-\text {The hour hand moved by}  &= 150 + 15 \\\\
-                                &= 165 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$165 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
 <p>011C7343-EA2D-4EDF-AFE0-7803C6D34E4D</p>
 </div>
 <div class='topics'>
@@ -3007,6 +2111,9 @@ $122 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgraph
 </li>
 <li>
@@ -3058,60 +2165,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>14F5E25E-982B-4BD0-99BF-68170A5DA82C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What angle do the hours of a clock make between each other at $7{:}30$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total angles for the complete round in a clock $= 360 \degree$.
-
-$
-\begin {aligned}
-\text {Angle between every hour}    &= \dfrac {360} {12} \\\\
-                                    &= \dfrac {30 \times 12} {12} \\\\
-                                    &= \dfrac {30 \times \cancel {12}} {12} \\\\
-                                    &= 30 \degree
-\end {aligned}
-$
-
-The angle the hours of a clock make between each other at $7{:}30$ is $30 \degree$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76</p>
@@ -3122,7 +2175,7 @@ $30 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -3220,58 +2273,6 @@ $91 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>4FAE2ECB-8394-4207-9FAD-04BFD8BDE179</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Through what angles does the hour hand of a clock rotate between $3 \ \text{am}$ and $11{:}30 \ \text{am}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The hand of a clock moves by $30 \degree$ for every one unit covered.
-
-So the hour hand move by $30 \times 8 = 240 \degree$ between $3 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
-
-$
-\begin {aligned}
-\text {The hour hand moved by}  &= 240 + 15 \\\\
-                                &= 255 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$255 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>B5BFCDCA-D197-4C79-8537-F5E6D1C97217</p>
@@ -3282,7 +2283,7 @@ $255 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -3320,355 +2321,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nm_g1 question'>
-<div class='uuid'>
-<p>0C657190-6716-4EA4-B662-51AE68C07DC7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-An equilateral triangle is divided into smaller equilateral triangles as shown below. State out how many angles of $60\degree$ there 
-are in the diagram.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As shown in the figure,
-
-There are total $8$ triangles.
-
-In equilateral triangles no. of $60 \degree = 3$.
-
-Then,
-
-$
-\begin{aligned}
-&= 3 \times 8 \\\\
-&= 24
-\end{aligned}
-$
-
-Total no. of $60 \degree$ $= 24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The diagram is now squashed to make the top angle $90\degree$, turning all the triangles into right angled isosceles triangles. 
-Calculate how many acute angles there are in the diagram now.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know,
-
-Every right angled isosceles triangle has $2$ acute angles.
-
-And there is total $8$ triangles.
-
-Then,
-
-$
-\begin{aligned}
-&= 2 \times 8 \\\\
-&= 16
-\end{aligned}
-$
-
-Total no. of acute angles $= 16$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>78ECD6C5-06B1-4026-9C09-2DEF026695F1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tangle
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The pie chart below represents data collected in a survey of the summer holiday destinations of a sample of school children. 
-
-Half of the children went to Europe or the USA.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the angle of the wedge representing the number of school children who did not go on a holiday.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the fraction of children who travelled to USA, giving your answer in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A total of $180$ children were asked to complete the survey. Calculate how many of the children went on holiday to Africa.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Estimate how many children would have visited Europe out of the whole school of $1600$ pupils.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -3811,6 +2463,9 @@ $35 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -4033,9 +2688,6 @@ tangle
 <li>
 talgebra
 </li>
-<li>
-tdraw
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -4202,7 +2854,7 @@ $36 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -4261,107 +2913,6 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>6D165971-36D0-4B4A-B952-DF86DAEDFFAF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many different sized acute angles are there in the diagram below?
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know, an acute angle is an angle that measures between $90 \degree$ and $0 \degree$.
-
-As per the diagram, there are $2$ acute angles.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>F9CC45B1-F623-44F8-94DD-62959CCE978D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A clock's hands are at right angles when it shows the time $3$ o'clock.
-How many times are the hands at right angles again before $5$ o'clock, $2  \ \text{hours}$ late?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>FB2B0EDB-09F8-45CB-A665-24A641A13C3B</p>
@@ -4370,9 +2921,6 @@ TODOANSWER
 <ul>
 <li>
 tangle
-</li>
-<li>
-tgeometry
 </li>
 </ul>
 </div>
@@ -4460,6 +3008,9 @@ $a = 68 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -4581,7 +3132,7 @@ $111 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -4705,216 +3256,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>763BD776-3AB3-45D2-BAF4-8EAF4640B8BC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-The pie chart represents the favourite takeaway foods of $180$ students. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which takeaway food was the favourite of $\dfrac{1}{4}$ of these students?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What fraction of these students chose Chinese?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the size of the angle for Thai.  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many of the $180$ students chose Pizza?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B2F39BD7-5D8B-4067-8AD3-B1B40BE19482</p>
@@ -4925,7 +3266,7 @@ TODOANSWER
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -5120,6 +3461,9 @@ TODOANSWER
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -5282,6 +3626,9 @@ $60 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -5514,177 +3861,6 @@ $38 \degree$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>C50EAF4F-A2AB-40C6-96BE-B25DF54FFE0F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the angle between the hour and minute hands of a clock at $6.00 \ \text{pm}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the angle between the hour and minute hands of a clock at $6.30 \ \text{pm}$? [Draw a picture to help]
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-At what time between $6 \ \text{pm}$ and $6.30 \ \text{pm}$ will the hour and minute hands be exactly $125\degree$ apart?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -5937,6 +4113,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tgeometry
 </li>
 <li>
@@ -6103,185 +4282,15 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>7021D80B-9A17-41D0-A748-89B8043B1640</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg) 
-
-The pie chart shows the flavour of ice cream preferred by the $120$ students taking school lunch.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate the angle for the strawberry sector.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many students preferred chocolate?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many students preferred strawberry?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>AD0C8D7F-7AC9-4EB5-911B-9421F973123A</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tgeometry
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -6338,6 +4347,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -6419,116 +4431,6 @@ $28 \degree, \ 28 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>8D9C54BC-6E17-4740-929F-C604E748B5B7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-Find the size of the angle, in degrees, turned by the **minute** hand of a clock as it moves from the
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$12$ to the $1$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$360 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$360 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3$ to the $7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{From 3 to 7} &= 4 \times 360
-                   &= 1440 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1440 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>884210A5-5A22-4C28-BC32-2F3819EB8B3D</p>
@@ -6537,6 +4439,9 @@ $1440 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -6590,6 +4495,9 @@ TODOANSWER
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -6634,7 +4542,7 @@ TODOANSWER
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -6814,6 +4722,9 @@ $110 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -6986,6 +4897,9 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -7034,191 +4948,6 @@ $42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>B8DF93F8-50C2-48D7-931A-7B1C65AEA797</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tclock
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the angle between the hands of a clock at $11 \ \text{am}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many degrees has the minute hand moved between $3.55 \ \text{pm}$ and $5.15 \ \text{pm}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>92E95BCC-497F-4231-9BB1-F3CFFD1D9536</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tclock
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On a clock face, what is the angle between the hands at $8.30$?
-
-(Remember: the hour hand will have moved on since $8.00$!) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
 <p>C4397B4E-BA18-4B0D-A072-7C5F9C2B0637</p>
@@ -7227,6 +4956,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -7287,217 +5019,6 @@ $20 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>265B80BE-9E6E-4413-BBDD-F6650C3E42E1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-ttime
-</li>
-<li>
-tclock
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $417 \ \text{minutes}$ in hours and minutes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Change $7.8 \ \text{hours}$ into minutes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The time is $20{:}14$. What is the smaller angle between the hour hand and the minute hand on an accurate analogue clock?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A short time after $1{:}50$, the hour and minute hands are both the same angle away from $12$ o’clock. 
-
-What is the exact time when this occurs?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>2A28B44D-4B73-46C1-955A-1029E0F22147</p>
@@ -7506,6 +5027,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -7548,162 +5072,6 @@ $75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ks_amber question'>
-<div class='uuid'>
-<p>512D2020-735C-4BFD-9AD7-B89CD1ECD997</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-ttime
-</li>
-<li>
-tclock
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $327 \ \text{minutes}$ in hours and minutes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Change $5.2 \ \text{hours}$ into minutes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 5.2 \times 60 \\\\
-&= 312
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$312$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The time is 08{:}26. What is the smaller angle between the hour hand and the minute hand on an accurate analogue clock?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
-</div>
-<div class='rag'>
-<p>rag_ks_amber</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>F2C47797-13C0-4FDF-AA9D-ED17BA456CC4</p>
@@ -7712,6 +5080,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -7765,6 +5136,9 @@ $55 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -7816,6 +5190,9 @@ $75 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -7925,7 +5302,7 @@ $60 \degree$
 tangle
 </li>
 <li>
-tdraw
+talgebra
 </li>
 </ul>
 </div>
@@ -7998,229 +5375,6 @@ $15\degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>56A1AAB2-A1B3-49BF-AC55-957C14C8F2B9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the smaller angle between the hour hand and the minute hand at the following times?
-
-![missing image](/papers/missing_image.svg)              ![missing image](/papers/missing_image.svg)          ![missing image](/papers/missing_image.svg)            
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_red question'>
-<div class='uuid'>
-<p>A3D346FE-86AB-4EB5-BDA9-07C1CE5349D7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows a rod with five equally space points $A, B, C, D$ and $E$ marked on it. 
-
-![missing image](/papers/missing_image.svg)
-
-The rod is rotated three times through $180 \degree$, first about the point $A$, then about the point $B$ and finally about the point $E$. Which point finishes in the same position as it was at the start?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-**Fixed at point A**
-
-$
-\begin{aligned}
-\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
-\maroonC {\text{\textcircled a} }\text{---}
-  \text{\textcircled b} \text{---}
-  \text{\textcircled c}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled e}   \text{---}
-\text{\textcircled {}}\text{---}\text{\textcircled {}}\\ 
-\text {Turned through  }  {180}\degree \text {at point A then \ results in  }   \\
-\text{\textcircled {}} \text{---}
-  \text{\textcircled e}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-  \text{\textcircled b}  \text{---}
-\maroonC {\text{\textcircled a}  }
-\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
-\end{aligned}
-$
-
-
-**Fixed at point B**
-
-$
-\begin{aligned}
-\text{\textcircled {}} \text{---}
-  \text{\textcircled e}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-\maroonC {\text{\textcircled b}  } \text{---}
-  \text{\textcircled a}  \text{---}
-\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\\
-\text {Turned through  }  {180}\degree \text {at point B then \ results in  }   \\
-  \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
-\text{\textcircled {}}\text{---}
-\text{\textcircled a}  \text{---}
- \maroonC {\text{\textcircled b}  } \text{---}
- \text{\textcircled c}  \text{---}
- \text{\textcircled d}  \text{---}
- \text{\textcircled e}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
-\end{aligned}
-$
-
-
-**Fixed at point E**
-
-$
-\begin{aligned}
-\text{\textcircled {}} \text{---}
-   \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
-\text{\textcircled a}  \text{---}
- \text{\textcircled b}  \text{---}
- \text{\textcircled c}  \text{---}
- \text{\textcircled d}  \text{---}
- \maroonC {\text{\textcircled e}  } \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\
-\text {Turned through  }  {180}\degree \text {at point E then \ results in  }   \\
-\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
-\maroonC {\text{\textcircled e} }  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-\text{\textcircled b}  \text{---}
- \text{\textcircled a} \\ 
-\end{aligned}
-$
-
-
-
-
-**Now, Let's find which point finishes in the same position as it was at the start.**
-
-$
-\begin{aligned}
-\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
-\maroonC {\text{\textcircled a} }\text{---}
-  \text{\textcircled b} \text{---}
-  \text{\textcircled c}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled e}   \text{---}
-\text{\textcircled {}}\text{---}\text{\textcircled {}}\\ 
-\text {Turned through  }  {180}\degree \text {at point A then \ results in  }   \\
-\text{\textcircled {}} \text{---}
-  \text{\textcircled e}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-  \text{\textcircled b}  \text{---}
-\maroonC {\text{\textcircled a}  }
-\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
-\hline \\\
-\text{\textcircled {}} \text{---}
-  \text{\textcircled e}  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-\maroonC {\text{\textcircled b}  } \text{---}
-  \text{\textcircled a}  \text{---}
-\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\\
-\text {Turned through  }  {180}\degree \text {at point B then \ results in  }   \\
-  \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
-\text{\textcircled {}}\text{---}
-\text{\textcircled a}  \text{---}
- \maroonC {\text{\textcircled b}  } \text{---}
- \text{\textcircled c}  \text{---}
- \text{\textcircled d}  \text{---}
- \text{\textcircled e}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
-\hline \\\
-\text{\textcircled {}} \text{---}
-   \text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}
-\text{\textcircled a}  \text{---}
- \text{\textcircled b}  \text{---}
- \text{\textcircled c}  \text{---}
- \text{\textcircled d}  \text{---}
- \maroonC {\text{\textcircled e}  } \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\
-\text {Turned through  }  {180}\degree \text {at point E then \ results in  }   \\
-\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
-\maroonC {\text{\textcircled e} }  \text{---}
-  \text{\textcircled d}  \text{---}
-  \text{\textcircled c}  \text{---}
-\text{\textcircled b}  \text{---}
- \text{\textcircled a} \\ 
-\end{aligned}
-$
-
-it can be observed that the **point D** finishes in the same position as it was at the start.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Point D
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_ga_red</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>71BF2B3D-3BE5-4C50-B05E-2EC50982167D</p>
@@ -8229,6 +5383,9 @@ Point D
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -8288,6 +5445,9 @@ $
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -8413,6 +5573,9 @@ $36 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -8548,6 +5711,9 @@ $105 \ \text {degrees}$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -8616,6 +5782,9 @@ $
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -8732,6 +5901,9 @@ $140 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -8790,6 +5962,9 @@ $150 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -8837,6 +6012,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -8901,7 +6079,7 @@ TODOANSWER
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -9113,6 +6291,9 @@ $90 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -9183,6 +6364,9 @@ $\text{angle Q}$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -9340,6 +6524,9 @@ $73 \degree, 107 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -9391,6 +6578,9 @@ $58 \degree$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -9444,79 +6634,15 @@ $56 \degree$
 <li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
-<p>98FB3AC6-2728-458B-AA28-1E5EF428AAFB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the obtuse angle between the hands of a clock at $5$ o’clock. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-In the clock from $12$ to $12$ it was $360 \degree$
-
-In the clock from $12$ to $6$ it was $180 \degree$
-
-$
-\begin{aligned}
-\text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
-&= \dfrac{30 \times 6}{6} \\\\
-&=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
-&= 30 \degree \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{So, the obtuse angle for} \  5  \ \text{O'clock} &= 30 \times 5 \\\\
-&=  30 \times 5 \\\\
-&=  150 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_g1 question'>
-<div class='uuid'>
 <p>42DD1DEA-9421-4D3A-9922-9C450DDF4E3F</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -9571,159 +6697,6 @@ $85 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>D2F1F5D7-B3B8-4AD7-84A4-E5E0456DB959</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The pie chart shows the result of a survey of $250$ students about their
-favourite foods.
-
-Chips $10 \%$ 
-
-Curry $10 \%$
-
-Pasta $40 \%$
-
-Burgers $20 \%$
-
-Pizza $20 \%$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many students chose chips?
-
-- $25$
-- $16$
-- $15$
-- $26$
-- $40$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What angle of the pie chart is represented by pizza?
-
-- $10 \degree$
-- $36 \degree$
-- $72 \degree$
-- $20 \degree$
-- $30 \degree$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>B6391AE6-AFDE-4F0B-865B-5BD6985A8B78</p>
@@ -9732,6 +6705,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -9797,6 +6773,9 @@ $190$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -9859,6 +6838,9 @@ $136$
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -9929,7 +6911,7 @@ $110\degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -10044,124 +7026,6 @@ $30 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_red question'>
-<div class='uuid'>
-<p>FD242CB2-2E51-4FB4-8221-CB91DA5B1239</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tclock
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the angle between the hands of a clock at $2{:}30 \ \text{pm}$. (Remember that the hour hand moves as well) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$ 
-\begin{aligned}
-&= 30 \degree + 30 \degree + 30 \degree + 15 \degree \\\\
-&= 105 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$105 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_amber question'>
-<div class='uuid'>
-<p>7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tdirection
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I turn $40 \ \text{degrees}$ clockwise, $70 \ \text{degrees}$ anticlockwise and finally 
-$90 \ \text{degrees}$ clockwise. 
-If I want to return to my original position by turning through the smallest possible angle, 
-in which direction should I turn and what should the angle be?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-An anticlockwise movement is +ve (positive) and a clockwise movement is -ve(negative).
-
-As per the question, I turn
-
-$
-\begin{aligned}
-& = -40 + 70 - 90 \\\\
-& = 30 -90 \\\\                                 
-& = -60 \ \text{degrees} \\\\
-\end{aligned}
-$
-
-$-60 \ \text{degrees}$ is negative, so a clockwise movement.
-
-As my first turn was in clockwise direction, to return to my original position I need to turn in
-
-Direction $=  \text{anticlockwise}$ 
-
-Angle $= 60\ \text{degrees}$ 
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Direction $= \text{anticlockwise}$ 
-
-</div>
-<div class='answer'>
-
-Angle $= 60\ \text{degrees}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_amber</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>A0A77D60-5EEA-4032-8189-BBF34C693D13</p>
@@ -10172,7 +7036,7 @@ Angle $= 60\ \text{degrees}$
 tangle
 </li>
 <li>
-ttable
+talgebra
 </li>
 </ul>
 </div>
@@ -10233,6 +7097,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdraw
 </li>
@@ -10297,7 +7164,7 @@ TODOANSWER
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -10350,6 +7217,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tangle
 </li>
@@ -10562,13 +7432,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tdraw
-</li>
-<li>
 tangle
 </li>
 <li>
-tgeometry
+tdraw
 </li>
 </ul>
 </div>
@@ -10775,6 +7642,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -10924,6 +7794,9 @@ TODOANSWER
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -11044,6 +7917,9 @@ $30 \degree, 150 \degree, 150 \degree$
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -11096,6 +7972,9 @@ TODOANSWER
 <li>
 tangle
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -11133,108 +8012,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>2376B6AD-BDBA-4C3C-BD72-024C556FDBEB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the acute angle between the hands of a clock at
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1 \ \text{pm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$6.30 \ \text{pm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -11291,182 +8068,17 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_amber question'>
-<div class='uuid'>
-<p>DE7D75F8-CEE8-431B-91E0-09FB47C0D06F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tangle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Between $3 \ \text{a.m.}$ and $6 \ \text{a.m.}$ the hour hand on a clock moves through an angle of $90 \degree$.
-
-![missing image](/papers/missing_image.svg)
-
-Work out the angle which the hour hand on a clock move through between
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$9 \ \text{a.m.}$ and $10 \ \text{a.m.}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know the angle between every two units is equal.
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Angle between 9 a.m. and 10 a.m.}    &= \dfrac {90} {3} \\\\
-                                            &= \dfrac {30 \times 3} {3} \\\\
-                                            &= \dfrac {30 \times \cancel {3}} {\cancel {3}} \\\\
-                                            &= 30 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$12{:}45$ and $13{:}15$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know the angle between every unit is equal.
-
-As per the question,
-
-The time is equal to $30$ minutes which is half an hour. Using that we get,
-
-$
-\begin {aligned}
-&= \dfrac {30} {2} \\\\
-&= 15 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$6.30 \ \text{p.m.}$ and $8.50 \ \text{p.m.}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know the angle between every hour is equal.
-
-As per the question,
-
-The time is equal to $2$ hours and $20$ minutes. Using that we get,
-
-$
-\begin {aligned}
-&= 60 +  \\\\
-&= 15 \degree
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_amber</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -11522,6 +8134,206 @@ $100 \degree$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>49AAD1B8-2F4E-4147-AA60-E6B5D8F00875</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The formula to work out the sum of the angles inside any shape is 
+
+$\text{Sum of angles} = 180 \degree \times \text{number of sides} - 360 \degree$
+
+For example,
+
+![missing image](/papers/missing_image.svg)
+
+$
+\begin{aligned} 
+a + b + c + d + e &= 180 \degree \times 5 - 360 \degree \\
+                  &= 900 \degree - 360 \degree \\
+                  &= 540 \degree
+\end{aligned}
+$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $a$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Sum of angles}                                  &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+a \degree + 120 \degree + 70 \degree + 60 \degree     &= 180 \degree \times 4 - 360 \degree \\\\
+a + 250                                               &= 720 - 360 \\\\
+a + 250                                               &= 360 \\\\
+a                                                     &= 360 - 250 \\\\
+a                                                     &= 110 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$110 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $b$
+
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Sum of angles}                                                           &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+b \degree + b \degree + b \degree + 150 \degree + 120 \degree + 60 \degree     &= 180 \degree \times 6 - 360 \degree \\\\
+3b + 330                                                                       &= 1080 - 360 \\\\
+3b + 330                                                                       &= 720 \\\\
+3b                                                                             &= 720 - 330 \\\\
+3b                                                                             &= 360 \\\\
+b                                                                              &= \dfrac {390} {3} \\\\
+b                                                                              &= \dfrac {130 \times 3} {3} \\\\
+b                                                                              &= \dfrac {130 \times \cancel{3}} {\cancel{3}} \\\\
+b                                                                              &= 130 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$130 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $c$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Sum of angles}                        &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+x \degree + x \degree + x \degree + x \degree + x \degree + x \degree + x \degree + x \degree        &= 180 \degree \times 8 - 360 \degree \\\\
+8x                                          &= 1440 - 360 \\\\
+8x                                          &= 1080 \\\\
+x                                           &= \dfrac {1080} {8} \\\\
+x                                           &= \dfrac {135 \times 8} {8} \\\\
+x                                           &= \dfrac {135 \times \cancel{8}} {\cancel{8}} \\\\
+x                                           &= 135 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles on a straight line is $180 \degree$.
+
+$
+\begin{aligned}
+x \degree + c \degree        &= 180 \degree \\\\
+135 + c                      &= 180 \\\\
+c                            &= 180 - 135 \\\\
+c                            &= 45 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
+</div>
+<div class='rag'>
 <p>rag_ga_pr</p>
 </div>
 </div>
@@ -11534,10 +8346,10 @@ $100 \degree$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -11604,10 +8416,10 @@ $108 \degree$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -11867,17 +8679,17 @@ $105  \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tangle
 </li>
 <li>
-tangle
+talgebra
 </li>
 </ul>
 </div>
@@ -11935,7 +8747,7 @@ $108 \degree$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -11950,7 +8762,7 @@ $108 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -12010,185 +8822,6 @@ $x = 117 \degree, \ \ y = 29 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>A0C3E285-9532-4A49-BF24-1FB2744FE099</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tarea
-</li>
-<li>
-tgeometry
-</li>
-<li>
-tdraw
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)   
-
-The diagram opposite (which is NOT drawn to scale) shows triangle ABC with angle B $= 90˚$. AB $= 8\,cm$ and BC $= 12\,cm$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Complete the figure by drawing in two lines to make rectangle ABCD
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the distance around (perimeter of) the rectangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the area of triangle ABC?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>93995941-DF79-4306-A16E-1B3F36315184</p>
@@ -12199,7 +8832,7 @@ TODOANSWER
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -12264,65 +8897,15 @@ $30 \degree$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>8A9063D5-C24D-4AFF-8F78-64CFD7E6C8B0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tclock
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the smaller angle between the hands of a clock at five o’clock? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>7DEE085F-FD27-4FBE-B961-7848EFAF05B5</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -12386,7 +8969,7 @@ $110 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -12439,6 +9022,9 @@ $27 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -12573,13 +9159,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tgeometry
-</li>
-<li>
 tangle
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -12624,61 +9204,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>022B178B-A61E-45AF-B47D-66CBD5264557</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-tclock
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the angle between the hands of this clock?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
 <p>17360B83-7524-4915-9C57-EA134B592244</p>
@@ -12687,6 +9212,9 @@ TODOANSWER
 <ul>
 <li>
 tangle
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -12767,7 +9295,7 @@ $22 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>
@@ -12828,7 +9356,7 @@ $16 \degree$
 tangle
 </li>
 <li>
-tgeometry
+talgebra
 </li>
 </ul>
 </div>

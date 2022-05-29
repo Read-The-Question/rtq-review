@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-red"
 title: "Topic - Probability - Red"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -62,6 +62,9 @@ $\dfrac {2} {5}$
 <li>
 tprobability
 </li>
+<li>
+tcircleanswer
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -103,6 +106,9 @@ $\text {A score of more than 10 }$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>

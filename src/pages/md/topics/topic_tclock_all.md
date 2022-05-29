@@ -1,9 +1,182 @@
 ---
 slug: "topics/topic-tclock-all"
 title: "Topic - Clock - All"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>352F3C44-BB51-43E0-917D-DF972F69E92B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tclock
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bahia has arranged to meet her friend Emma at $15{:}30$, at a coffee shop which is five minutes’ walk from the station in Greyton.
+
+She has to catch a train in Aliston.
+
+The journey takes $40 \ \text{minutes}$ from Aliston to Greyton. There are trains at:
+
+$11{:}05, 11{:}35, 12{:}05, \allowbreak 12{:}35, 13{:}05, 13{:}35, \allowbreak 14{:}05, 14{:}35, 15{:}05, \allowbreak 15{:}35, 16{:}05$  etc.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the latest train Bahia can catch, so as not to be late meeting Emma?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Bahia does catch this train and it arrives on time. She walks straight to the coffee shop and waits there for her friend. 
+Emma is late and arrives when Bahia has been sitting there for $15 \ \text{minutes}$. At what time does Emma arrive at the coffee shop?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+While she waits, Bahia looks at the clock in the coffee shop.
+What angle does the minute hand turn through between $15{:}25$ and $15{:}35$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -13,9 +186,6 @@ date: 2022-05-28 14:33:22
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 </ul>
 </div>
@@ -69,9 +239,6 @@ TODOANSWER
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 </ul>
 </div>
@@ -127,13 +294,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tangle
-</li>
-<li>
 tclock
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -260,9 +421,6 @@ $270 \degree$
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -312,9 +470,6 @@ $45 \degree$
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -363,9 +518,6 @@ $165 \degree$
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 </ul>
 </div>
@@ -418,9 +570,6 @@ $30 \degree$
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -467,6 +616,9 @@ $255 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -653,6 +805,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -872,9 +1027,6 @@ TODOANSWER
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -924,6 +1076,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -965,12 +1120,15 @@ $03 {:} 35 \ \text {p.m.}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>DBB8C89C-F97B-4199-91D5-98FAE00EFC21</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -1003,7 +1161,7 @@ $15 {:} 35$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -1016,9 +1174,6 @@ $15 {:} 35$
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 <li>
 tdraw
@@ -1189,9 +1344,6 @@ TODOANSWER
 tclock
 </li>
 <li>
-tangle
-</li>
-<li>
 tnoexplanation
 </li>
 </ul>
@@ -1296,6 +1448,9 @@ $1440 \degree$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 </ul>
@@ -1350,9 +1505,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
 <li>
 tclock
 </li>
@@ -1481,9 +1633,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tangle
-</li>
-<li>
 tclock
 </li>
 </ul>
@@ -1535,12 +1684,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
-<li>
-ttime
-</li>
 <li>
 tclock
 </li>
@@ -1747,12 +1890,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tangle
-</li>
-<li>
-ttime
-</li>
-<li>
 tclock
 </li>
 </ul>
@@ -1905,9 +2042,6 @@ TODOANSWER
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1958,6 +2092,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -2000,6 +2137,9 @@ $2 \text{times in a day}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -2050,6 +2190,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -2216,6 +2359,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 </ul>
@@ -2267,6 +2413,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -2423,6 +2572,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 </ul>
@@ -2467,15 +2619,73 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>98FB3AC6-2728-458B-AA28-1E5EF428AAFB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tclock
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the obtuse angle between the hands of a clock at $5$ o’clock. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+In the clock from $12$ to $12$ it was $360 \degree$
+
+In the clock from $12$ to $6$ it was $180 \degree$
+
+$
+\begin{aligned}
+\text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
+&= \dfrac{30 \times 6}{6} \\\\
+&=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
+&= 30 \degree \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{So, the obtuse angle for} \  5  \ \text{O'clock} &= 30 \times 5 \\\\
+&=  30 \times 5 \\\\
+&=  150 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ej_red question'>
 <div class='uuid'>
 <p>FD242CB2-2E51-4FB4-8221-CB91DA5B1239</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
 <li>
 tclock
 </li>
@@ -2521,6 +2731,9 @@ $105 \degree$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -2608,6 +2821,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -2652,6 +2868,9 @@ $10:30$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -2784,6 +3003,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdraw
 </li>
 <li>
@@ -2844,6 +3066,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 </ul>
@@ -2895,9 +3120,6 @@ TODOANSWER
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 </ul>
 </div>
@@ -2996,6 +3218,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -3056,6 +3281,9 @@ $11{:}11, \ 08{:}08$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -3104,6 +3332,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 <li>
@@ -3145,12 +3376,15 @@ $9{:}40, \ 21{:}40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>6C0D2582-A45B-4E63-9DBD-EBD8E755B0AC</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -3197,7 +3431,7 @@ $11{:}11$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3208,6 +3442,9 @@ $11{:}11$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -3349,9 +3586,6 @@ TODOANSWER
 <ul>
 <li>
 tclock
-</li>
-<li>
-tangle
 </li>
 </ul>
 </div>
@@ -3513,6 +3747,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 </ul>
@@ -3556,6 +3793,9 @@ $10{:}40$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tclock
 </li>
@@ -3697,6 +3937,9 @@ $8{:}08 \ \text {a.m.}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tclock
 </li>
 </ul>
@@ -3769,9 +4012,6 @@ $105$
 <div class='topics'>
 <ul>
 <li>
-tangle
-</li>
-<li>
 tclock
 </li>
 </ul>
@@ -3821,6 +4061,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 ttime
 </li>
@@ -3954,9 +4197,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tangle
-</li>
 <li>
 tclock
 </li>

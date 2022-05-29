@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-05-28 14:33:22
+date: 2022-05-29 06:26:52
 ---
 <div class='paper'>
 <h1>Chigwell School</h1>
@@ -20,6 +20,9 @@ date: 2022-05-28 14:33:22
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -68,6 +71,9 @@ $5231$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdivision
 </li>
 </ul>
@@ -112,6 +118,9 @@ $6.610995$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -163,6 +172,9 @@ $8352$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -212,12 +224,15 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfactor
 </li>
@@ -249,7 +264,7 @@ $2 \times 2 \times 2 \times 7$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -260,6 +275,9 @@ $2 \times 2 \times 2 \times 7$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 talgebra
 </li>
@@ -277,14 +295,14 @@ Write an expression for how much money she has left after paying the rent.
 <div class='workings'>
 <div class='working'>
 
-$\text {Money left}  &= \pounds (330 - X) $
+$\text {Money left} = \pounds (330 - X)$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Money left}  &= \pounds (330 - X) $
+$\text {Money left} = \pounds (330 - X)$
 
 </div>
 </div>
@@ -304,6 +322,9 @@ $\text {Money left}  &= \pounds (330 - X) $
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tinfer
 </li>
@@ -348,6 +369,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tpercentage
 </li>
 </ul>
@@ -355,7 +379,7 @@ tpercentage
 <div class='question question'>
 
 A cafe sold $40$ sandwiches on Monday.
-$45 \%$ of the sandwiches were vegetarian. How many vegeetarian sandwiches did the cafe sell?
+$45 \%$ of the sandwiches were vegetarian. How many vegetarian sandwiches did the cafe sell?
 
 </div>
 <div class='workings'>
@@ -365,13 +389,13 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Number of vegetarian sandwiches sold}  &= 45 \% \ \text {of} \ \text {Total sandwiches} \\\\
-                                              &= \dfrac {45} {100} \times 40 \\\\
-                                              &= \dfrac {45 \times 40} {100} \\\\
-                                              &= \dfrac {9 \times 5 \times 20 \times 2} {20 \times 5} \\\\
-                                              &= \dfrac {9 \times \cancel {5} \times \cancel {20} \times 2} {\cancel {20} \times \cancel {5}} \\\\
-                                              &= 9 \times 2 \\\\
-                                              &= 18
+\text {N0. of veg. sandwiches sold}     &= 45 \% \ \text {of} \ \text {total sandwiches} \\\\
+                                        &= \dfrac {45} {100} \times 40 \\\\
+                                        &= \dfrac {45 \times 40} {100} \\\\
+                                        &= \dfrac {9 \times 5 \times 20 \times 2} {20 \times 5} \\\\
+                                        &= \dfrac {9 \times \cancel {5} \times \cancel {20} \times 2} {\cancel {20} \times \cancel {5}} \\\\
+                                        &= 9 \times 2 \\\\
+                                        &= 18
 \end {aligned}
 $
 
@@ -400,6 +424,9 @@ $18$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfraction
 </li>
@@ -447,12 +474,15 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>48FE059B-F621-4BF0-9F67-8B0D6C51C476</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tnumber
 </li>
@@ -493,7 +523,7 @@ $67737$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -504,6 +534,9 @@ $67737$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tmoney
 </li>
@@ -524,7 +557,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {School pays} &= \text {Number of students receiving badge} \times \text {Cost of one badge} \\\\
+\text {School pays} &= \text {No. of students receiving badge} \times \text {Cost of one badge} \\\\
                     &= 193 \times 6 \\\\
                     &= \pounds 1158
 \end {aligned}
@@ -555,6 +588,9 @@ $\pounds 1158$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tperimeter
 </li>
@@ -626,6 +662,9 @@ $30 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -664,14 +703,14 @@ $
 \end {aligned}
 $
 
-Six guinea pigs weigh the same as $= 4$ rabbits.
+Number of rabbits that weigh the same as six guinea pigs $= 4$ rabbits.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Six guinea pigs weigh the same as} \ = 4 \ \text {rabbits}$
+$4$
 
 </div>
 </div>
@@ -685,12 +724,15 @@ $\text {Six guinea pigs weigh the same as} \ = 4 \ \text {rabbits}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>38069E88-D243-49CC-BCD6-9BF82C104E6B</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -738,7 +780,7 @@ $48$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -749,6 +791,9 @@ $48$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tlcm
 </li>
@@ -803,6 +848,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -855,6 +903,9 @@ $704$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 testimate
 </li>
@@ -911,6 +962,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tarea
 </li>
 </ul>
@@ -962,6 +1016,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 testimate
 </li>
@@ -1017,6 +1074,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 ttime
 </li>
 <li>
@@ -1043,9 +1103,9 @@ $
                         &= \dfrac {15} {100} \times 3 \\\\
                         &= \dfrac {15} {100} \times 3 \times 60 \ \text {minutes} \\\\
                         &= \dfrac {15 \times 3 \times 60} {100} \\\\
-                        &= \dfrac {5 \times 3 \times 9 \times 2 \times 10} {5 \times 2 \times 10} \\\\
-                        &= \dfrac {\cancel {5} \times 3 \times 9 \times \cancel {2} \times \cancel {10}} {\cancel {5} \times \cancel {2} \times \cancel {10}} \\\\
-                        &= 3 \times 9 \\\\
+                        &= \dfrac {5 \times 3 \times 3 \times 3 \times 2 \times 10} {5 \times 2 \times 10} \\\\
+                        &= \dfrac {\cancel {5} \times 3 \times 3 \times 3 \times \cancel {2} \times \cancel {10}} {\cancel {5} \times \cancel {2} \times \cancel {10}} \\\\
+                        &= 3 \times 3 \times 3 \\\\
                         &= 27 \ \text {minutes}
 \end {aligned}
 $
@@ -1078,6 +1138,9 @@ $27 \ \text {minutes}$
 <li>
 tage
 </li>
+<li>
+talgebra
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1092,37 +1155,45 @@ Let Gill's age $= a$
 
 As per the question,
 
-Gerald's age $= 3 \times \text {Gill's age} = 3 a$
-
-Guy's age $= \text {Half as old as Gerald} = \dfrac {1} {2} \times 3 a$
-
 $
 \begin {aligned}
-\text {Gerald's age} + \text {Guy's age} + \text {Gill's age}                           &= 99 \\\\
-3a + \dfrac {3a} {2} + a                                                                &= 99 \\\\
-\dfrac {3a \times 2} {1 \times 2} + \dfrac {3a} {2} + \dfrac {a \times 2} {1 \times 2}  &= 99 \\\\
-\dfrac {6a} {2} + \dfrac {3a} {2} + \dfrac {2a} {2}                                     &= 99 \\\\
-\dfrac {6a + 3a + 2a} {2}                                                               &= 99 \\\\
-\dfrac {11a} {2}                                                                        &= 99 \\\\
-11a                                                                                     &= 99 \times 2 \\\\
-a                                                                                       &= \dfrac {99 \times 2} {11} \\\\
-a                                                                                       &= \dfrac {11 \times 9 \times 2} {11} \\\\
-a                                                                                       &= \dfrac {\cancel {11} \times 9 \times 2} {\cancel {11}} \\\\
-a                                                                                       &= 9 \times 2 \\\\
-a                                                                                       &= 18
+\text {Gerald's age}    &= 3 \times \text {older than Gill} \\\\
+                        &= 3 a \\\\
+\text {Guy's age}       &= \text {half as old as Gerald} \\\\
+                        &= \dfrac {1} {2} \times 3 a
 \end {aligned}
 $
 
-Gill's age $= 18 \ \text {years}$
+$
+\begin {aligned}
+\text {Gerald's age} + \text {Guy's age} + \text {Gill's age}   &= 99 \\\\
+3a + \dfrac {3a} {2} + a                                        &= 99 \\\\
+4a + \dfrac {3a} {2}                                            &= 99 \\\\
+\dfrac {4a \times 2} {1 \times 2} + \dfrac {3a} {2}             &= 99 \\\\
+\dfrac {8a} {2} + \dfrac {3a} {2}                               &= 99 \\\\
+\dfrac {8a + 3a} {2}                                            &= 99 \\\\
+\dfrac {11a} {2}                                                &= 99 \\\\
+11a                                                             &= 99 \times 2 \\\\
+a                                                               &= \dfrac {99 \times 2} {11} \\\\
+a                                                               &= \dfrac {11 \times 9 \times 2} {11} \\\\
+a                                                               &= \dfrac {\cancel {11} \times 9 \times 2} {\cancel {11}} \\\\
+a                                                               &= 9 \times 2 \\\\
+a                                                               &= 18
+\end {aligned}
+$
 
-Gerald's age $= 3 \times 18 = 54 \ \text {years}$
+$\text {Gill's age} = 18 \ \text {years}$
+
+Let's find Gerald and Guy's age.
 
 $
 \begin {aligned}
-\text {Guy's age}       &= \dfrac {3 a} {2} \\\\
+\text {Gerald's age}    &= 3 \times 18 \\\\
+                        &= 54 \ \text {years} \\\\
+\text {Guy's age}       &= \dfrac {3a} {2} \\\\
                         &= \dfrac {54} {2} \\\\
-                        &= \dfrac {27 \times 2} {2} \\\\
-                        &= \dfrac {27 \times \cancel {2}} {\cancel {2}} \\\\
+                        &= \dfrac {2 \times 27} {2} \\\\
+                        &= \dfrac {\cancel {2} \times 27} {\cancel {2}} \\\\
                         &= 27 \ \text {years}
 \end {aligned}
 $
@@ -1132,17 +1203,11 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$18 \ \text {years}$
-
-</div>
-<div class='answer'>
-
-$27 \ \text {years}$
-
-</div>
-<div class='answer'>
-
-$54 \ \text {years}$
+$
+\text {Gill}   = 18 \ \text {years} \\
+\text {Guy}    = 27 \ \text {years} \\
+\text {Gerald} = 54 \ \text {years}
+$
 
 </div>
 </div>
@@ -1220,9 +1285,6 @@ TODOANSWER
 <li>
 tclock
 </li>
-<li>
-tangle
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1273,6 +1335,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsymmetry
 </li>
@@ -1328,6 +1393,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tsequence
 </li>
@@ -1460,6 +1528,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tvenn
 </li>
@@ -1626,6 +1697,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tvolume
 </li>
 </ul>
@@ -1679,6 +1753,9 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tformula
 </li>
@@ -1810,6 +1887,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tinfer
 </li>
 </ul>
@@ -1937,6 +2017,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tsequence
 </li>
 </ul>
@@ -1998,6 +2081,9 @@ $50$
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 talgebra
 </li>
 </ul>
@@ -2054,6 +2140,9 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
+tunassigned
+</li>
+<li>
 tmoney
 </li>
 </ul>
@@ -2108,6 +2197,9 @@ $18 \ \text {pence}$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tunassigned
+</li>
 <li>
 tfactor
 </li>

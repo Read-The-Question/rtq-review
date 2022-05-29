@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-amber"
 title: "Topic - Detailedmultiplication - Amber"
-date: 2022-05-29 22:27:47
+date: 2022-05-29 22:47:20
 ---
 <ul class='question default-decimal'>
 <li>

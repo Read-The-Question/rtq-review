@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-all"
 title: "Owner - Abhay Kandpal - All"
-date: 2022-05-29 21:00:38
+date: 2022-05-29 22:27:47
 ---
 <ul class='question default-decimal'>
 <li>

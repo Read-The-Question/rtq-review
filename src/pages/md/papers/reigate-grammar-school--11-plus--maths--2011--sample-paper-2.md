@@ -1,10 +1,9 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-05-29 21:00:38
+date: 2022-05-29 22:27:47
 ---
 <div class='paper'>
-<h1>Reigate Grammar School</h1>
 <div class='meta'>
 <h3>co-ed</h3>
 <h3>grammar</h3>

@@ -1,10 +1,9 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-05-29 21:00:38
+date: 2022-05-29 22:27:47
 ---
 <div class='paper'>
-<h1>St Anselm's College</h1>
 <div class='meta'>
 <h3>boys</h3>
 <h3>grammar</h3>

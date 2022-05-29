@@ -1,10 +1,9 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-29 21:00:38
+date: 2022-05-29 22:27:47
 ---
 <div class='paper'>
-<h1>Benenden School</h1>
 <div class='meta'>
 <h3>girls</h3>
 <h3>independent</h3>

@@ -1,10 +1,9 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 1"
-date: 2022-05-29 21:00:38
+date: 2022-05-29 22:27:47
 ---
 <div class='paper'>
-<h1>The London Independent Girls' Schools Consortium</h1>
 <div class='meta'>
 <h3>girls</h3>
 <h3>independent</h3>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttable-amber"
 title: "Topic - Table - Amber"
-date: 2022-05-29 21:00:38
+date: 2022-05-29 22:27:47
 ---
 <ul class='question default-decimal'>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-g1"
 title: "Topic - Geometry - G1"
-date: 2022-05-29 21:00:38
+date: 2022-05-29 22:27:47
 ---
 <ul class='question default-decimal'>
 <li>

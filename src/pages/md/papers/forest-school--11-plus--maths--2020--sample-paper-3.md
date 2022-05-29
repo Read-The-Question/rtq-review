@@ -1,10 +1,9 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2020-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3"
-date: 2022-05-29 21:00:38
+date: 2022-05-29 22:27:47
 ---
 <div class='paper'>
-<h1>Forest School</h1>
 <div class='meta'>
 <h3>co-ed</h3>
 <h3>independent</h3>

@@ -1,10 +1,9 @@
 ---
 slug: "papers/north-london-collegiate-school-11-plus-maths-9999-sample-paper-1"
 title: "North London Collegiate School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 21:00:38
+date: 2022-05-29 22:27:47
 ---
 <div class='paper'>
-<h1>North London Collegiate School</h1>
 <div class='meta'>
 <h3>girls</h3>
 <h3>independent</h3>

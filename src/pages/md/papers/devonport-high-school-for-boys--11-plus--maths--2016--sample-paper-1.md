@@ -1,10 +1,9 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2016-sample-paper-1"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-05-29 21:00:38
+date: 2022-05-29 22:27:47
 ---
 <div class='paper'>
-<h1>Devonport High School for Boys</h1>
 <div class='meta'>
 <h3>boys</h3>
 <h3>grammar</h3>

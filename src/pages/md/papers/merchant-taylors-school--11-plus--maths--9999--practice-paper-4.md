@@ -1,10 +1,9 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-4"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 4"
-date: 2022-05-29 21:00:38
+date: 2022-05-29 22:27:47
 ---
 <div class='paper'>
-<h1>Merchant Taylors' School</h1>
 <div class='meta'>
 <h3>boys</h3>
 <h3>independent</h3>

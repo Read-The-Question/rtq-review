@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>City of London School for Girls</h1>
@@ -219,7 +219,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>4B7CDE91-4C3F-4F86-89D2-B8D194C48EBA</p>
 </div>
@@ -262,12 +262,12 @@ $1.3 \text{ litres}$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>95A2D77B-0B84-43C2-9DD0-E83FA201C390</p>
 </div>
@@ -312,7 +312,7 @@ $8195$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -374,7 +374,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>271BF307-1253-4B27-8D5E-6FCA57E19326</p>
 </div>
@@ -521,7 +521,7 @@ $7$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -1184,7 +1184,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>B941B131-14CE-4FE8-BB23-B3C009015796</p>
 </div>
@@ -1225,7 +1225,7 @@ $12$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -1889,7 +1889,7 @@ TODOANSWER
 # Section B
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_amber question'>
 <div class='uuid'>
 <p>554B3D2D-7D52-4B91-AC2E-5CBB5B5578F4</p>
 </div>
@@ -2118,7 +2118,7 @@ TODOANSWER
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_amber</p>
 </div>
 </div>
 </li>

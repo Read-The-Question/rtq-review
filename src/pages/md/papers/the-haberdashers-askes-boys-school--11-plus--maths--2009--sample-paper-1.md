@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -2564,7 +2564,7 @@ $100000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_red question'>
 <div class='uuid'>
 <p>E6B83B3B-E7BD-4594-8B68-CF66D6D588CC</p>
 </div>
@@ -2790,7 +2790,7 @@ $8 \ \text {min}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_red</p>
 </div>
 </div>
 </li>

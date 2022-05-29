@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-g1"
 title: "Owner - Chiliveru Aravind - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5829,6 +5829,86 @@ $
 <div class='answer'>
 
 $8.4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>9F5604EB-F79E-4CB6-8EE3-55D385FB760A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Concert tickets for $4$ adults cost a total of $\pounds 62.         ![missing image](/papers/missing_image.svg)
+
+Children are admitted at half price.
+
+What would it cost for $2$ adults and a child to attend the same concert?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+Cost of tickets for $4$ adults = $\pounds 62$
+
+Cost of ticket for $1$ adult = $\dfrac {62}{4}$
+
+$
+\begin{aligned}
+&= 15 \dfrac{2} {4} \\\\
+&= 15 \dfrac {2} {2 \times 2} \\\\
+&= 15 \dfrac {\cancel {2}} {\cancel {2} \times 2} \\\\
+&= 15 \dfrac {1} {2} \\\\
+&= \pounds 15.5
+\end{aligned}
+$
+
+Cost of ticket for $1$ adult = $\pounds 15.5$
+
+Cost of ticket for $1$ child = $\pounds \dfrac{15.5} {2} = \pounds 7.75$
+
+Cost for $2$ adults and one child to attend the concert $= 2 \times 15.5 + 1 \times 7.75$
+
+$
+\begin{aligned}
+&= 2 \times 15.5 + 1 \times 7.75 \\\\
+&= 31 + 7.75 \\\\
+&= \pounds 38.75
+\end{aligned}
+$
+
+Cost for $2$ adults and one child to attend the concert = $\pounds 38.75$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 38.75$
 
 </div>
 </div>

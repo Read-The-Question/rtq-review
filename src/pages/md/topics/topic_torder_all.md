@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-all"
 title: "Topic - Order - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -6567,7 +6567,7 @@ $\dfrac {2} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>F6128DD4-ECC2-431B-8EF0-CFFB29805A22</p>
 </div>
@@ -6616,14 +6616,18 @@ What is the largest number he can get?
 
 Let's arrange the number in descending order,
 
-$8 , \quad   16 , \quad   10 , \quad   12$
-$16 , \quad   12 , \quad   10 , \quad   8$
+$
+\begin{aligned}
+8 , \quad   16 , \quad   10 , \quad   12 \\\\
+16 , \quad   12 , \quad   10 , \quad   8
+\end{aligned}
+$
 
 To get the largest number, Frank needs to choose highest number as numerstor and lowest number as denominator.
 
 $
 \begin{aligned}
-&= \dfrac {\text{Highest number}} {\text{Lowest number}} \\\\
+&= \dfrac {\text {Highest number}} {\text {Lowest number}} \\\\
 &= \dfrac {16} {8} \\\\
 &= \dfrac {8 \times 2} {8} \\\\
 &= \dfrac {\cancel {8} \times 2} {\cancel {8}} \\\\
@@ -6659,14 +6663,18 @@ What is the smallest result?
 
 Let's arrange the number in ascending order,
 
-$8 , \quad   16 , \quad   10 , \quad   12$
-$8 , \quad   10 , \quad   12 , \quad   16$
+$
+\begin{aligned}
+&8 , \quad   16 , \quad   10 , \quad   12 \\\\
+&8 , \quad   10 , \quad   12 , \quad   16
+\end{aligned}
+$
 
-To get the largest number, Frank needs to choose lowest number as numerstor and highest number as denominator.
+To get the smallest number, Frank needs to choose lowest number as numerator and highest number as denominator.
 
 $
 \begin{aligned}
-&= \dfrac {\text{Lowest number}} {\text{Highest number}} \\\\
+&= \dfrac {\text {Lowest number}} {\text {Highest number}} \\\\
 &= \dfrac {8} {16} \\\\
 &= \dfrac {8} {8 \times 2} \\\\
 &= \dfrac {\cancel {8}} {\cancel {8} \times 2} \\\\
@@ -6702,8 +6710,12 @@ What division gives the result closest to $1$?
 
 Let's arrange the number in ascending order,
 
-$8 , \quad   16 , \quad   10 , \quad   12$
-$8 , \quad   10 , \quad   12 , \quad   16$
+$
+\begin{aligned}
+&8 , \quad   16 , \quad   10 , \quad   12 \\\\
+&8 , \quad   10 , \quad   12 , \quad   16
+\end{aligned}
+$
 
 To get a division result closest to 1, Frank needs to pickup adjacent numbers after arrangement.
 
@@ -6715,14 +6727,18 @@ $
 &= \dfrac {8} {10} , \quad   \dfrac {2 \times 5} {2 \times 4} , \quad   \dfrac {2 \times 5} {2 \times 6} , \quad   \dfrac {12} {10} , \quad   \dfrac {4 \times 3} {4 \times 4}, \quad   \dfrac {4 \times 4} {4 \times 3} \\\\
 &= \dfrac {8} {10} , \quad   \dfrac {\cancel {2} \times 5} {\cancel {2} \times 4} , \quad   \dfrac {\cancel {2} \times 5} {\cancel {2} \times 6} , \quad   \dfrac {12} {10} , \quad   \dfrac {\cancel {4} \times 3} {\cancel {4} \times 4}, \quad   \dfrac {\cancel {4} \times 4} {\cancel {4} \times 3} \\\\
 &= \dfrac {8} {10} , \quad   \dfrac {5} {4} , \quad   \dfrac {5} {6} , \quad   \dfrac {12} {10} , \quad   \dfrac {3} {4}, \quad   \dfrac {4} {3} \\\\
-&= 0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33 \\\\
+&= 0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33
 \end{aligned}
 $
 
 Let's arrange the decimals in ascending order.
 
-$0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33$
-$0.75 , \quad 0.8 , \quad 0.83 , \quad 1.2 , \quad 1.25 , \quad 1.33$
+$
+\begin{aligned}
+0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33 \\\\
+0.75 , \quad 0.8 , \quad 0.83 , \quad 1.2 , \quad 1.25 , \quad 1.33
+\end{aligned}
+$
 
 The number that is closest to $1$ = $0.83 = \dfrac {10} {12}$
 
@@ -6743,7 +6759,7 @@ $\dfrac {10} {12}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -6959,8 +6975,12 @@ $
 
 Let's put them in ascending order now.
 
-$&= 0.08 , \quad 0.09 , \quad 0.75 , \quad 0.8 , \quad 0.802 , \quad 0.82$
-$8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
+$
+\begin{aligned}
+&= 0.08 , \quad 0.09 , \quad 0.75 , \quad 0.8 , \quad 0.802 , \quad 0.82 \\\\
+&= 8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82
+\end{aligned}
+$
 
 </div>
 </div>

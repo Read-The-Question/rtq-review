@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>Chigwell School</h1>
@@ -389,7 +389,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {N0. of veg. sandwiches sold}     &= 45 \% \ \text {of} \ \text {total sandwiches} \\\\
+\text {No. of veg. sandwiches sold}     &= 45 \% \ \text {of} \ \text {total sandwiches} \\\\
                                         &= \dfrac {45} {100} \times 40 \\\\
                                         &= \dfrac {45 \times 40} {100} \\\\
                                         &= \dfrac {9 \times 5 \times 20 \times 2} {20 \times 5} \\\\
@@ -1201,9 +1201,11 @@ $
 <div class='answer'>
 
 $
-\text {Gill}   = 18 \ \text {years} \\
-\text {Guy}    = 27 \ \text {years} \\
-\text {Gerald} = 54 \ \text {years}
+\begin {aligned}
+\text {Gill}   &= 18 \ \text {years} \\\\
+\text {Guy}    &= 27 \ \text {years} \\\\
+\text {Gerald} &= 54 \ \text {years}
+\end {aligned}
 $
 
 </div>

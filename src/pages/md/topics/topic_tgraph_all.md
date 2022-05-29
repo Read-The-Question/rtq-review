@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-all"
 title: "Topic - Graph - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -7549,7 +7549,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>869FD852-D1F1-49AF-B701-45D924CC185A</p>
 </div>
@@ -7609,7 +7609,7 @@ $\dfrac {1} {5}$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-g1"
 title: "Owner - Arun Dalakoti - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -16528,6 +16528,57 @@ $200$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>2C9FD9EC-F28E-4BA1-8D8C-70118055B9D2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For the first $12$ months after I bought my new phone I downloaded $4$ apps to it each month. Over the next $7$ months I only downloaded $1$ app each month, but this month I downloaded $5$ new apps. What is the average number of apps I have downloaded each month while I have had the phone?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Average number of apps}       &= \dfrac {\text{Total apps}} {\text{Total months}} \\\\
+                                    &= \dfrac { (12 \times 4) + (7 \times 1) + (1 \times 5) } { 12 + 7 + 1 } \\\\
+                                    &= \dfrac { 48 + 7 + 5 } { 20 } \\\\
+                                    &= \dfrac {60} {20} \\\\
+                                    &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>D4788CA3-B338-4047-8521-069529293876</p>
 </div>
 <div class='topics'>
@@ -16623,6 +16674,62 @@ $91$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>4E130AB1-83B7-43FA-A00A-F42FA9962CAD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many different positive whole numbers are factors of $72$? (remember to include $1$ and $72$ as factors)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write down all the factors for $72$.
+
+$
+\begin{aligned}
+1 \times 72 &= 72 \\\\
+2 \times 36 &= 72 \\\\
+3 \times 24 &= 72 \\\\
+4 \times 18 &= 72 \\\\
+6 \times 12 &= 72 \\\\
+8 \times 9  &= 72
+\end{aligned}
+$
+
+Total factors $= 12$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>521214EB-CA81-4E61-8F79-5E1BF8007C95</p>
 </div>
 <div class='topics'>
@@ -16680,6 +16787,354 @@ $4$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When we multiply three consecutive numbers as shown below we obtain the following answer.
+
+$17 \times 18 \times 19 = 5814$     
+
+**Using this result**, work out the answers to these four questions.
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$17 \times 18 \times 38 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+17 \times 18 \times 19          &= 5814 \\\\
+17 \times 18 \times 19 \times 2 &= 5814 \times 2 \\\\
+17 \times 18 \times 38          &= 11628
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11628$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$9 \times 19 \times 34 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+17 \times 18 \times 19         &= 5814 \\\\
+17 \times 9 \times 2 \times 19 &= 5814 \\\\
+17 \times 2 \times 9 \times 19 &= 5814 \\\\
+34 \times 9 \times 19          &= 5814 \\\\
+9 \times 19 \times 34          &= 5814
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5814$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$170 \times 180 \times 190 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+17 \times 18 \times 19                               &= 5814 \\\\
+17 \times 10 \times 18 \times 10 \times 19 \times 10 &= 5814 \times 1000 \\\\
+170 \times 180 \times 190                            &= 5814000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5814000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5814 \div 51 \div 38 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+17 \times 18 \times 19                       &= 5814 \\\\
+18 \times 19                                 &= 5814 \div 17 \\\\
+18                                           &= 5814 \div 17 \div 19 \\\\
+18 \div 3                                    &= 5814 \div (17 \times 3) \div 19 \\\\
+\dfrac {18} {3}                              &= 5814 \div 51 \div 19 \\\\
+\dfrac {6 \times 3} {3}                      &= 5814 \div 51 \div 19 \\\\
+\dfrac {6 \times \cancel {3}} {\cancel {3}}  &= 5814 \div 51 \div 19 \\\\
+6                                            &= 5814 \div 51 \div 19 \\\\
+6 \div 2                                     &= 5814 \div 51 \div (19 \times 2) \\\\
+\dfrac {6} {2}                               &= 5814 \div 51 \div 38 \\\\
+5814 \div 51 \div 38                         &= \dfrac {6} {2} \\\\
+5814 \div 51 \div 38                         &= \dfrac {3 \times 2} {2} \\\\
+5814 \div 51 \div 38                         &= \dfrac {3 \times \cancel {2}} {\cancel {2}} \\\\
+5814 \div 51 \div 38                         &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>2B2789EB-87CB-4268-A450-11BE3B271963</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On a taxi journey with one particular taxi company, the fare is worked out using a set starting charge plus a charge for each quarter of a mile travelled (the QMC).
+
+So if the starting charge is $\pounds 1$ and the QMC (charge for each quarter of a mile) is $50 \text{p}$ then the total fare for a one mile journey is given by
+
+Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ journey at another taxi company is $\pounds 9.60$ and the QMC (charge for each quarter of a mile) is $80\text{p}$, what is the starting charge?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Quaters in} \ 2 \dfrac {1} {2} \ \text {miles} &= 2 \dfrac {1} {2} \times 4 \\\\
+                                                     &= \dfrac {5} {2} \times 4 \\\\
+                                                     &= \dfrac {5 \times 4} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times 2} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                                                     &= 10
+\end{aligned}
+$
+
+Let the starting fare $= a$
+
+QMC = $80$ pence
+
+Total fare = starting charge + (quarter miles $\times 80p$)
+
+$
+\begin{aligned}
+\pounds 9.60 &= a + (10 \times 80p) \\\\
+\pounds 9.60 &= a + 800p \\\\
+\pounds 9.60 &= a + \pounds \dfrac {800} {100} \\\\
+\pounds 9.60 &= a + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
+9.60 - 8     &= a \\\\
+a            &= 9.60 - 8 \\\\
+a            &= \pounds 1.60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the starting charge at a third company is $\pounds 2.20$ and the Total Fare for a $6 \dfrac {1}{4} \ \text{mile}$ journey is $\pounds 12.20$, what is the QMC?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Quaters in} \ 6 \dfrac {1} {4} \ \text{miles} &= 6 \dfrac {1} {4} \times 4 \\\\
+                                                    &= \dfrac {25} {4} \times 4 \\\\
+                                                    &= \dfrac {25 \times 4} {4} \\\\
+                                                    &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
+                                                    &= 25
+\end{aligned}
+$
+
+Total fare = starting charge + (quarter miles $\times$ QMC)
+
+Let the QMC $= q$
+
+$
+\begin{aligned}
+\pounds 12.20    &= \pounds 2.20 + (25 \times q) \\\\
+12.20 - 2.20     &= 25 \times q \\\\
+10               &= 25 \times q \\\\
+\dfrac {10} {25} &= q \\\\
+q                &= \dfrac {10} {25} \\\\
+q                &= \dfrac {10 \times 100 \text{p}} \\\\
+q                &= \dfrac {10 \times 25 \times 4} {25} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4} {\cancel {25}} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4 \text{p}} {\cancel {25}} \\\\
+q                &= 4 \times 10 \\\\
+q                &= 40 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-pr"
 title: "Topic - Fraction - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -420,70 +420,6 @@ $\dfrac{3} {10}, \dfrac{1}{3}, \dfrac{10}{3}, \dfrac{3}{1}, \dfrac{3}{6}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>1DD19E4B-1DD0-4211-AE00-61C2A0DBD9FE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Martin is given $\pounds 240$. He gives $\dfrac{1}{8}$ to his sister and $\dfrac{1}{5}$ of what remains to his little brother. How much does he keep himself?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Amount spent} &= \text {Amount he gave to his sister} + \text {Amount he gave to his brother} \\\\
-                     &= \dfrac {1} {8} \ \text {of} \ \pounds 240 + \dfrac {1} {5} \ \text {of} \ (\pounds 240 - \dfrac {1} {8} \ \text {of} \ 240)) \\\\
-                     &= \dfrac {1} {8} \times 240 + \dfrac {1} {5} \times (240 - \dfrac {1} {8} \times 240)) \\\\
-                     &= \dfrac {240} {8} + \dfrac {1} {5} \times (240 - \dfrac {240} {8}) \\\\
-                     &= \dfrac {30 \times 8} {8} + \dfrac {1} {5} \times (240 - \dfrac {30 \times 8} {8}) \\\\
-                     &= \dfrac {30 \times \cancel {8}} {\cancel {8}} + \dfrac {1} {5} \times (240 - \dfrac {30 \times \cancel {8}} {\cancel {8}}) \\\\
-                     &= 30 + \dfrac {1} {5} \times (240 - 30) \\\\
-                     &= 30 + \dfrac {1} {5} \times 210 \\\\
-                     &= 30 + \dfrac {210} {5} \\\\
-                     &= 30 + \dfrac {42 \times 5} {5} \\\\
-                     &= 30 + \dfrac {42 \times \cancel {5}} {\cancel {5}} \\\\
-                     &= 30 + 42 \\\\
-                     &= \pounds 72 \\\\
-\text {Amount left}  &= \text {Total amount he had} - \text {Total amount spent} \\\\
-                     &= \pounds 240 - \pounds 72 \\\\
-                     &= \pounds 168
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 168$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>FA07A720-D1E4-4527-953B-6F2BE26C4F2E</p>
@@ -878,87 +814,6 @@ $2$
 
 <div class='papername'>
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two fifths of the children in a swimming pool are boys.
-
-There are $72$ girls in the pool. How many boys are there? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let the total students $= a$
-
-As per the question,
-
-Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
-
-Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
-
-$
-\begin {aligned}
-\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
-\dfrac {3} {5} \times a           &= 72 \\\\
-3a                                &= 72 \times 5 \\\\
-a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
-a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
-a                                 &= 24 \times 5 \\\\
-a                                 &= 120
-\end {aligned}
-$
-
-Now, lets calculate the total number of boys.
-
-$
-\begin {aligned}
-\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
-                        &= \dfrac {2} {5} \times 120 \\\\
-                        &= \dfrac {2 \times 120} {5} \\\\
-                        &= \dfrac {2 \times 24 \times 5} {5} \\\\
-                        &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
-                        &= 2 \times 24 \\\\
-                        &= 48
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -1483,7 +1338,7 @@ Calculate the total distance travelled if I go from $A$ to $B$ and then to $C$.
 
 $
 \begin{aligned}
-\dfrac{Total distance} &= 4367 + 8694 \\\\
+\text{Total distance}  &= 4367 + 8694 \\\\
                        &= 13061 \ \text{km}
 \end{aligned}
 $
@@ -1619,11 +1474,11 @@ Subtract three fifths from four sevenths.
 
 $
 \begin{aligned}
-&= \dfrac {3} {5} - \dfrac {4} {7} \\\\
-&= \dfrac {3 \times 7} {5 \times 7} - \dfrac {4 \times 5} {7 \times 5} \\\\
-&= \dfrac {21} {35} - \dfrac {20} {35} \\\\
-&= \dfrac {21 - 20} {35} \\\\
-&= \dfrac {1} {35}
+&= \dfrac {4} {7} - \dfrac {3} {5} \\\\
+&= \dfrac {4 \times 5} {7 \times 5} - \dfrac {3 \times 7} {5 \times 7} \\\\
+&= \dfrac {20} {35} - \dfrac {21} {35} \\\\
+&= \dfrac {20 - 21} {35} \\\\
+&= - \dfrac {1} {35}
 \end{aligned}
 $
 
@@ -1632,7 +1487,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {35}$
+$- \dfrac {1} {35}$
 
 </div>
 </div>
@@ -1659,7 +1514,8 @@ $
 &= \dfrac {7} {3} \times \dfrac {10} {7} \\\\
 &= \dfrac {7 \times 10} {3 \times 7} \\\\
 &= \dfrac {\cancel {7} \times 10} {3 \times \cancel {7}} \\\\
-&= \dfrac {10} {3}
+&= \dfrac {10} {3} \\\\
+&= 3 \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -1668,7 +1524,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {10} {3}$
+$3 \dfrac {1} {3}$
 
 </div>
 </div>
@@ -1937,14 +1793,14 @@ $
 3x - \dfrac {x} {4}                                 &= \dfrac {1} {2} + 9 \\\\
 \dfrac {3x \times 4} {1 \times 4} - \dfrac {x} {4}  &= \dfrac {1} {2} + \dfrac {9 \times 2} {1 \times 2} \\\\
 \dfrac {12x} {4} - \dfrac {x} {4}                   &= \dfrac {1} {2} + \dfrac {18} {2} \\\\
-\dfrac {12x + x} {4}                                &= \dfrac {1 + 18} {2} \\\\
-\dfrac {13x} {4}                                    &= \dfrac {19} {2} \\\\
-x                                                   &= \dfrac {19 \times 4} {2 \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2} {13} \\\\
-x                                                   &= \dfrac {38} {13} \\\\
-x                                                   &= 2 \ \dfrac {12} {13}
+\dfrac {12x - x} {4}                                &= \dfrac {1 + 18} {2} \\\\
+\dfrac {11 x} {4}                                   &= \dfrac {19} {2} \\\\
+x                                                   &= \dfrac {19 \times 4} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2} {11} \\\\
+x                                                   &= \dfrac {38} {11} \\\\
+x                                                   &= 3 \dfrac {5} {11}
 \end{aligned}
 $
 
@@ -1953,7 +1809,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \ \dfrac {12} {13}$
+$3 \dfrac {5} {11}$
 
 </div>
 </div>
@@ -2274,158 +2130,6 @@ $15$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>29DE4114-CF16-4830-A1D8-498E9062A293</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Evaluate
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac {3} {4} + \dfrac {1}{3}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {3} {4} + \dfrac {1} {3} \\\\
-&= \dfrac {3 \times 3} {4 \times 3} + \dfrac {1 \times 4} {3 \times 4} \\\\
-&= \dfrac {9} {12} + \dfrac {4} {12} \\\\
-&= \dfrac {9 + 4} {12} \\\\
-&= \dfrac {13} {12}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {13} {12}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac {5} {7} + \dfrac {2} {5}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {5} {7} + \dfrac {2} {5} \\\\
-&= \dfrac {5 \times 5} {7 \times 5} + \dfrac {2 \times 7} {5 \times 7} \\\\
-&= \dfrac {25} {35} + \dfrac {14} {35} \\\\
-&= \dfrac {25 + 14} {35} \\\\
-&= \dfrac {39} {35}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {39} {35}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac {4} {9} \div \dfrac {5} {11}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {4} {9} + \dfrac {5} {11} \\\\
-&= \dfrac {4 \times 11} {9 \times 11} + \dfrac {5 \times 9} {11 \times 9} \\\\
-&= \dfrac {44} {99} + \dfrac {45} {99} \\\\
-&= \dfrac {44 + 45} {99} \\\\
-&= \dfrac {89} {99}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {89} {99}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -4602,10 +4306,10 @@ What fraction of the shape is shaded?
 
 $
 \begin{aligned}
-&= \dfrac {12} {15} \\\\
-&= \dfrac {3 \times 4} {5 \times 3} \\\\
-&= \dfrac {\cancel {3} \times 4} {5 \times \cancel {3}} \\\\
-&= \dfrac {4} {5}
+&= \dfrac {12} {16} \\\\
+&= \dfrac {3 \times 4} {4 \times 4} \\\\
+&= \dfrac {3 \times \cancel {4}} {4 \times \cancel {4}} \\\\
+&= \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -4614,7 +4318,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {4} {5}$
+$\dfrac {3} {4}$
 
 </div>
 </div>
@@ -4836,65 +4540,6 @@ $54$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-tcircle
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle the number in the list below that is closest to $\dfrac{1}{2}$
-                                                      
-$\dfrac{1}{5} \quad \dfrac{3}{7} \quad \dfrac{5}{9} \quad \dfrac{7}{11}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\dfrac {1} {2} = 0.5$
-
-Let's convert all the numbers to decimal.
-
-$
-\begin {aligned}
-&= \dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
-&= 0.2, \quad 0.42, \quad 0.55, \quad 0.63
-\end {aligned}
-$
-
-$0.55 = \dfrac {5} {9}$ is the closest to $\dfrac {1} {2}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {5} {9}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -5654,7 +5299,7 @@ $504$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>03AD91B5-06E0-4B12-808B-4F0278EC9237</p>
 </div>
@@ -5701,7 +5346,7 @@ $
                                         &= \dfrac {2a} {4} \\\\
                                         &= \dfrac {2a} {2 \times 2} \\\\
                                         &= \dfrac {\cancel 2a} {\cancel 2 \times 2} \\\\
-                                        &= \dfrac {a} {2}
+                                        &= \dfrac {a} {2} \\\\
 \text{Fraction of Pension left}         &= \dfrac{\dfrac{a} {2}} {a} \\\\
                                         &= \dfrac{a} {2 \times a} \\\\
                                         &= \dfrac{\cancel a} {2 \times \cancel a} \\\\
@@ -5723,7 +5368,7 @@ $\dfrac{1} {2}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

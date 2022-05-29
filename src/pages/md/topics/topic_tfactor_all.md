@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-all"
 title: "Topic - Factor - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1266,7 +1266,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
 </div>
@@ -1322,7 +1322,7 @@ $90 \%$
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -7817,7 +7817,7 @@ $42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>4E130AB1-83B7-43FA-A00A-F42FA9962CAD</p>
 </div>
@@ -7868,7 +7868,7 @@ $12$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -8172,7 +8172,9 @@ $a <60$
 
 Numbers between $40$ and $60$ which are dvisible by $5 = {45, 50, 55}$
 
-Numbers between $40$ and $60$ which are dvisible by $5 = {45, 48, 51, 54, 57}$
+Numbers between $40$ and $60$ which are dvisible by $3 = {45, 48, 51, 54, 57}$
+
+Since 45 is common in both, 
 
 $a = 45$
 

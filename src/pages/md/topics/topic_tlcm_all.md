@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tlcm-all"
 title: "Topic - Lcm - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1449,7 +1449,7 @@ $72$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>8ED09CBE-F792-4A40-ACD9-D36DBA35CEE6</p>
 </div>
@@ -1498,7 +1498,7 @@ $24 \ \text{cm}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

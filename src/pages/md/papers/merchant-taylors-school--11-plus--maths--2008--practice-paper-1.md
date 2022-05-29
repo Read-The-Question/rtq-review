@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>Merchant Taylors' School</h1>
@@ -1423,14 +1423,14 @@ $12$ to the $1$
 <div class='workings'>
 <div class='working'>
 
-$360 \degree$
+$30 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$360 \degree$
+$30 \degree$
 
 </div>
 </div>
@@ -1453,8 +1453,8 @@ $3$ to the $7$
 
 $
 \begin{aligned}
-\text{From 3 to 7} &= 4 \times 360
-                   &= 1440 \degree
+\text{From 3 to 7} &= 4 \times 30 \\\\
+                   &= 120 \degree
 \end{aligned}
 $
 
@@ -1463,7 +1463,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1440 \degree$
+$120 \degree$
 
 </div>
 </div>
@@ -2269,9 +2269,9 @@ how many would there be after $6$ weeks?
 
 $
 \begin{aligned}
-\text{Inserts after six weeks} &= 2 \times 6 \times 100 \\\\
-                               &= 12 \times 100 \\\\
-                               &= 1200
+\text{Inserts after six weeks} &= 2 ^ 6 \times 100 \\\\
+                               &= 64 \times 100 \\\\
+                               &= 6400
 \end{aligned}
 $
 
@@ -2280,7 +2280,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1200$
+$6400$
 
 </div>
 </div>
@@ -2309,7 +2309,7 @@ $
 \begin{aligned}
 2 ^ n \times 100 &= 100000 \\\\
 2 ^ n            &= \dfrac {100000} {100} \\\\
-2 ^ n            &= \dfrac {1000 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+2 ^ n            &= \dfrac {1000 \cancel{00}} {1 \cancel{00}} \\\\
 2 ^ n            &= 1000
 \end{aligned}
 $
@@ -3179,7 +3179,7 @@ $
 \begin{aligned}
 \text{Temperature at 1500 hrs} &= 3 + 3 \times 1.5 \\\\
                                &= 3 + 4.5 \\\\
-                               &= 7.5 \degree
+                               &= 7.5 \degree C
 \end{aligned}
 $
 
@@ -3188,7 +3188,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7.5 \degree$
+$7.5 \degree C$
 
 </div>
 </div>
@@ -3217,7 +3217,7 @@ $
 \text{Temperature by 0400 hrs} &= 7.5 + 3 \times 1.5 + 10 \times - 3 \\\\
                                &= 7.5 + 4.5 - 30 \\\\
                                &= 12 - 30 \\\\
-                               &= - 18 \degree
+                               &= - 18 \degree C
 \end{aligned}
 $
 
@@ -3226,7 +3226,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 18 \degree$
+$- 18 \degree C$
 
 </div>
 </div>

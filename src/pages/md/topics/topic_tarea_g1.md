@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-g1"
 title: "Topic - Area - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -877,6 +877,130 @@ $28 cm ^ 2$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>5EDF9D93-76BA-4A5B-84AC-A3D799C7B75C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A right angled triangle is shown below. It is not drawn to scale.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the perimeter of the triangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{ Perimeter}   &= 3 + 5.8 + 6 \\\\
+                    &= 14.8 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14.8 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the area of the triangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Area of triangle is given by
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times a \times b
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times 3 \times 5 \\\\
+&= \dfrac {15} {2} \\\\
+&= 7.5 \text { cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.5 \text { cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -4056,6 +4180,79 @@ $150 \ \text {cm}^2$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>225FE540-8613-4C8B-B119-CC67CEA85C4B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+A path of width $1.5\, m$ is built around the outside of a pond. The dimensions of the path are shown.
+
+What is the area of the pond?
+
+Make sure you state the units.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Length of the pond}  &= 11 - 2 \times 1.5 \\\\
+                            &= 11 - 3 \\\\
+                            &= 8 \ \text{m}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Width of the pond}   &= 8 - 2 \times 1.5 \\\\
+                            &= 8 - 3 \\\\
+                            &= 5 \ \text{m}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area of the pond}     &= \text{length} \times \text{width} \\\\
+                            &= 8 \times 5 \\\\
+                            &= 40 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text{cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

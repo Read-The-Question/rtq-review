@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-7"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 7"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -881,13 +881,14 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {3 a} {10} - \dfrac {90 a} {500}                      &= 1.95 \\\\
-\dfrac {3 a \times 50} {10 \times 50} - \dfrac {90 a} {500}  &= 1.95 \\\\
-\dfrac {150 a} {500} - \dfrac {90 a} {500}                   &= 1.95 \\\\
-\dfrac {150 a - 90a} {500}                                   &= 1.95 \\\\
-\dfrac {60 a} {500}                                          &= 1.95 \\\\
+\dfrac {90 a} {500} - \dfrac {3 a} {10}                      &= 1.95 \\\\
+\dfrac {90 a} {500} - \dfrac {3 a \times 50} {10 \times 50}  &= 1.95 \\\\
+\dfrac {90 a} {500} - \dfrac {150 a} {500}                   &= 1.95 \\\\
+\dfrac {90 a - 150 a} {500}                                  &= 1.95 \\\\
+-\dfrac {60 a} {500}                                         &= 1.95 \\\\
 a                                                            &= \dfrac {1.95 \times 500} {60} \\\\
-a                                                            &= \dfrac {975} {60} \\\\
+a                                                            &= \dfrac {1.95 \times 50 \cancel {0}} {6 \cancel {0}}
+a                                                            &= \dfrac {1.95 \times 50} {6} \\\\
 a                                                            &= 16.25
 \end{aligned}
 $

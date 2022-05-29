@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-all"
 title: "Topic - Division - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8067,11 +8067,9 @@ $150 \times 340$
 
 $
 \begin{aligned}
-&= 150 \times 340 \\\\
-&= 15 \times 10 \times 34 \times 10 \\\\
-&= 15 \times 34 \times 10 \times 10 \\\\
-&= 510 \times 100 \\\\
-&= 51000
+15 \times 34                     &= 510 \\\\
+15 \times 10 \times 34 \times 10 &= 510 \times 100 \\\\
+150 \times 340                   &= 51000
 \end{aligned}
 $
 
@@ -8103,13 +8101,12 @@ $15 \times 17$
 
 $
 \begin{aligned}
-&= 15 \times 17 \\\\
-&= \dfrac {15 \times 17 \times 2} {2} \\\\
-&= \dfrac {15 \times 34} {2} \\\\
-&= \dfrac {510} {2} \\\\
-&= \dfrac {255 \times 2} {2} \\\\
-&= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
-&= 255
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 17          &= \dfrac {510} {2} \\\\
+15 \times 17          &= \dfrac {255 \times 2} {2} \\\\
+15 \times 17          &= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
+15 \times 17          &= 255
 \end{aligned}
 $
 
@@ -8141,13 +8138,12 @@ $510 + 17$
 
 $
 \begin{aligned}
-&= 510 \div 17 \\\\
-&= \dfrac {510} {17} \\\\
-&= \dfrac {15 \times 34} {17} \\\\
-&= \dfrac {15 \times 17 \times 2} {17} \\\\
-&= \dfrac {15 \times \cancel {17} \times 2} {\cancel {17}} \\\\
-&= 15 \times 2 \\\\
-&= 30
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 2           &= \dfrac {510} {17} \\\\
+\dfrac {510} {17}     &= 15 \times 2 \\\\
+\dfrac {510} {17}     &= 30 \\\\
+510 \div 17           &= 30 \\\\
 \end{aligned}
 $
 

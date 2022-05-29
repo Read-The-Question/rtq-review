@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-all"
 title: "Topic - Money - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4783,7 +4783,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>559166DC-6DDF-4875-BF83-BA488BB42DFA</p>
 </div>
@@ -4835,7 +4835,7 @@ $\pounds 18.07$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -8767,7 +8767,7 @@ $\pounds 4.80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>CE8C7AD4-B1AC-4902-B427-7BDEABBF4680</p>
 </div>
@@ -8816,7 +8816,7 @@ $\pounds 2500$
 <p>forest-school--11-plus--maths--2020--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -12222,7 +12222,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>499E0105-A9AC-4D5F-A034-868FE7487E48</p>
 </div>
@@ -12282,7 +12282,7 @@ $120\text{p}$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -32463,12 +32463,9 @@ $\pounds 1 = 100 \text{p}$
 $
 \begin{aligned}
 &= 5 \times \pounds 5 - (\pounds 3.50 \times 5 - 75 \text{p}) \\\\
-&= 5 \times \pounds 5 - (\pounds 17.5 - 75 \text{p}) \\\\
-&= \pounds 25 - (17.5 \times 100 \text{p} - 75 \text{p}) \\\\
-&= \pounds 25 - (1750 \text{p} - 75 \text{p}) \\\\
-&= \pounds 25 - 1675 \text{p} \\\\
-&= \pounds 25 - \pounds \dfrac {1675} {100} \\\\
-&= \pounds 25 - \pounds 16.75 \\\\
+&= \pounds 25 - (\pounds 17.5 - \pounds \dfrac {75} {100}) \\\\
+&= 25 - (17.5 - 0.75) \\\\
+&= 25 - 16.75 \\\\
 &= \pounds 8.25
 \end{aligned}
 $
@@ -34033,7 +34030,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>F922D651-408E-4359-84E9-92753CFE0F39</p>
 </div>
@@ -34090,12 +34087,12 @@ $\pounds 2.900$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>DECB8B2F-C98F-461B-8772-23E3052D7DF2</p>
 </div>
@@ -34149,7 +34146,7 @@ $\pounds 72.75$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -34568,7 +34565,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>2EAFF991-0339-4DCB-B936-D87259A62353</p>
 </div>
@@ -34761,7 +34758,7 @@ $\pounds 4000$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -36646,7 +36643,7 @@ $\pounds 5.04$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>2B2789EB-87CB-4268-A450-11BE3B271963</p>
 </div>
@@ -36803,7 +36800,7 @@ $40 \text{p}$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -37081,7 +37078,7 @@ $\pounds 274$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>FCFAFC6F-1712-4B57-99C9-697FE6184648</p>
 </div>
@@ -37153,7 +37150,7 @@ $\pounds 144$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -39599,7 +39596,7 @@ $189 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>9F5604EB-F79E-4CB6-8EE3-55D385FB760A</p>
 </div>
@@ -39674,12 +39671,12 @@ $\pounds 38.75$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA</p>
 </div>
@@ -39740,7 +39737,7 @@ $\pounds 1600$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

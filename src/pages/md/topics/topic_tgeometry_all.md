@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-all"
 title: "Topic - Geometry - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -18160,7 +18160,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>0EA6356F-FEB5-46B4-85FF-77EC923BBA69</p>
 </div>
@@ -18205,7 +18205,7 @@ $29$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -18778,7 +18778,7 @@ $30 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>7F5F775B-7E11-4998-A118-784117B4C479</p>
 </div>
@@ -18870,8 +18870,14 @@ What is the perimeter of the square left empty in the middle?
 <div class='workings'>
 <div class='working'>
 
-Side of square in the middle $= \text{length of rectangle} - \text{width of rectangle}$
-                             $= 7 - 3 = 4 \ \text{cm}$
+$
+\begin{aligned}
+\text {Side of square in the middle}    &= \text {length of rectangle} - \text {width of rectangle} \\\\
+                                        &= 7 - 3  \\\\
+                                        &= 4 \ \text{cm}
+\end{aligned}
+$
+
 Perimeter of the middle square $= 4 \times 4 = 16 \ \text{cm}$
 
 </div>
@@ -18891,7 +18897,7 @@ $16 \ \text{cm}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

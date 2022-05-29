@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-all"
 title: "Topic - Time - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8977,9 +8977,9 @@ how many would there be after $6$ weeks?
 
 $
 \begin{aligned}
-\text{Inserts after six weeks} &= 2 \times 6 \times 100 \\\\
-                               &= 12 \times 100 \\\\
-                               &= 1200
+\text{Inserts after six weeks} &= 2 ^ 6 \times 100 \\\\
+                               &= 64 \times 100 \\\\
+                               &= 6400
 \end{aligned}
 $
 
@@ -8988,7 +8988,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1200$
+$6400$
 
 </div>
 </div>
@@ -9017,7 +9017,7 @@ $
 \begin{aligned}
 2 ^ n \times 100 &= 100000 \\\\
 2 ^ n            &= \dfrac {100000} {100} \\\\
-2 ^ n            &= \dfrac {1000 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+2 ^ n            &= \dfrac {1000 \cancel{00}} {1 \cancel{00}} \\\\
 2 ^ n            &= 1000
 \end{aligned}
 $
@@ -9229,7 +9229,7 @@ $
 \begin{aligned}
 \text{Temperature at 1500 hrs} &= 3 + 3 \times 1.5 \\\\
                                &= 3 + 4.5 \\\\
-                               &= 7.5 \degree
+                               &= 7.5 \degree C
 \end{aligned}
 $
 
@@ -9238,7 +9238,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7.5 \degree$
+$7.5 \degree C$
 
 </div>
 </div>
@@ -9267,7 +9267,7 @@ $
 \text{Temperature by 0400 hrs} &= 7.5 + 3 \times 1.5 + 10 \times - 3 \\\\
                                &= 7.5 + 4.5 - 30 \\\\
                                &= 12 - 30 \\\\
-                               &= - 18 \degree
+                               &= - 18 \degree C
 \end{aligned}
 $
 
@@ -9276,7 +9276,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 18 \degree$
+$- 18 \degree C$
 
 </div>
 </div>
@@ -15422,7 +15422,7 @@ $0719$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_red question'>
 <div class='uuid'>
 <p>E6B83B3B-E7BD-4594-8B68-CF66D6D588CC</p>
 </div>
@@ -15648,7 +15648,7 @@ $8 \ \text {min}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_red</p>
 </div>
 </div>
 </li>
@@ -18148,7 +18148,7 @@ Dita watches the television for $2 \text{ hours } 45 \text{ minutes}$ each weeke
 $
 \begin{aligned}
 \text{Time spent over three weekends} &= 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} \\\\
-                                      &= 8 \ \text{hours} \ 25 \ \text{minutes}
+                                      &= 8 \ \text{hours} \ 15 \ \text{minutes}
 \end{aligned}
 $
 
@@ -18157,7 +18157,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8 \ \text{hours} \ 25 \ \text{minutes}$
+$8 \ \text{hours} \ 15 \ \text{minutes}$
 
 </div>
 </div>
@@ -19032,14 +19032,14 @@ from London Euston to Birmingham International?
 <div class='workings'>
 <div class='working'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
@@ -19060,14 +19060,14 @@ from London Euston Station to Glasgow?
 <div class='workings'>
 <div class='working'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>
@@ -20641,7 +20641,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>F3BE1318-A3C2-4027-94E9-36DD5A3FA799</p>
 </div>
@@ -20683,7 +20683,7 @@ $10{:}40$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -20846,7 +20846,7 @@ $14{:}35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>C91E6035-9D47-42CB-834A-DB0B8A45E8A6</p>
 </div>
@@ -20901,12 +20901,12 @@ $2 \ \text{minutes}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D83FB293-ED94-45B3-84CF-CBEC198E7DF3</p>
 </div>
@@ -21038,7 +21038,7 @@ $8{:}08 \ \text {a.m.}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

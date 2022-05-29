@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-2"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>Forest School</h1>
@@ -923,7 +923,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>7CD755EA-ADD6-4379-9D5F-1416133D1E65</p>
 </div>
@@ -964,7 +964,7 @@ $2, 3$
 <p>forest-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>

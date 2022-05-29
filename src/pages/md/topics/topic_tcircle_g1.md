@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircle-g1"
 title: "Topic - Circle - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -953,6 +953,65 @@ $3.564$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the number in the list below that is closest to $\dfrac{1}{2}$
+                                                      
+$\dfrac{1}{5} \quad \dfrac{3}{7} \quad \dfrac{5}{9} \quad \dfrac{7}{11}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {1} {2} = 0.5$
+
+Let's convert all the numbers to decimal.
+
+$
+\begin {aligned}
+&= \dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
+&= 0.2, \quad 0.42, \quad 0.55, \quad 0.63
+\end {aligned}
+$
+
+$0.55 = \dfrac {5} {9}$ is the closest to $\dfrac {1} {2}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {5} {9}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>

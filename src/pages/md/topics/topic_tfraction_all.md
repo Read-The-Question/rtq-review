@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-all"
 title: "Topic - Fraction - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4779,7 +4779,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>1DD19E4B-1DD0-4211-AE00-61C2A0DBD9FE</p>
 </div>
@@ -4838,7 +4838,7 @@ $\pounds 168$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -12405,7 +12405,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
 </div>
@@ -12481,7 +12481,7 @@ $48$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -16950,7 +16950,7 @@ Calculate the total distance travelled if I go from $A$ to $B$ and then to $C$.
 
 $
 \begin{aligned}
-\dfrac{Total distance} &= 4367 + 8694 \\\\
+\text{Total distance}  &= 4367 + 8694 \\\\
                        &= 13061 \ \text{km}
 \end{aligned}
 $
@@ -17086,11 +17086,11 @@ Subtract three fifths from four sevenths.
 
 $
 \begin{aligned}
-&= \dfrac {3} {5} - \dfrac {4} {7} \\\\
-&= \dfrac {3 \times 7} {5 \times 7} - \dfrac {4 \times 5} {7 \times 5} \\\\
-&= \dfrac {21} {35} - \dfrac {20} {35} \\\\
-&= \dfrac {21 - 20} {35} \\\\
-&= \dfrac {1} {35}
+&= \dfrac {4} {7} - \dfrac {3} {5} \\\\
+&= \dfrac {4 \times 5} {7 \times 5} - \dfrac {3 \times 7} {5 \times 7} \\\\
+&= \dfrac {20} {35} - \dfrac {21} {35} \\\\
+&= \dfrac {20 - 21} {35} \\\\
+&= - \dfrac {1} {35}
 \end{aligned}
 $
 
@@ -17099,7 +17099,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {35}$
+$- \dfrac {1} {35}$
 
 </div>
 </div>
@@ -17126,7 +17126,8 @@ $
 &= \dfrac {7} {3} \times \dfrac {10} {7} \\\\
 &= \dfrac {7 \times 10} {3 \times 7} \\\\
 &= \dfrac {\cancel {7} \times 10} {3 \times \cancel {7}} \\\\
-&= \dfrac {10} {3}
+&= \dfrac {10} {3} \\\\
+&= 3 \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -17135,7 +17136,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {10} {3}$
+$3 \dfrac {1} {3}$
 
 </div>
 </div>
@@ -17815,14 +17816,14 @@ $
 3x - \dfrac {x} {4}                                 &= \dfrac {1} {2} + 9 \\\\
 \dfrac {3x \times 4} {1 \times 4} - \dfrac {x} {4}  &= \dfrac {1} {2} + \dfrac {9 \times 2} {1 \times 2} \\\\
 \dfrac {12x} {4} - \dfrac {x} {4}                   &= \dfrac {1} {2} + \dfrac {18} {2} \\\\
-\dfrac {12x + x} {4}                                &= \dfrac {1 + 18} {2} \\\\
-\dfrac {13x} {4}                                    &= \dfrac {19} {2} \\\\
-x                                                   &= \dfrac {19 \times 4} {2 \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2} {13} \\\\
-x                                                   &= \dfrac {38} {13} \\\\
-x                                                   &= 2 \ \dfrac {12} {13}
+\dfrac {12x - x} {4}                                &= \dfrac {1 + 18} {2} \\\\
+\dfrac {11 x} {4}                                   &= \dfrac {19} {2} \\\\
+x                                                   &= \dfrac {19 \times 4} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2} {11} \\\\
+x                                                   &= \dfrac {38} {11} \\\\
+x                                                   &= 3 \dfrac {5} {11}
 \end{aligned}
 $
 
@@ -17831,7 +17832,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \ \dfrac {12} {13}$
+$3 \dfrac {5} {11}$
 
 </div>
 </div>
@@ -22114,7 +22115,7 @@ $\dfrac {15} {28}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>29DE4114-CF16-4830-A1D8-498E9062A293</p>
 </div>
@@ -22261,7 +22262,7 @@ $\dfrac {89} {99}$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -32463,10 +32464,10 @@ What fraction of the shape is shaded?
 
 $
 \begin{aligned}
-&= \dfrac {12} {15} \\\\
-&= \dfrac {3 \times 4} {5 \times 3} \\\\
-&= \dfrac {\cancel {3} \times 4} {5 \times \cancel {3}} \\\\
-&= \dfrac {4} {5}
+&= \dfrac {12} {16} \\\\
+&= \dfrac {3 \times 4} {4 \times 4} \\\\
+&= \dfrac {3 \times \cancel {4}} {4 \times \cancel {4}} \\\\
+&= \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -32475,7 +32476,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {4} {5}$
+$\dfrac {3} {4}$
 
 </div>
 </div>
@@ -34370,7 +34371,7 @@ $81$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
 </div>
@@ -34424,7 +34425,7 @@ $\dfrac {5} {9}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -37078,7 +37079,7 @@ $\dfrac{5} {12}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>03AD91B5-06E0-4B12-808B-4F0278EC9237</p>
 </div>
@@ -37125,7 +37126,7 @@ $
                                         &= \dfrac {2a} {4} \\\\
                                         &= \dfrac {2a} {2 \times 2} \\\\
                                         &= \dfrac {\cancel 2a} {\cancel 2 \times 2} \\\\
-                                        &= \dfrac {a} {2}
+                                        &= \dfrac {a} {2} \\\\
 \text{Fraction of Pension left}         &= \dfrac{\dfrac{a} {2}} {a} \\\\
                                         &= \dfrac{a} {2 \times a} \\\\
                                         &= \dfrac{\cancel a} {2 \times \cancel a} \\\\
@@ -37147,7 +37148,7 @@ $\dfrac{1} {2}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

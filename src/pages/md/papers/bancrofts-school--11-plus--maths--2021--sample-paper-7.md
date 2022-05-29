@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>Bancroft's School</h1>
@@ -1530,14 +1530,14 @@ $4.5$
 <div class='workings'>
 <div class='working'>
 
-$8.0$
+$8.3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8.0$
+$8.3$
 
 </div>
 </div>

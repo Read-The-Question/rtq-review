@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-all"
 title: "Topic - Detailedmultiplication - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -7730,11 +7730,9 @@ $150 \times 340$
 
 $
 \begin{aligned}
-&= 150 \times 340 \\\\
-&= 15 \times 10 \times 34 \times 10 \\\\
-&= 15 \times 34 \times 10 \times 10 \\\\
-&= 510 \times 100 \\\\
-&= 51000
+15 \times 34                     &= 510 \\\\
+15 \times 10 \times 34 \times 10 &= 510 \times 100 \\\\
+150 \times 340                   &= 51000
 \end{aligned}
 $
 
@@ -7766,13 +7764,12 @@ $15 \times 17$
 
 $
 \begin{aligned}
-&= 15 \times 17 \\\\
-&= \dfrac {15 \times 17 \times 2} {2} \\\\
-&= \dfrac {15 \times 34} {2} \\\\
-&= \dfrac {510} {2} \\\\
-&= \dfrac {255 \times 2} {2} \\\\
-&= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
-&= 255
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 17          &= \dfrac {510} {2} \\\\
+15 \times 17          &= \dfrac {255 \times 2} {2} \\\\
+15 \times 17          &= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
+15 \times 17          &= 255
 \end{aligned}
 $
 
@@ -7804,13 +7801,12 @@ $510 + 17$
 
 $
 \begin{aligned}
-&= 510 \div 17 \\\\
-&= \dfrac {510} {17} \\\\
-&= \dfrac {15 \times 34} {17} \\\\
-&= \dfrac {15 \times 17 \times 2} {17} \\\\
-&= \dfrac {15 \times \cancel {17} \times 2} {\cancel {17}} \\\\
-&= 15 \times 2 \\\\
-&= 30
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 2           &= \dfrac {510} {17} \\\\
+\dfrac {510} {17}     &= 15 \times 2 \\\\
+\dfrac {510} {17}     &= 30 \\\\
+510 \div 17           &= 30 \\\\
 \end{aligned}
 $
 
@@ -8049,10 +8045,9 @@ $742 \times 360$ =
 
 $
 \begin{aligned}
-&= 742 \times 360 \\\\
-&= 742 \times 36 \times 10 \\\\
-&= 26712 \times 10 \\\\
-&= 267120
+742 \times 36           &= 26712 \\\\
+742 \times 36 \times 10 &= 26712 \times 10 \\\\
+742 \times 360          &= 267120
 \end{aligned}
 $
 
@@ -8084,11 +8079,10 @@ $26712 \div 36$
 
 $
 \begin{aligned}
-&= 26712 \div 36 \\\\
-&= \dfrac {26712} {36} \\\\
-&= \dfrac {742 \times 36} {36} \\\\
-&= \dfrac {742 \times \cancel {36}} {\cancel {36}} \\\\
-&= 742
+742 \times 36           &= 26712 \\\\
+742                     &= \dfrac {26712} {36} \\\\
+\dfrac {26712} {36}     &= 742 \\\\
+26712 \div 36           &= 742
 \end{aligned}
 $
 
@@ -8120,10 +8114,10 @@ $742 \times 72$
 
 $
 \begin{aligned}
-&= 742 \times 72 \\\\
-&= 742 \times 36 \times 2 \\\\
-&= 26712 \times 2 \\\\
-&= 53424
+742 \times 36          &= 26712 \\\\
+742 \times 36 \times 2 &= 26712 \times 2 \\\\
+742 \times 36 \times 2 &= 53424 \\\\
+742 \times 72          &= 53424
 \end{aligned}
 $
 
@@ -8155,11 +8149,10 @@ $743 \times 36$
 
 $
 \begin{aligned}
-&= 743 \times 36 \\\\
-&= (742 + 1) \times 36 \\\\
-&= 742 \times 36 + 1 \times 36 \\\\
-&= 26712 + 36 \\\\
-&= 26748
+742 \times 36               &= 26712 \\\\
+742 \times 36 + 1 \times 36 &= 26712 + 1 \times 36 \\\\
+(742 + 1) \times 36         &= 26748 \\\\
+743 \times 36               &= 26748
 \end{aligned}
 $
 

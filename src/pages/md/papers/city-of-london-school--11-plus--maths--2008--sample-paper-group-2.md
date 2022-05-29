@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2008-sample-paper-group-2"
 title: "City Of London School - 11 Plus - Maths - 2008 - Sample Paper Group 2"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>City of London School</h1>
@@ -910,7 +910,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>1379DE70-C5AB-45C5-84C7-55AE20A0CA8E</p>
 </div>
@@ -961,7 +961,7 @@ $\pounds 27.5$
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1731,7 +1731,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>79795420-38FD-4AE7-84E8-377DBD4317D4</p>
 </div>
@@ -1774,7 +1774,7 @@ $6$
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2063,7 +2063,7 @@ $112$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
 </div>
@@ -2119,7 +2119,7 @@ $90 \%$
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

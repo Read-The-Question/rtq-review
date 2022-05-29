@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-all"
 title: "Topic - Probability - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2200,7 +2200,7 @@ $\dfrac {7} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>869FD852-D1F1-49AF-B701-45D924CC185A</p>
 </div>
@@ -2260,7 +2260,7 @@ $\dfrac {1} {5}$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -9733,7 +9733,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>5386A862-7004-4EB7-85BF-4DB8111B2763</p>
 </div>
@@ -9790,7 +9790,7 @@ $\text {Getting a head with a fair coin}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

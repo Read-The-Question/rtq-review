@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-np-g1"
 title: "Owner - Nalini Prakash - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1549,6 +1549,130 @@ $210 \text{ minutes}$
 <li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
+<p>5EDF9D93-76BA-4A5B-84AC-A3D799C7B75C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A right angled triangle is shown below. It is not drawn to scale.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the perimeter of the triangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{ Perimeter}   &= 3 + 5.8 + 6 \\\\
+                    &= 14.8 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14.8 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the area of the triangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Area of triangle is given by
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times a \times b
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times 3 \times 5 \\\\
+&= \dfrac {15} {2} \\\\
+&= 7.5 \text { cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.5 \text { cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
 <p>6C7BE121-B86D-4FE7-A747-6364A8DD4633</p>
 </div>
 <div class='topics'>
@@ -1592,6 +1716,302 @@ $2$
 
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>4B7CDE91-4C3F-4F86-89D2-B8D194C48EBA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the reading on the measuring cylinder
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1.3 \ \text{litres}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.3 \text{ litres}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>95A2D77B-0B84-43C2-9DD0-E83FA201C390</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number is $\text{twelve less than eight thousand two hundred and seven}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question
+
+$
+\begin{aligned}
+&= 8207 - 12 \\\\
+&= 8195
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8195$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>271BF307-1253-4B27-8D5E-6FCA57E19326</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the value of:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3 \times 7 + 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 3 \times 7 + 4 \\\\
+&= 21 + 4 \\\\
+&= 25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$12 \div 6 \div 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 12 \div 6 \div 2 \\\\
+&= 2 \div 2 \\\\
+&= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15 - 4 \times 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 15 - 4 \times 2 \\\\
+&= 15 - 8 \\\\
+&= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>B941B131-14CE-4FE8-BB23-B3C009015796</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many edges does a cube have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
@@ -1666,6 +2086,60 @@ $55 \text{ cm}^2$
 <li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
+<p>CE8C7AD4-B1AC-4902-B427-7BDEABBF4680</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In $1970$, $\pounds 1$ was worth the same as $$2.50$.
+How many pounds was $$1000$ worth? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question
+
+$
+\begin{aligned}
+&= 2.50 \times 1000 \\\\
+&= \pounds 2500
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2500$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
 <p>FCB6CEA1-F7E6-4747-8C98-E15D79B8A2AE</p>
 </div>
 <div class='topics'>
@@ -1707,6 +2181,117 @@ $\dfrac {5} {2}$
 
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>7CD755EA-ADD6-4379-9D5F-1416133D1E65</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Give every prime number that goes exactly into both $12$ and $18$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2, 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2, 3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>499E0105-A9AC-4D5F-A034-868FE7487E48</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Natalie buys $3$ small bags of peanuts and pays with a $\pounds 2$ coin. 
+She receives $80 \text{p}$ change. 
+How much does each bag cost? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert the total amount into pence.
+
+$
+\begin{aligned}
+\text{Total amount}  &= \pounds 2 \\\\
+                     &= 2 \times 100\text{p} \\\\
+                     &= 200 \text{p}
+\end{aligned}
+$
+
+Let the cost of each bag $= a$ 
+
+$
+\begin{aligned}
+a     &= \text{Total amount}  - \text{Change received} \\\\
+a     &= 200 - 80 \\\\
+a     &= 120 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$120\text{p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
@@ -2269,6 +2854,59 @@ $10, 11, 9$
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
+<p>B362E6E8-1659-4E09-A91F-F1247FF54602</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The temperature of the items in a freezer is $-18 \degree \text{C}$. A packet of peas is taken out. After half an hour their temperature has risen by $11 \degree \text{C}$. What is their new temperature?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the new temperature $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a - (-18)          &= 11 \\\\
+a                  &= 11 - 18 \\\\
+a                  &= -7\degree \text{C} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-7 \degree \text{C}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-g1"
 title: "Owner - Eshudhi Jangid - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>

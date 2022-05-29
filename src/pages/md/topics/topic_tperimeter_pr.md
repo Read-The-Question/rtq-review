@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-pr"
 title: "Topic - Perimeter - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -232,79 +232,6 @@ $32$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>DB80832F-B004-4CB4-8D70-0678C3B655AC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the perimeter of a square whose area is $36 \ \text{cm}^2$?
-
--  $24 \ \text{cm}$ 
--  $25 \ \text{cm}$ 
--  $30 \ \text{cm}$ 
--  $36 \ \text{cm}$ 
--  $36^2 \ \ text{cm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the side of sqaure $= a$.
-
-Let's first find out the length of a side of the square.
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Area of square}          &= 36 \ \text {cm} ^ 2 \\\\
-a ^ 2                           &= 36 \\\\
-a                               &= \sqrt {36} \\\\
-a                               &= 6 \ \text {cm}
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Perimeter of square}     &= 4 \times a \\\\
-                                &= 4 \times 6 \\\\
-                                &= 24 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>a</p>
-</div>
-<div class='answer'>
-
-$24 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>61C1A420-8257-47F8-8AF9-90E715F64BCC</p>
 </div>
 <div class='topics'>
@@ -454,130 +381,6 @@ $400 \text{ cm}^2$
 </div>
 </div>
 
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>5EDF9D93-76BA-4A5B-84AC-A3D799C7B75C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tperimeter
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A right angled triangle is shown below. It is not drawn to scale.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate the perimeter of the triangle.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{ Perimeter}   &= 3 + 5.8 + 6 \\\\
-                    &= 14.8 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14.8 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate the area of the triangle.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Area of triangle is given by
-
-$
-\begin{aligned}
-&= \dfrac {1} {2} \times a \times b
-\end{aligned}
-$
-
-$
-\begin{aligned}
-&= \dfrac {1} {2} \times 3 \times 5 \\\\
-&= \dfrac {15} {2} \\\\
-&= 7.5 \text { cm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7.5 \text { cm}^2$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
@@ -1395,67 +1198,6 @@ $100 \text{ cm}^2$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>46713943-D59E-4BE3-ADA0-E5CDEE05B15A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tperimeter
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate the perimeter of this shape stating your units very carefully.
-
-![missing image](/papers/missing_image.svg)  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-Let's convert the all lenghts into meters.
-
-$
-\begin {aligned}
-\text {Perimeter of the shape}  &= \text {Sum of all sides} \\\\
-                                &= 80 \ \text {cm} + 1.6 \text {m} + (1.8 \text {m} - 80 \ \text {cm}) + 30 \ \text {cm} + 1.8 \text {m} + (1.6 \text {m} + 30 \ \text {cm}) \\\\
-                                &= \dfrac {80} {100} \text {m} + 1.6 \text {m} + (1.8 \text {m} - \dfrac {80} {100} \text {m}) + \dfrac {30} {100} \text {m} + 1.8 \text {m} + (1.6 \text {m} + \dfrac {30} {100} \text {m}) \\\\
-                                &= 0.80 + 1.6 + (1.8 - 0.80) + 0.30 + 1.8 + (1.6 + 0.30) \\\\
-                                &= 2.40 + 1 + 2.1 + 1.90 \\\\
-                                &= 7.4 \text {m}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7.4 \text{m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -4668,7 +4410,7 @@ $30 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>7F5F775B-7E11-4998-A118-784117B4C479</p>
 </div>
@@ -4760,8 +4502,14 @@ What is the perimeter of the square left empty in the middle?
 <div class='workings'>
 <div class='working'>
 
-Side of square in the middle $= \text{length of rectangle} - \text{width of rectangle}$
-                             $= 7 - 3 = 4 \ \text{cm}$
+$
+\begin{aligned}
+\text {Side of square in the middle}    &= \text {length of rectangle} - \text {width of rectangle} \\\\
+                                        &= 7 - 3  \\\\
+                                        &= 4 \ \text{cm}
+\end{aligned}
+$
+
 Perimeter of the middle square $= 4 \times 4 = 16 \ \text{cm}$
 
 </div>
@@ -4779,68 +4527,6 @@ $16 \ \text{cm}$
 </ul>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>879257AD-7CA0-4670-881E-438490A5C1DC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The dimensions of a rectangle and triangle are given. The diagrams are not drawn accurately.
-
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)
-
-They are joined together to make a new shape. 
-
-![missing image](/papers/missing_image.svg)
-
-What is the perimeter of this new shape? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Perimeter of shape}       &= \text{Perimeter of rectangle} + \text{Perimeter of triangle} - 2 \times \text{base of triangle} \\\\
-                                &= 2 \times (\text{length} + \text{width}) + 3 + 4 + 5 - 2 \times 5 \\\\
-                                &= 2 \times (11 + 6) + 12 - 10 \\\\
-                                &= 2 \times 17 + 12 - 10 \\\\
-                                &= 34 + 12 - 10 \\\\
-                                &= 36 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-pr"
 title: "Topic - Ratio - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -287,60 +287,6 @@ $50 \ \text{days}$
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>CE8C7AD4-B1AC-4902-B427-7BDEABBF4680</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In $1970$, $\pounds 1$ was worth the same as $$2.50$.
-How many pounds was $$1000$ worth? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question
-
-$
-\begin{aligned}
-&= 2.50 \times 1000 \\\\
-&= \pounds 2500
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2500$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
 </div>
 </div>
 </li>

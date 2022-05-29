@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-6"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 6"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -72,7 +72,7 @@ Calculate the total distance travelled if I go from $A$ to $B$ and then to $C$.
 
 $
 \begin{aligned}
-\dfrac{Total distance} &= 4367 + 8694 \\\\
+\text{Total distance}  &= 4367 + 8694 \\\\
                        &= 13061 \ \text{km}
 \end{aligned}
 $
@@ -208,11 +208,11 @@ Subtract three fifths from four sevenths.
 
 $
 \begin{aligned}
-&= \dfrac {3} {5} - \dfrac {4} {7} \\\\
-&= \dfrac {3 \times 7} {5 \times 7} - \dfrac {4 \times 5} {7 \times 5} \\\\
-&= \dfrac {21} {35} - \dfrac {20} {35} \\\\
-&= \dfrac {21 - 20} {35} \\\\
-&= \dfrac {1} {35}
+&= \dfrac {4} {7} - \dfrac {3} {5} \\\\
+&= \dfrac {4 \times 5} {7 \times 5} - \dfrac {3 \times 7} {5 \times 7} \\\\
+&= \dfrac {20} {35} - \dfrac {21} {35} \\\\
+&= \dfrac {20 - 21} {35} \\\\
+&= - \dfrac {1} {35}
 \end{aligned}
 $
 
@@ -221,7 +221,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {35}$
+$- \dfrac {1} {35}$
 
 </div>
 </div>
@@ -248,7 +248,8 @@ $
 &= \dfrac {7} {3} \times \dfrac {10} {7} \\\\
 &= \dfrac {7 \times 10} {3 \times 7} \\\\
 &= \dfrac {\cancel {7} \times 10} {3 \times \cancel {7}} \\\\
-&= \dfrac {10} {3}
+&= \dfrac {10} {3} \\\\
+&= 3 \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -257,7 +258,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {10} {3}$
+$3 \dfrac {1} {3}$
 
 </div>
 </div>

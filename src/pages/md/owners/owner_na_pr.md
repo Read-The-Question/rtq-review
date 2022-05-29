@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-na-pr"
 title: "Owner - Naman Pant - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -706,7 +706,9 @@ $a <60$
 
 Numbers between $40$ and $60$ which are dvisible by $5 = {45, 50, 55}$
 
-Numbers between $40$ and $60$ which are dvisible by $5 = {45, 48, 51, 54, 57}$
+Numbers between $40$ and $60$ which are dvisible by $3 = {45, 48, 51, 54, 57}$
+
+Since 45 is common in both, 
 
 $a = 45$
 
@@ -849,6 +851,464 @@ $\dfrac{91} {3} \ \text {or} \ 30 \dfrac{1} {3}$
 <li>
 <div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
+<p>3A7398BE-72C1-4161-B815-737C8394CF51</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$18 - (9 - 7)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 18 - (9 - 7) \\\\
+&= 18 - 2 \\\\
+&= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(18 - 9) - 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (18 - 9) - 7 \\\\
+&= 9 - 7 \\\\
+&= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(80 \div 20) \div 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (80 \div 20) \div 4 \\\\
+&= \dfrac {80} {20} \times \dfrac {1} {4} \\\\
+&= \dfrac {20 \times 4} {20 \times 4} \\\\
+&= \dfrac {\cancel {20} \times \cancel {4}} {\cancel {20} \times \cancel {4}} \\\\
+&= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$80 \div (20 \div 4)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 80 \div (20 \div 4) \\\\
+&= \dfrac {80} {20} \times 4 \\\\
+&= \dfrac {80 \times 4} {20} \\\\
+&= \dfrac {20 \times 4 \times 4} {20} \\\\
+&= \dfrac {\cancel 20 \times {4} \times 4} {\cancel {20}} \\\\
+&= 4 \times 4 \\\\
+&= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>C89BE88B-D6EA-4F33-A8C3-496597C6989A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Four of these numbers can make two pairs so that each pair adds up to $5871$. Which number is the odd one out?
+
+**A** $1917$
+
+**B** $2743$ 
+
+**C** $3008$ 
+
+**D** $3954$
+
+**E** $2863$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1917 + 3954 = 5871$
+
+$3008 + 2863 = 5871$
+
+Odd one : $2743$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+**B** $2743$ 
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down any **two** prime numbers between $45$ and $60$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Two prime numbers between $45$ and $60 = 47, 53$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47, 53$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>3F019B2C-E891-4AAA-8B78-0E0DF81B8489</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$6764 \div 89 = 76$
+
+Use this result to **$\underline{write \,down}$** the answers to each of the following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$6764 \div 76$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per question, 
+
+$
+\begin{aligned}
+6764 \div 89             &= 76 \\\\
+\dfrac {6764} {89}       &= 76 \\\\
+6764                     &= 76 \times 89 \\\\
+\dfrac {6764} {76}       &= 89 \\\\
+6764 \div 76             &= 89
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$89$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7.6 \div 0.89$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>BCC6F2CB-8539-4FD4-9E74-FEBEFF999875</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find $2000 - 12 + 20 - 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 2000 - 12 + 20 - 12 \\\\
+&= 2000 - 12 + 8 \\\\
+&= 2000 - 4 \\\\
+&= 1996
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1996$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
 <p>EF90B9B4-8BF8-49FC-86B2-6102DFA704A6</p>
 </div>
 <div class='topics'>
@@ -900,6 +1360,60 @@ $504$
 <li>
 <div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
+<p>B475D829-FDEB-40B6-8FA4-023371521EB4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$t \times 0.805 = 8050$
+
+What is the value of $t$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+t \times 0.805      &= 8050 \\\\
+t                   &= \dfrac {8050} {0.805} \\\\
+t                   &= \dfrac {8050 \times 10000} {0.805 \times 10000} \\\\
+t                   &= \dfrac {8050 \times 10000} {8050} \\\\
+t                   &= \dfrac {\cancel {8050} \times 10000} {\cancel {8050}} \\\\
+t                   &= 10000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
 <p>D5EA307D-A637-466A-B45F-001616286B7A</p>
 </div>
 <div class='topics'>
@@ -924,13 +1438,13 @@ Calculate the missing angle in the triangle shown below:
 
 As we know, the sum of angles in a triangle is $180 \degree$. So,
 
-Missing angle $+ 82 + 71 = 180$
+Missing angle $+ \ 82 + 71 = 180$
 
 $
 \begin{aligned}
-\text {Missing angle} &= 180 - 82 - 71 \\\\
-                      &= 180 - 153 \\\\
-                      &= 27 \degree
+&= 180 - 82 - 71 \\\\
+&= 180 - 153 \\\\
+&= 27 \degree
 \end{aligned}
 $
 
@@ -942,6 +1456,800 @@ Missing angle = $27 \degree$
 <div class='answer'>
 
 $27 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>F6128DD4-ECC2-431B-8EF0-CFFB29805A22</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Frank chooses **two different** numbers from the bubble shown below, and divides one number by the other.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the largest number he can get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's arrange the number in descending order,
+
+$
+\begin{aligned}
+8 , \quad   16 , \quad   10 , \quad   12 \\\\
+16 , \quad   12 , \quad   10 , \quad   8
+\end{aligned}
+$
+
+To get the largest number, Frank needs to choose highest number as numerstor and lowest number as denominator.
+
+$
+\begin{aligned}
+&= \dfrac {\text {Highest number}} {\text {Lowest number}} \\\\
+&= \dfrac {16} {8} \\\\
+&= \dfrac {8 \times 2} {8} \\\\
+&= \dfrac {\cancel {8} \times 2} {\cancel {8}} \\\\
+&= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the smallest result?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's arrange the number in ascending order,
+
+$
+\begin{aligned}
+&8 , \quad   16 , \quad   10 , \quad   12 \\\\
+&8 , \quad   10 , \quad   12 , \quad   16
+\end{aligned}
+$
+
+To get the smallest number, Frank needs to choose lowest number as numerator and highest number as denominator.
+
+$
+\begin{aligned}
+&= \dfrac {\text {Lowest number}} {\text {Highest number}} \\\\
+&= \dfrac {8} {16} \\\\
+&= \dfrac {8} {8 \times 2} \\\\
+&= \dfrac {\cancel {8}} {\cancel {8} \times 2} \\\\
+&= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What division gives the result closest to $1$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's arrange the number in ascending order,
+
+$
+\begin{aligned}
+&8 , \quad   16 , \quad   10 , \quad   12 \\\\
+&8 , \quad   10 , \quad   12 , \quad   16
+\end{aligned}
+$
+
+To get a division result closest to 1, Frank needs to pickup adjacent numbers after arrangement.
+
+Let's write all possible cases of fraction for each pick.
+
+$
+\begin{aligned}
+&= \dfrac {8} {10} , \quad   \dfrac {10} {8} , \quad   \dfrac {10} {12} , \quad   \dfrac {12} {10} , \quad   \dfrac {12} {16}, \quad   \dfrac {16} {12} \\\\
+&= \dfrac {8} {10} , \quad   \dfrac {2 \times 5} {2 \times 4} , \quad   \dfrac {2 \times 5} {2 \times 6} , \quad   \dfrac {12} {10} , \quad   \dfrac {4 \times 3} {4 \times 4}, \quad   \dfrac {4 \times 4} {4 \times 3} \\\\
+&= \dfrac {8} {10} , \quad   \dfrac {\cancel {2} \times 5} {\cancel {2} \times 4} , \quad   \dfrac {\cancel {2} \times 5} {\cancel {2} \times 6} , \quad   \dfrac {12} {10} , \quad   \dfrac {\cancel {4} \times 3} {\cancel {4} \times 4}, \quad   \dfrac {\cancel {4} \times 4} {\cancel {4} \times 3} \\\\
+&= \dfrac {8} {10} , \quad   \dfrac {5} {4} , \quad   \dfrac {5} {6} , \quad   \dfrac {12} {10} , \quad   \dfrac {3} {4}, \quad   \dfrac {4} {3} \\\\
+&= 0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33
+\end{aligned}
+$
+
+Let's arrange the decimals in ascending order.
+
+$
+\begin{aligned}
+0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33 \\\\
+0.75 , \quad 0.8 , \quad 0.83 , \quad 1.2 , \quad 1.25 , \quad 1.33
+\end{aligned}
+$
+
+The number that is closest to $1$ = $0.83 = \dfrac {10} {12}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {10} {12}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>B413F8C6-736A-43A8-89EB-3A28FF88A2B5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Frank is making a sequence of numbers. The first number is $1$ and the third is $9$. Frank gets his sequence by multiplying the previous value by the same number each time. Write in the three missing numbers in the sequence shown.
+
+$1$. ___________, $9$, ___________, ___________
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The difference between the terms is $a$. 
+
+As per the question, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(\times a)}}  
+&&  \footnotesize{\maroonC{(\times a)}} 
+&&  \footnotesize{\maroonC{(\times a)}}   
+&&  \footnotesize{\maroonC{(\times a)}} \\
+1,  &&    1 \times a,  &&  9,  &&   9 \times a,  &&   9 \times a \times a \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+1 \times a \times a             &= 9 \\\\
+a^2                             &= 9 \\\\
+a                               &= \sqrt {3} \\\\
+a                               &= 3
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 1 \times a \\\\
+                                &= 1 \times 3 \\\\
+                                &= 3 \\\\
+\text{Second missing number}    &= 9 \times a \\\\
+                                &= 9 \times 3 \\\\ 
+                                &= 27 \\\\
+\text{Second missing number}    &= 9 \times a \times a \\\\
+                                &= 9 \times 3 \times 3 \\\\ 
+                                &= 81
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Missing Numbers : $3 , 27 , 81$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>7F5F775B-7E11-4998-A118-784117B4C479</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a rectangular tile.
+
+
+A pattern is made using $4$ of these tiles.
+
+![missing image](/papers/missing_image.svg)     Not to scale 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of the outer edge of the design?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The outer design has all the sides of equal length. So it is a square.
+
+Side of the outer square $= 7 + 3 = 10 \ \text{cm}$
+
+Perimeter of the outer square $= 4 \times 10 = 40 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of the square left empty in the middle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Side of square in the middle}    &= \text {length of rectangle} - \text {width of rectangle} \\\\
+                                        &= 7 - 3  \\\\
+                                        &= 4 \ \text{cm}
+\end{aligned}
+$
+
+Perimeter of the middle square $= 4 \times 4 = 16 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>6A0EC9AD-0A91-465C-9D77-92C64E1E72BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Frank does the following calculations. Mark his work by putting a tick of a cross in the boxes, to indicate which Frank has correct and which he has wrong.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$22 - 7 \times = 45$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$22 - 7 \times = 45$        $\boxed {\times}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22 - 7 \times = 45$        $\boxed {\times}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$10 \times 2 + 7 \times 7 = 69$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10 \times 2 + 7 \times 7 \\\\
+&= 20 + 49 \\\
+&= 69
+\end{aligned}
+$
+
+$10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$12 + 3 \times 7 - 3 = 30$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 12 + 3 \times 7 - 3 \\\\
+&= 12 + 21 - 3 \\\\
+&= 33 - 3 \\\\
+&= 30
+\end{aligned}
+$
+
+$12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$30 \div 3 + 2 = 6$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 30 \div 3 + 2 \\\\
+&= \dfrac {30}{3} + 2 \\\\
+&= \dfrac {3 \times 10}{3} + 2 \\\\
+&= \dfrac {\cancel {3} \times 10}{\cancel {3}} + 2 \\\\
+&= 10 + 2 \\\\
+&= 12 \ \cancel {=} \ 6
+\end{aligned}
+$
+
+$30 \div 3 + 2 = 6$        $\boxed {\times}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \div 3 + 2 = 6$        $\boxed {\times}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$24 \div 4 - 3 \times 2 = 0$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 24 \div 4 - 3 \times 2 \\\\
+&= \dfrac {24} {4} - 3 \times 2 \\\\
+&= \dfrac {6 \times 4} {4} - 3 \times 2 \\\\
+&= \dfrac {12 \times \cancel {4}} {\cancel {4}} - 3 \times 2 \\\\
+&= 6 - 6 \\\\
+&= 0
+\end{aligned}
+$
+
+$24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>03AD91B5-06E0-4B12-808B-4F0278EC9237</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Granddad spends one quarter of his weekly pension on a Friday night out, and one third of what remains on a Saturday night. What fraction of his weekend pension is left for him to spend during the rest of the week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weekly pension of granddad $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Pension spent on friday}          &= \dfrac {a} {4} \\\\
+\text{Pension spent on saturday}        &= \dfrac{1} {3} \left ( a - \dfrac {a} {4} \right ) \\\\
+                                        &= \dfrac{1} {3} \left ( \dfrac {4a} {4} - \dfrac {a} {4} \right ) \\\\
+                                        &= \dfrac{1} {3} \left ( \dfrac {4a - a} {4} \right ) \\\\
+                                        &= \dfrac{1} {3} \times \dfrac {3a} {4} \\\\
+                                        &= \dfrac{3a} {3 \times 4} \\\\
+                                        &= \dfrac{\cancel 3a} {\cancel 3 \times 4} \\\\
+                                        &= \dfrac{a} {4}                                  
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Pension left}                     &= a - \dfrac {a} {4} - \dfrac {a} {4} \\\\
+                                        &= \dfrac {4a} {4} - \dfrac {a} {4} - \dfrac {a} {4} \\\\
+                                        &= \dfrac {4a - a - a} {4} \\\\
+                                        &= \dfrac {2a} {4} \\\\
+                                        &= \dfrac {2a} {2 \times 2} \\\\
+                                        &= \dfrac {\cancel 2a} {\cancel 2 \times 2} \\\\
+                                        &= \dfrac {a} {2} \\\\
+\text{Fraction of Pension left}         &= \dfrac{\dfrac{a} {2}} {a} \\\\
+                                        &= \dfrac{a} {2 \times a} \\\\
+                                        &= \dfrac{\cancel a} {2 \times \cancel a} \\\\
+                                        &= \dfrac{1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{1} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>57C9979B-2ACE-4BAF-8E7F-AC51C6373882</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpower
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Exactly one of these statements is correct. Which one?
+
+**A** $43^2+ 56^2 = 4981$        
+
+**B** $55^2 + 66^2= 7387$
+
+**C** $77^2+ 22^2 = 6415$   
+
+**D** $44^2+ 63^2 = 5905$   
+
+**E** $34^2 + 51^2 = 3756$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$43^2+ 56^2 = 4981$
+
+$
+\begin{aligned}
+&= 43^2+ 56^2 \\\\
+&= 1849 + 3136 \\\\
+&= 4985 \ \cancel {=} \ 4981
+\end{aligned}
+$
+
+$55^2 + 66^2= 7387$
+
+$
+\begin{aligned}
+&= 55^2 + 66^2 \\\\
+&= 3025 + 4356 \\\\
+&= 7381 \ \cancel {=} \ 7387
+\end{aligned}
+$
+
+$77^2+ 22^2 = 6415$
+
+$
+\begin{aligned}
+&= 77^2+ 22^2 \\\\
+&= 5929 + 484 \\\\
+&= 6413 \ \cancel {=} \ 6415
+\end{aligned}
+$
+
+$44^2+ 63^2 = 5905$
+
+$
+\begin{aligned}
+&= 44^2+ 63^2 \\\\
+&= 1936 + 3969 \\\\
+&= 5905
+\end{aligned}
+$
+
+Statement D is correct.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+D
 
 </div>
 </div>
@@ -2171,313 +3479,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5} {7} , \quad \dfrac {7} {8} , \quad \boxed {\dfrac {8} {9}}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>879257AD-7CA0-4670-881E-438490A5C1DC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The dimensions of a rectangle and triangle are given. The diagrams are not drawn accurately.
-
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)
-
-They are joined together to make a new shape. 
-
-![missing image](/papers/missing_image.svg)
-
-What is the perimeter of this new shape? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Perimeter of shape}       &= \text{Perimeter of rectangle} + \text{Perimeter of triangle} - 2 \times \text{base of triangle} \\\\
-                                &= 2 \times (\text{length} + \text{width}) + 3 + 4 + 5 - 2 \times 5 \\\\
-                                &= 2 \times (11 + 6) + 12 - 10 \\\\
-                                &= 2 \times 17 + 12 - 10 \\\\
-                                &= 34 + 12 - 10 \\\\
-                                &= 36 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$\frac {1} {6}$ of this box of chocolates are white chocolate. If there are $30$ chocolates in the box, 
-
-![missing image](/papers/missing_image.svg)
-
-how many are white chocolate?   
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Total number of chocolates in the box $= 30$
-
-$
-\begin{aligned}
-\text {Number of white chocolates}  &= \dfrac {1} {6} \times 30 \\\\
-                                    &= \dfrac {30} {6} \\\\
-                                    &= \dfrac {6 \times 5} {6} \\\\
-                                    &= \dfrac {\cancel {6} \times 5} {\cancel {6}} \\\\
-                                    &= 5
-\end{aligned}
-$
-
-Number of white chocolates $= 5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In the same box $10$ are milk chocolates.
-
-What fraction, of all the chocolates, are milk chocolate?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Number of milk chocolates $= 10$
-
-Fraction of milk chocolates $= \dfrac {10} {30}$
-
-$
-\begin{aligned}
-&= \dfrac {1 \cancel {0}} {3 \cancel {0}} \\\\
-&= \dfrac {1} {3}
-\end{aligned}
-$
-
-Fraction of milk chocolates $= \dfrac {1} {3}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {3}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>225FE540-8613-4C8B-B119-CC67CEA85C4B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-A path of width $1.5\, m$ is built around the outside of a pond. The dimensions of the path are shown.
-
-What is the area of the pond?
-
-Make sure you state the units.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Length of the pond}  &= 11 - 2 \times 1.5 \\\\
-                            &= 11 - 3 \\\\
-                            &= 8 \ \text{m}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Width of the pond}   &= 8 - 2 \times 1.5 \\\\
-                            &= 8 - 3 \\\\
-                            &= 5 \ \text{m}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Area of the pond}     &= \text{length} \times \text{width} \\\\
-                            &= 8 \times 5 \\\\
-                            &= 40 \ \text{cm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \ \text{cm}^2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-It costs $\pounds 400$ to carpet a room measuring $2\, metres$ by $3\, metres$. How much would it costto carpet another room measuring $4\, metres$ by $6\, metres$ with the same carpet? 
-
-![missing image](/papers/missing_image.svg)                                                     
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question, 
-
-Cost to carpet a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $\pounds 400$
-
-Area of a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $2 \times 3 = 6 \text{m}^2$
-
-Cost to carpet a room measuring $1\, \text {metres}$ by $1\, \text {metres}$ = $\dfrac{400} {6}$
-
-Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\dfrac{400} {6} \times 4 \times 6$
-
-$
-\begin{aligned}
-&= \dfrac{400} {\cancel {6}} \times 4 \times \cancel {6} \\\\\
-&= 400 \times 4 \\\\
-&= \pounds 1600
-\end{aligned}
-$
-
-Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\pounds 1600$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1600$
+$\dfrac {8} {9}$
 
 </div>
 </div>
@@ -4888,8 +5890,12 @@ $
 
 Let's put them in ascending order now.
 
-$&= 0.08 , \quad 0.09 , \quad 0.75 , \quad 0.8 , \quad 0.802 , \quad 0.82$
-$8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
+$
+\begin{aligned}
+&= 0.08 , \quad 0.09 , \quad 0.75 , \quad 0.8 , \quad 0.802 , \quad 0.82 \\\\
+&= 8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82
+\end{aligned}
+$
 
 </div>
 </div>

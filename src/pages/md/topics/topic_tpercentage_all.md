@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-all"
 title: "Topic - Percentage - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1948,7 +1948,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {N0. of veg. sandwiches sold}     &= 45 \% \ \text {of} \ \text {total sandwiches} \\\\
+\text {No. of veg. sandwiches sold}     &= 45 \% \ \text {of} \ \text {total sandwiches} \\\\
                                         &= \dfrac {45} {100} \times 40 \\\\
                                         &= \dfrac {45 \times 40} {100} \\\\
                                         &= \dfrac {9 \times 5 \times 20 \times 2} {20 \times 5} \\\\
@@ -2192,7 +2192,7 @@ $92$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
 </div>
@@ -2248,7 +2248,7 @@ $90 \%$
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -6217,7 +6217,8 @@ $
                   &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
                   &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
                   &= \dfrac {3} {5} \\\\
-                  &= 0.6 \%
+                  &= 0.6 \times 100 \\\\
+                  &= 60 \%
 \end{aligned}
 $
 
@@ -6226,7 +6227,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.6 \%$
+$60 \%$
 
 </div>
 </div>

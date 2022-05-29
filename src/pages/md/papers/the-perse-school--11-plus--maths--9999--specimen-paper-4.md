@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-4"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 4"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -475,7 +475,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3A7398BE-72C1-4161-B815-737C8394CF51</p>
 </div>
@@ -525,7 +525,7 @@ $18 - (9 - 7)$
 
 $
 \begin{aligned}
-&= 18-(9 - 7) \\\\
+&= 18 - (9 - 7) \\\\
 &= 18 - 2 \\\\
 &= 16
 \end{aligned}
@@ -594,9 +594,9 @@ $(80 \div 20) \div 4$
 $
 \begin{aligned}
 &= (80 \div 20) \div 4 \\\\
-&= \dfrac{80} {20} \times dfrac{1} {4} \\\\
-&= \dfrac{20 \times 4} {20 \times 4} \\\\
-&= \dfrac{\cancel {20} \times \cancel {4}} {\cancel {20} \times \cancel {4}} \\\\
+&= \dfrac {80} {20} \times \dfrac {1} {4} \\\\
+&= \dfrac {20 \times 4} {20 \times 4} \\\\
+&= \dfrac {\cancel {20} \times \cancel {4}} {\cancel {20} \times \cancel {4}} \\\\
 &= 1
 \end{aligned}
 $
@@ -630,10 +630,11 @@ $80 \div (20 \div 4)$
 $
 \begin{aligned}
 &= 80 \div (20 \div 4) \\\\
-&= \dfrac{80} {20} \times 4 \\\\
-&= \dfrac{80 \times 4} {20} \\\\
-&= \dfrac{16 \times 5 \times 4} {5 \times 4} \\\\
-&= \dfrac{16 \times \cancel {5} \times \cancel {4}} {\cancel {5} \times \cancel {4}} \\\\
+&= \dfrac {80} {20} \times 4 \\\\
+&= \dfrac {80 \times 4} {20} \\\\
+&= \dfrac {20 \times 4 \times 4} {20} \\\\
+&= \dfrac {\cancel 20 \times {4} \times 4} {\cancel {20}} \\\\
+&= 4 \times 4 \\\\
 &= 16
 \end{aligned}
 $
@@ -655,7 +656,7 @@ $16$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -960,7 +961,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>C89BE88B-D6EA-4F33-A8C3-496597C6989A</p>
 </div>
@@ -992,7 +993,7 @@ Four of these numbers can make two pairs so that each pair adds up to $5871$. Wh
 <div class='workings'>
 <div class='working'>
 
-$1917 + 2863 = 5871$
+$1917 + 3954 = 5871$
 
 $3008 + 2863 = 5871$
 
@@ -1012,12 +1013,12 @@ Odd one : $2743$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD</p>
 </div>
@@ -1029,6 +1030,9 @@ tunassigned
 <li>
 tnumber
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -1039,14 +1043,14 @@ Write down any **two** prime numbers between $45$ and $60$.
 <div class='workings'>
 <div class='working'>
 
-Prime numbers between $45$ and $60$ = $47, 53, 59$
+Two prime numbers between $45$ and $60 = 47, 53$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$47, 53, 59$
+$47, 53$
 
 </div>
 </div>
@@ -1055,7 +1059,7 @@ $47, 53, 59$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1387,7 +1391,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3F019B2C-E891-4AAA-8B78-0E0DF81B8489</p>
 </div>
@@ -1441,11 +1445,11 @@ As per question,
 
 $
 \begin{aligned}
-6764 \div 89            &= 76 \\\\
-\dfrac{6764} {89}       &= 76 \\\\
-6764                    &= 76 \times 89 \\\\
-\dfrac {6764} {76}      &= 89 \\\\
-6764 \div 76            &= 89
+6764 \div 89             &= 76 \\\\
+\dfrac {6764} {89}       &= 76 \\\\
+6764                     &= 76 \times 89 \\\\
+\dfrac {6764} {76}       &= 89 \\\\
+6764 \div 76             &= 89
 \end{aligned}
 $
 
@@ -1475,12 +1479,7 @@ $7.6 \div 0.89$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -1504,7 +1503,7 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

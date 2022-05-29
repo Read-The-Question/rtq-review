@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttable-all"
 title: "Topic - Table - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14743,14 +14743,14 @@ from London Euston to Birmingham International?
 <div class='workings'>
 <div class='working'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
@@ -14771,14 +14771,14 @@ from London Euston Station to Glasgow?
 <div class='workings'>
 <div class='working'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>

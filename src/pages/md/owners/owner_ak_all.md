@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-all"
 title: "Owner - Abhay Kandpal - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4086,7 +4086,7 @@ $3.55, \quad 5.35, \quad 5.53, \quad 35.5, \quad 53.5, \quad 55.3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>DB80832F-B004-4CB4-8D70-0678C3B655AC</p>
 </div>
@@ -4154,7 +4154,7 @@ $24 \ \text{cm}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -4569,7 +4569,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {N0. of veg. sandwiches sold}     &= 45 \% \ \text {of} \ \text {total sandwiches} \\\\
+\text {No. of veg. sandwiches sold}     &= 45 \% \ \text {of} \ \text {total sandwiches} \\\\
                                         &= \dfrac {45} {100} \times 40 \\\\
                                         &= \dfrac {45 \times 40} {100} \\\\
                                         &= \dfrac {9 \times 5 \times 20 \times 2} {20 \times 5} \\\\
@@ -5099,9 +5099,11 @@ $
 <div class='answer'>
 
 $
-\text {Gill}   = 18 \ \text {years} \\
-\text {Guy}    = 27 \ \text {years} \\
-\text {Gerald} = 54 \ \text {years}
+\begin {aligned}
+\text {Gill}   &= 18 \ \text {years} \\\\
+\text {Guy}    &= 27 \ \text {years} \\\\
+\text {Gerald} &= 54 \ \text {years}
+\end {aligned}
 $
 
 </div>
@@ -6265,7 +6267,7 @@ $\text {Bruno}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>559166DC-6DDF-4875-BF83-BA488BB42DFA</p>
 </div>
@@ -6317,12 +6319,12 @@ $\pounds 18.07$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>1DD19E4B-1DD0-4211-AE00-61C2A0DBD9FE</p>
 </div>
@@ -6381,7 +6383,7 @@ $\pounds 168$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -8215,7 +8217,7 @@ $108 \ \text {cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
 </div>
@@ -8291,12 +8293,12 @@ $48$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>46713943-D59E-4BE3-ADA0-E5CDEE05B15A</p>
 </div>
@@ -8352,7 +8354,7 @@ $7.4 \text{m}$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -11830,7 +11832,7 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>29DE4114-CF16-4830-A1D8-498E9062A293</p>
 </div>
@@ -11977,7 +11979,7 @@ $\dfrac {89} {99}$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -12159,7 +12161,7 @@ $29, 58$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>0EA47D0F-679F-42A3-9831-5C25EB7FCE66</p>
 </div>
@@ -12211,7 +12213,7 @@ $((4 \times 4) + 4) \div 4 = 5$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

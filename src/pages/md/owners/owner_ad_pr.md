@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-pr"
 title: "Owner - Arun Dalakoti - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -84,14 +84,14 @@ $4.5$
 <div class='workings'>
 <div class='working'>
 
-$8.0$
+$8.3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8.0$
+$8.3$
 
 </div>
 </div>
@@ -3183,16 +3183,17 @@ A ball of string is $2\ \text{metres}$ long. Pieces of length $30\ \text{cm}$ ar
 $
 \begin{aligned}
 \text{Number of pieces} &= \dfrac {\text{Length of string}} {\text{Length of a piece}} \\\\
+                        &= \dfrac {2 \ \text{metres}} {30  \ \text{cm}} \\\\
                         &= \dfrac {2 \times 100 \ \text{cm}} {30 \ \text{cm}} \\\\
                         &= \dfrac {2 \times 10 \cancel {0}} {3 \cancel {0}} \\\\
                         &= \dfrac {20} {3} \\\\
-                        &= 6.666 \ \text{cm}
+                        &= 6 \dfrac {2} {3} \text{cm}
 \end{aligned}
 $
 
 Number of pieces $= 6$
 
-Remaining length $= 0.66 \ \text{cm}$
+Remaining length $= \dfrac{2} {3} \ \text{cm}$
 
 </div>
 </div>
@@ -4893,14 +4894,14 @@ $12$ to the $1$
 <div class='workings'>
 <div class='working'>
 
-$360 \degree$
+$30 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$360 \degree$
+$30 \degree$
 
 </div>
 </div>
@@ -4923,8 +4924,8 @@ $3$ to the $7$
 
 $
 \begin{aligned}
-\text{From 3 to 7} &= 4 \times 360
-                   &= 1440 \degree
+\text{From 3 to 7} &= 4 \times 30 \\\\
+                   &= 120 \degree
 \end{aligned}
 $
 
@@ -4933,7 +4934,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1440 \degree$
+$120 \degree$
 
 </div>
 </div>
@@ -5237,9 +5238,9 @@ how many would there be after $6$ weeks?
 
 $
 \begin{aligned}
-\text{Inserts after six weeks} &= 2 \times 6 \times 100 \\\\
-                               &= 12 \times 100 \\\\
-                               &= 1200
+\text{Inserts after six weeks} &= 2 ^ 6 \times 100 \\\\
+                               &= 64 \times 100 \\\\
+                               &= 6400
 \end{aligned}
 $
 
@@ -5248,7 +5249,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1200$
+$6400$
 
 </div>
 </div>
@@ -5277,7 +5278,7 @@ $
 \begin{aligned}
 2 ^ n \times 100 &= 100000 \\\\
 2 ^ n            &= \dfrac {100000} {100} \\\\
-2 ^ n            &= \dfrac {1000 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+2 ^ n            &= \dfrac {1000 \cancel{00}} {1 \cancel{00}} \\\\
 2 ^ n            &= 1000
 \end{aligned}
 $
@@ -5489,7 +5490,7 @@ $
 \begin{aligned}
 \text{Temperature at 1500 hrs} &= 3 + 3 \times 1.5 \\\\
                                &= 3 + 4.5 \\\\
-                               &= 7.5 \degree
+                               &= 7.5 \degree C
 \end{aligned}
 $
 
@@ -5498,7 +5499,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7.5 \degree$
+$7.5 \degree C$
 
 </div>
 </div>
@@ -5527,7 +5528,7 @@ $
 \text{Temperature by 0400 hrs} &= 7.5 + 3 \times 1.5 + 10 \times - 3 \\\\
                                &= 7.5 + 4.5 - 30 \\\\
                                &= 12 - 30 \\\\
-                               &= - 18 \degree
+                               &= - 18 \degree C
 \end{aligned}
 $
 
@@ -5536,7 +5537,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 18 \degree$
+$- 18 \degree C$
 
 </div>
 </div>
@@ -6138,24 +6139,12 @@ How many $3 \ \text{cm}$ cubes can be made by cutting up a block $12 \ \text{cm}
 
 $
 \begin{aligned}
-\text{Area of cuboid} &= 2 \times 12 \times 24 + 2 \times 24 \times 18 + 2 \times 18 \times 12 \\\\
-                      &= 576 + 864 + 432 \\\\
-                      &= 1872
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Area of cube}   &= 6 \times 3 \times 3 \\\\
-                      &= 54
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of cubes} &= \dfrac {1872} {54} \\\\
-                       &= 34.66 \\\\
-                       &= 34
+\text{Number of cubes} &= \dfrac {\text{Volume of cuboid}} {\text{Volume of cube}} \\\\
+                       &= \dfrac {12 \times 24 \times 18} {3 \times 3} \\\\
+                       &= \dfrac {3 \times 4 \times 3 \times 8 \times 18} {3 \times 3} \\\\
+                       &= \dfrac {\cancel {3} \times 4 \times \cancel {3} \times 8 \times 18} {\cancel {3} \times \cancel {3}} \\\\
+                       &= 4 \times 8 \times 18 \\\\
+                       &= 576
 \end{aligned}
 $
 
@@ -6164,7 +6153,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$34$
+$576$
 
 </div>
 </div>
@@ -6369,8 +6358,8 @@ Anna has $3$ brothers and $5$ sisters. Her brother Tom has $S$ sisters and $B$ b
 
 $
 \begin{aligned}
-\text{S} \times \text{B} &= 6 \times 2 \\\\
-                         &= 12
+S \times B &= 6 \times 2 \\\\
+           &= 12
 \end{aligned}
 $
 
@@ -6427,7 +6416,8 @@ $
                   &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
                   &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
                   &= \dfrac {3} {5} \\\\
-                  &= 0.6 \%
+                  &= 0.6 \times 100 \\\\
+                  &= 60 \%
 \end{aligned}
 $
 
@@ -6436,7 +6426,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.6 \%$
+$60 \%$
 
 </div>
 </div>
@@ -7276,10 +7266,10 @@ The difference between the terms is $+6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&&  \footnotesize{\maroonC { (+6)} }  
-&   \footnotesize{\maroonC { (+6)} } 
 &&  \footnotesize{\maroonC { (+6)} }
-&&  \footnotesize{\maroonC { (+6)} }  
+&   \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }
 &&  \footnotesize{\maroonC { (+6)} } \\
 4,  &&    10,  &&  16,  &&   22,  &&  \ldots,  &&  \ldots
 \end{matrix}
@@ -7338,7 +7328,7 @@ $
 \text{First Missing number}     &= 27 \times 3 \\\\
                                 &= 81 \\\\
 \text{Second Missing number}    &= 81 \times 3 \\\\
-                                &= 243                     
+                                &= 243
 \end{aligned}
 $
 
@@ -7387,7 +7377,7 @@ $
 \text{First Missing number}     &= - 3 - 5 \\\\
                                 &= - 8 \\\\
 \text{Second Missing number}    &= - 8 - 5 \\\\
-                                &= - 13                      
+                                &= - 13
 \end{aligned}
 $
 
@@ -7437,7 +7427,7 @@ $
 \text{First Missing number}     &= 8 + 5 \\\\
                                 &= 13 \\\\
 \text{Second Missing number}    &= 13 + 8 \\\\
-                                &= 21                      
+                                &= 21
 \end{aligned}
 $
 
@@ -7513,11 +7503,9 @@ $220 \times 46$
 
 $
 \begin{aligned}
-&= 220 \times 46 \\\\
-&= 22 \times 10 \times 46 \\\\
-&= 22 \times 46 \times 10 \\\\
-&= 1012 \times 10 \\\\
-&= 10120
+22 \times 46           &= 1012 \\\\
+22 \times 10 \times 46 &= 1012 \times 10 \\\\
+220 \times 46          &= 10120
 \end{aligned}
 $
 
@@ -7549,11 +7537,9 @@ $2.2  \times 0.46$
 
 $
 \begin{aligned}
-&= 2.2  \times 0.46 \\\\
-&= \dfrac {22} {10} \times \dfrac {46} {100} \\\\
-&= \dfrac {22 \times 46} {1000} \\\\
-&= \dfrac {1012} {1000} \\\\
-&= 1.012
+22 \times 46                              &= 1012 \\\\
+\dfrac {22} {10} \times \dfrac {46} {100} &= \dfrac {1012} {1000} \\\\
+2.2 \times 4.6                            &= 1.012
 \end{aligned}
 $
 
@@ -7585,13 +7571,9 @@ $22{,}000{,}000  \times  0.046$
 
 $
 \begin{aligned}
-&= 22000000 \times 0.046 \\\\
-&= 22 \times 1000000 \times \dfrac {46} {1000} \\\\
-&= \dfrac {22 \times 46 \times 1000000} {1000} \\\\
-&= \dfrac {1012 \times 1000000} {1000} \\\\
-&= \dfrac {1012 \times 1000 \cancel {000}} {1 \cancel {000}} \\\\
-&= 1012 \times 1000 \\\\
-&= 1012000
+22 \times 46                         &= 1012 \\\\
+22 \times 1000000 \times {46} {1000} &= 1012 \times 1000 \\\\
+22000000 \times 0.046                &= 1012000
 \end{aligned}
 $
 
@@ -7615,7 +7597,7 @@ $1012000$
 </div>
 <div class='question subquestion'>
 
-$101{,}200  \times  4.6$ 
+$101{,}200  \div  4.6$ 
 
 </div>
 <div class='workings'>
@@ -7623,16 +7605,13 @@ $101{,}200  \times  4.6$
 
 $
 \begin{aligned}
-22 \times 46                                  &= 1012 \\\\
-22                                            &= \dfrac {1012} {46} \\\\
-\dfrac {1012} {46}                            &= 22 \\\\
-\dfrac {\dfrac{1012} {10}} {\dfrac {46} {10}} &= 22 \\\\
-\dfrac {101.2} {4.6}                          &= 22 \\\\
-\dfrac {101.2 \times 1000} {4.6 \times 1000}  &= 22 \\\\
-\dfrac {101200} {4.6}                         &= 22 \times 1000 \\\\
-\dfrac {101200} {4.6}                         &= 22000 \\\\
-101200 \div 4.6                               &= 22000
-\end{aligned}
+22 \times 46               &= 1012 \\\\
+22 \times \dfrac {46} {10} &= \dfrac {1012} {10} \\\\
+22 \times 4.6              &= 101.2 \\\\
+22 \times 1000 \times 4.6  &= 101.2 \times 1000 \\\\
+101.2 \times 1000          &= 22 \times 1000 \times 4.6 \\\\
+\dfrac {101200} {4.6}      &= 22000 \\\\
+101200 \div 4.6            &= 22000
 $
 
 </div>
@@ -7663,12 +7642,11 @@ $44  \times 23$
 
 $
 \begin{aligned}
-&= 44 \times 23 \\\\
-&= 22 \times 2 \times \dfrac {23 \times 2} {2} \\\\
-&= 22 \times 2 \times \dfrac {46} {2} \\\\
-&= \dfrac {22 \times 46 \times 2} {2} \\\\
-&= \dfrac {1012 \times \cancel {2}} {\cancel {2}} \\\\
-&= 1012
+22 \times 46                                           &= 1012 \\\\
+22 \times 2 \times \dfrac {46} {2}                     &= 1012 \\\\
+44 \times \dfrac {23 \times 2} {2}                     &= 1012 \\\\
+44 \times \dfrac {23 \times \cancel {2}} {\cancel {2}} &= 1012 \\\\
+44 \times 23                                           &= 1012
 \end{aligned}
 $
 
@@ -7825,7 +7803,7 @@ $
 \begin{aligned}
 8.4 \div a &= 21 \\\\
 a          &= 21 \times 8.4 \\\\
-a          &= 170.1
+a          &= 176.4
 \end{aligned}
 $
 
@@ -7834,7 +7812,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$170.1$
+$176.4$
 
 </div>
 </div>
@@ -8662,7 +8640,7 @@ Calculate the total distance travelled if I go from $A$ to $B$ and then to $C$.
 
 $
 \begin{aligned}
-\dfrac{Total distance} &= 4367 + 8694 \\\\
+\text{Total distance}  &= 4367 + 8694 \\\\
                        &= 13061 \ \text{km}
 \end{aligned}
 $
@@ -8798,11 +8776,11 @@ Subtract three fifths from four sevenths.
 
 $
 \begin{aligned}
-&= \dfrac {3} {5} - \dfrac {4} {7} \\\\
-&= \dfrac {3 \times 7} {5 \times 7} - \dfrac {4 \times 5} {7 \times 5} \\\\
-&= \dfrac {21} {35} - \dfrac {20} {35} \\\\
-&= \dfrac {21 - 20} {35} \\\\
-&= \dfrac {1} {35}
+&= \dfrac {4} {7} - \dfrac {3} {5} \\\\
+&= \dfrac {4 \times 5} {7 \times 5} - \dfrac {3 \times 7} {5 \times 7} \\\\
+&= \dfrac {20} {35} - \dfrac {21} {35} \\\\
+&= \dfrac {20 - 21} {35} \\\\
+&= - \dfrac {1} {35}
 \end{aligned}
 $
 
@@ -8811,7 +8789,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {35}$
+$- \dfrac {1} {35}$
 
 </div>
 </div>
@@ -8838,7 +8816,8 @@ $
 &= \dfrac {7} {3} \times \dfrac {10} {7} \\\\
 &= \dfrac {7 \times 10} {3 \times 7} \\\\
 &= \dfrac {\cancel {7} \times 10} {3 \times \cancel {7}} \\\\
-&= \dfrac {10} {3}
+&= \dfrac {10} {3} \\\\
+&= 3 \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -8847,7 +8826,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {10} {3}$
+$3 \dfrac {1} {3}$
 
 </div>
 </div>
@@ -9055,13 +9034,14 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {3 a} {10} - \dfrac {90 a} {500}                      &= 1.95 \\\\
-\dfrac {3 a \times 50} {10 \times 50} - \dfrac {90 a} {500}  &= 1.95 \\\\
-\dfrac {150 a} {500} - \dfrac {90 a} {500}                   &= 1.95 \\\\
-\dfrac {150 a - 90a} {500}                                   &= 1.95 \\\\
-\dfrac {60 a} {500}                                          &= 1.95 \\\\
+\dfrac {90 a} {500} - \dfrac {3 a} {10}                      &= 1.95 \\\\
+\dfrac {90 a} {500} - \dfrac {3 a \times 50} {10 \times 50}  &= 1.95 \\\\
+\dfrac {90 a} {500} - \dfrac {150 a} {500}                   &= 1.95 \\\\
+\dfrac {90 a - 150 a} {500}                                  &= 1.95 \\\\
+-\dfrac {60 a} {500}                                         &= 1.95 \\\\
 a                                                            &= \dfrac {1.95 \times 500} {60} \\\\
-a                                                            &= \dfrac {975} {60} \\\\
+a                                                            &= \dfrac {1.95 \times 50 \cancel {0}} {6 \cancel {0}}
+a                                                            &= \dfrac {1.95 \times 50} {6} \\\\
 a                                                            &= 16.25
 \end{aligned}
 $
@@ -9560,14 +9540,14 @@ $
 3x - \dfrac {x} {4}                                 &= \dfrac {1} {2} + 9 \\\\
 \dfrac {3x \times 4} {1 \times 4} - \dfrac {x} {4}  &= \dfrac {1} {2} + \dfrac {9 \times 2} {1 \times 2} \\\\
 \dfrac {12x} {4} - \dfrac {x} {4}                   &= \dfrac {1} {2} + \dfrac {18} {2} \\\\
-\dfrac {12x + x} {4}                                &= \dfrac {1 + 18} {2} \\\\
-\dfrac {13x} {4}                                    &= \dfrac {19} {2} \\\\
-x                                                   &= \dfrac {19 \times 4} {2 \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2} {13} \\\\
-x                                                   &= \dfrac {38} {13} \\\\
-x                                                   &= 2 \ \dfrac {12} {13}
+\dfrac {12x - x} {4}                                &= \dfrac {1 + 18} {2} \\\\
+\dfrac {11 x} {4}                                   &= \dfrac {19} {2} \\\\
+x                                                   &= \dfrac {19 \times 4} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2} {11} \\\\
+x                                                   &= \dfrac {38} {11} \\\\
+x                                                   &= 3 \dfrac {5} {11}
 \end{aligned}
 $
 
@@ -9576,7 +9556,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \ \dfrac {12} {13}$
+$3 \dfrac {5} {11}$
 
 </div>
 </div>
@@ -10382,7 +10362,7 @@ Dita watches the television for $2 \text{ hours } 45 \text{ minutes}$ each weeke
 $
 \begin{aligned}
 \text{Time spent over three weekends} &= 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} \\\\
-                                      &= 8 \ \text{hours} \ 25 \ \text{minutes}
+                                      &= 8 \ \text{hours} \ 15 \ \text{minutes}
 \end{aligned}
 $
 
@@ -10391,7 +10371,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8 \ \text{hours} \ 25 \ \text{minutes}$
+$8 \ \text{hours} \ 15 \ \text{minutes}$
 
 </div>
 </div>
@@ -10541,11 +10521,9 @@ $150 \times 340$
 
 $
 \begin{aligned}
-&= 150 \times 340 \\\\
-&= 15 \times 10 \times 34 \times 10 \\\\
-&= 15 \times 34 \times 10 \times 10 \\\\
-&= 510 \times 100 \\\\
-&= 51000
+15 \times 34                     &= 510 \\\\
+15 \times 10 \times 34 \times 10 &= 510 \times 100 \\\\
+150 \times 340                   &= 51000
 \end{aligned}
 $
 
@@ -10577,13 +10555,12 @@ $15 \times 17$
 
 $
 \begin{aligned}
-&= 15 \times 17 \\\\
-&= \dfrac {15 \times 17 \times 2} {2} \\\\
-&= \dfrac {15 \times 34} {2} \\\\
-&= \dfrac {510} {2} \\\\
-&= \dfrac {255 \times 2} {2} \\\\
-&= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
-&= 255
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 17          &= \dfrac {510} {2} \\\\
+15 \times 17          &= \dfrac {255 \times 2} {2} \\\\
+15 \times 17          &= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
+15 \times 17          &= 255
 \end{aligned}
 $
 
@@ -10615,13 +10592,12 @@ $510 + 17$
 
 $
 \begin{aligned}
-&= 510 \div 17 \\\\
-&= \dfrac {510} {17} \\\\
-&= \dfrac {15 \times 34} {17} \\\\
-&= \dfrac {15 \times 17 \times 2} {17} \\\\
-&= \dfrac {15 \times \cancel {17} \times 2} {\cancel {17}} \\\\
-&= 15 \times 2 \\\\
-&= 30
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 2           &= \dfrac {510} {17} \\\\
+\dfrac {510} {17}     &= 15 \times 2 \\\\
+\dfrac {510} {17}     &= 30 \\\\
+510 \div 17           &= 30 \\\\
 \end{aligned}
 $
 
@@ -10982,7 +10958,7 @@ $
     &   4   &   8   &   4 \\
 {}+ &   3   &   6   &   5 \\
 \hline
-    &   8   &   4   &   9
+    &   8   &   4   &   9 \\
 \hline
 \end{array}
 $
@@ -11061,11 +11037,11 @@ The difference between the terms is $+9$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+6)} } 
-&&  \footnotesize {\maroonC {(+6)} }  
-&&  \footnotesize {\maroonC {(+6)} }   
-&&  \footnotesize {\maroonC {(+6)} }   
-&&  \footnotesize {\maroonC {(+6)} } \\
+&   \footnotesize {\maroonC {(+9)} } 
+&&  \footnotesize {\maroonC {(+9)} }  
+&&  \footnotesize {\maroonC {(+9)} }   
+&&  \footnotesize {\maroonC {(+9)} }   
+&&  \footnotesize {\maroonC {(+9)} } \\
 15,  &&  24,  &&  33,  &&  42,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -11304,10 +11280,10 @@ $
 
 $
 \begin{aligned}
-\text {Number of marbles for} \ \pounds 24 &= \dfrac {24} {1.5} \\\\
-                                         &= \dfrac {16 \times 1.5} {1.5} \\\\
-                                         &= \dfrac {16 \times \cancel {1.5}} {\cancel {1.5}} \\\\
-                                         &= 16
+\text {Number of marbles} &= \dfrac {24} {1.5} \\\\
+                          &= \dfrac {16 \times 1.5} {1.5} \\\\
+                          &= \dfrac {16 \times \cancel {1.5}} {\cancel {1.5}} \\\\
+                          &= 16
 \end{aligned}
 $
 
@@ -11384,14 +11360,14 @@ $5 \ \boxed{ \phantom{+} } \ 3 =  12 \ \boxed{ \phantom{+} } \   4$
 <div class='workings'>
 <div class='working'>
 
-$+, \ -$
+$5 + 3 = 12 - 4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$+, \ -$
+$5 + 3 = 12 - 4$
 
 </div>
 </div>
@@ -11412,14 +11388,14 @@ $2 \ \boxed{ \phantom{+} } \  3 =  12  \ \boxed{ \phantom{+} } \   2$
 <div class='workings'>
 <div class='working'>
 
-$\times, \ \div$
+$2 \times 3 = 12 \div 2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\times, \ \div$
+$2 \times 3 = 12 \div 2$
 
 </div>
 </div>
@@ -11440,14 +11416,14 @@ $5 \ \boxed{ \phantom{+} } \  5 = 4  \ \boxed{ \phantom{+} } \ 4$
 <div class='workings'>
 <div class='working'>
 
-$-, \ -$
+$5 - 5 = 4 - 4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-, \ -$
+$5 - 5 = 4 - 4$
 
 </div>
 </div>
@@ -11501,7 +11477,7 @@ $
 
 $
 \begin{aligned}
-\text {Area of 5 square}   &= 5 \times \text{Area of one square} \\\\
+\text {Area of rectangle}  &= 5 \times \text{Area of one square} \\\\
                            &= 5 \times 2 \times 2 \\\\
                            &= 5 \times 4 \\\\
                            &= 20 \ \text{cm} ^ 2
@@ -11563,14 +11539,14 @@ Write your answers from smallest to biggest.
 <div class='workings'>
 <div class='working'>
 
-$3124, \ 3214, \ 3412$
+$3124, \ 3214, \ 3412, \ 3142$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3124, \ 3214, \ 3412$
+$3124, \ 3214, \ 3412, \ 3142$
 
 </div>
 </div>
@@ -11696,10 +11672,9 @@ $742 \times 360$ =
 
 $
 \begin{aligned}
-&= 742 \times 360 \\\\
-&= 742 \times 36 \times 10 \\\\
-&= 26712 \times 10 \\\\
-&= 267120
+742 \times 36           &= 26712 \\\\
+742 \times 36 \times 10 &= 26712 \times 10 \\\\
+742 \times 360          &= 267120
 \end{aligned}
 $
 
@@ -11731,11 +11706,10 @@ $26712 \div 36$
 
 $
 \begin{aligned}
-&= 26712 \div 36 \\\\
-&= \dfrac {26712} {36} \\\\
-&= \dfrac {742 \times 36} {36} \\\\
-&= \dfrac {742 \times \cancel {36}} {\cancel {36}} \\\\
-&= 742
+742 \times 36           &= 26712 \\\\
+742                     &= \dfrac {26712} {36} \\\\
+\dfrac {26712} {36}     &= 742 \\\\
+26712 \div 36           &= 742
 \end{aligned}
 $
 
@@ -11767,10 +11741,10 @@ $742 \times 72$
 
 $
 \begin{aligned}
-&= 742 \times 72 \\\\
-&= 742 \times 36 \times 2 \\\\
-&= 26712 \times 2 \\\\
-&= 53424
+742 \times 36          &= 26712 \\\\
+742 \times 36 \times 2 &= 26712 \times 2 \\\\
+742 \times 36 \times 2 &= 53424 \\\\
+742 \times 72          &= 53424
 \end{aligned}
 $
 
@@ -11802,11 +11776,10 @@ $743 \times 36$
 
 $
 \begin{aligned}
-&= 743 \times 36 \\\\
-&= (742 + 1) \times 36 \\\\
-&= 742 \times 36 + 1 \times 36 \\\\
-&= 26712 + 36 \\\\
-&= 26748
+742 \times 36               &= 26712 \\\\
+742 \times 36 + 1 \times 36 &= 26712 + 1 \times 36 \\\\
+(742 + 1) \times 36         &= 26748 \\\\
+743 \times 36               &= 26748
 \end{aligned}
 $
 
@@ -11857,14 +11830,14 @@ Arrange all the digits $9, 7, 6, 4, 2$ to make the smallest **even** number.
 <div class='workings'>
 <div class='working'>
 
-$67924$
+$24796$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$67924$
+$24796$
 
 </div>
 </div>
@@ -11904,9 +11877,9 @@ altogether? Give your answer in figures, not words.
 
 $
 \begin{aligned}
-\text {Won altogether} &= 12080 + 390 \\\\
-                       &= 12470 \\\\
-                       &= \text {Twelve thousand four hundred and seventy}
+\text {Won altogether} &= 12018 + 390 \\\\
+                       &= 12408 \\\\
+                       &= \text {Twelve thousand four hundred and eight pounds}
 \end{aligned}
 $
 
@@ -11915,7 +11888,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\text {Twelve thousand four hundred and seventy}$
+$\text {Twelve thousand four hundred and eight pounds}$
 
 </div>
 </div>
@@ -11964,7 +11937,7 @@ Let's first convert all the numbers into proper fraction
 $
 \begin{aligned}
 &= 8 \dfrac {1} {20} \quad \dfrac {17} {2} \quad 8.1 \quad 8.05 \quad \dfrac {1} {5} \\\\
-&= \dfrac {161} {20} \quad \dfrac {17} {2} \quad \dfrac {81} {10} \quad \dfrac {805} {100} \quad \dfrac {1} {5} \\\\
+&= \dfrac {161} {20} \quad \dfrac {17} {2} \quad \dfrac {81} {10} \quad \dfrac {805} {100} \quad \dfrac {1} {5}
 \end{aligned}
 $
 
@@ -11973,7 +11946,7 @@ LCM of $20, \ 2, \ 10, \ 100, \ 5 = 100$
 $
 \begin{aligned}
 &= \dfrac {161 \times 5} {20 \times 5} \quad \dfrac {17 \times 50} {2 \times 50} \quad \dfrac {81 \times 10} {10 \times 10} \quad \dfrac {805} {100} \quad \dfrac {1 \times 20} {5 \times 20} \\\\
-&= \dfrac {805} {100} \quad \dfrac {850} {100} \quad \dfrac {810} {100} \quad \dfrac {805} {100} \quad \dfrac {20} {100} \\\\
+&= \dfrac {805} {100} \quad \dfrac {850} {100} \quad \dfrac {810} {100} \quad \dfrac {805} {100} \quad \dfrac {20} {100}
 \end{aligned}
 $
 
@@ -12056,14 +12029,14 @@ from London Euston to Birmingham International?
 <div class='workings'>
 <div class='working'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
@@ -12084,14 +12057,14 @@ from London Euston Station to Glasgow?
 <div class='workings'>
 <div class='working'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>
@@ -12137,10 +12110,10 @@ What fraction of the shape is shaded?
 
 $
 \begin{aligned}
-&= \dfrac {12} {15} \\\\
-&= \dfrac {3 \times 4} {5 \times 3} \\\\
-&= \dfrac {\cancel {3} \times 4} {5 \times \cancel {3}} \\\\
-&= \dfrac {4} {5}
+&= \dfrac {12} {16} \\\\
+&= \dfrac {3 \times 4} {4 \times 4} \\\\
+&= \dfrac {3 \times \cancel {4}} {4 \times \cancel {4}} \\\\
+&= \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -12149,7 +12122,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {4} {5}$
+$\dfrac {3} {4}$
 
 </div>
 </div>
@@ -12195,12 +12168,9 @@ $\pounds 1 = 100 \text{p}$
 $
 \begin{aligned}
 &= 5 \times \pounds 5 - (\pounds 3.50 \times 5 - 75 \text{p}) \\\\
-&= 5 \times \pounds 5 - (\pounds 17.5 - 75 \text{p}) \\\\
-&= \pounds 25 - (17.5 \times 100 \text{p} - 75 \text{p}) \\\\
-&= \pounds 25 - (1750 \text{p} - 75 \text{p}) \\\\
-&= \pounds 25 - 1675 \text{p} \\\\
-&= \pounds 25 - \pounds \dfrac {1675} {100} \\\\
-&= \pounds 25 - \pounds 16.75 \\\\
+&= \pounds 25 - (\pounds 17.5 - \pounds \dfrac {75} {100}) \\\\
+&= 25 - (17.5 - 0.75) \\\\
+&= 25 - 16.75 \\\\
 &= \pounds 8.25
 \end{aligned}
 $
@@ -14176,461 +14146,6 @@ $\dfrac{2}{3}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>2C9FD9EC-F28E-4BA1-8D8C-70118055B9D2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-For the first $12$ months after I bought my new phone I downloaded $4$ apps to it each month. Over the next $7$ months I only downloaded $1$ app each month, but this month I downloaded $5$ new apps. What is the average number of apps I have downloaded each month while I have had the phone?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Average number of apps}       &= \dfrac {\text{Total apps}} {\text{Total months}} \\\\
-                                    &= \dfrac { (12 \times 4) + (7 \times 1) + (1 \times 5) } { 12 + 7 + 1 } \\\\
-                                    &= \dfrac { 48 + 7 + 5 } { 20 } \\\\
-                                    &= \dfrac {60} {20} \\\\
-                                    &= 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>4E130AB1-83B7-43FA-A00A-F42FA9962CAD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many different positive whole numbers are factors of $72$? (remember to include $1$ and $72$ as factors)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's write down all the factors for $72$.
-
-$
-\begin{aligned}
-1 \times 72 &= 72 \\\\
-2 \times 36 &= 72 \\\\
-3 \times 24 &= 72 \\\\
-4 \times 18 &= 72 \\\\
-6 \times 12 &= 72 \\\\
-8 \times 9  &= 72
-\end{aligned}
-$
-
-Total factors $= 12$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When we multiply three consecutive numbers as shown below we obtain the following answer.
-
-$17 \times 18 \times 19 = 5814$     
-
-**Using this result**, work out the answers to these four questions.
-
-</div>
-
-
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$17 \times 18 \times 38 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-17 \times 18 \times 19          &= 5814 \\\\
-17 \times 18 \times 19 \times 2 &= 5814 \times 2 \\\\
-17 \times 18 \times 38          &= 11628
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11628$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$9 \times 19 \times 34 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-17 \times 18 \times 19         &= 5814 \\\\
-17 \times 9 \times 2 \times 19 &= 5814 \\\\
-17 \times 2 \times 9 \times 19 &= 5814 \\\\
-34 \times 9 \times 19          &= 5814 \\\\
-9 \times 19 \times 34          &= 5814
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5814$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$170 \times 180 \times 190 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-17 \times 18 \times 19                               &= 5814 \\\\
-17 \times 10 \times 18 \times 10 \times 19 \times 10 &= 5814 \times 1000 \\\\
-170 \times 180 \times 190                            &= 5814000
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5814000$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5814 \div 51 \div 38 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-17 \times 18 \times 19                       &= 5814 \\\\
-18 \times 19                                 &= 5814 \div 17 \\\\
-18                                           &= 5814 \div 17 \div 19 \\\\
-18 \div 3                                    &= 5814 \div (17 \times 3) \div 19 \\\\
-\dfrac {18} {3}                              &= 5814 \div 51 \div 19 \\\\
-\dfrac {6 \times 3} {3}                      &= 5814 \div 51 \div 19 \\\\
-\dfrac {6 \times \cancel {3}} {\cancel {3}}  &= 5814 \div 51 \div 19 \\\\
-6                                            &= 5814 \div 51 \div 19 \\\\
-6 \div 2                                     &= 5814 \div 51 \div (19 \times 2) \\\\
-\dfrac {6} {2}                               &= 5814 \div 51 \div 38 \\\\
-5814 \div 51 \div 38                         &= \dfrac {6} {2} \\\\
-5814 \div 51 \div 38                         &= \dfrac {3 \times 2} {2} \\\\
-5814 \div 51 \div 38                         &= \dfrac {3 \times \cancel {2}} {\cancel {2}} \\\\
-5814 \div 51 \div 38                         &= 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>2B2789EB-87CB-4268-A450-11BE3B271963</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On a taxi journey with one particular taxi company, the fare is worked out using a set starting charge plus a charge for each quarter of a mile travelled (the QMC).
-
-So if the starting charge is $\pounds 1$ and the QMC (charge for each quarter of a mile) is $50 \text{p}$ then the total fare for a one mile journey is given by
-
-Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ journey at another taxi company is $\pounds 9.60$ and the QMC (charge for each quarter of a mile) is $80\text{p}$, what is the starting charge?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Quaters in} \ 2 \dfrac {1} {2} \ \text {miles} &= 2 \dfrac {1} {2} \times 4 \\\\
-                                                     &= \dfrac {5} {2} \times 4 \\\\
-                                                     &= \dfrac {5 \times 4} {2} \\\\
-                                                     &= \dfrac {5 \times 2 \times 2} {2} \\\\
-                                                     &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
-                                                     &= 10
-\end{aligned}
-$
-
-Let the starting fare $= a$
-
-QMC = $80$ pence
-
-Total fare = starting charge + (quarter miles $\times 80p$)
-
-$
-\begin{aligned}
-\pounds 9.60 &= a + (10 \times 80p) \\\\
-\pounds 9.60 &= a + 800p \\\\
-\pounds 9.60 &= a + \pounds \dfrac {800} {100} \\\\
-\pounds 9.60 &= a + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
-9.60 - 8     &= a \\\\
-a            &= 9.60 - 8 \\\\
-a            &= \pounds 1.60
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1.60$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If the starting charge at a third company is $\pounds 2.20$ and the Total Fare for a $6 \dfrac {1}{4} \ \text{mile}$ journey is $\pounds 12.20$, what is the QMC?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Quaters in} \ 6 \dfrac {1} {4} \ \text{miles} &= 6 \dfrac {1} {4} \times 4 \\\\
-                                                    &= \dfrac {25} {4} \times 4 \\\\
-                                                    &= \dfrac {25 \times 4} {4} \\\\
-                                                    &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
-                                                    &= 25
-\end{aligned}
-$
-
-Total fare = starting charge + (quarter miles $\times$ QMC)
-
-Let the QMC $= q$
-
-$
-\begin{aligned}
-\pounds 12.20    &= \pounds 2.20 + (25 \times q) \\\\
-12.20 - 2.20     &= 25 \times q \\\\
-10               &= 25 \times q \\\\
-\dfrac {10} {25} &= q \\\\
-q                &= \dfrac {10} {25} \\\\
-q                &= \dfrac {10 \times 100 \text{p}} \\\\
-q                &= \dfrac {10 \times 25 \times 4} {25} \\\\
-q                &= \dfrac {10 \times \cancel {25} \times 4} {\cancel {25}} \\\\
-q                &= \dfrac {10 \times \cancel {25} \times 4 \text{p}} {\cancel {25}} \\\\
-q                &= 4 \times 10 \\\\
-q                &= 40 \text{p}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>

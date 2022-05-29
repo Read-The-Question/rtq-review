@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedaddition-all"
 title: "Topic - Detailedaddition - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4005,7 +4005,7 @@ $
     &   4   &   8   &   4 \\
 {}+ &   3   &   6   &   5 \\
 \hline
-    &   8   &   4   &   9
+    &   8   &   4   &   9 \\
 \hline
 \end{array}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8495,9 +8495,11 @@ $
 <div class='answer'>
 
 $
-\text {Gill}   = 18 \ \text {years} \\
-\text {Guy}    = 27 \ \text {years} \\
-\text {Gerald} = 54 \ \text {years}
+\begin {aligned}
+\text {Gill}   &= 18 \ \text {years} \\\\
+\text {Guy}    &= 27 \ \text {years} \\\\
+\text {Gerald} &= 54 \ \text {years}
+\end {aligned}
 $
 
 </div>
@@ -21956,16 +21958,17 @@ A ball of string is $2\ \text{metres}$ long. Pieces of length $30\ \text{cm}$ ar
 $
 \begin{aligned}
 \text{Number of pieces} &= \dfrac {\text{Length of string}} {\text{Length of a piece}} \\\\
+                        &= \dfrac {2 \ \text{metres}} {30  \ \text{cm}} \\\\
                         &= \dfrac {2 \times 100 \ \text{cm}} {30 \ \text{cm}} \\\\
                         &= \dfrac {2 \times 10 \cancel {0}} {3 \cancel {0}} \\\\
                         &= \dfrac {20} {3} \\\\
-                        &= 6.666 \ \text{cm}
+                        &= 6 \dfrac {2} {3} \text{cm}
 \end{aligned}
 $
 
 Number of pieces $= 6$
 
-Remaining length $= 0.66 \ \text{cm}$
+Remaining length $= \dfrac{2} {3} \ \text{cm}$
 
 </div>
 </div>
@@ -25231,7 +25234,8 @@ $
                   &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
                   &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
                   &= \dfrac {3} {5} \\\\
-                  &= 0.6 \%
+                  &= 0.6 \times 100 \\\\
+                  &= 60 \%
 \end{aligned}
 $
 
@@ -25240,7 +25244,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.6 \%$
+$60 \%$
 
 </div>
 </div>
@@ -28686,13 +28690,14 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {3 a} {10} - \dfrac {90 a} {500}                      &= 1.95 \\\\
-\dfrac {3 a \times 50} {10 \times 50} - \dfrac {90 a} {500}  &= 1.95 \\\\
-\dfrac {150 a} {500} - \dfrac {90 a} {500}                   &= 1.95 \\\\
-\dfrac {150 a - 90a} {500}                                   &= 1.95 \\\\
-\dfrac {60 a} {500}                                          &= 1.95 \\\\
+\dfrac {90 a} {500} - \dfrac {3 a} {10}                      &= 1.95 \\\\
+\dfrac {90 a} {500} - \dfrac {3 a \times 50} {10 \times 50}  &= 1.95 \\\\
+\dfrac {90 a} {500} - \dfrac {150 a} {500}                   &= 1.95 \\\\
+\dfrac {90 a - 150 a} {500}                                  &= 1.95 \\\\
+-\dfrac {60 a} {500}                                         &= 1.95 \\\\
 a                                                            &= \dfrac {1.95 \times 500} {60} \\\\
-a                                                            &= \dfrac {975} {60} \\\\
+a                                                            &= \dfrac {1.95 \times 50 \cancel {0}} {6 \cancel {0}}
+a                                                            &= \dfrac {1.95 \times 50} {6} \\\\
 a                                                            &= 16.25
 \end{aligned}
 $
@@ -29257,14 +29262,14 @@ $
 3x - \dfrac {x} {4}                                 &= \dfrac {1} {2} + 9 \\\\
 \dfrac {3x \times 4} {1 \times 4} - \dfrac {x} {4}  &= \dfrac {1} {2} + \dfrac {9 \times 2} {1 \times 2} \\\\
 \dfrac {12x} {4} - \dfrac {x} {4}                   &= \dfrac {1} {2} + \dfrac {18} {2} \\\\
-\dfrac {12x + x} {4}                                &= \dfrac {1 + 18} {2} \\\\
-\dfrac {13x} {4}                                    &= \dfrac {19} {2} \\\\
-x                                                   &= \dfrac {19 \times 4} {2 \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 13} \\\\
-x                                                   &= \dfrac {19 \times 2} {13} \\\\
-x                                                   &= \dfrac {38} {13} \\\\
-x                                                   &= 2 \ \dfrac {12} {13}
+\dfrac {12x - x} {4}                                &= \dfrac {1 + 18} {2} \\\\
+\dfrac {11 x} {4}                                   &= \dfrac {19} {2} \\\\
+x                                                   &= \dfrac {19 \times 4} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2} {11} \\\\
+x                                                   &= \dfrac {38} {11} \\\\
+x                                                   &= 3 \dfrac {5} {11}
 \end{aligned}
 $
 
@@ -29273,7 +29278,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \ \dfrac {12} {13}$
+$3 \dfrac {5} {11}$
 
 </div>
 </div>
@@ -47778,10 +47783,10 @@ $
 
 $
 \begin{aligned}
-\text {Number of marbles for} \ \pounds 24 &= \dfrac {24} {1.5} \\\\
-                                         &= \dfrac {16 \times 1.5} {1.5} \\\\
-                                         &= \dfrac {16 \times \cancel {1.5}} {\cancel {1.5}} \\\\
-                                         &= 16
+\text {Number of marbles} &= \dfrac {24} {1.5} \\\\
+                          &= \dfrac {16 \times 1.5} {1.5} \\\\
+                          &= \dfrac {16 \times \cancel {1.5}} {\cancel {1.5}} \\\\
+                          &= 16
 \end{aligned}
 $
 
@@ -52613,7 +52618,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>34C4A0D4-9A04-4290-879F-66A94B759004</p>
 </div>
@@ -52671,12 +52676,12 @@ $150$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>6ABD9083-9950-424C-A91E-55291150A4DE</p>
 </div>
@@ -52785,7 +52790,7 @@ $14$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -59940,7 +59945,7 @@ $504$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>2B2789EB-87CB-4268-A450-11BE3B271963</p>
 </div>
@@ -60097,7 +60102,7 @@ $40 \text{p}$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -60517,7 +60522,7 @@ $43$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>FCFAFC6F-1712-4B57-99C9-697FE6184648</p>
 </div>
@@ -60589,12 +60594,12 @@ $\pounds 144$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>839261B7-4E0B-4FF5-A157-78F5DDA2504D</p>
 </div>
@@ -60725,7 +60730,7 @@ $100  \ \text {calories}$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -64344,7 +64349,7 @@ $χ = 7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>B475D829-FDEB-40B6-8FA4-023371521EB4</p>
 </div>
@@ -64370,11 +64375,11 @@ What is the value of $t$?
 
 $
 \begin{aligned}
-t \times 0.805         &= 8050 \\\\
+t \times 0.805      &= 8050 \\\\
 t                   &= \dfrac {8050} {0.805} \\\\
 t                   &= \dfrac {8050 \times 10000} {0.805 \times 10000} \\\\
 t                   &= \dfrac {8050 \times 10000} {8050} \\\\
-t                   &= \dfrac {\cancel 8050 \times 10000} {\cancel 8050} \\\\
+t                   &= \dfrac {\cancel {8050} \times 10000} {\cancel {8050}} \\\\
 t                   &= 10000
 \end{aligned}
 $
@@ -64393,7 +64398,7 @@ $10000$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -64424,13 +64429,13 @@ Calculate the missing angle in the triangle shown below:
 
 As we know, the sum of angles in a triangle is $180 \degree$. So,
 
-Missing angle $+ 82 + 71 = 180$
+Missing angle $+ \ 82 + 71 = 180$
 
 $
 \begin{aligned}
-\text {Missing angle} &= 180 - 82 - 71 \\\\
-                      &= 180 - 153 \\\\
-                      &= 27 \degree
+&= 180 - 82 - 71 \\\\
+&= 180 - 153 \\\\
+&= 27 \degree
 \end{aligned}
 $
 
@@ -64455,7 +64460,7 @@ $27 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>B413F8C6-736A-43A8-89EB-3A28FF88A2B5</p>
 </div>
@@ -64492,11 +64497,12 @@ $
 1,  &&    1 \times a,  &&  9,  &&   9 \times a,  &&   9 \times a \times a \ldots
 \end{matrix}
 $
+
 $
 \begin{aligned}
 1 \times a \times a             &= 9 \\\\
 a^2                             &= 9 \\\\
-a^2                             &= 3^2 \\\\
+a                               &= \sqrt {3} \\\\
 a                               &= 3
 \end{aligned}
 $
@@ -64508,7 +64514,7 @@ $
                                 &= 3 \\\\
 \text{Second missing number}    &= 9 \times a \\\\
                                 &= 9 \times 3 \\\\ 
-                                &= 27
+                                &= 27 \\\\
 \text{Second missing number}    &= 9 \times a \times a \\\\
                                 &= 9 \times 3 \times 3 \\\\ 
                                 &= 81
@@ -64529,7 +64535,7 @@ Missing Numbers : $3 , 27 , 81$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -64830,7 +64836,7 @@ $45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>9F5604EB-F79E-4CB6-8EE3-55D385FB760A</p>
 </div>
@@ -64905,12 +64911,12 @@ $\pounds 38.75$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
 </div>
@@ -65010,12 +65016,12 @@ $\dfrac {1} {3}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA</p>
 </div>
@@ -65076,7 +65082,7 @@ $\pounds 1600$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -66341,6 +66347,7 @@ We also know that, in an isosceles triangle the two angles opposite to the equal
 Exterior angle $= 134 \degree$
 
 Two angles of isosceles triangle $= x$
+
 $
 \begin{aligned}
 x + x                   &= 134 \\\\

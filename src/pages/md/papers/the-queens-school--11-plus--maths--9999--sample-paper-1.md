@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>The Queens' School</h1>
@@ -1230,7 +1230,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5} {7} , \quad \dfrac {7} {8} , \quad \boxed {\dfrac {8} {9}}$
+$\dfrac {8} {9}$
 
 </div>
 </div>
@@ -1244,7 +1244,7 @@ $\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>879257AD-7CA0-4670-881E-438490A5C1DC</p>
 </div>
@@ -1301,7 +1301,7 @@ $36 \ \text{cm}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -1691,7 +1691,7 @@ $8.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>9F5604EB-F79E-4CB6-8EE3-55D385FB760A</p>
 </div>
@@ -1766,12 +1766,12 @@ $\pounds 38.75$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
 </div>
@@ -1871,7 +1871,7 @@ $\dfrac {1} {3}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -1934,7 +1934,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>225FE540-8613-4C8B-B119-CC67CEA85C4B</p>
 </div>
@@ -2002,12 +2002,12 @@ $40 \ \text{cm}^2$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA</p>
 </div>
@@ -2068,7 +2068,7 @@ $\pounds 1600$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

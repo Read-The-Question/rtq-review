@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-all"
 title: "Topic - Clock - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1083,14 +1083,14 @@ $12$ to the $1$
 <div class='workings'>
 <div class='working'>
 
-$360 \degree$
+$30 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$360 \degree$
+$30 \degree$
 
 </div>
 </div>
@@ -1113,8 +1113,8 @@ $3$ to the $7$
 
 $
 \begin{aligned}
-\text{From 3 to 7} &= 4 \times 360
-                   &= 1440 \degree
+\text{From 3 to 7} &= 4 \times 30 \\\\
+                   &= 120 \degree
 \end{aligned}
 $
 
@@ -1123,7 +1123,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1440 \degree$
+$120 \degree$
 
 </div>
 </div>

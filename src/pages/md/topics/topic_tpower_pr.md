@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpower-pr"
 title: "Topic - Power - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -434,7 +434,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>57C9979B-2ACE-4BAF-8E7F-AC51C6373882</p>
 </div>
@@ -469,29 +469,37 @@ Exactly one of these statements is correct. Which one?
 <div class='workings'>
 <div class='working'>
 
+$43^2+ 56^2 = 4981$
+
 $
 \begin{aligned}
 &= 43^2+ 56^2 \\\\
 &= 1849 + 3136 \\\\
-&= 4985 \cancel {=} 4981
+&= 4985 \ \cancel {=} \ 4981
 \end{aligned}
 $
+
+$55^2 + 66^2= 7387$
 
 $
 \begin{aligned}
 &= 55^2 + 66^2 \\\\
 &= 3025 + 4356 \\\\
-&= 7381 \cancel {=} 7387
+&= 7381 \ \cancel {=} \ 7387
 \end{aligned}
 $
+
+$77^2+ 22^2 = 6415$
 
 $
 \begin{aligned}
 &= 77^2+ 22^2 \\\\
 &= 5929 + 484 \\\\
-&= 6413 \cancel {=} 6415
+&= 6413 \ \cancel {=} \ 6415
 \end{aligned}
 $
+
+$44^2+ 63^2 = 5905$
 
 $
 \begin{aligned}
@@ -500,6 +508,7 @@ $
 &= 5905
 \end{aligned}
 $
+
 Statement D is correct.
 
 </div>
@@ -516,7 +525,7 @@ D
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

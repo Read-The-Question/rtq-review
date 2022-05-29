@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>Warwick School</h1>
@@ -1321,8 +1321,12 @@ $
 
 Let's put them in ascending order now.
 
-$&= 0.08 , \quad 0.09 , \quad 0.75 , \quad 0.8 , \quad 0.802 , \quad 0.82$
-$8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82$
+$
+\begin{aligned}
+&= 0.08 , \quad 0.09 , \quad 0.75 , \quad 0.8 , \quad 0.802 , \quad 0.82 \\\\
+&= 8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 0.802 , \quad 0.82
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2181,6 +2185,7 @@ We also know that, in an isosceles triangle the two angles opposite to the equal
 Exterior angle $= 134 \degree$
 
 Two angles of isosceles triangle $= x$
+
 $
 \begin{aligned}
 x + x                   &= 134 \\\\

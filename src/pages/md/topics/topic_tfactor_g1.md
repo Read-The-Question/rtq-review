@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-g1"
 title: "Topic - Factor - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -46,6 +46,67 @@ $2 \times 2 \times 2 \times 7$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfactor
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What percentage of the integers $1 - 100$ inclusive are not a multiple of $10$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write down all the multiples of $10$ between $1$ and $100$ inclusive.
+
+Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
+
+There are total $10$ numbers between $1$ and $100$ inclusive that are multiples of $10$.
+
+So numbers that are not multiples of $10 = 100 - 10 = 90$. Using this we get,
+
+$
+\begin{aligned}
+\text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
+                    &= \dfrac {90 \times 100} {100} \\\\
+                    &= \dfrac {90 \times \cancel {100} } {\cancel {100} } \\\\
+                    &= 90 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3222,6 +3283,62 @@ $4325$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>4E130AB1-83B7-43FA-A00A-F42FA9962CAD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many different positive whole numbers are factors of $72$? (remember to include $1$ and $72$ as factors)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write down all the factors for $72$.
+
+$
+\begin{aligned}
+1 \times 72 &= 72 \\\\
+2 \times 36 &= 72 \\\\
+3 \times 24 &= 72 \\\\
+4 \times 18 &= 72 \\\\
+6 \times 12 &= 72 \\\\
+8 \times 9  &= 72
+\end{aligned}
+$
+
+Total factors $= 12$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

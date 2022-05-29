@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircle-all"
 title: "Topic - Circle - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1353,7 +1353,7 @@ $0.603$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
 </div>
@@ -1407,7 +1407,7 @@ $\dfrac {5} {9}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

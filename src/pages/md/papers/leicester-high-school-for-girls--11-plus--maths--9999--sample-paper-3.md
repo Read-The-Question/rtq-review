@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>Leicester High School for Girls</h1>
@@ -1242,16 +1242,17 @@ A ball of string is $2\ \text{metres}$ long. Pieces of length $30\ \text{cm}$ ar
 $
 \begin{aligned}
 \text{Number of pieces} &= \dfrac {\text{Length of string}} {\text{Length of a piece}} \\\\
+                        &= \dfrac {2 \ \text{metres}} {30  \ \text{cm}} \\\\
                         &= \dfrac {2 \times 100 \ \text{cm}} {30 \ \text{cm}} \\\\
                         &= \dfrac {2 \times 10 \cancel {0}} {3 \cancel {0}} \\\\
                         &= \dfrac {20} {3} \\\\
-                        &= 6.666 \ \text{cm}
+                        &= 6 \dfrac {2} {3} \text{cm}
 \end{aligned}
 $
 
 Number of pieces $= 6$
 
-Remaining length $= 0.66 \ \text{cm}$
+Remaining length $= \dfrac{2} {3} \ \text{cm}$
 
 </div>
 </div>

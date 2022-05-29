@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-pr"
 title: "Topic - Noexplanation - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -306,14 +306,14 @@ $4.5$
 <div class='workings'>
 <div class='working'>
 
-$8.0$
+$8.3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8.0$
+$8.3$
 
 </div>
 </div>
@@ -561,148 +561,6 @@ $1$ January.
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>79795420-38FD-4AE7-84E8-377DBD4317D4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many triangles are there in this diagram?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$6$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>4B7CDE91-4C3F-4F86-89D2-B8D194C48EBA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the reading on the measuring cylinder
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1.3 \ \text{litres}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.3 \text{ litres}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>B941B131-14CE-4FE8-BB23-B3C009015796</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many edges does a cube have?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$12$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>32CCF206-C0DE-480B-BDD6-BAA8DE6F3758</p>
 </div>
 <div class='topics'>
@@ -877,52 +735,6 @@ $0.7$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>7CD755EA-ADD6-4379-9D5F-1416133D1E65</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Give every prime number that goes exactly into both $12$ and $18$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2, 3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2, 3$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
 </div>
 </div>
 </li>
@@ -2037,14 +1849,14 @@ $5 \ \boxed{ \phantom{+} } \ 3 =  12 \ \boxed{ \phantom{+} } \   4$
 <div class='workings'>
 <div class='working'>
 
-$+, \ -$
+$5 + 3 = 12 - 4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$+, \ -$
+$5 + 3 = 12 - 4$
 
 </div>
 </div>
@@ -2065,14 +1877,14 @@ $2 \ \boxed{ \phantom{+} } \  3 =  12  \ \boxed{ \phantom{+} } \   2$
 <div class='workings'>
 <div class='working'>
 
-$\times, \ \div$
+$2 \times 3 = 12 \div 2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\times, \ \div$
+$2 \times 3 = 12 \div 2$
 
 </div>
 </div>
@@ -2093,14 +1905,14 @@ $5 \ \boxed{ \phantom{+} } \  5 = 4  \ \boxed{ \phantom{+} } \ 4$
 <div class='workings'>
 <div class='working'>
 
-$-, \ -$
+$5 - 5 = 4 - 4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-, \ -$
+$5 - 5 = 4 - 4$
 
 </div>
 </div>
@@ -2153,14 +1965,14 @@ Write your answers from smallest to biggest.
 <div class='workings'>
 <div class='working'>
 
-$3124, \ 3214, \ 3412$
+$3124, \ 3214, \ 3412, \ 3142$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3124, \ 3214, \ 3412$
+$3124, \ 3214, \ 3412, \ 3142$
 
 </div>
 </div>
@@ -2199,14 +2011,14 @@ Arrange all the digits $9, 7, 6, 4, 2$ to make the smallest **even** number.
 <div class='workings'>
 <div class='working'>
 
-$67924$
+$24796$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$67924$
+$24796$
 
 </div>
 </div>
@@ -2278,14 +2090,14 @@ from London Euston to Birmingham International?
 <div class='workings'>
 <div class='working'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
@@ -2306,14 +2118,14 @@ from London Euston Station to Glasgow?
 <div class='workings'>
 <div class='working'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>
@@ -2359,10 +2171,10 @@ What fraction of the shape is shaded?
 
 $
 \begin{aligned}
-&= \dfrac {12} {15} \\\\
-&= \dfrac {3 \times 4} {5 \times 3} \\\\
-&= \dfrac {\cancel {3} \times 4} {5 \times \cancel {3}} \\\\
-&= \dfrac {4} {5}
+&= \dfrac {12} {16} \\\\
+&= \dfrac {3 \times 4} {4 \times 4} \\\\
+&= \dfrac {3 \times \cancel {4}} {4 \times \cancel {4}} \\\\
+&= \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -2371,7 +2183,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {4} {5}$
+$\dfrac {3} {4}$
 
 </div>
 </div>
@@ -2538,209 +2350,6 @@ $\text{N, \ O, \ C, \ F}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>B87F60E9-CD24-4B59-933C-CDE3117D3989</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here are $5$ number cards
-
-$\boxed{7} \ \boxed{2} \ \boxed{6} \ \boxed{4} \ \boxed{8}$
-
-The $5$ cards can be placed in an order to form a $5$-digit number.
-
-For example, the smallest number which could be made using all $5$ cards is:
-
-$\boxed{2} \boxed{4} \boxed{6} \boxed{7} \boxed{8}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using all $5$ cards:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-what is the largest possible odd number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$86427$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$86427$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-what is the number that is closest to $50000$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$48762$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48762$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using only $2$ of the cards, what is the largest possible prime number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$67$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$67$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Arrange any $3$ of the number cards to give the largest possible answer to this multiplication.
-
-$\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \times \ \boxed{\phantom{1}}$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 76 \times 8 \\\\
-&= 608
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$608$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE</p>
@@ -2850,216 +2459,6 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>E2FDFBE8-D93C-4E13-8DDB-87CE62F1BAF5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This scale shows the mass of a letter.
-
-The numbers around the outside are in grams (g), and the numbers inside the circle represent ounces (oz).
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the mass of the letter in grams?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the scale,
-
-The mass of the letter $= 70 \ \text {g}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$70 \ \text {g}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A parcel has a mass of $120 \text{g}$.
-
-What is its mass in ounces?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the scale,
-
-The mass of the parcel $= 2.75 \ \text {oz}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.75 \ \text {oz}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>F3BE1318-A3C2-4027-94E9-36DD5A3FA799</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This clock has been reflected in a mirror.
-
-What is the actual time on the clock?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10{:}40$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10{:}40$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>0EA6356F-FEB5-46B4-85FF-77EC923BBA69</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnoexplanation
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram below is made from a number of equilateral triangles.
-
-How many equilateral triangles (of any size) can be found in the diagram?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$29$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$29$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>9E47730D-57C7-402D-82CD-0D7FC8E0A99F</p>
@@ -3111,9 +2510,9 @@ $13750$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
-<p>28904A21-C435-41CB-8D8F-3EAD051E5F5C</p>
+<p>A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3130,31 +2529,29 @@ tnoexplanation
 </div>
 <div class='question question'>
 
-What number is indicated by the arrow on the scale?
-
-![missing image](/papers/missing_image.svg)
+Write down any **two** prime numbers between $45$ and $60$.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$12.15$
+Two prime numbers between $45$ and $60 = 47, 53$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12.15$
+$47, 53$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

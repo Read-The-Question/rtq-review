@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircleanswer-all"
 title: "Topic - Circleanswer - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -958,7 +958,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5} {7} , \quad \dfrac {7} {8} , \quad \boxed {\dfrac {8} {9}}$
+$\dfrac {8} {9}$
 
 </div>
 </div>

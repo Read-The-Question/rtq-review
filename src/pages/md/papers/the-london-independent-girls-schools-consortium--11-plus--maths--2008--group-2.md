@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 2"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>The London Independent Girls' Schools Consortium</h1>
@@ -882,7 +882,7 @@ Dita watches the television for $2 \text{ hours } 45 \text{ minutes}$ each weeke
 $
 \begin{aligned}
 \text{Time spent over three weekends} &= 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} \\\\
-                                      &= 8 \ \text{hours} \ 25 \ \text{minutes}
+                                      &= 8 \ \text{hours} \ 15 \ \text{minutes}
 \end{aligned}
 $
 
@@ -891,7 +891,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8 \ \text{hours} \ 25 \ \text{minutes}$
+$8 \ \text{hours} \ 15 \ \text{minutes}$
 
 </div>
 </div>
@@ -1489,11 +1489,9 @@ $150 \times 340$
 
 $
 \begin{aligned}
-&= 150 \times 340 \\\\
-&= 15 \times 10 \times 34 \times 10 \\\\
-&= 15 \times 34 \times 10 \times 10 \\\\
-&= 510 \times 100 \\\\
-&= 51000
+15 \times 34                     &= 510 \\\\
+15 \times 10 \times 34 \times 10 &= 510 \times 100 \\\\
+150 \times 340                   &= 51000
 \end{aligned}
 $
 
@@ -1525,13 +1523,12 @@ $15 \times 17$
 
 $
 \begin{aligned}
-&= 15 \times 17 \\\\
-&= \dfrac {15 \times 17 \times 2} {2} \\\\
-&= \dfrac {15 \times 34} {2} \\\\
-&= \dfrac {510} {2} \\\\
-&= \dfrac {255 \times 2} {2} \\\\
-&= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
-&= 255
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 17          &= \dfrac {510} {2} \\\\
+15 \times 17          &= \dfrac {255 \times 2} {2} \\\\
+15 \times 17          &= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
+15 \times 17          &= 255
 \end{aligned}
 $
 
@@ -1563,13 +1560,12 @@ $510 + 17$
 
 $
 \begin{aligned}
-&= 510 \div 17 \\\\
-&= \dfrac {510} {17} \\\\
-&= \dfrac {15 \times 34} {17} \\\\
-&= \dfrac {15 \times 17 \times 2} {17} \\\\
-&= \dfrac {15 \times \cancel {17} \times 2} {\cancel {17}} \\\\
-&= 15 \times 2 \\\\
-&= 30
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 2           &= \dfrac {510} {17} \\\\
+\dfrac {510} {17}     &= 15 \times 2 \\\\
+\dfrac {510} {17}     &= 30 \\\\
+510 \div 17           &= 30 \\\\
 \end{aligned}
 $
 

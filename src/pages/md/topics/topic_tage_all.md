@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-all"
 title: "Topic - Age - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -311,9 +311,11 @@ $
 <div class='answer'>
 
 $
-\text {Gill}   = 18 \ \text {years} \\
-\text {Guy}    = 27 \ \text {years} \\
-\text {Gerald} = 54 \ \text {years}
+\begin {aligned}
+\text {Gill}   &= 18 \ \text {years} \\\\
+\text {Guy}    &= 27 \ \text {years} \\\\
+\text {Gerald} &= 54 \ \text {years}
+\end {aligned}
 $
 
 </div>
@@ -2282,10 +2284,10 @@ $
 
 $
 \begin{aligned}
-\text {Number of marbles for} \ \pounds 24 &= \dfrac {24} {1.5} \\\\
-                                         &= \dfrac {16 \times 1.5} {1.5} \\\\
-                                         &= \dfrac {16 \times \cancel {1.5}} {\cancel {1.5}} \\\\
-                                         &= 16
+\text {Number of marbles} &= \dfrac {24} {1.5} \\\\
+                          &= \dfrac {16 \times 1.5} {1.5} \\\\
+                          &= \dfrac {16 \times \cancel {1.5}} {\cancel {1.5}} \\\\
+                          &= 16
 \end{aligned}
 $
 

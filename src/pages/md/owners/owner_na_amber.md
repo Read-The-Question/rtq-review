@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-na-amber"
 title: "Owner - Naman Pant - Amber"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -95,6 +95,7 @@ We also know that, in an isosceles triangle the two angles opposite to the equal
 Exterior angle $= 134 \degree$
 
 Two angles of isosceles triangle $= x$
+
 $
 \begin{aligned}
 x + x                   &= 134 \\\\

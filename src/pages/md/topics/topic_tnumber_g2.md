@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-g2"
 title: "Topic - Number - G2"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>

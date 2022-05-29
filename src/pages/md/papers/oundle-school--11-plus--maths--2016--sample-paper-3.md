@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-3"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -1558,7 +1558,7 @@ $
 \begin{aligned}
 8.4 \div a &= 21 \\\\
 a          &= 21 \times 8.4 \\\\
-a          &= 170.1
+a          &= 176.4
 \end{aligned}
 $
 
@@ -1567,7 +1567,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$170.1$
+$176.4$
 
 </div>
 </div>

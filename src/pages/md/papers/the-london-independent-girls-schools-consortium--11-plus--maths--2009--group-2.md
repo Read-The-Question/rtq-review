@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 2"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>The London Independent Girls' Schools Consortium</h1>
@@ -40,7 +40,7 @@ $
     &   4   &   8   &   4 \\
 {}+ &   3   &   6   &   5 \\
 \hline
-    &   8   &   4   &   9
+    &   8   &   4   &   9 \\
 \hline
 \end{array}
 $
@@ -419,11 +419,11 @@ The difference between the terms is $+9$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+6)} } 
-&&  \footnotesize {\maroonC {(+6)} }  
-&&  \footnotesize {\maroonC {(+6)} }   
-&&  \footnotesize {\maroonC {(+6)} }   
-&&  \footnotesize {\maroonC {(+6)} } \\
+&   \footnotesize {\maroonC {(+9)} } 
+&&  \footnotesize {\maroonC {(+9)} }  
+&&  \footnotesize {\maroonC {(+9)} }   
+&&  \footnotesize {\maroonC {(+9)} }   
+&&  \footnotesize {\maroonC {(+9)} } \\
 15,  &&  24,  &&  33,  &&  42,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -662,10 +662,10 @@ $
 
 $
 \begin{aligned}
-\text {Number of marbles for} \ \pounds 24 &= \dfrac {24} {1.5} \\\\
-                                         &= \dfrac {16 \times 1.5} {1.5} \\\\
-                                         &= \dfrac {16 \times \cancel {1.5}} {\cancel {1.5}} \\\\
-                                         &= 16
+\text {Number of marbles} &= \dfrac {24} {1.5} \\\\
+                          &= \dfrac {16 \times 1.5} {1.5} \\\\
+                          &= \dfrac {16 \times \cancel {1.5}} {\cancel {1.5}} \\\\
+                          &= 16
 \end{aligned}
 $
 
@@ -1087,14 +1087,14 @@ $5 \ \boxed{ \phantom{+} } \ 3 =  12 \ \boxed{ \phantom{+} } \   4$
 <div class='workings'>
 <div class='working'>
 
-$+, \ -$
+$5 + 3 = 12 - 4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$+, \ -$
+$5 + 3 = 12 - 4$
 
 </div>
 </div>
@@ -1115,14 +1115,14 @@ $2 \ \boxed{ \phantom{+} } \  3 =  12  \ \boxed{ \phantom{+} } \   2$
 <div class='workings'>
 <div class='working'>
 
-$\times, \ \div$
+$2 \times 3 = 12 \div 2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\times, \ \div$
+$2 \times 3 = 12 \div 2$
 
 </div>
 </div>
@@ -1143,14 +1143,14 @@ $5 \ \boxed{ \phantom{+} } \  5 = 4  \ \boxed{ \phantom{+} } \ 4$
 <div class='workings'>
 <div class='working'>
 
-$-, \ -$
+$5 - 5 = 4 - 4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-, \ -$
+$5 - 5 = 4 - 4$
 
 </div>
 </div>
@@ -1260,7 +1260,7 @@ $
 
 $
 \begin{aligned}
-\text {Area of 5 square}   &= 5 \times \text{Area of one square} \\\\
+\text {Area of rectangle}  &= 5 \times \text{Area of one square} \\\\
                            &= 5 \times 2 \times 2 \\\\
                            &= 5 \times 4 \\\\
                            &= 20 \ \text{cm} ^ 2
@@ -1690,14 +1690,14 @@ Write your answers from smallest to biggest.
 <div class='workings'>
 <div class='working'>
 
-$3124, \ 3214, \ 3412$
+$3124, \ 3214, \ 3412, \ 3142$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3124, \ 3214, \ 3412$
+$3124, \ 3214, \ 3412, \ 3142$
 
 </div>
 </div>
@@ -2182,10 +2182,9 @@ $742 \times 360$ =
 
 $
 \begin{aligned}
-&= 742 \times 360 \\\\
-&= 742 \times 36 \times 10 \\\\
-&= 26712 \times 10 \\\\
-&= 267120
+742 \times 36           &= 26712 \\\\
+742 \times 36 \times 10 &= 26712 \times 10 \\\\
+742 \times 360          &= 267120
 \end{aligned}
 $
 
@@ -2217,11 +2216,10 @@ $26712 \div 36$
 
 $
 \begin{aligned}
-&= 26712 \div 36 \\\\
-&= \dfrac {26712} {36} \\\\
-&= \dfrac {742 \times 36} {36} \\\\
-&= \dfrac {742 \times \cancel {36}} {\cancel {36}} \\\\
-&= 742
+742 \times 36           &= 26712 \\\\
+742                     &= \dfrac {26712} {36} \\\\
+\dfrac {26712} {36}     &= 742 \\\\
+26712 \div 36           &= 742
 \end{aligned}
 $
 
@@ -2253,10 +2251,10 @@ $742 \times 72$
 
 $
 \begin{aligned}
-&= 742 \times 72 \\\\
-&= 742 \times 36 \times 2 \\\\
-&= 26712 \times 2 \\\\
-&= 53424
+742 \times 36          &= 26712 \\\\
+742 \times 36 \times 2 &= 26712 \times 2 \\\\
+742 \times 36 \times 2 &= 53424 \\\\
+742 \times 72          &= 53424
 \end{aligned}
 $
 
@@ -2288,11 +2286,10 @@ $743 \times 36$
 
 $
 \begin{aligned}
-&= 743 \times 36 \\\\
-&= (742 + 1) \times 36 \\\\
-&= 742 \times 36 + 1 \times 36 \\\\
-&= 26712 + 36 \\\\
-&= 26748
+742 \times 36               &= 26712 \\\\
+742 \times 36 + 1 \times 36 &= 26712 + 1 \times 36 \\\\
+(742 + 1) \times 36         &= 26748 \\\\
+743 \times 36               &= 26748
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-5"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 5"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>The Perse School</h1>
@@ -14,7 +14,7 @@ date: 2022-05-29 13:50:01
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>BCC6F2CB-8539-4FD4-9E74-FEBEFF999875</p>
 </div>
@@ -35,6 +35,8 @@ Find $2000 - 12 + 20 - 12$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Using BIDMAS,
 
 $
 \begin{aligned}
@@ -59,7 +61,7 @@ $1996$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -256,7 +258,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>B475D829-FDEB-40B6-8FA4-023371521EB4</p>
 </div>
@@ -282,11 +284,11 @@ What is the value of $t$?
 
 $
 \begin{aligned}
-t \times 0.805         &= 8050 \\\\
+t \times 0.805      &= 8050 \\\\
 t                   &= \dfrac {8050} {0.805} \\\\
 t                   &= \dfrac {8050 \times 10000} {0.805 \times 10000} \\\\
 t                   &= \dfrac {8050 \times 10000} {8050} \\\\
-t                   &= \dfrac {\cancel 8050 \times 10000} {\cancel 8050} \\\\
+t                   &= \dfrac {\cancel {8050} \times 10000} {\cancel {8050}} \\\\
 t                   &= 10000
 \end{aligned}
 $
@@ -305,7 +307,7 @@ $10000$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -336,13 +338,13 @@ Calculate the missing angle in the triangle shown below:
 
 As we know, the sum of angles in a triangle is $180 \degree$. So,
 
-Missing angle $+ 82 + 71 = 180$
+Missing angle $+ \ 82 + 71 = 180$
 
 $
 \begin{aligned}
-\text {Missing angle} &= 180 - 82 - 71 \\\\
-                      &= 180 - 153 \\\\
-                      &= 27 \degree
+&= 180 - 82 - 71 \\\\
+&= 180 - 153 \\\\
+&= 27 \degree
 \end{aligned}
 $
 
@@ -367,7 +369,7 @@ $27 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>F6128DD4-ECC2-431B-8EF0-CFFB29805A22</p>
 </div>
@@ -416,14 +418,18 @@ What is the largest number he can get?
 
 Let's arrange the number in descending order,
 
-$8 , \quad   16 , \quad   10 , \quad   12$
-$16 , \quad   12 , \quad   10 , \quad   8$
+$
+\begin{aligned}
+8 , \quad   16 , \quad   10 , \quad   12 \\\\
+16 , \quad   12 , \quad   10 , \quad   8
+\end{aligned}
+$
 
 To get the largest number, Frank needs to choose highest number as numerstor and lowest number as denominator.
 
 $
 \begin{aligned}
-&= \dfrac {\text{Highest number}} {\text{Lowest number}} \\\\
+&= \dfrac {\text {Highest number}} {\text {Lowest number}} \\\\
 &= \dfrac {16} {8} \\\\
 &= \dfrac {8 \times 2} {8} \\\\
 &= \dfrac {\cancel {8} \times 2} {\cancel {8}} \\\\
@@ -459,14 +465,18 @@ What is the smallest result?
 
 Let's arrange the number in ascending order,
 
-$8 , \quad   16 , \quad   10 , \quad   12$
-$8 , \quad   10 , \quad   12 , \quad   16$
+$
+\begin{aligned}
+&8 , \quad   16 , \quad   10 , \quad   12 \\\\
+&8 , \quad   10 , \quad   12 , \quad   16
+\end{aligned}
+$
 
-To get the largest number, Frank needs to choose lowest number as numerstor and highest number as denominator.
+To get the smallest number, Frank needs to choose lowest number as numerator and highest number as denominator.
 
 $
 \begin{aligned}
-&= \dfrac {\text{Lowest number}} {\text{Highest number}} \\\\
+&= \dfrac {\text {Lowest number}} {\text {Highest number}} \\\\
 &= \dfrac {8} {16} \\\\
 &= \dfrac {8} {8 \times 2} \\\\
 &= \dfrac {\cancel {8}} {\cancel {8} \times 2} \\\\
@@ -502,8 +512,12 @@ What division gives the result closest to $1$?
 
 Let's arrange the number in ascending order,
 
-$8 , \quad   16 , \quad   10 , \quad   12$
-$8 , \quad   10 , \quad   12 , \quad   16$
+$
+\begin{aligned}
+&8 , \quad   16 , \quad   10 , \quad   12 \\\\
+&8 , \quad   10 , \quad   12 , \quad   16
+\end{aligned}
+$
 
 To get a division result closest to 1, Frank needs to pickup adjacent numbers after arrangement.
 
@@ -515,14 +529,18 @@ $
 &= \dfrac {8} {10} , \quad   \dfrac {2 \times 5} {2 \times 4} , \quad   \dfrac {2 \times 5} {2 \times 6} , \quad   \dfrac {12} {10} , \quad   \dfrac {4 \times 3} {4 \times 4}, \quad   \dfrac {4 \times 4} {4 \times 3} \\\\
 &= \dfrac {8} {10} , \quad   \dfrac {\cancel {2} \times 5} {\cancel {2} \times 4} , \quad   \dfrac {\cancel {2} \times 5} {\cancel {2} \times 6} , \quad   \dfrac {12} {10} , \quad   \dfrac {\cancel {4} \times 3} {\cancel {4} \times 4}, \quad   \dfrac {\cancel {4} \times 4} {\cancel {4} \times 3} \\\\
 &= \dfrac {8} {10} , \quad   \dfrac {5} {4} , \quad   \dfrac {5} {6} , \quad   \dfrac {12} {10} , \quad   \dfrac {3} {4}, \quad   \dfrac {4} {3} \\\\
-&= 0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33 \\\\
+&= 0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33
 \end{aligned}
 $
 
 Let's arrange the decimals in ascending order.
 
-$0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33$
-$0.75 , \quad 0.8 , \quad 0.83 , \quad 1.2 , \quad 1.25 , \quad 1.33$
+$
+\begin{aligned}
+0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33 \\\\
+0.75 , \quad 0.8 , \quad 0.83 , \quad 1.2 , \quad 1.25 , \quad 1.33
+\end{aligned}
+$
 
 The number that is closest to $1$ = $0.83 = \dfrac {10} {12}$
 
@@ -543,7 +561,7 @@ $\dfrac {10} {12}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -668,7 +686,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>B413F8C6-736A-43A8-89EB-3A28FF88A2B5</p>
 </div>
@@ -705,11 +723,12 @@ $
 1,  &&    1 \times a,  &&  9,  &&   9 \times a,  &&   9 \times a \times a \ldots
 \end{matrix}
 $
+
 $
 \begin{aligned}
 1 \times a \times a             &= 9 \\\\
 a^2                             &= 9 \\\\
-a^2                             &= 3^2 \\\\
+a                               &= \sqrt {3} \\\\
 a                               &= 3
 \end{aligned}
 $
@@ -721,7 +740,7 @@ $
                                 &= 3 \\\\
 \text{Second missing number}    &= 9 \times a \\\\
                                 &= 9 \times 3 \\\\ 
-                                &= 27
+                                &= 27 \\\\
 \text{Second missing number}    &= 9 \times a \times a \\\\
                                 &= 9 \times 3 \times 3 \\\\ 
                                 &= 81
@@ -742,7 +761,7 @@ Missing Numbers : $3 , 27 , 81$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -969,7 +988,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>7F5F775B-7E11-4998-A118-784117B4C479</p>
 </div>
@@ -1061,8 +1080,14 @@ What is the perimeter of the square left empty in the middle?
 <div class='workings'>
 <div class='working'>
 
-Side of square in the middle $= \text{length of rectangle} - \text{width of rectangle}$
-                             $= 7 - 3 = 4 \ \text{cm}$
+$
+\begin{aligned}
+\text {Side of square in the middle}    &= \text {length of rectangle} - \text {width of rectangle} \\\\
+                                        &= 7 - 3  \\\\
+                                        &= 4 \ \text{cm}
+\end{aligned}
+$
+
 Perimeter of the middle square $= 4 \times 4 = 16 \ \text{cm}$
 
 </div>
@@ -1082,7 +1107,7 @@ $16 \ \text{cm}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1325,7 +1350,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>6A0EC9AD-0A91-465C-9D77-92C64E1E72BC</p>
 </div>
@@ -1404,8 +1429,8 @@ $10 \times 2 + 7 \times 7 = 69$        $\Box$
 $
 \begin{aligned}
 &= 10 \times 2 + 7 \times 7 \\\\
-&= 20 + 14 \\\
-&= 34 \cancel {=} 69
+&= 20 + 49 \\\
+&= 69
 \end{aligned}
 $
 
@@ -1443,7 +1468,7 @@ $
 &= 12 + 21 - 3 \\\\
 &= 33 - 3 \\\\
 &= 30
-\ed{aligned}
+\end{aligned}
 $
 
 $12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
@@ -1481,7 +1506,7 @@ $
 &= \dfrac {3 \times 10}{3} + 2 \\\\
 &= \dfrac {\cancel {3} \times 10}{\cancel {3}} + 2 \\\\
 &= 10 + 2 \\\\
-&= 12 \cancel {=} 6
+&= 12 \ \cancel {=} \ 6
 \end{aligned}
 $
 
@@ -1516,11 +1541,11 @@ $24 \div 4 - 3 \times 2 = 0$        $\Box$
 $
 \begin{aligned}
 &= 24 \div 4 - 3 \times 2 \\\\
-&= \dfrac {24} {2} - 3 \times 2 \\\\
-&= \dfrac {12 \times 2} {2} - 3 \times 2 \\\\
-&= \dfrac {12 \times \cancel {2}} {\cancel {2}} - 3 \times 2 \\\\
-&= 12 - 6 \\\\
-&= 6 \cancel {=} 0
+&= \dfrac {24} {4} - 3 \times 2 \\\\
+&= \dfrac {6 \times 4} {4} - 3 \times 2 \\\\
+&= \dfrac {12 \times \cancel {4}} {\cancel {4}} - 3 \times 2 \\\\
+&= 6 - 6 \\\\
+&= 0
 \end{aligned}
 $
 
@@ -1543,12 +1568,12 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>03AD91B5-06E0-4B12-808B-4F0278EC9237</p>
 </div>
@@ -1595,7 +1620,7 @@ $
                                         &= \dfrac {2a} {4} \\\\
                                         &= \dfrac {2a} {2 \times 2} \\\\
                                         &= \dfrac {\cancel 2a} {\cancel 2 \times 2} \\\\
-                                        &= \dfrac {a} {2}
+                                        &= \dfrac {a} {2} \\\\
 \text{Fraction of Pension left}         &= \dfrac{\dfrac{a} {2}} {a} \\\\
                                         &= \dfrac{a} {2 \times a} \\\\
                                         &= \dfrac{\cancel a} {2 \times \cancel a} \\\\
@@ -1617,7 +1642,7 @@ $\dfrac{1} {2}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1954,7 +1979,7 @@ $0.008 \ \text{mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>57C9979B-2ACE-4BAF-8E7F-AC51C6373882</p>
 </div>
@@ -1989,29 +2014,37 @@ Exactly one of these statements is correct. Which one?
 <div class='workings'>
 <div class='working'>
 
+$43^2+ 56^2 = 4981$
+
 $
 \begin{aligned}
 &= 43^2+ 56^2 \\\\
 &= 1849 + 3136 \\\\
-&= 4985 \cancel {=} 4981
+&= 4985 \ \cancel {=} \ 4981
 \end{aligned}
 $
+
+$55^2 + 66^2= 7387$
 
 $
 \begin{aligned}
 &= 55^2 + 66^2 \\\\
 &= 3025 + 4356 \\\\
-&= 7381 \cancel {=} 7387
+&= 7381 \ \cancel {=} \ 7387
 \end{aligned}
 $
+
+$77^2+ 22^2 = 6415$
 
 $
 \begin{aligned}
 &= 77^2+ 22^2 \\\\
 &= 5929 + 484 \\\\
-&= 6413 \cancel {=} 6415
+&= 6413 \ \cancel {=} \ 6415
 \end{aligned}
 $
+
+$44^2+ 63^2 = 5905$
 
 $
 \begin{aligned}
@@ -2020,6 +2053,7 @@ $
 &= 5905
 \end{aligned}
 $
+
 Statement D is correct.
 
 </div>
@@ -2036,7 +2070,7 @@ D
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

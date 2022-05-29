@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-pr"
 title: "Topic - Time - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1514,9 +1514,9 @@ how many would there be after $6$ weeks?
 
 $
 \begin{aligned}
-\text{Inserts after six weeks} &= 2 \times 6 \times 100 \\\\
-                               &= 12 \times 100 \\\\
-                               &= 1200
+\text{Inserts after six weeks} &= 2 ^ 6 \times 100 \\\\
+                               &= 64 \times 100 \\\\
+                               &= 6400
 \end{aligned}
 $
 
@@ -1525,7 +1525,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1200$
+$6400$
 
 </div>
 </div>
@@ -1554,7 +1554,7 @@ $
 \begin{aligned}
 2 ^ n \times 100 &= 100000 \\\\
 2 ^ n            &= \dfrac {100000} {100} \\\\
-2 ^ n            &= \dfrac {1000 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+2 ^ n            &= \dfrac {1000 \cancel{00}} {1 \cancel{00}} \\\\
 2 ^ n            &= 1000
 \end{aligned}
 $
@@ -1766,7 +1766,7 @@ $
 \begin{aligned}
 \text{Temperature at 1500 hrs} &= 3 + 3 \times 1.5 \\\\
                                &= 3 + 4.5 \\\\
-                               &= 7.5 \degree
+                               &= 7.5 \degree C
 \end{aligned}
 $
 
@@ -1775,7 +1775,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7.5 \degree$
+$7.5 \degree C$
 
 </div>
 </div>
@@ -1804,7 +1804,7 @@ $
 \text{Temperature by 0400 hrs} &= 7.5 + 3 \times 1.5 + 10 \times - 3 \\\\
                                &= 7.5 + 4.5 - 30 \\\\
                                &= 12 - 30 \\\\
-                               &= - 18 \degree
+                               &= - 18 \degree C
 \end{aligned}
 $
 
@@ -1813,7 +1813,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 18 \degree$
+$- 18 \degree C$
 
 </div>
 </div>
@@ -3610,237 +3610,6 @@ $0719$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>E6B83B3B-E7BD-4594-8B68-CF66D6D588CC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram below shows the roads connecting eight villages. 
-The numbers next to each road (not drawn to scale) show the distances in miles for each stretch of road. 
-Isobel travels from $S$ to $T$ on her journey to work each day. Find the shortest distance from $S$ to $T$ and state the route taken:
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Shortest distance
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned} 
-\text {Shortest route}  &= \text {S to B to E to D to T} \\\\
-                        &= 4 + 3 + 1 + 1 + 1 \\\\
-                        &= 10 \ \text{miles}
-\end{aligned}
-$
-
-Shortest distance $= 10 \ \text{miles}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 \ \text{miles}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Route: From $S$ to $\text{\textunderscore \textunderscore \textunderscore }$ to $T$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {S to} \underline {\text { B to F to E to D }} \text {to T}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text { B to F to E to D }$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Isobel cycles at a steady speed of $15 \ \text{miles}$ per hour. Find the shortest time to complete the journey. 
-Give your answer in minutes. _________
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Time Isobel takes}     &= \dfrac {\text{Distance}} {\text{Speed}} \\\\
-                             &= \dfrac {10 \ \text {miles}} {15 \ \text {miles per hour}} \\\\
-                             &= 10 \ \text {miles} \times {\dfrac {60} {15} \ \text  {min per miles}} \\\\
-                             &= 10  \times \dfrac {60} {15} \\\\
-                             &= \dfrac {10 \times 60} {15} \\\\
-                             &= \dfrac {5 \times 2 \times 3 \times 20} {5 \times 3} \\\\
-                             &= \dfrac {\cancel 5 \times 2 \times \cancel 3 \times 20} {\cancel 5 \times \cancel 3} \\\\
-                             &= 2 \times 20 \\\\
-                             &= 40 \ \text {min}
-\end{aligned}
-$
-
-The shortest time Isobel will take to complete the journey $= 40 \ \text {min}$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \ \text {min}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Isobel listens to the local radio before setting off on her journey one morning. 
-She discovers that the road between $E$ and $F$ is completely blocked due to an earlier accident 
-and she is forced to choose an alternative route to work. 
-What is the least number of **additional** minutes that she will take to cycle to work today?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-If $E$ and $F$ are blocked the shortest new route would be:
-
-From $S \ \text {to} \ B \ \text {to} \ C \ \text{to} \ T$ .
-
-Let's find the new distance.
-
-$
-\begin{aligned} 
-&= S \ \text{to} \ B \ \text{to} \ C \ \text{to} \ T \\\\
-&= 4 + 2 + 6 \\\\
-&= 12 \ \text {miles}
-\end{aligned}
-$
-
-$
-\begin {aligned}
-\text {Speed} &= 15 \ \text {miles per hour \ \ } \\\\
-                 &= \dfrac {15} {60} \ \text {miles per min} \\\\
-\text {Distance} &= 12 \ \text {miles} 
-\end{aligned}
-$
-
-Now let's find the time.
-
-$
-\begin{aligned}
-\text{Time} & = \dfrac {\text{Distance}} {\text{Speed}} \\\\
-            & = \dfrac {12} { \dfrac {15}{60} } \\\\
-            & = 12  \times \dfrac {60} {15} \\\\
-            & = \dfrac {12 \times 60} {15} \\\\
-            & = \dfrac {3 \times 4 \times 5 \times 12} {5 \times 3} \\\\
-            & = \dfrac {\cancel 3 \times 4 \times \cancel 5 \times 12} {\cancel 5 \times \cancel 3} \\\\
-            & = 4 \times 12 \\\\
-            & = 48 \ \text {min}                                                                   
-\end{aligned}
-$
-
-Let's find the additional minutes by finding the difference in time taken by previous route and the new route.
-
-$48 \ \text {min}  - 40 \ \text {min} = 8 \ \text {min} $                                                                  
-
-The additional minutes Isobel will take to sycel to work today $= 8 \ \text {min}$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 \ \text {min}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>42B09AC3-796B-4A16-B123-5A18D316FA38</p>
@@ -4392,7 +4161,7 @@ Dita watches the television for $2 \text{ hours } 45 \text{ minutes}$ each weeke
 $
 \begin{aligned}
 \text{Time spent over three weekends} &= 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} \\\\
-                                      &= 8 \ \text{hours} \ 25 \ \text{minutes}
+                                      &= 8 \ \text{hours} \ 15 \ \text{minutes}
 \end{aligned}
 $
 
@@ -4401,7 +4170,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8 \ \text{hours} \ 25 \ \text{minutes}$
+$8 \ \text{hours} \ 15 \ \text{minutes}$
 
 </div>
 </div>
@@ -4578,14 +4347,14 @@ from London Euston to Birmingham International?
 <div class='workings'>
 <div class='working'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
@@ -4606,14 +4375,14 @@ from London Euston Station to Glasgow?
 <div class='workings'>
 <div class='working'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>
@@ -5182,53 +4951,6 @@ $3000 \text {pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>F3BE1318-A3C2-4027-94E9-36DD5A3FA799</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This clock has been reflected in a mirror.
-
-What is the actual time on the clock?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10{:}40$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10{:}40$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>43446268-ADB0-4C0A-8C8B-BD6F377D2D08</p>
@@ -5278,203 +5000,6 @@ $8 {:} 40 \ \text {a.m.}$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>C91E6035-9D47-42CB-834A-DB0B8A45E8A6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which bus takes the shortest time from Elgin to Inverness and by how many minutes?
-
-![missing table](/papers/missing_table.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's compare the two bus's time.
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Time taken by Bus P}          &= 1.06 - 11.47 \\\\
-                                    &= 1 \ \text{hour} \ 19 \ \text{minutes} \\\\
-\text{Time taken by Bus Q}          &= 1.50 - 12.33 \\\\
-                                    &= 1 \ \text{hour} \ 17 \ \text{minutes} \\\\
-\text{Difference in time}           &= 1 \ \text{hour} \ 19 \ \text{minutes} - 1 \ \text{hour} \ 17 \ \text{minutes} \\\\
-                                    &= 2 \ \text{minutes}
-\end{aligned}
-$
-
-Bus Q takes less time by $2 \ \text{minutes}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \ \text{minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>D83FB293-ED94-45B3-84CF-CBEC198E7DF3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Amira checks the time when she sets off on her journey to school in the morning.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write the time as a $12$-hour time.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$7{:}27 \ \text {a.m.}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7{:}27 \ \text {a.m.}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-At twenty minutes to eight, Amira stops to buy an apple from the shop.
-
-Write ‘twenty minutes to eight’ as a $12$-hour clock time.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$7{:}40 \ \text {a.m.}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7{:}40 \ \text {a.m.}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Amira spends five minutes at the shop before walking another twenty-three minutes to get to school.
-
-At what time does Amira reach school?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 7{:}40 + 5 \ \text {minutes} + 23 \ \text {minutes} \\\\
-&= 7{:}40 + 28 \ \text {minutes} \\\\
-&= 8{:}08 \ \text {a.m.}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8{:}08 \ \text {a.m.}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

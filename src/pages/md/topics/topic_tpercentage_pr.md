@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-pr"
 title: "Topic - Percentage - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -682,7 +682,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {N0. of veg. sandwiches sold}     &= 45 \% \ \text {of} \ \text {total sandwiches} \\\\
+\text {No. of veg. sandwiches sold}     &= 45 \% \ \text {of} \ \text {total sandwiches} \\\\
                                         &= \dfrac {45} {100} \times 40 \\\\
                                         &= \dfrac {45 \times 40} {100} \\\\
                                         &= \dfrac {9 \times 5 \times 20 \times 2} {20 \times 5} \\\\
@@ -707,67 +707,6 @@ $18$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What percentage of the integers $1 - 100$ inclusive are not a multiple of $10$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's write down all the multiples of $10$ between $1$ and $100$ inclusive.
-
-Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
-
-There are total $10$ numbers between $1$ and $100$ inclusive that are multiples of $10$.
-
-So numbers that are not multiples of $10 = 100 - 10 = 90$. Using this we get,
-
-$
-\begin{aligned}
-\text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
-                    &= \dfrac {90 \times 100} {100} \\\\
-                    &= \dfrac {90 \times \cancel {100} } {\cancel {100} } \\\\
-                    &= 90 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90 \%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -1293,7 +1232,8 @@ $
                   &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
                   &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
                   &= \dfrac {3} {5} \\\\
-                  &= 0.6 \%
+                  &= 0.6 \times 100 \\\\
+                  &= 60 \%
 \end{aligned}
 $
 
@@ -1302,7 +1242,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.6 \%$
+$60 \%$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-g1"
 title: "Owner - Nitin Joshi - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -129,6 +129,110 @@ $13$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>1379DE70-C5AB-45C5-84C7-55AE20A0CA8E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You can buy a new calculator for $\bold{\pounds 1.25}$
+
+![missing image](/papers/missing_image.svg)
+
+In 1979 the same type of calculator cost $\bold{22\:\:times}$ as much as it costs now. 
+
+How much did the same type of calculator cost in 1979?
+
+Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Cost of calculator in} \ 1979   &= 1.25 \times 22 \\\\
+                                       &= \pounds 27.5
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 27.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>79795420-38FD-4AE7-84E8-377DBD4317D4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many triangles are there in this diagram?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>286BFED8-7256-45C4-AA5A-FC71136B6B5D</p>
 </div>
 <div class='topics'>
@@ -225,6 +329,322 @@ $112$
 
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfactor
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What percentage of the integers $1 - 100$ inclusive are not a multiple of $10$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write down all the multiples of $10$ between $1$ and $100$ inclusive.
+
+Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
+
+There are total $10$ numbers between $1$ and $100$ inclusive that are multiples of $10$.
+
+So numbers that are not multiples of $10 = 100 - 10 = 90$. Using this we get,
+
+$
+\begin{aligned}
+\text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
+                    &= \dfrac {90 \times 100} {100} \\\\
+                    &= \dfrac {90 \times \cancel {100} } {\cancel {100} } \\\\
+                    &= 90 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>ACA26B1F-A7BD-4600-BA3F-B16189433567</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Each of the following calculations is incomplete.
+This is indicated by a question mark. For each part of the question, state the value of the missing digit.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$56 + 975 = 10{?}1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &       &                         5   &   6 \\
+{}+ &  9    &                         7   &   5 \\
+\hline
+  1 &  0    & \maroonC {3}   &   1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0.35 + 1.{?}7 = 2.22$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccc}
+    &   0 \ . &                         3   &   5 \\
+{}+ &   1 \ . & \maroonC {8}   &   7 \\
+\hline
+    &   2 \ . &                         2   &   2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$9{?}5 - 128 = 777$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &  9    & \maroonC {0}    &   6 \\
+{}- &  1    &                          2   &   8 \\
+\hline
+    &  7    &                          7   &   1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+${?} - 7 = -2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$
+
+As per the question,
+
+$
+\begin {aligned}
+a - 7 &= -2 \\\\
+a     &= -2 + 7 \\\\
+a     &= 5
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$13 \times 1{?}1 = 1703$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{ccccccccc}
+       &        &                             1   &   3 \\
+\times &    1   &     \maroonC {3}   &   1 \\
+\hline
+       &        &                             1   &   3 \\
+       &    3   &                             9   &   0 \\
+1      &    3   &                             0   &   0 \\
+\hline
+1      &    7   &                             0   &   3
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1.1 \div 2 = 0.{?}5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1.1 \div 2 = 0. \maroonC {5} 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -10308,6 +10728,71 @@ $933  \ \text{minutes}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>869FD852-D1F1-49AF-B701-45D924CC185A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgraph
+</li>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$16$ cards each have a letter on them. The chart below shows how many with each letter on them.
+
+![missing image](/papers/missing_image.svg)
+
+I pick a card with an $F$ on it and don’t put it back.
+
+If I pick another card, what is the probability it will have a $E$ on it?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the graph,
+
+Total cards with D left after one card is removed $2 - 1 = 1$ 
+
+$
+\begin{aligned} 
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {3} {1 + 2 + 4 + 4 + 3 + 1} \\\\
+                    &= \dfrac {3} {15} \\\\
+                    &= \dfrac {3} {5 \times 3} \\\\
+                    &= \dfrac {\cancel {3}} {5 \times \cancel {3}} \\\\
+                    &= \dfrac {1} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>4FAE2ECB-8394-4207-9FAD-04BFD8BDE179</p>
 </div>
 <div class='topics'>
@@ -13508,6 +13993,60 @@ $112 \ \text{minutes}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>8ED09CBE-F792-4A40-ACD9-D36DBA35CEE6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tlcm
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When a rope is cut equally into $8$ pieces it is discovered that each piece is a whole number of centimetres long. 
+The same thing happens if this rope is cut into $6$ pieces. What is the shortest length that this rope could be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved by finding the LCM of $8$ and $6$
+
+Let's first find LCM for $8$ and $6$ by listing multiples. The smallest number that is a multiple of two numbers is the LCM
+
+Multiple of $8 = 8, 16, 24, 32, 40, \ldots$
+
+Multiple of $6 = 6, 12, 18, 24, 30, \ldots$
+
+The LCM of $8$ and $6$ is the smallest number that is a multiple of both numbers $=24$.
+
+The shortest length that this rope could be $= 24 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>E53AB2CA-6901-4720-8F5B-B9BCED54252C</p>
 </div>
 <div class='topics'>
@@ -14101,6 +14640,129 @@ $\pounds 13.14$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The thermometres below show the tempratures inside and outside a window at midday, one day in winter. 
+
+![missing image](/papers/missing_image.svg) 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many degrees warmer is it inside than outside the window?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Difference in  temperature}  &= 17 - (- 3) \degree \ \text {C} \\\\
+                                    &= 17 + 3 \\\\
+                                    &= 20 \degree \ \text {C}
+\end{aligned}
+$
+
+It is $20 \degree \ \text {C}$ warmer inside than outside the window.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \degree \ \text {C}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At midnight, the temprature outside had fallen by $2 \ \text{degrees}$.
+
+What was the temprature outside the window at midnight?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Temperature outside at midnight}  &= - 3 - 2 \degree \ \text {C} \\\\
+                                         &= - 5 \degree \ \text {C}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- 5 \degree \ \text {C}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>9AAD47A6-8EDE-49FB-B47D-803015F12A99</p>
 </div>
 <div class='topics'>
@@ -14459,6 +15121,209 @@ $
 <div class='answer'>
 
 $14743$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>B87F60E9-CD24-4B59-933C-CDE3117D3989</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are $5$ number cards
+
+$\boxed{7} \ \boxed{2} \ \boxed{6} \ \boxed{4} \ \boxed{8}$
+
+The $5$ cards can be placed in an order to form a $5$-digit number.
+
+For example, the smallest number which could be made using all $5$ cards is:
+
+$\boxed{2} \boxed{4} \boxed{6} \boxed{7} \boxed{8}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using all $5$ cards:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+what is the largest possible odd number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$86427$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$86427$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+what is the number that is closest to $50000$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$48762$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48762$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using only $2$ of the cards, what is the largest possible prime number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$67$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$67$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Arrange any $3$ of the number cards to give the largest possible answer to this multiplication.
+
+$\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \times \ \boxed{\phantom{1}}$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 76 \times 8 \\\\
+&= 608
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$608$
 
 </div>
 </div>
@@ -16015,6 +16880,184 @@ $\pounds 52.2$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>91EAC938-64F8-4348-83F9-074560E4256F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Field crickets chirp according to the temperature of their surroundings.
+
+You can use the following rule to work out the temperature:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Freddie, the field cricket, chirps $61$ times per minute.
+
+Work out the temperature of Freddie’s surroundings.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Temperature of Freddie’s surroundings} &= (61 - 40) \div 7 + 10 \\\\
+                                             &= 21 \div 7 + 10 \\\\
+                                             &= \dfrac {21} {7} + 10 \\\\
+                                             &= \dfrac {7 \times 3} {7} + 10 \\\\
+                                             &= \dfrac {\cancel {7} \times 3} {\cancel {7}} + 10 \\\\\
+                                             &= 3 + 10 \\\\
+                                             &= 13 \degree \ \text{C}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13 \degree \ \text{C}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Flora, the field cricket, chirps $41$ times in $30 \ \text{seconds}$.
+
+Work out the temperature of Flora’s surroundings.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Temperature of Flora’s surroundings}   &= (41 \times 2 - 40) \div 7 + 10 \\\\
+                                             &= (82 - 40) \div 7 + 10 \\\\
+                                             &= 42 \div 7 + 10 \\\\
+                                             &= \dfrac {42} {7} + 10 \\\\
+                                             &= \dfrac {7 \times 6} {7} + 10 \\\\
+                                             &= \dfrac {\cancel {7} \times 6} {\cancel {7}} + 10 \\\\\
+                                             &= 6 + 10 \\\\
+                                             &= 16 \degree \ \text{C}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \degree \ \text{C}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The temperature of Flossie’s surroundings is $18 \degree \text{C}$.
+
+Work out how many times Flossie chirps in $1 \ \text{minute}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Flossie chirps for $= a$ times in $1 \ \text{minute}$.
+
+As per the question,
+
+$
+\begin{aligned}
+18         &= (a - 40) \div 7 + 10 \\\\
+18         &= \dfrac {a - 40} {7} + 10 \\\\
+18 - 10    &= \dfrac {a - 40} {7} \\\\
+8          &= \dfrac {a - 40} {7} \\\\
+a - 40     &= 8 \times 7 \\\\
+a - 40     &= 56 \\\\
+a          &= 56 - 40 \\\\
+a          &= 16
+\end{aligned}
+$
+
+Flossie Chirps for $16$ times in $1 \ \text{minute}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>376F37EC-1A3D-4857-B11B-3A35720D6E40</p>
 </div>
 <div class='topics'>
@@ -16514,6 +17557,65 @@ $87$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the number in the list below that is closest to $\dfrac{1}{2}$
+                                                      
+$\dfrac{1}{5} \quad \dfrac{3}{7} \quad \dfrac{5}{9} \quad \dfrac{7}{11}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {1} {2} = 0.5$
+
+Let's convert all the numbers to decimal.
+
+$
+\begin {aligned}
+&= \dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
+&= 0.2, \quad 0.42, \quad 0.55, \quad 0.63
+\end {aligned}
+$
+
+$0.55 = \dfrac {5} {9}$ is the closest to $\dfrac {1} {2}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {5} {9}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>096131F4-72CE-446C-9543-2653E59BA346</p>
 </div>
 <div class='topics'>
@@ -16880,6 +17982,68 @@ $17.13$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>F922D651-408E-4359-84E9-92753CFE0F39</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A shop sells coffee from Ethiopia.
+
+The prices for coffee beans and ground coffee are shown below.
+
+![missing image](/papers/missing_image.svg)
+
+![missing table](/papers/missing_table.svg)
+
+How much more does it cost to buy $250 \text{g}$ of ground coffee than $250 \text{g}$ of coffee beans?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Cost of ground coffee}   &= \dfrac {2.10} {100} \times 250 \\\\
+                                &= \pounds 5.250 \\\\
+\text {Cost of coffee beans}    &= \dfrac {9.40} {4} \\\\
+                                &= \pounds 2.350 \\\\
+\text {Difference in cost}      &= 5.250 - 2.350 \\\\
+                                &= \pounds 2.900
+\end {aligned}
+$
+
+Ground coffee costs $\pounds 2.900$ more than coffee beans.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.900$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5</p>
 </div>
 <div class='topics'>
@@ -16994,6 +18158,65 @@ $
 <div class='answer'>
 
 $150 \ \text {grams}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>DECB8B2F-C98F-461B-8772-23E3052D7DF2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Callum buys a new laptop costing $\pounds 572.50$
+
+He makes an initial payment of $\pounds 136$, and then pays the remainder in $6$ equal monthly amounts.
+
+![missing image](/papers/missing_image.svg)
+
+How much is each monthly amount?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Each monthly amount}     &= \dfrac {\text {Total amount} - \text {Initial payment}} {6} \\\\
+                                &= \dfrac {572.50 - 136} {6} \\\\
+                                &= \dfrac {436.5} {6} \\\\
+                                &= \pounds 72.75
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 72.75$
 
 </div>
 </div>
@@ -17208,6 +18431,119 @@ $2700$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>E2FDFBE8-D93C-4E13-8DDB-87CE62F1BAF5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This scale shows the mass of a letter.
+
+The numbers around the outside are in grams (g), and the numbers inside the circle represent ounces (oz).
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the mass of the letter in grams?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the scale,
+
+The mass of the letter $= 70 \ \text {g}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$70 \ \text {g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A parcel has a mass of $120 \text{g}$.
+
+What is its mass in ounces?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the scale,
+
+The mass of the parcel $= 2.75 \ \text {oz}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.75 \ \text {oz}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>460183B0-7FB1-4AE5-A539-6CE39B381434</p>
 </div>
 <div class='topics'>
@@ -17310,6 +18646,53 @@ $\ \text {Saturday}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>F3BE1318-A3C2-4027-94E9-36DD5A3FA799</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This clock has been reflected in a mirror.
+
+What is the actual time on the clock?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10{:}40$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10{:}40$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>C59005D5-EA4A-432B-99E9-DF224B680D47</p>
 </div>
 <div class='topics'>
@@ -17365,6 +18748,56 @@ $
 <div class='answer'>
 
 $8 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>0EA6356F-FEB5-46B4-85FF-77EC923BBA69</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnoexplanation
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below is made from a number of equilateral triangles.
+
+How many equilateral triangles (of any size) can be found in the diagram?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$29$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$29$
 
 </div>
 </div>
@@ -18667,6 +20100,129 @@ $24$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>34C4A0D4-9A04-4290-879F-66A94B759004</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a box of shapes there are three times as many squares as there are circles.
+
+There are twice as many triangles as squares.
+
+
+If there are $45$ squares, how many shapes are there altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Number of circles $= \dfrac {45} {3}$.
+
+Number of triangles $= 45 \times 2$.
+
+$
+\begin{aligned}
+\text {Total shapes}    &= 45 + \dfrac {45} {3} + 45 \times 2 \\\\
+                        &= 45 + \dfrac {15 \times 3} {3} +90 \\\\
+                        &= 45 + \dfrac {15 \times \cancel {3}} {\cancel {3}} +90 \\\\
+                        &= 45 + 15 + 90 \\\\
+                        &= 60 + 90 \\\\
+                        &= 150
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>C91E6035-9D47-42CB-834A-DB0B8A45E8A6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which bus takes the shortest time from Elgin to Inverness and by how many minutes?
+
+![missing table](/papers/missing_table.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's compare the two bus's time.
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time taken by Bus P}          &= 1.06 - 11.47 \\\\
+                                    &= 1 \ \text{hour} \ 19 \ \text{minutes} \\\\
+\text{Time taken by Bus Q}          &= 1.50 - 12.33 \\\\
+                                    &= 1 \ \text{hour} \ 17 \ \text{minutes} \\\\
+\text{Difference in time}           &= 1 \ \text{hour} \ 19 \ \text{minutes} - 1 \ \text{hour} \ 17 \ \text{minutes} \\\\
+                                    &= 2 \ \text{minutes}
+\end{aligned}
+$
+
+Bus Q takes less time by $2 \ \text{minutes}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>ECB9BF93-8E27-42A0-873B-87BFA9D37BB8</p>
 </div>
 <div class='topics'>
@@ -18712,6 +20268,565 @@ $17$
 </div>
 </div>
 
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>28904A21-C435-41CB-8D8F-3EAD051E5F5C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number is indicated by the arrow on the scale?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12.15$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12.15$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>5386A862-7004-4EB7-85BF-4DB8111B2763</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which is more likely, rolling a $3$ with an unbiased die with six faces, or getting a head with a fair coin?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the first value.
+
+$
+\begin{aligned} 
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {1} {6}
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned} 
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+                    &= \dfrac {1} {2} \\\\
+                    &= \dfrac {1 \times 3} {2 \times 3} \\\\
+                    &= \dfrac {3} {6}
+\end{aligned}
+$
+
+Using the calculation above $\dfrac {3} {6} > \dfrac {1} {6}$.
+
+So it is more likely to get a head with a fair coin than rolling a $3$ with an unbiased die with six faces.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Getting a head with a fair coin}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>2EAFF991-0339-4DCB-B936-D87259A62353</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Penny places $10 \text{p}$ coins, touching, in a straight line.
+
+She hopes to make a line of coins that measures $1 \ \text{km}$.
+
+A $10 \text{p}$ coin has a diameter of $25 \ \text{mm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How long, in metres, is a line of forty $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 40 \times 25 \ \text {mm} \\\\
+&= 40 \times \dfrac {25} {1000} \ \text {m} \\\\
+&= \dfrac {40 \times 25} {1000} \ \text {m} \\\\
+&= \dfrac {40 \times 25} {40 \times 25} \\\\
+&= \dfrac {\cancel {40} \times \cancel {25}} {\cancel {40} \times \cancel {25}} \\\\
+&= 1 \ \text {m}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the total value, in pounds, of forty $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 40 \times 10 \ \text {p} \\\\
+&= 40 \times \pounds \dfrac {10} {100} \\\\
+&= \dfrac {40 \times 10} {100} \\\\
+&= \dfrac {4 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+&= \pounds 4
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many coins will Penny need for a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Penny required}  &= \dfrac {\text {Total distance}} {\text {diameter of one coin}} \\\\
+                        &= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {40000 \times 25} {25} \\\\
+                        &= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
+                        &= 40000
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the total value of a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total value}     &= \text {Total penny} \times \text {value of one penny} \\\\
+                        &= 40000 \times 10 \ \text {p} \\\\
+                        &= 40000 \times \pounds \dfrac {10} {100} \\\\
+                        &= \dfrac {40000 \times 10} {100} \\\\
+                        &= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+                        &= \pounds 4000
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4000$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>6ABD9083-9950-424C-A91E-55291150A4DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Six girls took a maths test.
+
+Their marks were $13 \quad 18 \quad 14 \quad 20 \quad 7 \quad 18$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the difference between the highest and lowest marks?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 20 - 7 \\\\
+&= 13
+\end {aligned}
+$
+
+The difference between the highest and lowest marks is $13$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Ashleigh’s mark was seven more than Bella’s mark and six less than Connie’s mark.
+
+What was Ashleigh’s mark?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Ashleigh’s marks are $14$ as $7 + 7 = 14$, $7$ more than Bella’s marks, also $20 - 6 = 14$, $6$ less than Connie’s marks.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>D83FB293-ED94-45B3-84CF-CBEC198E7DF3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Amira checks the time when she sets off on her journey to school in the morning.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the time as a $12$-hour time.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$7{:}27 \ \text {a.m.}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7{:}27 \ \text {a.m.}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At twenty minutes to eight, Amira stops to buy an apple from the shop.
+
+Write ‘twenty minutes to eight’ as a $12$-hour clock time.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$7{:}40 \ \text {a.m.}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7{:}40 \ \text {a.m.}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Amira spends five minutes at the shop before walking another twenty-three minutes to get to school.
+
+At what time does Amira reach school?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 7{:}40 + 5 \ \text {minutes} + 23 \ \text {minutes} \\\\
+&= 7{:}40 + 28 \ \text {minutes} \\\\
+&= 8{:}08 \ \text {a.m.}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8{:}08 \ \text {a.m.}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
@@ -19441,6 +21556,327 @@ $
 <div class='answer'>
 
 $35$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>FCFAFC6F-1712-4B57-99C9-697FE6184648</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Five friends raise $\pounds 400$ for their favourite charity. 
+Alan collects $\pounds 74$  and Bilal raises $\pounds 86$. 
+Chloe collects twice as much as David who raises three times as much as Emily. How much did Chloe collect?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Emily's collection (in $\pounds$) $= a$. Then,
+
+David's collection $= 3a$
+
+Chloe's collection $= 6a$
+
+As per the question,
+
+$
+\begin{aligned}  
+74 + 86 + 6a + 3a + a   &= 400 \\\\
+160 + 10a               &= 400 \\\\
+10a                     &= 400 - 160 \\\\
+10a                     &= 240 \\\\
+a                       &= \dfrac {240} {10} \\\\
+a                       &= \pounds 24
+\end{aligned}
+$
+
+Emily's collection $= \pounds 24$
+
+Let's find Chloe's collection.
+
+$
+\begin{aligned}  
+\text{Chloe's collection} &= 6a \\\\
+                          &= 6 \times 24 \\\\
+                          &= \pounds 144
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 144$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>839261B7-4E0B-4FF5-A157-78F5DDA2504D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If one cake and two biscuits provide $450 \ \text {calories}$ and two cakes and three biscuits provide $800 \ \text {calories}$, how many $\ \text{calories}$ are provided by one biscuit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the calories provided by the cake (in calories) $= c$
+
+Let the calories provided by the biscuit (in calories) $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+c + 2b      &= 450 \\\\
+2c + 3b     &= 800         
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+But which one should we eliminate? 
+
+If we look at the question again, we only need the 
+calories provided by the biscuit, so let's eliminate $c$ so we can directly calculate the value for $b$.
+
+Multiply the first equation by $2$.
+
+$
+\begin{aligned}
+c + 2b                          &= 450 \\\\
+2 \times c  + 2 \times 2b       &= 2 \times 450 \\\\
+2c + 4b                         &= 900
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2c + 4b                 &= 900 \\\\
+2c + 3b                 &= 800    \\\\
+2c + 4b -(2c + 3b)      &= 900 - 800 \\\\
+2c + 4b - 2c - 3b       &= 100 \\\\
+b                       &= 100  \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the biscuit $= 100  \ \text {calories}$
+
+</div>
+<div class='working'>
+
+What if we eliminate $b$ instead?
+
+This approach is less efficient as we will have to calculate one extra value to get the answer.
+
+Let's eliminate to reduce it to just one variable. 
+
+The LCM of $2$ and $3$ is $6$.
+Multiply the first equation by $3$ and the second equation by $2$ to make the coeifficent of $b$ the same.
+
+$
+\begin{aligned} 
+c + 2b                          &= 450 \\\\
+2c + 3b                         &= 800  \\\\   
+3 \times c + 3 \times 2b        &= 3 \times 450 \\\\
+2 \times 2c + 2 \times 3b       &= 2 \times 800  \\\\    
+3c + 6b                         &= 1050 \\\\
+4c + 6b                         &= 1600  \\\\   
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned}
+3c + 6b                 &= 1350 \\\\
+4c + 6b                 &= 1600  \\\\ 
+4c + 6b - (3c + 6b)     &= 1600 - 1350  \\\\ 
+4c + 6b - 3c - 6b       &= 250  \\\\ 
+c                       &= 250 \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the cake $= 250 \ \text {calories}$. 
+
+Let's substitute the value of $c$ in one of the initial equations to find the calories provided by the biscuit.
+
+$
+\begin{aligned} 
+c + 2b                          &= 450 \\\\
+250 + 2b                        &= 450 \\\\
+2b                              &= 450 - 250 \\\\
+2b                              &= 200 \\\\
+b                               &= \dfrac{200}{2} \\\\
+b                               &=  100  \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the biscuit $= 100  \ \text {calories}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100  \ \text {calories}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>3143F4B2-41D5-4792-B6A8-FD619A39DC38</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If the rules about what order to do arithmetic operations do **not** apply for this last question on the paper then $2 + 4 \times 3$ could be $2 + 12 = 14$ or $6 \times 3 = 18$.
+
+Of the **five different** answers that there could be for the following question
+
+$14 - 3 \times 4 - 2 =$
+
+depending on the order you use for the operations, **which answer would be in the middle if the answers were placed in descending order (from largest to smallest)?**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's use brackets to show the sequence in which we apply the operations and give precedence to operators.
+
+$
+\begin{aligned}
+\text{Solution } 1  &= 14 - 3 \times 4 - 2 \\\\
+                    &= (14 - 3) \times (4 - 2) \\\\
+                    &= 11 \times 2 \\\\
+                    &= 22
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 2  &= 14 - 3 \times 4 - 2 \\\\
+                    &= (14 - 3) \times  4 - 2 \\\\
+                    &= 11 \times 4 - 2 \\\\
+                    &= (11 \times 4) - 2 \\\\
+                    &= 44 - 2 \\\\
+                    &= 42
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 3  &= 14 - 3 \times 4 - 2 \\\\
+                    &= 14 - (3 \times 4) - 2 \\\\                   
+                    &= 14 - 12 - 2 \\\\
+                    &= (14 - 12) - 2 \\\\
+                    &= 2 - 2 \\\\
+                    &= 0
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 4  &= 14 - 3 \times 4 - 2 \\\\
+                    &= 14 - (3 \times 4) - 2 \\\\
+                    &= 14 - 12 - 2 \\\\
+                    &= 14 - (12 - 2) \\\\
+                    &= 14 - 10 \\\\
+                    &= 4
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 5  &= 14 - 3 \times 4 - 2 \\\\
+                    &= 14 - 3 \times (4 - 2) \\\\
+                    &= 14 - 3 \times 2\\\\
+                    &= 14 - (3 \times 2) \\\\
+                    &= 14 - 6 \\\\
+                    &= 8
+\end{aligned}
+$
+
+Let's put them in descending order.
+
+$42, \quad 22, \quad 8, \quad 4, \quad 0$
+
+Answer in the middle $= 8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
 
 </div>
 </div>

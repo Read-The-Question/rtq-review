@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-g1"
 title: "Topic - Algebra - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -17192,6 +17192,183 @@ $24$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>34C4A0D4-9A04-4290-879F-66A94B759004</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a box of shapes there are three times as many squares as there are circles.
+
+There are twice as many triangles as squares.
+
+
+If there are $45$ squares, how many shapes are there altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Number of circles $= \dfrac {45} {3}$.
+
+Number of triangles $= 45 \times 2$.
+
+$
+\begin{aligned}
+\text {Total shapes}    &= 45 + \dfrac {45} {3} + 45 \times 2 \\\\
+                        &= 45 + \dfrac {15 \times 3} {3} +90 \\\\
+                        &= 45 + \dfrac {15 \times \cancel {3}} {\cancel {3}} +90 \\\\
+                        &= 45 + 15 + 90 \\\\
+                        &= 60 + 90 \\\\
+                        &= 150
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>6ABD9083-9950-424C-A91E-55291150A4DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Six girls took a maths test.
+
+Their marks were $13 \quad 18 \quad 14 \quad 20 \quad 7 \quad 18$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the difference between the highest and lowest marks?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 20 - 7 \\\\
+&= 13
+\end {aligned}
+$
+
+The difference between the highest and lowest marks is $13$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Ashleigh’s mark was seven more than Bella’s mark and six less than Connie’s mark.
+
+What was Ashleigh’s mark?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Ashleigh’s marks are $14$ as $7 + 7 = 14$, $7$ more than Bella’s marks, also $20 - 6 = 14$, $6$ less than Connie’s marks.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
@@ -18178,6 +18355,168 @@ $6 \ \text {m}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>2B2789EB-87CB-4268-A450-11BE3B271963</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On a taxi journey with one particular taxi company, the fare is worked out using a set starting charge plus a charge for each quarter of a mile travelled (the QMC).
+
+So if the starting charge is $\pounds 1$ and the QMC (charge for each quarter of a mile) is $50 \text{p}$ then the total fare for a one mile journey is given by
+
+Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ journey at another taxi company is $\pounds 9.60$ and the QMC (charge for each quarter of a mile) is $80\text{p}$, what is the starting charge?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Quaters in} \ 2 \dfrac {1} {2} \ \text {miles} &= 2 \dfrac {1} {2} \times 4 \\\\
+                                                     &= \dfrac {5} {2} \times 4 \\\\
+                                                     &= \dfrac {5 \times 4} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times 2} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                                                     &= 10
+\end{aligned}
+$
+
+Let the starting fare $= a$
+
+QMC = $80$ pence
+
+Total fare = starting charge + (quarter miles $\times 80p$)
+
+$
+\begin{aligned}
+\pounds 9.60 &= a + (10 \times 80p) \\\\
+\pounds 9.60 &= a + 800p \\\\
+\pounds 9.60 &= a + \pounds \dfrac {800} {100} \\\\
+\pounds 9.60 &= a + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
+9.60 - 8     &= a \\\\
+a            &= 9.60 - 8 \\\\
+a            &= \pounds 1.60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the starting charge at a third company is $\pounds 2.20$ and the Total Fare for a $6 \dfrac {1}{4} \ \text{mile}$ journey is $\pounds 12.20$, what is the QMC?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Quaters in} \ 6 \dfrac {1} {4} \ \text{miles} &= 6 \dfrac {1} {4} \times 4 \\\\
+                                                    &= \dfrac {25} {4} \times 4 \\\\
+                                                    &= \dfrac {25 \times 4} {4} \\\\
+                                                    &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
+                                                    &= 25
+\end{aligned}
+$
+
+Total fare = starting charge + (quarter miles $\times$ QMC)
+
+Let the QMC $= q$
+
+$
+\begin{aligned}
+\pounds 12.20    &= \pounds 2.20 + (25 \times q) \\\\
+12.20 - 2.20     &= 25 \times q \\\\
+10               &= 25 \times q \\\\
+\dfrac {10} {25} &= q \\\\
+q                &= \dfrac {10} {25} \\\\
+q                &= \dfrac {10 \times 100 \text{p}} \\\\
+q                &= \dfrac {10 \times 25 \times 4} {25} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4} {\cancel {25}} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4 \text{p}} {\cancel {25}} \\\\
+q                &= 4 \times 10 \\\\
+q                &= 40 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A6AC1588-C3E0-4190-A84D-7153A5624431</p>
@@ -18235,6 +18574,219 @@ $
 <div class='answer'>
 
 $35$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>FCFAFC6F-1712-4B57-99C9-697FE6184648</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Five friends raise $\pounds 400$ for their favourite charity. 
+Alan collects $\pounds 74$  and Bilal raises $\pounds 86$. 
+Chloe collects twice as much as David who raises three times as much as Emily. How much did Chloe collect?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Emily's collection (in $\pounds$) $= a$. Then,
+
+David's collection $= 3a$
+
+Chloe's collection $= 6a$
+
+As per the question,
+
+$
+\begin{aligned}  
+74 + 86 + 6a + 3a + a   &= 400 \\\\
+160 + 10a               &= 400 \\\\
+10a                     &= 400 - 160 \\\\
+10a                     &= 240 \\\\
+a                       &= \dfrac {240} {10} \\\\
+a                       &= \pounds 24
+\end{aligned}
+$
+
+Emily's collection $= \pounds 24$
+
+Let's find Chloe's collection.
+
+$
+\begin{aligned}  
+\text{Chloe's collection} &= 6a \\\\
+                          &= 6 \times 24 \\\\
+                          &= \pounds 144
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 144$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>839261B7-4E0B-4FF5-A157-78F5DDA2504D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If one cake and two biscuits provide $450 \ \text {calories}$ and two cakes and three biscuits provide $800 \ \text {calories}$, how many $\ \text{calories}$ are provided by one biscuit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the calories provided by the cake (in calories) $= c$
+
+Let the calories provided by the biscuit (in calories) $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+c + 2b      &= 450 \\\\
+2c + 3b     &= 800         
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+But which one should we eliminate? 
+
+If we look at the question again, we only need the 
+calories provided by the biscuit, so let's eliminate $c$ so we can directly calculate the value for $b$.
+
+Multiply the first equation by $2$.
+
+$
+\begin{aligned}
+c + 2b                          &= 450 \\\\
+2 \times c  + 2 \times 2b       &= 2 \times 450 \\\\
+2c + 4b                         &= 900
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2c + 4b                 &= 900 \\\\
+2c + 3b                 &= 800    \\\\
+2c + 4b -(2c + 3b)      &= 900 - 800 \\\\
+2c + 4b - 2c - 3b       &= 100 \\\\
+b                       &= 100  \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the biscuit $= 100  \ \text {calories}$
+
+</div>
+<div class='working'>
+
+What if we eliminate $b$ instead?
+
+This approach is less efficient as we will have to calculate one extra value to get the answer.
+
+Let's eliminate to reduce it to just one variable. 
+
+The LCM of $2$ and $3$ is $6$.
+Multiply the first equation by $3$ and the second equation by $2$ to make the coeifficent of $b$ the same.
+
+$
+\begin{aligned} 
+c + 2b                          &= 450 \\\\
+2c + 3b                         &= 800  \\\\   
+3 \times c + 3 \times 2b        &= 3 \times 450 \\\\
+2 \times 2c + 2 \times 3b       &= 2 \times 800  \\\\    
+3c + 6b                         &= 1050 \\\\
+4c + 6b                         &= 1600  \\\\   
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned}
+3c + 6b                 &= 1350 \\\\
+4c + 6b                 &= 1600  \\\\ 
+4c + 6b - (3c + 6b)     &= 1600 - 1350  \\\\ 
+4c + 6b - 3c - 6b       &= 250  \\\\ 
+c                       &= 250 \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the cake $= 250 \ \text {calories}$. 
+
+Let's substitute the value of $c$ in one of the initial equations to find the calories provided by the biscuit.
+
+$
+\begin{aligned} 
+c + 2b                          &= 450 \\\\
+250 + 2b                        &= 450 \\\\
+2b                              &= 450 - 250 \\\\
+2b                              &= 200 \\\\
+b                               &= \dfrac{200}{2} \\\\
+b                               &=  100  \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the biscuit $= 100  \ \text {calories}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100  \ \text {calories}$
 
 </div>
 </div>
@@ -19062,6 +19614,257 @@ $34$
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>9F5604EB-F79E-4CB6-8EE3-55D385FB760A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Concert tickets for $4$ adults cost a total of $\pounds 62.         ![missing image](/papers/missing_image.svg)
+
+Children are admitted at half price.
+
+What would it cost for $2$ adults and a child to attend the same concert?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+Cost of tickets for $4$ adults = $\pounds 62$
+
+Cost of ticket for $1$ adult = $\dfrac {62}{4}$
+
+$
+\begin{aligned}
+&= 15 \dfrac{2} {4} \\\\
+&= 15 \dfrac {2} {2 \times 2} \\\\
+&= 15 \dfrac {\cancel {2}} {\cancel {2} \times 2} \\\\
+&= 15 \dfrac {1} {2} \\\\
+&= \pounds 15.5
+\end{aligned}
+$
+
+Cost of ticket for $1$ adult = $\pounds 15.5$
+
+Cost of ticket for $1$ child = $\pounds \dfrac{15.5} {2} = \pounds 7.75$
+
+Cost for $2$ adults and one child to attend the concert $= 2 \times 15.5 + 1 \times 7.75$
+
+$
+\begin{aligned}
+&= 2 \times 15.5 + 1 \times 7.75 \\\\
+&= 31 + 7.75 \\\\
+&= \pounds 38.75
+\end{aligned}
+$
+
+Cost for $2$ adults and one child to attend the concert = $\pounds 38.75$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 38.75$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\frac {1} {6}$ of this box of chocolates are white chocolate. If there are $30$ chocolates in the box, 
+
+![missing image](/papers/missing_image.svg)
+
+how many are white chocolate?   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Total number of chocolates in the box $= 30$
+
+$
+\begin{aligned}
+\text {Number of white chocolates}  &= \dfrac {1} {6} \times 30 \\\\
+                                    &= \dfrac {30} {6} \\\\
+                                    &= \dfrac {6 \times 5} {6} \\\\
+                                    &= \dfrac {\cancel {6} \times 5} {\cancel {6}} \\\\
+                                    &= 5
+\end{aligned}
+$
+
+Number of white chocolates $= 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the same box $10$ are milk chocolates.
+
+What fraction, of all the chocolates, are milk chocolate?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Number of milk chocolates $= 10$
+
+Fraction of milk chocolates $= \dfrac {10} {30}$
+
+$
+\begin{aligned}
+&= \dfrac {1 \cancel {0}} {3 \cancel {0}} \\\\
+&= \dfrac {1} {3}
+\end{aligned}
+$
+
+Fraction of milk chocolates $= \dfrac {1} {3}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It costs $\pounds 400$ to carpet a room measuring $2\, metres$ by $3\, metres$. How much would it costto carpet another room measuring $4\, metres$ by $6\, metres$ with the same carpet? 
+
+![missing image](/papers/missing_image.svg)                                                     
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+Cost to carpet a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $\pounds 400$
+
+Area of a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $2 \times 3 = 6 \text{m}^2$
+
+Cost to carpet a room measuring $1\, \text {metres}$ by $1\, \text {metres}$ = $\dfrac{400} {6}$
+
+Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\dfrac{400} {6} \times 4 \times 6$
+
+$
+\begin{aligned}
+&= \dfrac{400} {\cancel {6}} \times 4 \times \cancel {6} \\\\\
+&= 400 \times 4 \\\\
+&= \pounds 1600
+\end{aligned}
+$
+
+Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\pounds 1600$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1600$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

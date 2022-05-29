@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-pr"
 title: "Topic - Number - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2264,62 +2264,6 @@ $\pounds 14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>3CF2E7E6-C0AF-4E86-9374-F5C10C55C419</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The jug contains some orange squash. 
-How much water must be added to make $500 \ \text{millilitres}$ of drink?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text{Water required}                         &= 500 \ \text{ml} - 140 \ \text{ml} \\\\
-                                              &= 360 \ \text{ml}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$360 \ \text{ml}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>50E04B0C-8A1F-40C0-AACC-F803CBD9A220</p>
@@ -2399,14 +2343,14 @@ $4.5$
 <div class='workings'>
 <div class='working'>
 
-$8.0$
+$8.3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8.0$
+$8.3$
 
 </div>
 </div>
@@ -2979,110 +2923,6 @@ Hence, Molly is WRONG.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>1379DE70-C5AB-45C5-84C7-55AE20A0CA8E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-You can buy a new calculator for $\bold{\pounds 1.25}$
-
-![missing image](/papers/missing_image.svg)
-
-In 1979 the same type of calculator cost $\bold{22\:\:times}$ as much as it costs now. 
-
-How much did the same type of calculator cost in 1979?
-
-Show your working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Cost of calculator in} \ 1979   &= 1.25 \times 22 \\\\
-                                       &= \pounds 27.5
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 27.5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>79795420-38FD-4AE7-84E8-377DBD4317D4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many triangles are there in this diagram?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$6$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>AF9C3C70-A6C3-43E8-B655-896DA47448FB</p>
@@ -3317,302 +3157,6 @@ $2333430$
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
-<p>4B7CDE91-4C3F-4F86-89D2-B8D194C48EBA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the reading on the measuring cylinder
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1.3 \ \text{litres}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.3 \text{ litres}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>95A2D77B-0B84-43C2-9DD0-E83FA201C390</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What number is $\text{twelve less than eight thousand two hundred and seven}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question
-
-$
-\begin{aligned}
-&= 8207 - 12 \\\\
-&= 8195
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8195$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>271BF307-1253-4B27-8D5E-6FCA57E19326</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the value of:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3 \times 7 + 4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using BIDMAS,
-
-$
-\begin{aligned}
-&= 3 \times 7 + 4 \\\\
-&= 21 + 4 \\\\
-&= 25
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$25$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$12 \div 6 \div 2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using BIDMAS,
-
-$
-\begin{aligned}
-&= 12 \div 6 \div 2 \\\\
-&= 2 \div 2 \\\\
-&= 1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$15 - 4 \times 2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using BIDMAS,
-
-$
-\begin{aligned}
-&= 15 - 4 \times 2 \\\\
-&= 15 - 8 \\\\
-&= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>B941B131-14CE-4FE8-BB23-B3C009015796</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many edges does a cube have?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$12$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
 <p>2F479FDA-0316-4767-B8AE-E8A9C49B54B0</p>
 </div>
 <div class='topics'>
@@ -3661,261 +3205,6 @@ $0.2 \text{ km}, 2\ \text{m}, 20\ \text{cm}, 20 000\ \text{mm}$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>ACA26B1F-A7BD-4600-BA3F-B16189433567</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Each of the following calculations is incomplete.
-This is indicated by a question mark. For each part of the question, state the value of the missing digit.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$56 + 975 = 10{?}1$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       &                         5   &   6 \\
-{}+ &  9    &                         7   &   5 \\
-\hline
-  1 &  0    & \maroonC {3}   &   1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0.35 + 1.{?}7 = 2.22$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccc}
-    &   0 \ . &                         3   &   5 \\
-{}+ &   1 \ . & \maroonC {8}   &   7 \\
-\hline
-    &   2 \ . &                         2   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$9{?}5 - 128 = 777$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &  9    & \maroonC {0}    &   6 \\
-{}- &  1    &                          2   &   8 \\
-\hline
-    &  7    &                          7   &   1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-${?} - 7 = -2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $=a$
-
-As per the question,
-
-$
-\begin {aligned}
-a - 7 &= -2 \\\\
-a     &= -2 + 7 \\\\
-a     &= 5
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$13 \times 1{?}1 = 1703$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{ccccccccc}
-       &        &                             1   &   3 \\
-\times &    1   &     \maroonC {3}   &   1 \\
-\hline
-       &        &                             1   &   3 \\
-       &    3   &                             9   &   0 \\
-1      &    3   &                             0   &   0 \\
-\hline
-1      &    7   &                             0   &   3
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1.1 \div 2 = 0.{?}5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1.1 \div 2 = 0. \maroonC {5} 5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -4483,52 +3772,6 @@ $(2 + 3) \times (4 + 5) = 45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>7CD755EA-ADD6-4379-9D5F-1416133D1E65</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Give every prime number that goes exactly into both $12$ and $18$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2, 3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2, 3$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>4BC74879-1E38-4EF0-946C-81DC94A3877B</p>
@@ -4672,87 +3915,6 @@ $210$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two fifths of the children in a swimming pool are boys.
-
-There are $72$ girls in the pool. How many boys are there? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let the total students $= a$
-
-As per the question,
-
-Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
-
-Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
-
-$
-\begin {aligned}
-\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
-\dfrac {3} {5} \times a           &= 72 \\\\
-3a                                &= 72 \times 5 \\\\
-a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
-a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
-a                                 &= 24 \times 5 \\\\
-a                                 &= 120
-\end {aligned}
-$
-
-Now, lets calculate the total number of boys.
-
-$
-\begin {aligned}
-\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
-                        &= \dfrac {2} {5} \times 120 \\\\
-                        &= \dfrac {2 \times 120} {5} \\\\
-                        &= \dfrac {2 \times 24 \times 5} {5} \\\\
-                        &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
-                        &= 2 \times 24 \\\\
-                        &= 48
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -7262,8 +6424,8 @@ Anna has $3$ brothers and $5$ sisters. Her brother Tom has $S$ sisters and $B$ b
 
 $
 \begin{aligned}
-\text{S} \times \text{B} &= 6 \times 2 \\\\
-                         &= 12
+S \times B &= 6 \times 2 \\\\
+           &= 12
 \end{aligned}
 $
 
@@ -7679,11 +6841,9 @@ $220 \times 46$
 
 $
 \begin{aligned}
-&= 220 \times 46 \\\\
-&= 22 \times 10 \times 46 \\\\
-&= 22 \times 46 \times 10 \\\\
-&= 1012 \times 10 \\\\
-&= 10120
+22 \times 46           &= 1012 \\\\
+22 \times 10 \times 46 &= 1012 \times 10 \\\\
+220 \times 46          &= 10120
 \end{aligned}
 $
 
@@ -7715,11 +6875,9 @@ $2.2  \times 0.46$
 
 $
 \begin{aligned}
-&= 2.2  \times 0.46 \\\\
-&= \dfrac {22} {10} \times \dfrac {46} {100} \\\\
-&= \dfrac {22 \times 46} {1000} \\\\
-&= \dfrac {1012} {1000} \\\\
-&= 1.012
+22 \times 46                              &= 1012 \\\\
+\dfrac {22} {10} \times \dfrac {46} {100} &= \dfrac {1012} {1000} \\\\
+2.2 \times 4.6                            &= 1.012
 \end{aligned}
 $
 
@@ -7751,13 +6909,9 @@ $22{,}000{,}000  \times  0.046$
 
 $
 \begin{aligned}
-&= 22000000 \times 0.046 \\\\
-&= 22 \times 1000000 \times \dfrac {46} {1000} \\\\
-&= \dfrac {22 \times 46 \times 1000000} {1000} \\\\
-&= \dfrac {1012 \times 1000000} {1000} \\\\
-&= \dfrac {1012 \times 1000 \cancel {000}} {1 \cancel {000}} \\\\
-&= 1012 \times 1000 \\\\
-&= 1012000
+22 \times 46                         &= 1012 \\\\
+22 \times 1000000 \times {46} {1000} &= 1012 \times 1000 \\\\
+22000000 \times 0.046                &= 1012000
 \end{aligned}
 $
 
@@ -7781,7 +6935,7 @@ $1012000$
 </div>
 <div class='question subquestion'>
 
-$101{,}200  \times  4.6$ 
+$101{,}200  \div  4.6$ 
 
 </div>
 <div class='workings'>
@@ -7789,16 +6943,13 @@ $101{,}200  \times  4.6$
 
 $
 \begin{aligned}
-22 \times 46                                  &= 1012 \\\\
-22                                            &= \dfrac {1012} {46} \\\\
-\dfrac {1012} {46}                            &= 22 \\\\
-\dfrac {\dfrac{1012} {10}} {\dfrac {46} {10}} &= 22 \\\\
-\dfrac {101.2} {4.6}                          &= 22 \\\\
-\dfrac {101.2 \times 1000} {4.6 \times 1000}  &= 22 \\\\
-\dfrac {101200} {4.6}                         &= 22 \times 1000 \\\\
-\dfrac {101200} {4.6}                         &= 22000 \\\\
-101200 \div 4.6                               &= 22000
-\end{aligned}
+22 \times 46               &= 1012 \\\\
+22 \times \dfrac {46} {10} &= \dfrac {1012} {10} \\\\
+22 \times 4.6              &= 101.2 \\\\
+22 \times 1000 \times 4.6  &= 101.2 \times 1000 \\\\
+101.2 \times 1000          &= 22 \times 1000 \times 4.6 \\\\
+\dfrac {101200} {4.6}      &= 22000 \\\\
+101200 \div 4.6            &= 22000
 $
 
 </div>
@@ -7829,12 +6980,11 @@ $44  \times 23$
 
 $
 \begin{aligned}
-&= 44 \times 23 \\\\
-&= 22 \times 2 \times \dfrac {23 \times 2} {2} \\\\
-&= 22 \times 2 \times \dfrac {46} {2} \\\\
-&= \dfrac {22 \times 46 \times 2} {2} \\\\
-&= \dfrac {1012 \times \cancel {2}} {\cancel {2}} \\\\
-&= 1012
+22 \times 46                                           &= 1012 \\\\
+22 \times 2 \times \dfrac {46} {2}                     &= 1012 \\\\
+44 \times \dfrac {23 \times 2} {2}                     &= 1012 \\\\
+44 \times \dfrac {23 \times \cancel {2}} {\cancel {2}} &= 1012 \\\\
+44 \times 23                                           &= 1012
 \end{aligned}
 $
 
@@ -8486,7 +7636,7 @@ $
 \begin{aligned}
 8.4 \div a &= 21 \\\\
 a          &= 21 \times 8.4 \\\\
-a          &= 170.1
+a          &= 176.4
 \end{aligned}
 $
 
@@ -8495,7 +7645,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$170.1$
+$176.4$
 
 </div>
 </div>
@@ -8830,7 +7980,7 @@ Calculate the total distance travelled if I go from $A$ to $B$ and then to $C$.
 
 $
 \begin{aligned}
-\dfrac{Total distance} &= 4367 + 8694 \\\\
+\text{Total distance}  &= 4367 + 8694 \\\\
                        &= 13061 \ \text{km}
 \end{aligned}
 $
@@ -8966,11 +8116,11 @@ Subtract three fifths from four sevenths.
 
 $
 \begin{aligned}
-&= \dfrac {3} {5} - \dfrac {4} {7} \\\\
-&= \dfrac {3 \times 7} {5 \times 7} - \dfrac {4 \times 5} {7 \times 5} \\\\
-&= \dfrac {21} {35} - \dfrac {20} {35} \\\\
-&= \dfrac {21 - 20} {35} \\\\
-&= \dfrac {1} {35}
+&= \dfrac {4} {7} - \dfrac {3} {5} \\\\
+&= \dfrac {4 \times 5} {7 \times 5} - \dfrac {3 \times 7} {5 \times 7} \\\\
+&= \dfrac {20} {35} - \dfrac {21} {35} \\\\
+&= \dfrac {20 - 21} {35} \\\\
+&= - \dfrac {1} {35}
 \end{aligned}
 $
 
@@ -8979,7 +8129,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {35}$
+$- \dfrac {1} {35}$
 
 </div>
 </div>
@@ -9006,7 +8156,8 @@ $
 &= \dfrac {7} {3} \times \dfrac {10} {7} \\\\
 &= \dfrac {7 \times 10} {3 \times 7} \\\\
 &= \dfrac {\cancel {7} \times 10} {3 \times \cancel {7}} \\\\
-&= \dfrac {10} {3}
+&= \dfrac {10} {3} \\\\
+&= 3 \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -9015,7 +8166,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {10} {3}$
+$3 \dfrac {1} {3}$
 
 </div>
 </div>
@@ -11849,63 +11000,6 @@ $6, 7, 8$
 </ul>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>0EA47D0F-679F-42A3-9831-5C25EB7FCE66</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Using exactly four fours, any of the operations $+ - \times \div$  make an expression whose value is $5$.
-
-Example: 
-
-$0 = 4 \div 4 \times 4 - 4$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= ((4 \times 4) + 4) \div 4 \\\\
-&= (16 + 4) \div 4 \\\\
-&= 20 \div 4 \\\\
-&= \dfrac {20} {4} \\\\
-&= \dfrac {5 \times 4} {4} \\\\
-&= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
-&= 5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$((4 \times 4) + 4) \div 4 = 5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -20911,11 +20005,9 @@ $150 \times 340$
 
 $
 \begin{aligned}
-&= 150 \times 340 \\\\
-&= 15 \times 10 \times 34 \times 10 \\\\
-&= 15 \times 34 \times 10 \times 10 \\\\
-&= 510 \times 100 \\\\
-&= 51000
+15 \times 34                     &= 510 \\\\
+15 \times 10 \times 34 \times 10 &= 510 \times 100 \\\\
+150 \times 340                   &= 51000
 \end{aligned}
 $
 
@@ -20947,13 +20039,12 @@ $15 \times 17$
 
 $
 \begin{aligned}
-&= 15 \times 17 \\\\
-&= \dfrac {15 \times 17 \times 2} {2} \\\\
-&= \dfrac {15 \times 34} {2} \\\\
-&= \dfrac {510} {2} \\\\
-&= \dfrac {255 \times 2} {2} \\\\
-&= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
-&= 255
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 17          &= \dfrac {510} {2} \\\\
+15 \times 17          &= \dfrac {255 \times 2} {2} \\\\
+15 \times 17          &= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
+15 \times 17          &= 255
 \end{aligned}
 $
 
@@ -20985,13 +20076,12 @@ $510 + 17$
 
 $
 \begin{aligned}
-&= 510 \div 17 \\\\
-&= \dfrac {510} {17} \\\\
-&= \dfrac {15 \times 34} {17} \\\\
-&= \dfrac {15 \times 17 \times 2} {17} \\\\
-&= \dfrac {15 \times \cancel {17} \times 2} {\cancel {17}} \\\\
-&= 15 \times 2 \\\\
-&= 30
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 2           &= \dfrac {510} {17} \\\\
+\dfrac {510} {17}     &= 15 \times 2 \\\\
+\dfrac {510} {17}     &= 30 \\\\
+510 \div 17           &= 30 \\\\
 \end{aligned}
 $
 
@@ -21314,14 +20404,14 @@ $5 \ \boxed{ \phantom{+} } \ 3 =  12 \ \boxed{ \phantom{+} } \   4$
 <div class='workings'>
 <div class='working'>
 
-$+, \ -$
+$5 + 3 = 12 - 4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$+, \ -$
+$5 + 3 = 12 - 4$
 
 </div>
 </div>
@@ -21342,14 +20432,14 @@ $2 \ \boxed{ \phantom{+} } \  3 =  12  \ \boxed{ \phantom{+} } \   2$
 <div class='workings'>
 <div class='working'>
 
-$\times, \ \div$
+$2 \times 3 = 12 \div 2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\times, \ \div$
+$2 \times 3 = 12 \div 2$
 
 </div>
 </div>
@@ -21370,14 +20460,14 @@ $5 \ \boxed{ \phantom{+} } \  5 = 4  \ \boxed{ \phantom{+} } \ 4$
 <div class='workings'>
 <div class='working'>
 
-$-, \ -$
+$5 - 5 = 4 - 4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-, \ -$
+$5 - 5 = 4 - 4$
 
 </div>
 </div>
@@ -21430,14 +20520,14 @@ Write your answers from smallest to biggest.
 <div class='workings'>
 <div class='working'>
 
-$3124, \ 3214, \ 3412$
+$3124, \ 3214, \ 3412, \ 3142$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3124, \ 3214, \ 3412$
+$3124, \ 3214, \ 3412, \ 3142$
 
 </div>
 </div>
@@ -21797,14 +20887,14 @@ Arrange all the digits $9, 7, 6, 4, 2$ to make the smallest **even** number.
 <div class='workings'>
 <div class='working'>
 
-$67924$
+$24796$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$67924$
+$24796$
 
 </div>
 </div>
@@ -21844,9 +20934,9 @@ altogether? Give your answer in figures, not words.
 
 $
 \begin{aligned}
-\text {Won altogether} &= 12080 + 390 \\\\
-                       &= 12470 \\\\
-                       &= \text {Twelve thousand four hundred and seventy}
+\text {Won altogether} &= 12018 + 390 \\\\
+                       &= 12408 \\\\
+                       &= \text {Twelve thousand four hundred and eight pounds}
 \end{aligned}
 $
 
@@ -21855,7 +20945,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\text {Twelve thousand four hundred and seventy}$
+$\text {Twelve thousand four hundred and eight pounds}$
 
 </div>
 </div>
@@ -21904,7 +20994,7 @@ Let's first convert all the numbers into proper fraction
 $
 \begin{aligned}
 &= 8 \dfrac {1} {20} \quad \dfrac {17} {2} \quad 8.1 \quad 8.05 \quad \dfrac {1} {5} \\\\
-&= \dfrac {161} {20} \quad \dfrac {17} {2} \quad \dfrac {81} {10} \quad \dfrac {805} {100} \quad \dfrac {1} {5} \\\\
+&= \dfrac {161} {20} \quad \dfrac {17} {2} \quad \dfrac {81} {10} \quad \dfrac {805} {100} \quad \dfrac {1} {5}
 \end{aligned}
 $
 
@@ -21913,7 +21003,7 @@ LCM of $20, \ 2, \ 10, \ 100, \ 5 = 100$
 $
 \begin{aligned}
 &= \dfrac {161 \times 5} {20 \times 5} \quad \dfrac {17 \times 50} {2 \times 50} \quad \dfrac {81 \times 10} {10 \times 10} \quad \dfrac {805} {100} \quad \dfrac {1 \times 20} {5 \times 20} \\\\
-&= \dfrac {805} {100} \quad \dfrac {850} {100} \quad \dfrac {810} {100} \quad \dfrac {805} {100} \quad \dfrac {20} {100} \\\\
+&= \dfrac {805} {100} \quad \dfrac {850} {100} \quad \dfrac {810} {100} \quad \dfrac {805} {100} \quad \dfrac {20} {100}
 \end{aligned}
 $
 
@@ -23326,209 +22416,6 @@ $210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{m
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>B87F60E9-CD24-4B59-933C-CDE3117D3989</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here are $5$ number cards
-
-$\boxed{7} \ \boxed{2} \ \boxed{6} \ \boxed{4} \ \boxed{8}$
-
-The $5$ cards can be placed in an order to form a $5$-digit number.
-
-For example, the smallest number which could be made using all $5$ cards is:
-
-$\boxed{2} \boxed{4} \boxed{6} \boxed{7} \boxed{8}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using all $5$ cards:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-what is the largest possible odd number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$86427$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$86427$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-what is the number that is closest to $50000$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$48762$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48762$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using only $2$ of the cards, what is the largest possible prime number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$67$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$67$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Arrange any $3$ of the number cards to give the largest possible answer to this multiplication.
-
-$\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \times \ \boxed{\phantom{1}}$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 76 \times 8 \\\\
-&= 608
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$608$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>913E3410-230E-40AF-A424-653751985E82</p>
@@ -24451,178 +23338,6 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>DECB8B2F-C98F-461B-8772-23E3052D7DF2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Callum buys a new laptop costing $\pounds 572.50$
-
-He makes an initial payment of $\pounds 136$, and then pays the remainder in $6$ equal monthly amounts.
-
-![missing image](/papers/missing_image.svg)
-
-How much is each monthly amount?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Each monthly amount}     &= \dfrac {\text {Total amount} - \text {Initial payment}} {6} \\\\
-                                &= \dfrac {572.50 - 136} {6} \\\\
-                                &= \dfrac {436.5} {6} \\\\
-                                &= \pounds 72.75
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 72.75$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>E2FDFBE8-D93C-4E13-8DDB-87CE62F1BAF5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This scale shows the mass of a letter.
-
-The numbers around the outside are in grams (g), and the numbers inside the circle represent ounces (oz).
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the mass of the letter in grams?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the scale,
-
-The mass of the letter $= 70 \ \text {g}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$70 \ \text {g}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A parcel has a mass of $120 \text{g}$.
-
-What is its mass in ounces?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the scale,
-
-The mass of the parcel $= 2.75 \ \text {oz}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.75 \ \text {oz}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>D6C77BFE-E594-4024-93C0-48A0970659C7</p>
@@ -25196,168 +23911,6 @@ $3.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>28904A21-C435-41CB-8D8F-3EAD051E5F5C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What number is indicated by the arrow on the scale?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$12.15$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12.15$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>6ABD9083-9950-424C-A91E-55291150A4DE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Six girls took a maths test.
-
-Their marks were $13 \quad 18 \quad 14 \quad 20 \quad 7 \quad 18$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the difference between the highest and lowest marks?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 20 - 7 \\\\
-&= 13
-\end {aligned}
-$
-
-The difference between the highest and lowest marks is $13$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Ashleigh’s mark was seven more than Bella’s mark and six less than Connie’s mark.
-
-What was Ashleigh’s mark?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Ashleigh’s marks are $14$ as $7 + 7 = 14$, $7$ more than Bella’s marks, also $20 - 6 = 14$, $6$ less than Connie’s marks.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>23BA576A-774F-4E22-884E-3C38C9F35B7C</p>
@@ -25723,300 +24276,6 @@ $0.35$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When we multiply three consecutive numbers as shown below we obtain the following answer.
-
-$17 \times 18 \times 19 = 5814$     
-
-**Using this result**, work out the answers to these four questions.
-
-</div>
-
-
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$17 \times 18 \times 38 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-17 \times 18 \times 19          &= 5814 \\\\
-17 \times 18 \times 19 \times 2 &= 5814 \times 2 \\\\
-17 \times 18 \times 38          &= 11628
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11628$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$9 \times 19 \times 34 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-17 \times 18 \times 19         &= 5814 \\\\
-17 \times 9 \times 2 \times 19 &= 5814 \\\\
-17 \times 2 \times 9 \times 19 &= 5814 \\\\
-34 \times 9 \times 19          &= 5814 \\\\
-9 \times 19 \times 34          &= 5814
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5814$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$170 \times 180 \times 190 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-17 \times 18 \times 19                               &= 5814 \\\\
-17 \times 10 \times 18 \times 10 \times 19 \times 10 &= 5814 \times 1000 \\\\
-170 \times 180 \times 190                            &= 5814000
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5814000$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5814 \div 51 \div 38 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-17 \times 18 \times 19                       &= 5814 \\\\
-18 \times 19                                 &= 5814 \div 17 \\\\
-18                                           &= 5814 \div 17 \div 19 \\\\
-18 \div 3                                    &= 5814 \div (17 \times 3) \div 19 \\\\
-\dfrac {18} {3}                              &= 5814 \div 51 \div 19 \\\\
-\dfrac {6 \times 3} {3}                      &= 5814 \div 51 \div 19 \\\\
-\dfrac {6 \times \cancel {3}} {\cancel {3}}  &= 5814 \div 51 \div 19 \\\\
-6                                            &= 5814 \div 51 \div 19 \\\\
-6 \div 2                                     &= 5814 \div 51 \div (19 \times 2) \\\\
-\dfrac {6} {2}                               &= 5814 \div 51 \div 38 \\\\
-5814 \div 51 \div 38                         &= \dfrac {6} {2} \\\\
-5814 \div 51 \div 38                         &= \dfrac {3 \times 2} {2} \\\\
-5814 \div 51 \div 38                         &= \dfrac {3 \times \cancel {2}} {\cancel {2}} \\\\
-5814 \div 51 \div 38                         &= 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>3143F4B2-41D5-4792-B6A8-FD619A39DC38</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If the rules about what order to do arithmetic operations do **not** apply for this last question on the paper then $2 + 4 \times 3$ could be $2 + 12 = 14$ or $6 \times 3 = 18$.
-
-Of the **five different** answers that there could be for the following question
-
-$14 - 3 \times 4 - 2 =$
-
-depending on the order you use for the operations, **which answer would be in the middle if the answers were placed in descending order (from largest to smallest)?**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's use brackets to show the sequence in which we apply the operations and give precedence to operators.
-
-$
-\begin{aligned}
-\text{Solution } 1  &= 14 - 3 \times 4 - 2 \\\\
-                    &= (14 - 3) \times (4 - 2) \\\\
-                    &= 11 \times 2 \\\\
-                    &= 22
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 2  &= 14 - 3 \times 4 - 2 \\\\
-                    &= (14 - 3) \times  4 - 2 \\\\
-                    &= 11 \times 4 - 2 \\\\
-                    &= (11 \times 4) - 2 \\\\
-                    &= 44 - 2 \\\\
-                    &= 42
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 3  &= 14 - 3 \times 4 - 2 \\\\
-                    &= 14 - (3 \times 4) - 2 \\\\                   
-                    &= 14 - 12 - 2 \\\\
-                    &= (14 - 12) - 2 \\\\
-                    &= 2 - 2 \\\\
-                    &= 0
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 4  &= 14 - 3 \times 4 - 2 \\\\
-                    &= 14 - (3 \times 4) - 2 \\\\
-                    &= 14 - 12 - 2 \\\\
-                    &= 14 - (12 - 2) \\\\
-                    &= 14 - 10 \\\\
-                    &= 4
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 5  &= 14 - 3 \times 4 - 2 \\\\
-                    &= 14 - 3 \times (4 - 2) \\\\
-                    &= 14 - 3 \times 2\\\\
-                    &= 14 - (3 \times 2) \\\\
-                    &= 14 - 6 \\\\
-                    &= 8
-\end{aligned}
-$
-
-Let's put them in descending order.
-
-$42, \quad 22, \quad 8, \quad 4, \quad 0$
-
-Answer in the middle $= 8$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -27169,7 +25428,9 @@ $a <60$
 
 Numbers between $40$ and $60$ which are dvisible by $5 = {45, 50, 55}$
 
-Numbers between $40$ and $60$ which are dvisible by $5 = {45, 48, 51, 54, 57}$
+Numbers between $40$ and $60$ which are dvisible by $3 = {45, 48, 51, 54, 57}$
+
+Since 45 is common in both, 
 
 $a = 45$
 
@@ -27249,7 +25510,7 @@ $C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3A7398BE-72C1-4161-B815-737C8394CF51</p>
 </div>
@@ -27299,7 +25560,7 @@ $18 - (9 - 7)$
 
 $
 \begin{aligned}
-&= 18-(9 - 7) \\\\
+&= 18 - (9 - 7) \\\\
 &= 18 - 2 \\\\
 &= 16
 \end{aligned}
@@ -27368,9 +25629,9 @@ $(80 \div 20) \div 4$
 $
 \begin{aligned}
 &= (80 \div 20) \div 4 \\\\
-&= \dfrac{80} {20} \times dfrac{1} {4} \\\\
-&= \dfrac{20 \times 4} {20 \times 4} \\\\
-&= \dfrac{\cancel {20} \times \cancel {4}} {\cancel {20} \times \cancel {4}} \\\\
+&= \dfrac {80} {20} \times \dfrac {1} {4} \\\\
+&= \dfrac {20 \times 4} {20 \times 4} \\\\
+&= \dfrac {\cancel {20} \times \cancel {4}} {\cancel {20} \times \cancel {4}} \\\\
 &= 1
 \end{aligned}
 $
@@ -27404,10 +25665,11 @@ $80 \div (20 \div 4)$
 $
 \begin{aligned}
 &= 80 \div (20 \div 4) \\\\
-&= \dfrac{80} {20} \times 4 \\\\
-&= \dfrac{80 \times 4} {20} \\\\
-&= \dfrac{16 \times 5 \times 4} {5 \times 4} \\\\
-&= \dfrac{16 \times \cancel {5} \times \cancel {4}} {\cancel {5} \times \cancel {4}} \\\\
+&= \dfrac {80} {20} \times 4 \\\\
+&= \dfrac {80 \times 4} {20} \\\\
+&= \dfrac {20 \times 4 \times 4} {20} \\\\
+&= \dfrac {\cancel 20 \times {4} \times 4} {\cancel {20}} \\\\
+&= 4 \times 4 \\\\
 &= 16
 \end{aligned}
 $
@@ -27429,12 +25691,12 @@ $16$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>C89BE88B-D6EA-4F33-A8C3-496597C6989A</p>
 </div>
@@ -27466,7 +25728,7 @@ Four of these numbers can make two pairs so that each pair adds up to $5871$. Wh
 <div class='workings'>
 <div class='working'>
 
-$1917 + 2863 = 5871$
+$1917 + 3954 = 5871$
 
 $3008 + 2863 = 5871$
 
@@ -27486,12 +25748,12 @@ Odd one : $2743$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD</p>
 </div>
@@ -27503,6 +25765,9 @@ tunassigned
 <li>
 tnumber
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -27513,14 +25778,14 @@ Write down any **two** prime numbers between $45$ and $60$.
 <div class='workings'>
 <div class='working'>
 
-Prime numbers between $45$ and $60$ = $47, 53, 59$
+Two prime numbers between $45$ and $60 = 47, 53$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$47, 53, 59$
+$47, 53$
 
 </div>
 </div>
@@ -27529,12 +25794,12 @@ $47, 53, 59$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3F019B2C-E891-4AAA-8B78-0E0DF81B8489</p>
 </div>
@@ -27588,11 +25853,11 @@ As per question,
 
 $
 \begin{aligned}
-6764 \div 89            &= 76 \\\\
-\dfrac{6764} {89}       &= 76 \\\\
-6764                    &= 76 \times 89 \\\\
-\dfrac {6764} {76}      &= 89 \\\\
-6764 \div 76            &= 89
+6764 \div 89             &= 76 \\\\
+\dfrac {6764} {89}       &= 76 \\\\
+6764                     &= 76 \times 89 \\\\
+\dfrac {6764} {76}       &= 89 \\\\
+6764 \div 76             &= 89
 \end{aligned}
 $
 
@@ -27622,12 +25887,7 @@ $7.6 \div 0.89$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -27651,7 +25911,7 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -27819,7 +26079,7 @@ $6 \ \text{kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>BCC6F2CB-8539-4FD4-9E74-FEBEFF999875</p>
 </div>
@@ -27840,6 +26100,8 @@ Find $2000 - 12 + 20 - 12$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Using BIDMAS,
 
 $
 \begin{aligned}
@@ -27864,12 +26126,12 @@ $1996$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>6A0EC9AD-0A91-465C-9D77-92C64E1E72BC</p>
 </div>
@@ -27948,8 +26210,8 @@ $10 \times 2 + 7 \times 7 = 69$        $\Box$
 $
 \begin{aligned}
 &= 10 \times 2 + 7 \times 7 \\\\
-&= 20 + 14 \\\
-&= 34 \cancel {=} 69
+&= 20 + 49 \\\
+&= 69
 \end{aligned}
 $
 
@@ -27987,7 +26249,7 @@ $
 &= 12 + 21 - 3 \\\\
 &= 33 - 3 \\\\
 &= 30
-\ed{aligned}
+\end{aligned}
 $
 
 $12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
@@ -28025,7 +26287,7 @@ $
 &= \dfrac {3 \times 10}{3} + 2 \\\\
 &= \dfrac {\cancel {3} \times 10}{\cancel {3}} + 2 \\\\
 &= 10 + 2 \\\\
-&= 12 \cancel {=} 6
+&= 12 \ \cancel {=} \ 6
 \end{aligned}
 $
 
@@ -28060,11 +26322,11 @@ $24 \div 4 - 3 \times 2 = 0$        $\Box$
 $
 \begin{aligned}
 &= 24 \div 4 - 3 \times 2 \\\\
-&= \dfrac {24} {2} - 3 \times 2 \\\\
-&= \dfrac {12 \times 2} {2} - 3 \times 2 \\\\
-&= \dfrac {12 \times \cancel {2}} {\cancel {2}} - 3 \times 2 \\\\
-&= 12 - 6 \\\\
-&= 6 \cancel {=} 0
+&= \dfrac {24} {4} - 3 \times 2 \\\\
+&= \dfrac {6 \times 4} {4} - 3 \times 2 \\\\
+&= \dfrac {12 \times \cancel {4}} {\cancel {4}} - 3 \times 2 \\\\
+&= 6 - 6 \\\\
+&= 0
 \end{aligned}
 $
 
@@ -28087,12 +26349,12 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>57C9979B-2ACE-4BAF-8E7F-AC51C6373882</p>
 </div>
@@ -28127,29 +26389,37 @@ Exactly one of these statements is correct. Which one?
 <div class='workings'>
 <div class='working'>
 
+$43^2+ 56^2 = 4981$
+
 $
 \begin{aligned}
 &= 43^2+ 56^2 \\\\
 &= 1849 + 3136 \\\\
-&= 4985 \cancel {=} 4981
+&= 4985 \ \cancel {=} \ 4981
 \end{aligned}
 $
+
+$55^2 + 66^2= 7387$
 
 $
 \begin{aligned}
 &= 55^2 + 66^2 \\\\
 &= 3025 + 4356 \\\\
-&= 7381 \cancel {=} 7387
+&= 7381 \ \cancel {=} \ 7387
 \end{aligned}
 $
+
+$77^2+ 22^2 = 6415$
 
 $
 \begin{aligned}
 &= 77^2+ 22^2 \\\\
 &= 5929 + 484 \\\\
-&= 6413 \cancel {=} 6415
+&= 6413 \ \cancel {=} \ 6415
 \end{aligned}
 $
+
+$44^2+ 63^2 = 5905$
 
 $
 \begin{aligned}
@@ -28158,6 +26428,7 @@ $
 &= 5905
 \end{aligned}
 $
+
 Statement D is correct.
 
 </div>
@@ -28174,7 +26445,7 @@ D
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -29052,7 +27323,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {3} {5} , \quad \dfrac {2} {3} , \quad \dfrac {7} {10} , \quad \dfrac {5} {7} , \quad \dfrac {7} {8} , \quad \boxed {\dfrac {8} {9}}$
+$\dfrac {8} {9}$
 
 </div>
 </div>

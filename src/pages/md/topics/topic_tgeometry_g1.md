@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-g1"
 title: "Topic - Geometry - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1418,6 +1418,56 @@ $27.2 \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>0EA6356F-FEB5-46B4-85FF-77EC923BBA69</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnoexplanation
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below is made from a number of equilateral triangles.
+
+How many equilateral triangles (of any size) can be found in the diagram?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$29$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$29$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

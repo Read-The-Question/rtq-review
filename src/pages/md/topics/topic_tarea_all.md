@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-all"
 title: "Topic - Area - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4112,7 +4112,7 @@ $400 \text{ cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>5EDF9D93-76BA-4A5B-84AC-A3D799C7B75C</p>
 </div>
@@ -4231,7 +4231,7 @@ $7.5 \text { cm}^2$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_g1</p>
 </div>
 </div>
 </li>
@@ -21027,7 +21027,7 @@ $
 
 $
 \begin{aligned}
-\text {Area of 5 square}   &= 5 \times \text{Area of one square} \\\\
+\text {Area of rectangle}  &= 5 \times \text{Area of one square} \\\\
                            &= 5 \times 2 \times 2 \\\\
                            &= 5 \times 4 \\\\
                            &= 20 \ \text{cm} ^ 2
@@ -25786,7 +25786,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>225FE540-8613-4C8B-B119-CC67CEA85C4B</p>
 </div>
@@ -25854,7 +25854,7 @@ $40 \ \text{cm}^2$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

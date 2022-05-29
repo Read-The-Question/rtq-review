@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-pr"
 title: "Topic - Temperature - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -245,7 +245,7 @@ $
 \begin{aligned}
 \text{Temperature at 1500 hrs} &= 3 + 3 \times 1.5 \\\\
                                &= 3 + 4.5 \\\\
-                               &= 7.5 \degree
+                               &= 7.5 \degree C
 \end{aligned}
 $
 
@@ -254,7 +254,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7.5 \degree$
+$7.5 \degree C$
 
 </div>
 </div>
@@ -283,7 +283,7 @@ $
 \text{Temperature by 0400 hrs} &= 7.5 + 3 \times 1.5 + 10 \times - 3 \\\\
                                &= 7.5 + 4.5 - 30 \\\\
                                &= 12 - 30 \\\\
-                               &= - 18 \degree
+                               &= - 18 \degree C
 \end{aligned}
 $
 
@@ -292,7 +292,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 18 \degree$
+$- 18 \degree C$
 
 </div>
 </div>
@@ -563,59 +563,6 @@ $\pounds 110$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>B362E6E8-1659-4E09-A91F-F1247FF54602</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The temperature of the items in a freezer is $-18 \degree \text{C}$. A packet of peas is taken out. After half an hour their temperature has risen by $11 \degree \text{C}$. What is their new temperature?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the new temperature $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a - (-18)          &= 11 \\\\
-a                  &= 11 - 18 \\\\
-a                  &= -7\degree \text{C} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-7 \degree \text{C}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>4AFA9722-A256-4A92-AFFB-BD08EF68B439</p>
@@ -733,307 +680,6 @@ $-7 \degree \text {C}$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The thermometres below show the tempratures inside and outside a window at midday, one day in winter. 
-
-![missing image](/papers/missing_image.svg) 
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many degrees warmer is it inside than outside the window?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Difference in  temperature}  &= 17 - (- 3) \degree \ \text {C} \\\\
-                                    &= 17 + 3 \\\\
-                                    &= 20 \degree \ \text {C}
-\end{aligned}
-$
-
-It is $20 \degree \ \text {C}$ warmer inside than outside the window.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20 \degree \ \text {C}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-At midnight, the temprature outside had fallen by $2 \ \text{degrees}$.
-
-What was the temprature outside the window at midnight?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Temperature outside at midnight}  &= - 3 - 2 \degree \ \text {C} \\\\
-                                         &= - 5 \degree \ \text {C}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$- 5 \degree \ \text {C}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>91EAC938-64F8-4348-83F9-074560E4256F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Field crickets chirp according to the temperature of their surroundings.
-
-You can use the following rule to work out the temperature:
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Freddie, the field cricket, chirps $61$ times per minute.
-
-Work out the temperature of Freddie’s surroundings.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Temperature of Freddie’s surroundings} &= (61 - 40) \div 7 + 10 \\\\
-                                             &= 21 \div 7 + 10 \\\\
-                                             &= \dfrac {21} {7} + 10 \\\\
-                                             &= \dfrac {7 \times 3} {7} + 10 \\\\
-                                             &= \dfrac {\cancel {7} \times 3} {\cancel {7}} + 10 \\\\\
-                                             &= 3 + 10 \\\\
-                                             &= 13 \degree \ \text{C}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13 \degree \ \text{C}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Flora, the field cricket, chirps $41$ times in $30 \ \text{seconds}$.
-
-Work out the temperature of Flora’s surroundings.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Temperature of Flora’s surroundings}   &= (41 \times 2 - 40) \div 7 + 10 \\\\
-                                             &= (82 - 40) \div 7 + 10 \\\\
-                                             &= 42 \div 7 + 10 \\\\
-                                             &= \dfrac {42} {7} + 10 \\\\
-                                             &= \dfrac {7 \times 6} {7} + 10 \\\\
-                                             &= \dfrac {\cancel {7} \times 6} {\cancel {7}} + 10 \\\\\
-                                             &= 6 + 10 \\\\
-                                             &= 16 \degree \ \text{C}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16 \degree \ \text{C}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The temperature of Flossie’s surroundings is $18 \degree \text{C}$.
-
-Work out how many times Flossie chirps in $1 \ \text{minute}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let Flossie chirps for $= a$ times in $1 \ \text{minute}$.
-
-As per the question,
-
-$
-\begin{aligned}
-18         &= (a - 40) \div 7 + 10 \\\\
-18         &= \dfrac {a - 40} {7} + 10 \\\\
-18 - 10    &= \dfrac {a - 40} {7} \\\\
-8          &= \dfrac {a - 40} {7} \\\\
-a - 40     &= 8 \times 7 \\\\
-a - 40     &= 56 \\\\
-a          &= 56 - 40 \\\\
-a          &= 16
-\end{aligned}
-$
-
-Flossie Chirps for $16$ times in $1 \ \text{minute}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

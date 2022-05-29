@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-g1"
 title: "Topic - Time - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4377,6 +4377,53 @@ $17.13$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>F3BE1318-A3C2-4027-94E9-36DD5A3FA799</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This clock has been reflected in a mirror.
+
+What is the actual time on the clock?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10{:}40$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10{:}40$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>CD5A1E82-56E8-47B2-B92C-58E1FED3F03B</p>
 </div>
 <div class='topics'>
@@ -4421,6 +4468,203 @@ $14{:}35$
 </div>
 </div>
 
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>C91E6035-9D47-42CB-834A-DB0B8A45E8A6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which bus takes the shortest time from Elgin to Inverness and by how many minutes?
+
+![missing table](/papers/missing_table.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's compare the two bus's time.
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time taken by Bus P}          &= 1.06 - 11.47 \\\\
+                                    &= 1 \ \text{hour} \ 19 \ \text{minutes} \\\\
+\text{Time taken by Bus Q}          &= 1.50 - 12.33 \\\\
+                                    &= 1 \ \text{hour} \ 17 \ \text{minutes} \\\\
+\text{Difference in time}           &= 1 \ \text{hour} \ 19 \ \text{minutes} - 1 \ \text{hour} \ 17 \ \text{minutes} \\\\
+                                    &= 2 \ \text{minutes}
+\end{aligned}
+$
+
+Bus Q takes less time by $2 \ \text{minutes}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>D83FB293-ED94-45B3-84CF-CBEC198E7DF3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Amira checks the time when she sets off on her journey to school in the morning.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the time as a $12$-hour time.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$7{:}27 \ \text {a.m.}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7{:}27 \ \text {a.m.}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At twenty minutes to eight, Amira stops to buy an apple from the shop.
+
+Write ‘twenty minutes to eight’ as a $12$-hour clock time.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$7{:}40 \ \text {a.m.}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7{:}40 \ \text {a.m.}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Amira spends five minutes at the shop before walking another twenty-three minutes to get to school.
+
+At what time does Amira reach school?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 7{:}40 + 5 \ \text {minutes} + 23 \ \text {minutes} \\\\
+&= 7{:}40 + 28 \ \text {minutes} \\\\
+&= 8{:}08 \ \text {a.m.}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8{:}08 \ \text {a.m.}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>

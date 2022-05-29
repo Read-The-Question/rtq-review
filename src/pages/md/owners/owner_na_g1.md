@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-na-g1"
 title: "Owner - Naman Pant - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2391,6 +2391,312 @@ $401$
 
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>879257AD-7CA0-4670-881E-438490A5C1DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The dimensions of a rectangle and triangle are given. The diagrams are not drawn accurately.
+
+![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)
+
+They are joined together to make a new shape. 
+
+![missing image](/papers/missing_image.svg)
+
+What is the perimeter of this new shape? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Perimeter of shape}       &= \text{Perimeter of rectangle} + \text{Perimeter of triangle} - 2 \times \text{base of triangle} \\\\
+                                &= 2 \times (\text{length} + \text{width}) + 3 + 4 + 5 - 2 \times 5 \\\\
+                                &= 2 \times (11 + 6) + 12 - 10 \\\\
+                                &= 2 \times 17 + 12 - 10 \\\\
+                                &= 34 + 12 - 10 \\\\
+                                &= 36 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\frac {1} {6}$ of this box of chocolates are white chocolate. If there are $30$ chocolates in the box, 
+
+![missing image](/papers/missing_image.svg)
+
+how many are white chocolate?   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Total number of chocolates in the box $= 30$
+
+$
+\begin{aligned}
+\text {Number of white chocolates}  &= \dfrac {1} {6} \times 30 \\\\
+                                    &= \dfrac {30} {6} \\\\
+                                    &= \dfrac {6 \times 5} {6} \\\\
+                                    &= \dfrac {\cancel {6} \times 5} {\cancel {6}} \\\\
+                                    &= 5
+\end{aligned}
+$
+
+Number of white chocolates $= 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the same box $10$ are milk chocolates.
+
+What fraction, of all the chocolates, are milk chocolate?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Number of milk chocolates $= 10$
+
+Fraction of milk chocolates $= \dfrac {10} {30}$
+
+$
+\begin{aligned}
+&= \dfrac {1 \cancel {0}} {3 \cancel {0}} \\\\
+&= \dfrac {1} {3}
+\end{aligned}
+$
+
+Fraction of milk chocolates $= \dfrac {1} {3}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>225FE540-8613-4C8B-B119-CC67CEA85C4B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+A path of width $1.5\, m$ is built around the outside of a pond. The dimensions of the path are shown.
+
+What is the area of the pond?
+
+Make sure you state the units.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Length of the pond}  &= 11 - 2 \times 1.5 \\\\
+                            &= 11 - 3 \\\\
+                            &= 8 \ \text{m}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Width of the pond}   &= 8 - 2 \times 1.5 \\\\
+                            &= 8 - 3 \\\\
+                            &= 5 \ \text{m}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area of the pond}     &= \text{length} \times \text{width} \\\\
+                            &= 8 \times 5 \\\\
+                            &= 40 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text{cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It costs $\pounds 400$ to carpet a room measuring $2\, metres$ by $3\, metres$. How much would it costto carpet another room measuring $4\, metres$ by $6\, metres$ with the same carpet? 
+
+![missing image](/papers/missing_image.svg)                                                     
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+Cost to carpet a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $\pounds 400$
+
+Area of a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $2 \times 3 = 6 \text{m}^2$
+
+Cost to carpet a room measuring $1\, \text {metres}$ by $1\, \text {metres}$ = $\dfrac{400} {6}$
+
+Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\dfrac{400} {6} \times 4 \times 6$
+
+$
+\begin{aligned}
+&= \dfrac{400} {\cancel {6}} \times 4 \times \cancel {6} \\\\\
+&= 400 \times 4 \\\\
+&= \pounds 1600
+\end{aligned}
+$
+
+Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\pounds 1600$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1600$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_na_g1</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>Oundle School</h1>
@@ -553,10 +553,10 @@ The difference between the terms is $+6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&&  \footnotesize{\maroonC { (+6)} }  
-&   \footnotesize{\maroonC { (+6)} } 
 &&  \footnotesize{\maroonC { (+6)} }
-&&  \footnotesize{\maroonC { (+6)} }  
+&   \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }
 &&  \footnotesize{\maroonC { (+6)} } \\
 4,  &&    10,  &&  16,  &&   22,  &&  \ldots,  &&  \ldots
 \end{matrix}
@@ -615,7 +615,7 @@ $
 \text{First Missing number}     &= 27 \times 3 \\\\
                                 &= 81 \\\\
 \text{Second Missing number}    &= 81 \times 3 \\\\
-                                &= 243                     
+                                &= 243
 \end{aligned}
 $
 
@@ -664,7 +664,7 @@ $
 \text{First Missing number}     &= - 3 - 5 \\\\
                                 &= - 8 \\\\
 \text{Second Missing number}    &= - 8 - 5 \\\\
-                                &= - 13                      
+                                &= - 13
 \end{aligned}
 $
 
@@ -714,7 +714,7 @@ $
 \text{First Missing number}     &= 8 + 5 \\\\
                                 &= 13 \\\\
 \text{Second Missing number}    &= 13 + 8 \\\\
-                                &= 21                      
+                                &= 21
 \end{aligned}
 $
 
@@ -1106,11 +1106,9 @@ $220 \times 46$
 
 $
 \begin{aligned}
-&= 220 \times 46 \\\\
-&= 22 \times 10 \times 46 \\\\
-&= 22 \times 46 \times 10 \\\\
-&= 1012 \times 10 \\\\
-&= 10120
+22 \times 46           &= 1012 \\\\
+22 \times 10 \times 46 &= 1012 \times 10 \\\\
+220 \times 46          &= 10120
 \end{aligned}
 $
 
@@ -1142,11 +1140,9 @@ $2.2  \times 0.46$
 
 $
 \begin{aligned}
-&= 2.2  \times 0.46 \\\\
-&= \dfrac {22} {10} \times \dfrac {46} {100} \\\\
-&= \dfrac {22 \times 46} {1000} \\\\
-&= \dfrac {1012} {1000} \\\\
-&= 1.012
+22 \times 46                              &= 1012 \\\\
+\dfrac {22} {10} \times \dfrac {46} {100} &= \dfrac {1012} {1000} \\\\
+2.2 \times 4.6                            &= 1.012
 \end{aligned}
 $
 
@@ -1178,13 +1174,9 @@ $22{,}000{,}000  \times  0.046$
 
 $
 \begin{aligned}
-&= 22000000 \times 0.046 \\\\
-&= 22 \times 1000000 \times \dfrac {46} {1000} \\\\
-&= \dfrac {22 \times 46 \times 1000000} {1000} \\\\
-&= \dfrac {1012 \times 1000000} {1000} \\\\
-&= \dfrac {1012 \times 1000 \cancel {000}} {1 \cancel {000}} \\\\
-&= 1012 \times 1000 \\\\
-&= 1012000
+22 \times 46                         &= 1012 \\\\
+22 \times 1000000 \times {46} {1000} &= 1012 \times 1000 \\\\
+22000000 \times 0.046                &= 1012000
 \end{aligned}
 $
 
@@ -1208,7 +1200,7 @@ $1012000$
 </div>
 <div class='question subquestion'>
 
-$101{,}200  \times  4.6$ 
+$101{,}200  \div  4.6$ 
 
 </div>
 <div class='workings'>
@@ -1216,16 +1208,13 @@ $101{,}200  \times  4.6$
 
 $
 \begin{aligned}
-22 \times 46                                  &= 1012 \\\\
-22                                            &= \dfrac {1012} {46} \\\\
-\dfrac {1012} {46}                            &= 22 \\\\
-\dfrac {\dfrac{1012} {10}} {\dfrac {46} {10}} &= 22 \\\\
-\dfrac {101.2} {4.6}                          &= 22 \\\\
-\dfrac {101.2 \times 1000} {4.6 \times 1000}  &= 22 \\\\
-\dfrac {101200} {4.6}                         &= 22 \times 1000 \\\\
-\dfrac {101200} {4.6}                         &= 22000 \\\\
-101200 \div 4.6                               &= 22000
-\end{aligned}
+22 \times 46               &= 1012 \\\\
+22 \times \dfrac {46} {10} &= \dfrac {1012} {10} \\\\
+22 \times 4.6              &= 101.2 \\\\
+22 \times 1000 \times 4.6  &= 101.2 \times 1000 \\\\
+101.2 \times 1000          &= 22 \times 1000 \times 4.6 \\\\
+\dfrac {101200} {4.6}      &= 22000 \\\\
+101200 \div 4.6            &= 22000
 $
 
 </div>
@@ -1256,12 +1245,11 @@ $44  \times 23$
 
 $
 \begin{aligned}
-&= 44 \times 23 \\\\
-&= 22 \times 2 \times \dfrac {23 \times 2} {2} \\\\
-&= 22 \times 2 \times \dfrac {46} {2} \\\\
-&= \dfrac {22 \times 46 \times 2} {2} \\\\
-&= \dfrac {1012 \times \cancel {2}} {\cancel {2}} \\\\
-&= 1012
+22 \times 46                                           &= 1012 \\\\
+22 \times 2 \times \dfrac {46} {2}                     &= 1012 \\\\
+44 \times \dfrac {23 \times 2} {2}                     &= 1012 \\\\
+44 \times \dfrac {23 \times \cancel {2}} {\cancel {2}} &= 1012 \\\\
+44 \times 23                                           &= 1012
 \end{aligned}
 $
 

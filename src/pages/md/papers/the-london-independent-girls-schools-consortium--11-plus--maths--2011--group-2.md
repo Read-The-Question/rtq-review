@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 2"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>The London Independent Girls' Schools Consortium</h1>
@@ -294,14 +294,14 @@ Arrange all the digits $9, 7, 6, 4, 2$ to make the smallest **even** number.
 <div class='workings'>
 <div class='working'>
 
-$67924$
+$24796$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$67924$
+$24796$
 
 </div>
 </div>
@@ -341,9 +341,9 @@ altogether? Give your answer in figures, not words.
 
 $
 \begin{aligned}
-\text {Won altogether} &= 12080 + 390 \\\\
-                       &= 12470 \\\\
-                       &= \text {Twelve thousand four hundred and seventy}
+\text {Won altogether} &= 12018 + 390 \\\\
+                       &= 12408 \\\\
+                       &= \text {Twelve thousand four hundred and eight pounds}
 \end{aligned}
 $
 
@@ -352,7 +352,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\text {Twelve thousand four hundred and seventy}$
+$\text {Twelve thousand four hundred and eight pounds}$
 
 </div>
 </div>
@@ -401,7 +401,7 @@ Let's first convert all the numbers into proper fraction
 $
 \begin{aligned}
 &= 8 \dfrac {1} {20} \quad \dfrac {17} {2} \quad 8.1 \quad 8.05 \quad \dfrac {1} {5} \\\\
-&= \dfrac {161} {20} \quad \dfrac {17} {2} \quad \dfrac {81} {10} \quad \dfrac {805} {100} \quad \dfrac {1} {5} \\\\
+&= \dfrac {161} {20} \quad \dfrac {17} {2} \quad \dfrac {81} {10} \quad \dfrac {805} {100} \quad \dfrac {1} {5}
 \end{aligned}
 $
 
@@ -410,7 +410,7 @@ LCM of $20, \ 2, \ 10, \ 100, \ 5 = 100$
 $
 \begin{aligned}
 &= \dfrac {161 \times 5} {20 \times 5} \quad \dfrac {17 \times 50} {2 \times 50} \quad \dfrac {81 \times 10} {10 \times 10} \quad \dfrac {805} {100} \quad \dfrac {1 \times 20} {5 \times 20} \\\\
-&= \dfrac {805} {100} \quad \dfrac {850} {100} \quad \dfrac {810} {100} \quad \dfrac {805} {100} \quad \dfrac {20} {100} \\\\
+&= \dfrac {805} {100} \quad \dfrac {850} {100} \quad \dfrac {810} {100} \quad \dfrac {805} {100} \quad \dfrac {20} {100}
 \end{aligned}
 $
 
@@ -605,14 +605,14 @@ from London Euston to Birmingham International?
 <div class='workings'>
 <div class='working'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{hours} \ 10 \ \text{minutes}$
+$1 \ \text{hrs} \ 10 \ \text{mins}$
 
 </div>
 </div>
@@ -633,14 +633,14 @@ from London Euston Station to Glasgow?
 <div class='workings'>
 <div class='working'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10 \ \text{hours} \ 48 \ \text{minutes}$
+$10 \ \text{hrs} \ 48 \ \text{mins}$
 
 </div>
 </div>
@@ -932,10 +932,10 @@ What fraction of the shape is shaded?
 
 $
 \begin{aligned}
-&= \dfrac {12} {15} \\\\
-&= \dfrac {3 \times 4} {5 \times 3} \\\\
-&= \dfrac {\cancel {3} \times 4} {5 \times \cancel {3}} \\\\
-&= \dfrac {4} {5}
+&= \dfrac {12} {16} \\\\
+&= \dfrac {3 \times 4} {4 \times 4} \\\\
+&= \dfrac {3 \times \cancel {4}} {4 \times \cancel {4}} \\\\
+&= \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -944,7 +944,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {4} {5}$
+$\dfrac {3} {4}$
 
 </div>
 </div>
@@ -1146,12 +1146,9 @@ $\pounds 1 = 100 \text{p}$
 $
 \begin{aligned}
 &= 5 \times \pounds 5 - (\pounds 3.50 \times 5 - 75 \text{p}) \\\\
-&= 5 \times \pounds 5 - (\pounds 17.5 - 75 \text{p}) \\\\
-&= \pounds 25 - (17.5 \times 100 \text{p} - 75 \text{p}) \\\\
-&= \pounds 25 - (1750 \text{p} - 75 \text{p}) \\\\
-&= \pounds 25 - 1675 \text{p} \\\\
-&= \pounds 25 - \pounds \dfrac {1675} {100} \\\\
-&= \pounds 25 - \pounds 16.75 \\\\
+&= \pounds 25 - (\pounds 17.5 - \pounds \dfrac {75} {100}) \\\\
+&= 25 - (17.5 - 0.75) \\\\
+&= 25 - 16.75 \\\\
 &= \pounds 8.25
 \end{aligned}
 $

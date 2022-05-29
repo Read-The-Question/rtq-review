@@ -1,74 +1,9 @@
 ---
 slug: "topics/topic-tprobability-pr"
 title: "Topic - Probability - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>869FD852-D1F1-49AF-B701-45D924CC185A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$16$ cards each have a letter on them. The chart below shows how many with each letter on them.
-
-![missing image](/papers/missing_image.svg)
-
-I pick a card with an $F$ on it and don’t put it back.
-
-If I pick another card, what is the probability it will have a $E$ on it?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the graph,
-
-Total cards with D left after one card is removed $2 - 1 = 1$ 
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {3} {1 + 2 + 4 + 4 + 3 + 1} \\\\
-                    &= \dfrac {3} {15} \\\\
-                    &= \dfrac {3} {5 \times 3} \\\\
-                    &= \dfrac {\cancel {3}} {5 \times \cancel {3}} \\\\
-                    &= \dfrac {1} {5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {5}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
@@ -591,68 +526,6 @@ $\text{Even chance}, \text{Certain}, \text{Even chance}$
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>5386A862-7004-4EB7-85BF-4DB8111B2763</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which is more likely, rolling a $3$ with an unbiased die with six faces, or getting a head with a fair coin?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the first value.
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {1} {6}
-\end{aligned}
-$
-
-Let's calculate the second value.
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {1} {2} \\\\
-                    &= \dfrac {1 \times 3} {2 \times 3} \\\\
-                    &= \dfrac {3} {6}
-\end{aligned}
-$
-
-Using the calculation above $\dfrac {3} {6} > \dfrac {1} {6}$.
-
-So it is more likely to get a head with a fair coin than rolling a $3$ with an unbiased die with six faces.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Getting a head with a fair coin}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <div class='paper'>
 <h1>Merchant Taylors' School</h1>
@@ -2360,8 +2360,8 @@ Anna has $3$ brothers and $5$ sisters. Her brother Tom has $S$ sisters and $B$ b
 
 $
 \begin{aligned}
-\text{S} \times \text{B} &= 6 \times 2 \\\\
-                         &= 12
+S \times B &= 6 \times 2 \\\\
+           &= 12
 \end{aligned}
 $
 
@@ -3161,7 +3161,8 @@ $
                   &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
                   &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
                   &= \dfrac {3} {5} \\\\
-                  &= 0.6 \%
+                  &= 0.6 \times 100 \\\\
+                  &= 60 \%
 \end{aligned}
 $
 
@@ -3170,7 +3171,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.6 \%$
+$60 \%$
 
 </div>
 </div>

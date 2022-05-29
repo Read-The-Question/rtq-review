@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-g1"
 title: "Owner - Abhay Kandpal - G1"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3399,6 +3399,79 @@ $\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top 
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
+<p>DB80832F-B004-4CB4-8D70-0678C3B655AC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the perimeter of a square whose area is $36 \ \text{cm}^2$?
+
+-  $24 \ \text{cm}$ 
+-  $25 \ \text{cm}$ 
+-  $30 \ \text{cm}$ 
+-  $36 \ \text{cm}$ 
+-  $36^2 \ \ text{cm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of sqaure $= a$.
+
+Let's first find out the length of a side of the square.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Area of square}          &= 36 \ \text {cm} ^ 2 \\\\
+a ^ 2                           &= 36 \\\\
+a                               &= \sqrt {36} \\\\
+a                               &= 6 \ \text {cm}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Perimeter of square}     &= 4 \times a \\\\
+                                &= 4 \times 6 \\\\
+                                &= 24 \ \text {cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>a</p>
+</div>
+<div class='answer'>
+
+$24 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
 <p>89F00B0D-2774-43B2-B069-D08574377959</p>
 </div>
 <div class='topics'>
@@ -4872,6 +4945,127 @@ $\text {Bruno}$
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
+<p>559166DC-6DDF-4875-BF83-BA488BB42DFA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I buy $7$ drinks at $72\text{p}$ each, and $9$ sandwiches at $\pounds 1.21$ each. 
+
+How much $\bold{\underline{change}}$ do I get from a $\pounds 20$ note? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert the total amount into pounds.
+
+$
+\begin {aligned}
+\text {Change received}     &= \pounds 20 - (72 \text{p} + \pounds 1.21) \\\\
+                            &= \pounds 20 - (\pounds \dfrac {72} {100} + \pounds 1.21) \\\\
+                            &= 20 - (0.72 + 1.21) \\\\
+                            &= 20 - 1.93 \\\\
+                            &= \pounds 18.07
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 18.07$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>1DD19E4B-1DD0-4211-AE00-61C2A0DBD9FE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Martin is given $\pounds 240$. He gives $\dfrac{1}{8}$ to his sister and $\dfrac{1}{5}$ of what remains to his little brother. How much does he keep himself?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Amount spent} &= \text {Amount he gave to his sister} + \text {Amount he gave to his brother} \\\\
+                     &= \dfrac {1} {8} \ \text {of} \ \pounds 240 + \dfrac {1} {5} \ \text {of} \ (\pounds 240 - \dfrac {1} {8} \ \text {of} \ 240)) \\\\
+                     &= \dfrac {1} {8} \times 240 + \dfrac {1} {5} \times (240 - \dfrac {1} {8} \times 240)) \\\\
+                     &= \dfrac {240} {8} + \dfrac {1} {5} \times (240 - \dfrac {240} {8}) \\\\
+                     &= \dfrac {30 \times 8} {8} + \dfrac {1} {5} \times (240 - \dfrac {30 \times 8} {8}) \\\\
+                     &= \dfrac {30 \times \cancel {8}} {\cancel {8}} + \dfrac {1} {5} \times (240 - \dfrac {30 \times \cancel {8}} {\cancel {8}}) \\\\
+                     &= 30 + \dfrac {1} {5} \times (240 - 30) \\\\
+                     &= 30 + \dfrac {1} {5} \times 210 \\\\
+                     &= 30 + \dfrac {210} {5} \\\\
+                     &= 30 + \dfrac {42 \times 5} {5} \\\\
+                     &= 30 + \dfrac {42 \times \cancel {5}} {\cancel {5}} \\\\
+                     &= 30 + 42 \\\\
+                     &= \pounds 72 \\\\
+\text {Amount left}  &= \text {Total amount he had} - \text {Total amount spent} \\\\
+                     &= \pounds 240 - \pounds 72 \\\\
+                     &= \pounds 168
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 168$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
 <p>505845A2-5C6F-4B31-8F40-6A5A68AB5C7E</p>
 </div>
 <div class='topics'>
@@ -5290,6 +5484,148 @@ $\dfrac {5} {9}$
 </ul>
 <div class='papername'>
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two fifths of the children in a swimming pool are boys.
+
+There are $72$ girls in the pool. How many boys are there? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let the total students $= a$
+
+As per the question,
+
+Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
+
+Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
+
+$
+\begin {aligned}
+\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
+\dfrac {3} {5} \times a           &= 72 \\\\
+3a                                &= 72 \times 5 \\\\
+a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
+a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
+a                                 &= 24 \times 5 \\\\
+a                                 &= 120
+\end {aligned}
+$
+
+Now, lets calculate the total number of boys.
+
+$
+\begin {aligned}
+\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
+                        &= \dfrac {2} {5} \times 120 \\\\
+                        &= \dfrac {2 \times 120} {5} \\\\
+                        &= \dfrac {2 \times 24 \times 5} {5} \\\\
+                        &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
+                        &= 2 \times 24 \\\\
+                        &= 48
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>46713943-D59E-4BE3-ADA0-E5CDEE05B15A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the perimeter of this shape stating your units very carefully.
+
+![missing image](/papers/missing_image.svg)  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert the all lenghts into meters.
+
+$
+\begin {aligned}
+\text {Perimeter of the shape}  &= \text {Sum of all sides} \\\\
+                                &= 80 \ \text {cm} + 1.6 \text {m} + (1.8 \text {m} - 80 \ \text {cm}) + 30 \ \text {cm} + 1.8 \text {m} + (1.6 \text {m} + 30 \ \text {cm}) \\\\
+                                &= \dfrac {80} {100} \text {m} + 1.6 \text {m} + (1.8 \text {m} - \dfrac {80} {100} \text {m}) + \dfrac {30} {100} \text {m} + 1.8 \text {m} + (1.6 \text {m} + \dfrac {30} {100} \text {m}) \\\\
+                                &= 0.80 + 1.6 + (1.8 - 0.80) + 0.30 + 1.8 + (1.6 + 0.30) \\\\
+                                &= 2.40 + 1 + 2.1 + 1.90 \\\\
+                                &= 7.4 \text {m}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.4 \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -7136,6 +7472,158 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
+<p>29DE4114-CF16-4830-A1D8-498E9062A293</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Evaluate
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {3} {4} + \dfrac {1}{3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {4} + \dfrac {1} {3} \\\\
+&= \dfrac {3 \times 3} {4 \times 3} + \dfrac {1 \times 4} {3 \times 4} \\\\
+&= \dfrac {9} {12} + \dfrac {4} {12} \\\\
+&= \dfrac {9 + 4} {12} \\\\
+&= \dfrac {13} {12}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {13} {12}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {5} {7} + \dfrac {2} {5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {5} {7} + \dfrac {2} {5} \\\\
+&= \dfrac {5 \times 5} {7 \times 5} + \dfrac {2 \times 7} {5 \times 7} \\\\
+&= \dfrac {25} {35} + \dfrac {14} {35} \\\\
+&= \dfrac {25 + 14} {35} \\\\
+&= \dfrac {39} {35}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {39} {35}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {4} {9} \div \dfrac {5} {11}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {4} {9} + \dfrac {5} {11} \\\\
+&= \dfrac {4 \times 11} {9 \times 11} + \dfrac {5 \times 9} {11 \times 9} \\\\
+&= \dfrac {44} {99} + \dfrac {45} {99} \\\\
+&= \dfrac {44 + 45} {99} \\\\
+&= \dfrac {89} {99}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {89} {99}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
 <p>C83BAF7E-A28A-4228-B036-1BB050CB347F</p>
 </div>
 <div class='topics'>
@@ -7245,6 +7733,63 @@ Larger number $= 2 \times 29 = 58$.
 <div class='answer'>
 
 $29, 58$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>0EA47D0F-679F-42A3-9831-5C25EB7FCE66</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Using exactly four fours, any of the operations $+ - \times \div$  make an expression whose value is $5$.
+
+Example: 
+
+$0 = 4 \div 4 \times 4 - 4$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= ((4 \times 4) + 4) \div 4 \\\\
+&= (16 + 4) \div 4 \\\\
+&= 20 \div 4 \\\\
+&= \dfrac {20} {4} \\\\
+&= \dfrac {5 \times 4} {4} \\\\
+&= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
+&= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$((4 \times 4) + 4) \div 4 = 5$
 
 </div>
 </div>

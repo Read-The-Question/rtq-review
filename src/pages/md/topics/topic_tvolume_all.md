@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-all"
 title: "Topic - Volume - All"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1338,24 +1338,12 @@ How many $3 \ \text{cm}$ cubes can be made by cutting up a block $12 \ \text{cm}
 
 $
 \begin{aligned}
-\text{Area of cuboid} &= 2 \times 12 \times 24 + 2 \times 24 \times 18 + 2 \times 18 \times 12 \\\\
-                      &= 576 + 864 + 432 \\\\
-                      &= 1872
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Area of cube}   &= 6 \times 3 \times 3 \\\\
-                      &= 54
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of cubes} &= \dfrac {1872} {54} \\\\
-                       &= 34.66 \\\\
-                       &= 34
+\text{Number of cubes} &= \dfrac {\text{Volume of cuboid}} {\text{Volume of cube}} \\\\
+                       &= \dfrac {12 \times 24 \times 18} {3 \times 3} \\\\
+                       &= \dfrac {3 \times 4 \times 3 \times 8 \times 18} {3 \times 3} \\\\
+                       &= \dfrac {\cancel {3} \times 4 \times \cancel {3} \times 8 \times 18} {\cancel {3} \times \cancel {3}} \\\\
+                       &= 4 \times 8 \times 18 \\\\
+                       &= 576
 \end{aligned}
 $
 
@@ -1364,7 +1352,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$34$
+$576$
 
 </div>
 </div>

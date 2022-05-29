@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-red"
 title: "Owner - Nitin Joshi - Red"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -806,6 +806,237 @@ $225 \ \text{g flour}$
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_nj_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_red question'>
+<div class='uuid'>
+<p>E6B83B3B-E7BD-4594-8B68-CF66D6D588CC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below shows the roads connecting eight villages. 
+The numbers next to each road (not drawn to scale) show the distances in miles for each stretch of road. 
+Isobel travels from $S$ to $T$ on her journey to work each day. Find the shortest distance from $S$ to $T$ and state the route taken:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Shortest distance
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text {Shortest route}  &= \text {S to B to E to D to T} \\\\
+                        &= 4 + 3 + 1 + 1 + 1 \\\\
+                        &= 10 \ \text{miles}
+\end{aligned}
+$
+
+Shortest distance $= 10 \ \text{miles}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{miles}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Route: From $S$ to $\text{\textunderscore \textunderscore \textunderscore }$ to $T$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {S to} \underline {\text { B to F to E to D }} \text {to T}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text { B to F to E to D }$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Isobel cycles at a steady speed of $15 \ \text{miles}$ per hour. Find the shortest time to complete the journey. 
+Give your answer in minutes. _________
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time Isobel takes}     &= \dfrac {\text{Distance}} {\text{Speed}} \\\\
+                             &= \dfrac {10 \ \text {miles}} {15 \ \text {miles per hour}} \\\\
+                             &= 10 \ \text {miles} \times {\dfrac {60} {15} \ \text  {min per miles}} \\\\
+                             &= 10  \times \dfrac {60} {15} \\\\
+                             &= \dfrac {10 \times 60} {15} \\\\
+                             &= \dfrac {5 \times 2 \times 3 \times 20} {5 \times 3} \\\\
+                             &= \dfrac {\cancel 5 \times 2 \times \cancel 3 \times 20} {\cancel 5 \times \cancel 3} \\\\
+                             &= 2 \times 20 \\\\
+                             &= 40 \ \text {min}
+\end{aligned}
+$
+
+The shortest time Isobel will take to complete the journey $= 40 \ \text {min}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text {min}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Isobel listens to the local radio before setting off on her journey one morning. 
+She discovers that the road between $E$ and $F$ is completely blocked due to an earlier accident 
+and she is forced to choose an alternative route to work. 
+What is the least number of **additional** minutes that she will take to cycle to work today?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If $E$ and $F$ are blocked the shortest new route would be:
+
+From $S \ \text {to} \ B \ \text {to} \ C \ \text{to} \ T$ .
+
+Let's find the new distance.
+
+$
+\begin{aligned} 
+&= S \ \text{to} \ B \ \text{to} \ C \ \text{to} \ T \\\\
+&= 4 + 2 + 6 \\\\
+&= 12 \ \text {miles}
+\end{aligned}
+$
+
+$
+\begin {aligned}
+\text {Speed} &= 15 \ \text {miles per hour \ \ } \\\\
+                 &= \dfrac {15} {60} \ \text {miles per min} \\\\
+\text {Distance} &= 12 \ \text {miles} 
+\end{aligned}
+$
+
+Now let's find the time.
+
+$
+\begin{aligned}
+\text{Time} & = \dfrac {\text{Distance}} {\text{Speed}} \\\\
+            & = \dfrac {12} { \dfrac {15}{60} } \\\\
+            & = 12  \times \dfrac {60} {15} \\\\
+            & = \dfrac {12 \times 60} {15} \\\\
+            & = \dfrac {3 \times 4 \times 5 \times 12} {5 \times 3} \\\\
+            & = \dfrac {\cancel 3 \times 4 \times \cancel 5 \times 12} {\cancel 5 \times \cancel 3} \\\\
+            & = 4 \times 12 \\\\
+            & = 48 \ \text {min}                                                                   
+\end{aligned}
+$
+
+Let's find the additional minutes by finding the difference in time taken by previous route and the new route.
+
+$48 \ \text {min}  - 40 \ \text {min} = 8 \ \text {min} $                                                                  
+
+The additional minutes Isobel will take to sycel to work today $= 8 \ \text {min}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text {min}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_nj_red</p>

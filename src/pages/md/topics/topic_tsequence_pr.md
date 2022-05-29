@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-pr"
 title: "Topic - Sequence - PR"
-date: 2022-05-29 13:50:01
+date: 2022-05-29 21:00:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1832,10 +1832,10 @@ The difference between the terms is $+6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&&  \footnotesize{\maroonC { (+6)} }  
-&   \footnotesize{\maroonC { (+6)} } 
 &&  \footnotesize{\maroonC { (+6)} }
-&&  \footnotesize{\maroonC { (+6)} }  
+&   \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }
 &&  \footnotesize{\maroonC { (+6)} } \\
 4,  &&    10,  &&  16,  &&   22,  &&  \ldots,  &&  \ldots
 \end{matrix}
@@ -1894,7 +1894,7 @@ $
 \text{First Missing number}     &= 27 \times 3 \\\\
                                 &= 81 \\\\
 \text{Second Missing number}    &= 81 \times 3 \\\\
-                                &= 243                     
+                                &= 243
 \end{aligned}
 $
 
@@ -1943,7 +1943,7 @@ $
 \text{First Missing number}     &= - 3 - 5 \\\\
                                 &= - 8 \\\\
 \text{Second Missing number}    &= - 8 - 5 \\\\
-                                &= - 13                      
+                                &= - 13
 \end{aligned}
 $
 
@@ -1993,7 +1993,7 @@ $
 \text{First Missing number}     &= 8 + 5 \\\\
                                 &= 13 \\\\
 \text{Second Missing number}    &= 13 + 8 \\\\
-                                &= 21                      
+                                &= 21
 \end{aligned}
 $
 
@@ -5127,11 +5127,11 @@ The difference between the terms is $+9$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+6)} } 
-&&  \footnotesize {\maroonC {(+6)} }  
-&&  \footnotesize {\maroonC {(+6)} }   
-&&  \footnotesize {\maroonC {(+6)} }   
-&&  \footnotesize {\maroonC {(+6)} } \\
+&   \footnotesize {\maroonC {(+9)} } 
+&&  \footnotesize {\maroonC {(+9)} }  
+&&  \footnotesize {\maroonC {(+9)} }   
+&&  \footnotesize {\maroonC {(+9)} }   
+&&  \footnotesize {\maroonC {(+9)} } \\
 15,  &&  24,  &&  33,  &&  42,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -6011,7 +6011,7 @@ Missing numbers : 10, 17, 24
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>B413F8C6-736A-43A8-89EB-3A28FF88A2B5</p>
 </div>
@@ -6048,11 +6048,12 @@ $
 1,  &&    1 \times a,  &&  9,  &&   9 \times a,  &&   9 \times a \times a \ldots
 \end{matrix}
 $
+
 $
 \begin{aligned}
 1 \times a \times a             &= 9 \\\\
 a^2                             &= 9 \\\\
-a^2                             &= 3^2 \\\\
+a                               &= \sqrt {3} \\\\
 a                               &= 3
 \end{aligned}
 $
@@ -6064,7 +6065,7 @@ $
                                 &= 3 \\\\
 \text{Second missing number}    &= 9 \times a \\\\
                                 &= 9 \times 3 \\\\ 
-                                &= 27
+                                &= 27 \\\\
 \text{Second missing number}    &= 9 \times a \times a \\\\
                                 &= 9 \times 3 \times 3 \\\\ 
                                 &= 81
@@ -6085,7 +6086,7 @@ Missing Numbers : $3 , 27 , 81$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

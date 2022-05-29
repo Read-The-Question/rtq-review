@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-g1"
 title: "Topic - Percentage - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -718,6 +718,68 @@ $80 \ %$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>78560253-2BD8-42B2-8E55-911BFF244038</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I went to watch a three-hour concert but the music was so awful that I only stayed for $15 \%$ of it.
+How many minutes did I stay at the concert for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+The time is given in hours, but the final answer has to be in minutes.
+
+$
+\begin {aligned}
+\text {Minutes stayed}  &= 15 \% \ \text {of} \ 3 \ \text {hours} \\\\
+                        &= \dfrac {15} {100} \times 3 \\\\
+                        &= \dfrac {15} {100} \times 3 \times 60 \ \text {minutes} \\\\
+                        &= \dfrac {15 \times 3 \times 60} {100} \\\\
+                        &= \dfrac {5 \times 3 \times 3 \times 3 \times 2 \times 10} {5 \times 2 \times 10} \\\\
+                        &= \dfrac {\cancel {5} \times 3 \times 3 \times 3 \times \cancel {2} \times \cancel {10}} {\cancel {5} \times \cancel {2} \times \cancel {10}} \\\\
+                        &= 3 \times 3 \times 3 \\\\
+                        &= 27 \ \text {minutes}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -5281,6 +5343,58 @@ $260 \ \text {grams}$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>02202C7F-9F7E-46E2-9AD1-6B9D9768E016</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $30 \%$ of $550 \ \text{cm}^3$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 30 \% \ \text {of} \ 550 \ \text {cm}^3 \\\\
+&= \dfrac {30} {100} \times 550 \\\\
+&= \dfrac {30 \times 550} {100} \\\\
+&= \dfrac {3 \cancel {0} \times 55 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= 3 \times 55 \\\\
+&= 165 \ \text {cm}^3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$165 \ \text {cm} ^ 3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-all"
 title: "Topic - Noexplanation - All"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -576,54 +576,6 @@ $8.0$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_g1 question'>
-<div class='uuid'>
-<p>FD5A3E12-BE8F-4D26-AC89-A1DA76DF25F8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the following numbers in order (smallest to largest):
-
-$4.41 \quad  0.414 \quad  0.4 \quad  0.1444 \quad  1.4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.1444, \quad  0.4, \quad  0.414, \quad  1.4, \quad  4.41$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.1444, \quad  0.4, \quad  0.414, \quad  1.4, \quad  4.41$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -1832,7 +1784,7 @@ $13 \times 7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>20FCDF7C-160A-422B-8553-7B721DA71113</p>
 </div>
@@ -1879,12 +1831,12 @@ $7 ^2 , 4 ^ 2$
 <p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>2EF6FBC9-C042-42F3-9C0F-7BBB8E6DF8E8</p>
 </div>
@@ -1928,7 +1880,7 @@ $\text {Fairly unlikely}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2079,7 +2031,7 @@ $\text {Octagon}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>F96ADDDB-D1DA-4669-B9D8-6F1709C2D0E4</p>
 </div>
@@ -2127,12 +2079,12 @@ $\text {likely}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1</p>
 </div>
@@ -2173,12 +2125,12 @@ $\text {Certain}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A47DB4E1-F2E1-4223-910E-E35218E5B40F</p>
 </div>
@@ -2219,12 +2171,12 @@ $\text {unlikely}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>97658705-5BFD-43C2-8EC0-F96EA2170CC7</p>
 </div>
@@ -2265,7 +2217,7 @@ $\text {Certain}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3600,153 +3552,6 @@ $3, \ 17$
 <li>
 <div class='question_envelope rag_ad_g2 question'>
 <div class='uuid'>
-<p>038DB52F-8E5F-49E9-B0AD-1E4841D9A89C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Place the following sets of numbers in order, **smallest first**. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$47, \quad 63, \quad 18, \quad 103, \quad 70$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$18, \quad 47, \quad 63, \quad 70, \quad 103$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18, \quad 47, \quad 63, \quad 70, \quad 103$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0.731, \quad 0.8, \quad 0.73 , \quad 0.711$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.711, \quad 0.73, \quad 0.731, \quad 0.8$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.711, \quad 0.73, \quad 0.731, \quad 0.8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1 \ \text{m} \ 43 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1 \ \text{m} \ 6 \ \text{cm}, \quad  1423 \ \text{mm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the units the same for all the numbers, so we can compare them.
-
-$
-\begin{aligned}
-&= 1 \ \text{m} \ 43 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1 \ \text{m} \ 6 \ \text{cm}, \quad  1423 \ \text{mm} \\\\
-&= 143 \ \text {cm}, \quad 140 \ \text {cm}, \quad  106  \ \text {cm}, \quad  142.3  \ \text {cm}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 106 \ \text {cm}, \quad 140 \ \text {cm}, \quad  142.3  \ \text {cm}, \quad  143  \ \text {cm} \\\\
-&= 1 \ \text{m} \ 6 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1423 \ \text{mm}, \quad  1 \ \text{m} \ 43 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1 \ \text{m} \ 6 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1423 \ \text{mm}, \quad  1 \ \text{m} \ 43 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g2</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g2 question'>
-<div class='uuid'>
 <p>1D00ADE6-0A22-42BA-A37B-296F856E8471</p>
 </div>
 <div class='topics'>
@@ -3976,10 +3781,7 @@ $1349$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
+ttime
 </li>
 <li>
 tnoexplanation
@@ -4027,10 +3829,7 @@ $03 {:} 35 \ \text {p.m.}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
+ttime
 </li>
 <li>
 tnoexplanation
@@ -4498,200 +4297,6 @@ $12{:}28 \ \text {pm}$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>DAB0F53F-E4FB-494D-9B78-9232926F4778</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Arrange all these numbers in order of size, writing the smallest first. 
-
-$540, 452, 524, 425, 504$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$425, 452, 504, 524, 540$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$425, 452, 504, 524, 540$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using any of the digits $4,\ 5$ and $2$ only once in each answer, write down
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-an even $2$ digit number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$42$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-the largest $3$ digit number possible
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$542$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$542$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-the smallest $2$ digit number possible
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -6006,113 +5611,6 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>8D9C54BC-6E17-4740-929F-C604E748B5B7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tclock
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-Find the size of the angle, in degrees, turned by the **minute** hand of a clock as it moves from the
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$12$ to the $1$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$360 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$360 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3$ to the $7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{From 3 to 7} &= 4 \times 360
-                   &= 1440 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1440 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_g2 question'>
 <div class='uuid'>
 <p>04EBBA58-6647-40C9-8E46-0C41DA8751EB</p>
@@ -7314,111 +6812,6 @@ $\text {Wednesday}$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
-<p>62C66561-F3E0-4965-B7E2-15DAB3203A00</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tsequence
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Below is a repeated pattern of numbered shapes.
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If the pattern continues in the same way, write the numbers of the next two *stars* in the pattern.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$11, \ 16$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11, \ 16$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What shape will number $35$ be?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Circle}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{Circle}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
 <p>FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB</p>
 </div>
 <div class='topics'>
@@ -7546,112 +6939,6 @@ $6!$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>B4B6A0C4-0E17-4C31-8F27-57901959FB2A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down, in ascending order, the factors of the following numbers. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$36$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1, 2, 3, 4, 6, 9, 12, 18, 36$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 2, 3, 4, 6, 9, 12, 18, 36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$150$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
 </div>
 </div>
 </li>
@@ -8098,63 +7385,12 @@ $325.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>30BB4D17-C37D-40B1-AF7F-3F86ECBCA8C0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Place the following numbers in ascending order:
-
-$\boxed{ 1.02 } \quad \boxed{ 1.2 } \quad \boxed{ 1.15 } \quad \boxed{ 1.008 } \quad \boxed{ 1.9 }$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ks_red question'>
 <div class='uuid'>
 <p>5612D86A-AFE6-4BB3-A38A-725413199CD9</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tclock
 </li>
@@ -8595,7 +7831,7 @@ $42008$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_amber question'>
 <div class='uuid'>
 <p>4E388120-E4C4-42F5-8D02-5AD11F984988</p>
 </div>
@@ -8701,7 +7937,7 @@ $3$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_amber</p>
 </div>
 </div>
 </li>
@@ -9864,54 +9100,6 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_g1 question'>
-<div class='uuid'>
-<p>BCABF532-DB4D-44EA-893A-A8CB7914EE55</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Place the following numbers in order of size from smallest to largest: 
-
-$4.2101 \quad 4.1021 \quad 4.0121 \quad 4.0211$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>AF9C6EAA-0E1D-4C87-9AD8-13EFD44CD2BD</p>
@@ -10156,12 +9344,6 @@ $35948$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
 <li>
 ttime
 </li>
@@ -10517,9 +9699,6 @@ $0{:}1$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 <li>
@@ -10778,12 +9957,6 @@ $\dfrac {4} {5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
-<li>
 ttime
 </li>
 <li>
@@ -10829,10 +10002,7 @@ $9{:}40, \ 21{:}40$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
+ttime
 </li>
 <li>
 tnoexplanation
@@ -10888,9 +10058,6 @@ $11{:}11$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -11199,10 +10366,7 @@ $34 \text{p}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tsequence
+tinfer
 </li>
 <li>
 tnoexplanation
@@ -11689,6 +10853,209 @@ $48$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>B87F60E9-CD24-4B59-933C-CDE3117D3989</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are $5$ number cards
+
+$\boxed{7} \ \boxed{2} \ \boxed{6} \ \boxed{4} \ \boxed{8}$
+
+The $5$ cards can be placed in an order to form a $5$-digit number.
+
+For example, the smallest number which could be made using all $5$ cards is:
+
+$\boxed{2} \boxed{4} \boxed{6} \boxed{7} \boxed{8}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using all $5$ cards:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+what is the largest possible odd number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$86427$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$86427$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+what is the number that is closest to $50000$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$48762$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48762$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using only $2$ of the cards, what is the largest possible prime number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$67$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$67$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Arrange any $3$ of the number cards to give the largest possible answer to this multiplication.
+
+$\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \times \ \boxed{\phantom{1}}$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 76 \times 8 \\\\
+&= 608
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$608$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>5689F773-F52D-4D11-90B1-2CBEC3FBD759</p>
@@ -11835,9 +11202,6 @@ $\text {Prime numbers}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 <li>
@@ -11879,54 +11243,6 @@ $0.603$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>096131F4-72CE-446C-9543-2653E59BA346</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write these numbers in order of size, starting with the smallest:
-
-$3.4 \quad 3.34 \quad 3.304 \quad 3.043$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$3.043, \quad 3.304, \quad 3.34, \quad 3.4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.043, \quad 3.304, \quad 3.34, \quad 3.4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -12103,6 +11419,53 @@ $2.75 \ \text {oz}$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
+<p>F3BE1318-A3C2-4027-94E9-36DD5A3FA799</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This clock has been reflected in a mirror.
+
+What is the actual time on the clock?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10{:}40$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10{:}40$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
 <p>0EA6356F-FEB5-46B4-85FF-77EC923BBA69</p>
 </div>
 <div class='topics'>
@@ -12112,6 +11475,9 @@ tunassigned
 </li>
 <li>
 tnoexplanation
+</li>
+<li>
+tgeometry
 </li>
 </ul>
 </div>

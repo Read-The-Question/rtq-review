@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-red"
 title: "Topic - Clock - Red"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-05-29 06:26:52
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tclock
 </li>
@@ -96,63 +93,12 @@ $105 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_red question'>
-<div class='uuid'>
-<p>ACB903AE-471B-4194-A0AE-FF8761C03567</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Draw the hour and minute hands on this clock to show the time $22{:}30$.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10 : 30$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10:30$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_np_red</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_red question'>
 <div class='uuid'>
 <p>D74BAFDC-19D4-4AB6-AE64-3736F916FD8E</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tclock
 </li>

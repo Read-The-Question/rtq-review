@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-nj-all"
 title: "Reviewer - Nitin Joshi - All"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -914,9 +914,6 @@ $(2 + 3) \times (4 + 5) = 45$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -955,139 +952,6 @@ $10$
 </div>
 <div class='rag'>
 <p>rag_nm_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>00C311D7-5CAB-401B-AE03-78A75AFA3E88</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-
-Entry $20 \text{p}$
-
-Side Show $30 \text{p}$ a go
-
-Cream Teas $\pounds 2.60$ each
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Mary goes to the school fair.
-
-She pays to get in. She visits $3$ side shows and she has a cream tea.
-
-How much does Mary spend altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Total money Mary spent}  &= \text {Entry cost} + 3 \times \text {Side shows cost} + \text {Cost of cream tea} \\\\
-                                &= 20 \ \text {p} + 3 \times 30 \ \text {p} + \pounds 2.60 \\\\
-                                &= \pounds \dfrac {20} {100} + 3 \times \pounds \dfrac {30} {100} + \pounds 2.60 \\\\
-                                &= 0.20 + 3 \times 0.30 + 2.60 \\\\
-                                &= 2.80 + 0.90 \\\\
-                                &= \pounds 3.70
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 3.70$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Anna has $\pounds 5$ to spend at the school fair. She must pay to get in.
-
-How many times can she visit a side show if she has a cream tea as well?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Number of times Anna can visit a side show}  &= \dfrac {\text {Total money she has} - (\text {Entry cost} + \text {Cost of a cream tea})} {\text {Cost of a side show}} \\\\ 
-                                                    &= \dfrac {\pounds 5 - (20 \text {p} + \pounds 2.60)} {30 \text {p}} \\\\
-                                                    &= \dfrac {5 \times 100 \text {p} - (20 \text {p} + 2.60 \times 100 \text {p})} {30 \text {p}} \\\\
-                                                    &= \dfrac {500 - (20 + 260)} {30} \\\\
-                                                    &= \dfrac {500 - 280} {30} \\\\
-                                                    &= \dfrac {220} {30} \\\\
-                                                    &= 7
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1136,64 +1000,6 @@ $
 <div class='answer'>
 
 &624$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>9AA2E90D-7CEB-4445-8395-AC73877C9536</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $80\%$ of $\pounds535$
-
-A: $\pounds107$
-
-B: $\pounds372$
-
-C: $\pounds400$
-
-D: $\pounds418$
-
-E: $\pounds428$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= \dfrac {80} {100} \times 535 \\\\
-&= \dfrac {80 \times 535} {100} \\\\
-&= \dfrac {42800} {100} \\\\
-&= \dfrac {428 \cancel{00}} {1\cancel{00}} \\\\
-&=  \pounds 428
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 428$
 
 </div>
 </div>
@@ -1887,16 +1693,7 @@ $\pounds 8.19$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tfraction
-</li>
-<li>
-torder
+tnumber
 </li>
 </ul>
 </div>
@@ -2251,9 +2048,6 @@ $\pounds 18.29$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -4191,205 +3985,6 @@ $\pounds 2.80$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>728683E0-0172-4C1B-B996-DE78A22F8120</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tarea
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-St Hugh's School hall is in the shape of a large box or cuboid.  
-The area of the floor is $200 \ \text{m}^2$, the area of one of the 
-side walls is $150 \ \text{m}^2$ and the area of an end wall is $48 \ \text{m}^2$. 
-
-What is the height, in metres, of the hall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length of the school hall (in m) $= l$
-
-Let the width of the school hall (in m) $= w$
-
-Let the height of the school hall (in m) $= h$
-
-$\text {Area} = \text {length} \times \text {width}$
-
-As per the question,
-
-$
-\begin{aligned}
-l \times w   &= 200 \\\\
-l \times h   &= 150 \\\\
-l            &= \dfrac {150} {h} \\\\
-w \times h   &= 48 \\\\
-w            &= \dfrac{48}{h}
-\end{aligned}
-$
-
-Substituting $l$ and $w$ in the first equation in terms of $h$, we get
-
-$
-\begin{aligned}
-l \times w                              &= 200 \\\\
-\dfrac {150} {h} \times \dfrac {48} {h} &= 200 \\\\
-\dfrac {150 \times 48} {h^2}            &= 200 \\\\
-\dfrac {150 \times 48} {200}            &= h^2 \\\\
-h^2                                     &= \dfrac {150 \times 48} {200} \\\\
-h^2                                     &= \dfrac {50 \times 3 \times 12 \times 4} {50 \times 4} \\\\
-h^2                                     &= \dfrac {\cancel{50} \times 3 \times 12 \times \cancel{4}} {\cancel{50} \times \cancel{4}} \\\\
-h^2                                     &= 3 \times 12 \\\\
-h^2                                     &= 36 \\\\
-h                                       &= \sqrt {36} \\\\
-h                                       &= 6 \ \text {m}
-\end{aligned}
-$
-
-Height of the school hall (in m) $= 6  \ \text {m}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6 \ \text {m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>02202C7F-9F7E-46E2-9AD1-6B9D9768E016</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $30 \%$ of $550 \ \text{cm}^3$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 30 \% \ \text {of} \ 550 \ \text {cm}^3 \\\\
-&= \dfrac {30} {100} \times 550 \\\\
-&= \dfrac {30 \times 550} {100} \\\\
-&= \dfrac {3 \cancel {0} \times 55 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 3 \times 55 \\\\
-&= 165 \ \text {cm}^3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$165 \ \text {cm} ^ 3$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>30D0B7AD-9447-463A-831D-D948DCE6F17F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-John thinks of a number. He multiplies that number by four and then adds three to the result. If the answer he obtains is $35$, what is the number he first thought of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number that John thought is $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-4a + 3    &= 35 \\\\
-4a        &= 35 - 3 \\\\
-4a        &= 32 \\\\
-a         &= \dfrac {32} {4} \\\\
-a         &= \dfrac {8 \times 4} {4} \\\\
-a         &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
-a         &= 8
-\end {aligned}
-$
-
-The number that John thought $= 8$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
 </div>
 <div class='topics'>
@@ -5119,10 +4714,10 @@ $5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsequence
 </li>
 <li>
-tsequence
+talgebra
 </li>
 </ul>
 </div>
@@ -5201,51 +4796,6 @@ Missing numbers : 10, 17, 24
 <li>
 <div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
-<p>54012999-742D-48BD-A138-DB7E6775B4C3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day the temperature was $3$ degrees lower. What was the temperature on New Year’s day?
- 
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Temperature on New Year’s day $= -5 - 3 = -8 \degree \text {C}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-8 \degree \text {C}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
 <p>8A24363A-173B-47A3-9255-922EF8A300A3</p>
 </div>
 <div class='topics'>
@@ -5310,60 +4860,6 @@ $45$
 
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>6F86CD19-6141-43F1-9E8F-2A2A31A0E9AA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the missing digits to complete the following multiplication:
-$2005 = \boxed{5}\:\:\:\times \:\:\:\Box\Box\Box$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-$
-\begin{aligned}
-2005    &= 5 \times a \\\\
-a       &= \dfrac {2005} {5} \\\\  
-a       &= \dfrac {5 \times 401} {5} \\\\
-a       &= \dfrac {\cancel {5} \times 401} {\cancel {5}} \\\\
-a       &= 401
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$401$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -6000,167 +5496,6 @@ $6 \ \text{kg}$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>D9AB702D-8938-485D-92AD-A2B07C1AFB23</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg) 
-
-$3$ ![missing image](/papers/missing_image.svg) $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
-
-$3$ ![missing image](/papers/missing_image.svg)  $4$ = $3 + 4 + (3 \times 4) = 19$
-
-And similarly, $2$ ![missing image](/papers/missing_image.svg)  $6 = 2 + 6 + (2 \times 6) = 20$ 
-
-Find the values of
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5$ ![missing image](/papers/missing_image.svg)  $7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$5$ ![missing image](/papers/missing_image.svg)  $7$ = $5 + 7 + (5 \times 7) = 47$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$47$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0$ ![missing image](/papers/missing_image.svg)  $9$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$0$ ![missing image](/papers/missing_image.svg)  $9$ = $0 + 9 + (0 \times 9) = 9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If $χ$ ![missing image](/papers/missing_image.svg)  $2 + 23$ find the value of $χ$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-χ ![missing image](/papers/missing_image.svg)  2            &= 23 \\\\
-χ + 2 + (χ \times 2)    &= 23 \\\\
-χ + 2 + 2χ              &= 23 \\\\
-3χ + 2                  &= 23 \\\\
-3χ                      &= 23 - 2 \\\\
-3χ                      &= 21 \\\\
-χ                       &= \dfrac {21} {3} \\\\
-χ                       &= \dfrac {3 \times 7} {3} \\\\
-χ                       &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
-χ                       &= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$χ = 7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>BCC6F2CB-8539-4FD4-9E74-FEBEFF999875</p>
 </div>
 <div class='topics'>
@@ -6270,13 +5605,7 @@ $10000$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -6457,10 +5786,10 @@ $\dfrac {10} {12}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsequence
 </li>
 <li>
-tsequence
+talgebra
 </li>
 </ul>
 </div>
@@ -6520,122 +5849,6 @@ Missing Numbers : $3 , 27 , 81$
 </div>
 </div>
 
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>24C887CF-4462-405D-A46E-9A5B7A2C09DE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Solve each of the following equations:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$8 - χ = 2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-8 - χ                   &= 2 \\\\
-χ                       &= 8 - 2 \\\\
-χ                       &= 6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$x+\frac{1}{3}=1\frac{1}{4}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-x + \dfrac {1} {3}                   &= 1 \dfrac {1} {4} \\\\
-x + \dfrac {1} {3}                   &= \dfrac {5} {4} \\\\
-x                                    &= \dfrac {5} {4} - \dfrac {1} {3} \\\\
-x                                    &= \dfrac {5 \times 3} {4 \times 3} - \dfrac {1 \times 4} {3 \times 4} \\\\
-x                                    &= \dfrac {15} {12} - \dfrac {4} {12} \\\\
-x                                    &= \dfrac {15 - 4} {12} \\\\
-x                                    &= \dfrac {11} {12} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {11} {12}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
@@ -6754,60 +5967,6 @@ $16 \ \text{cm}$
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>7DCC3D45-5CB3-4A24-A48F-06B6CED96443</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the average of $\frac {1}{2}$ and $\frac {1}{3}$ ?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac{ \left ( \dfrac{1} {2} + \dfrac {1} {3} \right )} {2} \\\\
-&= \dfrac{ \left ( \dfrac{3} {2 \times 3} + \dfrac {2} {3 \times 2} \right )} {2} \\\\
-&= \dfrac{ \left ( \dfrac{3} {6} + \dfrac {2} {6} \right )} {2} \\\\
-&= \dfrac{\dfrac{5} {6}} {2} \\\\
-&= \dfrac{5} {12}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{5} {12}$
-
-</div>
-</div>
-
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
@@ -7116,136 +6275,6 @@ $\dfrac{1} {2}$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>E6B98A2D-3E19-48A9-8530-3FA13BCFF9E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $200$ sheets of paper in a pad. The pad is $1.6\,cm$ thick. Find the thickness of one sheet.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-in cm
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-$
-\begin{aligned}
-200 \ \text {sheets}                                   & \ratio \dfrac {16}{10} \ \text {cm}                                    \\\\
-200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                                \\\\
-\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{10}  \times \dfrac {1}{200} \ \text {cm}            \\\\
-\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{2000} \ \text {cm}                                  \\\\
-1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 1000}  \ \text {cm}                \\\\
-1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 1000} \ \text {cm} \\\\
-1 \text { sheet}                                       & \ratio \dfrac {8}{1000} \ \text {cm}                                   \\\\
-1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}                                             \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.0008 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-in mm
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-$
-\begin{aligned}
-200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                               \\\\
-200 \ \text {sheets}                                   & \ratio 1.6 \times 10 \ \text {mm}                                     \\\\
-200 \ \text {sheets}                                   & \ratio 16                                                             \\\\
-\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{200}                                               \\\\
-\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{200} \ \text {mm}                                  \\\\
-1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 100}  \ \text {mm}                \\\\
-1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 100} \ \text {cm} \\\\
-1 \text { sheet}                                       & \ratio \dfrac {8}{100} \ \text {mm}                                   \\\\
-1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}                                             \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.008 \ \text{mm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>57C9979B-2ACE-4BAF-8E7F-AC51C6373882</p>
 </div>
 <div class='topics'>
@@ -7318,68 +6347,6 @@ Statement D is correct.
 <div class='answer'>
 
 D
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>706748E4-8A3B-422B-A4AB-A60AA490E362</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have 3 cats-Fred, Gary and Harry. When I weigh Fred and Gary they come to $12\,kg$ more than Harry. When I weigh Gary and Harry they weigh $8\,kg$ more than Fred and when I weigh Fred and Harry they weigh $14\,kg$ more than Gary. What is the combined weight of all three cats?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the weight of Fred $=a$
-
-Let the weight of Gary $=b$
-
-Let the weight of Harry $=c$
-
-As per the question,
-
-$
-\begin{aligned}
-a + b                       &= 12 + c \\\\
-b + c                       &= 8 + a \\\\
-a + c                       &= 14 + b \\\\
-\text{Adding up the above three equations, we get,} \\\\
-a + b + b + c + a + c       &= 12 + c + 8 + a + 14 + b \\\\
-2a + 2b + 2c                &= 12 + 8 + 14 + a + b + c \\\\
-2a + 2b + 2c - a - b - c    &= 12 + 8 + 14 \\\\
-a + b + c                   &= 34
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$34$
 
 </div>
 </div>

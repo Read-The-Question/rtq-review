@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2017-sample-paper-2"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <div class='paper'>
 <h1>Devonport High School for Boys</h1>
@@ -650,9 +650,6 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -919,13 +916,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
 torder
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -976,9 +970,6 @@ $42 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -2347,9 +2338,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

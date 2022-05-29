@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-amber"
 title: "Topic - Number - Amber"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2577,6 +2577,697 @@ $1$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>BD661B8E-C952-4FE7-B2A9-FBC925EF303A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $3$ moos in a quack and $13$ quacks in an oink.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many moos are there in $3$ quacks and $1$ oink?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= \text{Moos in 3 quacks} + \text{Moos in 1 oink} \\\\
+&= 3 \times 3 + 1 \times 13 \ \text{quacks} \\\\
+&= 9 + 1 \times 13 \times 3 \\\\
+&= 9 + 39 \\\\
+&= 48 \ \text{Moos}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text{Moos}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of an oink does $9$ moos represent?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Fraction of oink} &= \dfrac{\text{Number of moos Given}} {\text{Total number of moos}} \\\\
+                        &= \dfrac{9}{13 \times 3} \\\\
+                        &= \dfrac{3 \times 3}{13 \times 3} \\\\
+                        &= \dfrac{3 \times \cancel{3}}{13 \times \cancel{3}} \\\\
+                        &= \dfrac{3}{13}
+\end{aligned}
+$
+
+Fraction of 9 moos of an oink $=\dfrac{3}{13}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{3}{13}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$800$ moos are sorted into piles $2$ oinks high. How many complete piles will there be and how many moos and quacks will be left over?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total number of piles}    &= \dfrac{\text{Total number of Moos}}{\text{Number of moos per pile}} \\\\
+                                &= \dfrac{800}{2 \times 13 \times 3} \\\\
+                                &= \dfrac{2 \times 400}{2 \times 13 \times 3} \\\\
+                                &= \dfrac{\cancel{2} \times 400}{\cancel{2} \times 13 \times 3} \\\\
+                                &= \dfrac{400}{39} \\\\
+                                &= 10 \dfrac{10}{39} \\\\
+                                &= 10 \ \text{piles} + 10 \ \text{Moos} \\\\
+\text{Total number of piles}    &= 10 \ \text{piles} + 3 \ \text{Quacks} + 1 \ \text{Moos}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{piles} + 3 \ \text{Quacks} + 1 \ \text{Moos}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>A802EBFF-9616-4373-A0C4-AC740A707CD7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are twenty gifts stacked up into four piles. 
+
+The first pile has $3$ less than the second pile. 
+
+The second pile has two more than the third pile. 
+
+The fourth pile has twice as many as the second pile. 
+
+How many gifts are in each pile?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the gifts in third pile $= g$
+
+As per the question,
+
+Gifts in second pile $= g + 2$
+
+Gifts in first pile $= g + 2 - 3 = g - 1$
+
+Gifts in fourth pile $= 2 \times (g + 2) = 2g + 4$
+
+$
+\begin{aligned}
+g + g + 2 + g - 1 + 2g + 4      &= 20 \\\\
+5g + 5                          &= 20 \\\\
+5g                              &= 20 - 5 \\\\
+5g                              &= 15 \\\\
+g                               &= \dfrac{15}{5} \\\\
+g                               &= \dfrac{3 \times 5}{5} \\\\
+g                               &= \dfrac{3 \times \cancel{5}}{\cancel{5}} \\\\
+g                               &= 3
+\end{aligned}
+$
+
+Gifts in first pile $= g - 1 = 3 - 1 =2$
+
+Gifts in second pile $= g + 2 = 5$
+
+Gifts in third pile $= g = 3$
+
+Gifts in fourth pile $= 2g + 4 = 10$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Gifts in first pile $=2$
+
+Gifts in second pile $= 5$
+
+Gifts in third pile $= 3$
+
+Gifts in fourth pile $= 10$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>B1771F6D-A253-45AC-BA87-5A7F689BBAB0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In *Mathsland* currency is arranged in alphas, betas and gammas where 
+
+**$1$ Alpha $= 20$ Betas** and **$1$ Beta $= 5$ Gammas**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many Gammas in $5$ Alphas, $6$ Betas and $3$ Gammas?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$1$ Alpha $= 20$ Betas and $1$ Beta $= 5$ Gammas
+
+$
+\begin{aligned}
+&= 5 \ \text{Alphas} + 6 \ \text{Betas} + 3 \ \text{gammas} \\\
+&= 5 \times 20 \times 5 \ \text{Gammas} + 6 \times 3 \ \text{Gammas} \\\\
+&= 500 + 18 + 3 \ \text{Gammas} \\\\
+&= 521 \ \text{Gammas}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$521 \ \text{Gammas}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using as many alphas as you can, and then betas, then gammas, how would you pay for something that costs $789$ Gammas?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$1$ Alpha $= 20$ Betas and $1$ Beta $= 5$ Gammas
+
+$789$ Gammas $= \dfrac{789}{20 \times 5}$ Alphas
+
+$
+\begin{aligned}
+&= \dfrac{700 + 89}{100} \\\\
+&= \dfrac{700}{100} + \dfrac{89}{100} \\\\
+&= \dfrac{7\cancel{00}}{1\cancel{00}} + \dfrac{89}{100} \\\\
+&= 7 \ \text{Alphas} + \dfrac{89}{100} \times 20 \ \text{Betas} \\\\
+&= 7 \ \text{Alphas} + \dfrac{89 \times 20}{5 \times 20} \ \text{Betas} \\\\
+&= 7 \ \text{Alphas} + \dfrac{89 \times \cancel{20}}{5 \times \cancel{20}} \ \text{Betas} \\\\
+&= 7 \ \text{Alphas} + \dfrac{89}{5} \ \text{Betas} \\\\
+&= 7 \ \text{Alphas} + \dfrac{85 + 4}{5} \ \text{Betas} \\\\
+&= 7 \ \text{Alphas} + \dfrac{85}{5} \ \text{Betas} + \dfrac{4}{5} \ \text{Betas} \\\\
+&= 7 \ \text{Alphas} + \dfrac{5 \times 17}{5} \ \text{Betas} + \dfrac{4}{5} \ \text{Betas} \\\\
+&= 7 \ \text{Alphas} + \dfrac{\cancel{5} \times 17}{\cancel{5}} \ \text{Betas} + \dfrac{4}{5} \ \text{Betas} \\\\
+&= 7 \ \text{Alphas} + 17 \ \text{Betas} + \dfrac{4}{5} \times 5 \ \text{Gammas} \\\\
+&= 7 \ \text{Alphas} + 17 \ \text{Betas} + \dfrac{4}{\cancel{5}} \times \cancel{5} \ \text{Gammas} \\\\
+&= 7 \ \text{Alphas} + 17 \ \text{Betas} + 4 \ \text{Gammas}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 \ \text{Alphas} + 17 \ \text{Betas} + 4 \ \text{Gammas}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>4DCF513A-ACE9-434B-B4EA-1DA5E56894A7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the numbers which give $7$ when rounded to the nearest whole number. 
+
+$6.51 \quad 7.49 \quad 7.51 \quad 6.49 \quad 6.9 \quad 7.9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$6.51, 7.49, 6.9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6.51, 7.49, 6.9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>1CF7000C-7DC4-41C6-BCD8-1C7C5F8EB74D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$75$ students need $3$ pens each. Pens are sold in packs of $6$. How many whole packs need to be bought?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total packs needed}       &= \dfrac{\text{Total pens required}}{\text{Pens per pack}} \\\\
+                                &= \dfrac{75 \times 3}{6} \\\\
+                                &= \dfrac{75 \times 3}{2 \times 3} \\\\
+                                &= \dfrac{75 \times \cancel{3}}{2 \times \cancel{3}} \\\\
+                                &= \dfrac{75}{2} \\\\
+                                &= 37 \dfrac{1}{2}
+\end{aligned}
+$
+
+Total packs needed = 37 + 1 = 38
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$38$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>61C39D5F-282B-4797-984D-C899CB0325F1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Each missing digit in the following calculations is either $2, 5$ or $7$. 
+Fill in each box with one of these numbers. You may use each number more than once.
+
+$\boxed{\phantom{1}} + \boxed{1} \boxed{8} = \boxed{\phantom{1}} \boxed{\phantom{1}}$
+
+$\boxed{\phantom{1}}\boxed{\phantom{1}} \ \times \boxed{3} = \boxed{\phantom{1}} \boxed{\phantom{1}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\boxed{7} + \boxed{1} \boxed{8} = \boxed{2} \boxed{5}$
+
+$\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\boxed{7} + \boxed{1} \boxed{8} = \boxed{2} \boxed{5}$
+
+$\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>B5DB68EA-79E5-438B-AD75-FC27D8780047</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which whole number when multiplied by itself will give an answer between $190$ and $200$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Perfect square between $190$ and $200 = 196$
+
+$14 \times 14 = 196$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>D8A69E01-9D6A-49ED-9D04-05BE10E23DE7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which number between $81$ and $89$ is exactly divisible by $6$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$14 \times 6 = 84$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$84$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>4F1A59B3-6091-4F30-BE75-46B2D77DF1E7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are two views of the same cube:
+
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+Which of the views below show the same cube as in $A$ and $B$?
+
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ej_amber question'>
 <div class='uuid'>
 <p>51EF1152-4680-4066-B3A6-9E35EA7048B4</p>
@@ -5038,6 +5729,278 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_nj_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_amber question'>
+<div class='uuid'>
+<p>A547290D-8C41-4C9B-A7F1-47894E812D75</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$18-17+16-15+14-13$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 18 - 17 + 16 - 15 + 14 - 13 \\\\
+&= 18 - 1 - 1 - 13 \\\\
+&= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_amber question'>
+<div class='uuid'>
+<p>C1973D01-029D-4F22-8DE1-F3678679D1B4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in figures the number forty-two thousand and eight. How much is this number less than one million? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The number is $= 42008$
+
+$1000000 - 42008 = 957992$
+
+This number is $957992$ less than one million.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42008 \\\\ 957992$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_amber question'>
+<div class='uuid'>
+<p>CB25A103-14EA-41BF-BF3D-B461BBA32FAB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write each of these amounts to the nearest hundred pounds:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\pounds 675$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\pounds 700$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 700$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\pounds 2,945$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\pounds 2,900$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2,900$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\pounds 90,095$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\pounds 90,100$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 90,100$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_amber question'>
+<div class='uuid'>
+<p>FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down in rising order of size all the 3-digit numbers which can be formed by using te digits $7$,$8$ and $9$ once each. The first is $789$.
+ 
+</div>
+<div class='workings'>
+<div class='working'>
+
+$789 \quad < \quad 798 \quad < \quad 879 \quad < \quad 897 \quad < \quad 978 \quad < \quad 987$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$789 \quad < \quad 798 \quad < \quad 879 \quad < \quad 897 \quad < \quad 978 \quad < \quad 987$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_amber</p>
 </div>
 </div>
 </li>

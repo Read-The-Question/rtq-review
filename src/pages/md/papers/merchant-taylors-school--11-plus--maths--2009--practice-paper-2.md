@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2009-practice-paper-2"
 title: "Merchant Taylors School - 11 Plus - Maths - 2009 - Practice Paper 2"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <div class='paper'>
 <h1>Merchant Taylors' School</h1>
@@ -328,9 +328,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -374,9 +371,6 @@ $0.04, \quad 0.042, \quad 0.204, \quad 0.24, \quad 0.40$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -518,9 +512,6 @@ $-13$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

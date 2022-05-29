@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-np-pr"
 title: "Owner - Nalini Prakash - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5379,9 +5379,6 @@ $\pounds 18.29$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

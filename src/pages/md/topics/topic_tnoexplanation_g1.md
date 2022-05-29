@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-g1"
 title: "Topic - Noexplanation - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -251,54 +251,6 @@ $11$
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_g1 question'>
-<div class='uuid'>
-<p>FD5A3E12-BE8F-4D26-AC89-A1DA76DF25F8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the following numbers in order (smallest to largest):
-
-$4.41 \quad  0.414 \quad  0.4 \quad  0.1444 \quad  1.4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.1444, \quad  0.4, \quad  0.414, \quad  1.4, \quad  4.41$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.1444, \quad  0.4, \quad  0.414, \quad  1.4, \quad  4.41$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -1138,6 +1090,107 @@ $13 \times 7$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>20FCDF7C-160A-422B-8553-7B721DA71113</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two square numbers have a difference of $33$. Identify the two missing whole numbers that complete this calculation.
+
+$A^2 - B^2 = 33$
+
+Fill in the two empty boxes to show your answer:
+
+$\boxed{\phantom{1}} \ ^2 - \boxed{\phantom{1}} \ ^2 = 33$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\maroonC {7 ^ 2} - \maroonC {4 ^ 2} = 33$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 ^2 , 4 ^ 2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>2EF6FBC9-C042-42F3-9C0F-7BBB8E6DF8E8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**For question $\bold{17}$ and $\bold{18}$ use this information.**
+
+In my pencil case there are six pencils and two pens.
+
+If I take out one item and want it to be a pen which of these words best describes my chances?
+
+certain: $\quad$  fairly likely: $\quad$  evens: $\quad$  fairly unlikely: $\quad$  impossible
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Fairly unlikely}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Fairly unlikely}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>3C2CDC3C-669D-4F8B-BB92-84F756D6932D</p>
 </div>
 <div class='topics'>
@@ -1269,6 +1322,197 @@ $\text {Octagon}$
 <div class='answer'>
 
 $\text {Octagon}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>F96ADDDB-D1DA-4669-B9D8-6F1709C2D0E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tcoin
+</li>
+<li>
+tprobability
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**For question $\bold{39}$ to $\bold{43}$ make the most appropriate choice from this list to describe the chances.**
+
+impossible: $\quad$  very unlikely: $\quad$  unlikely: $\quad$  as likely as not: $\quad$  likely: $\quad$  very likely: $\quad$  certian
+
+When thrown a coin will show heads.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {likely}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {likely}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tprobability
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A bicycle will have two wheels.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Certain}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Certain}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>A47DB4E1-F2E1-4223-910E-E35218E5B40F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tprobability
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A boy selected at random from Year $7$ will have red hair.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {unlikely}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {unlikely}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>97658705-5BFD-43C2-8EC0-F96EA2170CC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tprobability
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+An ordinary dice will show a number below ten.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Certain}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Certain}$
 
 </div>
 </div>
@@ -2343,10 +2587,7 @@ $1349$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
+ttime
 </li>
 <li>
 tnoexplanation
@@ -2394,10 +2635,7 @@ $03 {:} 35 \ \text {p.m.}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
+ttime
 </li>
 <li>
 tnoexplanation
@@ -2668,200 +2906,6 @@ $10236$
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>DAB0F53F-E4FB-494D-9B78-9232926F4778</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Arrange all these numbers in order of size, writing the smallest first. 
-
-$540, 452, 524, 425, 504$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$425, 452, 504, 524, 540$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$425, 452, 504, 524, 540$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using any of the digits $4,\ 5$ and $2$ only once in each answer, write down
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-an even $2$ digit number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$42$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-the largest $3$ digit number possible
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$542$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$542$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-the smallest $2$ digit number possible
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3496,111 +3540,6 @@ $\text {Wednesday}$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
-<p>62C66561-F3E0-4965-B7E2-15DAB3203A00</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tsequence
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Below is a repeated pattern of numbered shapes.
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If the pattern continues in the same way, write the numbers of the next two *stars* in the pattern.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$11, \ 16$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11, \ 16$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What shape will number $35$ be?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Circle}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{Circle}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
 <p>FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB</p>
 </div>
 <div class='topics'>
@@ -3728,112 +3667,6 @@ $6!$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>B4B6A0C4-0E17-4C31-8F27-57901959FB2A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down, in ascending order, the factors of the following numbers. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$36$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1, 2, 3, 4, 6, 9, 12, 18, 36$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 2, 3, 4, 6, 9, 12, 18, 36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$150$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
 </div>
 </div>
 </li>
@@ -5707,54 +5540,6 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_g1 question'>
-<div class='uuid'>
-<p>BCABF532-DB4D-44EA-893A-A8CB7914EE55</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Place the following numbers in order of size from smallest to largest: 
-
-$4.2101 \quad 4.1021 \quad 4.0121 \quad 4.0211$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>AF9C6EAA-0E1D-4C87-9AD8-13EFD44CD2BD</p>
@@ -5857,12 +5642,6 @@ $3.9 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
 <li>
 ttime
 </li>
@@ -6030,9 +5809,6 @@ $0{:}1$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 <li>
@@ -6080,12 +5856,6 @@ $18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
-<li>
 ttime
 </li>
 <li>
@@ -6131,10 +5901,7 @@ $9{:}40, \ 21{:}40$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
+ttime
 </li>
 <li>
 tnoexplanation
@@ -6190,9 +5957,6 @@ $11{:}11$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -6501,10 +6265,7 @@ $34 \text{p}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tsequence
+tinfer
 </li>
 <li>
 tnoexplanation
@@ -6970,54 +6731,6 @@ $\text {Prime numbers}$
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>096131F4-72CE-446C-9543-2653E59BA346</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write these numbers in order of size, starting with the smallest:
-
-$3.4 \quad 3.34 \quad 3.304 \quad 3.043$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$3.043, \quad 3.304, \quad 3.34, \quad 3.4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.043, \quad 3.304, \quad 3.34, \quad 3.4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>

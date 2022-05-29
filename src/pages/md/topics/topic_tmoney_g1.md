@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-g1"
 title: "Topic - Money - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -803,6 +803,107 @@ $\pounds 14.25$
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
+<p>0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Amelia earns $\pounds 330$ but has to pay rent of $\pounds X$.
+Write an expression for how much money she has left after paying the rent.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Money left} = \pounds (330 - X)$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Money left} = \pounds (330 - X)$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>60A40A72-24E4-471F-A028-152B28477469</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Chigwell School buys a badge for each student who plays for one of the school teams.
+$193$ students receive a badge, and each badge costs $\pounds 6$.
+
+How much does the school have to pay in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {School pays} &= \text {No. of students receiving badge} \times \text {Cost of one badge} \\\\
+                    &= 193 \times 6 \\\\
+                    &= \pounds 1158
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1158$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
 <p>ADF03135-2BED-4722-A77F-AEF96CA568D8</p>
 </div>
 <div class='topics'>
@@ -840,6 +941,179 @@ $\pounds 29.95$
 </div>
 </div>
 
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>59547E58-AC55-448A-91F5-598477A6799E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In England the money we use is pounds $(\pounds)$.
+
+In Europe the money they use is euros $(€)$.
+
+$\pounds 100$ (pounds) is worth the same as $€120$ (euros).
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many euros would be worth the same as $\pounds 500$ (pounds)?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\pounds 100             &= € 120 \\\\
+\pounds 100 \times 5    &= € 120 \times 5 \\\\
+\pounds 500             &= € 600
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$€ 600$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many pounds would be worth the same as $€300$ (euros)?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the above answer,
+
+$
+\begin {aligned}
+\pounds 500                 &= € 600 \\\\
+\pounds \dfrac {500} {2}    &= € \dfrac {600} {2} \\\\
+\pounds 250                 &= € 300
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 250$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Bruno has $\pounds 600$ (pounds). Marie has $€700$ (euros). Decide who has the most money. Explain how you decided.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert pounds into euros to compare them.
+
+As per the above answers,
+
+$
+\begin {aligned}
+\text {Bruno has}   &= \pounds 600 \\\\
+                    &= \pounds 500 + \pounds 100 \\\\
+                    &= € 600 + € 120 \\\\
+                    &= € 720
+\end {aligned}
+$
+
+Let's find who has the most money.
+
+$
+\begin {aligned}
+&= \text {Bruno} - \text {Marie} \\\\
+&= € 720 - € 700 \\\\
+&= € 20
+\end {aligned}
+$
+
+Bruno $\pounds 600$ > Marie $ € 700$
+
+Bruno has $€ 20$ more than Marie.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Bruno}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
@@ -3675,6 +3949,139 @@ $52$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>00C311D7-5CAB-401B-AE03-78A75AFA3E88</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+
+Entry $20 \text{p}$
+
+Side Show $30 \text{p}$ a go
+
+Cream Teas $\pounds 2.60$ each
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mary goes to the school fair.
+
+She pays to get in. She visits $3$ side shows and she has a cream tea.
+
+How much does Mary spend altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total money Mary spent}  &= \text {Entry cost} + 3 \times \text {Side shows cost} + \text {Cost of cream tea} \\\\
+                                &= 20 \ \text {p} + 3 \times 30 \ \text {p} + \pounds 2.60 \\\\
+                                &= \pounds \dfrac {20} {100} + 3 \times \pounds \dfrac {30} {100} + \pounds 2.60 \\\\
+                                &= 0.20 + 3 \times 0.30 + 2.60 \\\\
+                                &= 2.80 + 0.90 \\\\
+                                &= \pounds 3.70
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.70$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Anna has $\pounds 5$ to spend at the school fair. She must pay to get in.
+
+How many times can she visit a side show if she has a cream tea as well?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Number of times Anna can visit a side show}  &= \dfrac {\text {Total money she has} - (\text {Entry cost} + \text {Cost of a cream tea})} {\text {Cost of a side show}} \\\\ 
+                                                    &= \dfrac {\pounds 5 - (20 \text {p} + \pounds 2.60)} {30 \text {p}} \\\\
+                                                    &= \dfrac {5 \times 100 \text {p} - (20 \text {p} + 2.60 \times 100 \text {p})} {30 \text {p}} \\\\
+                                                    &= \dfrac {500 - (20 + 260)} {30} \\\\
+                                                    &= \dfrac {500 - 280} {30} \\\\
+                                                    &= \dfrac {220} {30} \\\\
+                                                    &= 7
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>883F6925-9EC7-4ED4-90EE-6C29F7B5A29F</p>
@@ -6474,6 +6881,58 @@ $\pounds 2.6$
 <li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
+<p>2FB7FD94-DCE7-416B-94DB-D40514D8544D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\pounds 1.28 + 57 \text{p}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+$
+\begin{array}{cccccccccccccc}
+&= \pounds1.28 - 57  \text{p} \\\\
+&= 128 \text{p}  + 57  \text{p} \\\\
+&= 185 \text{p} \\\\
+&= \pounds 1.85
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.85$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
 <p>5171E4DB-A0AE-48C2-A77F-6BE170E11A11</p>
 </div>
 <div class='topics'>
@@ -9120,6 +9579,144 @@ $\pounds 5.04$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>6ED09898-3049-403B-862A-0997F0A0FB65</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+tpercentageadvance
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Homer, Marge and Bart each have $$1000$.
+
+Homer gives $10\%$ of his money to Marge. Marge then gives $10\%$ of her new amount to Bart. Bart then gives $10\%$ of his new amount to Homer.
+
+How much has Homer got now?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Amount Homer gives to Marge}          &= 10 \% \ \text{of} \ 1000 \\\\
+                                            &= \dfrac {10} {100} \times 1000 \\\\
+                                            &= \dfrac {10 \times 1000} {100} \\\\
+                                            &= \dfrac {10 \times 10 \cancel 0 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                            &= 10 \times 10 \\\\
+                                            &= 100 \\\\
+\text{New amount that Marge has}            &= 1000 + 100 \\\\   
+                                            &= 1100 \\\\                                        
+\text{Amount Marge gives to Bart}           &= 10 \% \ \text{of} \ 1100 \\\\
+                                            &= \dfrac {10} {100} \times 1100 \\\\
+                                            &= \dfrac {10 \times 1100} {100} \\\\
+                                            &= \dfrac {10 \times 11 \cancel 0 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                            &= 10 \times 11 \\\\
+                                            &= 110 \\\\
+\text{New amount that Bart has}             &= 1000 + 110 \\\\   
+                                            &= 1110 \\\\                                        
+\text{Amount Bart gives to Homer}           &= 10 \% \ \text{of} \ 1110 \\\\
+                                            &= \dfrac {10} {100} \times 1110 \\\\
+                                            &= \dfrac {10 \times 1110} {100} \\\\
+                                            &= \dfrac {1 \cancel 0 \times 111 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                            &= 1 \times 111 \\\\
+                                            &= 111 \\\\
+\text{New amount that Homer has}            &= 900 + 111 \\\\   
+                                            &= 1011
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1011$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>5C46037A-9D8E-4709-A27D-EC329D33E470</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$6 \times ………………….. = $\pounds 9.60$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+6 \times a                          &= \pounds 9.60 \\\\
+a                                   &= \dfrac {9.6} {6} \\\\
+                                    &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
+                                    &= \dfrac {96} {6 \times 10} \\\\
+                                    &= \dfrac {6 \times 16} {6 \times 10} \\\\
+                                    &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
+                                    &= \dfrac {16} {10} \\\\
+a                                   &= \pounds 1.6
+\end{aligned}
+$
+
+The missing number $= \pounds 1.6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>

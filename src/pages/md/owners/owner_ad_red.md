@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-red"
 title: "Owner - Arun Dalakoti - Red"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -439,13 +439,7 @@ $9$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -917,9 +911,6 @@ $121$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tclock
 </li>

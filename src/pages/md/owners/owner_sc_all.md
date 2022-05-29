@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-all"
 title: "Owner - Sahil Choudhary - All"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3287,13 +3287,7 @@ $9 \times 6 + 73 = 96 + 7 \times 3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -7206,13 +7200,7 @@ Largest $= 0.79$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tsequence
 </li>
 </ul>
 </div>
@@ -8625,13 +8613,7 @@ $21$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -8895,13 +8877,7 @@ $255 \text{p}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tsequence
 </li>
 </ul>
 </div>
@@ -15747,9 +15723,6 @@ $744$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -18168,9 +18141,6 @@ $2436$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <div class='paper'>
 <h1>Streatham and Clapham High School</h1>
@@ -1188,9 +1188,6 @@ $5.3 \ \ \text{Kilograms}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -2291,9 +2288,6 @@ $190$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

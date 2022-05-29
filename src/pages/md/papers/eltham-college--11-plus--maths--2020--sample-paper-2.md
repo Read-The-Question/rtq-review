@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <div class='paper'>
 <h1>Eltham College</h1>
@@ -818,13 +818,7 @@ $9 \times 6 + 73 = 96 + 7 \times 3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -918,9 +912,6 @@ $\dfrac {1} {2}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

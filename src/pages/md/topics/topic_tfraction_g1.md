@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-g1"
 title: "Topic - Fraction - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -110,73 +110,6 @@ $
 <div class='answer'>
 
 $1 \dfrac {1} {2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_g1 question'>
-<div class='uuid'>
-<p>D20EC22D-8AE9-44E9-AFFD-3D12B8D96072</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put these fractions in ascending order of size.
-
-$\dfrac{3}{5} \quad \dfrac{12}{18} \quad \dfrac{9}{10} \quad\dfrac{14}{20}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $5, 18, 10, 20 = 180$
-
-$
-\begin{aligned}
-&= \dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {9} {10} \quad\dfrac {14} {20} \\\\
-&= \dfrac {3 \times 36} {5 \times 36}, \quad \dfrac {12 \times 10} {18 \times 10}, \quad \dfrac {9 \times 18} {10 \times 18} \quad\dfrac {14 \times 9} {20 \times 9} \\\\
-&= \dfrac {108} {180}, \quad \dfrac {120} {180}, \quad \dfrac{162} {180} \quad\dfrac {126} {180}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin {aligned}
-&= \dfrac {108} {180}, \quad \dfrac {120} {180}, \quad  \dfrac {126} {180}, \quad \dfrac {162} {180} \\\\
-&= \dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9} {10}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9} {10}$
 
 </div>
 </div>
@@ -1118,81 +1051,6 @@ $\dfrac{1} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>F62029F3-98C7-4AEC-8332-75828A0B6863</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the following fractions in order of size, from smallest to largest:
-
-$\dfrac{2}{3}, \quad \dfrac{5}{6}, \quad \dfrac{7}{12}$
-
--   $\dfrac{7}{12}, \dfrac{2}{3}, \dfrac{5}{6}$
--   $\dfrac{7}{12}, \dfrac{5}{6}, \dfrac{2}{3}$
--   $\dfrac{2}{3}, \dfrac{7}{12}, \dfrac{5}{6}$
--   $\dfrac{5}{6}, \dfrac{2}{3}, \dfrac{7}{12}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $3, 6, 12 = 12$
-
-$
-\begin{aligned}
-&= \dfrac {2} {3}, \quad \dfrac {5} {6}, \quad \dfrac {7} {12} \\\\
-&= \dfrac {2 \times 4} {3 \times 4}, \quad \dfrac {5 \times 2} {6 \times 2}, \quad \dfrac {7} {12} \\\\
-&= \dfrac {8} {12}, \quad \dfrac {10} {12}, \quad \dfrac {7} {12}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {7} {12}, \quad \dfrac {8} {12}, \quad \dfrac {10} {12} \\\\
-&= \dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
 <p>72C59585-EC33-41D5-9631-E7F5A7E0158B</p>
@@ -1534,6 +1392,65 @@ $\dfrac {61} {36}$
 </div>
 <div class='rag'>
 <p>rag_nc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>6D028400-7588-4227-B770-FB7713EF5103</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Anna decides to share her pizza with two of her friends.
+She gives one friend a fifth of the pizza and the other friend three tenths of the pizza.
+What fraction of the pizza is left for Anna?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {1st friends share} - \text {2nd friends share} \\\\
+                                &= 1 - \dfrac {1} {5} - \dfrac {3} {10} \\\\
+                                &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {1 \times 2} {5 \times 2} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10} {10} - \dfrac {2} {10} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10 - 2 - 3} {10} \\\\
+                                &= \dfrac {5} {10} \\\\
+                                &= \dfrac {5} {5 \times 2} \\\\
+                                &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
+                                &= \dfrac {1} {2}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -3248,107 +3165,6 @@ $\dfrac {9} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>964A050F-9385-4777-A31A-90B6EF88B2EC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If the following fractions  are arranged in increasing order of size, which one is the smallest?
-
-- $\dfrac{1}{2}$
-- $\dfrac{3}{5}$
-- $\dfrac{4}{7}$
-- $\dfrac{5}{9}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-If two or more fraction has common numerator then fraction with larger denominator is the smallest.
-
-$
-\begin{aligned}
-&= \dfrac {1} {2} , \quad \dfrac {3} {5} , \quad \dfrac{4} {7} , \quad \dfrac {5} {9} \\\\
-&= \dfrac {1 \times 60} {2 \times 60} , \quad \dfrac {3 \times 20} {5 \times 20} , \quad \dfrac {4 \times 15} {7 \times 15} , \quad \dfrac{5 \times 12} {9 \times 12} \\\\
-&= \dfrac {60} {120} , \quad \dfrac {60} {100} , \quad \dfrac {60} {105} , \quad \dfrac {60} {108}
-\end{aligned}
-$
-
-Let's arrange them in increasing order of size.
-
-$
-\begin{aligned}
-&= \dfrac {60} {120}< \quad \dfrac {60} {108}< \quad \dfrac {60}{105}< \quad \dfrac {60} {100} \\\\
-&= \dfrac {1} {2}< \quad \dfrac {5} {9}< \quad \dfrac {4} {7}< \quad \dfrac {3} {5}
-\end{aligned}
-$
-
-The smallest fraction is $= \dfrac {1} {2}$
-
-</div>
-<div class='working'>
-
-Alternative Solution
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $2, 5, 7, 9 = 630$
-
-$
-\begin{aligned}
-&= \dfrac {1} {2} , \quad \dfrac {3} {5} , \quad \dfrac{4} {7} , \quad \dfrac {5} {9} \\\\
-&= \dfrac {1 \times 315} {2 \times 315} , \quad \dfrac {3 \times 126} {5 \times 126} , \quad \dfrac {4 \times 90} {7 \times 90} , \quad \dfrac{5 \times 70} {9 \times 70} \\\\
-&= \dfrac {315} {630} , \quad \dfrac {378} {630} , \quad \dfrac {360} {630} , \quad \dfrac {350} {630}
-\end{aligned}
-$
-
-Let's arrange them in increasing order of size.
-
-$
-\begin{aligned}
-&= \dfrac {315} {630}< \quad \dfrac {350} {630}< \quad \dfrac {360} {630}< \quad \dfrac {378} {630} \\\\
-&= \dfrac {1} {2}< \quad \dfrac {5} {9}< \quad \dfrac {4} {7}< \quad \dfrac {3} {5}
-\end{aligned}
-$
-
-The smallest fraction is $= \dfrac {1} {2}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$\dfrac {1} {2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
 <p>3F6998ED-9AC1-46D3-A19F-E85725A6237B</p>
@@ -4739,6 +4555,64 @@ $550000$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>9AA2E90D-7CEB-4445-8395-AC73877C9536</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $80\%$ of $\pounds535$
+
+A: $\pounds107$
+
+B: $\pounds372$
+
+C: $\pounds400$
+
+D: $\pounds418$
+
+E: $\pounds428$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= \dfrac {80} {100} \times 535 \\\\
+&= \dfrac {80 \times 535} {100} \\\\
+&= \dfrac {42800} {100} \\\\
+&= \dfrac {428 \cancel{00}} {1\cancel{00}} \\\\
+&=  \pounds 428
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 428$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3A3AB715-05E4-4635-8C9A-641EC20949C8</p>
@@ -5141,73 +5015,6 @@ $36$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>BE93C1E8-2740-424A-BAA2-D767FEF4F4AE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the following numbers in order, starting with the lowest.
-
-$\dfrac{7}{8} \quad \dfrac{13} {15} \quad \dfrac{17}{20} \quad     \dfrac{25}{30} \quad \dfrac{11}{12}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $8, 15, 20, 30, 12 = 120$
-
-$
-\begin{aligned}
-&= \dfrac{7}{8}, \quad \dfrac{13}{15}, \quad \dfrac{17}{20} \quad\dfrac{25}{30} \quad \dfrac{11}{12} \\\\
-&= \dfrac{7 \times 15}{8 \times 15}, \quad \dfrac{13 \times 8}{15 \times 8}, \quad \dfrac{17 \times 6}{20 \times 6}, \quad\dfrac{25 \times 4}{30 \times 4} , \quad\dfrac{11 \times 10}{12 \times 10} \\\\
-&= \dfrac{105}{120}, \quad \dfrac{104}{120}, \quad \dfrac{102}{120}, \quad\dfrac{100}{120}, \quad\dfrac{110}{120}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac{100}{120}, \quad \dfrac{102}{120}, \quad  \dfrac{104}{120}, \quad \dfrac{105}{120}, \quad \dfrac{110}{120} \\\\
-&= \dfrac{25}{30}, \quad \dfrac{17}{20}, \quad \dfrac{13}{15}, \quad \dfrac{7}{8}, \quad \dfrac{11}{12} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{25}{30}, \quad \dfrac{17}{20}, \quad \dfrac{13}{15}, \quad \dfrac{7}{8}, \quad \dfrac{11}{12}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
 </div>
 </div>
 </li>
@@ -6217,97 +6024,6 @@ $\dfrac {1} {3}$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>173D1A24-A6E2-4456-A3BC-BFB68112A128</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write these three fractions in order of size, starting with the $\underline{largest}$ first. 
-
-$\dfrac{1}{3},\dfrac{3}{8},\dfrac{2}{5}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $3, 8, 5 = 120$
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} , \quad \dfrac {3} {8} , \quad \dfrac{2} {5} \\\\
-&= \dfrac {1 \times 40} {3 \times 40} , \quad \dfrac {3 \times 15} {8 \times 15} , \quad \dfrac {2 \times 24} {5 \times 24} \\\\
-&= \dfrac {40} {120} , \quad \dfrac {45} {120} , \quad \dfrac {48} {120}
-\end{aligned}
-$
-
-Let's put them in decending order now.
-
-$
-\begin{aligned}
-&= \dfrac {48} {120}> \quad \dfrac {45} {120}> \quad \dfrac {40}{120} \\\\
-&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {1} {3}
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-If two or more fraction has common numerator then fraction with smallest denominator is the largest.
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} , \quad \dfrac {3} {8} , \quad \dfrac{2} {5} \\\\
-&= \dfrac {1 \times 6} {3 \times 6} , \quad \dfrac {3 \times 2} {8 \times 2} , \quad \dfrac {2 \times 3} {5 \times 3} \\\\
-&= \dfrac {6} {18} , \quad \dfrac {6} {16} , \quad \dfrac {6} {15}
-\end{aligned}
-$
-
-Let's put them in decending order now.
-
-$
-\begin{aligned}
-&= \dfrac {6} {15}> \quad \dfrac {6} {16}> \quad \dfrac {6}{18} \\\\
-&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {1} {3}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -10962,76 +10678,6 @@ $1 \dfrac {1} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_g1 question'>
-<div class='uuid'>
-<p>2516CBC2-1DA0-4907-AFF5-DDE8C971594D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write these fractions in order of size from smallest to the largest.
-
-$
-\dfrac{5}{8},
-\quad \dfrac{2}{3}
-\quad \dfrac{1}{2}
-\quad \dfrac{7}{12}
-\quad \dfrac{17}{24}
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to decimals
-
-$
-\begin{aligned}
-&= \dfrac {5} {8}, \quad \dfrac {2} {3},  \quad \dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {17} {24} \\\\
-&= 0.625, \quad 0.666, \quad 0.5, \quad 0.583, \quad 0.728
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 0.5, \quad 0.583, \quad 0.626, \quad 0.666, \quad 0.728 \\\\
-&= \dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {3}, \quad \dfrac {17} {24}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {3}, \quad \dfrac {17} {24}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>8F86C566-74D4-41CB-ADC6-2648BC6CBC05</p>
@@ -13213,6 +12859,157 @@ $2\dfrac{2} {3}$
 </ul>
 <div class='papername'>
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>BB57B12D-D89B-4ECA-843A-B6986E277E18</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4\frac {1} {2} + 5\frac {3} {4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4 \dfrac {1} {2} + 5\frac {3} {4} \\\\
+&= \dfrac {9} {2} + \dfrac {23} {4} \\\\
+&= \dfrac {9 \times 2} {2 \times 2} + \dfrac {23} {4} \\\\
+&= \dfrac {18} {4} + \dfrac {23} {4} \\\\
+&= \dfrac {18 + 23} {4} \\\\
+&= \dfrac {41} {4} \\\\
+&= 10 \dfrac {1} {4} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {41} {4} \ \text{or} \ 10 \dfrac {1} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7\times\frac {3} {5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 \times \dfrac {3} {5} \\\\
+&= \dfrac {7 \times 3} {5} \\\\
+&= \dfrac {21} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {21} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5\frac {2} {5} - 2\frac {4} {5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5 \dfrac {2} {5} - 2 \dfrac {4} {5} \\\\
+&= \dfrac {27} {5} - \dfrac {14} {5} \\\\
+&= \dfrac {27 - 14} {5} \\\\
+&= \dfrac {13} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {13} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>

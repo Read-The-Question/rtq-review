@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-all"
 title: "Owner - Nitin Joshi - All"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -958,8 +958,9 @@ $
        &    3   &                             9   &   0 \\
 1      &    3   &                             0   &   0 \\
 \hline
-1      &    7   &                             0   &   3 \\
+1      &    7   &                             0   &   3
 \end{array}
+$
 
 </div>
 </div>
@@ -1317,16 +1318,7 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
 torder
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -1941,12 +1933,6 @@ $2, 7, 11$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 tinfer
 </li>
@@ -3953,9 +3939,6 @@ $1982$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -4307,9 +4290,6 @@ $64$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -4515,9 +4495,9 @@ The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+ 1 \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC {(+ 1 \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC {(+ 1 \dfrac {1} {6})} }  \\
+&   \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }  \\
 \dfrac {2} {3},  && \ldots,  &&   \ldots, &&  1 \dfrac {1} {6}
 \end{matrix}
 $
@@ -6597,7 +6577,7 @@ $5.031$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>E0E9D923-E176-4223-B0A1-C3789A643CE8</p>
 </div>
@@ -6811,7 +6791,7 @@ $31$
 <p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -7067,7 +7047,7 @@ $-17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2</p>
 </div>
@@ -7286,7 +7266,7 @@ $500 \ \text{mm}^2$
 <p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -7350,7 +7330,7 @@ $2 \ \text {hour} \ 8 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>20FCDF7C-160A-422B-8553-7B721DA71113</p>
 </div>
@@ -7397,7 +7377,7 @@ $7 ^2 , 4 ^ 2$
 <p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -8189,7 +8169,7 @@ $7{:}35 \ \text{a.m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>2EF6FBC9-C042-42F3-9C0F-7BBB8E6DF8E8</p>
 </div>
@@ -8233,7 +8213,7 @@ $\text {Fairly unlikely}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -8447,9 +8427,6 @@ $7$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -9079,7 +9056,7 @@ Obtuse angle
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>F96ADDDB-D1DA-4669-B9D8-6F1709C2D0E4</p>
 </div>
@@ -9127,12 +9104,12 @@ $\text {likely}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1</p>
 </div>
@@ -9173,12 +9150,12 @@ $\text {Certain}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A47DB4E1-F2E1-4223-910E-E35218E5B40F</p>
 </div>
@@ -9219,12 +9196,12 @@ $\text {unlikely}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>97658705-5BFD-43C2-8EC0-F96EA2170CC7</p>
 </div>
@@ -9265,12 +9242,12 @@ $\text {Certain}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>22C2F81E-348A-4147-8F66-92DD1DE389E0</p>
 </div>
@@ -9308,7 +9285,7 @@ $\text {Impossible}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -10084,9 +10061,6 @@ $5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -10185,13 +10159,10 @@ $300 \ \text{g sugar}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
 torder
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -10243,9 +10214,6 @@ $42 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -11734,9 +11702,6 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -11836,13 +11801,10 @@ $330 \ \text{g sugar}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
 torder
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -11893,9 +11855,6 @@ $42 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -13385,9 +13344,6 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -13538,13 +13494,10 @@ $\pounds 3.36$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
 torder
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -14544,9 +14497,6 @@ $15$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -14649,9 +14599,6 @@ $42 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -15327,7 +15274,7 @@ Total cards with D left after one card is removed $2 - 1 = 1$
 $
 \begin{aligned} 
 \text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {2} {1 + 2 + 4 + 4 + 3 + 1} \\\\
+                    &= \dfrac {3} {1 + 2 + 4 + 4 + 3 + 1} \\\\
                     &= \dfrac {3} {15} \\\\
                     &= \dfrac {3} {5 \times 3} \\\\
                     &= \dfrac {\cancel {3}} {5 \times \cancel {3}} \\\\
@@ -15572,10 +15519,7 @@ $126.5 \ \text {g}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-torder
+tnumber
 </li>
 </ul>
 </div>
@@ -15961,9 +15905,6 @@ $3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -16176,9 +16117,6 @@ $40 \ \text {miles per hour}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -16593,9 +16531,6 @@ $121$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -21799,16 +21734,7 @@ $\dfrac {9} {25}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-torder
 </li>
 </ul>
 </div>
@@ -22346,9 +22272,6 @@ $48$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -23214,6 +23137,9 @@ tunassigned
 <li>
 tnumber
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -23729,9 +23655,6 @@ $2080$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 <li>
@@ -24172,7 +24095,7 @@ $\dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>6F2BA21C-2151-444A-9222-DD2992551BD5</p>
 </div>
@@ -24288,7 +24211,7 @@ $- 17 \degree \ \text {C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -24677,9 +24600,6 @@ $\pounds 3.95$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -25896,7 +25816,7 @@ $81$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A059DFAC-EFF9-490C-BCDE-84BFC6682204</p>
 </div>
@@ -26002,7 +25922,7 @@ $0.700$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -26068,9 +25988,6 @@ $1.746$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -26160,7 +26077,7 @@ Let's convert all the numbers to decimal.
 $
 \begin {aligned}
 &= \dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
-&= 0.2, \quad 0.42, \quad 0.55, \quad \dfrac 0.63
+&= 0.2, \quad 0.42, \quad 0.55, \quad 0.63
 \end {aligned}
 $
 
@@ -26192,13 +26109,7 @@ $\dfrac {5} {9}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -26397,7 +26308,7 @@ $\dfrac {3} {8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>561C1929-9A99-4876-A2E2-A4306B5D15FF</p>
 </div>
@@ -26499,7 +26410,7 @@ $15610$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -26838,7 +26749,7 @@ How much is each monthly amount?
 
 $
 \begin{aligned}
-\text {Each monthly amount}     &= \dfrac {\text {total amount} - \text {initial payment}} {6} \\\\
+\text {Each monthly amount}     &= \dfrac {\text {Total amount} - \text {Initial payment}} {6} \\\\
                                 &= \dfrac {572.50 - 136} {6} \\\\
                                 &= \dfrac {436.5} {6} \\\\
                                 &= \pounds 72.75
@@ -27285,10 +27196,10 @@ $\ \text {Saturday}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+ttime
 </li>
 <li>
-tclock
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -27325,7 +27236,7 @@ $10{:}40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>C59005D5-EA4A-432B-99E9-DF224B680D47</p>
 </div>
@@ -27390,7 +27301,7 @@ $8 \ \text {cm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -27406,6 +27317,9 @@ tunassigned
 </li>
 <li>
 tnoexplanation
+</li>
+<li>
+tgeometry
 </li>
 </ul>
 </div>
@@ -27442,7 +27356,7 @@ $29$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8</p>
 </div>
@@ -27632,7 +27546,7 @@ $10201, 11111$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -27843,9 +27757,6 @@ $60$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -29591,12 +29502,6 @@ $14$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
-<li>
 ttime
 </li>
 </ul>
@@ -30338,9 +30243,6 @@ $64$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

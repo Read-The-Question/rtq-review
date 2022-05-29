@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-amber"
 title: "Topic - Percentage - Amber"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -265,6 +265,240 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_nj_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>C35C7538-5250-4091-9E22-93D8F8122AC5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $11\%$ of $32600$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{11}{100} \times 32600 \\\\
+&= \dfrac{11 \times 32600}{100} \\\\
+&= \dfrac{11 \times 326\cancel{00}}{1\cancel{00}} \\\\
+&= 11 \times 326 \\\\
+&= 3586
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3586$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>3FA521CB-71B5-46C2-9B7C-6CE326C735EF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What percentage of the grid below is shaded? You can assume all boxes are identical in size.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Total number of boxes $=25$
+
+Number of shaded boxes $= 17$
+
+$
+\begin{aligned}
+\text{Percentage of shaded grid}    &= \dfrac{\text{Shaded boxes}}{\text{Total boxes}} \\\\
+                                    &= \dfrac{17}{25}
+\en{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{17}{25}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>ECC90A40-45CF-49FE-8FD0-6A9BA0F5CD8D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You are told that $56\%$ of the pupils in a class are girls. 
+
+What is the smallest number of pupils the class could contain?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The smallest number of pupils the class could contain could be found by writing the fraction in its simplest form.
+
+As per the question,
+
+$
+\begin{aligned}
+&= \dfrac{56}{100} \\\\
+&= \dfrac{14 \times 4}{25 \times 4} \\\\
+&= \dfrac{14 \times \cancel{4}}{25 \times \cancel{4}} \\\\
+&= \dfrac{14}{25}
+\end{aligned}
+$
+
+The smallest number of pupils the class could contain $= 14$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>17F96095-F402-46C3-A2DB-8C2A46B294AC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bill sold his motor scooter to Tom for $\pounds 120$. 
+After driving it for a few days, Tom discovered it was in such a broken-down condition that he sold it back to Bill for $30\%$ 
+less than he paid. The next day Bill sold it to Jack for $\pounds 90$. What is Bill's profit on the final sale?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Amount to which Bill sold to Tom $= \pounds 120$
+
+$
+\begin{aligned}
+\text{Amount to which Tom  returned}            &= 30\% \ \text{of} \ \pounds 120 \\\\
+                                                &= \dfrac{30}{100} \times 120 \\\\
+                                                &= \dfrac{30 \times 120}{100} \\\\
+                                                &= \dfrac{3\cancel{0} \times 12\cancel{0}}{1\cancel{0}\cancel{0}} \\\\
+                                                &= 3 \times 12 \\\\
+\text{Amount to which Tom  returned}            &= \pounds 36
+\end{aligned}
+
+Amount to which Bill sold the amount to Jack $= \pounds 90$
+
+$
+\begin{aligned}
+\text{Profit on final sale}         &= \text{Selling price} - \text{Cost price} \\\\
+                                    &= \pounds 90 - \pounds 36 \\\\
+\text{Profit on final sale}         &= \pounds 54
+\end{aligned}
+$
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 54$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
 </div>
 </div>
 </li>
@@ -577,6 +811,133 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_nj_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_amber question'>
+<div class='uuid'>
+<p>AB828C03-B38E-492A-A9FB-885D098D187F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $(40\% of 90) + (3/7 of 63)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 40\% \ \text {of} \ 90 + \dfrac {3} {7} \ \text {of} \ 63 \\\\
+&= \dfrac {40} {100} \times 90 + \dfrac {3} {7} \times 63 \\\\
+&= \dfrac {40 \times 90} {100} + \dfrac {3 \times 63} {7} \\\\
+&= \dfrac {4 \cancel {0} \times 9 \cancel {0}} {1 \cancel {0} \cancel {0}} + \dfrac {3 \times 9 \times 7} {7} \\\\
+&= 4 \times 9 + \dfrac {3 \times 9 \times \cancel {7}} {\cancel {7}} \\\\
+&= 4 \times 9 + 3 \times 9 \\\\
+&= 36 + 27 \\\\
+&= 63
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$63$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_amber question'>
+<div class='uuid'>
+<p>A3C01E30-4AAA-4DBB-B19E-8F08BBF264E5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What percentage is $15 \text{p}$ out of $\pounds 3.00$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert the total amount into pence.
+
+$
+\begin{aligned}
+\text{Total amount} &= \pounds 3 \\\\
+                    &= 3 \times 100 \text{p} \\\\
+                    &= 300 \text{p}
+\end{aligned}
+$
+
+Let's find the percentage of $15 \text{p}$
+
+$
+\begin{aligned}
+&= \dfrac {15} {300} \times 100 \\\\
+&= \dfrac {15 \times 100} {300} \\\\
+&= \dfrac {15 \times 1 \cancel {00}} {3 \cancel {00}} \\\\
+&= \dfrac {15} {3} \\\\
+&= \dfrac {3 \times 5} {3} \\\\
+&= \dfrac {\cancel {3} \times 5} {\cancel {3}} \\\\
+&= 5\%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5\%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_amber</p>
 </div>
 </div>
 </li>

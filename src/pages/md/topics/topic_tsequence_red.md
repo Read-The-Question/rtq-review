@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-red"
 title: "Topic - Sequence - Red"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,13 +12,7 @@ date: 2022-05-29 06:26:52
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -237,9 +231,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -304,9 +295,6 @@ $107$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2019-sample-paper-10"
 title: "Sevenoaks School - 11 Plus - Maths - 2019 - Sample Paper 10"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <div class='paper'>
 <h1>Sevenoaks School</h1>
@@ -692,9 +692,6 @@ $7 \dfrac{7}{12}$ or $\dfrac{91}{12}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -929,9 +926,6 @@ $128$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -1916,10 +1910,7 @@ Brown-eyed Brunettes $= 13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
+ttime
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <div class='paper'>
 <h1>St Albans High School For Girls</h1>
@@ -447,13 +447,7 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -503,10 +497,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+ttime
 </li>
 <li>
-tclock
+tdraw
 </li>
 </ul>
 </div>
@@ -680,9 +674,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -1969,9 +1960,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

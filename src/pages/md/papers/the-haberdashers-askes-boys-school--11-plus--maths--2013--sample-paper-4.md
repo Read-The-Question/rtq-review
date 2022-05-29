@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2013-sample-paper-4"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <div class='paper'>
 <h1>The Haberdashers' Aske's Boys' School</h1>
@@ -480,10 +480,10 @@ $275$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+torder
 </li>
 <li>
-torder
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -644,10 +644,7 @@ $\pounds 0.95$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
+ttime
 </li>
 <li>
 tdraw

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-g1"
 title: "Owner - Chiliveru Aravind - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2238,9 +2238,6 @@ $\dfrac {1} {6}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -3191,9 +3188,6 @@ $7$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -5112,6 +5106,184 @@ $16$
 <li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
+<p>24C887CF-4462-405D-A46E-9A5B7A2C09DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve each of the following equations:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8 - χ = 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+8 - χ                   &= 2 \\\\
+χ                       &= 8 - 2 \\\\
+χ                       &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x+\frac{1}{3}=1\frac{1}{4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+x + \dfrac {1} {3}                   &= 1 \dfrac {1} {4} \\\\
+x + \dfrac {1} {3}                   &= \dfrac {5} {4} \\\\
+x                                    &= \dfrac {5} {4} - \dfrac {1} {3} \\\\
+x                                    &= \dfrac {5 \times 3} {4 \times 3} - \dfrac {1 \times 4} {3 \times 4} \\\\
+x                                    &= \dfrac {15} {12} - \dfrac {4} {12} \\\\
+x                                    &= \dfrac {15 - 4} {12} \\\\
+x                                    &= \dfrac {11} {12} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {11} {12}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>706748E4-8A3B-422B-A4AB-A60AA490E362</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I have 3 cats-Fred, Gary and Harry. When I weigh Fred and Gary they come to $12\,kg$ more than Harry. When I weigh Gary and Harry they weigh $8\,kg$ more than Fred and when I weigh Fred and Harry they weigh $14\,kg$ more than Gary. What is the combined weight of all three cats?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weight of Fred $=a$
+
+Let the weight of Gary $=b$
+
+Let the weight of Harry $=c$
+
+As per the question,
+
+$
+\begin{aligned}
+a + b                       &= 12 + c \\\\
+b + c                       &= 8 + a \\\\
+a + c                       &= 14 + b \\\\
+\text{Adding up the above three equations, we get,} \\\\
+a + b + b + c + a + c       &= 12 + c + 8 + a + 14 + b \\\\
+2a + 2b + 2c                &= 12 + 8 + 14 + a + b + c \\\\
+2a + 2b + 2c - a - b - c    &= 12 + 8 + 14 \\\\
+a + b + c                   &= 34
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
 <p>A291FBD5-B087-47F9-9CC9-8A83DB73EE38</p>
 </div>
 <div class='topics'>
@@ -5979,6 +6151,126 @@ $2\dfrac{2} {3}$
 <li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
+<p>857C8851-DFFE-4176-BC5A-986FC02066A9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the total area of the shaded regions. *The diagram is not drawn accurately*.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of shaded regions}       &= \text{Area of left triangle} + \text{Area of right triangle} \\\\
+                                    &= \dfrac {1} {2} \times 8.3 \times 3.784 + \dfrac {1} {2} \times 8.3 \times 2.216 \\\\
+                                    &= \dfrac{1} {2} \times 8.3 \times (3.784 + 2.216) \\\\
+                                    &= \dfrac{1} {2} \times 8.3 \times 6 \\\\
+                                    &= \dfrac {8.3 \times 6} {2} \\\\
+                                    &= \dfrac {8.3 \times 3 \times 2} {2} \\\\
+                                    &= \dfrac {8.3 \times 3 \times \cancel{2}} {\cancel{2}} \\\\
+                                    &= 8.3 \times 3 \\\\
+                                    &= 24.9 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24.9 \ \text{cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>D90DBE3D-71F6-47D8-B03D-147F904077DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is an eqilateral triangle inside a rectangle.
+
+Calculate the value of angle $x$.
+
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+All angles of an equilateral triangle $= 60 \degree$
+
+All angles of a rectangle $= 90  \degree$
+
+As per the figure,
+
+$
+\begin{aligned}
+x + 60 + 14     &= 90 \\\\
+x + 74          &= 90 \\\\
+x               &= 90 - 74 \\\\
+x              &= 16 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
 <p>AAE8CD80-0874-4EAE-9314-9AAD9BF14893</p>
 </div>
 <div class='topics'>
@@ -6167,6 +6459,744 @@ $709$
 <li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
+<p>BB57B12D-D89B-4ECA-843A-B6986E277E18</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4\frac {1} {2} + 5\frac {3} {4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4 \dfrac {1} {2} + 5\frac {3} {4} \\\\
+&= \dfrac {9} {2} + \dfrac {23} {4} \\\\
+&= \dfrac {9 \times 2} {2 \times 2} + \dfrac {23} {4} \\\\
+&= \dfrac {18} {4} + \dfrac {23} {4} \\\\
+&= \dfrac {18 + 23} {4} \\\\
+&= \dfrac {41} {4} \\\\
+&= 10 \dfrac {1} {4} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {41} {4} \ \text{or} \ 10 \dfrac {1} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7\times\frac {3} {5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 \times \dfrac {3} {5} \\\\
+&= \dfrac {7 \times 3} {5} \\\\
+&= \dfrac {21} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {21} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5\frac {2} {5} - 2\frac {4} {5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5 \dfrac {2} {5} - 2 \dfrac {4} {5} \\\\
+&= \dfrac {27} {5} - \dfrac {14} {5} \\\\
+&= \dfrac {27 - 14} {5} \\\\
+&= \dfrac {13} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {13} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>68EF857B-DBC0-4ACE-A0B1-53CE2C550065</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write $\frac {14} {20}$ as a **decimal**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {14} {20} \\\\
+&= \dfrac {14 \times 5} {20 \times 5} \\\\
+&= \dfrac {70} {100} \\\\
+&= 0.7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write $0.625$ as a **fraction** in its $\underbar {lowest terms}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.625 \\\\
+&= \dfrac {625} {1000} \\\\
+&= \dfrac {25 \times 5 \times 5} {25 \times 5 \times 8} \\\\
+&= \dfrac {\cancel {25} \times \cancel {5} \times 5} {\cancel {25} \times \cancel {5} \times 8} \\\\
+&= \dfrac {5} {8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {5} {8}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the answer to $\frac {13} {20} + 0.1$ as a **percentage** 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= ( \dfrac {13} {20} + 0.1) \times 100 \\\\
+&= ( \dfrac {13} {20} + \dfrac {1} {10}) \times 100 \\\\
+&= ( \dfrac {13} {20} + \dfrac {1 \times 2} {10 \times 2}) \times 100 \\\\
+&= ( \dfrac {13} {20} + \dfrac {2} {20}) \times 100 \\\\
+&= ( \dfrac {13 + 2} {20}) \times 100 \\\\
+&= \dfrac {15} {20} \times 100 \\\\
+&= \dfrac {15 \times 100} {20} \\\\
+&= \dfrac {5 \times 3 \times 100} {5 \times 4} \\\\
+&= \dfrac {5 \times 3 \times 25 \times 4} {5 \times 4} \\\\
+&= \dfrac {\cancel {5} \times 3 \times 25 \times \cancel {4}} {\cancel {5} \times \cancel {4}} \\\\
+&= 3 \times 25 \\\\
+&= 75 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75 \%$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Give the ratio 36 : 84 in its **simplest form**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 36 \ratio 84 \\\\
+&= \dfrac {36} {84} \\\\
+&= \dfrac {12 \times 3} {12 \times 7} \\\\
+&= \dfrac {\cancel {12} \times 3} {\cancel {12} \times 7} \\\\
+&= \dfrac {3} {7} \\\\
+&= 3 \ratio 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ratio 7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>7FAA1E1F-9C24-4559-8FA1-E7A5AE43DBA5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You are given that $44460 \div 780 = 57$
+
+Use this result to give the answers to the questions below: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$44460 \div 57 =$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+44460 \div 780              &= 57 \\\\
+\dfrac {44460} {780}        &= 57 \\\\
+44460                       &= 57 \times 780 \\\\
+\dfrac {4460} {57}          &= 780
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$780$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$57 \times 780 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+44460 \div 780              &= 57 \\\\
+\dfrac {44460} {780}        &= 57 \\\\
+44460                       &= 57 \times 780 \\\\
+57 \times 780               &= 44460
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44460$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4446 \div 5.7 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+44460 \div 780                                                          &= 57 \\\\
+\dfrac {44460} {780}                                                    &= 57 \\\\
+\dfrac {44460} {780} \times \dfrac {1} {10}                             &= 57 \times \dfrac {1} {10} \\\\
+\dfrac {4446\cancel {0}} {780} \times \dfrac {1} {1\cancel {0}}         &= \dfrac {57} {10} \\\\
+\dfrac {4446} {780}                                                     &= 5.7 \\\\
+\dfrac {4446} {5.7}                                                     &= 780
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$780$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7.8 \times 5.7 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+44460 \div 780              &= 57 \\\\
+\dfrac {44460} {780}        &= 57 \\\\
+44460                       &= 57 \times 780 \\\\
+\dfrac{44460} {1000}        &= \dfrac {57} {10} \times \dfrac {780} {100} \\\\
+44.46                       &= 5.7 \times 7.8 \\\\
+5.7 \times 7.8              &= 44.46
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44.46$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3 \times 78 \times 19 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+44460 \div 780                                  &= 57 \\\\
+\dfrac {44460} {780}                            &= 57 \\\\
+44460                                           &= 57 \times 780 \\\\
+\dfrac{44460} {10}                              &= 57 \times \dfrac{780} {10} \\\\
+\dfrac{4446\cancel {0}} {1\cancel {0}}          &= 57 \times \dfrac{78\cancel {0}} {1\cancel {0}} \\\\
+4446                                            &= 57 \times 78 \\\\
+4446                                            &= 3 \times 19 \times 78 \\\\
+3 \times 19 \times 78                           &= 4446
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4446$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>4C4D2D05-7411-4B91-B9C3-73F6D271E210</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The rectangle and triangle below have the same height.
+
+![missing image](/papers/missing_image.svg)
+
+If the perimeter of the rectangle (all 4 sides) is $32\,m$, what is the area of the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the other side of rectangle $= t \ \text{m}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Perimeter}        &= 2 \times (\text{length} + \text{width}) \\\\
+32                      &= 2 \times (7 + t) \\\\
+32                      &= 14 + 2t \\\\
+14 + 2t                 &= 32 \\\\
+2t                      &= 32 - 14 \\\\
+2t                      &= 18 \\\\
+t                       &= \dfrac{18} {2} \\\\
+t                       &= \dfrac{9 \times 2} {2} \\\\
+t                       &= \dfrac{9 \times \cancel{2}} {\cancel{2}} \\\\
+t                       &= 9 \ \text{m}
+\end{aligned}
+$
+
+Now the area of triangle,
+
+$
+\begin{aligned}
+\text{Area}             &= \dfrac{1} {2} \times \text{base} \times \text{height} \\\\
+                        &= \dfrac{1} {2} \times (17 - 9) \times 7 \\\\
+                        &= \dfrac{1} {2} \times 8 \times 7 \\\\
+                        &= \dfrac{8 \times 7} {2} \\\\
+                        &= \dfrac{2 \times 4 \times 7} {2} \\\\
+                        &= \dfrac{\cancel{2} \times 4 \times 7} {\cancel{2}} \\\\
+                        &= 4 \times 7 \\\\
+                        &= 28 \ \text{m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28 \ \text{m}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>6ED09898-3049-403B-862A-0997F0A0FB65</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+tpercentageadvance
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Homer, Marge and Bart each have $$1000$.
+
+Homer gives $10\%$ of his money to Marge. Marge then gives $10\%$ of her new amount to Bart. Bart then gives $10\%$ of his new amount to Homer.
+
+How much has Homer got now?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Amount Homer gives to Marge}          &= 10 \% \ \text{of} \ 1000 \\\\
+                                            &= \dfrac {10} {100} \times 1000 \\\\
+                                            &= \dfrac {10 \times 1000} {100} \\\\
+                                            &= \dfrac {10 \times 10 \cancel 0 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                            &= 10 \times 10 \\\\
+                                            &= 100 \\\\
+\text{New amount that Marge has}            &= 1000 + 100 \\\\   
+                                            &= 1100 \\\\                                        
+\text{Amount Marge gives to Bart}           &= 10 \% \ \text{of} \ 1100 \\\\
+                                            &= \dfrac {10} {100} \times 1100 \\\\
+                                            &= \dfrac {10 \times 1100} {100} \\\\
+                                            &= \dfrac {10 \times 11 \cancel 0 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                            &= 10 \times 11 \\\\
+                                            &= 110 \\\\
+\text{New amount that Bart has}             &= 1000 + 110 \\\\   
+                                            &= 1110 \\\\                                        
+\text{Amount Bart gives to Homer}           &= 10 \% \ \text{of} \ 1110 \\\\
+                                            &= \dfrac {10} {100} \times 1110 \\\\
+                                            &= \dfrac {10 \times 1110} {100} \\\\
+                                            &= \dfrac {1 \cancel 0 \times 111 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                            &= 1 \times 111 \\\\
+                                            &= 111 \\\\
+\text{New amount that Homer has}            &= 900 + 111 \\\\   
+                                            &= 1011
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1011$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
 <p>4260496C-5CFD-4DCF-AD5E-0942547499C8</p>
 </div>
 <div class='topics'>
@@ -6281,6 +7311,237 @@ $4.744$
 </div>
 </div>
 
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>5C46037A-9D8E-4709-A27D-EC329D33E470</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$6 \times ………………….. = $\pounds 9.60$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+6 \times a                          &= \pounds 9.60 \\\\
+a                                   &= \dfrac {9.6} {6} \\\\
+                                    &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
+                                    &= \dfrac {96} {6 \times 10} \\\\
+                                    &= \dfrac {6 \times 16} {6 \times 10} \\\\
+                                    &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
+                                    &= \dfrac {16} {10} \\\\
+a                                   &= \pounds 1.6
+\end{aligned}
+$
+
+The missing number $= \pounds 1.6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>09339FC7-5927-4473-9600-A2EBB5E14701</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$…………..\div 8 = 1.$05 \ \text{cm}$$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+a \div 8       &= 1.05 \ \text{cm} \\\\
+a              &= 1.05 \times 8 \\\\
+a              &= 8.40 \ \text{cm}
+\end{aligned}
+$
+
+The missing number $= 8.40 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8.40 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>3167920D-0D61-408D-81BB-04D02838D8D1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $40$ coloured counters in a box. Half of them are red, one-fifth are yellow and the rest are green.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many are green?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Green counters} &= \text{Total counters} - \text{Red counters} - \text{Yellow counters} \\\\
+                      &= 40 - \dfrac {1} {2} \times 40 - \dfrac {1} {5} \times 40 \\\\
+                      &= 40 - \dfrac {40} {2} - \dfrac {40} {5} \\\\
+                      &= 40 - \dfrac {2 \times 20} {2} - \dfrac {5 \times 8} {5} \\\\
+                      &= 40 - \dfrac {\cancel{2} \times 20} {\cancel{2}} - \dfrac {\cancel{5} \times 8} {\cancel{5}} \\\\
+                      &= 40 - 20 - 8 \\\\
+                      &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If I shake the box and then pick out one counter, what is the probability that it is green?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text{Probability of getting green counter}     &= \dfrac {\text{Green counters}} {\text{Total counters}} \\\\
+                                                &= \dfrac {12} {40} \\\\
+                                                &= \dfrac {4 \times 3} {4 \times 10} \\\\
+                                                &= \dfrac {\cancel{4} \times 3} {\cancel{4} \times 10} \\\\
+                                                &= \dfrac {3} {10}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {10}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -6620,6 +7881,314 @@ $3 \dfrac{1}{2}$
 </div>
 </div>
 
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>A7454814-72D6-476C-AAE2-28F8C49FF462</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Rounding**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the missing numbers in the sentences below.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+**2735** rounded to the **nearest hundred** is...................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2700$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2700$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+**2735** rounded to the **nearest thousand** is.................. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3000$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3000$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Give an example of what the missing number could be in the sentence below.
+
+.............. rounded to the **nearest ten** is **800**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Any number between $795$ to $805$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Any number between $795$ to $805$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>9BAEC1C3-1291-46F0-8A06-C2CB59BB5445</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Solving**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the values of $x$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$5x - 3 = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5x - 3      &= 12 \\\\
+5x          &= 12 + 3 \\\\
+5x          &= 15 \\\\
+x           &= \dfrac{15} {5} \\\\
+x           &= \dfrac{5 \times 3} {5} \\\\
+x           &= \dfrac{\cancel {5} \times 3} {\cancel {5}} \\\\
+x           &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$13 + 2x = 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+13 + 2x     &= 3 \\\\
+2x          &= 3 - 13 \\\\
+2x          &= -10 \\\\
+x           &= \dfrac{-10} {2} \\\\
+x           &= \dfrac{2 \times -5} {2} \\\\
+x           &= \dfrac{\cancel {2} \times -5} {\cancel {2}} \\\\
+x           &= -5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>

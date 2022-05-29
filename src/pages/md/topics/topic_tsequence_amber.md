@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-amber"
 title: "Topic - Sequence - Amber"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-05-29 06:26:52
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -132,9 +129,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -245,9 +239,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -319,9 +310,6 @@ $37 , \ 45$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -622,15 +610,131 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>E494E8DA-4B12-4CEC-9AC7-1E9E3063D5A6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the next three numbers in these sequences:
+
+$3, \quad 7, \quad 11, \quad 15, \quad \ldots, \quad \ldots, \quad \ldots$
+
+$53, \quad 46, \quad 40, \quad 35, \quad \ldots, \quad \ldots, \quad \ldots$
+
+$1, \quad 2, \quad 4, \quad 8, \quad \ldots, \quad \ldots, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+4)}}  
+&&  \footnotesize{\maroonC{(+4)}}   
+&&  \footnotesize{\maroonC{(+4)}}   
+&&  \footnotesize{\maroonC{(+4)}}  \\
+3,  &&    7,  &&  11,  &&   15,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}         &= 15 + 4 \\\\
+                                    &= 19 \\\\
+\text{Second missing number}        &= 19 + 4 \\\\
+                                    &= 23 \\\\
+\text{Third missing number}         &= 23 + 4 \\\\
+                                    &= 27                                 
+\end{aligned}
+$
+
+Let's find the difference between the consecutive terms of the sequence.
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(-7)}} 
+&&  \footnotesize{\maroonC{(-6)}}  
+&&  \footnotesize{\maroonC{(-5)}}   
+&&  \footnotesize{\maroonC{(-4)}}  \\
+53,  &&   46,  &&  40,  &&   35,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}         &= 35 - 4 \\\\
+                                    &= 31 \\\\
+\text{Second missing number}        &= 31 - 3 \\\\
+                                    &= 28
+\text{Third missing number}         &= 28 - 2 \\\\
+                                    &= 26 
+\end{aligned}
+$
+
+Let's find the difference between the consecutive terms of the sequence.
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(\times 2)}} 
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}   
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
+1,  &&    2,  &&  4,  &&   8,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}         &= 8 \times 2 \\\\
+                                    &= 16 \\\\
+\text{Second missing number}        &= 16 \times 2 \\\\
+                                    &= 32
+\text{Third missing number}         &= 32 \times 2 \\\\
+                                    &= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19,23,27$
+
+$31,28,26$
+
+$16,32,64$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
 <p>4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

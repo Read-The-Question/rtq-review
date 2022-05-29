@@ -1,7 +1,7 @@
 ---
-slug: "topics/topic-tsequence-oldpr"
-title: "Topic - Sequence - Old PR"
-date: 2022-05-29 06:26:52
+slug: "topics/topic-torder-oldpr"
+title: "Topic - Order - Old PR"
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,10 +12,7 @@ date: 2022-05-29 06:26:52
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tsequence
+torder
 </li>
 </ul>
 </div>
@@ -81,10 +78,7 @@ $19.8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tsequence
+torder
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-g1"
 title: "Topic - Algebra - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1176,6 +1176,53 @@ $64$
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Amelia earns $\pounds 330$ but has to pay rent of $\pounds X$.
+Write an expression for how much money she has left after paying the rent.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Money left} = \pounds (330 - X)$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Money left} = \pounds (330 - X)$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -18043,6 +18090,94 @@ $48 \ \text{cm}^2$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>728683E0-0172-4C1B-B996-DE78A22F8120</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+St Hugh's School hall is in the shape of a large box or cuboid.  
+The area of the floor is $200 \ \text{m}^2$, the area of one of the 
+side walls is $150 \ \text{m}^2$ and the area of an end wall is $48 \ \text{m}^2$. 
+
+What is the height, in metres, of the hall?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the school hall (in m) $= l$
+
+Let the width of the school hall (in m) $= w$
+
+Let the height of the school hall (in m) $= h$
+
+$\text {Area} = \text {length} \times \text {width}$
+
+As per the question,
+
+$
+\begin{aligned}
+l \times w   &= 200 \\\\
+l \times h   &= 150 \\\\
+l            &= \dfrac {150} {h} \\\\
+w \times h   &= 48 \\\\
+w            &= \dfrac{48}{h}
+\end{aligned}
+$
+
+Substituting $l$ and $w$ in the first equation in terms of $h$, we get
+
+$
+\begin{aligned}
+l \times w                              &= 200 \\\\
+\dfrac {150} {h} \times \dfrac {48} {h} &= 200 \\\\
+\dfrac {150 \times 48} {h^2}            &= 200 \\\\
+\dfrac {150 \times 48} {200}            &= h^2 \\\\
+h^2                                     &= \dfrac {150 \times 48} {200} \\\\
+h^2                                     &= \dfrac {50 \times 3 \times 12 \times 4} {50 \times 4} \\\\
+h^2                                     &= \dfrac {\cancel{50} \times 3 \times 12 \times \cancel{4}} {\cancel{50} \times \cancel{4}} \\\\
+h^2                                     &= 3 \times 12 \\\\
+h^2                                     &= 36 \\\\
+h                                       &= \sqrt {36} \\\\
+h                                       &= 6 \ \text {m}
+\end{aligned}
+$
+
+Height of the school hall (in m) $= 6  \ \text {m}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text {m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A6AC1588-C3E0-4190-A84D-7153A5624431</p>
@@ -18109,6 +18244,65 @@ $35$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>30D0B7AD-9447-463A-831D-D948DCE6F17F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John thinks of a number. He multiplies that number by four and then adds three to the result. If the answer he obtains is $35$, what is the number he first thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number that John thought is $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+4a + 3    &= 35 \\\\
+4a        &= 35 - 3 \\\\
+4a        &= 32 \\\\
+a         &= \dfrac {32} {4} \\\\
+a         &= \dfrac {8 \times 4} {4} \\\\
+a         &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
+a         &= 8
+\end {aligned}
+$
+
+The number that John thought $= 8$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -18687,6 +18881,394 @@ $30 \degree$
 
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>24C887CF-4462-405D-A46E-9A5B7A2C09DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve each of the following equations:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8 - χ = 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+8 - χ                   &= 2 \\\\
+χ                       &= 8 - 2 \\\\
+χ                       &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x+\frac{1}{3}=1\frac{1}{4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+x + \dfrac {1} {3}                   &= 1 \dfrac {1} {4} \\\\
+x + \dfrac {1} {3}                   &= \dfrac {5} {4} \\\\
+x                                    &= \dfrac {5} {4} - \dfrac {1} {3} \\\\
+x                                    &= \dfrac {5 \times 3} {4 \times 3} - \dfrac {1 \times 4} {3 \times 4} \\\\
+x                                    &= \dfrac {15} {12} - \dfrac {4} {12} \\\\
+x                                    &= \dfrac {15 - 4} {12} \\\\
+x                                    &= \dfrac {11} {12} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {11} {12}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>706748E4-8A3B-422B-A4AB-A60AA490E362</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I have 3 cats-Fred, Gary and Harry. When I weigh Fred and Gary they come to $12\,kg$ more than Harry. When I weigh Gary and Harry they weigh $8\,kg$ more than Fred and when I weigh Fred and Harry they weigh $14\,kg$ more than Gary. What is the combined weight of all three cats?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weight of Fred $=a$
+
+Let the weight of Gary $=b$
+
+Let the weight of Harry $=c$
+
+As per the question,
+
+$
+\begin{aligned}
+a + b                       &= 12 + c \\\\
+b + c                       &= 8 + a \\\\
+a + c                       &= 14 + b \\\\
+\text{Adding up the above three equations, we get,} \\\\
+a + b + b + c + a + c       &= 12 + c + 8 + a + 14 + b \\\\
+2a + 2b + 2c                &= 12 + 8 + 14 + a + b + c \\\\
+2a + 2b + 2c - a - b - c    &= 12 + 8 + 14 \\\\
+a + b + c                   &= 34
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>D90DBE3D-71F6-47D8-B03D-147F904077DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is an eqilateral triangle inside a rectangle.
+
+Calculate the value of angle $x$.
+
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+All angles of an equilateral triangle $= 60 \degree$
+
+All angles of a rectangle $= 90  \degree$
+
+As per the figure,
+
+$
+\begin{aligned}
+x + 60 + 14     &= 90 \\\\
+x + 74          &= 90 \\\\
+x               &= 90 - 74 \\\\
+x              &= 16 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>9BAEC1C3-1291-46F0-8A06-C2CB59BB5445</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Solving**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the values of $x$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$5x - 3 = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5x - 3      &= 12 \\\\
+5x          &= 12 + 3 \\\\
+5x          &= 15 \\\\
+x           &= \dfrac{15} {5} \\\\
+x           &= \dfrac{5 \times 3} {5} \\\\
+x           &= \dfrac{\cancel {5} \times 3} {\cancel {5}} \\\\
+x           &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$13 + 2x = 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+13 + 2x     &= 3 \\\\
+2x          &= 3 - 13 \\\\
+2x          &= -10 \\\\
+x           &= \dfrac{-10} {2} \\\\
+x           &= \dfrac{2 \times -5} {2} \\\\
+x           &= \dfrac{\cancel {2} \times -5} {\cancel {2}} \\\\
+x           &= -5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>

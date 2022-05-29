@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpower-all"
 title: "Topic - Power - All"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1145,70 +1145,6 @@ $-4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>59C2A49D-8D9D-4ED2-9CC8-AC30D8566C41</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpower
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put these values in order of size with the **smallest first**.
-
-$5^2\: \: \: 3^2\: \: \: 3^3\: \: \: 2^4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare we can convert all numbers into integers.
-
-$
-\begin{aligned}
-&=5^2,\: \: \: 3^2,\: \: \: 3^3,\: \: \: 2^4 \\\\
-&= 5 \times 5,\: \: \: 3 \times 3,\: \: \: 3 \times 3 \times 3,\: \: \: 2 \times 2 \times 2 \times 2 \\\\
-&= 25,\: \: \: 9,\: \: \: 27,\: \: \: 16 
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 9,\: \: \: 16,\: \: \: 25,\: \: \: 27
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9,\: \: \: 16,\: \: \: 25,\: \: \: 27$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>105EE389-55BC-40FE-B8E3-BEF5386BE7DE</p>
@@ -1794,9 +1730,6 @@ $10, 12, 15$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

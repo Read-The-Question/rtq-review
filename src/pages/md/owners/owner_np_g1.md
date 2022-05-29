@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-np-g1"
 title: "Owner - Nalini Prakash - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -446,10 +446,10 @@ $\pounds 248$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+torder
 </li>
 <li>
-torder
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -2432,13 +2432,7 @@ $0.5, 0.6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>

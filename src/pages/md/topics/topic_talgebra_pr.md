@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-pr"
 title: "Topic - Algebra - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2541,53 +2541,6 @@ $1$ January.
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Amelia earns $\pounds 330$ but has to pay rent of $\pounds X$.
-Write an expression for how much money she has left after paying the rent.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Money left} = \pounds (330 - X)$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Money left} = \pounds (330 - X)$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -10861,65 +10814,6 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>813D165A-86E1-41F9-8602-4C825F1619A8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Julia thinks of a number. She multiplies it by $5$ and then subtracts $14$. The answer she gets is $46$. What number did she originally think of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Julia thinks $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-(a \times 5) - 14           &= 46 \\\\
-a \times 5                  &= 46 + 14 \\\\
-a \times 5                  &= 60 \\\\
-a                           &= \dfrac{60}{5} \\\\
-a                           &= \dfrac{12 \times 5}{5} \\\\
-a                           &= \dfrac{12 \times \cancel{5}}{\cancel{5}} \\\\
-a                           &= 12 
-\end{aligned}
-$
-
-The number Julia thinks $=12$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>39F565E5-A22B-4C7B-8F60-9AC45AFB6764</p>
@@ -15773,94 +15667,6 @@ $\pounds 2.80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>728683E0-0172-4C1B-B996-DE78A22F8120</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tarea
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-St Hugh's School hall is in the shape of a large box or cuboid.  
-The area of the floor is $200 \ \text{m}^2$, the area of one of the 
-side walls is $150 \ \text{m}^2$ and the area of an end wall is $48 \ \text{m}^2$. 
-
-What is the height, in metres, of the hall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length of the school hall (in m) $= l$
-
-Let the width of the school hall (in m) $= w$
-
-Let the height of the school hall (in m) $= h$
-
-$\text {Area} = \text {length} \times \text {width}$
-
-As per the question,
-
-$
-\begin{aligned}
-l \times w   &= 200 \\\\
-l \times h   &= 150 \\\\
-l            &= \dfrac {150} {h} \\\\
-w \times h   &= 48 \\\\
-w            &= \dfrac{48}{h}
-\end{aligned}
-$
-
-Substituting $l$ and $w$ in the first equation in terms of $h$, we get
-
-$
-\begin{aligned}
-l \times w                              &= 200 \\\\
-\dfrac {150} {h} \times \dfrac {48} {h} &= 200 \\\\
-\dfrac {150 \times 48} {h^2}            &= 200 \\\\
-\dfrac {150 \times 48} {200}            &= h^2 \\\\
-h^2                                     &= \dfrac {150 \times 48} {200} \\\\
-h^2                                     &= \dfrac {50 \times 3 \times 12 \times 4} {50 \times 4} \\\\
-h^2                                     &= \dfrac {\cancel{50} \times 3 \times 12 \times \cancel{4}} {\cancel{50} \times \cancel{4}} \\\\
-h^2                                     &= 3 \times 12 \\\\
-h^2                                     &= 36 \\\\
-h                                       &= \sqrt {36} \\\\
-h                                       &= 6 \ \text {m}
-\end{aligned}
-$
-
-Height of the school hall (in m) $= 6  \ \text {m}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6 \ \text {m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>2B2789EB-87CB-4268-A450-11BE3B271963</p>
@@ -16393,65 +16199,6 @@ $60$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>30D0B7AD-9447-463A-831D-D948DCE6F17F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-John thinks of a number. He multiplies that number by four and then adds three to the result. If the answer he obtains is $35$, what is the number he first thought of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number that John thought is $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-4a + 3    &= 35 \\\\
-4a        &= 35 - 3 \\\\
-4a        &= 32 \\\\
-a         &= \dfrac {32} {4} \\\\
-a         &= \dfrac {8 \times 4} {4} \\\\
-a         &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
-a         &= 8
-\end {aligned}
-$
-
-The number that John thought $= 8$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -17107,140 +16854,69 @@ $3 \ \text{kg}$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>D9AB702D-8938-485D-92AD-A2B07C1AFB23</p>
+<p>0B7ECBC1-8D3F-45E4-9633-04391991C44B</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsequence
 </li>
 <li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg) 
+Bob is making a sequence of numbers. The first number is three. The last number is $31$. Bob gets his sequence by adding the same number each time.
 
-$3$ ![missing image](/papers/missing_image.svg) $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
 
-$3$ ![missing image](/papers/missing_image.svg)  $4$ = $3 + 4 + (3 \times 4) = 19$
+$3$, ______ , _____ , _____ , $31$
 
-And similarly, $2$ ![missing image](/papers/missing_image.svg)  $6 = 2 + 6 + (2 \times 6) = 20$ 
 
-Find the values of
+Write in the missing numbers of the sequence.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+The difference between the terms is $a$. 
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+As per the question, the sequence would be:
 
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5$ ![missing image](/papers/missing_image.svg)  $7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$5$ ![missing image](/papers/missing_image.svg)  $7$ = $5 + 7 + (5 \times 7) = 47$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$47$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0$ ![missing image](/papers/missing_image.svg)  $9$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$0$ ![missing image](/papers/missing_image.svg)  $9$ = $0 + 9 + (0 \times 9) = 9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If $χ$ ![missing image](/papers/missing_image.svg)  $2 + 23$ find the value of $χ$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+a)}}  
+&&  \footnotesize{\maroonC{(+a)}} 
+&&  \footnotesize{\maroonC{(+a)}}   
+&&  \footnotesize{\maroonC{(+a)}} \\
+3,  &&    3 + a,  &&  3 + 2a,  &&   3 + 3a,  &&   31 \ldots
+\end{matrix}
+$
+$
+\begin{aligned}
+3 + 3a + a                      &= 31 \\\\
+3 + 4a                          &= 31 \\\\
+4a                              &= 31 - 3 \\\\
+4a                              &= 28 \\\\
+a                               &= \dfrac {28} {4} \\\\
+a                               &= \dfrac {4 \times 7} {4} \\\\
+a                               &= \dfrac {\cancel {4} \times 7} {\cancel {4}} \\\\
+a                               &= 7
+\end{aligned}
+$
 
 $
 \begin{aligned}
-χ ![missing image](/papers/missing_image.svg)  2            &= 23 \\\\
-χ + 2 + (χ \times 2)    &= 23 \\\\
-χ + 2 + 2χ              &= 23 \\\\
-3χ + 2                  &= 23 \\\\
-3χ                      &= 23 - 2 \\\\
-3χ                      &= 21 \\\\
-χ                       &= \dfrac {21} {3} \\\\
-χ                       &= \dfrac {3 \times 7} {3} \\\\
-χ                       &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
-χ                       &= 7
+\text{First missing number}     &= 3 + a \\\\
+                                &= 3 + 7 \\\\
+                                &= 10 \\\\
+\text{Second missing number}    &= 3 + 2a \\\\
+                                &= 3 + 2 \times 7 \\\\ 
+                                &= 17
+\text{Second missing number}    &= 3 + 3a \\\\
+                                &= 3 + 3 \times 7 \\\\ 
+                                &= 24
 \end{aligned}
 $
 
@@ -17249,16 +16925,13 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$χ = 7$
+Missing numbers : 10, 17, 24
 
 </div>
 </div>
 
-</div>
-</li>
-</ul>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>
@@ -17379,12 +17052,12 @@ $27 \degree$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
-<p>24C887CF-4462-405D-A46E-9A5B7A2C09DE</p>
+<p>B413F8C6-736A-43A8-89EB-3A28FF88A2B5</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsequence
 </li>
 <li>
 talgebra
@@ -17393,43 +17066,47 @@ talgebra
 </div>
 <div class='question question'>
 
-Solve each of the following equations:
+Frank is making a sequence of numbers. The first number is $1$ and the third is $9$. Frank gets his sequence by multiplying the previous value by the same number each time. Write in the three missing numbers in the sequence shown.
+
+$1$. ___________, $9$, ___________, ___________
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+The difference between the terms is $a$. 
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+As per the question, the sequence would be:
 
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$8 - χ = 2$
-
-</div>
-<div class='workings'>
-<div class='working'>
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(\times a)}}  
+&&  \footnotesize{\maroonC{(\times a)}} 
+&&  \footnotesize{\maroonC{(\times a)}}   
+&&  \footnotesize{\maroonC{(\times a)}} \\
+1,  &&    1 \times a,  &&  9,  &&   9 \times a,  &&   9 \times a \times a \ldots
+\end{matrix}
+$
+$
+\begin{aligned}
+1 \times a \times a             &= 9 \\\\
+a^2                             &= 9 \\\\
+a^2                             &= 3^2 \\\\
+a                               &= 3
+\end{aligned}
+$
 
 $
 \begin{aligned}
-8 - χ                   &= 2 \\\\
-χ                       &= 8 - 2 \\\\
-χ                       &= 6
+\text{First missing number}     &= 1 \times a \\\\
+                                &= 1 \times 3 \\\\
+                                &= 3 \\\\
+\text{Second missing number}    &= 9 \times a \\\\
+                                &= 9 \times 3 \\\\ 
+                                &= 27
+\text{Second missing number}    &= 9 \times a \times a \\\\
+                                &= 9 \times 3 \times 3 \\\\ 
+                                &= 81
 \end{aligned}
 $
 
@@ -17438,110 +17115,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$x+\frac{1}{3}=1\frac{1}{4}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-x + \dfrac {1} {3}                   &= 1 \dfrac {1} {4} \\\\
-x + \dfrac {1} {3}                   &= \dfrac {5} {4} \\\\
-x                                    &= \dfrac {5} {4} - \dfrac {1} {3} \\\\
-x                                    &= \dfrac {5 \times 3} {4 \times 3} - \dfrac {1 \times 4} {3 \times 4} \\\\
-x                                    &= \dfrac {15} {12} - \dfrac {4} {12} \\\\
-x                                    &= \dfrac {15 - 4} {12} \\\\
-x                                    &= \dfrac {11} {12} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {11} {12}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>706748E4-8A3B-422B-A4AB-A60AA490E362</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have 3 cats-Fred, Gary and Harry. When I weigh Fred and Gary they come to $12\,kg$ more than Harry. When I weigh Gary and Harry they weigh $8\,kg$ more than Fred and when I weigh Fred and Harry they weigh $14\,kg$ more than Gary. What is the combined weight of all three cats?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the weight of Fred $=a$
-
-Let the weight of Gary $=b$
-
-Let the weight of Harry $=c$
-
-As per the question,
-
-$
-\begin{aligned}
-a + b                       &= 12 + c \\\\
-b + c                       &= 8 + a \\\\
-a + c                       &= 14 + b \\\\
-\text{Adding up the above three equations, we get,} \\\\
-a + b + b + c + a + c       &= 12 + c + 8 + a + 14 + b \\\\
-2a + 2b + 2c                &= 12 + 8 + 14 + a + b + c \\\\
-2a + 2b + 2c - a - b - c    &= 12 + 8 + 14 \\\\
-a + b + c                   &= 34
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$34$
+Missing Numbers : $3 , 27 , 81$
 
 </div>
 </div>
@@ -18709,67 +18283,6 @@ $30, 135$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>D90DBE3D-71F6-47D8-B03D-147F904077DE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is an eqilateral triangle inside a rectangle.
-
-Calculate the value of angle $x$.
-
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-All angles of an equilateral triangle $= 60 \degree$
-
-All angles of a rectangle $= 90  \degree$
-
-As per the figure,
-
-$
-\begin{aligned}
-x + 60 + 14     &= 90 \\\\
-x + 74          &= 90 \\\\
-x               &= 90 - 74 \\\\
-x              &= 16 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>48C8A320-D1E7-4D75-84D8-799A4AA7A4A2</p>
@@ -18952,229 +18465,6 @@ $17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The triangle in the diagram below is isosceles. 
-
-Calculate angle **$x$**
-$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-In a triangle, the exterior angle is always equal to the sum of the interior opposite angles.
-
-We also know that, in an isosceles triangle the two angles opposite to the equal side are congruent to each other.
-
-Exterior angle $= 134 \degree$
-
-Two angles of isosceles triangle $= x$
-$
-\begin{aligned}
-x + x                   &= 134 \\\\
-2x                      &= 134 \\\\
-x                       &= \dfrac{134} {2} \\\\
-x                       &= \dfrac{2 \times 67} {2} \\\\
-x                       &= \dfrac{\cancel {2} \times 67} {\cancel {2}} \\\\
-x                       &= 67 \degree
-\end{aligned}
-$
-
-The angle $x = 67 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$67 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>ED17A3F3-CADC-4CD5-8751-EDF6ACD97079</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A minibus can carry a maximum of $17$ people.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many minibuses are required to take a total of $300$ people on a trip?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-This can be solved using ratios.
-
-$
-\begin{aligned}
-17 \text{people} : 1 \text{minibus} \\\\
-17 \times 17 \text{people} : 1 \times 17 \text{minibuses} \\\\
-289 \text{people} : 17 \text{minibuses} \\\\
-\end{aligned}
-$
-
-Buses required to carry $300$ people = $17 + 1 = 18$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many empty seats will there be in total?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Empty seats = Total number of seats - Total number of people
-$
-\begin{aligned}
-&= 18 \times 17 - 300 \\\\
-&= 306 - 300 \\\\
-&= 6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A minibus costs $$\pounds 80$ to hire for the day. Tickets for the theme park cost $$\pounds 15$ each. Write a formula for the total cost $‘C’$ of hiring $‘m’$ minibuses and purchasing $‘t’$ tickets.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Cost per $1$ minibus = $\pounds 80$
-
-Cost per 'm' minibuses = $\pounds 80 \times m = 80m$
-
-Cost per $1$ ticket = $\pounds 15$
-
-Cost per 't' tickets = $\pounds 15 \times t = 15t$
-
-Total cost C = $80m + 15t$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$80m + 15t$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
 <p>37D61EFA-7D37-4E7B-87AC-FE2256B7021C</p>
@@ -19324,155 +18614,6 @@ $6$
 </div>
 </div>
 
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>9BAEC1C3-1291-46F0-8A06-C2CB59BB5445</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**Solving**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the values of $x$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-$5x - 3 = 12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-5x - 3      &= 12 \\\\
-5x          &= 12 + 3 \\\\
-5x          &= 15 \\\\
-x           &= \dfrac{15} {5} \\\\
-x           &= \dfrac{5 \times 3} {5} \\\\
-x           &= \dfrac{\cancel {5} \times 3} {\cancel {5}} \\\\
-x           &= 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-$13 + 2x = 3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-13 + 2x     &= 3 \\\\
-2x          &= 3 - 13 \\\\
-2x          &= -10 \\\\
-x           &= \dfrac{-10} {2} \\\\
-x           &= \dfrac{2 \times -5} {2} \\\\
-x           &= \dfrac{\cancel {2} \times -5} {\cancel {2}} \\\\
-x           &= -5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-5$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 </div>
 </li>
 </ul>

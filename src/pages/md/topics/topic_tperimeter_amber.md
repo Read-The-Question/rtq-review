@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-amber"
 title: "Topic - Perimeter - Amber"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -288,6 +288,129 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_ad_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>C9FC1C48-8736-4864-B73E-9615A9F76F7E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangular room is twice as long as it is wide. The perimeter of the room is $36 \ \text{m}$. What is the length of the room?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of rectangle $= a$
+
+As per the question,
+
+Length of the rectangle $= 2a$
+
+$
+\begin{aligned}
+\text{Perimeter of rectangle}       &= 2 \times (\text{Length} + \text{Width}) \\\\
+36 \text{m}                         &= 2 \times (2a + a) \\\\
+36                                  &= 2 \times 3a \\\\
+36                                  &= 6a \\\\
+\dfrac{36}{6}                       &= a \\\\
+\dfrac{6 \times 6}{6}               &= a \\\\
+\dfrac{6 \times \cancel{6}}{\cancel{6}} &= a \\\\
+a                                   &= 6 \ \text{m}
+\end{aligned}
+$
+
+Length of the rectangle $= 2a = 2 \times 6 = 12 \ \text{m}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \ \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>C0550FA4-3C39-429E-84BB-90239E5C8FE3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fence posts are erected $5 \ \text{m}$ apart (with a post at each corner) to support fencing round a rectangular field. 
+
+If the field measures $100 \ \text{m}$ by $60 \ \text{m}$, how many posts are needed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Perimeter of the rectangular field  $= 2 \times (length + width)$
+                                    $= 2 \times (100 + 60)$
+                                    $= 2 \times 160$
+                                    $= 320 \ \text{m}$
+
+Distance between post $= 5 \ \text{m}$
+
+$
+\begin{aligned}
+\text{Number of posts}      &= \dfrac{\text{Perimeter of the field}}{\text{Distance between post}} \\\\
+                            &= \dfrac{320}{5} \\\\
+                            &= \dfrac{64 \times 5}{5} \\\\
+                            &= \dfrac{64 \times \cancel{5}}{\cancel{5}} \\\\
+                            &= 64 \\\\
+\text{Number of posts}      &= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
 </div>
 </div>
 </li>

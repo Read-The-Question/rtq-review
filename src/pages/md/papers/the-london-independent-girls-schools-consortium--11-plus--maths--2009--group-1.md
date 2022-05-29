@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <div class='paper'>
 <h1>The London Independent Girls' Schools Consortium</h1>
@@ -296,10 +296,7 @@ $\dfrac{2}{3}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tsequence
+torder
 </li>
 </ul>
 </div>
@@ -361,10 +358,7 @@ $\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tsequence
+torder
 </li>
 </ul>
 </div>

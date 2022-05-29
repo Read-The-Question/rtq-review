@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-g1"
 title: "Reviewer - Uday Pandey - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -167,13 +167,7 @@ $592$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -3960,13 +3954,7 @@ $9 \times 6 + 73 = 96 + 7 \times 3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -6924,9 +6912,6 @@ $99$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -7660,9 +7645,6 @@ $6 \degree \text {C}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -8079,9 +8061,6 @@ $\dfrac {t ^ 2} {4}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -8277,9 +8256,6 @@ $85 \ \text{centimeters}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -8348,9 +8324,6 @@ $\dfrac {2} {5},  \quad \dfrac {3} {7}, \quad 0.43, \quad 44 \%$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -8593,9 +8566,6 @@ $10 n - 16$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -9431,13 +9401,7 @@ $5570$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -15597,9 +15561,6 @@ $\dfrac {1} {6}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -20159,6 +20120,12 @@ $1369$
 </div>
 <div class='topics'>
 <ul>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -21126,16 +21093,7 @@ $13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -22062,9 +22020,6 @@ $7$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

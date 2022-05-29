@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-g1"
 title: "Topic - Perimeter - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3498,6 +3498,76 @@ $27.2 \ \text{cm}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>C59005D5-EA4A-432B-99E9-DF224B680D47</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the diagrams below, the perimeter of the square is equal to the perimeter of the isosceles triangle.
+
+Work out the length of the side marked $d$.
+
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Perimeter of the square}     &= 4 \times \text {Sides} \\\\
+                                    &= 4 \times 9 \\\\
+                                    &= 36 \ \text {cm}
+\end {aligned}
+$
+
+We know that two sides of the isosceles triangle are equal. Using that we get,
+
+$
+\begin {aligned}
+\text {Perimeter of the triangle}   &= d + d + 20 \\\\
+36                                  &= 2d + 20 \\\\
+2d + 20                             &= 36 \\\\
+2d                                  &= 36 - 20 \\\\
+2d                                  &= 16 \\\\
+d                                   &= \dfrac {16} {2} \\\\
+d                                   &= \dfrac {8 \times 2} {2} \\\\
+d                                   &= \dfrac {8 \times \cancel {2}} {\cancel {2}} \\\\
+d                                   &= 8 \ \text {cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>4F58585B-5B01-496D-8865-FFF0FEAC8FD6</p>
@@ -3577,6 +3647,88 @@ $1200 \ \text {cm}^2$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>4C4D2D05-7411-4B91-B9C3-73F6D271E210</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The rectangle and triangle below have the same height.
+
+![missing image](/papers/missing_image.svg)
+
+If the perimeter of the rectangle (all 4 sides) is $32\,m$, what is the area of the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the other side of rectangle $= t \ \text{m}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Perimeter}        &= 2 \times (\text{length} + \text{width}) \\\\
+32                      &= 2 \times (7 + t) \\\\
+32                      &= 14 + 2t \\\\
+14 + 2t                 &= 32 \\\\
+2t                      &= 32 - 14 \\\\
+2t                      &= 18 \\\\
+t                       &= \dfrac{18} {2} \\\\
+t                       &= \dfrac{9 \times 2} {2} \\\\
+t                       &= \dfrac{9 \times \cancel{2}} {\cancel{2}} \\\\
+t                       &= 9 \ \text{m}
+\end{aligned}
+$
+
+Now the area of triangle,
+
+$
+\begin{aligned}
+\text{Area}             &= \dfrac{1} {2} \times \text{base} \times \text{height} \\\\
+                        &= \dfrac{1} {2} \times (17 - 9) \times 7 \\\\
+                        &= \dfrac{1} {2} \times 8 \times 7 \\\\
+                        &= \dfrac{8 \times 7} {2} \\\\
+                        &= \dfrac{2 \times 4 \times 7} {2} \\\\
+                        &= \dfrac{\cancel{2} \times 4 \times 7} {\cancel{2}} \\\\
+                        &= 4 \times 7 \\\\
+                        &= 28 \ \text{m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28 \ \text{m}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>

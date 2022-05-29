@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ks-all"
 title: "Owner - Kriti Sharma - All"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -664,9 +664,6 @@ $\dfrac{1} {4}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -1380,9 +1377,6 @@ $\dfrac {1} {4}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -3291,9 +3285,6 @@ $3c (-5ct + 4c)$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -5665,12 +5656,6 @@ $twenty-one over thirty-two$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 torder
 </li>
@@ -8671,16 +8656,7 @@ $10x ^ 3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-torder
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -10592,9 +10568,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tclock
 </li>

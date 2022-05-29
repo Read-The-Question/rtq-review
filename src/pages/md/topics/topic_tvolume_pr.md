@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-pr"
 title: "Topic - Volume - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -772,67 +772,6 @@ $480$
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tvolume
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-Blocks of this shape are packed into the container on the right. What is the greatest number of blocks that can be placed inside the container?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Number of blocks}         &= \dfrac{\text{Volume of container}}{\text{Volume of block}} \\\\
-                                &= \dfrac{6 \times 2 \times 2}{1 \times 1 \times 1 + (\dfrac{1}{2} \times 1 \times 1)} \\\\
-                                &= \dfrac{6 \times 2 \times 2}{1 + \dfrac{1}{2}} \\\\
-                                &= \dfrac{24}{\dfrac{3}{2}} \\\\
-                                &= \dfrac{24 \times 2}{3} \\\\
-                                &= \dfrac{3 \times 8 \times 2}{3} \\\\
-                                &= \dfrac{\cancel{3} \times 8 \times 2}{\cancel{3}} \\\\
-                                &= 8 \times 2 \\\\
-\text{Number of blocks}         &= 16
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ar-all"
 title: "Owner - Aryan Rawat - All"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-05-29 06:26:52
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -1611,9 +1608,6 @@ $6, 10, 14$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -2264,9 +2258,6 @@ $740$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -2316,9 +2307,6 @@ $0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -2547,9 +2535,6 @@ $13 \text{p},23 \text{p},53 \text{p}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -3293,9 +3278,6 @@ $30$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -3514,7 +3496,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_amber question'>
 <div class='uuid'>
 <p>D315CB50-201F-44CC-B34C-D567BD5B3098</p>
 </div>
@@ -3562,7 +3544,7 @@ $30 \ \text{years}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_amber</p>
 </div>
 </div>
 </li>
@@ -5292,13 +5274,7 @@ $2.4 \ \text {kg}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -6796,13 +6772,10 @@ $50 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 <li>
-tunit
+tunitprompt
 </li>
 </ul>
 </div>
@@ -7737,13 +7710,7 @@ $165$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-torder
 </li>
 </ul>
 </div>
@@ -7939,13 +7906,10 @@ $96$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 <li>
-tunit
+tunitprompt
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunassigned-red"
 title: "Topic - Unassigned - Red"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5032,231 +5032,6 @@ $9$
 <li>
 <div class='question_envelope rag_ad_red question'>
 <div class='uuid'>
-<p>AB93EA42-3087-492B-9F08-815980496618</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tsequence
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the next $2$ numbers in the following sequences:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3, \quad 7, \quad 11, \quad 15, \quad 19, \quad \text{\textunderscore \textunderscore \textunderscore }, \quad \text{\textunderscore \textunderscore \textunderscore }$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+4)}} 
-&&  \footnotesize{\maroonC{(+4)}}  
-&&  \footnotesize{\maroonC{(+4)}}   
-&&  \footnotesize{\maroonC{(+4)}}   
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}  \\
-3,  &&  7,  &&  11,  &&  15,  &&  19,  &&  \ldots,  &&  \ldots  
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 19 + 4 \\\\
-                                  &= 23 \\\\
-\text{Second missing number}      &= 23 + 4 \\\\
-                                  &= 27
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23, 27$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3, \quad 6, \quad 12, \quad 24, \quad \text{\textunderscore \textunderscore \textunderscore }, \quad \text{\textunderscore \textunderscore \textunderscore }$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}} \\
-3,  &&  6,  &&  12,  &&  24,  &&  \ldots,  &&  \ldots  
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 24 \times 2 \\\\
-                                  &= 48 \\\\
-\text{Second missing number}      &= 48 \times 2 \\\\
-                                  &= 96
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48, 96$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3, \quad 5, \quad 9, \quad 15, \quad 23, \quad \text{\textunderscore \textunderscore \textunderscore }, \quad \text{\textunderscore \textunderscore \textunderscore }$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+2)}} 
-&&  \footnotesize{\maroonC{(+4)}}  
-&&  \footnotesize{\maroonC{(+6)}}   
-&&  \footnotesize{\maroonC{(+8)}}   
-&&  \footnotesize{\maroonC{(+10)}}
-&&  \footnotesize{\maroonC{(+12)}}  \\
-3,  &&  6,  &&  12,  &&  24,  &&  \ldots,  &&  \ldots  
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 23 + 10 \\\\
-                                  &= 33 \\\\
-\text{Second missing number}      &= 33 + 12 \\\\
-                                  &= 45
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$33, 45$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{1}{5}, \quad \dfrac{3}{10}, \quad \dfrac{5}{17}, \quad \dfrac{7}{26}, \quad \text{\textunderscore \textunderscore \textunderscore }, \quad \text{\textunderscore \textunderscore \textunderscore }$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_red question'>
-<div class='uuid'>
 <p>195D77D8-0597-4603-BD8B-E4FEF677DCB6</p>
 </div>
 <div class='topics'>
@@ -6931,52 +6706,6 @@ $140 \text { ml}$
 </div>
 <div class='rag'>
 <p>rag_ga_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_red question'>
-<div class='uuid'>
-<p>5612D86A-AFE6-4BB3-A38A-725413199CD9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A twenty-four hour digital watch shows only hours and minutes. How many times each day does the watch show at least two fours simultaneously?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2 \text{times in a day}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \text{times in a day}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
-</div>
-<div class='rag'>
-<p>rag_ks_red</p>
 </div>
 </div>
 </li>
@@ -10390,54 +10119,6 @@ $23$
 </div>
 <div class='rag'>
 <p>rag_ad_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_red question'>
-<div class='uuid'>
-<p>ACB903AE-471B-4194-A0AE-FF8761C03567</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Draw the hour and minute hands on this clock to show the time $22{:}30$.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10 : 30$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10:30$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_np_red</p>
 </div>
 </div>
 </li>
@@ -14584,81 +14265,6 @@ $121$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_red question'>
-<div class='uuid'>
-<p>D74BAFDC-19D4-4AB6-AE64-3736F916FD8E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the smaller angle between the hands of a clock at $2{:}    30$?  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's revise few facts about clock hands.
-
-- A minute clock hand moves $360 \degree$ in $1 \ \text{hour}$
-- A hour clock hand moves $30 \degree$ in $1 \ \text{hour}$
-- The angle between each hour number on the clock is $30 \degree$
-
-At $2{:}30$, the minute hand will be exactly on hour number $6$ but the hour hand will have moved a little ahead from $2$ and it will be somewhere between $2$ and $3$.
-
-Let's calculate the angle moved by hour hand.
-
-$
-\begin{aligned}
-1 \ \text{hour}         &: 30 \degree \\\\
-60 \ \text{minutes}     &: 30 \\\\
-1 \ \text{minute}       &: \dfrac{30}{60} \\\\
-30 \ \text{minutes}     &: \dfrac{30 \times 30}{60} \\\\
-30 \ \text{minutes}     &: 15 \degree \\\\
-\end{aligned}
-$
-
-The angle between hands is the angle between number $2$ and $6$ minus the angle travelled by hour hand in $30$ minutes.
-
-Let's calculate the angle between the hands.
-
-$
-\begin{aligned}
-&= 30 \times 4 - 15 \\\\
-&= 120 - 15 \\\\
-&= 105 \degree
-\end{aligned}
-$
-
-The smaller angle is $= 105 \degree$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$105$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_red</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_red question'>
 <div class='uuid'>
 <p>21F7BC14-9818-4F1D-88D0-C2B5F192C189</p>
@@ -14873,74 +14479,6 @@ The cost of a top is $\pounds 7$.
 <div class='answer'>
 
 $\pounds 7$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_red question'>
-<div class='uuid'>
-<p>FF6E72A7-F3CD-473B-B807-49A3B1525D81</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the sequence of numbers $2, 3, 5, 8, 12, \ldots$, what is the first **three digit** number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is increasing by 1 more than the difference between the previous numbers. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+1)}} 
-&&  \footnotesize{\maroonC{(+2)}}  
-&&  \footnotesize{\maroonC{(+3)}}   
-&&  \footnotesize{\maroonC{(+4)}}  \\
-2,  &&    3,  &&    5,  &&   8,  &&   12
-\end{matrix}
-$
-
-Or it can also written as 
-
-$2 + (1+2+3+4) =12$
-
-So,
-
-$2 + (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9) \\
-= 2 + 45 = 47$
-
-$47 + (10 + 11 + 12 + 13 + 14) = 45 + 60  = 107$
-
-The first three digist number in the sequence will be $107$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$107$
 
 </div>
 </div>
@@ -15563,91 +15101,6 @@ $140 \ \text{beads}$
 <li>
 <div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
-<p>74519F97-5041-4ECE-88D4-3B509460C560</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Brian starts with $1000$ and subtracts $11$ each time. The first four numbers in his sequence are:
-
-1000, 989, 978, 967
-
-
-If he continues in this way, what will be the first negative number in his sequence?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-The difference between the terms is $11$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(1000-11 \times 1)}}  
-&&  \footnotesize{\maroonC{(1000-11 \times 2)}}    
-&&  \footnotesize{\maroonC{(1000-11 \times 3)}} \\
-1000,  &&    989,  &&  978,  &&   967 \ldots
-\end{matrix}
-$
-
-As the sequence goes on decreasing in the multiples of 11,
-
-Let the first negative number in the sequence be $1000 - 11a$
-
-$
-\begin{aligned}
-1000 - 11a              &< 0 \\\\
-1000                    &< 11a \\\\
-\dfrac {1000} {11}      &< a \\\\
-90.90                   &< a \\\\
-a                       &> 90.90 \\\\
-a                       &= 91 
-\end{aligned}
-$
-
-The first negative number in the sequence = $1000 - 11a$
-$
-\begin{aligned}
-&= 1000 - 11 \times 91 \\\\
-&= 1000 - 1001 \\\\
-&= -1
-\end{aligned}
-$
-
-The first negative number in the sequence = $-1$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-1$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_red question'>
-<div class='uuid'>
 <p>594EBD3F-1293-4FF8-93B0-C9B96E73E43C</p>
 </div>
 <div class='topics'>
@@ -15950,6 +15403,351 @@ $2.848 \text { kg}$
 <li>
 <div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
+<p>D9AB702D-8938-485D-92AD-A2B07C1AFB23</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+talgebra
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg) 
+
+$3$ ![missing image](/papers/missing_image.svg) $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
+
+$3$ ![missing image](/papers/missing_image.svg)  $4$ = $3 + 4 + (3 \times 4) = 19$
+
+And similarly, $2$ ![missing image](/papers/missing_image.svg)  $6 = 2 + 6 + (2 \times 6) = 20$ 
+
+Find the values of
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5$ ![missing image](/papers/missing_image.svg)  $7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$5$ ![missing image](/papers/missing_image.svg)  $7$ = $5 + 7 + (5 \times 7) = 47$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0$ ![missing image](/papers/missing_image.svg)  $9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$0$ ![missing image](/papers/missing_image.svg)  $9$ = $0 + 9 + (0 \times 9) = 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $χ$ ![missing image](/papers/missing_image.svg)  $2 + 23$ find the value of $χ$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+χ ![missing image](/papers/missing_image.svg)  2            &= 23 \\\\
+χ + 2 + (χ \times 2)    &= 23 \\\\
+χ + 2 + 2χ              &= 23 \\\\
+3χ + 2                  &= 23 \\\\
+3χ                      &= 23 - 2 \\\\
+3χ                      &= 21 \\\\
+χ                       &= \dfrac {21} {3} \\\\
+χ                       &= \dfrac {3 \times 7} {3} \\\\
+χ                       &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
+χ                       &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$χ = 7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ac_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_red question'>
+<div class='uuid'>
+<p>7DCC3D45-5CB3-4A24-A48F-06B6CED96443</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tstatistics
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the average of $\frac {1}{2}$ and $\frac {1}{3}$ ?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{ \left ( \dfrac{1} {2} + \dfrac {1} {3} \right )} {2} \\\\
+&= \dfrac{ \left ( \dfrac{3} {2 \times 3} + \dfrac {2} {3 \times 2} \right )} {2} \\\\
+&= \dfrac{ \left ( \dfrac{3} {6} + \dfrac {2} {6} \right )} {2} \\\\
+&= \dfrac{\dfrac{5} {6}} {2} \\\\
+&= \dfrac{5} {12}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{5} {12}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ac_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_red question'>
+<div class='uuid'>
+<p>E6B98A2D-3E19-48A9-8530-3FA13BCFF9E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $200$ sheets of paper in a pad. The pad is $1.6\,cm$ thick. Find the thickness of one sheet.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+in cm
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+$
+\begin{aligned}
+200 \ \text {sheets}                                   & \ratio \dfrac {16}{10} \ \text {cm}                                    \\\\
+200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                                \\\\
+\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{10}  \times \dfrac {1}{200} \ \text {cm}            \\\\
+\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{2000} \ \text {cm}                                  \\\\
+1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 1000}  \ \text {cm}                \\\\
+1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 1000} \ \text {cm} \\\\
+1 \text { sheet}                                       & \ratio \dfrac {8}{1000} \ \text {cm}                                   \\\\
+1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}                                             \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.0008 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+in mm
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+$
+\begin{aligned}
+200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                               \\\\
+200 \ \text {sheets}                                   & \ratio 1.6 \times 10 \ \text {mm}                                     \\\\
+200 \ \text {sheets}                                   & \ratio 16                                                             \\\\
+\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{200}                                               \\\\
+\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{200} \ \text {mm}                                  \\\\
+1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 100}  \ \text {mm}                \\\\
+1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 100} \ \text {cm} \\\\
+1 \text { sheet}                                       & \ratio \dfrac {8}{100} \ \text {mm}                                   \\\\
+1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}                                             \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.008 \ \text{mm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ac_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_red question'>
+<div class='uuid'>
 <p>B8A38FB1-A956-4BBA-84F5-7EE08A153405</p>
 </div>
 <div class='topics'>
@@ -16091,6 +15889,164 @@ $15 \text{rounds}$
 
 <div class='papername'>
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_red question'>
+<div class='uuid'>
+<p>ED17A3F3-CADC-4CD5-8751-EDF6ACD97079</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A minibus can carry a maximum of $17$ people.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many minibuses are required to take a total of $300$ people on a trip?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios.
+
+$
+\begin{aligned}
+17 \text{people} : 1 \text{minibus} \\\\
+17 \times 17 \text{people} : 1 \times 17 \text{minibuses} \\\\
+289 \text{people} : 17 \text{minibuses} \\\\
+\end{aligned}
+$
+
+Buses required to carry $300$ people = $17 + 1 = 18$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many empty seats will there be in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Empty seats = Total number of seats - Total number of people
+$
+\begin{aligned}
+&= 18 \times 17 - 300 \\\\
+&= 306 - 300 \\\\
+&= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A minibus costs $$\pounds 80$ to hire for the day. Tickets for the theme park cost $$\pounds 15$ each. Write a formula for the total cost $‘C’$ of hiring $‘m’$ minibuses and purchasing $‘t’$ tickets.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Cost per $1$ minibus = $\pounds 80$
+
+Cost per 'm' minibuses = $\pounds 80 \times m = 80m$
+
+Cost per $1$ ticket = $\pounds 15$
+
+Cost per 't' tickets = $\pounds 15 \times t = 15t$
+
+Total cost C = $80m + 15t$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80m + 15t$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ac_red</p>

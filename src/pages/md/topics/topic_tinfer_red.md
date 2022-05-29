@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-red"
 title: "Topic - Infer - Red"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3121,6 +3121,167 @@ $58$
 </div>
 <div class='rag'>
 <p>rag_nj_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_red question'>
+<div class='uuid'>
+<p>D9AB702D-8938-485D-92AD-A2B07C1AFB23</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+talgebra
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg) 
+
+$3$ ![missing image](/papers/missing_image.svg) $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
+
+$3$ ![missing image](/papers/missing_image.svg)  $4$ = $3 + 4 + (3 \times 4) = 19$
+
+And similarly, $2$ ![missing image](/papers/missing_image.svg)  $6 = 2 + 6 + (2 \times 6) = 20$ 
+
+Find the values of
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5$ ![missing image](/papers/missing_image.svg)  $7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$5$ ![missing image](/papers/missing_image.svg)  $7$ = $5 + 7 + (5 \times 7) = 47$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0$ ![missing image](/papers/missing_image.svg)  $9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$0$ ![missing image](/papers/missing_image.svg)  $9$ = $0 + 9 + (0 \times 9) = 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $χ$ ![missing image](/papers/missing_image.svg)  $2 + 23$ find the value of $χ$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+χ ![missing image](/papers/missing_image.svg)  2            &= 23 \\\\
+χ + 2 + (χ \times 2)    &= 23 \\\\
+χ + 2 + 2χ              &= 23 \\\\
+3χ + 2                  &= 23 \\\\
+3χ                      &= 23 - 2 \\\\
+3χ                      &= 21 \\\\
+χ                       &= \dfrac {21} {3} \\\\
+χ                       &= \dfrac {3 \times 7} {3} \\\\
+χ                       &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
+χ                       &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$χ = 7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ac_red</p>
 </div>
 </div>
 </li>

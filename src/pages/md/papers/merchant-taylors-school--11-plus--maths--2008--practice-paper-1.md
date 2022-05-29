@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <div class='paper'>
 <h1>Merchant Taylors' School</h1>
@@ -331,9 +331,6 @@ $7$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -1387,9 +1384,6 @@ $85 \ \text{centimeters}$
 <ul>
 <li>
 tclock
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-red"
 title: "Topic - Money - Red"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1038,6 +1038,164 @@ $\pounds 7$
 </div>
 <div class='rag'>
 <p>rag_up_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_red question'>
+<div class='uuid'>
+<p>ED17A3F3-CADC-4CD5-8751-EDF6ACD97079</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A minibus can carry a maximum of $17$ people.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many minibuses are required to take a total of $300$ people on a trip?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios.
+
+$
+\begin{aligned}
+17 \text{people} : 1 \text{minibus} \\\\
+17 \times 17 \text{people} : 1 \times 17 \text{minibuses} \\\\
+289 \text{people} : 17 \text{minibuses} \\\\
+\end{aligned}
+$
+
+Buses required to carry $300$ people = $17 + 1 = 18$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many empty seats will there be in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Empty seats = Total number of seats - Total number of people
+$
+\begin{aligned}
+&= 18 \times 17 - 300 \\\\
+&= 306 - 300 \\\\
+&= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A minibus costs $$\pounds 80$ to hire for the day. Tickets for the theme park cost $$\pounds 15$ each. Write a formula for the total cost $‘C’$ of hiring $‘m’$ minibuses and purchasing $‘t’$ tickets.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Cost per $1$ minibus = $\pounds 80$
+
+Cost per 'm' minibuses = $\pounds 80 \times m = 80m$
+
+Cost per $1$ ticket = $\pounds 15$
+
+Cost per 't' tickets = $\pounds 15 \times t = 15t$
+
+Total cost C = $80m + 15t$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80m + 15t$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_red</p>
 </div>
 </div>
 </li>

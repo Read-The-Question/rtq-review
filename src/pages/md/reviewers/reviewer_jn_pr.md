@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-jn-pr"
 title: "Reviewer - Jaishree Nair - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -195,9 +195,6 @@ $26$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -433,6 +430,951 @@ $15980$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>6CDE9B85-33D8-4FE1-8A7C-C1030D86C401</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The next two numbers in the pattern
+$1, 1, 2, 3, 5,$ are...
+
+-  $7 \And 11$
+-  $8 \And 12$
+-  $8 \And 13$
+-  $3 \And 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+In this sequence we are getting the next term by adding previous term to the current term:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(0 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 1)} }
+&&  \footnotesize {\maroonC {(1 + 2)} }
+&&  \footnotesize {\maroonC {(2 + 3)} }
+&&  \footnotesize {\maroonC {(3 + 5)} }
+&&  \footnotesize {\maroonC {(5 + 8)} }  \\
+1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 3 + 5 \\\\
+                                  &= 8 \\\\
+\text {Second missing number}     &= 5 + 8 \\\\
+                                  &= 13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$8, 13$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>B245DB80-06AB-4146-8632-C2E68446994E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+<li>
+tsymmetry
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many lines of symmetry has a square?
+
+-  $1$
+-  $2$
+-  $4$
+-  $8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+** TODO: Add diagrams to show all lines of symmetry **
+
+$4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>D30F0974-2B38-4C59-B619-F9A967A19868</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many faces has a cuboid?
+
+-  $4$
+-  $6$
+-  $8$
+-  $12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$6$
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>1F0E1A23-FEB9-4030-8F80-C0D56311A323</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+<li>
+tsymmetry
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows part of a regular shape along with its two lines of symmetry. The whole shape is:
+
+![missing image](/papers/missing_image.svg)
+
+-  a trapezium
+-  a rhombus
+-  an octagon
+-  a hexagon
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+** TODO: Add the complete diagram **
+
+a trapezium
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{a trapezium}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>04ACE684-9AE1-4A89-98F0-A8F72CA19665</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many squares are in this picture?
+
+![missing image](/papers/missing_image.svg)
+
+-  $2$
+-  $3$
+-  $4$
+-  $5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>6EA572FE-FB00-44DD-A787-BAF1F99D3A04</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Putting these lines $||$ round a number or calculation makes sure the answer is positive; for example both $|8|$ and
+$|-8|$ would give the answer $8$. What is the answer to:
+
+$10 - |4 - 20|$?
+
+-  $4$
+-  $26$
+-  $-6$
+-  $6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10 - | 4 - 20 | \\\\
+&= 10 - | {-16} | \\\\
+&= 10 - 16 \\\\
+&= -6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$-16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>E050D127-B790-44E2-8C2E-2E52B8429BCE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the largest number that can be written using the digits $5, 1, 8$ and $2$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8521$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8521$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>FA9861FD-232E-4ED5-9793-77E5EFC8EB56</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A tin of paint can cover $45 \ \ text{m}^2$ of wall. The school hall has $652 \ \ text{m}^2$ of wall to paint.
+
+How many tins of paint are needed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of tins needed}  &= \dfrac {\text{Total area of the hall}} {\text{Area covered by a tin}} \\\\
+                               &= \dfrac {652} {45} \\\\
+                               &= 14.48 \\\\
+                               &= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>3C1A8ECE-FC50-4AC9-B755-F100FE9325E2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+ A man travels $200 \ \text{miles}$ at an average speed of $60 \ \text{miles per hour}$.
+ How long does the journey take in hours and minutes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Time}    &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
+                &= \dfrac {200 \ \text {miles}} {60 \ \text {miles per hour}} \\\\
+                &= \dfrac {2 \times 10 \times 10} {2 \times 3 \times 10} \\\\
+                &= \dfrac {\cancel {2} \times \cancel {10} \times 10} {\cancel {2} \times 3 \times \cancel {10}} \\\\
+                &= \dfrac {10} {3} \\\\
+                &= 3 \dfrac {1} {3} \ \text {hours} \\\\
+                &= 3 + \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
+                &= 3 + \dfrac {60} {3} \\\\
+                &= 3 + \dfrac {20 \times 3} {3} \\\\
+                &= 3 + \dfrac {20 \times \cancel {3}} {\cancel {3}} \\\\
+                &= 3 \ \text {hours} \ 20 \ \text {minutes}
+\end {aligned}
+$
+
+The journey took $3 \ \text {hours} \ 20 \ \text {minutes}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text {hours} \ 20 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>4440F334-A112-481F-AB98-3D9AD28B54BF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a triangular prism.
+
+Write down the number of:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Faces
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Edges
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Vertices
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>1560E53F-1121-4690-82F4-852BE2494204</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the missing angles $p, q$ and $r$.
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$.
+
+As per the diagram,
+
+$
+\begin {aligned}
+35 + 90 + p   &= 180 \\\\
+125 + p       &= 180 \\\\
+p             &= 180 - 125 \\\\
+p             &= 55 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
+
+$
+\begin {aligned}
+81 + 52 + q     &= 180 \\\\
+133 + q         &= 180 \\\\
+q               &= 180 - 133 \\\\
+q               &= 47 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram, the rhombus is having its opposite sides equal, Which means the angles opposite are also equal.
+
+As we know, the sum of angles in a triangle is $180 \degree$.
+
+Taking the lower triangle, we get
+
+$
+\begin {aligned}
+140 + 24 + r    &= 180 \\\\
+r + 164         &= 180 \\\\
+r               &= 180 - 164 \\\\
+r               &= 16 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>5CC2AA10-9BD1-4023-B610-74254B953442</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at this information.
+
+$\boxed {\quad \dfrac{27}{40} = 0.675 \quad }$
+
+$\boxed { \quad\dfrac{29}{40} = 0.725 \quad}$
+
+Use this information to write the missing decimals below.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\boxed { \quad\dfrac{31}{40} = \text{\textunderscore \textunderscore \textunderscore} \quad}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= \dfrac {31} {40} \\\\
+&= \dfrac {29 + 2} {40} \\\\
+&= \dfrac {29} {40} + \dfrac {2} {40} \\\\
+&= 0.725 + \dfrac {2} {20 \times 2} \\\\
+&= 0.725 + \dfrac {\cancel {2} } {20 \times \cancel {2} } \\\\
+&= 0.725 + \dfrac {1} {20} \\\\
+&= 0.725 + 0.05 \\\\
+&= 0.775
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.775$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\boxed { \quad\dfrac{23}{40} = \text{\textunderscore \textunderscore \textunderscore} \quad}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= \dfrac {23} {40} \\\\
+&= \dfrac {27 - 4} {40} \\\\
+&= \dfrac {27} {40} - \dfrac {4} {40} \\\\
+&= 0.675 - \dfrac {4} {10 \times 4} \\\\
+&= 0.675 - \dfrac {\cancel {4}} {10 \times \cancel {4}} \\\\
+&= 0.675 - \dfrac {1} {10} \\\\
+&= 0.675 - 0.1 \\\\
+&= 0.575
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.575$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1122,300 +2064,6 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>89F00B0D-2774-43B2-B069-D08574377959</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the next two numbers in each of these sequences:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3, \quad 5, \quad 7, \quad 9, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}  \\
-3,  &&  5,  &&  7,  &&  9,  &&  \ldots, &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}   &= 9 + 2 \\\\
-                               &= 11 \\\\
-\text {Second missing number}  &= 11 + 2 \\\\
-                               &= 13
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11, 13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5.1, \quad 6.3, \quad 7.5, \quad 8.7, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $1.2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}  \\
-5.1,    &&  6.3,    &&  7.5,    &&  8.7,    &&  \ldots, &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}   &= 8.7 + 1.2 \\\\
-                               &= 9.9 \\\\
-\text {Second missing number}  &= 9.9 + 1.2 \\\\
-                               &= 11.1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9.9, 11.1$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1, \quad 3, \quad 9, \quad 27, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}  \\
-1,  &&  3,  &&  9,  &&  27, &&  \ldots, &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}   &= 27 \times 3 \\\\
-                               &= 81 \\\\
-\text {Second missing number}  &= 81 \times 3 \\\\
-                               &= 243
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$81, 243$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0.3, \quad 0.6, \quad 1.2, \quad 2.4, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}  \\
-0.3,    &&  0.6,    &&  1.2,    &&  2.4,    &&  \ldots,  &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}   &= 2.4 \times 2 \\\\
-                               &= 4.8 \\\\
-\text {Second missing number}  &= 4.8 \times 2 \\\\
-                               &= 9.6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4.8, 9.6$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$15, \quad 11, \quad 7, \quad 3, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}  \\
-15, &&  11, &&  7,  &&  3,  &&  \ldots,  && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}   &= 3 - 4 \\\\
-                               &= -1 \\\\
-\text {Second missing number}  &= -1 - 4 \\\\
-                               &= -5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-1, -5$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>82E53172-BBB9-4193-AC4C-4D206B9D794C</p>
@@ -1484,9 +2132,6 @@ $9 \text { hours } 40 \text { minutes}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -2178,53 +2823,6 @@ $80 \%$ of $20 \%$ of $200$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Amelia earns $\pounds 330$ but has to pay rent of $\pounds X$.
-Write an expression for how much money she has left after paying the rent.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Money left} = \pounds (330 - X)$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Money left} = \pounds (330 - X)$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>454E0C83-23ED-4839-B389-520CDF891C9D</p>
 </div>
 <div class='topics'>
@@ -2266,60 +2864,6 @@ $
 <div class='answer'>
 
 $18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>60A40A72-24E4-471F-A028-152B28477469</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Chigwell School buys a badge for each student who plays for one of the school teams.
-$193$ students receive a badge, and each badge costs $\pounds 6$.
-
-How much does the school have to pay in total?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {School pays} &= \text {No. of students receiving badge} \times \text {Cost of one badge} \\\\
-                    &= 193 \times 6 \\\\
-                    &= \pounds 1158
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1158$
 
 </div>
 </div>
@@ -2477,68 +3021,6 @@ $4$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>78560253-2BD8-42B2-8E55-911BFF244038</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I went to watch a three-hour concert but the music was so awful that I only stayed for $15 \%$ of it.
-How many minutes did I stay at the concert for?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-The time is given in hours, but the final answer has to be in minutes.
-
-$
-\begin {aligned}
-\text {Minutes stayed}  &= 15 \% \ \text {of} \ 3 \ \text {hours} \\\\
-                        &= \dfrac {15} {100} \times 3 \\\\
-                        &= \dfrac {15} {100} \times 3 \times 60 \ \text {minutes} \\\\
-                        &= \dfrac {15 \times 3 \times 60} {100} \\\\
-                        &= \dfrac {5 \times 3 \times 3 \times 3 \times 2 \times 10} {5 \times 2 \times 10} \\\\
-                        &= \dfrac {\cancel {5} \times 3 \times 3 \times 3 \times \cancel {2} \times \cancel {10}} {\cancel {5} \times \cancel {2} \times \cancel {10}} \\\\
-                        &= 3 \times 3 \times 3 \\\\
-                        &= 27 \ \text {minutes}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27 \ \text {minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>19818B2F-9086-4F00-9201-4F75D3C5194C</p>
 </div>
 <div class='topics'>
@@ -2636,10 +3118,7 @@ $
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tsequence
+tinfer
 </li>
 </ul>
 </div>
@@ -2744,209 +3223,6 @@ $18 \ \text {pence}$
 
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>170804EC-CA6F-4013-8E66-B33A787CAD95</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the next two items in each of these patterns:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$7,  \quad 11,  \quad 15,  \quad 19,
-\quad  \boxed { \phantom{19} },
-\quad  \boxed { \phantom{19} }
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }  \\
-7,  &&    11,  &&  15,  &&   19,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 19 + 4\\\\
-                               &= 23 \\\\
-\text {Second missing number}  &= 23 + 4\\\\
-                               &= 27
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23, \ 27$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$96, \quad  48, \quad  24, \quad  12,
-\quad  \boxed { \phantom{19} },
-\quad  \boxed { \phantom{19} }
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }  \\
-96,  &&    48,  &&  24,  &&   12,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 12 \div 2 \\\\
-                               &= 6 \\\\
-\text {Second missing number}  &= 6 \div 2 \\\\
-                               &= 3
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6, \ 3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2, \quad  4, \quad  7, \quad  11,
-\quad  \boxed { \phantom{19} },
-\quad  \boxed { \phantom{19} }
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The next term is calculated by adding $1$ more to difference between the previous sequence. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC {(+2)} }
-&&  \footnotesize {\maroonC {(+3)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+5)} }
-&&  \footnotesize {\maroonC {(+6)} }  \\
-2,  &&    4,  &&  7,  &&   11,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 11 + 5\\\\
-                               &= 16 \\\\
-\text {Second missing number}  &= 16 + 6\\\\
-                               &= 22
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16, \ 22$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -3180,245 +3456,10 @@ $\text {One-quarter}$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>59547E58-AC55-448A-91F5-598477A6799E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In England the money we use is pounds $(\pounds)$.
-
-In Europe the money they use is euros $(€)$.
-
-$\pounds 100$ (pounds) is worth the same as $€120$ (euros).
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many euros would be worth the same as $\pounds 500$ (pounds)?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\pounds 100             &= € 120 \\\\
-\pounds 100 \times 5    &= € 120 \times 5 \\\\
-\pounds 500             &= € 600
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$€ 600$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many pounds would be worth the same as $€300$ (euros)?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the above answer,
-
-$
-\begin {aligned}
-\pounds 500                 &= € 600 \\\\
-\pounds \dfrac {500} {2}    &= € \dfrac {600} {2} \\\\
-\pounds 250                 &= € 300
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 250$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Bruno has $\pounds 600$ (pounds). Marie has $€700$ (euros). Decide who has the most money. Explain how you decided.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's convert pounds into euros to compare them.
-
-As per the above answers,
-
-$
-\begin {aligned}
-\text {Bruno has}   &= \pounds 600 \\\\
-                    &= \pounds 500 + \pounds 100 \\\\
-                    &= € 600 + € 120 \\\\
-                    &= € 720
-\end {aligned}
-$
-
-Let's find who has the most money.
-
-$
-\begin {aligned}
-&= \text {Bruno} - \text {Marie} \\\\
-&= € 720 - € 700 \\\\
-&= € 20
-\end {aligned}
-$
-
-Bruno $\pounds 600$ > Marie $ € 700$
-
-Bruno has $€ 20$ more than Marie.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Bruno}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>6D028400-7588-4227-B770-FB7713EF5103</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Anna decides to share her pizza with two of her friends.
-She gives one friend a fifth of the pizza and the other friend three tenths of the pizza.
-What fraction of the pizza is left for Anna?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {1st friends share} - \text {2nd friends share} \\\\
-                                &= 1 - \dfrac {1} {5} - \dfrac {3} {10} \\\\
-                                &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {1 \times 2} {5 \times 2} - \dfrac {3} {10} \\\\
-                                &= \dfrac {10} {10} - \dfrac {2} {10} - \dfrac {3} {10} \\\\
-                                &= \dfrac {10 - 2 - 3} {10} \\\\
-                                &= \dfrac {5} {10} \\\\
-                                &= \dfrac {5} {5 \times 2} \\\\
-                                &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
-                                &= \dfrac {1} {2}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>1858C278-6BA1-4C5E-A7A4-D09F4BAF1636</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -4280,9 +4321,6 @@ $60 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -4831,9 +4869,6 @@ $8$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -5394,9 +5429,6 @@ $38 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -5757,9 +5789,6 @@ $820$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -6191,13 +6220,7 @@ $15$ coins of $10$p and $15$ coins of $50$p
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -6677,9 +6700,6 @@ $\pounds 7.95$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -7664,13 +7684,7 @@ $1120$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -8566,9 +8580,6 @@ $\pounds 1879.20$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -8977,9 +8988,6 @@ $0.909$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -10680,9 +10688,6 @@ $4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -11885,9 +11890,6 @@ $45.2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -12719,9 +12721,6 @@ $4$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -14572,9 +14571,6 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -15439,9 +15435,6 @@ $124.08$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -17313,9 +17306,6 @@ $\pounds 6.25$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -18219,9 +18209,6 @@ $\dfrac{3}{25}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -18569,9 +18556,6 @@ $51$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -20427,9 +20411,6 @@ $6, 10, 14$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -21197,9 +21178,6 @@ $740$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -21249,9 +21227,6 @@ $0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -21480,9 +21455,6 @@ $13 \text{p},23 \text{p},53 \text{p}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -22303,9 +22275,6 @@ $30$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -22996,9 +22965,6 @@ $56$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -23074,9 +23040,6 @@ $50$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -23273,9 +23236,6 @@ $2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -23349,9 +23309,6 @@ $6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -24321,13 +24278,10 @@ $50 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 <li>
-tunit
+tunitprompt
 </li>
 </ul>
 </div>
@@ -24808,9 +24762,6 @@ $36$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -25811,9 +25762,6 @@ $2 \times 3 \times 7 = 42$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -27011,9 +26959,6 @@ $36+64=100$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 <li>
@@ -27499,9 +27444,6 @@ $72$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -28820,10 +28762,7 @@ $18 \ \text {stickers}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-torder
+tnumber
 </li>
 </ul>
 </div>
@@ -29321,9 +29260,6 @@ $D$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 <li>
@@ -29517,9 +29453,6 @@ $\pounds 2.08$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -31282,9 +31215,6 @@ $0.09$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -31516,9 +31446,6 @@ $(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -31697,12 +31624,6 @@ $23$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 torder
 </li>
@@ -32265,9 +32186,6 @@ $5-2e$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -33816,9 +33734,6 @@ $64$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>

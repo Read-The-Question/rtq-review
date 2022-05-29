@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-red"
 title: "Topic - Noexplanation - Red"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -146,9 +146,6 @@ $9$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tclock
 </li>

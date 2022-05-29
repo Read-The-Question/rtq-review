@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2016-sample-paper-3"
 title: "Csse - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <div class='paper'>
 <h1>CSSE</h1>
@@ -20,9 +20,6 @@ date: 2022-05-29 06:26:52
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -229,9 +226,9 @@ The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+ 1 \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC {(+ 1 \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC {(+ 1 \dfrac {1} {6})} }  \\
+&   \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }  \\
 \dfrac {2} {3},  && \ldots,  &&   \ldots, &&  1 \dfrac {1} {6}
 \end{matrix}
 $

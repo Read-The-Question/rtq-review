@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nc-all"
 title: "Owner - Neel Chalke - All"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5389,9 +5389,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>

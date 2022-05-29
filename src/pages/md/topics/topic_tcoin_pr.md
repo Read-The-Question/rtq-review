@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-pr"
 title: "Topic - Coin - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -70,59 +70,6 @@ $\pounds 3.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>F96ADDDB-D1DA-4669-B9D8-6F1709C2D0E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tprobability
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**For question $\bold{39}$ to $\bold{43}$ make the most appropriate choice from this list to describe the chances.**
-
-impossible: $\quad$  very unlikely: $\quad$  unlikely: $\quad$  as likely as not: $\quad$  likely: $\quad$  very likely: $\quad$  certian
-
-When thrown a coin will show heads.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {likely}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {likely}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>662D8D5A-FC30-4723-82E2-9B0B4ED1FDE9</p>
@@ -165,67 +112,6 @@ $56 p , So 10*5 and 5*5 and 1*1$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>DC7231D7-DE01-44F0-83B3-D79030A58E4C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are a number of coins on a table. One quarter of the coins show heads.
-
-If I turn over two coins, then one third show heads. How many coins are there altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the total number of coins $= c$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac{c}{4} + 2        &= \dfrac{c}{3} \\\\
-2                       &= \dfrac{c}{3} - \dfrac{c}{4} \\\\
-2                       &= \dfrac{c \times 4}{3 \times 4} - \dfrac{c \times 3}{4 \times 3} \\\\
-2                       &= \dfrac{4c}{12} - \dfrac{3c}{12} \\\\
-2                       &= \dfrac{4c - 3c}{12} \\\\
-2                       &= \dfrac{c}{12} \\\\
-\dfrac{c}{12}           &= 2 \\\\
-c                       &= 2 \times 12 \\\\
-c                       &= 24 \ \text{coins}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24 \ \text{coins}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
 </div>
 </div>
 </li>

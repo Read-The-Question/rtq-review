@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-amber"
 title: "Owner - Eshudhi Jangid - Amber"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -779,16 +779,7 @@ $0$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
-<li>
 ttime
-</li>
-<li>
-tfactor
 </li>
 </ul>
 </div>

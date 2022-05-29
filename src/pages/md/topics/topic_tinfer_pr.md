@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-pr"
 title: "Topic - Infer - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,6 +57,67 @@ $\text{1. } 8 \text{ cm} \times 3 \text{ cm}, \text{2. } 4 \text{ cm} \times 6 \
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>C3A742AC-6B5D-47FB-8A76-E187A7C93BDE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Starting from $100$ we subtract $99$ then add $98$,
+then subtract $97$ and then add $96$ and we carry on in this way
+through all of the whole numbers from $100$ downwards until we reach the nuber $1$ (as shown below).
+
+Work out the final answer. (There is a quick way !).
+
+$100 - 99 + 98 - 97 + 96 - 95 + \ldots$ and so on $\ldots + 2 - 1$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+There are $100$ numbers in the series.
+
+These $100$ numbers can be paired, so that there are $50$ pairs.
+
+$(100 - 99) + (98 - 97) + (96 - 95) + \ldots$ and so on $\ldots + (2 - 1)$.
+
+The result of each pair is 1 and since there are 50 pairs. So,
+
+$
+\begin {aligned} 
+\text {Final answer}    &= 1 \times 50 \\\\
+                        &= 50
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1248,167 +1309,6 @@ $119$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>D9AB702D-8938-485D-92AD-A2B07C1AFB23</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg) 
-
-$3$ ![missing image](/papers/missing_image.svg) $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
-
-$3$ ![missing image](/papers/missing_image.svg)  $4$ = $3 + 4 + (3 \times 4) = 19$
-
-And similarly, $2$ ![missing image](/papers/missing_image.svg)  $6 = 2 + 6 + (2 \times 6) = 20$ 
-
-Find the values of
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5$ ![missing image](/papers/missing_image.svg)  $7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$5$ ![missing image](/papers/missing_image.svg)  $7$ = $5 + 7 + (5 \times 7) = 47$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$47$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0$ ![missing image](/papers/missing_image.svg)  $9$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$0$ ![missing image](/papers/missing_image.svg)  $9$ = $0 + 9 + (0 \times 9) = 9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If $χ$ ![missing image](/papers/missing_image.svg)  $2 + 23$ find the value of $χ$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-χ ![missing image](/papers/missing_image.svg)  2            &= 23 \\\\
-χ + 2 + (χ \times 2)    &= 23 \\\\
-χ + 2 + 2χ              &= 23 \\\\
-3χ + 2                  &= 23 \\\\
-3χ                      &= 23 - 2 \\\\
-3χ                      &= 21 \\\\
-χ                       &= \dfrac {21} {3} \\\\
-χ                       &= \dfrac {3 \times 7} {3} \\\\
-χ                       &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
-χ                       &= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$χ = 7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
 </div>
 </div>
 </li>

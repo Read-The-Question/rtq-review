@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-pr"
 title: "Topic - Unitprompt - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -397,230 +397,6 @@ $3.6 \ \text {m} ^ 2$
 </ul>
 <div class='papername'>
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A bottle contains $0.35 \ \text{litres}$, how many *ml* is this?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.35 \ \text {litres} \\\\
-&= 0.35 \times 1000 \ \text {ml} \\\\
-&= 350 \ \text {ml}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$350 \ \text {ml}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A picture is $540 \ \text{mm}$ tall, what is this measurement in *cm*?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 540 \ \text {mm} \\\\
-&= \dfrac {540} {10} \ \text {cm} \\\\
-&= 54 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$54 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in *kg*.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 1029 \ \text {g} \\\\
-&= \dfrac {1029} {1000} \ \text {kg} \\\\
-&= 1.029 \ \text {kg}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.029 \ \text {kg}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Add together $1 \ \text{mm}$, $0.1 \ \text{cm}$ and $0.1 \ \text{m}$. Give your answer in *cm*.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&=  1 \ \text {mm} + 0.1 \ \text {cm} + 0.1 \ \text {m} \\\\
-&=  \dfrac {1} {10} \ \text {cm} + 0.1 \ \text {cm} + 0.1 \times 100 \ \text {cm} \\\\
-&= 0.1 + 0.1 + 10 \\\\
-&= 10.2 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10.2 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The area of a postage stamp is calculated as:
-
-$2 \ \text{cm} \times 2.5 \ \text{cm} = 5 \ \text{cm}^2$
-
-What is the area of this stamo in $\text{mm}^2$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-2 \ \text{cm} \times 2.5 \ \text{cm}                        &= 5 \ \text{cm}^2 \\\\
-2 \times 10 \ \text{mm} \times 2.5 \times 10 \ \text{mm}    &= 5 \times 100 \ \text{mm}^2 \\\\\
-20 \ \text{mm} \times 25 \ \text{mm}                        &= 500 \ \text{mm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$500 \ \text{mm}^2$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
@@ -1070,6 +846,61 @@ One million millimetres
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Arrange these distances in size order, from smallest to largest.
+
+$250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m}$
+
+Let's convert them to same units
+
+$
+\begin{aligned}
+&= 250 \ \text {m} \quad  520 \ \text {m}    \quad 500 \ \text {m} \quad 2050 \ \text {m} \quad 502 \ \text {m} \\\\
+&= 250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m} \\\\
+&= 250 \ \text{m} \ < \quad 0.5 \ \text{km} \ < \quad 502 \ \text{m} \ < \quad 0.52 \ \text{km} \ < \quad 2.05 \ \text{km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.52 \ \text{km} \ , \quad 2.05 \ \text{km}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

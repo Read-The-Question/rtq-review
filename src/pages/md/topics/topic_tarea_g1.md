@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-g1"
 title: "Topic - Area - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3908,6 +3908,94 @@ $48 \ \text{cm}^2$
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
+<p>728683E0-0172-4C1B-B996-DE78A22F8120</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+St Hugh's School hall is in the shape of a large box or cuboid.  
+The area of the floor is $200 \ \text{m}^2$, the area of one of the 
+side walls is $150 \ \text{m}^2$ and the area of an end wall is $48 \ \text{m}^2$. 
+
+What is the height, in metres, of the hall?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the school hall (in m) $= l$
+
+Let the width of the school hall (in m) $= w$
+
+Let the height of the school hall (in m) $= h$
+
+$\text {Area} = \text {length} \times \text {width}$
+
+As per the question,
+
+$
+\begin{aligned}
+l \times w   &= 200 \\\\
+l \times h   &= 150 \\\\
+l            &= \dfrac {150} {h} \\\\
+w \times h   &= 48 \\\\
+w            &= \dfrac{48}{h}
+\end{aligned}
+$
+
+Substituting $l$ and $w$ in the first equation in terms of $h$, we get
+
+$
+\begin{aligned}
+l \times w                              &= 200 \\\\
+\dfrac {150} {h} \times \dfrac {48} {h} &= 200 \\\\
+\dfrac {150 \times 48} {h^2}            &= 200 \\\\
+\dfrac {150 \times 48} {200}            &= h^2 \\\\
+h^2                                     &= \dfrac {150 \times 48} {200} \\\\
+h^2                                     &= \dfrac {50 \times 3 \times 12 \times 4} {50 \times 4} \\\\
+h^2                                     &= \dfrac {\cancel{50} \times 3 \times 12 \times \cancel{4}} {\cancel{50} \times \cancel{4}} \\\\
+h^2                                     &= 3 \times 12 \\\\
+h^2                                     &= 36 \\\\
+h                                       &= \sqrt {36} \\\\
+h                                       &= 6 \ \text {m}
+\end{aligned}
+$
+
+Height of the school hall (in m) $= 6  \ \text {m}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text {m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
 <p>200C8D82-5237-4C70-B9AC-2480E77462EA</p>
 </div>
 <div class='topics'>
@@ -3968,6 +4056,147 @@ $150 \ \text {cm}^2$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>857C8851-DFFE-4176-BC5A-986FC02066A9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the total area of the shaded regions. *The diagram is not drawn accurately*.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of shaded regions}       &= \text{Area of left triangle} + \text{Area of right triangle} \\\\
+                                    &= \dfrac {1} {2} \times 8.3 \times 3.784 + \dfrac {1} {2} \times 8.3 \times 2.216 \\\\
+                                    &= \dfrac{1} {2} \times 8.3 \times (3.784 + 2.216) \\\\
+                                    &= \dfrac{1} {2} \times 8.3 \times 6 \\\\
+                                    &= \dfrac {8.3 \times 6} {2} \\\\
+                                    &= \dfrac {8.3 \times 3 \times 2} {2} \\\\
+                                    &= \dfrac {8.3 \times 3 \times \cancel{2}} {\cancel{2}} \\\\
+                                    &= 8.3 \times 3 \\\\
+                                    &= 24.9 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24.9 \ \text{cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>4C4D2D05-7411-4B91-B9C3-73F6D271E210</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The rectangle and triangle below have the same height.
+
+![missing image](/papers/missing_image.svg)
+
+If the perimeter of the rectangle (all 4 sides) is $32\,m$, what is the area of the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the other side of rectangle $= t \ \text{m}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Perimeter}        &= 2 \times (\text{length} + \text{width}) \\\\
+32                      &= 2 \times (7 + t) \\\\
+32                      &= 14 + 2t \\\\
+14 + 2t                 &= 32 \\\\
+2t                      &= 32 - 14 \\\\
+2t                      &= 18 \\\\
+t                       &= \dfrac{18} {2} \\\\
+t                       &= \dfrac{9 \times 2} {2} \\\\
+t                       &= \dfrac{9 \times \cancel{2}} {\cancel{2}} \\\\
+t                       &= 9 \ \text{m}
+\end{aligned}
+$
+
+Now the area of triangle,
+
+$
+\begin{aligned}
+\text{Area}             &= \dfrac{1} {2} \times \text{base} \times \text{height} \\\\
+                        &= \dfrac{1} {2} \times (17 - 9) \times 7 \\\\
+                        &= \dfrac{1} {2} \times 8 \times 7 \\\\
+                        &= \dfrac{8 \times 7} {2} \\\\
+                        &= \dfrac{2 \times 4 \times 7} {2} \\\\
+                        &= \dfrac{\cancel{2} \times 4 \times 7} {\cancel{2}} \\\\
+                        &= 4 \times 7 \\\\
+                        &= 28 \ \text{m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28 \ \text{m}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>

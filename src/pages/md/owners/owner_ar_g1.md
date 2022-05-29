@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ar-g1"
 title: "Owner - Aryan Rawat - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1140,13 +1140,7 @@ $2.4 \ \text {kg}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -3364,13 +3358,7 @@ $165$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-torder
 </li>
 </ul>
 </div>
@@ -3566,13 +3554,10 @@ $96$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 <li>
-tunit
+tunitprompt
 </li>
 </ul>
 </div>

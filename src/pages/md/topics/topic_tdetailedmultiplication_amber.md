@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-amber"
 title: "Topic - Detailedmultiplication - Amber"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -407,9 +407,9 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_amber question'>
+<div class='question_envelope rag_ac_amber question'>
 <div class='uuid'>
-<p>14BD9B7E-6097-4379-8BAA-20AE4B0DF59E</p>
+<p>E5F2C5B2-DCB1-433F-8448-979453D41F68</p>
 </div>
 <div class='topics'>
 <ul>
@@ -417,19 +417,21 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tdivision
-</li>
-<li>
 tdetailedmultiplication
-</li>
-<li>
-torder
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-%empty% 
+Look at these numbers and the multiplications:
+
+$
+\begin{aligned}
+49 &= 7 \times 7\\
+4489 &= 67 \times 67\\
+444889 &= 667 \times 667
+\end{aligned}
+$
 
 </div>
 <div class='workings'>
@@ -455,30 +457,24 @@ torder
 </div>
 <div class='question subquestion'>
 
-What is the remainder when $247$ is divided by $7$?
+Use the pattern to fill in the spaces below:
+
+$44448889 = \ldots \times \ldots$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$44448889 = 6667 \times 6667$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$44448889 = 6667 \times 6667$
 
 </div>
 </div>
@@ -493,28 +489,24 @@ TODOANSWER
 </div>
 <div class='question subquestion'>
 
-Work out $23 \times 438$. Show all your working.
+What will be the tenth number in the list?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{array}{cccccccccccccc}
-           &            &   4   &   3   &   8 \\
-           &   \times   &       &   2   &   3 \\
-\hline     &   1        &   3   &   1   &   4 \\
-           &   8        &   7   &   6   &   0 \\
-\hline 1   &   0        &   0   &   7   &   4 
-\end{array}
-$
+As per the question,
+
+The tenth number would contain ten $4s$, nine $8s$ and one $9$
+
+The tenth number would be $=44444444448888888889$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10074$
+ $44444444448888888889$
 
 </div>
 </div>
@@ -529,41 +521,24 @@ $10074$
 </div>
 <div class='question subquestion'>
 
-Put the following list of fractions in order, starting with the smallest:
-
-$\dfrac{5}{7}\:\:\:\dfrac{19}{28}\:\:\:\dfrac{27}{35}\:\:\:\dfrac{9}{14}$
+What will be the square root of this number?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let's make the denominator the same for all the numbers, so we can compare them.
+As per the question,
 
-LCM for $7, 28, 35, 14 = 140$
+$44444444448888888889 = 6666666667 \times 6666666667$
 
-$
-\begin{aligned}
-&= \dfrac {5} {7}, \quad \dfrac {19} {28}, \quad \dfrac {27} {35}, \quad \dfrac {9} {14} \\\\
-&= \dfrac {5 \times 20} {7 \times 20}, \quad \dfrac {19 \times 5} {28 \times 5}, \quad \dfrac {27 \times 4} {35 \times 4}, \quad \dfrac {9 \times 14} {14 \times 10} \\\\
-&= \dfrac {100} {140}, \quad \dfrac {95} {140}, \quad \dfrac {108} {140}, \quad \dfrac {126} {140}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {95} {140}, \quad \dfrac {100} {140}, \quad \dfrac {108} {140}, \quad \dfrac {126} {140} \\\\
-&= \dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9} {14}
-\end{aligned}
-$
+Hence the square root would be $= 6666666667$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9} {14}$
+$6666666667$
 
 </div>
 </div>
@@ -572,10 +547,10 @@ $\dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9
 </li>
 </ul>
 <div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_amber</p>
+<p>rag_ac_amber</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-amber"
 title: "Topic - Time - Amber"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -126,16 +126,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
-<li>
 ttime
-</li>
-<li>
-tfactor
 </li>
 </ul>
 </div>
@@ -273,6 +264,176 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_ej_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>D29FD65A-D00C-4231-B577-33E395594EC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A clock is $18 \ \text{minutes}$ slow, but is gaining $7 \dfrac{1}{2} \ \text{seconds}$ every hour. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How long will it take for the clock to show the correct time?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\text{Time taken to show correct time}  &= \dfrac{Time lag}{Time gain every hour} \\\\
+                                        &= \dfrac{18 \times 60} {7 \dfrac{1}{2}} \\\\
+                                        &= \dfrac{18 \times 60}{\dfrac{15}{2}} \\\\
+                                        &= \dfrac{18 \times 60 \times 2}{15} \\\\
+                                        &= \dfrac{18 \times 15 \times 4 \times 2}{15} \\\\
+                                        &= 18 \times 4 \times 2 \\\\
+\text{Time taken to show correct time}  &= 144 \ \text{hours}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$144 \ \text{hours}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Another clock is $30 \ \text{minutes}$ fast, but is losing $11 \dfrac{1}{4} \ \text{seconds}$ per hour.
+
+How many minutes fast will the second clock be when the first clock shows the right time?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\text{Time taken to show correct time}  &= \dfrac{Time fast}{Time loss every hour} \\\\
+                                        &= \dfrac{30 \times 60} {11 \dfrac{1}{4}} \\\\
+                                        &= \dfrac{30 \times 60}{\dfrac{45}{4}} \\\\
+                                        &= \dfrac{30 \times 60 \times 4}{45} \\\\
+                                        &= \dfrac{3 \times 10 \times 15 \times 4 \times 4}{3 \times 15} \\\\
+                                        &= \dfrac{\cancel{3} \times 10 \times \cancel{15} \times 4 \times 4}{\cancel{3} \times \cancel{15}} \\\\
+                                        &= 10 \times 4 \times 4 \\\\
+\text{Time taken to show correct time}  &= 160 \ \text{hours}
+$
+
+Time difference between first and second clock = $160 - 144 \ \text{hours}$
+                                               = $16 \ \text{hours}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \ \text{hours}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>F7E38796-7CE2-4B74-B0B7-1F485FC1C56E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+My journey to school takes $47 \ \text{minutes}$. If I set off at $07{:}32$ what time will I arrive at school?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{The time I arrive school}         &= 07{:}32 + 47 \ \text{minutes} \\\\
+\text{The time I arrive school}         &= 8 {:}19
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 {:}19$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
 </div>
 </div>
 </li>

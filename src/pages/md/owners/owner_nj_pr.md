@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-pr"
 title: "Owner - Nitin Joshi - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -371,8 +371,9 @@ $
        &    3   &                             9   &   0 \\
 1      &    3   &                             0   &   0 \\
 \hline
-1      &    7   &                             0   &   3 \\
+1      &    7   &                             0   &   3
 \end{array}
+$
 
 </div>
 </div>
@@ -430,9 +431,6 @@ $5$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -639,9 +637,9 @@ The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+ 1 \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC {(+ 1 \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC {(+ 1 \dfrac {1} {6})} }  \\
+&   \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }  \\
 \dfrac {2} {3},  && \ldots,  &&   \ldots, &&  1 \dfrac {1} {6}
 \end{matrix}
 $
@@ -1063,501 +1061,6 @@ $3.6 \ \text {m} ^ 2$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>E0E9D923-E176-4223-B0A1-C3789A643CE8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-John is repeating a two-step calcualtion, using a 'number machine' to multiply by $7$ and then subtract $3$.
-
-His number machine work like this:
-
-INPUT %symbol% [$\times 7$] %symbol% [-3] %symbol% OUTPUT
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the OUTPUT if John uses $12$ as his INPUT?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {OUTPUT}  &= (12 \times 7) - 3 \\\\
-                &= 84 - 3 \\\\
-                &= 81
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$81$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-John obtains an OUTPUT of $39$. What was his INPUT?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let input $= a$
-
-As per the question,
-
-$
-\begin {aligned}
-(a \times 7) - 3    &= 39 \\\\
-7a                  &= 39 + 3 \\\\
-a                   &= \dfrac {42} {7} \\\\
-a                   &= \dfrac {6 \times 7} {7} \\\\
-a                   &= \dfrac {6 \times \cancel {7}} {\cancel {7}} \\\\
-a                   &= 6
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Casey is using a different 'multiply then add' number machine. When she inputs $3$, the output is $26$. When the input is $5$, 
-the output is $36$.
-
-$3$ %symbol% [$\times {?}$] %symbol% [$+ {?}$] %symbol% $26$
-$5$ %symbol% [$\times {?}$] %symbol% [$+ {?}$] %symbol% $36$
-
-Fill in the unknown values for Casey's number machines, so you obtain the same input and output values as she did.
-
-INPUT %symbol% [$\times \ldots$] %symbol% [$+ \ldots$] %symbol% OUTPUT
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Lets's solve it for first equation.
-
-$
-\begin {aligned}
-&= (3 \times 5) + 11 \\\\
-&= 15 + 11 \\\\
-&= 26
-\end {aligned}
-$
-
-Lets's solve it for second equation.
-
-$
-\begin {aligned}
-&= (5 \times 5) + 11 \\\\
-&= 25 + 11 \\\\
-&= 36
-\end {aligned}
-$
-
-The OUTPUT is obtained by multiplying the input by $5$ and then adding the result by $11$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {INPUT} \times 5 + 11 = \text {OUTPUT}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What OUTPUT will Caseys obtain, when the INPUT is $4$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {OUTPUT}  &= (4 \times 5) + 11 \\\\
-                &= 20 + 11 \\\\
-                &= 31
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$31$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A bottle contains $0.35 \ \text{litres}$, how many *ml* is this?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.35 \ \text {litres} \\\\
-&= 0.35 \times 1000 \ \text {ml} \\\\
-&= 350 \ \text {ml}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$350 \ \text {ml}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A picture is $540 \ \text{mm}$ tall, what is this measurement in *cm*?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 540 \ \text {mm} \\\\
-&= \dfrac {540} {10} \ \text {cm} \\\\
-&= 54 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$54 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in *kg*.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 1029 \ \text {g} \\\\
-&= \dfrac {1029} {1000} \ \text {kg} \\\\
-&= 1.029 \ \text {kg}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.029 \ \text {kg}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Add together $1 \ \text{mm}$, $0.1 \ \text{cm}$ and $0.1 \ \text{m}$. Give your answer in *cm*.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&=  1 \ \text {mm} + 0.1 \ \text {cm} + 0.1 \ \text {m} \\\\
-&=  \dfrac {1} {10} \ \text {cm} + 0.1 \ \text {cm} + 0.1 \times 100 \ \text {cm} \\\\
-&= 0.1 + 0.1 + 10 \\\\
-&= 10.2 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10.2 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The area of a postage stamp is calculated as:
-
-$2 \ \text{cm} \times 2.5 \ \text{cm} = 5 \ \text{cm}^2$
-
-What is the area of this stamo in $\text{mm}^2$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-2 \ \text{cm} \times 2.5 \ \text{cm}                        &= 5 \ \text{cm}^2 \\\\
-2 \times 10 \ \text{mm} \times 2.5 \times 10 \ \text{mm}    &= 5 \times 100 \ \text{mm}^2 \\\\\
-20 \ \text{mm} \times 25 \ \text{mm}                        &= 500 \ \text{mm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$500 \ \text{mm}^2$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>20FCDF7C-160A-422B-8553-7B721DA71113</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two square numbers have a difference of $33$. Identify the two missing whole numbers that complete this calculation.
-
-$A^2 - B^2 = 33$
-
-Fill in the two empty boxes to show your answer:
-
-$\boxed{\phantom{1}} \ ^2 - \boxed{\phantom{1}} \ ^2 = 33$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\maroonC {7 ^ 2} - \maroonC {4 ^ 2} = 33$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7 ^2 , 4 ^ 2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>6053AC7E-A234-4868-BF46-DDF058218EC1</p>
 </div>
 <div class='topics'>
@@ -1648,55 +1151,6 @@ $
 <div class='answer'>
 
 $760 \ \text{g}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>2EF6FBC9-C042-42F3-9C0F-7BBB8E6DF8E8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**For question $\bold{17}$ and $\bold{18}$ use this information.**
-
-In my pencil case there are six pencils and two pens.
-
-If I take out one item and want it to be a pen which of these words best describes my chances?
-
-certain: $\quad$  fairly likely: $\quad$  evens: $\quad$  fairly unlikely: $\quad$  impossible
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Fairly unlikely}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Fairly unlikely}$
 
 </div>
 </div>
@@ -1957,240 +1411,6 @@ Obtuse angle
 <div class='answer'>
 
 Obtuse angle
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>F96ADDDB-D1DA-4669-B9D8-6F1709C2D0E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tprobability
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**For question $\bold{39}$ to $\bold{43}$ make the most appropriate choice from this list to describe the chances.**
-
-impossible: $\quad$  very unlikely: $\quad$  unlikely: $\quad$  as likely as not: $\quad$  likely: $\quad$  very likely: $\quad$  certian
-
-When thrown a coin will show heads.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {likely}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {likely}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tprobability
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A bicycle will have two wheels.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Certain}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Certain}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>A47DB4E1-F2E1-4223-910E-E35218E5B40F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tprobability
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A boy selected at random from Year $7$ will have red hair.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {unlikely}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {unlikely}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>97658705-5BFD-43C2-8EC0-F96EA2170CC7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tprobability
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-An ordinary dice will show a number below ten.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Certain}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Certain}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>22C2F81E-348A-4147-8F66-92DD1DE389E0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A card selected from a normal pack of playing cards will not be black or red.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Impossible}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Impossible}$
 
 </div>
 </div>
@@ -3126,7 +2346,7 @@ Total cards with D left after one card is removed $2 - 1 = 1$
 $
 \begin{aligned} 
 \text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {2} {1 + 2 + 4 + 4 + 3 + 1} \\\\
+                    &= \dfrac {3} {1 + 2 + 4 + 4 + 3 + 1} \\\\
                     &= \dfrac {3} {15} \\\\
                     &= \dfrac {3} {5 \times 3} \\\\
                     &= \dfrac {\cancel {3}} {5 \times \cancel {3}} \\\\
@@ -3202,9 +2422,6 @@ $0.7$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -5827,6 +5044,9 @@ tunassigned
 <li>
 tnumber
 </li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
@@ -6008,127 +5228,6 @@ $608$
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>6F2BA21C-2151-444A-9222-DD2992551BD5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The thermometers below show the temperatures, in $\degree \text{C}$, inside a fridge and a freezer.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many degrees warmer is it in the fridge than in the freezer?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Difference in  temperature}  &= 4 - (- 14) \degree \ \text {C} \\\\
-                                    &= 4 + 14 \\\\
-                                    &= 18 \degree \ \text {C}
-\end{aligned}
-$
-
-The fridge is $18 \degree \ \text {C}$ warmer than the freezer.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18 \degree \ \text {C}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The temperature in the freezer should be $3 \ \text{degrees}$ colder.
-
-What temperature should it be in the freezer?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Temperature in the freezer should be}  &= - 14 - 3 \degree \ \text {C} \\\\
-                                              &= - 17 \degree \ \text {C}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$- 17 \degree \ \text {C}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
@@ -6539,117 +5638,6 @@ $16$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>A059DFAC-EFF9-490C-BCDE-84BFC6682204</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which number is $100$ times larger than $0.405$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.405 \times 100 \\\\
-&= 40.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40.5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which number is $1000$ times smaller than $700$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 700 \div 1000 \\\\
-&= \dfrac {700} {1000} \\\\
-&= 0.700
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.700$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
 </div>
 <div class='topics'>
@@ -6682,7 +5670,7 @@ Let's convert all the numbers to decimal.
 $
 \begin {aligned}
 &= \dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
-&= 0.2, \quad 0.42, \quad 0.55, \quad \dfrac 0.63
+&= 0.2, \quad 0.42, \quad 0.55, \quad 0.63
 \end {aligned}
 $
 
@@ -6698,113 +5686,6 @@ $\dfrac {5} {9}$
 </div>
 </div>
 
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>561C1929-9A99-4876-A2E2-A4306B5D15FF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Wombley Arena can seat $7490 supporters when full.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write this number to the nearest thousand.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$7000$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7000$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Bale Arena can seat $630$ more supporters than Wombley Arena.
-
-How many supporters can both arenas seat altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Total supporters that can seat altogether}   &= 7490 + 630 + 7490 \\\\
-                                                    &= 15610
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15610$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
@@ -6966,7 +5847,7 @@ How much is each monthly amount?
 
 $
 \begin{aligned}
-\text {Each monthly amount}     &= \dfrac {\text {total amount} - \text {initial payment}} {6} \\\\
+\text {Each monthly amount}     &= \dfrac {\text {Total amount} - \text {Initial payment}} {6} \\\\
                                 &= \dfrac {572.50 - 136} {6} \\\\
                                 &= \dfrac {436.5} {6} \\\\
                                 &= \pounds 72.75
@@ -7112,10 +5993,10 @@ $2.75 \ \text {oz}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+ttime
 </li>
 <li>
-tclock
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -7154,76 +6035,6 @@ $10{:}40$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>C59005D5-EA4A-432B-99E9-DF224B680D47</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the diagrams below, the perimeter of the square is equal to the perimeter of the isosceles triangle.
-
-Work out the length of the side marked $d$.
-
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Perimeter of the square}     &= 4 \times \text {Sides} \\\\
-                                    &= 4 \times 9 \\\\
-                                    &= 36 \ \text {cm}
-\end {aligned}
-$
-
-We know that two sides of the isosceles triangle are equal. Using that we get,
-
-$
-\begin {aligned}
-\text {Perimeter of the triangle}   &= d + d + 20 \\\\
-36                                  &= 2d + 20 \\\\
-2d + 20                             &= 36 \\\\
-2d                                  &= 36 - 20 \\\\
-2d                                  &= 16 \\\\
-d                                   &= \dfrac {16} {2} \\\\
-d                                   &= \dfrac {8 \times 2} {2} \\\\
-d                                   &= \dfrac {8 \times \cancel {2}} {\cancel {2}} \\\\
-d                                   &= 8 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 \ \text {cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>0EA6356F-FEB5-46B4-85FF-77EC923BBA69</p>
 </div>
 <div class='topics'>
@@ -7233,6 +6044,9 @@ tunassigned
 </li>
 <li>
 tnoexplanation
+</li>
+<li>
+tgeometry
 </li>
 </ul>
 </div>
@@ -7271,208 +6085,10 @@ $29$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Nicole likes palindromic numbers.
-
-Palindromic numbers read the same backwards as forwards, for example:
-
-$44 \quad 323 \quad 1221 \quad 1234321$ and so on
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$11, 22, 33, 44, 55$ are all palindromic.
-
-What is the smallest multiple of $11$ that is not palindromic?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$110$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$110$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the smallest number larger than $1000$ that is palindromic?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1001$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1001$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which two palindromic numbers less than $1000$ have a difference of only $2$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$11 - 9 = 2$
-
-$11$ and $9$ are two palindromic numbers that have a difference of only $2$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11, 9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-
-The palindromic number $131$ has a digit sum of $5$ (since $1 + 3 + 1 = 5)$
-
-What is the only other palindromic number less than 1000 which has a digit sum of $5$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$212$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$212$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-List all of the palindromic numbers between $1000$ and a million which have a digit sum of $5$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10201, 11111$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10201, 11111$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>D051087C-D302-45A1-8E7F-00AC09D3B57D</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -8082,12 +6698,6 @@ $14$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tclock
-</li>
 <li>
 ttime
 </li>

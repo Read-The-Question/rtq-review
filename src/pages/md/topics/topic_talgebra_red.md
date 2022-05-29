@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-red"
 title: "Topic - Algebra - Red"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1950,6 +1950,167 @@ $640 \text { mm}$
 <li>
 <div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
+<p>D9AB702D-8938-485D-92AD-A2B07C1AFB23</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+talgebra
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg) 
+
+$3$ ![missing image](/papers/missing_image.svg) $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
+
+$3$ ![missing image](/papers/missing_image.svg)  $4$ = $3 + 4 + (3 \times 4) = 19$
+
+And similarly, $2$ ![missing image](/papers/missing_image.svg)  $6 = 2 + 6 + (2 \times 6) = 20$ 
+
+Find the values of
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5$ ![missing image](/papers/missing_image.svg)  $7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$5$ ![missing image](/papers/missing_image.svg)  $7$ = $5 + 7 + (5 \times 7) = 47$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0$ ![missing image](/papers/missing_image.svg)  $9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$0$ ![missing image](/papers/missing_image.svg)  $9$ = $0 + 9 + (0 \times 9) = 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $χ$ ![missing image](/papers/missing_image.svg)  $2 + 23$ find the value of $χ$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+χ ![missing image](/papers/missing_image.svg)  2            &= 23 \\\\
+χ + 2 + (χ \times 2)    &= 23 \\\\
+χ + 2 + 2χ              &= 23 \\\\
+3χ + 2                  &= 23 \\\\
+3χ                      &= 23 - 2 \\\\
+3χ                      &= 21 \\\\
+χ                       &= \dfrac {21} {3} \\\\
+χ                       &= \dfrac {3 \times 7} {3} \\\\
+χ                       &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
+χ                       &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$χ = 7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ac_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_red question'>
+<div class='uuid'>
 <p>17360B83-7524-4915-9C57-EA134B592244</p>
 </div>
 <div class='topics'>
@@ -2076,6 +2237,164 @@ $15 \text{rounds}$
 
 <div class='papername'>
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_red question'>
+<div class='uuid'>
+<p>ED17A3F3-CADC-4CD5-8751-EDF6ACD97079</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A minibus can carry a maximum of $17$ people.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many minibuses are required to take a total of $300$ people on a trip?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios.
+
+$
+\begin{aligned}
+17 \text{people} : 1 \text{minibus} \\\\
+17 \times 17 \text{people} : 1 \times 17 \text{minibuses} \\\\
+289 \text{people} : 17 \text{minibuses} \\\\
+\end{aligned}
+$
+
+Buses required to carry $300$ people = $17 + 1 = 18$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many empty seats will there be in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Empty seats = Total number of seats - Total number of people
+$
+\begin{aligned}
+&= 18 \times 17 - 300 \\\\
+&= 306 - 300 \\\\
+&= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A minibus costs $$\pounds 80$ to hire for the day. Tickets for the theme park cost $$\pounds 15$ each. Write a formula for the total cost $‘C’$ of hiring $‘m’$ minibuses and purchasing $‘t’$ tickets.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Cost per $1$ minibus = $\pounds 80$
+
+Cost per 'm' minibuses = $\pounds 80 \times m = 80m$
+
+Cost per $1$ ticket = $\pounds 15$
+
+Cost per 't' tickets = $\pounds 15 \times t = 15t$
+
+Total cost C = $80m + 15t$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80m + 15t$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ac_red</p>

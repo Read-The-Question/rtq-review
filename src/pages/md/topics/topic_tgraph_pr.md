@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-pr"
 title: "Topic - Graph - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -43,7 +43,7 @@ Total cards with D left after one card is removed $2 - 1 = 1$
 $
 \begin{aligned} 
 \text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {2} {1 + 2 + 4 + 4 + 3 + 1} \\\\
+                    &= \dfrac {3} {1 + 2 + 4 + 4 + 3 + 1} \\\\
                     &= \dfrac {3} {15} \\\\
                     &= \dfrac {3} {5 \times 3} \\\\
                     &= \dfrac {\cancel {3}} {5 \times \cancel {3}} \\\\

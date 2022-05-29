@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-g1"
 title: "Topic - Unitprompt - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -170,6 +170,341 @@ $25100 \ \text{mm}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunit
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A bottle contains $0.35 \ \text{litres}$, how many *ml* is this?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.35 \ \text {litres} \\\\
+&= 0.35 \times 1000 \ \text {ml} \\\\
+&= 350 \ \text {ml}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$350 \ \text {ml}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A picture is $540 \ \text{mm}$ tall, what is this measurement in *cm*?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 540 \ \text {mm} \\\\
+&= \dfrac {540} {10} \ \text {cm} \\\\
+&= 54 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in *kg*.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 1029 \ \text {g} \\\\
+&= \dfrac {1029} {1000} \ \text {kg} \\\\
+&= 1.029 \ \text {kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.029 \ \text {kg}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Add together $1 \ \text{mm}$, $0.1 \ \text{cm}$ and $0.1 \ \text{m}$. Give your answer in *cm*.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  1 \ \text {mm} + 0.1 \ \text {cm} + 0.1 \ \text {m} \\\\
+&=  \dfrac {1} {10} \ \text {cm} + 0.1 \ \text {cm} + 0.1 \times 100 \ \text {cm} \\\\
+&= 0.1 + 0.1 + 10 \\\\
+&= 10.2 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10.2 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The area of a postage stamp is calculated as:
+
+$2 \ \text{cm} \times 2.5 \ \text{cm} = 5 \ \text{cm}^2$
+
+What is the area of this stamo in $\text{mm}^2$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+2 \ \text{cm} \times 2.5 \ \text{cm}                        &= 5 \ \text{cm}^2 \\\\
+2 \times 10 \ \text{mm} \times 2.5 \times 10 \ \text{mm}    &= 5 \times 100 \ \text{mm}^2 \\\\\
+20 \ \text{mm} \times 25 \ \text{mm}                        &= 500 \ \text{mm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$500 \ \text{mm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>30340F22-4D0A-4688-AA2E-85B3E019B213</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these lengths is longest?
+
+$42 \ \text{cm} \quad 0.4 \ \text{m} \quad 147 \ \text{mm} \quad 0.351 \ \text{m} \quad 33  \ \text{cm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, let's convert all the units to $\text {cm}$. 
+
+$
+\begin{aligned}
+&= 42 \ \text{cm}, \quad 0.4 \ \text{m}, \quad 147 \ \text{mm}, \quad 0.351 \ \text{m}, \quad 33  \ \text{cm} \\\\
+&= 42 \ \text{cm}, \quad 0.4 \times 100 \ \text{cm}, \quad \dfrac {147} {10} \ \text{cm}, \quad 0.351 \times 100 \ \text{cm}, \quad 33  \ \text{cm} \\\\
+&= 42 \ \text{cm}, \quad 40 \ \text{cm}, \quad 14.7 \ \text{cm}, \quad 35.1 \ \text{cm}, \quad 33  \ \text{cm}
+\end{aligned}
+$
+
+The longest length $= 42 \ \text{cm}$.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>0D8E4B4B-CC0A-464D-B985-985AC893C475</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these lengths is longest?
+
+$42\ \text{cm} \quad 0.4\ \text{m} \quad  147\ \text{mm} \quad 0.351\ \text{m} \quad 33 \ \text{cm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, let's convert all the units to $\text{cm}$. 
+
+$
+\begin{aligned}
+&= 42 \ \text{cm}, \quad 0.4 \ \text{m}, \quad 147 \ \text{mm}, \quad 0.351 \ \text{m}, \quad 33  \ \text{cm} \\\\
+&= 42 \ \text{cm}, \quad 0.4 \times 100 \ \text{cm}, \quad \dfrac {147} {10} \ \text{cm}, \quad 0.351 \times 100 \ \text{cm}, \quad 33  \ \text{cm} \\\\
+&= 42 \ \text{cm}, \quad 40 \ \text{cm}, \quad 14.7 \ \text{cm}, \quad 35.1 \ \text{cm}, \quad 33  \ \text{cm}
+\end{aligned}
+$
+
+The longest length $= 42 \ \text{cm}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>AA0A40BF-651B-45E6-A04A-E3ECF12E2B2D</p>
 </div>
 <div class='topics'>
@@ -215,6 +550,61 @@ $941  \ \text{minutes}$
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>F1714A09-DE83-40BB-B858-8620CDD58B7E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these lengths is longest?
+
+$157\ \text{mm} \quad 52\ \text{cm} \quad 0.451\ \text{m} \quad 43\ \text{cm} \quad 0.5 \ \text{m}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, let's can convert all the units to $\text {cm}$. 
+
+$
+\begin{aligned}
+&= 157 \ \text{mm}, \quad 52 \ \text{cm}, \quad 0.451 \ \text{m}, \quad 43 \ \text{cm}, \quad 0.5  \ \text{m} \\\\
+&= \dfrac {157} {10} \ \text{cm}, \quad 52 \ \text{cm}, \quad 0.451 \times 100 \ \text{cm}, \quad 43 \ \text{cm}, \quad 0.5 \times 100 \ \text{cm} \\\\
+&= 15.7 \ \text{cm}, \quad 52 \ \text{cm}, \quad 45.1 \ \text{cm}, \quad 43 \ \text{cm}, \quad 50  \ \text{cm}
+\end{aligned}
+$
+
+The longest length $= 52 \ \text{cm}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -1811,6 +2201,70 @@ $\pounds 51.9$
 </ul>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>5FFD2F9B-A581-4E18-9166-D2D7F6120C86</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put these distances in order from smallest to largest.
+
+$27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \text{km}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+To compare, let's convert all the units to $\text {km}$. 
+
+$
+\begin{aligned}
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2778 \ \text {m}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad \dfrac {2778} {1000} \ \text {km}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km} \\\\
+\end{aligned}
+$
+
+Let's put them from smallest to largest.
+
+$
+\begin{aligned}
+&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2.778 \ \text {km}, \quad 27.8 \ \text {km} \\\\
+&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.8 \ \text {km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.8 \ \text {km}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g1</p>

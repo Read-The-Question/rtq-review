@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircle-pr"
 title: "Topic - Circle - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -73,9 +73,6 @@ $\text {One-quarter}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -156,7 +153,7 @@ Let's convert all the numbers to decimal.
 $
 \begin {aligned}
 &= \dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
-&= 0.2, \quad 0.42, \quad 0.55, \quad \dfrac 0.63
+&= 0.2, \quad 0.42, \quad 0.55, \quad 0.63
 \end {aligned}
 $
 

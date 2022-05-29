@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-1"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <div class='paper'>
 <h1>CSSE</h1>
@@ -717,8 +717,9 @@ $
        &    3   &                             9   &   0 \\
 1      &    3   &                             0   &   0 \\
 \hline
-1      &    7   &                             0   &   3 \\
+1      &    7   &                             0   &   3
 \end{array}
+$
 
 </div>
 </div>
@@ -1378,16 +1379,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
 torder
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -2080,9 +2072,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -2768,12 +2757,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 tinfer
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdraw-red"
 title: "Topic - Draw - Red"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -226,10 +226,7 @@ $\text {North}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tclock
+ttime
 </li>
 <li>
 tdraw

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-up-oldpr"
 title: "Owner - Uday Pandey - Old PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -862,10 +862,7 @@ $60$ cupcakes
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tsequence
+torder
 </li>
 </ul>
 </div>
@@ -1059,10 +1056,7 @@ $1000$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tsequence
+torder
 </li>
 </ul>
 </div>

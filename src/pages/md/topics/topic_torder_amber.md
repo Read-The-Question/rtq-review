@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-amber"
 title: "Topic - Order - Amber"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-05-29 06:26:52
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -86,15 +83,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-<li>
-tdetailedmultiplication
-</li>
 <li>
 torder
 </li>
@@ -249,6 +237,57 @@ $\dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9
 </div>
 <div class='rag'>
 <p>rag_ad_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>F1D3EF6F-4DF1-41E9-B849-6C6DCF4ABEC0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Order these from smallest to largest: 
+
+$1.23 \quad 1.023 \quad 1.203 \quad 1.032 \quad 1.2 \quad 1.32 \quad 1.302$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages.
+
+In this case, all are in decimals. Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 1.23 \quad 1.023 \quad 1.203 \quad 1.032 \quad 1.2 \quad 1.32 \quad 1.302 \\\\
+&= 1.023, \quad 1.032, \quad 1.2, \quad 1.203, \quad 1.23, \quad 1.302, \quad 1.32
+\end[aligned]
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.023, \quad 1.032, \quad 1.2, \quad 1.203, \quad 1.23, \quad 1.302, \quad 1.32$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
 </div>
 </div>
 </li>

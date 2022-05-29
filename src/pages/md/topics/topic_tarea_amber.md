@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-amber"
 title: "Topic - Area - Amber"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -588,6 +588,141 @@ $144 \text {cm}^2$
 </div>
 <div class='rag'>
 <p>rag_ej_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>EFC35732-7F0C-4816-85A6-D476D88749D2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the missing length.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$\text{Area} = \text{length} \times \text{width}$
+
+$
+\begin{aligned}
+length of $20 \ \text{cm}^2 rectangle       &= \dfrac{20}{4} \\\\
+                                            &= \dfrac{5 \times 4}{4} \\\\
+                                            &= \dfrac{5 \times \cancel{4}}{\cancel{4}} \\\\
+                                            &= 5 \ \text{cm} \\\\
+length of $20 \ \text{cm}^2 rectangle       &= \dfrac{14}{5} \ \text{cm} \\\\
+Missing length                              &= \dfrac{78}{5 + \dfrac{14}{5}} \\\\
+                                            &= \dfrac{78}{\dfrac{5 \times 5}{5} + \dfrac{14}{5}} \\\\
+                                            &= \dfrac{78}{\dfrac{25}{5} + \dfrac{14}{5}} \\\\
+                                            &= \dfrac{78}{\dfrac{25 + 14}{5}} \\\\
+                                            &= \dfrac{78}{\dfrac{39}{5}} \\\\
+                                            &= \dfrac{78 \times 5}{39} \\\\
+                                            &= \dfrac{39 \times 2 \times 5}{39} \\\\
+                                            &= \dfrac{\cancel{39} \times 2 \times 5}{\cancel{39}} \\\\
+                                            &= 2 \times 5 \\\\
+                                            &= 10 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>A1314092-099E-4672-A643-BEABE665C8AB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A carpet measuring $4 \ \text{m}$ by $3 \ \text{m}$ covers $60\%$ of the floor area in a rectangular room.
+
+What is the width of the room if the length is $5 \ \text{m}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Area of the carpet  $= \text{length of carpet} \times \text{width of carpet}$
+                    $= 4 \times 3 = 12 \ \text{m}^2$
+
+Let the width of the room $= w \ \text{m}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of carpet}       &= 60\% \ \text{of Area of the room} \\\\
+12                          &= \dfrac{60}{100} \times (\text{length of room} \times \text{width of the room}) \\\\
+12                          &= \dfrac{60}{100} \times (5 \times w) \\\\
+12                          &= \dfrac{60 \times 5 \times w}{100} \\\\\
+12                          &= \dfrac{20 \times 3 \times 5 \times w}{20 \times 5} \\\\\
+12                          &= \dfrac{\cancel{20} \times 3 \times \cancel{5} \times w}{\cancel{20} \times \cancel{5}} \\\\\
+12                          &= 3 \times w \\\\
+3 \times w                  &= 12 \\\\
+w                           &= \dfrac{12}{3} \\\\
+w                           &= \dfrac{4 \times 3}{3} \\\\
+w                           &= \dfrac{4 \times \cancel{3}}{\cancel{3}} \\\\
+w                           &= 4 \ \text{m} \\\\
+\text{Width of carpet}      &= 4 \ \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
 </div>
 </div>
 </li>

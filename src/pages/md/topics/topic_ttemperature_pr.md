@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-pr"
 title: "Topic - Temperature - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -315,9 +315,6 @@ $- 18 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -865,127 +862,6 @@ $- 5 \degree \ \text {C}$
 <li>
 <div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>6F2BA21C-2151-444A-9222-DD2992551BD5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The thermometers below show the temperatures, in $\degree \text{C}$, inside a fridge and a freezer.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many degrees warmer is it in the fridge than in the freezer?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Difference in  temperature}  &= 4 - (- 14) \degree \ \text {C} \\\\
-                                    &= 4 + 14 \\\\
-                                    &= 18 \degree \ \text {C}
-\end{aligned}
-$
-
-The fridge is $18 \degree \ \text {C}$ warmer than the freezer.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18 \degree \ \text {C}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The temperature in the freezer should be $3 \ \text{degrees}$ colder.
-
-What temperature should it be in the freezer?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Temperature in the freezer should be}  &= - 14 - 3 \degree \ \text {C} \\\\
-                                              &= - 17 \degree \ \text {C}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$- 17 \degree \ \text {C}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>91EAC938-64F8-4348-83F9-074560E4256F</p>
 </div>
 <div class='topics'>
@@ -1259,51 +1135,6 @@ $-6 \degree C$
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>54012999-742D-48BD-A138-DB7E6775B4C3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttemperature
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day the temperature was $3$ degrees lower. What was the temperature on New Year’s day?
- 
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Temperature on New Year’s day $= -5 - 3 = -8 \degree \text {C}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-8 \degree \text {C}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
 </div>
 </div>
 </li>

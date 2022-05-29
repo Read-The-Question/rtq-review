@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-pr"
 title: "Owner - Abhay Kandpal - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -655,9 +655,6 @@ $400$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
 </li>
 </ul>
@@ -772,347 +769,6 @@ $24 \ \text{cm}$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>89F00B0D-2774-43B2-B069-D08574377959</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the next two numbers in each of these sequences:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3, \quad 5, \quad 7, \quad 9, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}  \\
-3,  &&  5,  &&  7,  &&  9,  &&  \ldots, &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}   &= 9 + 2 \\\\
-                               &= 11 \\\\
-\text {Second missing number}  &= 11 + 2 \\\\
-                               &= 13
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11, 13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5.1, \quad 6.3, \quad 7.5, \quad 8.7, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $1.2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}  \\
-5.1,    &&  6.3,    &&  7.5,    &&  8.7,    &&  \ldots, &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}   &= 8.7 + 1.2 \\\\
-                               &= 9.9 \\\\
-\text {Second missing number}  &= 9.9 + 1.2 \\\\
-                               &= 11.1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9.9, 11.1$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1, \quad 3, \quad 9, \quad 27, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}  \\
-1,  &&  3,  &&  9,  &&  27, &&  \ldots, &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}   &= 27 \times 3 \\\\
-                               &= 81 \\\\
-\text {Second missing number}  &= 81 \times 3 \\\\
-                               &= 243
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$81, 243$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0.3, \quad 0.6, \quad 1.2, \quad 2.4, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}  \\
-0.3,    &&  0.6,    &&  1.2,    &&  2.4,    &&  \ldots,  &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}   &= 2.4 \times 2 \\\\
-                               &= 4.8 \\\\
-\text {Second missing number}  &= 4.8 \times 2 \\\\
-                               &= 9.6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4.8, 9.6$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$15, \quad 11, \quad 7, \quad 3, \quad \ldots, \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}  \\
-15, &&  11, &&  7,  &&  3,  &&  \ldots,  && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {First missing number}   &= 3 - 4 \\\\
-                               &= -1 \\\\
-\text {Second missing number}  &= -1 - 4 \\\\
-                               &= -5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-1, -5$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Amelia earns $\pounds 330$ but has to pay rent of $\pounds X$.
-Write an expression for how much money she has left after paying the rent.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Money left} = \pounds (330 - X)$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Money left} = \pounds (330 - X)$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>454E0C83-23ED-4839-B389-520CDF891C9D</p>
 </div>
 <div class='topics'>
@@ -1154,60 +810,6 @@ $
 <div class='answer'>
 
 $18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>60A40A72-24E4-471F-A028-152B28477469</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Chigwell School buys a badge for each student who plays for one of the school teams.
-$193$ students receive a badge, and each badge costs $\pounds 6$.
-
-How much does the school have to pay in total?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {School pays} &= \text {No. of students receiving badge} \times \text {Cost of one badge} \\\\
-                    &= 193 \times 6 \\\\
-                    &= \pounds 1158
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1158$
 
 </div>
 </div>
@@ -1365,68 +967,6 @@ $4$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>78560253-2BD8-42B2-8E55-911BFF244038</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I went to watch a three-hour concert but the music was so awful that I only stayed for $15 \%$ of it.
-How many minutes did I stay at the concert for?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-The time is given in hours, but the final answer has to be in minutes.
-
-$
-\begin {aligned}
-\text {Minutes stayed}  &= 15 \% \ \text {of} \ 3 \ \text {hours} \\\\
-                        &= \dfrac {15} {100} \times 3 \\\\
-                        &= \dfrac {15} {100} \times 3 \times 60 \ \text {minutes} \\\\
-                        &= \dfrac {15 \times 3 \times 60} {100} \\\\
-                        &= \dfrac {5 \times 3 \times 3 \times 3 \times 2 \times 10} {5 \times 2 \times 10} \\\\
-                        &= \dfrac {\cancel {5} \times 3 \times 3 \times 3 \times \cancel {2} \times \cancel {10}} {\cancel {5} \times \cancel {2} \times \cancel {10}} \\\\
-                        &= 3 \times 3 \times 3 \\\\
-                        &= 27 \ \text {minutes}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27 \ \text {minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>19818B2F-9086-4F00-9201-4F75D3C5194C</p>
 </div>
 <div class='topics'>
@@ -1524,10 +1064,7 @@ $
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tsequence
+tinfer
 </li>
 </ul>
 </div>
@@ -1632,209 +1169,6 @@ $18 \ \text {pence}$
 
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>170804EC-CA6F-4013-8E66-B33A787CAD95</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the next two items in each of these patterns:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$7,  \quad 11,  \quad 15,  \quad 19,
-\quad  \boxed { \phantom{19} },
-\quad  \boxed { \phantom{19} }
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }  \\
-7,  &&    11,  &&  15,  &&   19,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 19 + 4\\\\
-                               &= 23 \\\\
-\text {Second missing number}  &= 23 + 4\\\\
-                               &= 27
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23, \ 27$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$96, \quad  48, \quad  24, \quad  12,
-\quad  \boxed { \phantom{19} },
-\quad  \boxed { \phantom{19} }
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }  \\
-96,  &&    48,  &&  24,  &&   12,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 12 \div 2 \\\\
-                               &= 6 \\\\
-\text {Second missing number}  &= 6 \div 2 \\\\
-                               &= 3
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6, \ 3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2, \quad  4, \quad  7, \quad  11,
-\quad  \boxed { \phantom{19} },
-\quad  \boxed { \phantom{19} }
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The next term is calculated by adding $1$ more to difference between the previous sequence. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC {(+2)} }
-&&  \footnotesize {\maroonC {(+3)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+5)} }
-&&  \footnotesize {\maroonC {(+6)} }  \\
-2,  &&    4,  &&  7,  &&   11,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 11 + 5\\\\
-                               &= 16 \\\\
-\text {Second missing number}  &= 16 + 6\\\\
-                               &= 22
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16, \ 22$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -2068,179 +1402,6 @@ $\text {One-quarter}$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>59547E58-AC55-448A-91F5-598477A6799E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In England the money we use is pounds $(\pounds)$.
-
-In Europe the money they use is euros $(€)$.
-
-$\pounds 100$ (pounds) is worth the same as $€120$ (euros).
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many euros would be worth the same as $\pounds 500$ (pounds)?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\pounds 100             &= € 120 \\\\
-\pounds 100 \times 5    &= € 120 \times 5 \\\\
-\pounds 500             &= € 600
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$€ 600$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many pounds would be worth the same as $€300$ (euros)?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the above answer,
-
-$
-\begin {aligned}
-\pounds 500                 &= € 600 \\\\
-\pounds \dfrac {500} {2}    &= € \dfrac {600} {2} \\\\
-\pounds 250                 &= € 300
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 250$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Bruno has $\pounds 600$ (pounds). Marie has $€700$ (euros). Decide who has the most money. Explain how you decided.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's convert pounds into euros to compare them.
-
-As per the above answers,
-
-$
-\begin {aligned}
-\text {Bruno has}   &= \pounds 600 \\\\
-                    &= \pounds 500 + \pounds 100 \\\\
-                    &= € 600 + € 120 \\\\
-                    &= € 720
-\end {aligned}
-$
-
-Let's find who has the most money.
-
-$
-\begin {aligned}
-&= \text {Bruno} - \text {Marie} \\\\
-&= € 720 - € 700 \\\\
-&= € 20
-\end {aligned}
-$
-
-Bruno $\pounds 600$ > Marie $ € 700$
-
-Bruno has $€ 20$ more than Marie.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Bruno}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>559166DC-6DDF-4875-BF83-BA488BB42DFA</p>
 </div>
 <div class='topics'>
@@ -2362,72 +1523,10 @@ $\pounds 168$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>6D028400-7588-4227-B770-FB7713EF5103</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Anna decides to share her pizza with two of her friends.
-She gives one friend a fifth of the pizza and the other friend three tenths of the pizza.
-What fraction of the pizza is left for Anna?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {1st friends share} - \text {2nd friends share} \\\\
-                                &= 1 - \dfrac {1} {5} - \dfrac {3} {10} \\\\
-                                &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {1 \times 2} {5 \times 2} - \dfrac {3} {10} \\\\
-                                &= \dfrac {10} {10} - \dfrac {2} {10} - \dfrac {3} {10} \\\\
-                                &= \dfrac {10 - 2 - 3} {10} \\\\
-                                &= \dfrac {5} {10} \\\\
-                                &= \dfrac {5} {5 \times 2} \\\\
-                                &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
-                                &= \dfrac {1} {2}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>1858C278-6BA1-4C5E-A7A4-D09F4BAF1636</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -3490,9 +2589,6 @@ $30\% \text{ of } \ 30$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -3971,139 +3067,6 @@ $7.4 \text{m}$
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>00C311D7-5CAB-401B-AE03-78A75AFA3E88</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-
-Entry $20 \text{p}$
-
-Side Show $30 \text{p}$ a go
-
-Cream Teas $\pounds 2.60$ each
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Mary goes to the school fair.
-
-She pays to get in. She visits $3$ side shows and she has a cream tea.
-
-How much does Mary spend altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Total money Mary spent}  &= \text {Entry cost} + 3 \times \text {Side shows cost} + \text {Cost of cream tea} \\\\
-                                &= 20 \ \text {p} + 3 \times 30 \ \text {p} + \pounds 2.60 \\\\
-                                &= \pounds \dfrac {20} {100} + 3 \times \pounds \dfrac {30} {100} + \pounds 2.60 \\\\
-                                &= 0.20 + 3 \times 0.30 + 2.60 \\\\
-                                &= 2.80 + 0.90 \\\\
-                                &= \pounds 3.70
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 3.70$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Anna has $\pounds 5$ to spend at the school fair. She must pay to get in.
-
-How many times can she visit a side show if she has a cream tea as well?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Number of times Anna can visit a side show}  &= \dfrac {\text {Total money she has} - (\text {Entry cost} + \text {Cost of a cream tea})} {\text {Cost of a side show}} \\\\ 
-                                                    &= \dfrac {\pounds 5 - (20 \text {p} + \pounds 2.60)} {30 \text {p}} \\\\
-                                                    &= \dfrac {5 \times 100 \text {p} - (20 \text {p} + 2.60 \times 100 \text {p})} {30 \text {p}} \\\\
-                                                    &= \dfrac {500 - (20 + 260)} {30} \\\\
-                                                    &= \dfrac {500 - 280} {30} \\\\
-                                                    &= \dfrac {220} {30} \\\\
-                                                    &= 7
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
 <p>8A00786C-8FA5-49F0-B059-E903FB36850E</p>
 </div>
 <div class='topics'>
@@ -4274,9 +3237,6 @@ $60 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -5502,9 +4462,6 @@ $6, 7, 8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 </ul>
@@ -6238,9 +5195,6 @@ $\pounds 7.95$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -7225,13 +6179,7 @@ $1120$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 torder
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -8206,9 +7154,6 @@ $36$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -9209,9 +8154,6 @@ $2 \times 3 \times 7 = 42$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 torder
 </li>
@@ -10409,9 +9351,6 @@ $36+64=100$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tsequence
 </li>
 <li>
@@ -10897,9 +9836,6 @@ $72$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>
@@ -12312,205 +11248,6 @@ $\pounds 2.80$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>728683E0-0172-4C1B-B996-DE78A22F8120</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tarea
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-St Hugh's School hall is in the shape of a large box or cuboid.  
-The area of the floor is $200 \ \text{m}^2$, the area of one of the 
-side walls is $150 \ \text{m}^2$ and the area of an end wall is $48 \ \text{m}^2$. 
-
-What is the height, in metres, of the hall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length of the school hall (in m) $= l$
-
-Let the width of the school hall (in m) $= w$
-
-Let the height of the school hall (in m) $= h$
-
-$\text {Area} = \text {length} \times \text {width}$
-
-As per the question,
-
-$
-\begin{aligned}
-l \times w   &= 200 \\\\
-l \times h   &= 150 \\\\
-l            &= \dfrac {150} {h} \\\\
-w \times h   &= 48 \\\\
-w            &= \dfrac{48}{h}
-\end{aligned}
-$
-
-Substituting $l$ and $w$ in the first equation in terms of $h$, we get
-
-$
-\begin{aligned}
-l \times w                              &= 200 \\\\
-\dfrac {150} {h} \times \dfrac {48} {h} &= 200 \\\\
-\dfrac {150 \times 48} {h^2}            &= 200 \\\\
-\dfrac {150 \times 48} {200}            &= h^2 \\\\
-h^2                                     &= \dfrac {150 \times 48} {200} \\\\
-h^2                                     &= \dfrac {50 \times 3 \times 12 \times 4} {50 \times 4} \\\\
-h^2                                     &= \dfrac {\cancel{50} \times 3 \times 12 \times \cancel{4}} {\cancel{50} \times \cancel{4}} \\\\
-h^2                                     &= 3 \times 12 \\\\
-h^2                                     &= 36 \\\\
-h                                       &= \sqrt {36} \\\\
-h                                       &= 6 \ \text {m}
-\end{aligned}
-$
-
-Height of the school hall (in m) $= 6  \ \text {m}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6 \ \text {m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>02202C7F-9F7E-46E2-9AD1-6B9D9768E016</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $30 \%$ of $550 \ \text{cm}^3$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 30 \% \ \text {of} \ 550 \ \text {cm}^3 \\\\
-&= \dfrac {30} {100} \times 550 \\\\
-&= \dfrac {30 \times 550} {100} \\\\
-&= \dfrac {3 \cancel {0} \times 55 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 3 \times 55 \\\\
-&= 165 \ \text {cm}^3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$165 \ \text {cm} ^ 3$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>30D0B7AD-9447-463A-831D-D948DCE6F17F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-John thinks of a number. He multiplies that number by four and then adds three to the result. If the answer he obtains is $35$, what is the number he first thought of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number that John thought is $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-4a + 3    &= 35 \\\\
-4a        &= 35 - 3 \\\\
-4a        &= 32 \\\\
-a         &= \dfrac {32} {4} \\\\
-a         &= \dfrac {8 \times 4} {4} \\\\
-a         &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
-a         &= 8
-\end {aligned}
-$
-
-The number that John thought $= 8$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>

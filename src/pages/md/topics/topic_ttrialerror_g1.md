@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttrialerror-g1"
 title: "Topic - Trialerror - G1"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -85,9 +85,6 @@ $25 \times 4$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tsequence
 </li>

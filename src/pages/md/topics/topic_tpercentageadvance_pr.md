@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-pr"
 title: "Topic - Percentageadvance - PR"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -976,83 +976,6 @@ $4$
 </ul>
 <div class='papername'>
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>6ED09898-3049-403B-862A-0997F0A0FB65</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentageadvance
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Homer, Marge and Bart each have $$1000$.
-
-Homer gives $10\%$ of his money to Marge. Marge then gives $10\%$ of her new amount to Bart. Bart then gives $10\%$ of his new amount to Homer.
-
-How much has Homer got now?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Amount Homer gives to Marge}          &= 10 \% \ \text{of} \ 1000 \\\\
-                                            &= \dfrac {10} {100} \times 1000 \\\\
-                                            &= \dfrac {10 \times 1000} {100} \\\\
-                                            &= \dfrac {10 \times 10 \cancel 0 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
-                                            &= 10 \times 10 \\\\
-                                            &= 100 \\\\
-\text{New amount that Marge has}            &= 1000 + 100 \\\\   
-                                            &= 1100 \\\\                                        
-\text{Amount Marge gives to Bart}           &= 10 \% \ \text{of} \ 1100 \\\\
-                                            &= \dfrac {10} {100} \times 1100 \\\\
-                                            &= \dfrac {10 \times 1100} {100} \\\\
-                                            &= \dfrac {10 \times 11 \cancel 0 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
-                                            &= 10 \times 11 \\\\
-                                            &= 110 \\\\
-\text{New amount that Bart has}             &= 1000 + 110 \\\\   
-                                            &= 1110 \\\\                                        
-\text{Amount Bart gives to Homer}           &= 10 \% \ \text{of} \ 1110 \\\\
-                                            &= \dfrac {10} {100} \times 1110 \\\\
-                                            &= \dfrac {10 \times 1110} {100} \\\\
-                                            &= \dfrac {1 \cancel 0 \times 111 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
-                                            &= 1 \times 111 \\\\
-                                            &= 111 \\\\
-\text{New amount that Homer has}            &= 900 + 111 \\\\   
-                                            &= 1011
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1011$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>

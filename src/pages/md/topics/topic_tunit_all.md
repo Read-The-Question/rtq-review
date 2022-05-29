@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-all"
 title: "Topic - Unit - All"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1236,7 +1236,7 @@ $2 \ \text {m} \ 92 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2</p>
 </div>
@@ -1455,7 +1455,7 @@ $500 \ \text{mm}^2$
 <p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1565,65 +1565,6 @@ $40 \ \text{inches}$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>30340F22-4D0A-4688-AA2E-85B3E019B213</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these lengths is longest?
-
-$42 \ \text{cm} \quad 0.4 \ \text{m} \quad 147 \ \text{mm} \quad 0.351 \ \text{m} \quad 33  \ \text{cm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, let's convert all the units to $\text {cm}$. 
-
-$
-\begin{aligned}
-&= 42 \ \text{cm}, \quad 0.4 \ \text{m}, \quad 147 \ \text{mm}, \quad 0.351 \ \text{m}, \quad 33  \ \text{cm} \\\\
-&= 42 \ \text{cm}, \quad 0.4 \times 100 \ \text{cm}, \quad \dfrac {147} {10} \ \text{cm}, \quad 0.351 \times 100 \ \text{cm}, \quad 33  \ \text{cm} \\\\
-&= 42 \ \text{cm}, \quad 40 \ \text{cm}, \quad 14.7 \ \text{cm}, \quad 35.1 \ \text{cm}, \quad 33  \ \text{cm}
-\end{aligned}
-$
-
-The longest length $= 42 \ \text{cm}$.
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1799,64 +1740,6 @@ $86400  \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>0D8E4B4B-CC0A-464D-B985-985AC893C475</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these lengths is longest?
-
-$42\ \text{cm} \quad 0.4\ \text{m} \quad  147\ \text{mm} \quad 0.351\ \text{m} \quad 33 \ \text{cm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, let's convert all the units to $\text{cm}$. 
-
-$
-\begin{aligned}
-&= 42 \ \text{cm}, \quad 0.4 \ \text{m}, \quad 147 \ \text{mm}, \quad 0.351 \ \text{m}, \quad 33  \ \text{cm} \\\\
-&= 42 \ \text{cm}, \quad 0.4 \times 100 \ \text{cm}, \quad \dfrac {147} {10} \ \text{cm}, \quad 0.351 \times 100 \ \text{cm}, \quad 33  \ \text{cm} \\\\
-&= 42 \ \text{cm}, \quad 40 \ \text{cm}, \quad 14.7 \ \text{cm}, \quad 35.1 \ \text{cm}, \quad 33  \ \text{cm}
-\end{aligned}
-$
-
-The longest length $= 42 \ \text{cm}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>F0FE71ED-4E07-4034-BEC9-94598E8AD9A1</p>
@@ -2002,64 +1885,6 @@ $
 <div class='answer'>
 
 $3700 \ \text {g}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>F1714A09-DE83-40BB-B858-8620CDD58B7E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these lengths is longest?
-
-$157\ \text{mm} \quad 52\ \text{cm} \quad 0.451\ \text{m} \quad 43\ \text{cm} \quad 0.5 \ \text{m}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, let's can convert all the units to $\text {cm}$. 
-
-$
-\begin{aligned}
-&= 157 \ \text{mm}, \quad 52 \ \text{cm}, \quad 0.451 \ \text{m}, \quad 43 \ \text{cm}, \quad 0.5  \ \text{m} \\\\
-&= \dfrac {157} {10} \ \text{cm}, \quad 52 \ \text{cm}, \quad 0.451 \times 100 \ \text{cm}, \quad 43 \ \text{cm}, \quad 0.5 \times 100 \ \text{cm} \\\\
-&= 15.7 \ \text{cm}, \quad 52 \ \text{cm}, \quad 45.1 \ \text{cm}, \quad 43 \ \text{cm}, \quad 50  \ \text{cm}
-\end{aligned}
-$
-
-The longest length $= 52 \ \text{cm}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$52 \ \text{cm}$
 
 </div>
 </div>
@@ -5387,131 +5212,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Arrange these distances in size order, from smallest to largest.
-
-$250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m}$
-
-Let's convert them to same units
-
-$
-\begin{aligned}
-&= 250 \ \text {m} \quad  520 \ \text {m}    \quad 500 \ \text {m} \quad 2050 \ \text {m} \quad 502 \ \text {m} \\\\
-&= 250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m} \\\\
-&= 250 \ \text{m} \ < \quad 0.5 \ \text{km} \ < \quad 502 \ \text{m} \ < \quad 0.52 \ \text{km} \ < \quad 2.05 \ \text{km}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.52 \ \text{km} \ , \quad 2.05 \ \text{km}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_g1 question'>
-<div class='uuid'>
-<p>5FFD2F9B-A581-4E18-9166-D2D7F6120C86</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-torder
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put these distances in order from smallest to largest.
-
-$27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \text{km}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-To compare, let's convert all the units to $\text {km}$. 
-
-$
-\begin{aligned}
-&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2778 \ \text {m}, \quad 2.708 \ \text {km} \\\\
-&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad \dfrac {2778} {1000} \ \text {km}, \quad 2.708 \ \text {km} \\\\
-&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km} \\\\
-\end{aligned}
-$
-
-Let's put them from smallest to largest.
-
-$
-\begin{aligned}
-&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2.778 \ \text {km}, \quad 27.8 \ \text {km} \\\\
-&= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.8 \ \text {km}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.8 \ \text {km}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>17995AB1-E22E-4926-84D3-68BD6CB44645</p>
@@ -6038,7 +5738,7 @@ $640 \text { mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
 <p>E6B98A2D-3E19-48A9-8530-3FA13BCFF9E3</p>
 </div>
@@ -6163,7 +5863,7 @@ $0.008 \ \text{mm}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_red</p>
 </div>
 </div>
 </li>

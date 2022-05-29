@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-amber"
 title: "Topic - Algebra - Amber"
-date: 2022-05-29 06:26:52
+date: 2022-05-29 13:50:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1000,6 +1000,65 @@ $9$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>813D165A-86E1-41F9-8602-4C825F1619A8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Julia thinks of a number. She multiplies it by $5$ and then subtracts $14$. The answer she gets is $46$. What number did she originally think of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Julia thinks $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a \times 5) - 14           &= 46 \\\\
+a \times 5                  &= 46 + 14 \\\\
+a \times 5                  &= 60 \\\\
+a                           &= \dfrac{60}{5} \\\\
+a                           &= \dfrac{12 \times 5}{5} \\\\
+a                           &= \dfrac{12 \times \cancel{5}}{\cancel{5}} \\\\
+a                           &= 12 
+\end{aligned}
+$
+
+The number Julia thinks $=12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
 <p>92D8180C-E23A-4A8C-B0A7-3AD36D485D0F</p>
@@ -1121,6 +1180,71 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_ad_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_amber question'>
+<div class='uuid'>
+<p>7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The triangle in the diagram below is isosceles. 
+
+Calculate angle **$x$**
+$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In a triangle, the exterior angle is always equal to the sum of the interior opposite angles.
+
+We also know that, in an isosceles triangle the two angles opposite to the equal side are congruent to each other.
+
+Exterior angle $= 134 \degree$
+
+Two angles of isosceles triangle $= x$
+$
+\begin{aligned}
+x + x                   &= 134 \\\\
+2x                      &= 134 \\\\
+x                       &= \dfrac{134} {2} \\\\
+x                       &= \dfrac{2 \times 67} {2} \\\\
+x                       &= \dfrac{\cancel {2} \times 67} {\cancel {2}} \\\\
+x                       &= 67 \degree
+\end{aligned}
+$
+
+The angle $x = 67 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$67 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_amber</p>
 </div>
 </div>
 </li>

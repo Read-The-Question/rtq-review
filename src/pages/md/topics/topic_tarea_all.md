@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-all"
 title: "Topic - Area - All"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13165,7 +13165,7 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
+\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Width of path} \times \text{Width of garden - 2} \times \text{Width of path}\\\\
                                                    &= 15 \ \text{m} - 2 \ \text{m} \times 2 \ \text{m} \times 12 \text{m} - 2 \ \text{m} \times 2 \ \text{m} \\\\
                                                    &= 15 \ \text{m} - 4 \ \text{m} \times 12 \ \text{m} - 4 \ \text{m} \\\\
                                                    &= 11 \ \text{m} \times 8 \ \text{m} \\\\

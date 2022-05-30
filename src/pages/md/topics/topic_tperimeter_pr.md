@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-pr"
 title: "Topic - Perimeter - PR"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -189,10 +189,11 @@ As per the question,
 
 $
 \begin{aligned}
-s \times s      &= 81 \\\\
-s^2             &= 81 \\\\
-s               &= \sqrt{81} \\\\
-s               &= 9  \ \text{m}
+\text{side} \times \text{side}      &= 81 \\\\
+s^2                                 &= 81 \\\\
+s                                   &= \sqrt{81} \\\\
+s                                   &= \sqrt{9 \times 9} \\\\
+s                                   &= 9 \text{m}
 \end{aligned}
 $
 
@@ -1716,7 +1717,7 @@ A regular pentagon has the same side length as the square. What is its perimeter
 <div class='workings'>
 <div class='working'>
 
-Perimeter of regular pentagon $= 5 \times \text{Length of side}
+Perimeter of regular pentagon $= 5 \times \text{Length of side}$
 
 As per the question,
 

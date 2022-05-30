@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2099,7 +2099,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>B33A22B5-0C06-4A7C-A218-0C2B9A928463</p>
 </div>
@@ -2136,25 +2136,20 @@ We can easily infer the values by using trial and error.
 
 Factors of $28 = 1, 2, 4, 7, 14, 28$
 
-| Numbers   |  Multiplication  |  Sum  |
-|:-------:  |:---------------: |:----: |
-| $1, 28$   | $28$             | $29$  |
-| $2, 14$   | $28$             | $16$  |
-| $4, 7$    | $28$             | $11$  |
+| Numbers   |  Multiplication  |           Sum           |
+|:-------:  |:---------------: |:----------------------: |
+| $1, 28$   |       $28$       | $1 + 28 = 29 \not = 11$ |
+| $2, 14$   |       $28$       | $2 + 14 = 16 \not = 11$ |
+| $4, 7$    |       $28$       | $4 + 7 = 11$            |
 
-A quick check shows that $4$ and $7$ meets all the criteria above.
+The two numbers are $= 4 \ \text{and} \ 7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4$
-
-</div>
-<div class='answer'>
-
-$7$
+$4 \ \text{and} \ 7$
 
 </div>
 </div>
@@ -2163,7 +2158,7 @@ $7$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>

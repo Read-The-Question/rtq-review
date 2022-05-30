@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-pr"
 title: "Topic - Fraction - PR"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -227,9 +227,9 @@ $
 &=0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75 \\\\
 &=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8}
 \end{aligned}
+$
 
 therefore $\dfrac{6}{8}$ is the largest fraction.
-$
 
 </div>
 </div>
@@ -1145,12 +1145,13 @@ $
 \end{aligned}
 $
 
-Using the answer to find $\dfrac {4} {9} \text{of} 360$.
+Using the above answer to find $\dfrac {4} {9} \ \text{of} \ 360$.
 
 $
 \begin{aligned}
-&= \dfrac {4} {9} \text{of} 360 \\\\
-&= 4 \times \dfrac {1 \times 360} {9} \\\\
+&= \dfrac {4} {9} \ \text{of} \ 360 \\\\
+&= \dfrac {4} {9} \times 360 \\\\
+&= 4 \times \dfrac {360} {9} \\\\
 &= 4 \times 40 \\\\
 &= 160
 \end{aligned}
@@ -1161,8 +1162,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\
-\dfrac {4} {9} \text{ of } 360 \ = \ 160$
+$\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\\ \\\\ \dfrac {4} {9} \text{ of } 360 \ = \ 160$
 
 </div>
 </div>

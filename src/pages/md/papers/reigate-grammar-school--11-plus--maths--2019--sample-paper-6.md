@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -661,7 +661,7 @@ $\dfrac {101} {250}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>48808E0F-DECB-4D83-B293-06E1EB8FC2E4</p>
 </div>
@@ -680,9 +680,11 @@ I have $6$ blue counters and $4$ red counters in a bag. What is the probability 
 <div class='workings'>
 <div class='working'>
 
+Probability $= \dfrac{\text {Number of favorable outcomes}} {\text{Total number of outcomes}}$
+
 $
 \begin{aligned}
-\text{Probability of red counter}               &= \dfrac {\text{Total red counters}} {\text{Total counters}} \\\\
+\text{Probability of choosing red counter}      &= \dfrac {4} {6 + 4} \\\\
                                                 &= \dfrac {4} {10} \\\\
                                                 &= \dfrac {2 \times 2} {2 \times 5} \\\\
                                                 &= \dfrac {\cancel{2} \times 2} {\cancel{2} \times 5} \\\\
@@ -704,7 +706,7 @@ $\dfrac {2} {5}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>

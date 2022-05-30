@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -317,7 +317,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>AB7057B1-8C72-4023-A583-CA2D1B61CFD9</p>
 </div>
@@ -347,16 +347,19 @@ as when it is divided by $3$?
 
 As per the question,
 
-\begin{aligned}
-&\text {A.} \quad   5 \ \text{gives remainder} \ 1 \ \text{and} \ 2 \ \text{when it is divided by 2 and 3 respectively.} \\\\
-&\text {B.} \quad   7 \ \text{gives same remainder} \ 1 \ \text{when it is divided by 2 or 3.} \\\\
-&\text {C.} \quad   9 \ \text{gives remainder} \ 1 \ \text{and} \ 0 \ \text{when it's divided by 2 and 3 respectively.} \\\\
-&\text {D.} \quad   11 \ \text{gives remainder} \ 1 \ \text{and} \ 2 \ \text{when it's divided by 2 and 3 respectively.} \\\\
-\end{aligned}
+|    | Remainder <br>Divided by 2 | Remainder <br>Divided by 3 | Remainder |
+|:--:|:--------------------------:|:--------------------------:|:---------:|
+|  5 |              1             |              2             |  Not same |
+|  7 |              1             |              1             |    Same   |
+|  9 |              1             |              0             |  Not same |
+| 11 |              1             |              2             |  Not same |
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
 <div class='answer'>
 
 $7$
@@ -368,7 +371,7 @@ $7$
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>

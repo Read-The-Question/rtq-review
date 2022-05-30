@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -352,9 +352,9 @@ $
 &=0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75 \\\\
 &=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8}
 \end{aligned}
+$
 
 therefore $\dfrac{6}{8}$ is the largest fraction.
-$
 
 </div>
 </div>

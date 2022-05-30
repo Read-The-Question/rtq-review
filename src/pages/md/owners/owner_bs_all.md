@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-all"
 title: "Owner - Banoth Sairam - All"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1893,10 +1893,10 @@ Let's calculate the first value.
 
 $
 \begin{aligned}
-&= 15\% \text{ of } \pounds 300 \\\\
-&= \dfrac{15}{100} \times 300 \\\\
-&= \dfrac{15 \times 300}{100}  \\\\
-&= \dfrac{15 \times 3\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 15\% \text{of} \pounds 300 \\\\
+&= \dfrac {15} {100} \times 300 \\\\
+&= \dfrac {15 \times 300} {100}  \\\\
+&= \dfrac {15 \times 3\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
 &= 15 \times 3  \\\\
 &= \pounds 45
 \end{aligned}
@@ -1906,10 +1906,10 @@ Let's calculate the second value.
 
 $
 \begin{aligned}
-&= 20\% \text{ of } \pounds 240 \\\\
-&= \dfrac{20}{100} \times 240 \\\\
-&= \dfrac{20 \times 240}{100}  \\\\
-&= \dfrac{2\cancel{0} \times 24\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 20\% \text{of} \pounds 240 \\\\
+&= \dfrac {20} {100} \times 240 \\\\
+&= \dfrac {20 \times 240} {100}  \\\\
+&= \dfrac {2\cancel{0} \times 24\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
 &= 2 \times 24  \\\\
 &= \pounds 48
 \end{aligned}
@@ -1949,10 +1949,10 @@ Let's calculate the first value.
 
 $
 \begin{aligned}
-&= \dfrac {2}{5} \text{ of } \pounds 40 \\\\
-&= \dfrac{2 \times 40}{5} \\\\
-&= \dfrac{2 \times 5 \times 8}{5} \\\\
-&= \dfrac{2 \times \cancel{5} \times 8}{\cancel{5}} \\\\
+&= \dfrac {2} {5} \text{ of } \pounds 40 \\\\
+&= \dfrac {2 \times 40} {5} \\\\
+&= \dfrac{2 \times 5 \times 8} {5} \\\\
+&= \dfrac {2 \times \cancel{5} \times 8} {\cancel{5}} \\\\
 &= 2 \times 8 \\\\
 &= \pounds 16
 \end{aligned}
@@ -1963,10 +1963,10 @@ Let's calculate the second value.
 $
 \begin{aligned}
 &= 25\% \text{ of } \pounds 64 \\\\
-&= \dfrac{25}{100} \times 64 \\\\
-&= \dfrac{25 \times 64}{100}  \\\\
-&= \dfrac{1600}{100}  \\\\
-&= \dfrac{16\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= \dfrac {25} {100} \times 64 \\\\
+&= \dfrac {25 \times 64} {100}  \\\\
+&= \dfrac {1600} {100}  \\\\
+&= \dfrac {16\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
 &= \pounds 16
 \end{aligned}
 $
@@ -4167,10 +4167,11 @@ As per the question,
 
 $
 \begin{aligned}
-s \times s      &= 81 \\\\
-s^2             &= 81 \\\\
-s               &= \sqrt{81} \\\\
-s               &= 9  \ \text{m}
+\text{side} \times \text{side}      &= 81 \\\\
+s^2                                 &= 81 \\\\
+s                                   &= \sqrt{81} \\\\
+s                                   &= \sqrt{9 \times 9} \\\\
+s                                   &= 9 \text{m}
 \end{aligned}
 $
 
@@ -4276,7 +4277,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature in Paris} &= \text{Temperature in London} - 8 \\\\
+\text{Temperature in Paris}  &= \text{Temperature in London} - 8 \\\\
                              &= 5 - 8 \\\\
                              &= -3  \degree
 \end{aligned}
@@ -4313,7 +4314,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Difference in temperature} &= 7 - (-5) \\\\
-                             &= 12 \degree
+                                 &= 12 \degree
 \end{aligned}
 $
 
@@ -4420,7 +4421,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Difference}    &=  872 - 523 \\\\
-                     &=  340 
+                     &=  349 
 \end{aligned}
 $
 
@@ -4429,7 +4430,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$340$
+$349$
 
 </div>
 </div>
@@ -4485,9 +4486,9 @@ $
 &=0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75 \\\\
 &=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8}
 \end{aligned}
+$
 
 therefore $\dfrac{6}{8}$ is the largest fraction.
-$
 
 </div>
 </div>
@@ -4536,7 +4537,10 @@ What is the value of the digit $5$ in the number $32.579$?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
+| Tens    |  Units | Decimal | Tenths    | Hundredths | Thousandths |
+|:-------:|:------:|:-------:|:---------:|:----------:|:-----------:|
+| $3$     | $2$    | .       | $5$       | $7$        | $9$         |
 
 The value of the digit $5$ in the number $32.579$ is 'Five tenths'
 
@@ -4757,6 +4761,20 @@ TODOWORKING
 TODOWORKING
 
 </div>
+<div class='working'>
+
+Remember to line up the decimal points.
+
+$
+\begin{array}{cccccccccccccc}
+    &    2  &    0 \ .  &    0  &    0 \\
+{}- &    1  &    2 \ .  &    5  &    3 \\
+\hline
+  &         &    7 \ .  &    4  &    7
+\end{array}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -4869,7 +4887,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$469$
 
 </div>
 </div>
@@ -4890,13 +4908,15 @@ $402 \div 6 =$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 402 \div 6 \\\\
-&= \dfrac{402}{6} \\\\
-&=  \dfrac{67 \times 6}{6} \\\\
-&=  \dfrac{67 \times \cancel 6}{\cancel 6} \\\\
+&= \dfrac {402} {6} \\\\
+&=  \dfrac {67 \times 6} {6} \\\\
+&=  \dfrac {67 \times \cancel {6}} {\cancel {6}} \\\\
 &=  67
 \end{aligned}
+$
 
 </div>
 </div>
@@ -4921,16 +4941,7 @@ $67$
 $\pounds 20 - \pounds 12.53$
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-\begin{aligned}
-&= \pounds 20 - \pounds 12.53 \\\\
-&= \pounds 7.47
-\end{aligned}
-
-</div>
-</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -5231,10 +5242,10 @@ Divide $1898$ by $26$
 
 $
 \begin{aligned}
-1898 \div 26 \\\\
-&= \dfrac{1898}{26} \\\\
-&=  \dfrac{73 \times 26}{26} \\\\
-&=  \dfrac{73 \times \cancel {26}}{\cancel {26}} \\\\
+&=  1898 \div 26 \\\\
+&=  \dfrac {1898} {26} \\\\
+&=  \dfrac {73 \times 26} {26} \\\\
+&=  \dfrac {73 \times \cancel {26}} {\cancel {26}} \\\\
 &=  73
 \end{aligned}
 $
@@ -5579,10 +5590,10 @@ $53 \times 9$
 
 $
 \begin{array}{cccccccccccccc}
-       &              &   5   &   3 \\
-       &    \times    &       &   9 \\
+               &   5   &   3 \\
+    \times     &       &   9 \\
 \hline
-       &    4         &   7   &   7
+           4   &   7   &   7
 \end{array}
 $
 
@@ -5614,13 +5625,13 @@ $37 \times 23$
 
 $
 \begin{array}{cccccccccccccc}
-       &              &   3   &   7 \\
-       &    \times    &   2   &   3 \\
+                     &   3   &   7 \\
+           \times    &   2   &   3 \\
 \hline
-       &    1         &   1   &   1 \\
-       &    7         &   4   &   0 \\
+           1         &   1   &   1 \\
+           7         &   4   &   0 \\
 \hline
-       &    8         &   5   &   1     
+           8         &   5   &   1     
 \end{array}
 $
 
@@ -5652,10 +5663,10 @@ $238 \div 7$
 
 $
 \begin{aligned}
-238 \div 7 \\\\
-&=  \dfrac{238}{7} \\\\
-&=  \dfrac{34 \times 7}{7} \\\\
-&=  \dfrac{34 \times \cancel 7}{\cancel 7} \\\\
+&=  238 \div 7 \\\\
+&=  \dfrac {238} {7} \\\\
+&=  \dfrac {34 \times 7} {7} \\\\
+&=  \dfrac {34 \times \cancel {7}} {\cancel {7}} \\\\
 &=   34
 \end{aligned}
 $
@@ -5688,10 +5699,10 @@ $442 \div 17$
 
 $
 \begin{aligned}
-442 \div 17 \\\\
-&=  \dfrac{442}{17} \\\\
-&=  \dfrac{26 \times 17}{17} \\\\
-&=  \dfrac{26 \times \cancel {17}}{\cancel {17}} \\\\
+&=  442 \div 17 \\\\
+&=  \dfrac {442} {17} \\\\
+&=  \dfrac {26 \times 17} {17} \\\\
+&=  \dfrac {26 \times \cancel {17} {\cancel {17}} \\\\
 &=   26
 \end{aligned}
 $

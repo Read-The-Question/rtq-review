@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1616,20 +1616,20 @@ Write down a decimal between $90\%$ and $95\%$
 <div class='workings'>
 <div class='working'>
 
-Let's first list down other percentages between $90\%$ and $95\%$ and then convert one of them into decimal, as asked in the question.
+Let's first list down other percentages between $90\%$ and $95\%$ and then convert the same into decimal.
 
-
+$
 \begin{aligned}
 &= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
 \end{aligned}
+$
 
+Let's convert 91\% into decimal.
 
-Let's convert 92\% into decimal.
-
-
+$
 \begin{aligned}
-&= \dfrac {92} {100}\\\\
-&= 0.92
+&= \dfrac {91} {100}\\\\
+&= 0.91
 \end{aligned}
 $
 
@@ -1651,7 +1651,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.925$
+$0.91 \ \text{or} \ 0.925$
 
 </div>
 </div>
@@ -3906,7 +3906,7 @@ $8640$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>11864F13-15AE-442B-A8E6-F4F08A54A7D5</p>
 </div>
@@ -3941,9 +3941,9 @@ $
 \end{aligned}
 $
 
-As the remainder is $1$, The symbol in the first position is going to repeat in the $100^{\text{th}}$.
+As the remainder is $1$, The symbol in the first position is going to repeat in the $100$th position.
 
-The $100^{\text{th}}$ symbol is $=$ &
+The $100$th symbol is $=$ &
 
 </div>
 </div>
@@ -3959,7 +3959,7 @@ The $100^{\text{th}}$ symbol is $=$ &
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -4148,11 +4148,23 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Sum of first 40 whole number}             &= \dfrac {40 (40 + 1)} {2} \\\\
-                                                &= \dfrac {2 \times 20 \times 41} {2} \\\\
-                                                &= \dfrac {\cancel{2} \times 20 \times 41} {\cancel{2}} \\\\
-                                                &= 20 \times 41 \\\\
-                                                &= 820
+\text{First number}                             &= 1 \\\\
+\text{Last number}                              &= 40 \\\\
+\text{Difference between consecutive numbers}   &= 1 \\\\
+\text{Total numbers}                            &= 40 \\\\
+\end{aligned}
+$
+
+Let's find the sum of  first 40 whole numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\text{Total numbers}} {2} \times (\text{First term + Last term}) \\\\
+&= \dfrac {40} {2} \times (1 + 40) \\\\
+&= \dfrac {2 \times 20} {2} \times 41 \\\\
+&= \dfrac {\cancel{2} \times 20} {\cancel{2}} \times 41 \\\\
+&= 20 \times 41 \\\\
+&= 820
 \end{aligned}
 $
 
@@ -4301,7 +4313,7 @@ $804 \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>5B8D18CD-2CFA-4594-8C03-B6723148134E</p>
 </div>
@@ -4332,17 +4344,16 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total chocolate}                                                                                      &= \text{Paul} + \text{Peter} + \text{Richard} \\\\
+\text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
 a                                                                                                           &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a + 100 \\\\
 a                                                                                                           &= \dfrac {a} {2} + \dfrac {a} {3} + 100 \\\\
-a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
 a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
 \dfrac {a \times 6} {1 \times 6} - \dfrac {a \times 3} {2 \times 3} - \dfrac {a \times 2} {3 \times 2}      &= 100 \\\\
 \dfrac {6a} {6} - \dfrac {3a} {6} - \dfrac {2a} {6}                                                         &= 100 \\\\
 \dfrac {6a - 3a - 2a} {6}                                                                                   &= 100 \\\\
 \dfrac {a} {6}                                                                                              &= 100 \\\\
 a                                                                                                           &= 100 \times 6 \\\\
-a                                                                                                           &= 600
+a                                                                                                           &= 600 \text{g}
 \end{aligned}
 $
 
@@ -4353,7 +4364,7 @@ The bar was having $600$ chocolates originally.
 <div class='answers'>
 <div class='answer'>
 
-$600$
+$600 \text{g}$
 
 </div>
 </div>
@@ -4362,7 +4373,7 @@ $600$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>

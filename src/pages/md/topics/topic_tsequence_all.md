@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-all"
 title: "Topic - Sequence - All"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -18312,7 +18312,7 @@ $
 &&  \footnotesize{\maroonC{(+3)}}  
 &&  \footnotesize{\maroonC{(+3)}}   
 &&  \footnotesize{\maroonC{(+3)}}  \\
-4,  &&      \ldots  &&      10,   &&      13,  &&      \ldots 
+4,  &&      \ldots , &&      10,   &&      13,  &&      \ldots 
 \end{matrix}
 $
 
@@ -18410,11 +18410,9 @@ $
 &&  \footnotesize{\maroonC{(-3)}}  
 &&  \footnotesize{\maroonC{(-3)}}   
 &&  \footnotesize{\maroonC{(-3)}}  \\
-\ldots,  &&      6  &&      3,   &&      0,  &&      -3
+\ldots,  &&      6 , &&      3,   &&      0,  &&      -3
 \end{matrix}
 $
-
-Missing number is 
 
 $
 \begin{aligned}

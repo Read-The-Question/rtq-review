@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-pr"
 title: "Topic - Money - PR"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1931,16 +1931,16 @@ If Ian pays with a $\pounds 2$ coin how much change would Ian get? Give your ans
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - (3 \times \text{Cost (Bananas)} + 5 \times \text{Cost (Apples)}) \\\\
-                                                &= \pounds 2 - (3 \times 12 \text{p} + 5 \times 11 \text{p}) \\\\
-                                                &= \pounds 2 - (36 \text{p} + 55 \text{p}) \\\\
+\text{Change he will get}                       &= \text{Total money} - 3 \times \text{Cost of a banana} - 5 \times \text{Cost of an apple} \\\\
+                                                &= \pounds 2 - 3 \times 12 \text{p} - 5 \times 11 \text{p} \\\\
+                                                &= \pounds 2 - 36 \text{p} - 55 \text{p} \\\\
                                                 &= \pounds 2 - 91 \text{p} \\\\
-                                                &= \pounds 2 - \pounds \dfrac {91} {100} \\\\
-                                                &= 2 - 0.91 \\\\
+                                                &= \pounds 2 - \pounds 0.91 \\\\
                                                 &= \pounds 1.09 \\\\
-                                                &= 1.09 \times 100 \text{p} \\\\
                                                 &= 109 \ \text{pence}
 \end{aligned}
 $
@@ -1989,14 +1989,16 @@ If Imogen pays with a £5 note how much change would Imogen get?
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
+
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - (4 \times \text{Cost (Star)} + 7 \times \text{Cost (Imogen)}) \\\\
+\text{Change he will get}                       &= \text{Total money} - (4 \times \text{Cost of a star sticker} + 7 \times \text{Cost of a moon sticker}) \\\\
                                                 &= \pounds 5 - (4 \times 15 \text{p} + 7 \times 16 \text{p}) \\\\
                                                 &= \pounds 5 - (60 \text{p} + 112 \text{p}) \\\\
                                                 &= \pounds 5 - 172 \text{p} \\\\
-                                                &= \pounds 5 - \pounds \dfrac {172} {100} \\\\
-                                                &= 5 - 1.72 \\\\
+                                                &= \pounds 5 - \pounds 1.72 \\\\
                                                 &= \pounds 3.28
 \end{aligned}
 $

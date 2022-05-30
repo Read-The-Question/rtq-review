@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmiddlenumber-all"
 title: "Topic - Middlenumber - All"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -361,6 +361,27 @@ $
 $
 
 </div>
+<div class='working'>
+
+Alternative solution 
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
+&= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
+&= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
+&= \dfrac {0.4 + 0.5} {2} \\\\
+&= \dfrac {0.9} {2} \\\\
+&= \dfrac {0.9 \times 10} {2 \times 10} \\\\
+&= \dfrac {9} {20}
+&= \dfrac {9} {20}\\\\
+&= 0.45
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -528,6 +549,26 @@ tmiddlenumber
 %empty%
 
 </div>
+<div class='working'>
+
+Let's first list down other percentages between $75\%$ and $80\%$ and then convert the same into decimal.
+
+$
+\begin{aligned}
+&= 75 \%, \quad \underline{76\%}, \quad \underline{77\%}, \quad \underline{78\%}, \quad \underline{79\%}, \quad 80\% \\\\
+\end{aligned}
+$
+
+Let's convert 76\% into decimal.
+
+$
+\begin{aligned}
+&= \dfrac {76} {100}\\\\
+&= 0.76
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -566,7 +607,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.775
+$0.76 \ \text{or} \ 0.775$
 
 </div>
 </div>
@@ -644,20 +685,20 @@ Write down a decimal between $90\%$ and $95\%$
 <div class='workings'>
 <div class='working'>
 
-Let's first list down other percentages between $90\%$ and $95\%$ and then convert one of them into decimal, as asked in the question.
+Let's first list down other percentages between $90\%$ and $95\%$ and then convert the same into decimal.
 
-
+$
 \begin{aligned}
 &= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
 \end{aligned}
+$
 
+Let's convert 91\% into decimal.
 
-Let's convert 92\% into decimal.
-
-
+$
 \begin{aligned}
-&= \dfrac {92} {100}\\\\
-&= 0.92
+&= \dfrac {91} {100}\\\\
+&= 0.91
 \end{aligned}
 $
 
@@ -679,7 +720,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.925$
+$0.91 \ \text{or} \ 0.925$
 
 </div>
 </div>

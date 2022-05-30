@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-red"
 title: "Topic - Number - Red"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -188,62 +188,6 @@ $26.18$
 </div>
 <div class='rag'>
 <p>rag_nm_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_red question'>
-<div class='uuid'>
-<p>AB7057B1-8C72-4023-A583-CA2D1B61CFD9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of the following has the same remainder when it is divided by $2$
-as when it is divided by $3$?
-
-- $5$
-- $7$
-- $9$
-- $11$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-\begin{aligned}
-&\text {A.} \quad   5 \ \text{gives remainder} \ 1 \ \text{and} \ 2 \ \text{when it is divided by 2 and 3 respectively.} \\\\
-&\text {B.} \quad   7 \ \text{gives same remainder} \ 1 \ \text{when it is divided by 2 or 3.} \\\\
-&\text {C.} \quad   9 \ \text{gives remainder} \ 1 \ \text{and} \ 0 \ \text{when it's divided by 2 and 3 respectively.} \\\\
-&\text {D.} \quad   11 \ \text{gives remainder} \ 1 \ \text{and} \ 2 \ \text{when it's divided by 2 and 3 respectively.} \\\\
-\end{aligned}
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_red</p>
 </div>
 </div>
 </li>

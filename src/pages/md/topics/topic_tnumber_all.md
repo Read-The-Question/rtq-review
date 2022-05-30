@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-all"
 title: "Topic - Number - All"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2621,7 +2621,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Difference}    &=  872 - 523 \\\\
-                     &=  340 
+                     &=  349 
 \end{aligned}
 $
 
@@ -2630,7 +2630,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$340$
+$349$
 
 </div>
 </div>
@@ -5118,7 +5118,10 @@ What is the value of the digit $5$ in the number $32.579$?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
+| Tens    |  Units | Decimal | Tenths    | Hundredths | Thousandths |
+|:-------:|:------:|:-------:|:---------:|:----------:|:-----------:|
+| $3$     | $2$    | .       | $5$       | $7$        | $9$         |
 
 The value of the digit $5$ in the number $32.579$ is 'Five tenths'
 
@@ -25541,7 +25544,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>AB7057B1-8C72-4023-A583-CA2D1B61CFD9</p>
 </div>
@@ -25571,16 +25574,19 @@ as when it is divided by $3$?
 
 As per the question,
 
-\begin{aligned}
-&\text {A.} \quad   5 \ \text{gives remainder} \ 1 \ \text{and} \ 2 \ \text{when it is divided by 2 and 3 respectively.} \\\\
-&\text {B.} \quad   7 \ \text{gives same remainder} \ 1 \ \text{when it is divided by 2 or 3.} \\\\
-&\text {C.} \quad   9 \ \text{gives remainder} \ 1 \ \text{and} \ 0 \ \text{when it's divided by 2 and 3 respectively.} \\\\
-&\text {D.} \quad   11 \ \text{gives remainder} \ 1 \ \text{and} \ 2 \ \text{when it's divided by 2 and 3 respectively.} \\\\
-\end{aligned}
+|    | Remainder <br>Divided by 2 | Remainder <br>Divided by 3 | Remainder |
+|:--:|:--------------------------:|:--------------------------:|:---------:|
+|  5 |              1             |              2             |  Not same |
+|  7 |              1             |              1             |    Same   |
+|  9 |              1             |              0             |  Not same |
+| 11 |              1             |              2             |  Not same |
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
 <div class='answer'>
 
 $7$
@@ -25592,7 +25598,7 @@ $7$
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -32936,6 +32942,20 @@ TODOWORKING
 TODOWORKING
 
 </div>
+<div class='working'>
+
+Remember to line up the decimal points.
+
+$
+\begin{array}{cccccccccccccc}
+    &    2  &    0 \ .  &    0  &    0 \\
+{}- &    1  &    2 \ .  &    5  &    3 \\
+\hline
+  &         &    7 \ .  &    4  &    7
+\end{array}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -33048,7 +33068,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$469$
 
 </div>
 </div>
@@ -33069,13 +33089,15 @@ $402 \div 6 =$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 402 \div 6 \\\\
-&= \dfrac{402}{6} \\\\
-&=  \dfrac{67 \times 6}{6} \\\\
-&=  \dfrac{67 \times \cancel 6}{\cancel 6} \\\\
+&= \dfrac {402} {6} \\\\
+&=  \dfrac {67 \times 6} {6} \\\\
+&=  \dfrac {67 \times \cancel {6}} {\cancel {6}} \\\\
 &=  67
 \end{aligned}
+$
 
 </div>
 </div>
@@ -33100,16 +33122,7 @@ $67$
 $\pounds 20 - \pounds 12.53$
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-\begin{aligned}
-&= \pounds 20 - \pounds 12.53 \\\\
-&= \pounds 7.47
-\end{aligned}
-
-</div>
-</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -37322,10 +37335,10 @@ Divide $1898$ by $26$
 
 $
 \begin{aligned}
-1898 \div 26 \\\\
-&= \dfrac{1898}{26} \\\\
-&=  \dfrac{73 \times 26}{26} \\\\
-&=  \dfrac{73 \times \cancel {26}}{\cancel {26}} \\\\
+&=  1898 \div 26 \\\\
+&=  \dfrac {1898} {26} \\\\
+&=  \dfrac {73 \times 26} {26} \\\\
+&=  \dfrac {73 \times \cancel {26}} {\cancel {26}} \\\\
 &=  73
 \end{aligned}
 $
@@ -39851,10 +39864,10 @@ $53 \times 9$
 
 $
 \begin{array}{cccccccccccccc}
-       &              &   5   &   3 \\
-       &    \times    &       &   9 \\
+               &   5   &   3 \\
+    \times     &       &   9 \\
 \hline
-       &    4         &   7   &   7
+           4   &   7   &   7
 \end{array}
 $
 
@@ -39886,13 +39899,13 @@ $37 \times 23$
 
 $
 \begin{array}{cccccccccccccc}
-       &              &   3   &   7 \\
-       &    \times    &   2   &   3 \\
+                     &   3   &   7 \\
+           \times    &   2   &   3 \\
 \hline
-       &    1         &   1   &   1 \\
-       &    7         &   4   &   0 \\
+           1         &   1   &   1 \\
+           7         &   4   &   0 \\
 \hline
-       &    8         &   5   &   1     
+           8         &   5   &   1     
 \end{array}
 $
 
@@ -39924,10 +39937,10 @@ $238 \div 7$
 
 $
 \begin{aligned}
-238 \div 7 \\\\
-&=  \dfrac{238}{7} \\\\
-&=  \dfrac{34 \times 7}{7} \\\\
-&=  \dfrac{34 \times \cancel 7}{\cancel 7} \\\\
+&=  238 \div 7 \\\\
+&=  \dfrac {238} {7} \\\\
+&=  \dfrac {34 \times 7} {7} \\\\
+&=  \dfrac {34 \times \cancel {7}} {\cancel {7}} \\\\
 &=   34
 \end{aligned}
 $
@@ -39960,10 +39973,10 @@ $442 \div 17$
 
 $
 \begin{aligned}
-442 \div 17 \\\\
-&=  \dfrac{442}{17} \\\\
-&=  \dfrac{26 \times 17}{17} \\\\
-&=  \dfrac{26 \times \cancel {17}}{\cancel {17}} \\\\
+&=  442 \div 17 \\\\
+&=  \dfrac {442} {17} \\\\
+&=  \dfrac {26 \times 17} {17} \\\\
+&=  \dfrac {26 \times \cancel {17} {\cancel {17}} \\\\
 &=   26
 \end{aligned}
 $
@@ -48326,6 +48339,27 @@ $
 $
 
 </div>
+<div class='working'>
+
+Alternative solution 
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
+&= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
+&= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
+&= \dfrac {0.4 + 0.5} {2} \\\\
+&= \dfrac {0.9} {2} \\\\
+&= \dfrac {0.9 \times 10} {2 \times 10} \\\\
+&= \dfrac {9} {20}
+&= \dfrac {9} {20}\\\\
+&= 0.45
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -50207,6 +50241,26 @@ tmiddlenumber
 %empty%
 
 </div>
+<div class='working'>
+
+Let's first list down other percentages between $75\%$ and $80\%$ and then convert the same into decimal.
+
+$
+\begin{aligned}
+&= 75 \%, \quad \underline{76\%}, \quad \underline{77\%}, \quad \underline{78\%}, \quad \underline{79\%}, \quad 80\% \\\\
+\end{aligned}
+$
+
+Let's convert 76\% into decimal.
+
+$
+\begin{aligned}
+&= \dfrac {76} {100}\\\\
+&= 0.76
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -50245,7 +50299,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.775
+$0.76 \ \text{or} \ 0.775$
 
 </div>
 </div>
@@ -51156,8 +51210,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Distance}                                         &= \text{Distance between the post} \times \text{Total post - 1} \\\\\
-                                                        &= 25 \text{m} \times 4 - 1 \\\\\
+\text{Distance}                                         &= \text{Distance between the post} \times (\text{Total posts - 1}) \\\\\
+                                                        &= 25 \text{m} \times (4 - 1) \\\\\
                                                         &= 25 \times 3 \\\\\
                                                         &= 75 \text{m}
 \end{aligned}
@@ -51309,17 +51363,18 @@ $12\:\: 234\:\: 3456\:\: 45678\:\: 567890$
 <div class='workings'>
 <div class='working'>
 
-As we know that a number is divisible by 3 if the sum of all its digits is divisible by 3. Using that,
+As we know that a number is divisible by 3, if the sum of all its digits is divisible by 3. Using that,
 
 | Number    |         Sum                                           | Multiple of $3$
-|:------:   |:----------------------------------------------------: | :-----:
+|:--------: |:----------------------------------------------------: | :-----:
 |  $12$     | $1 + 2 = \red{3}$                                     |  Yes
 |  $234$    | $2 + 3 + 4 = \red{9}$                                 |  Yes
 |  $3456$   | $3 + 4 + 5 + 6 = \red{15}$                            |  Yes
 |  $45678$  | $4 + 5 + 6 + 7 + 8 = \red{30}$                        |  Yes
 |  $567890$ | $5 + 6 + 7 + 8 + 9 + 0 = \green{35}$                  |  No
 
-Answer $= 567890$
+
+The number which is not a multiple of $3 = 567890$
 
 </div>
 </div>
@@ -51426,6 +51481,10 @@ $0.89\:\: 0.9\:\: 0.17\:\: 0.72\:\: 0.73$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Let's arrange them in ascending order.
+
+$= 0.17< \quad 0.72< \quad 0.73< \quad 0.89< \quad 0.9$
 
 $
 \begin{aligned}
@@ -51820,20 +51879,20 @@ Write down a decimal between $90\%$ and $95\%$
 <div class='workings'>
 <div class='working'>
 
-Let's first list down other percentages between $90\%$ and $95\%$ and then convert one of them into decimal, as asked in the question.
+Let's first list down other percentages between $90\%$ and $95\%$ and then convert the same into decimal.
 
-
+$
 \begin{aligned}
 &= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
 \end{aligned}
+$
 
+Let's convert 91\% into decimal.
 
-Let's convert 92\% into decimal.
-
-
+$
 \begin{aligned}
-&= \dfrac {92} {100}\\\\
-&= 0.92
+&= \dfrac {91} {100}\\\\
+&= 0.91
 \end{aligned}
 $
 
@@ -51855,7 +51914,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.925$
+$0.91 \ \text{or} \ 0.925$
 
 </div>
 </div>
@@ -52995,11 +53054,23 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Sum of first 40 whole number}             &= \dfrac {40 (40 + 1)} {2} \\\\
-                                                &= \dfrac {2 \times 20 \times 41} {2} \\\\
-                                                &= \dfrac {\cancel{2} \times 20 \times 41} {\cancel{2}} \\\\
-                                                &= 20 \times 41 \\\\
-                                                &= 820
+\text{First number}                             &= 1 \\\\
+\text{Last number}                              &= 40 \\\\
+\text{Difference between consecutive numbers}   &= 1 \\\\
+\text{Total numbers}                            &= 40 \\\\
+\end{aligned}
+$
+
+Let's find the sum of  first 40 whole numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\text{Total numbers}} {2} \times (\text{First term + Last term}) \\\\
+&= \dfrac {40} {2} \times (1 + 40) \\\\
+&= \dfrac {2 \times 20} {2} \times 41 \\\\
+&= \dfrac {\cancel{2} \times 20} {\cancel{2}} \times 41 \\\\
+&= 20 \times 41 \\\\
+&= 820
 \end{aligned}
 $
 
@@ -55165,7 +55236,7 @@ A regular pentagon has the same side length as the square. What is its perimeter
 <div class='workings'>
 <div class='working'>
 
-Perimeter of regular pentagon $= 5 \times \text{Length of side}
+Perimeter of regular pentagon $= 5 \times \text{Length of side}$
 
 As per the question,
 

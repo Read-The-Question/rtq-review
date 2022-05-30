@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-all"
 title: "Topic - Time - All"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10632,7 +10632,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time Josh should get work}                                       &= \text{Time (Start Work)} - (\text{Time taken (Dressed + Breakfast + Driving)}) \\\\
+\text{Time Josh should get up}                                         &= \text{Office time} - (\text{Time to get dressed + Time to eat + Time to drink}) \\\\
                                                                        &= 8{:}15 \ \text{am} - (15 + 20 + 12) \ \text{minutes} \\\\
                                                                        &= 8{:}15 \ \text{am} - 47 \ \text{minutes} \\\\
                                                                        &= 9{:}02 \ \text{am}

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-all"
 title: "Topic - Temperature - All"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -76,7 +76,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature in Paris} &= \text{Temperature in London} - 8 \\\\
+\text{Temperature in Paris}  &= \text{Temperature in London} - 8 \\\\
                              &= 5 - 8 \\\\
                              &= -3  \degree
 \end{aligned}
@@ -113,7 +113,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Difference in temperature} &= 7 - (-5) \\\\
-                             &= 12 \degree
+                                 &= 12 \degree
 \end{aligned}
 $
 

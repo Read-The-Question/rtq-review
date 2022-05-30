@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-pr"
 title: "Topic - Algebra - PR"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -654,10 +654,11 @@ As per the question,
 
 $
 \begin{aligned}
-s \times s      &= 81 \\\\
-s^2             &= 81 \\\\
-s               &= \sqrt{81} \\\\
-s               &= 9  \ \text{m}
+\text{side} \times \text{side}      &= 81 \\\\
+s^2                                 &= 81 \\\\
+s                                   &= \sqrt{81} \\\\
+s                                   &= \sqrt{9 \times 9} \\\\
+s                                   &= 9 \text{m}
 \end{aligned}
 $
 
@@ -1894,7 +1895,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1$ January.
+$1$ January
 
 </div>
 </div>
@@ -5422,6 +5423,201 @@ $40$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
+<p>D420B70D-FFDF-4298-9B28-CB918A886544</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A ruler costs $x$ pence and a pen costs $y$ pence. Which of the statements below represents the cost of $4$ pens and $6$ rulers? Circle your answer
+
+$10xy$
+
+$6x+4y$
+
+$6y+4x$
+
+$10(x+y)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Cost of a ruler}                 &= x \text{pence} \\\\
+\text{Cost of a pen}                   &= y \text{pence} 
+\end{aligned}
+$
+
+Cost of  $6$ ruler and $4$ pens $= 6x + 4y$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$6x + 4y$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>B33A22B5-0C06-4A7C-A218-0C2B9A928463</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When you add up two numbers you get $11$, but when you multiply the two numbers you get $28$. What are the two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a + b               &= 11 \\\\
+a \times b          &= 28
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error.
+
+Factors of $28 = 1, 2, 4, 7, 14, 28$
+
+| Numbers   |  Multiplication  |           Sum           |
+|:-------:  |:---------------: |:----------------------: |
+| $1, 28$   |       $28$       | $1 + 28 = 29 \not = 11$ |
+| $2, 14$   |       $28$       | $2 + 14 = 16 \not = 11$ |
+| $4, 7$    |       $28$       | $4 + 7 = 11$            |
+
+The two numbers are $= 4 \ \text{and} \ 7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{and} \ 7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>5B8D18CD-2CFA-4594-8C03-B6723148134E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A block of chocolate is divided between three friends. Paul gets half of it and Peter gets one third of it. Richard gets $100 \ \text{g}$ of chocolate. How heavy was the bar originally?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of chocolate in the bar $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
+a                                                                                                           &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a + 100 \\\\
+a                                                                                                           &= \dfrac {a} {2} + \dfrac {a} {3} + 100 \\\\
+a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
+\dfrac {a \times 6} {1 \times 6} - \dfrac {a \times 3} {2 \times 3} - \dfrac {a \times 2} {3 \times 2}      &= 100 \\\\
+\dfrac {6a} {6} - \dfrac {3a} {6} - \dfrac {2a} {6}                                                         &= 100 \\\\
+\dfrac {6a - 3a - 2a} {6}                                                                                   &= 100 \\\\
+\dfrac {a} {6}                                                                                              &= 100 \\\\
+a                                                                                                           &= 100 \times 6 \\\\
+a                                                                                                           &= 600 \text{g}
+\end{aligned}
+$
+
+The bar was having $600$ chocolates originally.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$600 \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
 <p>84C4F75A-1071-4AE8-8252-CDE115D02C03</p>
 </div>
 <div class='topics'>
@@ -5445,7 +5641,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money (Martin)} + \text{Money (Gary)}             &= \text{Total money} \\\\
+\text{Money Martin have} + \text{Money Gary have}       &= \text{Total money} \\\\
 a + 13 + a                                              &= \pounds 51 \\\\
 2a                                                      &= 51 - 13 \\\\
 2a                                                      &= 38 \\\\
@@ -5457,14 +5653,11 @@ a                                                       &= \pounds 19
 \end{aligned}
 $
 
-Money Gary have $= \pounds 19$
-
-Let's calculate for Martin
-
 $
 \begin{aligned}
-\text{Money Martin have}                                 &= \pounds 51 - \pounds 19 \\\\
-                                                        &= \pounds 32
+\text{Money Gary have}                                   &= \pounds 19 \\\\
+\text{Money Martin have}                                 &= \pounds 19 + 13 \\\\
+                                                         &= \pounds 32
 \end{aligned}
 $
 

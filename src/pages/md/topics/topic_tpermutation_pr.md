@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpermutation-pr"
 title: "Topic - Permutation - PR"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -27,10 +27,13 @@ Mary has $\text{three}$ brothers and $\text{four}$ sisters. If they, and Mary, a
 <div class='workings'>
 <div class='working'>
 
-Total member = 8
+Total siblings $= 1 + 3 + 4 = 8$
 
 $
 \begin{aligned}
+\text{No. of eggs each buys}            &= \text{Total siblings} - \text{Self} \\\\
+                                        &= 8 - 1 \\\\
+                                        &= 7 \\\\
 \text{Total easter egg required}        &= 8 \times 7 \\\\
                                         &= 56
 \end{aligned}

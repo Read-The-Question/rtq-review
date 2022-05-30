@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -38,6 +38,20 @@ TODOWORKING
 <div class='working'>
 
 TODOWORKING
+
+</div>
+<div class='working'>
+
+Remember to line up the decimal points.
+
+$
+\begin{array}{cccccccccccccc}
+    &    2  &    0 \ .  &    0  &    0 \\
+{}- &    1  &    2 \ .  &    5  &    3 \\
+\hline
+  &         &    7 \ .  &    4  &    7
+\end{array}
+$
 
 </div>
 </div>
@@ -152,7 +166,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$469$
 
 </div>
 </div>
@@ -173,13 +187,15 @@ $402 \div 6 =$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 402 \div 6 \\\\
-&= \dfrac{402}{6} \\\\
-&=  \dfrac{67 \times 6}{6} \\\\
-&=  \dfrac{67 \times \cancel 6}{\cancel 6} \\\\
+&= \dfrac {402} {6} \\\\
+&=  \dfrac {67 \times 6} {6} \\\\
+&=  \dfrac {67 \times \cancel {6}} {\cancel {6}} \\\\
 &=  67
 \end{aligned}
+$
 
 </div>
 </div>
@@ -204,16 +220,7 @@ $67$
 $\pounds 20 - \pounds 12.53$
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-\begin{aligned}
-&= \pounds 20 - \pounds 12.53 \\\\
-&= \pounds 7.47
-\end{aligned}
-
-</div>
-</div>
 <div class='answers'>
 <div class='answer'>
 

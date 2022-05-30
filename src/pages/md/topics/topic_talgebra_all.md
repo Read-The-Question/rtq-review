@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1739,10 +1739,11 @@ As per the question,
 
 $
 \begin{aligned}
-s \times s      &= 81 \\\\
-s^2             &= 81 \\\\
-s               &= \sqrt{81} \\\\
-s               &= 9  \ \text{m}
+\text{side} \times \text{side}      &= 81 \\\\
+s^2                                 &= 81 \\\\
+s                                   &= \sqrt{81} \\\\
+s                                   &= \sqrt{9 \times 9} \\\\
+s                                   &= 9 \text{m}
 \end{aligned}
 $
 
@@ -7508,7 +7509,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1$ January.
+$1$ January
 
 </div>
 </div>
@@ -31482,7 +31483,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>D420B70D-FFDF-4298-9B28-CB918A886544</p>
 </div>
@@ -31515,11 +31516,23 @@ $10(x+y)$
 <div class='workings'>
 <div class='working'>
 
-$6x + 4y$
+As per the question,
+
+$
+\begin{aligned}
+\text{Cost of a ruler}                 &= x \text{pence} \\\\
+\text{Cost of a pen}                   &= y \text{pence} 
+\end{aligned}
+$
+
+Cost of  $6$ ruler and $4$ pens $= 6x + 4y$ 
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
 <div class='answer'>
 
 $6x + 4y$
@@ -31531,7 +31544,7 @@ $6x + 4y$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -31685,7 +31698,7 @@ $5570$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>B33A22B5-0C06-4A7C-A218-0C2B9A928463</p>
 </div>
@@ -31722,25 +31735,20 @@ We can easily infer the values by using trial and error.
 
 Factors of $28 = 1, 2, 4, 7, 14, 28$
 
-| Numbers   |  Multiplication  |  Sum  |
-|:-------:  |:---------------: |:----: |
-| $1, 28$   | $28$             | $29$  |
-| $2, 14$   | $28$             | $16$  |
-| $4, 7$    | $28$             | $11$  |
+| Numbers   |  Multiplication  |           Sum           |
+|:-------:  |:---------------: |:----------------------: |
+| $1, 28$   |       $28$       | $1 + 28 = 29 \not = 11$ |
+| $2, 14$   |       $28$       | $2 + 14 = 16 \not = 11$ |
+| $4, 7$    |       $28$       | $4 + 7 = 11$            |
 
-A quick check shows that $4$ and $7$ meets all the criteria above.
+The two numbers are $= 4 \ \text{and} \ 7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4$
-
-</div>
-<div class='answer'>
-
-$7$
+$4 \ \text{and} \ 7$
 
 </div>
 </div>
@@ -31749,7 +31757,7 @@ $7$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -32213,7 +32221,7 @@ $13 \ \text{and} \ 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>5B8D18CD-2CFA-4594-8C03-B6723148134E</p>
 </div>
@@ -32244,17 +32252,16 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total chocolate}                                                                                      &= \text{Paul} + \text{Peter} + \text{Richard} \\\\
+\text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
 a                                                                                                           &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a + 100 \\\\
 a                                                                                                           &= \dfrac {a} {2} + \dfrac {a} {3} + 100 \\\\
-a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
 a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
 \dfrac {a \times 6} {1 \times 6} - \dfrac {a \times 3} {2 \times 3} - \dfrac {a \times 2} {3 \times 2}      &= 100 \\\\
 \dfrac {6a} {6} - \dfrac {3a} {6} - \dfrac {2a} {6}                                                         &= 100 \\\\
 \dfrac {6a - 3a - 2a} {6}                                                                                   &= 100 \\\\
 \dfrac {a} {6}                                                                                              &= 100 \\\\
 a                                                                                                           &= 100 \times 6 \\\\
-a                                                                                                           &= 600
+a                                                                                                           &= 600 \text{g}
 \end{aligned}
 $
 
@@ -32265,7 +32272,7 @@ The bar was having $600$ chocolates originally.
 <div class='answers'>
 <div class='answer'>
 
-$600$
+$600 \text{g}$
 
 </div>
 </div>
@@ -32274,7 +32281,7 @@ $600$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -32905,7 +32912,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money (Martin)} + \text{Money (Gary)}             &= \text{Total money} \\\\
+\text{Money Martin have} + \text{Money Gary have}       &= \text{Total money} \\\\
 a + 13 + a                                              &= \pounds 51 \\\\
 2a                                                      &= 51 - 13 \\\\
 2a                                                      &= 38 \\\\
@@ -32917,14 +32924,11 @@ a                                                       &= \pounds 19
 \end{aligned}
 $
 
-Money Gary have $= \pounds 19$
-
-Let's calculate for Martin
-
 $
 \begin{aligned}
-\text{Money Martin have}                                 &= \pounds 51 - \pounds 19 \\\\
-                                                        &= \pounds 32
+\text{Money Gary have}                                   &= \pounds 19 \\\\
+\text{Money Martin have}                                 &= \pounds 19 + 13 \\\\
+                                                         &= \pounds 32
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-pr"
 title: "Owner - Sahil Choudhary - PR"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -554,6 +554,65 @@ $265 \ \text{girls}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
+<p>AB7057B1-8C72-4023-A583-CA2D1B61CFD9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of the following has the same remainder when it is divided by $2$
+as when it is divided by $3$?
+
+- $5$
+- $7$
+- $9$
+- $11$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+|    | Remainder <br>Divided by 2 | Remainder <br>Divided by 3 | Remainder |
+|:--:|:--------------------------:|:--------------------------:|:---------:|
+|  5 |              1             |              2             |  Not same |
+|  7 |              1             |              1             |    Same   |
+|  9 |              1             |              0             |  Not same |
+| 11 |              1             |              2             |  Not same |
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
 <p>0A8B9A61-BA92-4D10-A336-920B6CC84AFF</p>
 </div>
 <div class='topics'>
@@ -830,6 +889,27 @@ $
 $
 
 </div>
+<div class='working'>
+
+Alternative solution 
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
+&= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
+&= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
+&= \dfrac {0.4 + 0.5} {2} \\\\
+&= \dfrac {0.9} {2} \\\\
+&= \dfrac {0.9 \times 10} {2 \times 10} \\\\
+&= \dfrac {9} {20}
+&= \dfrac {9} {20}\\\\
+&= 0.45
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -892,6 +972,72 @@ two digits$
 <div class='answer'>
 
 $3 \ \text{and} \ 0$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>D420B70D-FFDF-4298-9B28-CB918A886544</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A ruler costs $x$ pence and a pen costs $y$ pence. Which of the statements below represents the cost of $4$ pens and $6$ rulers? Circle your answer
+
+$10xy$
+
+$6x+4y$
+
+$6y+4x$
+
+$10(x+y)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Cost of a ruler}                 &= x \text{pence} \\\\
+\text{Cost of a pen}                   &= y \text{pence} 
+\end{aligned}
+$
+
+Cost of  $6$ ruler and $4$ pens $= 6x + 4y$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$6x + 4y$
 
 </div>
 </div>
@@ -1226,6 +1372,70 @@ $36 \ \text{minutes}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
+<p>B33A22B5-0C06-4A7C-A218-0C2B9A928463</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When you add up two numbers you get $11$, but when you multiply the two numbers you get $28$. What are the two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a + b               &= 11 \\\\
+a \times b          &= 28
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error.
+
+Factors of $28 = 1, 2, 4, 7, 14, 28$
+
+| Numbers   |  Multiplication  |           Sum           |
+|:-------:  |:---------------: |:----------------------: |
+| $1, 28$   |       $28$       | $1 + 28 = 29 \not = 11$ |
+| $2, 14$   |       $28$       | $2 + 14 = 16 \not = 11$ |
+| $4, 7$    |       $28$       | $4 + 7 = 11$            |
+
+The two numbers are $= 4 \ \text{and} \ 7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{and} \ 7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
 <p>28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C</p>
 </div>
 <div class='topics'>
@@ -1397,15 +1607,15 @@ What is $2\:\:1\diagup2\%$ of $\pounds 600$?
 <div class='workings'>
 <div class='working'>
 
+Using above answer,
+
 $
 \begin{aligned}
 &= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
-&= 2 \dfrac {1} {2}\% \times 600 \\\\
-&= \dfrac {5} {2} \times \dfrac {1 \times 600} {100} \\\\
-&= \dfrac {5 \times 600} {2 \times 100} \\\\
-&= \dfrac {5 \times 2 \times 3 \times 100} {2 \times 100} \\\\
-&= \dfrac {5 \times \cancel{2} \times 3 \times \cancel{100}} {\cancel{2} \times \cancel{100}} \\\\
-&= 5 \times 3 \\\\
+&= \dfrac {5\%} {2} \times 600 \\\\
+&= \dfrac {5\% \times 600} {2} \\\\
+&= \dfrac {30} {2} \\\\
+&= \dfrac {\cancel{2} \times 15} {\cancel{2}} \\\\
 &= \pounds 15
 \end{aligned}
 $
@@ -1436,15 +1646,13 @@ Use your answers to find $17\:\: 1\diagup2\%$ of $\pounds 600$
 <div class='workings'>
 <div class='working'>
 
+Using above answer,
+
 $
 \begin{aligned}
 &= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
-&= 17 \dfrac {1} {2}\% \times 600 \\\\
-&= \dfrac {35} {2} \times \dfrac {1 \times 600} {100} \\\\
-&= \dfrac {35 \times 600} {2 \times 100} \\\\
-&= \dfrac {35 \times 2 \times 3 \times 100} {2 \times 100} \\\\
-&= \dfrac {35 \times \cancel{2} \times 3 \times \cancel{100}} {\cancel{2} \times \cancel{100}} \\\\
-&= 35 \times 3 \\\\
+&= (10\% + 5\% + 2 \dfrac {1} {2}\%) \ \text{of} \ 600 \\\\
+&= 60 + 30 + 15 \\\\
 &= \pounds 105
 \end{aligned}
 $
@@ -1507,12 +1715,13 @@ $
 \end{aligned}
 $
 
-Using the answer to find $\dfrac {4} {9} \text{of} 360$.
+Using the above answer to find $\dfrac {4} {9} \ \text{of} \ 360$.
 
 $
 \begin{aligned}
-&= \dfrac {4} {9} \text{of} 360 \\\\
-&= 4 \times \dfrac {1 \times 360} {9} \\\\
+&= \dfrac {4} {9} \ \text{of} \ 360 \\\\
+&= \dfrac {4} {9} \times 360 \\\\
+&= 4 \times \dfrac {360} {9} \\\\
 &= 4 \times 40 \\\\
 &= 160
 \end{aligned}
@@ -1523,8 +1732,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\
-\dfrac {4} {9} \text{ of } 360 \ = \ 160$
+$\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\\ \\\\ \dfrac {4} {9} \text{ of } 360 \ = \ 160$
 
 </div>
 </div>
@@ -1561,6 +1769,26 @@ tmiddlenumber
 <div class='working'>
 
 %empty%
+
+</div>
+<div class='working'>
+
+Let's first list down other percentages between $75\%$ and $80\%$ and then convert the same into decimal.
+
+$
+\begin{aligned}
+&= 75 \%, \quad \underline{76\%}, \quad \underline{77\%}, \quad \underline{78\%}, \quad \underline{79\%}, \quad 80\% \\\\
+\end{aligned}
+$
+
+Let's convert 76\% into decimal.
+
+$
+\begin{aligned}
+&= \dfrac {76} {100}\\\\
+&= 0.76
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1601,7 +1829,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.775
+$0.76 \ \text{or} \ 0.775$
 
 </div>
 </div>
@@ -1744,9 +1972,9 @@ To find the biggest number that divides exactly into $60$, $72$, and $84$, we ne
 
 $
 \begin{aligned}
-\text {Prime Factors of} \ 60 &= \bold {2 \times 2 \times 3} \times 5 \\\\
-\text {Prime Factors of} \ 72 &= \bold {2 \times 2 \times 3} \times 2 \times 3 \\\\
-\text {Prime Factors of} \ 84 &= \bold {2 \times 2 \times 3} \times 7
+\text {Prime factors of} \ 60 &= \bold {2 \times 2 \times 3} \times 5 \\\\
+\text {Prime factors of} \ 72 &= \bold {2 \times 2 \times 3} \times 2 \times 3 \\\\
+\text {Prime factors of} \ 84 &= \bold {2 \times 2 \times 3} \times 7
 \end{aligned}
 $
 
@@ -1758,6 +1986,8 @@ $
 &= 12
 \end{aligned}
 $
+
+The biggest number that divides exactly into $60$, $72$, and $84 = 12$
 
 </div>
 </div>
@@ -1849,8 +2079,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Distance}                                         &= \text{Distance between the post} \times \text{Total post - 1} \\\\\
-                                                        &= 25 \text{m} \times 4 - 1 \\\\\
+\text{Distance}                                         &= \text{Distance between the post} \times (\text{Total posts - 1}) \\\\\
+                                                        &= 25 \text{m} \times (4 - 1) \\\\\
                                                         &= 25 \times 3 \\\\\
                                                         &= 75 \text{m}
 \end{aligned}
@@ -1899,17 +2129,18 @@ $12\:\: 234\:\: 3456\:\: 45678\:\: 567890$
 <div class='workings'>
 <div class='working'>
 
-As we know that a number is divisible by 3 if the sum of all its digits is divisible by 3. Using that,
+As we know that a number is divisible by 3, if the sum of all its digits is divisible by 3. Using that,
 
 | Number    |         Sum                                           | Multiple of $3$
-|:------:   |:----------------------------------------------------: | :-----:
+|:--------: |:----------------------------------------------------: | :-----:
 |  $12$     | $1 + 2 = \red{3}$                                     |  Yes
 |  $234$    | $2 + 3 + 4 = \red{9}$                                 |  Yes
 |  $3456$   | $3 + 4 + 5 + 6 = \red{15}$                            |  Yes
 |  $45678$  | $4 + 5 + 6 + 7 + 8 = \red{30}$                        |  Yes
 |  $567890$ | $5 + 6 + 7 + 8 + 9 + 0 = \green{35}$                  |  No
 
-Answer $= 567890$
+
+The number which is not a multiple of $3 = 567890$
 
 </div>
 </div>
@@ -1952,10 +2183,13 @@ Mary has $\text{three}$ brothers and $\text{four}$ sisters. If they, and Mary, a
 <div class='workings'>
 <div class='working'>
 
-Total member = 8
+Total siblings $= 1 + 3 + 4 = 8$
 
 $
 \begin{aligned}
+\text{No. of eggs each buys}            &= \text{Total siblings} - \text{Self} \\\\
+                                        &= 8 - 1 \\\\
+                                        &= 7 \\\\
 \text{Total easter egg required}        &= 8 \times 7 \\\\
                                         &= 56
 \end{aligned}
@@ -2004,7 +2238,7 @@ A transport company’s vans each carry a maximum load of $12$ tonnes. A firm ne
 
 $
 \begin{aligned}
-\text{Total vans needed}                &= \dfrac {\text{Total crates} \times \text{weight of 1 crate}} {\text{Maximum weight van can take}} \\\\
+\text{Total vans needed}                &= \dfrac {\text{Total crates} \times \text{weight of 1 crate}} {\text{Maximum load van can take}} \\\\
                                         &= \dfrac {24 \times 5} {12} \\\\
                                         &= \dfrac {2 \times 12 \times 5} {12} \\\\
                                         &= \dfrac {2 \times \cancel{12} \times 5} {\cancel{12}} \\\\
@@ -2056,6 +2290,10 @@ $0.89\:\: 0.9\:\: 0.17\:\: 0.72\:\: 0.73$
 <div class='workings'>
 <div class='working'>
 
+Let's arrange them in ascending order.
+
+$= 0.17< \quad 0.72< \quad 0.73< \quad 0.89< \quad 0.9$
+
 $
 \begin{aligned}
 \text{Largest number}                   &= 0.9 \\\\
@@ -2106,20 +2344,20 @@ Write down a decimal between $90\%$ and $95\%$
 <div class='workings'>
 <div class='working'>
 
-Let's first list down other percentages between $90\%$ and $95\%$ and then convert one of them into decimal, as asked in the question.
+Let's first list down other percentages between $90\%$ and $95\%$ and then convert the same into decimal.
 
-
+$
 \begin{aligned}
 &= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
 \end{aligned}
+$
 
+Let's convert 91\% into decimal.
 
-Let's convert 92\% into decimal.
-
-
+$
 \begin{aligned}
-&= \dfrac {92} {100}\\\\
-&= 0.92
+&= \dfrac {91} {100}\\\\
+&= 0.91
 \end{aligned}
 $
 
@@ -2141,7 +2379,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.925$
+$0.91 \ \text{or} \ 0.925$
 
 </div>
 </div>
@@ -2197,6 +2435,64 @@ $\dfrac {17} {20}$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
+<p>11864F13-15AE-442B-A8E6-F4F08A54A7D5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the $100^\text{th}$ symbol in this endless string of symbols
+
+&f=&f=&f=&f=&?=
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+After oberserving the pattern, the first symbol is &, second is f and third is =. This pattern is repeating in a set of 3.
+
+As per the question,
+
+$
+\begin{aligned}
+&= \dfrac {100} {3} \\\\
+&= 33 \dfrac {1} {3}
+\end{aligned}
+$
+
+As the remainder is $1$, The symbol in the first position is going to repeat in the $100$th position.
+
+The $100$th symbol is $=$ &
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+&
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
 <p>B97B18CD-B34D-453F-BF68-4ECBC5621406</p>
 </div>
 <div class='topics'>
@@ -2221,11 +2517,23 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Sum of first 40 whole number}             &= \dfrac {40 (40 + 1)} {2} \\\\
-                                                &= \dfrac {2 \times 20 \times 41} {2} \\\\
-                                                &= \dfrac {\cancel{2} \times 20 \times 41} {\cancel{2}} \\\\
-                                                &= 20 \times 41 \\\\
-                                                &= 820
+\text{First number}                             &= 1 \\\\
+\text{Last number}                              &= 40 \\\\
+\text{Difference between consecutive numbers}   &= 1 \\\\
+\text{Total numbers}                            &= 40 \\\\
+\end{aligned}
+$
+
+Let's find the sum of  first 40 whole numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\text{Total numbers}} {2} \times (\text{First term + Last term}) \\\\
+&= \dfrac {40} {2} \times (1 + 40) \\\\
+&= \dfrac {2 \times 20} {2} \times 41 \\\\
+&= \dfrac {\cancel{2} \times 20} {\cancel{2}} \times 41 \\\\
+&= 20 \times 41 \\\\
+&= 820
 \end{aligned}
 $
 
@@ -2241,6 +2549,121 @@ $820$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>5B8D18CD-2CFA-4594-8C03-B6723148134E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A block of chocolate is divided between three friends. Paul gets half of it and Peter gets one third of it. Richard gets $100 \ \text{g}$ of chocolate. How heavy was the bar originally?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of chocolate in the bar $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
+a                                                                                                           &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a + 100 \\\\
+a                                                                                                           &= \dfrac {a} {2} + \dfrac {a} {3} + 100 \\\\
+a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
+\dfrac {a \times 6} {1 \times 6} - \dfrac {a \times 3} {2 \times 3} - \dfrac {a \times 2} {3 \times 2}      &= 100 \\\\
+\dfrac {6a} {6} - \dfrac {3a} {6} - \dfrac {2a} {6}                                                         &= 100 \\\\
+\dfrac {6a - 3a - 2a} {6}                                                                                   &= 100 \\\\
+\dfrac {a} {6}                                                                                              &= 100 \\\\
+a                                                                                                           &= 100 \times 6 \\\\
+a                                                                                                           &= 600 \text{g}
+\end{aligned}
+$
+
+The bar was having $600$ chocolates originally.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$600 \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>48808E0F-DECB-4D83-B293-06E1EB8FC2E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I have $6$ blue counters and $4$ red counters in a bag. What is the probability of choosing a red counter when I take a counter out of the bag? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Probability $= \dfrac{\text {Number of favorable outcomes}} {\text{Total number of outcomes}}$
+
+$
+\begin{aligned}
+\text{Probability of choosing red counter}      &= \dfrac {4} {6 + 4} \\\\
+                                                &= \dfrac {4} {10} \\\\
+                                                &= \dfrac {2 \times 2} {2 \times 5} \\\\
+                                                &= \dfrac {\cancel{2} \times 2} {\cancel{2} \times 5} \\\\
+                                                &= \dfrac {2} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
@@ -2274,7 +2697,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time Josh should get work}                                       &= \text{Time (Start Work)} - (\text{Time taken (Dressed + Breakfast + Driving)}) \\\\
+\text{Time Josh should get up}                                         &= \text{Office time} - (\text{Time to get dressed + Time to eat + Time to drink}) \\\\
                                                                        &= 8{:}15 \ \text{am} - (15 + 20 + 12) \ \text{minutes} \\\\
                                                                        &= 8{:}15 \ \text{am} - 47 \ \text{minutes} \\\\
                                                                        &= 9{:}02 \ \text{am}
@@ -2393,7 +2816,7 @@ A regular pentagon has the same side length as the square. What is its perimeter
 <div class='workings'>
 <div class='working'>
 
-Perimeter of regular pentagon $= 5 \times \text{Length of side}
+Perimeter of regular pentagon $= 5 \times \text{Length of side}$
 
 As per the question,
 
@@ -2458,7 +2881,7 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
+\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Width of path} \times \text{Width of garden - 2} \times \text{Width of path}\\\\
                                                    &= 15 \ \text{m} - 2 \ \text{m} \times 2 \ \text{m} \times 12 \text{m} - 2 \ \text{m} \times 2 \ \text{m} \\\\
                                                    &= 15 \ \text{m} - 4 \ \text{m} \times 12 \ \text{m} - 4 \ \text{m} \\\\
                                                    &= 11 \ \text{m} \times 8 \ \text{m} \\\\
@@ -2514,7 +2937,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money (Martin)} + \text{Money (Gary)}             &= \text{Total money} \\\\
+\text{Money Martin have} + \text{Money Gary have}       &= \text{Total money} \\\\
 a + 13 + a                                              &= \pounds 51 \\\\
 2a                                                      &= 51 - 13 \\\\
 2a                                                      &= 38 \\\\
@@ -2526,14 +2949,11 @@ a                                                       &= \pounds 19
 \end{aligned}
 $
 
-Money Gary have $= \pounds 19$
-
-Let's calculate for Martin
-
 $
 \begin{aligned}
-\text{Money Martin have}                                 &= \pounds 51 - \pounds 19 \\\\
-                                                        &= \pounds 32
+\text{Money Gary have}                                   &= \pounds 19 \\\\
+\text{Money Martin have}                                 &= \pounds 19 + 13 \\\\
+                                                         &= \pounds 32
 \end{aligned}
 $
 
@@ -2569,7 +2989,7 @@ tvenn
 </div>
 <div class='question question'>
 
-In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars are blue. How many cares are there that are neither red nor blue?
+In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars are blue. How many cars are there that are neither red nor blue?
 
 </div>
 <div class='workings'>
@@ -2579,7 +2999,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cars (Neither blue nor red)}            &= \text{Total Cars - Red Cars - Blue Cars}  \\\\
+\text{Cars neither red nor blue}              &= \text{Total cars - Red cars - Blue cars}  \\\\
                                               &= 60 - \dfrac {5} {12} \times 60 - 20\% \times 60 \\\\
                                               &= 60 - \dfrac {5 \times 60} {12} - \dfrac {20 \times 60} {100} \\\\
                                               &= 60 - \dfrac {5 \times 5 \times 12} {12} -  \dfrac {20 \times 5 \times 12} {20 \times 5} \\\\
@@ -2686,16 +3106,16 @@ If Ian pays with a $\pounds 2$ coin how much change would Ian get? Give your ans
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - (3 \times \text{Cost (Bananas)} + 5 \times \text{Cost (Apples)}) \\\\
-                                                &= \pounds 2 - (3 \times 12 \text{p} + 5 \times 11 \text{p}) \\\\
-                                                &= \pounds 2 - (36 \text{p} + 55 \text{p}) \\\\
+\text{Change he will get}                       &= \text{Total money} - 3 \times \text{Cost of a banana} - 5 \times \text{Cost of an apple} \\\\
+                                                &= \pounds 2 - 3 \times 12 \text{p} - 5 \times 11 \text{p} \\\\
+                                                &= \pounds 2 - 36 \text{p} - 55 \text{p} \\\\
                                                 &= \pounds 2 - 91 \text{p} \\\\
-                                                &= \pounds 2 - \pounds \dfrac {91} {100} \\\\
-                                                &= 2 - 0.91 \\\\
+                                                &= \pounds 2 - \pounds 0.91 \\\\
                                                 &= \pounds 1.09 \\\\
-                                                &= 1.09 \times 100 \text{p} \\\\
                                                 &= 109 \ \text{pence}
 \end{aligned}
 $
@@ -2744,14 +3164,16 @@ If Imogen pays with a £5 note how much change would Imogen get?
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
+
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - (4 \times \text{Cost (Star)} + 7 \times \text{Cost (Imogen)}) \\\\
+\text{Change he will get}                       &= \text{Total money} - (4 \times \text{Cost of a star sticker} + 7 \times \text{Cost of a moon sticker}) \\\\
                                                 &= \pounds 5 - (4 \times 15 \text{p} + 7 \times 16 \text{p}) \\\\
                                                 &= \pounds 5 - (60 \text{p} + 112 \text{p}) \\\\
                                                 &= \pounds 5 - 172 \text{p} \\\\
-                                                &= \pounds 5 - \pounds \dfrac {172} {100} \\\\
-                                                &= 5 - 1.72 \\\\
+                                                &= \pounds 5 - \pounds 1.72 \\\\
                                                 &= \pounds 3.28
 \end{aligned}
 $

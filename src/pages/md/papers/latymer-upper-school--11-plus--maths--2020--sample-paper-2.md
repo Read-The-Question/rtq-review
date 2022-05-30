@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-2"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1432,10 +1432,10 @@ Divide $1898$ by $26$
 
 $
 \begin{aligned}
-1898 \div 26 \\\\
-&= \dfrac{1898}{26} \\\\
-&=  \dfrac{73 \times 26}{26} \\\\
-&=  \dfrac{73 \times \cancel {26}}{\cancel {26}} \\\\
+&=  1898 \div 26 \\\\
+&=  \dfrac {1898} {26} \\\\
+&=  \dfrac {73 \times 26} {26} \\\\
+&=  \dfrac {73 \times \cancel {26}} {\cancel {26}} \\\\
 &=  73
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -433,7 +433,7 @@ $
 &&  \footnotesize{\maroonC{(+3)}}  
 &&  \footnotesize{\maroonC{(+3)}}   
 &&  \footnotesize{\maroonC{(+3)}}  \\
-4,  &&      \ldots  &&      10,   &&      13,  &&      \ldots 
+4,  &&      \ldots , &&      10,   &&      13,  &&      \ldots 
 \end{matrix}
 $
 
@@ -531,11 +531,9 @@ $
 &&  \footnotesize{\maroonC{(-3)}}  
 &&  \footnotesize{\maroonC{(-3)}}   
 &&  \footnotesize{\maroonC{(-3)}}  \\
-\ldots,  &&      6  &&      3,   &&      0,  &&      -3
+\ldots,  &&      6 , &&      3,   &&      0,  &&      -3
 \end{matrix}
 $
-
-Missing number is 
 
 $
 \begin{aligned}

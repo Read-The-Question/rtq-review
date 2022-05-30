@@ -1,7 +1,7 @@
 ---
 slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
 title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -175,10 +175,10 @@ $53 \times 9$
 
 $
 \begin{array}{cccccccccccccc}
-       &              &   5   &   3 \\
-       &    \times    &       &   9 \\
+               &   5   &   3 \\
+    \times     &       &   9 \\
 \hline
-       &    4         &   7   &   7
+           4   &   7   &   7
 \end{array}
 $
 
@@ -210,13 +210,13 @@ $37 \times 23$
 
 $
 \begin{array}{cccccccccccccc}
-       &              &   3   &   7 \\
-       &    \times    &   2   &   3 \\
+                     &   3   &   7 \\
+           \times    &   2   &   3 \\
 \hline
-       &    1         &   1   &   1 \\
-       &    7         &   4   &   0 \\
+           1         &   1   &   1 \\
+           7         &   4   &   0 \\
 \hline
-       &    8         &   5   &   1     
+           8         &   5   &   1     
 \end{array}
 $
 
@@ -248,10 +248,10 @@ $238 \div 7$
 
 $
 \begin{aligned}
-238 \div 7 \\\\
-&=  \dfrac{238}{7} \\\\
-&=  \dfrac{34 \times 7}{7} \\\\
-&=  \dfrac{34 \times \cancel 7}{\cancel 7} \\\\
+&=  238 \div 7 \\\\
+&=  \dfrac {238} {7} \\\\
+&=  \dfrac {34 \times 7} {7} \\\\
+&=  \dfrac {34 \times \cancel {7}} {\cancel {7}} \\\\
 &=   34
 \end{aligned}
 $
@@ -284,10 +284,10 @@ $442 \div 17$
 
 $
 \begin{aligned}
-442 \div 17 \\\\
-&=  \dfrac{442}{17} \\\\
-&=  \dfrac{26 \times 17}{17} \\\\
-&=  \dfrac{26 \times \cancel {17}}{\cancel {17}} \\\\
+&=  442 \div 17 \\\\
+&=  \dfrac {442} {17} \\\\
+&=  \dfrac {26 \times 17} {17} \\\\
+&=  \dfrac {26 \times \cancel {17} {\cancel {17}} \\\\
 &=   26
 \end{aligned}
 $

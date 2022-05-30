@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7"
 title: "Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -600,7 +600,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Time Josh should get work}                                       &= \text{Time (Start Work)} - (\text{Time taken (Dressed + Breakfast + Driving)}) \\\\
+\text{Time Josh should get up}                                         &= \text{Office time} - (\text{Time to get dressed + Time to eat + Time to drink}) \\\\
                                                                        &= 8{:}15 \ \text{am} - (15 + 20 + 12) \ \text{minutes} \\\\
                                                                        &= 8{:}15 \ \text{am} - 47 \ \text{minutes} \\\\
                                                                        &= 9{:}02 \ \text{am}
@@ -901,7 +901,7 @@ A regular pentagon has the same side length as the square. What is its perimeter
 <div class='workings'>
 <div class='working'>
 
-Perimeter of regular pentagon $= 5 \times \text{Length of side}
+Perimeter of regular pentagon $= 5 \times \text{Length of side}$
 
 As per the question,
 
@@ -1159,7 +1159,7 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Length of path} \times \text{Width of garden - 2} \times \text{Length of path}\\\\
+\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Width of path} \times \text{Width of garden - 2} \times \text{Width of path}\\\\
                                                    &= 15 \ \text{m} - 2 \ \text{m} \times 2 \ \text{m} \times 12 \text{m} - 2 \ \text{m} \times 2 \ \text{m} \\\\
                                                    &= 15 \ \text{m} - 4 \ \text{m} \times 12 \ \text{m} - 4 \ \text{m} \\\\
                                                    &= 11 \ \text{m} \times 8 \ \text{m} \\\\
@@ -1215,7 +1215,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money (Martin)} + \text{Money (Gary)}             &= \text{Total money} \\\\
+\text{Money Martin have} + \text{Money Gary have}       &= \text{Total money} \\\\
 a + 13 + a                                              &= \pounds 51 \\\\
 2a                                                      &= 51 - 13 \\\\
 2a                                                      &= 38 \\\\
@@ -1227,14 +1227,11 @@ a                                                       &= \pounds 19
 \end{aligned}
 $
 
-Money Gary have $= \pounds 19$
-
-Let's calculate for Martin
-
 $
 \begin{aligned}
-\text{Money Martin have}                                 &= \pounds 51 - \pounds 19 \\\\
-                                                        &= \pounds 32
+\text{Money Gary have}                                   &= \pounds 19 \\\\
+\text{Money Martin have}                                 &= \pounds 19 + 13 \\\\
+                                                         &= \pounds 32
 \end{aligned}
 $
 
@@ -1443,7 +1440,7 @@ tvenn
 </div>
 <div class='question question'>
 
-In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars are blue. How many cares are there that are neither red nor blue?
+In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars are blue. How many cars are there that are neither red nor blue?
 
 </div>
 <div class='workings'>
@@ -1453,7 +1450,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cars (Neither blue nor red)}            &= \text{Total Cars - Red Cars - Blue Cars}  \\\\
+\text{Cars neither red nor blue}              &= \text{Total cars - Red cars - Blue cars}  \\\\
                                               &= 60 - \dfrac {5} {12} \times 60 - 20\% \times 60 \\\\
                                               &= 60 - \dfrac {5 \times 60} {12} - \dfrac {20 \times 60} {100} \\\\
                                               &= 60 - \dfrac {5 \times 5 \times 12} {12} -  \dfrac {20 \times 5 \times 12} {20 \times 5} \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-all"
 title: "Topic - Infer - All"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -19510,7 +19510,7 @@ $3 \ \text{and} \ 0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>D420B70D-FFDF-4298-9B28-CB918A886544</p>
 </div>
@@ -19543,11 +19543,23 @@ $10(x+y)$
 <div class='workings'>
 <div class='working'>
 
-$6x + 4y$
+As per the question,
+
+$
+\begin{aligned}
+\text{Cost of a ruler}                 &= x \text{pence} \\\\
+\text{Cost of a pen}                   &= y \text{pence} 
+\end{aligned}
+$
+
+Cost of  $6$ ruler and $4$ pens $= 6x + 4y$ 
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
 <div class='answer'>
 
 $6x + 4y$
@@ -19559,7 +19571,7 @@ $6x + 4y$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -20659,9 +20671,9 @@ To find the biggest number that divides exactly into $60$, $72$, and $84$, we ne
 
 $
 \begin{aligned}
-\text {Prime Factors of} \ 60 &= \bold {2 \times 2 \times 3} \times 5 \\\\
-\text {Prime Factors of} \ 72 &= \bold {2 \times 2 \times 3} \times 2 \times 3 \\\\
-\text {Prime Factors of} \ 84 &= \bold {2 \times 2 \times 3} \times 7
+\text {Prime factors of} \ 60 &= \bold {2 \times 2 \times 3} \times 5 \\\\
+\text {Prime factors of} \ 72 &= \bold {2 \times 2 \times 3} \times 2 \times 3 \\\\
+\text {Prime factors of} \ 84 &= \bold {2 \times 2 \times 3} \times 7
 \end{aligned}
 $
 
@@ -20673,6 +20685,8 @@ $
 &= 12
 \end{aligned}
 $
+
+The biggest number that divides exactly into $60$, $72$, and $84 = 12$
 
 </div>
 </div>
@@ -21113,7 +21127,7 @@ A transport company’s vans each carry a maximum load of $12$ tonnes. A firm ne
 
 $
 \begin{aligned}
-\text{Total vans needed}                &= \dfrac {\text{Total crates} \times \text{weight of 1 crate}} {\text{Maximum weight van can take}} \\\\
+\text{Total vans needed}                &= \dfrac {\text{Total crates} \times \text{weight of 1 crate}} {\text{Maximum load van can take}} \\\\
                                         &= \dfrac {24 \times 5} {12} \\\\
                                         &= \dfrac {2 \times 12 \times 5} {12} \\\\
                                         &= \dfrac {2 \times \cancel{12} \times 5} {\cancel{12}} \\\\
@@ -21297,7 +21311,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>11864F13-15AE-442B-A8E6-F4F08A54A7D5</p>
 </div>
@@ -21332,9 +21346,9 @@ $
 \end{aligned}
 $
 
-As the remainder is $1$, The symbol in the first position is going to repeat in the $100^{\text{th}}$.
+As the remainder is $1$, The symbol in the first position is going to repeat in the $100$th position.
 
-The $100^{\text{th}}$ symbol is $=$ &
+The $100$th symbol is $=$ &
 
 </div>
 </div>
@@ -21350,7 +21364,7 @@ The $100^{\text{th}}$ symbol is $=$ &
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -21423,7 +21437,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>5B8D18CD-2CFA-4594-8C03-B6723148134E</p>
 </div>
@@ -21454,17 +21468,16 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total chocolate}                                                                                      &= \text{Paul} + \text{Peter} + \text{Richard} \\\\
+\text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
 a                                                                                                           &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a + 100 \\\\
 a                                                                                                           &= \dfrac {a} {2} + \dfrac {a} {3} + 100 \\\\
-a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
 a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
 \dfrac {a \times 6} {1 \times 6} - \dfrac {a \times 3} {2 \times 3} - \dfrac {a \times 2} {3 \times 2}      &= 100 \\\\
 \dfrac {6a} {6} - \dfrac {3a} {6} - \dfrac {2a} {6}                                                         &= 100 \\\\
 \dfrac {6a - 3a - 2a} {6}                                                                                   &= 100 \\\\
 \dfrac {a} {6}                                                                                              &= 100 \\\\
 a                                                                                                           &= 100 \times 6 \\\\
-a                                                                                                           &= 600
+a                                                                                                           &= 600 \text{g}
 \end{aligned}
 $
 
@@ -21475,7 +21488,7 @@ The bar was having $600$ chocolates originally.
 <div class='answers'>
 <div class='answer'>
 
-$600$
+$600 \text{g}$
 
 </div>
 </div>
@@ -21484,7 +21497,7 @@ $600$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>

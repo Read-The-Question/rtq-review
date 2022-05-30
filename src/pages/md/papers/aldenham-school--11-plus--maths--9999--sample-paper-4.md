@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-4"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1045,7 +1045,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature in Paris} &= \text{Temperature in London} - 8 \\\\
+\text{Temperature in Paris}  &= \text{Temperature in London} - 8 \\\\
                              &= 5 - 8 \\\\
                              &= -3  \degree
 \end{aligned}
@@ -1082,7 +1082,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Difference in temperature} &= 7 - (-5) \\\\
-                             &= 12 \degree
+                                 &= 12 \degree
 \end{aligned}
 $
 

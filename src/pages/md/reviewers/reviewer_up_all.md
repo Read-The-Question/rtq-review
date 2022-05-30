@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-all"
 title: "Reviewer - Uday Pandey - All"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13214,6 +13214,27 @@ $
 $
 
 </div>
+<div class='working'>
+
+Alternative solution 
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
+&= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
+&= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
+&= \dfrac {0.4 + 0.5} {2} \\\\
+&= \dfrac {0.9} {2} \\\\
+&= \dfrac {0.9 \times 10} {2 \times 10} \\\\
+&= \dfrac {9} {20}
+&= \dfrac {9} {20}\\\\
+&= 0.45
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -15355,6 +15376,26 @@ tmiddlenumber
 %empty%
 
 </div>
+<div class='working'>
+
+Let's first list down other percentages between $75\%$ and $80\%$ and then convert the same into decimal.
+
+$
+\begin{aligned}
+&= 75 \%, \quad \underline{76\%}, \quad \underline{77\%}, \quad \underline{78\%}, \quad \underline{79\%}, \quad 80\% \\\\
+\end{aligned}
+$
+
+Let's convert 76\% into decimal.
+
+$
+\begin{aligned}
+&= \dfrac {76} {100}\\\\
+&= 0.76
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -15393,7 +15434,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.775
+$0.76 \ \text{or} \ 0.775$
 
 </div>
 </div>
@@ -15931,10 +15972,13 @@ Mary has $\text{three}$ brothers and $\text{four}$ sisters. If they, and Mary, a
 <div class='workings'>
 <div class='working'>
 
-Total member = 8
+Total siblings $= 1 + 3 + 4 = 8$
 
 $
 \begin{aligned}
+\text{No. of eggs each buys}            &= \text{Total siblings} - \text{Self} \\\\
+                                        &= 8 - 1 \\\\
+                                        &= 7 \\\\
 \text{Total easter egg required}        &= 8 \times 7 \\\\
                                         &= 56
 \end{aligned}

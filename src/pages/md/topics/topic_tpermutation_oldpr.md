@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpermutation-oldpr"
 title: "Topic - Permutation - Old PR"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>

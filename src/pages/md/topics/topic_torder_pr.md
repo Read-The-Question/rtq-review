@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-pr"
 title: "Topic - Order - PR"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -145,10 +145,10 @@ Let's calculate the first value.
 
 $
 \begin{aligned}
-&= 15\% \text{ of } \pounds 300 \\\\
-&= \dfrac{15}{100} \times 300 \\\\
-&= \dfrac{15 \times 300}{100}  \\\\
-&= \dfrac{15 \times 3\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 15\% \text{of} \pounds 300 \\\\
+&= \dfrac {15} {100} \times 300 \\\\
+&= \dfrac {15 \times 300} {100}  \\\\
+&= \dfrac {15 \times 3\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
 &= 15 \times 3  \\\\
 &= \pounds 45
 \end{aligned}
@@ -158,10 +158,10 @@ Let's calculate the second value.
 
 $
 \begin{aligned}
-&= 20\% \text{ of } \pounds 240 \\\\
-&= \dfrac{20}{100} \times 240 \\\\
-&= \dfrac{20 \times 240}{100}  \\\\
-&= \dfrac{2\cancel{0} \times 24\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 20\% \text{of} \pounds 240 \\\\
+&= \dfrac {20} {100} \times 240 \\\\
+&= \dfrac {20 \times 240} {100}  \\\\
+&= \dfrac {2\cancel{0} \times 24\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
 &= 2 \times 24  \\\\
 &= \pounds 48
 \end{aligned}
@@ -201,10 +201,10 @@ Let's calculate the first value.
 
 $
 \begin{aligned}
-&= \dfrac {2}{5} \text{ of } \pounds 40 \\\\
-&= \dfrac{2 \times 40}{5} \\\\
-&= \dfrac{2 \times 5 \times 8}{5} \\\\
-&= \dfrac{2 \times \cancel{5} \times 8}{\cancel{5}} \\\\
+&= \dfrac {2} {5} \text{ of } \pounds 40 \\\\
+&= \dfrac {2 \times 40} {5} \\\\
+&= \dfrac{2 \times 5 \times 8} {5} \\\\
+&= \dfrac {2 \times \cancel{5} \times 8} {\cancel{5}} \\\\
 &= 2 \times 8 \\\\
 &= \pounds 16
 \end{aligned}
@@ -215,10 +215,10 @@ Let's calculate the second value.
 $
 \begin{aligned}
 &= 25\% \text{ of } \pounds 64 \\\\
-&= \dfrac{25}{100} \times 64 \\\\
-&= \dfrac{25 \times 64}{100}  \\\\
-&= \dfrac{1600}{100}  \\\\
-&= \dfrac{16\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= \dfrac {25} {100} \times 64 \\\\
+&= \dfrac {25 \times 64} {100}  \\\\
+&= \dfrac {1600} {100}  \\\\
+&= \dfrac {16\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
 &= \pounds 16
 \end{aligned}
 $

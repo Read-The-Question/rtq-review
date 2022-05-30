@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-all"
 title: "Topic - Unitprompt - All"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2540,16 +2540,16 @@ If Ian pays with a $\pounds 2$ coin how much change would Ian get? Give your ans
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - (3 \times \text{Cost (Bananas)} + 5 \times \text{Cost (Apples)}) \\\\
-                                                &= \pounds 2 - (3 \times 12 \text{p} + 5 \times 11 \text{p}) \\\\
-                                                &= \pounds 2 - (36 \text{p} + 55 \text{p}) \\\\
+\text{Change he will get}                       &= \text{Total money} - 3 \times \text{Cost of a banana} - 5 \times \text{Cost of an apple} \\\\
+                                                &= \pounds 2 - 3 \times 12 \text{p} - 5 \times 11 \text{p} \\\\
+                                                &= \pounds 2 - 36 \text{p} - 55 \text{p} \\\\
                                                 &= \pounds 2 - 91 \text{p} \\\\
-                                                &= \pounds 2 - \pounds \dfrac {91} {100} \\\\
-                                                &= 2 - 0.91 \\\\
+                                                &= \pounds 2 - \pounds 0.91 \\\\
                                                 &= \pounds 1.09 \\\\
-                                                &= 1.09 \times 100 \text{p} \\\\
                                                 &= 109 \ \text{pence}
 \end{aligned}
 $

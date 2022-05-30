@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1274,14 +1274,16 @@ If Imogen pays with a £5 note how much change would Imogen get?
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
+
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - (4 \times \text{Cost (Star)} + 7 \times \text{Cost (Imogen)}) \\\\
+\text{Change he will get}                       &= \text{Total money} - (4 \times \text{Cost of a star sticker} + 7 \times \text{Cost of a moon sticker}) \\\\
                                                 &= \pounds 5 - (4 \times 15 \text{p} + 7 \times 16 \text{p}) \\\\
                                                 &= \pounds 5 - (60 \text{p} + 112 \text{p}) \\\\
                                                 &= \pounds 5 - 172 \text{p} \\\\
-                                                &= \pounds 5 - \pounds \dfrac {172} {100} \\\\
-                                                &= 5 - 1.72 \\\\
+                                                &= \pounds 5 - \pounds 1.72 \\\\
                                                 &= \pounds 3.28
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1486,7 +1486,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Difference}    &=  872 - 523 \\\\
-                     &=  340 
+                     &=  349 
 \end{aligned}
 $
 
@@ -1495,7 +1495,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$340$
+$349$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-pr"
 title: "Topic - Percentage - PR"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -813,15 +813,15 @@ What is $2\:\:1\diagup2\%$ of $\pounds 600$?
 <div class='workings'>
 <div class='working'>
 
+Using above answer,
+
 $
 \begin{aligned}
 &= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
-&= 2 \dfrac {1} {2}\% \times 600 \\\\
-&= \dfrac {5} {2} \times \dfrac {1 \times 600} {100} \\\\
-&= \dfrac {5 \times 600} {2 \times 100} \\\\
-&= \dfrac {5 \times 2 \times 3 \times 100} {2 \times 100} \\\\
-&= \dfrac {5 \times \cancel{2} \times 3 \times \cancel{100}} {\cancel{2} \times \cancel{100}} \\\\
-&= 5 \times 3 \\\\
+&= \dfrac {5\%} {2} \times 600 \\\\
+&= \dfrac {5\% \times 600} {2} \\\\
+&= \dfrac {30} {2} \\\\
+&= \dfrac {\cancel{2} \times 15} {\cancel{2}} \\\\
 &= \pounds 15
 \end{aligned}
 $
@@ -852,15 +852,13 @@ Use your answers to find $17\:\: 1\diagup2\%$ of $\pounds 600$
 <div class='workings'>
 <div class='working'>
 
+Using above answer,
+
 $
 \begin{aligned}
 &= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
-&= 17 \dfrac {1} {2}\% \times 600 \\\\
-&= \dfrac {35} {2} \times \dfrac {1 \times 600} {100} \\\\
-&= \dfrac {35 \times 600} {2 \times 100} \\\\
-&= \dfrac {35 \times 2 \times 3 \times 100} {2 \times 100} \\\\
-&= \dfrac {35 \times \cancel{2} \times 3 \times \cancel{100}} {\cancel{2} \times \cancel{100}} \\\\
-&= 35 \times 3 \\\\
+&= (10\% + 5\% + 2 \dfrac {1} {2}\%) \ \text{of} \ 600 \\\\
+&= 60 + 30 + 15 \\\\
 &= \pounds 105
 \end{aligned}
 $

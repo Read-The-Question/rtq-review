@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-05-30 21:17:34
+date: 2022-05-30 23:47:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1156,15 +1156,15 @@ What is $2\:\:1\diagup2\%$ of $\pounds 600$?
 <div class='workings'>
 <div class='working'>
 
+Using above answer,
+
 $
 \begin{aligned}
 &= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
-&= 2 \dfrac {1} {2}\% \times 600 \\\\
-&= \dfrac {5} {2} \times \dfrac {1 \times 600} {100} \\\\
-&= \dfrac {5 \times 600} {2 \times 100} \\\\
-&= \dfrac {5 \times 2 \times 3 \times 100} {2 \times 100} \\\\
-&= \dfrac {5 \times \cancel{2} \times 3 \times \cancel{100}} {\cancel{2} \times \cancel{100}} \\\\
-&= 5 \times 3 \\\\
+&= \dfrac {5\%} {2} \times 600 \\\\
+&= \dfrac {5\% \times 600} {2} \\\\
+&= \dfrac {30} {2} \\\\
+&= \dfrac {\cancel{2} \times 15} {\cancel{2}} \\\\
 &= \pounds 15
 \end{aligned}
 $
@@ -1195,15 +1195,13 @@ Use your answers to find $17\:\: 1\diagup2\%$ of $\pounds 600$
 <div class='workings'>
 <div class='working'>
 
+Using above answer,
+
 $
 \begin{aligned}
 &= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
-&= 17 \dfrac {1} {2}\% \times 600 \\\\
-&= \dfrac {35} {2} \times \dfrac {1 \times 600} {100} \\\\
-&= \dfrac {35 \times 600} {2 \times 100} \\\\
-&= \dfrac {35 \times 2 \times 3 \times 100} {2 \times 100} \\\\
-&= \dfrac {35 \times \cancel{2} \times 3 \times \cancel{100}} {\cancel{2} \times \cancel{100}} \\\\
-&= 35 \times 3 \\\\
+&= (10\% + 5\% + 2 \dfrac {1} {2}\%) \ \text{of} \ 600 \\\\
+&= 60 + 30 + 15 \\\\
 &= \pounds 105
 \end{aligned}
 $
@@ -1266,12 +1264,13 @@ $
 \end{aligned}
 $
 
-Using the answer to find $\dfrac {4} {9} \text{of} 360$.
+Using the above answer to find $\dfrac {4} {9} \ \text{of} \ 360$.
 
 $
 \begin{aligned}
-&= \dfrac {4} {9} \text{of} 360 \\\\
-&= 4 \times \dfrac {1 \times 360} {9} \\\\
+&= \dfrac {4} {9} \ \text{of} \ 360 \\\\
+&= \dfrac {4} {9} \times 360 \\\\
+&= 4 \times \dfrac {360} {9} \\\\
 &= 4 \times 40 \\\\
 &= 160
 \end{aligned}
@@ -1282,8 +1281,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\
-\dfrac {4} {9} \text{ of } 360 \ = \ 160$
+$\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\\ \\\\ \dfrac {4} {9} \text{ of } 360 \ = \ 160$
 
 </div>
 </div>
@@ -1446,6 +1444,26 @@ tmiddlenumber
 %empty%
 
 </div>
+<div class='working'>
+
+Let's first list down other percentages between $75\%$ and $80\%$ and then convert the same into decimal.
+
+$
+\begin{aligned}
+&= 75 \%, \quad \underline{76\%}, \quad \underline{77\%}, \quad \underline{78\%}, \quad \underline{79\%}, \quad 80\% \\\\
+\end{aligned}
+$
+
+Let's convert 76\% into decimal.
+
+$
+\begin{aligned}
+&= \dfrac {76} {100}\\\\
+&= 0.76
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -1484,7 +1502,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.775
+$0.76 \ \text{or} \ 0.775$
 
 </div>
 </div>
@@ -1978,9 +1996,9 @@ To find the biggest number that divides exactly into $60$, $72$, and $84$, we ne
 
 $
 \begin{aligned}
-\text {Prime Factors of} \ 60 &= \bold {2 \times 2 \times 3} \times 5 \\\\
-\text {Prime Factors of} \ 72 &= \bold {2 \times 2 \times 3} \times 2 \times 3 \\\\
-\text {Prime Factors of} \ 84 &= \bold {2 \times 2 \times 3} \times 7
+\text {Prime factors of} \ 60 &= \bold {2 \times 2 \times 3} \times 5 \\\\
+\text {Prime factors of} \ 72 &= \bold {2 \times 2 \times 3} \times 2 \times 3 \\\\
+\text {Prime factors of} \ 84 &= \bold {2 \times 2 \times 3} \times 7
 \end{aligned}
 $
 
@@ -1992,6 +2010,8 @@ $
 &= 12
 \end{aligned}
 $
+
+The biggest number that divides exactly into $60$, $72$, and $84 = 12$
 
 </div>
 </div>
@@ -3403,8 +3423,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Distance}                                         &= \text{Distance between the post} \times \text{Total post - 1} \\\\\
-                                                        &= 25 \text{m} \times 4 - 1 \\\\\
+\text{Distance}                                         &= \text{Distance between the post} \times (\text{Total posts - 1}) \\\\\
+                                                        &= 25 \text{m} \times (4 - 1) \\\\\
                                                         &= 25 \times 3 \\\\\
                                                         &= 75 \text{m}
 \end{aligned}
@@ -3556,17 +3576,18 @@ $12\:\: 234\:\: 3456\:\: 45678\:\: 567890$
 <div class='workings'>
 <div class='working'>
 
-As we know that a number is divisible by 3 if the sum of all its digits is divisible by 3. Using that,
+As we know that a number is divisible by 3, if the sum of all its digits is divisible by 3. Using that,
 
 | Number    |         Sum                                           | Multiple of $3$
-|:------:   |:----------------------------------------------------: | :-----:
+|:--------: |:----------------------------------------------------: | :-----:
 |  $12$     | $1 + 2 = \red{3}$                                     |  Yes
 |  $234$    | $2 + 3 + 4 = \red{9}$                                 |  Yes
 |  $3456$   | $3 + 4 + 5 + 6 = \red{15}$                            |  Yes
 |  $45678$  | $4 + 5 + 6 + 7 + 8 = \red{30}$                        |  Yes
 |  $567890$ | $5 + 6 + 7 + 8 + 9 + 0 = \green{35}$                  |  No
 
-Answer $= 567890$
+
+The number which is not a multiple of $3 = 567890$
 
 </div>
 </div>
@@ -3672,10 +3693,13 @@ Mary has $\text{three}$ brothers and $\text{four}$ sisters. If they, and Mary, a
 <div class='workings'>
 <div class='working'>
 
-Total member = 8
+Total siblings $= 1 + 3 + 4 = 8$
 
 $
 \begin{aligned}
+\text{No. of eggs each buys}            &= \text{Total siblings} - \text{Self} \\\\
+                                        &= 8 - 1 \\\\
+                                        &= 7 \\\\
 \text{Total easter egg required}        &= 8 \times 7 \\\\
                                         &= 56
 \end{aligned}
@@ -3724,7 +3748,7 @@ A transport company’s vans each carry a maximum load of $12$ tonnes. A firm ne
 
 $
 \begin{aligned}
-\text{Total vans needed}                &= \dfrac {\text{Total crates} \times \text{weight of 1 crate}} {\text{Maximum weight van can take}} \\\\
+\text{Total vans needed}                &= \dfrac {\text{Total crates} \times \text{weight of 1 crate}} {\text{Maximum load van can take}} \\\\
                                         &= \dfrac {24 \times 5} {12} \\\\
                                         &= \dfrac {2 \times 12 \times 5} {12} \\\\
                                         &= \dfrac {2 \times \cancel{12} \times 5} {\cancel{12}} \\\\
@@ -3775,6 +3799,10 @@ $0.89\:\: 0.9\:\: 0.17\:\: 0.72\:\: 0.73$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Let's arrange them in ascending order.
+
+$= 0.17< \quad 0.72< \quad 0.73< \quad 0.89< \quad 0.9$
 
 $
 \begin{aligned}

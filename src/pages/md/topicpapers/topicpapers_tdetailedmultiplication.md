@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication"
 title: "TopicPaper - Detailedmultiplication"
-date: 2022-05-30 21:27:19
+date: 2022-05-31 00:01:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -37,7 +37,7 @@ Work out $235 \times 68$.
 $
 \begin{array}{cccccccccccccc}
          &      &       &       2       & 3     & 5     \\
- &      &       &     {}\times          & 6     & 8     \\
+{}\times   &      &     &              & 6     & 8     \\
 \hline 
          &       &  1    &       8       & 8     & 0     \\
          &  1    &  4    &       1       & 0     & 0     \\

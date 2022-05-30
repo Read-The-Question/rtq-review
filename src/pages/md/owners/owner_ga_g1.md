@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ga-g1"
 title: "Owner - Gifty Abhishek - G1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -383,6 +383,375 @@ $2 \dfrac{5}{12}$
 </ul>
 <div class='papername'>
 <p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>F540568C-C61B-4E8A-BFF9-10AF9AC433D7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $u = 2$, $v = -5$ and $w = -3$, find the value of:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$u - v$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= u - v \\\\
+&= 2 - (-5) \\\\
+&= 2 + 5 \\\\
+&= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$u - (v + w)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= u - (v + w) \\\\
+&= 2 - (-5 + (-3)) \\\\
+&= 2 - (-8) \\\\
+&= 2 + 8 \\\\
+&= 10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$v - w$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= v - w \\\\
+&= -5 - (-3) \\\\
+&= -5 + 3 \\\\
+&= -2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$u - (w - v)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= u - (w - v) \\\\
+&= 2 - (-3 - (-5)) \\\\
+&= 2 - (-3 + 5) \\\\
+&= 2 - 2 \\\\
+&= 0
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>CD78B853-B17C-4750-B393-54B43D8568A4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfactor
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down all the factors of $36$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Factors of 36 $= 1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the Highest Common Factor of $36$ and $60$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\\\
+\text {Factors of } 60                                      &=  1, 2, 3, 4, 5, 6, 10, \bold {12}, 15, 20, 30, 60
+\end{aligned}
+$
+
+The Highest Common Factor of $36$ and $60 = 12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which of the factors of $36$ are square numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4   &= 2^2 \\\\
+9   &= 3^2 \\\\
+36  &= 6^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4, 9, 36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which of the factors of $36$ are prime?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2, 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2, 3$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
@@ -983,9 +1352,6 @@ $1102$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -1958,9 +2324,6 @@ $85$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -2250,9 +2613,6 @@ $63$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -2495,9 +2855,6 @@ $125$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -3808,6 +4165,215 @@ $60 \ \text{cm}^{2}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $983 + 254$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &       9       & 8     & 3  \\
+{}+ &       2       & 5     & 4 \\
+\hline
+ 1  &       2       & 3     & 7
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1237$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>60D80FC1-4C9E-4EC8-896C-04247669944B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $573 \times 300$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first multiply the numbers ignoring the zeroes.
+
+$
+\begin{array}{cccccccccccccc}
+            &       5       & 7     & 3     \\
+{}\times    &               &       & 3     \\
+\hline
+        1   &       7       & 1     & 9     
+\end{array}
+$
+
+Let's account for the two zeroes now.
+
+$= 171900$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$171900$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>2377F631-0B3B-443B-ACA8-80A032557FBC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing decimal number in this list?
+
+$2.7, \quad 4.3, \quad \ldots, \quad 7.5, \quad 9.1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is increasing by $1.6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+1.6)}} 
+&&  \footnotesize{\maroonC{(+1.6)}}  
+&&  \footnotesize{\maroonC{(+1.6)}}   
+&&  \footnotesize{\maroonC{(+1.6)}}  \\
+2.7,  &&    4.3,  &&  \ldots, &&   7.5,  &&   9.1
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 4.3 + 1.6 \\\\
+                        &= 5.9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5.9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Subtract the difference between $62$ and $35$ from the product of $13$ and $6$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= (13 \times 6) - (62 - 35) \\\\
+&= 78 - 27 \\\\
+&= 51
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>

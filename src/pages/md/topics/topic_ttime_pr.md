@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-pr"
 title: "Topic - Time - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -227,57 +227,6 @@ $9 \text { hours } 40 \text { minutes}$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>A7936BDD-9D0B-4DE1-9D29-9396E4564A70</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many $\text{minutes}$ are there between $9.23\ \text{am}$ and $1.06\ \text{pm}$? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 9{:}23 \text {am}  - 1{:}06 \text {pm} \\\\
-&= 4 \ \text {hours} \ \ 43 \ \text {minutes} \\\\
-&= 4 \times 60 + 43 \\\\
-&= 240 + 43 \\\\
-&= 283 \text {minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$283 \text {minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -838,68 +787,6 @@ $7 \ \text {pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>C19E035E-6FA3-4F56-B785-07483C6DD4DD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I start counting at $19$ and go up to $89$.
-I take one second to say each number.
-How long do I take altogether?
-
-A                      B                     C                     D                     E
-$70 \ \text{seconds}$ $71 \ \text{seconds}$ $72 \ \text{seconds}$ $73 \ \text{seconds}$ $74 \ \text{seconds}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
-                    &= 89 - 20 \\\\
-                    &= 71 \ \text {seconds}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
-<div class='answer'>
-
-$71 \ \text {seconds}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>87F66A43-5223-4E50-9A24-6CC4F1EDA93A</p>
@@ -1200,7 +1087,7 @@ You arrive at a bus stop $18 \ \text{minutes}$ late. The buses run every $45 \ \
 
 $
 \begin{aligned}
-\text{Waiting time the next bus}                                       &= 45 \ \text{minutes} - 18 \ \text{minutes} \\\\
+\text{Waiting time for the next bus}                                   &= 45 \ \text{minutes} - 18 \ \text{minutes} \\\\
                                                                        &= 27 \ \text{minutes}
 \end{aligned}
 $
@@ -1248,11 +1135,10 @@ You have to catch the bus after school. Buses leave school at $15.55$ and $16.35
 
 $
 \begin{aligned}
-\text{Waiting time the second bus}                                     &= \text{Time of Second bus} - \text{Time of First bus} - 4 \ \text{minutes}  \\\\
+\text{Waiting time for the second bus}                                 &= \text{Time of second bus} - \text{Time of first bus} - 4 \ \text{minutes}  \\\\
                                                                        &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
                                                                        &= 40 \ \text{minutes} - 4 \ \text{minutes} \\\\
                                                                        &= 36 \ \text{minutes}
-
 \end{aligned}
 $
 
@@ -1323,58 +1209,6 @@ $9{:}02 \ \text{am}$
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>71A87121-8B24-43F3-8CA2-5883E0DFF79B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ann went to the cinema. The film started at $11{:}55 \ \text{AM}$ and lasted $117$ minutes. What time did the film end?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Film ended}   &= 11{:}55 \ \text{A.M} + 117 minutes \\\\
-                    &= 11{:}55 + 1 \ \text {hours} \ 57 \ \text {minutes} \\\\
-                    &= 12{:}55 + 57 \ \text{minutes} \\\\
-                    &= 01{:}52 \ \text {P.M}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$01{:}52 \ \text {P.M}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>

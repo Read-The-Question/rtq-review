@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,9 +66,6 @@ $9134$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -403,7 +400,7 @@ Let's calculate the difference between the number and $1$.
 |  $0.94$  | $1 - 0.94 = 0.06$   |
 |  $0.99$  | $1 - 0.99 = 0.01$   |
 
-From the calculation above, the minimum difference is $0.006$.
+From the calculation above, the smallest difference is $0.006$.
 
 Number closest in value $= 1.006$
 
@@ -465,7 +462,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$30$
 
 </div>
 </div>

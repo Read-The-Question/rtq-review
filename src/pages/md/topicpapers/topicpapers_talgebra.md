@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-talgebra"
-title: "Topicpapers Talgebra"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-talgebra"
+title: "TopicPaper - Algebra"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2562,7 +2562,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>71748A3D-9EB9-407F-BE74-AE1F06A04E99</p>
 </div>
@@ -2794,7 +2794,7 @@ $1$
 <p>topicpapers_talgebra</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -2849,7 +2849,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Stickers each will get}                 &= \dfrac {756} {7} \\\\
+\text{Stickers each will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
+                                              &= \dfrac {756} {7} \\\\
                                               &= \dfrac {7 \times 108} {7} \\\\
                                               &= \dfrac {\cancel{7} \times 108} {\cancel{7}} \\\\
                                               &= 108
@@ -2923,7 +2924,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Amar's travelling cost per week}        &= \dfrac {630} {45} \\\\
+\text{Amar's travelling cost per week}        &= \dfrac {\text{Total cost each year}} {\text{No. of weeks}} \\\\
+                                              &= \dfrac {630} {45} \\\\
                                               &= \dfrac {14 \times 45} {45} \\\\
                                               &= \dfrac {14 \times \cancel{45}} {\cancel{45}} \\\\
                                               &= \pounds 14
@@ -4431,8 +4433,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Tables needed}                          &= \dfrac {180} {8} \\\\
-                                              &= 22 \text{ remainder } 4 \\\\
+\text{Tables needed}                          &= \dfrac {\text{Total pupils}} {\text{Pupil per table}} \\\\
+                                              &= \dfrac {180} {8} \\\\
+                                              &= 22 \dfrac {4} {8} \\\\
                                               &= 23
 \end{aligned}
 $
@@ -4442,7 +4445,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$23$
+$23 \ \text{tables}$
 
 </div>
 </div>
@@ -4469,7 +4472,8 @@ How many monthly payments did Jake have to make to buy it?
 Let the number of monthly payments $= m$
 
 $
-25m + 50                                      &= 275 \\\\
+\begin{aligned}
+50 + 25m                                      &= 275 \\\\
 25m                                           &= 275 - 50 \\\\
 25m                                           &= 225 \\\\
 m                                             &= \dfrac {225} {25} \\\\
@@ -4537,7 +4541,7 @@ Number of girls at Lily's school $= 265$
 <div class='answers'>
 <div class='answer'>
 
-$265$
+$265 \ \text{girls}$
 
 </div>
 </div>
@@ -5723,19 +5727,49 @@ Subtract the first equation from the second to reduce it to one variable.
 $
 \begin{aligned}
 2g + 5m - (2g + 4m)        &= \pounds 6.1 - \pounds 5.6 \\\\
-2g + 5m - 2g - 4m          &= 0.5 \\\\
-m                          &= \pounds 0.5
+2g + 5m - 2g - 4m          &= 0.50 \\\\
+m                          &= \pounds 0.50
 \end{aligned}
 $
 
-Cost of 1 glass of Megapop $= \pounds 0.5$
+Cost of 1 can of Megapop $= \pounds 0.50$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+Let the cost of Megapop (in $\text{pounds}$) $= m$
+
+Let the cost of Gigaburger (in $\text{pounds}$) $= g$
+
+As per the question,
+
+$
+\begin{aligned}
+g + 2m                    &= 2.8 \ \ \text {or,} \\\\
+2g + 4m                   &= 5.6 \\\\
+2g + 5m                   &= 6.1
+\end{aligned}
+$
+
+$
+\begin{array}{cccccccccccccc}
+    &   2g & + &   5m   &=\pounds 6.1 \\
+{}- &   2g & + &   4m   &=\pounds 5.6 \\
+\hline
+      &0 &+&   1m   &=\pounds 0.5 \\
+\end{array}
+$
+
+$1$ Megapop $= \pounds 0.50$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.5$
+$\pounds 0.50$
 
 </div>
 </div>
@@ -5760,7 +5794,7 @@ $
 \begin{aligned} 
 \text{Cost of 1 Gigaburger}  &= 2.8 - 2 \times 0.5 \\\\
                              &= 2.8 - 1 \\\\
-                             &= \pounds 1.8
+                             &= \pounds 1.80
 \end{aligned}
 $
 
@@ -5769,7 +5803,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1.8$
+$\pounds 1.80$
 
 </div>
 </div>
@@ -7355,6 +7389,56 @@ $\pounds 19$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nc_g1 question'>
+<div class='uuid'>
+<p>6DA9F5A4-F475-42E3-A25E-62049134FBC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\ldots - 45 = 66$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a - 45                              &= 66 \\\\
+a                                   &= 66 + 45 \\\\
+a                                   &= 111
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$111$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_talgebra</p>
+</div>
+<div class='rag'>
+<p>rag_nc_g1</p>
 </div>
 </div>
 </li>
@@ -13667,7 +13751,7 @@ $
 c                                 &= \dfrac {40 \times 100} { 80 } \\\\
 c                                 &= \dfrac {40 \times 2 \times 50} { 40 \times 2 } \\\\
 c                                 &= \dfrac {\cancel{40} \times \cancel{2} \times 50} { \cancel{40} \times \cancel{2} } \\\\
-                                  &= \pounds 50 
+c                                 &= \pounds 50 
 \end{aligned}
 $
 
@@ -14419,6 +14503,58 @@ $60$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>0D7C430D-B032-4DD3-A97B-F5008B1947C3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number in the following sum? 
+
+$4060800 = 4000000 + \ldots + 800$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$.
+
+$
+\begin {aligned}
+4060800                     &= 4000000 + a + 800 \\\\
+4060800 - 4000000 - 800     &= a \\\\
+a                           &= 60000
+\end {aligned}
+$
+
+The missing number is $= 60000$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_talgebra</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
@@ -15091,7 +15227,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>EF6C4BDF-FB5F-47E7-A7CA-14BDC56D176E</p>
 </div>
@@ -15141,7 +15277,7 @@ $\pounds 51$
 <p>topicpapers_talgebra</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -15330,7 +15466,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>FC3ABA33-5D43-482E-9D5F-4D8124DCB134</p>
 </div>
@@ -15387,7 +15523,7 @@ $\pounds 27$
 <p>topicpapers_talgebra</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -15841,7 +15977,7 @@ $\pounds 1.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>37D61EFA-7D37-4E7B-87AC-FE2256B7021C</p>
 </div>
@@ -15991,7 +16127,7 @@ $6$
 <p>topicpapers_talgebra</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

@@ -1,56 +1,9 @@
 ---
 slug: "topics/topic-tdetailedaddition-pr"
 title: "Topic - Detailedaddition - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>54BD09C0-1C14-4564-B207-B912ADE229BB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$3078 + 256$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   3   &    0    &    7    &    8 \\
-{}+ &       &    2    &    5    &    6 \\
-\hline
-    &   3   &    3    &    3    &    4
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3334$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
@@ -95,7 +48,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-&624$
+$624$
 
 </div>
 </div>
@@ -180,53 +133,6 @@ $22$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>33EA5AA6-2BAC-4539-BE0C-64E83AA9931B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add: $36 + 58$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   3   &   6 \\
-{}+ &   5   &   8 \\
-\hline
-    &   9   &   4
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$94$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -525,53 +431,6 @@ $7392$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $983 + 254$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       9       & 8     & 3  \\
-{}+ &       2       & 5     & 4 \\
-\hline
- 1  &       2       & 3     & 7
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1237$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

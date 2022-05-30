@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tsequence"
-title: "Topicpapers Tsequence"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tsequence"
+title: "TopicPaper - Sequence"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-05-30 17:37:30
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>497B0D73-E53D-490C-9D71-8CF4C974875D</p>
 </div>
@@ -195,12 +195,12 @@ $26$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>E08043A3-1AF9-4DBF-86C5-BE917D72DCEF</p>
 </div>
@@ -386,7 +386,7 @@ $60, 7.5$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -14780,7 +14780,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>8C993AFA-AFCB-4D29-9664-802BEE2647F5</p>
 </div>
@@ -14963,7 +14963,7 @@ $70, 60$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -23975,7 +23975,7 @@ $69$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>2377F631-0B3B-443B-ACA8-80A032557FBC</p>
 </div>
@@ -24031,7 +24031,7 @@ $5.9$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -24453,7 +24453,7 @@ As 1330 is not a multiple of 30, it is not in the sequence given.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>B413F8C6-736A-43A8-89EB-3A28FF88A2B5</p>
 </div>
@@ -24525,7 +24525,7 @@ Missing Numbers : $3 , 27 , 81$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

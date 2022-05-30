@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tdetailedaddition"
-title: "Topicpapers Tdetailedaddition"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tdetailedaddition"
+title: "TopicPaper - Detailedaddition"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -259,7 +259,7 @@ $6363$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>54BD09C0-1C14-4564-B207-B912ADE229BB</p>
 </div>
@@ -301,7 +301,7 @@ $3334$
 <p>topicpapers_tdetailedaddition</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -857,7 +857,7 @@ $425$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
+<div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
 <p>74597BD7-D839-4E39-8951-91E71A917724</p>
 </div>
@@ -916,7 +916,7 @@ $12441$
 <p>topicpapers_tdetailedaddition</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
+<p>rag_sc_g2</p>
 </div>
 </div>
 </li>
@@ -1687,7 +1687,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-&624$
+$624$
 
 </div>
 </div>
@@ -3314,7 +3314,7 @@ $75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>33EA5AA6-2BAC-4539-BE0C-64E83AA9931B</p>
 </div>
@@ -3356,7 +3356,7 @@ $94$
 <p>topicpapers_tdetailedaddition</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -4689,7 +4689,7 @@ $941$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
 </div>
@@ -4731,7 +4731,7 @@ $1237$
 <p>topicpapers_tdetailedaddition</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

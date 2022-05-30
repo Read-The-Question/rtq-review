@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedsubtraction-notstarted"
 title: "Topic - Detailedsubtraction - Not Started"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,13 +12,7 @@ date: 2022-05-30 17:27:34
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>

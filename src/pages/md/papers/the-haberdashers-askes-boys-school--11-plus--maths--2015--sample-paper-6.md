@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2015-sample-paper-6"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,9 +66,6 @@ $85$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -73,9 +73,6 @@ $3027$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -296,7 +293,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
+<div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
 <p>42073645-B85D-44D2-B12C-2CD2DF1CD58F</p>
 </div>
@@ -351,7 +348,7 @@ $50.75$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
+<p>rag_sc_g2</p>
 </div>
 </div>
 </li>

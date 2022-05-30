@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-d"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper D"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,9 +66,6 @@ $1019$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-all"
 title: "Topic - Order - All"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3909,7 +3909,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.92> \quad 0.909> \quad 0.9$
+$0.92, \quad 0.909, \quad 0.9$
 
 </div>
 </div>

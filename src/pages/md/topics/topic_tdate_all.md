@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdate-all"
 title: "Topic - Date - All"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -512,12 +512,6 @@ $\text {Wednesday}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
 <li>
 tdate
 </li>

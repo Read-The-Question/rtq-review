@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tangle"
-title: "Topicpapers Tangle"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tangle"
+title: "TopicPaper - Angle"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1492,7 +1492,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
 </div>
@@ -1543,7 +1543,7 @@ $62 \degree$
 <p>topicpapers_tangle</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -5545,7 +5545,7 @@ $\text{angle Q}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>8C58A03E-ED57-4E53-AB3D-E2B7AC28475B</p>
 </div>
@@ -5699,7 +5699,7 @@ $73 \degree, 107 \degree$
 <p>topicpapers_tangle</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -7398,14 +7398,14 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-a + 3a + 40     &= 180 \degree \\\\
-4a + 40         &= 180  \\\\
-4a              &= 180 - 40  \\\\
-4a              &= 140  \\\\
-a               &= \dfrac {140} {4}  \\\\
-a               &= \dfrac {35 \times 4} {4}  \\\\
-a               &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
-a               &= 35 \degree
+a + 3a + 40 \degree     &= 180 \degree \\\\
+4a + 40                 &= 180  \\\\
+4a                      &= 180 - 40  \\\\
+4a                      &= 140  \\\\
+a                       &= \dfrac {140} {4}  \\\\
+a                       &= \dfrac {35 \times 4} {4}  \\\\
+a                       &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
+a                       &= 35 \degree
 \end{aligned}
 $
 
@@ -7414,9 +7414,9 @@ However, we need to find the largest angle which is the second angle.
 
 $
 \begin{aligned}
-\text{Largest angle} &= 3a  \\\\
-&= 3 \times 35  \\\\
-&= 105  \degree
+\text{Largest angle}         &= 3a  \\\\
+                             &= 3 \times 35  \\\\
+                             &= 105  \degree
 \end{aligned}
 $
 
@@ -7425,7 +7425,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$105  \degree$
+$105 \degree$
 
 </div>
 </div>

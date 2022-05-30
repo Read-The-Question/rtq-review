@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpower-pr"
 title: "Topic - Power - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -374,102 +374,6 @@ $8$
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>57C9979B-2ACE-4BAF-8E7F-AC51C6373882</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpower
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Exactly one of these statements is correct. Which one?
-
-**A** $43^2+ 56^2 = 4981$        
-
-**B** $55^2 + 66^2= 7387$
-
-**C** $77^2+ 22^2 = 6415$   
-
-**D** $44^2+ 63^2 = 5905$   
-
-**E** $34^2 + 51^2 = 3756$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-**A**
-
-$
-\begin{aligned}
-&= 43^2+ 56^2 \\\\
-&= 1849 + 3136 \\\\
-&= 4985 \ \cancel {=} \ 4981
-\end{aligned}
-$
-
-**B**
-
-$
-\begin{aligned}
-&= 55^2 + 66^2 \\\\
-&= 3025 + 4356 \\\\
-&= 7381 \ \cancel {=} \ 7387
-\end{aligned}
-$
-
-**C**
-
-$
-\begin{aligned}
-&= 77^2+ 22^2 \\\\
-&= 5929 + 484 \\\\
-&= 6413 \ \cancel {=} \ 6415
-\end{aligned}
-$
-
-**D**
-
-$
-\begin{aligned}
-&= 44^2+ 63^2 \\\\
-&= 1936 + 3969 \\\\
-&= 5905
-\end{aligned}
-$
-
-Statement D is correct.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-D
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
 </div>
 </div>
 </li>

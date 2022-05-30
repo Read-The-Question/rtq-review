@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-pr"
 title: "Topic - Speed - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -119,58 +119,6 @@ $3 \ \text {hours} \ 20 \ \text {minutes}$
 
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>189A1B25-EAA6-4C15-8F75-A6EC061BEC38</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $6$ metres per second in kilometres per hour? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 6 \times \dfrac {60 \times 60} {1000} \\\\
-&= 6 \times \dfrac {3600} {1000} \\\\
-&= 6 \times \dfrac {36 \cancel {00}} {10 \cancel {00}} \\\\
-&= \dfrac {6 \times 36} {10} \\\\
-&= \dfrac {216} {10} \\\\
-&= 21.6 \text{kilometer/hour}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$21.6 \text{kilometer/hour}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>

@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tfraction"
-title: "Topicpapers Tfraction"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tfraction"
+title: "TopicPaper - Fraction"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>

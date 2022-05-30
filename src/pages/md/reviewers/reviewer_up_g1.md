@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-g1"
 title: "Reviewer - Uday Pandey - G1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -66,9 +66,6 @@ $3.154$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -490,9 +487,6 @@ $9909999$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -938,9 +932,6 @@ $1848$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -5351,9 +5342,6 @@ $45$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -6313,9 +6301,6 @@ $847$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -6362,9 +6347,6 @@ $352$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -13263,9 +13245,6 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -14234,9 +14213,6 @@ $9527$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -18756,9 +18732,6 @@ $1725$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -19764,9 +19737,6 @@ $1080$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -21668,9 +21638,6 @@ $2, \ 4, \ 8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -21811,9 +21778,6 @@ $5632$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>

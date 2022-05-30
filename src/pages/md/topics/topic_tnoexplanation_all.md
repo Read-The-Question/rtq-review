@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-all"
 title: "Topic - Noexplanation - All"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -776,7 +776,7 @@ $50706$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>CD78B853-B17C-4750-B393-54B43D8568A4</p>
 </div>
@@ -946,7 +946,7 @@ $2, 3$
 <p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

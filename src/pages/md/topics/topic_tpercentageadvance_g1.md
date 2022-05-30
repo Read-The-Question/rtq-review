@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-g1"
 title: "Topic - Percentageadvance - G1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -918,6 +918,133 @@ $\dfrac {5} {8}$
 </div>
 <div class='rag'>
 <p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>84995481-1A2F-4667-8846-F97B143D48F4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+tpercentageadvance
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $45$ teachers at The Peterford School . $\frac {4} {9}$ of them were given socks for Christmas.. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many were given socks?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total socks = $45$,
+
+Fraction of teachers given socks $= \dfrac {4} {9}$
+ 
+$
+\begin{aligned}
+\text {Teachers who were given socks}   &= \dfrac {4} {9} \times 45 \\\\
+                                        &= \dfrac {4 \times 45} {9} \\\\
+                                        &= \dfrac {4 \times 5 \times 9} {9} \\\\
+                                        &= \dfrac {4 \times 5 \times \cancel {9}} {\cancel {9}} \\\\
+                                        &= 4 \times 5 \\\\
+                                        &= 20 \ \text{teachers}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$20\%$ of those who were given socks also received a tie. How many were given socks and a tie?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, $20 \%$ of those who were given socks also received a tie.
+
+$ \begin{aligned}
+&= 20 \% \ \text{of} \ 20 \  \text {teachers} \\\\
+&= \dfrac {20} {100} \times 20 \\\\
+&= \dfrac {20 \times 20} {100} \\\\
+&= \dfrac {2 \cancel {0} \times 2 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= 2 \times 2 \\\\
+&= 4 \  \text {teachers}
+\end{aligned}
+
+Teachers who were given socks and tie $= 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

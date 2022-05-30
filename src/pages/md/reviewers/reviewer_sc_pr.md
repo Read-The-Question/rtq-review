@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-sc-pr"
 title: "Reviewer - Sahil Choudhary - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4461,12 +4461,6 @@ $\pounds 1.33$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
 tdate
 </li>
 </ul>
@@ -6398,13 +6392,7 @@ $190$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tdetailedsubtraction
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-np-g1"
 title: "Owner - Nalini Prakash - G1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmiddlenumber-all"
 title: "Topic - Middlenumber - All"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -474,7 +474,7 @@ $
 &= \dfrac {\dfrac {3} {4} + 1} {2}\\\\
 &= \dfrac {\dfrac {3} {4} + \dfrac {1 \times 4} {1 \times 4}} {2} \\\\
 &= \dfrac {\dfrac {3} {4} + \dfrac {4} {4}} {2} \\\\
-&= \dfrac {\dfrac {3 + 4} {4}}} {2} \\\\
+&= \dfrac {\dfrac {3 + 4} {4}} {2} \\\\
 &= \dfrac {7} {4 \times 2} \\\\
 &= \dfrac {7} {8}\\\\
 &= 0.875

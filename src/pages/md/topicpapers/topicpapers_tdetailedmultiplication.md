@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tdetailedmultiplication"
-title: "Topicpapers Tdetailedmultiplication"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tdetailedmultiplication"
+title: "TopicPaper - Detailedmultiplication"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -899,7 +899,7 @@ $12000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>B4091545-C20A-4D37-9CEF-364C712C6AFF</p>
 </div>
@@ -920,13 +920,13 @@ $158 \times 23$
 
 $
 \begin{array}{cccccccccccccc}
-         &      &       &       1       & 5     & 8     \\
-{}\times &      &       &               & 2     & 3     \\
+         &      &             &       1       &   5     &   8 \\
+         &      &  \times     &               &   2     &   3 \\
 \hline 
-         &       &       &       4       & 7     & 4     \\
-         &       &  3    &       1       & 6     & 0     \\
+         &      &             &       4       &   7     &   4 \\
+         &      &  3          &       1       &   6     &   0 \\
 \hline
-         &       &  3    &       6       & 3     & 4
+         &      &  3          &       6       &   3     &   4
 \end{array}
 $
 
@@ -944,7 +944,7 @@ $3634$
 <p>topicpapers_tdetailedmultiplication</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1412,7 +1412,7 @@ $1596$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
+<div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
 <p>B5B3F19E-4AC9-4F08-A95B-BB1D4A4B3FA4</p>
 </div>
@@ -1463,12 +1463,12 @@ $0.006$
 <p>topicpapers_tdetailedmultiplication</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
+<p>rag_sc_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
+<div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
 <p>E44863F0-1211-418A-BC0A-D814CB3A5121</p>
 </div>
@@ -1521,7 +1521,7 @@ $37620$
 <p>topicpapers_tdetailedmultiplication</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
+<p>rag_sc_g2</p>
 </div>
 </div>
 </li>
@@ -3620,7 +3620,6 @@ Using our previous answer
 $
 \begin{aligned}
 &= 2002 \times 5 \\\\\
-&= \dfrac {2002 \times 5 \times 2} {2} \\\\
 &= \dfrac {2002 \times 10} {2} \\\\
 &= \dfrac {20020} {2} \\\\
 &= \dfrac {10010 \times 2} {2} \\\\
@@ -7185,7 +7184,7 @@ $3.872$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>60D80FC1-4C9E-4EC8-896C-04247669944B</p>
 </div>
@@ -7233,7 +7232,7 @@ $171900$
 <p>topicpapers_tdetailedmultiplication</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

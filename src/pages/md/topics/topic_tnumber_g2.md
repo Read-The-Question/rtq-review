@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-g2"
 title: "Topic - Number - G2"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2565,6 +2565,66 @@ $0.014$
 </ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g2 question'>
+<div class='uuid'>
+<p>42073645-B85D-44D2-B12C-2CD2DF1CD58F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use your previous answer to write down
+
+$20.30 × 2.5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first multiply the numbers ignoring the decimal points.
+
+$
+\begin{array}{cccccccccccccc}
+         &    2    &    0    &    3    &    0 \\
+{}\times &         &         &    2    &    5 \\
+\hline
+1        &    0    &    1    &    5    &    0 \\
+4        &    0    &    6    &    0    &    0 \\
+\hline
+5        &    0    &    7    &    5    &    0
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is three.
+
+Let's account for the decimal point now. 
+
+$= 50.75$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50.75$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g2</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-pr"
 title: "Topic - Detailedmultiplication - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -55,56 +55,6 @@ $15980$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>B4091545-C20A-4D37-9CEF-364C712C6AFF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$158 \times 23$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-         &      &       &       1       & 5     & 8     \\
-{}\times &      &       &               & 2     & 3     \\
-\hline 
-         &       &       &       4       & 7     & 4     \\
-         &       &  3    &       1       & 6     & 0     \\
-\hline
-         &       &  3    &       6       & 3     & 4
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3634$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C</p>
@@ -129,7 +79,6 @@ Using our previous answer
 $
 \begin{aligned}
 &= 2002 \times 5 \\\\\
-&= \dfrac {2002 \times 5 \times 2} {2} \\\\
 &= \dfrac {2002 \times 10} {2} \\\\
 &= \dfrac {20020} {2} \\\\
 &= \dfrac {10010 \times 2} {2} \\\\
@@ -1230,59 +1179,6 @@ $3.872$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>60D80FC1-4C9E-4EC8-896C-04247669944B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $573 \times 300$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first multiply the numbers ignoring the zeroes.
-
-$
-\begin{array}{cccccccccccccc}
-            &       5       & 7     & 3     \\
-{}\times    &               &       & 3     \\
-\hline
-        1   &       7       & 1     & 9     
-\end{array}
-$
-
-Let's account for the two zeroes now.
-
-$= 171900$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$171900$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>

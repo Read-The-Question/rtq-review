@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-g1"
 title: "Topic - Geometry - G1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1688,6 +1688,75 @@ $16 \ \text{cm}$
 </ul>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>36E95BDA-CF7B-4EEC-AF73-C18EE5638591</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many small triangles would fit exactly into the larger rectangle?
+$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
+
+
+![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+The rectangle measurement is given in metres while the triangle measurement is given in cm.
+
+Let's convert the rectangle measurements into $\text{cm}$.
+
+$\text{Area} = \text{length} \times \text{width}$
+
+$
+\begin{aligned}
+\text{Number of tiles}  &= \dfrac {\text{Area of the rectangle}} {\text{Area of a triangle}} \\\\
+                        &= \dfrac {0.32 \ \text{m} \times 0.42 \ \text{m} } { \dfrac{1} {2} \times 6 \ \text{cm} \times 8 \ \text{cm} } \\\\
+                        &= \dfrac {0.32 \times 100  \ \text{cm} \times 0.42 \times 100 \ \text{cm} } { \dfrac{1} {2} \times 6 \ \text{cm} \times 8 \ \text{cm} } \\\\
+                        &= \dfrac {32 \times 42 \times 2} {6 \times 8} \\\\
+                        &= \dfrac {4 \times 8 \times 6 \times 7 \times 2 } {6 \times 8}  \\\\
+                        &= \dfrac {4 \times \cancel{8} \times \cancel{6} \times 7 \times 2 } {\cancel{6} \times \cancel{8}}  \\\\
+                        &= 4 \times 7 \times 2  \\\\
+                        &= 56
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_na_g1</p>

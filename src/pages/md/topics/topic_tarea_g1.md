@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-g1"
 title: "Topic - Area - G1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5274,6 +5274,75 @@ $24.9 \ \text{cm}^2$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>36E95BDA-CF7B-4EEC-AF73-C18EE5638591</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many small triangles would fit exactly into the larger rectangle?
+$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
+
+
+![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+The rectangle measurement is given in metres while the triangle measurement is given in cm.
+
+Let's convert the rectangle measurements into $\text{cm}$.
+
+$\text{Area} = \text{length} \times \text{width}$
+
+$
+\begin{aligned}
+\text{Number of tiles}  &= \dfrac {\text{Area of the rectangle}} {\text{Area of a triangle}} \\\\
+                        &= \dfrac {0.32 \ \text{m} \times 0.42 \ \text{m} } { \dfrac{1} {2} \times 6 \ \text{cm} \times 8 \ \text{cm} } \\\\
+                        &= \dfrac {0.32 \times 100  \ \text{cm} \times 0.42 \times 100 \ \text{cm} } { \dfrac{1} {2} \times 6 \ \text{cm} \times 8 \ \text{cm} } \\\\
+                        &= \dfrac {32 \times 42 \times 2} {6 \times 8} \\\\
+                        &= \dfrac {4 \times 8 \times 6 \times 7 \times 2 } {6 \times 8}  \\\\
+                        &= \dfrac {4 \times \cancel{8} \times \cancel{6} \times 7 \times 2 } {\cancel{6} \times \cancel{8}}  \\\\
+                        &= 4 \times 7 \times 2  \\\\
+                        &= 56
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>4C4D2D05-7411-4B91-B9C3-73F6D271E210</p>
@@ -5352,6 +5421,69 @@ $28 \ \text{m}^2$
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>B5F661C5-EDE9-4D72-925A-85A6F3D58E56</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below represents a rectangular grass lawn surrounded by a gravel path on the outside. The width of the path is $0.5\,m$.Gravel costs $$\pounds 5.70\, per\, m2$.
+
+What is the cost of gravel required to cover the path?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of gravel path}  &= \text{Area} - \text{Area of grass lawn} \\\\
+                            &= 8 \times 6 - (8 - 2 \times 0.5) \times (6 - 2 \times 0.5) \\\\
+                            &= 48 - (8 - 1) \times (6 - 1) \\\\
+                            &= 48 - 7 \times 5 \\\\
+                            &= 48 - 35 \\\\
+                            &= 13 \ \text{m}^2
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Cost of gravel}       &= \text{Cost per } m^2 \times \text{Area of gravel path} \\\\
+                            &= \pounds 5.70 \times 13 \\\\
+                            &= \pounds 74.1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 74.1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

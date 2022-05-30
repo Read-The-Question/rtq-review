@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-05-30 17:27:34
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
+<div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
 <p>74597BD7-D839-4E39-8951-91E71A917724</p>
 </div>
@@ -74,12 +74,12 @@ $12441$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
+<p>rag_sc_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
+<div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
 <p>B5B3F19E-4AC9-4F08-A95B-BB1D4A4B3FA4</p>
 </div>
@@ -130,7 +130,7 @@ $0.006$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
+<p>rag_sc_g2</p>
 </div>
 </div>
 </li>
@@ -383,7 +383,7 @@ $(22 - 10 + 8) \div 4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
+<div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
 <p>E44863F0-1211-418A-BC0A-D814CB3A5121</p>
 </div>
@@ -436,7 +436,7 @@ $37620$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
+<p>rag_sc_g2</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-g1"
 title: "Topic - Decimal - G1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>

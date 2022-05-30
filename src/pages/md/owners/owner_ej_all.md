@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-all"
 title: "Owner - Eshudhi Jangid - All"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14180,9 +14180,6 @@ $1725$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -16196,9 +16193,6 @@ $6579$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>

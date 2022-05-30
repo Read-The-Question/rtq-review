@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2017-sample-paper-3"
 title: "Bancrofts School - 11 Plus - Maths - 2017 - Sample Paper 3"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -452,10 +452,7 @@ $9509$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -545,8 +542,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Tables needed}                          &= \dfrac {180} {8} \\\\
-                                              &= 22 \text{ remainder } 4 \\\\
+\text{Tables needed}                          &= \dfrac {\text{Total pupils}} {\text{Pupil per table}} \\\\
+                                              &= \dfrac {180} {8} \\\\
+                                              &= 22 \dfrac {4} {8} \\\\
                                               &= 23
 \end{aligned}
 $
@@ -556,7 +554,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$23$
+$23 \ \text{tables}$
 
 </div>
 </div>
@@ -583,7 +581,8 @@ How many monthly payments did Jake have to make to buy it?
 Let the number of monthly payments $= m$
 
 $
-25m + 50                                      &= 275 \\\\
+\begin{aligned}
+50 + 25m                                      &= 275 \\\\
 25m                                           &= 275 - 50 \\\\
 25m                                           &= 225 \\\\
 m                                             &= \dfrac {225} {25} \\\\
@@ -651,7 +650,7 @@ Number of girls at Lily's school $= 265$
 <div class='answers'>
 <div class='answer'>
 
-$265$
+$265 \ \text{girls}$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-g2"
 title: "Topic - Detailedmultiplication - G2"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -464,6 +464,120 @@ $1596$
 </div>
 <div class='rag'>
 <p>rag_nm_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g2 question'>
+<div class='uuid'>
+<p>B5B3F19E-4AC9-4F08-A95B-BB1D4A4B3FA4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the answer to $0.2 \times 0.03$
+
+- $6$
+- $0.600$
+- $0.006$
+- $0.6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first multiply the numbers ignoring the decimal points.
+
+$2 \times 3 = 6$.
+
+Between the two numbers, the total number of digits after the decimal point is three.
+
+Let's account for the decimal point now. 
+
+$= 0.006$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$0.006$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g2 question'>
+<div class='uuid'>
+<p>E44863F0-1211-418A-BC0A-D814CB3A5121</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $836 \times 45
+
+-  $37620$
+-  $37520$
+-  $37420$
+-  $37610$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &                &    8    &    3    &   6 \\
+    &    {}\times    &         &    4    &   5 \\
+\hline
+    &        4       &    1    &    8    &   0 \\
+3   &        3       &    4    &    4    &   0 \\
+\hline
+3   &        7       &    6    &    2    &   0
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$37620$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g2</p>
 </div>
 </div>
 </li>

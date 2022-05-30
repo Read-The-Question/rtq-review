@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tratio"
-title: "Topicpapers Tratio"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tratio"
+title: "TopicPaper - Ratio"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>

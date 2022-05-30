@@ -137,6 +137,27 @@ const IndexPage = ({data}) => {
         Read The Question
       </h1>
 
+      <h2 style={headingStyles}>
+        TopicPapers
+      </h2>
+
+      <ul style={listStyles}>
+        {data.allMarkdownRemark.edges.filter(({ node }) => (node.frontmatter.slug.startsWith("topicpapers"))).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+          </li>
+        ))}
+      </ul>
+
+
 
       <h2 style={headingStyles}>
         Owners

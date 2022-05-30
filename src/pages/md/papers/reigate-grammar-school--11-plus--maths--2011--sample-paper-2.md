@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,9 +66,6 @@ $3010$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -1179,7 +1176,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.92> \quad 0.909> \quad 0.9$
+$0.92, \quad 0.909, \quad 0.9$
 
 </div>
 </div>
@@ -1330,7 +1327,7 @@ $
 &= \dfrac {\dfrac {3} {4} + 1} {2}\\\\
 &= \dfrac {\dfrac {3} {4} + \dfrac {1 \times 4} {1 \times 4}} {2} \\\\
 &= \dfrac {\dfrac {3} {4} + \dfrac {4} {4}} {2} \\\\
-&= \dfrac {\dfrac {3 + 4} {4}}} {2} \\\\
+&= \dfrac {\dfrac {3 + 4} {4}} {2} \\\\
 &= \dfrac {7} {4 \times 2} \\\\
 &= \dfrac {7} {8}\\\\
 &= 0.875
@@ -1710,9 +1707,11 @@ Sam has $\pounds 3.85$ to spend. He buys a pencil for $38 \text{p}$ and a ruler 
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 $
 \begin{aligned}
-\text{Money left}                                               &= \text{Total Money} - \text{Cost Of Pencil} + \text{Cost Of Ruler} \\\\
+\text{Money left}                                               &= \text{Total Money} - \text{Cost of pencil} + \text{Cost of ruler} \\\\
                                                                 &= \pounds 3.85 - 38 \text{p} - 59 \text{p}) \\\\
                                                                 &= \pounds 3.85 - 97 \text{p} \\\\
                                                                 &= \pounds 3.85 - \pounds 0.97 \\\\
@@ -1763,7 +1762,7 @@ You arrive at a bus stop $18 \ \text{minutes}$ late. The buses run every $45 \ \
 
 $
 \begin{aligned}
-\text{Waiting time the next bus}                                       &= 45 \ \text{minutes} - 18 \ \text{minutes} \\\\
+\text{Waiting time for the next bus}                                   &= 45 \ \text{minutes} - 18 \ \text{minutes} \\\\
                                                                        &= 27 \ \text{minutes}
 \end{aligned}
 $
@@ -1811,11 +1810,10 @@ You have to catch the bus after school. Buses leave school at $15.55$ and $16.35
 
 $
 \begin{aligned}
-\text{Waiting time the second bus}                                     &= \text{Time of Second bus} - \text{Time of First bus} - 4 \ \text{minutes}  \\\\
+\text{Waiting time for the second bus}                                 &= \text{Time of second bus} - \text{Time of first bus} - 4 \ \text{minutes}  \\\\
                                                                        &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
                                                                        &= 40 \ \text{minutes} - 4 \ \text{minutes} \\\\
                                                                        &= 36 \ \text{minutes}
-
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tarea"
-title: "Topicpapers Tarea"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tarea"
+title: "TopicPaper - Area"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1041,7 +1041,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>B5F661C5-EDE9-4D72-925A-85A6F3D58E56</p>
 </div>
@@ -1099,7 +1099,7 @@ $\pounds 74.1$
 <p>topicpapers_tarea</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

@@ -1,246 +1,9 @@
 ---
 slug: "owners/owner-sc-pr"
 title: "Owner - Sahil Choudhary - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>71748A3D-9EB9-407F-BE74-AE1F06A04E99</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the missing numbers in the boxes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$55 + \boxed{\phantom{55}} = 82$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-$
-\begin{aligned}
-55 + a                              &= 82 \\\\
-a                                   &= 82 - 55 \\\\
-a                                   &= 27
-\end{aligned}
-$
-
-Missing number $= 27$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\boxed{\phantom{23}} - 23 = 45$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-$
-\begin{aligned}
-a - 23                              &= 45 \\\\
-a                                   &= 45 + 23 \\\\
-a                                   &= 68
-\end{aligned}
-$
-
-Missing number $= 68$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$68$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$60 \div \boxed{\phantom{45}} = 12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-$
-\begin{aligned}
-60 \div a                           &= 12 \\\\
-60                                  &= 12 \times a \\\\
-a                                   &= \dfrac {60} {12}\\\\
-a                                   &= \dfrac {5 \times 12} {12} \\\\
-a                                   &= \dfrac {5 \times \cancel{12}} {\cancel{12}} \\\\
-a                                   &= 5
-\end{aligned}
-$
-
-Missing number $= 5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$32 \times \boxed{\phantom{45}} = 640$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-$
-\begin{aligned}
-32 \times a                         &= 640 \\\\
-a                                   &= \dfrac {640} {32} \\\\
-a                                   &= \dfrac {20 \times 32} {32} \\\\
-a                                   &= \dfrac {20 \times \cancel{32}} {\cancel{32}} \\\\
-a                                   &= 20
-\end{aligned}
-$
-
-Missing number $= 20$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0.75 \div \dfrac{3}{4} = \boxed{\phantom{45}}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {0.75} {\dfrac {3} {4}} \\\\
-&= \dfrac {75} {100} \times \dfrac {4} {3} \\\\
-&= \dfrac {75 \times 4} {100 \times 3} \\\\
-&= \dfrac {3 \times 25 \times 4} {4 \times 25 \times 3} \\\\
-&= \dfrac {\cancel{3} \times \cancel{25} \times \cancel{4}} {\cancel{4} \times \cancel{25} \times \cancel{3}} \\\\
-&= 1
-\end{aligned}
-$
-
-Missing number $= 1$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
@@ -292,7 +55,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Stickers each will get}                 &= \dfrac {756} {7} \\\\
+\text{Stickers each will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
+                                              &= \dfrac {756} {7} \\\\
                                               &= \dfrac {7 \times 108} {7} \\\\
                                               &= \dfrac {\cancel{7} \times 108} {\cancel{7}} \\\\
                                               &= 108
@@ -366,7 +130,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Amar's travelling cost per week}        &= \dfrac {630} {45} \\\\
+\text{Amar's travelling cost per week}        &= \dfrac {\text{Total cost each year}} {\text{No. of weeks}} \\\\
+                                              &= \dfrac {630} {45} \\\\
                                               &= \dfrac {14 \times 45} {45} \\\\
                                               &= \dfrac {14 \times \cancel{45}} {\cancel{45}} \\\\
                                               &= \pounds 14
@@ -506,8 +271,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Crates needed}                          &= \dfrac {349} {8} \\\\
-                                              &= 43 \text{ remainder } 5 \\\\
+\text{Crates needed}                          &= \dfrac {\text{Total cartons}} {\text{Cartons per crate}} \\\\
+                                              &= \dfrac {349} {8} \\\\
+                                              &= 43 \dfrac {5} {8} \\\\
                                               &= 44
 \end{aligned}
 $
@@ -519,7 +285,7 @@ Total crates needed to hold $349$ cartons $= 44$
 <div class='answers'>
 <div class='answer'>
 
-$44$
+$44 \ \text{crates}$
 
 </div>
 </div>
@@ -544,7 +310,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of 4 adult tickets}                &= 4 \times \pounds 24.50 \\\\
+\text{Cost of four adult tickets}             &= 4 \times \pounds 24.50 \\\\
                                               &= \pounds 98
 \end{aligned}
 $
@@ -593,7 +359,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$138$
+$138 \ \text{months}$
 
 </div>
 </div>
@@ -661,8 +427,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Tables needed}                          &= \dfrac {180} {8} \\\\
-                                              &= 22 \text{ remainder } 4 \\\\
+\text{Tables needed}                          &= \dfrac {\text{Total pupils}} {\text{Pupil per table}} \\\\
+                                              &= \dfrac {180} {8} \\\\
+                                              &= 22 \dfrac {4} {8} \\\\
                                               &= 23
 \end{aligned}
 $
@@ -672,7 +439,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$23$
+$23 \ \text{tables}$
 
 </div>
 </div>
@@ -699,7 +466,8 @@ How many monthly payments did Jake have to make to buy it?
 Let the number of monthly payments $= m$
 
 $
-25m + 50                                      &= 275 \\\\
+\begin{aligned}
+50 + 25m                                      &= 275 \\\\
 25m                                           &= 275 - 50 \\\\
 25m                                           &= 225 \\\\
 m                                             &= \dfrac {225} {25} \\\\
@@ -767,7 +535,7 @@ Number of girls at Lily's school $= 265$
 <div class='answers'>
 <div class='answer'>
 
-$265$
+$265 \ \text{girls}$
 
 </div>
 </div>
@@ -869,19 +637,49 @@ Subtract the first equation from the second to reduce it to one variable.
 $
 \begin{aligned}
 2g + 5m - (2g + 4m)        &= \pounds 6.1 - \pounds 5.6 \\\\
-2g + 5m - 2g - 4m          &= 0.5 \\\\
-m                          &= \pounds 0.5
+2g + 5m - 2g - 4m          &= 0.50 \\\\
+m                          &= \pounds 0.50
 \end{aligned}
 $
 
-Cost of 1 glass of Megapop $= \pounds 0.5$
+Cost of 1 can of Megapop $= \pounds 0.50$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+Let the cost of Megapop (in $\text{pounds}$) $= m$
+
+Let the cost of Gigaburger (in $\text{pounds}$) $= g$
+
+As per the question,
+
+$
+\begin{aligned}
+g + 2m                    &= 2.8 \ \ \text {or,} \\\\
+2g + 4m                   &= 5.6 \\\\
+2g + 5m                   &= 6.1
+\end{aligned}
+$
+
+$
+\begin{array}{cccccccccccccc}
+    &   2g & + &   5m   &=\pounds 6.1 \\
+{}- &   2g & + &   4m   &=\pounds 5.6 \\
+\hline
+      &0 &+&   1m   &=\pounds 0.5 \\
+\end{array}
+$
+
+$1$ Megapop $= \pounds 0.50$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.5$
+$\pounds 0.50$
 
 </div>
 </div>
@@ -906,7 +704,7 @@ $
 \begin{aligned} 
 \text{Cost of 1 Gigaburger}  &= 2.8 - 2 \times 0.5 \\\\
                              &= 2.8 - 1 \\\\
-                             &= \pounds 1.8
+                             &= \pounds 1.80
 \end{aligned}
 $
 
@@ -915,7 +713,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1.8$
+$\pounds 1.80$
 
 </div>
 </div>
@@ -1143,7 +941,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.92> \quad 0.909> \quad 0.9$
+$0.92, \quad 0.909, \quad 0.9$
 
 </div>
 </div>
@@ -1249,7 +1047,7 @@ $
 &= \dfrac {\dfrac {3} {4} + 1} {2}\\\\
 &= \dfrac {\dfrac {3} {4} + \dfrac {1 \times 4} {1 \times 4}} {2} \\\\
 &= \dfrac {\dfrac {3} {4} + \dfrac {4} {4}} {2} \\\\
-&= \dfrac {\dfrac {3 + 4} {4}}} {2} \\\\
+&= \dfrac {\dfrac {3 + 4} {4}} {2} \\\\
 &= \dfrac {7} {4 \times 2} \\\\
 &= \dfrac {7} {8}\\\\
 &= 0.875
@@ -1297,9 +1095,11 @@ Sam has $\pounds 3.85$ to spend. He buys a pencil for $38 \text{p}$ and a ruler 
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 $
 \begin{aligned}
-\text{Money left}                                               &= \text{Total Money} - \text{Cost Of Pencil} + \text{Cost Of Ruler} \\\\
+\text{Money left}                                               &= \text{Total Money} - \text{Cost of pencil} + \text{Cost of ruler} \\\\
                                                                 &= \pounds 3.85 - 38 \text{p} - 59 \text{p}) \\\\
                                                                 &= \pounds 3.85 - 97 \text{p} \\\\
                                                                 &= \pounds 3.85 - \pounds 0.97 \\\\
@@ -1350,7 +1150,7 @@ You arrive at a bus stop $18 \ \text{minutes}$ late. The buses run every $45 \ \
 
 $
 \begin{aligned}
-\text{Waiting time the next bus}                                       &= 45 \ \text{minutes} - 18 \ \text{minutes} \\\\
+\text{Waiting time for the next bus}                                   &= 45 \ \text{minutes} - 18 \ \text{minutes} \\\\
                                                                        &= 27 \ \text{minutes}
 \end{aligned}
 $
@@ -1398,11 +1198,10 @@ You have to catch the bus after school. Buses leave school at $15.55$ and $16.35
 
 $
 \begin{aligned}
-\text{Waiting time the second bus}                                     &= \text{Time of Second bus} - \text{Time of First bus} - 4 \ \text{minutes}  \\\\
+\text{Waiting time for the second bus}                                 &= \text{Time of second bus} - \text{Time of first bus} - 4 \ \text{minutes}  \\\\
                                                                        &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
                                                                        &= 40 \ \text{minutes} - 4 \ \text{minutes} \\\\
                                                                        &= 36 \ \text{minutes}
-
 \end{aligned}
 $
 
@@ -1449,7 +1248,6 @@ Using our previous answer
 $
 \begin{aligned}
 &= 2002 \times 5 \\\\\
-&= \dfrac {2002 \times 5 \times 2} {2} \\\\
 &= \dfrac {2002 \times 10} {2} \\\\
 &= \dfrac {20020} {2} \\\\
 &= \dfrac {10010 \times 2} {2} \\\\
@@ -1885,9 +1683,7 @@ What fraction of this flag is shaded?How many more rectangles need to be shaded 
 
 $
 \begin{aligned}
-\text{Count of Shaded boxes}                &= 5 \\\\
-\text{Total boxes}                          &= 6 \times 5 \\\\
-\text{Fraction of flag shaded}              &= \dfrac {\text{Count of Shaded boxes}} {Total boxes}  \\\\
+\text{Fraction of flag shaded}              &= \dfrac {\text{Count of Shaded boxes}} {\text{Total boxes}}  \\\\
                                             &= \dfrac {5} {6 \times 5} \\\\
                                             &= \dfrac {\cancel{5}} {6 \times \cancel{5}} \\\\
                                             &= \dfrac {1} {6} \\\\
@@ -1906,8 +1702,9 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\text{Fraction of flag shaded}         &= \dfrac {1} {6} \\
-\text{Required rectangle to be shaded}  &= 15$
+$\text{Fraction of flag shaded} = \dfrac {1} {6}$
+
+$\text{Required rectangle to be shaded} = 15$
 
 </div>
 </div>

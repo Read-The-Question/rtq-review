@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedsubtraction-oldpr"
 title: "Topic - Detailedsubtraction - Old PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-05-30 17:27:34
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>

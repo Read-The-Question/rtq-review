@@ -1,7 +1,7 @@
 ---
 slug: "papers/emanuel-school-11-plus-maths-9999-sample-paper-1"
 title: "Emanuel School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3485,19 +3485,49 @@ Subtract the first equation from the second to reduce it to one variable.
 $
 \begin{aligned}
 2g + 5m - (2g + 4m)        &= \pounds 6.1 - \pounds 5.6 \\\\
-2g + 5m - 2g - 4m          &= 0.5 \\\\
-m                          &= \pounds 0.5
+2g + 5m - 2g - 4m          &= 0.50 \\\\
+m                          &= \pounds 0.50
 \end{aligned}
 $
 
-Cost of 1 glass of Megapop $= \pounds 0.5$
+Cost of 1 can of Megapop $= \pounds 0.50$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+Let the cost of Megapop (in $\text{pounds}$) $= m$
+
+Let the cost of Gigaburger (in $\text{pounds}$) $= g$
+
+As per the question,
+
+$
+\begin{aligned}
+g + 2m                    &= 2.8 \ \ \text {or,} \\\\
+2g + 4m                   &= 5.6 \\\\
+2g + 5m                   &= 6.1
+\end{aligned}
+$
+
+$
+\begin{array}{cccccccccccccc}
+    &   2g & + &   5m   &=\pounds 6.1 \\
+{}- &   2g & + &   4m   &=\pounds 5.6 \\
+\hline
+      &0 &+&   1m   &=\pounds 0.5 \\
+\end{array}
+$
+
+$1$ Megapop $= \pounds 0.50$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.5$
+$\pounds 0.50$
 
 </div>
 </div>
@@ -3522,7 +3552,7 @@ $
 \begin{aligned} 
 \text{Cost of 1 Gigaburger}  &= 2.8 - 2 \times 0.5 \\\\
                              &= 2.8 - 1 \\\\
-                             &= \pounds 1.8
+                             &= \pounds 1.80
 \end{aligned}
 $
 
@@ -3531,7 +3561,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1.8$
+$\pounds 1.80$
 
 </div>
 </div>

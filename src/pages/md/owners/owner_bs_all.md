@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-all"
 title: "Owner - Banoth Sairam - All"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -601,7 +601,7 @@ $p - 71$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>497B0D73-E53D-490C-9D71-8CF4C974875D</p>
 </div>
@@ -781,7 +781,7 @@ $26$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -3368,7 +3368,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>E08043A3-1AF9-4DBF-86C5-BE917D72DCEF</p>
 </div>
@@ -3554,7 +3554,7 @@ $60, 7.5$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -5032,7 +5032,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-&624$
+$624$
 
 </div>
 </div>
@@ -6448,9 +6448,6 @@ $1080$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -7672,10 +7669,7 @@ The smaller number $=13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
+tsimpleword
 </li>
 </ul>
 </div>
@@ -11632,12 +11626,6 @@ $\pounds 1.33$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
 <li>
 tdate
 </li>
@@ -15689,13 +15677,7 @@ $50$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -19140,9 +19122,6 @@ $14002$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -19470,10 +19449,7 @@ $3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -19903,10 +19879,7 @@ $814$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 <li>
 tunitprompt
@@ -20393,9 +20366,6 @@ $11502$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -20929,9 +20899,6 @@ $13602$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -21548,9 +21515,6 @@ $9134$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -21833,7 +21797,7 @@ Let's calculate the difference between the number and $1$.
 |  $0.94$  | $1 - 0.94 = 0.06$   |
 |  $0.99$  | $1 - 0.99 = 0.01$   |
 
-From the calculation above, the minimum difference is $0.006$.
+From the calculation above, the smallest difference is $0.006$.
 
 Number closest in value $= 1.006$
 
@@ -21895,7 +21859,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$30$
 
 </div>
 </div>

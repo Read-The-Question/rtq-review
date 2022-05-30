@@ -1,7 +1,7 @@
 ---
 slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -819,7 +819,7 @@ $60 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
+<div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
 <p>A7C319CF-83DA-4579-B28A-5CF2D1F00791</p>
 </div>
@@ -962,7 +962,7 @@ $2100 \ \text{m}$
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
+<p>rag_sc_g2</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-30 17:27:34
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
 </div>
@@ -55,12 +55,12 @@ $1237$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>60D80FC1-4C9E-4EC8-896C-04247669944B</p>
 </div>
@@ -108,7 +108,7 @@ $171900$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -134,8 +134,8 @@ Write $\dfrac{7}{20}$ as a decimal number.
 
 $
 \begin{aligned}
-&= \dfrac{7}{20} \\\\
-&= \dfrac{7 \times 5}{20 \times 5} \\\\
+&= \dfrac {7} {20} \\\\
+&= \dfrac {7 \times 5} {20 \times 5} \\\\
 &= \dfrac {35} {100} \\\\
 &= 0.35
 \end{aligned}
@@ -187,10 +187,10 @@ There are $24 \ \text{hours}$ in a day, so
 
 $
 \begin{aligned}
-&= \dfrac{9}{24} \\\\
-&= \dfrac{3 \times 3}{3 \times 8} \\\\
-&= \dfrac{\cancel{3} \times 3}{\cancel{3} \times 8} \\\\
-&= \dfrac{3}{8}
+&= \dfrac {9} {24} \\\\
+&= \dfrac {3 \times 3} {3 \times 8} \\\\
+&= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 8} \\\\
+&= \dfrac {3} {8}
 \end{aligned}
 $
 
@@ -213,7 +213,7 @@ $\dfrac{3}{8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>2377F631-0B3B-443B-ACA8-80A032557FBC</p>
 </div>
@@ -269,7 +269,7 @@ $5.9$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -298,13 +298,13 @@ Work out $4 \dfrac{1}{4} - 1 \dfrac{3}{5}$
 
 $
 \begin{aligned}
-&= 4 \dfrac{1}{4} - 1 \dfrac{3}{5} \\\\
-&= \dfrac{17}{4} - \dfrac{8}{5} \\\\
-&= \dfrac{17 \times 5}{4 \times 5} - \dfrac{8 \times 4}{5 \times 4} \\\\
-&= \dfrac{85}{20} - \dfrac{32}{20} \\\\
-&= \dfrac{85}{20} - \dfrac{32}{20} \\\\
-&= \dfrac{53}{20} \\\\
-&= 2 \dfrac{13}{20}
+&= 4 \dfrac {1} {4} - 1 \dfrac {3} {5} \\\\
+&= \dfrac {17} {4} - \dfrac {8} {5} \\\\
+&= \dfrac {17 \times 5} {4 \times 5} - \dfrac {8 \times 4} {5 \times 4} \\\\
+&= \dfrac {85} {20} - \dfrac {32} {20} \\\\
+&= \dfrac {85} {20} - \dfrac {32} {20} \\\\
+&= \dfrac {53} {20} \\\\
+&= 2 \dfrac {13} {20}
 \end{aligned}
 $
 
@@ -373,7 +373,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
 </div>
@@ -416,7 +416,7 @@ $51$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -451,14 +451,14 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-a + 3a + 40     &= 180 \degree \\\\
-4a + 40         &= 180  \\\\
-4a              &= 180 - 40  \\\\
-4a              &= 140  \\\\
-a               &= \dfrac {140} {4}  \\\\
-a               &= \dfrac {35 \times 4} {4}  \\\\
-a               &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
-a               &= 35 \degree
+a + 3a + 40 \degree     &= 180 \degree \\\\
+4a + 40                 &= 180  \\\\
+4a                      &= 180 - 40  \\\\
+4a                      &= 140  \\\\
+a                       &= \dfrac {140} {4}  \\\\
+a                       &= \dfrac {35 \times 4} {4}  \\\\
+a                       &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
+a                       &= 35 \degree
 \end{aligned}
 $
 
@@ -467,9 +467,9 @@ However, we need to find the largest angle which is the second angle.
 
 $
 \begin{aligned}
-\text{Largest angle} &= 3a  \\\\
-&= 3 \times 35  \\\\
-&= 105  \degree
+\text{Largest angle}         &= 3a  \\\\
+                             &= 3 \times 35  \\\\
+                             &= 105  \degree
 \end{aligned}
 $
 
@@ -478,7 +478,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$105  \degree$
+$105 \degree$
 
 </div>
 </div>
@@ -527,7 +527,7 @@ $
 c                                 &= \dfrac {40 \times 100} { 80 } \\\\
 c                                 &= \dfrac {40 \times 2 \times 50} { 40 \times 2 } \\\\
 c                                 &= \dfrac {\cancel{40} \times \cancel{2} \times 50} { \cancel{40} \times \cancel{2} } \\\\
-                                  &= \pounds 50 
+c                                 &= \pounds 50 
 \end{aligned}
 $
 
@@ -879,7 +879,7 @@ $
 2a - 1      &= 257 \\\\
 2a          &= 257 + 1 \\\\
 2a          &= 258 \\\\
-a           &= \dfrac {258}{2 } \\\\
+a           &= \dfrac {258}{2} \\\\
 a           &= 129
 \end{aligned}
 $
@@ -934,17 +934,17 @@ $
 6 + 0.2 \times a    &= 11 \\\\
 0.2a                &= 11 - 6 \\\\
 0.2a                &= 5 \\\\
-a                   &= \dfrac {5}{0.2} \\\\
-a                   &= \dfrac {5 \times 10}{0.2 \times 10} \\\\
-a                   &= \dfrac {50}{2 } \\\\
+a                   &= \dfrac {5} {0.2} \\\\
+a                   &= \dfrac {5 \times 10} {0.2 \times 10} \\\\
+a                   &= \dfrac {50} {2} \\\\
 a                   &= 25 \ \text{days}
 \end{aligned}
 $
 
 $
 \begin{aligned} 
-\text{Date when height is reached}     &= \text{January } 19  + 25 \ \text{days} \\\\
-                &= \text{February } 13
+\text{Date when height is reached}          &= \text{January } 19  + 25 \ \text{days} \\\\
+                                            &= \text{February } 13
 \end{aligned}
 $
 

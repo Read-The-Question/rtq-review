@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -73,9 +73,6 @@ $3001$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -188,7 +185,6 @@ Using our previous answer
 $
 \begin{aligned}
 &= 2002 \times 5 \\\\\
-&= \dfrac {2002 \times 5 \times 2} {2} \\\\
 &= \dfrac {2002 \times 10} {2} \\\\
 &= \dfrac {20020} {2} \\\\
 &= \dfrac {10010 \times 2} {2} \\\\
@@ -1747,9 +1743,7 @@ What fraction of this flag is shaded?How many more rectangles need to be shaded 
 
 $
 \begin{aligned}
-\text{Count of Shaded boxes}                &= 5 \\\\
-\text{Total boxes}                          &= 6 \times 5 \\\\
-\text{Fraction of flag shaded}              &= \dfrac {\text{Count of Shaded boxes}} {Total boxes}  \\\\
+\text{Fraction of flag shaded}              &= \dfrac {\text{Count of Shaded boxes}} {\text{Total boxes}}  \\\\
                                             &= \dfrac {5} {6 \times 5} \\\\
                                             &= \dfrac {\cancel{5}} {6 \times \cancel{5}} \\\\
                                             &= \dfrac {1} {6} \\\\
@@ -1768,8 +1762,9 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\text{Fraction of flag shaded}         &= \dfrac {1} {6} \\
-\text{Required rectangle to be shaded}  &= 15$
+$\text{Fraction of flag shaded} = \dfrac {1} {6}$
+
+$\text{Required rectangle to be shaded} = 15$
 
 </div>
 </div>

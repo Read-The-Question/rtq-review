@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tmoney"
-title: "Topicpapers Tmoney"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tmoney"
+title: "TopicPaper - Money"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -7196,9 +7196,11 @@ Sam has $\pounds 3.85$ to spend. He buys a pencil for $38 \text{p}$ and a ruler 
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 $
 \begin{aligned}
-\text{Money left}                                               &= \text{Total Money} - \text{Cost Of Pencil} + \text{Cost Of Ruler} \\\\
+\text{Money left}                                               &= \text{Total Money} - \text{Cost of pencil} + \text{Cost of ruler} \\\\
                                                                 &= \pounds 3.85 - 38 \text{p} - 59 \text{p}) \\\\
                                                                 &= \pounds 3.85 - 97 \text{p} \\\\
                                                                 &= \pounds 3.85 - \pounds 0.97 \\\\

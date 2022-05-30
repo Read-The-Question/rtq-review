@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-bs-all"
 title: "Reviewer - Banoth Sairam - All"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1172,15 +1172,15 @@ many pigs the farmer has.
 
 Let the number of pigs $= a$
 
-Number of cows $= 30$
+As per the question,
 
-Then, equating food consumed to the count of animals, we get
+Let's equate food consumed to the count of animals, we get
 
 $
 \begin{aligned} 
 30 \times 8 + a \times 6    &= 360 \\\\
 240 + 6a                    &= 360 \\\\
-6a                          &= 360 -240 \\\\
+6a                          &= 360 - 240 \\\\
 6a                          &= 120 \\\\
 a                           &= \dfrac {120} {6} \\\\
 a                           &= \dfrac {20 \times 6} {6} \\\\
@@ -1264,11 +1264,15 @@ a + (a + 70) + (a + 70 + 40)    &= 600 \\\\
 a + a + 70 + a + 70 + 40        &= 600 \\\\
 3a + 180                        &= 600 \\\\
 3a                              &= 600 - 180\\\\
-3a                              &= 420\\\\
-3a                              &= \dfrac {420} {3}\\\\
+3a                              &= 420 \\\\
+3a                              &= \dfrac {420} {3} \\\\
 a                               &= 140 \ \text{cm}
 \end{aligned}
 $
+
+The shortest piece $= 120$ cm.
+
+let's calculate the largest piece.
 
 $
 \begin{aligned} 
@@ -1323,26 +1327,14 @@ biscuit, what is the cost of a biscuit?
 
 Let the cost of a chocolate biscuit (in pence) $= a$
 
-Then as per the question,
-
 Cost of a bag of crisps (in pence) $= a + 4$
-
-It is really important to convert into the right units. 
-Let's convert the total cost into pence.
-
-$
-\begin{aligned} 
-\text{Total Cost}   &=  \pounds 1.76 \\\\
-                    &=  1.76 \times 100 \text{p}\\\\
-                    &=  176 \text{p}
-\end{aligned}
-$
 
 As per the question,
 
 $
 \begin{aligned} 
-2 \times (a + 4) + 5 \times a   &= 176  \\\\
+2 \times (a + 4) + 5 \times a   &= \pounds 1.76  \\\\
+2 \times (a + 4) + 5 \times a   &= 176 \text{pence}  \\\\
 2a + 8 + 5a                     &= 176  \\\\
 7a + 8                          &= 176  \\\\
 7a                              &= 176 - 8  \\\\
@@ -1377,106 +1369,6 @@ $24 \text{p}$
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $983 + 254$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       9       & 8     & 3  \\
-{}+ &       2       & 5     & 4 \\
-\hline
- 1  &       2       & 3     & 7
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1237$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>60D80FC1-4C9E-4EC8-896C-04247669944B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $573 \times 300$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first multiply the numbers ignoring the zeroes.
-
-$
-\begin{array}{cccccccccccccc}
-            &       5       & 7     & 3     \\
-{}\times    &               &       & 3     \\
-\hline
-        1   &       7       & 1     & 9     
-\end{array}
-$
-
-Let's account for the two zeroes now.
-
-$= 171900$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$171900$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
 <p>051EA915-77B1-4C90-B44F-067124622F8F</p>
 </div>
 <div class='topics'>
@@ -1496,8 +1388,8 @@ Write $\dfrac{7}{20}$ as a decimal number.
 
 $
 \begin{aligned}
-&= \dfrac{7}{20} \\\\
-&= \dfrac{7 \times 5}{20 \times 5} \\\\
+&= \dfrac {7} {20} \\\\
+&= \dfrac {7 \times 5} {20 \times 5} \\\\
 &= \dfrac {35} {100} \\\\
 &= 0.35
 \end{aligned}
@@ -1549,10 +1441,10 @@ There are $24 \ \text{hours}$ in a day, so
 
 $
 \begin{aligned}
-&= \dfrac{9}{24} \\\\
-&= \dfrac{3 \times 3}{3 \times 8} \\\\
-&= \dfrac{\cancel{3} \times 3}{\cancel{3} \times 8} \\\\
-&= \dfrac{3}{8}
+&= \dfrac {9} {24} \\\\
+&= \dfrac {3 \times 3} {3 \times 8} \\\\
+&= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 8} \\\\
+&= \dfrac {3} {8}
 \end{aligned}
 $
 
@@ -1562,67 +1454,6 @@ $
 <div class='answer'>
 
 $\dfrac{3}{8}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>2377F631-0B3B-443B-ACA8-80A032557FBC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the missing decimal number in this list?
-
-$2.7, \quad 4.3, \quad \ldots, \quad 7.5, \quad 9.1$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is increasing by $1.6$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+1.6)}} 
-&&  \footnotesize{\maroonC{(+1.6)}}  
-&&  \footnotesize{\maroonC{(+1.6)}}   
-&&  \footnotesize{\maroonC{(+1.6)}}  \\
-2.7,  &&    4.3,  &&  \ldots, &&   7.5,  &&   9.1
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 4.3 + 1.6 \\\\
-                        &= 5.9
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5.9$
 
 </div>
 </div>
@@ -1660,13 +1491,13 @@ Work out $4 \dfrac{1}{4} - 1 \dfrac{3}{5}$
 
 $
 \begin{aligned}
-&= 4 \dfrac{1}{4} - 1 \dfrac{3}{5} \\\\
-&= \dfrac{17}{4} - \dfrac{8}{5} \\\\
-&= \dfrac{17 \times 5}{4 \times 5} - \dfrac{8 \times 4}{5 \times 4} \\\\
-&= \dfrac{85}{20} - \dfrac{32}{20} \\\\
-&= \dfrac{85}{20} - \dfrac{32}{20} \\\\
-&= \dfrac{53}{20} \\\\
-&= 2 \dfrac{13}{20}
+&= 4 \dfrac {1} {4} - 1 \dfrac {3} {5} \\\\
+&= \dfrac {17} {4} - \dfrac {8} {5} \\\\
+&= \dfrac {17 \times 5} {4 \times 5} - \dfrac {8 \times 4} {5 \times 4} \\\\
+&= \dfrac {85} {20} - \dfrac {32} {20} \\\\
+&= \dfrac {85} {20} - \dfrac {32} {20} \\\\
+&= \dfrac {53} {20} \\\\
+&= 2 \dfrac {13} {20}
 \end{aligned}
 $
 
@@ -1676,54 +1507,6 @@ $
 <div class='answer'>
 
 $2 \dfrac{13}{20}$ or $\dfrac{53}{20}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Subtract the difference between $62$ and $35$ from the product of $13$ and $6$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= (13 \times 6) - (62 - 35) \\\\
-&= 78 - 27 \\\\
-&= 51
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51$
 
 </div>
 </div>
@@ -1767,14 +1550,14 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-a + 3a + 40     &= 180 \degree \\\\
-4a + 40         &= 180  \\\\
-4a              &= 180 - 40  \\\\
-4a              &= 140  \\\\
-a               &= \dfrac {140} {4}  \\\\
-a               &= \dfrac {35 \times 4} {4}  \\\\
-a               &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
-a               &= 35 \degree
+a + 3a + 40 \degree     &= 180 \degree \\\\
+4a + 40                 &= 180  \\\\
+4a                      &= 180 - 40  \\\\
+4a                      &= 140  \\\\
+a                       &= \dfrac {140} {4}  \\\\
+a                       &= \dfrac {35 \times 4} {4}  \\\\
+a                       &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
+a                       &= 35 \degree
 \end{aligned}
 $
 
@@ -1783,9 +1566,9 @@ However, we need to find the largest angle which is the second angle.
 
 $
 \begin{aligned}
-\text{Largest angle} &= 3a  \\\\
-&= 3 \times 35  \\\\
-&= 105  \degree
+\text{Largest angle}         &= 3a  \\\\
+                             &= 3 \times 35  \\\\
+                             &= 105  \degree
 \end{aligned}
 $
 
@@ -1794,7 +1577,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$105  \degree$
+$105 \degree$
 
 </div>
 </div>
@@ -1843,7 +1626,7 @@ $
 c                                 &= \dfrac {40 \times 100} { 80 } \\\\
 c                                 &= \dfrac {40 \times 2 \times 50} { 40 \times 2 } \\\\
 c                                 &= \dfrac {\cancel{40} \times \cancel{2} \times 50} { \cancel{40} \times \cancel{2} } \\\\
-                                  &= \pounds 50 
+c                                 &= \pounds 50 
 \end{aligned}
 $
 
@@ -1905,7 +1688,7 @@ $
 2a - 1      &= 257 \\\\
 2a          &= 257 + 1 \\\\
 2a          &= 258 \\\\
-a           &= \dfrac {258}{2 } \\\\
+a           &= \dfrac {258}{2} \\\\
 a           &= 129
 \end{aligned}
 $
@@ -1960,17 +1743,17 @@ $
 6 + 0.2 \times a    &= 11 \\\\
 0.2a                &= 11 - 6 \\\\
 0.2a                &= 5 \\\\
-a                   &= \dfrac {5}{0.2} \\\\
-a                   &= \dfrac {5 \times 10}{0.2 \times 10} \\\\
-a                   &= \dfrac {50}{2 } \\\\
+a                   &= \dfrac {5} {0.2} \\\\
+a                   &= \dfrac {5 \times 10} {0.2 \times 10} \\\\
+a                   &= \dfrac {50} {2} \\\\
 a                   &= 25 \ \text{days}
 \end{aligned}
 $
 
 $
 \begin{aligned} 
-\text{Date when height is reached}     &= \text{January } 19  + 25 \ \text{days} \\\\
-                &= \text{February } 13
+\text{Date when height is reached}          &= \text{January } 19  + 25 \ \text{days} \\\\
+                                            &= \text{February } 13
 \end{aligned}
 $
 

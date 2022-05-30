@@ -1,60 +1,9 @@
 ---
 slug: "topics/topic-tstatistics-pr"
 title: "Topic - Statistics - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>359E9CAF-B6FE-434F-9191-AF9614CF6D12</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Suki saves $\pounds 12$ in January, $\pounds 18$ in February and $\pounds 5$ in March. 
-
-What is her mean (average) monthly saving? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Average monthly saving}  &= \dfrac {12 + 18 + 5} {3} \\\\
-                               &= \dfrac {35} {3} \\\\
-                               &= 11.66
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11.66$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>

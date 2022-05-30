@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-all"
 title: "Topic - Fraction - All"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4579,7 +4579,7 @@ $\pounds 168$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>FA07A720-D1E4-4527-953B-6F2BE26C4F2E</p>
 </div>
@@ -4603,13 +4603,12 @@ What is $\dfrac{1}{2}$ of $\dfrac{4}{5}$ of $35$?
 
 $
 \begin{aligned}
+&= \dfrac {1} {2} \ \text{of} \ \dfrac {4} {5} \ \text {of} \ 35 \\\\
 &= \dfrac {1} {2} \times \dfrac {4} {5} \times 35 \\\\
-&= \dfrac {1} {2} \times \dfrac {4} {5} \times 7 \times 5 \\\\
-&= \dfrac {1 \times 4 \times 7 \times 5} {2 \times 5} \\\\
-&= \dfrac {1 \times 4 \times 7 \times \cancel {5}} {2 \times \cancel {5}} \\\\
-&= \dfrac {28} {2} \\\\
-&= \dfrac {14 \times 2} {2} \\\\\
-&= \dfrac {14 \times \cancel {2}} {\cancel {2}} \\\\
+&= \dfrac {4 \times 35} {2 \times 5} \\\\
+&= \dfrac {2 \times 2 \times 7 \times 5} {2 \times 5} \\\\
+&= \dfrac {2 \times \cancel {2} \times 7 \times \cancel {5}} {\cancel {2} \times \cancel {5}} \\\\
+&= 2 \times 7 \\\\
 &= 14
 \end{aligned}
 $
@@ -4628,7 +4627,7 @@ $14$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -16575,9 +16574,7 @@ What fraction of this flag is shaded?How many more rectangles need to be shaded 
 
 $
 \begin{aligned}
-\text{Count of Shaded boxes}                &= 5 \\\\
-\text{Total boxes}                          &= 6 \times 5 \\\\
-\text{Fraction of flag shaded}              &= \dfrac {\text{Count of Shaded boxes}} {Total boxes}  \\\\
+\text{Fraction of flag shaded}              &= \dfrac {\text{Count of Shaded boxes}} {\text{Total boxes}}  \\\\
                                             &= \dfrac {5} {6 \times 5} \\\\
                                             &= \dfrac {\cancel{5}} {6 \times \cancel{5}} \\\\
                                             &= \dfrac {1} {6} \\\\
@@ -16596,8 +16593,9 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\text{Fraction of flag shaded}         &= \dfrac {1} {6} \\
-\text{Required rectangle to be shaded}  &= 15$
+$\text{Fraction of flag shaded} = \dfrac {1} {6}$
+
+$\text{Required rectangle to be shaded} = 15$
 
 </div>
 </div>
@@ -29514,7 +29512,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$30$
 
 </div>
 </div>
@@ -32736,10 +32734,10 @@ There are $24 \ \text{hours}$ in a day, so
 
 $
 \begin{aligned}
-&= \dfrac{9}{24} \\\\
-&= \dfrac{3 \times 3}{3 \times 8} \\\\
-&= \dfrac{\cancel{3} \times 3}{\cancel{3} \times 8} \\\\
-&= \dfrac{3}{8}
+&= \dfrac {9} {24} \\\\
+&= \dfrac {3 \times 3} {3 \times 8} \\\\
+&= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 8} \\\\
+&= \dfrac {3} {8}
 \end{aligned}
 $
 
@@ -32786,13 +32784,13 @@ Work out $4 \dfrac{1}{4} - 1 \dfrac{3}{5}$
 
 $
 \begin{aligned}
-&= 4 \dfrac{1}{4} - 1 \dfrac{3}{5} \\\\
-&= \dfrac{17}{4} - \dfrac{8}{5} \\\\
-&= \dfrac{17 \times 5}{4 \times 5} - \dfrac{8 \times 4}{5 \times 4} \\\\
-&= \dfrac{85}{20} - \dfrac{32}{20} \\\\
-&= \dfrac{85}{20} - \dfrac{32}{20} \\\\
-&= \dfrac{53}{20} \\\\
-&= 2 \dfrac{13}{20}
+&= 4 \dfrac {1} {4} - 1 \dfrac {3} {5} \\\\
+&= \dfrac {17} {4} - \dfrac {8} {5} \\\\
+&= \dfrac {17 \times 5} {4 \times 5} - \dfrac {8 \times 4} {5 \times 4} \\\\
+&= \dfrac {85} {20} - \dfrac {32} {20} \\\\
+&= \dfrac {85} {20} - \dfrac {32} {20} \\\\
+&= \dfrac {53} {20} \\\\
+&= 2 \dfrac {13} {20}
 \end{aligned}
 $
 
@@ -34003,7 +34001,7 @@ $\dfrac{5} {12}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>03AD91B5-06E0-4B12-808B-4F0278EC9237</p>
 </div>
@@ -34073,12 +34071,12 @@ $\dfrac{1} {2}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>40063D7A-77F1-4202-9161-7E6E6C22F8EF</p>
 </div>
@@ -34131,7 +34129,7 @@ $\dfrac {3} {5}$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -34273,7 +34271,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>84995481-1A2F-4667-8846-F97B143D48F4</p>
 </div>
@@ -34395,7 +34393,7 @@ $4$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -34594,7 +34592,7 @@ $2\dfrac{2} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>F4722F0A-FE19-4DC1-BE2D-4BA0FACA8523</p>
 </div>
@@ -34662,7 +34660,7 @@ $30$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

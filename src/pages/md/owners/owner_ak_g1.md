@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-g1"
 title: "Owner - Abhay Kandpal - G1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1652,10 +1652,7 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -6289,9 +6286,6 @@ $1349$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -7030,6 +7024,194 @@ $46$
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
+<p>8C993AFA-AFCB-4D29-9664-802BEE2647F5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next two terms of these sequences: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5, 8, 11, \ldots, \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}
+&&  \footnotesize{\maroonC{(+3)}}  \\
+5,  &&    8,  &&  11,  &&  \ldots,   &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 11 + 3 \\\\
+                               &= 14 \\\\
+\text{Second missing number}   &= 14 + 3 \\\\
+                               &= 17
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14, 17$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4, 8, 16, \ldots, \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}
+&&  \footnotesize{\maroonC{(\times 2)}}  \\
+4,  &&    8,  &&  16,  &&  \ldots,   &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}    &= 16 \times 2 \\\\
+                                &= 32 \\\\
+\text {Second missing number}   &= 32 \times 2 \\\\
+                                &= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32, 64$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$100, 90, 80, \ldots, \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $-10$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}
+&&  \footnotesize{\maroonC{(-10)}}  \\
+100,  &&    90,  &&  80,  &&  \ldots,   &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}    &= 80 - 10 \\\\
+                                &= 70 \\\\
+\text {Second missing number}   &= 70 - 10 \\\\
+                                &= 60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$70, 60$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
 <p>2D9E6D0E-4E54-4B9F-A732-DB3E447B66D7</p>
 </div>
 <div class='topics'>
@@ -7538,6 +7720,58 @@ $\dfrac {89} {99}$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>71A87121-8B24-43F3-8CA2-5883E0DFF79B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ann went to the cinema. The film started at $11{:}55 \ \text{AM}$ and lasted $117$ minutes. What time did the film end?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Film ended}   &= 11{:}55 \ \text{A.M} + 117 minutes \\\\
+                    &= 11{:}55 + 1 \ \text {hours} \ 57 \ \text {minutes} \\\\
+                    &= 12{:}55 + 57 \ \text{minutes} \\\\
+                    &= 01{:}52 \ \text {P.M}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$01{:}52 \ \text {P.M}$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
@@ -9248,9 +9482,6 @@ $64$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -10867,9 +11098,6 @@ $212057$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -12051,9 +12279,6 @@ $308520$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -13277,10 +13502,7 @@ $\dfrac {7} {10}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
+talgebra
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ak-pr"
 title: "Reviewer - Abhay Kandpal - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -481,7 +481,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \dfrac {1} {2} \text{jugs of water required}$
+$2 \dfrac {1} {2} \ \text{jugs of water required}$
 
 </div>
 </div>

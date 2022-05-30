@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-05-30 17:27:34
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>54BD09C0-1C14-4564-B207-B912ADE229BB</p>
 </div>
@@ -57,20 +57,17 @@ $3334$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>F639A0C1-C422-4D98-A551-18AA9D92D8D3</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -107,12 +104,12 @@ $2822$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>B4091545-C20A-4D37-9CEF-364C712C6AFF</p>
 </div>
@@ -133,13 +130,13 @@ $158 \times 23$
 
 $
 \begin{array}{cccccccccccccc}
-         &      &       &       1       & 5     & 8     \\
-{}\times &      &       &               & 2     & 3     \\
+         &      &             &       1       &   5     &   8 \\
+         &      &  \times     &               &   2     &   3 \\
 \hline 
-         &       &       &       4       & 7     & 4     \\
-         &       &  3    &       1       & 6     & 0     \\
+         &      &             &       4       &   7     &   4 \\
+         &      &  3          &       1       &   6     &   0 \\
 \hline
-         &       &  3    &       6       & 3     & 4
+         &      &  3          &       6       &   3     &   4
 \end{array}
 $
 
@@ -157,7 +154,7 @@ $3634$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1226,7 +1223,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>2F479FDA-0316-4767-B8AE-E8A9C49B54B0</p>
 </div>
@@ -1256,7 +1253,7 @@ $20 000\ \text{mm}$
 <div class='workings'>
 <div class='working'>
 
-$20 000\ \text{mm}$
+$20000 \ \text{mm}$
 
 </div>
 </div>
@@ -1266,7 +1263,7 @@ $20 000\ \text{mm}$
 </div>
 <div class='answer'>
 
-$20 000\ \text{mm}$
+$20000 \ \text{mm}$
 
 </div>
 </div>
@@ -1275,7 +1272,7 @@ $20 000\ \text{mm}$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1510,7 +1507,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>359E9CAF-B6FE-434F-9191-AF9614CF6D12</p>
 </div>
@@ -1556,12 +1553,12 @@ $11.66$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>FA07A720-D1E4-4527-953B-6F2BE26C4F2E</p>
 </div>
@@ -1585,13 +1582,12 @@ What is $\dfrac{1}{2}$ of $\dfrac{4}{5}$ of $35$?
 
 $
 \begin{aligned}
+&= \dfrac {1} {2} \ \text{of} \ \dfrac {4} {5} \ \text {of} \ 35 \\\\
 &= \dfrac {1} {2} \times \dfrac {4} {5} \times 35 \\\\
-&= \dfrac {1} {2} \times \dfrac {4} {5} \times 7 \times 5 \\\\
-&= \dfrac {1 \times 4 \times 7 \times 5} {2 \times 5} \\\\
-&= \dfrac {1 \times 4 \times 7 \times \cancel {5}} {2 \times \cancel {5}} \\\\
-&= \dfrac {28} {2} \\\\
-&= \dfrac {14 \times 2} {2} \\\\\
-&= \dfrac {14 \times \cancel {2}} {\cancel {2}} \\\\
+&= \dfrac {4 \times 35} {2 \times 5} \\\\
+&= \dfrac {2 \times 2 \times 7 \times 5} {2 \times 5} \\\\
+&= \dfrac {2 \times \cancel {2} \times 7 \times \cancel {5}} {\cancel {2} \times \cancel {5}} \\\\
+&= 2 \times 7 \\\\
 &= 14
 \end{aligned}
 $
@@ -1610,7 +1606,7 @@ $14$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>

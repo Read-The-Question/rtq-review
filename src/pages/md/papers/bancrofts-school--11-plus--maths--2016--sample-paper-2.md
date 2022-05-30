@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2016-sample-paper-2"
 title: "Bancrofts School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -347,9 +347,6 @@ $2837$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -546,8 +543,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Crates needed}                          &= \dfrac {349} {8} \\\\
-                                              &= 43 \text{ remainder } 5 \\\\
+\text{Crates needed}                          &= \dfrac {\text{Total cartons}} {\text{Cartons per crate}} \\\\
+                                              &= \dfrac {349} {8} \\\\
+                                              &= 43 \dfrac {5} {8} \\\\
                                               &= 44
 \end{aligned}
 $
@@ -559,7 +557,7 @@ Total crates needed to hold $349$ cartons $= 44$
 <div class='answers'>
 <div class='answer'>
 
-$44$
+$44 \ \text{crates}$
 
 </div>
 </div>
@@ -584,7 +582,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of 4 adult tickets}                &= 4 \times \pounds 24.50 \\\\
+\text{Cost of four adult tickets}             &= 4 \times \pounds 24.50 \\\\
                                               &= \pounds 98
 \end{aligned}
 $
@@ -633,7 +631,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$138$
+$138 \ \text{months}$
 
 </div>
 </div>

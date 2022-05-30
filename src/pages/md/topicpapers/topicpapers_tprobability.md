@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tprobability"
-title: "Topicpapers Tprobability"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tprobability"
+title: "TopicPaper - Probability"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>

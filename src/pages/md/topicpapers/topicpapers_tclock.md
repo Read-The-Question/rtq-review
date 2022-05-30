@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tclock"
-title: "Topicpapers Tclock"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tclock"
+title: "TopicPaper - Clock"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-pr"
 title: "Topic - Number - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1705,181 +1705,6 @@ Five Tenths
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>CD78B853-B17C-4750-B393-54B43D8568A4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down all the factors of $36$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Factors of 36 $= 1, 2, 3, 4, 6, 9, 12, 18, 36$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 2, 3, 4, 6, 9, 12, 18, 36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the Highest Common Factor of $36$ and $60$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\\\
-\text {Factors of } 60                                      &=  1, 2, 3, 4, 5, 6, 10, \bold {12}, 15, 20, 30, 60
-\end{aligned}
-$
-
-The Highest Common Factor of $36$ and $60 = 12$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which of the factors of $36$ are square numbers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-4   &= 2^2 \\\\
-9   &= 3^2 \\\\
-36  &= 6^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4, 9, 36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which of the factors of $36$ are prime?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2, 3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2, 3$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>798006C1-EFFC-4CDE-A766-6D959CB23317</p>
@@ -1941,7 +1766,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \dfrac {1} {2} \text{jugs of water required}$
+$2 \dfrac {1} {2} \ \text{jugs of water required}$
 
 </div>
 </div>
@@ -2496,60 +2321,6 @@ $23334.3$
 </ul>
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>2F479FDA-0316-4767-B8AE-E8A9C49B54B0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of the following is the best estimate for the length of a bus?
-
-$0.2\ \text{km}$ 
-
-$2\ \text{m}$ 
-
-$20\ \text{cm}$ 
-
-$20 000\ \text{mm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$20 000\ \text{mm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-$20 000\ \text{mm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -3632,6 +3403,62 @@ $3 \ \text {cm}$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>C19E035E-6FA3-4F56-B785-07483C6DD4DD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I start counting at $19$ and go up to $89$.
+I take one second to say each number.
+How long do I take altogether?
+
+A                      B                     C                     D                     E
+$70 \ \text{seconds}$ $71 \ \text{seconds}$ $72 \ \text{seconds}$ $73 \ \text{seconds}$ $74 \ \text{seconds}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
+                    &= 89 - 20 \\\\
+                    &= 71 \ \text {seconds}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$71 \ \text {seconds}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -6431,7 +6258,7 @@ $
 &= \dfrac {\dfrac {3} {4} + 1} {2}\\\\
 &= \dfrac {\dfrac {3} {4} + \dfrac {1 \times 4} {1 \times 4}} {2} \\\\
 &= \dfrac {\dfrac {3} {4} + \dfrac {4} {4}} {2} \\\\
-&= \dfrac {\dfrac {3 + 4} {4}}} {2} \\\\
+&= \dfrac {\dfrac {3 + 4} {4}} {2} \\\\
 &= \dfrac {7} {4 \times 2} \\\\
 &= \dfrac {7} {8}\\\\
 &= 0.875
@@ -14223,13 +14050,7 @@ $\dfrac{11}{10}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -16305,6 +16126,55 @@ $\times, -$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
+<p>6532C137-9071-4123-8B77-BEABFCDB3BC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. 
+
+$
+\begin{aligned}
+&= 3.2 \text{m} - 30 \ \text{cm} \\\\
+&= 3.2 \times 100 \ \text{cm} - 30 \ \text{cm} \\\\
+&= 320  - 30  \\\\
+&= 290  \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$290  \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
 <p>51C9363A-916D-4432-92C0-0C6EF1343F19</p>
 </div>
 <div class='topics'>
@@ -16569,6 +16439,61 @@ $30$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>7E1A8AB3-C593-4477-9220-607D3E76FDBE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the difference between $2.7 \ \text{metres}$ and $32 \ \text{centimetres}$.
+
+Give your answer in metres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. 
+
+$
+\begin{aligned}
+&= 2.7 \text{m} - 30 \ \text{cm} \\\\
+&= \dfrac{30}{100} \text{m} \\\\
+&= 2.7 \text{m} - 0.3 \text{m} \\\\
+&= 2.7  - 0.3  \\\\
+&= 2.4 \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.4 \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -17129,7 +17054,7 @@ Let's calculate the difference between the number and $1$.
 |  $0.94$  | $1 - 0.94 = 0.06$   |
 |  $0.99$  | $1 - 0.99 = 0.01$   |
 
-From the calculation above, the minimum difference is $0.006$.
+From the calculation above, the smallest difference is $0.006$.
 
 Number closest in value $= 1.006$
 
@@ -19219,8 +19144,8 @@ Write $\dfrac{7}{20}$ as a decimal number.
 
 $
 \begin{aligned}
-&= \dfrac{7}{20} \\\\
-&= \dfrac{7 \times 5}{20 \times 5} \\\\
+&= \dfrac {7} {20} \\\\
+&= \dfrac {7 \times 5} {20 \times 5} \\\\
 &= \dfrac {35} {100} \\\\
 &= 0.35
 \end{aligned}
@@ -19232,54 +19157,6 @@ $
 <div class='answer'>
 
 $0.35$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Subtract the difference between $62$ and $35$ from the product of $13$ and $6$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= (13 \times 6) - (62 - 35) \\\\
-&= 78 - 27 \\\\
-&= 51
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51$
 
 </div>
 </div>
@@ -20320,81 +20197,6 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>8A24363A-173B-47A3-9255-922EF8A300A3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bob is thinking of a number. Alan asks him some questions.
-
-Is it more than $40$? Yes
-
-Is it a multiple of $3$? Yes
-
-Is it a multiple of $5$? Yes
-
-Is it more than $60$? No
-
-
-What numbers could Bob be thinking of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Bob thinks = $a$
-
-As per the question,
-
-$a > 40$
-
-$a$ is a multiple of $3$
-
-$a$ is a multiple of $5$
-
-$a <60$
-
-Numbers between $40$ and $60$ which are dvisible by $5 = {45, 50, 55}$
-
-Numbers between $40$ and $60$ which are dvisible by $3 = {45, 48, 51, 54, 57}$
-
-Since $45$ is common in both, 
-
-$a = 45$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
 <p>5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3</p>
@@ -20946,102 +20748,6 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>57C9979B-2ACE-4BAF-8E7F-AC51C6373882</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpower
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Exactly one of these statements is correct. Which one?
-
-**A** $43^2+ 56^2 = 4981$        
-
-**B** $55^2 + 66^2= 7387$
-
-**C** $77^2+ 22^2 = 6415$   
-
-**D** $44^2+ 63^2 = 5905$   
-
-**E** $34^2 + 51^2 = 3756$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-**A**
-
-$
-\begin{aligned}
-&= 43^2+ 56^2 \\\\
-&= 1849 + 3136 \\\\
-&= 4985 \ \cancel {=} \ 4981
-\end{aligned}
-$
-
-**B**
-
-$
-\begin{aligned}
-&= 55^2 + 66^2 \\\\
-&= 3025 + 4356 \\\\
-&= 7381 \ \cancel {=} \ 7387
-\end{aligned}
-$
-
-**C**
-
-$
-\begin{aligned}
-&= 77^2+ 22^2 \\\\
-&= 5929 + 484 \\\\
-&= 6413 \ \cancel {=} \ 6415
-\end{aligned}
-$
-
-**D**
-
-$
-\begin{aligned}
-&= 44^2+ 63^2 \\\\
-&= 1936 + 3969 \\\\
-&= 5905
-\end{aligned}
-$
-
-Statement D is correct.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-D
-
-</div>
-</div>
-
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-pr"
 title: "Topic - Angle - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -555,62 +555,6 @@ $
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing angle $= a \degree$.
-
-As we know sum of all angles in triangle $= 180 \degree$. So,
-
-$
-\begin{aligned}
-a + 85 + 33 &= 180 \\\\
-a + 118     &= 180 \\\\
-a           &= 180 - 118 \\\\
-a           &= 62 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$62 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1777,165 +1721,6 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>8C58A03E-ED57-4E53-AB3D-E2B7AC28475B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate the angles marked with letters on the following diagrams. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-135 + a                 &=  180 \\\\
-a                       &=  180 - 135 \\\\
-a                       &=  45 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)   
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-174 + e + 90    &=  360 \\\\
-e + 264         &=  360 \\\\
-e               &=  360 - 264 \\\\
-e               &=  96 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$96 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)   
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
-$
-\begin{aligned}
-62 + 45 + f &= 180 \\\\
-f + 107     &= 180 \\\\
-f           &= 180 - 107 \\\\
-f           &= 73 \degree
-\end{aligned}
-$
-
-$
-\begin{aligned}
-f + g     &=  180 \\\\
-73 + g    &=  180 \\\\
-g         &=  180 - 73 \\\\
-g         &=  107 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$73 \degree, 107 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>B6391AE6-AFDE-4F0B-865B-5BD6985A8B78</p>
@@ -2616,14 +2401,14 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-a + 3a + 40     &= 180 \degree \\\\
-4a + 40         &= 180  \\\\
-4a              &= 180 - 40  \\\\
-4a              &= 140  \\\\
-a               &= \dfrac {140} {4}  \\\\
-a               &= \dfrac {35 \times 4} {4}  \\\\
-a               &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
-a               &= 35 \degree
+a + 3a + 40 \degree     &= 180 \degree \\\\
+4a + 40                 &= 180  \\\\
+4a                      &= 180 - 40  \\\\
+4a                      &= 140  \\\\
+a                       &= \dfrac {140} {4}  \\\\
+a                       &= \dfrac {35 \times 4} {4}  \\\\
+a                       &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
+a                       &= 35 \degree
 \end{aligned}
 $
 
@@ -2632,9 +2417,9 @@ However, we need to find the largest angle which is the second angle.
 
 $
 \begin{aligned}
-\text{Largest angle} &= 3a  \\\\
-&= 3 \times 35  \\\\
-&= 105  \degree
+\text{Largest angle}         &= 3a  \\\\
+                             &= 3 \times 35  \\\\
+                             &= 105  \degree
 \end{aligned}
 $
 
@@ -2643,7 +2428,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$105  \degree$
+$105 \degree$
 
 </div>
 </div>

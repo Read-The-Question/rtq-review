@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-red"
 title: "Topic - Probability - Red"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>

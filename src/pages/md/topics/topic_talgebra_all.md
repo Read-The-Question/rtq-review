@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3794,7 +3794,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>71748A3D-9EB9-407F-BE74-AE1F06A04E99</p>
 </div>
@@ -4026,7 +4026,7 @@ $1$
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -4081,7 +4081,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Stickers each will get}                 &= \dfrac {756} {7} \\\\
+\text{Stickers each will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
+                                              &= \dfrac {756} {7} \\\\
                                               &= \dfrac {7 \times 108} {7} \\\\
                                               &= \dfrac {\cancel{7} \times 108} {\cancel{7}} \\\\
                                               &= 108
@@ -4155,7 +4156,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Amar's travelling cost per week}        &= \dfrac {630} {45} \\\\
+\text{Amar's travelling cost per week}        &= \dfrac {\text{Total cost each year}} {\text{No. of weeks}} \\\\
+                                              &= \dfrac {630} {45} \\\\
                                               &= \dfrac {14 \times 45} {45} \\\\
                                               &= \dfrac {14 \times \cancel{45}} {\cancel{45}} \\\\
                                               &= \pounds 14
@@ -6041,8 +6043,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Tables needed}                          &= \dfrac {180} {8} \\\\
-                                              &= 22 \text{ remainder } 4 \\\\
+\text{Tables needed}                          &= \dfrac {\text{Total pupils}} {\text{Pupil per table}} \\\\
+                                              &= \dfrac {180} {8} \\\\
+                                              &= 22 \dfrac {4} {8} \\\\
                                               &= 23
 \end{aligned}
 $
@@ -6052,7 +6055,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$23$
+$23 \ \text{tables}$
 
 </div>
 </div>
@@ -6079,7 +6082,8 @@ How many monthly payments did Jake have to make to buy it?
 Let the number of monthly payments $= m$
 
 $
-25m + 50                                      &= 275 \\\\
+\begin{aligned}
+50 + 25m                                      &= 275 \\\\
 25m                                           &= 275 - 50 \\\\
 25m                                           &= 225 \\\\
 m                                             &= \dfrac {225} {25} \\\\
@@ -6147,7 +6151,7 @@ Number of girls at Lily's school $= 265$
 <div class='answers'>
 <div class='answer'>
 
-$265$
+$265 \ \text{girls}$
 
 </div>
 </div>
@@ -7057,7 +7061,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>F540568C-C61B-4E8A-BFF9-10AF9AC433D7</p>
 </div>
@@ -7246,7 +7250,7 @@ $0$
 <p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -8790,7 +8794,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
 </div>
@@ -8841,7 +8845,7 @@ $62 \degree$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -14199,19 +14203,49 @@ Subtract the first equation from the second to reduce it to one variable.
 $
 \begin{aligned}
 2g + 5m - (2g + 4m)        &= \pounds 6.1 - \pounds 5.6 \\\\
-2g + 5m - 2g - 4m          &= 0.5 \\\\
-m                          &= \pounds 0.5
+2g + 5m - 2g - 4m          &= 0.50 \\\\
+m                          &= \pounds 0.50
 \end{aligned}
 $
 
-Cost of 1 glass of Megapop $= \pounds 0.5$
+Cost of 1 can of Megapop $= \pounds 0.50$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+Let the cost of Megapop (in $\text{pounds}$) $= m$
+
+Let the cost of Gigaburger (in $\text{pounds}$) $= g$
+
+As per the question,
+
+$
+\begin{aligned}
+g + 2m                    &= 2.8 \ \ \text {or,} \\\\
+2g + 4m                   &= 5.6 \\\\
+2g + 5m                   &= 6.1
+\end{aligned}
+$
+
+$
+\begin{array}{cccccccccccccc}
+    &   2g & + &   5m   &=\pounds 6.1 \\
+{}- &   2g & + &   4m   &=\pounds 5.6 \\
+\hline
+      &0 &+&   1m   &=\pounds 0.5 \\
+\end{array}
+$
+
+$1$ Megapop $= \pounds 0.50$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.5$
+$\pounds 0.50$
 
 </div>
 </div>
@@ -14236,7 +14270,7 @@ $
 \begin{aligned} 
 \text{Cost of 1 Gigaburger}  &= 2.8 - 2 \times 0.5 \\\\
                              &= 2.8 - 1 \\\\
-                             &= \pounds 1.8
+                             &= \pounds 1.80
 \end{aligned}
 $
 
@@ -14245,7 +14279,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1.8$
+$\pounds 1.80$
 
 </div>
 </div>
@@ -19158,6 +19192,56 @@ $19$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nc_g1 question'>
+<div class='uuid'>
+<p>6DA9F5A4-F475-42E3-A25E-62049134FBC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\ldots - 45 = 66$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a - 45                              &= 66 \\\\
+a                                   &= 66 + 45 \\\\
+a                                   &= 111
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$111$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nc_g1</p>
 </div>
 </div>
 </li>
@@ -40276,7 +40360,7 @@ $\pounds 2.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>8C58A03E-ED57-4E53-AB3D-E2B7AC28475B</p>
 </div>
@@ -40430,7 +40514,7 @@ $73 \degree, 107 \degree$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -50457,7 +50541,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>C3254CDA-4FF0-4DD2-B767-58165F53A978</p>
 </div>
@@ -50509,7 +50593,7 @@ $9$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -59856,15 +59940,15 @@ many pigs the farmer has.
 
 Let the number of pigs $= a$
 
-Number of cows $= 30$
+As per the question,
 
-Then, equating food consumed to the count of animals, we get
+Let's equate food consumed to the count of animals, we get
 
 $
 \begin{aligned} 
 30 \times 8 + a \times 6    &= 360 \\\\
 240 + 6a                    &= 360 \\\\
-6a                          &= 360 -240 \\\\
+6a                          &= 360 - 240 \\\\
 6a                          &= 120 \\\\
 a                           &= \dfrac {120} {6} \\\\
 a                           &= \dfrac {20 \times 6} {6} \\\\
@@ -59948,11 +60032,15 @@ a + (a + 70) + (a + 70 + 40)    &= 600 \\\\
 a + a + 70 + a + 70 + 40        &= 600 \\\\
 3a + 180                        &= 600 \\\\
 3a                              &= 600 - 180\\\\
-3a                              &= 420\\\\
-3a                              &= \dfrac {420} {3}\\\\
+3a                              &= 420 \\\\
+3a                              &= \dfrac {420} {3} \\\\
 a                               &= 140 \ \text{cm}
 \end{aligned}
 $
+
+The shortest piece $= 120$ cm.
+
+let's calculate the largest piece.
 
 $
 \begin{aligned} 
@@ -60007,26 +60095,14 @@ biscuit, what is the cost of a biscuit?
 
 Let the cost of a chocolate biscuit (in pence) $= a$
 
-Then as per the question,
-
 Cost of a bag of crisps (in pence) $= a + 4$
-
-It is really important to convert into the right units. 
-Let's convert the total cost into pence.
-
-$
-\begin{aligned} 
-\text{Total Cost}   &=  \pounds 1.76 \\\\
-                    &=  1.76 \times 100 \text{p}\\\\
-                    &=  176 \text{p}
-\end{aligned}
-$
 
 As per the question,
 
 $
 \begin{aligned} 
-2 \times (a + 4) + 5 \times a   &= 176  \\\\
+2 \times (a + 4) + 5 \times a   &= \pounds 1.76  \\\\
+2 \times (a + 4) + 5 \times a   &= 176 \text{pence}  \\\\
 2a + 8 + 5a                     &= 176  \\\\
 7a + 8                          &= 176  \\\\
 7a                              &= 176 - 8  \\\\
@@ -61017,14 +61093,14 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-a + 3a + 40     &= 180 \degree \\\\
-4a + 40         &= 180  \\\\
-4a              &= 180 - 40  \\\\
-4a              &= 140  \\\\
-a               &= \dfrac {140} {4}  \\\\
-a               &= \dfrac {35 \times 4} {4}  \\\\
-a               &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
-a               &= 35 \degree
+a + 3a + 40 \degree     &= 180 \degree \\\\
+4a + 40                 &= 180  \\\\
+4a                      &= 180 - 40  \\\\
+4a                      &= 140  \\\\
+a                       &= \dfrac {140} {4}  \\\\
+a                       &= \dfrac {35 \times 4} {4}  \\\\
+a                       &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
+a                       &= 35 \degree
 \end{aligned}
 $
 
@@ -61033,9 +61109,9 @@ However, we need to find the largest angle which is the second angle.
 
 $
 \begin{aligned}
-\text{Largest angle} &= 3a  \\\\
-&= 3 \times 35  \\\\
-&= 105  \degree
+\text{Largest angle}         &= 3a  \\\\
+                             &= 3 \times 35  \\\\
+                             &= 105  \degree
 \end{aligned}
 $
 
@@ -61044,7 +61120,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$105  \degree$
+$105 \degree$
 
 </div>
 </div>
@@ -61093,7 +61169,7 @@ $
 c                                 &= \dfrac {40 \times 100} { 80 } \\\\
 c                                 &= \dfrac {40 \times 2 \times 50} { 40 \times 2 } \\\\
 c                                 &= \dfrac {\cancel{40} \times \cancel{2} \times 50} { \cancel{40} \times \cancel{2} } \\\\
-                                  &= \pounds 50 
+c                                 &= \pounds 50 
 \end{aligned}
 $
 
@@ -61445,7 +61521,7 @@ $
 2a - 1      &= 257 \\\\
 2a          &= 257 + 1 \\\\
 2a          &= 258 \\\\
-a           &= \dfrac {258}{2 } \\\\
+a           &= \dfrac {258}{2} \\\\
 a           &= 129
 \end{aligned}
 $
@@ -61500,17 +61576,17 @@ $
 6 + 0.2 \times a    &= 11 \\\\
 0.2a                &= 11 - 6 \\\\
 0.2a                &= 5 \\\\
-a                   &= \dfrac {5}{0.2} \\\\
-a                   &= \dfrac {5 \times 10}{0.2 \times 10} \\\\
-a                   &= \dfrac {50}{2 } \\\\
+a                   &= \dfrac {5} {0.2} \\\\
+a                   &= \dfrac {5 \times 10} {0.2 \times 10} \\\\
+a                   &= \dfrac {50} {2} \\\\
 a                   &= 25 \ \text{days}
 \end{aligned}
 $
 
 $
 \begin{aligned} 
-\text{Date when height is reached}     &= \text{January } 19  + 25 \ \text{days} \\\\
-                &= \text{February } 13
+\text{Date when height is reached}          &= \text{January } 19  + 25 \ \text{days} \\\\
+                                            &= \text{February } 13
 \end{aligned}
 $
 
@@ -64566,6 +64642,58 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
+<p>0D7C430D-B032-4DD3-A97B-F5008B1947C3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number in the following sum? 
+
+$4060800 = 4000000 + \ldots + 800$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$.
+
+$
+\begin {aligned}
+4060800                     &= 4000000 + a + 800 \\\\
+4060800 - 4000000 - 800     &= a \\\\
+a                           &= 60000
+\end {aligned}
+$
+
+The missing number is $= 60000$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
 <p>30D0B7AD-9447-463A-831D-D948DCE6F17F</p>
 </div>
 <div class='topics'>
@@ -67352,7 +67480,7 @@ $27 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>B413F8C6-736A-43A8-89EB-3A28FF88A2B5</p>
 </div>
@@ -67424,7 +67552,7 @@ Missing Numbers : $3 , 27 , 81$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -67962,7 +68090,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>59A15B1E-9BD7-46F5-A252-A20015C38A1A</p>
 </div>
@@ -68074,7 +68202,7 @@ $4$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -68750,7 +68878,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>EF6C4BDF-FB5F-47E7-A7CA-14BDC56D176E</p>
 </div>
@@ -68800,12 +68928,12 @@ $\pounds 51$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>F4722F0A-FE19-4DC1-BE2D-4BA0FACA8523</p>
 </div>
@@ -68873,7 +69001,7 @@ $30$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -69495,7 +69623,7 @@ $67 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>FC3ABA33-5D43-482E-9D5F-4D8124DCB134</p>
 </div>
@@ -69552,7 +69680,7 @@ $\pounds 27$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -70068,7 +70196,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>37D61EFA-7D37-4E7B-87AC-FE2256B7021C</p>
 </div>
@@ -70218,7 +70346,7 @@ $6$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

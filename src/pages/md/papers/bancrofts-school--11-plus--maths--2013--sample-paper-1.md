@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2013-sample-paper-1"
 title: "Bancrofts School - 11 Plus - Maths - 2013 - Sample Paper 1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-05-30 17:27:34
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>71748A3D-9EB9-407F-BE74-AE1F06A04E99</p>
 </div>
@@ -247,7 +247,7 @@ $1$
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -307,10 +307,7 @@ $4838$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -501,7 +498,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Stickers each will get}                 &= \dfrac {756} {7} \\\\
+\text{Stickers each will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
+                                              &= \dfrac {756} {7} \\\\
                                               &= \dfrac {7 \times 108} {7} \\\\
                                               &= \dfrac {\cancel{7} \times 108} {\cancel{7}} \\\\
                                               &= 108
@@ -575,7 +573,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Amar's travelling cost per week}        &= \dfrac {630} {45} \\\\
+\text{Amar's travelling cost per week}        &= \dfrac {\text{Total cost each year}} {\text{No. of weeks}} \\\\
+                                              &= \dfrac {630} {45} \\\\
                                               &= \dfrac {14 \times 45} {45} \\\\
                                               &= \dfrac {14 \times \cancel{45}} {\cancel{45}} \\\\
                                               &= \pounds 14

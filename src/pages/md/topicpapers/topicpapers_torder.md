@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-torder"
-title: "Topicpapers Torder"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-torder"
+title: "TopicPaper - Order"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3677,7 +3677,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.92> \quad 0.909> \quad 0.9$
+$0.92, \quad 0.909, \quad 0.9$
 
 </div>
 </div>

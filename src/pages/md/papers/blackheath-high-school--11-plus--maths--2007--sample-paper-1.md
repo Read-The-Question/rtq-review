@@ -1,7 +1,7 @@
 ---
 slug: "papers/blackheath-high-school-11-plus-maths-2007-sample-paper-1"
 title: "Blackheath High School - 11 Plus - Maths - 2007 - Sample Paper 1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -131,7 +131,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \dfrac {1} {2} \text{jugs of water required}$
+$2 \dfrac {1} {2} \ \text{jugs of water required}$
 
 </div>
 </div>

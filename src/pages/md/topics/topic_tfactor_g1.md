@@ -1,9 +1,184 @@
 ---
 slug: "topics/topic-tfactor-g1"
 title: "Topic - Factor - G1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>CD78B853-B17C-4750-B393-54B43D8568A4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfactor
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down all the factors of $36$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Factors of 36 $= 1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the Highest Common Factor of $36$ and $60$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\\\
+\text {Factors of } 60                                      &=  1, 2, 3, 4, 5, 6, 10, \bold {12}, 15, 20, 30, 60
+\end{aligned}
+$
+
+The Highest Common Factor of $36$ and $60 = 12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which of the factors of $36$ are square numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4   &= 2^2 \\\\
+9   &= 3^2 \\\\
+36  &= 6^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4, 9, 36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which of the factors of $36$ are prime?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2, 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2, 3$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
@@ -3570,6 +3745,81 @@ $10, 12, 15$
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>8A24363A-173B-47A3-9255-922EF8A300A3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bob is thinking of a number. Alan asks him some questions.
+
+Is it more than $40$? Yes
+
+Is it a multiple of $3$? Yes
+
+Is it a multiple of $5$? Yes
+
+Is it more than $60$? No
+
+
+What numbers could Bob be thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Bob thinks = $a$
+
+As per the question,
+
+$a > 40$
+
+$a$ is a multiple of $3$
+
+$a$ is a multiple of $5$
+
+$a <60$
+
+Numbers between $40$ and $60$ which are dvisible by $5 = {45, 50, 55}$
+
+Numbers between $40$ and $60$ which are dvisible by $3 = {45, 48, 51, 54, 57}$
+
+Since $45$ is common in both, 
+
+$a = 45$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

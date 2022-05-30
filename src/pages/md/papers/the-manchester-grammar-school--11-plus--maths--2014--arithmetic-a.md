@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic A"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -898,15 +898,15 @@ many pigs the farmer has.
 
 Let the number of pigs $= a$
 
-Number of cows $= 30$
+As per the question,
 
-Then, equating food consumed to the count of animals, we get
+Let's equate food consumed to the count of animals, we get
 
 $
 \begin{aligned} 
 30 \times 8 + a \times 6    &= 360 \\\\
 240 + 6a                    &= 360 \\\\
-6a                          &= 360 -240 \\\\
+6a                          &= 360 - 240 \\\\
 6a                          &= 120 \\\\
 a                           &= \dfrac {120} {6} \\\\
 a                           &= \dfrac {20 \times 6} {6} \\\\
@@ -1042,11 +1042,15 @@ a + (a + 70) + (a + 70 + 40)    &= 600 \\\\
 a + a + 70 + a + 70 + 40        &= 600 \\\\
 3a + 180                        &= 600 \\\\
 3a                              &= 600 - 180\\\\
-3a                              &= 420\\\\
-3a                              &= \dfrac {420} {3}\\\\
+3a                              &= 420 \\\\
+3a                              &= \dfrac {420} {3} \\\\
 a                               &= 140 \ \text{cm}
 \end{aligned}
 $
+
+The shortest piece $= 120$ cm.
+
+let's calculate the largest piece.
 
 $
 \begin{aligned} 
@@ -1101,26 +1105,14 @@ biscuit, what is the cost of a biscuit?
 
 Let the cost of a chocolate biscuit (in pence) $= a$
 
-Then as per the question,
-
 Cost of a bag of crisps (in pence) $= a + 4$
-
-It is really important to convert into the right units. 
-Let's convert the total cost into pence.
-
-$
-\begin{aligned} 
-\text{Total Cost}   &=  \pounds 1.76 \\\\
-                    &=  1.76 \times 100 \text{p}\\\\
-                    &=  176 \text{p}
-\end{aligned}
-$
 
 As per the question,
 
 $
 \begin{aligned} 
-2 \times (a + 4) + 5 \times a   &= 176  \\\\
+2 \times (a + 4) + 5 \times a   &= \pounds 1.76  \\\\
+2 \times (a + 4) + 5 \times a   &= 176 \text{pence}  \\\\
 2a + 8 + 5a                     &= 176  \\\\
 7a + 8                          &= 176  \\\\
 7a                              &= 176 - 8  \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-g1"
 title: "Topic - Speed - G1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -561,6 +561,56 @@ $800 \ \text{kilometres per hour}$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>189A1B25-EAA6-4C15-8F75-A6EC061BEC38</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $6$ metres per second in kilometres per hour? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 6 \times \dfrac {60 \times 60} {1000} \\\\
+&= \dfrac {6 \times 60 \times 60} {1000} \\\\
+&= \dfrac {21600} {1000} \\\\
+&= 21.6 \ \text{kilometer per hour}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21.6 \ \text{kilometer per hour}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>

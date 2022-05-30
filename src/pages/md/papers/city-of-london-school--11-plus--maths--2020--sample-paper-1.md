@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2020-sample-paper-1"
 title: "City Of London School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -534,7 +534,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>A7936BDD-9D0B-4DE1-9D29-9396E4564A70</p>
 </div>
@@ -558,11 +558,11 @@ How many $\text{minutes}$ are there between $9.23\ \text{am}$ and $1.06\ \text{p
 
 $
 \begin{aligned}
-&= 9{:}23 \text {am}  - 1{:}06 \text {pm} \\\\
-&= 4 \ \text {hours} \ \ 43 \ \text {minutes} \\\\
-&= 4 \times 60 + 43 \\\\
-&= 240 + 43 \\\\
-&= 283 \text {minutes}
+&= 9{:}23 \ \text {am}  - 1{:}06 \ \text {pm} \\\\
+&= 3 \ \text {hours} \ \ 43 \ \text {minutes} \\\\
+&= 3 \times 60 + 43 \\\\
+&= 180 + 43 \\\\
+&= 223 \ \text {minutes}
 \end{aligned}
 $
 
@@ -571,7 +571,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$283 \text {minutes}$
+$223 \ \text {minutes}$
 
 </div>
 </div>
@@ -580,7 +580,7 @@ $283 \text {minutes}$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1169,7 +1169,7 @@ $400 \text{ cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
 </div>
@@ -1220,7 +1220,7 @@ $62 \degree$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>

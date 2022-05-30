@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tnumber"
-title: "Topicpapers Tnumber"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tnumber"
+title: "TopicPaper - Number"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -403,6 +403,53 @@ $1.54$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>9B276CCD-9D5D-4B51-8C56-9AA23F5E72F6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The Palladium can hold $2175$ spectators.
+
+If $305$ of the seats are empty how many of the seats are taken?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Seats taken}     &=  2175 - 305 \\\\
+                        &=  1870
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1870$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>D1711F29-C3FB-46E4-AF05-C3D286EB729E</p>
@@ -583,6 +630,51 @@ $0.575$
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>6B767751-9356-4E00-A5CA-C3F92CBA012A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Subtract three hundred and three from six thousand and sixty.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 60060 - 303 \\\\
+&= 59757
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$59757$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -1108,6 +1200,52 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>890C9879-85CE-43C2-99E6-96A39CD6E6F7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number (written in digits) is two hundred and twenty two
+**less** than two thousand?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2000 - 222 \\\\
+&= 1778
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1778$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -4088,6 +4226,62 @@ $17.01$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>C19E035E-6FA3-4F56-B785-07483C6DD4DD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I start counting at $19$ and go up to $89$.
+I take one second to say each number.
+How long do I take altogether?
+
+A                      B                     C                     D                     E
+$70 \ \text{seconds}$ $71 \ \text{seconds}$ $72 \ \text{seconds}$ $73 \ \text{seconds}$ $74 \ \text{seconds}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
+                    &= 89 - 20 \\\\
+                    &= 71 \ \text {seconds}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$71 \ \text {seconds}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nc_g1 question'>
 <div class='uuid'>
 <p>64B2B518-673B-4F9A-BA1E-841430517583</p>
@@ -4498,6 +4692,64 @@ $84$
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>3DE5385D-C398-446E-9FFB-0EE8FB9E5AE5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number is $\text{twenty-three}$ less than $\text{seventy thousand}$? 
+
+A: $67700$ 
+
+B: $69987$ 
+
+C: $69977$ 
+
+D: $50003$ 
+
+E: $47000$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 70000 - 23 \\\\
+&= 69977
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$69977$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -7222,7 +7474,7 @@ $
 &= \dfrac {\dfrac {3} {4} + 1} {2}\\\\
 &= \dfrac {\dfrac {3} {4} + \dfrac {1 \times 4} {1 \times 4}} {2} \\\\
 &= \dfrac {\dfrac {3} {4} + \dfrac {4} {4}} {2} \\\\
-&= \dfrac {\dfrac {3 + 4} {4}}} {2} \\\\
+&= \dfrac {\dfrac {3 + 4} {4}} {2} \\\\
 &= \dfrac {7} {4 \times 2} \\\\
 &= \dfrac {7} {8}\\\\
 &= 0.875
@@ -7956,7 +8208,7 @@ $2.34$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_g1 question'>
+<div class='question_envelope rag_sc_g2 question'>
 <div class='uuid'>
 <p>42073645-B85D-44D2-B12C-2CD2DF1CD58F</p>
 </div>
@@ -8011,7 +8263,7 @@ $50.75$
 <p>topicpapers_tnumber</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
+<p>rag_sc_g2</p>
 </div>
 </div>
 </li>
@@ -10403,6 +10655,65 @@ $6666666667$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>F25E82C3-2612-4DD6-9E94-BBA4771C38C6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the difference between the smallest $3$-digit number and the largest  $4$-digit number?
+
+- $1$
+- $900$
+- $1001$
+- $9998$
+- $9899$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The largest $4$-digit number $= 9999$
+
+the smallest $3$-digit number $= 100$
+
+the difference between the smallest $3$-digit number and the largest  $4$-digit number
+
+$ 9999 - 100$
+
+$9899$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$9899$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>24AB4870-C253-4710-B63E-E608BB8C2216</p>
@@ -11948,6 +12259,55 @@ $14002$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>6532C137-9071-4123-8B77-BEABFCDB3BC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. 
+
+$
+\begin{aligned}
+&= 3.2 \text{m} - 30 \ \text{cm} \\\\
+&= 3.2 \times 100 \ \text{cm} - 30 \ \text{cm} \\\\
+&= 320  - 30  \\\\
+&= 290  \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$290  \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
@@ -12033,6 +12393,61 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>7E1A8AB3-C593-4477-9220-607D3E76FDBE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the difference between $2.7 \ \text{metres}$ and $32 \ \text{centimetres}$.
+
+Give your answer in metres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. 
+
+$
+\begin{aligned}
+&= 2.7 \text{m} - 30 \ \text{cm} \\\\
+&= \dfrac{30}{100} \text{m} \\\\
+&= 2.7 \text{m} - 0.3 \text{m} \\\\
+&= 2.7  - 0.3  \\\\
+&= 2.4 \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.4 \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -12352,8 +12767,8 @@ Write $\dfrac{7}{20}$ as a decimal number.
 
 $
 \begin{aligned}
-&= \dfrac{7}{20} \\\\
-&= \dfrac{7 \times 5}{20 \times 5} \\\\
+&= \dfrac {7} {20} \\\\
+&= \dfrac {7 \times 5} {20 \times 5} \\\\
 &= \dfrac {35} {100} \\\\
 &= 0.35
 \end{aligned}
@@ -12378,7 +12793,7 @@ $0.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
 </div>
@@ -12421,7 +12836,7 @@ $51$
 <p>topicpapers_tnumber</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tpercentage"
-title: "Topicpapers Tpercentage"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tpercentage"
+title: "TopicPaper - Percentage"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>

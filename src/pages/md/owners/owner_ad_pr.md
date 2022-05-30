@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-pr"
 title: "Owner - Arun Dalakoti - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -66,7 +66,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \dfrac {1} {2} \text{jugs of water required}$
+$2 \dfrac {1} {2} \ \text{jugs of water required}$
 
 </div>
 </div>

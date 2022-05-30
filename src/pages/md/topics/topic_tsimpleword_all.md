@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-all"
 title: "Topic - Simpleword - All"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -432,8 +432,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Crates needed}                          &= \dfrac {349} {8} \\\\
-                                              &= 43 \text{ remainder } 5 \\\\
+\text{Crates needed}                          &= \dfrac {\text{Total cartons}} {\text{Cartons per crate}} \\\\
+                                              &= \dfrac {349} {8} \\\\
+                                              &= 43 \dfrac {5} {8} \\\\
                                               &= 44
 \end{aligned}
 $
@@ -445,7 +446,7 @@ Total crates needed to hold $349$ cartons $= 44$
 <div class='answers'>
 <div class='answer'>
 
-$44$
+$44 \ \text{crates}$
 
 </div>
 </div>
@@ -470,7 +471,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of 4 adult tickets}                &= 4 \times \pounds 24.50 \\\\
+\text{Cost of four adult tickets}             &= 4 \times \pounds 24.50 \\\\
                                               &= \pounds 98
 \end{aligned}
 $
@@ -519,7 +520,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$138$
+$138 \ \text{months}$
 
 </div>
 </div>
@@ -2534,6 +2535,55 @@ $96 \ \text{g}$
 </div>
 <div class='rag'>
 <p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>84E35E31-655A-4772-B0AE-B39EA42AC170</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A piece of string is $12.6 \ \text{cm}$ long. If a piece $3.75 \ \text{cm}$ is cut from it, 
+how long is the piece of string that remains? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{String (Remains)} &= \text{Sting (Total)} - \text{String (Cut)} \\\\
+&=  12.6 - 3.75 \\\\
+&=   8.85 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8.85 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

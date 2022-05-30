@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-pr"
 title: "Owner - Banoth Sairam - PR"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -487,191 +487,6 @@ $
 <div class='answer'>
 
 $\dfrac {4} {5}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>497B0D73-E53D-490C-9D71-8CF4C974875D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the missing numbers in the number patterns.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$-2, \quad 5,  \quad 12,  \quad 19,  \quad 26,  \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $7$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+7)}} 
-&&  \footnotesize{\maroonC{(+7)}}  
-&&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+7)}}  \\
--2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 26 + 7 \\\\
-                        &= 33
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$33$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$43,  \quad \ldots,  \quad 31,  \quad 25,  \quad 19,  \quad 13$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $6$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(-6)}} 
-&&  \footnotesize{\maroonC{(-6)}}  
-&&  \footnotesize{\maroonC{(-6)}}   
-&&  \footnotesize{\maroonC{(-6)}}   
-&&  \footnotesize{\maroonC{(-6)}}  \\
-43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 43 - 6 \\\\
-                        &= 37
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$37$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2,  \quad 5,  \quad 10,  \quad 17,  \quad \ldots,  \quad 37$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(3)}} 
-&&  \footnotesize{\maroonC{(5)}}  
-&&  \footnotesize{\maroonC{(7)}}   
-&&  \footnotesize{\maroonC{(9)}}   
-&&  \footnotesize{\maroonC{(11)}}  \\
-2,  &&    5,  &&  10,  &&   17,  &&  \ldots, && 37
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 17 + 9 \\\\
-                        &= 26
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$26$
 
 </div>
 </div>
@@ -2712,197 +2527,6 @@ $30$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>E08043A3-1AF9-4DBF-86C5-BE917D72DCEF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the missing numbers in the sequences below. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$-8 \quad -3 \quad 2 \quad 7 \quad \ldots \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $5$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+5)}} 
-&&  \footnotesize{\maroonC{(+5)}}  
-&&  \footnotesize{\maroonC{(+5)}}   
-&&  \footnotesize{\maroonC{(+5)}}   
-&&  \footnotesize{\maroonC{(+5)}}  \\
--8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 7 + 5 \\\\
-                                &= 12 \\\\
-\text{Second missing number}       &= 12 + 5 \\\\
-                                &= 17
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12, 17$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is decreasing  by $8$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(-8)}} 
-&&  \footnotesize{\maroonC{(-8)}}  
-&&  \footnotesize{\maroonC{(-8)}}   
-&&  \footnotesize{\maroonC{(-8)}}   
-&&  \footnotesize{\maroonC{(-8)}}  \\
-61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 53 - 8 \\\\
-                                &= 45 \\\\
-\text{Second missing number}       &= 37 - 8 \\\\
-                                &= 29
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45, 29$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$240 \quad 120 \quad \ldots \quad 30 \quad 15 \quad \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}} 
-&&  \footnotesize{\maroonC{(\div 2)}}  
-&&  \footnotesize{\maroonC{(\div 2)}}   
-&&  \footnotesize{\maroonC{(\div 2)}}   
-&&  \footnotesize{\maroonC{(\div 2)}}  \\
-240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 120 \div 2 \\\\
-                                &= 60 \\\\
-\text{Second missing number}       &= 15 \div 2 \\\\
-                                &= 7.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60, 7.5$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
 <p>7125F2EC-250C-48A5-96EC-68872015C687</p>
 </div>
 <div class='topics'>
@@ -4199,7 +3823,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-&624$
+$624$
 
 </div>
 </div>
@@ -6051,10 +5675,7 @@ The smaller number $=13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
+tsimpleword
 </li>
 </ul>
 </div>
@@ -9424,12 +9045,6 @@ $\pounds 1.33$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
 tdate
 </li>
 </ul>
@@ -11437,13 +11052,7 @@ $50$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -14774,10 +14383,7 @@ $3, 12$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -15003,10 +14609,7 @@ $13587$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 <li>
 tunitprompt
@@ -15177,9 +14780,6 @@ $11502$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -15713,9 +15313,6 @@ $13602$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedsubtraction
 </li>
@@ -16332,9 +15929,6 @@ $9134$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedsubtraction
 </li>
 </ul>
@@ -16617,7 +16211,7 @@ Let's calculate the difference between the number and $1$.
 |  $0.94$  | $1 - 0.94 = 0.06$   |
 |  $0.99$  | $1 - 0.99 = 0.01$   |
 
-From the calculation above, the minimum difference is $0.006$.
+From the calculation above, the smallest difference is $0.006$.
 
 Number closest in value $= 1.006$
 
@@ -16679,7 +16273,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$30$
 
 </div>
 </div>

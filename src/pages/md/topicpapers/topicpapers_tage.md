@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tage"
-title: "Topicpapers Tage"
-date: 2022-05-30 17:37:30
+slug: "topicpapers/topicpapers-tage"
+title: "TopicPaper - Age"
+date: 2022-05-30 21:04:00
 ---
 <div class='paper'>
 <div class='meta'>

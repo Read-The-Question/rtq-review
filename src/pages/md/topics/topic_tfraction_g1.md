@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-g1"
 title: "Topic - Fraction - G1"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1404,6 +1404,59 @@ $\pounds 168$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>FA07A720-D1E4-4527-953B-6F2BE26C4F2E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\dfrac{1}{2}$ of $\dfrac{4}{5}$ of $35$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \ \text{of} \ \dfrac {4} {5} \ \text {of} \ 35 \\\\
+&= \dfrac {1} {2} \times \dfrac {4} {5} \times 35 \\\\
+&= \dfrac {4 \times 35} {2 \times 5} \\\\
+&= \dfrac {2 \times 2 \times 7 \times 5} {2 \times 5} \\\\
+&= \dfrac {2 \times \cancel {2} \times 7 \times \cancel {5}} {\cancel {2} \times \cancel {5}} \\\\
+&= 2 \times 7 \\\\
+&= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -13098,6 +13151,266 @@ $16$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>03AD91B5-06E0-4B12-808B-4F0278EC9237</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Granddad spends one quarter of his weekly pension on a Friday night out, and one third of what remains on a Saturday night. What fraction of his weekend pension is left for him to spend during the rest of the week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weekly pension of granddad $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Pension spent on friday}          &= \dfrac {a} {4} \\\\
+\text{Pension spent on saturday}        &= \dfrac {1} {3} \left ( a - \dfrac {a} {4} \right ) \\\\
+                                        &= \dfrac {1} {3} \left ( \dfrac {a \times 4} { 1 \times 4} - \dfrac {a} {4} \right ) \\\\
+                                        &= \dfrac {1} {3} \left ( \dfrac {4a} {4} - \dfrac {a} {4} \right ) \\\\
+                                        &= \dfrac {1} {3} \left ( \dfrac {4a - a} {4} \right ) \\\\
+                                        &= \dfrac {1} {3} \times \dfrac {3a} {4} \\\\
+                                        &= \dfrac {3 \times a} {3 \times 4} \\\\
+                                        &= \dfrac {\cancel {3} \times a} {\cancel {3} \times 4} \\\\
+                                        &= \dfrac {a} {4}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Pension left}                     &= a - \dfrac {a} {4} - \dfrac {a} {4} \\\\
+                                        &= \dfrac {4a} {4} - \dfrac {a} {4} - \dfrac {a} {4} \\\\
+                                        &= \dfrac {4a - a - a} {4} \\\\
+                                        &= \dfrac {2a} {4} \\\\
+                                        &= \dfrac {2 \times a} {2 \times 2} \\\\
+                                        &= \dfrac {\cancel {2} \times a} {\cancel {2} \times 2} \\\\
+                                        &= \dfrac {a} {2} \\\\
+\text{Fraction of Pension left}         &= \dfrac {\dfrac{a} {2}} {a} \\\\
+                                        &= \dfrac {a} {2 \times a} \\\\
+                                        &= \dfrac {\cancel {a}} {2 \times \cancel {a}} \\\\
+                                        &= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{1} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>40063D7A-77F1-4202-9161-7E6E6C22F8EF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Pair up the equivalent fractions and write down the odd one out.
+
+$\frac {1} {2}\:\:\:\:\:\frac{2} {3}\:\:\:\:\:\frac {3} {5}\:\:\:\:\:\frac {9} {18}\:\:\:\:\:\frac {10} {15}$
+
+Odd one out
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write all the fractions in its lowest forms,
+
+$
+\begin{aligned}
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9} {18}, \quad \dfrac {10} {15} \\\\
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9 \times 1} {9 \times 2}, \quad \dfrac {5 \times 2} {5 \times 3} \\\\
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {\cancel {9} \times 1} {\cancel {9} \times 2}, \quad \dfrac {\cancel {5} \times 2} {\cancel {5} \times 3} \\\\
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {1} {2}, \quad \dfrac {2} {3} \\\\
+\end{aligned}
+$
+
+Odd one out : $\dfrac {3} {5}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>84995481-1A2F-4667-8846-F97B143D48F4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+tpercentageadvance
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $45$ teachers at The Peterford School . $\frac {4} {9}$ of them were given socks for Christmas.. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many were given socks?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total socks = $45$,
+
+Fraction of teachers given socks $= \dfrac {4} {9}$
+ 
+$
+\begin{aligned}
+\text {Teachers who were given socks}   &= \dfrac {4} {9} \times 45 \\\\
+                                        &= \dfrac {4 \times 45} {9} \\\\
+                                        &= \dfrac {4 \times 5 \times 9} {9} \\\\
+                                        &= \dfrac {4 \times 5 \times \cancel {9}} {\cancel {9}} \\\\
+                                        &= 4 \times 5 \\\\
+                                        &= 20 \ \text{teachers}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$20\%$ of those who were given socks also received a tie. How many were given socks and a tie?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, $20 \%$ of those who were given socks also received a tie.
+
+$ \begin{aligned}
+&= 20 \% \ \text{of} \ 20 \  \text {teachers} \\\\
+&= \dfrac {20} {100} \times 20 \\\\
+&= \dfrac {20 \times 20} {100} \\\\
+&= \dfrac {2 \cancel {0} \times 2 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= 2 \times 2 \\\\
+&= 4 \  \text {teachers}
+\end{aligned}
+
+Teachers who were given socks and tie $= 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>353BB995-A155-4687-A64F-8268496F03B4</p>
@@ -13288,6 +13601,79 @@ $2\dfrac{2} {3}$
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>F4722F0A-FE19-4DC1-BE2D-4BA0FACA8523</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When two fifths of the class are absent, there are $18$ pupil; present. What is the total number of pupils in the class?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of pupils be $t$
+
+As per the question,
+
+Pupil present = $18$
+
+Pupil absent = $\dfrac {2} {5} \ \text{of} \ t$
+
+Total pupil = pupil present + pupil absent
+
+$
+\begin{aligned}
+t                                                               &= 18 + \dfrac {2} {5} \times t \\\\
+t                                                               &= 18 + \dfrac {2t} {5} \\\\
+t - \dfrac {2t} {5}                                             &= 18 \\\\
+\dfrac{t \times 5} {1 \times 5} - \dfrac {2t} {5}               &= 18 \\\\
+\dfrac{5t - 2t} {5}                                             &= 18 \\\\
+\dfrac{3t} {5}                                                  &= 18 \\\\
+3t                                                              &= 18 \times 5 \\\\
+t                                                               &= \dfrac {18 \times 5} {3} \\\\
+t                                                               &= \dfrac {3 \times 6 \times 5} {3} \\\\
+t                                                               &= \dfrac {\cancel {3} \times 6 \times 5} {\cancel {3}} \\\\
+t                                                               &= 6 \times 5 \\\\
+t                                                               &= 30
+\end{aligned}
+$
+
+Total number of pupils in the class = $30$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

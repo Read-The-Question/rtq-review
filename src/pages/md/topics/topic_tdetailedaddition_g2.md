@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedaddition-g2"
 title: "Topic - Detailedaddition - G2"
-date: 2022-05-30 17:27:34
+date: 2022-05-30 20:53:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -448,6 +448,70 @@ $425$
 </div>
 <div class='rag'>
 <p>rag_nm_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g2 question'>
+<div class='uuid'>
+<p>74597BD7-D839-4E39-8951-91E71A917724</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%waffles%
+$
+\begin{array}{cccccccccccccc}
+    &   8   &   0   &   8   &   6 \\
+{}+ &   4   &   3   &   5   &   5 \\
+\hline
+\\
+\hline
+\end{array}
+$
+
+-   $1231311$
+-   $12441$
+-   $12341$
+-   $12301$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   8   &   0   &   8   &   6 \\
+{}+ &   4   &   3   &   5   &   5 \\
+\hline
+1   &   2   &   4   &   4   &   1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$12441$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g2</p>
 </div>
 </div>
 </li>

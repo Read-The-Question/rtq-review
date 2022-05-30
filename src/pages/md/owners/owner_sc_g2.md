@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-g2"
 title: "Owner - Sahil Choudhary - G2"
-date: 2022-05-30 20:53:57
+date: 2022-05-30 21:17:34
 ---
 <ul class='question default-decimal'>
 <li>

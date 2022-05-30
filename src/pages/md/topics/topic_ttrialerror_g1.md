@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttrialerror-g1"
 title: "Topic - Trialerror - G1"
-date: 2022-05-30 20:53:57
+date: 2022-05-30 21:17:34
 ---
 <ul class='question default-decimal'>
 <li>

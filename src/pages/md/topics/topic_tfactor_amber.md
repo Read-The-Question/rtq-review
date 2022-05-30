@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-amber"
 title: "Topic - Factor - Amber"
-date: 2022-05-30 20:53:57
+date: 2022-05-30 21:17:34
 ---
 <ul class='question default-decimal'>
 <li>

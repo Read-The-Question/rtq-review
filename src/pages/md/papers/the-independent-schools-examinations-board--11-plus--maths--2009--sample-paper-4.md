@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-4"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 4"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -314,16 +314,10 @@ $\text {Thousand}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tratio
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tnumber
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -531,9 +525,6 @@ $\pounds 51.9$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -2342,9 +2333,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tstatistics
 </li>

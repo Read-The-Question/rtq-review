@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2013-sample-paper-4"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-29 22:47:20
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>33EA5AA6-2BAC-4539-BE0C-64E83AA9931B</p>
 </div>
@@ -34,10 +34,10 @@ Add: $36 + 58$
 
 $
 \begin{array}{cccccccccccccc}
-        & 3 & 6 \\
-    {}+ & 5 & 8 \\
-    \hline
-        & 9 & 4 
+    &   3   &   6 \\
+{}+ &   5   &   8 \\
+\hline
+    &   9   &   4
 \end{array}
 $
 
@@ -55,12 +55,12 @@ $94$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3DD7A07E-7892-444B-8438-53D2F385130E</p>
 </div>
@@ -84,10 +84,10 @@ Subtract: $75 - 54$
 
 $
 \begin{array}{cccccccccccccc}
-           & 7 & 5 \\
-    {}-    & 5 & 4 \\
-    \hline
-         & 2 & 1 
+    &   7   &   5 \\
+{}- &   5   &   4 \\
+\hline
+    &   2   &   1
 \end{array}
 $
 
@@ -105,7 +105,7 @@ $21$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -116,9 +116,6 @@ $21$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -219,12 +216,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tratio
 </li>
@@ -580,9 +571,6 @@ $10$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>

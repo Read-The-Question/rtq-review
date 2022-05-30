@@ -1,22 +1,16 @@
 ---
 slug: "topics/topic-tprofit-notstarted"
 title: "Topic - Profit - Not Started"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>23E05296-51F9-4FD9-865F-CA3C6F5DB675</p>
+<p>9CCA56DE-6EFB-4AE3-9FF5-E8F49DF630C6</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tprofit
 </li>
@@ -24,25 +18,7 @@ tprofit
 </div>
 <div class='question question'>
 
-Maisie bought some packets of sweets which were priced as follows:
-
-<!--
-Sweets, Price
-Raspberry Creams:    ,$\pounds 1.65$ (for a packet of $15$)
-Pineapple Jellies:  ,$\pounds 1.50$ (for a packet of $10$)
-Lemon Sours:        ,$\pounds 1.60$ (for a packet of $20$)
--->
-
-|       Sweets       |                 Price                 |
-|:------------------:|:-------------------------------------:|
-| Raspberry Creams:  | $\pounds 1.65$ (for a packet of $15$) |
-| Pineapple Jellies: | $\pounds 1.50$ (for a packet of $10$) |
-| Lemon Sours:       | $\pounds 1.60$ (for a packet of $20$) |
-  
-Maisie makes $30$ small boxes of mixed sweets to sell at the school summer fair. 
-Each box has $1$ Pineapple Jelly, $2$ Lemon Sours and $3$ Raspberry Creams.
-
-![missing image](/papers/missing_image.svg)
+%empty%
 
 </div>
 <div class='workings'>
@@ -78,7 +54,8 @@ TODOANSWER
 </div>
 <div class='question subquestion'>
 
-How many packets of each type of sweet does she need to buy?
+Clarissa buys the sunglasses and a sun hat. 
+How much change, in pounds, does she get from a $\pounds 10$ note?
 
 </div>
 <div class='workings'>
@@ -116,45 +93,13 @@ TODOANSWER
 </div>
 <div class='question subquestion'>
 
-How much will she spend in total, when buying the sweets?
+Jo and Aisha bought identical jeans from a market stall. 
 
-</div>
-<div class='workings'>
-<div class='working'>
+Jo got $10 \%$ discount of the full price. 
 
-TODOWORKING
+Aisha got $15 \%$ discount of the full price. Jo paid $\pounds 1.20$ more than Aisha. 
 
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If she sells her boxes for $\pounds 1$ each, how much profit will she make?
+What was the full price of the jeans?
 
 </div>
 <div class='workings'>
@@ -186,7 +131,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -200,9 +145,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tprofit
 </li>
@@ -338,12 +280,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tprofit
 </li>
 </ul>
@@ -395,9 +331,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tprofit
 </li>
@@ -454,16 +387,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
 </li>
 </ul>
 </div>
@@ -514,9 +438,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tprofit
 </li>
@@ -573,12 +494,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tprofit
 </li>
 </ul>
@@ -622,33 +537,18 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>2F87B8A9-8FC3-43EB-BE5E-40E55B4A4078</p>
+<p>ED9B32AA-0967-4B64-8FE0-D6E5182F282C</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tprofit
-</li>
-<li>
-tmoney
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-%empty% 
+Bella is given $\pounds 50$ for her birthday. She spends $\pounds 37.50$ on clothes. She then goes to the cinema with a friend, but as they have a $2$ for $1$ voucher, they only spend $\pounds 5.40$ between the two of them which they both pay half. She buys some popcorn and a drink for $\pounds 3.20$.
 
 </div>
 <div class='workings'>
@@ -684,8 +584,7 @@ TODOANSWER
 </div>
 <div class='question subquestion'>
 
-A bag contains $600$ sweets. Sweets are either red, blue or green. There are $8$ more red sweets than blue sweets. 
-$30\%$ of the sweets are blue. How many sweets are green?
+How much money does Bella have left?
 
 </div>
 <div class='workings'>
@@ -723,137 +622,13 @@ TODOANSWER
 </div>
 <div class='question subquestion'>
 
-In a sale, the price of a toy car is reduced by $40\%$. 
+Bella's friend wants to go out for supper. Bella knows that she needs to save $\pounds 2.50$ for the bus home. Assuming Bella and her friend both pay an equal amount; can Bella afford any of the food deals below? If so, which one? 
 
-I buy the toy car for $\pounds 42$. What did it cost before the sale?
+**DEAL 1**: Buy one meal for $\pounds 7$, get the second half price. 
 
-</div>
-<div class='workings'>
-<div class='working'>
+**DEAL 2**: $10 \%$ off all dishes costing $\pounds 5$ or more. 
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Fido the Dog ate $16$ pork sausages and $24$ lamb sausages. What percentage of Fido's sausages were lamb?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Jack and Jill are buying chocolates in a Chocolate Shop.
-
-Jack bought $6$ chocolate frogs and $5$ truffles for $\pounds 9.55$.
-
-Jill bought $3$ chocolate frogs and $3$ truffles for $\pounds 5.25$.
-
-How much does a chocolate frog cost, and how much does a truffle cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-An artist mixes red, yellow and white paint to create a new shade of orange.
-
-Two fifths of the mixture is yellow paint.
-
-The artist uses three times as much red paint as white paint.
-
-In total, the artist mixes $180 \ \text{ml}$ orange paint.
-
-How much red paint does the artist need?
+**DEAL 3**: Buy one get one free on all dishes costing $\pounds 8$ or more.
 
 </div>
 <div class='workings'>
@@ -885,283 +660,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>highgate-school--11-plus--maths--9999--sample-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>8327DA67-A78F-4724-81C9-6AEA23CCC731</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tprofit
-</li>
-<li>
-tmoney
-</li>
-<li>
-talgebra
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Mr Rossi owns an ice cream van.
-Yesterday he had $140$ customers. $35\%$ of them bought a choc ice.
-
-How many people bought a choc ice?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Today Mr Rossi has $430$ customers, and $86$ of them bought an ice lolly.
-
-What percentage of today’s customers bought an ice lolly?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Mr Rossi has a sale on fizzy drinks. He has reduced his prices by $30\%$. A can of cola now costs $98 \ \text{pence}$.
-
-What did a can of cola cost before the sale?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Tori bought $5$ jelly worms and $7$ sherbet dib-dabs for $\pounds 3.37$.
-Meera bought $5$ jelly worms and $2$ sherbet dib-dabs for $\pounds 1.57$.
-
-How much does a jelly worm cost, and how much does a sherbet dib-dab cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Mr Rossi is looking at his monthly accounts.
-
-Two fifths of his money was made from selling ice cream.
-
-The rest of his money came from selling sweets and from selling fizzy drinks.
-
-He made twice as much money from selling fizzy drinks than from sweets.
-
-He made $\pounds 330$ from selling fizzy drinks.
-
-How much money does he make in total?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>highgate-school--11-plus--maths--9999--sample-paper-c</p>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1418,6 +917,177 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>A2647CBD-0E93-49BA-A66F-0E5B9BB50BB9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this question you may assume the following exchange rates:
+
+$1$ British pound ($\pounds$) = $1.5$ American dollars (US$\$$) 
+$1$ British pound ($\pounds$) = $2$ New Zealand dollars (NZ$\$$)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The price of a hoodie in the London branch of Abergavenny and Filtch is $\pounds 80$. In New York the price is US$\$90$. 
+How much do I save by buying the hoodie in New York? Give your answer both in US dollars and pounds.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+My friend Sheila lives in Auckland, New Zealand. She saves US$\$60$ if she buys this hoodie in New York. How much does it cost in New Zealand? Give your answer in New Zealand dollars.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the exchange rate for converting New Zealand dollars into American dollars:
+
+$1$ New Zealand dollar (NZ$\$$) $= \text{\textunderscore \textunderscore \textunderscore}$ American dollars (US$\$$)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>0BFEE810-C9F2-4EDF-9F70-1011D58BEE05</p>
 </div>
 <div class='topics'>
@@ -1597,9 +1267,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tprofit
 </li>

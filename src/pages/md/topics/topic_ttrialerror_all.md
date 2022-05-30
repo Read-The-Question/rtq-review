@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttrialerror-all"
 title: "Topic - Trialerror - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -58,7 +58,7 @@ $3 + (5 \times 2) + 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>F7F2FFC1-D62D-4514-9BEE-0D066D637BB9</p>
 </div>
@@ -105,7 +105,7 @@ $ (3 \times (4 - 2)) + 3 = 9$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -649,12 +649,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -796,6 +790,61 @@ $14, 12$
 </div>
 <div class='rag'>
 <p>rag_np_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>651FA161-719C-4CEA-8415-BD9C2BEF8759</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Pens cost $7 \text{p}$ each and pencils cost $5 \text{p}$ each.  I buy some pens and pencils which cost $55 \text{p}$ exactly.
+
+How many of each did I buy?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -985,6 +1034,8 @@ Work out the length of the perimeter of the rectangle.
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question, 
 
 Let the width of the rectangle in ($\text{cm}$) $= a$
 

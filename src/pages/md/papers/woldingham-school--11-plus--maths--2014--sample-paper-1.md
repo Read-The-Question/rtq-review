@@ -1,7 +1,7 @@
 ---
 slug: "papers/woldingham-school-11-plus-maths-2014-sample-paper-1"
 title: "Woldingham School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,9 +21,6 @@ date: 2022-05-29 22:47:20
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -157,9 +154,6 @@ $40$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -676,18 +670,12 @@ $3 \dfrac{1}{2}$
 # Section B
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>37D61EFA-7D37-4E7B-87AC-FE2256B7021C</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>
@@ -743,7 +731,7 @@ Cost of $4$ apples = Money he paid - Money he recieved
 $
 \begin{aligned}
 &= \pounds 2 - \pounds 1.20 \\\\
-$= \pounds 0.80
+&= \pounds 0.80
 \end{aligned}
 $
 
@@ -751,11 +739,11 @@ Cost of $1$ apple = $\pounds \dfrac{0.80} {4}$
 
 $
 \begin{aligned}
-&= \dfrac{0.8 \times 10} {4 \times 10} \\\\
-&= \dfrac{8} {4 \times 10} \\\\
-&= \dfrac{4 \times 2} {4 \times 10} \\\\
-&= \dfrac{\cancel{4} \times 2} {\cancel{4} \times 10} \\\\
-&= \dfrac{2}{10} \\\\
+&= \dfrac {0.8 \times 10} {4 \times 10} \\\\
+&= \dfrac {8} {4 \times 10} \\\\
+&= \dfrac {4 \times 2} {4 \times 10} \\\\
+&= \dfrac {\cancel{4} \times 2} {\cancel{4} \times 10} \\\\
+&= \dfrac {2}{10} \\\\
 &= \pounds 0.2
 \end{aligned}
 $
@@ -832,7 +820,7 @@ $6$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -844,16 +832,10 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
 </li>
 <li>
 tmoney
-</li>
-<li>
-ttable
 </li>
 </ul>
 </div>
@@ -1465,7 +1447,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
 </div>
@@ -1542,9 +1524,9 @@ $50\%$ of $80$ =
 $
 \begin{aligned}
 &= 50\% \ \text{of} \ 80 \\\\
-&= \dfrac{50}{100} \times 80 \\\\
-&= \dfrac{50 \times 80}{100}  \\\\
-&= \dfrac{5 \cancel {0} \times 8 \cancel {0}} {1 \cancel {0} \cancel {0}}  \\\\
+&= \dfrac {50} {100} \times 80 \\\\
+&= \dfrac {50 \times 80}{100}  \\\\
+&= \dfrac {5 \cancel {0} \times 8 \cancel {0}} {1 \cancel {0} \cancel {0}}  \\\\
 &= 5 \times 8 \\\\
 &= 40
 \end{aligned}
@@ -1583,10 +1565,10 @@ $50\% \ \text{of} \ 80 = 40$ ,
 $
 \begin{aligned}
 &= 5\% \ \text{of} \ 80 \\\\
-&= \dfrac{5\% \times 10}{1 \times 10} \times 80 \\\\
-&= \dfrac{50\% \times 80}{100}  \\\\
-&= \dfrac{40}{10} \\\\
-&= \dfrac{4 \cancel {0}}{1 \cancel {0}} \\\\
+&= \dfrac {5\% \times 10} {1 \times 10} \times 80 \\\\
+&= \dfrac {50\% \times 80} {100}  \\\\
+&= \dfrac {40}{10} \\\\
+&= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
 &= 4
 \end{aligned}
 $
@@ -1624,8 +1606,8 @@ $5\% \ \text{of} \ 80 = 4$ ,
 $
 \begin{aligned}
 &= 1\% \text{ of } 80 \\\\
-&= \dfrac{1\% \times 5}{1 \times 5} \times 80 \\\\
-&= \dfrac{5 \%}{5} \times 80  \\\\
+&= \dfrac {1\% \times 5} {1 \times 5} \times 80 \\\\
+&= \dfrac {5 \%}{5} \times 80  \\\\
 &= \dfrac {5\% \times 80} {5} \\\\
 &= \dfrac {4} {5}
 \end{aligned}
@@ -1665,7 +1647,9 @@ You can use part (a) to help you.
 Using previous answers
 
 $50\% \ \text{of} \ 8 = 40$
+
 $5\% \ \text{of} \ 8 = 4$
+
 $1\% \ \text{of} \ 8 = \dfrac {4} {5}$
 
 $
@@ -1674,6 +1658,9 @@ $
 &= (50\% + 5\% + 1\%) \times 80 \\\\
 &= 50\% \times 80 + 5\% \times 80 + 1\% \times 80 \\\\
 &= 40 + 4 + \dfrac {4} {5}  \\\\
+&= \dfrac {40 \times 5} {5} + \dfrac {4 \times 5} {5} + \dfrac {4} {5} \\\\
+&= \dfrac {200 + 20 + 4} {5} \\\\
+&= \dfrac {224} {5} \\\\
 &= 44\dfrac{4}{5}
 \end{aligned}
 $
@@ -1695,7 +1682,7 @@ $44 \dfrac {4} {5}$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2273,7 +2260,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>225E084E-3E8B-41BC-8F2E-8117437E9AF8</p>
 </div>
@@ -2330,7 +2317,7 @@ $ab$ = .....................
 $
 \begin{aligned}
 &= 7 \times 28 \\\\
-&= 198
+&= 196
 \end{aligned}
 $
 
@@ -2339,7 +2326,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$198$
+$196$
 
 </div>
 </div>
@@ -2422,7 +2409,7 @@ $1125$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2851,7 +2838,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>6C90D298-28FD-41C8-A233-C293F44572FA</p>
 </div>
@@ -2893,14 +2880,13 @@ a + \dfrac{a}{2} + \dfrac{a}{4} + \dfrac{a}{4}                                  
 \dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\ 
 \dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
 \dfrac {8a} {4}                                                                                 &= 96 \\\\
-7a                                                                                              &= 96 \times 4 \\\\
+8a                                                                                              &= 96 \times 4 \\\\
 a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
 a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
 a                                                                                               &= \dfrac{8 \times 12 \times 4} {8} \\\\
 a                                                                                               &= \dfrac{\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
 a                                                                                               &= 12 \times 4 \\\\
-a                                                                                               &= 48 \\\\
-\text {the age of father}                                                                       &= 48
+a                                                                                               &= 48
 \end{aligned}
 $
 
@@ -2918,7 +2904,7 @@ $48$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

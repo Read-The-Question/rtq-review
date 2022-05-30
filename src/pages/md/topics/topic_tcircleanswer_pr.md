@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircleanswer-pr"
 title: "Topic - Circleanswer - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -69,14 +69,14 @@ $2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
-<p>5A02BFDB-4654-4CDA-8AB3-4762789C5789</p>
+<p>23F08023-3E57-40D1-BED1-91FEF237609C</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tmoney
 </li>
 <li>
 tcircleanswer
@@ -85,29 +85,19 @@ tcircleanswer
 </div>
 <div class='question question'>
 
-Circle the fraction from this list, which is closest to $1$.
+Put a circle around **all** the amounts that can be made with **three** coins:
 
-$\frac {5} {7},\:\:\:\frac {2} {3},\:\:\:\frac {3} {5},\:\:\:\frac {7} {8},\:\:\:\frac {8} {9},\:\:\:\frac {7} {10}$
+$13 \text{p} \quad 23 \text{p} \quad 33 \text{p} \quad 43 \text{p} \quad 53 \text{p}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let's convert all the numbers into decimals..
-
 $
 \begin{aligned}
-&= \dfrac {5} {7}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {7} {8}, \quad \dfrac {8} {9}, \quad \dfrac {7} {10} \\\\
-&= 0.714, \quad 0.666, \quad 0.6, \quad 0.875, \quad 0.888, \quad 0.7
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 0.6, \quad 0.666, \quad 0.7, \quad 0.714, \quad 0.875, \quad 0.888 \\\\
-&= \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}, \quad \dfrac {5} {7}, \quad \dfrac {7} {8}, \quad \boxed {\dfrac {8} {9}}
+13 \text {p}     &= 10 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+23 \text {p}     &= 20 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+53 \text {p}     &= 50 \text {p} + 2 \text {p} + 1 \text {p}
 \end{aligned}
 $
 
@@ -116,16 +106,16 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {8} {9}$
+$13 \text{p},23 \text{p},53 \text{p}$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

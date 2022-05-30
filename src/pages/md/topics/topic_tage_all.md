@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-all"
 title: "Topic - Age - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -974,7 +974,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>66B16F07-8FF6-4E55-BA74-5529DF432D2B</p>
 </div>
@@ -999,7 +999,9 @@ How old was my grandmother when her daughter was born?
 
 $
 \begin{aligned}
-\text {Grandmother's age} &= 80 - 52 \\\\
+\text {Grandmother's age} &= 80 - (40 + (2006 - 1994)) \\\\
+                          &= 80 - (40 + 12) \\\\
+                          &= 80 - 52 \\\\
                           &= 28
 \end{aligned}
 $
@@ -1018,7 +1020,7 @@ $28$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1139,7 +1141,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>0A39A4A0-788E-4A56-BD54-7971DF649AE3</p>
 </div>
@@ -1195,7 +1197,7 @@ $52$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -2189,7 +2191,7 @@ $9, \ 3, \ 16, \ 11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A4CC0300-E182-4F49-A74B-56D65902A6A7</p>
 </div>
@@ -2308,7 +2310,7 @@ $16$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2470,7 +2472,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F858D0CE-F0D7-4B18-A22D-210D8F94DE51</p>
 </div>
@@ -2518,7 +2520,7 @@ $8 \ \text{years} \ 10 \ \text{months}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2977,7 +2979,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>6C90D298-28FD-41C8-A233-C293F44572FA</p>
 </div>
@@ -3019,14 +3021,13 @@ a + \dfrac{a}{2} + \dfrac{a}{4} + \dfrac{a}{4}                                  
 \dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\ 
 \dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
 \dfrac {8a} {4}                                                                                 &= 96 \\\\
-7a                                                                                              &= 96 \times 4 \\\\
+8a                                                                                              &= 96 \times 4 \\\\
 a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
 a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
 a                                                                                               &= \dfrac{8 \times 12 \times 4} {8} \\\\
 a                                                                                               &= \dfrac{\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
 a                                                                                               &= 12 \times 4 \\\\
-a                                                                                               &= 48 \\\\
-\text {the age of father}                                                                       &= 48
+a                                                                                               &= 48
 \end{aligned}
 $
 
@@ -3044,7 +3045,7 @@ $48$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

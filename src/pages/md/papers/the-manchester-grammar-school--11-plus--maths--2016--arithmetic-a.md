@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,9 +66,6 @@ $1237$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -383,13 +380,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -508,16 +499,10 @@ $105  \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tprofit
+talgebra
 </li>
 <li>
 tmoney
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -567,7 +552,7 @@ $\pounds 50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>D62B63A1-CA82-4AA9-B4FE-290BB7B57B95</p>
 </div>
@@ -641,20 +626,17 @@ $144 \ \text{cm}^{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>8BA1366E-EFBD-498C-A4B3-056CCEEA7FD8</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -785,7 +767,7 @@ $30 \ \text{pence}$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -985,7 +967,7 @@ $\text{February } 13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>E6588871-D766-4716-B6B4-2BB08ABB7D9F</p>
 </div>
@@ -1034,7 +1016,7 @@ $\dfrac { 6 } { 25 }$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

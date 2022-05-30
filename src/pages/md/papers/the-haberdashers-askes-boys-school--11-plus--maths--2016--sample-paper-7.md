@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2016-sample-paper-7"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -117,9 +117,6 @@ $39$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -218,10 +215,7 @@ $27$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -565,13 +559,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
+</li>
+<li>
+ttrialerror
 </li>
 </ul>
 </div>
@@ -846,9 +837,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tstatistics
 </li>
@@ -2146,13 +2134,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -2771,16 +2756,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
+talgebra
 </li>
 <li>
 tmoney
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>

@@ -1,9 +1,75 @@
 ---
 slug: "topics/topic-tcircle-g1"
 title: "Topic - Circle - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>7CFBB3E2-4126-48CA-A265-D062FE8189AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+MULTIPLE CHOICE
+
+Circle the correct answer to the questions in this section 
+
+How many seconds are there in four minutes?
+
+-  $4$ 
+-  $60$ 
+-  $460$ 
+-  $240$
+-  $3600$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+1 minute $= 60$ seconds
+
+$
+\begin{aligned}
+&= 4 \times 60 \\\\
+&= 240 \ \text {seconds}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$240$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>

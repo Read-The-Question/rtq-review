@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-amber"
 title: "Owner - Chiliveru Aravind - Amber"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,10 +12,10 @@ date: 2022-05-29 22:47:20
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
-tmoney
+tcoin
 </li>
 </ul>
 </div>
@@ -364,10 +364,7 @@ $16 \ \text{hours}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -429,10 +426,7 @@ $30 \text{p}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -598,10 +592,7 @@ $3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
+talgebra
 </li>
 </ul>
 </div>
@@ -2218,13 +2209,7 @@ $64$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -2417,13 +2402,7 @@ $\text{different} \ \ \boxed{\times}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
+tprofit
 </li>
 </ul>
 </div>
@@ -2640,10 +2619,7 @@ $=17500 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2013-sample-paper-4"
 title: "Sevenoaks School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -287,15 +287,12 @@ $\dfrac {15} {28}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -315,19 +312,19 @@ Let's convert all amounts into pence.
 
 $
 \begin{aligned}
-\text{Total amount spent}   &= \pounds1.15 \times 100\text{p} + 56p \\\\\
-                            &= 115\text{p} + 56p \\\\
-                            &= 171\text{p} \\\\
-\pounds 20 \text{ in pence} &= \pounds20 \times 100p \\\\
-                            &=  2000\text{p}                      
+\text {Total amount spent}   &= 1.15 \times 100 \text {p} + 56p \\\\\
+                             &= 115 \text {p} + 56p \\\\
+                             &= 171 \text {p} \\\\
+\pounds 20 \text {in pence}  &= \pounds 20 \times 100p \\\\
+                             &=  2000 \text {p}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Change}      &= 2000\text{p} - 171\text{p} \\\\
-                   &= 1829\text{ p}
-                   &=  \dfrac {1829} {100}  \\\\
+\text {Change}     &= 2000 \text {p} - 171 \text {p} \\\\
+                   &= 1829 \text {p}
+                   &= \dfrac {1829} {100} \\\\
                    &= \pounds 18.29
 \end{aligned}
 $
@@ -346,7 +343,7 @@ $\pounds 18.29$
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -403,7 +400,7 @@ $0.72$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>BE851320-29AB-491D-B295-527BA7C9A21D</p>
 </div>
@@ -419,30 +416,8 @@ tsequence
 Fill in the missing numbers in the following sequences:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
@@ -458,32 +433,36 @@ $1, 3, 5, \text{\textunderscore \textunderscore \textunderscore}, \text{\textund
 <div class='workings'>
 <div class='working'>
 
+Let's find the difference between the consecutive terms of the sequence.
+
 The difference between the terms is $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{  {(+2)}} 
-&&  \footnotesize{{(+2)}} \\
-1,  &&    3,  &&  5,  &&  \dots,  &&  \dots, && 11
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}  \\
+1,  &&    3,  &&  5,  && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing number 1}   &= 5 + 2 \\\\
-                          &= 7 \\\\
-
-\text{Missing number 1}   &= 7 + 2 \\\\
-                          &= 9
+\text{First missing number}   &= 5 + 2 \\\\
+                              &= 7 \\\\
+\text{Second missing number}  &= 7 + 2 \\\\
+                              &= 9                             
 \end{aligned}
 $
+
+The missing numbers are $21$ and $33$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1,  &&    3,  &&  5,  &&  7,  &&  9, &&  11$
+$7,9$
 
 </div>
 </div>
@@ -510,7 +489,7 @@ The next term is calculated  by $\text{difference between consecutive terms} \ti
 
 $
 \begin{matrix}
-&   \footnotesize{  {(+2)}} 
+&   \footnotesize{{(+2)}} 
 &&  \footnotesize{{(+4)}} \\
 &&  \footnotesize{{(+6)}} \\
 1,  &&    3,  &&  7,  &&  13,  &&  \dots, && \dots, && 43
@@ -519,20 +498,22 @@ $
 
 $
 \begin{aligned}
-\text{Missing number 1}   &= 13 + 8 \\\\
-                          &= 21 \\\\
+\text{First missing number}    &= 13 + 8 \\\\
+                               &= 21 \\\\
 
-\text{Missing number 1}   &= 21 + 12 \\\\
-                          &= 33
+\text{Second missing number}   &= 21 + 12 \\\\
+                               &= 33
 \end{aligned}
 $
+
+The missing numbers are $21$ and $33$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1,  &&    3,  &&  7,  &&  13,  &&  21, && 33, && 43$
+$21,33$
 
 </div>
 </div>
@@ -553,24 +534,37 @@ $1, 2, 0, 3, -1, 4, \text{\textunderscore \textunderscore \textunderscore}, \tex
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let's find the sum of the two consecutive terms of the sequence
 
-</div>
-<div class='working'>
+$
+begin{aligned}
+1 + 2    &=3
+2 + 0    &=2
+0 + 3    &=3
+3 + (-1) &=2
+-1 + 4   &=3
+end{aligned}
+$
 
-TODOWORKING
+The next addition answer should give $3$.
+
+$
+begin{aligned}
+\text {First missing number}  &= 3 - 4 \\\\
+                              &= -1 \\\\
+\text {Second missing number} &= 2 - (-1) \\\\
+                              &= 3 \\\\                             
+end{aligned}                             
+$
+
+The missing numbers are $-1$ and $3$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+-1,3
 
 </div>
 </div>
@@ -582,7 +576,7 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1483,13 +1477,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tfactor
+tnumber
 </li>
 </ul>
 </div>

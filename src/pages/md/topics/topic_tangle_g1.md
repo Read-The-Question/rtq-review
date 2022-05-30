@@ -1,9 +1,67 @@
 ---
 slug: "topics/topic-tangle-g1"
 title: "Topic - Angle - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>E719F44B-5B35-49B3-844A-3A6796E6666A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg) 
+
+What is the value of the missing angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a$
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 90 \degree + 23 \degree     &= 180 \degree  \\\\
+a                               &= 180 - 90 - 23 \\\\
+a                               &= 180 - 113 \\\\
+a                               &= 67 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$67 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
@@ -190,6 +248,69 @@ $135 \degree$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>53DC209F-8A5F-49BF-8896-B33B61A97645</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two of the angles in a triangle are $25 \degree$ and $107 \degree$. The third angle is:
+
+-  $28 \degree$ 
+-  $48 \degree$ 
+-  $68 \degree$ 
+-  $88 \degree$ 
+-  $180 \degree$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle $= a$
+
+As we know sum of all angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+25 + 107 + a &= 180 \\\\
+132 + a      &= 180 \\\\
+a            &= 180 - 132 \\\\
+a            &= 48 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$48 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>

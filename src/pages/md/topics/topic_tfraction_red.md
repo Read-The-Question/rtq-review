@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-red"
 title: "Topic - Fraction - Red"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1904,6 +1904,60 @@ $26$
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_red question'>
+<div class='uuid'>
+<p>1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $17 \dfrac{1}{2} \div 5$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 17 \dfrac{1}{2} \div 5 \\\\
+&= \dfrac {35} {2} \div 5 \\\\
+&= \dfrac {35} {2} \times \dfrac {1} {5} \\\\
+&= \dfrac {35} {2 \times 5} \\\\
+&= \dfrac {7 \times 5} {2 \times 5} \\\\
+&= \dfrac {7 \times \cancel{5}} {2 \times \cancel{5}} \\\\
+&= \dfrac {7} {2} \\\\
+&= 3 \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3\dfrac{1}{2}$ or $\dfrac{7}{2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_red</p>
 </div>
 </div>
 </li>

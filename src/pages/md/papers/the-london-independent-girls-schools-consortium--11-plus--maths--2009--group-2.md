@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-29 22:47:20
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>84386E3C-25A2-4135-BDFE-C2794FEA4DB7</p>
 </div>
@@ -58,7 +58,7 @@ $849$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -122,9 +122,6 @@ $7113$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -363,7 +360,7 @@ $\text {E, \ D, \ Z}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3C00C796-049E-471D-AEC7-FACC3D844E29</p>
 </div>
@@ -561,12 +558,12 @@ $27, \ 81$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A4CC0300-E182-4F49-A74B-56D65902A6A7</p>
 </div>
@@ -685,7 +682,7 @@ $16$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1035,7 +1032,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3D815431-0738-48E8-8632-A526A05E2823</p>
 </div>
@@ -1161,7 +1158,7 @@ $5 - 5 = 4 - 4$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1222,7 +1219,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>C93A6248-F4DF-45F2-A0DE-18925C33F3FD</p>
 </div>
@@ -1280,7 +1277,7 @@ $20 \ \text{cm} ^ 2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1292,10 +1289,7 @@ $20 \ \text{cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -1653,7 +1647,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8089705E-50AA-40D2-9513-A70C93DC8C55</p>
 </div>
@@ -1705,7 +1699,7 @@ $3124, \ 3214, \ 3412, \ 3142$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1767,7 +1761,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>4006083B-3E90-419F-BA56-2A524560C84C</p>
 </div>
@@ -1824,7 +1818,7 @@ $11$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2025,9 +2019,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2131,15 +2122,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>42D920DA-04E3-422A-89A2-AF9EEC3650DF</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -2309,7 +2297,7 @@ $26748$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

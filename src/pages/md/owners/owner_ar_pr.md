@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ar-pr"
 title: "Owner - Aryan Rawat - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -32,7 +32,7 @@ $1, 1, 2, 3, 5,$ are...
 
 Let's find the difference between the consecutive terms of the sequence.
 
-In this sequence we are getting the next term by adding previous term to the current term:
+In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:
 
 $
 \begin{matrix}
@@ -824,6 +824,337 @@ $16 \degree$
 <li>
 <div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
+<p>F7F2FFC1-D62D-4514-9BEE-0D066D637BB9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put brackets in this calculation to make it correct:
+
+$3 \times 4 - 2 + 3 = 9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+& 3 \times 4 - 2 + 3 = 9 \\\\
+& 3 \times (4 - 2) + 3 \\\\
+& (3 \times (4 - 2)) + 3 \\\\
+& (3 \times (4 - 2)) + 3 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$ (3 \times (4 - 2)) + 3 = 9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>E910C2F9-6456-4BBC-AFDD-535BDC142506</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Freya’s bus leaves at $08{:}05$. She arrives $12 \ \text{minutes}$ early 
+for the bus. When does she arrive?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Arrival Time}  &= 8 {:} 05 - 12 \ \text{minutes} \\\\
+                     &= 7 {:} 58
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 {:} 58$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>756BF331-A51F-4A21-87F9-88110C57C73D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mel has 27 marbles. She gives $\dfrac{1}{3}$ of them to Vix 
+and a half of the rest to Sarah. How many are left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Marbles left}            &=  \text {Total Marbles} -  \text {Marbles (Vix)} - \text {Students (Sarah)} \\\\
+                                &=  27 -  \dfrac {1} {3} \times 27 - \dfrac {1} {4} \times 180 \\\\
+                                &=  180 -  \dfrac {2 \times 180} {5}  - \dfrac {180} {4}  \\\\
+                                &=  180 -  \dfrac {2 \times 36 \times 5} {5}  - \dfrac {45 \times 4} {4}  \\\\
+                                &=  180 -  \dfrac {2 \times 36 \times \cancel{5}} {\cancel{5}}  - \dfrac{45 \times \cancel{4}} {\cancel{4}}  \\\\
+                                &=  180 -  2 \times 36 - 45  \\\\
+                                &=  180 -  72 - 45  \\\\
+                                &=  63
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>B34288DD-BB7A-4E73-B397-2F8478A7D5D8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two angles of a triangle are $49 \degree$ and $52 \degree$. What is the third angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a$
+
+As we know sum of  all angles in triangle $= 180 \degree$.
+
+Using that we get,
+
+$
+\begin{aligned}
+49 + 52 + a    &= 180 \\\\
+101 + a        &= 180 \\\\
+a              &= 180 - 101 \\\\
+a              &= 79 \ \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$79 \ \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>416925A5-F078-4A2D-BB8E-871E9D3B167B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $5 \%$ of $360$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5\% \text { of } 360 \\\\
+&= \dfrac {5} {100} \times 360 \\\\
+&= \dfrac {5 \times 360} {100} \\\\
+&= \dfrac {5 \times 2 \times 18 \times 10} {2 \times 5 \times 10} \\\\
+&= \dfrac {\cancel {5} \times \cancel {2} \times 18 \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+&= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $15 \%$ of $360$.
+
+You can use part (a) to help you.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 15\% \text { of } 360 \\\\
+&= \dfrac {15} {100} \times 360 \\\\
+&= \dfrac {15 \times 360} {100} \\\\
+&= \dfrac {5 \times 3 \times 2 \times 18 \times 10} {2 \times 5 \times 10} \\\\
+&= \dfrac {\cancel {5} \times 3 \times \cancel {2} \times 18 \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+&= 54
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
 <p>5CC2AA10-9BD1-4023-B610-74254B953442</p>
 </div>
 <div class='topics'>
@@ -943,6 +1274,1018 @@ $0.575$
 </ul>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>D1E91C2C-7808-4EE0-BABC-FC7615F5E3D4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How long is it, in hours and minutes, between $09{:}34$ and $13{:}21$?
+
+-  $4 \ \text{hrs} 57 \ \text{mins}$ 
+-  $3 \ \text{hrs} 47 \ \text{mins}$ 
+-  $4 \ \text{hrs} 37 \ \text{mins}$
+-  $22 \ \text{hrs} 55 \ \text{mins}$ 
+-  $4 \ \text{hrs} 13 \ \text{mins}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Difference}   &= 13{:}21 - 9{:}34 \\\\
+                     &= 4 \ \text {hours} \ 47 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$ 4 \ \text{hours} \ 47 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>6D5C94CF-2D87-4416-AAA2-9227B6C1AC6A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I buy a pen and a pencil for $\pounds 1.10$. The pen costs $50 \text{p}$ more than the pencil. How much is the pen?
+
+-  $50 \text{p}$        
+-  $60 \text{p}$        
+-  $70 \text{p}$        
+-  $80 \text{p}$        
+-  $90 \text{p}$       
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the price of pencil $= a$
+
+As per the question price of pen $= a + 50$
+
+$
+\begin{aligned}
+a + a + 50   &= 110 \\\\
+2a + 50      &= 110 \\\\
+2a           &= 110 - 50 \\\\
+a            &= \dfrac {60} {2} \\\\
+a            &= \dfrac {30 \times 2} {2} \\\\
+a            &= \dfrac {30 \times \cancel{2} } {\cancel {2} } \\\\
+a            &= 30 \ \text{p}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {price of pen} &= 50 + a \\\\
+                     &= 50 + 30 \\\\
+                     &= 80 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$80 \text{p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>647F4ED9-464B-42F6-AD07-9DEACD207E79</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On my wall I want to put some stickers of my favourite pop star Singing Steve. 
+The space I have available is $55 \ \text{cm}$ by $60 \ \text{cm}$ and the stickers are each $15 \ \text{cm}$ by $5 \ \ text{cm}$. 
+What is the maximum number of stickers I can fit on the wall?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Area} = \text{length} \times \text{width}$
+
+$
+\begin{aligned}
+\text{Number of stickers}  &= \dfrac {\text{Area of the space}} {\text{Area of sticker}}
+                           &= \dfrac {55 \times 60} {15 \times 5} \\\\
+                           &= \dfrac {5 \times 11 \times 15 \times 4} {15 \times 5} \\\\
+                           &= \dfrac {\cancel {5} \times 11 \times \cancel {15} \times 4} {\cancel {15} \times \cancel {5} } \\\\
+                           &= 11 \times 4 \\\\
+                           &= 44
+\end{aligned}
+$
+
+Number of stickers $= 44$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>A7936BDD-9D0B-4DE1-9D29-9396E4564A70</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many $\text{minutes}$ are there between $9.23\ \text{am}$ and $1.06\ \text{pm}$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 9{:}23 \text {am}  - 1{:}06 \text {pm} \\\\
+&= 4 \ \text {hours} \ \ 43 \ \text {minutes} \\\\
+&= 4 \times 60 + 43 \\\\
+&= 240 + 43 \\\\
+&= 283 \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$283 \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a \degree$.
+
+As we know sum of all angles in triangle $= 180 \degree$. So,
+
+$
+\begin{aligned}
+a + 85 + 33 &= 180 \\\\
+a + 118     &= 180 \\\\
+a           &= 180 - 118 \\\\
+a           &= 62 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$62 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>2BED9D4A-8D69-441E-8E45-9BDB4DE30AD0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that $2357 \times 99 = 233343$, find: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$233343 \div 99$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= 233343 \div 99 \\\\
+&= \dfrac {233343} {99} \\\\
+&=  \dfrac {2357 \times 99} {99} \\\\
+&=  \dfrac {2357 \times \cancel {99} } {\cancel {99} } \\\\
+&= 2357
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2357$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$235.7 \times 99$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 235.7 \times 99 \\\\
+&= (\dfrac {2357 \times 99} {10} )\\\\
+&= \dfrac {233343} {10} \\\\
+&= 23334.3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23334.3$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>54BD09C0-1C14-4564-B207-B912ADE229BB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3078 + 256$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   3   &    0    &    7    &    8 \\
+{}+ &       &    2    &    5    &    6 \\
+\hline
+    &   3   &    3    &    3    &    4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3334$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>F639A0C1-C422-4D98-A551-18AA9D92D8D3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tdetailedsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3078 - 256$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   3   &    0    &    7    &    8 \\
+{}- &       &    2    &    5    &    6 \\
+\hline
+    &   2   &    8    &    2    &    2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2822$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>B4091545-C20A-4D37-9CEF-364C712C6AFF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$158 \times 23$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+         &      &       &       1       & 5     & 8     \\
+{}\times &      &       &               & 2     & 3     \\
+\hline 
+         &       &       &       4       & 7     & 4     \\
+         &       &  3    &       1       & 6     & 0     \\
+\hline
+         &       &  3    &       6       & 3     & 4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3634$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>2F479FDA-0316-4767-B8AE-E8A9C49B54B0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of the following is the best estimate for the length of a bus?
+
+$0.2\ \text{km}$ 
+
+$2\ \text{m}$ 
+
+$20\ \text{cm}$ 
+
+$20 000\ \text{mm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$20 000\ \text{mm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$20 000\ \text{mm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>359E9CAF-B6FE-434F-9191-AF9614CF6D12</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Suki saves $\pounds 12$ in January, $\pounds 18$ in February and $\pounds 5$ in March. 
+
+What is her mean (average) monthly saving? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Average monthly saving}  &= \dfrac {12 + 18 + 5} {3} \\\\
+                               &= \dfrac {35} {3} \\\\
+                               &= 11.66
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11.66$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>FA07A720-D1E4-4527-953B-6F2BE26C4F2E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\dfrac{1}{2}$ of $\dfrac{4}{5}$ of $35$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times \dfrac {4} {5} \times 35 \\\\
+&= \dfrac {1} {2} \times \dfrac {4} {5} \times 7 \times 5 \\\\
+&= \dfrac {1 \times 4 \times 7 \times 5} {2 \times 5} \\\\
+&= \dfrac {1 \times 4 \times 7 \times \cancel {5}} {2 \times \cancel {5}} \\\\
+&= \dfrac {28} {2} \\\\
+&= \dfrac {14 \times 2} {2} \\\\\
+&= \dfrac {14 \times \cancel {2}} {\cancel {2}} \\\\
+&= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>189A1B25-EAA6-4C15-8F75-A6EC061BEC38</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $6$ metres per second in kilometres per hour? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 6 \times \dfrac {60 \times 60} {1000} \\\\
+&= 6 \times \dfrac {3600} {1000} \\\\
+&= 6 \times \dfrac {36 \cancel {00}} {10 \cancel {00}} \\\\
+&= \dfrac {6 \times 36} {10} \\\\
+&= \dfrac {216} {10} \\\\
+&= 21.6 \text{kilometer/hour}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21.6 \text{kilometer/hour}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If I buy $6$ pens at $\pounds 1.15$ each and 10 refills at $56 \text{p}$ each, how much change will I get if I pay with a $\pounds 20$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert all amounts into pence.
+
+$
+\begin{aligned}
+\text {Total amount spent}   &= 1.15 \times 100 \text {p} + 56p \\\\\
+                             &= 115 \text {p} + 56p \\\\
+                             &= 171 \text {p} \\\\
+\pounds 20 \text {in pence}  &= \pounds 20 \times 100p \\\\
+                             &=  2000 \text {p}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Change}     &= 2000 \text {p} - 171 \text {p} \\\\
+                   &= 1829 \text {p}
+                   &= \dfrac {1829} {100} \\\\
+                   &= \pounds 18.29
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 18.29$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>BE851320-29AB-491D-B295-527BA7C9A21D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing numbers in the following sequences:
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1, 3, 5, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}, 11$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}  \\
+1,  &&    3,  &&  5,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}   &= 5 + 2 \\\\
+                              &= 7 \\\\
+\text{Second missing number}  &= 7 + 2 \\\\
+                              &= 9                             
+\end{aligned}
+$
+
+The missing numbers are $21$ and $33$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7,9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1, 3, 7, 13, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}, 43$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence
+
+The next term is calculated  by $\text{difference between consecutive terms} \times 2$, Hence the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{{(+2)}} 
+&&  \footnotesize{{(+4)}} \\
+&&  \footnotesize{{(+6)}} \\
+1,  &&    3,  &&  7,  &&  13,  &&  \dots, && \dots, && 43
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 13 + 8 \\\\
+                               &= 21 \\\\
+
+\text{Second missing number}   &= 21 + 12 \\\\
+                               &= 33
+\end{aligned}
+$
+
+The missing numbers are $21$ and $33$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21,33$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1, 2, 0, 3, -1, 4, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the sum of the two consecutive terms of the sequence
+
+$
+begin{aligned}
+1 + 2    &=3
+2 + 0    &=2
+0 + 3    &=3
+3 + (-1) &=2
+-1 + 4   &=3
+end{aligned}
+$
+
+The next addition answer should give $3$.
+
+$
+begin{aligned}
+\text {First missing number}  &= 3 - 4 \\\\
+                              &= -1 \\\\
+\text {Second missing number} &= 2 - (-1) \\\\
+                              &= 3 \\\\                             
+end{aligned}                             
+$
+
+The missing numbers are $-1$ and $3$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+-1,3
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -1115,9 +2458,6 @@ $459$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -2122,10 +3462,7 @@ $16$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -2197,9 +3534,6 @@ $11 \text{p}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -2485,10 +3819,10 @@ $72$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
-tmoney
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -2665,10 +3999,7 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -3112,10 +4443,7 @@ $480$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>
@@ -3503,9 +4831,6 @@ $27$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -3557,10 +4882,7 @@ $57 \text{p}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -3856,9 +5178,6 @@ $28$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>

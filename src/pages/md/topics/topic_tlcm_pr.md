@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tlcm-pr"
 title: "Topic - Lcm - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -100,53 +100,6 @@ $132$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>C8C3BB23-7980-4A19-8082-5F985DD48CAC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tlcm
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which number between $140$ and $170$ can be divided exactly by both $8$ and $9$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The LCM of $8$ and $9$ is $72$. 
-
-Now let's find a number that is a multiple of the LCM and is between $140$ and $170$.
-
-$72 \times 2 = 144$ is between $140$ and $170$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$144$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -265,6 +218,8 @@ What is the largest number less than $100$ which is a multiple of $2$, and of $3
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 Let's first find LCM for three numbers. There are no common factors, so the LCM would be 
 
 $
@@ -291,7 +246,7 @@ Largest number $= 90$
 <div class='answers'>
 <div class='answer'>
 
-$0$
+$90$
 
 </div>
 </div>

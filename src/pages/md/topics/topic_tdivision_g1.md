@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-g1"
 title: "Topic - Division - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-05-29 22:47:20
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -285,58 +282,6 @@ $0.4103$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>03945F7F-BD1D-48F8-8123-918A9227D8EC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$\pounds 17.20 \div 10$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \pounds 17.20 \div 10 \\\\
-&= \dfrac {17.20} {10} \\\\
-&= \pounds 1.720
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1.720$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
 <p>76853B80-475C-45FC-8F30-B40957F57E47</p>
 </div>
 <div class='topics'>
@@ -484,9 +429,6 @@ $20$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -717,6 +659,240 @@ $40$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>2AF551EB-ACA0-4BF6-B435-AE0B4D255622</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that
+
+$799 \div 17 = 47$
+
+Use this answer to find
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$799 \div 47 =$
+
+and
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+799 \div 17                                       &= 47 \\\\
+799 \div 47                                       &= 17
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$79900 \div 47 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using the above answer
+
+$
+\begin{aligned}
+&= 79900 \div 47 \\\\
+&= \dfrac {799} {47} \times 100 \\\\
+&= 17 \times 100 \\\\
+&= 1700
+ \end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1700$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>6992287E-7743-47D8-A290-54F319C3580E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that
+
+$567 \div 27 = 21$
+
+Use this answer to find
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$567 \div 21 =$
+
+and
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$21$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$56.7 \div 2.7 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {56.7} {2.7} \\\\
+&= \dfrac {56.7 \times 10} {27 \times 10} \\\\
+&= \dfrac {56.7 \times 1 \cancel{0}} {27 \times 1 \cancel{0}} \\\\
+&= \dfrac {567} {27} \\\\
+&= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>318584A0-BE67-437A-BB85-CA2B497B8E26</p>
@@ -887,9 +1063,6 @@ $63$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1248,6 +1421,63 @@ $13$
 
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>7A0547CE-4780-4C98-8F44-705D53000745</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tdivision
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $22\dfrac{1}{2} \div 5$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+&= 22 \dfrac{1}{2} \div 5 \\\\ 
+&= \dfrac {45}{2} \times \dfrac {1}{5} \\\\
+&= \dfrac {45 \times 1} {2 \times 5} \\\\
+&= \dfrac {9 \times 5} {2 \times 5} \\\\
+&= \dfrac {9 \times \cancel{5}} {2 \times \cancel{5}} \\\\
+&= \dfrac {9} {2} \\\\
+&= 4 \dfrac {1} {2} \\\\
+&= 4.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>

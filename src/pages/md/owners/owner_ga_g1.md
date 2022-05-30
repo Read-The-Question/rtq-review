@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ga-g1"
 title: "Owner - Gifty Abhishek - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1343,10 +1343,7 @@ $550000$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>
@@ -2011,9 +2008,6 @@ $32$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2306,9 +2300,6 @@ $39$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2554,9 +2545,6 @@ $49$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -2865,13 +2853,7 @@ $561$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -3085,6 +3067,747 @@ $\dfrac {1} {9}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$1 \ \text{foot}$ is equal to $12 \ \text{inches}$. 
+Paul tiles a wall which is $10 \ \text{feet}$ long 
+and $6 \ \text{feet}$ high. 
+He uses square tiles which are $8 \ \text{inches}$ long on 
+each side. How many tiles does he need to tile the wall?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+The wall measurement is given in feet while the tile measurement is given in inches.
+
+Let's convert the wall measurements into inches.
+
+$
+\begin{aligned}
+\text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
+                        &= \dfrac {10 \ \text{feet} \times 6 \ \text{feet} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
+                        &= \dfrac {10 \times 12 \ \text{inches} \times 6 \times 12 \ \text{inches} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
+                        &= \dfrac {10 \times 12 \times 6 \times 12 } { 8 \times 8 } \\\\
+                        &= \dfrac {2 \times 5 \times 4 \times 3 \times 2 \times 3 \times 4 \times 3 } { 4 \times 2 \times 4 \times 2 } \\\\
+                        &= \dfrac {\cancel{2} \times 5 \times \cancel{4} \times 3 \times \cancel{2} \times 3 \times \cancel{4} \times 3 } { \cancel{4} \times \cancel{2} \times \cancel{4} \times \cancel{2} } \\\\
+                        &= 5 \times 3 \times 3 \times 3 \\\\
+                        &= 135
+\end{aligned}
+$
+
+Number of tiles $= 135$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$135$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If these numbers are arranged in numerical order, which one will be in the middle?  
+
+$0.77, \quad \dfrac{3}{4}, \quad 0.705, \quad \dfrac{4}{5}, \quad 0.748$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
+
+$0.77, \quad \dfrac{3}{4}, \quad 0.705, \quad \dfrac{4}{5}, \quad 0.748$
+
+$0.77, \quad 0.75, \quad 0.705, \quad 0.8, \quad 0.748$
+
+Let's put them in ascending order.
+
+$0.705, \quad 0.748, \quad 0.75, \quad 0.77, \quad 0.8$
+
+The number in the middle $= 0.75$. 
+
+The number in the middle $= \dfrac{3}{4}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{3}{4}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>7A0547CE-4780-4C98-8F44-705D53000745</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tdivision
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $22\dfrac{1}{2} \div 5$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+&= 22 \dfrac{1}{2} \div 5 \\\\ 
+&= \dfrac {45}{2} \times \dfrac {1}{5} \\\\
+&= \dfrac {45 \times 1} {2 \times 5} \\\\
+&= \dfrac {9 \times 5} {2 \times 5} \\\\
+&= \dfrac {9 \times \cancel{5}} {2 \times \cancel{5}} \\\\
+&= \dfrac {9} {2} \\\\
+&= 4 \dfrac {1} {2} \\\\
+&= 4.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>23BA576A-774F-4E22-884E-3C38C9F35B7C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in figures the number $\text{one million ten thousand and one}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1010001$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1010001$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>30031157-8687-4B93-8985-5B4931D1E9A0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the product of the sum of $8$ and $4$ with the difference of $3$ and $12$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= (8 + 4) \times (3 - 12)  \\\\
+&= 12 \times (-9) \\\\
+&= -108
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-108$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $15\%$ of $\pounds 3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 15\% \times \pounds 3 \\\\
+&= 15\% \times 300 \ \text{pence}\\\\
+&= \dfrac {15} {100} \times 300 \\\\
+&= \dfrac {15 \times 300} {100} \\\\
+&= \dfrac {15 \times 3 \times 100} {100} \\\\
+&= \dfrac {15 \times 3 \times 1\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
+&= 15 \times 3  \\\\
+&= 45 \ \text{pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \ \text{pence}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>62028F5D-6918-47EE-9E20-6E995EF362A2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much is $\dfrac{3}{4}$ of $\dfrac{2}{5}$ of $\pounds 1$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{3}{4} \text{ of } \dfrac{2}{5} \text{ of } \pounds 1 \\\\
+&= \dfrac{3}{4} \times  \dfrac{2}{5} \times 100 \ \text{pence} \\\\
+&= \dfrac{3}{4} \times \dfrac{2}{5} \times 100 \\\\
+&= \dfrac{3 \times 2 \times 100} {4 \times 5} \\\\
+&= \dfrac{3 \times 2 \times 4 \times 5 \times 5} {4 \times 5} \\\\
+&= \dfrac{3 \times 2 \times \cancel{4} \times \cancel{5} \times 5} {\cancel{4} \times \cancel{5}} \\\\
+&= 3 \times 2  \times 5 \\\\
+&= 30 \ \text{pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \ \text{pence}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>42FA7203-A19E-4735-B96B-0DE10464E8A4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in figures the number three hundred thousand, four hundred and seven.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$300407$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$300407$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $569 + 372$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &       5       & 6     & 9  \\
+{}+ &       3       & 7     & 2 \\
+\hline
+    &       9       & 4     & 1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$941$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>2349EC95-009A-4E52-B1CF-35DE1F43DFBA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number in this list $33, 44, 56, \ldots, 83, 98$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+11)}} 
+&&  \footnotesize{\maroonC{(+12)}}  
+&&  \footnotesize{\maroonC{(+13)}}   
+&&  \footnotesize{\maroonC{(+14)}}  
+&&  \footnotesize{\maroonC{(+15)}} \\
+33,  &&      44,  &&      56,  &&      \ldots,  &&      83,      &&      98
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 56 + 13 \\\\
+                        &= 69
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$69$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>69D9A9B8-8B5E-4E13-992D-5BBC123F9133</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write $0.64$ as a fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.64 \\\\
+&= \dfrac{64}{100} \\\\
+&= \dfrac{4 \times 16}{4 \times 25} \\\\
+&= \dfrac{\cancel{4} \times 16}{\cancel{4} \times 25} \\\\
+&= \dfrac{16} {25}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{16}{25}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>C12FD4E7-441B-4A1E-BD78-D6218501E0D9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If the following numbers were written in order from highest to lowest, which number would be in the middle?
+
+$\dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+In this case, there are more fractions, so let's convert all the numbers into fractions.
+
+$
+\begin{aligned}
+&= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\% \\\\
+&= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad \dfrac{35}{100}, \quad \dfrac{33}{100}
+\end{aligned}
+$
+
+LCM for $10, 3, 4, 100, 100 = 300$
+
+Let's use the LCM result to make the denominator the same for all the fractions. 
+
+$
+\begin{aligned}
+&= \dfrac{3 \times 30}{10 \times 30}, \quad \dfrac{1 \times 100}{3 \times 100}, 
+\quad \dfrac{1 \times 75}{4 \times 75}, \quad \dfrac{35 \times 3}{100 \times 3}, \quad \dfrac{33 \times 3}{100 \times 3} \\\\
+&= \dfrac{90}{300}, \quad \dfrac{100}{300}, \quad \dfrac{75}{300}, \quad \dfrac{105}{300}, \quad \dfrac{99}{300}
+\end{aligned}
+$
+
+Now let's put them in ascending order.
+
+$
+\begin{aligned}
+&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300} \\\\
+\end{aligned}
+$
+
+The number in the middle $= \dfrac{99}{300}$.
+
+The number in the middle $= 33\%$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33\%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle is $4 \ \text{cm}$ longer than it is wide. The 
+distance all the way round the rectangle (its perimeter) 
+is $32 \ \text{cm}$.  What is the area of the rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text{cm}$) $= a$
+
+Then as per the question,
+
+Length $= a + 4$
+
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
+Equating the perimeter to the length and width we get,
+
+$
+\begin{aligned}
+2 \times (a + 4 + a)      &= 32 \\\\
+2 \times (2a + 4)         &= 32 \\\\
+4a + 8                    &= 32 \\\\
+4a                        &= 32 - 8\\\\
+4a                        &= 24\\\\
+a                         &= \dfrac {24} {4} \\\\
+a                         &= 6  \ \text{cm}
+\end{aligned}
+$
+
+$\text{Width} = 6 \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Length}       &= a + 4 \\\\
+                    &= 6 + 4 \\\\
+                    &= 10 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area}         &= \text{length} \times \text{width} \\\\
+                    &= 10 \times 6 \\\\
+                    &= 60 \ \text{cm}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \ \text{cm}^{2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>

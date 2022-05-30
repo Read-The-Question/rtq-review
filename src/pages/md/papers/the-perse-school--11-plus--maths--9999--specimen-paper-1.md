@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-1"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -365,13 +365,7 @@ $\dfrac {22} {5} \ \text{or} \ 4 \dfrac {2} {5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -501,13 +495,7 @@ $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgraph
-</li>
-<li>
-tprobability
 </li>
 </ul>
 </div>
@@ -1207,16 +1195,10 @@ $13, 39$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tstatistics
+talgebra
 </li>
 <li>
 tmoney
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>

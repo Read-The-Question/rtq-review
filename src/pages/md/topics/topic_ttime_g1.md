@@ -1,9 +1,176 @@
 ---
 slug: "topics/topic-ttime-g1"
 title: "Topic - Time - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>D8CD5DBE-7A2A-47CB-9D63-90512FB0BB7B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs Green parked her car in a car park at $9.00 \ \text{am}$. She drove out of the car park at $5.00 \ \text{pm}$.
+
+Car Parking Charges: $\pounds 1.80$ per hour 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+For how many hours was her car in the car park?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Hours in the car park}    &=  5.00 \ \text{pm} - 9.00 \ \text{am} \\\\
+                                &=  8 \ \text{hours} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text{hours}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much did she pay, in total, for parking her car?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total parking charges}    &=  \pounds 1.80 \times 8 \\\\
+                                &=  \pounds 14.40 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 14.40$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>DDD0AC6B-3CD4-48A3-A86A-6AEE1949B832</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The students on the Aldenham Geography trip to Iceland arrive at Heathrow Airport at $10{:}45$.
+Their flight leaves at $13{:}05$.
+
+How many minutes do they have to wait at the airport before their flight leaves?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Waiting Time}           &= 13{:}05 - 10{:}45 \\\\
+                              &= 2 \ \text{hour} \ 20 \ \text{minutes}   \\\\
+                              &= 2 \times 60 + 20  \ \text{minutes} \\\\
+                              &= 120 + 20  \ \text{minutes} \\\\
+                              &= 140  \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$140  \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
@@ -250,6 +417,72 @@ $210 \text{ minutes}$
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>7CFBB3E2-4126-48CA-A265-D062FE8189AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+MULTIPLE CHOICE
+
+Circle the correct answer to the questions in this section 
+
+How many seconds are there in four minutes?
+
+-  $4$ 
+-  $60$ 
+-  $460$ 
+-  $240$
+-  $3600$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+1 minute $= 60$ seconds
+
+$
+\begin{aligned}
+&= 4 \times 60 \\\\
+&= 240 \ \text {seconds}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$240$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1999,6 +2232,58 @@ $2 \ \text{h} \ 25 \ \text{mins}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>2AD0DE35-98B6-4AE3-A7ED-E6A0CF80546F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A train leaves London at $10.35 \ \text{am}$ and 
+arrives in Exeter $3 \ \text{hours}$ and $35 \ \text{minutes}$ later. 
+What time does it arrive? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time of arrival}          &= 10.35 \ \text{am} + 3 \ \text{hours} \ 35 \ \text{minutes} \\\\
+                                &= 2.10 \ \text{pm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.10 \ \text{pm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
 <p>3B9E3192-6FF2-484F-BED6-93245E471DBE</p>
@@ -2628,6 +2913,382 @@ $5{:}55 \ \text{am}$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The number of insects in a colony doubles each week. If there were $100$ insects in the colony at the start of the first week,
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+how many would there be after $6$ weeks?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Inserts after six weeks} &= 2 ^ 6 \times 100 \\\\
+                               &= 64 \times 100 \\\\
+                               &= 6400
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6400$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+After how many weeks would there first be more than $100000$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of weeks $=n$
+
+As per the question,
+
+$
+\begin{aligned}
+2 ^ n \times 100 &= 100000 \\\\
+2 ^ n            &= \dfrac {100000} {100} \\\\
+2 ^ n            &= \dfrac {1000 \cancel{00}} {1 \cancel{00}} \\\\
+2 ^ n            &= 1000
+\end{aligned}
+$
+
+Since $2 ^ 9 = 512$
+
+And $2 ^ {10} = 1024$
+
+Hence $n = 10$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>A665B0B4-EBC8-4304-BDFA-28CF12D417AD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a train timetable.
+
+<!--
+**Place**       ,**Time of departure**
+Crewe           ,$08{:}00$
+Wolverhampton   ,$08{:}40$
+Birmingham      ,$09{:}00$
+Coventry        ,$09{:}30$
+Rugby           ,$09{:}40$
+Milton Keynes   ,$10{:}10$
+London          ,$10{:}45$
+-->
+
+|   **Place**       | **Time of departure**     |
+|:-------------:    |:---------------------:    |
+|     Crewe         |       $08{:}00$           |
+| Wolverhampton     |       $08{:}40$           |
+|   Birmingham      |       $09{:}00$           |
+|    Coventry       |       $09{:}30$           |
+|     Rugby         |       $09{:}40$           |
+| Milton Keynes     |       $10{:}10$           |
+|     London        |       $10{:}45$           |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many minutes should it take the train to travel from Wolverhampton to Milton Keynes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Time taken} &= 10{:}10 - 8{:}40 \\\\
+                  &= 1 \ \text {hour} \ 30 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \text {hour} \ 30 \ \text {minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the train is $35 \ \text{minutes}$ late leaving Crewe, what time should it arrive in London?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Arriving time} &= 10{:}45 + 35 \ \text{minutes} \\\\
+                     &= 11{:}20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11{:}20$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>12BD4A22-072D-4543-95F1-81147B89584D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttemperature
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+At noon the temperature is $3$ degrees Celsius and it rises at a steady $1.5$ degrees per hour throughout the afternoon.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What will the temperature be at $1500 \ \text{hrs}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Temperature at 1500 hrs} &= 3 + 3 \times 1.5 \\\\
+                               &= 3 + 4.5 \\\\
+                               &= 7.5 \degree C
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.5 \degree C$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+From $1800 \ \text{hrs}$ the temperature begins to fall at a steady rate so that by midnight it is $-3$ degrees and continues to 
+fall at this same rate through the rest of the night.
+
+What will the temperature be by $0400 \ \text{hrs}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Temperature by 0400 hrs} &= 7.5 + 3 \times 1.5 + 10 \times - 3 \\\\
+                               &= 7.5 + 4.5 - 30 \\\\
+                               &= 12 - 30 \\\\
+                               &= - 18 \degree C
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- 18 \degree C$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>0B2DDF0F-855E-489C-A9C7-EF1107955CE1</p>
 </div>
 <div class='topics'>
@@ -3045,6 +3706,58 @@ $576 \ \text{minutes}$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>3568C8D0-C035-4738-8BE0-B0BC876E29B4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A boy has to be in school by $8.35 \ \text{am}$. It takes him $25 \ \text{minutes}$ to get washed and dressed, $15 \ \text{minutes}$ to eat breakfast and then $18 \ \text{minutes}$ to walk to school.What is the latest time that he should get out of bed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Start time}                                                      &= \text{School Time} - (\text{Time to get dressed} + \text{Time to eat} + \text{Time to walk}) \\\\
+                                                                       &= 8{:}35 \ \text{am} - (25 \ \text{minutes} + 15 \ \text{minutes} + 18 \ \text{minutes}) \\\\
+                                                                       &= 8{:}35 \ \text{am} - 58 \ \text{minutes} \\\\
+                                                                       &= 7{:}37 \ \text{am}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8{:}37 \text{am}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -3900,15 +4613,12 @@ $336$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>C48AA42C-D9F5-4E65-943B-3DCB0718938D</p>
+<p>6247B84C-67BA-4837-942E-898B6625652A</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tunassigned
-</li>
-<li>
-tmoney
 </li>
 <li>
 ttime
@@ -3917,7 +4627,34 @@ ttime
 </div>
 <div class='question question'>
 
-Rob works $40 \ \text{hours}$ a week and earns $\pounds 440. What is his hourly rate of pay?
+In Sydney Australia the time is $11 \ \text{hours}$ ahead of the UK.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+John decides to phone his Great Aunt Matilda at $2300 \ \text{hours}$ UK time on the $30 \text{th}$ January. 
+What is the time and date in Sydney when Matilda receives the call?
 
 </div>
 <div class='workings'>
@@ -3925,23 +4662,75 @@ Rob works $40 \ \text{hours}$ a week and earns $\pounds 440. What is his hourly 
 
 $
 \begin{aligned}
-\text {Rob's hourly pay}    &= \dfrac {440} {40} \\\\
-                            &= \dfrac {40 \times 11} {40} \\\\
-                            &= \dfrac {\cancel {40} \times 11} {\cancel {40}} \\\\
-                            &= \pounds 11
+\text {Time in Australia}   &= 23{:}00 + 11 \ \text {hours} \\\\
+                            &= 10{:}00
 \end{aligned}
 $
+
+Matilda receives the call in Australian at $= 10{:}00$ and on $31 \text{st}$ January.
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 11$
+$10{:}00$
+
+</div>
+<div class='answer'>
+
+$31 \text{st January}$ 
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+John's sister Penny goes one better and decides to visit Great Aunt Matilda. 
+She leaves the UK at the same time that John makes his phone call. Given that the total journey time is $27 \ \text{hours}$,
+ what is the Sydney time and date when Penny arrives?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+& = 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
+& = 23{:}00 + 24 \ \text {hours} + 14 \ \text {hours} \\\\
+& = 13{:}00
+\end{aligned}
+$
+
+Penny arrives in Sydney at $= 13{:}00$ and on $1 \text {st February}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13{:}00$
+
+</div>
+<div class='answer'>
+
+$1 \text{st February}$ 
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
@@ -4008,6 +4797,116 @@ $112 \ \text{minutes}$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>011051B7-79BC-4F3A-B3E5-9FEA0D775E51</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Dita watched television from $5{:}35 \ \text{pm}$ until $7{:}10 \ \text{pm}$. How long did she spend watching television?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Time spent on TV} &= 7{:}10 \ \text{pm} - 5{:}35 \ \text{pm} \\\\
+                        &= 1 \ \text{hours} \ 35 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \text{hours} \ 35 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Dita watches the television for $2 \text{ hours } 45 \text{ minutes}$ each weekend. How much time does she spend watching television over three weekends?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Time spent over three weekends} &= 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} \\\\
+                                      &= 8 \ \text{hours} \ 15 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text{hours} \ 15 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>F62A204D-13DB-4426-A702-451397983AD5</p>
 </div>
 <div class='topics'>
@@ -4046,6 +4945,108 @@ $6$
 </div>
 </div>
 
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>5298C101-6575-44AF-907F-35B7EAF2FC14</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The time in Australia is $9 \ \text{hours}$ ahead of our time in the UK.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I wish to ring a friend in Australia so that for them the time is between $6.30  \ \text{pm}$ and $8.30  \ \text{pm}$. Between what times in the UK should I ring them?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Between} \ 9{:}30 \ \text{am} \ \text{and} \ 11{:}30 \ \text{am}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Between} \ 9{:}30 \ \text{am} \ \text{and} \ 11{:}30 \ \text{am}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The time in the USA is $5 \ \text{hours}$ behind UK time.
+
+What time is it in Australia when it is $4 \ \text{am}$ in the USA?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$6{:}00 \ \text{pm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6{:}00 \ \text{pm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
@@ -4156,6 +5157,116 @@ $31 \ \text{minutes}$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttable
+</li>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The timetable below shows information about the overnight train from London to Scotland.
+
+![missing table](/papers/missing_table.svg)
+
+How long does the train take
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+from London Euston to Birmingham International?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{hrs} \ 10 \ \text{mins}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \text{hrs} \ 10 \ \text{mins}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+from London Euston Station to Glasgow?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10 \ \text{hrs} \ 48 \ \text{mins}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{hrs} \ 48 \ \text{mins}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -4318,6 +5429,226 @@ $2 \ \text{hours} \ 49 \ \text{minutes}$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+This is what Evie sees when she glances at her clock in the mirror.
+
+Write the time her clock actually shows, using the $12$-hour clock.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1{:}41 \ \text {p.m}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1{:}41 \ \text {p.m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A film lasting $2 \ \text{hours}$ and $20 \ \text{minutes}$ started at $16{:}55$
+
+At what time did it finish?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 16{:}55 + 2 \ \text{hours} \ 20 \ \text{minutes} \\\\
+&= 19{:}15
+\end{aligned}
+$
+
+The movie finished at $19{:}15$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19{:}15$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, burst out in giggles at the times shown in the table below.
+
+![missing table](/papers/missing_table.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+For how much longer did Rebecca remain silent than Holly?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the table,
+
+$
+\begin{aligned}
+\text {Time for which Rebecca remained silent than Holly}  &= 17{:}08 - 16{:}29 \\\\
+                                                           &= 39 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$39 \ \text {minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+If each girl was sponsored $10 \ \text{pence}$ for each minute that she remained silent, how much money did the three girls raise in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the table,
+
+$
+\begin{aligned}
+\text {They remained silent for}     &= \text {Holly's silence time} + \text {Rebecca's silence time} + \text {Stacey's silence time} \\\\
+                                     &= (16{:}29 - 15{:}00) + (17{:}08 - 15{:}00) + (16{:}23 - 15{:}00) \\\\
+                                     &= 1 \ \text {hour} \ 29 \ \text {minutes} + 2 \ \text {hour} \ 8 \ \text {minutes} + 1 \ \text {hour} \ 23 \ \text {minutes} \\\\
+                                     &= 1 \times 60 \ \text {minutes} + 29 \ \text {minutes} + 2 \times 60 \ \text {minutes} + 8 \ \text {minutes} + 1 \times 60 \ \text {minutes} + 23 \ \text {minutes} \\\\
+                                     &= 60 + 29 + 120 + 8 + 60 + 23 \\\\
+                                     &= 300 \ \text {minutes} \\\\
+\text {Total money raised}           &= 300 \times 10 \\\\
+                                     &= 3000 \ \text {pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3000 \ \text {pence}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

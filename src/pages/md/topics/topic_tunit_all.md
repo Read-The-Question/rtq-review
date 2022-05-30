@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-all"
 title: "Topic - Unit - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1621,68 +1621,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>70533228-35C2-47ED-92E3-B482964231E0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I buy $11$ chocolate bars costing $38 \text{p}$ each. How much change would I get from $\pounds 10$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
-
-As per the question,
-
-$
-\begin{aligned} 
-\text {Cost of chocolate Bars}  &= 11 \times 38 \ \text{p} \\\\
-                                &= 11 \times \pounds \dfrac {38} {100} \\\\
-                                &= 11 \times \pounds 0.38 \\\\
-                                &= \pounds 4.18 \\\\
-\text {Change recieved}         &= 10 - 4.18 \\\\
-                                &= \pounds 5.82
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 5.82$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3831,69 +3769,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>00CCC3EA-C140-4A54-BC78-9715614128A9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunit
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mrs Suzie needs to cover a floor measuring $3\ \text{m}$ by $2\ \text{m}$. There are three possible options:
-
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
-
-Which option is the cheapest? Show all your workings & explain clearly. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>royal-russell-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>00594CC4-DB7B-458D-945E-CC2A6F291884</p>
 </div>
 <div class='topics'>
@@ -4924,9 +4799,9 @@ $
 \begin{aligned}
 &=  340 \ \text{millimetres} \\\\
 &=  \dfrac{340}{1000} \\\\
-&=  \dfrac{34 \cancel 0}{100 \cancel 0} \\\\
+&=  \dfrac{34 \cancel {0}}{100 \cancel {0}} \\\\
 &=  \dfrac{34}{100} \\\\
-&=  0.34 \ \text{m}
+&=  0.34 \text{m}
 \end{aligned}
 $
 
@@ -4938,7 +4813,7 @@ $
 </div>
 <div class='answer'>
 
-$0.034 \ \text{m}$
+$0.034 \text{m}$
 
 </div>
 </div>
@@ -5391,204 +5266,6 @@ $11$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>2EAFF991-0339-4DCB-B936-D87259A62353</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Penny places $10 \text{p}$ coins, touching, in a straight line.
-
-She hopes to make a line of coins that measures $1 \ \text{km}$.
-
-A $10 \text{p}$ coin has a diameter of $25 \ \text{mm}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long, in metres, is a line of forty $10 \text{p}$ coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 40 \times 25 \ \text {mm} \\\\
-&= 40 \times \dfrac {25} {1000} \ \text {m} \\\\
-&= \dfrac {40 \times 25} {1000} \ \text {m} \\\\
-&= \dfrac {40 \times 25} {40 \times 25} \\\\
-&= \dfrac {\cancel {40} \times \cancel {25}} {\cancel {40} \times \cancel {25}} \\\\
-&= 1 \ \text {m}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1 \ \text {m}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the total value, in pounds, of forty $10 \text{p}$ coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 40 \times 10 \ \text {p} \\\\
-&= 40 \times \pounds \dfrac {10} {100} \\\\
-&= \dfrac {40 \times 10} {100} \\\\
-&= \dfrac {4 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
-&= \pounds 4
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many coins will Penny need for a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Penny required}  &= \dfrac {\text {Total distance}} {\text {diameter of one coin}} \\\\
-                        &= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
-                        &= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
-                        &= \dfrac {40000 \times 25} {25} \\\\
-                        &= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
-                        &= 40000
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40000$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the total value of a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Total value}     &= \text {Total penny} \times \text {value of one penny} \\\\
-                        &= 40000 \times 10 \ \text {p} \\\\
-                        &= 40000 \times \pounds \dfrac {10} {100} \\\\
-                        &= \dfrac {40000 \times 10} {100} \\\\
-                        &= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
-                        &= \pounds 4000
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4000$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>

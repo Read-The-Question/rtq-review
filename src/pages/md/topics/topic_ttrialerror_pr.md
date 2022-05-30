@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttrialerror-pr"
 title: "Topic - Trialerror - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -58,7 +58,7 @@ $3 + (5 \times 2) + 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>F7F2FFC1-D62D-4514-9BEE-0D066D637BB9</p>
 </div>
@@ -105,7 +105,7 @@ $ (3 \times (4 - 2)) + 3 = 9$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -145,6 +145,8 @@ Work out the length of the perimeter of the rectangle.
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question, 
 
 Let the width of the rectangle in ($\text{cm}$) $= a$
 

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-red"
 title: "Topic - Ratio - Red"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -182,9 +182,6 @@ $4.565$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>
@@ -412,12 +409,6 @@ $4.565$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -576,9 +567,6 @@ $284 \ \text{ml}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>
@@ -795,13 +783,120 @@ $\pounds 3.24$
 <li>
 <div class='question_envelope rag_ad_red question'>
 <div class='uuid'>
-<p>B40A7337-6CB2-482B-9E8A-9CDC6C2E5BC9</p>
+<p>847ECFA2-1EEA-49D7-9918-8A8651C83F4C</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tratio
 </li>
+</ul>
+</div>
+<div class='question question'>
+
+Curtain material costs $\pounds4.25 \ \text{per}\ \text{metre}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much will it cost to buy $10\ \text{metres}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Cost of 10 metres} &= 4.25 \times 10 \\\\
+                          &= \pounds 42.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 42.5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mrs Brown buys a length of this material and pays $\pounds17$. 
+
+How many metres does she buy?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {She buys} &= \dfrac {17} {4.25} \\\\
+                        &= \dfrac {4 \times \cancel {4.25}} {\cancel {4.25}} \\\\
+                        &= 4 \text{metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \text{metres}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_red question'>
+<div class='uuid'>
+<p>B40A7337-6CB2-482B-9E8A-9CDC6C2E5BC9</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 tratio
 </li>
@@ -1208,6 +1303,143 @@ $750 \text{ ml}$
 <li>
 <div class='question_envelope rag_ga_red question'>
 <div class='uuid'>
+<p>215B4AA2-1A07-4570-82AF-18FA5525BD3F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$17$ tickets cost $\pounds 21.25$. They all cost the same.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the cost of one ticket.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Cost of one ticket $= \dfrac {21.25} {17}
+
+Dividing by decimals is same as dividing by two whole numbers. Ensure to place the decimal point exactly at the same place as it is at the dividend.
+
+$
+\begin{array}{l}
+\phantom{\ 0)0 \ 0\ \ }{\ \ \ 1 \ . \ 2 \ 5}\\
+\phantom{\ 00}{17}\
+\overline{\smash{)} 2 \ 1 \ . \ 2 \ 5 }\ \\\
+\phantom{0)}  \ \          - \underline{1 \ 7 \ \ \  \ \ }\\
+\phantom{{00\ 0 \ \ 0 }}              \ \  \ 4 \ \ \ 2 \\\
+\phantom{{0-}} \ \         -\underline{\  3 \ \ \ 4 \ \ \ \ }\\
+\phantom{{ \ \ \ 0 \ 0 \ 0 \ \ \\ 0 }}         {\ \ \ \ 8 \ 5}\\
+\phantom{{0- \ \ }} \ \ \ \ \ \         -\underline{\ 8 \  5 \ \ \ \ }\\
+\phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }\\\\
+\end{array}
+$
+
+Cost of one tickets $= \pounds 1.25$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.25$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the cost of seven tickets.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Cost of seven tickets = cost of one ticket $\times 7$
+
+
+Multiplying with decimal points is same as multiplying with two whole numbers. Add up the number of digits after the decimal points int the question and ensure to place the decimal point in the answer going from right to left.
+
+$\pounds 1.25 \times 7$
+
+$
+\begin{array}{cccccccccccccc}
+           &1     & 2     & 5  \\
+{}\times   &      &      & 7   \\
+\hline 
+           &8     &7      &5   \\
+\end{array}
+$
+
+Let's put the decimal points. The question has two numbers after the decimal point. So in the answer put the decimal point going right to left after two digits.
+
+$\pounds 1.25 \times 7 = \pounds 8.75$
+
+Cost of seven tickets is $\pounds 8.75$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 8.75$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_ga_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_red question'>
+<div class='uuid'>
 <p>04DE9CD4-9DBE-46AD-B14F-B7A255ECDF40</p>
 </div>
 <div class='topics'>
@@ -1294,12 +1526,6 @@ $140 \text { ml}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tratio
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-5"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 5"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,16 +20,7 @@ date: 2022-05-29 22:47:20
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tdate
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -433,7 +424,7 @@ $9 \times 5 \div 2 + 1 = 15$
 <div class='workings'>
 <div class='working'>
 
-$((9 \times 5) \div (2 + 1)) &= 15$
+$((9 \times 5) \div (2 + 1)) = 15$
 
 </div>
 </div>
@@ -461,7 +452,7 @@ $3\times  7 - 6 \times 4 - 3 = 15$
 <div class='workings'>
 <div class='working'>
 
-$((3 \times  7) - (6 \times (4 - 3))) &= 15$
+$((3 \times  7) - (6 \times (4 - 3))) = 15$
 
 </div>
 </div>
@@ -547,13 +538,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentageadvance
+talgebra
 </li>
 </ul>
 </div>

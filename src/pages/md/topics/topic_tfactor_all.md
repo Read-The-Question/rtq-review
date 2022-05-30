@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-all"
 title: "Topic - Factor - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3070,7 +3070,7 @@ $2 \times 3 \times 17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>4D1AE0C9-6A34-43FA-8225-0C9B3B37F156</p>
 </div>
@@ -3111,7 +3111,7 @@ $210$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -4886,141 +4886,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>16D15C16-4732-4D23-B040-8F37EB1A5DC3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The number $36$ can be written as a product of $2 \text{'s}$ and $3 \text{'s}$ i.e.
-$2 \times 2 \times 3 \times 3 = 36$ and $48$ can be written as $2 \times 2 \times 2 \times 2 \times 3 = 48$. 
-Write the following numbers in a similar way.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$108$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1944$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -8174,7 +8039,7 @@ Numbers between $40$ and $60$ which are dvisible by $5 = {45, 50, 55}$
 
 Numbers between $40$ and $60$ which are dvisible by $3 = {45, 48, 51, 54, 57}$
 
-Since 45 is common in both, 
+Since $45$ is common in both, 
 
 $a = 45$
 

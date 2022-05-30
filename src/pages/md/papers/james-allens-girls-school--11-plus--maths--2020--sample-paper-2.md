@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -121,9 +121,6 @@ $166$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -703,13 +700,7 @@ $-5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -2135,12 +2126,6 @@ $100 \text{ cm}^2$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>

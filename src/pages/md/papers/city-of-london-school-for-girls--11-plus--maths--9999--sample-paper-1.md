@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-05-29 22:47:20
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>54BD09C0-1C14-4564-B207-B912ADE229BB</p>
 </div>
@@ -35,11 +35,11 @@ $3078 + 256$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
-        &  3 & 0 & 7 & 8 \\
-    {}+ &    & 2 & 5 & 6 \\
-    \hline
-        & 3 & 3 & 3  & 4
+\begin{array}{cccccccccccccc}
+    &   3   &    0    &    7    &    8 \\
+{}+ &       &    2    &    5    &    6 \\
+\hline
+    &   3   &    3    &    3    &    4
 \end{array}
 $
 
@@ -57,12 +57,12 @@ $3334$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>F639A0C1-C422-4D98-A551-18AA9D92D8D3</p>
 </div>
@@ -85,11 +85,11 @@ $3078 - 256$
 <div class='working'>
 
 $
-\begin{array}{ccccccc}
-        &  3 & 0 & 7  & 8 \\
-    {}- &    & 2 & 5  & 6 \\
-    \hline
-        & 2 &  8 & 2 & 2
+\begin{array}{cccccccccccccc}
+    &   3   &    0    &    7    &    8 \\
+{}- &       &    2    &    5    &    6 \\
+\hline
+    &   2   &    8    &    2    &    2
 \end{array}
 $
 
@@ -107,20 +107,17 @@ $2822$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B4091545-C20A-4D37-9CEF-364C712C6AFF</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -135,14 +132,14 @@ $158 \times 23$
 <div class='working'>
 
 $
-\begin{array}{cccc}
-        &  1   & 5  & 8   \\
-    {}- &      & 2  & 3   \\
-    \hline
-        & 4 &  6   & 4 \\
-       3 &  1  &   6    & 0 \\
-       \hline
-       3  &  5  &  2   &   4
+\begin{array}{cccccccccccccc}
+         &      &       &       1       & 5     & 8     \\
+{}\times &      &       &               & 2     & 3     \\
+\hline 
+         &       &       &       4       & 7     & 4     \\
+         &       &  3    &       1       & 6     & 0     \\
+\hline
+         &       &  3    &       6       & 3     & 4
 \end{array}
 $
 
@@ -151,7 +148,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3524$
+$3634$
 
 </div>
 </div>
@@ -160,7 +157,7 @@ $3524$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1229,7 +1226,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>2F479FDA-0316-4767-B8AE-E8A9C49B54B0</p>
 </div>
@@ -1269,7 +1266,7 @@ $20 000\ \text{mm}$
 </div>
 <div class='answer'>
 
-$0.2 \text{ km}, 2\ \text{m}, 20\ \text{cm}, 20 000\ \text{mm}$
+$20 000\ \text{mm}$
 
 </div>
 </div>
@@ -1278,7 +1275,7 @@ $0.2 \text{ km}, 2\ \text{m}, 20\ \text{cm}, 20 000\ \text{mm}$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1513,7 +1510,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>359E9CAF-B6FE-434F-9191-AF9614CF6D12</p>
 </div>
@@ -1540,8 +1537,8 @@ What is her mean (average) monthly saving?
 $
 \begin{aligned}
 \text{Average monthly saving}  &= \dfrac {12 + 18 + 5} {3} \\\\
-                &= \dfrac {35} {3} \\\\
-                &= 11.66 
+                               &= \dfrac {35} {3} \\\\
+                               &= 11.66
 \end{aligned}
 $
 
@@ -1559,12 +1556,12 @@ $11.66$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>FA07A720-D1E4-4527-953B-6F2BE26C4F2E</p>
 </div>
@@ -1590,10 +1587,11 @@ $
 \begin{aligned}
 &= \dfrac {1} {2} \times \dfrac {4} {5} \times 35 \\\\
 &= \dfrac {1} {2} \times \dfrac {4} {5} \times 7 \times 5 \\\\
-&= \dfrac {1} {2} \times \dfrac {4} { \cancel {5} } \times 7 \times \cancel {5} \\\\
-&= \dfrac {1} {2} \times 28 \\\\
-&= \dfrac {1} {2} \times 14 \times 2 \\\\\
-&= \dfrac {1} {\cancel {2} } \times 14 \times \cancel {2} \\\\
+&= \dfrac {1 \times 4 \times 7 \times 5} {2 \times 5} \\\\
+&= \dfrac {1 \times 4 \times 7 \times \cancel {5}} {2 \times \cancel {5}} \\\\
+&= \dfrac {28} {2} \\\\
+&= \dfrac {14 \times 2} {2} \\\\\
+&= \dfrac {14 \times \cancel {2}} {\cancel {2}} \\\\
 &= 14
 \end{aligned}
 $
@@ -1612,7 +1610,7 @@ $14$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

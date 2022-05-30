@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedaddition-all"
 title: "Topic - Detailedaddition - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -249,7 +249,7 @@ $6363$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>54BD09C0-1C14-4564-B207-B912ADE229BB</p>
 </div>
@@ -269,11 +269,11 @@ $3078 + 256$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
-        &  3 & 0 & 7 & 8 \\
-    {}+ &    & 2 & 5 & 6 \\
-    \hline
-        & 3 & 3 & 3  & 4
+\begin{array}{cccccccccccccc}
+    &   3   &    0    &    7    &    8 \\
+{}+ &       &    2    &    5    &    6 \\
+\hline
+    &   3   &    3    &    3    &    4
 \end{array}
 $
 
@@ -291,7 +291,7 @@ $3334$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -3473,7 +3473,7 @@ $75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>33EA5AA6-2BAC-4539-BE0C-64E83AA9931B</p>
 </div>
@@ -3494,10 +3494,10 @@ Add: $36 + 58$
 
 $
 \begin{array}{cccccccccccccc}
-        & 3 & 6 \\
-    {}+ & 5 & 8 \\
-    \hline
-        & 9 & 4 
+    &   3   &   6 \\
+{}+ &   5   &   8 \\
+\hline
+    &   9   &   4
 \end{array}
 $
 
@@ -3515,7 +3515,7 @@ $94$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -3708,62 +3708,7 @@ $125$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>E258ACB8-5491-4DFA-800B-58FEA66CFEB0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedaddition
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdetailedmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the gaps
-
-%waffles%
-
-addition  subtraction  multiplication
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>2776F3AC-5B59-4DE4-AA6C-D15196418A83</p>
 </div>
@@ -3808,7 +3753,7 @@ $6203$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3925,7 +3870,7 @@ $27427$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>DB188EF1-56DE-4E7B-9F6F-B9D010FD69AF</p>
 </div>
@@ -3974,12 +3919,12 @@ $9012213$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>84386E3C-25A2-4135-BDFE-C2794FEA4DB7</p>
 </div>
@@ -4024,7 +3969,7 @@ $849$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5004,7 +4949,7 @@ $864$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
 </div>
@@ -5046,7 +4991,7 @@ $941$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

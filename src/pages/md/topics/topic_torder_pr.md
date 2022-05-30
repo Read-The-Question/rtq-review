@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-pr"
 title: "Topic - Order - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -43,7 +43,7 @@ Let's put them in ascending order now.
 $
 \begin{aligned}
 &= \dfrac{65}{100}< \quad \dfrac{70}{100}<  \quad \dfrac{75}{100} \\\\
-&= 65\%< \quad \dfrac{14}{20}< \quad \dfrac{3}{4} 
+&= 65\%<  \quad \dfrac{14}{20}<  \quad \dfrac{3}{4} 
 \end{aligned}
 $
 
@@ -57,6 +57,189 @@ $65\%, \quad \dfrac{14}{20}, \quad \dfrac{3}{4}$
 </div>
 </div>
 
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>D48EBB7F-6353-41D8-8F7E-D81284AECC1E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which sign makes each of the following statements true?
+
+$\large { \boxed{\phantom{5} > \phantom{5} } \quad \boxed{\phantom{5} < \phantom{5} } \quad \boxed{\phantom{5} = \phantom{5} } }$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0.022 \quad \ldots  \quad 0.2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.022 \quad \boxed{\green{<}}  \quad 0.2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.022 < 0.2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15\%$ of $\pounds 300\  \quad \ldots  \quad  20\%$ of $\pounds 240$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the first value.
+
+$
+\begin{aligned}
+&= 15\% \text{ of } \pounds 300 \\\\
+&= \dfrac{15}{100} \times 300 \\\\
+&= \dfrac{15 \times 300}{100}  \\\\
+&= \dfrac{15 \times 3\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 15 \times 3  \\\\
+&= \pounds 45
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 20\% \text{ of } \pounds 240 \\\\
+&= \dfrac{20}{100} \times 240 \\\\
+&= \dfrac{20 \times 240}{100}  \\\\
+&= \dfrac{2\cancel{0} \times 24\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 2 \times 24  \\\\
+&= \pounds 48
+\end{aligned}
+$
+
+Using the calculation above,
+
+$15\%$ of $\pounds 300\  \quad \boxed{\green{<}}  \quad  20\%$ of $\pounds 240$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15\%$ of $\pounds 300\  \quad <  \quad  20\%$ of $\pounds 240$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \ldots  \quad 25\%$ of $\pounds 64$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the first value.
+
+$
+\begin{aligned}
+&= \dfrac {2}{5} \text{ of } \pounds 40 \\\\
+&= \dfrac{2 \times 40}{5} \\\\
+&= \dfrac{2 \times 5 \times 8}{5} \\\\
+&= \dfrac{2 \times \cancel{5} \times 8}{\cancel{5}} \\\\
+&= 2 \times 8 \\\\
+&= \pounds 16
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 25\% \text{ of } \pounds 64 \\\\
+&= \dfrac{25}{100} \times 64 \\\\
+&= \dfrac{25 \times 64}{100}  \\\\
+&= \dfrac{1600}{100}  \\\\
+&= \dfrac{16\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= \pounds 16
+\end{aligned}
+$
+
+Using the calculation above,
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green{=}}  \quad 25\%$ of $\pounds 64$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
@@ -476,147 +659,6 @@ $-13$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
-<p>AA06A2AA-DA70-4A39-976A-D77520D6AB88</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these decimals is the smallest and which is the largest?
-
-$0.7, 0.706, 0.76, 0.759, 0.079$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Smallest $= 0.079$
-
-Largest $= 0.79$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Smallest $= 0.079$
-
-Largest $= 0.79$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>C13C2DC0-79A5-429F-A3B3-BF7542B189E7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these fractions is the smallest and which is the largest?
-
-$\dfrac{1}{3},\dfrac{2}{5},\dfrac{3}{8},\dfrac{7}{20},\dfrac{4}{11}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM for $3, 5, 8, 20, 11 = 1320$
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} , \quad \dfrac {2} {5} , \quad \dfrac{3} {8} , \quad \dfrac{7} {20} , \quad \dfrac {4} {11} \\\\
-&= \dfrac {1 \times 440} {3 \times 440} , \quad \dfrac {2 \times 264} {5 \times 264} , \quad \dfrac {3 \times 165} {8 \times 165} , \quad \dfrac{7 \times 66} {20 \times 66} , \quad \dfrac {4 \times 120} {11 \times 120} \\\\
-&= \dfrac {440} {1320} , \quad \dfrac {528} {1320} , \quad \dfrac {495} {1320} , \quad \dfrac {462} {1320} , \quad \dfrac {480} {1320}
-\end{aligned}
-$
-
-Let's put them in decending order now.
-
-$
-\begin{aligned}
-&= \dfrac {582} {1320}> \quad \dfrac {495} {1320}> \quad \dfrac {480} {1320}> \quad \dfrac {462} {1320}> \quad \dfrac {440} {1320} \\\\
-&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {4} {11}> \quad \dfrac {7} {20}> \quad \dfrac {1} {3}
-\end{aligned}
-$
-
-Smallest $= \dfrac {1} {3}$
-
-Largest $= \dfrac {2} {5}$
-
-</div>
-<div class='working'>
-
-Alternative Solution
-
-If two or more fraction has common numerator then fraction with smallest denominator is the largest and fraction with largest denominator is the smallest.
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} , \quad \dfrac {2} {5} , \quad \dfrac{3} {8} , \quad \dfrac{7} {20} , \quad \dfrac {4} {11} \\\\
-&= \dfrac {1 \times 84} {3 \times 84} , \quad \dfrac {2 \times 42} {5 \times 42} , \quad \dfrac {3 \times 28} {8 \times 28} , \quad \dfrac{7 \times 12} {20 \times 12} , \quad \dfrac {4 \times 21} {11 \times 21} \\\\
-&= \dfrac {84} {252} , \quad \dfrac {84} {210} , \quad \dfrac {84} {224} , \quad \dfrac {84} {240} , \quad \dfrac {84} {231}
-\end{aligned}
-$
-
-Let's put them in decending order now.
-
-$
-\begin{aligned}
-&= \dfrac {84} {210}> \quad \dfrac {84} {224}> \quad \dfrac {84}{231}> \quad \dfrac {84}{240}> \quad \dfrac {84}{252} \\\\
-&= \dfrac {2} {5}> \quad \dfrac {3} {8}> \quad \dfrac {4} {11}> \quad \dfrac {7} {20}> \quad \dfrac {1} {3}
-\end{aligned}
-$
-
-Smallest $= \dfrac {1} {3}$
-
-Largest $= \dfrac {2} {5}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Smallest $= \dfrac {1} {3}$
-
-Largest $= \dfrac {2} {5}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
 <p>01AE1F27-CBF4-4C44-A8D4-6CD40AEAA699</p>
 </div>
 <div class='topics'>
@@ -658,56 +700,6 @@ $0.92> \quad 0.909> \quad 0.9$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>83A92D5A-498D-4CED-902F-FCECE3962C78</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put these decimals in order, starting with the largest.
-
-$0.101, 0.011, 0.11$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.101, \quad 0.011, \quad 0.11 \\\\
-&= 0.101, \quad 0.011, \quad 0.110 \\\\
-& \text{Let's put them in descending order now.} \\\\
-&= 0.110> \quad 0.101> \quad 0.011 \\\\
-&= 0.11> \quad 0.101> \quad 0.011
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.11> \quad 0.101> \quad 0.011$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
@@ -1364,254 +1356,6 @@ $250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.5
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>014D4DAF-E024-4E0F-B4D3-D05F245403AD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put the following numbers in order of size, starting with the smallest first:
-
-
-$3 \dfrac{1}{4}  \quad   3.34  \quad   3 \dfrac{3}{4}  \quad   3.025$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
-$
-\begin{aligned}
-&= 3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4},  \quad   3.025 \\\\
-&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025 \\\\
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 3.025,  \quad   3.25,  \quad   3.34,  \quad   3.75 \\\\
-&= 3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>A3140AAF-E610-429C-AF4F-341B3488C084</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Arrange these numbers in order, starting with the smallest.
-
-$
-0.7     \quad
-\dfrac{3}{4}  \quad
-\dfrac{4}{5}  \quad
-0.65 \quad
-\text{five twelfths}
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
-
-$
-\begin{aligned}
-&= 0.7, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad 0.65, \quad \text{five twelfths} \\\\
-&= \dfrac {7} {10}, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad \dfrac {65} {100}, \quad \dfrac {5} {12}
-\end{aligned}
-$
-
-LCM of $10, \ 4, \ 5, \ 100, \ 12 = 300$
-
-$
-\begin{aligned}
-&= \dfrac {7 \times 30} {10 \times 30}, \quad \dfrac {3 \times 75} {4 \times 75}, \quad \dfrac {4 \times 60} {5 \times 60},  \quad \dfrac {65 \times 3} {100 \times 3}, \quad \dfrac {5 \times 25} {12 \times 25} \\\\
-&= \dfrac {210} {300}, \quad \dfrac {225} {300}, \quad \dfrac {240} {300},  \quad \dfrac {195} {300}, \quad \dfrac {125} {300}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {125} {300}, \quad \dfrac {195} {300}, \quad \dfrac {210} {300},  \quad \dfrac {225} {300}, \quad \dfrac {240} {300} \\\\
-&= \text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfrac {4} {5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfrac {4} {5}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>53FB1D0A-B461-448E-853F-B08C8593DFC5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put the following fractions in order, starting with the smallest.
-
-$\dfrac{2}{3},  \quad \dfrac{3}{5},   \quad \dfrac{29}{45}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-Let's convert all the numbers into fractions.
-
-$
-\begin{aligned}
-&= \dfrac{2}{3},  \quad \dfrac{3}{5},   \quad \dfrac{29}{45} \\\\
-&= \dfrac{2 \times 15}{3 \times 15},  \quad \dfrac{3 \times 9}{5 \times 9},   \quad \dfrac{29}{45} \\\\
-&= \dfrac{30}{45},  \quad \dfrac{27}{45},   \quad \dfrac{29}{45}
-\end{aligned}
-$
-
-Now let's put them in ascending order.
-
-$
-\begin{aligned}
-&= \dfrac{27}{45},  \quad \dfrac{29}{45},   \quad \dfrac{30}{45} \\\\
-&= \dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3} 
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>14EFBA91-BE93-4FA7-9B60-535F8D09F894</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which is the smallest number?
-
-$0.54     \quad 0.092  \quad    0.635  \quad    0.3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the Question,
-
-$0.54, \quad 0.092, \quad 0.635, \quad 0.3$
-
-lets Arrange in ascending order.
-
-$0.092, \quad 0.3, \quad 0.54, \quad 0.635$
-
-The  smallest number is $= 0.092$. 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.092$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
 <p>005C15B9-60F0-488A-8FFD-A63DB387E325</p>
 </div>
 <div class='topics'>
@@ -1667,48 +1411,6 @@ $\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>5702F561-6E2E-4760-BBD8-682C0DF387A6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write these decimals in order of size, starting with the smallest:
-
-$2.3 \quad 2.23 \quad 2.303 \quad 2.203$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2.203, \quad 2.23, \quad 2.3, \quad 2.303$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.203, \quad 2.23, \quad 2.3, \quad 2.303$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -1797,62 +1499,6 @@ $3.08, \quad 3.8, \quad 3.808, \quad 3.88$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If these numbers are arranged in numerical order, which one will be in the middle?  
-
-$0.77, \quad \dfrac{3}{4}, \quad 0.705, \quad \dfrac{4}{5}, \quad 0.748$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
-$0.77, \quad \dfrac{3}{4}, \quad 0.705, \quad \dfrac{4}{5}, \quad 0.748$
-
-$0.77, \quad 0.75, \quad 0.705, \quad 0.8, \quad 0.748$
-
-Let's put them in ascending order.
-
-$0.705, \quad 0.748, \quad 0.75, \quad 0.77, \quad 0.8$
-
-The number in the middle $= 0.75$. 
-
-The number in the middle $= \dfrac{3}{4}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{3}{4}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
 <p>BE673146-6558-409C-B19C-DD7DE3740A33</p>
@@ -1878,7 +1524,7 @@ Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
-&= 0.66, \quad \dfrac{3}{4}, \quad 70\%, \quad \dfrac{2}{3}, \quad \dfrac{6}{10} \\\\
+&= 0.66, \quad \dfrac {3} {4}, \quad 70\%, \quad \dfrac {2} {3}, \quad \dfrac {6} {10} \\\\
 &= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60
 \end{aligned}
 $
@@ -1887,20 +1533,19 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= 0.60, \quad 0.66, \quad 0.666, \quad  0.70, \quad 0.75
+&= 0.60, \quad 0.66, \quad 0.666, \quad  0.70, \quad 0.75 \\\\
+&= \dfrac {6} {10}, \quad 0.66, \quad \dfrac {2} {3}, \quad 70 \%, \quad \dfrac {3} {4}
 \end{aligned}
 $
 
-The number in the middle $= 0.666$.
-
-The number in the middle $= \dfrac{2}{3}$.
+The number in the middle $= \dfrac {2} {3}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{2}{3}$
+$\dfrac {2} {3}$
 
 </div>
 </div>
@@ -1910,278 +1555,6 @@ $\dfrac{2}{3}$
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>C12FD4E7-441B-4A1E-BD78-D6218501E0D9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If the following numbers were written in order from highest to lowest, which number would be in the middle?
-
-$\dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\%$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more fractions, so let's convert all the numbers into fractions.
-
-$
-\begin{aligned}
-&= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\% \\\\
-&= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad \dfrac{35}{100}, \quad \dfrac{33}{100}
-\end{aligned}
-$
-
-LCM for $10, 3, 4, 100, 100 = 300$
-
-Let's use the LCM result to make the denominator the same for all the fractions. 
-
-$
-\begin{aligned}
-&= \dfrac{3 \times 30}{10 \times 30}, \quad \dfrac{1 \times 100}{3 \times 100}, 
-\quad \dfrac{1 \times 75}{4 \times 75}, \quad \dfrac{35 \times 3}{100 \times 3}, \quad \dfrac{33 \times 3}{100 \times 3} \\\\
-&= \dfrac{90}{300}, \quad \dfrac{100}{300}, \quad \dfrac{75}{300}, \quad \dfrac{105}{300}, \quad \dfrac{99}{300}
-\end{aligned}
-$
-
-Now let's put them in ascending order.
-
-$
-\begin{aligned}
-&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300} \\\\
-\end{aligned}
-$
-
-The number in the middle $= \dfrac{99}{300}$.
-
-The number in the middle $= 33\%$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$33\%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>F6128DD4-ECC2-431B-8EF0-CFFB29805A22</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Frank chooses **two different** numbers from the bubble shown below, and divides one number by the other.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the largest number he can get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's arrange the number in descending order,
-
-$
-\begin{aligned}
-8 , \quad   16 , \quad   10 , \quad   12 \\\\
-16 , \quad   12 , \quad   10 , \quad   8
-\end{aligned}
-$
-
-To get the largest number, Frank needs to choose highest number as numerstor and lowest number as denominator.
-
-$
-\begin{aligned}
-&= \dfrac {\text {Highest number}} {\text {Lowest number}} \\\\
-&= \dfrac {16} {8} \\\\
-&= \dfrac {8 \times 2} {8} \\\\
-&= \dfrac {\cancel {8} \times 2} {\cancel {8}} \\\\
-&= 2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the smallest result?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's arrange the number in ascending order,
-
-$
-\begin{aligned}
-&8 , \quad   16 , \quad   10 , \quad   12 \\\\
-&8 , \quad   10 , \quad   12 , \quad   16
-\end{aligned}
-$
-
-To get the smallest number, Frank needs to choose lowest number as numerator and highest number as denominator.
-
-$
-\begin{aligned}
-&= \dfrac {\text {Lowest number}} {\text {Highest number}} \\\\
-&= \dfrac {8} {16} \\\\
-&= \dfrac {8} {8 \times 2} \\\\
-&= \dfrac {\cancel {8}} {\cancel {8} \times 2} \\\\
-&= \dfrac {1} {2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {2}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What division gives the result closest to $1$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's arrange the number in ascending order,
-
-$
-\begin{aligned}
-&8 , \quad   16 , \quad   10 , \quad   12 \\\\
-&8 , \quad   10 , \quad   12 , \quad   16
-\end{aligned}
-$
-
-To get a division result closest to 1, Frank needs to pickup adjacent numbers after arrangement.
-
-Let's write all possible cases of fraction for each pick.
-
-$
-\begin{aligned}
-&= \dfrac {8} {10} , \quad   \dfrac {10} {8} , \quad   \dfrac {10} {12} , \quad   \dfrac {12} {10} , \quad   \dfrac {12} {16}, \quad   \dfrac {16} {12} \\\\
-&= \dfrac {8} {10} , \quad   \dfrac {2 \times 5} {2 \times 4} , \quad   \dfrac {2 \times 5} {2 \times 6} , \quad   \dfrac {12} {10} , \quad   \dfrac {4 \times 3} {4 \times 4}, \quad   \dfrac {4 \times 4} {4 \times 3} \\\\
-&= \dfrac {8} {10} , \quad   \dfrac {\cancel {2} \times 5} {\cancel {2} \times 4} , \quad   \dfrac {\cancel {2} \times 5} {\cancel {2} \times 6} , \quad   \dfrac {12} {10} , \quad   \dfrac {\cancel {4} \times 3} {\cancel {4} \times 4}, \quad   \dfrac {\cancel {4} \times 4} {\cancel {4} \times 3} \\\\
-&= \dfrac {8} {10} , \quad   \dfrac {5} {4} , \quad   \dfrac {5} {6} , \quad   \dfrac {12} {10} , \quad   \dfrac {3} {4}, \quad   \dfrac {4} {3} \\\\
-&= 0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33
-\end{aligned}
-$
-
-Let's arrange the decimals in ascending order.
-
-$
-\begin{aligned}
-0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33 \\\\
-0.75 , \quad 0.8 , \quad 0.83 , \quad 1.2 , \quad 1.25 , \quad 1.33
-\end{aligned}
-$
-
-The number that is closest to $1$ = $0.83 = \dfrac {10} {12}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {10} {12}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
 </div>
 </div>
 </li>

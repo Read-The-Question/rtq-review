@@ -1,334 +1,9 @@
 ---
 slug: "topics/topic-tnoexplanation-pr"
 title: "Topic - Noexplanation - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>4DC6032C-769F-4D01-A831-92EA63A4A990</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these is the smallest?
-
--  $0.0801$ 
--  $0.08$ 
--  $0.081$ 
--  $0.08001$
--  $0.0888$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-0.08
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
-<div class='answer'>
-
-$0.08$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>8F66D2BA-D78E-4C07-BD24-B7741E19A525</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the value of the digit $9$ in the number $32.597$?
-
--  nine hundred 
--  nine 
--  nine tenths 
--  nine hundredths 
--  nine thousandths 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-nine tenths
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-nine tenths
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>F6409296-091D-4E51-B3B1-7DF9D8DCC5CC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these is the smallest?
-
--  $0.0701$ 
--  $0.701$ 
--  $0.071$ 
--  $0.07$ 
--  $0.0777$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.07$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.07$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>162AA59F-08CC-4B9C-8C47-3D255B74EFFE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-testimate
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The most likely height of a single-decker bus is:
-
--  $0.25 \ \text{cm}$ 
--  $2.5 \ \text{cm}$ 
--  $25 \ \text{cm}$ 
--  $250 \ \text{cm}$ 
--  $2500 \ \text{cm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2500 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-$0.25 \ \text{cm}, 2.5 \ \text{cm}, 25 \ \text{cm}, 250 \ \text{cm}, 2500 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>50E04B0C-8A1F-40C0-AACC-F803CBD9A220</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What are the missing values on each of these scales?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4.5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4.5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$8.3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8.3$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
@@ -992,175 +667,6 @@ $12{:}28 \ \text {pm}$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>F3144B09-1621-4BF8-A18D-56C923A48403</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here are five cards with numbers printed on them.
-
-$\boxed{7} \quad \boxed{6} \quad \boxed{2} \quad \boxed{4} \quad\boxed{8}$
-
-The cards can be placed in order to form a $5$-digit number.
-
-For example the smallest number that could be made with all $5$ cards is:
-
-$\boxed{2} \boxed{4}  \boxed{6} \boxed{7} \boxed{8}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using all $5$ cards what is the largest possible odd number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$86427$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$86427$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using all $5$ cards what is the number that is closest to $50000$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$48762$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48762$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using only two of the cards, what is the largest possible **prime** number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$87$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$87$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Arrange any three of the number cards to give the largest possible answer to this multiplication.
-
-$\boxed{\phantom{1}}  \boxed{\phantom{1}} \times \boxed{\phantom{1}}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$76 \times 8 = 608$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$76 \times 8$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E</p>
 </div>
 <div class='topics'>
@@ -1352,176 +858,6 @@ ${} \div 3 \ \text {and} \ {} - 16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>A665B0B4-EBC8-4304-BDFA-28CF12D417AD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is a train timetable.
-
-<!--
-**Place**       ,**Time of departure**
-Crewe           ,$08{:}00$
-Wolverhampton   ,$08{:}40$
-Birmingham      ,$09{:}00$
-Coventry        ,$09{:}30$
-Rugby           ,$09{:}40$
-Milton Keynes   ,$10{:}10$
-London          ,$10{:}45$
--->
-
-|   **Place**       | **Time of departure**     |
-|:-------------:    |:---------------------:    |
-|     Crewe         |       $08{:}00$           |
-| Wolverhampton     |       $08{:}40$           |
-|   Birmingham      |       $09{:}00$           |
-|    Coventry       |       $09{:}30$           |
-|     Rugby         |       $09{:}40$           |
-| Milton Keynes     |       $10{:}10$           |
-|     London        |       $10{:}45$           |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many minutes should it take the train to travel from Wolverhampton to Milton Keynes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \text { hour } 30 \text { minutes}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1 \text { hour } 30 \text { minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If the train is $35 \ \text{minutes}$ late leaving Crewe, what time should it arrive in London?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$11:20$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11:20$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>33894696-6D5A-4AA2-89AF-C94F80BC4363</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Three bicycles are priced at $\pounds 79, \pounds 80$ and $\pounds 84$. If the shopkeeper decided to sell them for the same total amount, but made the three prices equal, what would each cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$81$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$81$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
 <p>BA7E261E-10D9-4C7B-8591-880AD1DD4EF9</p>
@@ -1656,9 +992,9 @@ $1, 7, 49$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_nj_pr question'>
 <div class='uuid'>
-<p>77B7035B-4C89-427D-A347-E8D034630C49</p>
+<p>61B40AEF-EFDA-4820-87CB-C04AE14F150A</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1675,18 +1011,7 @@ tnoexplanation
 </div>
 <div class='question question'>
 
-$
-\large {
-\boxed {8} \quad 
-\boxed {3} \quad 
-\boxed {5} \quad 
-\boxed {4} \quad 
-\boxed {9} \quad 
-}
-$
-
-
-Using all these digits once only make
+Write one of the words "always", "sometimes" and "never" in the spaces below to make each of the statements correct:
 
 </div>
 <div class='workings'>
@@ -1712,20 +1037,31 @@ Using all these digits once only make
 </div>
 <div class='question subquestion'>
 
-the largest number
+The sum of two odd numbers is $\text{\textunderscore \textunderscore \textunderscore \textunderscore 
+\textunderscore \textunderscore }$ even.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$98543$
+The sum of two odd numbers is $\underline {\text {always} }$ even.
+
+</div>
+<div class='working'>
+
+When an odd number is multiplied by an even number the answer is $\underline{\text {never} }$ odd.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$98543$
+$\text {always}$
+
+</div>
+<div class='answer'>
+
+$\text {never}$
 
 </div>
 </div>
@@ -1740,20 +1076,22 @@ $98543$
 </div>
 <div class='question subquestion'>
 
-the largest number divisible by $4$
+TODOQUESTION 
+The product of two even numbers is $\text{\textunderscore \textunderscore 
+    \textunderscore \textunderscore \textunderscore \textunderscore }$ a multiple of four.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$98534$
+The product of two even numbers is $\underline{\text {always} }$ a multiple of four.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$98534$
+$\text {always}$
 
 </div>
 </div>
@@ -1768,20 +1106,21 @@ $98534$
 </div>
 <div class='question subquestion'>
 
-the smallest even number
+When an even number is divided by an even number the answer is $\text{\textunderscore 
+    \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore }$ odd.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$35948$
+When an even number is divided by an even number the answer is $\underline{\text {sometimes}}$ odd
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$35948$
+$\text {sometimes}$
 
 </div>
 </div>
@@ -1790,409 +1129,10 @@ $35948$
 </li>
 </ul>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>3D815431-0738-48E8-8632-A526A05E2823</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Use the symbols $+, -, \div$ or $\times$ to make each calculation correct.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5 \ \boxed{ \phantom{+} } \ 3 =  12 \ \boxed{ \phantom{+} } \   4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$5 + 3 = 12 - 4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5 + 3 = 12 - 4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2 \ \boxed{ \phantom{+} } \  3 =  12  \ \boxed{ \phantom{+} } \   2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2 \times 3 = 12 \div 2$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \times 3 = 12 \div 2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5 \ \boxed{ \phantom{+} } \  5 = 4  \ \boxed{ \phantom{+} } \ 4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$5 - 5 = 4 - 4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5 - 5 = 4 - 4$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>8089705E-50AA-40D2-9513-A70C93DC8C55</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-
-Here are four cards which you can use to make numbers:
-
-$
-\boxed{\huge { \text{ 1 }}} \quad
-\boxed{\huge { \text{ 2 }}} \quad
-\boxed{\huge { \text{ 3 }}} \quad
-\boxed{\huge { \text{ 4 }}}
-$
-
-Write down all the possible $4$-digit even numbers you can make which are greater than $3000$.
-Write your answers from smallest to biggest.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$3124, \ 3214, \ 3412, \ 3142$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3124, \ 3214, \ 3412, \ 3142$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>DECBAFA9-B0F4-45DA-B4A9-5B89028153A7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Arrange all the digits $9, 7, 6, 4, 2$ to make the smallest **even** number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$24796$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24796$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-ttime
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The timetable below shows information about the overnight train from London to Scotland.
-
-![missing table](/papers/missing_table.svg)
-
-How long does the train take
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-from London Euston to Birmingham International?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \ \text{hrs} \ 10 \ \text{mins}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1 \ \text{hrs} \ 10 \ \text{mins}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-from London Euston Station to Glasgow?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10 \ \text{hrs} \ 48 \ \text{mins}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 \ \text{hrs} \ 48 \ \text{mins}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>E709EA37-048F-4696-A4BE-A209DAEF9AE9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What fraction of the shape is shaded?
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {12} {16} \\\\
-&= \dfrac {3 \times 4} {4 \times 4} \\\\
-&= \dfrac {3 \times \cancel {4}} {4 \times \cancel {4}} \\\\
-&= \dfrac {3} {4}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {4}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -2506,52 +1446,6 @@ $13750$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down any **two** prime numbers between $45$ and $60$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Two prime numbers between $45$ and $60 = 47, 53$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$47, 53$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
 </div>
 </div>
 </li>

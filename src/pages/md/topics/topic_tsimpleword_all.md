@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-all"
 title: "Topic - Simpleword - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,10 +59,10 @@ What is the total cost for all four of the family to go to the concert?
 
 $
 \begin{aligned}
-\text{Total cost} &= 2 \times \text{Adult} + 2 \times \text{Child}  \\\\
-&= 2 \times 45 + 2 \times 30.5 \\\\
-&= 90 + 61 \\\\
-&= \pounds 151 
+\text{Total cost} &= \text{cost of} \  2  \ \text{Adults} + \text{Cost of} \  2 \ \text{children } \\\\
+                  &= 2 \times 45 + 2 \times 30.5 \\\\
+                  &= 90 + 61 \\\\
+                  &= \pounds 151 
 \end{aligned}
 $
 
@@ -97,8 +97,8 @@ How much would this ticket save the family?
 $
 \begin{aligned}
 \text{Saving} &= \text{Full price} - \text{Special Offer}  \\\\
-&= 151 - 125 \\\\
-&= \pounds 26 
+              &= 151 - 125 \\\\
+              &= \pounds 26 
 \end{aligned}
 $
 
@@ -163,7 +163,7 @@ $7040$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>6A4D3A4B-ED56-4425-A042-95E7B753ADB3</p>
 </div>
@@ -210,7 +210,7 @@ $1953$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -247,7 +247,7 @@ $
 \begin{aligned}
 \text{Time left}              &= 10 \ \text{am} - 8{:}15 \ \text{am} \\\\
                               &= 1 \ \text{hour} \ 45 \ \text{minutes}   \\\\
-                              &= 1 \times 60 + 45  \ \text{minutes} \\\\
+                              &= 1 \times 60 \ \text{minutes} + 45  \ \text{minutes} \\\\
                               &= 60 + 45  \ \text{minutes} \\\\
                               &= 105  \ \text{minutes}
 \end{aligned}
@@ -272,7 +272,7 @@ $105  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>46202F60-6AFF-44CC-9683-1646AF85C31F</p>
 </div>
@@ -319,6 +319,60 @@ $\pounds  90$
 
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much will $46$ lollipops cost if they cost $\pounds 1.25$ each?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios. 
+
+$
+\begin{aligned}
+1  \text{ lollipop}                 &: \pounds 1.25 \\\\
+1 \times 46  \text{ lollipops}         &: \pounds 1.25 \times 46 \\\\
+46  \text{ lollipops}                 &: \pounds 57.50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 57.50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -770,6 +824,188 @@ $\pounds 14.25$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>ADF03135-2BED-4722-A77F-AEF96CA568D8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Five children go to a  cafe. They each pay $\pounds 5.99$ for a meal. Work out the total amount they pay altogether.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total amount paid}  &= 5 \times \pounds 5.99 \\\\
+                           &= \pounds 29.95
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 29.95$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D8F3DE67-4A7C-4968-BA4C-FDC5DC751CDF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Cake stalls
+
+Five people are selling cakes at a market stalls..
+
+Anton sells $2$ cakes for $\pounds 1$.
+
+Bella sells $5$ cakes for $\pounds 2$.
+
+Christy sells $9$ cakes for $\pounds 4$.
+
+Denis sells $11$ cakes for $\pounds 5$.
+
+Ed sells $21$ cakes for $\pounds 10$.
+
+Work out which person gives the best value for money.
+
+Explain how you decided.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find out cost of $1$ cake for each person.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Anton's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                          &= \dfrac {1} {2} \\\\
+                                          &= \pounds 0.50 \\\\
+\text {Bella's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                          &= \dfrac {2} {5} \\\\
+                                          &= \pounds 0.40 \\\\
+\text {Christy's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                            &= \dfrac {4} {9} \\\\
+                                            &= 0.44 \\\\
+\text {Denis's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                            &= \dfrac {5} {11} \\\\
+                                            &= 0.45 \\\\
+\text {Ed's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                            &= \dfrac {10} {21} \\\\
+                                            &= 0.47
+\end {aligned}
+$
+
+Hence, 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>3C95D06E-7409-49E6-A01C-9229FC71E90B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Chocolate bars are packed in boxes of $36$.
+
+A shop buys $14$ boxes.
+
+How many chocolate bars are in $14$ boxes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, chocolate bar in a box $= 36$. So,
+
+$
+\begin{aligned}
+\text{chocolate bar in 14 boxes} &= 36 \times 14 \\\\
+                                 &= 504
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$504$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
 <p>5628A8F8-B6F9-4B5F-A53D-63CCA2DEEBAC</p>
@@ -1002,6 +1238,471 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>261BA76F-2207-4F4C-B0AD-AD5D6E87937B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$15 \times 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$15 \times 60$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$15 \times 1000$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $350 \div 10$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A length of ribbon is $240\ \text{cm}$ long. It is cut into $6$ pieces of equal length. What is the length of each piece?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_amber question'>
+<div class='uuid'>
+<p>F7A5AEC7-5BE3-4E03-8394-515786CF09D0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Pencils are bought in two ways, either $15\text{p}$ each or $\pounds{3.12}$ for a box of $24$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much does it cost for $7$ pencils bought individually?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Cost for 7 pencils} &= 7 \times 15 \\\\
+                          &= 105 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$105 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If I buy $4$ boxes of $24$ pencils, how much change should I receive if I pay with a $\pounds20$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Change received} &= 20 - 4 \times 3.12 \\\\
+                       &= 20 - 12.48 \\\\
+                       &= \pounds 7.52
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7.52$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much is saved by buying a box of $24$ rather than buying $24$ pencils individually?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Money saved} &= \pounds 3.12 - 24 \times 15 \text{p} \\\\
+                   &= \pounds 3.12 - 360 \text{p} \\\\
+                   &= \pounds 3.12 - \pounds \dfrac {360} {100} \\\\
+                   &= \pounds 3.12 - \pounds 3.6 \\\\
+                   &= \pounds 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A school requires enough pencils so that each of its $340$ pupils can have a pencil each. How many boxes of $24$ pencils should the school buy, and how many spare pencils will this leave?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_amber</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>87808858-372B-4F74-AE78-99248501465B</p>
@@ -1047,7 +1748,7 @@ $0.36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>66B16F07-8FF6-4E55-BA74-5529DF432D2B</p>
 </div>
@@ -1072,7 +1773,9 @@ How old was my grandmother when her daughter was born?
 
 $
 \begin{aligned}
-\text {Grandmother's age} &= 80 - 52 \\\\
+\text {Grandmother's age} &= 80 - (40 + (2006 - 1994)) \\\\
+                          &= 80 - (40 + 12) \\\\
+                          &= 80 - 52 \\\\
                           &= 28
 \end{aligned}
 $
@@ -1091,12 +1794,215 @@ $28$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_amber question'>
+<div class='uuid'>
+<p>0B4EA44D-BD3F-4217-9050-070265E7D6BE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+In order to save time banks weigh bags of coins instead of counting them. The masses in grams of some coins are shown above.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If a bag of $2 \ \text{pence}$ coins weighs $350 \ \text{g}$, how many coins are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of coins} &= \dfrac {350} {7} \\\\
+                       &= \dfrac {50 \times 7} {7} \\\\
+                       &= \dfrac {50 \times \cancel {7}} {\cancel {7}} \\\\
+                       &= 50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much are $500 \ \text{g}$ of $20 \ \text{pence}$ coins worth?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of coins} &= \dfrac {500} {5} \\\\
+                       &= \dfrac {5 \times 100} {5} \\\\
+                       &= \dfrac {\cancel {5} \times 100} {\cancel {5}} \\\\
+                       &= 100
+\end{aligned}
+$
+
+$\pounds 1 = 100 \text{p}$
+
+$
+\begin{aligned}
+\text{Worth} &= 100 \times 20 \\\\
+             &= 2000 \text{p} \\\\
+             &= \pounds \dfrac {2000} {100} \\\\
+             &= \pounds \dfrac {20 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+             &= \pounds 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many grams would $\pounds 10$ worth of $50 \ \text{pence}$ coins weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\pounds 1 = 100 \text{p}$
+
+$
+\begin{aligned}
+\text{Number of coins} &= \dfrac {10 \times 100} {50} \\\\
+                       &= \dfrac {5 \times 2 \times 100} {5 \times 10} \\\\
+                       &= \dfrac {\cancel {5} \times 2 \times 10 \cancel {0}} {\cancel {5} \times 1 \cancel {0}} \\\\
+                       &= 20
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total weight} &= 20 \times 13.4 \\\\
+                    &= 268 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$268 \ \text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A bag contains a mixture of $2 \ \text{pence}$ and $1 \ \text{pence}$ coins. It is worth $\pounds 2$. What does it weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>16D089A8-F897-466C-A647-02A29D9F4503</p>
 </div>
@@ -1115,14 +2021,21 @@ If a basketball weighs $300 \ \text{g}$ plus half its own weight, how much does 
 <div class='workings'>
 <div class='working'>
 
+Let the weight of basketball $= b$
+
+As per the question,
+
 $
 \begin{aligned}
-\text {Weight of the basketball} &= 300 + \dfrac {1} {2} \times 300 \\\\
-                                 &= 300 + \dfrac {300} {2} \\\\
-                                 &= 300 + \dfrac {150 \times 2} {2} \\\\
-                                 &= 300 + \dfrac {150 \times \cancel {2}} {\cancel {2}} \\\\
-                                 &= 300 + 150 \\\\
-                                 &= 450 \ \text{g}
+\text {Weight of the basketball}                  &= 300 + \dfrac {1} {2} \times b \\\\
+b                                                 &= 300 + \dfrac {b} {2} \\\\
+b - \dfrac {b} {2}                                &= 300 \\\\
+\dfrac {b \times 2} {1 \times 2} - \dfrac {b} {2} &= 300 \\\\
+\dfrac {2 b} {2} - \dfrac {b} {2}                 &= 300 \\\\
+\dfrac {2 b - b} {2}                              &= 300 \\\\
+\dfrac {b} {2}                                    &= 300 \\\\
+b                                                 &= 300 \times 2 \\\\
+b                                                 &= 600 \ \text{g}
 \end{aligned}
 $
 
@@ -1131,7 +2044,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$450 \ \text{g}$
+$600 \ \text{g}$
 
 </div>
 </div>
@@ -1140,7 +2053,7 @@ $450 \ \text{g}$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1295,7 +2208,7 @@ There are $0.91\ \text{metres}$ in $1  \ \text{yard}$. How many metres are there
 $
 \begin{aligned}
 \text{Total yards} &= 0.075 \times 0.91 \\\\
-                   &= 0.06825 \ \text{yards}
+                   &= 0.06825 \ \text{metres}
 \end{aligned}
 $
 
@@ -1304,7 +2217,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.06825 \ \text{yards}$
+$0.06825 \ \text{metres}$
 
 </div>
 </div>
@@ -1404,7 +2317,7 @@ $
                             &= \dfrac {84} {100} \times 730 \\\\
                             &= \dfrac {84 \times 730} {100} \\\\
                             &= \dfrac {61320} {100} \\\\
-                            &= 613.2 \\\\
+                            &= 613.2
 \end{aligned}
 $
 
@@ -1548,6 +2461,79 @@ $\pounds 1879.20$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>44871CCE-80E9-4654-AF29-D474783C1D63</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In 1990 a new $5 \text{p}$ coin was minted. The old size weighs $5.65\ \text{g}$ while the new size weighs $3.25\ \text{g}$. How much lighter will your pocket be if it contains $\pounds 2$ worth of the new size coins instead of the old size. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Weight for older coins
+
+$
+\begin{aligned}
+\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 20 \times 5} {5} \times 5.65 \\\\
+                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 5.65 \\\\
+                                 &= 2 \times 20 \times 5.65 \\\\
+                                 &= 226 \ \text {g}
+\end{aligned}
+$
+
+Weight for new coins
+
+$
+\begin{aligned}
+\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 20 \times 5} {5} \times 3.25 \\\\
+                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 3.25 \\\\
+                                 &= 2 \times 20 \times 3.25 \\\\
+                                 &= 130 \ \text {g}
+\end{aligned}
+$
+
+Difference of weight between older and new coins,
+
+$
+\begin{aligned}
+&= 226 - 130 \\\\
+&= 96 \ \text{g}                                   
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$96 \ \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -1710,6 +2696,106 @@ $33.6 \ \text{m}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>A01A640F-EDFD-4999-9FB4-D5CB13DE99BE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Barbie earns $\pounds 23450$ a year and her partner Ken earns $\pounds 700$ less than Barbie. 
+How much do the couple earn altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Total earning}  &= \text{Barbie earning} + \text{Ken earning} \\\\
+                      &= \text{Barbie} + \text{Barbie earning - 700}\\\\
+                      &= \text{23450} + \text{23450 - 700} \\\\
+                      &= 23450 + 22750 \\\\
+                      &= \pounds 46200
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 46200$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>4BE31404-8368-4FC0-AD60-34110662E9C4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A hospital nurse earns $\pounds 23080$ a year. Work out the annual salary of a consultant who earns four times 
+as much as a nurse.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Annual salary of a consultant } &= 4 \times \text{Annual salary of a nurse} \\\\
+                                       &= 4 \times \pounds 23080 \\\\
+                                       &= \pounds 92320
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 92320$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>182B0149-4149-4F74-99BA-3E0B634C604A</p>
@@ -1757,7 +2843,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F858D0CE-F0D7-4B18-A22D-210D8F94DE51</p>
 </div>
@@ -1805,7 +2891,7 @@ $8 \ \text{years} \ 10 \ \text{months}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2134,6 +3220,198 @@ $\ \text {Saturday}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>2EAFF991-0339-4DCB-B936-D87259A62353</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Penny places $10 \text{p}$ coins, touching, in a straight line.
+
+She hopes to make a line of coins that measures $1 \ \text{km}$.
+
+A $10 \text{p}$ coin has a diameter of $25 \ \text{mm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How long, in metres, is a line of forty $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 40 \times 25 \ \text {mm} \\\\
+&= 40 \times \dfrac {25} {1000} \ \text {m} \\\\
+&= \dfrac {40 \times 25} {1000} \ \text {m} \\\\
+&= \dfrac {40 \times 25} {40 \times 25} \\\\
+&= \dfrac {\cancel {40} \times \cancel {25}} {\cancel {40} \times \cancel {25}} \\\\
+&= 1 \ \text {m}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the total value, in pounds, of forty $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 40 \times 10 \ \text {p} \\\\
+&= 40 \times \pounds \dfrac {10} {100} \\\\
+&= \dfrac {40 \times 10} {100} \\\\
+&= \dfrac {4 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+&= \pounds 4
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many coins will Penny need for a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Penny required}  &= \dfrac {\text {Total distance}} {\text {diameter of one coin}} \\\\
+                        &= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {40000 \times 25} {25} \\\\
+                        &= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
+                        &= 40000
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the total value of a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total value}     &= \text {Total penny} \times \text {value of one penny} \\\\
+                        &= 40000 \times 10 \ \text {p} \\\\
+                        &= 40000 \times \pounds \dfrac {10} {100} \\\\
+                        &= \dfrac {40000 \times 10} {100} \\\\
+                        &= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+                        &= \pounds 4000
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4000$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>F7FBC2DE-C5BB-494E-9780-E9604EA75A45</p>
@@ -2260,6 +3538,83 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>9F5604EB-F79E-4CB6-8EE3-55D385FB760A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Concert tickets for $4$ adults cost a total of $\pounds 62.         ![missing image](/papers/missing_image.svg)
+
+Children are admitted at half price.
+
+What would it cost for $2$ adults and a child to attend the same concert?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+Cost of tickets for $4$ adults = $\pounds 62$
+
+Cost of ticket for $1$ adult = $\dfrac {62}{4}$
+
+$
+\begin{aligned}
+&= 15 \dfrac{2} {4} \\\\
+&= 15 \dfrac {2} {2 \times 2} \\\\
+&= 15 \dfrac {\cancel {2}} {\cancel {2} \times 2} \\\\
+&= 15 \dfrac {1} {2} \\\\
+&= \pounds 15.5
+\end{aligned}
+$
+
+Cost of ticket for $1$ adult = $\pounds 15.5$
+
+Cost of ticket for $1$ child = $\pounds \dfrac{15.5} {2} = \pounds 7.75$
+
+Cost for $2$ adults and one child to attend the concert $= 2 \times 15.5 + 1 \times 7.75$
+
+$
+\begin{aligned}
+&= 2 \times 15.5 + 1 \times 7.75 \\\\
+&= 31 + 7.75 \\\\
+&= \pounds 38.75
+\end{aligned}
+$
+
+Cost for $2$ adults and one child to attend the concert = $\pounds 38.75$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 38.75$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>

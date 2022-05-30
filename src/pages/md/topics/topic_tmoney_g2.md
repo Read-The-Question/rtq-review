@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-g2"
 title: "Topic - Money - G2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-05-29 22:47:20
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -60,13 +57,7 @@ $\pounds 3.51$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>

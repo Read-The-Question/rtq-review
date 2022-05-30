@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-notstarted"
 title: "Topic - Simpleword - Not Started"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -181,6 +181,89 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>D8F3DE67-4A7C-4968-BA4C-FDC5DC751CDF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Cake stalls
+
+Five people are selling cakes at a market stalls..
+
+Anton sells $2$ cakes for $\pounds 1$.
+
+Bella sells $5$ cakes for $\pounds 2$.
+
+Christy sells $9$ cakes for $\pounds 4$.
+
+Denis sells $11$ cakes for $\pounds 5$.
+
+Ed sells $21$ cakes for $\pounds 10$.
+
+Work out which person gives the best value for money.
+
+Explain how you decided.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find out cost of $1$ cake for each person.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Anton's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                          &= \dfrac {1} {2} \\\\
+                                          &= \pounds 0.50 \\\\
+\text {Bella's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                          &= \dfrac {2} {5} \\\\
+                                          &= \pounds 0.40 \\\\
+\text {Christy's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                            &= \dfrac {4} {9} \\\\
+                                            &= 0.44 \\\\
+\text {Denis's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                            &= \dfrac {5} {11} \\\\
+                                            &= 0.45 \\\\
+\text {Ed's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                            &= \dfrac {10} {21} \\\\
+                                            &= 0.47
+\end {aligned}
+$
+
+Hence, 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>91E8F6D9-48AF-4232-8B57-274024CF21E3</p>
 </div>
 <div class='topics'>
@@ -235,6 +318,286 @@ TODOANSWER
 
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>261BA76F-2207-4F4C-B0AD-AD5D6E87937B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$15 \times 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$15 \times 60$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$15 \times 1000$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $350 \div 10$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A length of ribbon is $240\ \text{cm}$ long. It is cut into $6$ pieces of equal length. What is the length of each piece?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-trecipe-all"
 title: "Topic - Recipe - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -476,16 +476,10 @@ $28$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 trecipe
 </li>
 <li>
 tratio
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -770,7 +764,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>DF1F8D35-24B7-47A1-AE66-E60F99803BCA</p>
 </div>
@@ -969,7 +963,7 @@ $210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{m
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

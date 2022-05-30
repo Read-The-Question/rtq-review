@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-1"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,9 +21,6 @@ date: 2022-05-29 22:47:20
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -670,7 +667,7 @@ $410.3 \div 1000 =$
 $
 \begin{aligned}
 &= 410.3 \div 1000 \\\\
-&= \dfrac {410.3}{1000} \\\\
+&= \dfrac {410.3} {1000} \\\\
 &= 0.4103
 \end{aligned}
 $
@@ -1023,13 +1020,10 @@ $28$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>

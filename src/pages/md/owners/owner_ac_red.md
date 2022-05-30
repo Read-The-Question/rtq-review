@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-red"
 title: "Owner - Chiliveru Aravind - Red"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1391,12 +1391,6 @@ $7.9$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -211,9 +211,6 @@ $7.77, \quad 7.707, \quad 7.7, \quad 7.07, \quad 7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -397,12 +394,6 @@ $32 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
 <li>
 tmoney
 </li>
@@ -836,9 +827,6 @@ $0.6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -2393,9 +2381,6 @@ $76 \text{m}^{2}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -3074,16 +3059,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tfraction
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>

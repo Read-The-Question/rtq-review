@@ -1,62 +1,9 @@
 ---
 slug: "topics/topic-tcoin-g1"
 title: "Topic - Coin - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>F96ADDDB-D1DA-4669-B9D8-6F1709C2D0E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tprobability
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**For question $\bold{39}$ to $\bold{43}$ make the most appropriate choice from this list to describe the chances.**
-
-impossible: $\quad$  very unlikely: $\quad$  unlikely: $\quad$  as likely as not: $\quad$  likely: $\quad$  very likely: $\quad$  certian
-
-When thrown a coin will show heads.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {likely}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {likely}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
@@ -65,7 +12,7 @@ $\text {likely}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
@@ -168,9 +115,6 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -230,104 +174,24 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_g1 question'>
-<div class='uuid'>
-<p>44871CCE-80E9-4654-AF29-D474783C1D63</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In 1990 a new $5 \text{p}$ coin was minted. The old size weighs $5.65\ \text{g}$ while the new size weighs $3.25\ \text{g}$. How much lighter will your pocket be if it contains $\pounds 2$ worth of the new size coins instead of the old size. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Weight for older coins
-
-$
-\begin{aligned}
-\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 5.65 \\\\
-                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 5.65 \\\\
-                                 &= \dfrac {2 \times 20 \times 5} {5} \times 5.65 \\\\
-                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 5.65 \\\\
-                                 &= 2 \times 20 \times 5.65 \\\\
-                                 &= 226 \ \text {g}
-\end{aligned}
-$
-
-Weight for new coins
-
-$
-\begin{aligned}
-\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 3.25 \\\\
-                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 3.25 \\\\
-                                 &= \dfrac {2 \times 20 \times 5} {5} \times 3.25 \\\\
-                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 3.25 \\\\
-                                 &= 2 \times 20 \times 3.25 \\\\
-                                 &= 130 \ \text {g}
-\end{aligned}
-$
-
-Difference of weight between older and new coins,
-
-$
-\begin{aligned}
-&= 226 - 130 \\\\
-&= 96 \ \text{g}                                   
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$96 \ \text{g}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
-<p>62371EC4-9B97-4727-A38F-16A5F80DE4BE</p>
+<p>ED51D194-C5FA-45F5-8072-BA5973BA5747</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-I only have five coins in my purse. They are 
-$1 \text{p}, 2 \text{p}, 5 \text{p}, 10 \text{p}$ and $20 \text{p}$. It 
-is not possible to make exactly $19 \text{p}$ with these coins.
+Claire bought an ice cream costing $\pounds 1.55$ and a can of drink 
+costing $67$ pence. She paid with a $\pounds 5$ note.
 
 </div>
 <div class='workings'>
@@ -353,20 +217,30 @@ is not possible to make exactly $19 \text{p}$ with these coins.
 </div>
 <div class='question subquestion'>
 
-What is the smallest amount that can not be made using my coins?
+How much change should Claire receive?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$4 \text{p}$
+$\pounds 1 = 100 \text{p}$
+
+$
+\begin{aligned}
+\text{Change received} &= \pounds 5 - (\pounds 1.55 + 67 \ \text{pence}) \\\\
+                       &= \pounds 5 - (\pounds 1.55 + \pounds \dfrac {67} {100}) \\\\
+                       &= 5 - (1.55 + 0.67) \\\\
+                       &= 5 - 2.22 \\\\
+                       &= \pounds 2.78
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4 \text{p}$
+$\pounds 2.78$
 
 </div>
 </div>
@@ -381,50 +255,28 @@ $4 \text{p}$
 </div>
 <div class='question subquestion'>
 
-Find the two other amounts, less than $20 \text{p}$, which I cannot make.
+Claire was given the exact change, using the smallest 
+possible number of coins. How many coins was Claire given?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$9 \text{p}, \ 14 \text{p}$
+Smallest possible coin can be $1 \ \text{pence}$
+
+$
+\begin{aligned}
+\text{Total number of coins given} &= 100 + 100 + 78 \\\\
+                                   &= 278
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$9 \text{p}, \ 14 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The largest amount of money that can be made using these coins
- is $38 \text{p}$. Find the largest amount of money less 
- than $38 \text{p}$ which can not be made using these coins.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$34 \text{p}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$34 \text{p}$
+$278$
 
 </div>
 </div>
@@ -433,7 +285,83 @@ $34 \text{p}$
 </li>
 </ul>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>7E7878A4-808C-4404-8B60-2FB05E498D2D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ger has $\pounds 2$ made up of $20 \text{p}$ and $10 \text{p}$ coins. He has twice as many $20 \text{p}$ coins as $10 \text{p}$ ones. How many $10 \text{p}$ coins does he have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of $10 \text {p}$ coins $= c$
+
+As per the question,
+
+Count of $20 \text {p}$ coins $= 2c$
+
+It is really important to convert into the right units.
+
+Let's convert the total amount into pence.
+
+$
+\begin{aligned} 
+\text{Total Amount}     &=  \pounds 2 \\\\
+                        &=  2 \times 100 \text{p} \\\\
+                        &=  200 \text{p}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned} 
+10 \times c + 20 \times 2c      &= 200 \\\\
+10c + 40c                       &= 200 \\\\
+50c                             &= 200 \\\\
+c                               &= \dfrac{200} {50} \\\\
+c                               &= \dfrac{50 \times 4} {50} \\\\
+c                               &= \dfrac{\cancel{50} \times 4} {\cancel{50}} \\\\
+c                               &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -447,9 +375,6 @@ $34 \text{p}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -517,6 +442,92 @@ $16$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>EE1F9669-3D5F-4C89-85B1-F004C01C7CF7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a bag of money to take to the bank I have only $5 \text{p}$, $10 \text{p}$ and $20 \text{p}$ coins.
+
+I have twice as many $20 \text{p}$ coins as $10 \text{p}$ coins and half as many $5 \text{p}$ coins as $10 \text{p}$ coins.
+
+If the bag contains $\pounds 15.75$, how many $20 \text{p}$ coins are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of $5 \text{p}$ coins $= a$. Then,
+
+Number of $10 \text{p}$ coins $= 2a$
+
+Number of $20 \text{p}$ coins $= 4a$
+
+It is really important to convert into the right units. 
+The amount is given in pounds and the coins are in pence. Let's convert the total amount into pence.
+
+As per the question,
+
+$
+\begin{aligned}  
+5 \times a + 10 \times 2a + 20 \times 4a    &= \pounds 15.75 \\\\
+5a + 20a + 80a                              &= 15.75 \times 100 \ \text {p} \\\\
+5a + 20a + 80a                              &= 1575 \\\\
+105a                                        &= 1575 \\\\
+a                                           &= \dfrac {1575} {105} \\\\
+a                                           &= \dfrac {21 \times 5 \times 15} {21 \times 5} \\\\
+a                                           &= \dfrac {\cancel{21} \times \cancel{5} \times 15} {\cancel{21} \times \cancel{5}} \\\\
+a                                           &= 15
+\end{aligned}
+$
+
+Number of $5 \ \text{p}$ coins $= 15$
+
+Let's find the number of $20 \ \text{p}$ coins.
+
+$
+\begin {aligned}
+20 \ \text{p} \text{ coins}   &= 4a \\\\
+                              &= 4 \times 15 \\\\
+                              &= 60
+\end {aligned}
+$
+
+Number of $20 \ \text{p}$ coins $= 60$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

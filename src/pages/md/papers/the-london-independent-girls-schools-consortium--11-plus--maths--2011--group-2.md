@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -120,9 +120,6 @@ $2148$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -268,7 +265,7 @@ $2.23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>DECBAFA9-B0F4-45DA-B4A9-5B89028153A7</p>
 </div>
@@ -309,12 +306,12 @@ $24796$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>0EBD3316-5CD6-40EB-8B8C-D3B8C9C268B1</p>
 </div>
@@ -360,12 +357,12 @@ $\text {Twelve thousand four hundred and eight pounds}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>630C101F-E5A2-4A98-AD35-AF1C60B9AD03</p>
 </div>
@@ -429,7 +426,7 @@ $8 \dfrac {1} {20}, \ 8.05$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -546,7 +543,7 @@ $165$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
 </div>
@@ -651,7 +648,7 @@ $10 \ \text{hrs} \ 48 \ \text{mins}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -902,7 +899,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>E709EA37-048F-4696-A4BE-A209DAEF9AE9</p>
 </div>
@@ -952,7 +949,7 @@ $\dfrac {3} {4}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1113,15 +1110,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>C535E8F6-43D7-44D2-B14D-8708D1AE1BC8</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -1166,7 +1160,7 @@ $\pounds 8.25$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1800,7 +1794,7 @@ $3, \ 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A5D1670C-F9E8-458A-87F9-BEAD48F73EC4</p>
 </div>
@@ -1867,7 +1861,7 @@ $48 \ \text{cm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1948,10 +1942,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
+tmoney
 </li>
 <li>
 tnoexplanation

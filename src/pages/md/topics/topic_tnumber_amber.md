@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-amber"
 title: "Topic - Number - Amber"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1341,133 +1341,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_amber question'>
-<div class='uuid'>
-<p>FC723669-28F5-4DD7-8D03-9D1BA3DA811D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Exercise books come in packs of $25$. The school needs $480$ exercise books.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-\begin{aligned}
-
-\end{aligned}
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many packs must be bought?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Each pack costs $\pounds6$.
-
-Work out the total cost of the exercise books.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_amber</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ks_amber question'>
 <div class='uuid'>
 <p>74295121-5568-4006-9097-DC9FCB44ABB2</p>
@@ -1728,19 +1601,7 @@ $51643$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tmoney
-</li>
-<li>
-tstatistics
-</li>
-<li>
-tpercentageadvance
 </li>
 </ul>
 </div>
@@ -3259,6 +3120,151 @@ $\text{different} \ \ \boxed{\times}$
 </div>
 </div>
 
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>E5F2C5B2-DCB1-433F-8448-979453D41F68</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at these numbers and the multiplications:
+
+$
+\begin{aligned}
+49 &= 7 \times 7\\
+4489 &= 67 \times 67\\
+444889 &= 667 \times 667
+\end{aligned}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use the pattern to fill in the spaces below:
+
+$44448889 = \ldots \times \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$44448889 = 6667 \times 6667$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44448889 = 6667 \times 6667$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What will be the tenth number in the list?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The tenth number would contain ten $4s$, nine $8s$ and one $9$
+
+The tenth number would be $=44444444448888888889$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+ $44444444448888888889$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What will be the square root of this number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$44444444448888888889 = 6666666667 \times 6666666667$
+
+Hence the square root would be $= 6666666667$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6666666667$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
 </div>
@@ -5838,13 +5844,7 @@ $42008 \\\\ 957992$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>

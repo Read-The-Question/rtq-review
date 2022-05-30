@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tstatistics-pr"
 title: "Topic - Statistics - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>359E9CAF-B6FE-434F-9191-AF9614CF6D12</p>
 </div>
@@ -32,8 +32,8 @@ What is her mean (average) monthly saving?
 $
 \begin{aligned}
 \text{Average monthly saving}  &= \dfrac {12 + 18 + 5} {3} \\\\
-                &= \dfrac {35} {3} \\\\
-                &= 11.66 
+                               &= \dfrac {35} {3} \\\\
+                               &= 11.66
 \end{aligned}
 $
 
@@ -51,7 +51,7 @@ $11.66$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -510,131 +510,6 @@ $6.7$
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>2ABA366D-6722-48B2-9A4C-D98E63A13BFD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
-<li>
-tmoney
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The charge $$\pounds C$ made by a caterer for arranging a birthday party for $n$ people is given by theformula:
-
-$C = 3n +40$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the charge, in $\pounds $, for a party of $20$ people?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Charge per n people} \pounds C    &= 3n +40 \\\\
-\text{Charge per 20 people} \pounds C   &= 3 \times 20 +40 \\\\
-                                        &= 60 + 40 \\\\
-                                        &= 100
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 100$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the average cost per person for a party of $20$ people?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Average cost per person}      &= \dfrac {\text{Total cost}} {Number of persons} \\\\
-                                    &= \dfrac {100} {20} \\\\
-                                    &= \dfrac {20 \times 5} {20} \\\\
-                                    &= \dfrac {\cancel{20} \times 5} {\cancel{20}} \\\\
-                                    &= \pounds 5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
 </div>
 </div>
 </li>

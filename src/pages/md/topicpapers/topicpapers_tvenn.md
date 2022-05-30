@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-tvenn"
 title: "Topicpapers Tvenn"
-date: 2022-05-29 22:59:27
+date: 2022-05-30 17:37:30
 ---
 <div class='paper'>
 <div class='meta'>

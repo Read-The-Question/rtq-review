@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tlcm-all"
 title: "Topic - Lcm - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1560,7 +1560,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>C8C3BB23-7980-4A19-8082-5F985DD48CAC</p>
 </div>
@@ -1602,7 +1602,7 @@ $144$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -1721,6 +1721,8 @@ What is the largest number less than $100$ which is a multiple of $2$, and of $3
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 Let's first find LCM for three numbers. There are no common factors, so the LCM would be 
 
 $
@@ -1747,7 +1749,7 @@ Largest number $= 90$
 <div class='answers'>
 <div class='answer'>
 
-$0$
+$90$
 
 </div>
 </div>

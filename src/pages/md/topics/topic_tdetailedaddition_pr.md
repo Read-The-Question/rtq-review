@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tdetailedaddition-pr"
 title: "Topic - Detailedaddition - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>54BD09C0-1C14-4564-B207-B912ADE229BB</p>
 </div>
@@ -25,11 +25,11 @@ $3078 + 256$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
-        &  3 & 0 & 7 & 8 \\
-    {}+ &    & 2 & 5 & 6 \\
-    \hline
-        & 3 & 3 & 3  & 4
+\begin{array}{cccccccccccccc}
+    &   3   &    0    &    7    &    8 \\
+{}+ &       &    2    &    5    &    6 \\
+\hline
+    &   3   &    3    &    3    &    4
 \end{array}
 $
 
@@ -47,7 +47,7 @@ $3334$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -184,7 +184,7 @@ $22$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>33EA5AA6-2BAC-4539-BE0C-64E83AA9931B</p>
 </div>
@@ -205,10 +205,10 @@ Add: $36 + 58$
 
 $
 \begin{array}{cccccccccccccc}
-        & 3 & 6 \\
-    {}+ & 5 & 8 \\
-    \hline
-        & 9 & 4 
+    &   3   &   6 \\
+{}+ &   5   &   8 \\
+\hline
+    &   9   &   4
 \end{array}
 $
 
@@ -226,161 +226,7 @@ $94$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>2776F3AC-5B59-4DE4-AA6C-D15196418A83</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%waffles%
-
-$5784 + 419$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   5   &   7   &   8   &   4 \\
-{}+ &       &   4   &   1   &   9 \\
-\hline
-    &   6   &   2   &   0   &   3 \\
-\hline
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6203$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>DB188EF1-56DE-4E7B-9F6F-B9D010FD69AF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together the following numbers and write your answer in figures.
-
-$\text{nine million      \quad   eleven thousand \quad       twelve hundred     \quad   thirteen}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   9    &    0    &    0    &    0    &    0    &    0    &    0 \\
-     &       &         &    1    &    1    &    0    &    0    &    0 \\
-     &       &         &         &    1    &    2    &    0    &    0 \\
-{}+    &       &         &         &         &         &    1    &    3 \\
-\hline
-    &   9    &    0    &    1    &    2    &    2    &    1    &    3
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9012213$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>84386E3C-25A2-4135-BDFE-C2794FEA4DB7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%waffles%
-
-$484 + 365$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   4   &   8   &   4 \\
-{}+ &   3   &   6   &   5 \\
-\hline
-    &   8   &   4   &   9 \\
-\hline
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$849$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -679,53 +525,6 @@ $7392$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $569 + 372$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       5       & 6     & 9  \\
-{}+ &       3       & 7     & 2 \\
-\hline
-    &       9       & 4     & 1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$941$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

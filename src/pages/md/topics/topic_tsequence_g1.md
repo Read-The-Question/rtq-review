@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-g1"
 title: "Topic - Sequence - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1111,6 +1111,310 @@ $130$
 </ul>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>47724B7C-71A5-4E55-B831-A798B3984E25</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For each part of this question, complete the sequence by inserting the correct number in each of the empty spaces.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The rule for this sequence is "divide by $10$".
+
+$\ldots, \quad 7020, \quad 702, \quad \ldots, \quad 7.02, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by dividing the previous term by $10$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }  \\
+\ldots,  &&    7020,  &&  702,  &&   \ldots, && 7.02,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= 7020 \times 10 \\\\
+                            &= 70200 \\\\
+\text{Second number}        &= 702 \div 10 \\\\
+                            &= 70.2 \\\\
+\text{Third number}         &= 7.02 \div 10 \\\\
+                            &= 0.702
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$70200, 70.2, 0.702$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The rule for this sequence is "multiply by $20$".
+
+$\ldots, \quad 0.64, \quad 12.8, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by multiplying the previous term by $20$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(\times 20)} }
+&&  \footnotesize {\maroonC {(\times 20)} }
+&&  \footnotesize {\maroonC {(\times 20)} }  \\
+\ldots,  &&    0.64,  &&  12.8,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= 0.64 \div 20 \\\\
+                            &= 0.032 \\\\
+\text{Second number}        &= 12.8 \times 20 \\\\
+                            &= 256
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.032, 256$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The rule for this sequence is "subtract $\dfrac{1}{4}$".
+
+$\ldots, \quad \dfrac{3}{4}, \quad \dfrac{1}{2}, \quad \dfrac{1}{4}, \quad \ldots, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by subtracting the previous term by $\dfrac {1} {4}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }  \\
+\ldots,  &&    \dfrac {3} {4},  && \dfrac {1} {2},  &&   \dfrac {1} {4}, &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= \dfrac {3} {4} + \dfrac {1} {4} \\\\
+                            &= \dfrac {4} {4} \\\\
+                            &= 1 \\\\
+\text{Second number}        &= \dfrac {1} {4} - \dfrac {1} {4} \\\\
+                            &= 0 \\\\
+\text{Third number}         &= 0 - \dfrac {1} {4} \\\\
+                            &= - \dfrac {1} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1, 0, - \dfrac {1} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The rule for this sequence is "add $\dfrac{1}{6}$".
+
+$\dfrac{2}{3}, \quad \ldots, \quad \ldots, \quad 1 \dfrac{1}{6}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }  \\
+\dfrac {2} {3},  && \ldots,  &&   \ldots, &&  1 \dfrac {1} {6}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= \dfrac {2} {3} + \dfrac {1} {6} \\\\
+                            &= \dfrac {2 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
+                            &= \dfrac {4} {6} + \dfrac {1} {6} \\\\
+                            &= \dfrac {5} {6} \\\\
+\text{Second number}        &= \dfrac {1} {6} - \dfrac {1} {6} \\\\
+                            &= 0
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {11} {6}, 0$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The rule for this sequence is "divide by $3$".
+
+$18, \quad 6, \quad 2, \quad \ldots, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by dividing the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(\div 3)} }
+&&  \footnotesize {\maroonC {(\div 3)} }
+&&  \footnotesize {\maroonC {(\div 3)} }
+&&  \footnotesize {\maroonC {(\div 3)} }  \\
+18,  &&    6,  &&    2,  &&   \ldots, &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= 2 \div 3 \\\\
+                            &= \dfrac {2} {3} \\\\
+\text{Second number}        &= \dfrac {2} {3} \div 3 \\\\
+                            &= \dfrac {2} {3} \times \dfrac {1} {3} \\\\
+                            &= \dfrac {2} {9}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {3}, \dfrac {2} {9}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -4419,6 +4723,66 @@ $-40, 80$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>DF932C38-6507-44AB-B10B-EC17B47BA0D0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bob makes a sequence using the following rule: $\text{‘double and subtract 3’}$. If the first number in his sequence is $5$, what will the fifth number in his sequence be?
+
+A: $157$ 
+
+B: $77$ 
+
+C: $19$ 
+
+D: $35$ 
+
+E: $67$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Fifty number of the sequence} &= 5 \times (2 \times 5 - 3) \\\\
+                                    &= 5 (10 - 3) \\\\
+                                    &= 5 \times 7 \\\\
+                                    &= 35
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$35$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>29A36B70-5937-460E-A1CC-4F3D72FC835A</p>
 </div>
 <div class='topics'>
@@ -5139,6 +5503,244 @@ $81, 243$
 </ul>
 <div class='papername'>
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>B3BEC0CC-4D5E-48CC-9ADB-8FEF97E59046</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Continue the sequences, giving the next two numbers each time :
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4, \quad 10, \quad 16, \quad 22, \quad \ldots, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $+6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&&  \footnotesize{\maroonC { (+6)} }
+&   \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} }
+&&  \footnotesize{\maroonC { (+6)} } \\
+4,  &&    10,  &&  16,  &&   22,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First Missing number}     &= 22 + 6 \\\\
+                                &= 28 \\\\
+\text{Second Missing number}    &= 28 + 6 \\\\
+                                &= 34
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28,34$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1, \quad 3, \quad 9, \quad 27, \quad \ldots, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The next term is calculated by multiplying the previous term by $\times 3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&&  \footnotesize{\maroonC { (\times 3) } }  
+&   \footnotesize{\maroonC { (\times 3) } } 
+&&  \footnotesize{\maroonC { (\times 3) } } 
+&&  \footnotesize{\maroonC { (\times 3) } } 
+&&  \footnotesize{\maroonC { (\times 3) } } \\
+1,  &&    3,  &&  9,  &&   27,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First Missing number}     &= 27 \times 3 \\\\
+                                &= 81 \\\\
+\text{Second Missing number}    &= 81 \times 3 \\\\
+                                &= 243
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81,243$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$12, \quad 7, \quad 2, \quad -3, \quad \ldots, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $-5$. Hence, the sequence would be:
+$
+\begin{matrix}
+&   \footnotesize{\maroonC { (-5) } }  
+&&  \footnotesize{\maroonC { (-5) } } 
+&&  \footnotesize{\maroonC { (-5) } } 
+&&  \footnotesize{\maroonC { (-5) } }  
+&&  \footnotesize{\maroonC { (-5) } } \\
+12,  &&    7,  &&  2,  &&  - 3,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First Missing number}     &= - 3 - 5 \\\\
+                                &= - 8 \\\\
+\text{Second Missing number}    &= - 8 - 5 \\\\
+                                &= - 13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-8,-13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1, \quad 1, \quad 2, \quad 3, \quad 5, \quad 8, \quad \ldots, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The next term is calculated by adding the previous two terms. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC { (+ 0) } }  
+&&  \footnotesize{\maroonC { (+ 1) } } 
+&&  \footnotesize{\maroonC { (+ 1) } } 
+&&  \footnotesize{\maroonC { (+ 2) } }  
+&&  \footnotesize{\maroonC { (+ 3) } }
+&&  \footnotesize{\maroonC { (+ 5) } }
+&&  \footnotesize{\maroonC { (+ 8) } } \\
+1,  &&    1,  &&  2,  &&  3, && 5   &&  8,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First Missing number}     &= 8 + 5 \\\\
+                                &= 13 \\\\
+\text{Second Missing number}    &= 13 + 8 \\\\
+                                &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13, \ 21$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -6764,6 +7366,209 @@ $5, \quad 3, \quad 8, \quad 11, \quad 19$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>3C00C796-049E-471D-AEC7-FACC3D844E29</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next two terms in each sequence:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+15, \quad 24,  \quad 33,  \quad 42,
+\quad \text{\textunderscore \textunderscore \textunderscore}, 
+\quad \text{\textunderscore \textunderscore \textunderscore}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $+9$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+9)} } 
+&&  \footnotesize {\maroonC {(+9)} }  
+&&  \footnotesize {\maroonC {(+9)} }   
+&&  \footnotesize {\maroonC {(+9)} }   
+&&  \footnotesize {\maroonC {(+9)} } \\
+15,  &&  24,  &&  33,  &&  42,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 42 + 9 \\\\
+                                  &= 51 \\\\
+\text{Second missing number}      &= 51 + 9 \\\\
+                                  &= 60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51, \ 60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+2.2, \quad 2.5,  \quad 2.8,  \quad 3.1,
+\quad \text{\textunderscore \textunderscore \textunderscore}, 
+\quad \text{\textunderscore \textunderscore \textunderscore}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $+0.3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+0.3)} } 
+&&  \footnotesize {\maroonC {(+0.3)} }  
+&&  \footnotesize {\maroonC {(+0.3)} }   
+&&  \footnotesize {\maroonC {(+0.3)} }   
+&&  \footnotesize {\maroonC {(+0.3)} } \\
+2.2,  &&  2.5,  &&  2.8,  &&  3.1,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 3.1 + 0.3 \\\\
+                                  &= 3.4 \\\\
+\text{Second missing number}      &= 3.4 + 0.3 \\\\
+                                  &= 3.7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.4, \ 3.7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+\dfrac{1}{3}, \quad 1,  \quad 3,  \quad 9,
+\quad \text{\textunderscore \textunderscore \textunderscore}, 
+\quad \text{\textunderscore \textunderscore \textunderscore}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(\times 3)} } 
+&&  \footnotesize {\maroonC {(\times 3)} }  
+&&  \footnotesize {\maroonC {(\times 3)} }   
+&&  \footnotesize {\maroonC {(\times 3)} }   
+&&  \footnotesize {\maroonC {(\times 3)} } \\
+\dfrac {1} {3},  &&  1,  &&  3,  &&  9,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 9 \times 3 \\\\
+                                  &= 27 \\\\
+\text{Second missing number}      &= 27 \times 3 \\\\
+                                  &= 81
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27, \ 81$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>61DF5227-3001-41C5-83ED-E0E7D5D0CCB3</p>
 </div>
 <div class='topics'>
@@ -7612,6 +8417,70 @@ $87$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>D051087C-D302-45A1-8E7F-00AC09D3B57D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next two numbers in the sequence.
+
+$5, 11, 23, 47, \boxed{\phantom{11}}, \boxed{\phantom{11}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next number is calculated by multiplying $2$ to the difference. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+12)} }
+&&  \footnotesize {\maroonC {(+24)} }
+&&  \footnotesize {\maroonC {(+48)} }
+&&  \footnotesize {\maroonC {(+96)} }  \\
+5,  &&   11,  &&  23,  &&   47, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}          &= 47 + 48 \\\\
+                             &= 95 \\\\
+\text{Second number}         &= 95 + 96 \\\\
+                             &= 191
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$95, 191$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>88DB0446-3822-4E24-9EE8-BAD9AAF0EC47</p>
@@ -7764,6 +8633,65 @@ $91$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>2349EC95-009A-4E52-B1CF-35DE1F43DFBA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number in this list $33, 44, 56, \ldots, 83, 98$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+11)}} 
+&&  \footnotesize{\maroonC{(+12)}}  
+&&  \footnotesize{\maroonC{(+13)}}   
+&&  \footnotesize{\maroonC{(+14)}}  
+&&  \footnotesize{\maroonC{(+15)}} \\
+33,  &&      44,  &&      56,  &&      \ldots,  &&      83,      &&      98
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 56 + 13 \\\\
+                        &= 69
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$69$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

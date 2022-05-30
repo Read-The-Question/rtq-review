@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-tdivision"
 title: "Topicpapers Tdivision"
-date: 2022-05-29 22:59:27
+date: 2022-05-30 17:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -95,7 +95,7 @@ $410.3 \div 1000 =$
 $
 \begin{aligned}
 &= 410.3 \div 1000 \\\\
-&= \dfrac {410.3}{1000} \\\\
+&= \dfrac {410.3} {1000} \\\\
 &= 0.4103
 \end{aligned}
 $

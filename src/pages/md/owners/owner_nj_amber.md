@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-amber"
 title: "Owner - Nitin Joshi - Amber"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-05-29 22:47:20
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -544,22 +541,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tprofit
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -862,16 +844,10 @@ $36$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tunitprompt
-</li>
-<li>
 tratio
 </li>
 <li>
-tmoney
+tunitprompt
 </li>
 </ul>
 </div>

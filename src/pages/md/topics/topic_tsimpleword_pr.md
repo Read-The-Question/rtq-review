@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-pr"
 title: "Topic - Simpleword - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,10 +59,10 @@ What is the total cost for all four of the family to go to the concert?
 
 $
 \begin{aligned}
-\text{Total cost} &= 2 \times \text{Adult} + 2 \times \text{Child}  \\\\
-&= 2 \times 45 + 2 \times 30.5 \\\\
-&= 90 + 61 \\\\
-&= \pounds 151 
+\text{Total cost} &= \text{cost of} \  2  \ \text{Adults} + \text{Cost of} \  2 \ \text{children } \\\\
+                  &= 2 \times 45 + 2 \times 30.5 \\\\
+                  &= 90 + 61 \\\\
+                  &= \pounds 151 
 \end{aligned}
 $
 
@@ -97,8 +97,8 @@ How much would this ticket save the family?
 $
 \begin{aligned}
 \text{Saving} &= \text{Full price} - \text{Special Offer}  \\\\
-&= 151 - 125 \\\\
-&= \pounds 26 
+              &= 151 - 125 \\\\
+              &= \pounds 26 
 \end{aligned}
 $
 
@@ -165,58 +165,6 @@ $7040$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>6A4D3A4B-ED56-4425-A042-95E7B753ADB3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jonathon and his dad were both born on $5 \text{th}$ August.
-
-Jonathon was born in $1985$ and his father is $32$ years older than him. 
-
-In which year was his dad born?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Year dad was born}    &= 1985 - 32  \\\\
-                            &= 1953 
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1953$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
 <p>B42D6744-B5FF-4E7F-A4E1-0E475C841546</p>
 </div>
 <div class='topics'>
@@ -247,7 +195,7 @@ $
 \begin{aligned}
 \text{Time left}              &= 10 \ \text{am} - 8{:}15 \ \text{am} \\\\
                               &= 1 \ \text{hour} \ 45 \ \text{minutes}   \\\\
-                              &= 1 \times 60 + 45  \ \text{minutes} \\\\
+                              &= 1 \times 60 \ \text{minutes} + 45  \ \text{minutes} \\\\
                               &= 60 + 45  \ \text{minutes} \\\\
                               &= 105  \ \text{minutes}
 \end{aligned}
@@ -274,12 +222,15 @@ $105  \ \text{minutes}$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>46202F60-6AFF-44CC-9683-1646AF85C31F</p>
+<p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tsimpleword
+</li>
+<li>
+tratio
 </li>
 <li>
 tmoney
@@ -288,22 +239,19 @@ tmoney
 </div>
 <div class='question question'>
 
-Mrs Prince wishes to buy each member of her class a photo frame as a present.
-There are $24$ pupils in her class and each photo frame costs $\pounds 3.75$.
-
-Find the total cost of all $24$ frames. 
+How much will $46$ lollipops cost if they cost $\pounds 1.25$ each?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+This can be solved using ratios. 
 
 $
 \begin{aligned}
-\text{Total cost}            &= \text{Count of pupils} \times \text{Cost per frame} \\\\\
-                             &= 24 \times 3.75 \\\\
-                             &= \pounds  90
+1  \text{ lollipop}                 &: \pounds 1.25 \\\\
+1 \times 46  \text{ lollipops}         &: \pounds 1.25 \times 46 \\\\
+46  \text{ lollipops}                 &: \pounds 57.50
 \end{aligned}
 $
 
@@ -312,13 +260,13 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds  90$
+$\pounds 57.50$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -482,6 +430,57 @@ $138$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>3C95D06E-7409-49E6-A01C-9229FC71E90B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Chocolate bars are packed in boxes of $36$.
+
+A shop buys $14$ boxes.
+
+How many chocolate bars are in $14$ boxes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, chocolate bar in a box $= 36$. So,
+
+$
+\begin{aligned}
+\text{chocolate bar in 14 boxes} &= 36 \times 14 \\\\
+                                 &= 504
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$504$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>55B8B2F1-C1CC-4DD0-BDF6-5C287D5A33FF</p>
@@ -541,104 +540,6 @@ $151 \ \text {years}$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>66B16F07-8FF6-4E55-BA74-5529DF432D2B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On $1 \text{st}$ January $2006$ my grandmother was $80$ years old. Her daughter was $40$ years old on $1 \ \text{st}$ January $1994$. 
-How old was my grandmother when her daughter was born?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Grandmother's age} &= 80 - 52 \\\\
-                          &= 28
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$28$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>16D089A8-F897-466C-A647-02A29D9F4503</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If a basketball weighs $300 \ \text{g}$ plus half its own weight, how much does it weigh?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Weight of the basketball} &= 300 + \dfrac {1} {2} \times 300 \\\\
-                                 &= 300 + \dfrac {300} {2} \\\\
-                                 &= 300 + \dfrac {150 \times 2} {2} \\\\
-                                 &= 300 + \dfrac {150 \times \cancel {2}} {\cancel {2}} \\\\
-                                 &= 300 + 150 \\\\
-                                 &= 450 \ \text{g}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$450 \ \text{g}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -793,7 +694,7 @@ There are $0.91\ \text{metres}$ in $1  \ \text{yard}$. How many metres are there
 $
 \begin{aligned}
 \text{Total yards} &= 0.075 \times 0.91 \\\\
-                   &= 0.06825 \ \text{yards}
+                   &= 0.06825 \ \text{metres}
 \end{aligned}
 $
 
@@ -802,7 +703,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.06825 \ \text{yards}$
+$0.06825 \ \text{metres}$
 
 </div>
 </div>
@@ -902,7 +803,7 @@ $
                             &= \dfrac {84} {100} \times 730 \\\\
                             &= \dfrac {84 \times 730} {100} \\\\
                             &= \dfrac {61320} {100} \\\\
-                            &= 613.2 \\\\
+                            &= 613.2
 \end{aligned}
 $
 
@@ -1101,15 +1002,12 @@ $33.6 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>F858D0CE-F0D7-4B18-A22D-210D8F94DE51</p>
+<p>4BE31404-8368-4FC0-AD60-34110662E9C4</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tage
-</li>
 <li>
 tsimpleword
 </li>
@@ -1117,21 +1015,20 @@ tsimpleword
 </div>
 <div class='question question'>
 
-Becky is $10 \dfrac{1}{2} \ \text{years}$ old.
-
-Her brother is exactly $1 \ \text{year}$ and $8 \ \text{months}$ younger than Becky.
-
-How old is her brother?
+A hospital nurse earns $\pounds 23080$ a year. Work out the annual salary of a consultant who earns four times 
+as much as a nurse.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Brother's age} &= 10 \dfrac {1} {2} \ \text {years} - 1 \ \text {years} \ 8 \ \text {months} \\\\
-                     &= 10 \ \text{years} \ 6 \ \text{months} - 1 \ \text{years} \ 8 \ \text{months} \\\\
-                     &= 8 \ \text{years} \ 10 \ \text{months}
+\text {Annual salary of a consultant } &= 4 \times \text{Annual salary of a nurse} \\\\
+                                       &= 4 \times \pounds 23080 \\\\
+                                       &= \pounds 92320
 \end{aligned}
 $
 
@@ -1140,16 +1037,16 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8 \ \text{years} \ 10 \ \text{months}$
+$\pounds 92320$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

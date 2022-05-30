@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1147,13 +1147,7 @@ $64$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -1346,13 +1340,7 @@ $\text{different} \ \ \boxed{\times}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
+tprofit
 </li>
 </ul>
 </div>
@@ -1701,10 +1689,7 @@ $=17500 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>

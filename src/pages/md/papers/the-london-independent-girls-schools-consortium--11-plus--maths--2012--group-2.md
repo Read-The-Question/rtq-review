@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -116,9 +116,6 @@ $8072$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -460,7 +457,7 @@ $20.3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>45A231A8-13FE-4D37-B71A-F07B391EDE00</p>
 </div>
@@ -508,7 +505,7 @@ $54$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -564,7 +561,7 @@ $0.06, \ 0.09$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>5702F561-6E2E-4760-BBD8-682C0DF387A6</p>
 </div>
@@ -601,7 +598,7 @@ $2.203, \quad 2.23, \quad 2.3, \quad 2.303$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -772,10 +769,7 @@ $152$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -857,7 +851,9 @@ $
 \begin{aligned}
 \text {Change received} &= 10 - 4 \times 2.47 \\\\
                         &= 10 - 9.88 \\\\
-                        &= \pounds 0.12
+                        &= \pounds 0.12 \\\\
+                        &= 0.12 \times 100 \text{p} \\\\
+                        &= 12 \text{p}
 \end{aligned}
 $
 
@@ -866,7 +862,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.12$
+$12 \text{p}$
 
 </div>
 </div>
@@ -1463,7 +1459,7 @@ $19$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F858D0CE-F0D7-4B18-A22D-210D8F94DE51</p>
 </div>
@@ -1511,7 +1507,7 @@ $8 \ \text{years} \ 10 \ \text{months}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1573,7 +1569,7 @@ $2 \ \text{hours} \ 49 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BFF5A30A-4A5A-4A25-AA76-D4DAB5685C90</p>
 </div>
@@ -1768,7 +1764,7 @@ $45 \ \text{grams}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1825,7 +1821,7 @@ $1105$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D6AD42BC-5CD5-4B55-896E-3EA20629FF0F</p>
 </div>
@@ -2030,7 +2026,7 @@ $71$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -4028,7 +4024,7 @@ j                       &= 13
 \end{aligned}
 $
 
-Jumpers hung = Shirts hung $= 13$
+Jumpers hung $=$ Shirts hung $= 13$
 
 </div>
 </div>

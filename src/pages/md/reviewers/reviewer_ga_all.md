@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ga-all"
 title: "Reviewer - Gifty Abhishek - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -35,15 +35,14 @@ Calculate the area of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-as per the question'
+As per the question,
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
 
 $
 \begin{aligned}
-\text{Length of rectangle} &= 12 \ \text{cm} \\\\
-\text{Breadth of rectangle} &= 8 \ \text{cm} \\\\
-\text{Area of rectangle} &= \text{Length} \times \text{Breadth} \\\\
 &= 12 \times 8 \\\\
-&= 96 \ \text{cm}^2 \\\\
+&= 96 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -100,12 +99,12 @@ Find $30 \%$ of $120$
 
 $
 \begin{aligned}
-&=  30\% \ \text{of} \ 120 \\\\
-&=  \dfrac{30}{100} \times 120 \\\\
-&=  \dfrac{30 \times 120}{100} \\\\
-&=  \dfrac{3600}{100} \\\\
-&=  \dfrac{36 \times \cancel{100}} {1 \cancel{100}} \\\\
-&=  36
+&=   30\% \ \text{of} \ 120 \\\\
+&=   \dfrac{30}{100} \times 120 \\\\
+&=   \dfrac{30 \times 120}{100} \\\\
+&=   \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
+&=   3  \times 12  \\\\
+&=   36
 \end{aligned}
 $
 
@@ -162,17 +161,13 @@ $0.0073   \quad 0.073  \quad 0.008   \quad 0.7098   \quad 0.7$
 <div class='workings'>
 <div class='working'>
 
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
+As per the question,
 
-In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
-$0.0073, \quad 0.073, \quad 0.008, \quad 0.7098, \quad 0.7$
-
-Let's put them in ascending order.
+Let's arrange the given numbers in ascending order.
 
 $0.0073, \quad 0.008, \quad 0.073, \quad 0.7, \quad 0.7098$
 
-The  largest number  $= 0.7098$. 
+The  largest value  $= 0.7098$. 
 
 
 </div>
@@ -227,15 +222,13 @@ Calculate the angle marked with the letter $a$.
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a$
-
 As we know, the sum of angles on a straight line is $180 \degree$. 
 
 As per the diagram,
 
 $
 \begin{aligned}
-a + 44     &= 180  \\\\
+44 + a     &= 180  \\\\
 a          &= 180 - 44 \\\\
 a          &= 136 \degree
 \end{aligned}
@@ -249,7 +242,7 @@ $
 </div>
 <div class='answer'>
 
-$136$
+$136 \degree$
 
 </div>
 </div>
@@ -270,13 +263,7 @@ $136$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -296,14 +283,18 @@ $$560 \div \boxed{ \phantom{70} } = 8$$
 <div class='workings'>
 <div class='working'>
 
+Let the missing number be $= a$
+
+As per the question
+
 $
 \begin{aligned}
-\text{let the missing number} &= a \\\\
-\dfrac{560}{a} &= 8 \\\\
-a &= \dfrac{560}{8} \\\\
-a &= \dfrac{70 \times 8}{8} \\\\
-a &= \dfrac{70 \times \cancel 8}{\cancel 8} \\\\
-a &= 70
+560 \div \boxed{a} &= 8 \\\\
+\dfrac{560}{a}     &= 8 \\\\
+a                  &= \dfrac{560}{8} \\\\
+a                  &= \dfrac{70 \times 8}{8} \\\\
+a                  &= \dfrac{70 \times \cancel{8}}{\cancel{8}} \\\\
+a                  &= 70
 \end{aligned}
 $
 
@@ -362,7 +353,7 @@ $
 &= 0.76 \\\\
 &=  \dfrac{76}{100} \\\\
 &=  \dfrac{19 \times 4}{25 \times 4} \\\\
-&=  \dfrac{19 \times \cancel 4}{25 \times \cancel 4} \\\\
+&=  \dfrac{19 \times \cancel{4}}{25 \times \cancel{4}} \\\\
 &=  \dfrac{19}{25}
 \end{aligned}
 $
@@ -396,9 +387,6 @@ $\dfrac{19}{25}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -419,16 +407,19 @@ The local bakery sells muffins at $85 \text{p}$ each. I have $\pounds 15$ to spe
 
 As per the question,
 
+Let the number of muffins I can buy be $=a$
+
 $
 \begin{aligned}
-\text{Let the cost of 'a' muffins} &= \pounds 1500 \\\\
-85 \times a &= 1500 \\\\
-a &= \dfrac{1500}{85} \\\\
-a &= \dfrac{5 \times 300}{5 \times 17} \\\\
-a &= \dfrac{\cancel 5 \times 300}{\cancel 5 \times 17} \\\\
-a &= \dfrac{300}{17} \\\\
-a &= 17.6 \approx 17 \\\\
-a &= 17
+\text{Cost of each muffin} \times {Number of muffins I can buy}  &= {Total Money I have} \\\\
+85 \times a                                                      &= \pounds 15   \\\\\
+85 \times a                                                      &= 1500 \text{pence} \\\\
+a                                                                &= \dfrac{1500}{85} \\\\
+a                                                                &= \dfrac{300 \times 5}{17 \times 5} \\\\
+a                                                                &= \dfrac{300 \times \cancel{5}}{17 \times \cancel{5}} \\\\
+a                                                                &= \dfrac{300}{17} \\\\
+a                                                                &= 17 \dfrac {11} {17} \\\\
+a                                                                &= \approx 17
 \end{aligned}
 $
 
@@ -482,14 +473,18 @@ What is two-fifths of $45$?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{the two-fifth of} \ 45 \\\\
-&=  \dfrac{2 \times 45}{5} \\\\
-&=  \dfrac{90}{5} \\\\
-&=  \dfrac{18 \times 5}{5} \\\\
-&=  \dfrac{18 \times \cancel 5}{\cancel 5} \\\\
-&=  18
+&= \text{the two-fifth of} \ 45 \\\\
+&= \dfrac{2}{5} \text{of} \ 45 \\\\
+&= \dfrac{2}{5} \times 45 \\\\
+&= \dfrac{2 \times 45}{5} \\\\
+&= \dfrac{2 \times 9 \times 5}{5} \\\\
+&= \dfrac{2 \times 9 \times \cancel{5}}{\cancel{5}} \\\\
+&= 2 \times 9 \\\\
+&= 18
 \end{aligned}
 $
 
@@ -543,6 +538,7 @@ Find the value of $59.9 + 28.6$
 <div class='workings'>
 <div class='working'>
 
+Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
@@ -605,25 +601,18 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <div class='workings'>
 <div class='working'>
 
+Area of parallelogram = Base $\times$ Height.
 
-The area of parallelogram $= 38 \ \text{cm}^2$
-
-Breadth of parallelogram $= 4 \ \text{cm}$
-
-Let length of parallelogram be 'a'
-
-Area of parallelogram = Length \times Breadth.
-
-$38 = 4 \times$ a
-
-a $= \dfrac{38}{4}$
-
-a $= \dfrac{4 \times 9.5}{4}$
-
-a $= \dfrac{\cancel 4 \times 9.5}{\cancel4}$
-
-a $= 9.5 \ \text{cm}$
-
+$
+\begin{aligned}
+\text{Base} \times \text{Height}        &= \text{Area of parallelogram} \\\\
+\text{Base} \times 4                    &= 38 \\\\
+\text{Base}                             &= \dfrac{38}{4} \\\\
+\text{Base}                             &= \dfrac{4 \times 9.5}{4} \\\\
+\text{Base}                             &= \dfrac{\cancel 4 \times 9.5}{\cancel4} \\\\
+\text{Base}                             &= 9.5 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -681,9 +670,9 @@ $
 \begin{aligned}
 &=  340 \ \text{millimetres} \\\\
 &=  \dfrac{340}{1000} \\\\
-&=  \dfrac{34 \cancel 0}{100 \cancel 0} \\\\
+&=  \dfrac{34 \cancel {0}}{100 \cancel {0}} \\\\
 &=  \dfrac{34}{100} \\\\
-&=  0.34 \ \text{m}
+&=  0.34 \text{m}
 \end{aligned}
 $
 
@@ -695,7 +684,7 @@ $
 </div>
 <div class='answer'>
 
-$0.034 \ \text{m}$
+$0.034 \text{m}$
 
 </div>
 </div>
@@ -737,21 +726,19 @@ I think of a number, multiply by $2$ and add $5$. The answer is $19$. What was t
 <div class='workings'>
 <div class='working'>
 
-As per thw question,
+Let the number I am thinking of $= a$
 
-Let the number be 'a'
+As per the question,
 
 $
 \begin{aligned}
-\text{Multiplying 'a' with } \ 2 &= 2 \times a \\\\
-\text{Adding} \  5  \ \text{to}  \ 2 \times a &= 2 \times a + 5 \\\\
-2 \times a + 5 &= 19 \\\\
+a \times 2 + 5 &= 19 \\\\
 2a + 5         &= 19 \\\\
 2a             &= 19 - 5 \\\\
 2a             &= 14 \\\\
 a              &= \dfrac{14}{2} \\\\
 a              &= \dfrac{7 \times 2}{2} \\\\
-a              &= \dfrac{7 \times \cancel 2}{\cancel 2} \\\\
+a              &= \dfrac{7 \times \cancel{2}}{\cancel{2}} \\\\
 a              &= 7
 \end{aligned}
 $
@@ -785,10 +772,7 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -808,16 +792,14 @@ Pens cost $35 \text{p}$ each. How much money will a box of $25$ pens cost?
 
 It is really important to use the right units in calculations and convert where required.
 
-As per the question
+As per the question,
 
 $
 \begin{aligned}
-\text{Cost of each pen} &= 35 \text{p} \\\\
-\text{Cost o}f 25 \text{pen} &= 25 \times \text{The Cost of each pen} \\\\
-&= 25 \times 35 \\\\
-&= 875  \text{p} \\\\
-&= \dfrac{875}{100} \\\\
-&= \pounds 8.75
+\text{Cost of} 25 \text{pens}  &= 25 \times \text{The Cost of each pen} \\\\
+                               &= 25 \times 35 \\\\
+                               &= 875  \text{p} \\\\
+                               &= \pounds 8.75
 \end{aligned}
 $
 
@@ -872,18 +854,16 @@ What time do I get to school?
 <div class='workings'>
 <div class='working'>
 
-Time of leaving home $= 7.35 \ \text{am}$
-
-Time take to go to school  $= 42 \ \text{minutes}$
+As per the question,
 
 $
 \begin{aligned}
-\text{Time of leaving home} &= 7.35 \ \text{am} \\\\
-\text{Time take to go to school}  &= 42 \ \text{minutes} \\\\
-\text{reached to school} &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
-&=  7 \ \text{hr} \ 60 \ \text{mins} + 17 \ \text{mins} \\\\
-&= 8 \ \text{hr} +  17 \ \text{mins} \\\\
-&= 8.17 \ \text{am}
+\text{Time I reach school} &= \text{Time I leave home} + \text{Time takes to reach school} \\\\
+                           &= 7{:}35 + 42 \ \text{mins} \\\\
+                           &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
+                           &= 7 \ \text{hr} \ 60 \ \text{mins} + 17 \ \text{mins} \\\\
+                           &= 8 \ \text{hr} +  17 \ \text{mins} \\\\
+                           &= 8{:}17 \ \text{am}
 \end{aligned}
 $
 
@@ -895,7 +875,7 @@ $
 </div>
 <div class='answer'>
 
-$8.17 \ \text{am}$
+$8{:}17 \ \text{am}$
 
 </div>
 </div>
@@ -943,18 +923,30 @@ What amount will Alex have to pay for his new phone?
 
 As per the question,
 
+Let's calculate discount price
+
 $
 \begin{aligned} 
-\text{Cost of new mobile} &= \pounds 150 \\\\
-\text{Discount percentage} &= 20\% \\\\
-\text{Discount price} &=  \dfrac{20}{100} \times 150 \\\\
-&= \dfrac{3000}{100} \\\\
-&= \dfrac{30\cancel{0} \cancel 0}{1\cancel{00}} \\\\
-&= \pounds 30 \\\\
-\text{Amount alex paid} &= \pounds 150 - \pounds 30  \\\\
-&= \pounds 120.00
+\text{Discount price}   &=  \text{Cost of new mobile} \times \text{Discount Percentage} \\\\
+                        &=  150 \times 20\% \\\\
+                        &=  150  \times  \dfrac{20}{100} \\\\
+                        &=  \dfrac{150 \times 20}{100} \\\\
+                        &=  \dfrac{15 \cancel{0} \times 2 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
+                        &=  15 \times 2 \\\\
+                        &=  \pounds 30
 \end{aligned}
 $
+
+Let's calculate amount Alex have to pay
+
+$
+\begin{aligned} 
+\text{Amount Alex have to pay}     &= \text{Cost of new mobile} - \text{Discount price} \\\\
+                                   &= \pounds 150 - \pounds 30  \\\\
+                                   &= \pounds 120.00
+\end{aligned}
+$
+
 
 </div>
 </div>
@@ -1034,13 +1026,14 @@ Find the area of the house.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+As per the diagram,
 
 $
 \begin{aligned} 
-\text{The house can be divided into} \  2  \ \text{rectangle} &= 20 \times 7  + 12 \times 11 \\\\
-&= 140 + 132 \\\\
-&= 272 \ \text{m}^2
+\text{The house can be divided into} \  2  \ \text{rectangles} &= 20 \times 7  + (20 - 8) \times (18 - 7) \\\\
+                                                               &= 20 \times 7  + 12 \times 11 \\\\
+                                                               &= 140 + 132 \\\\
+                                                               &= 272 \text{m}^2
 \end{aligned}
 $
 
@@ -1052,7 +1045,7 @@ $
 </div>
 <div class='answer'>
 
-$272 \ \text{m}^2$
+$272 \text{m}^2$
 
 </div>
 </div>
@@ -1079,12 +1072,22 @@ Find the area of the garden.
 <div class='workings'>
 <div class='working'>
 
+Let's  calculate Total area of Garden and house,
+
 $
 \begin{aligned} 
 \text{Area of Garden and house} &= 20 \times 40 \\\\
-&= 800 \ \text{m}^2 \\\\
-\text{Area of Garden} = 800 - 272 \\\\
-&= 528 \ \text{m}^2 \\\\
+                                &= 800 \text{m}^2
+\end{aligned}
+$
+
+Let's  calculate area of Garden,
+
+$
+\begin{aligned} 
+\text{Area(garden)} &= \text{Total area of Garden and house} - \text{Area(house)}  \\\\
+                    &= 800 - 272 \\\\
+                    &= 528 \text{m}^2
 \end{aligned}
 $
 
@@ -1096,7 +1099,7 @@ $
 </div>
 <div class='answer'>
 
-$528  \ \text{m}^2$
+$528 \text{m}^2$
 
 </div>
 </div>
@@ -1104,66 +1107,6 @@ $528  \ \text{m}^2$
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>C2CBB803-CAE6-49B9-ADCD-2636CA8618C1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$4d + 7e - d + 2e =$
-
-- $3d - 9e$
-- $12de$
-- $4d - 9e$
-- $3d + 9e$
-- $5d - 9e$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned} 
-&=  4d + 7e - d + 2e \\\\
-&=  4d -d + 7e + 2e \\\\
-&=  3d + 9e
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-$3d + 9e$
-
-</div>
-</div>
-
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1209,13 +1152,13 @@ $
 {}\times              & 2     & 6     \\
 \hline 
                 1     & 9     & 2     \\
-                4     & 6     & 0     \\
+                6     & 4     & 0     \\
 \hline 
                 8     & 3     & 2     \\
 \end{array}
 $
 
-Between the two numbers, the total number of digits after the decimal point is three.
+Between the two numbers, the total number of digits after the decimal point is two.
 
 Let's account for the decimal point now. 
 
@@ -1273,8 +1216,12 @@ Write three-fifths as a percentage.
 
 $
 \begin{aligned}
-\text{three-fifths as a percentage} &= \dfrac{3}{5} \times \dfrac{20}{20} \\\\
-&= \dfrac{60}{100} \\\\
+&= \text{three-fifths as a percentage} \\\\
+&= \dfrac{3}{5} \times 100 \% \\\\
+&= \dfrac{3 \times 100}{5} \\\\
+&= \dfrac{3 \times 20 \times 5}{5} \\\\
+&= \dfrac{3 \times 20 \times \cancel{5}}{\cancel{5}} \\\\
+&= 3 \times 20 \\\\
 &= 60\%
 \end{aligned}
 $
@@ -1333,13 +1280,10 @@ Work out the value of $C$ when $W = 3$ and $A = -1$
 
 As per the question,
 
-the value of $C$ when $W = 3$ and $A = -1$
-
 $
 \begin{aligned}
 C &=  5W +10A \\\\
   &=  5(3) + 10(-1) \\\\
-  &=  5 \times 3  + 10 \times -1 \\\\
   &=  15 - 10 \\\\
   &=  5
 \end{aligned}
@@ -1398,8 +1342,9 @@ $\dfrac{2}{5} + \dfrac{3}{5} - \dfrac{1}{10}$
 $
 \begin{aligned}
 &=  \dfrac{2}{5} + \dfrac{3}{5} - \dfrac{1}{10} \\\\
-&=   \dfrac{5}{5} - \dfrac{1}{10} \\\\
-&=   \dfrac{10-1}{10} \\\\
+&=  \dfrac{2 \times 2}{5 \times 2 } + \dfrac{3 \times 2}{5 \times 2 } - \dfrac{1}{10} \\\\
+&=  \dfrac{4}{10} + \dfrac{6}{10} - \dfrac{1}{10} \\\\
+&=  \dfrac{4 + 6 - 1} {10} \\\\
 &=   \dfrac{9}{10}
 \end{aligned}
 $
@@ -1671,16 +1616,16 @@ As per the question and options given ,
 
 $
 \begin{aligned}
-33 \times 67 &= 2,211 \\\\
-\text{so option L is wrong} \\\\
-29 \times 17 &= 493 \\\\
-\text{so option M is wrong} \\\\
-25 \times 4 &= 100 \\\\
-\text{so option N is correct} \\\\
-50 \times 2 &= 100 \\\\
-\text{so option P is wrong} \\\\
-11 \times 9 &= 99 \\\\
-\text{so option Q is wrong} \\\\
+33 \times 67 &= 2,211 \\
+             &= \text{so option L is wrong} \\\\
+29 \times 17 &= 493 \\
+             &= \text{so option M is wrong} \\\\
+25 \times 4  &= 100 \\
+             &= \text{so option N is correct} \\\\
+50 \times 2  &= 100 \\
+             &= \text{so option P is wrong} \\\\
+11 \times 9  &= 99 \\
+             &= \text{so option Q is wrong}
 \end{aligned}
 $
 
@@ -1739,16 +1684,16 @@ As per the question and options given ,
 
 $
 \begin{aligned}
-100 \times 10 &= 1000 \\\\
-\text{so option R is wrong} \\\\
-47 \times 53 &= 2491 \\\\
-\text{so option S is wrong} \\\\
-125 \times 8 &= 1000 \\\\
-\text{so option T is correct} \\\\
-99 \times 111 &= 999 \\\\
-\text{so option U is wrong} \\\\
-25 \times 14 &= 350\\\\
-\text{so option V is wrong} \\\\
+100 \times 10 &= 1000 \\
+              &= \text{so option R is wrong} \\\\
+47 \times 53  &= 2491 \\
+              &= \text{so option S is wrong} \\\\
+125 \times 8  &= 1000 \\
+              &= \text{so option T is correct} \\\\
+99 \times 111 &= 999 \\
+              &= \text{so option U is wrong} \\\\
+25 \times 14  &= 350\\
+              &= \text{so option V is wrong} 
 \end{aligned}
 $
 
@@ -1814,17 +1759,31 @@ Number of rows $= 3$
 
 Then total cubes in $3$ rows $= 9 \times 3$
 
-$=21$
+$=27$
+
+</div>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of cubes} &= \dfrac {\text{Volume of bigger cube}} {\text{Volume of smaller cude}}  \\\\
+                       &= \dfrac{3 \times 3 \times 3}{1 \times 1 \times 1} \\\\
+                       &= 27
+
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='option'>
-<p>A</p>
+<p>B</p>
 </div>
 <div class='answer'>
 
-$21$
+$27$
 
 </div>
 </div>
@@ -1868,7 +1827,11 @@ If the bigger cube is painted red all over, how many small cubes will have three
 
 As per the question,
 
-The $8$ cubes will have $3$ red faces.
+If the bigger cube is painted red all over
+
+then, only the corner smaller cubes can have three red faces
+
+The $8$ small cubes will have $3$ red faces.
 
 </div>
 </div>
@@ -1921,6 +1884,10 @@ How many small cubes share a face with exactly $5$ other small cubes?
 <div class='working'>
 
 As per the question,
+
+only center small cube on the face of bigger cube shares a a face with exactly $5$ other small cubes
+
+number of faces on bigger cube is $6$      
 
 The $6$ small cubes share a faces with exactly $5$ other small cubes.
 
@@ -1976,17 +1943,17 @@ How many of small cubes share a face with exactly $2$ other small cubes?
 
 As per the question,
 
-The $3$ small cubes share a faces with exactly $2$ other small cubes.
+The $0$ small cubes share a faces with exactly $2$ other small cubes.
 
 </div>
 </div>
 <div class='answers'>
 <div class='option'>
-<p>U</p>
+<p>T</p>
 </div>
 <div class='answer'>
 
-$3$
+$0$
 
 </div>
 </div>
@@ -2042,9 +2009,8 @@ $\text{Perimeter} = 4 \times \text{side})$
 $
 \begin{aligned}
 \text{perimeter of square} &= 4 \times (14 + 6) \\\\
-&= 4 \times 20 \\\\
-&= 80 \ \text{cm}^2
-\end{aligned}
+                           &= 4 \times 20 \\\\
+                           &= 80 \ \text{cm}
 $
 
 </div>
@@ -2102,8 +2068,8 @@ As per the question,
 $
 \begin{aligned}
 \text{Area of the shaded inner square} &= \text{side} \times \text{side} \\\\
-&= 8 \times 8 \\\\
-&= 64 \ \text{cm}^2
+                                       &= 8 \times 8 \\\\
+                                       &= 64 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -2164,9 +2130,9 @@ How many routes are there from $B$ to $C$?
 <div class='workings'>
 <div class='working'>
 
-As per the figure,
+As per the diagram,
 
-There are $3$ number of routes there from A to B. 
+There are $3$  routes from $B$ to $C$.
 
 </div>
 </div>
@@ -2220,7 +2186,7 @@ How many routes are there from $A$ to $C$, via $B$?
 
 As per the figure,
 
-$8$ number of routes are there from A to C , via B.
+$8$  routes are there $A$ to $C$, via $B$.
 
 </div>
 </div>
@@ -2273,7 +2239,7 @@ As per the question,
 $
 \begin{aligned}
 a \times b          &= 36 \\\\
-a + b                 &= 15
+a + b               &= 15
 \end{aligned}
 $
 
@@ -2296,120 +2262,6 @@ A quick check shows that $3$ and $12$ meets all the criteria above.
 <div class='answer'>
 
 $3, 12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>80F59E43-EAF8-4829-9B47-980C2D298D21</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $\dfrac {2} {7}$ of $315$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {2} {7} \text { of } 315 \\\\
-&= \dfrac {2} {7} \times 315 \\\\
-&= \dfrac {2 \times 315} {7}   \\\\
-&= \dfrac {2 \times 45 \times 7} {7}   \\\\
-&= \dfrac {2 \times 45 \times \cancel{7}} {\cancel{7}}   \\\\
-&= 2 \times 45  \\\\
-&= 90
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>014D4DAF-E024-4E0F-B4D3-D05F245403AD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put the following numbers in order of size, starting with the smallest first:
-
-
-$3 \dfrac{1}{4}  \quad   3.34  \quad   3 \dfrac{3}{4}  \quad   3.025$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
-$
-\begin{aligned}
-&= 3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4},  \quad   3.025 \\\\
-&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025 \\\\
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 3.025,  \quad   3.25,  \quad   3.34,  \quad   3.75 \\\\
-&= 3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
 
 </div>
 </div>
@@ -2461,10 +2313,10 @@ $
 
 $
 \begin{aligned}
-\text{First number}       &= 9\dfrac{1}{2} + 1 \dfrac{1}{2} \\\\
-                                &= 11 \\\\
-\text{Second number}       &= 11 + 1 \dfrac{1}{2} \\\\
-                                &= 12 \dfrac{1}{2}
+\text{First missing number}       &= 9\dfrac{1}{2} + 1 \dfrac{1}{2} \\\\
+                                  &= 11 \\\\
+\text{Second missing number}      &= 11 + 1 \dfrac{1}{2} \\\\
+                                  &= 12 \dfrac{1}{2}
 \end{aligned}
 $
 
@@ -2498,6 +2350,9 @@ tunassigned
 </li>
 <li>
 tnumber
+</li>
+<li>
+tnoexpolational
 </li>
 </ul>
 </div>
@@ -2599,375 +2454,6 @@ $13587$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>DB37A9E8-364A-4029-98F4-5FC99CC173CC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%waffles%
-
-$3256 \div 4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 3256 \div 4 \\\\
-&= \dfrac{3256}{4} \\\\
-&= \dfrac{814 \times 4}{4} \\\\
-&= \dfrac{814 \times \cancel 4}{\cancel 4} \\\\
-&= 814
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$814$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>B5B49362-C409-4628-B777-B5B39EC20042</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What fraction of a minute is $40 \ \text{seconds}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-  
-There are $60 \ \text{seconds}$ in a minute, so
-
-$
-\begin{aligned}
-&= \dfrac{40}{60} \\\\
-&= \dfrac{20 \times 2}{20 \times 3} \\\\
-&= \dfrac{\cancel{20} \times 2}{\cancel{20} \times 3} \\\\
-&= \dfrac{2}{3}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{2}{3}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>53FB1D0A-B461-448E-853F-B08C8593DFC5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put the following fractions in order, starting with the smallest.
-
-$\dfrac{2}{3},  \quad \dfrac{3}{5},   \quad \dfrac{29}{45}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-Let's convert all the numbers into fractions.
-
-$
-\begin{aligned}
-&= \dfrac{2}{3},  \quad \dfrac{3}{5},   \quad \dfrac{29}{45} \\\\
-&= \dfrac{2 \times 15}{3 \times 15},  \quad \dfrac{3 \times 9}{5 \times 9},   \quad \dfrac{29}{45} \\\\
-&= \dfrac{30}{45},  \quad \dfrac{27}{45},   \quad \dfrac{29}{45}
-\end{aligned}
-$
-
-Now let's put them in ascending order.
-
-$
-\begin{aligned}
-&= \dfrac{27}{45},  \quad \dfrac{29}{45},   \quad \dfrac{30}{45} \\\\
-&= \dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3} 
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>14EFBA91-BE93-4FA7-9B60-535F8D09F894</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which is the smallest number?
-
-$0.54     \quad 0.092  \quad    0.635  \quad    0.3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the Question,
-
-$0.54, \quad 0.092, \quad 0.635, \quad 0.3$
-
-lets Arrange in ascending order.
-
-$0.092, \quad 0.3, \quad 0.54, \quad 0.635$
-
-The  smallest number is $= 0.092$. 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.092$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>3DF385B4-5156-45DC-9D90-AE1116381A25</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which number between $55$ and $65$ can be divided exactly by $9$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{aligned}
-\text{Let's find a multiple of} \  9 \  \text{between} \  55  \ \text{and} \  65 \\\\
-\text{The multiple of} \ 9  \ \text{are} \  9, 18, 27, 36, 45, 54, \bold {63}, 72, \dots \\\\
-&= 63
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$63$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>C8C3BB23-7980-4A19-8082-5F985DD48CAC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tlcm
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which number between $140$ and $170$ can be divided exactly by both $8$ and $9$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The LCM of $8$ and $9$ is $72$. 
-
-Now let's find a number that is a multiple of the LCM and is between $140$ and $170$.
-
-$72 \times 2 = 144$ is between $140$ and $170$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$144$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>DB188EF1-56DE-4E7B-9F6F-B9D010FD69AF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together the following numbers and write your answer in figures.
-
-$\text{nine million      \quad   eleven thousand \quad       twelve hundred     \quad   thirteen}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   9    &    0    &    0    &    0    &    0    &    0    &    0 \\
-     &       &         &    1    &    1    &    0    &    0    &    0 \\
-     &       &         &         &    1    &    2    &    0    &    0 \\
-{}+    &       &         &         &         &         &    1    &    3 \\
-\hline
-    &   9    &    0    &    1    &    2    &    2    &    1    &    3
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9012213$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
 <p>280A1E97-7786-4101-AFA7-0DE251344677</p>
 </div>
 <div class='topics'>
@@ -3002,9 +2488,9 @@ Total distance $=$ distance of Lisbon to Madrid +  distance of Madrid to Paris +
 $
 \begin{aligned}
 2730  \ \text{km} &= 638 \ \text{km} + a  \ \text{km} + 827  \ \text{km} \\\\
-2730 &= 1465 + a \\\\
-a &= 2730 - 1465 \\\\
-a &= 1265 \ \text{km}
+2730              &= 1465 + a \\\\
+a                 &= 2730 - 1465 \\\\
+a                 &= 1265 \ \text{km}
 \end{aligned}
 $
 

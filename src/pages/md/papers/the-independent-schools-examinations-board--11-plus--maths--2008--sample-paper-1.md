@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-1"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1677,16 +1677,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-tprobability
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -2826,16 +2820,10 @@ $\text {square}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tarea
 </li>
 <li>
 tperimeter
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>

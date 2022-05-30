@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-2"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-29 22:47:20
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>7CFBB3E2-4126-48CA-A265-D062FE8189AE</p>
 </div>
@@ -24,6 +24,9 @@ tunassigned
 </li>
 <li>
 ttime
+</li>
+<li>
+tcircle
 </li>
 </ul>
 </div>
@@ -45,12 +48,12 @@ How many seconds are there in four minutes?
 <div class='workings'>
 <div class='working'>
 
-1 minute $= 60 seconds
+1 minute $= 60$ seconds
 
 $
 \begin{aligned}
 &= 4 \times 60 \\\\
-&= 240 \ \text{seconds}
+&= 240 \ \text {seconds}
 \end{aligned}
 $
 
@@ -58,11 +61,11 @@ $
 </div>
 <div class='answers'>
 <div class='option'>
-<p>c</p>
+<p>D</p>
 </div>
 <div class='answer'>
 
-$4, 60, 460, 240, 3600$
+$240$
 
 </div>
 </div>
@@ -71,12 +74,12 @@ $4, 60, 460, 240, 3600$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>76567C03-AF5A-4917-9FAE-4EAFF191E689</p>
 </div>
@@ -107,7 +110,7 @@ Which of these fractions is equal to $0.3$?
 $
 \begin{aligned}
 &= 0.3 \\\\
-&= dfrac {0.3 \times 10} {10} \\\\
+&= \dfrac {0.3 \times 10} {10} \\\\
 &= \dfrac {3} {10}
 \end{aligned}
 $
@@ -120,7 +123,7 @@ $
 </div>
 <div class='answer'>
 
-$\dfrac{3} {10}, \dfrac{1}{3}, \dfrac{10}{3}, \dfrac{3}{1}, \dfrac{3}{6}$
+$\dfrac{3} {10}$
 
 </div>
 </div>
@@ -129,12 +132,12 @@ $\dfrac{3} {10}, \dfrac{1}{3}, \dfrac{10}{3}, \dfrac{3}{1}, \dfrac{3}{6}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>F6409296-091D-4E51-B3B1-7DF9D8DCC5CC</p>
 </div>
@@ -170,6 +173,9 @@ $0.07$
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
 <div class='answer'>
 
 $0.07$
@@ -181,12 +187,12 @@ $0.07$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>162AA59F-08CC-4B9C-8C47-3D255B74EFFE</p>
 </div>
@@ -226,11 +232,11 @@ $2500 \ \text{cm}$
 </div>
 <div class='answers'>
 <div class='option'>
-<p>D</p>
+<p>E</p>
 </div>
 <div class='answer'>
 
-$0.25 \ \text{cm}, 2.5 \ \text{cm}, 25 \ \text{cm}, 250 \ \text{cm}, 2500 \ \text{cm}$
+$2500 \ \text{cm}$
 
 </div>
 </div>
@@ -239,12 +245,12 @@ $0.25 \ \text{cm}, 2.5 \ \text{cm}, 25 \ \text{cm}, 250 \ \text{cm}, 2500 \ \tex
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>723278F6-68EA-4B8A-A325-641508B83065</p>
 </div>
@@ -290,7 +296,7 @@ $
 </div>
 <div class='answer'>
 
-$0, 4, 12, 24, 120$
+$24$
 
 </div>
 </div>
@@ -299,12 +305,12 @@ $0, 4, 12, 24, 120$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>53DC209F-8A5F-49BF-8896-B33B61A97645</p>
 </div>
@@ -332,9 +338,9 @@ Two of the angles in a triangle are $25 \degree$ and $107 \degree$. The third an
 <div class='workings'>
 <div class='working'>
 
-Let the third angle &= a& 
+Let the third angle $= a$
 
-As we know sum of all angles in a triangle is $180 \degree$ So,
+As we know sum of all angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
@@ -353,7 +359,7 @@ $
 </div>
 <div class='answer'>
 
-$28 \degree, 48 \degree, 68 \degree, 88 \degree, 180 \degree$
+$48 \degree$
 
 </div>
 </div>
@@ -362,7 +368,7 @@ $28 \degree, 48 \degree, 68 \degree, 88 \degree, 180 \degree$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -559,9 +565,6 @@ Five Tenths
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -2794,9 +2797,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

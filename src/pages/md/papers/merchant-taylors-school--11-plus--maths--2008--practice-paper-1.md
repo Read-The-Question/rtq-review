@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1137,17 +1137,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>51C00E11-4522-456E-9573-8B2298390591</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -1188,8 +1185,9 @@ $15$ computers
 
 $
 \begin{aligned}
-&= 15 \times 100 \\\\
-&= \pounds 1500
+&= 10000 + 15 \times 100 \\\\
+&= 10000 + 1500
+&= \pounds 11500
 \end{aligned}
 $
 
@@ -1198,7 +1196,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1500$
+$\pounds 11500$
 
 </div>
 </div>
@@ -1221,9 +1219,10 @@ How many computers does she sell if she earns $\pounds 12600$?
 
 $
 \begin{aligned}
-&= \dfrac {12600} {100} \\\\
-&= \dfrac {126 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 126 \text { computers}
+&= \dfrac {12600 - 10000} {100} \\\\
+&= \dfrac {2600} {100} \\\\
+&= \dfrac {26 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= 26 \ \text {computers}
 \end{aligned}
 $
 
@@ -1232,7 +1231,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$126 \text { computers}$
+$26 \ \text {computers}$
 
 </div>
 </div>
@@ -1244,7 +1243,7 @@ $126 \text { computers}$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1256,16 +1255,7 @@ $126 \text { computers}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunitprompt
+tnumber
 </li>
 </ul>
 </div>
@@ -1375,7 +1365,7 @@ $85 \ \text{centimeters}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8D9C54BC-6E17-4740-929F-C604E748B5B7</p>
 </div>
@@ -1474,12 +1464,12 @@ $120 \degree$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BB81BF83-EBB0-482C-B728-A09A6CBDE335</p>
 </div>
@@ -1533,7 +1523,7 @@ $
 \begin{aligned}
 \text {Area of shaded face} &= \text {length} \times \text {width} \\\\
                             &= 3 \times 6 \\\\
-                            &= 18 \text { cm}^2
+                            &= 18 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -1542,7 +1532,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$18 \text { cm}^2$
+$18 \ \text {cm}^2$
 
 </div>
 </div>
@@ -1568,7 +1558,7 @@ $
 \text {Total surface area} &= 2 \times \text {length} \times \text {width} + 2 \times \text {length} \times \text {height} + 2 \times \text {height} \times \text {width} \\\\
                            &= 2 \times 6 \times 10 + 2 \times 6 \times 3 + 2 \times 3 \times 10 \\\\
                            &= 120 + 36 + 60 \\\\
-                           &= 216 \text {cm}^2
+                           &= 216 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -1577,7 +1567,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$216 \text {cm}^2$
+$216 \ \text {cm}^2$
 
 </div>
 </div>
@@ -1589,7 +1579,7 @@ $216 \text {cm}^2$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1783,7 +1773,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2</p>
 </div>
@@ -1844,10 +1834,11 @@ $
                                                    &= \dfrac {9 \times 4 \times 4} {9 \times 3} \\\\
                                                    &= \dfrac {\cancel {9} \times 4 \times 4} {\cancel {9} \times 3} \\\\
                                                    &= \dfrac {16} {9} \\\\
-                                                   &= 5.3333 \\\\
-                                                   &= 5
+                                                   &= 5.3333
 \end{aligned}
 $
+
+Number of chocolates each student receive $= 5$
 
 </div>
 </div>
@@ -1900,7 +1891,7 @@ $9$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2218,7 +2209,7 @@ $- \dfrac {4} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6</p>
 </div>
@@ -2336,7 +2327,7 @@ $10$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2701,7 +2692,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A665B0B4-EBC8-4304-BDFA-28CF12D417AD</p>
 </div>
@@ -2773,14 +2764,19 @@ How many minutes should it take the train to travel from Wolverhampton to Milton
 <div class='workings'>
 <div class='working'>
 
-$1 \text { hour } 30 \text { minutes}$
+$
+\begin{aligned}
+\text{Time taken} &= 10{:}10 - 8{:}40 \\\\
+                  &= 1 \ \text {hour} \ 30 \ \text {minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \text { hour } 30 \text { minutes}$
+$1 \ \text {hour} \ 30 \ \text {minutes}$
 
 </div>
 </div>
@@ -2801,14 +2797,19 @@ If the train is $35 \ \text{minutes}$ late leaving Crewe, what time should it ar
 <div class='workings'>
 <div class='working'>
 
-$11:20$
+$
+\begin{aligned}
+\text{Arriving time} &= 10{:}45 + 35 \ \text{minutes} \\\\
+                     &= 11{:}20
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$11:20$
+$11{:}20$
 
 </div>
 </div>
@@ -2820,7 +2821,7 @@ $11:20$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2878,16 +2879,10 @@ $6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tprofit
 </li>
 </ul>
 </div>
@@ -3123,7 +3118,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>12BD4A22-072D-4543-95F1-81147B89584D</p>
 </div>
@@ -3237,7 +3232,7 @@ $- 18 \degree C$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3416,16 +3411,7 @@ $1537$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-peterborough-school-11-plus-maths-9999-sample-paper-1"
 title: "The Peterborough School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -426,18 +426,14 @@ $
 \end{aligned}
 $
 
-Answer : $\dfrac {1} {2}$ and $\dfrac {9} {18}$  and $\dfrac {2} {3}$ and $\dfrac {10} {15}$
-
-Odd one out : $ \dfrac {3} {5}$
+Odd one out : $\dfrac {3} {5}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {2}$ and $\dfrac {9} {18}$  and $\dfrac {2} {3}$ and $\dfrac {10} {15}$
-
-Odd one out : $ \dfrac {3} {5}$
+$\dfrac {3} {5}$
 
 </div>
 </div>
@@ -1652,7 +1648,7 @@ $7420$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>84995481-1A2F-4667-8846-F97B143D48F4</p>
 </div>
@@ -1705,29 +1701,25 @@ How many were given socks?
 
 Total socks = $45$,
 
-Fraction of teachers given socks = $\dfrac {4} {9}$
-
-Let's find how many teachers were given socks for Christmas
-
+Fraction of teachers given socks $= \dfrac {4} {9}$
+ 
 $
 \begin{aligned}
-&= \dfrac {4} {9} \times 45 \\\\
-&= \dfrac {4 \times 45} {9} \\\\
-&= \dfrac {4 \times 5 \times 9} {9} \\\\
-&= \dfrac {4 \times 5 \times \cancel {9}} {\cancel {9}} \\\\
-&= 4 \times 5
-&= 20 \text{teachers}
+\text {Teachers who were given socks}   &= \dfrac {4} {9} \times 45 \\\\
+                                        &= \dfrac {4 \times 45} {9} \\\\
+                                        &= \dfrac {4 \times 5 \times 9} {9} \\\\
+                                        &= \dfrac {4 \times 5 \times \cancel {9}} {\cancel {9}} \\\\
+                                        &= 4 \times 5 \\\\
+                                        &= 20 \ \text{teachers}
 \end{aligned}
 $
-
-Teachers who were given socks $=20$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20 teachers$
+$20$
 
 </div>
 </div>
@@ -1759,7 +1751,7 @@ $ \begin{aligned}
 &= 4 \  \text {teachers}
 \end{aligned}
 
-Teaachers who were given socks and tie $= 4$
+Teachers who were given socks and tie $= 4$
 
 </div>
 </div>
@@ -1778,7 +1770,7 @@ $4$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1790,13 +1782,7 @@ $4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-ttable
+tstatistics
 </li>
 </ul>
 </div>
@@ -2054,9 +2040,6 @@ $45$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttable
 </li>

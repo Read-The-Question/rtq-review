@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-pr"
 title: "Topic - Unitprompt - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-05-29 22:47:20
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -466,9 +463,6 @@ $6233 \ \text{g}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
@@ -518,172 +512,6 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>A08A53F2-4639-4CF6-B48B-30A2B0959606</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A twelve inch ruler is approximately $30 \ \text{cm}$ long. Use this fact to estimate each of the 
-following:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The number of centimetres in $4 \ \text{inches}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-12 \ \text{inches} & = 30 \ \text {cm} \\\\
-1 \ \text{inches}  & = \dfrac {30} {12} \\\\
-4 \ \text{inches}  & = \dfrac {30} {12} \times 4 \\\\
-                   & = \dfrac {30 \times 4} {12} \\\\
-                   & = \dfrac {6 \times 5 \times 2 \times 2} {6 \times 2} \\\\
-                   & = \dfrac {\cancel {6} \times 5 \times 2 \times \cancel {2}} {\cancel {6} \times \cancel {2} } \\\\
-                   & = 5 \times 2 \\\\
-                   & = 10 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The number of inches in $5 \ \text{centimetres}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-12 \ \text {inches}                           & = 30 \ \text {cm} \\\\\
-\dfrac {12} {6}                               & = \dfrac {30} {6} \\\\\
-\dfrac {2 \times 6} {6}                       & = \dfrac {5 \times 6} {6} \\\\\
-\dfrac {2 \times \cancel {6}} {\cancel {6}}   & = \dfrac {5 \times \cancel {6}} {\cancel {6}} \\\\\
-2 \ \text {inches}                            & = 5 \ \text {cm} \\\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \ \text{inches}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The number of centimetres in $9 \ \text{feet} 10 \ \text{inches}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-The measurement is given in multiple units and answer has to be in centimetres.
-
-$
-\begin{aligned}
-1 \ \text {feet}   & = 30 \ \text {cm} \\\\\
-1 \ \text {inches} & = 2.5 \ \text {cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-& = 9 \ \text{feet} 10 \ \text{inches} \\\\
-& = 9 \times 30 \ \text {cm} + 10 \times 2.5 \ \text {cm} \\\\
-& = 180 + 25 \\\\
-& = 295 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$295 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
 </div>
 </div>
 </li>
@@ -1074,15 +902,18 @@ $2400 \text{g}$
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
+<p>E41C3B84-B13C-4220-B083-2712C0B5265C</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
-tarea
+tmoney
+</li>
+<li>
+tcoin
 </li>
 <li>
 tunitprompt
@@ -1091,42 +922,43 @@ tunitprompt
 </div>
 <div class='question question'>
 
-$1 \ \text{foot}$ is equal to $12 \ \text{inches}$. 
-Paul tiles a wall which is $10 \ \text{feet}$ long 
-and $6 \ \text{feet}$ high. 
-He uses square tiles which are $8 \ \text{inches}$ long on 
-each side. How many tiles does he need to tile the wall?
+A sum of $90$ pence is made up of equal numbers of $1 \text{p}$ coins, $2 \text{p}$ coins, $5 \text{p}$ coins and $10 \text{p}$ coins. How many coins are there in total?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
-The wall measurement is given in feet while the tile measurement is given in inches.
+Let the count of coins of each denomination $= c$
 
-Let's convert the wall measurements into inches.
+As per the question,
 
 $
 \begin{aligned}
-\text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
-                        &= \dfrac {10 \ \text{feet} \times 6 \ \text{feet} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
-                        &= \dfrac {10 \times 12 \ \text{inches} \times 6 \times 12 \ \text{inches} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
-                        &= \dfrac {10 \times 12 \times 6 \times 12 } { 8 \times 8 } \\\\
-                        &= \dfrac {2 \times 5 \times 4 \times 3 \times 2 \times 3 \times 4 \times 3 } { 4 \times 2 \times 4 \times 2 } \\\\
-                        &= \dfrac {\cancel{2} \times 5 \times \cancel{4} \times 3 \times \cancel{2} \times 3 \times \cancel{4} \times 3 } { \cancel{4} \times \cancel{2} \times \cancel{4} \times \cancel{2} } \\\\
-                        &= 5 \times 3 \times 3 \times 3 \\\\
-                        &= 135
+1 \times c + 2 \times c + 5 \times c + 10 \times c       &= 90\\\\
+c + 2c + 5c + 10c                                        &= 90 \\\\
+18c                                                      &= 90 \\\\
+c                                                        &= \dfrac {90} {18} \\\\
+c                                                        &= \dfrac {5 \times 18} { 18} \\\\
+c                                                        &= \dfrac {5 \times \cancel{18}} { \cancel{18} } \\\\
+c                                                        &= 5
 \end{aligned}
 $
 
-Number of tiles $= 135$
+There are $5$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}     &=  5 \times 4  \\\\
+                       &= 20 \ \text{coins}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$135$
+$20 \ \text{coins}$
 
 </div>
 </div>
@@ -1164,6 +996,8 @@ of $15 \ \text{g}$ pieces.  How many pieces does he have?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
 
 $
@@ -1172,9 +1006,8 @@ $
                             &= \dfrac { 1.2 \ \text{kg} } { 15 \ \text{g}} \\\\
                             &= \dfrac { 1.2 \times 1000 \ \text{g} } { 15 \ \text{g}} \\\\
                             &= \dfrac { 1200 } { 15 } \\\\
-                            &= \dfrac { 3 \times 4 \times 5 \times 20 } { 3 \times 5 } \\\\
-                            &= \dfrac { \cancel{3} \times 4 \times \cancel{5} \times 20 } { \cancel{3} \times \cancel{5} } \\\\
-                            &= 4 \times 20 \\\\
+                            &= \dfrac {80 \times 15} {15} \\\\
+                            &= \dfrac {80 \times \cancel{15}} {\cancel{15}} \\\\
                             &= 80
 \end{aligned}
 $
@@ -1200,15 +1033,153 @@ $80$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>8BA1366E-EFBD-498C-A4B3-056CCEEA7FD8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Rachel buys three identical bags of sweets and five cans of drink, the total cost of these items came to $\pounds 4.90$. 
+Rosie buys just one bag of sweets and three cans of drink and pays $\pounds 2.70$.
+
+What is the cost of a bag of sweets?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of a bag of sweets (in $\text{pence}$) $= s$
+
+Let the cost of a can of drink (in $\text{pence}$) $= d$
+
+It is really important to use the right units in calculations and convert where required. Let's convert both the costs into pence.
+
+As per the question,
+
+$
+\begin{aligned} 
+3s + 5d &= 490 \\\\
+s + 3d &= 270
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+But which one should we eliminate? If we look at the question again, we only need the 
+cost for a bag of sweets, so let's eliminate $d$ so we can directly calculate the value for $s$.
+
+The LCM of $5$ and $3$ is $15$. Multiply the first equation by $3$ and the second equation by $5$ to make the coeifficent of $d$ the same.
+
+$
+\begin{aligned} 
+3 \times 3s + 3 \times 5d   &= 3 \times 490 \\\\
+5 \times  s + 5 \times 3d   &= 5 \times 270 \\\\
+9s + 15d                    &= 1470 \\\\
+5s + 15d                    &= 1350
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned} 
+9s + 15d -(5s + 15d)               &= 1470 - 1350 \\\\
+9s + 15d -5s - 15d                 &= 120 \\\\
+4s                                 &= 120 \\\\
+s                                  &= \dfrac{120}{4} \\\\
+s                                  &= 30 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bag of sweets $= 30 \ \text{pence}$.
+
+</div>
+<div class='working'>
+
+What if we eliminate $s$ instead?
+
+This approach is less efficient as we will have to calculate one extra value to get the answer.
+
+Let's eliminate to reduce it to just one variable. 
+
+Multiply the second equation by $3$.
+
+$
+\begin{aligned} 
+3 \times s + 3 \times 3d   &= 3 \times 270 \\\\
+3s + 9d                     &= 810
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned} 
+3s + 5d                     &= 490 \\\\
+3s + 9d                     &= 810 \\\\
+3s + 9d - (3s + 5d)         &= 810 - 490 \\\\
+3s + 9d -3s - 5d            &= 320 \\\\
+4d                          &= 320 \\\\
+d                           &= \dfrac {320} {4} \\\\
+d                           &= 80  \ \text{pence}
+\end{aligned}
+$
+
+Cost of a can of drink $= 80  \ \text{pence}$. 
+
+Let's substitute the value of $d$ in one of the initial equations to find the cost of a bag of sweets.
+
+$
+\begin{aligned} 
+3s + 5d             &= 490 \\\\
+3s + 5 \times 80    &= 490 \\\\
+3s + 400            &= 490 \\\\
+3s                  &= 490 - 400 \\\\
+3s                  &= 90 \\\\
+s                   &= \dfrac {90} {3}\\\\
+s                   &= 30 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bag of sweets $= 30 \ \text{pence}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \ \text{pence}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1347,7 +1318,7 @@ $45p$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>37279E76-7207-4B08-84B9-07B10F2972FD</p>
 </div>
@@ -1371,16 +1342,16 @@ Add together $3.7\, metres$ and $64\, cm$ and then subtract $2\, metres$ $7\,cm$
 
 It is really important to use the right units in calculations and convert where required. The measurement is given in meters and centimeteres but the answer has to be in meters.
 
-$1 \ \text{m} = 100 \text{cm} \\\\
-\dfrac {1} {100} \ \text{m} = 1 \text{cm}$
+$1 \ \text{m} = 100 \text{cm}$
+
+$\dfrac {1} {100} \ \text{m} = 1 \text{cm}$
 
 $
 \begin{aligned}
 &= 3.7 \ \text{m} + 64 \ \text{cm} - 2 \ \text {m} + 7 \ \text{cm}  \\\\
 &= 3.7 \ \text{m} + \dfrac {64} {100} \ \text{m} - 2 \ \text{m} + \dfrac {7} {100} \ \text{m} \\\\
-&= 3.7 \ \text{m} + 0.64 \text{m}  -  2 \text{m} + 0.07 \text{m} \\\\
+&= 3.7 \ \text{m} + 0.64 \ \text{m}  -  2 \ \text{m} + 0.07 \ \text{m} \\\\
 &= 4.34 \ \text{m} - 2.07 \ \text{m} \\\\
-&= 4.34 - 2.07 \text{m} \\\\
 &= 2.27 \ \text {m}
 \end{aligned}
 $
@@ -1399,7 +1370,7 @@ $2.27 \ \text{m}$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

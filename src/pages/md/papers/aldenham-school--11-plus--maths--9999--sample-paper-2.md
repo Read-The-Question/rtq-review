@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -344,20 +344,14 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>D8CD5DBE-7A2A-47CB-9D63-90512FB0BB7B</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -456,7 +450,7 @@ $\pounds 14.40$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -624,9 +618,6 @@ $0.4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -693,7 +684,7 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
@@ -738,9 +729,9 @@ Find the cost for $2$ adults and $4$ children to visit the theme park.
 $
 \begin{aligned}
 \text{Total cost} &= 2 \times \text{Adult} + 4 \times \text{Child}  \\\\
-&= 2 \times \pounds 6.25 + 4 \times \pounds 2.50 \\\\
-&= 12.5 + 10 \\\\
-&= \pounds 22.50
+                  &= 2 \times \pounds 6.25 + 4 \times \pounds 2.50 \\\\
+                  &= 12.5 + 10 \\\\
+                  &= \pounds 22.50
 \end{aligned}
 $
 
@@ -766,9 +757,9 @@ $\pounds 22.50$
 
 The entry prices for a group are
 
-|                  | Price             |
-|:-----------:    |:---------------------:|
-|   Adults       |   $\pounds 5.00$ each |
+|                  | Price                 |
+|:-----------:     |:---------------------:|
+|   Adults         |   $\pounds 5.00$ each |
 |   Children       |   $\pounds 3.00$ each |
  
 A group of adults and children goes to the theme park for a cost of $\pounds 44$.
@@ -788,10 +779,10 @@ $
 \begin{aligned}
 4 \times 5 + c \times 3       &= 44 \\\\
 20 + 3c                       &= 44 \\\\
-3c                           &= 44 - 20 \\\\
-3c                           &= 24 \\\\
-c                           &= \dfrac{24}{3} \\\\
-c                           &= 8
+3c                            &= 44 - 20 \\\\
+3c                            &= 24 \\\\
+c                             &= \dfrac {24} {3} \\\\
+c                             &= 8
 \end{aligned}
 $
 
@@ -819,7 +810,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>E719F44B-5B35-49B3-844A-3A6796E6666A</p>
 </div>
@@ -872,7 +863,7 @@ $67 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -883,9 +874,6 @@ $67 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1078,9 +1066,6 @@ $10  \ \text{kg}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1100,13 +1085,15 @@ How many of pupils in $7$S are boys with brown hair?
 
 As per the question,
 
+Let the number of  boys $= a$
+
 $
 \begin{aligned}
 \text{Number of boys}     &= a \\\\
-a                         &= \dfrac {2}{3} \times 24 \\\\
-a                         &= \dfrac {2 \times 24}{3} \\\\
-a                         &= \dfrac {2 \times 3 \times 8}{3} \\\\
-a                         &= \dfrac {2 \times \cancel{3} \times 8}{\cancel{3}} \\\\
+a                         &= \dfrac {2} {3} \times 24 \\\\
+a                         &= \dfrac {2 \times 24} {3} \\\\
+a                         &= \dfrac {2 \times 3 \times 8} {3} \\\\
+a                         &= \dfrac {2 \times \cancel{3} \times 8} {\cancel{3}} \\\\
 a                         &= 2 \times 8 \\\\
 a                         &= 16
 \end{aligned}
@@ -1114,8 +1101,8 @@ $
 
 $
 \begin{aligned}
-\text{Boys with brown hair}       &= &= \dfrac {1}{2} \times a\\\\
-                                  &= \dfrac {1}{2} \times 16 \\\\
+\text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\\\
+                                  &= \dfrac {1} {2} \times 16 \\\\
                                   &= 8
 \end{aligned}
 $
@@ -1750,7 +1737,7 @@ $61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is decreasing $8$. Hence, the sequence would be:
+The difference between the terms is decreasing  by $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1844,7 +1831,7 @@ $60, 7.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>DDD0AC6B-3CD4-48A3-A86A-6AEE1949B832</p>
 </div>
@@ -1895,7 +1882,7 @@ $140  \ \text{minutes}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -1907,16 +1894,10 @@ $140  \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
 tratio
-</li>
-<li>
-tvolume
 </li>
 </ul>
 </div>
@@ -1934,14 +1915,9 @@ It is really important to use the right units in calculations and convert where 
 
 $
 \begin{aligned}
-\text{Total water}  &= 5 \ \text{litres} \\\\
-                    &= 5 \times 1000 \ \text{ml} \\\\
-                    &= 5000 \ \text{ml}
-\end{aligned}
-$
-
-$
-\begin{aligned}
+\text{Total water}       &= 5 \ \text{litres} \\\\
+                         &= 5 \times 1000 \ \text{ml} \\\\
+                         &= 5000 \ \text{ml} \\\\
 \text{Number of glasses} &= \dfrac { \text{Total Water in cooler} } { \text{Water in a glass} } \\\\
                          &= \dfrac { 5000 } { 200 } \\\\
                          &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
@@ -2256,9 +2232,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2274,14 +2247,13 @@ Work out $235 \times 68$.
 $
 \begin{array}{cccccccccccccc}
          &      &       &       2       & 3     & 5     \\
-{}\times &      &       &               & 6     & 8     \\
+ &      &       &     {}\times          & 6     & 8     \\
 \hline 
          &       &  1    &       8       & 8     & 0     \\
          &  1    &  4    &       1       & 0     & 0     \\
 \hline
          &  1    &  5    &       9       & 8     & 0
 \end{array}
-
 $
 
 </div>
@@ -2442,13 +2414,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -2486,7 +2452,7 @@ Multiply the second equation by $2$.
 $
 \begin{aligned} 
 2 \times a + 2 \times 2b     &= 2 \times 135 \\\\
-2a + 4b                     &= 270
+2a + 4b                      &= 270
 \end{aligned}
 $
 
@@ -2495,10 +2461,10 @@ Subtract the first equation from the second to reduce it to one variable.
 $
 \begin{aligned} 
 2a + 4b - (2a + b)     &= 270 - 120 \\\\
-2a + 4b -2a  -b     &= 150 \\\\
-3b                    &= 150 \\\\
-b                   &= \dfrac {150} {3} \\\\
-b                   &= 50 \ \text{pence}
+2a + 4b -2a  -b        &= 150 \\\\
+3b                     &= 150 \\\\
+b                      &= \dfrac {150} {3} \\\\
+b                      &= 50 \ \text{pence}
 \end{aligned}
 $
 
@@ -2509,11 +2475,11 @@ Let's substitute the value of $b$ in one of the initial equations to find the co
 $
 \begin{aligned} 
 2a + b     &=  120 \\\\
-2a + 50 &=  120 \\\\
-2a      &=  120 - 50 \\\\
-2a      &=  70 \\\\
-a       &= \dfrac {70} {2} \\\\
-a       &= 35 \ \text{pence}
+2a + 50    &=  120 \\\\
+2a         &=  120 - 50 \\\\
+2a         &=  70 \\\\
+a          &= \dfrac {70} {2} \\\\
+a          &= 35 \ \text{pence}
 \end{aligned}
 $
 
@@ -2523,10 +2489,6 @@ $
 <div class='answer'>
 
 Apple $= 35 \ \text{pence}$
-
-</div>
-<div class='answer'>
-
 Banana $= 50 \ \text{pence}$
 
 </div>

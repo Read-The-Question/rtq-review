@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-notstarted"
 title: "Topic - Area - Not Started"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1005,12 +1005,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
 <li>
 tarea
 </li>
@@ -5207,12 +5201,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tarea
 </li>
 </ul>
@@ -5314,270 +5302,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-talgebra
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Tim is going paintballing. Entry into paintballing costs $\pounds 23$, but then you also have to pay $\pounds 6$ per $100$ paintballs that you use.
-
-Tim spent $\pounds 65$ in total. How many paintballs did he use?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Entry cost         = $\pounds 23
-Total cost         = $\pounds 65
-Cost of paintballs = Entry cost - Total cost
-Cost of paintballs = $\pounds 42
-
-100 paintballs     : $\pounds 6
-??? paintballs     : $\pounds 42
-100 x 7 paintballs : $\pounds 6 x 7
-700 paintballs     : $\pounds 42
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-700
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Janice is running a bath. She  mixes hot water with cold water to make sure the temperature is just right.
-
-She uses $5$ times more hot water than cold water. Janice's bath holds $90 \ \text{litres}$ of water in total. 
-How much hot water does she use?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let c represent cold water.
-
-Cold water  = c
-Hot water   = 5 x c
-Hot water   = 5c 
-Total water = $90 \ \text{l}$ 
-
-Total water = 5c + c
-            = 6c
-
-6c = $90 \ \text{l}$
-c  = $15 \ \text{l}$
-5c = $75 \ \text{l}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-75
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Bob the Builder is filling a hole with a mixture of gravel and sand.
-$234 \ \text{kg}$ of sand are needed to make $400 \ \text{kg}$ of the mixture.
-
-Bob makes $1000 \ \text{kg}$ of the mixture.
-
-How much **gravel** does Bob need?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$234 \ \text{kg}$ sand + gravel = $400 \ \text{kg}$ total mixture
-
-400 - $234 \ \text{kg}$ = $166 \ \text{kg}$ gravel
-
-$166 \ \text{kg}$ gravel        : $400 \ \text{kg}$ total mixture
-???kg gravel        : $1000 \ \text{kg}$ total mixture
-$166 \ \text{kg}$ / 400         : $400 \ \text{kg}$ / 400 
-$166 \ \text{kg}$ / 400 x 1000  : $400 \ \text{kg}$ / 400 x 1000 
-$415 \ \text{kg}$ gravel        : $1000 \ \text{kg}$ total mixture
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$415 \ \text{kg}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In the picture below, rectangle $A$ has an area  of $70 \ \text{cm}^2$, and rectangle $B$ has an area of $63 \ \text{cm}^2$. 
-The side lengths of the rectangles are whole numbers.
-
-The sides labelled $X$ and $Y$ are both longer than $1 \ \text{cm}$.
-
-![missing image](/papers/missing_image.svg)
-
-Find the lengths of the sides labelled $X$ and $Y$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Victoria the vet is weighing her pets.
-
-Her rabbit and her cat together weigh $10 \ \text{kg}$.
-
-Her cat and dog together weigh $24 \ \text{kg}$.
-
-Her dog and rabbit together weigh $20 \ \text{kg}$.
-
-How much do all $3$ of her pets weigh when weighed together?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>highgate-school--11-plus--maths--9999--sample-paper-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -7645,15 +7369,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunit
-</li>
-<li>
 tarea
 </li>
 </ul>
@@ -9055,12 +8770,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tarea
 </li>
 </ul>
@@ -9810,16 +9519,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tarea
 </li>
 <li>
 tperimeter
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>

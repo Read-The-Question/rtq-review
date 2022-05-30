@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-notstarted"
 title: "Topic - Unit - Not Started"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1468,69 +1468,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>royal-russell-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>00CCC3EA-C140-4A54-BC78-9715614128A9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunit
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mrs Suzie needs to cover a floor measuring $3\ \text{m}$ by $2\ \text{m}$. There are three possible options:
-
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
-
-Which option is the cheapest? Show all your workings & explain clearly. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
 <div class='papername'>
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1</p>
 </div>

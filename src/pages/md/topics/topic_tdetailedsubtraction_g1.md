@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedsubtraction-g1"
 title: "Topic - Detailedsubtraction - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -732,65 +732,6 @@ $3679$
 </div>
 <div class='rag'>
 <p>rag_as_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>AE91E319-28CD-4E72-BACB-3D5D6A529FA0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How much change would you get from $\pounds 10$ if you bought $7$ $\text{Chocco}^{\text{TM}}$ bars at $78 \text{p}$ each?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
-
-As per the question,
-
-$
-\begin{aligned} 
-\text {Cost of Chocco bars}          &= 7 \times 78 \ \text {p} \\\\
-                                     &= 7 \times \pounds \dfrac {78} {100} \\\\
-                                     &= 7 \times 0.78 \\\\
-                                     &= \pounds 5.46 \\\\
-\text {Change recieved}              &= 10 - 5.46 \\\\
-                                     &= \pounds 4.54
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4.54$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1873,61 +1814,6 @@ $696$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_g1 question'>
-<div class='uuid'>
-<p>5171E4DB-A0AE-48C2-A77F-6BE170E11A11</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$\pounds 1.28 - 57 \text{p}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-$
-\begin{array}{cccccccccccccc}
-&= \pounds1.28 - 57  \text{p} \\\\
-&= 128 \text{p}  - 57  \text{p} \\\\
-&= 71 \text{p} \\\\
-&= \pounds 0.71
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 0.71$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>371066A6-48F2-418D-82E0-9551FDF91DD2</p>
@@ -2379,9 +2265,9 @@ $6646$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_g1 question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
-<p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
+<p>AE182AEF-A433-4C74-A98A-5E3325141BC5</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2391,39 +2277,43 @@ tunassigned
 <li>
 tdetailedsubtraction
 </li>
-<li>
-tdetailedmultiplication
-</li>
 </ul>
 </div>
 <div class='question question'>
 
-Put the correct number in the empty box.
+%waffles%
 
-
-$\boxed { \phantom{20} } - 8 = 4 \times 3$
+$2605 - 832$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\boxed { \green{20} } - 8 = 4 \times 3$
+$
+\begin{array}{cccccccccccccc}
+    &   2   &   6   &   0   &   5 \\
+{}- &       &   8   &   3   &   2 \\
+\hline
+    &   1   &   7   &   7   &   3 \\
+\hline
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$1773$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g1</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2928,61 +2818,6 @@ $1686$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_g1 question'>
-<div class='uuid'>
-<p>C13D92E3-895B-4965-8831-8AD95CB87317</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the difference between the product of $4$ and $11$ and the difference of $4$ and $11$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= (4 \times 11) - (4 - 11)  \\\\
-&= 44 - (-7) \\\\
-&= 44 + 7 \\\\
-&= 51
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

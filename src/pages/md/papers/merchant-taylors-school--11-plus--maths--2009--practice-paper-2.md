@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2009-practice-paper-2"
 title: "Merchant Taylors School - 11 Plus - Maths - 2009 - Practice Paper 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -868,20 +868,14 @@ $\dfrac {9} {4} \ \text {miles}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
 <p>33894696-6D5A-4AA2-89AF-C94F80BC4363</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tnoexplanation
+talgebra
 </li>
 </ul>
 </div>
@@ -909,7 +903,7 @@ $81$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_amber</p>
 </div>
 </div>
 </li>
@@ -959,17 +953,14 @@ $0.36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>370E6891-00C4-4400-9412-56FFA4BE4110</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -986,6 +977,8 @@ $
 \begin{aligned}
 \text {Man pays for 4 days and 300km} &= 4 \times \pounds 35 + 300 \times 34 \text {p} \\\\
                                       &= \pounds 140 + 10200 \text {p} \\\\
+                                      &= \pounds 140 + \pounds \dfrac {10200} {100} \\\\
+                                      &= \pounds 140 + \pounds \dfrac {102 \cancel {00}} {1 \cancel {00}} \\\\
                                       &= \pounds 140 + \pounds 102 \\\\
                                       &= \pounds 242
 \end{aligned}
@@ -1005,7 +998,7 @@ $\pounds 242$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1394,7 +1387,7 @@ $+, \ \div, \ -$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>66B16F07-8FF6-4E55-BA74-5529DF432D2B</p>
 </div>
@@ -1419,7 +1412,9 @@ How old was my grandmother when her daughter was born?
 
 $
 \begin{aligned}
-\text {Grandmother's age} &= 80 - 52 \\\\
+\text {Grandmother's age} &= 80 - (40 + (2006 - 1994)) \\\\
+                          &= 80 - (40 + 12) \\\\
+                          &= 80 - 52 \\\\
                           &= 28
 \end{aligned}
 $
@@ -1438,7 +1433,7 @@ $28$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2623,10 +2618,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tcoin
+tratio
 </li>
 </ul>
 </div>
@@ -3325,11 +3320,12 @@ How many $3 \ \text{cm}$ cubes can be made by cutting up a block $12 \ \text{cm}
 $
 \begin{aligned}
 \text{Number of cubes} &= \dfrac {\text{Volume of cuboid}} {\text{Volume of cube}} \\\\
-                       &= \dfrac {12 \times 24 \times 18} {3 \times 3} \\\\
-                       &= \dfrac {3 \times 4 \times 3 \times 8 \times 18} {3 \times 3} \\\\
-                       &= \dfrac {\cancel {3} \times 4 \times \cancel {3} \times 8 \times 18} {\cancel {3} \times \cancel {3}} \\\\
-                       &= 4 \times 8 \times 18 \\\\
-                       &= 576
+                       &= \dfrac {12 \times 24 \times 18} {3 \times 3 \times 3} \\\\
+                       &= \dfrac {3 \times 4 \times 3 \times 8 \times 6 \times 3} {3 \times 3 \times 3} \\\\
+                       &= \dfrac {\cancel {3} \times 4 \times \cancel {3} \times 8 \times 6 \times \cancel{3}} {\cancel {3} \times \cancel {3} \times \cancel {3}} \\\\
+                       &= 4 \times 8 \times 6 \\\\
+                       &= 32 \times 6 \\\\
+                       &= 192
 \end{aligned}
 $
 
@@ -3338,7 +3334,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$576$
+$192$
 
 </div>
 </div>

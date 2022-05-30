@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-all"
 title: "Owner - Eshudhi Jangid - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4203,9 +4203,6 @@ $62$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -4453,12 +4450,6 @@ $570$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>
@@ -5012,9 +5003,6 @@ $6, 28$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -6735,9 +6723,6 @@ $\text {One million eight hundred eighty-two thousand seven hundred}}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -8160,9 +8145,6 @@ $text {Two hundred ninety-nine million seven hundred ninety-two thousand four hu
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -9340,9 +9322,6 @@ $\text {Ford}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -9977,9 +9956,6 @@ $1.8 \ \text {m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
 </li>
 <li>
@@ -10534,10 +10510,7 @@ $18, 36, 54, 72$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -11967,9 +11940,6 @@ $33.5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -12268,9 +12238,6 @@ $\text {Seven million six hundred ninety two thousand twenty four \ km}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -12525,9 +12492,6 @@ $0.75 \ \text{miles}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -13410,13 +13374,7 @@ $\text{Food technology}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tprofit
 </li>
 </ul>
 </div>
@@ -14272,9 +14230,6 @@ $249$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -14321,9 +14276,6 @@ $104$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -16295,9 +16247,6 @@ $773$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -16511,9 +16460,6 @@ $45$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -18348,16 +18294,10 @@ $12.8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-tprobability
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -19472,13 +19412,7 @@ $37$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -21494,13 +21428,7 @@ $2, 2, 5, 5, 11$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -22086,16 +22014,7 @@ $-3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
-tdraw
-</li>
-<li>
-tmoney
+tstatistics
 </li>
 </ul>
 </div>
@@ -23378,9 +23297,6 @@ $-5$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tstatistics
 </li>

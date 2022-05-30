@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -116,9 +116,6 @@ $49$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -326,13 +323,7 @@ $336$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-ttime
+tratio
 </li>
 </ul>
 </div>
@@ -473,16 +464,10 @@ $53018$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tunitprompt
-</li>
-<li>
 tratio
 </li>
 <li>
-tmoney
+tunitprompt
 </li>
 </ul>
 </div>
@@ -719,7 +704,7 @@ $34$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>DACF41B7-F660-4A37-8522-2D3B2583F3CA</p>
 </div>
@@ -750,13 +735,13 @@ As per the question,
 
 $
 \begin{aligned}
-3    & = 41 - 2a \\\\
-2a   & = 41 - 3 \\\\
-2a   & = 38 \\\\
-a    & = \dfrac{38} {2} \\\\
-a    & = \dfrac{19 \times 2}{2} \\\\
-a    & = \dfrac{19 \times \cancel 2} {\cancel 2} \\\\
-a    & = 19
+41 - 2a     &= 3 \\\\
+2a          & = 41 - 3 \\\\
+2a          & = 38 \\\\
+a           & = \dfrac {38} {2} \\\\
+a           & = \dfrac {19 \times 2} {2} \\\\
+a           & = \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
+a           & = 19
 \end{aligned}
 $
 
@@ -776,7 +761,7 @@ $19$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -885,12 +870,6 @@ $0.392$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -933,7 +912,7 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A08A53F2-4639-4CF6-B48B-30A2B0959606</p>
 </div>
@@ -1023,11 +1002,11 @@ The number of inches in $5 \ \text{centimetres}$.
 
 $
 \begin{aligned}
-12 \ \text {inches}                           & = 30 \ \text {cm} \\\\\
-\dfrac {12} {6}                               & = \dfrac {30} {6} \\\\\
-\dfrac {2 \times 6} {6}                       & = \dfrac {5 \times 6} {6} \\\\\
-\dfrac {2 \times \cancel {6}} {\cancel {6}}   & = \dfrac {5 \times \cancel {6}} {\cancel {6}} \\\\\
-2 \ \text {inches}                            & = 5 \ \text {cm} \\\\\
+12 \ \text {inches}                           & = 30 \ \text {cm} \\\\
+\dfrac {12} {6}                               & = \dfrac {30} {6} \\\\
+\dfrac {2 \times 6} {6}                       & = \dfrac {5 \times 6} {6} \\\\
+\dfrac {2 \times \cancel {6}} {\cancel {6}}   & = \dfrac {5 \times \cancel {6}} {\cancel {6}} \\\\
+2 \ \text {inches}                            & = 5 \ \text {cm}
 \end{aligned}
 $
 
@@ -1063,16 +1042,16 @@ The measurement is given in multiple units and answer has to be in centimetres.
 
 $
 \begin{aligned}
-1 \ \text {feet}   & = 30 \ \text {cm} \\\\\
+1 \ \text {feet}   & = 30 \ \text {cm} \\\\
 1 \ \text {inches} & = 2.5 \ \text {cm}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-& = 9 \ \text{feet} 10 \ \text{inches} \\\\
+& = 9 \ \text{feet} \ 10 \ \text{inches} \\\\
 & = 9 \times 30 \ \text {cm} + 10 \times 2.5 \ \text {cm} \\\\
-& = 180 + 25 \\\\
+& = 270 + 25 \\\\
 & = 295 \ \text {cm}
 \end{aligned}
 $
@@ -1094,7 +1073,7 @@ $295 \ \text {cm}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1248,15 +1227,12 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>BCD8F98E-1992-48C8-9BF7-D16279322487</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1276,14 +1252,21 @@ $
 <div class='workings'>
 <div class='working'>
 
-$\large { \boxed{1} \ \boxed{3} \times \boxed{6} = \ \boxed{7} \ \boxed{8}}$
+$
+\begin {aligned}
+       &    1   &   3 \\
+\times &        &   7 \\
+\hline
+       &    7   &   8
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\large { \boxed{1} \ \boxed{3} \times \boxed{6} = \ \boxed{7} \ \boxed{8}}$
+$78$
 
 </div>
 </div>
@@ -1292,7 +1275,7 @@ $\large { \boxed{1} \ \boxed{3} \times \boxed{6} = \ \boxed{7} \ \boxed{8}}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1308,6 +1291,9 @@ tunassigned
 </li>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -1439,7 +1425,7 @@ $\text {sometimes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>7F32C156-E6CA-40AB-9A96-8977312C93E4</p>
 </div>
@@ -1473,7 +1459,6 @@ $
 2 \times a + \dfrac {1} {2} \times a + a           &= 42 \\\\
 2a + \dfrac {a} {2} + a                            &= 42 \\\\
 3a + \dfrac {a} {2}                                &= 42 \\\\
-\dfrac {3a} {1} + \dfrac {a} {2}                   &= 42 \\\\
 \dfrac {3a \times 2} {1 \times 2} + \dfrac {a} {2} &= 42 \\\\
 \dfrac {6a} {2} + \dfrac {a} {2}                   &= 42 \\\\
 \dfrac {6a + a} {2}                                &= 42 \\\\
@@ -1502,12 +1487,12 @@ $12$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>088B2A67-528B-448E-B808-3774226A5A3B</p>
 </div>
@@ -1605,12 +1590,12 @@ $\text {fifteen}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>6247B84C-67BA-4837-942E-898B6625652A</p>
 </div>
@@ -1704,21 +1689,20 @@ She leaves the UK at the same time that John makes his phone call. Given that th
 
 $
 \begin{aligned}
-& = 23{:}00 + 27 \ \text {hours} \\\\
-& = 3{:}00
+& = 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
+& = 23{:}00 + 24 \ \text {hours} + 14 \ \text {hours} \\\\
+& = 13{:}00
 \end{aligned}
 $
 
-Penny arrives in Sydney at $= 3{:}00$ and on $1 \text {st February}$. 
-
-
+Penny arrives in Sydney at $= 13{:}00$ and on $1 \text {st February}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3{:}00$
+$13{:}00$
 
 </div>
 <div class='answer'>
@@ -1735,25 +1719,19 @@ $1 \text{st February}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>7891F44B-DBD0-432D-99F6-2DCC4D96B8B3</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tdecimal
 </li>
 </ul>
 </div>
@@ -1836,16 +1814,16 @@ $
 
 $\pounds 2.16 = \pounds 2 + \pounds 0.10 + \pounds 0.05 + \pounds 0.01$
 
-$\pounds 2.16 = \pounds 2 + 10 \text {p} + 5\text {p} + 1\text {p}$
+$\pounds 2.16 = \pounds 2 + 10 \text {p} + 5 \text {p} + 1 \text {p}$
 
-The coins were $\pounds 2, 10 \text {p}, 5\text {p} and 1\text {p}$
+The coins were $\pounds 2, 10 \text {p}, 5 \text {p} \ \text {and} \ 1 \text {p}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2, 10 \text {p}, 5\text {p} and 1\text {p}$
+$\pounds 2, 10 \text {p}, 5 \text {p} \ \text {and} \ 1 \text {p}$
 
 </div>
 </div>
@@ -1952,7 +1930,7 @@ So, Simon ordered $= 2$ Meat Pie, $1$ Cup of Tea and $1$ Cups of Coffee
 <div class='answers'>
 <div class='answer'>
 
-$2 \text {Meat Pie}, 1 \text {Cup of Tea}, 1 \text {Cups of Coffee}$
+$2 \ \text {Meat Pie}, 1 \ \text {Cup of Tea}, 1 \ \text {Cups of Coffee}$
 
 </div>
 </div>
@@ -1964,7 +1942,7 @@ $2 \text {Meat Pie}, 1 \text {Cup of Tea}, 1 \text {Cups of Coffee}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

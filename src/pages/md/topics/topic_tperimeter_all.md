@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-all"
 title: "Topic - Perimeter - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -159,9 +159,6 @@ Length $= 9 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9373,9 +9370,10 @@ As per the question,
 $
 \begin{aligned}
 \text{Area of square}       &= \text{Perimeter of square} \\\\
-a^2                         &= 4 times a \\\\
-a                           &= \dfrac{4 \times a} {2 \times a} \\\\
-a                           &= \dfrac{4 \times \cancel{a}} {\cancel{a}} \\\\
+a \times a                  &= a + a + a + a \\\\
+a \times a                  &= 4 a \\\\
+a                           &= \dfrac {4 a} {a} \\\\
+a                           &= \dfrac {4 \cancel{a}} {\cancel{a}} \\\\
 a                           &= 4
 \end{aligned}
 $
@@ -9412,21 +9410,26 @@ Let the width of the rectangle $= a$
 
 As per the question,
 
-length of the rectangle $= 2 \times a$
+Length of the rectangle $= 2 \times a$
 
 $
+\begin{aligned}
 \text{Area of rectangle}            &= \text{Perimeter of rectangle} \\\\
-\text{length} \times \text{width}   &= 2(\text{length} + \text{width}) \\\\
-2a \times a                         &= 2(2a + a) \\\\
+\text{length} \times \text{width}   &= 2 \times (\text{length} + \text{width}) \\\\
+2a \times a                         &= 2 \times (2a + a) \\\\
 2a \times a                         &= 2 \times 3a \\\\
 a                                   &= \dfrac{2 \times 3 \times a} {2 \times a} \\\\
 a                                   &= \dfrac{\cancel{2} \times 3 \times \cancel{a}} {\cancel{2} \times \cancel{a}} \\\\
 a                                   &= 3
+\end{aligned}
 $
 
-Width of rectangle $3$
-
-Length of rectangle $= 2 \times 3 = 6$
+$
+\begin{aligned}
+\text {Length of rectangle} &= 2 \times a \\\\
+                            &= 2 \times 3 \\\\
+                            &= 6
+\end{aligned}
 
 </div>
 </div>
@@ -10574,25 +10577,18 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <div class='workings'>
 <div class='working'>
 
+Area of parallelogram = Base $\times$ Height.
 
-The area of parallelogram $= 38 \ \text{cm}^2$
-
-Breadth of parallelogram $= 4 \ \text{cm}$
-
-Let length of parallelogram be 'a'
-
-Area of parallelogram = Length \times Breadth.
-
-$38 = 4 \times$ a
-
-a $= \dfrac{38}{4}$
-
-a $= \dfrac{4 \times 9.5}{4}$
-
-a $= \dfrac{\cancel 4 \times 9.5}{\cancel4}$
-
-a $= 9.5 \ \text{cm}$
-
+$
+\begin{aligned}
+\text{Base} \times \text{Height}        &= \text{Area of parallelogram} \\\\
+\text{Base} \times 4                    &= 38 \\\\
+\text{Base}                             &= \dfrac{38}{4} \\\\
+\text{Base}                             &= \dfrac{4 \times 9.5}{4} \\\\
+\text{Base}                             &= \dfrac{\cancel 4 \times 9.5}{\cancel4} \\\\
+\text{Base}                             &= 9.5 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -10658,9 +10654,8 @@ $\text{Perimeter} = 4 \times \text{side})$
 $
 \begin{aligned}
 \text{perimeter of square} &= 4 \times (14 + 6) \\\\
-&= 4 \times 20 \\\\
-&= 80 \ \text{cm}^2
-\end{aligned}
+                           &= 4 \times 20 \\\\
+                           &= 80 \ \text{cm}
 $
 
 </div>
@@ -10970,16 +10965,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tarea
 </li>
 <li>
 tperimeter
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -12687,7 +12676,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A5D1670C-F9E8-458A-87F9-BEAD48F73EC4</p>
 </div>
@@ -12754,7 +12743,7 @@ $48 \ \text{cm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -14826,6 +14815,8 @@ Work out the length of the perimeter of the rectangle.
 <div class='workings'>
 <div class='working'>
 
+As per the question, 
+
 Let the width of the rectangle in ($\text{cm}$) $= a$
 
 Then, as per the question, the length of the rectangle in ($\text{cm}$) $= a +1$
@@ -14880,7 +14871,7 @@ $34 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B</p>
 </div>
@@ -14941,11 +14932,14 @@ Let's first find the missing edges.
 
 Middle missing edge is $2$ as the parallel edge is $2$
 
-P $= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2$
+$
+\begin{aligned}
+\text {Perimeter} &= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2 \\\\
+                  &= 42 \ \text {cm}
+\end{aligned}
+$
 
-P $= 42 \ \text {cm}$
-
-Perimeter of letter F is $42 \ \text {cm}$
+Perimeter of letter F $= 42 \ \text {cm}$
 
 </div>
 </div>
@@ -14975,17 +14969,16 @@ Find the area of this letter $F$.
 
 "F" is an irregular shape. However, it can be broken up into 3 regular rectangles.
 
-Area of a rectangle $= length \times width$
+Area of a rectangle $= \text {length} \times \text {width}$
 
 $
 \begin{aligned}
 \text {Area} &= \text {area of left rectangle} + \text {area of middle rectangle} + \text {area of top rectangle} \\\\
              &= (13 \times 2) + (2 \times 2) + (4 \times 2) \\\\
              &= 26 + 4 + 8 \\\\
-             &= 38 \ \text {cm} ^ 2 \\\\
+             &= 38 \ \text {cm} ^ 2
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -15004,7 +14997,7 @@ $38 \ \text {cm} ^ 2$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -15406,7 +15399,7 @@ Ratio of Rurns and Diameters is smaller
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
 </div>
@@ -15490,12 +15483,12 @@ $60 \ \text{cm}^{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>D62B63A1-CA82-4AA9-B4FE-290BB7B57B95</p>
 </div>
@@ -15569,7 +15562,7 @@ $144 \ \text{cm}^{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -16377,7 +16370,7 @@ $30 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>7F5F775B-7E11-4998-A118-784117B4C479</p>
 </div>
@@ -16496,7 +16489,7 @@ $16 \ \text{cm}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

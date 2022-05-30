@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -130,9 +130,6 @@ $2709$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -885,9 +882,6 @@ $\dfrac{4} {5}, 80\%, 0.8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
@@ -989,7 +983,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>C3254CDA-4FF0-4DD2-B767-58165F53A978</p>
 </div>
@@ -1025,7 +1019,6 @@ a        &= \dfrac {3 \times 9} {3} \\\\
 a        &= \dfrac {\cancel {3} \times 9} {\cancel {3} } \\\\
 a        &= 9
 \end{aligned}
-}
 $
 
 </div>
@@ -1042,7 +1035,7 @@ $9$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1108,9 +1101,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -1533,16 +1523,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-ttime
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -3280,9 +3261,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -3401,9 +3379,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

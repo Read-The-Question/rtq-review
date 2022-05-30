@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-all"
 title: "Topic - Noexplanation - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -255,7 +255,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>4DC6032C-769F-4D01-A831-92EA63A4A990</p>
 </div>
@@ -307,12 +307,12 @@ $0.08$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>8F66D2BA-D78E-4C07-BD24-B7741E19A525</p>
 </div>
@@ -343,7 +343,7 @@ What is the value of the digit $9$ in the number $32.597$?
 <div class='workings'>
 <div class='working'>
 
-nine tenths
+$nine tenths$
 
 </div>
 </div>
@@ -353,7 +353,7 @@ nine tenths
 </div>
 <div class='answer'>
 
-nine tenths
+$nine tenths$
 
 </div>
 </div>
@@ -362,12 +362,12 @@ nine tenths
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>F6409296-091D-4E51-B3B1-7DF9D8DCC5CC</p>
 </div>
@@ -403,6 +403,9 @@ $0.07$
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
 <div class='answer'>
 
 $0.07$
@@ -414,12 +417,12 @@ $0.07$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>162AA59F-08CC-4B9C-8C47-3D255B74EFFE</p>
 </div>
@@ -459,11 +462,11 @@ $2500 \ \text{cm}$
 </div>
 <div class='answers'>
 <div class='option'>
-<p>D</p>
+<p>E</p>
 </div>
 <div class='answer'>
 
-$0.25 \ \text{cm}, 2.5 \ \text{cm}, 25 \ \text{cm}, 250 \ \text{cm}, 2500 \ \text{cm}$
+$2500 \ \text{cm}$
 
 </div>
 </div>
@@ -472,12 +475,12 @@ $0.25 \ \text{cm}, 2.5 \ \text{cm}, 25 \ \text{cm}, 250 \ \text{cm}, 2500 \ \tex
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>50E04B0C-8A1F-40C0-AACC-F803CBD9A220</p>
 </div>
@@ -575,7 +578,7 @@ $8.3$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2018,59 +2021,6 @@ $\text {Octagon}$
 <div class='answer'>
 
 $\text {Octagon}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>F96ADDDB-D1DA-4669-B9D8-6F1709C2D0E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tprobability
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**For question $\bold{39}$ to $\bold{43}$ make the most appropriate choice from this list to describe the chances.**
-
-impossible: $\quad$  very unlikely: $\quad$  unlikely: $\quad$  as likely as not: $\quad$  likely: $\quad$  very likely: $\quad$  certian
-
-When thrown a coin will show heads.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {likely}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {likely}$
 
 </div>
 </div>
@@ -5042,7 +4992,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F3144B09-1621-4BF8-A18D-56C923A48403</p>
 </div>
@@ -5206,7 +5156,7 @@ $76 \times 8$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5772,7 +5722,7 @@ $8, 28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A665B0B4-EBC8-4304-BDFA-28CF12D417AD</p>
 </div>
@@ -5844,14 +5794,19 @@ How many minutes should it take the train to travel from Wolverhampton to Milton
 <div class='workings'>
 <div class='working'>
 
-$1 \text { hour } 30 \text { minutes}$
+$
+\begin{aligned}
+\text{Time taken} &= 10{:}10 - 8{:}40 \\\\
+                  &= 1 \ \text {hour} \ 30 \ \text {minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \text { hour } 30 \text { minutes}$
+$1 \ \text {hour} \ 30 \ \text {minutes}$
 
 </div>
 </div>
@@ -5872,14 +5827,19 @@ If the train is $35 \ \text{minutes}$ late leaving Crewe, what time should it ar
 <div class='workings'>
 <div class='working'>
 
-$11:20$
+$
+\begin{aligned}
+\text{Arriving time} &= 10{:}45 + 35 \ \text{minutes} \\\\
+                     &= 11{:}20
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$11:20$
+$11{:}20$
 
 </div>
 </div>
@@ -5891,7 +5851,7 @@ $11:20$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -6041,52 +6001,6 @@ $16$
 </div>
 <div class='rag'>
 <p>rag_ad_g2</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>33894696-6D5A-4AA2-89AF-C94F80BC4363</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Three bicycles are priced at $\pounds 79, \pounds 80$ and $\pounds 84$. If the shopkeeper decided to sell them for the same total amount, but made the three prices equal, what would each cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$81$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$81$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -8172,6 +8086,151 @@ $53018$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_pr question'>
+<div class='uuid'>
+<p>61B40AEF-EFDA-4820-87CB-C04AE14F150A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write one of the words "always", "sometimes" and "never" in the spaces below to make each of the statements correct:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The sum of two odd numbers is $\text{\textunderscore \textunderscore \textunderscore \textunderscore 
+\textunderscore \textunderscore }$ even.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The sum of two odd numbers is $\underline {\text {always} }$ even.
+
+</div>
+<div class='working'>
+
+When an odd number is multiplied by an even number the answer is $\underline{\text {never} }$ odd.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {always}$
+
+</div>
+<div class='answer'>
+
+$\text {never}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+TODOQUESTION 
+The product of two even numbers is $\text{\textunderscore \textunderscore 
+    \textunderscore \textunderscore \textunderscore \textunderscore }$ a multiple of four.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The product of two even numbers is $\underline{\text {always} }$ a multiple of four.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {always}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When an even number is divided by an even number the answer is $\text{\textunderscore 
+    \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore }$ odd.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+When an even number is divided by an even number the answer is $\underline{\text {sometimes}}$ odd
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {sometimes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>DFFF4069-B7D4-401D-90CC-7DEA7B300388</p>
@@ -9196,7 +9255,7 @@ $3.9 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>77B7035B-4C89-427D-A347-E8D034630C49</p>
 </div>
@@ -9333,7 +9392,7 @@ $35948$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -9441,7 +9500,7 @@ $30297$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3D815431-0738-48E8-8632-A526A05E2823</p>
 </div>
@@ -9567,12 +9626,12 @@ $5 - 5 = 4 - 4$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8089705E-50AA-40D2-9513-A70C93DC8C55</p>
 </div>
@@ -9624,7 +9683,7 @@ $3124, \ 3214, \ 3412, \ 3142$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -9739,7 +9798,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>DECBAFA9-B0F4-45DA-B4A9-5B89028153A7</p>
 </div>
@@ -9780,12 +9839,12 @@ $24796$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
 </div>
@@ -9890,12 +9949,12 @@ $10 \ \text{hrs} \ 48 \ \text{mins}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>E709EA37-048F-4696-A4BE-A209DAEF9AE9</p>
 </div>
@@ -9945,7 +10004,7 @@ $\dfrac {3} {4}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -10231,10 +10290,7 @@ $3, \ 5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
+tmoney
 </li>
 <li>
 tnoexplanation
@@ -11901,7 +11957,7 @@ $308520$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD</p>
 </div>
@@ -11942,7 +11998,7 @@ $47, 53$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

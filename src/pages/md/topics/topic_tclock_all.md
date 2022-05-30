@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-all"
 title: "Topic - Clock - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1036,7 +1036,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8D9C54BC-6E17-4740-929F-C604E748B5B7</p>
 </div>
@@ -1135,7 +1135,7 @@ $120 \degree$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic A"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-29 22:47:20
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>42FA7203-A19E-4735-B96B-0DE10464E8A4</p>
 </div>
@@ -51,12 +51,12 @@ $300407$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
 </div>
@@ -98,7 +98,7 @@ $941$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -109,9 +109,6 @@ $941$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -128,7 +125,7 @@ Work out $418 \times 70$.
 $
 \begin{array}{cccccccccccccc}
             &       &       4       & 1     & 8     \\
-{}\times    &       &               & 7     & 0     \\
+            &       &     \times    & 7     & 0     \\
 \hline
             &       &       0       & 0     & 0     \\
 2           &      9&       2       & 6     & 0     \\
@@ -156,7 +153,7 @@ $29260$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_red question'>
 <div class='uuid'>
 <p>1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6</p>
 </div>
@@ -205,12 +202,12 @@ $3\dfrac{1}{2}$ or $\dfrac{7}{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>2349EC95-009A-4E52-B1CF-35DE1F43DFBA</p>
 </div>
@@ -264,7 +261,7 @@ $69$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -295,13 +292,13 @@ Let's first multiply the numbers ignoring the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-            &   2  &   4 &    2 \\
-\times      &      &   1 &    6 \\
+            &   2   &   4    &    2 \\
+\times      &       &   1    &    6 \\
 \hline  
-1           &   4  &   5 &    2 \\ 
-2           &   4  &   2 &    0 \\
+1           &   4   &   5    &    2 \\ 
+2           &   4   &   2    &    0 \\
 \hline  
-3           &   8  &   7 &    2
+3           &   8   &   7    &    2
 \end{array}
 $
 
@@ -330,7 +327,7 @@ $3.872$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>69D9A9B8-8B5E-4E13-992D-5BBC123F9133</p>
 </div>
@@ -376,12 +373,12 @@ $\dfrac{16}{25}$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>C12FD4E7-441B-4A1E-BD78-D6218501E0D9</p>
 </div>
@@ -451,7 +448,7 @@ $33\%$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -481,6 +478,8 @@ hours and minutes, how long has she spent watching TV?
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin{aligned}
@@ -544,6 +543,8 @@ of $15 \ \text{g}$ pieces.  How many pieces does he have?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
 
 $
@@ -552,9 +553,8 @@ $
                             &= \dfrac { 1.2 \ \text{kg} } { 15 \ \text{g}} \\\\
                             &= \dfrac { 1.2 \times 1000 \ \text{g} } { 15 \ \text{g}} \\\\
                             &= \dfrac { 1200 } { 15 } \\\\
-                            &= \dfrac { 3 \times 4 \times 5 \times 20 } { 3 \times 5 } \\\\
-                            &= \dfrac { \cancel{3} \times 4 \times \cancel{5} \times 20 } { \cancel{3} \times \cancel{5} } \\\\
-                            &= 4 \times 20 \\\\
+                            &= \dfrac {80 \times 15} {15} \\\\
+                            &= \dfrac {80 \times \cancel{15}} {\cancel{15}} \\\\
                             &= 80
 \end{aligned}
 $
@@ -641,7 +641,7 @@ $27 \ \text{zebras}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
 </div>
@@ -725,7 +725,7 @@ $60 \ \text{cm}^{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -786,23 +786,14 @@ $5.4 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>7B238D76-DC32-4173-81A3-114829891742</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tprofit
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -875,7 +866,7 @@ $\pounds 25.50$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -945,7 +936,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>FF850235-7104-4915-9390-211E83691462</p>
 </div>
@@ -992,7 +983,7 @@ $\dfrac { 11 } {  20 }$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-4"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 4"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -602,7 +602,7 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D03375C8-7EA3-489F-8485-E7B331CCAD8E</p>
 </div>
@@ -653,6 +653,7 @@ $
                    &= \dfrac {27 \times 100} {45} \\\\
                    &= \dfrac {9 \times 3 \times 5 \times 20} {9 \times 5} \\\\
                    &= \dfrac {\cancel {9} \times 3 \times \cancel {5} \times 20} {\cancel {9} \times \cancel {5}} \\\\
+                   &= 3 \times 20 \\\\
                    &= 60 \%
 \end{aligned}
 $
@@ -685,8 +686,8 @@ In a class of $30$ pupils, $21$ are girls. What percentage of the class is boys?
 
 $
 \begin{aligned}
-Boys in the class &= 30 - 21 \\\\
-                  &= 9
+\text {Boys in the class} &= 30 - 21 \\\\
+                          &= 9
 \end{aligned}
 $
 
@@ -769,6 +770,7 @@ $
 &= \dfrac {85} {100} \\\\
 &= \dfrac {17 \times 5} {2 \times 5 \times 10} \\\\
 &= \dfrac {17 \times \cancel {5}} {2 \times \cancel {5} \times 10} \\\\
+&= \dfrac {17} {2 \times 10} \\\\
 &= \dfrac {17} {20}
 \end{aligned}
 $
@@ -840,7 +842,7 @@ $\dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2118,13 +2120,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
-</li>
-<li>
-tcoin
 </li>
 </ul>
 </div>
@@ -3037,7 +3036,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>16D089A8-F897-466C-A647-02A29D9F4503</p>
 </div>
@@ -3056,14 +3055,21 @@ If a basketball weighs $300 \ \text{g}$ plus half its own weight, how much does 
 <div class='workings'>
 <div class='working'>
 
+Let the weight of basketball $= b$
+
+As per the question,
+
 $
 \begin{aligned}
-\text {Weight of the basketball} &= 300 + \dfrac {1} {2} \times 300 \\\\
-                                 &= 300 + \dfrac {300} {2} \\\\
-                                 &= 300 + \dfrac {150 \times 2} {2} \\\\
-                                 &= 300 + \dfrac {150 \times \cancel {2}} {\cancel {2}} \\\\
-                                 &= 300 + 150 \\\\
-                                 &= 450 \ \text{g}
+\text {Weight of the basketball}                  &= 300 + \dfrac {1} {2} \times b \\\\
+b                                                 &= 300 + \dfrac {b} {2} \\\\
+b - \dfrac {b} {2}                                &= 300 \\\\
+\dfrac {b \times 2} {1 \times 2} - \dfrac {b} {2} &= 300 \\\\
+\dfrac {2 b} {2} - \dfrac {b} {2}                 &= 300 \\\\
+\dfrac {2 b - b} {2}                              &= 300 \\\\
+\dfrac {b} {2}                                    &= 300 \\\\
+b                                                 &= 300 \times 2 \\\\
+b                                                 &= 600 \ \text{g}
 \end{aligned}
 $
 
@@ -3072,7 +3078,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$450 \ \text{g}$
+$600 \ \text{g}$
 
 </div>
 </div>
@@ -3081,7 +3087,7 @@ $450 \ \text{g}$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3872,9 +3878,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>

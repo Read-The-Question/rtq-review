@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tlogic-notstarted"
 title: "Topic - Logic - Not Started"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -381,72 +381,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-c</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>8D6BC1EA-96BB-4C5B-8641-8A49FDB147AF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tlogic
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many different ways are there of paying exactly $20\text{p}$ using only $1\text{p}$ and $2\text{p}$ coins?
-
-A: $2$
-
-B: $11$
-
-C: $10$
-
-D: $5$
-
-E: $20$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

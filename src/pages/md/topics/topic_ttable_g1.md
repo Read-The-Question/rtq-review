@@ -1,189 +1,9 @@
 ---
 slug: "topics/topic-ttable-g1"
 title: "Topic - Table - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>883F6925-9EC7-4ED4-90EE-6C29F7B5A29F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-ttable
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-
-| Mon             | Tues                      | Wed                                                 | Thurs     | Fri     | Sat     | Sun     |
-|-----            |-------                    |-------------                                        |-------    |-----    |-----    |-----    |
-| $1\text{p}$      | $1\text{p}$,$1\text{p}$     | $1\text{p}$,$1\text{p}$,$1\text{p}$,$1\text{p}$     |           |         |         |         |
-
-Mary is saving pennies. She draws the grid above for seven days of the week. Each day she will save twice as much as she saved the day before. On Monday she saves $1\text{p}$, Tuesday $2\text{p}$ and Wednesday $4\text{p}$ as planned.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much did she save on
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Thursday?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 2 \times 4 \\\\
-&= 8 \text{p}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Saturday?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 4 \times 8 \\\\
-&= 32 \text{p}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much will she save in total for the whole week?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{She shaved} &= 1 + 2 + 4 + 8 + 16 + 32 + 64 \\\\
-                  &= 127 \text{p}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$127 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
@@ -509,6 +329,116 @@ $- 4 \degree \text {C}$
 </ul>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttable
+</li>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The timetable below shows information about the overnight train from London to Scotland.
+
+![missing table](/papers/missing_table.svg)
+
+How long does the train take
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+from London Euston to Birmingham International?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{hrs} \ 10 \ \text{mins}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \text{hrs} \ 10 \ \text{mins}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+from London Euston Station to Glasgow?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10 \ \text{hrs} \ 48 \ \text{mins}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{hrs} \ 48 \ \text{mins}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>

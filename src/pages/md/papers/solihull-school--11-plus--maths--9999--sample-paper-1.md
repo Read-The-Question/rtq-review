@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -123,9 +123,6 @@ $376$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1075,9 +1072,6 @@ $8$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -3581,9 +3575,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -3698,9 +3689,10 @@ As per the question,
 $
 \begin{aligned}
 \text{Area of square}       &= \text{Perimeter of square} \\\\
-a^2                         &= 4 times a \\\\
-a                           &= \dfrac{4 \times a} {2 \times a} \\\\
-a                           &= \dfrac{4 \times \cancel{a}} {\cancel{a}} \\\\
+a \times a                  &= a + a + a + a \\\\
+a \times a                  &= 4 a \\\\
+a                           &= \dfrac {4 a} {a} \\\\
+a                           &= \dfrac {4 \cancel{a}} {\cancel{a}} \\\\
 a                           &= 4
 \end{aligned}
 $
@@ -3737,21 +3729,26 @@ Let the width of the rectangle $= a$
 
 As per the question,
 
-length of the rectangle $= 2 \times a$
+Length of the rectangle $= 2 \times a$
 
 $
+\begin{aligned}
 \text{Area of rectangle}            &= \text{Perimeter of rectangle} \\\\
-\text{length} \times \text{width}   &= 2(\text{length} + \text{width}) \\\\
-2a \times a                         &= 2(2a + a) \\\\
+\text{length} \times \text{width}   &= 2 \times (\text{length} + \text{width}) \\\\
+2a \times a                         &= 2 \times (2a + a) \\\\
 2a \times a                         &= 2 \times 3a \\\\
 a                                   &= \dfrac{2 \times 3 \times a} {2 \times a} \\\\
 a                                   &= \dfrac{\cancel{2} \times 3 \times \cancel{a}} {\cancel{2} \times \cancel{a}} \\\\
 a                                   &= 3
+\end{aligned}
 $
 
-Width of rectangle $3$
-
-Length of rectangle $= 2 \times 3 = 6$
+$
+\begin{aligned}
+\text {Length of rectangle} &= 2 \times a \\\\
+                            &= 2 \times 3 \\\\
+                            &= 6
+\end{aligned}
 
 </div>
 </div>

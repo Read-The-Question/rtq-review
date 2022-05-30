@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-bs-all"
 title: "Reviewer - Banoth Sairam - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-05-29 22:47:20
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -30,7 +27,7 @@ Work out $294 \times 70$.
 $
 \begin{array}{cccccccccccccc}
             &       &       2       & 9     & 4     \\
-{}\times    &       &               & 7     & 0     \\
+            &       &     {}\times  & 7     & 0     \\
 \hline
             &       &       0       & 0     & 0     \\
 2           &      0&       5       & 8     & 0     \\
@@ -65,16 +62,10 @@ $20580$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
+tnumber
 </li>
 <li>
 tmoney
-</li>
-<li>
-tprofit
 </li>
 </ul>
 </div>
@@ -85,6 +76,8 @@ Neil lends Rodger $\pounds 4$. Rodger pays back $30 \%$ of this the next day. Ho
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 Let's convert pounds to pence.
 
@@ -189,7 +182,7 @@ $
 \text{Marks deducted for a wrong answer}    &= 1 \\\\
 \text{Total wrong answers}                  &= 3 \\\\
 \text{Marks deducted}                       &= 3 \times 1 \\\\
-\text{Final Marks}                          &= 17 \times 4 - 3 \times 1 \\\\
+\text{Final Marks}                          &= (17 \times 4) - (3 \times 1) \\\\
                                             &= 68 - 3 \\\\
                                             &= 65
 \end{aligned}
@@ -200,7 +193,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-65
+$65$
 
 </div>
 </div>
@@ -236,6 +229,8 @@ What is the largest number less than $100$ which is a multiple of $2$, and of $3
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 Let's first find LCM for three numbers. There are no common factors, so the LCM would be 
 
 $
@@ -262,75 +257,7 @@ Largest number $= 90$
 <div class='answers'>
 <div class='answer'>
 
-$0$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tarea
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$1 \ \text{foot}$ is equal to $12 \ \text{inches}$. 
-Paul tiles a wall which is $10 \ \text{feet}$ long 
-and $6 \ \text{feet}$ high. 
-He uses square tiles which are $8 \ \text{inches}$ long on 
-each side. How many tiles does he need to tile the wall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-The wall measurement is given in feet while the tile measurement is given in inches.
-
-Let's convert the wall measurements into inches.
-
-$
-\begin{aligned}
-\text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
-                        &= \dfrac {10 \ \text{feet} \times 6 \ \text{feet} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
-                        &= \dfrac {10 \times 12 \ \text{inches} \times 6 \times 12 \ \text{inches} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
-                        &= \dfrac {10 \times 12 \times 6 \times 12 } { 8 \times 8 } \\\\
-                        &= \dfrac {2 \times 5 \times 4 \times 3 \times 2 \times 3 \times 4 \times 3 } { 4 \times 2 \times 4 \times 2 } \\\\
-                        &= \dfrac {\cancel{2} \times 5 \times \cancel{4} \times 3 \times \cancel{2} \times 3 \times \cancel{4} \times 3 } { \cancel{4} \times \cancel{2} \times \cancel{4} \times \cancel{2} } \\\\
-                        &= 5 \times 3 \times 3 \times 3 \\\\
-                        &= 135
-\end{aligned}
-$
-
-Number of tiles $= 135$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$135$
+$90$
 
 </div>
 </div>
@@ -351,16 +278,16 @@ $135$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
 </li>
 <li>
-talgebra
+tcoin
 </li>
 <li>
-tcoin
+tunitprompt
 </li>
 </ul>
 </div>
@@ -378,13 +305,13 @@ As per the question,
 
 $
 \begin{aligned}
-1 \times c + 2 \times c + 5 \times c + 10 \times c &= 90\\\\
-c + 2c + 5c + 10c &= 90 \\\\
-18c &= 90 \\\\
-c &= \dfrac {90} { 18} \\\\
-c &= \dfrac {18 \times 5} { 18} \\\\
-c &= \dfrac {\cancel{18} \times 5} { \cancel{18} } \\\\
-c &= 5
+1 \times c + 2 \times c + 5 \times c + 10 \times c       &= 90\\\\
+c + 2c + 5c + 10c                                        &= 90 \\\\
+18c                                                      &= 90 \\\\
+c                                                        &= \dfrac {90} {18} \\\\
+c                                                        &= \dfrac {5 \times 18} { 18} \\\\
+c                                                        &= \dfrac {5 \times \cancel{18}} { \cancel{18} } \\\\
+c                                                        &= 5
 \end{aligned}
 $
 
@@ -392,8 +319,8 @@ There are $5$ coins of each type and $4$ different types of coins.
 
 $
 \begin{aligned}
-\text{Total coins} &=  5 \times 4  \\\\
-&= 20 \ \text{coins}
+\text{Total coins}     &=  5 \times 4  \\\\
+                       &= 20 \ \text{coins}
 \end{aligned}
 $
 
@@ -403,62 +330,6 @@ $
 <div class='answer'>
 
 $20 \ \text{coins}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If these numbers are arranged in numerical order, which one will be in the middle?  
-
-$0.77, \quad \dfrac{3}{4}, \quad 0.705, \quad \dfrac{4}{5}, \quad 0.748$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
-$0.77, \quad \dfrac{3}{4}, \quad 0.705, \quad \dfrac{4}{5}, \quad 0.748$
-
-$0.77, \quad 0.75, \quad 0.705, \quad 0.8, \quad 0.748$
-
-Let's put them in ascending order.
-
-$0.705, \quad 0.748, \quad 0.75, \quad 0.77, \quad 0.8$
-
-The number in the middle $= 0.75$. 
-
-The number in the middle $= \dfrac{3}{4}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{3}{4}$
 
 </div>
 </div>
@@ -543,7 +414,7 @@ answer = 2223, 2233, 2232, 2322, 2323, 2332, 3322, 3222, 3223, 3232
 <div class='answers'>
 <div class='answer'>
 
-10
+$10$
 
 </div>
 </div>
@@ -582,6 +453,8 @@ paints. What area is covered with paint?
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question, 
 
 Let's count all the faces of the cube on the exterior. 
 
@@ -646,7 +519,7 @@ As per the question,
 
 $
 \begin{aligned} 
-b + 3c      &= 1300   \\\\
+b + 3c      &= 1300 \\\\
 4b + 8c     &= 4000         
 \end{aligned}
 $
@@ -655,8 +528,8 @@ There are two variables, $b$ and $c$. Let's eliminate to reduce it to just one v
 
 $
 \begin{aligned} 
-b + 3c                      &= 1300             \\\\
-4 \times b + 4 \times 3c    &= 4 \times 1300    \\\\
+b + 3c                      &= 1300 \\\\
+4 \times b + 4 \times 3c    &= 4 \times 1300 \\\\
 4b + 12c                    &= 5200
 \end{aligned}
 $
@@ -707,10 +580,10 @@ Multiply the first equation by $8$ and the second equation by $3$ to make the co
 
 $
 \begin{aligned} 
-b + 3c                      &= 1300          \\\\
-4b + 8c                     &= 4000          \\\\
+b + 3c                      &= 1300 \\\\
+4b + 8c                     &= 4000 \\\\
 8 \times b + 8 \times 3c    &= 8 \times 1300 \\\\
-3 \times 4b + 3 \times 8c   &= 3 \times 4000  \\\\
+3 \times 4b + 3 \times 8c   &= 3 \times 4000 \\\\
 8b + 24c                    &= 10400 \\\\
 12b + 24c                   &= 12000
 \end{aligned}
@@ -724,7 +597,7 @@ $
 12b + 24c                   &= 12000 \\\\
 12b + 24c - (8b + 24c)      &= 12000 - 10400 \\\\
 12b + 24c - 8b - 24c        &= 12000 - 10400 \\\\
-4b                          &= 1600             \\\\
+4b                          &= 1600 \\\\
 b                           &= \dfrac{1600}{4} \\\\
 b                           &= \pounds 400
 \end{aligned}
@@ -744,211 +617,6 @@ $\pounds 400$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>7A0547CE-4780-4C98-8F44-705D53000745</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $22\dfrac{1}{2} \div 5$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned} 
-&= 22 \dfrac{1}{2} \div 5 \\\\ 
-&= \dfrac {45}{2} \times \dfrac {1}{5} \\\\
-&= \dfrac {45 \times 1} {2 \times 5} \\\\
-&= \dfrac {9 \times 5} {2 \times 5} \\\\
-&= \dfrac {9 \times \cancel{5}} {2 \times \cancel{5}} \\\\
-&= \dfrac {9} {2} \\\\
-&= 4 \dfrac {1} {2} \\\\
-&= 4.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>23BA576A-774F-4E22-884E-3C38C9F35B7C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write in figures the number $\text{one million ten thousand and one}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1010001$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1010001$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>30031157-8687-4B93-8985-5B4931D1E9A0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the product of the sum of $8$ and $4$ with the difference of $3$ and $12$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= (8 + 4) \times (3 - 12)  \\\\
-&= 12 \times (-9) \\\\
-&= -108
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-108$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $15\%$ of $\pounds 3$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 15\% \times \pounds 3 \\\\
-&= 15\% \times 300 \ \text{pence}\\\\
-&= \dfrac {15} {100} \times 300 \\\\
-&= \dfrac {15 \times 300} {100} \\\\
-&= \dfrac {15 \times 3 \times 100} {100} \\\\
-&= \dfrac {15 \times 3 \times 1\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
-&= 15 \times 3  \\\\
-&= 45 \ \text{pence}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45 \ \text{pence}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
@@ -984,7 +652,7 @@ $
 &= \dfrac {36} {100} \\\\
 &= \dfrac {4 \times 9} {4 \times 25} \\\\
 &= \dfrac {\cancel{4} \times 9} {\cancel{4} \times 25} \\\\
-&= \dfrac {9} {25} \\\\
+&= \dfrac {9} {25}
 \end{aligned}
 $
 
@@ -994,60 +662,6 @@ $
 <div class='answer'>
 
 $\dfrac {9} {25}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>62028F5D-6918-47EE-9E20-6E995EF362A2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How much is $\dfrac{3}{4}$ of $\dfrac{2}{5}$ of $\pounds 1$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac{3}{4} \text{ of } \dfrac{2}{5} \text{ of } \pounds 1 \\\\
-&= \dfrac{3}{4} \times  \dfrac{2}{5} \times 100 \ \text{pence} \\\\
-&= \dfrac{3}{4} \times \dfrac{2}{5} \times 100 \\\\
-&= \dfrac{3 \times 2 \times 100} {4 \times 5} \\\\
-&= \dfrac{3 \times 2 \times 4 \times 5 \times 5} {4 \times 5} \\\\
-&= \dfrac{3 \times 2 \times \cancel{4} \times \cancel{5} \times 5} {\cancel{4} \times \cancel{5}} \\\\
-&= 3 \times 2  \times 5 \\\\
-&= 30 \ \text{pence}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text{pence}$
 
 </div>
 </div>
@@ -1097,6 +711,7 @@ $
 $
 
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
 But which one should we eliminate? If we look at the question again, we only need the 
 cost for a CD, so let's eliminate $d$ so we can directly calculate the value for $c$.
 
@@ -1119,6 +734,8 @@ $
 9c + 6d - 4c - 6d   &= 35 \\\\
 5c                  &= 35 \\\\
 c                   &= \dfrac {35} {5} \\\\
+c                   &= \dfrac {7 \times 5} {5} \\\\
+c                   &= \dfrac {7 \times \cancel{5}} {\cancel{5}} \\\\
 c                   &= 7
 \end{aligned}
 $
@@ -1153,6 +770,8 @@ $
 6c + 9d - 6c - 4d       &= 55 \\\\
 5d                      &= 55 \\\\
 d                       &= \dfrac {55} {5} \\\\
+d                       &= \dfrac {11 \times 5} {5} \\\\
+d                       &= \dfrac {11 \times \cancel{5}} {\cancel{5}} \\\\
 d                       &= 11
 \end{aligned}
 $
@@ -1168,7 +787,9 @@ $
 3c + 22             &= 43 \\\\
 3c                  &= 43 -22 \\\\
 3c                  &= 21 \\\\
-c                   &= \dfrac {21} {3}\\\\
+c                   &= \dfrac {21} {3} \\\\
+c                   &= \dfrac {7 \times 3} {3} \\\\
+c                   &= \dfrac {7 \times \cancel{3}} {\cancel{3}} \\\\
 c                   &= 7
 \end{aligned}
 $
@@ -1230,6 +851,8 @@ Work out the length of the perimeter of the rectangle.
 <div class='workings'>
 <div class='working'>
 
+As per the question, 
+
 Let the width of the rectangle in ($\text{cm}$) $= a$
 
 Then, as per the question, the length of the rectangle in ($\text{cm}$) $= a +1$
@@ -1286,103 +909,10 @@ $34 \ \text{cm}$
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>42FA7203-A19E-4735-B96B-0DE10464E8A4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write in figures the number three hundred thousand, four hundred and seven.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$300407$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$300407$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $569 + 372$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       5       & 6     & 9  \\
-{}+ &       3       & 7     & 2 \\
-\hline
-    &       9       & 4     & 1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$941$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
 <p>41576BB3-630B-4093-87FE-EF0A153AB637</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1399,7 +929,7 @@ Work out $418 \times 70$.
 $
 \begin{array}{cccccccccccccc}
             &       &       4       & 1     & 8     \\
-{}\times    &       &               & 7     & 0     \\
+            &       &     \times    & 7     & 0     \\
 \hline
             &       &       0       & 0     & 0     \\
 2           &      9&       2       & 6     & 0     \\
@@ -1414,119 +944,6 @@ $
 <div class='answer'>
 
 $29260$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $17 \dfrac{1}{2} \div 5$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 17 \dfrac{1}{2} \div 5 \\\\
-&= \dfrac {35} {2} \div 5 \\\\
-&= \dfrac {35} {2} \times \dfrac {1} {5} \\\\
-&= \dfrac {35} {2 \times 5} \\\\
-&= \dfrac {7 \times 5} {2 \times 5} \\\\
-&= \dfrac {7 \times \cancel{5}} {2 \times \cancel{5}} \\\\
-&= \dfrac {7} {2} \\\\
-&= 3 \dfrac {1} {2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3\dfrac{1}{2}$ or $\dfrac{7}{2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>2349EC95-009A-4E52-B1CF-35DE1F43DFBA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the missing number in this list $33, 44, 56, \ldots, 83, 98$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(+11)}} 
-&&  \footnotesize{\maroonC{(+12)}}  
-&&  \footnotesize{\maroonC{(+13)}}   
-&&  \footnotesize{\maroonC{(+14)}}  
-&&  \footnotesize{\maroonC{(+15)}} \\
-33,  &&      44,  &&      56,  &&      \ldots,  &&      83,      &&      98
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 56 + 13 \\\\
-                        &= 69
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$69$
 
 </div>
 </div>
@@ -1566,13 +983,13 @@ Let's first multiply the numbers ignoring the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-            &   2  &   4 &    2 \\
-\times      &      &   1 &    6 \\
+            &   2   &   4    &    2 \\
+\times      &       &   1    &    6 \\
 \hline  
-1           &   4  &   5 &    2 \\ 
-2           &   4  &   2 &    0 \\
+1           &   4   &   5    &    2 \\ 
+2           &   4   &   2    &    0 \\
 \hline  
-3           &   8  &   7 &    2
+3           &   8   &   7    &    2
 \end{array}
 $
 
@@ -1588,132 +1005,6 @@ $= 3.872$
 <div class='answer'>
 
 $3.872$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>69D9A9B8-8B5E-4E13-992D-5BBC123F9133</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write $0.64$ as a fraction in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.64 \\\\
-&= \dfrac{64}{100} \\\\
-&= \dfrac{4 \times 16}{4 \times 25} \\\\
-&= \dfrac{\cancel{4} \times 16}{\cancel{4} \times 25} \\\\
-&= \dfrac{16} {25}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{16}{25}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>C12FD4E7-441B-4A1E-BD78-D6218501E0D9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If the following numbers were written in order from highest to lowest, which number would be in the middle?
-
-$\dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\%$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more fractions, so let's convert all the numbers into fractions.
-
-$
-\begin{aligned}
-&= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\% \\\\
-&= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad \dfrac{35}{100}, \quad \dfrac{33}{100}
-\end{aligned}
-$
-
-LCM for $10, 3, 4, 100, 100 = 300$
-
-Let's use the LCM result to make the denominator the same for all the fractions. 
-
-$
-\begin{aligned}
-&= \dfrac{3 \times 30}{10 \times 30}, \quad \dfrac{1 \times 100}{3 \times 100}, 
-\quad \dfrac{1 \times 75}{4 \times 75}, \quad \dfrac{35 \times 3}{100 \times 3}, \quad \dfrac{33 \times 3}{100 \times 3} \\\\
-&= \dfrac{90}{300}, \quad \dfrac{100}{300}, \quad \dfrac{75}{300}, \quad \dfrac{105}{300}, \quad \dfrac{99}{300}
-\end{aligned}
-$
-
-Now let's put them in ascending order.
-
-$
-\begin{aligned}
-&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300} \\\\
-\end{aligned}
-$
-
-The number in the middle $= \dfrac{99}{300}$.
-
-The number in the middle $= 33\%$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$33\%$
 
 </div>
 </div>
@@ -1752,6 +1043,8 @@ hours and minutes, how long has she spent watching TV?
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin{aligned}
@@ -1815,6 +1108,8 @@ of $15 \ \text{g}$ pieces.  How many pieces does he have?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
 
 $
@@ -1823,9 +1118,8 @@ $
                             &= \dfrac { 1.2 \ \text{kg} } { 15 \ \text{g}} \\\\
                             &= \dfrac { 1.2 \times 1000 \ \text{g} } { 15 \ \text{g}} \\\\
                             &= \dfrac { 1200 } { 15 } \\\\
-                            &= \dfrac { 3 \times 4 \times 5 \times 20 } { 3 \times 5 } \\\\
-                            &= \dfrac { \cancel{3} \times 4 \times \cancel{5} \times 20 } { \cancel{3} \times \cancel{5} } \\\\
-                            &= 4 \times 20 \\\\
+                            &= \dfrac {80 \times 15} {15} \\\\
+                            &= \dfrac {80 \times \cancel{15}} {\cancel{15}} \\\\
                             &= 80
 \end{aligned}
 $
@@ -1838,95 +1132,6 @@ Number of pieces $= 80$
 <div class='answer'>
 
 $80$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A rectangle is $4 \ \text{cm}$ longer than it is wide. The 
-distance all the way round the rectangle (its perimeter) 
-is $32 \ \text{cm}$.  What is the area of the rectangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the width of the rectangle (in $\text{cm}$) $= a$
-
-Then as per the question,
-
-Length $= a + 4$
-
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
-
-Equating the perimeter to the length and width we get,
-
-$
-\begin{aligned}
-2 \times (a + 4 + a)      &= 32 \\\\
-2 \times (2a + 4)         &= 32 \\\\
-4a + 8                    &= 32 \\\\
-4a                        &= 32 - 8\\\\
-4a                        &= 24\\\\
-a                         &= \dfrac {24} {4} \\\\
-a                         &= 6  \ \text{cm}
-\end{aligned}
-$
-
-$\text{Width} = 6 \ \text{cm}$
-
-$
-\begin{aligned}
-\text{Length}       &= a + 4 \\\\
-                    &= 6 + 4 \\\\
-                    &= 10 \ \text{cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-                    &= 10 \times 6 \\\\
-                    &= 60 \ \text{cm}^{2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60 \ \text{cm}^{2}$
 
 </div>
 </div>
@@ -2224,9 +1429,6 @@ $1237$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2494,13 +1696,7 @@ $2 \dfrac{13}{20}$ or $\dfrac{53}{20}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -2619,16 +1815,10 @@ $105  \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tprofit
+talgebra
 </li>
 <li>
 tmoney
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>

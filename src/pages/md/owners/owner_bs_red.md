@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-red"
 title: "Owner - Banoth Sairam - Red"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -659,6 +659,59 @@ $90\%$
 
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_red</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_red question'>
+<div class='uuid'>
+<p>DB37A9E8-364A-4029-98F4-5FC99CC173CC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%waffles%
+
+$3256 \div 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3256 \div 4 \\\\
+&= \dfrac{3256}{4} \\\\
+&= \dfrac{814 \times 4}{4} \\\\
+&= \dfrac{814 \times \cancel 4}{\cancel 4} \\\\
+&= 814
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$814$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
 </div>
 <div class='rag'>
 <p>rag_bs_red</p>

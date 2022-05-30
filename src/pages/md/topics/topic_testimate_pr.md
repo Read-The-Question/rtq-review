@@ -1,67 +1,9 @@
 ---
 slug: "topics/topic-testimate-pr"
 title: "Topic - Estimate - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>162AA59F-08CC-4B9C-8C47-3D255B74EFFE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-testimate
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The most likely height of a single-decker bus is:
-
--  $0.25 \ \text{cm}$ 
--  $2.5 \ \text{cm}$ 
--  $25 \ \text{cm}$ 
--  $250 \ \text{cm}$ 
--  $2500 \ \text{cm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2500 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-$0.25 \ \text{cm}, 2.5 \ \text{cm}, 25 \ \text{cm}, 250 \ \text{cm}, 2500 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>

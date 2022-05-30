@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2012-sample-paper-3"
 title: "Sevenoaks School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -287,13 +287,7 @@ $425$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -810,7 +804,7 @@ $100, 90, 80, \ldots, \ldots$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is $10$. Hence, the sequence would be:
+The difference between the terms is $-10$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1053,13 +1047,7 @@ $74$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
+tprofit
 </li>
 </ul>
 </div>

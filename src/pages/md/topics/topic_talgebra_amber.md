@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-amber"
 title: "Topic - Algebra - Amber"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,22 +12,7 @@ date: 2022-05-29 22:47:20
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tprofit
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -591,12 +576,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -940,6 +919,46 @@ $6 \text{ cm}, \ 12 \text{ cm}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_amber question'>
+<div class='uuid'>
+<p>33894696-6D5A-4AA2-89AF-C94F80BC4363</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three bicycles are priced at $\pounds 79, \pounds 80$ and $\pounds 84$. If the shopkeeper decided to sell them for the same total amount, but made the three prices equal, what would each cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$81$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_amber</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ks_amber question'>
 <div class='uuid'>
 <p>F4C49E6C-6442-483E-A6A8-7B917E8F9472</p>
@@ -1002,6 +1021,249 @@ $9$
 <li>
 <div class='question_envelope rag_ac_amber question'>
 <div class='uuid'>
+<p>E04A5D82-8409-45E4-B659-1A199BE3C232</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+My money box contains an equal number of $5 \text{p}, 10 \text{p}$ and $20 \text{p}$ coins and no other coins. 
+How many coins are there altogether if there is $\pounds 4.90$ in the money box?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of coins of each denomination $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+5 \times c + 10 \times c + 20 \times c  &= 490 \\\\
+5c + 10c + 20c                          &= 490 \\\\
+35c                                     &= 490 \\\\
+c                                       &= \dfrac {490} {35} \\\\
+c                                       &= \dfrac {2 \times 7 \times 7 \times 5} {7 \times 5} \\\\
+c                                       &= \dfrac {2 \times 7 \times \cancel{7} \times \cancel{5}} {\cancel{7} \times \cancel{5}} \\\\
+c                                       &= 2 \times 7
+c                                       &= 14
+\end{aligned}
+$
+
+There are $14$ coins of each type and $3$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins} &=  14 \times 3  \\\\
+&= 42 \ \text{coins}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42 \ \text{coins}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>6F7C552E-E005-44B5-8C86-47CAB7CF711F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A shop sells bananas and pears. 
+
+Max buys $1$ banana and $2$ pears. He paid $94 \text{p}$. 
+
+Emily buys $1$ banana and $1$ pear. She paid $62 \text{p}$. 
+
+How much does $1$ banana cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of banana $= a \text{p}$
+
+As per the question,
+
+Cost of pear $= 62p - a$
+
+$
+\begin{aligned}
+a + 2(62 - a)       &= 94 \\\\
+a + 124 - 2a        &= 94 \\\\
+124 - 94            &= 2a -a \\\\
+30                  &= a \\\\
+a                   &= 30 \text{p}
+\end{aligned}
+$
+
+The cost of banana $= 30 \text{p}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \text{p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>BB2EEC2A-FFEA-4BE1-89E7-4509E48E88A8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Benjamin walks dogs to earn some money. The formula below can be used to work out his pay.
+
+![missing image](/papers/missing_image.svg)
+
+Benjamin worked all day on Monday. He walked $13$ dogs before lunch and $15$ dogs afterwards.
+
+Work out Benjamin's pay on Monday.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Benjamin pay on monday}       &= \pounds 12 + \pounds 1.5 \times (13+12) \\\\
+                                    &= \pounds 12 + \pounds 1.5 \times 25 \\\\
+                                    &= \pounds 12 + \pounds 37.5 \\\\
+\text{Benjamin pay on monday}       &= \pounds 49.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 49.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>DC7231D7-DE01-44F0-83B3-D79030A58E4C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are a number of coins on a table. One quarter of the coins show heads.
+
+If I turn over two coins, then one third show heads. How many coins are there altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of coins $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{c}{4} + 2        &= \dfrac{c}{3} \\\\
+2                       &= \dfrac{c}{3} - \dfrac{c}{4} \\\\
+2                       &= \dfrac{c \times 4}{3 \times 4} - \dfrac{c \times 3}{4 \times 3} \\\\
+2                       &= \dfrac{4c}{12} - \dfrac{3c}{12} \\\\
+2                       &= \dfrac{4c - 3c}{12} \\\\
+2                       &= \dfrac{c}{12} \\\\
+\dfrac{c}{12}           &= 2 \\\\
+c                       &= 2 \times 12 \\\\
+c                       &= 24 \ \text{coins}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text{coins}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
 <p>813D165A-86E1-41F9-8602-4C825F1619A8</p>
 </div>
 <div class='topics'>
@@ -1046,6 +1308,65 @@ The number Julia thinks $=12$
 <div class='answer'>
 
 $12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ac_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_amber question'>
+<div class='uuid'>
+<p>6E6AABB3-8D17-4182-8473-EF00285D5758</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A boy spent $\dfrac{3}{8}$ of his allowance and put $\dfrac{1}{2}$ of the remainder in the bank . He then had $\pounds 15$ left. 
+
+How much money did he have to start with?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total money he has $= \pounds a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total money}                                                              &= \text{money spent} + \text{money in bank} + \text{money left} \\\\
+a                                                                               &= \dfrac{3}{8} \times a + \dfrac{1}{2} \times a + \pounds 15 \\\\
+a                                                                               &= \dfrac{3 \times a}{8} + \dfrac{a}{2} + \pounds 15 \\\\
+a - \dfrac{3 \times a}{8} - \dfrac{a}{2}                                        &= 15 \\\\
+\dfrac{8 \times a}{a} - \dfrac{3 \times a}{8} - \dfrac{a \times 4}{2 \times 4}  &= 15 \\\\
+\dfrac{8a - 3a - 4a}{8}                                                         &= 15 \\\\
+\dfrac{a}{8}                                                                    &= 15 \\\\
+a                                                                               &= 15 \times 8 \\\\
+a                                                                               &= \pounds 120 \\\\
+\text{Total money}                                                              &= \pounds 120
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 120$
 
 </div>
 </div>

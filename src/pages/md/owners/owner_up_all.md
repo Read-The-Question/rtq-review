@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-up-all"
 title: "Owner - Uday Pandey - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1301,16 +1301,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
 tmoney
 </li>
 <li>
-tinfer
+tcoin
 </li>
 </ul>
 </div>
@@ -2342,13 +2336,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tpercentageadvance
 </li>
 </ul>
 </div>
@@ -3334,9 +3322,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -3613,9 +3598,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -4311,9 +4293,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -5175,9 +5154,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -5545,9 +5521,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9536,9 +9509,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -11771,9 +11741,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -12096,10 +12063,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tprofit
 </li>
 </ul>
 </div>
@@ -12677,9 +12641,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -13334,13 +13295,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tratio
 </li>
 </ul>
 </div>
@@ -14000,9 +13955,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -14739,12 +14691,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
 tarea
 </li>
 </ul>
@@ -14875,9 +14821,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -15046,13 +14989,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -15576,9 +15513,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -15910,13 +15844,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -16859,9 +16787,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -16990,9 +16915,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -19122,10 +19044,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tnumber
 </li>
 </ul>
 </div>
@@ -19427,9 +19346,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -19622,12 +19538,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -19765,10 +19675,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tnumber
 </li>
 </ul>
 </div>
@@ -20100,9 +20007,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -20841,10 +20745,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -22227,10 +22128,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tnumber
 </li>
 </ul>
 </div>
@@ -22857,10 +22755,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tnumber
 </li>
 </ul>
 </div>
@@ -23709,12 +23604,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
 <li>
 tinfer
 </li>
@@ -35242,13 +35131,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tinfer
-</li>
-<li>
-tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -37956,13 +37839,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tprofit
+talgebra
 </li>
 </ul>
 </div>
@@ -39827,16 +39704,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
-</li>
-<li>
-tinfer
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -40190,12 +40058,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 tprobability
 </li>
@@ -41939,13 +41801,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -43797,13 +43653,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -46208,10 +46058,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -46467,10 +46317,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -46594,10 +46441,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -46897,13 +46741,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -47019,16 +46860,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
 tmoney
 </li>
 <li>
-tinfer
+tcoin
 </li>
 </ul>
 </div>
@@ -58743,9 +58578,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -62082,9 +61914,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
 </li>
 <li>
@@ -63994,9 +63823,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
@@ -65357,12 +65183,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tprofit
 </li>
 </ul>
@@ -66129,9 +65949,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
 </li>
 <li>
@@ -66243,16 +66060,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
 </li>
 </ul>
 </div>
@@ -67258,12 +67066,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tratio
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -67425,9 +67227,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
 </li>
 <li>
@@ -67482,12 +67281,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tratio
 </li>
@@ -78415,12 +78208,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -84736,13 +84523,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -85028,12 +84809,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tarea
 </li>
@@ -86222,12 +85997,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tprofit
 </li>
@@ -87436,16 +87205,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
-</li>
-<li>
-testimate
 </li>
 </ul>
 </div>
@@ -87757,16 +87517,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-talgebra
-</li>
-<li>
-tarea
+tratio
 </li>
 </ul>
 </div>
@@ -88021,16 +87772,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tratio
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -88284,16 +88026,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
 talgebra
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -88513,22 +88246,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tprofit
-</li>
-<li>
-tmoney
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -89051,16 +88769,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tratio
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -89848,22 +89557,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tprofit
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -91035,12 +90729,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -91150,16 +90838,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tgraph
+tratio
 </li>
 <li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -91732,10 +91414,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -91992,9 +91671,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -95400,13 +95076,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -97747,9 +97417,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -98180,9 +97847,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -98371,13 +98035,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-tlogic
 </li>
 </ul>
 </div>
@@ -99786,7 +99447,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
@@ -100625,7 +100286,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
@@ -101554,13 +101215,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdivision
+tsimpleword
 </li>
 </ul>
 </div>
@@ -103516,10 +103171,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
+talgebra
 </li>
 <li>
 tmoney
@@ -104548,12 +104200,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tstatistics
 </li>
@@ -107292,16 +106938,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-<li>
-ttable
+talgebra
 </li>
 </ul>
 </div>
@@ -108565,16 +108202,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -110258,12 +109886,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
 tprobability
 </li>
 </ul>
@@ -111066,13 +110688,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-<li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>
@@ -111123,12 +110739,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
 <li>
 tprobability
 </li>
@@ -112628,13 +112238,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
-</li>
-<li>
-tcoin
 </li>
 </ul>
 </div>
@@ -113779,9 +113386,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -117539,16 +117143,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdate
-</li>
-<li>
 tmoney
-</li>
-<li>
-testimate
 </li>
 </ul>
 </div>
@@ -126214,12 +125809,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -127895,9 +127484,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -128649,16 +128235,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
+tnumber
 </li>
 </ul>
 </div>
@@ -129436,13 +129013,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
-</li>
-<li>
-tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -129928,9 +129499,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tstatistics
 </li>
 <li>
@@ -130101,10 +129669,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -130164,12 +129729,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -130226,10 +129785,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -130285,13 +129841,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tinfer
+talgebra
 </li>
 </ul>
 </div>
@@ -130355,15 +129905,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunit
-</li>
 <li>
 tarea
 </li>
@@ -132958,13 +132499,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tfactor
+tnumber
 </li>
 </ul>
 </div>
@@ -133806,10 +133341,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tprofit
 </li>
 </ul>
 </div>
@@ -136007,12 +135539,6 @@ For which map will Matteo require the most colours?
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>
@@ -141400,10 +140926,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -145775,13 +145298,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -146913,9 +146430,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -150924,13 +150438,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tratio
 </li>
 </ul>
 </div>
@@ -153812,12 +153320,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
 <li>
 tprobability
 </li>
@@ -156763,12 +156265,6 @@ $5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -158358,10 +157854,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tprofit
 </li>
 </ul>
 </div>
@@ -162052,12 +161545,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -162304,12 +161791,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
 <li>
 tprobability
 </li>
@@ -164330,12 +163811,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
-<li>
 tprobability
 </li>
 </ul>
@@ -164464,9 +163939,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -164846,9 +164318,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgraph
 </li>
@@ -165946,13 +165415,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
+</li>
+<li>
+ttrialerror
 </li>
 </ul>
 </div>
@@ -166174,9 +165640,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tstatistics
 </li>
@@ -167474,13 +166937,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -168099,16 +167559,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
+talgebra
 </li>
 <li>
 tmoney
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -169040,9 +168494,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
 </li>
 <li>
@@ -169647,12 +169098,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tarea
 </li>
@@ -171737,16 +171182,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tarea
 </li>
 <li>
 tperimeter
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -175559,10 +174998,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
+tmoney
 </li>
 </ul>
 </div>
@@ -177010,16 +176446,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tprobability
-</li>
-<li>
-tstatistics
 </li>
 </ul>
 </div>
@@ -177954,9 +177381,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>
@@ -179036,13 +178460,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
+talgebra
 </li>
 </ul>
 </div>
@@ -179421,16 +178839,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedaddition
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>
@@ -179476,16 +178885,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 trecipe
 </li>
 <li>
 tratio
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -179884,13 +179287,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -179929,9 +179326,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -183122,9 +182516,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
@@ -183439,9 +182830,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -185191,9 +184579,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -185982,10 +185367,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -187543,9 +186925,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
@@ -187708,9 +187087,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -188133,16 +187509,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-ttime
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -189746,9 +189113,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -189867,9 +189231,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -194072,9 +193433,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
 </li>
 <li>
@@ -194193,12 +193551,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -194239,12 +193591,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>
@@ -194475,10 +193821,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -194634,9 +193977,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -194838,9 +194178,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgraph
 </li>
@@ -198096,9 +197433,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
 </li>
 <li>
@@ -198532,9 +197866,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -205958,13 +205289,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tinfer
-</li>
-<li>
-tprobability
 </li>
 </ul>
 </div>
@@ -211335,12 +210660,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tstatistics
 </li>
 </ul>
@@ -212448,12 +211767,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -213213,9 +212526,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -216848,10 +216158,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -217786,9 +217093,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -218266,12 +217570,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
 <li>
 tprobability
 </li>
@@ -218886,10 +218184,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpermutation
+talgebra
 </li>
 <li>
 tmoney
@@ -224058,12 +223353,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -225541,19 +224830,16 @@ $42$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
-tunitprompt
+tmoney
 </li>
 <li>
 tcoin
 </li>
 <li>
-tmoney
+tunitprompt
 </li>
 </ul>
 </div>
@@ -229659,12 +228945,6 @@ Ratio of Rurns and Diameters is smaller
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -230365,9 +229645,6 @@ $4\ \text{hrs} \ 2 \ \text{min}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -233393,12 +232670,6 @@ $M1$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -234230,152 +233501,6 @@ Mean Length $= 5.4 \ \text{m}$
 <div class='answer'>
 
 $5.4 \ \text{m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>7B238D76-DC32-4173-81A3-114829891742</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tprofit
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the summer sales, prices of items are reduced by $15 \%$. What 
-would be the sale price of a coat that originally cost $\pounds 30$?  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
-
-Let's use this to calculate the sale price.
-
-$
-\begin{aligned}
-\text{Sale price}               &= 85\% \text{ of } \pounds 30\\\\
-                                &= \dfrac {85 \times 30 } { 100 } \\\\
-                                &= \dfrac {85 \times 3\cancel{0} } { 10 \times 1\cancel{0} } \\\\
-                                &= \dfrac {85 \times 3 } { 10 } \\\\
-                                &= \dfrac {255 } { 10 } \\\\
-                                &= \pounds 25.50
-\end{aligned}
-$
-
-Sale price $= \pounds 25.50$
-
-</div>
-<div class='working'>
-
-We can also calculate the reduction in the price first and use that to calculate 
-the final sale price. This approach involves little extra work though.
-
-$
-\begin{aligned}
-\text{Original price}           &= \pounds 30 \\\\
-\text{Reduction on price}       &= 15\% \\\\
-                                &= 15\% \text{ of } \pounds 30\\\\
-                                &= \dfrac {15 \times 30 } { 100 } \\\\
-                                &= \dfrac {15 \times 3\cancel{0} } { 10 \times 1\cancel{0} } \\\\
-                                &= \dfrac {15 \times 3 } { 10 } \\\\
-                                &= \dfrac {45 } { 10 } \\\\
-                                &= \pounds 4.50
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Sale price}               &= \text{Original price} - \text{Reduction on price} \\\\
-                                &= 30 - 4.50 \\\\
-                                &= \pounds 25.50
-\end{aligned}
-$
-
-Sale price $= \pounds 25.50$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 25.50$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>FF850235-7104-4915-9390-211E83691462</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Tim has a box containing $9$ red, $6$ blue and $5$ yellow counters. He 
-picks one counter at random without looking in the box. What 
-is the probability that he will NOT select a red counter?
-
-Give your answer as a fraction.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-**NOT** selecting a red counter is same as selecting a blue or yellow counter instead.
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac { 6 +  5 } {  6 + 5 + 9 } \\\\
-                    &= \dfrac { 11 } {  20 }
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac { 11 } {  20 }$
 
 </div>
 </div>
@@ -236846,229 +235971,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_oldpr question'>
 <div class='uuid'>
-<p>D62B63A1-CA82-4AA9-B4FE-290BB7B57B95</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Nigel folds a **__square__** piece of paper in half to give a rectangle which has a perimeter of $36 \ \text{cm}$. What is the area of the original square?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the side of the square (in $\text{cm}$) $= a$
-
-As the square is folded to form a rectangle, 
-
-Length of the rectangle $= a$
-
-Width of the rectangle $= \dfrac {a} { 2 }$
-
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
-
-Equating the perimeter to the length and width we get,
-
-$
-\begin{aligned}
-2 \times ( a + \dfrac {a} { 2 })    &= 36 \\\\
-2a + a                                 &= 36 \\\\
-3a                                     &= 36 \\\\
-a                                     &= \dfrac {36} { 3 } \\\\
-a                                   &= 12 \ \text{cm}
-\end{aligned}
-$
-
-Let's find the area of the square.
-
-$
-\begin{aligned}
-\text{Area}     &= \text{side} \times \text{side} \\\\
-                &= 12 \times 12 \\\\
-                &= 144 \ \text{cm}^{2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$144 \ \text{cm}^{2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>8BA1366E-EFBD-498C-A4B3-056CCEEA7FD8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Rachel buys three identical bags of sweets and five cans of drink, the total cost of these items came to $\pounds 4.90$. 
-Rosie buys just one bag of sweets and three cans of drink and pays $\pounds 2.70$.
-
-What is the cost of a bag of sweets?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cost of a bag of sweets (in $\text{pence}$) $= s$
-
-Let the cost of a can of drink (in $\text{pence}$) $= d$
-
-It is really important to use the right units in calculations and convert where required. Let's convert both the costs into pence.
-
-As per the question,
-
-$
-\begin{aligned} 
-3s + 5d &= 490 \\\\
-s + 3d &= 270
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-But which one should we eliminate? If we look at the question again, we only need the 
-cost for a bag of sweets, so let's eliminate $d$ so we can directly calculate the value for $s$.
-
-The LCM of $5$ and $3$ is $15$. Multiply the first equation by $3$ and the second equation by $5$ to make the coeifficent of $d$ the same.
-
-$
-\begin{aligned} 
-3 \times 3s + 3 \times 5d   &= 3 \times 490 \\\\
-5 \times  s + 5 \times 3d   &= 5 \times 270 \\\\
-9s + 15d                    &= 1470 \\\\
-5s + 15d                    &= 1350
-\end{aligned}
-$
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned} 
-9s + 15d -(5s + 15d)               &= 1470 - 1350 \\\\
-9s + 15d -5s - 15d                 &= 120 \\\\
-4s                                 &= 120 \\\\
-s                                  &= \dfrac{120}{4} \\\\
-s                                  &= 30 \ \text{pence}
-\end{aligned}
-$
-
-Cost of a bag of sweets $= 30 \ \text{pence}$.
-
-</div>
-<div class='working'>
-
-What if we eliminate $s$ instead?
-
-This approach is less efficient as we will have to calculate one extra value to get the answer.
-
-Let's eliminate to reduce it to just one variable. 
-
-Multiply the second equation by $3$.
-
-$
-\begin{aligned} 
-3 \times s + 3 \times 3d   &= 3 \times 270 \\\\
-3s + 9d                     &= 810
-\end{aligned}
-$
-
-Subtract the first equation from the second to reduce it to one variable.
-
-$
-\begin{aligned} 
-3s + 5d                     &= 490 \\\\
-3s + 9d                     &= 810 \\\\
-3s + 9d - (3s + 5d)         &= 810 - 490 \\\\
-3s + 9d -3s - 5d            &= 320 \\\\
-4d                          &= 320 \\\\
-d                           &= \dfrac {320} {4} \\\\
-d                           &= 80  \ \text{pence}
-\end{aligned}
-$
-
-Cost of a can of drink $= 80  \ \text{pence}$. 
-
-Let's substitute the value of $d$ in one of the initial equations to find the cost of a bag of sweets.
-
-$
-\begin{aligned} 
-3s + 5d             &= 490 \\\\
-3s + 5 \times 80    &= 490 \\\\
-3s + 400            &= 490 \\\\
-3s                  &= 490 - 400 \\\\
-3s                  &= 90 \\\\
-s                   &= \dfrac {90} {3}\\\\
-s                   &= 30 \ \text{pence}
-\end{aligned}
-$
-
-Cost of a bag of sweets $= 30 \ \text{pence}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text{pence}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
 <p>E2B23658-50CC-43B0-813D-B11A7DDE570B</p>
 </div>
 <div class='topics'>
@@ -237124,60 +236026,6 @@ $
 <div class='answer'>
 
 $130 \ \text {grams}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>E6588871-D766-4716-B6B4-2BB08ABB7D9F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A bag contains coloured counters of just **__two__** colours.  There are twenty green counters numbered $1$ to $20$ and thirty blue counters numbered $1$ to $30$. What is the probability of picking a counter from the bag which is a multiple of four?
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned} 
-\text{Count of multiples of } 4 \text{ in green}    &= 4, 8, 12, 16, 20 \\\\
-                                                    &= 5 \\\\
-\text{Count of multiples of } 4 \text{ in blue}     &= 4, 8, 12, 16, 20, 24, 28 \\\\
-                                                    &= 7 \\\\
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                                                    &= \dfrac { 5 + 7 } {  50 } \\\\
-                                                    &= \dfrac { 12 } {  50 } \\\\
-                                                    &= \dfrac { 2 \times 6 } {  2 \times 25 } \\\\
-                                                    &= \dfrac { \cancel{2} \times 6 } {  \cancel{2} \times 25 } \\\\
-                                                    &= \dfrac { 6 } { 25 }
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac { 6 } { 25 }$
 
 </div>
 </div>
@@ -237516,12 +236364,6 @@ $11, 13, 17, 31, 37, 71, 73, 79, 97$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tratio
 </li>
@@ -240592,12 +239434,6 @@ $5 \ \text {secs}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -241726,9 +240562,6 @@ $1.5$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -243263,12 +242096,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>
@@ -245594,9 +244421,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgraph
 </li>
 <li>
@@ -246486,13 +245310,7 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgraph
-</li>
-<li>
-tprobability
 </li>
 </ul>
 </div>
@@ -247253,13 +246071,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-ttime
 </li>
 </ul>
 </div>
@@ -247805,10 +246617,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -248959,9 +247768,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -249011,12 +247817,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 tprobability
 </li>
@@ -249226,10 +248026,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 <li>
 tstatistics
@@ -249481,9 +248278,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttable
 </li>
@@ -250848,13 +249642,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-ttable
+tstatistics
 </li>
 </ul>
 </div>
@@ -251058,9 +249846,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttable
 </li>
@@ -251997,10 +250782,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
+tmoney
 </li>
 </ul>
 </div>
@@ -252571,13 +251353,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
+talgebra
 </li>
 </ul>
 </div>
@@ -252994,9 +251770,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -262427,9 +261200,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -262480,10 +261250,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -262692,10 +261459,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -263806,10 +262570,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -264986,9 +263747,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -265038,9 +263796,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -265384,7 +264139,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
@@ -265974,16 +264729,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
 </li>
 <li>
 tmoney
-</li>
-<li>
-ttable
 </li>
 </ul>
 </div>

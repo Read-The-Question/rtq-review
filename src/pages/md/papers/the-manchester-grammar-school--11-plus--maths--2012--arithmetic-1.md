@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,9 +66,6 @@ $864$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -270,23 +267,20 @@ $57$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>7E7878A4-808C-4404-8B60-2FB05E498D2D</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -344,12 +338,12 @@ $4$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>123B050C-DB35-4294-97F0-0DCBAFF89F1E</p>
 </div>
@@ -411,12 +405,12 @@ $\pounds 75$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>6E6B11E1-CFDF-43B5-9CF2-E7E17FFE2599</p>
 </div>
@@ -470,7 +464,7 @@ $22$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -481,12 +475,6 @@ $22$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
 <li>
 tmoney
 </li>
@@ -528,7 +516,7 @@ $\pounds 1.40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B3120C19-2C89-411F-90CE-9EA04D6E4598</p>
 </div>
@@ -586,7 +574,7 @@ $48 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -727,7 +715,7 @@ Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
-&= 0.66, \quad \dfrac{3}{4}, \quad 70\%, \quad \dfrac{2}{3}, \quad \dfrac{6}{10} \\\\
+&= 0.66, \quad \dfrac {3} {4}, \quad 70\%, \quad \dfrac {2} {3}, \quad \dfrac {6} {10} \\\\
 &= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60
 \end{aligned}
 $
@@ -736,20 +724,19 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= 0.60, \quad 0.66, \quad 0.666, \quad  0.70, \quad 0.75
+&= 0.60, \quad 0.66, \quad 0.666, \quad  0.70, \quad 0.75 \\\\
+&= \dfrac {6} {10}, \quad 0.66, \quad \dfrac {2} {3}, \quad 70 \%, \quad \dfrac {3} {4}
 \end{aligned}
 $
 
-The number in the middle $= 0.666$.
-
-The number in the middle $= \dfrac{2}{3}$.
+The number in the middle $= \dfrac {2} {3}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{2}{3}$
+$\dfrac {2} {3}$
 
 </div>
 </div>

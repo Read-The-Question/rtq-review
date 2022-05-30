@@ -1,9 +1,710 @@
 ---
 slug: "owners/owner-ar-g1"
 title: "Owner - Aryan Rawat - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>6F087310-2750-47AA-8B72-0FD80BCEBA2B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$82 - 27 =5 \times {?}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing value $= a$,
+
+$
+\begin{aligned}
+82 - 27  &= 5 \times a \\\\
+5a       &= 55 \\\\
+a        &= \dfrac {55} {5} \\\\
+a        &= \dfrac {5 \times 11} {5} \\\\
+a        &= \dfrac {\cancel {5} \times 11} {\cancel {5} } \\\\
+a        &= 11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>8F3672CB-7B07-47D0-9892-C621FC3A2EE8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a shape.
+
+![missing image](/papers/missing_image.svg)
+
+I turn the shape through $45 \degree$ **clockwise**.
+
+Tick $(\checkmark)$ the diagram that shows the shape **after** the turn. 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+D
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+D
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>DF2452BE-A907-4F55-9C53-1A472B3B035D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these fractions is equal to $0.8$?
+
+- $\dfrac{1}{8}$
+- $\dfrac{4}{5}$
+- $\dfrac{8}{100}$
+- $\dfrac{0.8}{10}$
+- $\dfrac{2}{5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.8 \\\\
+&= \dfrac {8} {10} \\\\
+&= \dfrac {4 \times 2} {5 \times 2} \\\\
+&= \dfrac {4 \times \cancel{2} } {5 \times \cancel{2} } \\\\
+&= \dfrac {4} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$\dfrac {4} {5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>4DC6032C-769F-4D01-A831-92EA63A4A990</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these is the smallest?
+
+-  $0.0801$ 
+-  $0.08$ 
+-  $0.081$ 
+-  $0.08001$
+-  $0.0888$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+0.08
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$0.08$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>85FD3DB9-A666-4D58-8BAE-262C8ECA3FB7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$12 - 2 \times 4 + 3 =$
+
+-  $7$ 
+-  $-2$ 
+-  $43$ 
+-  $70$
+-  $1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 12 - 2 \times 4 + 3 \\\\
+&= 12 - 8 + 3 \\\\
+&= 12 - 5 \\\\
+&= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>8F66D2BA-D78E-4C07-BD24-B7741E19A525</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the value of the digit $9$ in the number $32.597$?
+
+-  nine hundred 
+-  nine 
+-  nine tenths 
+-  nine hundredths 
+-  nine thousandths 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$nine tenths$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$nine tenths$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>7CFBB3E2-4126-48CA-A265-D062FE8189AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+MULTIPLE CHOICE
+
+Circle the correct answer to the questions in this section 
+
+How many seconds are there in four minutes?
+
+-  $4$ 
+-  $60$ 
+-  $460$ 
+-  $240$
+-  $3600$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+1 minute $= 60$ seconds
+
+$
+\begin{aligned}
+&= 4 \times 60 \\\\
+&= 240 \ \text {seconds}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$240$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>76567C03-AF5A-4917-9FAE-4EAFF191E689</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these fractions is equal to $0.3$?
+
+-  $\dfrac{3}{10}$
+-  $\dfrac{1}{3}$
+-  $\dfrac{10}{3}$
+-  $\dfrac{3}{1}$
+-  $\dfrac{3}{6}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.3 \\\\
+&= \dfrac {0.3 \times 10} {10} \\\\
+&= \dfrac {3} {10}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$\dfrac{3} {10}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>F6409296-091D-4E51-B3B1-7DF9D8DCC5CC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these is the smallest?
+
+-  $0.0701$ 
+-  $0.701$ 
+-  $0.071$ 
+-  $0.07$ 
+-  $0.0777$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.07$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$0.07$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>162AA59F-08CC-4B9C-8C47-3D255B74EFFE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+testimate
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The most likely height of a single-decker bus is:
+
+-  $0.25 \ \text{cm}$ 
+-  $2.5 \ \text{cm}$ 
+-  $25 \ \text{cm}$ 
+-  $250 \ \text{cm}$ 
+-  $2500 \ \text{cm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2500 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$2500 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>723278F6-68EA-4B8A-A325-641508B83065</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$16 \times 2 - 2 \times 4 =$
+
+-  $0$ 
+-  $4$ 
+-  $12$ 
+-  $24$ 
+-  $120$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 16 \times 2 - 2 \times 4 \\\\
+&= 32 - 8 \\\\
+&= 24
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>53DC209F-8A5F-49BF-8896-B33B61A97645</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two of the angles in a triangle are $25 \degree$ and $107 \degree$. The third angle is:
+
+-  $28 \degree$ 
+-  $48 \degree$ 
+-  $68 \degree$ 
+-  $88 \degree$ 
+-  $180 \degree$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle $= a$
+
+As we know sum of all angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+25 + 107 + a &= 180 \\\\
+132 + a      &= 180 \\\\
+a            &= 180 - 132 \\\\
+a            &= 48 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$48 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
@@ -546,12 +1247,6 @@ $80 \ \text {cm}^2$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>
@@ -1419,9 +2114,6 @@ $51$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -2062,16 +2754,10 @@ $0.175 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tratio
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tnumber
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -2279,9 +2965,6 @@ $\pounds 51.9$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -2688,10 +3371,7 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>

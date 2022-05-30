@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-all"
 title: "Owner - Nitin Joshi - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -635,9 +635,6 @@ $1.44$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1495,9 +1492,6 @@ $\text {E}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -3428,9 +3422,6 @@ $3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -4283,7 +4274,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>47724B7C-71A5-4E55-B831-A798B3984E25</p>
 </div>
@@ -4582,7 +4573,7 @@ $\dfrac {2} {3}, \dfrac {2} {9}$
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -5061,15 +5052,6 @@ $270 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tfraction
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -5463,9 +5445,6 @@ $3.6 \ \text {m} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -5667,9 +5646,6 @@ $3.90$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -8488,9 +8464,6 @@ $23$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
@@ -8651,9 +8624,6 @@ $18 \text{hours}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -9063,16 +9033,7 @@ Obtuse angle
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
 tprobability
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -9297,12 +9258,6 @@ $\text {Impossible}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -9342,18 +9297,12 @@ $\pounds 1.720$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 tmoney
 </li>
@@ -9389,7 +9338,7 @@ $\pounds 2.150$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -9623,12 +9572,6 @@ $6280$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tprofit
 </li>
 </ul>
@@ -9676,10 +9619,7 @@ $\pounds 57.85$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
+tsimpleword
 </li>
 </ul>
 </div>
@@ -10380,16 +10320,7 @@ $29$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
 tmoney
-</li>
-<li>
-tunit
 </li>
 </ul>
 </div>
@@ -10809,13 +10740,7 @@ $742  \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -10927,9 +10852,6 @@ $4.565$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -10986,9 +10908,6 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
 </li>
 <li>
@@ -11039,12 +10958,6 @@ $\pounds 0.23$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
 <li>
 tprobability
 </li>
@@ -11311,12 +11224,6 @@ $122 \ \text {g}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tprofit
 </li>
@@ -12021,12 +11928,6 @@ $41.36$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -12505,9 +12406,6 @@ $4.565$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -12564,12 +12462,6 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -12617,12 +12509,6 @@ $\pounds 0.22$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
 <li>
 tprobability
 </li>
@@ -13438,12 +13324,6 @@ $11$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 tmoney
 </li>
@@ -14281,12 +14161,6 @@ $264$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tprofit
 </li>
@@ -15184,9 +15058,6 @@ $4.565$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -15242,12 +15113,6 @@ $4$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
 <li>
 tprobability
 </li>
@@ -16160,12 +16025,6 @@ $0.067, \quad 0.106, \quad 0.161, \quad 0.601$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -16213,9 +16072,6 @@ $20 \ \%$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>
@@ -16786,12 +16642,6 @@ $30.282$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -17005,13 +16855,7 @@ $80$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -17167,9 +17011,6 @@ $86400 \ \text {seconds}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -17228,9 +17069,6 @@ $20 \ \text {p}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tprofit
 </li>
@@ -17446,15 +17284,12 @@ $48 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>E61C8C9B-56DA-468B-93C1-334429701990</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -17581,6 +17416,8 @@ $
                                       &= 2000 - 1472 \\\\
                                       &= 528 \ \text {p} \\\\
 \text {Cost of a chicken wing}        &= \dfrac {528} {16} \\\\
+                                      &= \dfrac {33 \times 16} {16} \\\\
+                                      &= \dfrac {33 \times \cancel {16}} {\cancel {16}} \\\\
                                       &= 33 \ \text {p}
 \end {aligned}
 $
@@ -17619,11 +17456,11 @@ Let the total number of slices in the shop $= a$.
 
 As per the question,
 
-Number of slices Donald bought $\dfrac {1} {3} \times a = \dfrac {a} {3}$.
+Number of slices Donald bought $= \dfrac {1} {3} \times a = \dfrac {a} {3}$.
 
-Remaining slices in the shop $a - \dfrac {a} {3} = \dfrac {2a} {3}$.
+Remaining slices in the shop $= a - \dfrac {a} {3} = \dfrac {2a} {3}$.
 
-Number of slices Alisha bought $\dfrac {2a} {3} \times {1} {6} = \dfrac {a} {9}$.
+Number of slices Alisha bought $= \dfrac {2a} {3} \times \dfrac {1} {6} = \dfrac {a} {9}$.
 
 $
 \begin{aligned}
@@ -17636,7 +17473,7 @@ $
 
 Total number of slices in the shop $= 27$.
 
-Donald bought $\dfrac {27} {3} = 9$ slices.
+Donald bought $= \dfrac {27} {3} = 9$ slices.
 
 Donald bought $9 - 3 = 6$ slices more than Alisha.
 
@@ -17695,12 +17532,7 @@ Lamb chops cost $3 \times 1.20 = \pounds 3.60$.
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 3.60$
-
-</div>
-<div class='answer'>
-
-$\pounds 1.20$
+$\pounds 3.60, \pounds 1.20$
 
 </div>
 </div>
@@ -17712,20 +17544,17 @@ $\pounds 1.20$
 <p>highgate-school--11-plus--maths--9999--sample-paper-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A6500005-118B-466A-8D63-6650ABAEA7AA</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tarea
 </li>
@@ -17960,7 +17789,7 @@ $\pounds 360$
 <p>highgate-school--11-plus--maths--9999--sample-paper-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -17972,22 +17801,7 @@ $\pounds 360$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tprofit
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -18333,9 +18147,6 @@ $49$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -18542,13 +18353,7 @@ $336$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-ttime
+tratio
 </li>
 </ul>
 </div>
@@ -18689,16 +18494,10 @@ $53018$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tunitprompt
-</li>
-<li>
 tratio
 </li>
 <li>
-tmoney
+tunitprompt
 </li>
 </ul>
 </div>
@@ -18935,7 +18734,7 @@ $34$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>DACF41B7-F660-4A37-8522-2D3B2583F3CA</p>
 </div>
@@ -18966,13 +18765,13 @@ As per the question,
 
 $
 \begin{aligned}
-3    & = 41 - 2a \\\\
-2a   & = 41 - 3 \\\\
-2a   & = 38 \\\\
-a    & = \dfrac{38} {2} \\\\
-a    & = \dfrac{19 \times 2}{2} \\\\
-a    & = \dfrac{19 \times \cancel 2} {\cancel 2} \\\\
-a    & = 19
+41 - 2a     &= 3 \\\\
+2a          & = 41 - 3 \\\\
+2a          & = 38 \\\\
+a           & = \dfrac {38} {2} \\\\
+a           & = \dfrac {19 \times 2} {2} \\\\
+a           & = \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
+a           & = 19
 \end{aligned}
 $
 
@@ -18992,7 +18791,7 @@ $19$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -19101,12 +18900,6 @@ $0.392$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -19149,7 +18942,7 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A08A53F2-4639-4CF6-B48B-30A2B0959606</p>
 </div>
@@ -19239,11 +19032,11 @@ The number of inches in $5 \ \text{centimetres}$.
 
 $
 \begin{aligned}
-12 \ \text {inches}                           & = 30 \ \text {cm} \\\\\
-\dfrac {12} {6}                               & = \dfrac {30} {6} \\\\\
-\dfrac {2 \times 6} {6}                       & = \dfrac {5 \times 6} {6} \\\\\
-\dfrac {2 \times \cancel {6}} {\cancel {6}}   & = \dfrac {5 \times \cancel {6}} {\cancel {6}} \\\\\
-2 \ \text {inches}                            & = 5 \ \text {cm} \\\\\
+12 \ \text {inches}                           & = 30 \ \text {cm} \\\\
+\dfrac {12} {6}                               & = \dfrac {30} {6} \\\\
+\dfrac {2 \times 6} {6}                       & = \dfrac {5 \times 6} {6} \\\\
+\dfrac {2 \times \cancel {6}} {\cancel {6}}   & = \dfrac {5 \times \cancel {6}} {\cancel {6}} \\\\
+2 \ \text {inches}                            & = 5 \ \text {cm}
 \end{aligned}
 $
 
@@ -19279,16 +19072,16 @@ The measurement is given in multiple units and answer has to be in centimetres.
 
 $
 \begin{aligned}
-1 \ \text {feet}   & = 30 \ \text {cm} \\\\\
+1 \ \text {feet}   & = 30 \ \text {cm} \\\\
 1 \ \text {inches} & = 2.5 \ \text {cm}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-& = 9 \ \text{feet} 10 \ \text{inches} \\\\
+& = 9 \ \text{feet} \ 10 \ \text{inches} \\\\
 & = 9 \times 30 \ \text {cm} + 10 \times 2.5 \ \text {cm} \\\\
-& = 180 + 25 \\\\
+& = 270 + 25 \\\\
 & = 295 \ \text {cm}
 \end{aligned}
 $
@@ -19310,7 +19103,7 @@ $295 \ \text {cm}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -19464,15 +19257,12 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>BCD8F98E-1992-48C8-9BF7-D16279322487</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -19492,14 +19282,21 @@ $
 <div class='workings'>
 <div class='working'>
 
-$\large { \boxed{1} \ \boxed{3} \times \boxed{6} = \ \boxed{7} \ \boxed{8}}$
+$
+\begin {aligned}
+       &    1   &   3 \\
+\times &        &   7 \\
+\hline
+       &    7   &   8
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\large { \boxed{1} \ \boxed{3} \times \boxed{6} = \ \boxed{7} \ \boxed{8}}$
+$78$
 
 </div>
 </div>
@@ -19508,7 +19305,7 @@ $\large { \boxed{1} \ \boxed{3} \times \boxed{6} = \ \boxed{7} \ \boxed{8}}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -19524,6 +19321,9 @@ tunassigned
 </li>
 <li>
 tnumber
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -19655,7 +19455,7 @@ $\text {sometimes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>7F32C156-E6CA-40AB-9A96-8977312C93E4</p>
 </div>
@@ -19689,7 +19489,6 @@ $
 2 \times a + \dfrac {1} {2} \times a + a           &= 42 \\\\
 2a + \dfrac {a} {2} + a                            &= 42 \\\\
 3a + \dfrac {a} {2}                                &= 42 \\\\
-\dfrac {3a} {1} + \dfrac {a} {2}                   &= 42 \\\\
 \dfrac {3a \times 2} {1 \times 2} + \dfrac {a} {2} &= 42 \\\\
 \dfrac {6a} {2} + \dfrac {a} {2}                   &= 42 \\\\
 \dfrac {6a + a} {2}                                &= 42 \\\\
@@ -19718,12 +19517,12 @@ $12$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>088B2A67-528B-448E-B808-3774226A5A3B</p>
 </div>
@@ -19821,12 +19620,12 @@ $\text {fifteen}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>6247B84C-67BA-4837-942E-898B6625652A</p>
 </div>
@@ -19920,21 +19719,20 @@ She leaves the UK at the same time that John makes his phone call. Given that th
 
 $
 \begin{aligned}
-& = 23{:}00 + 27 \ \text {hours} \\\\
-& = 3{:}00
+& = 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
+& = 23{:}00 + 24 \ \text {hours} + 14 \ \text {hours} \\\\
+& = 13{:}00
 \end{aligned}
 $
 
-Penny arrives in Sydney at $= 3{:}00$ and on $1 \text {st February}$. 
-
-
+Penny arrives in Sydney at $= 13{:}00$ and on $1 \text {st February}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3{:}00$
+$13{:}00$
 
 </div>
 <div class='answer'>
@@ -19951,25 +19749,19 @@ $1 \text{st February}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>7891F44B-DBD0-432D-99F6-2DCC4D96B8B3</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tdecimal
 </li>
 </ul>
 </div>
@@ -20052,16 +19844,16 @@ $
 
 $\pounds 2.16 = \pounds 2 + \pounds 0.10 + \pounds 0.05 + \pounds 0.01$
 
-$\pounds 2.16 = \pounds 2 + 10 \text {p} + 5\text {p} + 1\text {p}$
+$\pounds 2.16 = \pounds 2 + 10 \text {p} + 5 \text {p} + 1 \text {p}$
 
-The coins were $\pounds 2, 10 \text {p}, 5\text {p} and 1\text {p}$
+The coins were $\pounds 2, 10 \text {p}, 5 \text {p} \ \text {and} \ 1 \text {p}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2, 10 \text {p}, 5\text {p} and 1\text {p}$
+$\pounds 2, 10 \text {p}, 5 \text {p} \ \text {and} \ 1 \text {p}$
 
 </div>
 </div>
@@ -20168,7 +19960,7 @@ So, Simon ordered $= 2$ Meat Pie, $1$ Cup of Tea and $1$ Cups of Coffee
 <div class='answers'>
 <div class='answer'>
 
-$2 \text {Meat Pie}, 1 \text {Cup of Tea}, 1 \text {Cups of Coffee}$
+$2 \ \text {Meat Pie}, 1 \ \text {Cup of Tea}, 1 \ \text {Cups of Coffee}$
 
 </div>
 </div>
@@ -20180,7 +19972,7 @@ $2 \text {Meat Pie}, 1 \text {Cup of Tea}, 1 \text {Cups of Coffee}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -21044,9 +20836,6 @@ $34$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -21145,9 +20934,6 @@ $38$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -22066,9 +21852,6 @@ $2667$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -22437,10 +22220,7 @@ $8, 14, 21$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -23500,9 +23280,6 @@ $2745$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -24465,13 +24242,10 @@ $\text {Prime numbers}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
+</li>
+<li>
+tratio
 </li>
 </ul>
 </div>
@@ -24816,10 +24590,7 @@ $26$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -24866,15 +24637,12 @@ $\pounds 52.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -24921,14 +24689,14 @@ Write the time her clock actually shows, using the $12$-hour clock.
 <div class='workings'>
 <div class='working'>
 
-$1{:}41$
+$1{:}41 \ \text {p.m}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1{:}41$
+$1{:}41 \ \text {p.m}$
 
 </div>
 </div>
@@ -25055,12 +24823,12 @@ $
 \begin{aligned}
 \text {They remained silent for}     &= \text {Holly's silence time} + \text {Rebecca's silence time} + \text {Stacey's silence time} \\\\
                                      &= (16{:}29 - 15{:}00) + (17{:}08 - 15{:}00) + (16{:}23 - 15{:}00) \\\\
-                                     &= 1 \ \text{hour} \ 29 \ \text{minutes} + 2 \ \text{hour} \ 8 \ \text{minutes} + 1 \ \text{hour} \ 23 \ \text{minutes} \\\\
-                                     &= 1 \times 60 \ \text{minutes} + 29 \ \text{minutes} + 2 \times 60 \ \text{minutes} + 8 \ \text{minutes} + 1 \times 60 \ \text{minutes} + 23 \ \text{minutes} \\\\
+                                     &= 1 \ \text {hour} \ 29 \ \text {minutes} + 2 \ \text {hour} \ 8 \ \text {minutes} + 1 \ \text {hour} \ 23 \ \text {minutes} \\\\
+                                     &= 1 \times 60 \ \text {minutes} + 29 \ \text {minutes} + 2 \times 60 \ \text {minutes} + 8 \ \text {minutes} + 1 \times 60 \ \text {minutes} + 23 \ \text {minutes} \\\\
                                      &= 60 + 29 + 120 + 8 + 60 + 23 \\\\
-                                     &= 300 \ \text{minutes} \\\\
+                                     &= 300 \ \text {minutes} \\\\
 \text {Total money raised}           &= 300 \times 10 \\\\
-                                     &= 3000 \text {pence}
+                                     &= 3000 \ \text {pence}
 \end{aligned}
 $
 
@@ -25069,7 +24837,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3000 \text {pence}$
+$3000 \ \text {pence}$
 
 </div>
 </div>
@@ -25084,7 +24852,7 @@ $3000 \text {pence}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -25716,9 +25484,6 @@ $1667$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -26475,10 +26240,7 @@ $17.13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -26723,13 +26485,7 @@ $36$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tnumber
+talgebra
 </li>
 </ul>
 </div>
@@ -27655,9 +27411,6 @@ $1686$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -27751,7 +27504,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D051087C-D302-45A1-8E7F-00AC09D3B57D</p>
 </div>
@@ -27778,10 +27531,10 @@ The next number is calculated by multiplying $2$ to the difference. Hence, the s
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+6)} } 
-&&  \footnotesize {\maroonC {(+12)} }  
-&&  \footnotesize {\maroonC {(+24)} }   
-&&  \footnotesize {\maroonC {(+48)} }   
+&   \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+12)} }
+&&  \footnotesize {\maroonC {(+24)} }
+&&  \footnotesize {\maroonC {(+48)} }
 &&  \footnotesize {\maroonC {(+96)} }  \\
 5,  &&   11,  &&  23,  &&   47, && \ldots, && \ldots
 \end{matrix}
@@ -27810,7 +27563,7 @@ $95, 191$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -29190,13 +28943,7 @@ $\text {Getting a head with a fair coin}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunit
+tsimpleword
 </li>
 </ul>
 </div>
@@ -29632,7 +29379,7 @@ $8{:}08 \ \text {a.m.}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B</p>
 </div>
@@ -29693,11 +29440,14 @@ Let's first find the missing edges.
 
 Middle missing edge is $2$ as the parallel edge is $2$
 
-P $= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2$
+$
+\begin{aligned}
+\text {Perimeter} &= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2 \\\\
+                  &= 42 \ \text {cm}
+\end{aligned}
+$
 
-P $= 42 \ \text {cm}$
-
-Perimeter of letter F is $42 \ \text {cm}$
+Perimeter of letter F $= 42 \ \text {cm}$
 
 </div>
 </div>
@@ -29727,17 +29477,16 @@ Find the area of this letter $F$.
 
 "F" is an irregular shape. However, it can be broken up into 3 regular rectangles.
 
-Area of a rectangle $= length \times width$
+Area of a rectangle $= \text {length} \times \text {width}$
 
 $
 \begin{aligned}
 \text {Area} &= \text {area of left rectangle} + \text {area of middle rectangle} + \text {area of top rectangle} \\\\
              &= (13 \times 2) + (2 \times 2) + (4 \times 2) \\\\
              &= 26 + 4 + 8 \\\\
-             &= 38 \ \text {cm} ^ 2 \\\\
+             &= 38 \ \text {cm} ^ 2
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -29756,12 +29505,12 @@ $38 \ \text {cm} ^ 2$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24</p>
 </div>
@@ -29923,7 +29672,7 @@ $
 10 \times \text {FAB} \ 9               &= \text {FAB} \ 10 \\\\
 \text {FAB} \ 9                         &= \dfrac {\text {FAB} \ 10} {10} \\\\
 \text {FAB} \ 9                         &= \dfrac {3628800} {10} \\\\
-\text {FAB} \ 9                         &= 362880 \\\\
+\text {FAB} \ 9                         &= 362880
 \end{aligned}
 $
 
@@ -29944,7 +29693,7 @@ $362880$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -30958,9 +30707,6 @@ $43$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -31164,23 +30910,20 @@ $100  \ \text {calories}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>EE1F9669-3D5F-4C89-85B1-F004C01C7CF7</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
 talgebra
 </li>
 <li>
 tmoney
+</li>
+<li>
+tcoin
 </li>
 </ul>
 </div>
@@ -31248,7 +30991,7 @@ $60$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

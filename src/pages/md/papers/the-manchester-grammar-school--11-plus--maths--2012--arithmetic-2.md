@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-29 22:47:20
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B</p>
 </div>
@@ -74,11 +74,14 @@ Let's first find the missing edges.
 
 Middle missing edge is $2$ as the parallel edge is $2$
 
-P $= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2$
+$
+\begin{aligned}
+\text {Perimeter} &= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2 \\\\
+                  &= 42 \ \text {cm}
+\end{aligned}
+$
 
-P $= 42 \ \text {cm}$
-
-Perimeter of letter F is $42 \ \text {cm}$
+Perimeter of letter F $= 42 \ \text {cm}$
 
 </div>
 </div>
@@ -108,17 +111,16 @@ Find the area of this letter $F$.
 
 "F" is an irregular shape. However, it can be broken up into 3 regular rectangles.
 
-Area of a rectangle $= length \times width$
+Area of a rectangle $= \text {length} \times \text {width}$
 
 $
 \begin{aligned}
 \text {Area} &= \text {area of left rectangle} + \text {area of middle rectangle} + \text {area of top rectangle} \\\\
              &= (13 \times 2) + (2 \times 2) + (4 \times 2) \\\\
              &= 26 + 4 + 8 \\\\
-             &= 38 \ \text {cm} ^ 2 \\\\
+             &= 38 \ \text {cm} ^ 2
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -137,12 +139,12 @@ $38 \ \text {cm} ^ 2$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24</p>
 </div>
@@ -304,7 +306,7 @@ $
 10 \times \text {FAB} \ 9               &= \text {FAB} \ 10 \\\\
 \text {FAB} \ 9                         &= \dfrac {\text {FAB} \ 10} {10} \\\\
 \text {FAB} \ 9                         &= \dfrac {3628800} {10} \\\\
-\text {FAB} \ 9                         &= 362880 \\\\
+\text {FAB} \ 9                         &= 362880
 \end{aligned}
 $
 
@@ -325,7 +327,7 @@ $362880$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2379,12 +2381,6 @@ Ratio of Rurns and Diameters is smaller
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 tmoney
 </li>

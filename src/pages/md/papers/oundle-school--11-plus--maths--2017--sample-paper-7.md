@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-7"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 7"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,19 +20,7 @@ date: 2022-05-29 22:47:20
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tmoney
-</li>
-<li>
-tstatistics
-</li>
-<li>
-tpercentageadvance
 </li>
 </ul>
 </div>
@@ -885,10 +873,10 @@ $
 \dfrac {90 a} {500} - \dfrac {150 a} {500}                   &= 1.95 \\\\
 \dfrac {90 a - 150 a} {500}                                  &= 1.95 \\\\
 -\dfrac {60 a} {500}                                         &= 1.95 \\\\
-a                                                            &= \dfrac {1.95 \times 500} {60} \\\\
-a                                                            &= \dfrac {1.95 \times 50 \cancel {0}} {6 \cancel {0}}
-a                                                            &= \dfrac {1.95 \times 50} {6} \\\\
-a                                                            &= 16.25
+a                                                            &= - \dfrac {1.95 \times 500} {60} \\\\
+a                                                            &= - \dfrac {1.95 \times 50 \cancel {0}} {6 \cancel {0}} \\\\
+a                                                            &= - \dfrac {1.95 \times 50} {6} \\\\
+a                                                            &= - 16.25
 \end{aligned}
 $
 
@@ -897,7 +885,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16.25$
+$-16.25$
 
 </div>
 </div>
@@ -991,13 +979,13 @@ In a triangle, one of the angles is $45$ degrees. The other two angles in the tr
 
 $
 \begin{aligned}
-4x + 5x + 45                                                &= 180 \\\\
+4x \degrees + 5x  \degrees+ 45 \degrees                     &= 180 \degrees \\\\
 9x + 45                                                     &= 180 \\\\
 9x                                                          &= 180 - 45 \\\\
 9x                                                          &= 135 \\\\
 x                                                           &= 15 \\\\
-\text{So,5x}                                                &= 5 \times 15 \\\\
-                                                            &= 75
+5x                                                          &= 5 \times 15 \\\\
+5x                                                          &=75 \degrees
 \end{aligned}
 $
 
@@ -1006,7 +994,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$75$
+$75 \degrees$
 
 </div>
 </div>
@@ -1083,13 +1071,7 @@ $63$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentageadvance
+tprofit
 </li>
 </ul>
 </div>

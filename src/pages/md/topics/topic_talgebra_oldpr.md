@@ -1,9 +1,179 @@
 ---
 slug: "topics/topic-talgebra-oldpr"
 title: "Topic - Algebra - Old PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_jn_oldpr question'>
+<div class='uuid'>
+<p>245B324A-6DAB-4088-BFC8-09EDBB1D03E1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look carefully at the following five supermarket offers:
+
+A Buy one get one free.
+B Buy one get the second for half price.
+C Buy two get one free.
+D Buy four and pay only for three.
+E One-third off all prices.
+
+Two pairs of these offers actually give the same value for money. Write down the letters representing both of these pairs in the spaces below:
+
+$\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$ give the same value for money, and
+
+$\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$ give the same value for money.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let's take the original price $=a$
+
+Now let's find the number of items one gets in each of the offer and the money one has to pay for it.
+
+**Offer A : Buy one get one free.** 
+
+Items $=2$ 
+
+  Pay $=a$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}   \\\\
+    2                             & : a             \\\\
+    \dfrac {2}{2}                 & : \dfrac {a}{2} \\\\
+    \dfrac {\cancel 2}{\cancel 2} & : \dfrac {a}{2} \\\\
+    1                             & : \dfrac {a}{2} 
+\end{aligned}
+$
+
+**Offer B : Buy one get the second for half price.** 
+
+Items $=2$ 
+
+  Pay $=a + \dfrac{a}{2}$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}                                    \\\\
+    2                             & : a + \dfrac {a}{2}                               \\\\
+    2                             & : \dfrac {a}{1} + \dfrac {a}{2}                   \\\\
+    2                             & : \dfrac {a \times 2}{1 \times 2} + \dfrac {a}{2} \\\\
+    2 \times \dfrac{1}{2}         & : \dfrac {2a  + a} {2} \times  \dfrac{1}{2}       \\\\
+    \dfrac {\cancel 2}{\cancel 2} & : \dfrac {3a} {4}                                 \\\\
+    1                             & : \dfrac {3a}{4}                                  
+\end{aligned}
+$
+
+
+**Offer C : Buy two get one free.** 
+
+Items $=3$ 
+
+  Pay $=2a$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}       \\\\
+    3                             & : 2a                \\\\
+    \dfrac {3}{3}                 & : \dfrac {2a}{3}    \\\\
+    \dfrac {\cancel 3}{\cancel 3} & : \dfrac {2a}{3}    \\\\
+    1                             & : \dfrac {2a}{3} 
+\end{aligned}
+$
+
+
+**Offer D : Buy four and pay only for three.** 
+
+Items $=4$ 
+
+  Pay $=3a$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}     \\\\
+    4                             & : 3a              \\\\
+    \dfrac {4}{4}                 & : \dfrac {3a} {4} \\\\    
+    \dfrac {\cancel 4}{\cancel 4} & : \dfrac {3a} {4} \\\\
+    1                             & : \dfrac {3a}{4}  
+\end{aligned}
+$
+
+
+**Offer E : One-third off all prices** 
+
+Items $=1$ 
+
+  Pay $=a - \dfrac {1}{3}$
+
+
+$
+\begin{aligned} 
+    \text{Item} & : \text{Price}                                    \\\\
+    1           & : a - \dfrac {1}{3}                               \\\\
+    1           & : \dfrac {a}{1} - \dfrac {1}{3}                   \\\\
+    1           & : \dfrac {a \times 3}{1 \times 3} - \dfrac {1}{3} \\\\
+    1           & : \dfrac {3a} {3} -  \dfrac{1}{3}                 \\\\
+    1           & : \dfrac {3a - 1} {3}                             \\\\
+    1           & : \dfrac {2a}{3}                                  
+\end{aligned}
+$
+
+Ratio of one item cost under the offers:
+
+$
+\begin{aligned} 
+\text {Offer A} &= \dfrac {a}{2} \\\\
+\text {Offer B} &= \dfrac {3a}{4} \\\\
+\text {Offer C} &= \dfrac {2a}{3}  \\\\
+\text {Offer D} &= \dfrac {3a}{4} \\\\
+\text {Offer E} &= \dfrac {2a}{3}  \\\\    
+\end{aligned}
+$
+
+As we can see above,
+
+$B = D$ and $C = E$
+
+$\underline {\text {B}}$ and  $\underline {\text {D}}$ give the same value for money, and
+
+$\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for money.
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\underline {\text {B}}$ and  $\underline {\text {D}}$ give the same value for money, and
+
+$\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for money.
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_jn_oldpr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_oldpr question'>
 <div class='uuid'>
@@ -147,19 +317,16 @@ $25 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
-tunitprompt
+tmoney
 </li>
 <li>
 tcoin
 </li>
 <li>
-tmoney
+tunitprompt
 </li>
 </ul>
 </div>
@@ -372,229 +539,6 @@ $11\ \text {mm}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>D62B63A1-CA82-4AA9-B4FE-290BB7B57B95</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tarea
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Nigel folds a **__square__** piece of paper in half to give a rectangle which has a perimeter of $36 \ \text{cm}$. What is the area of the original square?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the side of the square (in $\text{cm}$) $= a$
-
-As the square is folded to form a rectangle, 
-
-Length of the rectangle $= a$
-
-Width of the rectangle $= \dfrac {a} { 2 }$
-
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
-
-Equating the perimeter to the length and width we get,
-
-$
-\begin{aligned}
-2 \times ( a + \dfrac {a} { 2 })    &= 36 \\\\
-2a + a                                 &= 36 \\\\
-3a                                     &= 36 \\\\
-a                                     &= \dfrac {36} { 3 } \\\\
-a                                   &= 12 \ \text{cm}
-\end{aligned}
-$
-
-Let's find the area of the square.
-
-$
-\begin{aligned}
-\text{Area}     &= \text{side} \times \text{side} \\\\
-                &= 12 \times 12 \\\\
-                &= 144 \ \text{cm}^{2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$144 \ \text{cm}^{2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>8BA1366E-EFBD-498C-A4B3-056CCEEA7FD8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Rachel buys three identical bags of sweets and five cans of drink, the total cost of these items came to $\pounds 4.90$. 
-Rosie buys just one bag of sweets and three cans of drink and pays $\pounds 2.70$.
-
-What is the cost of a bag of sweets?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cost of a bag of sweets (in $\text{pence}$) $= s$
-
-Let the cost of a can of drink (in $\text{pence}$) $= d$
-
-It is really important to use the right units in calculations and convert where required. Let's convert both the costs into pence.
-
-As per the question,
-
-$
-\begin{aligned} 
-3s + 5d &= 490 \\\\
-s + 3d &= 270
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-But which one should we eliminate? If we look at the question again, we only need the 
-cost for a bag of sweets, so let's eliminate $d$ so we can directly calculate the value for $s$.
-
-The LCM of $5$ and $3$ is $15$. Multiply the first equation by $3$ and the second equation by $5$ to make the coeifficent of $d$ the same.
-
-$
-\begin{aligned} 
-3 \times 3s + 3 \times 5d   &= 3 \times 490 \\\\
-5 \times  s + 5 \times 3d   &= 5 \times 270 \\\\
-9s + 15d                    &= 1470 \\\\
-5s + 15d                    &= 1350
-\end{aligned}
-$
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned} 
-9s + 15d -(5s + 15d)               &= 1470 - 1350 \\\\
-9s + 15d -5s - 15d                 &= 120 \\\\
-4s                                 &= 120 \\\\
-s                                  &= \dfrac{120}{4} \\\\
-s                                  &= 30 \ \text{pence}
-\end{aligned}
-$
-
-Cost of a bag of sweets $= 30 \ \text{pence}$.
-
-</div>
-<div class='working'>
-
-What if we eliminate $s$ instead?
-
-This approach is less efficient as we will have to calculate one extra value to get the answer.
-
-Let's eliminate to reduce it to just one variable. 
-
-Multiply the second equation by $3$.
-
-$
-\begin{aligned} 
-3 \times s + 3 \times 3d   &= 3 \times 270 \\\\
-3s + 9d                     &= 810
-\end{aligned}
-$
-
-Subtract the first equation from the second to reduce it to one variable.
-
-$
-\begin{aligned} 
-3s + 5d                     &= 490 \\\\
-3s + 9d                     &= 810 \\\\
-3s + 9d - (3s + 5d)         &= 810 - 490 \\\\
-3s + 9d -3s - 5d            &= 320 \\\\
-4d                          &= 320 \\\\
-d                           &= \dfrac {320} {4} \\\\
-d                           &= 80  \ \text{pence}
-\end{aligned}
-$
-
-Cost of a can of drink $= 80  \ \text{pence}$. 
-
-Let's substitute the value of $d$ in one of the initial equations to find the cost of a bag of sweets.
-
-$
-\begin{aligned} 
-3s + 5d             &= 490 \\\\
-3s + 5 \times 80    &= 490 \\\\
-3s + 400            &= 490 \\\\
-3s                  &= 490 - 400 \\\\
-3s                  &= 90 \\\\
-s                   &= \dfrac {90} {3}\\\\
-s                   &= 30 \ \text{pence}
-\end{aligned}
-$
-
-Cost of a bag of sweets $= 30 \ \text{pence}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text{pence}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>

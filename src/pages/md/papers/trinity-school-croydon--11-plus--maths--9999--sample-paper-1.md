@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -117,9 +117,6 @@ $3288$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -314,20 +311,14 @@ $10.47$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>EF6C4BDF-FB5F-47E7-A7CA-14BDC56D176E</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tfraction
+talgebra
 </li>
 </ul>
 </div>
@@ -349,12 +340,12 @@ $
 &= 68 - \dfrac {68} {4} \\\\
 &= 68 - \dfrac {17 \times 4} {4} \\\\
 &= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
-&= 68 - 17
+&= 68 - 17 \\\\
 &= \pounds 51
 \end{aligned}
 $
 
-Money left with Ben = $\pounds 51$
+Money left with Ben $= \pounds 51$
 
 </div>
 </div>
@@ -370,7 +361,7 @@ $\pounds 51$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -381,9 +372,6 @@ $\pounds 51$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -428,7 +416,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>F4722F0A-FE19-4DC1-BE2D-4BA0FACA8523</p>
 </div>
@@ -462,6 +450,7 @@ Pupil present = $18$
 Pupil absent = $\dfrac {2} {5} \ \text{of} \ t$
 
 Total pupil = pupil present + pupil absent
+
 $
 \begin{aligned}
 t                                                               &= 18 + \dfrac {2} {5} \times t \\\\
@@ -495,7 +484,7 @@ $30$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -507,10 +496,7 @@ $30$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -1017,7 +1003,7 @@ $\text {Largest} = 0.84, \text {Smallest} =  0.087$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>37279E76-7207-4B08-84B9-07B10F2972FD</p>
 </div>
@@ -1041,16 +1027,16 @@ Add together $3.7\, metres$ and $64\, cm$ and then subtract $2\, metres$ $7\,cm$
 
 It is really important to use the right units in calculations and convert where required. The measurement is given in meters and centimeteres but the answer has to be in meters.
 
-$1 \ \text{m} = 100 \text{cm} \\\\
-\dfrac {1} {100} \ \text{m} = 1 \text{cm}$
+$1 \ \text{m} = 100 \text{cm}$
+
+$\dfrac {1} {100} \ \text{m} = 1 \text{cm}$
 
 $
 \begin{aligned}
 &= 3.7 \ \text{m} + 64 \ \text{cm} - 2 \ \text {m} + 7 \ \text{cm}  \\\\
 &= 3.7 \ \text{m} + \dfrac {64} {100} \ \text{m} - 2 \ \text{m} + \dfrac {7} {100} \ \text{m} \\\\
-&= 3.7 \ \text{m} + 0.64 \text{m}  -  2 \text{m} + 0.07 \text{m} \\\\
+&= 3.7 \ \text{m} + 0.64 \ \text{m}  -  2 \ \text{m} + 0.07 \ \text{m} \\\\
 &= 4.34 \ \text{m} - 2.07 \ \text{m} \\\\
-&= 4.34 - 2.07 \text{m} \\\\
 &= 2.27 \ \text {m}
 \end{aligned}
 $
@@ -1069,7 +1055,7 @@ $2.27 \ \text{m}$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1081,10 +1067,7 @@ $2.27 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -117,9 +117,6 @@ $249$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -166,9 +163,6 @@ $104$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1778,10 +1772,7 @@ $33600$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -2046,9 +2037,6 @@ $7000$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -2137,9 +2125,9 @@ Calculate the angles marked with letters on the following diagrams.
 
 $
 \begin{aligned}
-135 + \text {a}          &=  180 \\\\
-\text {a}               &=  180 - 135 \\\\
-\text {a}               &=  45 \degree
+135 + a                 &=  180 \\\\
+a                       &=  180 - 135 \\\\
+a                       &=  45 \degree
 \end{aligned}
 $
 
@@ -2171,10 +2159,10 @@ $45 \degree$
 
 $
 \begin{aligned}
-174 + \text {e} + 90    &=  360 \\\\
-\text {e} + 264         &=  360 \\\\
-\text {e}               &=  360 - 264 \\\\
-\text {e}               &=  96 \degree
+174 + e + 90    &=  360 \\\\
+e + 264         &=  360 \\\\
+e               &=  360 - 264 \\\\
+e               &=  96 \degree
 \end{aligned}
 $
 
@@ -2208,19 +2196,19 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-62 + 45 + \text {f} &= 180 \\\\
-\text {f} + 107     &= 180 \\\\
-\text {f}           &= 180 - 107 \\\\
-\text {f}           &= 73 \degree
+62 + 45 + f &= 180 \\\\
+f + 107     &= 180 \\\\
+f           &= 180 - 107 \\\\
+f           &= 73 \degree
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {f} + \text {g} &=  180 \\\\
-73 + \text {g}        &=  180 \\\\
-\text {g}             &=  180 - 73 \\\\
-\text {g}             &=  107 \degree
+f + g     &=  180 \\\\
+73 + g    &=  180 \\\\
+g         &=  180 - 73 \\\\
+g         &=  107 \degree
 \end{aligned}
 $
 
@@ -3355,10 +3343,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
+tsimpleword
 </li>
 </ul>
 </div>

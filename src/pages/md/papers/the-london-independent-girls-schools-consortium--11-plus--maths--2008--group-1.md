@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -120,9 +120,6 @@ $6646$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -247,7 +244,7 @@ As per the question,
 $
 \begin{aligned}
 a \times b          &= 36 \\\\
-a + b                 &= 15
+a + b               &= 15
 \end{aligned}
 $
 
@@ -283,7 +280,7 @@ $3, 12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>80F59E43-EAF8-4829-9B47-980C2D298D21</p>
 </div>
@@ -331,12 +328,12 @@ $90$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>014D4DAF-E024-4E0F-B4D3-D05F245403AD</p>
 </div>
@@ -392,7 +389,7 @@ $3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -456,13 +453,7 @@ $290  \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>
@@ -536,10 +527,10 @@ $
 
 $
 \begin{aligned}
-\text{First number}       &= 9\dfrac{1}{2} + 1 \dfrac{1}{2} \\\\
-                                &= 11 \\\\
-\text{Second number}       &= 11 + 1 \dfrac{1}{2} \\\\
-                                &= 12 \dfrac{1}{2}
+\text{First missing number}       &= 9\dfrac{1}{2} + 1 \dfrac{1}{2} \\\\
+                                  &= 11 \\\\
+\text{Second missing number}      &= 11 + 1 \dfrac{1}{2} \\\\
+                                  &= 12 \dfrac{1}{2}
 \end{aligned}
 $
 
@@ -569,16 +560,7 @@ $11, 12 \dfrac{1}{2}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedaddition
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>
@@ -628,6 +610,9 @@ tunassigned
 </li>
 <li>
 tnumber
+</li>
+<li>
+tnoexpolational
 </li>
 </ul>
 </div>
@@ -734,16 +719,10 @@ $13587$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 trecipe
 </li>
 <li>
 tratio
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -1142,13 +1121,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -1187,9 +1160,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>

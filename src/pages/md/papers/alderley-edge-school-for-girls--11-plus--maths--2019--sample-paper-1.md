@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -248,13 +248,7 @@ $13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tpercentageadvance
 </li>
 </ul>
 </div>
@@ -308,9 +302,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -439,7 +430,7 @@ $1, 1, 2, 3, 5,$ are...
 
 Let's find the difference between the consecutive terms of the sequence.
 
-In this sequence we are getting the next term by adding previous term to the current term:
+In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:
 
 $
 \begin{matrix}
@@ -1666,9 +1657,6 @@ $172$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -1766,12 +1754,6 @@ $234$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
 <li>
 tmoney
 </li>
@@ -2226,9 +2208,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2398,9 +2377,6 @@ $3 \ \text {hours} \ 20 \ \text {minutes}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2767,9 +2743,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

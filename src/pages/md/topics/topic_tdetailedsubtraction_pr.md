@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tdetailedsubtraction-pr"
 title: "Topic - Detailedsubtraction - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>F639A0C1-C422-4D98-A551-18AA9D92D8D3</p>
 </div>
@@ -28,11 +28,11 @@ $3078 - 256$
 <div class='working'>
 
 $
-\begin{array}{ccccccc}
-        &  3 & 0 & 7  & 8 \\
-    {}- &    & 2 & 5  & 6 \\
-    \hline
-        & 2 &  8 & 2 & 2
+\begin{array}{cccccccccccccc}
+    &   3   &    0    &    7    &    8 \\
+{}- &       &    2    &    5    &    6 \\
+\hline
+    &   2   &    8    &    2    &    2
 \end{array}
 $
 
@@ -50,7 +50,7 @@ $2822$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -403,7 +403,7 @@ $9899$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3DD7A07E-7892-444B-8438-53D2F385130E</p>
 </div>
@@ -427,10 +427,10 @@ Subtract: $75 - 54$
 
 $
 \begin{array}{cccccccccccccc}
-           & 7 & 5 \\
-    {}-    & 5 & 4 \\
-    \hline
-         & 2 & 1 
+    &   7   &   5 \\
+{}- &   5   &   4 \\
+\hline
+    &   2   &   1
 \end{array}
 $
 
@@ -448,7 +448,7 @@ $21$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -501,59 +501,6 @@ $290  \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>AE182AEF-A433-4C74-A98A-5E3325141BC5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%waffles%
-
-$2605 - 832$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   2   &   6   &   0   &   5 \\
-{}- &       &   8   &   3   &   2 \\
-\hline
-    &   1   &   7   &   7   &   3 \\
-\hline
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1773$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -825,60 +772,6 @@ $1886$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Subtract the difference between $62$ and $35$ from the product of $13$ and $6$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= (13 \times 6) - (62 - 35) \\\\
-&= 78 - 27 \\\\
-&= 51
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

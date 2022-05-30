@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-g1"
 title: "Topic - Clock - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -199,6 +199,110 @@ $255 \degree$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>8D9C54BC-6E17-4740-929F-C604E748B5B7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tclock
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+Find the size of the angle, in degrees, turned by the **minute** hand of a clock as it moves from the
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$12$ to the $1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$30 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3$ to the $7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{From 3 to 7} &= 4 \times 30 \\\\
+                   &= 120 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$120 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

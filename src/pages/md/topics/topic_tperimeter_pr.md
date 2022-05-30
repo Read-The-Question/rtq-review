@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tperimeter-pr"
 title: "Topic - Perimeter - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -159,9 +159,6 @@ Length $= 9 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2414,9 +2411,10 @@ As per the question,
 $
 \begin{aligned}
 \text{Area of square}       &= \text{Perimeter of square} \\\\
-a^2                         &= 4 times a \\\\
-a                           &= \dfrac{4 \times a} {2 \times a} \\\\
-a                           &= \dfrac{4 \times \cancel{a}} {\cancel{a}} \\\\
+a \times a                  &= a + a + a + a \\\\
+a \times a                  &= 4 a \\\\
+a                           &= \dfrac {4 a} {a} \\\\
+a                           &= \dfrac {4 \cancel{a}} {\cancel{a}} \\\\
 a                           &= 4
 \end{aligned}
 $
@@ -2453,21 +2451,26 @@ Let the width of the rectangle $= a$
 
 As per the question,
 
-length of the rectangle $= 2 \times a$
+Length of the rectangle $= 2 \times a$
 
 $
+\begin{aligned}
 \text{Area of rectangle}            &= \text{Perimeter of rectangle} \\\\
-\text{length} \times \text{width}   &= 2(\text{length} + \text{width}) \\\\
-2a \times a                         &= 2(2a + a) \\\\
+\text{length} \times \text{width}   &= 2 \times (\text{length} + \text{width}) \\\\
+2a \times a                         &= 2 \times (2a + a) \\\\
 2a \times a                         &= 2 \times 3a \\\\
 a                                   &= \dfrac{2 \times 3 \times a} {2 \times a} \\\\
 a                                   &= \dfrac{\cancel{2} \times 3 \times \cancel{a}} {\cancel{2} \times \cancel{a}} \\\\
 a                                   &= 3
+\end{aligned}
 $
 
-Width of rectangle $3$
-
-Length of rectangle $= 2 \times 3 = 6$
+$
+\begin{aligned}
+\text {Length of rectangle} &= 2 \times a \\\\
+                            &= 2 \times 3 \\\\
+                            &= 6
+\end{aligned}
 
 </div>
 </div>
@@ -3111,25 +3114,18 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <div class='workings'>
 <div class='working'>
 
+Area of parallelogram = Base $\times$ Height.
 
-The area of parallelogram $= 38 \ \text{cm}^2$
-
-Breadth of parallelogram $= 4 \ \text{cm}$
-
-Let length of parallelogram be 'a'
-
-Area of parallelogram = Length \times Breadth.
-
-$38 = 4 \times$ a
-
-a $= \dfrac{38}{4}$
-
-a $= \dfrac{4 \times 9.5}{4}$
-
-a $= \dfrac{\cancel 4 \times 9.5}{\cancel4}$
-
-a $= 9.5 \ \text{cm}$
-
+$
+\begin{aligned}
+\text{Base} \times \text{Height}        &= \text{Area of parallelogram} \\\\
+\text{Base} \times 4                    &= 38 \\\\
+\text{Base}                             &= \dfrac{38}{4} \\\\
+\text{Base}                             &= \dfrac{4 \times 9.5}{4} \\\\
+\text{Base}                             &= \dfrac{\cancel 4 \times 9.5}{\cancel4} \\\\
+\text{Base}                             &= 9.5 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3195,9 +3191,8 @@ $\text{Perimeter} = 4 \times \text{side})$
 $
 \begin{aligned}
 \text{perimeter of square} &= 4 \times (14 + 6) \\\\
-&= 4 \times 20 \\\\
-&= 80 \ \text{cm}^2
-\end{aligned}
+                           &= 4 \times 20 \\\\
+                           &= 80 \ \text{cm}
 $
 
 </div>
@@ -3383,78 +3378,6 @@ $252 \ \text{cm} ^ 2$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>A5D1670C-F9E8-458A-87F9-BEAD48F73EC4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This shape has an area of $63 \ \text{cm}^2$.
-
-It is made from square tiles.
-
-Find the perimeter of the shape.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the side of square tile $= a$
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text{Area of the shape} &= 63 \\\\
-7 \times a ^ 2           &= 63 \\\\
-a ^ 2                    &= \dfrac {63} {7} \\\\
-a ^ 2                    &= \dfrac {7 \times 9} {7} \\\\
-a ^ 2                    &= \dfrac {\cancel {7} \times 9} {\cancel {7}} \\\\
-a ^ 2                    &= 9 \\\\
-a                        &= \sqrt 9 \\\\
-a                        &= 3 \ \text{cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Perimeter of the shape} &= 16 \times a \\\\
-                              &= 16 \times 3 \\\\
-                              &= 48 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
@@ -4075,6 +3998,8 @@ Work out the length of the perimeter of the rectangle.
 <div class='workings'>
 <div class='working'>
 
+As per the question, 
+
 Let the width of the rectangle in ($\text{cm}$) $= a$
 
 Then, as per the question, the length of the rectangle in ($\text{cm}$) $= a +1$
@@ -4129,170 +4054,41 @@ $34 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B</p>
+<p>D62B63A1-CA82-4AA9-B4FE-290BB7B57B95</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tunassigned
-</li>
-<li>
-tperimeter
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-All the measurements in the following diagram are given in centimetres
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the perimeter of this letter $F$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Perimeter is total measurements of all the edges of a shape. So, 
-
-Let's first find the missing edges.
-
-(Top edge $6$) - (Below edge $2$) = (Inner missing edge $4$)
-
-Middle missing edge is $2$ as the parallel edge is $2$
-
-P $= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2$
-
-P $= 42 \ \text {cm}$
-
-Perimeter of letter F is $42 \ \text {cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the area of this letter $F$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-"F" is an irregular shape. However, it can be broken up into 3 regular rectangles.
-
-Area of a rectangle $= length \times width$
-
-$
-\begin{aligned}
-\text {Area} &= \text {area of left rectangle} + \text {area of middle rectangle} + \text {area of top rectangle} \\\\
-             &= (13 \times 2) + (2 \times 2) + (4 \times 2) \\\\
-             &= 26 + 4 + 8 \\\\
-             &= 38 \ \text {cm} ^ 2 \\\\
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$38 \ \text {cm} ^ 2$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tarea
-</li>
-<li>
-tperimeter
 </li>
 <li>
 talgebra
 </li>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
 </ul>
 </div>
 <div class='question question'>
 
-A rectangle is $4 \ \text{cm}$ longer than it is wide. The 
-distance all the way round the rectangle (its perimeter) 
-is $32 \ \text{cm}$.  What is the area of the rectangle?
+Nigel folds a **__square__** piece of paper in half to give a rectangle which has a perimeter of $36 \ \text{cm}$. What is the area of the original square?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the width of the rectangle (in $\text{cm}$) $= a$
+Let the side of the square (in $\text{cm}$) $= a$
 
-Then as per the question,
+As the square is folded to form a rectangle, 
 
-Length $= a + 4$
+Length of the rectangle $= a$
+
+Width of the rectangle $= \dfrac {a} { 2 }$
 
 $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
@@ -4300,31 +4096,21 @@ Equating the perimeter to the length and width we get,
 
 $
 \begin{aligned}
-2 \times (a + 4 + a)      &= 32 \\\\
-2 \times (2a + 4)         &= 32 \\\\
-4a + 8                    &= 32 \\\\
-4a                        &= 32 - 8\\\\
-4a                        &= 24\\\\
-a                         &= \dfrac {24} {4} \\\\
-a                         &= 6  \ \text{cm}
+2 \times ( a + \dfrac {a} { 2 })    &= 36 \\\\
+2a + a                                 &= 36 \\\\
+3a                                     &= 36 \\\\
+a                                     &= \dfrac {36} { 3 } \\\\
+a                                   &= 12 \ \text{cm}
 \end{aligned}
 $
 
-$\text{Width} = 6 \ \text{cm}$
+Let's find the area of the square.
 
 $
 \begin{aligned}
-\text{Length}       &= a + 4 \\\\
-                    &= 6 + 4 \\\\
-                    &= 10 \ \text{cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-                    &= 10 \times 6 \\\\
-                    &= 60 \ \text{cm}^{2}
+\text{Area}     &= \text{side} \times \text{side} \\\\
+                &= 12 \times 12 \\\\
+                &= 144 \ \text{cm}^{2}
 \end{aligned}
 $
 
@@ -4333,16 +4119,16 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$60 \ \text{cm}^{2}$
+$144 \ \text{cm}^{2}$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -4406,130 +4192,6 @@ $30 \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>7F5F775B-7E11-4998-A118-784117B4C479</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is a rectangular tile.
-
-
-A pattern is made using $4$ of these tiles.
-
-![missing image](/papers/missing_image.svg)     Not to scale 
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the perimeter of the outer edge of the design?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-The outer design has all the sides of equal length. So it is a square.
-
-Side of the outer square $= 7 + 3 = 10 \ \text{cm}$
-
-Perimeter of the outer square $= 4 \times 10 = 40 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the perimeter of the square left empty in the middle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Side of square in the middle}    &= \text {length of rectangle} - \text {width of rectangle} \\\\
-                                        &= 7 - 3  \\\\
-                                        &= 4 \ \text{cm}
-\end{aligned}
-$
-
-Perimeter of the middle square $= 4 \times 4 = 16 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
 </div>
 </div>
 </li>

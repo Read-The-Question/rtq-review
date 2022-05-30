@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-g1"
 title: "Topic - Profit - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,13 +12,7 @@ date: 2022-05-29 22:47:20
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -58,136 +52,156 @@ $\pounds 98$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_g1 question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
-<p>3535C8D5-DE86-4450-A6FD-9386A9F13C8D</p>
+<p>83FF262B-C3C2-446A-888D-017561433336</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tprofit
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Have a look at the deals ticket vendors are offering: 
+This is the sign in a shop:
 
-Each ticket cost $\pounds 480$. 
-
-| Super Tickets            |
-|:--------------------:    |
-| Buy $2$ get $1$ free     |
-
-| Tickets R US                            |
-|:-------------------------------------:|
-| Buy $3$ get $25 \%$ off total price     |
-
-
-| Ticket Galore                      |
-|:--------------------------------:    |
-| Buy $1$ get $2$ at $40 \%$ off     |
- 
-|         Top Ticket             |
-|:--------------------------:    |
-| Buy $2$ get $1$ half price     |
-
-If I needed $3$ tickets, put the vendors in order (cheapest first).
+**SALE $25 \%$ off all marked prices**
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the best price of $3$ tickets from each vendor.
-
-**Super Tickets**
-
-$
-\begin  {aligned}
-\text{Cost of } 3 \text{ tickets}     &= 480 \times 2 \\\\
-                                      &= \pounds 960
-\end {aligned}
-$
-
-**Tickets R US**
-
-If the total price is reduced by $25 \%$, then the sale price will be $100 - 25 = 75 \%$ of the original price. Using that, we get
-
-$
-\begin {aligned}
-\text {Cost of} \ 3 \text \ {tickets}      &= 75\% \times 480 \times 3 \\\\
-                                           &= \dfrac{75}{100} \times 480 \times 3 \\\\
-                                           &= \dfrac{75 \times 480 \times 3}{100} \\\\
-                                           &= \dfrac{25 \times 3 \times 4 \times 120 \times 3}{25 \times 4} \\\\
-                                           &= \dfrac{\cancel{25} \times 3 \times \cancel{4} \times 120 \times 3}{\cancel{25} \times \cancel{4}} \\\\
-                                           &= 3 \times 120 \times 3 \\\\
-                                           &= \pounds 1080
-\end {aligned}
-$
-
-**Ticket Galore**
-
-If the price is reduced by $40 \%$, then the sale price will be $100 - 40 = 60 \%$ of the original price. Using that, we get
-
-$
-\begin {aligned}
-\text {Cost of} \ 3 \ \text{tickets}      &= 480 + 60\% \times 480 \times 2 \\\\
-                                          &= 480 + \dfrac{60}{100} \times 480 \times 2 \\\\
-                                          &= 480 + \dfrac{60 \times 480 \times 2}{100} \\\\
-                                          &= 480 + \dfrac{6\cancel{0} \times 48\cancel{0} \times 2}{1\cancel{0}\cancel{0}} \\\\
-                                          &= 480 + 6 \times 48 \times 2 \\\\
-                                          &= 480 + 576 \\\\
-                                          &= \pounds 1056
-\end {aligned}
-$
-
-
-**Top Ticket**
-
-If the price is reduced by $\dfrac{1}{2}$, then the sale price will be $1 - \dfrac{1}{2} = \dfrac{1}{2}$ of the original price. Using that, we get
-
-$
-\begin {aligned}
-\text{Cost of} \ 3 \ \text{tickets}      &= 480 \times 2 + \dfrac{1}{2} \times 480 \\\\
-                                         &= 960 + \dfrac{480}{2} \\\\
-                                         &= 960 + 240 \\\\
-                                         &= \pounds 1200
-\end {aligned}
-$
-
-Using the calculation above, the vendors in order (cheapest first):
-
-|  Vendor       | Price          |
-|:-------------:|:--------------:|
-| Super Tickets | $\pounds 960$  |
-| Ticket Galore | $\pounds 1056$ |
-| Tickets R US  | $\pounds 1080$ |
-| Top Ticket    | $\pounds 1200$ |
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top Ticket}$
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Explain why $25 \%$ is one-quarter.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Since one-quarter is $\dfrac {1} {4}$, so lets expand 25 \%
+
+$
+\begin{aligned}
+&= 25 \% \\\\
+&= \dfrac {25} {100} \\\\
+&= \dfrac {25} {25 \times 4} \\\\
+&= \dfrac {\cancel {25}} {\cancel {25} \times 4} \\\\
+&= \dfrac {1} {4}
+\end{aligned}
+$
+
+Hence 25 \% is equal to \dfrac {1} {4}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {4}$
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Snadra chooses a pair of jeans marked $\pounds 48$. How much did Sandra save by buying them in the sale?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Sandra saved} &= 48 - 25 \% \times 48 \\\\
+                    &= 48 - \dfrac {25} {100} \times 48 \\\\
+                    &= 48 - \dfrac {25 \times 48} {100} \\\\
+                    &= 48 - \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
+                    &= 48 - \dfrac {\cancel {25} \times \cancel {4} \times 12} {\cancel {25} \times \cancel {4}} \\\\
+                    &= 48 - 12 \\\\
+                    &= \pounds 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much will she actually have to pay for them in sale?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{She paid} &= 48 - 36 \\\\
+                &= \pounds 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 12$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -198,12 +212,6 @@ $\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top 
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tprofit
 </li>
@@ -252,13 +260,7 @@ $\pounds 57.85$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -311,12 +313,6 @@ $\pounds 38250$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tprofit
 </li>
 </ul>
@@ -364,12 +360,6 @@ $\pounds 140.55$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tprofit
 </li>
 </ul>
@@ -410,279 +400,12 @@ $\pounds 161.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_g1 question'>
-<div class='uuid'>
-<p>1B8867E6-DD66-4F3F-811C-A4B71ADFBF90</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tprofit
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A multipack of $12$ cans of Ned's cola cost $\pounds 6.95$. 
-
-A single can of Ned's cola costs $65 \ \text{pence}$ if bought individually. 
-
-Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12$ cans individually, giving your answer in pence.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required. 
-
-$
-\begin {aligned}
-\text {Cost of 12 cans}                 &= 12 \times 65 \ \text {pence} \\\\
-                                        &= 780 \ \text {pence} \\\\
-\text {Difference in cost}              &= 780 \ \text {pence} - \pounds 6.95 \\\\
-                                        &= 780 \ \text {pence} - 6.95 \times 100 \ \text {pence} \\\\
-                                        &= 780 - 695 \\\\
-                                        &= 85 \ \text {pence}
-\end {aligned}
-$
-
-It is $85 \ \text {pence}$ cheaper to buy a multipack of $12$ cans than to buy $12$ cans individually.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$85 \ \text {pence}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nm_g1 question'>
-<div class='uuid'>
-<p>FBCDAF33-D756-4D8A-8443-2921CA509D4C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tprofit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A multipack of $15$ packets of crisps costs $\pounds 3.90$.
-
-A packet of crisps costs $35 \ \text{pence}$ if they are brought individually.
-
-Calculate how much cheaper it is to buy a multipack of $15$ packets of crisps than to buy $15$ packets individually.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required. 
-
-$
-\begin {aligned}
-\text {Cost of 15 packets}              &= 15 \times 35 \ \text {pence} \\\\
-                                        &= 525 \ \text {pence} \\\\
-\text {Difference in cost}              &= 525 \ \text {pence} - \pounds 3.90 \\\\
-                                        &= 525 \ \text {pence} - 3.90 \times 100 \ \text {pence} \\\\
-                                        &= 525 - 390 \\\\
-                                        &= 135 \ \text {pence}
-\end {aligned}
-$
-
-It is $135 \ \text {pence}$ cheaper to buy a multipack of $15$ packets than to buy $15$ packets individually.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$135 \ \text {pence}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nm_g1 question'>
-<div class='uuid'>
-<p>17ECC185-3305-49FA-A442-3E835EDC1C60</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tprofit
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Clare went to the sweet shop with her weekly pocket money. She saw that lollipops cost $35 \text{p}$, 
-and she worked out that if she bought $8$ lollipops she would end up with $30 \text{p}$ left from her pocket money.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out how much money Clare had in total, giving your answer in pounds and pence.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Total money}     &= \text {Cost of a lollipop} \times \text {No. of lollipops she bought} + \text {the money left} \\\\
-                        &= 35 \ \text {p} \times 8 + 30 \ \text {p} \\\\
-                        &= \pounds \dfrac {35} {100} \times 8 + \pounds \dfrac {30} {100} \\\\
-                        &= 0.35 \times 8 + 0.30 \\\\
-                        &= 2.80 + 0.30 \\\\
-                        &= \pounds 3.10
-\end{aligned}
-$
-
-Total money she had $= \pounds 3 \ \text {and} \ 10 \text {p}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 3 \ \text {and} \ 10 \text {p}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-She then worked out that if she bought only $5$ lollipops, she would have exactly the right amount of money left over to buy $3$ packets of jelly gums.
-
-Work out the price of one packet of jelly gum.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Cost of 5 lollipops}                 &= 35 \ \text {p} \times 5 \\\\
-                                            &= \pounds \dfrac {35} {100} \times 5 \\\\
-                                            &= 0.35 \times 5 \\\\
-                                            &= \pounds 1.75 \\\\
-\text {Cost of one packet of jelly gum}     &= \dfrac {\text {Total money} - \text {Cost of five lollipops}} {3} \\\\
-                                            &= \dfrac {3.1 - 1.75} {3} \\\\
-                                            &= \dfrac {1.35} {3} \\\\
-                                            &= \pounds 0.45 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 0.45$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D9679475-899C-4D1A-87C4-D5CC0437D309</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tprofit
 </li>
@@ -740,6 +463,296 @@ $\pounds 450$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_g1 question'>
+<div class='uuid'>
+<p>3AFA86B0-9BFB-41F8-900A-072D2C1A833D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A bicycle at Store $P$ costs $$200$. The regular price of the same bicycle at Store $Q$ is $15\%$ more than it is at Store P. The bicycle is on sale at Store Q for $10\%$ off of the regular price.
+
+What is the sale price of the bicycle at Store $Q$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Cost of bicycle at store P}                         &= 200 \\\\
+\text{Price at store}                                     &= 15 \% 200 + 200 \\\\
+                                                          &= \dfrac{15 \times 200}{100} + 200 \\\\
+                                                          &= 30 + 200 \\\\
+                                                          &= 230 \\\\
+\text{Price at store Q}                                   &= 230 - 10 \% 200\\\\
+                                                          &= 230 - 20 \\\\
+                                                          &= 210
+                                            
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$210$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>F83507F2-235E-4ABA-AC49-C50C6D08899E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a sale, normal prices were reduced by $35 \%$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The normal price of a TV was $\pounds 600$. Work out the sale price of the TV.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Sale price of Tv}  &= \text {Normal Price} - \text {Discount} \\\\
+                          &= \pounds 600  - 35\% \ \text{of} \ 600 \\\\
+                          &= 600 - \dfrac {35} {100} \times 600 \\\\
+                          &= 600 - \dfrac {35 \times 600} {100} \\\\
+                          &= 600 - \dfrac {35 \times 6\cancel{00}} {1\cancel {00}} \\\\
+                          &= 600 - 35 \times 6 \\\\
+                          &= 600 - 210 \\\\
+                          &= \pounds 390
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 390$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The normal price of a clock was reduced by $\pounds 140$. Work out the normal price of the clock.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let normal price $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+35\% \ \text{of} \ a         &= \pounds 140 \\\\
+\dfrac {35} {100} \times a   &= 140 \\\\
+a                            &= 140 \times \dfrac {100} {35} \\\\
+a                            &= \dfrac {140 \times 100} {35} \\\\
+a                            &= \dfrac {7 \times 2 \times 2 \times 5 \times 100} {7 \times 5} \\\\
+a                            &= \dfrac {\cancel {7} \times 2 \times 2 \times \cancel {5} \times 100} {\cancel {7} \times \cancel {5}} \\\\
+a                            &= 2 \times 2 \times 100 \\\\
+a                            &= \pounds 400
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 400$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The sale price of a computer was $\pounds 884$. Work out the normal price of the computer.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the normal price of $= a$.
+
+As per the question,
+
+$ 
+\begin {aligned}
+\text {Normal price }   &= \text {Sale price} + \text {Discount} \\\\
+                        &= \pounds 884 + 35\% \ \text{of} \ 884 \\\\
+                        &= 884 + \dfrac {35} {100} \times 884 \\\\
+                        &= 884 + \dfrac {35 \times 884} {100} \\\\
+                        &= 884 + \dfrac {7 \times 5 \times 2 \times 442} {2 \times 10 \times 5} \\\\
+                        &= 884 + \dfrac {7 \times \cancel {5} \times \cancel {2} \times 442} {\cancel {2} \times 10 \times \cancel {5}} \\\\
+                        &= 884 + \dfrac {3094} {10} \\\\
+                        &= 884 + 309.4 \\\\
+                        &= \pounds 1193.4
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1193.4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>123B050C-DB35-4294-97F0-0DCBAFF89F1E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+<li>
+tprofit
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+*"Comfyclothes"* in the Arndale Centre reduces its prices by $20 \%$ in its winter sale. Ian bought a coat for $\pounds 60$ in the sale. 
+
+How much would it have cost before the sale started?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the original price $= p$
+
+Sale price $= 80 \%$ of the original price.
+
+As per the question,
+
+$
+\begin{aligned}
+80\% \text{ of } p              &= 60 \\\\
+\dfrac {80 } { 100 } \times p   &= 60 \\\\
+p                               &= \dfrac {60 \times 100 } { 80 } \\\\
+p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\
+p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\
+p                               &= 3 \times 25 \\\\
+p                               &= \pounds 75
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 75$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

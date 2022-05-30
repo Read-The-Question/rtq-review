@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-g1"
 title: "Topic - Unitprompt - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -730,13 +730,7 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tprofit
 </li>
 <li>
 tunitprompt
@@ -782,141 +776,6 @@ $85 \ \text {pence}$
 
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
-</div>
-<div class='rag'>
-<p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nm_g1 question'>
-<div class='uuid'>
-<p>17ECC185-3305-49FA-A442-3E835EDC1C60</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tprofit
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Clare went to the sweet shop with her weekly pocket money. She saw that lollipops cost $35 \text{p}$, 
-and she worked out that if she bought $8$ lollipops she would end up with $30 \text{p}$ left from her pocket money.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out how much money Clare had in total, giving your answer in pounds and pence.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Total money}     &= \text {Cost of a lollipop} \times \text {No. of lollipops she bought} + \text {the money left} \\\\
-                        &= 35 \ \text {p} \times 8 + 30 \ \text {p} \\\\
-                        &= \pounds \dfrac {35} {100} \times 8 + \pounds \dfrac {30} {100} \\\\
-                        &= 0.35 \times 8 + 0.30 \\\\
-                        &= 2.80 + 0.30 \\\\
-                        &= \pounds 3.10
-\end{aligned}
-$
-
-Total money she had $= \pounds 3 \ \text {and} \ 10 \text {p}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 3 \ \text {and} \ 10 \text {p}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-She then worked out that if she bought only $5$ lollipops, she would have exactly the right amount of money left over to buy $3$ packets of jelly gums.
-
-Work out the price of one packet of jelly gum.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Cost of 5 lollipops}                 &= 35 \ \text {p} \times 5 \\\\
-                                            &= \pounds \dfrac {35} {100} \times 5 \\\\
-                                            &= 0.35 \times 5 \\\\
-                                            &= \pounds 1.75 \\\\
-\text {Cost of one packet of jelly gum}     &= \dfrac {\text {Total money} - \text {Cost of five lollipops}} {3} \\\\
-                                            &= \dfrac {3.1 - 1.75} {3} \\\\
-                                            &= \dfrac {1.35} {3} \\\\
-                                            &= \pounds 0.45 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 0.45$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -1127,9 +986,6 @@ $1.6 \ \text {m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
@@ -1183,132 +1039,6 @@ $\pounds 15$
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>180F757E-01D0-440D-A6AD-2B7A83661632</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$20\%$ of $\pounds 840$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 20 \% \ \text {of} \ \pounds 840 \\\\
-&= \dfrac {20} {100} \times 840 \\\\
-&= \dfrac {20 \times 840} {100} \\\\
-&= \dfrac {2 \cancel {0} \times 84 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 2 \times 84 \\\\
-&= \pounds 168
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$168$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$12 \dfrac{1}{2}\%$ of $6.80 \ \text{metres}$, giving your answer in **centimetres**.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 12 \ \dfrac {1} {2} \% \ \text {of} \ 6.80 \ \text{meters} \\\\
-&= \dfrac {25} {2 \times 100} \times 6.8 \times 100 \ \text{centimeters} \\\\
-&= \dfrac {25} {2 \times 100} \times \dfrac {68} {10} \times 100 \\\\
-&= \dfrac {25 \times 68 \times 100} {2 \times 100 \times 10} \\\\
-&= \dfrac {5 \times 5 \times 2 \times 2 \times 17 \times 100} {2 \times 100 \times 5 \times 2} \\\\
-&= \dfrac {\cancel {5} \times 5 \times \cancel {2} \times \cancel {2} \times 17 \times \cancel {100}} {\cancel {2} \times \cancel {100} \times \cancel {5} \times \cancel {2}} \\\\
-&= 17 \times 5 \\\\
-&= 85 \ \text{centimeters}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$85 \ \text{centimeters}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1585,6 +1315,172 @@ $1.5625 \ \text {km}$
 </div>
 <div class='rag'>
 <p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>A08A53F2-4639-4CF6-B48B-30A2B0959606</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A twelve inch ruler is approximately $30 \ \text{cm}$ long. Use this fact to estimate each of the 
+following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The number of centimetres in $4 \ \text{inches}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+12 \ \text{inches} & = 30 \ \text {cm} \\\\
+1 \ \text{inches}  & = \dfrac {30} {12} \\\\
+4 \ \text{inches}  & = \dfrac {30} {12} \times 4 \\\\
+                   & = \dfrac {30 \times 4} {12} \\\\
+                   & = \dfrac {6 \times 5 \times 2 \times 2} {6 \times 2} \\\\
+                   & = \dfrac {\cancel {6} \times 5 \times 2 \times \cancel {2}} {\cancel {6} \times \cancel {2} } \\\\
+                   & = 5 \times 2 \\\\
+                   & = 10 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The number of inches in $5 \ \text{centimetres}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+12 \ \text {inches}                           & = 30 \ \text {cm} \\\\
+\dfrac {12} {6}                               & = \dfrac {30} {6} \\\\
+\dfrac {2 \times 6} {6}                       & = \dfrac {5 \times 6} {6} \\\\
+\dfrac {2 \times \cancel {6}} {\cancel {6}}   & = \dfrac {5 \times \cancel {6}} {\cancel {6}} \\\\
+2 \ \text {inches}                            & = 5 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text{inches}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The number of centimetres in $9 \ \text{feet} 10 \ \text{inches}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+The measurement is given in multiple units and answer has to be in centimetres.
+
+$
+\begin{aligned}
+1 \ \text {feet}   & = 30 \ \text {cm} \\\\
+1 \ \text {inches} & = 2.5 \ \text {cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+& = 9 \ \text{feet} \ 10 \ \text{inches} \\\\
+& = 9 \times 30 \ \text {cm} + 10 \times 2.5 \ \text {cm} \\\\
+& = 270 + 25 \\\\
+& = 295 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$295 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1997,16 +1893,10 @@ $0.175 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tratio
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tnumber
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -2272,6 +2162,74 @@ $2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$1 \ \text{foot}$ is equal to $12 \ \text{inches}$. 
+Paul tiles a wall which is $10 \ \text{feet}$ long 
+and $6 \ \text{feet}$ high. 
+He uses square tiles which are $8 \ \text{inches}$ long on 
+each side. How many tiles does he need to tile the wall?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+The wall measurement is given in feet while the tile measurement is given in inches.
+
+Let's convert the wall measurements into inches.
+
+$
+\begin{aligned}
+\text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
+                        &= \dfrac {10 \ \text{feet} \times 6 \ \text{feet} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
+                        &= \dfrac {10 \times 12 \ \text{inches} \times 6 \times 12 \ \text{inches} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
+                        &= \dfrac {10 \times 12 \times 6 \times 12 } { 8 \times 8 } \\\\
+                        &= \dfrac {2 \times 5 \times 4 \times 3 \times 2 \times 3 \times 4 \times 3 } { 4 \times 2 \times 4 \times 2 } \\\\
+                        &= \dfrac {\cancel{2} \times 5 \times \cancel{4} \times 3 \times \cancel{2} \times 3 \times \cancel{4} \times 3 } { \cancel{4} \times \cancel{2} \times \cancel{4} \times \cancel{2} } \\\\
+                        &= 5 \times 3 \times 3 \times 3 \\\\
+                        &= 135
+\end{aligned}
+$
+
+Number of tiles $= 135$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$135$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>1A6AB009-2F49-47AF-BA34-6312AA658C67</p>
@@ -2345,9 +2303,6 @@ $100 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

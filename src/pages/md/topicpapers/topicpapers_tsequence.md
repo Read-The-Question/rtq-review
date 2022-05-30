@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-tsequence"
 title: "Topicpapers Tsequence"
-date: 2022-05-29 22:59:27
+date: 2022-05-30 17:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -159,6 +159,7 @@ $2,  \quad 5,  \quad 10,  \quad 17,  \quad \ldots,  \quad 37$
 Let's find the difference between the consecutive terms of the sequence.
 
 The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
+
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(3)}} 
@@ -166,7 +167,7 @@ $
 &&  \footnotesize{\maroonC{(7)}}   
 &&  \footnotesize{\maroonC{(9)}}   
 &&  \footnotesize{\maroonC{(11)}}  \\
-2,  &&    5,  &&  10,  &&   17,  &&  \ldots && 37
+2,  &&    5,  &&  10,  &&   17,  &&  \ldots, && 37
 \end{matrix}
 $
 
@@ -296,7 +297,7 @@ $61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is decreasing $8$. Hence, the sequence would be:
+The difference between the terms is decreasing  by $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -659,7 +660,7 @@ $1, 1, 2, 3, 5,$ are...
 
 Let's find the difference between the consecutive terms of the sequence.
 
-In this sequence we are getting the next term by adding previous term to the current term:
+In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:
 
 $
 \begin{matrix}
@@ -4133,7 +4134,7 @@ $130$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>47724B7C-71A5-4E55-B831-A798B3984E25</p>
 </div>
@@ -4432,7 +4433,7 @@ $\dfrac {2} {3}, \dfrac {2} {9}$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -10613,7 +10614,7 @@ $-40, 80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>DF932C38-6507-44AB-B10B-EC17B47BA0D0</p>
 </div>
@@ -10668,7 +10669,7 @@ $35$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -13004,7 +13005,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B3BEC0CC-4D5E-48CC-9ADB-8FEF97E59046</p>
 </div>
@@ -13237,7 +13238,7 @@ $13, \ 21$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -14924,7 +14925,7 @@ $100, 90, 80, \ldots, \ldots$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is $10$. Hence, the sequence would be:
+The difference between the terms is $-10$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -15096,7 +15097,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>BE851320-29AB-491D-B295-527BA7C9A21D</p>
 </div>
@@ -15112,30 +15113,8 @@ tsequence
 Fill in the missing numbers in the following sequences:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
@@ -15151,32 +15130,36 @@ $1, 3, 5, \text{\textunderscore \textunderscore \textunderscore}, \text{\textund
 <div class='workings'>
 <div class='working'>
 
+Let's find the difference between the consecutive terms of the sequence.
+
 The difference between the terms is $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{  {(+2)}} 
-&&  \footnotesize{{(+2)}} \\
-1,  &&    3,  &&  5,  &&  \dots,  &&  \dots, && 11
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}  \\
+1,  &&    3,  &&  5,  && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing number 1}   &= 5 + 2 \\\\
-                          &= 7 \\\\
-
-\text{Missing number 1}   &= 7 + 2 \\\\
-                          &= 9
+\text{First missing number}   &= 5 + 2 \\\\
+                              &= 7 \\\\
+\text{Second missing number}  &= 7 + 2 \\\\
+                              &= 9                             
 \end{aligned}
 $
+
+The missing numbers are $21$ and $33$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1,  &&    3,  &&  5,  &&  7,  &&  9, &&  11$
+$7,9$
 
 </div>
 </div>
@@ -15203,7 +15186,7 @@ The next term is calculated  by $\text{difference between consecutive terms} \ti
 
 $
 \begin{matrix}
-&   \footnotesize{  {(+2)}} 
+&   \footnotesize{{(+2)}} 
 &&  \footnotesize{{(+4)}} \\
 &&  \footnotesize{{(+6)}} \\
 1,  &&    3,  &&  7,  &&  13,  &&  \dots, && \dots, && 43
@@ -15212,20 +15195,22 @@ $
 
 $
 \begin{aligned}
-\text{Missing number 1}   &= 13 + 8 \\\\
-                          &= 21 \\\\
+\text{First missing number}    &= 13 + 8 \\\\
+                               &= 21 \\\\
 
-\text{Missing number 1}   &= 21 + 12 \\\\
-                          &= 33
+\text{Second missing number}   &= 21 + 12 \\\\
+                               &= 33
 \end{aligned}
 $
+
+The missing numbers are $21$ and $33$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1,  &&    3,  &&  7,  &&  13,  &&  21, && 33, && 43$
+$21,33$
 
 </div>
 </div>
@@ -15246,24 +15231,37 @@ $1, 2, 0, 3, -1, 4, \text{\textunderscore \textunderscore \textunderscore}, \tex
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let's find the sum of the two consecutive terms of the sequence
 
-</div>
-<div class='working'>
+$
+begin{aligned}
+1 + 2    &=3
+2 + 0    &=2
+0 + 3    &=3
+3 + (-1) &=2
+-1 + 4   &=3
+end{aligned}
+$
 
-TODOWORKING
+The next addition answer should give $3$.
+
+$
+begin{aligned}
+\text {First missing number}  &= 3 - 4 \\\\
+                              &= -1 \\\\
+\text {Second missing number} &= 2 - (-1) \\\\
+                              &= 3 \\\\                             
+end{aligned}                             
+$
+
+The missing numbers are $-1$ and $3$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+-1,3
 
 </div>
 </div>
@@ -15275,7 +15273,7 @@ TODOANSWER
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -19884,15 +19882,15 @@ All the columns, rows and diagonals add up to $30$
 $
 \begin{aligned}
 \text{In diagonal let the missing number br 'C' then} \\\\
-9 + 10 + C &= 30 \\\\
-19 + C &= 30 \\\\
-C &= 30 - 19 \\\\
-C &= 11 \\\\
+9 + 10 + C  &= 30 \\\\
+19 + C      &= 30 \\\\
+C           &= 30 - 19 \\\\
+C           &= 11 \\\\
 \text{if C} &= 11 \text{then,} \\\\
 13 + B + 11 &= 30 \\\\
-24 + B &= 30 \\\\
-B &= 30 - 24 \\\\
-B &= 6 
+24 + B      &= 30 \\\\
+B           &= 30 - 24 \\\\
+B           &= 6 
 \end{aligned}
 $
 
@@ -21450,10 +21448,10 @@ $
 
 $
 \begin{aligned}
-\text{First number}       &= 9\dfrac{1}{2} + 1 \dfrac{1}{2} \\\\
-                                &= 11 \\\\
-\text{Second number}       &= 11 + 1 \dfrac{1}{2} \\\\
-                                &= 12 \dfrac{1}{2}
+\text{First missing number}       &= 9\dfrac{1}{2} + 1 \dfrac{1}{2} \\\\
+                                  &= 11 \\\\
+\text{Second missing number}      &= 11 + 1 \dfrac{1}{2} \\\\
+                                  &= 12 \dfrac{1}{2}
 \end{aligned}
 $
 
@@ -21836,7 +21834,7 @@ $5, \quad 3, \quad 8, \quad 11, \quad 19$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3C00C796-049E-471D-AEC7-FACC3D844E29</p>
 </div>
@@ -22034,7 +22032,7 @@ $27, \ 81$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -23282,7 +23280,7 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{55}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D051087C-D302-45A1-8E7F-00AC09D3B57D</p>
 </div>
@@ -23309,10 +23307,10 @@ The next number is calculated by multiplying $2$ to the difference. Hence, the s
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+6)} } 
-&&  \footnotesize {\maroonC {(+12)} }  
-&&  \footnotesize {\maroonC {(+24)} }   
-&&  \footnotesize {\maroonC {(+48)} }   
+&   \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+12)} }
+&&  \footnotesize {\maroonC {(+24)} }
+&&  \footnotesize {\maroonC {(+48)} }
 &&  \footnotesize {\maroonC {(+96)} }  \\
 5,  &&   11,  &&  23,  &&   47, && \ldots, && \ldots
 \end{matrix}
@@ -23341,7 +23339,7 @@ $95, 191$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -23918,7 +23916,7 @@ $107$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>2349EC95-009A-4E52-B1CF-35DE1F43DFBA</p>
 </div>
@@ -23972,7 +23970,7 @@ $69$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -24479,19 +24477,7 @@ $1$. ___________, $9$, ___________, ___________
 <div class='workings'>
 <div class='working'>
 
-The difference between the terms is $a$. 
-
-As per the question, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(\times a)}}  
-&&  \footnotesize{\maroonC{(\times a)}} 
-&&  \footnotesize{\maroonC{(\times a)}}   
-&&  \footnotesize{\maroonC{(\times a)}} \\
-1,  &&    1 \times a,  &&  9,  &&   9 \times a,  &&   9 \times a \times a \ldots
-\end{matrix}
-$
+Let the difference between the number $= a$
 
 $
 \begin{aligned}
@@ -24502,16 +24488,25 @@ a                               &= 3
 \end{aligned}
 $
 
+As per the question, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}} \\
+1,  &&    1 \times 3,  &&  9,  &&   9 \times 3,  &&   9 \times 3 \times 3 \ldots
+\end{matrix}
+$
+
 $
 \begin{aligned}
-\text{First missing number}     &= 1 \times a \\\\
-                                &= 1 \times 3 \\\\
+\text{First missing number}     &= 1 \times 3 \\\\
                                 &= 3 \\\\
-\text{Second missing number}    &= 9 \times a \\\\
-                                &= 9 \times 3 \\\\ 
+\text{Second missing number}    &= 9 \times 3 \\\\
                                 &= 27 \\\\
-\text{Second missing number}    &= 9 \times a \times a \\\\
-                                &= 9 \times 3 \times 3 \\\\ 
+\text{Third missing number}     &= 9 \times 3 \times 3 \\\\
                                 &= 81
 \end{aligned}
 $

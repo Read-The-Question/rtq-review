@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-3"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -207,10 +207,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -1607,7 +1604,7 @@ Numbers between $40$ and $60$ which are dvisible by $5 = {45, 50, 55}$
 
 Numbers between $40$ and $60$ which are dvisible by $3 = {45, 48, 51, 54, 57}$
 
-Since 45 is common in both, 
+Since $45$ is common in both, 
 
 $a = 45$
 

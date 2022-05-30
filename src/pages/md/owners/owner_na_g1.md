@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-na-g1"
 title: "Owner - Naman Pant - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -901,9 +901,6 @@ $90 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -1940,10 +1937,7 @@ $9$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -2230,10 +2224,7 @@ $\dfrac {13} {18}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2391,6 +2382,722 @@ $401$
 
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>3A7398BE-72C1-4161-B815-737C8394CF51</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$18 - (9 - 7)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 18 - (9 - 7) \\\\
+&= 18 - 2 \\\\
+&= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(18 - 9) - 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (18 - 9) - 7 \\\\
+&= 9 - 7 \\\\
+&= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(80 \div 20) \div 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (80 \div 20) \div 4 \\\\
+&= \dfrac {80} {20} \times \dfrac {1} {4} \\\\
+&= \dfrac {20 \times 4} {20 \times 4} \\\\
+&= \dfrac {\cancel {20} \times \cancel {4}} {\cancel {20} \times \cancel {4}} \\\\
+&= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$80 \div (20 \div 4)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 80 \div (20 \div 4) \\\\
+&= \dfrac {80} {20} \times 4 \\\\
+&= \dfrac {80 \times 4} {20} \\\\
+&= \dfrac {20 \times 4 \times 4} {20} \\\\
+&= \dfrac {\cancel 20 \times {4} \times 4} {\cancel {20}} \\\\
+&= 4 \times 4 \\\\
+&= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>C89BE88B-D6EA-4F33-A8C3-496597C6989A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Four of these numbers can make two pairs so that each pair adds up to $5871$. Which number is the odd one out?
+
+**A** $1917$
+
+**B** $2743$ 
+
+**C** $3008$ 
+
+**D** $3954$
+
+**E** $2863$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1917 + 3954 = 5871$
+
+$3008 + 2863 = 5871$
+
+Odd one : $2743$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+**B** $2743$ 
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down any **two** prime numbers between $45$ and $60$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Two prime numbers between $45$ and $60 = 47, 53$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47, 53$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>BCC6F2CB-8539-4FD4-9E74-FEBEFF999875</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find $2000 - 12 + 20 - 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 2000 - 12 + 20 - 12 \\\\
+&= 2000 - 12 + 8 \\\\
+&= 2000 - 4 \\\\
+&= 1996
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1996$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>B475D829-FDEB-40B6-8FA4-023371521EB4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$t \times 0.805 = 8050$
+
+What is the value of $t$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+t \times 0.805      &= 8050 \\\\
+t                   &= \dfrac {8050} {0.805} \\\\
+t                   &= \dfrac {8050 \times 10000} {0.805 \times 10000} \\\\
+t                   &= \dfrac {8050 \times 10000} {8050} \\\\
+t                   &= \dfrac {\cancel {8050} \times 10000} {\cancel {8050}} \\\\
+t                   &= 10000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>F6128DD4-ECC2-431B-8EF0-CFFB29805A22</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Frank chooses **two different** numbers from the bubble shown below, and divides one number by the other.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the largest number he can get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's arrange the number in descending order,
+
+$
+\begin{aligned}
+8 , \quad   16 , \quad   10 , \quad   12 \\\\
+16 , \quad   12 , \quad   10 , \quad   8
+\end{aligned}
+$
+
+To get the largest number, Frank needs to choose highest number as numerstor and lowest number as denominator.
+
+$
+\begin{aligned}
+&= \dfrac {\text {Highest number}} {\text {Lowest number}} \\\\
+&= \dfrac {16} {8} \\\\
+&= \dfrac {8 \times 2} {8} \\\\
+&= \dfrac {\cancel {8} \times 2} {\cancel {8}} \\\\
+&= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the smallest result?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's arrange the number in ascending order,
+
+$
+\begin{aligned}
+&8 , \quad   16 , \quad   10 , \quad   12 \\\\
+&8 , \quad   10 , \quad   12 , \quad   16
+\end{aligned}
+$
+
+To get the smallest number, Frank needs to choose lowest number as numerator and highest number as denominator.
+
+$
+\begin{aligned}
+&= \dfrac {\text {Lowest number}} {\text {Highest number}} \\\\
+&= \dfrac {8} {16} \\\\
+&= \dfrac {8} {8 \times 2} \\\\
+&= \dfrac {\cancel {8}} {\cancel {8} \times 2} \\\\
+&= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What division gives the result closest to $1$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's arrange the number in ascending order,
+
+$
+\begin{aligned}
+&8 , \quad   16 , \quad   10 , \quad   12 \\\\
+&8 , \quad   10 , \quad   12 , \quad   16
+\end{aligned}
+$
+
+To get a division result closest to 1, Frank needs to pickup adjacent numbers after arrangement.
+
+Let's write all possible cases of fraction for each pick.
+
+$
+\begin{aligned}
+&= \dfrac {8} {10} , \quad   \dfrac {10} {8} , \quad   \dfrac {10} {12} , \quad   \dfrac {12} {10} , \quad   \dfrac {12} {16}, \quad   \dfrac {16} {12} \\\\
+&= \dfrac {8} {10} , \quad   \dfrac {2 \times 5} {2 \times 4} , \quad   \dfrac {2 \times 5} {2 \times 6} , \quad   \dfrac {12} {10} , \quad   \dfrac {4 \times 3} {4 \times 4}, \quad   \dfrac {4 \times 4} {4 \times 3} \\\\
+&= \dfrac {8} {10} , \quad   \dfrac {\cancel {2} \times 5} {\cancel {2} \times 4} , \quad   \dfrac {\cancel {2} \times 5} {\cancel {2} \times 6} , \quad   \dfrac {12} {10} , \quad   \dfrac {\cancel {4} \times 3} {\cancel {4} \times 4}, \quad   \dfrac {\cancel {4} \times 4} {\cancel {4} \times 3} \\\\
+&= \dfrac {8} {10} , \quad   \dfrac {5} {4} , \quad   \dfrac {5} {6} , \quad   \dfrac {12} {10} , \quad   \dfrac {3} {4}, \quad   \dfrac {4} {3} \\\\
+&= 0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33
+\end{aligned}
+$
+
+Let's arrange the decimals in ascending order.
+
+$
+\begin{aligned}
+0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33 \\\\
+0.75 , \quad 0.8 , \quad 0.83 , \quad 1.2 , \quad 1.25 , \quad 1.33
+\end{aligned}
+$
+
+The number that is closest to $1$ = $0.83 = \dfrac {10} {12}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {10} {12}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>7F5F775B-7E11-4998-A118-784117B4C479</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a rectangular tile.
+
+
+A pattern is made using $4$ of these tiles.
+
+![missing image](/papers/missing_image.svg)     Not to scale 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of the outer edge of the design?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The outer design has all the sides of equal length. So it is a square.
+
+Side of the outer square $= 7 + 3 = 10 \ \text{cm}$
+
+Perimeter of the outer square $= 4 \times 10 = 40 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of the square left empty in the middle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Side of square in the middle}    &= \text {length of rectangle} - \text {width of rectangle} \\\\
+                                        &= 7 - 3  \\\\
+                                        &= 4 \ \text{cm}
+\end{aligned}
+$
+
+Perimeter of the middle square $= 4 \times 4 = 16 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_na_g1</p>
@@ -2645,13 +3352,10 @@ $40 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tratio
 </li>
 <li>
-tmoney
-</li>
-<li>
-talgebra
+tarea
 </li>
 </ul>
 </div>

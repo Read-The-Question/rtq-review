@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-all"
 title: "Owner - Arun Dalakoti - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -375,9 +375,6 @@ $7083$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -853,7 +850,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>50E04B0C-8A1F-40C0-AACC-F803CBD9A220</p>
 </div>
@@ -951,7 +948,7 @@ $8.3$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1092,10 +1089,7 @@ $\dfrac {1} {3}, \quad \dfrac {5} {12}, \quad 0.5, \quad 75 \%, \quad \dfrac {5}
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -1665,7 +1659,7 @@ $\pounds 14.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3D14202B-0983-4EEB-953C-6370EBAE4255</p>
 </div>
@@ -1804,25 +1798,19 @@ $\text{Because 500 is not a multiple of 27}$
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>83FF262B-C3C2-446A-888D-017561433336</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
+tprofit
 </li>
 </ul>
 </div>
@@ -1964,7 +1952,7 @@ $\pounds 12$
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2388,7 +2376,7 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D7E33A04-DE0A-4485-AE44-E675DE38579E</p>
 </div>
@@ -2436,7 +2424,7 @@ $4$
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2447,9 +2435,6 @@ $4$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -2904,7 +2889,7 @@ $-2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>4D1AE0C9-6A34-43FA-8225-0C9B3B37F156</p>
 </div>
@@ -2945,7 +2930,7 @@ $210$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3157,9 +3142,6 @@ $5702$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3274,13 +3256,7 @@ $63$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -3947,7 +3923,7 @@ $51 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>1EA0EDB9-277D-4979-AC2C-B24FE106F900</p>
 </div>
@@ -4128,7 +4104,7 @@ $2.79$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -4274,9 +4250,6 @@ $292 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -4753,10 +4726,7 @@ $24$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -5468,13 +5438,7 @@ $30$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -5619,7 +5583,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>50CD6363-A877-46A1-B8C7-F8385276B624</p>
 </div>
@@ -5689,7 +5653,7 @@ $- 1$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -6570,9 +6534,6 @@ $417$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -7086,9 +7047,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -8263,9 +8221,6 @@ $69977$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -8459,7 +8414,7 @@ $184$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>DF932C38-6507-44AB-B10B-EC17B47BA0D0</p>
 </div>
@@ -8514,7 +8469,7 @@ $35$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -8921,9 +8876,6 @@ $41 \text { cm}^2$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -10010,9 +9962,6 @@ $26$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -11281,13 +11230,7 @@ $11 \ \text {m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -11408,10 +11351,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -11833,10 +11773,7 @@ $700$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -12569,13 +12506,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-ttable
 </li>
 </ul>
 </div>
@@ -13007,7 +12938,7 @@ $54 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tmoney
@@ -13192,13 +13123,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -13435,9 +13360,6 @@ $25 \ \text {cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -13519,20 +13441,20 @@ $
                         &= \dfrac {2 \times 100 \ \text{cm}} {30 \ \text{cm}} \\\\
                         &= \dfrac {2 \times 10 \cancel {0}} {3 \cancel {0}} \\\\
                         &= \dfrac {20} {3} \\\\
-                        &= 6 \dfrac {2} {3} \text{cm}
+                        &= 6 \dfrac {2} {3}
 \end{aligned}
 $
 
 Number of pieces $= 6$
 
-Remaining length $= \dfrac{2} {3} \ \text{cm}$
+Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6, \ 0.66 \ \text{cm}$
+$6, \ 0.67 \ \text{cm}$
 
 </div>
 </div>
@@ -13671,13 +13593,7 @@ $450$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentageadvance
+talgebra
 </li>
 </ul>
 </div>
@@ -14330,13 +14246,7 @@ $9, 8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdivision
+tnumber
 </li>
 </ul>
 </div>
@@ -15701,13 +15611,7 @@ $\dfrac {1} {2}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -16171,12 +16075,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -16468,7 +16366,7 @@ $5{:}55 \ \text{am}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F3144B09-1621-4BF8-A18D-56C923A48403</p>
 </div>
@@ -16632,7 +16530,7 @@ $76 \times 8$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -17708,17 +17606,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>51C00E11-4522-456E-9573-8B2298390591</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -17759,8 +17654,9 @@ $15$ computers
 
 $
 \begin{aligned}
-&= 15 \times 100 \\\\
-&= \pounds 1500
+&= 10000 + 15 \times 100 \\\\
+&= 10000 + 1500
+&= \pounds 11500
 \end{aligned}
 $
 
@@ -17769,7 +17665,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1500$
+$\pounds 11500$
 
 </div>
 </div>
@@ -17792,9 +17688,10 @@ How many computers does she sell if she earns $\pounds 12600$?
 
 $
 \begin{aligned}
-&= \dfrac {12600} {100} \\\\
-&= \dfrac {126 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 126 \text { computers}
+&= \dfrac {12600 - 10000} {100} \\\\
+&= \dfrac {2600} {100} \\\\
+&= \dfrac {26 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= 26 \ \text {computers}
 \end{aligned}
 $
 
@@ -17803,7 +17700,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$126 \text { computers}$
+$26 \ \text {computers}$
 
 </div>
 </div>
@@ -17815,7 +17712,7 @@ $126 \text { computers}$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -17827,16 +17724,7 @@ $126 \text { computers}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunitprompt
+tnumber
 </li>
 </ul>
 </div>
@@ -17946,7 +17834,7 @@ $85 \ \text{centimeters}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8D9C54BC-6E17-4740-929F-C604E748B5B7</p>
 </div>
@@ -18045,12 +17933,12 @@ $120 \degree$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BB81BF83-EBB0-482C-B728-A09A6CBDE335</p>
 </div>
@@ -18104,7 +17992,7 @@ $
 \begin{aligned}
 \text {Area of shaded face} &= \text {length} \times \text {width} \\\\
                             &= 3 \times 6 \\\\
-                            &= 18 \text { cm}^2
+                            &= 18 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -18113,7 +18001,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$18 \text { cm}^2$
+$18 \ \text {cm}^2$
 
 </div>
 </div>
@@ -18139,7 +18027,7 @@ $
 \text {Total surface area} &= 2 \times \text {length} \times \text {width} + 2 \times \text {length} \times \text {height} + 2 \times \text {height} \times \text {width} \\\\
                            &= 2 \times 6 \times 10 + 2 \times 6 \times 3 + 2 \times 3 \times 10 \\\\
                            &= 120 + 36 + 60 \\\\
-                           &= 216 \text {cm}^2
+                           &= 216 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -18148,7 +18036,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$216 \text {cm}^2$
+$216 \ \text {cm}^2$
 
 </div>
 </div>
@@ -18160,7 +18048,7 @@ $216 \text {cm}^2$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -18217,7 +18105,7 @@ $\dfrac {3} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2</p>
 </div>
@@ -18278,10 +18166,11 @@ $
                                                    &= \dfrac {9 \times 4 \times 4} {9 \times 3} \\\\
                                                    &= \dfrac {\cancel {9} \times 4 \times 4} {\cancel {9} \times 3} \\\\
                                                    &= \dfrac {16} {9} \\\\
-                                                   &= 5.3333 \\\\
-                                                   &= 5
+                                                   &= 5.3333
 \end{aligned}
 $
+
+Number of chocolates each student receive $= 5$
 
 </div>
 </div>
@@ -18334,7 +18223,7 @@ $9$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -18652,7 +18541,7 @@ $- \dfrac {4} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6</p>
 </div>
@@ -18770,7 +18659,7 @@ $10$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -19135,7 +19024,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A665B0B4-EBC8-4304-BDFA-28CF12D417AD</p>
 </div>
@@ -19207,14 +19096,19 @@ How many minutes should it take the train to travel from Wolverhampton to Milton
 <div class='workings'>
 <div class='working'>
 
-$1 \text { hour } 30 \text { minutes}$
+$
+\begin{aligned}
+\text{Time taken} &= 10{:}10 - 8{:}40 \\\\
+                  &= 1 \ \text {hour} \ 30 \ \text {minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \text { hour } 30 \text { minutes}$
+$1 \ \text {hour} \ 30 \ \text {minutes}$
 
 </div>
 </div>
@@ -19235,14 +19129,19 @@ If the train is $35 \ \text{minutes}$ late leaving Crewe, what time should it ar
 <div class='workings'>
 <div class='working'>
 
-$11:20$
+$
+\begin{aligned}
+\text{Arriving time} &= 10{:}45 + 35 \ \text{minutes} \\\\
+                     &= 11{:}20
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$11:20$
+$11{:}20$
 
 </div>
 </div>
@@ -19254,7 +19153,7 @@ $11:20$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -19312,16 +19211,10 @@ $6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tprofit
 </li>
 </ul>
 </div>
@@ -19502,7 +19395,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>12BD4A22-072D-4543-95F1-81147B89584D</p>
 </div>
@@ -19616,7 +19509,7 @@ $- 18 \degree C$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -20590,20 +20483,14 @@ $\dfrac {9} {4} \ \text {miles}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
 <p>33894696-6D5A-4AA2-89AF-C94F80BC4363</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tnoexplanation
+talgebra
 </li>
 </ul>
 </div>
@@ -20631,7 +20518,7 @@ $81$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_amber</p>
 </div>
 </div>
 </li>
@@ -20681,17 +20568,14 @@ $0.36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>370E6891-00C4-4400-9412-56FFA4BE4110</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -20708,6 +20592,8 @@ $
 \begin{aligned}
 \text {Man pays for 4 days and 300km} &= 4 \times \pounds 35 + 300 \times 34 \text {p} \\\\
                                       &= \pounds 140 + 10200 \text {p} \\\\
+                                      &= \pounds 140 + \pounds \dfrac {10200} {100} \\\\
+                                      &= \pounds 140 + \pounds \dfrac {102 \cancel {00}} {1 \cancel {00}} \\\\
                                       &= \pounds 140 + \pounds 102 \\\\
                                       &= \pounds 242
 \end{aligned}
@@ -20727,7 +20613,7 @@ $\pounds 242$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -20844,7 +20730,7 @@ $+, \ \div, \ -$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>66B16F07-8FF6-4E55-BA74-5529DF432D2B</p>
 </div>
@@ -20869,7 +20755,9 @@ How old was my grandmother when her daughter was born?
 
 $
 \begin{aligned}
-\text {Grandmother's age} &= 80 - 52 \\\\
+\text {Grandmother's age} &= 80 - (40 + (2006 - 1994)) \\\\
+                          &= 80 - (40 + 12) \\\\
+                          &= 80 - 52 \\\\
                           &= 28
 \end{aligned}
 $
@@ -20888,7 +20776,7 @@ $28$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -21344,10 +21232,10 @@ $(3,5), \ (4,4), \ (9,2), \ (1,10), \ (19,1)$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tcoin
+tratio
 </li>
 </ul>
 </div>
@@ -21684,11 +21572,12 @@ How many $3 \ \text{cm}$ cubes can be made by cutting up a block $12 \ \text{cm}
 $
 \begin{aligned}
 \text{Number of cubes} &= \dfrac {\text{Volume of cuboid}} {\text{Volume of cube}} \\\\
-                       &= \dfrac {12 \times 24 \times 18} {3 \times 3} \\\\
-                       &= \dfrac {3 \times 4 \times 3 \times 8 \times 18} {3 \times 3} \\\\
-                       &= \dfrac {\cancel {3} \times 4 \times \cancel {3} \times 8 \times 18} {\cancel {3} \times \cancel {3}} \\\\
-                       &= 4 \times 8 \times 18 \\\\
-                       &= 576
+                       &= \dfrac {12 \times 24 \times 18} {3 \times 3 \times 3} \\\\
+                       &= \dfrac {3 \times 4 \times 3 \times 8 \times 6 \times 3} {3 \times 3 \times 3} \\\\
+                       &= \dfrac {\cancel {3} \times 4 \times \cancel {3} \times 8 \times 6 \times \cancel{3}} {\cancel {3} \times \cancel {3} \times \cancel {3}} \\\\
+                       &= 4 \times 8 \times 6 \\\\
+                       &= 32 \times 6 \\\\
+                       &= 192
 \end{aligned}
 $
 
@@ -21697,7 +21586,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$576$
+$192$
 
 </div>
 </div>
@@ -22685,20 +22574,14 @@ $\dfrac {6} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>C6834D71-AFD9-48CA-8FE5-4FD0495C3D22</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttemperature
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -22793,7 +22676,7 @@ $\pounds 110$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -22970,18 +22853,12 @@ $10 n - 16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F202EB77-1406-4EA6-951F-C009520818C9</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>
@@ -23019,7 +22896,7 @@ $\pounds 8.19$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -23225,7 +23102,7 @@ $5 \ \text {and} \ 11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B262AEAA-906F-455F-9F60-3F9875266B0B</p>
 </div>
@@ -23268,7 +23145,7 @@ $12$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -23333,10 +23210,7 @@ $\dfrac {1} {2}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -23560,7 +23434,7 @@ $110 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>1B75D1B9-5669-4840-977E-AF67A1065F16</p>
 </div>
@@ -23613,7 +23487,7 @@ $60 \%$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -24194,7 +24068,7 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D03375C8-7EA3-489F-8485-E7B331CCAD8E</p>
 </div>
@@ -24245,6 +24119,7 @@ $
                    &= \dfrac {27 \times 100} {45} \\\\
                    &= \dfrac {9 \times 3 \times 5 \times 20} {9 \times 5} \\\\
                    &= \dfrac {\cancel {9} \times 3 \times \cancel {5} \times 20} {\cancel {9} \times \cancel {5}} \\\\
+                   &= 3 \times 20 \\\\
                    &= 60 \%
 \end{aligned}
 $
@@ -24277,8 +24152,8 @@ In a class of $30$ pupils, $21$ are girls. What percentage of the class is boys?
 
 $
 \begin{aligned}
-Boys in the class &= 30 - 21 \\\\
-                  &= 9
+\text {Boys in the class} &= 30 - 21 \\\\
+                          &= 9
 \end{aligned}
 $
 
@@ -24361,6 +24236,7 @@ $
 &= \dfrac {85} {100} \\\\
 &= \dfrac {17 \times 5} {2 \times 5 \times 10} \\\\
 &= \dfrac {17 \times \cancel {5}} {2 \times \cancel {5} \times 10} \\\\
+&= \dfrac {17} {2 \times 10} \\\\
 &= \dfrac {17} {20}
 \end{aligned}
 $
@@ -24432,7 +24308,7 @@ $\dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -25327,7 +25203,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>16D089A8-F897-466C-A647-02A29D9F4503</p>
 </div>
@@ -25346,14 +25222,21 @@ If a basketball weighs $300 \ \text{g}$ plus half its own weight, how much does 
 <div class='workings'>
 <div class='working'>
 
+Let the weight of basketball $= b$
+
+As per the question,
+
 $
 \begin{aligned}
-\text {Weight of the basketball} &= 300 + \dfrac {1} {2} \times 300 \\\\
-                                 &= 300 + \dfrac {300} {2} \\\\
-                                 &= 300 + \dfrac {150 \times 2} {2} \\\\
-                                 &= 300 + \dfrac {150 \times \cancel {2}} {\cancel {2}} \\\\
-                                 &= 300 + 150 \\\\
-                                 &= 450 \ \text{g}
+\text {Weight of the basketball}                  &= 300 + \dfrac {1} {2} \times b \\\\
+b                                                 &= 300 + \dfrac {b} {2} \\\\
+b - \dfrac {b} {2}                                &= 300 \\\\
+\dfrac {b \times 2} {1 \times 2} - \dfrac {b} {2} &= 300 \\\\
+\dfrac {2 b} {2} - \dfrac {b} {2}                 &= 300 \\\\
+\dfrac {2 b - b} {2}                              &= 300 \\\\
+\dfrac {b} {2}                                    &= 300 \\\\
+b                                                 &= 300 \times 2 \\\\
+b                                                 &= 600 \ \text{g}
 \end{aligned}
 $
 
@@ -25362,7 +25245,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$450 \ \text{g}$
+$600 \ \text{g}$
 
 </div>
 </div>
@@ -25371,7 +25254,7 @@ $450 \ \text{g}$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -25873,9 +25756,6 @@ $32027$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -26162,9 +26042,6 @@ $81, 243$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
 </li>
 <li>
@@ -26322,9 +26199,6 @@ $2 \ \text {hours} \ 37 \ \text {minutes}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -26376,10 +26250,7 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -26526,7 +26397,7 @@ $7 \ \text{hours} \ 43 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B3BEC0CC-4D5E-48CC-9ADB-8FEF97E59046</p>
 </div>
@@ -26759,7 +26630,7 @@ $13, \ 21$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -26923,6 +26794,7 @@ $
 101.2 \times 1000          &= 22 \times 1000 \times 4.6 \\\\
 \dfrac {101200} {4.6}      &= 22000 \\\\
 101200 \div 4.6            &= 22000
+\end{aligned}
 $
 
 </div>
@@ -27865,7 +27737,7 @@ $576 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>2CA89A06-D6D2-400A-B27B-67091B0F2E69</p>
 </div>
@@ -28017,7 +27889,7 @@ $176.4$
 <p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -28172,7 +28044,7 @@ There are $0.91\ \text{metres}$ in $1  \ \text{yard}$. How many metres are there
 $
 \begin{aligned}
 \text{Total yards} &= 0.075 \times 0.91 \\\\
-                   &= 0.06825 \ \text{yards}
+                   &= 0.06825 \ \text{metres}
 \end{aligned}
 $
 
@@ -28181,7 +28053,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.06825 \ \text{yards}$
+$0.06825 \ \text{metres}$
 
 </div>
 </div>
@@ -28281,7 +28153,7 @@ $
                             &= \dfrac {84} {100} \times 730 \\\\
                             &= \dfrac {84 \times 730} {100} \\\\
                             &= \dfrac {61320} {100} \\\\
-                            &= 613.2 \\\\
+                            &= 613.2
 \end{aligned}
 $
 
@@ -28307,7 +28179,7 @@ $613$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>28FC31CE-4F0F-40E8-993C-6AB248B233EF</p>
 </div>
@@ -28452,12 +28324,12 @@ $3$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3A0149EE-424F-4F81-9623-9D7932C23AE0</p>
 </div>
@@ -28670,7 +28542,7 @@ $16.25$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -28815,16 +28687,7 @@ $6!$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tdate
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -29228,7 +29091,7 @@ $9 \times 5 \div 2 + 1 = 15$
 <div class='workings'>
 <div class='working'>
 
-$((9 \times 5) \div (2 + 1)) &= 15$
+$((9 \times 5) \div (2 + 1)) = 15$
 
 </div>
 </div>
@@ -29256,7 +29119,7 @@ $3\times  7 - 6 \times 4 - 3 = 15$
 <div class='workings'>
 <div class='working'>
 
-$((3 \times  7) - (6 \times (4 - 3))) &= 15$
+$((3 \times  7) - (6 \times (4 - 3))) = 15$
 
 </div>
 </div>
@@ -29280,7 +29143,7 @@ $((3 \times  7) - (6 \times (4 - 3)))$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>485DBC6F-F0A5-4EB6-93C4-93CE2412C835</p>
 </div>
@@ -29536,7 +29399,7 @@ $3 \dfrac {1} {3}$
 <p>oundle-school--11-plus--maths--2017--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -29737,10 +29600,10 @@ $
 \dfrac {90 a} {500} - \dfrac {150 a} {500}                   &= 1.95 \\\\
 \dfrac {90 a - 150 a} {500}                                  &= 1.95 \\\\
 -\dfrac {60 a} {500}                                         &= 1.95 \\\\
-a                                                            &= \dfrac {1.95 \times 500} {60} \\\\
-a                                                            &= \dfrac {1.95 \times 50 \cancel {0}} {6 \cancel {0}}
-a                                                            &= \dfrac {1.95 \times 50} {6} \\\\
-a                                                            &= 16.25
+a                                                            &= - \dfrac {1.95 \times 500} {60} \\\\
+a                                                            &= - \dfrac {1.95 \times 50 \cancel {0}} {6 \cancel {0}} \\\\
+a                                                            &= - \dfrac {1.95 \times 50} {6} \\\\
+a                                                            &= - 16.25
 \end{aligned}
 $
 
@@ -29749,7 +29612,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16.25$
+$-16.25$
 
 </div>
 </div>
@@ -29766,18 +29629,12 @@ $16.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>C3168C71-1453-467B-B9E0-F3062E77C342</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 tmoney
 </li>
@@ -29981,7 +29838,7 @@ $37 \ \text{kg}$
 <p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -30159,7 +30016,7 @@ $\dfrac {35} {33}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>473D7359-5460-4A81-BD40-81A0A3A69215</p>
 </div>
@@ -30439,25 +30296,19 @@ $3 \dfrac {5} {11}$
 <p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>51830703-CBD9-43F8-B47F-335ADCA3A65F</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tnumber
+talgebra
 </li>
 </ul>
 </div>
@@ -30663,12 +30514,12 @@ $28$
 <p>oundle-school--11-plus--maths--2018--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>E2966271-3218-4066-8490-77C5F92607CA</p>
 </div>
@@ -30823,7 +30674,7 @@ $0.3$
 <p>oundle-school--11-plus--maths--2018--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -30835,19 +30686,7 @@ $0.3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tpercentageadvance
-</li>
-<li>
-tfraction
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -31167,9 +31006,6 @@ $66$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -31268,9 +31104,6 @@ $23$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -31319,9 +31152,6 @@ $\pounds 0.52$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -31365,17 +31195,14 @@ $52272$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A01A640F-EDFD-4999-9FB4-D5CB13DE99BE</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tsimpleword
 </li>
 </ul>
 </div>
@@ -31414,7 +31241,7 @@ $\pounds 46200$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -31566,7 +31393,7 @@ $90 \ \text {hours}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>60B9091C-D342-4FED-A634-E494AC62D7E8</p>
 </div>
@@ -31616,7 +31443,7 @@ $7325$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -31677,7 +31504,7 @@ $0.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>2776F3AC-5B59-4DE4-AA6C-D15196418A83</p>
 </div>
@@ -31722,12 +31549,12 @@ $6203$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>AE182AEF-A433-4C74-A98A-5E3325141BC5</p>
 </div>
@@ -31775,20 +31602,17 @@ $1773$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>FFA69607-F74D-4586-9C47-8FC1B3DD1DC5</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -31828,7 +31652,7 @@ $6489$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -31946,10 +31770,7 @@ $7, \ 4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -32360,10 +32181,7 @@ $48$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -32406,7 +32224,7 @@ $\pounds 208$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>011051B7-79BC-4F3A-B3E5-9FEA0D775E51</p>
 </div>
@@ -32511,12 +32329,12 @@ $8 \ \text{hours} \ 15 \ \text{minutes}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A3140AAF-E610-429C-AF4F-341B3488C084</p>
 </div>
@@ -32586,7 +32404,7 @@ $\text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfra
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -32698,9 +32516,6 @@ $6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -32828,9 +32643,6 @@ $3.9 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -32877,9 +32689,6 @@ $111 \text{p}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -33005,7 +32814,7 @@ $
 15 \times 2           &= \dfrac {510} {17} \\\\
 \dfrac {510} {17}     &= 15 \times 2 \\\\
 \dfrac {510} {17}     &= 30 \\\\
-510 \div 17           &= 30 \\\\
+510 \div 17           &= 30
 \end{aligned}
 $
 
@@ -33141,7 +32950,7 @@ $9, \ 3, \ 16, \ 11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>5298C101-6575-44AF-907F-35B7EAF2FC14</p>
 </div>
@@ -33238,12 +33047,12 @@ $6{:}00 \ \text{pm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>77B7035B-4C89-427D-A347-E8D034630C49</p>
 </div>
@@ -33380,7 +33189,7 @@ $35948$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -33513,12 +33322,6 @@ $252 \ \text{cm} ^ 2$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>
@@ -33837,7 +33640,7 @@ $5, \quad 3, \quad 8, \quad 11, \quad 19$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>84386E3C-25A2-4135-BDFE-C2794FEA4DB7</p>
 </div>
@@ -33882,7 +33685,7 @@ $849$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -33946,9 +33749,6 @@ $7113$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -34132,7 +33932,7 @@ $\text {E, \ D, \ Z}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3C00C796-049E-471D-AEC7-FACC3D844E29</p>
 </div>
@@ -34330,12 +34130,12 @@ $27, \ 81$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A4CC0300-E182-4F49-A74B-56D65902A6A7</p>
 </div>
@@ -34454,7 +34254,7 @@ $16$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -34749,7 +34549,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3D815431-0738-48E8-8632-A526A05E2823</p>
 </div>
@@ -34875,12 +34675,12 @@ $5 - 5 = 4 - 4$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>C93A6248-F4DF-45F2-A0DE-18925C33F3FD</p>
 </div>
@@ -34938,7 +34738,7 @@ $20 \ \text{cm} ^ 2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -34997,7 +34797,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8089705E-50AA-40D2-9513-A70C93DC8C55</p>
 </div>
@@ -35049,12 +34849,12 @@ $3124, \ 3214, \ 3412, \ 3142$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>4006083B-3E90-419F-BA56-2A524560C84C</p>
 </div>
@@ -35111,7 +34911,7 @@ $11$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -35252,9 +35052,6 @@ $4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -35298,15 +35095,12 @@ $3, \ 8, \ 2, \ 6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>42D920DA-04E3-422A-89A2-AF9EEC3650DF</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -35476,7 +35270,7 @@ $26748$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -35636,9 +35430,6 @@ $2148$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -35730,7 +35521,7 @@ $2.23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>DECBAFA9-B0F4-45DA-B4A9-5B89028153A7</p>
 </div>
@@ -35771,12 +35562,12 @@ $24796$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>0EBD3316-5CD6-40EB-8B8C-D3B8C9C268B1</p>
 </div>
@@ -35822,12 +35613,12 @@ $\text {Twelve thousand four hundred and eight pounds}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>630C101F-E5A2-4A98-AD35-AF1C60B9AD03</p>
 </div>
@@ -35891,7 +35682,7 @@ $8 \dfrac {1} {20}, \ 8.05$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -36008,7 +35799,7 @@ $165$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
 </div>
@@ -36113,7 +35904,7 @@ $10 \ \text{hrs} \ 48 \ \text{mins}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -36168,7 +35959,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>E709EA37-048F-4696-A4BE-A209DAEF9AE9</p>
 </div>
@@ -36218,7 +36009,7 @@ $\dfrac {3} {4}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -36324,15 +36115,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>C535E8F6-43D7-44D2-B14D-8708D1AE1BC8</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -36377,7 +36165,7 @@ $\pounds 8.25$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -36951,7 +36739,7 @@ $3, \ 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A5D1670C-F9E8-458A-87F9-BEAD48F73EC4</p>
 </div>
@@ -37018,7 +36806,7 @@ $48 \ \text{cm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -37099,10 +36887,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
+tmoney
 </li>
 <li>
 tnoexplanation
@@ -38248,9 +38033,6 @@ $8072$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -38538,7 +38320,7 @@ $20.3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>45A231A8-13FE-4D37-B71A-F07B391EDE00</p>
 </div>
@@ -38586,7 +38368,7 @@ $54$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -38642,7 +38424,7 @@ $0.06, \ 0.09$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>5702F561-6E2E-4760-BBD8-682C0DF387A6</p>
 </div>
@@ -38679,7 +38461,7 @@ $2.203, \quad 2.23, \quad 2.3, \quad 2.303$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -38850,10 +38632,7 @@ $152$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -38935,7 +38714,9 @@ $
 \begin{aligned}
 \text {Change received} &= 10 - 4 \times 2.47 \\\\
                         &= 10 - 9.88 \\\\
-                        &= \pounds 0.12
+                        &= \pounds 0.12 \\\\
+                        &= 0.12 \times 100 \text{p} \\\\
+                        &= 12 \text{p}
 \end{aligned}
 $
 
@@ -38944,7 +38725,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.12$
+$12 \text{p}$
 
 </div>
 </div>
@@ -39139,7 +38920,7 @@ $19$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F858D0CE-F0D7-4B18-A22D-210D8F94DE51</p>
 </div>
@@ -39187,7 +38968,7 @@ $8 \ \text{years} \ 10 \ \text{months}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -39249,7 +39030,7 @@ $2 \ \text{hours} \ 49 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BFF5A30A-4A5A-4A25-AA76-D4DAB5685C90</p>
 </div>
@@ -39444,7 +39225,7 @@ $45 \ \text{grams}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -39501,7 +39282,7 @@ $1105$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D6AD42BC-5CD5-4B55-896E-3EA20629FF0F</p>
 </div>
@@ -39706,7 +39487,7 @@ $71$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -40424,7 +40205,7 @@ j                       &= 13
 \end{aligned}
 $
 
-Jumpers hung = Shirts hung $= 13$
+Jumpers hung $=$ Shirts hung $= 13$
 
 </div>
 </div>
@@ -40730,15 +40511,12 @@ $61$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>ED51D194-C5FA-45F5-8072-BA5973BA5747</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -40847,7 +40625,7 @@ $278$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -41093,7 +40871,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>DF1F8D35-24B7-47A1-AE66-E60F99803BCA</p>
 </div>
@@ -41292,7 +41070,7 @@ $210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{m
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -41682,9 +41460,6 @@ $864$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -41885,23 +41660,20 @@ $57$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>7E7878A4-808C-4404-8B60-2FB05E498D2D</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -41959,12 +41731,12 @@ $4$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>123B050C-DB35-4294-97F0-0DCBAFF89F1E</p>
 </div>
@@ -42026,12 +41798,12 @@ $\pounds 75$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>6E6B11E1-CFDF-43B5-9CF2-E7E17FFE2599</p>
 </div>
@@ -42085,7 +41857,7 @@ $22$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -42096,12 +41868,6 @@ $22$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
 <li>
 tmoney
 </li>
@@ -42143,7 +41909,7 @@ $\pounds 1.40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B3120C19-2C89-411F-90CE-9EA04D6E4598</p>
 </div>
@@ -42201,7 +41967,7 @@ $48 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -42342,7 +42108,7 @@ Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
-&= 0.66, \quad \dfrac{3}{4}, \quad 70\%, \quad \dfrac{2}{3}, \quad \dfrac{6}{10} \\\\
+&= 0.66, \quad \dfrac {3} {4}, \quad 70\%, \quad \dfrac {2} {3}, \quad \dfrac {6} {10} \\\\
 &= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60
 \end{aligned}
 $
@@ -42351,20 +42117,19 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= 0.60, \quad 0.66, \quad 0.666, \quad  0.70, \quad 0.75
+&= 0.60, \quad 0.66, \quad 0.666, \quad  0.70, \quad 0.75 \\\\
+&= \dfrac {6} {10}, \quad 0.66, \quad \dfrac {2} {3}, \quad 70 \%, \quad \dfrac {3} {4}
 \end{aligned}
 $
 
-The number in the middle $= 0.666$.
-
-The number in the middle $= \dfrac{2}{3}$.
+The number in the middle $= \dfrac {2} {3}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{2}{3}$
+$\dfrac {2} {3}$
 
 </div>
 </div>
@@ -43239,9 +43004,6 @@ $504$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

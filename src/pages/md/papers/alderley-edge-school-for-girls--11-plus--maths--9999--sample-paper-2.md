@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,9 +21,6 @@ date: 2022-05-29 22:47:20
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -378,7 +375,7 @@ $\dfrac{6}{8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>F7F2FFC1-D62D-4514-9BEE-0D066D637BB9</p>
 </div>
@@ -425,7 +422,7 @@ $ (3 \times (4 - 2)) + 3 = 9$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -437,13 +434,7 @@ $ (3 \times (4 - 2)) + 3 = 9$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -485,7 +476,7 @@ $\pounds 16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E910C2F9-6456-4BBC-AFDD-535BDC142506</p>
 </div>
@@ -512,7 +503,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Arrival Time}  &= 8 {:} 05 - 12 \text{ minutes} \\\\
+\text{Arrival Time}  &= 8 {:} 05 - 12 \ \text{minutes} \\\\
                      &= 7 {:} 58
 \end{aligned}
 $
@@ -522,7 +513,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7 : 58$
+$7 {:} 58$
 
 </div>
 </div>
@@ -531,7 +522,7 @@ $7 : 58$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -593,9 +584,6 @@ $7 \degree \text{C}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -634,15 +622,12 @@ $\pounds 2.76$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>756BF331-A51F-4A21-87F9-88110C57C73D</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -659,11 +644,11 @@ and a half of the rest to Sarah. How many are left?
 
 $
 \begin{aligned}
-\text{Remaining Marbles}       &=  \text{Total Marbles} -  \text{Marbles (Vix)} - \text{Students (Sarah)} \\\\
-                                &=  27 -  \dfrac{1}{3} \times 27 - \dfrac{1}{4} \times 180 \\\\
-                                &=  180 -  \dfrac{2 \times 180}{5}  - \dfrac{180}{4}  \\\\
-                                &=  180 -  \dfrac{2 \times 36 \times 5}{5}  - \dfrac{45 \times 4}{4}  \\\\
-                                &=  180 -  \dfrac{2 \times 36 \times \cancel{5}}{\cancel{5}}  - \dfrac{45 \times \cancel{4}}{\cancel{4}}  \\\\
+\text {Marbles left}            &=  \text {Total Marbles} -  \text {Marbles (Vix)} - \text {Students (Sarah)} \\\\
+                                &=  27 -  \dfrac {1} {3} \times 27 - \dfrac {1} {4} \times 180 \\\\
+                                &=  180 -  \dfrac {2 \times 180} {5}  - \dfrac {180} {4}  \\\\
+                                &=  180 -  \dfrac {2 \times 36 \times 5} {5}  - \dfrac {45 \times 4} {4}  \\\\
+                                &=  180 -  \dfrac {2 \times 36 \times \cancel{5}} {\cancel{5}}  - \dfrac{45 \times \cancel{4}} {\cancel{4}}  \\\\
                                 &=  180 -  2 \times 36 - 45  \\\\
                                 &=  180 -  72 - 45  \\\\
                                 &=  63
@@ -684,7 +669,7 @@ $9$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -695,9 +680,6 @@ $9$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -747,9 +729,6 @@ $\pounds 16$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -813,9 +792,6 @@ $\pounds 3.25$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -867,9 +843,6 @@ $\pounds 3.20$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -967,7 +940,7 @@ $85 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>6F087310-2750-47AA-8B72-0FD80BCEBA2B</p>
 </div>
@@ -989,7 +962,7 @@ $82 - 27 =5 \times {?}$
 <div class='workings'>
 <div class='working'>
 
-Let the missing value $= a$
+Let the missing value $= a$,
 
 $
 \begin{aligned}
@@ -1016,7 +989,7 @@ $11$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1027,9 +1000,6 @@ $11$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1131,7 +1101,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B34288DD-BB7A-4E73-B397-2F8478A7D5D8</p>
 </div>
@@ -1153,9 +1123,9 @@ Two angles of a triangle are $49 \degree$ and $52 \degree$. What is the third an
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a\degree$
+Let the missing angle $= a$
 
-As we all know sum of  all angles in triangle $= 180 \degree$.
+As we know sum of  all angles in triangle $= 180 \degree$.
 
 Using that we get,
 
@@ -1164,7 +1134,7 @@ $
 49 + 52 + a    &= 180 \\\\
 101 + a        &= 180 \\\\
 a              &= 180 - 101 \\\\
-a              &= 79\degree
+a              &= 79 \ \degree
 \end{aligned}
 $
 
@@ -1173,7 +1143,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$79\degree$
+$79 \ \degree$
 
 </div>
 </div>
@@ -1182,7 +1152,7 @@ $79\degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1366,9 +1336,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -1418,13 +1385,7 @@ $0$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tgeometry
 </li>
 </ul>
 </div>
@@ -2107,7 +2068,7 @@ $50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>8F3672CB-7B07-47D0-9892-C621FC3A2EE8</p>
 </div>
@@ -2156,7 +2117,7 @@ D
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -2517,9 +2478,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -2949,7 +2907,7 @@ $250 \ \text{milliliters}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>416925A5-F078-4A2D-BB8E-871E9D3B167B</p>
 </div>
@@ -2999,11 +2957,11 @@ Work out $5 \%$ of $360$.
 
 $
 \begin{aligned}
-&= 5\% \text{ of } 360 \\\\
+&= 5\% \text { of } 360 \\\\
 &= \dfrac {5} {100} \times 360 \\\\
-&= \dfrac {5} {10 \cancel {0} } \times 36 \cancel {0} \\\\
-&= \dfrac {5} {10} \times 36 \\\\
-&= \dfrac {\cancel {10} \times 18 } {\cancel {10} } \\\\
+&= \dfrac {5 \times 360} {100} \\\\
+&= \dfrac {5 \times 2 \times 18 \times 10} {2 \times 5 \times 10} \\\\
+&= \dfrac {\cancel {5} \times \cancel {2} \times 18 \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
 &= 18
 \end{aligned}
 $
@@ -3013,7 +2971,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$90$
+$18$
 
 </div>
 </div>
@@ -3036,20 +2994,23 @@ You can use part (a) to help you.
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
-&= 15\% \text{ of } 360 \\\\
+&= 15\% \text { of } 360 \\\\
 &= \dfrac {15} {100} \times 360 \\\\
-&= 3 \times (\dfrac {5} {10} \times 360) \\\\
-&= 3 \times 90 \\\\
-&= 270
+&= \dfrac {15 \times 360} {100} \\\\
+&= \dfrac {5 \times 3 \times 2 \times 18 \times 10} {2 \times 5 \times 10} \\\\
+&= \dfrac {\cancel {5} \times 3 \times \cancel {2} \times 18 \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+&= 54
 \end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$270$
+$54$
 
 </div>
 </div>
@@ -3061,7 +3022,7 @@ $270$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -3072,9 +3033,6 @@ $270$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -3189,9 +3147,6 @@ $\text{1. } 8 \text{ cm} \times 3 \text{ cm}, \text{2. } 4 \text{ cm} \times 6 \
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

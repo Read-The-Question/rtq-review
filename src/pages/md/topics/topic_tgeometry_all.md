@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-all"
 title: "Topic - Geometry - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -959,73 +959,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A triangle has a base of $6 \ \text{cm}$ and a height 
-of $4 \ \text{cm}$. It has the same area as another
-triangle of base length $8 \ \text{cm}$. How tall is the triangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
-
-Let the height of the second triangle $= a$.
-
-As per the question,
-
-$
-\begin {aligned}
-\text{Area of first triangle}                                   &= \text{Area of second triangle} \\\\
-\dfrac {1} {2} \times 6 \ \text {cm} \times 4 \ \text {cm}      &= \dfrac {1} {2} \times 8 \ \text {cm} \times a \\\\
-\dfrac {1} {2} \times 24                                        &= \dfrac {8} {2} \times a \\\\
-\dfrac {24} {2} \times \dfrac {2} {8}                           &= a \\\\
-a                                                               &= \dfrac {24} {2} \times \dfrac {2} {8} \\\\
-a                                                               &= \dfrac {24 \times 2} {2 \times 8} \\\\
-a                                                               &= \dfrac {3 \times 8 \times 2} {2 \times 8} \\\\
-a                                                               &= \dfrac {3 \times \cancel {8} \times \cancel {2}} {\cancel {2} \times \cancel {8}} \\\\
-a                                                               &= 3 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>8F3672CB-7B07-47D0-9892-C621FC3A2EE8</p>
 </div>
@@ -1074,7 +1008,7 @@ D
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -9660,7 +9594,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>B911493E-6758-4F37-90FE-BF7C46685E6B</p>
 </div>
@@ -9700,7 +9634,7 @@ Octagon and Trapezium
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -18302,175 +18236,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>D6A507F2-D04C-4853-9BCA-141F14A775B0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows a spinner with the numbers $1$ to $20$.
-
-![missing image](/papers/missing_image.svg)
-
-Vanessa spins the spinner.
-
-The spinner is equally likely to land on each section of the disc.
-
-![missing image](/papers/missing_image.svg)
-
-On the likelihood scale above:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-mark with letter $A$ the likelihood that the spinner lands on an even number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-mark with letter $B$ the likelihood that the spinner lands on a multiple of $5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-mark with letter $C$ the likelihood that the spinner lands on $21$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-mark with letter $D$ the likelihood that the spinner lands on a cube number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>C855329F-19A4-4A27-959D-17D3F293E4FF</p>
 </div>
 <div class='topics'>
@@ -18778,7 +18543,7 @@ $30 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>7F5F775B-7E11-4998-A118-784117B4C479</p>
 </div>
@@ -18897,7 +18662,7 @@ $16 \ \text{cm}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -19192,7 +18957,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>36E95BDA-CF7B-4EEC-AF73-C18EE5638591</p>
 </div>
@@ -19242,8 +19007,6 @@ $
 \end{aligned}
 $
 
-Number of triangles $= 56$
-
 </div>
 </div>
 <div class='answers'>
@@ -19258,7 +19021,7 @@ $56$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

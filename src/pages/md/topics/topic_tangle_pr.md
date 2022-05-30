@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-pr"
 title: "Topic - Angle - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -37,14 +37,14 @@ As we know, the sum of angles in a triangle is $180 \degree$.
 
 $
 \begin{aligned}
-a + a + 96      &= 180 \degree  \\\\
-2a + 96         &= 180  \\\\
-2a              &= 180 - 96  \\\\
-2a              &= 84  \\\\
-a               &= \dfrac {84} {2}  \\\\
-a               &= \dfrac {42 \times 2} {2}  \\\\
-a               &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
-a               &= 42 \degree
+a \degree + a \degree + 96 \degree      &= 180 \degree  \\\\
+2a + 96                                 &= 180  \\\\
+2a                                      &= 180 - 96  \\\\
+2a                                      &= 84  \\\\
+a                                       &= \dfrac {84} {2}  \\\\
+a                                       &= \dfrac {42 \times 2} {2}  \\\\
+a                                       &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
+a                                       &= 42 \degree
 \end{aligned}
 $
 
@@ -60,64 +60,6 @@ $42 \degree$
 
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>E719F44B-5B35-49B3-844A-3A6796E6666A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg) 
-
-What is the value of the missing angle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing angle $= a$
-
-As we know, the sum of angles on a straight line is $180 \degree$. 
-
-As per the diagram,
-
-$
-\begin{aligned}
-a + 90 \degree + 23 \degree     &= 180 \degree  \\\\
-a                               &= 180 - 90 - 23 \\\\
-a                               &= 180 - 113 \\\\
-a                               &= 67 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$67 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -348,7 +290,7 @@ $16 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B34288DD-BB7A-4E73-B397-2F8478A7D5D8</p>
 </div>
@@ -370,9 +312,9 @@ Two angles of a triangle are $49 \degree$ and $52 \degree$. What is the third an
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a\degree$
+Let the missing angle $= a$
 
-As we all know sum of  all angles in triangle $= 180 \degree$.
+As we know sum of  all angles in triangle $= 180 \degree$.
 
 Using that we get,
 
@@ -381,7 +323,7 @@ $
 49 + 52 + a    &= 180 \\\\
 101 + a        &= 180 \\\\
 a              &= 180 - 101 \\\\
-a              &= 79\degree
+a              &= 79 \ \degree
 \end{aligned}
 $
 
@@ -390,7 +332,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$79\degree$
+$79 \ \degree$
 
 </div>
 </div>
@@ -399,70 +341,7 @@ $79\degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>53DC209F-8A5F-49BF-8896-B33B61A97645</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two of the angles in a triangle are $25 \degree$ and $107 \degree$. The third angle is:
-
--  $28 \degree$ 
--  $48 \degree$ 
--  $68 \degree$ 
--  $88 \degree$ 
--  $180 \degree$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the third angle &= a& 
-
-As we know sum of all angles in a triangle is $180 \degree$ So,
-
-$
-\begin{aligned}
-25 + 107 + a &= 180 \\\\
-132 + a      &= 180 \\\\
-a            &= 180 - 132 \\\\
-a            &= 48 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
-<div class='answer'>
-
-$28 \degree, 48 \degree, 68 \degree, 88 \degree, 180 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -680,7 +559,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
 </div>
@@ -706,7 +585,7 @@ Calculate the size of the missing angle in this triangle. The diagram is **not**
 
 Let the missing angle $= a \degree$.
 
-As we know sum of all angles in triangle $= 180 \degree$
+As we know sum of all angles in triangle $= 180 \degree$. So,
 
 $
 \begin{aligned}
@@ -731,7 +610,7 @@ $62 \degree$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1577,13 +1456,13 @@ In a triangle, one of the angles is $45$ degrees. The other two angles in the tr
 
 $
 \begin{aligned}
-4x + 5x + 45                                                &= 180 \\\\
+4x \degrees + 5x  \degrees+ 45 \degrees                     &= 180 \degrees \\\\
 9x + 45                                                     &= 180 \\\\
 9x                                                          &= 180 - 45 \\\\
 9x                                                          &= 135 \\\\
 x                                                           &= 15 \\\\
-\text{So,5x}                                                &= 5 \times 15 \\\\
-                                                            &= 75
+5x                                                          &= 5 \times 15 \\\\
+5x                                                          &=75 \degrees
 \end{aligned}
 $
 
@@ -1592,7 +1471,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$75$
+$75 \degrees$
 
 </div>
 </div>
@@ -1948,9 +1827,9 @@ Calculate the angles marked with letters on the following diagrams.
 
 $
 \begin{aligned}
-135 + \text {a}          &=  180 \\\\
-\text {a}               &=  180 - 135 \\\\
-\text {a}               &=  45 \degree
+135 + a                 &=  180 \\\\
+a                       &=  180 - 135 \\\\
+a                       &=  45 \degree
 \end{aligned}
 $
 
@@ -1982,10 +1861,10 @@ $45 \degree$
 
 $
 \begin{aligned}
-174 + \text {e} + 90    &=  360 \\\\
-\text {e} + 264         &=  360 \\\\
-\text {e}               &=  360 - 264 \\\\
-\text {e}               &=  96 \degree
+174 + e + 90    &=  360 \\\\
+e + 264         &=  360 \\\\
+e               &=  360 - 264 \\\\
+e               &=  96 \degree
 \end{aligned}
 $
 
@@ -2019,19 +1898,19 @@ As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
-62 + 45 + \text {f} &= 180 \\\\
-\text {f} + 107     &= 180 \\\\
-\text {f}           &= 180 - 107 \\\\
-\text {f}           &= 73 \degree
+62 + 45 + f &= 180 \\\\
+f + 107     &= 180 \\\\
+f           &= 180 - 107 \\\\
+f           &= 73 \degree
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {f} + \text {g} &=  180 \\\\
-73 + \text {g}        &=  180 \\\\
-\text {g}             &=  180 - 73 \\\\
-\text {g}             &=  107 \degree
+f + g     &=  180 \\\\
+73 + g    &=  180 \\\\
+g         &=  180 - 73 \\\\
+g         &=  107 \degree
 \end{aligned}
 $
 
@@ -2154,15 +2033,13 @@ Calculate the angle marked with the letter $a$.
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a$
-
 As we know, the sum of angles on a straight line is $180 \degree$. 
 
 As per the diagram,
 
 $
 \begin{aligned}
-a + 44     &= 180  \\\\
+44 + a     &= 180  \\\\
 a          &= 180 - 44 \\\\
 a          &= 136 \degree
 \end{aligned}
@@ -2176,7 +2053,7 @@ $
 </div>
 <div class='answer'>
 
-$136$
+$136 \degree$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -67,9 +67,6 @@ $561$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -85,7 +82,7 @@ Work out $294 \times 70$.
 $
 \begin{array}{cccccccccccccc}
             &       &       2       & 9     & 4     \\
-{}\times    &       &               & 7     & 0     \\
+            &       &     {}\times  & 7     & 0     \\
 \hline
             &       &       0       & 0     & 0     \\
 2           &      0&       5       & 8     & 0     \\
@@ -172,13 +169,7 @@ $21$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -298,16 +289,10 @@ $100 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
+tnumber
 </li>
 <li>
 tmoney
-</li>
-<li>
-tprofit
 </li>
 </ul>
 </div>
@@ -318,6 +303,8 @@ Neil lends Rodger $\pounds 4$. Rodger pays back $30 \%$ of this the next day. Ho
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 Let's convert pounds to pence.
 
@@ -422,7 +409,7 @@ $
 \text{Marks deducted for a wrong answer}    &= 1 \\\\
 \text{Total wrong answers}                  &= 3 \\\\
 \text{Marks deducted}                       &= 3 \times 1 \\\\
-\text{Final Marks}                          &= 17 \times 4 - 3 \times 1 \\\\
+\text{Final Marks}                          &= (17 \times 4) - (3 \times 1) \\\\
                                             &= 68 - 3 \\\\
                                             &= 65
 \end{aligned}
@@ -433,7 +420,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-65
+$65$
 
 </div>
 </div>
@@ -711,6 +698,8 @@ What is the largest number less than $100$ which is a multiple of $2$, and of $3
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 Let's first find LCM for three numbers. There are no common factors, so the LCM would be 
 
 $
@@ -737,7 +726,7 @@ Largest number $= 90$
 <div class='answers'>
 <div class='answer'>
 
-$0$
+$90$
 
 </div>
 </div>
@@ -1029,7 +1018,7 @@ $\dfrac {1} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
 </div>
@@ -1092,7 +1081,7 @@ $135$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -1104,16 +1093,16 @@ $135$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
 </li>
 <li>
-talgebra
+tcoin
 </li>
 <li>
-tcoin
+tunitprompt
 </li>
 </ul>
 </div>
@@ -1131,13 +1120,13 @@ As per the question,
 
 $
 \begin{aligned}
-1 \times c + 2 \times c + 5 \times c + 10 \times c &= 90\\\\
-c + 2c + 5c + 10c &= 90 \\\\
-18c &= 90 \\\\
-c &= \dfrac {90} { 18} \\\\
-c &= \dfrac {18 \times 5} { 18} \\\\
-c &= \dfrac {\cancel{18} \times 5} { \cancel{18} } \\\\
-c &= 5
+1 \times c + 2 \times c + 5 \times c + 10 \times c       &= 90\\\\
+c + 2c + 5c + 10c                                        &= 90 \\\\
+18c                                                      &= 90 \\\\
+c                                                        &= \dfrac {90} {18} \\\\
+c                                                        &= \dfrac {5 \times 18} { 18} \\\\
+c                                                        &= \dfrac {5 \times \cancel{18}} { \cancel{18} } \\\\
+c                                                        &= 5
 \end{aligned}
 $
 
@@ -1145,8 +1134,8 @@ There are $5$ coins of each type and $4$ different types of coins.
 
 $
 \begin{aligned}
-\text{Total coins} &=  5 \times 4  \\\\
-&= 20 \ \text{coins}
+\text{Total coins}     &=  5 \times 4  \\\\
+                       &= 20 \ \text{coins}
 \end{aligned}
 $
 
@@ -1169,7 +1158,7 @@ $20 \ \text{coins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
 </div>
@@ -1220,7 +1209,7 @@ $\dfrac{3}{4}$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -1296,7 +1285,7 @@ answer = 2223, 2233, 2232, 2322, 2323, 2332, 3322, 3222, 3223, 3232
 <div class='answers'>
 <div class='answer'>
 
-10
+$10$
 
 </div>
 </div>
@@ -1335,6 +1324,8 @@ paints. What area is covered with paint?
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question, 
 
 Let's count all the faces of the cube on the exterior. 
 
@@ -1399,7 +1390,7 @@ As per the question,
 
 $
 \begin{aligned} 
-b + 3c      &= 1300   \\\\
+b + 3c      &= 1300 \\\\
 4b + 8c     &= 4000         
 \end{aligned}
 $
@@ -1408,8 +1399,8 @@ There are two variables, $b$ and $c$. Let's eliminate to reduce it to just one v
 
 $
 \begin{aligned} 
-b + 3c                      &= 1300             \\\\
-4 \times b + 4 \times 3c    &= 4 \times 1300    \\\\
+b + 3c                      &= 1300 \\\\
+4 \times b + 4 \times 3c    &= 4 \times 1300 \\\\
 4b + 12c                    &= 5200
 \end{aligned}
 $
@@ -1460,10 +1451,10 @@ Multiply the first equation by $8$ and the second equation by $3$ to make the co
 
 $
 \begin{aligned} 
-b + 3c                      &= 1300          \\\\
-4b + 8c                     &= 4000          \\\\
+b + 3c                      &= 1300 \\\\
+4b + 8c                     &= 4000 \\\\
 8 \times b + 8 \times 3c    &= 8 \times 1300 \\\\
-3 \times 4b + 3 \times 8c   &= 3 \times 4000  \\\\
+3 \times 4b + 3 \times 8c   &= 3 \times 4000 \\\\
 8b + 24c                    &= 10400 \\\\
 12b + 24c                   &= 12000
 \end{aligned}
@@ -1477,7 +1468,7 @@ $
 12b + 24c                   &= 12000 \\\\
 12b + 24c - (8b + 24c)      &= 12000 - 10400 \\\\
 12b + 24c - 8b - 24c        &= 12000 - 10400 \\\\
-4b                          &= 1600             \\\\
+4b                          &= 1600 \\\\
 b                           &= \dfrac{1600}{4} \\\\
 b                           &= \pounds 400
 \end{aligned}

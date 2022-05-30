@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-g1"
 title: "Topic - Age - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -530,6 +530,57 @@ $46 \ \text{years}$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>66B16F07-8FF6-4E55-BA74-5529DF432D2B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On $1 \text{st}$ January $2006$ my grandmother was $80$ years old. Her daughter was $40$ years old on $1 \ \text{st}$ January $1994$. 
+How old was my grandmother when her daughter was born?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Grandmother's age} &= 80 - (40 + (2006 - 1994)) \\\\
+                          &= 80 - (40 + 12) \\\\
+                          &= 80 - 52 \\\\
+                          &= 28
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>03E012B1-67E0-4542-B1B2-6F0B3069FFA8</p>
 </div>
 <div class='topics'>
@@ -585,6 +636,67 @@ $47 \ \text {years}$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>0A39A4A0-788E-4A56-BD54-7971DF649AE3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Richard is $12$ years old.
+
+Adam is $\text{twice}$ as old as Richard.
+
+Will is $\dfrac{2}{3}$  of Adam’s age.
+        
+What is their total age?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Richard's age}    &= 12 \\\\
+\text{Adam's age}       &= 2 \times \text{Richard's age}  \\\\
+                        &= 2 \times 12 \\\\
+                        &= 24 \\\\
+\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
+                        &= \dfrac {2} {3} \times 24 \\\\
+                        &= 16 \\\\
+\text{Total age}        &= 12 + 24 + 16 \\\\
+                        &= 52
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -833,6 +945,183 @@ $9, \ 3, \ 16, \ 11$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>A4CC0300-E182-4F49-A74B-56D65902A6A7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+May is $14 \ \text{years}$ old and her father is $39 \ \text{years}$ older than her. 
+May's mother is $8 \ \text{years}$ younger than her father. How old is May's mother?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Father's age} &= 14 + 39 \\\\
+                    &= 53 \ \text{years} \\\\
+\text{Mother's age} &= 53 - 8 \\\\
+                    &= 45 \ \text{years}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \ \text{years}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Five glass marbles cost a total of $\pounds 7.50$. How many marbles could I buy with $\pounds 24$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Cost of one marble} &= \dfrac {7.50} {5} \\\\
+                          &= \dfrac {1.5 \times 5} {5} \\\\
+                          &= \dfrac {1.5 \times \cancel {5}} {\cancel {5}} \\\\
+                          &= \pounds 1.5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Number of marbles} &= \dfrac {24} {1.5} \\\\
+                          &= \dfrac {16 \times 1.5} {1.5} \\\\
+                          &= \dfrac {16 \times \cancel {1.5}} {\cancel {1.5}} \\\\
+                          &= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>F858D0CE-F0D7-4B18-A22D-210D8F94DE51</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Becky is $10 \dfrac{1}{2} \ \text{years}$ old.
+
+Her brother is exactly $1 \ \text{year}$ and $8 \ \text{months}$ younger than Becky.
+
+How old is her brother?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Brother's age} &= 10 \dfrac {1} {2} \ \text {years} - 1 \ \text {years} \ 8 \ \text {months} \\\\
+                     &= 10 \ \text{years} \ 6 \ \text{months} - 1 \ \text{years} \ 8 \ \text{months} \\\\
+                     &= 8 \ \text{years} \ 10 \ \text{months}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text{years} \ 10 \ \text{months}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ga-all"
 title: "Owner - Gifty Abhishek - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2603,13 +2603,7 @@ $1$ January.
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-<li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>
@@ -3649,7 +3643,7 @@ $38 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
@@ -4172,10 +4166,7 @@ $550000$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>
@@ -4888,9 +4879,6 @@ $14$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -5073,10 +5061,7 @@ $1596 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -5447,13 +5432,7 @@ $9$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
+tprofit
 </li>
 </ul>
 </div>
@@ -6222,12 +6201,6 @@ $50$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -6395,13 +6368,7 @@ $\pounds 13.5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-talgebra
+tratio
 </li>
 </ul>
 </div>
@@ -6672,10 +6639,7 @@ $12$ Boxes
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -6953,13 +6917,7 @@ $35 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
+tprofit
 </li>
 </ul>
 </div>
@@ -8405,9 +8363,6 @@ $32$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -8506,10 +8461,7 @@ $13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tsimpleword
 </li>
 </ul>
 </div>
@@ -8960,9 +8912,6 @@ $39$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -9061,10 +9010,7 @@ $27$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -9393,9 +9339,6 @@ $49$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -9927,9 +9870,6 @@ $561$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -9945,7 +9885,7 @@ Work out $294 \times 70$.
 $
 \begin{array}{cccccccccccccc}
             &       &       2       & 9     & 4     \\
-{}\times    &       &               & 7     & 0     \\
+            &       &     {}\times  & 7     & 0     \\
 \hline
             &       &       0       & 0     & 0     \\
 2           &      0&       5       & 8     & 0     \\
@@ -10032,13 +9972,7 @@ $21$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -10158,16 +10092,10 @@ $100 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
+tnumber
 </li>
 <li>
 tmoney
-</li>
-<li>
-tprofit
 </li>
 </ul>
 </div>
@@ -10178,6 +10106,8 @@ Neil lends Rodger $\pounds 4$. Rodger pays back $30 \%$ of this the next day. Ho
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 Let's convert pounds to pence.
 
@@ -10282,7 +10212,7 @@ $
 \text{Marks deducted for a wrong answer}    &= 1 \\\\
 \text{Total wrong answers}                  &= 3 \\\\
 \text{Marks deducted}                       &= 3 \times 1 \\\\
-\text{Final Marks}                          &= 17 \times 4 - 3 \times 1 \\\\
+\text{Final Marks}                          &= (17 \times 4) - (3 \times 1) \\\\
                                             &= 68 - 3 \\\\
                                             &= 65
 \end{aligned}
@@ -10293,7 +10223,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-65
+$65$
 
 </div>
 </div>
@@ -10329,6 +10259,8 @@ What is the largest number less than $100$ which is a multiple of $2$, and of $3
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 Let's first find LCM for three numbers. There are no common factors, so the LCM would be 
 
 $
@@ -10355,7 +10287,7 @@ Largest number $= 90$
 <div class='answers'>
 <div class='answer'>
 
-$0$
+$90$
 
 </div>
 </div>
@@ -10477,7 +10409,7 @@ $\dfrac {1} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
 </div>
@@ -10540,7 +10472,7 @@ $135$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -10552,16 +10484,16 @@ $135$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
 </li>
 <li>
-talgebra
+tcoin
 </li>
 <li>
-tcoin
+tunitprompt
 </li>
 </ul>
 </div>
@@ -10579,13 +10511,13 @@ As per the question,
 
 $
 \begin{aligned}
-1 \times c + 2 \times c + 5 \times c + 10 \times c &= 90\\\\
-c + 2c + 5c + 10c &= 90 \\\\
-18c &= 90 \\\\
-c &= \dfrac {90} { 18} \\\\
-c &= \dfrac {18 \times 5} { 18} \\\\
-c &= \dfrac {\cancel{18} \times 5} { \cancel{18} } \\\\
-c &= 5
+1 \times c + 2 \times c + 5 \times c + 10 \times c       &= 90\\\\
+c + 2c + 5c + 10c                                        &= 90 \\\\
+18c                                                      &= 90 \\\\
+c                                                        &= \dfrac {90} {18} \\\\
+c                                                        &= \dfrac {5 \times 18} { 18} \\\\
+c                                                        &= \dfrac {5 \times \cancel{18}} { \cancel{18} } \\\\
+c                                                        &= 5
 \end{aligned}
 $
 
@@ -10593,8 +10525,8 @@ There are $5$ coins of each type and $4$ different types of coins.
 
 $
 \begin{aligned}
-\text{Total coins} &=  5 \times 4  \\\\
-&= 20 \ \text{coins}
+\text{Total coins}     &=  5 \times 4  \\\\
+                       &= 20 \ \text{coins}
 \end{aligned}
 $
 
@@ -10617,7 +10549,7 @@ $20 \ \text{coins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
 </div>
@@ -10668,7 +10600,7 @@ $\dfrac{3}{4}$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -10744,7 +10676,7 @@ answer = 2223, 2233, 2232, 2322, 2323, 2332, 3322, 3222, 3223, 3232
 <div class='answers'>
 <div class='answer'>
 
-10
+$10$
 
 </div>
 </div>
@@ -10783,6 +10715,8 @@ paints. What area is covered with paint?
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question, 
 
 Let's count all the faces of the cube on the exterior. 
 
@@ -10847,7 +10781,7 @@ As per the question,
 
 $
 \begin{aligned} 
-b + 3c      &= 1300   \\\\
+b + 3c      &= 1300 \\\\
 4b + 8c     &= 4000         
 \end{aligned}
 $
@@ -10856,8 +10790,8 @@ There are two variables, $b$ and $c$. Let's eliminate to reduce it to just one v
 
 $
 \begin{aligned} 
-b + 3c                      &= 1300             \\\\
-4 \times b + 4 \times 3c    &= 4 \times 1300    \\\\
+b + 3c                      &= 1300 \\\\
+4 \times b + 4 \times 3c    &= 4 \times 1300 \\\\
 4b + 12c                    &= 5200
 \end{aligned}
 $
@@ -10908,10 +10842,10 @@ Multiply the first equation by $8$ and the second equation by $3$ to make the co
 
 $
 \begin{aligned} 
-b + 3c                      &= 1300          \\\\
-4b + 8c                     &= 4000          \\\\
+b + 3c                      &= 1300 \\\\
+4b + 8c                     &= 4000 \\\\
 8 \times b + 8 \times 3c    &= 8 \times 1300 \\\\
-3 \times 4b + 3 \times 8c   &= 3 \times 4000  \\\\
+3 \times 4b + 3 \times 8c   &= 3 \times 4000 \\\\
 8b + 24c                    &= 10400 \\\\
 12b + 24c                   &= 12000
 \end{aligned}
@@ -10925,7 +10859,7 @@ $
 12b + 24c                   &= 12000 \\\\
 12b + 24c - (8b + 24c)      &= 12000 - 10400 \\\\
 12b + 24c - 8b - 24c        &= 12000 - 10400 \\\\
-4b                          &= 1600             \\\\
+4b                          &= 1600 \\\\
 b                           &= \dfrac{1600}{4} \\\\
 b                           &= \pounds 400
 \end{aligned}
@@ -11006,9 +10940,6 @@ $732$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -11052,7 +10983,7 @@ $11220$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>7A0547CE-4780-4C98-8F44-705D53000745</p>
 </div>
@@ -11104,12 +11035,12 @@ $\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>23BA576A-774F-4E22-884E-3C38C9F35B7C</p>
 </div>
@@ -11147,12 +11078,12 @@ $1010001$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>30031157-8687-4B93-8985-5B4931D1E9A0</p>
 </div>
@@ -11195,23 +11126,17 @@ $-108$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
 <li>
 tmoney
 </li>
@@ -11252,7 +11177,7 @@ $45 \ \text{pence}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -11285,7 +11210,7 @@ $
 &= \dfrac {36} {100} \\\\
 &= \dfrac {4 \times 9} {4 \times 25} \\\\
 &= \dfrac {\cancel{4} \times 9} {\cancel{4} \times 25} \\\\
-&= \dfrac {9} {25} \\\\
+&= \dfrac {9} {25}
 \end{aligned}
 $
 
@@ -11308,7 +11233,7 @@ $\dfrac {9} {25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>62028F5D-6918-47EE-9E20-6E995EF362A2</p>
 </div>
@@ -11357,7 +11282,7 @@ $30 \ \text{pence}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -11398,6 +11323,7 @@ $
 $
 
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
 But which one should we eliminate? If we look at the question again, we only need the 
 cost for a CD, so let's eliminate $d$ so we can directly calculate the value for $c$.
 
@@ -11420,6 +11346,8 @@ $
 9c + 6d - 4c - 6d   &= 35 \\\\
 5c                  &= 35 \\\\
 c                   &= \dfrac {35} {5} \\\\
+c                   &= \dfrac {7 \times 5} {5} \\\\
+c                   &= \dfrac {7 \times \cancel{5}} {\cancel{5}} \\\\
 c                   &= 7
 \end{aligned}
 $
@@ -11454,6 +11382,8 @@ $
 6c + 9d - 6c - 4d       &= 55 \\\\
 5d                      &= 55 \\\\
 d                       &= \dfrac {55} {5} \\\\
+d                       &= \dfrac {11 \times 5} {5} \\\\
+d                       &= \dfrac {11 \times \cancel{5}} {\cancel{5}} \\\\
 d                       &= 11
 \end{aligned}
 $
@@ -11469,7 +11399,9 @@ $
 3c + 22             &= 43 \\\\
 3c                  &= 43 -22 \\\\
 3c                  &= 21 \\\\
-c                   &= \dfrac {21} {3}\\\\
+c                   &= \dfrac {21} {3} \\\\
+c                   &= \dfrac {7 \times 3} {3} \\\\
+c                   &= \dfrac {7 \times \cancel{3}} {\cancel{3}} \\\\
 c                   &= 7
 \end{aligned}
 $
@@ -11530,6 +11462,8 @@ Work out the length of the perimeter of the rectangle.
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question, 
 
 Let the width of the rectangle in ($\text{cm}$) $= a$
 
@@ -11785,7 +11719,7 @@ $45 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>42FA7203-A19E-4735-B96B-0DE10464E8A4</p>
 </div>
@@ -11823,12 +11757,12 @@ $300407$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
 </div>
@@ -11870,7 +11804,7 @@ $941$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -11881,9 +11815,6 @@ $941$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -11900,7 +11831,7 @@ Work out $418 \times 70$.
 $
 \begin{array}{cccccccccccccc}
             &       &       4       & 1     & 8     \\
-{}\times    &       &               & 7     & 0     \\
+            &       &     \times    & 7     & 0     \\
 \hline
             &       &       0       & 0     & 0     \\
 2           &      9&       2       & 6     & 0     \\
@@ -11928,7 +11859,7 @@ $29260$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_red question'>
 <div class='uuid'>
 <p>1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6</p>
 </div>
@@ -11977,12 +11908,12 @@ $3\dfrac{1}{2}$ or $\dfrac{7}{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_red</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>2349EC95-009A-4E52-B1CF-35DE1F43DFBA</p>
 </div>
@@ -12036,7 +11967,7 @@ $69$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -12067,13 +11998,13 @@ Let's first multiply the numbers ignoring the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-            &   2  &   4 &    2 \\
-\times      &      &   1 &    6 \\
+            &   2   &   4    &    2 \\
+\times      &       &   1    &    6 \\
 \hline  
-1           &   4  &   5 &    2 \\ 
-2           &   4  &   2 &    0 \\
+1           &   4   &   5    &    2 \\ 
+2           &   4   &   2    &    0 \\
 \hline  
-3           &   8  &   7 &    2
+3           &   8   &   7    &    2
 \end{array}
 $
 
@@ -12102,7 +12033,7 @@ $3.872$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>69D9A9B8-8B5E-4E13-992D-5BBC123F9133</p>
 </div>
@@ -12148,12 +12079,12 @@ $\dfrac{16}{25}$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>C12FD4E7-441B-4A1E-BD78-D6218501E0D9</p>
 </div>
@@ -12223,7 +12154,7 @@ $33\%$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -12253,6 +12184,8 @@ hours and minutes, how long has she spent watching TV?
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin{aligned}
@@ -12316,6 +12249,8 @@ of $15 \ \text{g}$ pieces.  How many pieces does he have?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
 
 $
@@ -12324,9 +12259,8 @@ $
                             &= \dfrac { 1.2 \ \text{kg} } { 15 \ \text{g}} \\\\
                             &= \dfrac { 1.2 \times 1000 \ \text{g} } { 15 \ \text{g}} \\\\
                             &= \dfrac { 1200 } { 15 } \\\\
-                            &= \dfrac { 3 \times 4 \times 5 \times 20 } { 3 \times 5 } \\\\
-                            &= \dfrac { \cancel{3} \times 4 \times \cancel{5} \times 20 } { \cancel{3} \times \cancel{5} } \\\\
-                            &= 4 \times 20 \\\\
+                            &= \dfrac {80 \times 15} {15} \\\\
+                            &= \dfrac {80 \times \cancel{15}} {\cancel{15}} \\\\
                             &= 80
 \end{aligned}
 $
@@ -12352,7 +12286,7 @@ $80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
 </div>
@@ -12436,7 +12370,7 @@ $60 \ \text{cm}^{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -12725,9 +12659,6 @@ $1237$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -12995,13 +12926,7 @@ $2 \dfrac{13}{20}$ or $\dfrac{53}{20}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>
@@ -13120,16 +13045,10 @@ $105  \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tprofit
+talgebra
 </li>
 <li>
 tmoney
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>

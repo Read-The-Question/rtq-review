@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-pr"
 title: "Topic - Unit - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -835,9 +835,9 @@ $
 \begin{aligned}
 &=  340 \ \text{millimetres} \\\\
 &=  \dfrac{340}{1000} \\\\
-&=  \dfrac{34 \cancel 0}{100 \cancel 0} \\\\
+&=  \dfrac{34 \cancel {0}}{100 \cancel {0}} \\\\
 &=  \dfrac{34}{100} \\\\
-&=  0.34 \ \text{m}
+&=  0.34 \text{m}
 \end{aligned}
 $
 
@@ -849,7 +849,7 @@ $
 </div>
 <div class='answer'>
 
-$0.034 \ \text{m}$
+$0.034 \text{m}$
 
 </div>
 </div>

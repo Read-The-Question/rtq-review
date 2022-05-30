@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-all"
 title: "Topic - Order - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -43,7 +43,7 @@ Let's put them in ascending order now.
 $
 \begin{aligned}
 &= \dfrac{65}{100}< \quad \dfrac{70}{100}<  \quad \dfrac{75}{100} \\\\
-&= 65\%< \quad \dfrac{14}{20}< \quad \dfrac{3}{4} 
+&= 65\%<  \quad \dfrac{14}{20}<  \quad \dfrac{3}{4} 
 \end{aligned}
 $
 
@@ -57,6 +57,189 @@ $65\%, \quad \dfrac{14}{20}, \quad \dfrac{3}{4}$
 </div>
 </div>
 
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>D48EBB7F-6353-41D8-8F7E-D81284AECC1E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which sign makes each of the following statements true?
+
+$\large { \boxed{\phantom{5} > \phantom{5} } \quad \boxed{\phantom{5} < \phantom{5} } \quad \boxed{\phantom{5} = \phantom{5} } }$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0.022 \quad \ldots  \quad 0.2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.022 \quad \boxed{\green{<}}  \quad 0.2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.022 < 0.2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15\%$ of $\pounds 300\  \quad \ldots  \quad  20\%$ of $\pounds 240$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the first value.
+
+$
+\begin{aligned}
+&= 15\% \text{ of } \pounds 300 \\\\
+&= \dfrac{15}{100} \times 300 \\\\
+&= \dfrac{15 \times 300}{100}  \\\\
+&= \dfrac{15 \times 3\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 15 \times 3  \\\\
+&= \pounds 45
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 20\% \text{ of } \pounds 240 \\\\
+&= \dfrac{20}{100} \times 240 \\\\
+&= \dfrac{20 \times 240}{100}  \\\\
+&= \dfrac{2\cancel{0} \times 24\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 2 \times 24  \\\\
+&= \pounds 48
+\end{aligned}
+$
+
+Using the calculation above,
+
+$15\%$ of $\pounds 300\  \quad \boxed{\green{<}}  \quad  20\%$ of $\pounds 240$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15\%$ of $\pounds 300\  \quad <  \quad  20\%$ of $\pounds 240$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \ldots  \quad 25\%$ of $\pounds 64$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the first value.
+
+$
+\begin{aligned}
+&= \dfrac {2}{5} \text{ of } \pounds 40 \\\\
+&= \dfrac{2 \times 40}{5} \\\\
+&= \dfrac{2 \times 5 \times 8}{5} \\\\
+&= \dfrac{2 \times \cancel{5} \times 8}{\cancel{5}} \\\\
+&= 2 \times 8 \\\\
+&= \pounds 16
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 25\% \text{ of } \pounds 64 \\\\
+&= \dfrac{25}{100} \times 64 \\\\
+&= \dfrac{25 \times 64}{100}  \\\\
+&= \dfrac{1600}{100}  \\\\
+&= \dfrac{16\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= \pounds 16
+\end{aligned}
+$
+
+Using the calculation above,
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green{=}}  \quad 25\%$ of $\pounds 64$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
@@ -120,6 +303,69 @@ $\dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9
 
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>CCEC5B5B-5806-4EE1-84D1-019B559F2867</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these amounts is the cheaper? Circle your answer.
+
+$25 \%$ of $\pounds 64$ or $20 \%$ of $\pounds 75$
+
+Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate both the values.
+
+$
+\begin {aligned}
+\text {First amount}     &= 25 \% \ \text{of} \ \pounds 64 \\\\
+                         &= \dfrac {25} {100} \times 64 \\\\
+                         &= \dfrac {25 \times 64} {100} \\\\
+                         &= \dfrac {25 \times 4 \times 16} {25 \times 4} \\\\
+                         &= \dfrac {\cancel{25} \times \cancel{4} \times 16} {\cancel{25} \times \cancel{4}} \\\\
+                         &= \pounds 16 \\\\
+\text {Second amount}    &= 20 \% \ \text{of} \ \pounds 75 \\\\
+                         &= \dfrac {20} {100} \times 75 \\\\
+                         &= \dfrac {20 \times 75} {100} \\\\
+                         &= \dfrac {20 \times 5 \times 15} {20 \times 5} \\\\
+                         &= \dfrac {\cancel{20} \times \cancel{5} \times 15} {\cancel{20} \times \cancel{5}} \\\\
+                         &= \pounds 15
+\end {aligned}
+$
+
+From the calculation above, $20 \%$ of $\pounds 75$ is cheaper.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \%$ of $\pounds 75$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -3401,7 +3647,7 @@ $20\% , \quad \dfrac {1} {6} , \quad 0.15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>AA06A2AA-DA70-4A39-976A-D77520D6AB88</p>
 </div>
@@ -3442,12 +3688,12 @@ Largest $= 0.79$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>C13C2DC0-79A5-429F-A3B3-BF7542B189E7</p>
 </div>
@@ -3537,7 +3783,7 @@ Largest $= \dfrac {2} {5}$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -3677,7 +3923,7 @@ $0.92> \quad 0.909> \quad 0.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>83A92D5A-498D-4CED-902F-FCECE3962C78</p>
 </div>
@@ -3722,7 +3968,7 @@ $0.11> \quad 0.101> \quad 0.011$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -5627,7 +5873,7 @@ $\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>014D4DAF-E024-4E0F-B4D3-D05F245403AD</p>
 </div>
@@ -5683,12 +5929,12 @@ $3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A3140AAF-E610-429C-AF4F-341B3488C084</p>
 </div>
@@ -5758,12 +6004,12 @@ $\text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfra
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>53FB1D0A-B461-448E-853F-B08C8593DFC5</p>
 </div>
@@ -5820,12 +6066,12 @@ $\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>14EFBA91-BE93-4FA7-9B60-535F8D09F894</p>
 </div>
@@ -5870,7 +6116,7 @@ $0.092$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -6044,7 +6290,7 @@ $52.4  \quad 52.402 \quad 52.42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>5702F561-6E2E-4760-BBD8-682C0DF387A6</p>
 </div>
@@ -6081,7 +6327,7 @@ $2.203, \quad 2.23, \quad 2.3, \quad 2.303$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -6313,7 +6559,7 @@ $3.043, \quad 3.304, \quad 3.34, \quad 3.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
 </div>
@@ -6364,7 +6610,7 @@ $\dfrac{3}{4}$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -6394,7 +6640,7 @@ Let's convert all the numbers into decimals.
 
 $
 \begin{aligned}
-&= 0.66, \quad \dfrac{3}{4}, \quad 70\%, \quad \dfrac{2}{3}, \quad \dfrac{6}{10} \\\\
+&= 0.66, \quad \dfrac {3} {4}, \quad 70\%, \quad \dfrac {2} {3}, \quad \dfrac {6} {10} \\\\
 &= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60
 \end{aligned}
 $
@@ -6403,20 +6649,19 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= 0.60, \quad 0.66, \quad 0.666, \quad  0.70, \quad 0.75
+&= 0.60, \quad 0.66, \quad 0.666, \quad  0.70, \quad 0.75 \\\\
+&= \dfrac {6} {10}, \quad 0.66, \quad \dfrac {2} {3}, \quad 70 \%, \quad \dfrac {3} {4}
 \end{aligned}
 $
 
-The number in the middle $= 0.666$.
-
-The number in the middle $= \dfrac{2}{3}$.
+The number in the middle $= \dfrac {2} {3}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{2}{3}$
+$\dfrac {2} {3}$
 
 </div>
 </div>
@@ -6430,7 +6675,7 @@ $\dfrac{2}{3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>C12FD4E7-441B-4A1E-BD78-D6218501E0D9</p>
 </div>
@@ -6500,7 +6745,7 @@ $33\%$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -6567,7 +6812,7 @@ $\dfrac {2} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>F6128DD4-ECC2-431B-8EF0-CFFB29805A22</p>
 </div>
@@ -6759,7 +7004,7 @@ $\dfrac {10} {12}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

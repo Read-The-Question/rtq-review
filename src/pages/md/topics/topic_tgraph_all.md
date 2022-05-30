@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-all"
 title: "Topic - Graph - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -6843,68 +6843,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>FA4F6584-F867-4263-B1CA-F813E4733C7A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$16$ cards each have a letter on them. The chart below shows how many with each letter on them.
-
-![missing image](/papers/missing_image.svg)
-
-I pick a card with a $D$ on it and don’t put it back.
-
-If I pick another card, what is the probability it will have a $C$ on it?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the graph,
-
-Total cards with D left after one card is removed $4 - 1 = 3$ 
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {4} {1 + 2 + 4 + 3 + 3 + 2} \\\\
-                    &= \dfrac {4} {15}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {4} {15}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>9DC5A3B2-AD1F-49C0-931A-F875C55A5721</p>
@@ -7078,68 +7016,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>2B0B43F3-6E8B-41F9-A516-B83235232CD8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$16$ cards each have a letter on them. The chart below shows how many with each letter on them.
-
-![missing image](/papers/missing_image.svg)
-
-I pick a card with an $E$ on it and don’t put it back.
-
-If I pick another card, what is the probability it will have a $F$ on it?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the graph,
-
-Total cards with D left after one card is removed $3 - 1 = 2$ 
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {2} {1 + 2 + 4 + 4 + 2 + 2} \\\\
-                    &= \dfrac {2} {15}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2} {15}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -7545,71 +7421,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>869FD852-D1F1-49AF-B701-45D924CC185A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$16$ cards each have a letter on them. The chart below shows how many with each letter on them.
-
-![missing image](/papers/missing_image.svg)
-
-I pick a card with an $F$ on it and don’t put it back.
-
-If I pick another card, what is the probability it will have a $E$ on it?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the graph,
-
-Total cards with D left after one card is removed $2 - 1 = 1$ 
-
-$
-\begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
-                    &= \dfrac {3} {1 + 2 + 4 + 4 + 3 + 1} \\\\
-                    &= \dfrac {3} {15} \\\\
-                    &= \dfrac {3} {5 \times 3} \\\\
-                    &= \dfrac {\cancel {3}} {5 \times \cancel {3}} \\\\
-                    &= \dfrac {1} {5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {5}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -11778,183 +11589,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>6988D985-5AC0-40DF-9615-C7003D875089</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
-tmoney
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The line graph below can be used to change pounds sterling into Norwegian kroner . 
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many kroner would I get for $90 \text{p}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much are $12 \ \text{kroner}$ worth? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Jo buys some sweets and a magazine that cost $\pounds 5.10$. 
-How much is this in kroner?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -22458,9 +22092,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgraph
 </li>
 <li>
@@ -25364,236 +24995,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_amber question'>
-<div class='uuid'>
-<p>52482AA1-1A15-4730-9AD9-27FEDA001C58</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
-tdraw
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Alice goes on holiday with her family.
-
-Her parents want to rent a car.
-
-![missing image](/papers/missing_image.svg)
-
-The cost to rent a car from *Rob's Rentals* is shown on the graph below.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Use the graph to find the cost of renting a car from Rob's Rentals for $6$ days.
-
-Another company, *Autohire*, charges $\pounds 20$ for each day.    
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\pounds 100$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 100$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-How much would It cost to rent a car for $6$ days from *Autohire*?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 6 \times 20 \\\\
-&= \pounds 120
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 120$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Use your answer to draw a line on the grid on the previous page, showing the cost of renting a car from *Autohire*.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Use the graph to complete this sentence:
-
-Both companies charge the same amount to rent a car for    $\ldots$ days.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ej_amber</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>BB24EE67-9B8C-4D22-84B8-C27070C8BF68</p>
@@ -28107,9 +27508,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgraph
 </li>
@@ -32654,9 +32052,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgraph
 </li>
 <li>
@@ -32998,13 +32393,7 @@ $200$ cards
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgraph
-</li>
-<li>
-tprobability
 </li>
 </ul>
 </div>

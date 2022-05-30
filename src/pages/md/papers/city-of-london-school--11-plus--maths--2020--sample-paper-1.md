@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2020-sample-paper-1"
 title: "City Of London School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -197,9 +197,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -537,7 +534,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>A7936BDD-9D0B-4DE1-9D29-9396E4564A70</p>
 </div>
@@ -561,11 +558,11 @@ How many $\text{minutes}$ are there between $9.23\ \text{am}$ and $1.06\ \text{p
 
 $
 \begin{aligned}
-&=   9{:}23 \text{ am}  - 1{:}06 \text{ pm} \\\\
-&=   4 \text{ hours} \43 \text{ minutes} \\\\
-&=   4 \times 60   +  43 \\\\
-&=   240 + 43 \\\\
-&=   283 \text{ minutes}
+&= 9{:}23 \text {am}  - 1{:}06 \text {pm} \\\\
+&= 4 \ \text {hours} \ \ 43 \ \text {minutes} \\\\
+&= 4 \times 60 + 43 \\\\
+&= 240 + 43 \\\\
+&= 283 \text {minutes}
 \end{aligned}
 $
 
@@ -574,7 +571,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$283 \text{ minutes}$
+$283 \text {minutes}$
 
 </div>
 </div>
@@ -583,7 +580,7 @@ $283 \text{ minutes}$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1172,7 +1169,7 @@ $400 \text{ cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
 </div>
@@ -1198,7 +1195,7 @@ Calculate the size of the missing angle in this triangle. The diagram is **not**
 
 Let the missing angle $= a \degree$.
 
-As we know sum of all angles in triangle $= 180 \degree$
+As we know sum of all angles in triangle $= 180 \degree$. So,
 
 $
 \begin{aligned}
@@ -1223,7 +1220,7 @@ $62 \degree$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -2042,7 +2039,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>2BED9D4A-8D69-441E-8E45-9BDB4DE30AD0</p>
 </div>
@@ -2128,19 +2125,21 @@ $235.7 \times 99$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 &= 235.7 \times 99 \\\\
 &= (\dfrac {2357 \times 99} {10} )\\\\
-&= 233343 \times 10 \\\\
-&= 2333430
+&= \dfrac {233343} {10} \\\\
+&= 23334.3
 \end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2333430$
+$23334.3$
 
 </div>
 </div>
@@ -2152,7 +2151,7 @@ $2333430$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

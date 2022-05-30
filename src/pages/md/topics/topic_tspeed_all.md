@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-all"
 title: "Topic - Speed - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2880,7 +2880,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>189A1B25-EAA6-4C15-8F75-A6EC061BEC38</p>
 </div>
@@ -2904,15 +2904,12 @@ What is $6$ metres per second in kilometres per hour?
 
 $
 \begin{aligned}
-&= \dfrac {6} {1} \\\\
-&= \dfrac {6} {1} \times \dfrac {1000} {60 \times 60} \\\\
-&= \dfrac {6 \times 1000} {60 \times 60} \\\\
-&= \dfrac {\cancel {6} \cancel {0} \cancel {0} } {\cancel {6} \cancel{0} \times 6 \cancel{0} } \\\\
-&= \dfrac {10} {6} \\\\
-&= \dfrac {5 \times 2} {3 \times 2} \\\\
-&= \dfrac {5 \times \cancel {2} } {3 \times \cancel {2} } \\\\
-&= \dfrac {5} {3} \\\\
-&= 1.6 \text { kilometer / hour}
+&= 6 \times \dfrac {60 \times 60} {1000} \\\\
+&= 6 \times \dfrac {3600} {1000} \\\\
+&= 6 \times \dfrac {36 \cancel {00}} {10 \cancel {00}} \\\\
+&= \dfrac {6 \times 36} {10} \\\\
+&= \dfrac {216} {10} \\\\
+&= 21.6 \text{kilometer/hour}
 \end{aligned}
 $
 
@@ -2921,7 +2918,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1.6 \text{kilometer/hour}$
+$21.6 \text{kilometer/hour}$
 
 </div>
 </div>
@@ -2930,7 +2927,7 @@ $1.6 \text{kilometer/hour}$
 <p>forest-school--11-plus--maths--2020--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -5474,9 +5471,9 @@ Total distance $=$ distance of Lisbon to Madrid +  distance of Madrid to Paris +
 $
 \begin{aligned}
 2730  \ \text{km} &= 638 \ \text{km} + a  \ \text{km} + 827  \ \text{km} \\\\
-2730 &= 1465 + a \\\\
-a &= 2730 - 1465 \\\\
-a &= 1265 \ \text{km}
+2730              &= 1465 + a \\\\
+a                 &= 2730 - 1465 \\\\
+a                 &= 1265 \ \text{km}
 \end{aligned}
 $
 

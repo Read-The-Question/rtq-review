@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tquadraticprompt-all"
 title: "Topic - Quadraticprompt - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -94,6 +94,8 @@ Work out the length of the perimeter of the rectangle.
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question, 
 
 Let the width of the rectangle in ($\text{cm}$) $= a$
 

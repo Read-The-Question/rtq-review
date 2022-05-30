@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-tdetailedaddition"
 title: "Topicpapers Tdetailedaddition"
-date: 2022-05-29 22:59:27
+date: 2022-05-30 17:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -259,7 +259,7 @@ $6363$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>54BD09C0-1C14-4564-B207-B912ADE229BB</p>
 </div>
@@ -279,11 +279,11 @@ $3078 + 256$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
-        &  3 & 0 & 7 & 8 \\
-    {}+ &    & 2 & 5 & 6 \\
-    \hline
-        & 3 & 3 & 3  & 4
+\begin{array}{cccccccccccccc}
+    &   3   &    0    &    7    &    8 \\
+{}+ &       &    2    &    5    &    6 \\
+\hline
+    &   3   &    3    &    3    &    4
 \end{array}
 $
 
@@ -301,7 +301,7 @@ $3334$
 <p>topicpapers_tdetailedaddition</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -3314,7 +3314,7 @@ $75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>33EA5AA6-2BAC-4539-BE0C-64E83AA9931B</p>
 </div>
@@ -3335,10 +3335,10 @@ Add: $36 + 58$
 
 $
 \begin{array}{cccccccccccccc}
-        & 3 & 6 \\
-    {}+ & 5 & 8 \\
-    \hline
-        & 9 & 4 
+    &   3   &   6 \\
+{}+ &   5   &   8 \\
+\hline
+    &   9   &   4
 \end{array}
 $
 
@@ -3356,7 +3356,7 @@ $94$
 <p>topicpapers_tdetailedaddition</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -3549,7 +3549,7 @@ $125$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>2776F3AC-5B59-4DE4-AA6C-D15196418A83</p>
 </div>
@@ -3594,7 +3594,7 @@ $6203$
 <p>topicpapers_tdetailedaddition</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3711,7 +3711,7 @@ $27427$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>84386E3C-25A2-4135-BDFE-C2794FEA4DB7</p>
 </div>
@@ -3756,7 +3756,7 @@ $849$
 <p>topicpapers_tdetailedaddition</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -4642,7 +4642,7 @@ $864$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
 </div>
@@ -4684,7 +4684,7 @@ $941$
 <p>topicpapers_tdetailedaddition</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

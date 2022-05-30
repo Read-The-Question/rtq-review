@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpermutation-pr"
 title: "Topic - Permutation - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -310,7 +310,7 @@ answer = 2223, 2233, 2232, 2322, 2323, 2332, 3322, 3222, 3223, 3232
 <div class='answers'>
 <div class='answer'>
 
-10
+$10$
 
 </div>
 </div>

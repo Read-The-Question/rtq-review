@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-jn-oldpr"
 title: "Owner - Jaishree Nair - Old PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,10 +12,7 @@ date: 2022-05-29 22:47:20
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tprofit
+talgebra
 </li>
 <li>
 tmoney
@@ -769,13 +766,7 @@ She travelled altogether $= 60 \ \text{miles}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>

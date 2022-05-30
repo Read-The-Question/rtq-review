@@ -1,221 +1,18 @@
 ---
 slug: "topics/topic-tcoin-amber"
 title: "Topic - Coin - Amber"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_ad_amber question'>
-<div class='uuid'>
-<p>0B4EA44D-BD3F-4217-9050-070265E7D6BE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
-
-In order to save time banks weigh bags of coins instead of counting them. The masses in grams of some coins are shown above.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If a bag of $2 \ \text{pence}$ coins weighs $350 \ \text{g}$, how many coins are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Number of coins} &= \dfrac {350} {7} \\\\
-                       &= \dfrac {50 \times 7} {7} \\\\
-                       &= \dfrac {50 \times \cancel {7}} {\cancel {7}} \\\\
-                       &= 50
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$50$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much are $500 \ \text{g}$ of $20 \ \text{pence}$ coins worth?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Number of coins} &= \dfrac {500} {5} \\\\
-                       &= \dfrac {5 \times 100} {5} \\\\
-                       &= \dfrac {\cancel {5} \times 100} {\cancel {5}} \\\\
-                       &= 100
-\end{aligned}
-$
-
-$\pounds 1 = 100 \text{p}$
-
-$
-\begin{aligned}
-\text{Worth} &= 100 \times 20 \\\\
-             &= 2000 \text{p} \\\\
-             &= \pounds \dfrac {2000} {100} \\\\
-             &= \pounds \dfrac {20 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-             &= \pounds 20
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 20$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many grams would $\pounds 10$ worth of $50 \ \text{pence}$ coins weigh?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\pounds 1 = 100 \text{p}$
-
-$
-\begin{aligned}
-\text{Number of coins} &= \dfrac {10 \times 100} {50} \\\\
-                       &= \dfrac {5 \times 2 \times 100} {5 \times 10} \\\\
-                       &= \dfrac {\cancel {5} \times 2 \times 10 \cancel {0}} {\cancel {5} \times 1 \cancel {0}} \\\\
-                       &= 20
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Total weight} &= 20 \times 13.4 \\\\
-                    &= 268 \ \text{g}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$268 \ \text{g}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A bag contains a mixture of $2 \ \text{pence}$ and $1 \ \text{pence}$ coins. It is worth $\pounds 2$. What does it weigh?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_amber</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_amber question'>
 <div class='uuid'>
-<p>DC7231D7-DE01-44F0-83B3-D79030A58E4C</p>
+<p>E04A5D82-8409-45E4-B659-1A199BE3C232</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tcoin
@@ -224,29 +21,36 @@ tcoin
 </div>
 <div class='question question'>
 
-There are a number of coins on a table. One quarter of the coins show heads.
-
-If I turn over two coins, then one third show heads. How many coins are there altogether?
+My money box contains an equal number of $5 \text{p}, 10 \text{p}$ and $20 \text{p}$ coins and no other coins. 
+How many coins are there altogether if there is $\pounds 4.90$ in the money box?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the total number of coins $= c$
+Let the count of coins of each denomination $= c$
 
 As per the question,
 
 $
 \begin{aligned}
-\dfrac{c}{4} + 2        &= \dfrac{c}{3} \\\\
-2                       &= \dfrac{c}{3} - \dfrac{c}{4} \\\\
-2                       &= \dfrac{c \times 4}{3 \times 4} - \dfrac{c \times 3}{4 \times 3} \\\\
-2                       &= \dfrac{4c}{12} - \dfrac{3c}{12} \\\\
-2                       &= \dfrac{4c - 3c}{12} \\\\
-2                       &= \dfrac{c}{12} \\\\
-\dfrac{c}{12}           &= 2 \\\\
-c                       &= 2 \times 12 \\\\
-c                       &= 24 \ \text{coins}
+5 \times c + 10 \times c + 20 \times c  &= 490 \\\\
+5c + 10c + 20c                          &= 490 \\\\
+35c                                     &= 490 \\\\
+c                                       &= \dfrac {490} {35} \\\\
+c                                       &= \dfrac {2 \times 7 \times 7 \times 5} {7 \times 5} \\\\
+c                                       &= \dfrac {2 \times 7 \times \cancel{7} \times \cancel{5}} {\cancel{7} \times \cancel{5}} \\\\
+c                                       &= 2 \times 7
+c                                       &= 14
+\end{aligned}
+$
+
+There are $14$ coins of each type and $3$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins} &=  14 \times 3  \\\\
+&= 42 \ \text{coins}
 \end{aligned}
 $
 
@@ -255,13 +59,13 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24 \ \text{coins}$
+$42 \ \text{coins}$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ac_amber</p>

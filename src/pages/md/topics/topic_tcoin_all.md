@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-all"
 title: "Topic - Coin - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,16 +12,10 @@ date: 2022-05-29 22:47:20
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
 tmoney
 </li>
 <li>
-tinfer
+tcoin
 </li>
 </ul>
 </div>
@@ -70,9 +64,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -136,13 +127,10 @@ $\pounds 3.25$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -202,16 +190,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
 tmoney
 </li>
 <li>
-tinfer
+tcoin
 </li>
 </ul>
 </div>
@@ -263,59 +245,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>F96ADDDB-D1DA-4669-B9D8-6F1709C2D0E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tprobability
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**For question $\bold{39}$ to $\bold{43}$ make the most appropriate choice from this list to describe the chances.**
-
-impossible: $\quad$  very unlikely: $\quad$  unlikely: $\quad$  as likely as not: $\quad$  likely: $\quad$  very likely: $\quad$  certian
-
-When thrown a coin will show heads.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {likely}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {likely}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>5B523478-2598-48BA-806C-26ADF772B663</p>
@@ -323,7 +252,7 @@ $\text {likely}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
@@ -426,13 +355,10 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-tlogic
 </li>
 </ul>
 </div>
@@ -492,7 +418,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
@@ -555,7 +481,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
@@ -611,448 +537,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_amber question'>
-<div class='uuid'>
-<p>0B4EA44D-BD3F-4217-9050-070265E7D6BE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
-
-In order to save time banks weigh bags of coins instead of counting them. The masses in grams of some coins are shown above.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If a bag of $2 \ \text{pence}$ coins weighs $350 \ \text{g}$, how many coins are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Number of coins} &= \dfrac {350} {7} \\\\
-                       &= \dfrac {50 \times 7} {7} \\\\
-                       &= \dfrac {50 \times \cancel {7}} {\cancel {7}} \\\\
-                       &= 50
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$50$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much are $500 \ \text{g}$ of $20 \ \text{pence}$ coins worth?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Number of coins} &= \dfrac {500} {5} \\\\
-                       &= \dfrac {5 \times 100} {5} \\\\
-                       &= \dfrac {\cancel {5} \times 100} {\cancel {5}} \\\\
-                       &= 100
-\end{aligned}
-$
-
-$\pounds 1 = 100 \text{p}$
-
-$
-\begin{aligned}
-\text{Worth} &= 100 \times 20 \\\\
-             &= 2000 \text{p} \\\\
-             &= \pounds \dfrac {2000} {100} \\\\
-             &= \pounds \dfrac {20 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-             &= \pounds 20
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 20$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many grams would $\pounds 10$ worth of $50 \ \text{pence}$ coins weigh?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\pounds 1 = 100 \text{p}$
-
-$
-\begin{aligned}
-\text{Number of coins} &= \dfrac {10 \times 100} {50} \\\\
-                       &= \dfrac {5 \times 2 \times 100} {5 \times 10} \\\\
-                       &= \dfrac {\cancel {5} \times 2 \times 10 \cancel {0}} {\cancel {5} \times 1 \cancel {0}} \\\\
-                       &= 20
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Total weight} &= 20 \times 13.4 \\\\
-                    &= 268 \ \text{g}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$268 \ \text{g}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A bag contains a mixture of $2 \ \text{pence}$ and $1 \ \text{pence}$ coins. It is worth $\pounds 2$. What does it weigh?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_amber</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>B1C78A3E-F1D4-4953-BBC7-9BFC42B3D21F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-State whether the following statements are:
-
-Certain $\quad$ Likely $\quad$ Evens $\quad$ Unlikely $\quad$ Impossible
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-You will get a head when you flip a coin.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Tomorrow, I will find a $\pounds 10$ note on the floor.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The sun will rise tomorrow morning.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fazal has $\pounds 2.60$ and Gareth has $\pounds 5.30$. Gareth gives Fazal some $5 \text{p}$ coins. 
-Each boy now has the same amount of money. How many $5 \text{p}$ coins did Gareth give Fazal?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>662D8D5A-FC30-4723-82E2-9B0B4ED1FDE9</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -1096,9 +586,6 @@ $56 p , So 10*5 and 5*5 and 1*1$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1159,90 +646,14 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_g1 question'>
-<div class='uuid'>
-<p>44871CCE-80E9-4654-AF29-D474783C1D63</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In 1990 a new $5 \text{p}$ coin was minted. The old size weighs $5.65\ \text{g}$ while the new size weighs $3.25\ \text{g}$. How much lighter will your pocket be if it contains $\pounds 2$ worth of the new size coins instead of the old size. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Weight for older coins
-
-$
-\begin{aligned}
-\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 5.65 \\\\
-                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 5.65 \\\\
-                                 &= \dfrac {2 \times 20 \times 5} {5} \times 5.65 \\\\
-                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 5.65 \\\\
-                                 &= 2 \times 20 \times 5.65 \\\\
-                                 &= 226 \ \text {g}
-\end{aligned}
-$
-
-Weight for new coins
-
-$
-\begin{aligned}
-\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 3.25 \\\\
-                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 3.25 \\\\
-                                 &= \dfrac {2 \times 20 \times 5} {5} \times 3.25 \\\\
-                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 3.25 \\\\
-                                 &= 2 \times 20 \times 3.25 \\\\
-                                 &= 130 \ \text {g}
-\end{aligned}
-$
-
-Difference of weight between older and new coins,
-
-$
-\begin{aligned}
-&= 226 - 130 \\\\
-&= 96 \ \text{g}                                   
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$96 \ \text{g}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_amber question'>
 <div class='uuid'>
-<p>DC7231D7-DE01-44F0-83B3-D79030A58E4C</p>
+<p>E04A5D82-8409-45E4-B659-1A199BE3C232</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tcoin
@@ -1251,29 +662,36 @@ tcoin
 </div>
 <div class='question question'>
 
-There are a number of coins on a table. One quarter of the coins show heads.
-
-If I turn over two coins, then one third show heads. How many coins are there altogether?
+My money box contains an equal number of $5 \text{p}, 10 \text{p}$ and $20 \text{p}$ coins and no other coins. 
+How many coins are there altogether if there is $\pounds 4.90$ in the money box?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the total number of coins $= c$
+Let the count of coins of each denomination $= c$
 
 As per the question,
 
 $
 \begin{aligned}
-\dfrac{c}{4} + 2        &= \dfrac{c}{3} \\\\
-2                       &= \dfrac{c}{3} - \dfrac{c}{4} \\\\
-2                       &= \dfrac{c \times 4}{3 \times 4} - \dfrac{c \times 3}{4 \times 3} \\\\
-2                       &= \dfrac{4c}{12} - \dfrac{3c}{12} \\\\
-2                       &= \dfrac{4c - 3c}{12} \\\\
-2                       &= \dfrac{c}{12} \\\\
-\dfrac{c}{12}           &= 2 \\\\
-c                       &= 2 \times 12 \\\\
-c                       &= 24 \ \text{coins}
+5 \times c + 10 \times c + 20 \times c  &= 490 \\\\
+5c + 10c + 20c                          &= 490 \\\\
+35c                                     &= 490 \\\\
+c                                       &= \dfrac {490} {35} \\\\
+c                                       &= \dfrac {2 \times 7 \times 7 \times 5} {7 \times 5} \\\\
+c                                       &= \dfrac {2 \times 7 \times \cancel{7} \times \cancel{5}} {\cancel{7} \times \cancel{5}} \\\\
+c                                       &= 2 \times 7
+c                                       &= 14
+\end{aligned}
+$
+
+There are $14$ coins of each type and $3$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins} &=  14 \times 3  \\\\
+&= 42 \ \text{coins}
 \end{aligned}
 $
 
@@ -1282,13 +700,13 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24 \ \text{coins}$
+$42 \ \text{coins}$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ac_amber</p>
@@ -1303,16 +721,10 @@ $24 \ \text{coins}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-tprobability
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -1540,114 +952,10 @@ $\text {Impossible}$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>8A02C75B-9038-4DA1-B8E6-487D769B1186</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle the amounts below which can be made using three UK coins
-
-$71 \text{p} \quad 72 \text{p} \quad 73 \text{p} \quad 74 \text{p} \quad 75 \text{p}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>35F0BC16-E836-43E9-8758-E1C8EC5DF410</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a money-bag there are an equal number of $2$ pence and $5$ pence pieces and no other coins. How many coins are in the bag altogether if the total amount of money is $\pounds 1.26$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>65ED3809-747B-4A7D-B355-F83A178F3653</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -1748,9 +1056,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -1853,150 +1158,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>62371EC4-9B97-4727-A38F-16A5F80DE4BE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I only have five coins in my purse. They are 
-$1 \text{p}, 2 \text{p}, 5 \text{p}, 10 \text{p}$ and $20 \text{p}$. It 
-is not possible to make exactly $19 \text{p}$ with these coins.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the smallest amount that can not be made using my coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4 \text{p}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the two other amounts, less than $20 \text{p}$, which I cannot make.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9 \text{p}, \ 14 \text{p}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9 \text{p}, \ 14 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The largest amount of money that can be made using these coins
- is $38 \text{p}$. Find the largest amount of money less 
- than $38 \text{p}$ which can not be made using these coins.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$34 \text{p}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$34 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>4B9F0003-CADD-42BE-9E6C-5C0E472712A6</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -2038,15 +1205,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>ED51D194-C5FA-45F5-8072-BA5973BA5747</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -2155,7 +1319,7 @@ $278$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2166,9 +1330,6 @@ $278$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -2285,16 +1446,16 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
 </li>
 <li>
-talgebra
+tcoin
 </li>
 <li>
-tcoin
+tunitprompt
 </li>
 </ul>
 </div>
@@ -2312,13 +1473,13 @@ As per the question,
 
 $
 \begin{aligned}
-1 \times c + 2 \times c + 5 \times c + 10 \times c &= 90\\\\
-c + 2c + 5c + 10c &= 90 \\\\
-18c &= 90 \\\\
-c &= \dfrac {90} { 18} \\\\
-c &= \dfrac {18 \times 5} { 18} \\\\
-c &= \dfrac {\cancel{18} \times 5} { \cancel{18} } \\\\
-c &= 5
+1 \times c + 2 \times c + 5 \times c + 10 \times c       &= 90\\\\
+c + 2c + 5c + 10c                                        &= 90 \\\\
+18c                                                      &= 90 \\\\
+c                                                        &= \dfrac {90} {18} \\\\
+c                                                        &= \dfrac {5 \times 18} { 18} \\\\
+c                                                        &= \dfrac {5 \times \cancel{18}} { \cancel{18} } \\\\
+c                                                        &= 5
 \end{aligned}
 $
 
@@ -2326,8 +1487,8 @@ There are $5$ coins of each type and $4$ different types of coins.
 
 $
 \begin{aligned}
-\text{Total coins} &=  5 \times 4  \\\\
-&= 20 \ \text{coins}
+\text{Total coins}     &=  5 \times 4  \\\\
+                       &= 20 \ \text{coins}
 \end{aligned}
 $
 
@@ -2357,19 +1518,16 @@ $20 \ \text{coins}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
-tunitprompt
+tmoney
 </li>
 <li>
 tcoin
 </li>
 <li>
-tmoney
+tunitprompt
 </li>
 </ul>
 </div>
@@ -2443,23 +1601,20 @@ $56$ coins
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>7E7878A4-808C-4404-8B60-2FB05E498D2D</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -2517,7 +1672,7 @@ $4$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2528,9 +1683,6 @@ $4$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2602,23 +1754,20 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>EE1F9669-3D5F-4C89-85B1-F004C01C7CF7</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
 talgebra
 </li>
 <li>
 tmoney
+</li>
+<li>
+tcoin
 </li>
 </ul>
 </div>
@@ -2686,62 +1835,7 @@ $60$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>1D648663-782C-480E-8F13-27198C60558A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-I have FIVE coins in my pocket. 
-
-They add up to 77 \text{p}$.
-
-What are the coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-One $50 \text{p}$ coin.
-Two $10 \text{p}$ coins.
-One $5 \text{p}$ coin.
-One $2 \text{p}$ coin.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-One $50 \text{p}$ coin.
-Two $10 \text{p}$ coins.
-One $5 \text{p}$ coin.
-One $2 \text{p}$ coin.
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

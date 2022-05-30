@@ -1,65 +1,9 @@
 ---
 slug: "topics/topic-tpower-pr"
 title: "Topic - Power - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>6A7E29BE-33F1-46C9-86CB-07E2F8C8992F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpower
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate the following:
-
-$5 - (2 - 5)^2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 5 - (2 - 5)^2 \\\\
-&= 5 - (-3)^{2} \\\\
-&= 5 - (-3 \times -3) \\\\
-&= 5 - 9 \\\\
-&= -4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
@@ -469,7 +413,7 @@ Exactly one of these statements is correct. Which one?
 <div class='workings'>
 <div class='working'>
 
-$43^2+ 56^2 = 4981$
+**A**
 
 $
 \begin{aligned}
@@ -479,7 +423,7 @@ $
 \end{aligned}
 $
 
-$55^2 + 66^2= 7387$
+**B**
 
 $
 \begin{aligned}
@@ -489,7 +433,7 @@ $
 \end{aligned}
 $
 
-$77^2+ 22^2 = 6415$
+**C**
 
 $
 \begin{aligned}
@@ -499,7 +443,7 @@ $
 \end{aligned}
 $
 
-$44^2+ 63^2 = 5905$
+**D**
 
 $
 \begin{aligned}

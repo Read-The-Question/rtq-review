@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedsubtraction-all"
 title: "Topic - Detailedsubtraction - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -686,7 +686,7 @@ $-2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>F639A0C1-C422-4D98-A551-18AA9D92D8D3</p>
 </div>
@@ -709,11 +709,11 @@ $3078 - 256$
 <div class='working'>
 
 $
-\begin{array}{ccccccc}
-        &  3 & 0 & 7  & 8 \\
-    {}- &    & 2 & 5  & 6 \\
-    \hline
-        & 2 &  8 & 2 & 2
+\begin{array}{cccccccccccccc}
+    &   3   &    0    &    7    &    8 \\
+{}- &       &    2    &    5    &    6 \\
+\hline
+    &   2   &    8    &    2    &    2
 \end{array}
 $
 
@@ -731,7 +731,7 @@ $2822$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -898,65 +898,6 @@ $1.44$
 </div>
 <div class='rag'>
 <p>rag_nj_g2</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>AE91E319-28CD-4E72-BACB-3D5D6A529FA0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How much change would you get from $\pounds 10$ if you bought $7$ $\text{Chocco}^{\text{TM}}$ bars at $78 \text{p}$ each?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
-
-As per the question,
-
-$
-\begin{aligned} 
-\text {Cost of Chocco bars}          &= 7 \times 78 \ \text {p} \\\\
-                                     &= 7 \times \pounds \dfrac {78} {100} \\\\
-                                     &= 7 \times 0.78 \\\\
-                                     &= \pounds 5.46 \\\\
-\text {Change recieved}              &= 10 - 5.46 \\\\
-                                     &= \pounds 4.54
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4.54$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3267,61 +3208,6 @@ $696$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_g1 question'>
-<div class='uuid'>
-<p>5171E4DB-A0AE-48C2-A77F-6BE170E11A11</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$\pounds 1.28 - 57 \text{p}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-$
-\begin{array}{cccccccccccccc}
-&= \pounds1.28 - 57  \text{p} \\\\
-&= 128 \text{p}  - 57  \text{p} \\\\
-&= 71 \text{p} \\\\
-&= \pounds 0.71
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 0.71$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>84E35E31-655A-4772-B0AE-B39EA42AC170</p>
@@ -3859,7 +3745,7 @@ $66$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>3DD7A07E-7892-444B-8438-53D2F385130E</p>
 </div>
@@ -3883,10 +3769,10 @@ Subtract: $75 - 54$
 
 $
 \begin{array}{cccccccccccccc}
-           & 7 & 5 \\
-    {}-    & 5 & 4 \\
-    \hline
-         & 2 & 1 
+    &   7   &   5 \\
+{}- &   5   &   4 \\
+\hline
+    &   2   &   1
 \end{array}
 $
 
@@ -3904,7 +3790,7 @@ $21$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -4211,111 +4097,7 @@ $290  \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_g1 question'>
-<div class='uuid'>
-<p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdetailedmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put the correct number in the empty box.
-
-
-$\boxed { \phantom{20} } - 8 = 4 \times 3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\boxed { \green{20} } - 8 = 4 \times 3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>E258ACB8-5491-4DFA-800B-58FEA66CFEB0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedaddition
-</li>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdetailedmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the gaps
-
-%waffles%
-
-addition  subtraction  multiplication
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>AE182AEF-A433-4C74-A98A-5E3325141BC5</p>
 </div>
@@ -4363,7 +4145,7 @@ $1773$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5193,61 +4975,6 @@ $1686$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_g1 question'>
-<div class='uuid'>
-<p>C13D92E3-895B-4965-8831-8AD95CB87317</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the difference between the product of $4$ and $11$ and the difference of $4$ and $11$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= (4 \times 11) - (4 - 11)  \\\\
-&= 44 - (-7) \\\\
-&= 44 + 7 \\\\
-&= 51
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>3C09A39C-598A-4864-B456-2C4C74356A45</p>
@@ -5294,60 +5021,6 @@ $247$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Subtract the difference between $62$ and $35$ from the product of $13$ and $6$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= (13 \times 6) - (62 - 35) \\\\
-&= 78 - 27 \\\\
-&= 51
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

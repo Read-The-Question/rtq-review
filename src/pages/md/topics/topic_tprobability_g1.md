@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-g1"
 title: "Topic - Probability - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -216,16 +216,7 @@ $17$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
 tprobability
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -450,12 +441,6 @@ $\text {Impossible}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
 tprobability
 </li>
 </ul>
@@ -511,12 +496,6 @@ $\dfrac {4} {15}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
 <li>
 tprobability
 </li>
@@ -621,12 +600,6 @@ $\dfrac {7} {15}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
 <li>
 tprobability
 </li>

@@ -1,9 +1,61 @@
 ---
 slug: "owners/owner-bs-g1"
 title: "Owner - Banoth Sairam - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>6A4D3A4B-ED56-4425-A042-95E7B753ADB3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jonathon and his dad were both born on $5 \text{th}$ August.
+
+Jonathon was born in $1985$ and his father is $32$ years older than him. 
+
+In which year was his dad born?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Year dad was born}    &= 1985 - 32  \\\\
+                            &= 1953 
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1953$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
@@ -53,13 +105,626 @@ $p - 71$
 <li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
-<p>CB985892-807A-481A-863E-243A882E5ED9</p>
+<p>A0407EE1-F5C4-4644-87E4-39782B777B4E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $14$ boys in year $4$.
+
+Given that $\dfrac{2}{5}$ of the year are boys, how many are girls?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of students in year $4 = a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{2}{5} \times a                          &= 14  \\\\
+\dfrac{2 \times a}{5}                          &= 14  \\\\
+a                                              &= \dfrac{14 \times 5}{2} \\\\
+                                               &= \dfrac{7 \times 2 \times 5}{2} \\\\
+                                               &= \dfrac{7 \times \cancel{2} \times 5}{\cancel{2}} \\\\
+                                               &= 7 \times 5 \\\\
+                                               &= 35
+\end{aligned}
+$
+
+The total number of children in the club $= 35$
+
+Let's find how many girls are in the club.
+
+$
+\begin{aligned}
+\text{Girls}            &= \text{Total children} - \text{Total boys} \\\\      
+                        &= 35 - 14  \\\\
+                        &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>CE466DC8-BA86-4871-AE14-6A9661BFBE5C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that $a = 5, b = 2$ and $c = 10$ find:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2a - b$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2a -b \\\\
+&= 2 \times 5 - 2 \\\\
+&= 10 - 2 \\\\
+&= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$c - (a - b)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= c - (a - b) \\\\
+&= 10 - (5 - 2)  \\\\
+&= 10 - 3 \\\\
+&= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3b^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3b^2 \\\\
+&= 3 \times 2^2  \\\\
+&= 3 \times 2 \times 2  \\\\
+&= 3 \times 4 \\\\
+&= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>46202F60-6AFF-44CC-9683-1646AF85C31F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs Prince wishes to buy each member of her class a photo frame as a present.
+There are $24$ pupils in her class and each photo frame costs $\pounds 3.75$.
+
+Find the total cost of all $24$ frames. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total cost}            &= \text{Count of pupils} \times \text{Cost per frame} \\\\\
+                             &= 24 \times 3.75 \\\\
+                             &= \pounds  90
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds  90$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>3B389935-2713-4E79-B41A-797356ED47C0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I am thinking of a number.
+If I add $5$ to it and then divide by $2$, I get $6$. 
+
+What number am I thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {a + 5} { 2}    &= 6 \\\\
+a + 5                  &= 6 \times 2 \\\\
+a + 5                  &= 12 \\\\
+a                      &= 12 - 5\\\\
+a                      &= 7\\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Solve the following equation to find $x$.
+
+$5x - 7 = 43$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5x - 7         &= 43 \\\\
+5x             &= 43 + 7 \\\\
+5x             &= 50 \\\\
+x              &= \dfrac {50} {5} \\\\
+x              &= 10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>D8CD5DBE-7A2A-47CB-9D63-90512FB0BB7B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs Green parked her car in a car park at $9.00 \ \text{am}$. She drove out of the car park at $5.00 \ \text{pm}$.
+
+Car Parking Charges: $\pounds 1.80$ per hour 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+For how many hours was her car in the car park?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Hours in the car park}    &=  5.00 \ \text{pm} - 9.00 \ \text{am} \\\\
+                                &=  8 \ \text{hours} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text{hours}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much did she pay, in total, for parking her car?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total parking charges}    &=  \pounds 1.80 \times 8 \\\\
+                                &=  \pounds 14.40 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 14.40$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>E719F44B-5B35-49B3-844A-3A6796E6666A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg) 
+
+What is the value of the missing angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a$
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 90 \degree + 23 \degree     &= 180 \degree  \\\\
+a                               &= 180 - 90 - 23 \\\\
+a                               &= 180 - 113 \\\\
+a                               &= 67 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$67 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>DDD0AC6B-3CD4-48A3-A86A-6AEE1949B832</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tunassigned
 </li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The students on the Aldenham Geography trip to Iceland arrive at Heathrow Airport at $10{:}45$.
+Their flight leaves at $13{:}05$.
+
+How many minutes do they have to wait at the airport before their flight leaves?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Waiting Time}           &= 13{:}05 - 10{:}45 \\\\
+                              &= 2 \ \text{hour} \ 20 \ \text{minutes}   \\\\
+                              &= 2 \times 60 + 20  \ \text{minutes} \\\\
+                              &= 120 + 20  \ \text{minutes} \\\\
+                              &= 140  \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$140  \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>CB985892-807A-481A-863E-243A882E5ED9</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 tdetailedmultiplication
 </li>
@@ -349,9 +1014,6 @@ $696$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -446,9 +1108,6 @@ $3$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -603,12 +1262,6 @@ $\pounds 1.85$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
 <li>
 tmoney
 </li>
@@ -2054,10 +2707,7 @@ $
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+talgebra
 </li>
 <li>
 tmoney
@@ -2826,9 +3476,6 @@ $50 \ \text{cm}^{2}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3016,9 +3663,6 @@ $2026$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3058,6 +3702,66 @@ $
 <div class='answer'>
 
 $4693$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>C2CBB803-CAE6-49B9-ADCD-2636CA8618C1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$4d + 7e - d + 2e =$
+
+- $3d - 9e$
+- $12de$
+- $4d - 9e$
+- $3d + 9e$
+- $5d - 9e$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned} 
+&=  4d + 7e - d + 2e \\\\
+&=  4d -d + 7e + 2e \\\\
+&=  3d + 9e
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$3d + 9e$
 
 </div>
 </div>
@@ -3179,9 +3883,6 @@ $6646$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3227,7 +3928,7 @@ $578$
 <li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
-<p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
+<p>80F59E43-EAF8-4829-9B47-980C2D298D21</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3235,10 +3936,118 @@ $578$
 tunassigned
 </li>
 <li>
-tdetailedsubtraction
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\dfrac {2} {7}$ of $315$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {2} {7} \text { of } 315 \\\\
+&= \dfrac {2} {7} \times 315 \\\\
+&= \dfrac {2 \times 315} {7}   \\\\
+&= \dfrac {2 \times 45 \times 7} {7}   \\\\
+&= \dfrac {2 \times 45 \times \cancel{7}} {\cancel{7}}   \\\\
+&= 2 \times 45  \\\\
+&= 90
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
 </li>
 <li>
-tdetailedmultiplication
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>014D4DAF-E024-4E0F-B4D3-D05F245403AD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put the following numbers in order of size, starting with the smallest first:
+
+
+$3 \dfrac{1}{4}  \quad   3.34  \quad   3 \dfrac{3}{4}  \quad   3.025$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
+
+$
+\begin{aligned}
+&= 3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4},  \quad   3.025 \\\\
+&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025 \\\\
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 3.025,  \quad   3.25,  \quad   3.34,  \quad   3.75 \\\\
+&= 3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
 </li>
 </ul>
 </div>
@@ -3335,9 +4144,6 @@ $27427$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3372,6 +4178,322 @@ $
 <div class='answer'>
 
 $41096$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>B5B49362-C409-4628-B777-B5B39EC20042</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of a minute is $40 \ \text{seconds}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+  
+There are $60 \ \text{seconds}$ in a minute, so
+
+$
+\begin{aligned}
+&= \dfrac{40}{60} \\\\
+&= \dfrac{20 \times 2}{20 \times 3} \\\\
+&= \dfrac{\cancel{20} \times 2}{\cancel{20} \times 3} \\\\
+&= \dfrac{2}{3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{2}{3}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>53FB1D0A-B461-448E-853F-B08C8593DFC5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put the following fractions in order, starting with the smallest.
+
+$\dfrac{2}{3},  \quad \dfrac{3}{5},   \quad \dfrac{29}{45}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+Let's convert all the numbers into fractions.
+
+$
+\begin{aligned}
+&= \dfrac{2}{3},  \quad \dfrac{3}{5},   \quad \dfrac{29}{45} \\\\
+&= \dfrac{2 \times 15}{3 \times 15},  \quad \dfrac{3 \times 9}{5 \times 9},   \quad \dfrac{29}{45} \\\\
+&= \dfrac{30}{45},  \quad \dfrac{27}{45},   \quad \dfrac{29}{45}
+\end{aligned}
+$
+
+Now let's put them in ascending order.
+
+$
+\begin{aligned}
+&= \dfrac{27}{45},  \quad \dfrac{29}{45},   \quad \dfrac{30}{45} \\\\
+&= \dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3} 
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>14EFBA91-BE93-4FA7-9B60-535F8D09F894</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which is the smallest number?
+
+$0.54     \quad 0.092  \quad    0.635  \quad    0.3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the Question,
+
+$0.54, \quad 0.092, \quad 0.635, \quad 0.3$
+
+lets Arrange in ascending order.
+
+$0.092, \quad 0.3, \quad 0.54, \quad 0.635$
+
+The  smallest number is $= 0.092$. 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.092$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>3DF385B4-5156-45DC-9D90-AE1116381A25</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which number between $55$ and $65$ can be divided exactly by $9$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+\text{Let's find a multiple of} \  9 \  \text{between} \  55  \ \text{and} \  65 \\\\
+\text{The multiple of} \ 9  \ \text{are} \  9, 18, 27, 36, 45, 54, \bold {63}, 72, \dots \\\\
+&= 63
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$63$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>C8C3BB23-7980-4A19-8082-5F985DD48CAC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tlcm
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which number between $140$ and $170$ can be divided exactly by both $8$ and $9$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The LCM of $8$ and $9$ is $72$. 
+
+Now let's find a number that is a multiple of the LCM and is between $140$ and $170$.
+
+$72 \times 2 = 144$ is between $140$ and $170$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$144$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>DB188EF1-56DE-4E7B-9F6F-B9D010FD69AF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add together the following numbers and write your answer in figures.
+
+$\text{nine million      \quad   eleven thousand \quad       twelve hundred     \quad   thirteen}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   9    &    0    &    0    &    0    &    0    &    0    &    0 \\
+     &       &         &    1    &    1    &    0    &    0    &    0 \\
+     &       &         &         &    1    &    2    &    0    &    0 \\
+{}+    &       &         &         &         &         &    1    &    3 \\
+\hline
+    &   9    &    0    &    1    &    2    &    2    &    1    &    3
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9012213$
 
 </div>
 </div>

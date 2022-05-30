@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-a"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,15 +13,12 @@ date: 2022-05-29 22:47:20
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>E61C8C9B-56DA-468B-93C1-334429701990</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -148,6 +145,8 @@ $
                                       &= 2000 - 1472 \\\\
                                       &= 528 \ \text {p} \\\\
 \text {Cost of a chicken wing}        &= \dfrac {528} {16} \\\\
+                                      &= \dfrac {33 \times 16} {16} \\\\
+                                      &= \dfrac {33 \times \cancel {16}} {\cancel {16}} \\\\
                                       &= 33 \ \text {p}
 \end {aligned}
 $
@@ -186,11 +185,11 @@ Let the total number of slices in the shop $= a$.
 
 As per the question,
 
-Number of slices Donald bought $\dfrac {1} {3} \times a = \dfrac {a} {3}$.
+Number of slices Donald bought $= \dfrac {1} {3} \times a = \dfrac {a} {3}$.
 
-Remaining slices in the shop $a - \dfrac {a} {3} = \dfrac {2a} {3}$.
+Remaining slices in the shop $= a - \dfrac {a} {3} = \dfrac {2a} {3}$.
 
-Number of slices Alisha bought $\dfrac {2a} {3} \times {1} {6} = \dfrac {a} {9}$.
+Number of slices Alisha bought $= \dfrac {2a} {3} \times \dfrac {1} {6} = \dfrac {a} {9}$.
 
 $
 \begin{aligned}
@@ -203,7 +202,7 @@ $
 
 Total number of slices in the shop $= 27$.
 
-Donald bought $\dfrac {27} {3} = 9$ slices.
+Donald bought $= \dfrac {27} {3} = 9$ slices.
 
 Donald bought $9 - 3 = 6$ slices more than Alisha.
 
@@ -262,12 +261,7 @@ Lamb chops cost $3 \times 1.20 = \pounds 3.60$.
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 3.60$
-
-</div>
-<div class='answer'>
-
-$\pounds 1.20$
+$\pounds 3.60, \pounds 1.20$
 
 </div>
 </div>
@@ -279,20 +273,17 @@ $\pounds 1.20$
 <p>highgate-school--11-plus--maths--9999--sample-paper-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A6500005-118B-466A-8D63-6650ABAEA7AA</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tarea
 </li>
@@ -527,7 +518,7 @@ $\pounds 360$
 <p>highgate-school--11-plus--maths--9999--sample-paper-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -539,16 +530,7 @@ $\pounds 360$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-talgebra
-</li>
-<li>
-tarea
+tratio
 </li>
 </ul>
 </div>
@@ -803,22 +785,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tprofit
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>

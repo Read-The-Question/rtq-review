@@ -1,36 +1,32 @@
 ---
 slug: "topics/topic-tstatistics-amber"
 title: "Topic - Statistics - Amber"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_ks_amber question'>
+<div class='question_envelope rag_ej_amber question'>
 <div class='uuid'>
-<p>154CF3A5-8DE7-4C0B-BB62-B260198A6014</p>
+<p>52482AA1-1A15-4730-9AD9-27FEDA001C58</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tmoney
-</li>
-<li>
 tstatistics
-</li>
-<li>
-tpercentageadvance
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-%empty% 
+Alice goes on holiday with her family.
+
+Her parents want to rent a car.
+
+![missing image](/papers/missing_image.svg)
+
+The cost to rent a car from *Rob's Rentals* is shown on the graph below.
+
+![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -56,27 +52,24 @@ tpercentageadvance
 </div>
 <div class='question subquestion'>
 
-A car is $3.28 \ \text{metres}$ long. A trailer is $1.86 \ \text{metres}$ long.
+Use the graph to find the cost of renting a car from Rob's Rentals for $6$ days.
 
-What is the combined length?
+Another company, *Autohire*, charges $\pounds 20$ for each day.    
+
+![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Total length} &= 3.28 + 1.86 \\\\
-                    &= 5.14 \ \text{metres}
-\end{aligned}
-$
+$\pounds 100$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5.14 \ \text{metres}$
+$\pounds 100$
 
 </div>
 </div>
@@ -91,9 +84,33 @@ $5.14 \ \text{metres}$
 </div>
 <div class='question subquestion'>
 
-A pallet of bricks contains $648$ bricks.
+%empty%
 
-Calculate he number of bricks in $37$ pallets.
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+How much would It cost to rent a car for $6$ days from *Autohire*?
 
 </div>
 <div class='workings'>
@@ -101,8 +118,8 @@ Calculate he number of bricks in $37$ pallets.
 
 $
 \begin{aligned}
-\text{Number of bricks} &= 648 \times 37 \\\\
-                        &= 23976
+&= 6 \times 20 \\\\
+&= \pounds 120
 \end{aligned}
 $
 
@@ -111,11 +128,52 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$23976$
+$\pounds 120$
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Use your answer to draw a line on the grid on the previous page, showing the cost of renting a car from *Autohire*.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 </div>
 </li>
 <li>
@@ -126,170 +184,32 @@ $23976$
 </div>
 <div class='question subquestion'>
 
-One kilogram of carrots cost $\pounds 1.79$. 
+Use the graph to complete this sentence:
 
-What does $0.37 \ \text{kilograms}$ of carrots cost (to the nearest pence)?
+Both companies charge the same amount to rent a car for    $\ldots$ days.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Cost of 0.37 kilograms of carrots} &= 1.79 \times 0.37 \\\\
-                                         &= \pounds 0.6623 \\\\
-                                         &= 0.6623 \times 100 \text{p} \\\\
-                                         &= 66.23 \text{p}
-\end{aligned}
-$
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$66.23 \text{p}$
+TODOANSWER
 
 </div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-There are $0.907 \ \text{metres}$ in $1$ yard. How many metres are there in $0.026 \ \text{yards}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total metres} &= 0.907 \times 0.026 \\\\
-                    &= 0.023582 \ \text{metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
 <div class='answer'>
 
-$0.023582 \ \text{metres}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The total length of seven cars is $22.19 \ \text{metres}$. What is the average length of these cars?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Average length of cars} &= \dfrac {22.19} {7} \\\\
-                              &= 3.17 \ \text{metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.17 \ \text{metres}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $11 + 39 \div 13 - 5 \times 3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-According to BIDMAS,
-
-$
-\begin{aligned}
-&= 11 + 39 \div 13 - 5 \times 3 \\\\
-&= 11 + 3 - 15 \\\\
-&= 14 - 15 \\\\
-&= - 1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$- 1$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$67\%$ of all pencils manufactured are never used up.
-
-In a bulk pack of $3490$ pencils, how many will not be used up?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 67 \% \times 3490 \\\\
-&= \dfrac {67} {100} \times 3490 \\\\
-&= \dfrac {67 \times 3490} {100} \\\\
-&= \dfrac {233830} {100} \\\\
-&= 2338.3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2338.3$
+TODOANSWER
 
 </div>
 </div>
@@ -298,10 +218,10 @@ $2338.3$
 </li>
 </ul>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ks_amber</p>
+<p>rag_ej_amber</p>
 </div>
 </div>
 </li>

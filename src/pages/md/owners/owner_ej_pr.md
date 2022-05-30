@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-pr"
 title: "Owner - Eshudhi Jangid - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -409,12 +409,6 @@ $9.72$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>
@@ -1286,9 +1280,6 @@ $text {Two hundred ninety-nine million seven hundred ninety-two thousand four hu
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -2347,9 +2338,6 @@ $\text {Ford}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -2937,9 +2925,6 @@ $1.8 \ \text {m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
 </li>
 <li>
@@ -3277,10 +3262,7 @@ $\text {Fifty-two thousand and seventy}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -4710,9 +4692,6 @@ $33.5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -5011,9 +4990,6 @@ $\text {Seven million six hundred ninety two thousand twenty four \ km}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -5268,9 +5244,6 @@ $0.75 \ \text{miles}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -6103,13 +6076,7 @@ $\text{Food technology}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tprofit
 </li>
 </ul>
 </div>
@@ -7122,16 +7089,10 @@ $35 cm^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
 tcoin
-</li>
-<li>
-tprobability
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>

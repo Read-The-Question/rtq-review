@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-notstarted"
 title: "Topic - Ratio - Not Started"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -354,147 +354,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>08D5A505-1DF8-4590-802C-E8295C988258</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Lollipops cost $12 \text{p}$ each, or a pack of $3$ costs $30 \text{p}$. 
-
-I have $\pounds 2$ to spend. 
-
-What is the maximum number of lollipops I can buy?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Every $100 \ \text{g}$ of brown bread contains $6 \ \text{g}$ of fibre. 
-
-A small loaf weighs $400 \ \text{g}$ and has $10$ equal slices. 
-
-How much fibre is there in one slice?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>8FD4F287-E8F1-42F2-B909-FC3B822573A4</p>
 </div>
 <div class='topics'>
@@ -559,6 +418,89 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>D8F3DE67-4A7C-4968-BA4C-FDC5DC751CDF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Cake stalls
+
+Five people are selling cakes at a market stalls..
+
+Anton sells $2$ cakes for $\pounds 1$.
+
+Bella sells $5$ cakes for $\pounds 2$.
+
+Christy sells $9$ cakes for $\pounds 4$.
+
+Denis sells $11$ cakes for $\pounds 5$.
+
+Ed sells $21$ cakes for $\pounds 10$.
+
+Work out which person gives the best value for money.
+
+Explain how you decided.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find out cost of $1$ cake for each person.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Anton's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                          &= \dfrac {1} {2} \\\\
+                                          &= \pounds 0.50 \\\\
+\text {Bella's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                          &= \dfrac {2} {5} \\\\
+                                          &= \pounds 0.40 \\\\
+\text {Christy's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                            &= \dfrac {4} {9} \\\\
+                                            &= 0.44 \\\\
+\text {Denis's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                            &= \dfrac {5} {11} \\\\
+                                            &= 0.45 \\\\
+\text {Ed's selling price for 1 cake}  &= \dfrac {\text {Cost of cakes}} {\text {Number of cakes}} \\\\
+                                            &= \dfrac {10} {21} \\\\
+                                            &= 0.47
+\end {aligned}
+$
+
+Hence, 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>098D65BD-6F5D-4486-B582-556F69F04455</p>
 </div>
 <div class='topics'>
@@ -609,67 +551,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>7002E7B9-0FA1-49A4-B570-1EEC2E7FDF78</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tprofit
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A chocolate bar costs $\pounds 0.45$. A pack containing $5$ of the bars costs $\pounds 1.90$.
-
-If you buy $5$ bars how much money do you save by buying the $5$ pack?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -842,72 +723,10 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>ACA74429-A1D1-4928-9950-F662A5CAE274</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tratio
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I buy $13$ chocolate bars costing $23 \text{p}$ each. How much change would I get from $\pounds 5$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tratio
 </li>
@@ -1192,12 +1011,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tratio
 </li>
@@ -1494,27 +1307,18 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>3C146F61-E3E5-4C9A-B6D4-908763CE07FA</p>
+<p>B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
 tratio
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Some animals are being sold at a pet shop. 
+%empty% 
 
 </div>
 <div class='workings'>
@@ -1523,18 +1327,8 @@ Some animals are being sold at a pet shop.
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -1550,10 +1344,137 @@ TODOANSWER
 </div>
 <div class='question subquestion'>
 
-Hamsters cost $\pounds 7.50$ each and gerbils cost $\pounds 3.20$ each.
-Javier buys $4$ hamsters and $3$ gerbils.
+Tim is going paintballing. Entry into paintballing costs $\pounds 23$, but then you also have to pay $\pounds 6$ per $100$ paintballs that you use.
 
-How much did Javier spend in total?
+Tim spent $\pounds 65$ in total. How many paintballs did he use?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Entry cost         = $\pounds 23
+Total cost         = $\pounds 65
+Cost of paintballs = Entry cost - Total cost
+Cost of paintballs = $\pounds 42
+
+100 paintballs     : $\pounds 6
+??? paintballs     : $\pounds 42
+100 x 7 paintballs : $\pounds 6 x 7
+700 paintballs     : $\pounds 42
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+700
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Janice is running a bath. She  mixes hot water with cold water to make sure the temperature is just right.
+
+She uses $5$ times more hot water than cold water. Janice's bath holds $90 \ \text{litres}$ of water in total. 
+How much hot water does she use?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let c represent cold water.
+
+Cold water  = c
+Hot water   = 5 x c
+Hot water   = 5c 
+Total water = $90 \ \text{l}$ 
+
+Total water = 5c + c
+            = 6c
+
+6c = $90 \ \text{l}$
+c  = $15 \ \text{l}$
+5c = $75 \ \text{l}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+75
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Bob the Builder is filling a hole with a mixture of gravel and sand.
+$234 \ \text{kg}$ of sand are needed to make $400 \ \text{kg}$ of the mixture.
+
+Bob makes $1000 \ \text{kg}$ of the mixture.
+
+How much **gravel** does Bob need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$234 \ \text{kg}$ sand + gravel = $400 \ \text{kg}$ total mixture
+
+400 - $234 \ \text{kg}$ = $166 \ \text{kg}$ gravel
+
+$166 \ \text{kg}$ gravel        : $400 \ \text{kg}$ total mixture
+???kg gravel        : $1000 \ \text{kg}$ total mixture
+$166 \ \text{kg}$ / 400         : $400 \ \text{kg}$ / 400 
+$166 \ \text{kg}$ / 400 x 1000  : $400 \ \text{kg}$ / 400 x 1000 
+$415 \ \text{kg}$ gravel        : $1000 \ \text{kg}$ total mixture
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$415 \ \text{kg}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the picture below, rectangle $A$ has an area  of $70 \ \text{cm}^2$, and rectangle $B$ has an area of $63 \ \text{cm}^2$. 
+The side lengths of the rectangles are whole numbers.
+
+The sides labelled $X$ and $Y$ are both longer than $1 \ \text{cm}$.
+
+![missing image](/papers/missing_image.svg)
+
+Find the lengths of the sides labelled $X$ and $Y$.
 
 </div>
 <div class='workings'>
@@ -1591,131 +1512,15 @@ TODOANSWER
 </div>
 <div class='question subquestion'>
 
-Goldfish are kept in large tanks. Each tank can hold up to $13$ fish.
-There are $193$ goldfish in the shop.
+Victoria the vet is weighing her pets.
 
-How many tanks are needed to hold all of these goldfish?
+Her rabbit and her cat together weigh $10 \ \text{kg}$.
 
-</div>
-<div class='workings'>
-<div class='working'>
+Her cat and dog together weigh $24 \ \text{kg}$.
 
-TODOWORKING
+Her dog and rabbit together weigh $20 \ \text{kg}$.
 
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Chickens and chicks all have $2$ wings. There are $8$ chickens in the shop, and each of these $8$ chickens has $5$ chicks.
-
-How many wings are there in total?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$7$ cat bowls cost the same as $4$ dog leads.
-$3$ cat bowls cost $\pounds 72$.
-
-What does a dog lead cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The shop has a sale on stick insects: "buy $3$ stick insects and get a $4 \text{th}$ stick insect free".
-
-Ahmed paid $\pounds 17.85$ for $20$ insects. What is the cost of $1$ stick insect?
+How much do all $3$ of her pets weigh when weighed together?
 
 </div>
 <div class='workings'>
@@ -1747,272 +1552,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>highgate-school--11-plus--maths--9999--sample-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>D49E5D82-9D51-48FE-A513-692C9F4110CE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Some vegetables are being sold at a market. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Delon buys $17$ carrots and $6$ turnips.
-Carrots cost $8\text{p}$ each and turnips cost $13\text{p}$ each.
-
-How much did Delon spend in total?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Potatoes are only sold in sacks of $12$ potatoes. One of these sacks costs $56 \text{p}$.
-Stanley has $\pounds 3.20$.
-
-How many potatoes can Stanley buy, and how much money does he have left over?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Zane buys $16$ red peppers, and receives $\pounds 8.32$ change from a $\pounds 20$ note.
-
-What is the price of a pepper?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5$ giant mushrooms cost the same as $3$ cucumbers.
-Marvin buys $12$ cucumbers for $\pounds 3.60$.
-
-What is the cost of $8$ giant mushrooms?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Asha sells vegetables at the market. On Monday she sold half of her vegetables. On Tuesday she sold a third of the vegetables she had 
-left.
-
-What fraction of her original stock does she have left to sell on Wednesday?
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>highgate-school--11-plus--maths--9999--sample-paper-c</p>
+<p>highgate-school--11-plus--maths--9999--sample-paper-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2249,6 +1789,177 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-c</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6988D985-5AC0-40DF-9615-C7003D875089</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The line graph below can be used to change pounds sterling into Norwegian kroner . 
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many kroner would I get for $90 \text{p}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much are $12 \ \text{kroner}$ worth? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jo buys some sweets and a magazine that cost $\pounds 5.10$. 
+How much is this in kroner?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -3964,6 +3675,57 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>2E70DD3A-FFFA-4301-9A23-47091DF822AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jason and Patrick win a prize of $\pounds 75$ for their entry into an inventing competition. For every $2$ hours that Patrick worked on the project Jason worked $3$, so it is decided that for every $\pounds 2$ that Patrick receives Jason should receive $\pounds 3$. How much will Jason and Patrick receive? Write your 
+answers in the boxes below. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>B214301F-AB63-411F-B2DA-EDFC5B6BF4E0</p>
 </div>
 <div class='topics'>
@@ -4144,53 +3906,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>AB0A70FD-B271-49A4-B1FE-9377BD989ACF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $5$ mugs cost $\pounds 3.50$ and $8$ pens cost $\pounds 6.80$ how much change do I get from $\pounds 10$ if I buy $7$ mugs and $5$ pens? 
-You MUST show your working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -4581,9 +4296,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
 </li>
 <li>
@@ -4742,158 +4454,15 @@ $40 \text{ seconds}$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>79878C87-2773-4780-A7A4-8B6AD9913BF1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-At ‘Canty’s Candy Shop’ the following prices are charged.
-
-$3$ Mars bars and $1$ Crunchie bar costs $\pounds 1.90$.
-
-$1$ Mars bars and $1$ Crunchie bar costs $90 \ \text{pence}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much will $2$ Mars bars cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much will $3$ Crunchie bars cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>0DDE8EEB-DC9C-46BE-BAA0-4A805B6D44E7</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 trecipe
 </li>
 <li>
 tratio
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -5485,9 +5054,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>
@@ -7188,12 +6754,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -7374,6 +6934,58 @@ $50p$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>A272142D-A294-48CF-AB64-9FFEA9730C13</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Hamster food costs $70 \text{p}$$ for $40\, grams$.
+
+What is the cost of $100\,g$ of hamster food.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>798959A4-A1CC-4746-BBFD-BB83D4CA9BC0</p>
 </div>
 <div class='topics'>
@@ -7473,144 +7085,6 @@ $13 \text{packets}$
 </div>
 </div>
 
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>0C074B21-7DBC-45D1-A408-217D2217ABF2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$4$ CDs and $2$ DVDs cost $$\pounds 46$. 
-3 CDs and 2 DVDs cost $\pounds 39.
-
-![missing image](/papers/missing_image.svg)
-
-Find the cost of 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-one CD
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-one DVD
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -7839,6 +7313,56 @@ TODOANSWER
 
 <div class='papername'>
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2DBF4A78-C5F8-4558-AC6C-E1DFFD1868D9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If nine identical books cost $$\pounds 38.79$ together, how much would seven books cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

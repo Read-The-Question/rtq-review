@@ -1,9 +1,63 @@
 ---
 slug: "topics/topic-tgeometry-g1"
 title: "Topic - Geometry - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>8F3672CB-7B07-47D0-9892-C621FC3A2EE8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a shape.
+
+![missing image](/papers/missing_image.svg)
+
+I turn the shape through $45 \degree$ **clockwise**.
+
+Tick $(\checkmark)$ the diagram that shows the shape **after** the turn. 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+D
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+D
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
@@ -922,6 +976,51 @@ $\dfrac{45}{4}$
 <li>
 <div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
+<p>B911493E-6758-4F37-90FE-BF7C46685E6B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Name the two shapes shown below
+
+![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Octagon and Trapezium
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Octagon and Trapezium
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
 <p>C51D4882-FD86-449B-BC74-E90265EBA237</p>
 </div>
 <div class='topics'>
@@ -1468,6 +1567,130 @@ $29$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>7F5F775B-7E11-4998-A118-784117B4C479</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a rectangular tile.
+
+
+A pattern is made using $4$ of these tiles.
+
+![missing image](/papers/missing_image.svg)     Not to scale 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of the outer edge of the design?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The outer design has all the sides of equal length. So it is a square.
+
+Side of the outer square $= 7 + 3 = 10 \ \text{cm}$
+
+Perimeter of the outer square $= 4 \times 10 = 40 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of the square left empty in the middle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Side of square in the middle}    &= \text {length of rectangle} - \text {width of rectangle} \\\\
+                                        &= 7 - 3  \\\\
+                                        &= 4 \ \text{cm}
+\end{aligned}
+$
+
+Perimeter of the middle square $= 4 \times 4 = 16 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

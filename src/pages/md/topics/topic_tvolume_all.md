@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-all"
 title: "Topic - Volume - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -143,77 +143,6 @@ Label both vertices with $*$.
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>7125F2EC-250C-48A5-96EC-68872015C687</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tratio
-</li>
-<li>
-tvolume
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The water cooler in the staff room contains $5 \ \text{litres}$ of water.
-
-How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacing? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required. Let's convert the total water into $\text{ml}$.
-
-$
-\begin{aligned}
-\text{Total water}  &= 5 \ \text{litres} \\\\
-                    &= 5 \times 1000 \ \text{ml} \\\\
-                    &= 5000 \ \text{ml}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of glasses} &= \dfrac { \text{Total Water in cooler} } { \text{Water in a glass} } \\\\
-                         &= \dfrac { 5000 } { 200 } \\\\
-                         &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
-                         &= \dfrac { 50 } { 2 } \\\\
-                         &= 25
-\end{aligned}
-$
-
-Number of glasses of water $= 25$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$25$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -1339,11 +1268,12 @@ How many $3 \ \text{cm}$ cubes can be made by cutting up a block $12 \ \text{cm}
 $
 \begin{aligned}
 \text{Number of cubes} &= \dfrac {\text{Volume of cuboid}} {\text{Volume of cube}} \\\\
-                       &= \dfrac {12 \times 24 \times 18} {3 \times 3} \\\\
-                       &= \dfrac {3 \times 4 \times 3 \times 8 \times 18} {3 \times 3} \\\\
-                       &= \dfrac {\cancel {3} \times 4 \times \cancel {3} \times 8 \times 18} {\cancel {3} \times \cancel {3}} \\\\
-                       &= 4 \times 8 \times 18 \\\\
-                       &= 576
+                       &= \dfrac {12 \times 24 \times 18} {3 \times 3 \times 3} \\\\
+                       &= \dfrac {3 \times 4 \times 3 \times 8 \times 6 \times 3} {3 \times 3 \times 3} \\\\
+                       &= \dfrac {\cancel {3} \times 4 \times \cancel {3} \times 8 \times 6 \times \cancel{3}} {\cancel {3} \times \cancel {3} \times \cancel {3}} \\\\
+                       &= 4 \times 8 \times 6 \\\\
+                       &= 32 \times 6 \\\\
+                       &= 192
 \end{aligned}
 $
 
@@ -1352,7 +1282,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$576$
+$192$
 
 </div>
 </div>

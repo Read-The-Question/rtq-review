@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-pr"
 title: "Topic - Percentageadvance - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -60,324 +60,6 @@ $64 \%$
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>A2F4CE02-CC08-4549-9659-71797B3FFB94</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentageadvance
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $25\%$ of the cost of building a boat is for materials. Calculate the cost of the materials in a boat costing $\pounds6000$ to build.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Cost of the materials} &= 25 \% \ \text {of} \ \pounds 6000 \\\\
-                              &= \dfrac {25} {100} \times 6000 \\\\
-                              &= \dfrac {25 \times 6000} {100} \\\\
-                              &= \dfrac {25 \times 60 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-                              &= 60 \times 25 \\\\
-                              &= \pounds 1500
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1500$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>485DBC6F-F0A5-4EB6-93C4-93CE2412C835</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tpercentageadvance
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-It is $4367 \ \text{km}$ between towns $A$ and $B$. It is $8694 \ \text{km}$ between towns $B$ and $C$. 
-
-Calculate the total distance travelled if I go from $A$ to $B$ and then to $C$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total distance}  &= 4367 + 8694 \\\\
-                       &= 13061 \ \text{km}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13061 \ \text{km}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Each container ship can carry $430$ containers. If each container can hold $67$ washing machines, what is the total number of washing machines that can be carried on one container ship?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total washing machines} &= 430 \times 67 \\\\
-                              &= 28810
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$28810$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-There are $4005$ apples that need to be packed into boxes. If each box holds $13$ apples, how any boxes are needed?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Boxes required} &= \dfrac {4005} {13} \\\\
-                      &= 308.07 \\\\
-                      &= 309
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$309$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Tax is charged at the rate of $17\%$ on business profits. If a business makes profits of $\pounds 45{,}330$ one year, how much tax must be paid?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Tax paid} &= 17 \% \times 45330 \\\\
-                &= \dfrac {17} {100} \times 45330 \\\\
-                &= \dfrac {17 \times 45330} {100} \\\\
-                &= \dfrac {770610} {100} \\\\
-                &= \pounds 7706.10
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 7706.10$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Subtract three fifths from four sevenths.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {4} {7} - \dfrac {3} {5} \\\\
-&= \dfrac {4 \times 5} {7 \times 5} - \dfrac {3 \times 7} {5 \times 7} \\\\
-&= \dfrac {20} {35} - \dfrac {21} {35} \\\\
-&= \dfrac {20 - 21} {35} \\\\
-&= - \dfrac {1} {35}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$- \dfrac {1} {35}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate two and one third multiplied by one and three sevenths.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 2 \ \dfrac {1} {3} \times 1 \ \dfrac {3} {7} \\\\
-&= \dfrac {7} {3} \times \dfrac {10} {7} \\\\
-&= \dfrac {7 \times 10} {3 \times 7} \\\\
-&= \dfrac {\cancel {7} \times 10} {3 \times \cancel {7}} \\\\
-&= \dfrac {10} {3} \\\\
-&= 3 \dfrac {1} {3}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \dfrac {1} {3}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -853,7 +535,7 @@ $220$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>84995481-1A2F-4667-8846-F97B143D48F4</p>
 </div>
@@ -906,29 +588,25 @@ How many were given socks?
 
 Total socks = $45$,
 
-Fraction of teachers given socks = $\dfrac {4} {9}$
-
-Let's find how many teachers were given socks for Christmas
-
+Fraction of teachers given socks $= \dfrac {4} {9}$
+ 
 $
 \begin{aligned}
-&= \dfrac {4} {9} \times 45 \\\\
-&= \dfrac {4 \times 45} {9} \\\\
-&= \dfrac {4 \times 5 \times 9} {9} \\\\
-&= \dfrac {4 \times 5 \times \cancel {9}} {\cancel {9}} \\\\
-&= 4 \times 5
-&= 20 \text{teachers}
+\text {Teachers who were given socks}   &= \dfrac {4} {9} \times 45 \\\\
+                                        &= \dfrac {4 \times 45} {9} \\\\
+                                        &= \dfrac {4 \times 5 \times 9} {9} \\\\
+                                        &= \dfrac {4 \times 5 \times \cancel {9}} {\cancel {9}} \\\\
+                                        &= 4 \times 5 \\\\
+                                        &= 20 \ \text{teachers}
 \end{aligned}
 $
-
-Teachers who were given socks $=20$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20 teachers$
+$20$
 
 </div>
 </div>
@@ -960,7 +638,7 @@ $ \begin{aligned}
 &= 4 \  \text {teachers}
 \end{aligned}
 
-Teaachers who were given socks and tie $= 4$
+Teachers who were given socks and tie $= 4$
 
 </div>
 </div>
@@ -979,7 +657,7 @@ $4$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

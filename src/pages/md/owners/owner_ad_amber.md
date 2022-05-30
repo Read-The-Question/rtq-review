@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-amber"
 title: "Owner - Arun Dalakoti - Amber"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -128,9 +128,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1177,13 +1174,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -1460,7 +1451,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tmoney
@@ -1644,12 +1635,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>
@@ -2252,16 +2237,10 @@ $6 \text{ cm}, \ 12 \text{ cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tprofit
 </li>
 </ul>
 </div>
@@ -2563,15 +2542,55 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_ad_amber question'>
 <div class='uuid'>
+<p>33894696-6D5A-4AA2-89AF-C94F80BC4363</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three bicycles are priced at $\pounds 79, \pounds 80$ and $\pounds 84$. If the shopkeeper decided to sell them for the same total amount, but made the three prices equal, what would each cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$81$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_amber question'>
+<div class='uuid'>
 <p>0B4EA44D-BD3F-4217-9050-070265E7D6BE</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tcoin
+tratio
 </li>
 </ul>
 </div>

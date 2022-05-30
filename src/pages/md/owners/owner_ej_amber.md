@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-amber"
 title: "Owner - Eshudhi Jangid - Amber"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2104,16 +2104,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
-tdraw
-</li>
-<li>
-tmoney
+tstatistics
 </li>
 </ul>
 </div>

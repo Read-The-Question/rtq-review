@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-1"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -71,7 +71,7 @@ $210 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>DF2452BE-A907-4F55-9C53-1A472B3B035D</p>
 </div>
@@ -126,12 +126,12 @@ $\dfrac {4} {5}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>4DC6032C-769F-4D01-A831-92EA63A4A990</p>
 </div>
@@ -183,7 +183,7 @@ $0.08$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -237,7 +237,7 @@ $13 \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>85FD3DB9-A666-4D58-8BAE-262C8ECA3FB7</p>
 </div>
@@ -293,7 +293,7 @@ $7$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -418,7 +418,7 @@ $1:4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D1E91C2C-7808-4EE0-BABC-FC7615F5E3D4</p>
 </div>
@@ -450,8 +450,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Difference}   &= 13{:}21 - 9{:}34 \\\\
-                   &= 4 \text{ hours} \ 47 \text{ minutes}
+\text {Difference}   &= 13{:}21 - 9{:}34 \\\\
+                     &= 4 \ \text {hours} \ 47 \ \text {minutes}
 \end{aligned}
 $
 
@@ -460,7 +460,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$ 4 \text{ hours} \ 47 \text{ minutes}$
+$ 4 \ \text{hours} \ 47 \ \text {minutes}$
 
 </div>
 </div>
@@ -469,12 +469,12 @@ $ 4 \text{ hours} \ 47 \text{ minutes}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>8F66D2BA-D78E-4C07-BD24-B7741E19A525</p>
 </div>
@@ -505,7 +505,7 @@ What is the value of the digit $9$ in the number $32.597$?
 <div class='workings'>
 <div class='working'>
 
-nine tenths
+$nine tenths$
 
 </div>
 </div>
@@ -515,7 +515,7 @@ nine tenths
 </div>
 <div class='answer'>
 
-nine tenths
+$nine tenths$
 
 </div>
 </div>
@@ -524,19 +524,19 @@ nine tenths
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6D5C94CF-2D87-4416-AAA2-9227B6C1AC6A</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
@@ -557,42 +557,39 @@ I buy a pen and a pencil for $\pounds 1.10$. The pen costs $50 \text{p}$ more th
 <div class='workings'>
 <div class='working'>
 
-Let the price of pencil $= a$ 
+Let the price of pencil $= a$
 
 As per the question price of pen $= a + 50$
 
 $
 \begin{aligned}
-a + (50 + a) &= 110 \\\\
+a + a + 50   &= 110 \\\\
 2a + 50      &= 110 \\\\
 2a           &= 110 - 50 \\\\
 a            &= \dfrac {60} {2} \\\\
 a            &= \dfrac {30 \times 2} {2} \\\\
 a            &= \dfrac {30 \times \cancel{2} } {\cancel {2} } \\\\
-a            &= 30\text{p}
+a            &= 30 \ \text{p}
 \end{aligned}
 $
 
-So the cost of pen becomes
-
 $
 \begin{aligned}
-&= 50 + 30
-&= 80\text{p}
+\text {price of pen} &= 50 + a \\\\
+                     &= 50 + 30 \\\\
+                     &= 80 \text{p}
 \end{aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-$80 \text{p}$
-
+<div class='option'>
+<p>D</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$80 \text{p}$
 
 </div>
 </div>
@@ -601,7 +598,7 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -2193,7 +2190,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>647F4ED9-464B-42F6-AD07-9DEACD207E79</p>
 </div>
@@ -2217,16 +2214,16 @@ What is the maximum number of stickers I can fit on the wall?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area}  &= \text{length} \times \text{width}$
+$\text{Area} = \text{length} \times \text{width}$
 
 $
 \begin{aligned}
-\text{Number of tiles}  &=  \dfrac {\text{Area of the space}} {\text{Area of sticker}}
-                        &=  \dfrac {55 \times 60} {15 \times 5} \\\\
-                        &=  \dfrac {5 \times 11 \times 15 \times 4} {15 \times 5} \\\\
-                        &=  \dfrac {\cancel {5} \times 11 \times \cancel {15} \times 4} {\cancel {15} \times \cancel {5} } \\\\
-                        &= 11 \times 4 \\\\
-                        &= 44
+\text{Number of stickers}  &= \dfrac {\text{Area of the space}} {\text{Area of sticker}}
+                           &= \dfrac {55 \times 60} {15 \times 5} \\\\
+                           &= \dfrac {5 \times 11 \times 15 \times 4} {15 \times 5} \\\\
+                           &= \dfrac {\cancel {5} \times 11 \times \cancel {15} \times 4} {\cancel {15} \times \cancel {5} } \\\\
+                           &= 11 \times 4 \\\\
+                           &= 44
 \end{aligned}
 $
 
@@ -2246,7 +2243,7 @@ $44$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

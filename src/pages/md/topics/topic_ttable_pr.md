@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttable-pr"
 title: "Topic - Table - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -238,116 +238,6 @@ $0719$
 </div>
 <div class='rag'>
 <p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-ttime
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The timetable below shows information about the overnight train from London to Scotland.
-
-![missing table](/papers/missing_table.svg)
-
-How long does the train take
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-from London Euston to Birmingham International?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \ \text{hrs} \ 10 \ \text{mins}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1 \ \text{hrs} \ 10 \ \text{mins}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-from London Euston Station to Glasgow?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10 \ \text{hrs} \ 48 \ \text{mins}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 \ \text{hrs} \ 48 \ \text{mins}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>

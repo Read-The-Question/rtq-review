@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-ttime"
 title: "Topicpapers Ttime"
-date: 2022-05-29 22:59:27
+date: 2022-05-30 17:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,412 @@ date: 2022-05-29 22:59:27
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>D8CD5DBE-7A2A-47CB-9D63-90512FB0BB7B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs Green parked her car in a car park at $9.00 \ \text{am}$. She drove out of the car park at $5.00 \ \text{pm}$.
+
+Car Parking Charges: $\pounds 1.80$ per hour 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+For how many hours was her car in the car park?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Hours in the car park}    &=  5.00 \ \text{pm} - 9.00 \ \text{am} \\\\
+                                &=  8 \ \text{hours} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text{hours}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much did she pay, in total, for parking her car?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total parking charges}    &=  \pounds 1.80 \times 8 \\\\
+                                &=  \pounds 14.40 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 14.40$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_ttime</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9BEAAA43-A79C-4097-81BF-27BD5C510042</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Part of a bus timetable is shown below:
+
+![missing table](/papers/missing_table.svg)
+
+![missing table](/papers/missing_table.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A bus arrives at Salton at $11{:}32 \ \text{am}$. When did it leave Pepperton?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The rest of the timetable has gone missing.
+
+If a bus left Pepperton at $14 \text{h} 00$, when should it reach Salton?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Alice and her two sisters want to go to a movie in Pepperton. 
+The movie begins at noon.
+What is the latest bus they can catch from Salton?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Julie arrived at the bus stop in Pepperton just in time to catch the $08 \text{h} 30$ bus. She had to collect some books near the bus station in Salton, after which she took the next bus home again.
+At what time did she arrive back in Pepperton?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+She lived $10 \ \text{minutes}$ from the bus stop in Pepperton and returned home straight away. 
+How long altogether was she away from home that morning?
+
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Bus fares had increased by a tenth.
+The price was previously $\pounds 4.50$ for a single trip between Salton and Pepperton.
+
+Alice and her sisters paid together for their bus trip (under the new price system) with a $\pounds 20$ note.
+How much change did they get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_ttime</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
@@ -356,6 +762,131 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_ej_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>08225CB2-D581-41F3-8761-A49B7C43EE9B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A man starts work at $08:15$. He then has a break from $10:15$ to $10:35$. After his break he continues working until $12:50$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+For how many hours and minutes was he working?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total Working Hours} &= \text{End time - Start time - Break} \\\\
+                           &= 12:50 - 08:15 - (10:35 - 10:15)
+                           &= 12 {:} 50 - 8 {:} 15 - 20 \ \text{minutes} \\\\
+                           &= 4 {:} 35 - 20 mins\ \text{minutes} \\\\
+                           &= 4 {:} 15 \\\\
+                           &= 4 \ \text{hour} 15 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{hour} 15 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If he is paid $\pounds 6.00$ for each hour worked, how much will he be paid for all the work?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to the question,
+
+$
+\begin{aligned}
+\text {Total (Paid)} &= \text{Total Hours worked} \times \text{per hour pay} \\\\
+                     &= 4 \ \text{hours} \ 15 \ \text{ minutes} \times  \pounds 6 \\\\
+                     &= 4 \ \text{hours} \times 6 + \dfrac {1} {4} \times 6 \\\\
+                     &= 24 + 2 \times \dfrac {3} {2} \times 2 \\\\
+                     &= 24 + \dfrac {3 \times \cancel {2} } {2 \times \cancel {2}}  \\\\
+                     &= 24 + \dfrac {3} {2} \\\\
+                     &= 24 + 1 \dfrac {1} {2} \\\\
+                     &= 24 + \pounds 1.50 \\\\
+                     &= \pounds 25.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 25.5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_ttime</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -834,6 +1365,67 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>0D550CC6-50D9-46B0-B420-4CDCA6B61FC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Kyra parks her car at $10.30 \ \text{pm}$. 
+She collects the car at $2.15 \ \text{pm}$. 
+How much does she have to pay?
+
+![missing table](/papers/missing_table.svg)
+
+Car Park Charges
+
+**Time**              **Charge**
+
+Up to $1 \ \text{hour}$        $20 \text{p}$
+
+$1$ to $2 \ \text{hours}$      $50 \text{p}$
+
+$2$ to $3 \ \text{hours}$      $\pounds 1.00$
+
+$3$ to $4 \ \text{hours}$      $\pounds 1.70$
+
+Over to $4 \ \text{hours}$     $\pounds 5.00$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_ttime</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>9269D2C1-1332-4C0D-A7DE-F011F1B802CF</p>
@@ -932,6 +1524,226 @@ $11{:}11$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+This is what Evie sees when she glances at her clock in the mirror.
+
+Write the time her clock actually shows, using the $12$-hour clock.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1{:}41 \ \text {p.m}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1{:}41 \ \text {p.m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A film lasting $2 \ \text{hours}$ and $20 \ \text{minutes}$ started at $16{:}55$
+
+At what time did it finish?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 16{:}55 + 2 \ \text{hours} \ 20 \ \text{minutes} \\\\
+&= 19{:}15
+\end{aligned}
+$
+
+The movie finished at $19{:}15$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19{:}15$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, burst out in giggles at the times shown in the table below.
+
+![missing table](/papers/missing_table.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+For how much longer did Rebecca remain silent than Holly?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the table,
+
+$
+\begin{aligned}
+\text {Time for which Rebecca remained silent than Holly}  &= 17{:}08 - 16{:}29 \\\\
+                                                           &= 39 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$39 \ \text {minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+If each girl was sponsored $10 \ \text{pence}$ for each minute that she remained silent, how much money did the three girls raise in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the table,
+
+$
+\begin{aligned}
+\text {They remained silent for}     &= \text {Holly's silence time} + \text {Rebecca's silence time} + \text {Stacey's silence time} \\\\
+                                     &= (16{:}29 - 15{:}00) + (17{:}08 - 15{:}00) + (16{:}23 - 15{:}00) \\\\
+                                     &= 1 \ \text {hour} \ 29 \ \text {minutes} + 2 \ \text {hour} \ 8 \ \text {minutes} + 1 \ \text {hour} \ 23 \ \text {minutes} \\\\
+                                     &= 1 \times 60 \ \text {minutes} + 29 \ \text {minutes} + 2 \times 60 \ \text {minutes} + 8 \ \text {minutes} + 1 \times 60 \ \text {minutes} + 23 \ \text {minutes} \\\\
+                                     &= 60 + 29 + 120 + 8 + 60 + 23 \\\\
+                                     &= 300 \ \text {minutes} \\\\
+\text {Total money raised}           &= 300 \times 10 \\\\
+                                     &= 3000 \ \text {pence}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3000 \ \text {pence}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_ttime</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1116,6 +1928,264 @@ $8{:}08 \ \text {a.m.}$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>0BFA7614-8191-4EF2-B04D-5B1F88D70FC9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Bus**
+
+Look at this bus timetable, from Highbury to Colton:
+
+|                             **Bus Timetable:** Highbury to colton                                    |
+|:-------------------------:|:--------------------:    |:----------:|:---------:|:---------:|---------:|
+| **Highbury** *depart:*     |       $07.45$          |  $08.30$      | $09.30$      | $10.45$      | $11.30$     |
+|  **colton** *arrive:*      |       $08.30$          |  $09.15$      | $10.15$      | $11.30$      | $12.15$     |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A bus leaves **Highbury** at **$08{:}30$.**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+What time does it arrive in **Colton**?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+How much time does the bus journey take?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5$ friends are going from Highbury to Colton by bus. 
+
+They want to **arrive by $10{:}30$**
+
+Which is the **latest** bus they can catch from Highbury?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Each bus ticket costs **$\pounds 2.20**
+
+How much do the **5** bus tickets cost altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_ttime</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

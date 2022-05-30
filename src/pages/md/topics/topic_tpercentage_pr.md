@@ -1,201 +1,9 @@
 ---
 slug: "topics/topic-tpercentage-pr"
 title: "Topic - Percentage - PR"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>D48EBB7F-6353-41D8-8F7E-D81284AECC1E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-<li>
-tinequality
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which sign makes each of the following statements true?
-
-$\large { \boxed{\phantom{5} > \phantom{5} } \quad \boxed{\phantom{5} < \phantom{5} } \quad \boxed{\phantom{5} = \phantom{5} } }$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0.022 \quad \ldots  \quad 0.2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.022 \quad \boxed{\green{<}}  \quad 0.2$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.022 < 0.2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$15\%$ of $\pounds 300\  \quad \ldots  \quad  20\%$ of $\pounds 240$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the first value.
-
-$
-\begin{aligned}
-&= 15\% \text{ of } \pounds 300 \\\\
-&= \dfrac{15}{100} \times 300 \\\\
-&= \dfrac{15 \times 300}{100}  \\\\
-&= \dfrac{15 \times 3\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
-&= 15 \times 3  \\\\
-&= \pounds 45
-\end{aligned}
-$
-
-Let's calculate the second value.
-
-$
-\begin{aligned}
-&= 20\% \text{ of } \pounds 240 \\\\
-&= \dfrac{20}{100} \times 240 \\\\
-&= \dfrac{20 \times 240}{100}  \\\\
-&= \dfrac{2\cancel{0} \times 24\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
-&= 2 \times 24  \\\\
-&= \pounds 48
-\end{aligned}
-$
-
-Using the calculation above,
-
-$15\%$ of $\pounds 300\  \quad \boxed{\green{<}}  \quad  20\%$ of $\pounds 240$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15\%$ of $\pounds 300\  \quad <  \quad  20\%$ of $\pounds 240$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac {2}{5}$ of $\pounds 40\  \quad \ldots  \quad 25\%$ of $\pounds 64$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the first value.
-
-$
-\begin{aligned}
-&= \dfrac {2}{5} \text{ of } \pounds 40 \\\\
-&= \dfrac{2 \times 40}{5} \\\\
-&= \dfrac{2 \times 5 \times 8}{5} \\\\
-&= \dfrac{2 \times \cancel{5} \times 8}{\cancel{5}} \\\\
-&= 2 \times 8 \\\\
-&= \pounds 16
-\end{aligned}
-$
-
-Let's calculate the second value.
-
-$
-\begin{aligned}
-&= 25\% \text{ of } \pounds 64 \\\\
-&= \dfrac{25}{100} \times 64 \\\\
-&= \dfrac{25 \times 64}{100}  \\\\
-&= \dfrac{1600}{100}  \\\\
-&= \dfrac{16\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
-&= \pounds 16
-\end{aligned}
-$
-
-Using the calculation above,
-
-$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green{=}}  \quad 25\%$ of $\pounds 64$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
@@ -299,7 +107,7 @@ $\text{Shop C} = \pounds 820$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>416925A5-F078-4A2D-BB8E-871E9D3B167B</p>
 </div>
@@ -349,11 +157,11 @@ Work out $5 \%$ of $360$.
 
 $
 \begin{aligned}
-&= 5\% \text{ of } 360 \\\\
+&= 5\% \text { of } 360 \\\\
 &= \dfrac {5} {100} \times 360 \\\\
-&= \dfrac {5} {10 \cancel {0} } \times 36 \cancel {0} \\\\
-&= \dfrac {5} {10} \times 36 \\\\
-&= \dfrac {\cancel {10} \times 18 } {\cancel {10} } \\\\
+&= \dfrac {5 \times 360} {100} \\\\
+&= \dfrac {5 \times 2 \times 18 \times 10} {2 \times 5 \times 10} \\\\
+&= \dfrac {\cancel {5} \times \cancel {2} \times 18 \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
 &= 18
 \end{aligned}
 $
@@ -363,7 +171,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$90$
+$18$
 
 </div>
 </div>
@@ -386,20 +194,23 @@ You can use part (a) to help you.
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
-&= 15\% \text{ of } 360 \\\\
+&= 15\% \text { of } 360 \\\\
 &= \dfrac {15} {100} \times 360 \\\\
-&= 3 \times (\dfrac {5} {10} \times 360) \\\\
-&= 3 \times 90 \\\\
-&= 270
+&= \dfrac {15 \times 360} {100} \\\\
+&= \dfrac {5 \times 3 \times 2 \times 18 \times 10} {2 \times 5 \times 10} \\\\
+&= \dfrac {\cancel {5} \times 3 \times \cancel {2} \times 18 \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+&= 54
 \end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$270$
+$54$
 
 </div>
 </div>
@@ -411,167 +222,7 @@ $270$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>83FF262B-C3C2-446A-888D-017561433336</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This is the sign in a shop:
-
-**SALE $25 \%$ off all marked prices**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Explain why $25 \%$ is one-quarter.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Since one-quarter is $\dfrac {1} {4}$, so lets expand 25 \%
-
-$
-\begin{aligned}
-&= 25 \% \\\\
-&= \dfrac {25} {100} \\\\
-&= \dfrac {25} {25 \times 4} \\\\
-&= \dfrac {\cancel {25}} {\cancel {25} \times 4} \\\\
-&= \dfrac {1} {4}
-\end{aligned}
-$
-
-Hence 25 \% is equal to \dfrac {1} {4}
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {4}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Snadra chooses a pair of jeans marked $\pounds 48$. How much did Sandra save by buying them in the sale?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Sandra saved} &= 48 - 25 \% \times 48 \\\\
-                    &= 48 - \dfrac {25} {100} \times 48 \\\\
-                    &= 48 - \dfrac {25 \times 48} {100} \\\\
-                    &= 48 - \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
-                    &= 48 - \dfrac {\cancel {25} \times \cancel {4} \times 12} {\cancel {25} \times \cancel {4}} \\\\
-                    &= 48 - 12 \\\\
-                    &= \pounds 36
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much will she actually have to pay for them in sale?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{She paid} &= 48 - 36 \\\\
-                &= \pounds 12
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 12$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -905,164 +556,6 @@ $30\% \text{ of } \ 30$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
-<p>3396FC7D-CAC5-48DF-9EEA-02DC624906F5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $50 \%$ of $58 \ \text{m}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 50 \% \ \text {of} \ 58 \ \text{m} \\\\
-&= \dfrac {50} {100} \times 58 \\\\
-&= \dfrac {50 \times 58} {100} \\\\
-&= \dfrac {50 \times 2 \times 29} {50 \times 2} \\\\
-&= \dfrac {\cancel {50} \times \cancel {2} \times 29} {\cancel {50} \times \cancel {2}} \\\\
-&= 29 \ \text{m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$29 \ \text{m}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $75 \%$ of $\pounds 24$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 75 \% \ \text {of} \ \pounds 24 \\\\
-&= \dfrac {75} {100} \times 24 \\\\
-&= \dfrac {75 \times 24} {100} \\\\
-&= \dfrac {25 \times 3 \times 4 \times 6} {25 \times 4} \\\\
-&= \dfrac {\cancel {25} \times 3 \times \cancel {4} \times 6} {\cancel {25} \times \cancel {4}} \\\\
-&= 3 \times 6 \\\\
-&= \pounds 18
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 18$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $10 \%$ of $130$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 10 \% \ \text {of} \ 130 \\\\
-&= \dfrac {10} {100} \times 130 \\\\
-&= \dfrac {10 \times 130} {100} \\\\
-&= \dfrac {1 \cancel {0} \times 13 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 13
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
 <p>E613AD24-EE97-4825-9545-2EBD62F74520</p>
 </div>
 <div class='topics'>
@@ -1191,64 +684,6 @@ $48 \text { kg}$
 </ul>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>1B75D1B9-5669-4840-977E-AF67A1065F16</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-To make porridge, Goldilocks mixes $3$ bags of oats with $1$ bag containing $20\%$ wheat bran and $80\%$ oats. 
-All the bags have the same volume. What percentage of the porridge mix is wheat bran?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Percentage} &= 3 \times 20 \% \\\\
-                  &= 3 \times \dfrac {20} {100} \\\\
-                  &= \dfrac {20 \times 3} {100} \\\\
-                  &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
-                  &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
-                  &= \dfrac {3} {5} \\\\
-                  &= 0.6 \times 100 \\\\
-                  &= 60 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60 \%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_ad_pr</p>
@@ -1448,66 +883,6 @@ $\pounds 105$
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_pr question'>
-<div class='uuid'>
-<p>FEDF1274-F3D1-48A8-9364-946A301048E2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Six people pay $\pounds 5.50$ each for a meal in a restaurant. They leave a $10 \%$ tip for the waiter. How much change do they receive from a $\pounds 50$ note?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Total expenditure  $= 6 \times \pounds5.50$
-
-$\pounds 33$
-
-$
-\begin{aligned}
-\text{Change}                   &=  \text{Total money} -  \text{Total expenditure} - \text{Tip} \\\\
-                                &=  50 -  33 - \dfrac{1\cancel {0} }{1\cancel {0} \cancel {0} } \times 5 \cancel {0} \\\\
-                                &=  50 -  33 - 5 \\\\
-                                &=  50 -  28 \\\\
-                                &=  22
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$22$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_np_pr</p>
 </div>
 </div>
 </li>
@@ -1775,71 +1150,6 @@ $425$
 </div>
 <div class='rag'>
 <p>rag_np_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>A6B8B57F-EC4F-46B7-B764-FB72554BB7C3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Seesaws cost $\pounds 200$ each in January 2010. In January 2011 they had gone up by $45 \%$. Calculate how much a seesaw cost in January 2011.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Cost of Seesaws in Jan $2010 = \pounds 200$
-
-Percentage of increase in price in $2011 = 45 \%$ 
-
-Let's Calculate how much a seesaw cost in January $2011$
-
-$
-\begin{aligned}
-\text {Price of seesaw in} \ 2011         &= \ \text{Price of seesaw in} \ 2010 + \ \text{Price increased} \\\\
-                                          &= \pounds 200 + \pounds 200 \times \dfrac {45}{100} \\\\
-                                          &= \pounds 200 + 2 \cancel {0} \cancel {0} \times \dfrac {45}{1 \cancel {0} \cancel {0}} \\\\
-                                          &= \pounds 200 + 2 \times 45 \\\\
-                                          &= \pounds 200 + \pounds 90 \\\\
-                                          &= \pounds 290
-\end{aligned}
-$
-
-In January $2011$ A seesaw cost is $\pounds 290$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 290$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -2691,12 +2001,12 @@ Find $30 \%$ of $120$
 
 $
 \begin{aligned}
-&=  30\% \ \text{of} \ 120 \\\\
-&=  \dfrac{30}{100} \times 120 \\\\
-&=  \dfrac{30 \times 120}{100} \\\\
-&=  \dfrac{3600}{100} \\\\
-&=  \dfrac{36 \times \cancel{100}} {1 \cancel{100}} \\\\
-&=  36
+&=   30\% \ \text{of} \ 120 \\\\
+&=   \dfrac{30}{100} \times 120 \\\\
+&=   \dfrac{30 \times 120}{100} \\\\
+&=   \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
+&=   3  \times 12  \\\\
+&=   36
 \end{aligned}
 $
 
@@ -2753,8 +2063,12 @@ Write three-fifths as a percentage.
 
 $
 \begin{aligned}
-\text{three-fifths as a percentage} &= \dfrac{3}{5} \times \dfrac{20}{20} \\\\
-&= \dfrac{60}{100} \\\\
+&= \text{three-fifths as a percentage} \\\\
+&= \dfrac{3}{5} \times 100 \% \\\\
+&= \dfrac{3 \times 100}{5} \\\\
+&= \dfrac{3 \times 20 \times 5}{5} \\\\
+&= \dfrac{3 \times 20 \times \cancel{5}}{\cancel{5}} \\\\
+&= 3 \times 20 \\\\
 &= 60\%
 \end{aligned}
 $
@@ -2777,248 +2091,6 @@ $60 \%$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>66F3BB48-9E07-49F4-B6BC-D5FF57B45B59</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tcoin
-</li>
-<li>
-tprobability
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Katherine has ten coins in a bag.
-
-She has one $50 \ \text{pence}$ coin, two $20 \ \text{pence}$ coins, one $5 \ \text{pence}$ coin and the rest are $2 \ \text{pence}$ coins.
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the total value of all the coins in her bag?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Total value of all coins} &= \text {one fifty pence coin} + \text {two twenty pence coin} + \text {one five pence coin} + \text {Remaining two pence coin} \\\\
-\text {Total value of all coins} &= 50 + 2 \times 20 + 5 + 6 \times 2 \\\\
-                                 &= 50 + 40 + 5 + 12 \\\\
-                                 &= \pounds 107
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 107$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What percentage of the coins are $20 \ \text{pence}$ coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {percentage of 20 pence coins} &= \dfrac {\text {total number of 20 pence coins}} {\text {total number of coins}} \times 100 \\\\
-                                     &= \dfrac {2} {10} \times 100 \\\\
-                                     &= \dfrac {2 \times 100} {10} \\\\
-                                     &= \dfrac {2 \times 10 \cancel {0}} {1 \cancel {0}} \\\\
-                                     &= 2 \times 10 \\\\
-                                     &= 20 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-One coin is picked at random from the purse.
-
-On the scale below, mark:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-with $A$ the probability that the coin is a $20 \ \text{pence}$ coin
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Certain}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Certain}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-with $B$ the probability that the coin is not a $20 \ \text{pence}$ coin
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Certain}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Certain}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-with $C$ the probability that the coin is worth less than $\pounds 1$
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Impossible}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Impossible}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
 </div>
 </div>
 </li>
@@ -3182,400 +2254,6 @@ $50 \%$
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>09B08DAF-540F-4115-B9CB-3DA13E21C2F3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-<li>
-tprofit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Neil lends Rodger $\pounds 4$. Rodger pays back $30 \%$ of this the next day. How much does he still owe Neil?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's convert pounds to pence.
-
-$
-\begin{aligned}
-\text{Total amount} &= \pounds 4 \\\\
-&= 4 \times 100 \text{p} \\\\
-&= 400 \text{p}
-\end{aligned}
-$
-
-Rodger pays back $30 \%$. So,
-
-$
-\begin{aligned}
-\text{Amount paid} &= 30\% \text{ of } 400 \\\\
-&= \dfrac {30} {100} \times 400 \\\\
-&= \dfrac {30 \times 400} {100} \\\\
-&= \dfrac {30 \times 4 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-&= 30 \times 4 \\\\
-&= 120  \text{p} 
-\end{aligned}
-$
-
-Let's calculate the amount Rodger still owes Neil.
-
-$
-\begin{aligned}
-\text{Amount owed} &= 400 - 120 \\\\
-&= 280 \text{p} \\\\
-&= \pounds 2.80
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Can we do better than the previous solution? 
-
-If Rodger has paid back $30\%$ of the money, he still has $70\%$ to pay. 
-So we can directly calculate the amount owed and save on calculating the amount paid as well.
-
-$
-\begin{aligned}
-\text{Amount owed} &= 70\% \text{ of } 400 \\\\
-&= \dfrac {70} {100} \times 400 \\\\
-&= \dfrac {70 \times 400} {100} \\\\
-&= \dfrac {70 \times 4 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
-&= 70 \times 4 \\\\
-&= 280 \\\\
-&= 280 \text{p} \\\\
-&= \pounds 2.80
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2.80$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $15\%$ of $\pounds 3$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 15\% \times \pounds 3 \\\\
-&= 15\% \times 300 \ \text{pence}\\\\
-&= \dfrac {15} {100} \times 300 \\\\
-&= \dfrac {15 \times 300} {100} \\\\
-&= \dfrac {15 \times 3 \times 100} {100} \\\\
-&= \dfrac {15 \times 3 \times 1\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
-&= 15 \times 3  \\\\
-&= 45 \ \text{pence}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45 \ \text{pence}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>123B050C-DB35-4294-97F0-0DCBAFF89F1E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tprofit
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-*"Comfyclothes"* in the Arndale Centre reduces its prices by $20 \%$ in its winter sale. Ian bought a coat for $\pounds 60$ in the sale. 
-
-How much would it have cost before the sale started?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the original price $= p$
-
-Sale price $= 80 \%$ of the original price.
-
-As per the question,
-
-$
-\begin{aligned}
-80\% \text{ of } p              &= 60 \\\\
-\dfrac {80 } { 100 } \times p   &= 60 \\\\
-p                               &= \dfrac {60 \times 100 } { 80 } \\\\
-p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\
-p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\
-p                               &= 3 \times 25 \\\\
-p                               &= \pounds 75
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 75$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>FEF8AADE-2D7B-4940-99BD-A18E327E4D0F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The gas meter reading on Andrew's smart meter in October was $5475$ units. 
-Exactly **three** months later, in January, the reading was $6045$ units. 
-M-power charge a fixed amount of $\pounds 16.20$ **each month** plus $40\text{p}$ for **each unit** used during the three months between the two readings.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many units of gas has Andrew used in the three month period from October to January?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-January reading = $6045$ 
-
-October reading = $5475$ 
-
-$
-\begin {aligned}
-&= 6045 - 5475 \\\\
-&= 570
-\end {aligned}
-$
-
-$570$ units of gas has Andrew used in the three month period from October to January.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$570 \ \text {units}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate the **total** amount Andrew has to pay for that three month period.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question, 
-
-$
-\begin{aligned}
-\text {Total amount for three months}   &= 3 \times \text {Fixed amount for each month} + 570 \times \text {Cost of a unit} \\\\
-                                        &= 3 \times \pounds 16.20 + 570 \times 40 \ \text {p} \\\\
-                                        &= \pounds 48.60 + 570 \times \pounds \dfrac {40} {100} \\\\
-                                        &= \pounds 48.60 + 570 \times \pounds 0.40 \\\\
-                                        &= 48.60 + 228 \\\\
-                                        &= \pounds 276.60
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 276.60$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In fact, M-power also have to add $5\%$ to Andrew's bill which is the tax known as VAT. What will be the **final** bill that Andrew has to pay for his gas?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Final Bill}      &= \text {Total bill} + \text {VAT} \\\\
-                        &= \pounds 276.60 + (5 \% \ \text {of} 276.60) \\\\
-                        &= 276.60 + (5 \% \times 276.60) \\\\
-                        &= 276.60 + (\dfrac {5} {100} \times 276.60) \\\\
-                        &= 276.60 + (\dfrac {276.60 \times 5}{100}) \\\\
-                        &= 276.60 + \dfrac {1383} {100} \\\\
-                        &= 276.60 + 13.83 \\\\
-                        &= \pounds 290.43
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 290.43$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -3791,7 +2469,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
 </div>
@@ -3868,9 +2546,9 @@ $50\%$ of $80$ =
 $
 \begin{aligned}
 &= 50\% \ \text{of} \ 80 \\\\
-&= \dfrac{50}{100} \times 80 \\\\
-&= \dfrac{50 \times 80}{100}  \\\\
-&= \dfrac{5 \cancel {0} \times 8 \cancel {0}} {1 \cancel {0} \cancel {0}}  \\\\
+&= \dfrac {50} {100} \times 80 \\\\
+&= \dfrac {50 \times 80}{100}  \\\\
+&= \dfrac {5 \cancel {0} \times 8 \cancel {0}} {1 \cancel {0} \cancel {0}}  \\\\
 &= 5 \times 8 \\\\
 &= 40
 \end{aligned}
@@ -3909,10 +2587,10 @@ $50\% \ \text{of} \ 80 = 40$ ,
 $
 \begin{aligned}
 &= 5\% \ \text{of} \ 80 \\\\
-&= \dfrac{5\% \times 10}{1 \times 10} \times 80 \\\\
-&= \dfrac{50\% \times 80}{100}  \\\\
-&= \dfrac{40}{10} \\\\
-&= \dfrac{4 \cancel {0}}{1 \cancel {0}} \\\\
+&= \dfrac {5\% \times 10} {1 \times 10} \times 80 \\\\
+&= \dfrac {50\% \times 80} {100}  \\\\
+&= \dfrac {40}{10} \\\\
+&= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
 &= 4
 \end{aligned}
 $
@@ -3950,8 +2628,8 @@ $5\% \ \text{of} \ 80 = 4$ ,
 $
 \begin{aligned}
 &= 1\% \text{ of } 80 \\\\
-&= \dfrac{1\% \times 5}{1 \times 5} \times 80 \\\\
-&= \dfrac{5 \%}{5} \times 80  \\\\
+&= \dfrac {1\% \times 5} {1 \times 5} \times 80 \\\\
+&= \dfrac {5 \%}{5} \times 80  \\\\
 &= \dfrac {5\% \times 80} {5} \\\\
 &= \dfrac {4} {5}
 \end{aligned}
@@ -3991,7 +2669,9 @@ You can use part (a) to help you.
 Using previous answers
 
 $50\% \ \text{of} \ 8 = 40$
+
 $5\% \ \text{of} \ 8 = 4$
+
 $1\% \ \text{of} \ 8 = \dfrac {4} {5}$
 
 $
@@ -4000,6 +2680,9 @@ $
 &= (50\% + 5\% + 1\%) \times 80 \\\\
 &= 50\% \times 80 + 5\% \times 80 + 1\% \times 80 \\\\
 &= 40 + 4 + \dfrac {4} {5}  \\\\
+&= \dfrac {40 \times 5} {5} + \dfrac {4 \times 5} {5} + \dfrac {4} {5} \\\\
+&= \dfrac {200 + 20 + 4} {5} \\\\
+&= \dfrac {224} {5} \\\\
 &= 44\dfrac{4}{5}
 \end{aligned}
 $
@@ -4021,7 +2704,7 @@ $44 \dfrac {4} {5}$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

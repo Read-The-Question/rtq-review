@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-05-29 22:47:20
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tmoney
@@ -205,13 +205,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -948,9 +942,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -1009,12 +1000,6 @@ $\pounds 15.42$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tstatistics
 </li>
@@ -1245,20 +1230,20 @@ $
                         &= \dfrac {2 \times 100 \ \text{cm}} {30 \ \text{cm}} \\\\
                         &= \dfrac {2 \times 10 \cancel {0}} {3 \cancel {0}} \\\\
                         &= \dfrac {20} {3} \\\\
-                        &= 6 \dfrac {2} {3} \text{cm}
+                        &= 6 \dfrac {2} {3}
 \end{aligned}
 $
 
 Number of pieces $= 6$
 
-Remaining length $= \dfrac{2} {3} \ \text{cm}$
+Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6, \ 0.66 \ \text{cm}$
+$6, \ 0.67 \ \text{cm}$
 
 </div>
 </div>
@@ -1397,13 +1382,7 @@ $450$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentageadvance
+talgebra
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-g1"
 title: "Topic - Detailedmultiplication - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-05-29 22:47:20
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -134,9 +131,6 @@ $492$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -183,9 +177,6 @@ $592$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -235,9 +226,6 @@ $360$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -286,9 +274,6 @@ $0$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -340,9 +325,6 @@ $23115$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -392,9 +374,6 @@ $13896$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -446,9 +425,6 @@ $9509$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -498,9 +474,6 @@ $34306$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -552,9 +525,6 @@ $15288$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -604,9 +574,6 @@ $8352$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -660,9 +627,6 @@ $704$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -772,9 +736,6 @@ $17.28$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -829,9 +790,6 @@ $12000$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -936,9 +894,6 @@ $0.006$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -996,9 +951,6 @@ $37620$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1058,9 +1010,6 @@ $24 \times 70 = 48 \times 35$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1242,9 +1191,6 @@ $87$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -1356,9 +1302,6 @@ $3744$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -1409,9 +1352,6 @@ $18738$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -1460,9 +1400,6 @@ $4109$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1514,9 +1451,6 @@ $18738$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -1564,9 +1498,6 @@ $1725$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -1613,9 +1544,6 @@ $4734$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1667,9 +1595,6 @@ $3074$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -1715,68 +1640,12 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_g1 question'>
-<div class='uuid'>
-<p>83337D0D-9540-4245-B775-A8E101DB982C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How much is three-sevenths of $196$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= \dfrac {3} {7} \ \text {of} \ 196 \\\\
-&= \dfrac {3} {7} \times {196} \\\\
-&= \dfrac {3 \times 196} {7} \\\\
-&= \dfrac {3 \times 28 \times 7} {7} \\\\
-&= \dfrac {3 \times 28 \times \cancel {7}} {\cancel{7}} \\\\
-&= 3 \times 28 \\\\
-&= 84
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$84$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ga_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>6C6C99EF-061D-4392-A08C-F3ADAD13E4B0</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1829,9 +1698,6 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -1872,15 +1738,111 @@ $684$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>A64047D5-B54A-426C-A41A-39320D26F531</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use your previous answer to write down the answer to $2400 \times 90$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using our previous answer
+
+$
+\begin{aligned}
+&= 2400 \times 90 \\\\
+&= 24 \times 9 \times 1000 \\\\
+&= 216 \times 1000 \\\\
+&= 216000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$216000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>CEEFE661-3F94-486A-860F-03203D78E68B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use these last two answers to write down $2002 \times 15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using previous two answers
+
+$
+\begin{aligned}
+&= 2002 \times 15 \\\\\
+&= 2002 \times (10 + 5) \\\\
+&= 2002 \times 10 +  2002 \times 5 \\\\
+&= 20020 + 10010 \\\\
+&= 30030
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30030$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>F5E382B1-9D12-48B3-BD9E-21F57EBDAE9D</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1930,9 +1892,6 @@ $4718$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1984,9 +1943,6 @@ $782$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2037,9 +1993,6 @@ $4128$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2086,9 +2039,6 @@ $104$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -2141,9 +2091,6 @@ $9165$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2189,9 +2136,6 @@ $196$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -2243,9 +2187,6 @@ $71685$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -2306,9 +2247,6 @@ $576$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2368,9 +2306,6 @@ $4693$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2418,9 +2353,6 @@ $2926$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -2530,9 +2462,6 @@ $27.9$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2575,13 +2504,63 @@ $85$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>A0F22995-6BFC-44F2-B293-97CAF232195A</p>
+<p>BCD8F98E-1992-48C8-9BF7-D16279322487</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tdetailedmultiplication
 </li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the spaces in the boxes below with each of the digits $1, 3, 6, 7$ and $8$ to make a correct sum:
+
+$
+\boxed{\phantom{1}} \ \boxed{\phantom{1}} \times \boxed{\phantom{1}} =
+\boxed{\phantom{1}} \
+\boxed{\phantom{1}}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+       &    1   &   3 \\
+\times &        &   7 \\
+\hline
+       &    7   &   8
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$78$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>A0F22995-6BFC-44F2-B293-97CAF232195A</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 tdetailedmultiplication
 </li>
@@ -2630,9 +2609,6 @@ $258$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2677,9 +2653,6 @@ $160$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -2727,9 +2700,6 @@ $434$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -2837,9 +2807,6 @@ $0.4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2886,9 +2853,6 @@ $536$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -2937,9 +2901,6 @@ $306$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -2986,9 +2947,6 @@ $196$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -3037,9 +2995,6 @@ $448$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3087,9 +3042,6 @@ $406$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3133,18 +3085,12 @@ $578$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_g1 question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
-<p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
+<p>FFA69607-F74D-4586-9C47-8FC1B3DD1DC5</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedsubtraction
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -3152,32 +3098,39 @@ tdetailedmultiplication
 </div>
 <div class='question question'>
 
-Put the correct number in the empty box.
+%waffles%
 
-
-$\boxed { \phantom{20} } - 8 = 4 \times 3$
+$927 × 7$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\boxed { \green{20} } - 8 = 4 \times 3$
+$
+\begin{array}{cccccccccccccc}
+            &   9   &   2   &   7 \\
+   \times   &       &       &   7 \\
+\hline
+   6        &   4   &   8   &   9 \\
+\hline
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$6489$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g1</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3188,9 +3141,6 @@ $20$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -3246,9 +3196,6 @@ $41096$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3299,9 +3246,6 @@ $2376$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3347,13 +3291,190 @@ $3, \ 8, \ 2, \ 6$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
-<p>53B9B068-60FD-45CE-85C3-B77303DB0A78</p>
+<p>42D920DA-04E3-422A-89A2-AF9EEC3650DF</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tdetailedmultiplication
 </li>
+</ul>
+</div>
+<div class='question question'>
+
+Use the fact that $742 \times 36 = 26712$ to work out these sums:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$742 \times 360$ =
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+742 \times 36           &= 26712 \\\\
+742 \times 36 \times 10 &= 26712 \times 10 \\\\
+742 \times 360          &= 267120
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$267120$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$26712 \div 36$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+742 \times 36           &= 26712 \\\\
+742                     &= \dfrac {26712} {36} \\\\
+\dfrac {26712} {36}     &= 742 \\\\
+26712 \div 36           &= 742
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$742$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$742 \times 72$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+742 \times 36          &= 26712 \\\\
+742 \times 36 \times 2 &= 26712 \times 2 \\\\
+742 \times 36 \times 2 &= 53424 \\\\
+742 \times 72          &= 53424
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$53424$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$743 \times 36$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+742 \times 36               &= 26712 \\\\
+742 \times 36 + 1 \times 36 &= 26712 + 1 \times 36 \\\\
+(742 + 1) \times 36         &= 26748 \\\\
+743 \times 36               &= 26748
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$26748$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>53B9B068-60FD-45CE-85C3-B77303DB0A78</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 tdetailedmultiplication
 </li>
@@ -3403,9 +3524,6 @@ $456$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3452,9 +3570,6 @@ $2312$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -3503,9 +3618,6 @@ $2926$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3552,9 +3664,6 @@ $6055$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -3603,9 +3712,6 @@ $24192$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3646,70 +3752,12 @@ $26082$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_g1 question'>
-<div class='uuid'>
-<p>C13D92E3-895B-4965-8831-8AD95CB87317</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the difference between the product of $4$ and $11$ and the difference of $4$ and $11$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= (4 \times 11) - (4 - 11)  \\\\
-&= 44 - (-7) \\\\
-&= 44 + 7 \\\\
-&= 51
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>81BA3970-5760-49CF-8C0B-A874CA881372</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -3760,9 +3808,6 @@ $19180$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -3924,9 +3969,6 @@ $96$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -3979,9 +4021,6 @@ $1641000$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>

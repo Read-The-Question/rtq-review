@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-tclock"
 title: "Topicpapers Tclock"
-date: 2022-05-29 22:59:27
+date: 2022-05-30 17:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1046,7 +1046,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8D9C54BC-6E17-4740-929F-C604E748B5B7</p>
 </div>
@@ -1145,7 +1145,7 @@ $120 \degree$
 <p>topicpapers_tclock</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

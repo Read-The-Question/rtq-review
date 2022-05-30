@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-g1"
 title: "Topic - Area - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1903,6 +1903,127 @@ $4 \ \text{m}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>DFB28188-B181-4153-8449-33CBDC8CCDA6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of the rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of the rectangle}                        &= 5 \times 2 \\\\
+                                                    &= 10 \ \text{cm}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \text{cm}^{2}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many triangles of the size shown will fit into the rectangle above?
+
+Neither diagram is drawn to scale.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Number of triangles}                          &= \dfrac {\text{Area of rectangle}} {\text{Area of triangle}}  \\\\
+                                                    &= \dfrac {10} {\dfrac {1} {2} \times 1 \times 1} \\\\
+                                                    &= \dfrac {10} {\dfrac {1} {2}} \\\\
+                                                    &= 10 \times 2 \\\\
+                                                    &= 20 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
 <p>9084E70D-57B3-42F0-867B-558AB1041DE5</p>
@@ -2068,6 +2189,251 @@ $86 \text{cm}^2$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>A6500005-118B-466A-8D63-6650ABAEA7AA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mr Green's garden is a mixture of lawn, patio and flower beds. A plan of the garden is shown below, with some (but not all) of the measurements.
+
+**The picture is not drawn to scale**.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area covered by Mr Green's lawn?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+As per the diagram,
+
+Area of flower bed can be divided into left and top portion.
+
+Area of top portion $= 23 \times 2$.
+
+Area of left portion $9 - 2 \times 2 = 7 \times 2$. Using this we get,
+
+$
+\begin{aligned}
+\text {Area of lawn} &= \text {Area of garden} - ( \text {Area of flower bed} + \text {Area of patio} ) \\\\
+                     &= 23 \times 9 - ( ( 23 \times 2 + 7 \times 2 ) + (3 \times 8) ) \\\\
+                     &= 207 - ( (46 + 14) + 24 ) \\\\
+                     &= 207 - (60 + 24) \\\\
+                     &= 207 - 84 \\\\
+                     &= 123 \ \text {m} ^ 2
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$123 \ \text {m} ^ 2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mr Green buys $6$ flower pots. Flower pots cost $\pounds 4.00$ each.
+
+Mr Green has a voucher for $15\% \ \textbf{off}$.
+
+How much does Mr Green spend on flower pots if he uses the voucher?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If the price is reduced by $15 \%$, cost for the flower pots will be $100 - 15 = 85 \%$ of the total cost. Using that we get,
+
+$
+\begin {aligned}
+\text {Mr Green spend}   &= 85 \% \ \text {of} \ \text {total cost of flower pots} \\\\
+                         &= \dfrac {85} {100} \times 4 \times 6 \\\\
+                         &= \dfrac {85} {100} \times 24 \\\\
+                         &= \dfrac {85 \times 24} {100} \\\\
+                         &= \dfrac {2040} {100} \\\\
+                         &= \pounds 20.40
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 20.40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mr Green wants to lay paving stones on his patio.
+The stones are rectangles measuring $50 \ \text{cm} \times 20 \ \text{cm}$.
+
+How many paving stones are needed to pave the patio?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+The patio measurements is given in metres while the paving stones measurement is given in cm.
+
+Let's convert the wall measurements into $\text{cm}$.
+
+$\text{Area} = \text{length} \times \text{width}$
+
+$
+\begin{aligned}
+\text{Number of paving stones}  &= \dfrac {\text {Area of the patio} } {\text {Area of a paving stones} } \\\\
+                                &= \dfrac {8 \ \text{m} \times 3 \ \text{m} } { 50 \ \text{cm} \times 20 \ \text{cm} } \\\\
+                                &= \dfrac {8 \times 100  \ \text{cm} \times 3 \times 100 \ \text{cm} } {50 \ \text{cm} \times 20 \ \text{cm} } \\\\
+                                &= \dfrac {8 \times 100 \times 3 \times 100 } { 50  \times 20 } \\\\
+                                &= \dfrac {8 \times 50 \times 2 \times 3 \times 20 \times 5 } { 50  \times 20 }  \\\\
+                                &= \dfrac {8 \times \cancel {50} \times 2 \times 3 \times \cancel {20} \times 5 } { \cancel{50}  \times \cancel{20} }  \\\\
+                                &= 8 \times 2 \times 3 \times 5  \\\\
+                                &= 240
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$240$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The area of the flower bed is $60 \ \text{m}^2$.
+
+Three sacks of fertilizer are needed for every $4 \ \text{m}^2$ of flower bed.
+
+Sacks cost $\pounds 10$ each, but are on offer: *buy four sacks and get a fifth sack free*.
+
+How much does it cost to fertilize the flower bed?              
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Sacks needed for $1 \ \text {m} ^ 2 = \dfrac {3} {4}$.
+
+$
+\begin {aligned}
+\text {Total sacks needed}  &= \dfrac {3} {4} \times 60 \\\\
+                            &= \dfrac {3 \times 60} {4} \\\\
+                            &= \dfrac {3 \times 15 \times 4} {4} \\\\
+                            &= \dfrac {3 \times 15 \times \cancel {4} } {\cancel {4}} \\\\
+                            &= 3 \times 15 \\\\
+                            &= 45
+\end {aligned}
+$
+
+There is an offer for every four sacks get fifth free so for $45$ sacks number of sacks free $\dfrac {45} {5} = 9$. Using this we get,
+
+$
+\begin {aligned}
+\text {Total cost}      &= (45 - 9) \times 10 \\\\
+                        &= 36 \times 10 \\\\
+                        &= \pounds 360
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 360$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>highgate-school--11-plus--maths--9999--sample-paper-a</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2371,6 +2737,121 @@ $25 \ \text {cm}^2$
 </ul>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>BB81BF83-EBB0-482C-B728-A09A6CBDE335</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+The above diagram shows a solid box.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of the shaded face?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area of shaded face} &= \text {length} \times \text {width} \\\\
+                            &= 3 \times 6 \\\\
+                            &= 18 \ \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18 \ \text {cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the total surface area of the box?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total surface area} &= 2 \times \text {length} \times \text {width} + 2 \times \text {length} \times \text {height} + 2 \times \text {height} \times \text {width} \\\\
+                           &= 2 \times 6 \times 10 + 2 \times 6 \times 3 + 2 \times 3 \times 10 \\\\
+                           &= 120 + 36 + 60 \\\\
+                           &= 216 \ \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$216 \ \text {cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -3759,6 +4240,69 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>C93A6248-F4DF-45F2-A0DE-18925C33F3FD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square has a perimeter of $8\ \text{cm}$. Five of these squares are put together in a line to make a rectangle. 
+
+What is the area of the rectangle?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Side of the square} &= \dfrac {8} {4} \\\\
+                           &= \dfrac {4 \times 2} {4} \\\\
+                           &= \dfrac {\cancel {4} \times 2} {\cancel {4}} \\\\
+                           &= 2 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Area of rectangle}  &= 5 \times \text{Area of one square} \\\\
+                           &= 5 \times 2 \times 2 \\\\
+                           &= 5 \times 4 \\\\
+                           &= 20 \ \text{cm} ^ 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text{cm} ^ 2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>7CD28E97-9AFA-46F8-9A9E-B995C440D735</p>
 </div>
 <div class='topics'>
@@ -3867,6 +4411,357 @@ $\dfrac {1} {9}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$1 \ \text{foot}$ is equal to $12 \ \text{inches}$. 
+Paul tiles a wall which is $10 \ \text{feet}$ long 
+and $6 \ \text{feet}$ high. 
+He uses square tiles which are $8 \ \text{inches}$ long on 
+each side. How many tiles does he need to tile the wall?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+The wall measurement is given in feet while the tile measurement is given in inches.
+
+Let's convert the wall measurements into inches.
+
+$
+\begin{aligned}
+\text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
+                        &= \dfrac {10 \ \text{feet} \times 6 \ \text{feet} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
+                        &= \dfrac {10 \times 12 \ \text{inches} \times 6 \times 12 \ \text{inches} } { 8 \ \text{inches} \times 8 \ \text{inches} } \\\\
+                        &= \dfrac {10 \times 12 \times 6 \times 12 } { 8 \times 8 } \\\\
+                        &= \dfrac {2 \times 5 \times 4 \times 3 \times 2 \times 3 \times 4 \times 3 } { 4 \times 2 \times 4 \times 2 } \\\\
+                        &= \dfrac {\cancel{2} \times 5 \times \cancel{4} \times 3 \times \cancel{2} \times 3 \times \cancel{4} \times 3 } { \cancel{4} \times \cancel{2} \times \cancel{4} \times \cancel{2} } \\\\
+                        &= 5 \times 3 \times 3 \times 3 \\\\
+                        &= 135
+\end{aligned}
+$
+
+Number of tiles $= 135$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$135$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>B3120C19-2C89-411F-90CE-9EA04D6E4598</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two rectangles have the same area. One rectangle is $28 \ \text{cm}$ long and $12 \ \text{cm}$ wide. The second rectangle has width $7 \ \text{cm}$. What is the length of this rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the second rectangle $= l$
+
+As per the question, the area of both the rectangles are the same.
+
+$\text{Area} = \text{length} \times \text{width}$
+
+Putting this into an equation, we get,
+
+$
+\begin{aligned}
+l \times 7  &= 28 \times 12 \\\\
+l           &= \dfrac {28 \times 12} { 7} \\\\
+l           &= \dfrac {7 \times 4 \times 12} { 7} \\\\
+l           &= \dfrac {\cancel{7} \times 4 \times 12} { \cancel{7}} \\\\
+l           &= 4 \times 12 \\\\
+l           &= 48 \ \text{cm}
+\end{aligned}  
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+All the measurements in the following diagram are given in centimetres
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the perimeter of this letter $F$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Perimeter is total measurements of all the edges of a shape. So, 
+
+Let's first find the missing edges.
+
+(Top edge $6$) - (Below edge $2$) = (Inner missing edge $4$)
+
+Middle missing edge is $2$ as the parallel edge is $2$
+
+$
+\begin{aligned}
+\text {Perimeter} &= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2 \\\\
+                  &= 42 \ \text {cm}
+\end{aligned}
+$
+
+Perimeter of letter F $= 42 \ \text {cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the area of this letter $F$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+"F" is an irregular shape. However, it can be broken up into 3 regular rectangles.
+
+Area of a rectangle $= \text {length} \times \text {width}$
+
+$
+\begin{aligned}
+\text {Area} &= \text {area of left rectangle} + \text {area of middle rectangle} + \text {area of top rectangle} \\\\
+             &= (13 \times 2) + (2 \times 2) + (4 \times 2) \\\\
+             &= 26 + 4 + 8 \\\\
+             &= 38 \ \text {cm} ^ 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$38 \ \text {cm} ^ 2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle is $4 \ \text{cm}$ longer than it is wide. The 
+distance all the way round the rectangle (its perimeter) 
+is $32 \ \text{cm}$.  What is the area of the rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text{cm}$) $= a$
+
+Then as per the question,
+
+Length $= a + 4$
+
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
+Equating the perimeter to the length and width we get,
+
+$
+\begin{aligned}
+2 \times (a + 4 + a)      &= 32 \\\\
+2 \times (2a + 4)         &= 32 \\\\
+4a + 8                    &= 32 \\\\
+4a                        &= 32 - 8\\\\
+4a                        &= 24\\\\
+a                         &= \dfrac {24} {4} \\\\
+a                         &= 6  \ \text{cm}
+\end{aligned}
+$
+
+$\text{Width} = 6 \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Length}       &= a + 4 \\\\
+                    &= 6 + 4 \\\\
+                    &= 10 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area}         &= \text{length} \times \text{width} \\\\
+                    &= 10 \times 6 \\\\
+                    &= 60 \ \text{cm}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \ \text{cm}^{2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
@@ -4244,6 +5139,69 @@ $
 <div class='answer'>
 
 $40 \ \text{cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It costs $\pounds 400$ to carpet a room measuring $2\, metres$ by $3\, metres$. How much would it costto carpet another room measuring $4\, metres$ by $6\, metres$ with the same carpet? 
+
+![missing image](/papers/missing_image.svg)                                                     
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+Cost to carpet a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $\pounds 400$
+
+Area of a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $2 \times 3 = 6 \text{m}^2$
+
+Cost to carpet a room measuring $1\, \text {metres}$ by $1\, \text {metres}$ = $\dfrac{400} {6}$
+
+Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\dfrac{400} {6} \times 4 \times 6$
+
+$
+\begin{aligned}
+&= \dfrac{400} {\cancel {6}} \times 4 \times \cancel {6} \\\\\
+&= 400 \times 4 \\\\
+&= \pounds 1600
+\end{aligned}
+$
+
+Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\pounds 1600$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1600$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-red"
 title: "Topic - Percentage - Red"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -120,74 +120,6 @@ $90 \%$
 </div>
 <div class='rag'>
 <p>rag_ad_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_red question'>
-<div class='uuid'>
-<p>81915FE2-DB1F-465E-8EDE-0A282A79FEF4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A used-car dealer sells a car at $120 \%$ of its cost. If a car costs $\pounds 25000$, how much will he sell the car for?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
- $\dfrac{ \text {Parts}} {\text {Whole}} \times 100 \%  =$ Percentage
-
-Whole = $\pounds 25000$ 
-
-Percentage $=120 \%$
-
-Let's substitute and find $Part$ taken as $x$, which is the actual selling price of the car.
-
-$\dfrac {x} {25000} \times 100 = 120 \% $
-
-$
-\begin{aligned}
-x &= \dfrac {120 \times 25000}{100} \\\\
-  &= \dfrac {120 \times 250 \cancel {00}} {1 \cancel {00}} \\\\
-  &= 120 \times 250 \\\\
-  &= (25 \times 12) \times 100 \\\\
-  &= 300 \times 100 \\\\
-  &= \pounds 30000
-\end{aligned}
-$
-
-The selling price of the car was $\pounds 30000$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 30000$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_ga_red</p>
 </div>
 </div>
 </li>

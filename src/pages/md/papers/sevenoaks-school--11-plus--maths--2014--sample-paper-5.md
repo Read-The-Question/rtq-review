@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2014-sample-paper-5"
 title: "Sevenoaks School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -419,11 +419,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Film ended}   &= 11{:}55 \ \text{A.M} + 177 minutes \\\\
-                    &= 11{:}55 + 2 \ \text {hours} 57 \ \text {minutes} \\\\
-                    &= 01{:}55 + 5 + 2 + 50 \\\\
-                    &= 02{:}00 + 52 \\\\
-                    &= 02{:}52 \ \text {P.M.}
+\text{Film ended}   &= 11{:}55 \ \text{A.M} + 117 minutes \\\\
+                    &= 11{:}55 + 1 \ \text {hours} \ 57 \ \text {minutes} \\\\
+                    &= 12{:}55 + 57 \ \text{minutes} \\\\
+                    &= 01{:}52 \ \text {P.M}
 \end{aligned}
 $
 
@@ -432,7 +431,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2{:}52 \ \text {P.M}$
+$01{:}52 \ \text {P.M}$
 
 </div>
 </div>
@@ -1237,10 +1236,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tprofit
 </li>
 </ul>
 </div>

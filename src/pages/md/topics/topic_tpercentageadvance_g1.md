@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-g1"
 title: "Topic - Percentageadvance - G1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -322,65 +322,6 @@ $1$
 <li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
-<p>6A9856E1-3211-45A5-B5B2-EAF3CFB6C17B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentageadvance
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-An iPad used to cost $\pounds 330$. Since Brexit the price has increased by $22\%$.
-
-How much does it cost now? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 22 \% \times 330 \\\\
-&= \dfrac{22}{100} \times 330 \\\\
-&= \dfrac{22 \times 330}{100} \\\\
-&= \dfrac{7260} {100} \\\\
-&= \dfrac{726 \cancel {0}} {10 \cancel{0}} \\\\
-&= 72.6 \\\\
-&= 330 + 72.6 \\\\
-&= 402.6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$402.6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
 <p>8F04F6AD-7E4E-4FEA-BE60-E45097E0FEB2</p>
 </div>
 <div class='topics'>
@@ -438,6 +379,267 @@ $35,42$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>485DBC6F-F0A5-4EB6-93C4-93CE2412C835</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tpercentageadvance
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is $4367 \ \text{km}$ between towns $A$ and $B$. It is $8694 \ \text{km}$ between towns $B$ and $C$. 
+
+Calculate the total distance travelled if I go from $A$ to $B$ and then to $C$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total distance}  &= 4367 + 8694 \\\\
+                       &= 13061 \ \text{km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13061 \ \text{km}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Each container ship can carry $430$ containers. If each container can hold $67$ washing machines, what is the total number of washing machines that can be carried on one container ship?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total washing machines} &= 430 \times 67 \\\\
+                              &= 28810
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28810$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+There are $4005$ apples that need to be packed into boxes. If each box holds $13$ apples, how any boxes are needed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Boxes required} &= \dfrac {4005} {13} \\\\
+                      &= 308.07 \\\\
+                      &= 309
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$309$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Tax is charged at the rate of $17\%$ on business profits. If a business makes profits of $\pounds 45{,}330$ one year, how much tax must be paid?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Tax paid} &= 17 \% \times 45330 \\\\
+                &= \dfrac {17} {100} \times 45330 \\\\
+                &= \dfrac {17 \times 45330} {100} \\\\
+                &= \dfrac {770610} {100} \\\\
+                &= \pounds 7706.10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7706.10$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Subtract three fifths from four sevenths.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {4} {7} - \dfrac {3} {5} \\\\
+&= \dfrac {4 \times 5} {7 \times 5} - \dfrac {3 \times 7} {5 \times 7} \\\\
+&= \dfrac {20} {35} - \dfrac {21} {35} \\\\
+&= \dfrac {20 - 21} {35} \\\\
+&= - \dfrac {1} {35}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- \dfrac {1} {35}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate two and one third multiplied by one and three sevenths.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2 \ \dfrac {1} {3} \times 1 \ \dfrac {3} {7} \\\\
+&= \dfrac {7} {3} \times \dfrac {10} {7} \\\\
+&= \dfrac {7 \times 10} {3 \times 7} \\\\
+&= \dfrac {\cancel {7} \times 10} {3 \times \cancel {7}} \\\\
+&= \dfrac {10} {3} \\\\
+&= 3 \dfrac {1} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \dfrac {1} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
 <p>80F4D32D-E7F6-4E7A-9776-DC2204D80BCA</p>
@@ -487,358 +689,6 @@ $1.3$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>3AFA86B0-9BFB-41F8-900A-072D2C1A833D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentageadvance
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A bicycle at Store $P$ costs $$200$. The regular price of the same bicycle at Store $Q$ is $15\%$ more than it is at Store P. The bicycle is on sale at Store Q for $10\%$ off of the regular price.
-
-What is the sale price of the bicycle at Store $Q$? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Cost of bicycle at store P}                         &= 200 \\\\
-\text{Price at store}                                     &= 15 \% 200 + 200 \\\\
-                                                          &= \dfrac{15 \times 200}{100} + 200 \\\\
-                                                          &= 30 + 200 \\\\
-                                                          &= 230 \\\\
-\text{Price at store Q}                                   &= 230 - 10 \% 200\\\\
-                                                          &= 230 - 20 \\\\
-                                                          &= 210
-                                            
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$210$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>EFD38E79-EABA-416D-9691-E23FADC9823E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentageadvance
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-An iPhone used to cost $\pounds 500$. Since Brexit the price has increased by $22\%$.How much does it cost now? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 22 \% \times 500 \\\\
-&= \dfrac {22} {100} \times 500 \\\\
-&= \dfrac {22 \times 500} {100} \\\\
-&= \dfrac {11000} {100} \\\\
-&= \dfrac {110 \cancel {00}} {1 \cancel{00}} \\\\
-&= 110 \\\\
-&= 500 + 110 \\\\
-&= 610
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$610$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-8</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>ECC9C62A-5E83-4FDE-ACA1-1F96AF5CB532</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tpercentageadvance
-</li>
-<li>
-tfraction
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The length of race track A is $3420.4 \ \text{metres}$.
-
-The length of race track B is $74539.7 \ \text{metres}$.
-
-If a car travelled once around each race track, how far would it have travelled, in metres?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total distance} &= 3420.4 + 74539.7 \\\\
-                      &= 77960.1 \ \text{metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$77960.1 \ \text{metres}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A lorry can carry $68$ boxes, and each box contains $22$ books.
-
-How many books can the lorry carry?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total books} &= 68 \times 22 \\\\
-                   &= 1496
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1496$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2341 \ \text{litres}$ of water need to be carried in containers that are $21 \ \text{litres}$.
-
-How many containers will be needed?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Containers needed} &= \dfrac {2341} {21} \\\\
-                         &= 111.47 \\\\
-                         &= 112
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$112$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Interest is earned at a rate of $13\%$ per year.
-
-How much interest is earned on a starting balance of $\pounds 3058$, deposited for one year?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Interest earned} &= 13 \% \times 3058 \\\\
-                       &= \dfrac {13} {100} \times 3058 \\\\
-                       &= \dfrac {13 \times 3058} {100} \\\\
-                       &= \dfrac {39754} {100} \\\\
-                       &= \pounds 397.54
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 397.54$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Subtract three sevenths from five sixths.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {5} {6} - \dfrac {3} {7} \\\\
-&= \dfrac {5 \times 7} {6 \times 7} - \dfrac {3 \times 6} {7 \times 6} \\\\\
-&= \dfrac {35} {42} - \dfrac {18} {42} \\\\
-&= \dfrac {35 - 18} {42} \\\\
-&= \dfrac {17} {42}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {17} {42}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1068,83 +918,6 @@ $\dfrac {5} {8}$
 </div>
 <div class='rag'>
 <p>rag_ar_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_g1 question'>
-<div class='uuid'>
-<p>6ED09898-3049-403B-862A-0997F0A0FB65</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentageadvance
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Homer, Marge and Bart each have $$1000$.
-
-Homer gives $10\%$ of his money to Marge. Marge then gives $10\%$ of her new amount to Bart. Bart then gives $10\%$ of his new amount to Homer.
-
-How much has Homer got now?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Amount Homer gives to Marge}          &= 10 \% \ \text{of} \ 1000 \\\\
-                                            &= \dfrac {10} {100} \times 1000 \\\\
-                                            &= \dfrac {10 \times 1000} {100} \\\\
-                                            &= \dfrac {10 \times 10 \cancel 0 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
-                                            &= 10 \times 10 \\\\
-                                            &= 100 \\\\
-\text{New amount that Marge has}            &= 1000 + 100 \\\\   
-                                            &= 1100 \\\\                                        
-\text{Amount Marge gives to Bart}           &= 10 \% \ \text{of} \ 1100 \\\\
-                                            &= \dfrac {10} {100} \times 1100 \\\\
-                                            &= \dfrac {10 \times 1100} {100} \\\\
-                                            &= \dfrac {10 \times 11 \cancel 0 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
-                                            &= 10 \times 11 \\\\
-                                            &= 110 \\\\
-\text{New amount that Bart has}             &= 1000 + 110 \\\\   
-                                            &= 1110 \\\\                                        
-\text{Amount Bart gives to Homer}           &= 10 \% \ \text{of} \ 1110 \\\\
-                                            &= \dfrac {10} {100} \times 1110 \\\\
-                                            &= \dfrac {10 \times 1110} {100} \\\\
-                                            &= \dfrac {1 \cancel 0 \times 111 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
-                                            &= 1 \times 111 \\\\
-                                            &= 111 \\\\
-\text{New amount that Homer has}            &= 900 + 111 \\\\   
-                                            &= 1011
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1011$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_g1</p>
 </div>
 </div>
 </li>

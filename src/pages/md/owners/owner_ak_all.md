@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-all"
 title: "Owner - Abhay Kandpal - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -63,13 +63,7 @@ $8483$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -282,9 +276,6 @@ $9$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -380,13 +371,7 @@ $500$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -970,13 +955,7 @@ $1.54$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinequality
 </li>
 </ul>
 </div>
@@ -1261,9 +1240,6 @@ $27 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1389,13 +1365,7 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -1731,9 +1701,6 @@ $1870$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -2084,9 +2051,6 @@ $9, 49$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2165,9 +2129,6 @@ $4$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -3026,13 +2987,7 @@ $3700 \ \text {mm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
+torder
 </li>
 </ul>
 </div>
@@ -3270,16 +3225,7 @@ $56 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tprofit
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -3404,9 +3350,6 @@ $\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top 
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
@@ -3469,9 +3412,6 @@ $\pounds 3.25$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -3524,9 +3464,6 @@ $\pounds 3.20$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -3577,13 +3514,7 @@ $8 \ \text {pieces}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tgeometry
 </li>
 </ul>
 </div>
@@ -3761,9 +3692,6 @@ $250 \ \text{milliliters}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -4502,13 +4430,7 @@ $2 \times 2 \times 2 \times 7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -4715,7 +4637,7 @@ $67737$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tmoney
@@ -5186,9 +5108,6 @@ $50$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -5244,7 +5163,7 @@ $18 \ \text {pence}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tmoney
@@ -6101,7 +6020,7 @@ $40 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tratio
 </li>
 <li>
 tmoney
@@ -6273,9 +6192,6 @@ $\text {Bruno}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -6823,13 +6739,7 @@ $-16, \quad -8, \quad 5, \quad 8, \quad 9$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -7009,9 +6919,6 @@ $35 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -8537,13 +8444,7 @@ $24 \ \text {cm} ^ 3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -9502,13 +9403,7 @@ $17$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -10484,9 +10379,6 @@ $46$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
 </li>
 <li>
@@ -11416,7 +11308,7 @@ $100, 90, 80, \ldots, \ldots$
 
 Let's find the difference between the consecutive terms of the sequence.
 
-The difference between the terms is $10$. Hence, the sequence would be:
+The difference between the terms is $-10$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -11529,13 +11421,7 @@ $74$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
+tprofit
 </li>
 </ul>
 </div>
@@ -12010,11 +11896,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Film ended}   &= 11{:}55 \ \text{A.M} + 177 minutes \\\\
-                    &= 11{:}55 + 2 \ \text {hours} 57 \ \text {minutes} \\\\
-                    &= 01{:}55 + 5 + 2 + 50 \\\\
-                    &= 02{:}00 + 52 \\\\
-                    &= 02{:}52 \ \text {P.M.}
+\text{Film ended}   &= 11{:}55 \ \text{A.M} + 117 minutes \\\\
+                    &= 11{:}55 + 1 \ \text {hours} \ 57 \ \text {minutes} \\\\
+                    &= 12{:}55 + 57 \ \text{minutes} \\\\
+                    &= 01{:}52 \ \text {P.M}
 \end{aligned}
 $
 
@@ -12023,7 +11908,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2{:}52 \ \text {P.M}$
+$01{:}52 \ \text {P.M}$
 
 </div>
 </div>
@@ -12388,10 +12273,7 @@ $75 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 <li>
 talgebra
@@ -15140,9 +15022,6 @@ $98 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -15189,12 +15068,6 @@ $536$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tratio
 </li>
@@ -15400,9 +15273,6 @@ $275$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -15610,9 +15480,6 @@ $25$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -15934,13 +15801,7 @@ $13, 4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
+talgebra
 </li>
 </ul>
 </div>
@@ -17018,9 +16879,6 @@ $12221$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -18029,9 +17887,6 @@ $1886$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -18552,9 +18407,6 @@ $72 \div \boxed{4} = 17 - 5 + 6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tmoney
 </li>
@@ -19295,9 +19147,6 @@ $28.4 \ \text {kilometres}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -19459,9 +19308,6 @@ $12$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -20061,9 +19907,6 @@ $7392$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -20656,13 +20499,7 @@ $8 {:} 40 \ \text {a.m.}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -22022,9 +21859,6 @@ $247$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdetailedmultiplication
 </li>
 </ul>
@@ -22424,12 +22258,6 @@ $4.23$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -22599,9 +22427,6 @@ $24 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -23572,12 +23397,6 @@ $231 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tmoney
 </li>
 </ul>
@@ -24137,9 +23956,6 @@ $0.72$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -24813,9 +24629,6 @@ $150 \ \text {cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -25027,13 +24840,7 @@ $8 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentage
+talgebra
 </li>
 </ul>
 </div>

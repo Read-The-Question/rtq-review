@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tarea-all"
 title: "Topic - Area - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -842,7 +842,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>647F4ED9-464B-42F6-AD07-9DEACD207E79</p>
 </div>
@@ -866,16 +866,16 @@ What is the maximum number of stickers I can fit on the wall?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area}  &= \text{length} \times \text{width}$
+$\text{Area} = \text{length} \times \text{width}$
 
 $
 \begin{aligned}
-\text{Number of tiles}  &=  \dfrac {\text{Area of the space}} {\text{Area of sticker}}
-                        &=  \dfrac {55 \times 60} {15 \times 5} \\\\
-                        &=  \dfrac {5 \times 11 \times 15 \times 4} {15 \times 5} \\\\
-                        &=  \dfrac {\cancel {5} \times 11 \times \cancel {15} \times 4} {\cancel {15} \times \cancel {5} } \\\\
-                        &= 11 \times 4 \\\\
-                        &= 44
+\text{Number of stickers}  &= \dfrac {\text{Area of the space}} {\text{Area of sticker}}
+                           &= \dfrac {55 \times 60} {15 \times 5} \\\\
+                           &= \dfrac {5 \times 11 \times 15 \times 4} {15 \times 5} \\\\
+                           &= \dfrac {\cancel {5} \times 11 \times \cancel {15} \times 4} {\cancel {15} \times \cancel {5} } \\\\
+                           &= 11 \times 4 \\\\
+                           &= 44
 \end{aligned}
 $
 
@@ -895,7 +895,7 @@ $44$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1525,12 +1525,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
 <li>
 tarea
 </li>
@@ -8259,7 +8253,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>DFB28188-B181-4153-8449-33CBDC8CCDA6</p>
 </div>
@@ -8375,7 +8369,7 @@ $20$
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -8673,12 +8667,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tarea
 </li>
@@ -9044,15 +9032,12 @@ $86 \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A6500005-118B-466A-8D63-6650ABAEA7AA</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tarea
 </li>
@@ -9287,271 +9272,7 @@ $\pounds 360$
 <p>highgate-school--11-plus--maths--9999--sample-paper-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>B40860F6-0FC7-4F0B-93A7-AC3DEC65D88C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-talgebra
-</li>
-<li>
-tarea
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Tim is going paintballing. Entry into paintballing costs $\pounds 23$, but then you also have to pay $\pounds 6$ per $100$ paintballs that you use.
-
-Tim spent $\pounds 65$ in total. How many paintballs did he use?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Entry cost         = $\pounds 23
-Total cost         = $\pounds 65
-Cost of paintballs = Entry cost - Total cost
-Cost of paintballs = $\pounds 42
-
-100 paintballs     : $\pounds 6
-??? paintballs     : $\pounds 42
-100 x 7 paintballs : $\pounds 6 x 7
-700 paintballs     : $\pounds 42
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-700
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Janice is running a bath. She  mixes hot water with cold water to make sure the temperature is just right.
-
-She uses $5$ times more hot water than cold water. Janice's bath holds $90 \ \text{litres}$ of water in total. 
-How much hot water does she use?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let c represent cold water.
-
-Cold water  = c
-Hot water   = 5 x c
-Hot water   = 5c 
-Total water = $90 \ \text{l}$ 
-
-Total water = 5c + c
-            = 6c
-
-6c = $90 \ \text{l}$
-c  = $15 \ \text{l}$
-5c = $75 \ \text{l}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-75
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Bob the Builder is filling a hole with a mixture of gravel and sand.
-$234 \ \text{kg}$ of sand are needed to make $400 \ \text{kg}$ of the mixture.
-
-Bob makes $1000 \ \text{kg}$ of the mixture.
-
-How much **gravel** does Bob need?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$234 \ \text{kg}$ sand + gravel = $400 \ \text{kg}$ total mixture
-
-400 - $234 \ \text{kg}$ = $166 \ \text{kg}$ gravel
-
-$166 \ \text{kg}$ gravel        : $400 \ \text{kg}$ total mixture
-???kg gravel        : $1000 \ \text{kg}$ total mixture
-$166 \ \text{kg}$ / 400         : $400 \ \text{kg}$ / 400 
-$166 \ \text{kg}$ / 400 x 1000  : $400 \ \text{kg}$ / 400 x 1000 
-$415 \ \text{kg}$ gravel        : $1000 \ \text{kg}$ total mixture
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$415 \ \text{kg}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In the picture below, rectangle $A$ has an area  of $70 \ \text{cm}^2$, and rectangle $B$ has an area of $63 \ \text{cm}^2$. 
-The side lengths of the rectangles are whole numbers.
-
-The sides labelled $X$ and $Y$ are both longer than $1 \ \text{cm}$.
-
-![missing image](/papers/missing_image.svg)
-
-Find the lengths of the sides labelled $X$ and $Y$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Victoria the vet is weighing her pets.
-
-Her rabbit and her cat together weigh $10 \ \text{kg}$.
-
-Her cat and dog together weigh $24 \ \text{kg}$.
-
-Her dog and rabbit together weigh $20 \ \text{kg}$.
-
-How much do all $3$ of her pets weigh when weighed together?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>highgate-school--11-plus--maths--9999--sample-paper-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -12061,7 +11782,7 @@ $24 \text {cm}, \ 30 \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BB81BF83-EBB0-482C-B728-A09A6CBDE335</p>
 </div>
@@ -12115,7 +11836,7 @@ $
 \begin{aligned}
 \text {Area of shaded face} &= \text {length} \times \text {width} \\\\
                             &= 3 \times 6 \\\\
-                            &= 18 \text { cm}^2
+                            &= 18 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -12124,7 +11845,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$18 \text { cm}^2$
+$18 \ \text {cm}^2$
 
 </div>
 </div>
@@ -12150,7 +11871,7 @@ $
 \text {Total surface area} &= 2 \times \text {length} \times \text {width} + 2 \times \text {length} \times \text {height} + 2 \times \text {height} \times \text {width} \\\\
                            &= 2 \times 6 \times 10 + 2 \times 6 \times 3 + 2 \times 3 \times 10 \\\\
                            &= 120 + 36 + 60 \\\\
-                           &= 216 \text {cm}^2
+                           &= 216 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -12159,7 +11880,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$216 \text {cm}^2$
+$216 \ \text {cm}^2$
 
 </div>
 </div>
@@ -12171,7 +11892,7 @@ $216 \text {cm}^2$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -13691,15 +13412,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunit
-</li>
 <li>
 tarea
 </li>
@@ -16828,15 +16540,14 @@ Calculate the area of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-as per the question'
+As per the question,
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
 
 $
 \begin{aligned}
-\text{Length of rectangle} &= 12 \ \text{cm} \\\\
-\text{Breadth of rectangle} &= 8 \ \text{cm} \\\\
-\text{Area of rectangle} &= \text{Length} \times \text{Breadth} \\\\
 &= 12 \times 8 \\\\
-&= 96 \ \text{cm}^2 \\\\
+&= 96 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -16918,13 +16629,14 @@ Find the area of the house.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+As per the diagram,
 
 $
 \begin{aligned} 
-\text{The house can be divided into} \  2  \ \text{rectangle} &= 20 \times 7  + 12 \times 11 \\\\
-&= 140 + 132 \\\\
-&= 272 \ \text{m}^2
+\text{The house can be divided into} \  2  \ \text{rectangles} &= 20 \times 7  + (20 - 8) \times (18 - 7) \\\\
+                                                               &= 20 \times 7  + 12 \times 11 \\\\
+                                                               &= 140 + 132 \\\\
+                                                               &= 272 \text{m}^2
 \end{aligned}
 $
 
@@ -16936,7 +16648,7 @@ $
 </div>
 <div class='answer'>
 
-$272 \ \text{m}^2$
+$272 \text{m}^2$
 
 </div>
 </div>
@@ -16963,12 +16675,22 @@ Find the area of the garden.
 <div class='workings'>
 <div class='working'>
 
+Let's  calculate Total area of Garden and house,
+
 $
 \begin{aligned} 
 \text{Area of Garden and house} &= 20 \times 40 \\\\
-&= 800 \ \text{m}^2 \\\\
-\text{Area of Garden} = 800 - 272 \\\\
-&= 528 \ \text{m}^2 \\\\
+                                &= 800 \text{m}^2
+\end{aligned}
+$
+
+Let's  calculate area of Garden,
+
+$
+\begin{aligned} 
+\text{Area(garden)} &= \text{Total area of Garden and house} - \text{Area(house)}  \\\\
+                    &= 800 - 272 \\\\
+                    &= 528 \text{m}^2
 \end{aligned}
 $
 
@@ -16980,7 +16702,7 @@ $
 </div>
 <div class='answer'>
 
-$528  \ \text{m}^2$
+$528 \text{m}^2$
 
 </div>
 </div>
@@ -17030,8 +16752,8 @@ As per the question,
 $
 \begin{aligned}
 \text{Area of the shaded inner square} &= \text{side} \times \text{side} \\\\
-&= 8 \times 8 \\\\
-&= 64 \ \text{cm}^2
+                                       &= 8 \times 8 \\\\
+                                       &= 64 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -17975,12 +17697,6 @@ $44 \text { cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 tarea
 </li>
 </ul>
@@ -18730,16 +18446,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tarea
 </li>
 <li>
 tperimeter
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -20990,7 +20700,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>C93A6248-F4DF-45F2-A0DE-18925C33F3FD</p>
 </div>
@@ -21048,7 +20758,7 @@ $20 \ \text{cm} ^ 2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -23691,7 +23401,7 @@ $\dfrac {1} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
 </div>
@@ -23754,7 +23464,7 @@ $135$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -23784,6 +23494,8 @@ paints. What area is covered with paint?
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question, 
 
 Let's count all the faces of the cube on the exterior. 
 
@@ -23984,6 +23696,8 @@ Work out the length of the perimeter of the rectangle.
 <div class='workings'>
 <div class='working'>
 
+As per the question, 
+
 Let the width of the rectangle in ($\text{cm}$) $= a$
 
 Then, as per the question, the length of the rectangle in ($\text{cm}$) $= a +1$
@@ -24038,7 +23752,7 @@ $34 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B3120C19-2C89-411F-90CE-9EA04D6E4598</p>
 </div>
@@ -24096,12 +23810,12 @@ $48 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B</p>
 </div>
@@ -24162,11 +23876,14 @@ Let's first find the missing edges.
 
 Middle missing edge is $2$ as the parallel edge is $2$
 
-P $= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2$
+$
+\begin{aligned}
+\text {Perimeter} &= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2 \\\\
+                  &= 42 \ \text {cm}
+\end{aligned}
+$
 
-P $= 42 \ \text {cm}$
-
-Perimeter of letter F is $42 \ \text {cm}$
+Perimeter of letter F $= 42 \ \text {cm}$
 
 </div>
 </div>
@@ -24196,17 +23913,16 @@ Find the area of this letter $F$.
 
 "F" is an irregular shape. However, it can be broken up into 3 regular rectangles.
 
-Area of a rectangle $= length \times width$
+Area of a rectangle $= \text {length} \times \text {width}$
 
 $
 \begin{aligned}
 \text {Area} &= \text {area of left rectangle} + \text {area of middle rectangle} + \text {area of top rectangle} \\\\
              &= (13 \times 2) + (2 \times 2) + (4 \times 2) \\\\
              &= 26 + 4 + 8 \\\\
-             &= 38 \ \text {cm} ^ 2 \\\\
+             &= 38 \ \text {cm} ^ 2
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -24225,12 +23941,12 @@ $38 \ \text {cm} ^ 2$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
 </div>
@@ -24314,12 +24030,12 @@ $60 \ \text{cm}^{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>D62B63A1-CA82-4AA9-B4FE-290BB7B57B95</p>
 </div>
@@ -24393,7 +24109,7 @@ $144 \ \text{cm}^{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -25859,6 +25575,69 @@ $40 \ \text{cm}^2$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It costs $\pounds 400$ to carpet a room measuring $2\, metres$ by $3\, metres$. How much would it costto carpet another room measuring $4\, metres$ by $6\, metres$ with the same carpet? 
+
+![missing image](/papers/missing_image.svg)                                                     
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+Cost to carpet a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $\pounds 400$
+
+Area of a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $2 \times 3 = 6 \text{m}^2$
+
+Cost to carpet a room measuring $1\, \text {metres}$ by $1\, \text {metres}$ = $\dfrac{400} {6}$
+
+Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\dfrac{400} {6} \times 4 \times 6$
+
+$
+\begin{aligned}
+&= \dfrac{400} {\cancel {6}} \times 4 \times \cancel {6} \\\\\
+&= 400 \times 4 \\\\
+&= \pounds 1600
+\end{aligned}
+$
+
+Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\pounds 1600$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1600$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>857C8851-DFFE-4176-BC5A-986FC02066A9</p>
@@ -26092,7 +25871,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>36E95BDA-CF7B-4EEC-AF73-C18EE5638591</p>
 </div>
@@ -26142,8 +25921,6 @@ $
 \end{aligned}
 $
 
-Number of triangles $= 56$
-
 </div>
 </div>
 <div class='answers'>
@@ -26158,7 +25935,7 @@ $56$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -26245,18 +26022,12 @@ $28 \ \text{m}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>B5F661C5-EDE9-4D72-925A-85A6F3D58E56</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tarea
 </li>
@@ -26278,12 +26049,12 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Area of gravel path}  &= \text{Area} - \text{Area of grass lawn}
+\text{Area of gravel path}  &= \text{Area} - \text{Area of grass lawn} \\\\
                             &= 8 \times 6 - (8 - 2 \times 0.5) \times (6 - 2 \times 0.5) \\\\
                             &= 48 - (8 - 1) \times (6 - 1) \\\\
                             &= 48 - 7 \times 5 \\\\
                             &= 48 - 35 \\\\
-\text{Area of gravel path}  &= 13 \text{m}^2
+                            &= 13 \ \text{m}^2
 \end{aligned}
 $
 
@@ -26309,7 +26080,7 @@ $\pounds 74.1$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>

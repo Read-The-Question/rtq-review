@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -116,9 +116,6 @@ $2745$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -1548,13 +1545,10 @@ $\text {Prime numbers}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
 talgebra
+</li>
+<li>
+tratio
 </li>
 </ul>
 </div>
@@ -1899,10 +1893,7 @@ $26$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+tratio
 </li>
 </ul>
 </div>
@@ -2317,15 +2308,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -2372,14 +2360,14 @@ Write the time her clock actually shows, using the $12$-hour clock.
 <div class='workings'>
 <div class='working'>
 
-$1{:}41$
+$1{:}41 \ \text {p.m}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1{:}41$
+$1{:}41 \ \text {p.m}$
 
 </div>
 </div>
@@ -2506,12 +2494,12 @@ $
 \begin{aligned}
 \text {They remained silent for}     &= \text {Holly's silence time} + \text {Rebecca's silence time} + \text {Stacey's silence time} \\\\
                                      &= (16{:}29 - 15{:}00) + (17{:}08 - 15{:}00) + (16{:}23 - 15{:}00) \\\\
-                                     &= 1 \ \text{hour} \ 29 \ \text{minutes} + 2 \ \text{hour} \ 8 \ \text{minutes} + 1 \ \text{hour} \ 23 \ \text{minutes} \\\\
-                                     &= 1 \times 60 \ \text{minutes} + 29 \ \text{minutes} + 2 \times 60 \ \text{minutes} + 8 \ \text{minutes} + 1 \times 60 \ \text{minutes} + 23 \ \text{minutes} \\\\
+                                     &= 1 \ \text {hour} \ 29 \ \text {minutes} + 2 \ \text {hour} \ 8 \ \text {minutes} + 1 \ \text {hour} \ 23 \ \text {minutes} \\\\
+                                     &= 1 \times 60 \ \text {minutes} + 29 \ \text {minutes} + 2 \times 60 \ \text {minutes} + 8 \ \text {minutes} + 1 \times 60 \ \text {minutes} + 23 \ \text {minutes} \\\\
                                      &= 60 + 29 + 120 + 8 + 60 + 23 \\\\
-                                     &= 300 \ \text{minutes} \\\\
+                                     &= 300 \ \text {minutes} \\\\
 \text {Total money raised}           &= 300 \times 10 \\\\
-                                     &= 3000 \text {pence}
+                                     &= 3000 \ \text {pence}
 \end{aligned}
 $
 
@@ -2520,7 +2508,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3000 \text {pence}$
+$3000 \ \text {pence}$
 
 </div>
 </div>
@@ -2535,7 +2523,7 @@ $3000 \text {pence}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3131,12 +3119,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tstatistics
 </li>

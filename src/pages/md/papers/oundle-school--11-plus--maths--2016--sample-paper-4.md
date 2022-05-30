@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-4"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 4"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -163,7 +163,7 @@ There are $0.91\ \text{metres}$ in $1  \ \text{yard}$. How many metres are there
 $
 \begin{aligned}
 \text{Total yards} &= 0.075 \times 0.91 \\\\
-                   &= 0.06825 \ \text{yards}
+                   &= 0.06825 \ \text{metres}
 \end{aligned}
 $
 
@@ -172,7 +172,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.06825 \ \text{yards}$
+$0.06825 \ \text{metres}$
 
 </div>
 </div>
@@ -272,7 +272,7 @@ $
                             &= \dfrac {84} {100} \times 730 \\\\
                             &= \dfrac {84 \times 730} {100} \\\\
                             &= \dfrac {61320} {100} \\\\
-                            &= 613.2 \\\\
+                            &= 613.2
 \end{aligned}
 $
 
@@ -506,7 +506,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>28FC31CE-4F0F-40E8-993C-6AB248B233EF</p>
 </div>
@@ -651,7 +651,7 @@ $3$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -713,7 +713,7 @@ $65$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3A0149EE-424F-4F81-9623-9D7932C23AE0</p>
 </div>
@@ -926,7 +926,7 @@ $16.25$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -992,16 +992,7 @@ $1$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdate
-</li>
-<li>
 tmoney
-</li>
-<li>
-testimate
 </li>
 </ul>
 </div>

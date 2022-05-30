@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ks-amber"
 title: "Owner - Kriti Sharma - Amber"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -193,9 +193,6 @@ $37 , \ 45$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -567,19 +564,7 @@ $51643$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tmoney
-</li>
-<li>
-tstatistics
-</li>
-<li>
-tpercentageadvance
 </li>
 </ul>
 </div>

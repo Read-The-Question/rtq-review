@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 2"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -116,9 +116,6 @@ $1686$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdetailedmultiplication
 </li>
@@ -266,7 +263,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>D051087C-D302-45A1-8E7F-00AC09D3B57D</p>
 </div>
@@ -293,10 +290,10 @@ The next number is calculated by multiplying $2$ to the difference. Hence, the s
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+6)} } 
-&&  \footnotesize {\maroonC {(+12)} }  
-&&  \footnotesize {\maroonC {(+24)} }   
-&&  \footnotesize {\maroonC {(+48)} }   
+&   \footnotesize {\maroonC {(+6)} }
+&&  \footnotesize {\maroonC {(+12)} }
+&&  \footnotesize {\maroonC {(+24)} }
+&&  \footnotesize {\maroonC {(+48)} }
 &&  \footnotesize {\maroonC {(+96)} }  \\
 5,  &&   11,  &&  23,  &&   47, && \ldots, && \ldots
 \end{matrix}
@@ -325,7 +322,7 @@ $95, 191$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2399,13 +2396,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunit
+tsimpleword
 </li>
 </ul>
 </div>

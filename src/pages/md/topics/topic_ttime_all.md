@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-all"
 title: "Topic - Time - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -37,7 +37,7 @@ $
 \begin{aligned}
 \text{Time left}              &= 10 \ \text{am} - 8{:}15 \ \text{am} \\\\
                               &= 1 \ \text{hour} \ 45 \ \text{minutes}   \\\\
-                              &= 1 \times 60 + 45  \ \text{minutes} \\\\
+                              &= 1 \times 60 \ \text{minutes} + 45  \ \text{minutes} \\\\
                               &= 60 + 45  \ \text{minutes} \\\\
                               &= 105  \ \text{minutes}
 \end{aligned}
@@ -62,20 +62,14 @@ $105  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>D8CD5DBE-7A2A-47CB-9D63-90512FB0BB7B</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -174,12 +168,12 @@ $\pounds 14.40$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>DDD0AC6B-3CD4-48A3-A86A-6AEE1949B832</p>
 </div>
@@ -230,7 +224,7 @@ $140  \ \text{minutes}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -426,7 +420,7 @@ $155 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E910C2F9-6456-4BBC-AFDD-535BDC142506</p>
 </div>
@@ -453,7 +447,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Arrival Time}  &= 8 {:} 05 - 12 \text{ minutes} \\\\
+\text{Arrival Time}  &= 8 {:} 05 - 12 \ \text{minutes} \\\\
                      &= 7 {:} 58
 \end{aligned}
 $
@@ -463,7 +457,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7 : 58$
+$7 {:} 58$
 
 </div>
 </div>
@@ -472,7 +466,7 @@ $7 : 58$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -535,7 +529,7 @@ $210 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D1E91C2C-7808-4EE0-BABC-FC7615F5E3D4</p>
 </div>
@@ -567,8 +561,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Difference}   &= 13{:}21 - 9{:}34 \\\\
-                   &= 4 \text{ hours} \ 47 \text{ minutes}
+\text {Difference}   &= 13{:}21 - 9{:}34 \\\\
+                     &= 4 \ \text {hours} \ 47 \ \text {minutes}
 \end{aligned}
 $
 
@@ -577,7 +571,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$ 4 \text{ hours} \ 47 \text{ minutes}$
+$ 4 \ \text{hours} \ 47 \ \text {minutes}$
 
 </div>
 </div>
@@ -586,12 +580,12 @@ $ 4 \text{ hours} \ 47 \text{ minutes}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>7CFBB3E2-4126-48CA-A265-D062FE8189AE</p>
 </div>
@@ -602,6 +596,9 @@ tunassigned
 </li>
 <li>
 ttime
+</li>
+<li>
+tcircle
 </li>
 </ul>
 </div>
@@ -623,12 +620,12 @@ How many seconds are there in four minutes?
 <div class='workings'>
 <div class='working'>
 
-1 minute $= 60 seconds
+1 minute $= 60$ seconds
 
 $
 \begin{aligned}
 &= 4 \times 60 \\\\
-&= 240 \ \text{seconds}
+&= 240 \ \text {seconds}
 \end{aligned}
 $
 
@@ -636,11 +633,11 @@ $
 </div>
 <div class='answers'>
 <div class='option'>
-<p>c</p>
+<p>D</p>
 </div>
 <div class='answer'>
 
-$4, 60, 460, 240, 3600$
+$240$
 
 </div>
 </div>
@@ -649,7 +646,7 @@ $4, 60, 460, 240, 3600$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1869,16 +1866,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
-</li>
-<li>
-tinfer
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -2618,7 +2606,7 @@ $27 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>A7936BDD-9D0B-4DE1-9D29-9396E4564A70</p>
 </div>
@@ -2642,11 +2630,11 @@ How many $\text{minutes}$ are there between $9.23\ \text{am}$ and $1.06\ \text{p
 
 $
 \begin{aligned}
-&=   9{:}23 \text{ am}  - 1{:}06 \text{ pm} \\\\
-&=   4 \text{ hours} \43 \text{ minutes} \\\\
-&=   4 \times 60   +  43 \\\\
-&=   240 + 43 \\\\
-&=   283 \text{ minutes}
+&= 9{:}23 \text {am}  - 1{:}06 \text {pm} \\\\
+&= 4 \ \text {hours} \ \ 43 \ \text {minutes} \\\\
+&= 4 \times 60 + 43 \\\\
+&= 240 + 43 \\\\
+&= 283 \text {minutes}
 \end{aligned}
 $
 
@@ -2655,7 +2643,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$283 \text{ minutes}$
+$283 \text {minutes}$
 
 </div>
 </div>
@@ -2664,7 +2652,7 @@ $283 \text{ minutes}$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -5568,7 +5556,7 @@ $2 \ \text{h} \ 25 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>2AD0DE35-98B6-4AE3-A7ED-E6A0CF80546F</p>
 </div>
@@ -5615,7 +5603,7 @@ $2.10 \ \text{pm}$
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -8927,7 +8915,7 @@ $48000 \ \text {times per minute}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6</p>
 </div>
@@ -9045,12 +9033,12 @@ $10$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A665B0B4-EBC8-4304-BDFA-28CF12D417AD</p>
 </div>
@@ -9122,14 +9110,19 @@ How many minutes should it take the train to travel from Wolverhampton to Milton
 <div class='workings'>
 <div class='working'>
 
-$1 \text { hour } 30 \text { minutes}$
+$
+\begin{aligned}
+\text{Time taken} &= 10{:}10 - 8{:}40 \\\\
+                  &= 1 \ \text {hour} \ 30 \ \text {minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \text { hour } 30 \text { minutes}$
+$1 \ \text {hour} \ 30 \ \text {minutes}$
 
 </div>
 </div>
@@ -9150,14 +9143,19 @@ If the train is $35 \ \text{minutes}$ late leaving Crewe, what time should it ar
 <div class='workings'>
 <div class='working'>
 
-$11:20$
+$
+\begin{aligned}
+\text{Arriving time} &= 10{:}45 + 35 \ \text{minutes} \\\\
+                     &= 11{:}20
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$11:20$
+$11{:}20$
 
 </div>
 </div>
@@ -9169,12 +9167,12 @@ $11:20$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>12BD4A22-072D-4543-95F1-81147B89584D</p>
 </div>
@@ -9288,7 +9286,7 @@ $- 18 \degree C$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -9887,7 +9885,7 @@ $576 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_g1 question'>
 <div class='uuid'>
 <p>3568C8D0-C035-4738-8BE0-B0BC876E29B4</p>
 </div>
@@ -9934,7 +9932,7 @@ $8{:}37 \text{am}$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -10887,11 +10885,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Film ended}   &= 11{:}55 \ \text{A.M} + 177 minutes \\\\
-                    &= 11{:}55 + 2 \ \text {hours} 57 \ \text {minutes} \\\\
-                    &= 01{:}55 + 5 + 2 + 50 \\\\
-                    &= 02{:}00 + 52 \\\\
-                    &= 02{:}52 \ \text {P.M.}
+\text{Film ended}   &= 11{:}55 \ \text{A.M} + 117 minutes \\\\
+                    &= 11{:}55 + 1 \ \text {hours} \ 57 \ \text {minutes} \\\\
+                    &= 12{:}55 + 57 \ \text{minutes} \\\\
+                    &= 01{:}52 \ \text {P.M}
 \end{aligned}
 $
 
@@ -10900,7 +10897,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2{:}52 \ \text {P.M}$
+$01{:}52 \ \text {P.M}$
 
 </div>
 </div>
@@ -13065,9 +13062,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
 </li>
 <li>
@@ -14676,18 +14670,16 @@ What time do I get to school?
 <div class='workings'>
 <div class='working'>
 
-Time of leaving home $= 7.35 \ \text{am}$
-
-Time take to go to school  $= 42 \ \text{minutes}$
+As per the question,
 
 $
 \begin{aligned}
-\text{Time of leaving home} &= 7.35 \ \text{am} \\\\
-\text{Time take to go to school}  &= 42 \ \text{minutes} \\\\
-\text{reached to school} &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
-&=  7 \ \text{hr} \ 60 \ \text{mins} + 17 \ \text{mins} \\\\
-&= 8 \ \text{hr} +  17 \ \text{mins} \\\\
-&= 8.17 \ \text{am}
+\text{Time I reach school} &= \text{Time I leave home} + \text{Time takes to reach school} \\\\
+                           &= 7{:}35 + 42 \ \text{mins} \\\\
+                           &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
+                           &= 7 \ \text{hr} \ 60 \ \text{mins} + 17 \ \text{mins} \\\\
+                           &= 8 \ \text{hr} +  17 \ \text{mins} \\\\
+                           &= 8{:}17 \ \text{am}
 \end{aligned}
 $
 
@@ -14699,7 +14691,7 @@ $
 </div>
 <div class='answer'>
 
-$8.17 \ \text{am}$
+$8{:}17 \ \text{am}$
 
 </div>
 </div>
@@ -15004,59 +14996,6 @@ $336$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>C48AA42C-D9F5-4E65-943B-3DCB0718938D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Rob works $40 \ \text{hours}$ a week and earns $\pounds 440. What is his hourly rate of pay?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Rob's hourly pay}    &= \dfrac {440} {40} \\\\
-                            &= \dfrac {40 \times 11} {40} \\\\
-                            &= \dfrac {\cancel {40} \times 11} {\cancel {40}} \\\\
-                            &= \pounds 11
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 11$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
 <p>6247B84C-67BA-4837-942E-898B6625652A</p>
 </div>
 <div class='topics'>
@@ -15149,21 +15088,20 @@ She leaves the UK at the same time that John makes his phone call. Given that th
 
 $
 \begin{aligned}
-& = 23{:}00 + 27 \ \text {hours} \\\\
-& = 3{:}00
+& = 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
+& = 23{:}00 + 24 \ \text {hours} + 14 \ \text {hours} \\\\
+& = 13{:}00
 \end{aligned}
 $
 
-Penny arrives in Sydney at $= 3{:}00$ and on $1 \text {st February}$. 
-
-
+Penny arrives in Sydney at $= 13{:}00$ and on $1 \text {st February}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3{:}00$
+$13{:}00$
 
 </div>
 <div class='answer'>
@@ -15180,7 +15118,7 @@ $1 \text{st February}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -18064,7 +18002,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>011051B7-79BC-4F3A-B3E5-9FEA0D775E51</p>
 </div>
@@ -18169,7 +18107,7 @@ $8 \ \text{hours} \ 15 \ \text{minutes}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -18223,7 +18161,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>5298C101-6575-44AF-907F-35B7EAF2FC14</p>
 </div>
@@ -18320,7 +18258,7 @@ $6{:}00 \ \text{pm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -18587,122 +18525,10 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>8B09B9E5-3BC0-4EDD-95A9-6A95FC789D24</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-ttime
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Peter delivers newspapers on each of $6$ days in a week. 
-The deliveries take $55 \ \text{minutes}$ each day.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many minutes does he take in total?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-He is paid $\pounds 3.60$ per hour. How much does he earn in one week?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>0D550CC6-50D9-46B0-B420-4CDCA6B61FC4</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -18974,7 +18800,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
 </div>
@@ -19079,7 +18905,7 @@ $10 \ \text{hrs} \ 48 \ \text{mins}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -19969,15 +19795,12 @@ $5 {:} 33 \ \text {p.m.}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -20024,14 +19847,14 @@ Write the time her clock actually shows, using the $12$-hour clock.
 <div class='workings'>
 <div class='working'>
 
-$1{:}41$
+$1{:}41 \ \text {p.m}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1{:}41$
+$1{:}41 \ \text {p.m}$
 
 </div>
 </div>
@@ -20158,12 +19981,12 @@ $
 \begin{aligned}
 \text {They remained silent for}     &= \text {Holly's silence time} + \text {Rebecca's silence time} + \text {Stacey's silence time} \\\\
                                      &= (16{:}29 - 15{:}00) + (17{:}08 - 15{:}00) + (16{:}23 - 15{:}00) \\\\
-                                     &= 1 \ \text{hour} \ 29 \ \text{minutes} + 2 \ \text{hour} \ 8 \ \text{minutes} + 1 \ \text{hour} \ 23 \ \text{minutes} \\\\
-                                     &= 1 \times 60 \ \text{minutes} + 29 \ \text{minutes} + 2 \times 60 \ \text{minutes} + 8 \ \text{minutes} + 1 \times 60 \ \text{minutes} + 23 \ \text{minutes} \\\\
+                                     &= 1 \ \text {hour} \ 29 \ \text {minutes} + 2 \ \text {hour} \ 8 \ \text {minutes} + 1 \ \text {hour} \ 23 \ \text {minutes} \\\\
+                                     &= 1 \times 60 \ \text {minutes} + 29 \ \text {minutes} + 2 \times 60 \ \text {minutes} + 8 \ \text {minutes} + 1 \times 60 \ \text {minutes} + 23 \ \text {minutes} \\\\
                                      &= 60 + 29 + 120 + 8 + 60 + 23 \\\\
-                                     &= 300 \ \text{minutes} \\\\
+                                     &= 300 \ \text {minutes} \\\\
 \text {Total money raised}           &= 300 \times 10 \\\\
-                                     &= 3000 \text {pence}
+                                     &= 3000 \ \text {pence}
 \end{aligned}
 $
 
@@ -20172,7 +19995,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3000 \text {pence}$
+$3000 \ \text {pence}$
 
 </div>
 </div>
@@ -20187,7 +20010,7 @@ $3000 \text {pence}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -21225,6 +21048,8 @@ hours and minutes, how long has she spent watching TV?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 \text{First quiz duration}  &= 7.15 \ \text{pm} - 6.35 \ \text{pm} \\\\
@@ -21407,179 +21232,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>7B47231C-AE16-464C-A041-051D12B3E9AA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-For Ben’s birthday he goes to the cinema. Tickets cost $$\pounds 3.85$ for children and $$\pounds 5.50$ for adults.
-
-In his party there are $4$ children and $2$ adults.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much do the tickets cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Ben’s Mum hands the cashier two $$\pounds 20$ notes for the tickets. How much change does she receive?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The film starts at $15{:}55$ and finishes at $5.35 \ \text{pm}$. How long does it last?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -22563,16 +22215,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
 </li>
 <li>
 tmoney
-</li>
-<li>
-ttable
 </li>
 </ul>
 </div>

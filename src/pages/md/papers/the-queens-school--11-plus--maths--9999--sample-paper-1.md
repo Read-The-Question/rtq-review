@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -875,10 +875,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tcoin
+tmoney
 </li>
 </ul>
 </div>
@@ -1192,7 +1189,7 @@ TODOANSWER
 tnumber
 </li>
 <li>
-tcircleanswer
+tcircle
 </li>
 </ul>
 </div>
@@ -1223,6 +1220,8 @@ $
 &= \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}, \quad \dfrac {5} {7}, \quad \dfrac {7} {8}, \quad \boxed {\dfrac {8} {9}}
 \end{aligned}
 $
+
+The fraction closest to $1$ is $= \dfrac {8} {9}$
 
 </div>
 </div>
@@ -1455,20 +1454,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>43EF5D79-3FD1-422A-BD9F-D7DC37283EA9</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmoney
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -1486,7 +1479,7 @@ How much change did she get from $$\pounds 5$?
 <div class='workings'>
 <div class='working'>
 
-Let the change Alison recieved = $a \text{p}$
+Let the change Alison recieved $= a$
 
 $\pounds 5$ = $5 \times 100 \text{p}$ = $500 \text{p}$
 
@@ -1494,7 +1487,7 @@ As per the question,
 
 $
 \begin{aligned}
-2 \times 53 \text{p} + 3 \times 27 \text{p} + 124 \text{p} + a \text{p}     &= 500 \text{p} \\\\
+2 \times 53 \text{p} + 3 \times 27 \text{p} + 124 \text{p} + a              &= 500 \text{p} \\\\
 106 + 81 + 124 + a                                                          &= 500 \\\\
 311 + a                                                                     &= 500 \\\\
 a                                                                           &= 500 - 311 \\\\
@@ -1502,7 +1495,7 @@ a                                                                           &= 1
 \end{aligned}
 $
 
-Change Alison recieved = $189 \text{p}$
+Change Alison recieved $= 189 \text{p}$
 
 </div>
 </div>
@@ -1518,7 +1511,7 @@ $189 \text{p}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1697,13 +1690,10 @@ $8.4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tmoney
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -2013,13 +2003,10 @@ $40 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tratio
 </li>
 <li>
-tmoney
-</li>
-<li>
-talgebra
+tarea
 </li>
 </ul>
 </div>
@@ -2079,13 +2066,7 @@ $\pounds 1600$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tratio
+talgebra
 </li>
 </ul>
 </div>
@@ -2300,7 +2281,7 @@ $
 d \times d + 3      &= 19 \\\\
 d \times d          &= 19 - 3 \\\\
 d^2                 &= 16 \\\\
-d                   &= \sqrt {4} \\\\
+d                   &= \sqrt {16} \\\\
 d                   &= 4
 \end{aligned}
 $

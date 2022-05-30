@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-all"
 title: "Topic - Temperature - All"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1128,7 +1128,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>12BD4A22-072D-4543-95F1-81147B89584D</p>
 </div>
@@ -1242,7 +1242,7 @@ $- 18 \degree C$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1388,20 +1388,14 @@ $-13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>C6834D71-AFD9-48CA-8FE5-4FD0495C3D22</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttemperature
-</li>
-<li>
-tmoney
 </li>
 </ul>
 </div>
@@ -1496,7 +1490,7 @@ $\pounds 110$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

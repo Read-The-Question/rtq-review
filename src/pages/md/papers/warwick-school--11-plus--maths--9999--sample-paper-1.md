@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -830,10 +830,7 @@ $3 \ratio 7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
+talgebra
 </li>
 </ul>
 </div>
@@ -1212,7 +1209,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>36E95BDA-CF7B-4EEC-AF73-C18EE5638591</p>
 </div>
@@ -1262,8 +1259,6 @@ $
 \end{aligned}
 $
 
-Number of triangles $= 56$
-
 </div>
 </div>
 <div class='answers'>
@@ -1278,7 +1273,7 @@ $56$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2217,20 +2212,14 @@ $67 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>FC3ABA33-5D43-482E-9D5F-4D8124DCB134</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tfraction
+talgebra
 </li>
 </ul>
 </div>
@@ -2244,7 +2233,8 @@ Edward has a sum of money. He gives one-third to his son George and threefifths 
 
 Let the money Edward has = $\pounds a$
 
-As per the question, 
+As per the question,
+
 $
 \begin{aligned}
 \dfrac {1} {3} \times a             &= \pounds 15 \\\\
@@ -2279,7 +2269,7 @@ $\pounds 27$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2929,18 +2919,12 @@ $2n + 7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>B5F661C5-EDE9-4D72-925A-85A6F3D58E56</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 tarea
 </li>
@@ -2962,12 +2946,12 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Area of gravel path}  &= \text{Area} - \text{Area of grass lawn}
+\text{Area of gravel path}  &= \text{Area} - \text{Area of grass lawn} \\\\
                             &= 8 \times 6 - (8 - 2 \times 0.5) \times (6 - 2 \times 0.5) \\\\
                             &= 48 - (8 - 1) \times (6 - 1) \\\\
                             &= 48 - 7 \times 5 \\\\
                             &= 48 - 35 \\\\
-\text{Area of gravel path}  &= 13 \text{m}^2
+                            &= 13 \ \text{m}^2
 \end{aligned}
 $
 
@@ -2993,7 +2977,7 @@ $\pounds 74.1$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -3004,12 +2988,6 @@ $\pounds 74.1$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
 <li>
 talgebra
 </li>
@@ -3401,13 +3379,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tpercentageadvance
+talgebra
 </li>
 </ul>
 </div>

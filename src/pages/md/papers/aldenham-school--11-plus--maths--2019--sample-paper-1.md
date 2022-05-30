@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-2019-sample-paper-1"
 title: "Aldenham School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-29 22:47:20
+date: 2022-05-30 17:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -67,10 +67,10 @@ What is the total cost for all four of the family to go to the concert?
 
 $
 \begin{aligned}
-\text{Total cost} &= 2 \times \text{Adult} + 2 \times \text{Child}  \\\\
-&= 2 \times 45 + 2 \times 30.5 \\\\
-&= 90 + 61 \\\\
-&= \pounds 151 
+\text{Total cost} &= \text{cost of} \  2  \ \text{Adults} + \text{Cost of} \  2 \ \text{children } \\\\
+                  &= 2 \times 45 + 2 \times 30.5 \\\\
+                  &= 90 + 61 \\\\
+                  &= \pounds 151 
 \end{aligned}
 $
 
@@ -105,8 +105,8 @@ How much would this ticket save the family?
 $
 \begin{aligned}
 \text{Saving} &= \text{Full price} - \text{Special Offer}  \\\\
-&= 151 - 125 \\\\
-&= \pounds 26 
+              &= 151 - 125 \\\\
+              &= \pounds 26 
 \end{aligned}
 $
 
@@ -171,7 +171,7 @@ $7040$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>6A4D3A4B-ED56-4425-A042-95E7B753ADB3</p>
 </div>
@@ -218,7 +218,7 @@ $1953$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -268,15 +268,15 @@ $60 - \ldots = 43$
 <div class='workings'>
 <div class='working'>
 
-$60 - \ldots = 43$
-
 Let the missing number be 'a'
 
-$60 - a = 43$
-
-$60 - 43 = a$
-
-$a = 17$
+$
+\begin{aligned}
+60 - a  &= 43 \\\\
+60 - 43 &= a \\\\
+a       &= 17
+\end{aligned}
+$
 
 $60 - \underline{\green{17}} = 43$
 
@@ -306,19 +306,17 @@ $\ldots \times 40 = 280$
 <div class='workings'>
 <div class='working'>
 
-$\ldots \times 40 = 280$
-
 Let the missing number be 'a'
 
-$a \times 40 = 280$
-
-$a = \dfrac{280}{40}$
-
-$a = \dfrac{7 \times 40}{40}$
-
-$a = \dfrac{7 \times \cancel{40}}{\cancel{40}}$
-
-$a = 7$
+$
+\begin{aligned}
+a \times 40 &= 280 \\\\
+a           &= \dfrac{280}{40} \\\\
+a           &= \dfrac{7 \times 40}{40} \\\\
+a           &= \dfrac{7 \times \cancel{40}}{\cancel{40}} \\\\
+a           &= 7 
+\end{aligned}
+$
 
 $\underline{\green{7}} \times 40 = 280$
 
@@ -349,15 +347,15 @@ $\ldots \div 30 = 5$
 <div class='workings'>
 <div class='working'>
 
-$\ldots \div 30 = 5$
-
 Let the missing number be 'a'
 
-$a \div 30 = 5$
-
-$a = 5 \times 30$
-
-$a = 150$
+$
+\begin{aligned}
+a \div 30 &= 5 \\\\
+a         &= 5 \times 30 \\\\
+a         &= 150
+\end{aligned}
+$
 
 $\underline{\green{150}} \div 30 = 5$
 
@@ -387,15 +385,15 @@ $-8 + \ldots = -1$
 <div class='workings'>
 <div class='working'>
 
-$-8 + \ldots = -1$
-
 Let the missing number be 'a'
 
-$-8 + a = -1$
-
-$a = -1 + 8$
-
-$a = 7$
+$
+\begin{aligned}
+-8 + a &= -1 \\\\
+a      &= -1 + 8 \\\\
+a      &= 7
+\end{aligned}
+$
 
 $-8 + \underline{\green{7}} = -1$
 
@@ -465,8 +463,6 @@ $100 \times 2.8 = \ldots$
 </div>
 <div class='workings'>
 <div class='working'>
-
-
 
 $100 \times 2.8 = \underline{\green{280}}$
 
@@ -886,6 +882,7 @@ $2,  \quad 5,  \quad 10,  \quad 17,  \quad \ldots,  \quad 37$
 Let's find the difference between the consecutive terms of the sequence.
 
 The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
+
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(3)}} 
@@ -893,7 +890,7 @@ $
 &&  \footnotesize{\maroonC{(7)}}   
 &&  \footnotesize{\maroonC{(9)}}   
 &&  \footnotesize{\maroonC{(11)}}  \\
-2,  &&    5,  &&  10,  &&   17,  &&  \ldots && 37
+2,  &&    5,  &&  10,  &&   17,  &&  \ldots, && 37
 \end{matrix}
 $
 
@@ -958,7 +955,7 @@ $
 \begin{aligned}
 \text{Time left}              &= 10 \ \text{am} - 8{:}15 \ \text{am} \\\\
                               &= 1 \ \text{hour} \ 45 \ \text{minutes}   \\\\
-                              &= 1 \times 60 + 45  \ \text{minutes} \\\\
+                              &= 1 \times 60 \ \text{minutes} + 45  \ \text{minutes} \\\\
                               &= 60 + 45  \ \text{minutes} \\\\
                               &= 105  \ \text{minutes}
 \end{aligned}
@@ -1015,14 +1012,14 @@ As we know, the sum of angles in a triangle is $180 \degree$.
 
 $
 \begin{aligned}
-a + a + 96      &= 180 \degree  \\\\
-2a + 96         &= 180  \\\\
-2a              &= 180 - 96  \\\\
-2a              &= 84  \\\\
-a               &= \dfrac {84} {2}  \\\\
-a               &= \dfrac {42 \times 2} {2}  \\\\
-a               &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
-a               &= 42 \degree
+a \degree + a \degree + 96 \degree      &= 180 \degree  \\\\
+2a + 96                                 &= 180  \\\\
+2a                                      &= 180 - 96  \\\\
+2a                                      &= 84  \\\\
+a                                       &= \dfrac {84} {2}  \\\\
+a                                       &= \dfrac {42 \times 2} {2}  \\\\
+a                                       &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
+a                                       &= 42 \degree
 \end{aligned}
 $
 
@@ -1368,7 +1365,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>A0407EE1-F5C4-4644-87E4-39782B777B4E</p>
 </div>
@@ -1431,12 +1428,12 @@ $21$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>CE466DC8-BA86-4871-AE14-6A9661BFBE5C</p>
 </div>
@@ -1578,7 +1575,7 @@ $12$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -1621,7 +1618,7 @@ Let's put them in ascending order now.
 $
 \begin{aligned}
 &= \dfrac{65}{100}< \quad \dfrac{70}{100}<  \quad \dfrac{75}{100} \\\\
-&= 65\%< \quad \dfrac{14}{20}< \quad \dfrac{3}{4} 
+&= 65\%<  \quad \dfrac{14}{20}<  \quad \dfrac{3}{4} 
 \end{aligned}
 $
 
@@ -1843,7 +1840,7 @@ Label both vertices with $*$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>46202F60-6AFF-44CC-9683-1646AF85C31F</p>
 </div>
@@ -1892,7 +1889,7 @@ $\pounds  90$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -2086,6 +2083,7 @@ $
 \begin{aligned}
 &= (-4 + 7)^3 \\\\
 &= (3)^3 \\\\
+&= 3 \times 3 \\\\
 &= 27
 \end{aligned}
 $
@@ -2112,15 +2110,12 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>3B389935-2713-4E79-B41A-797356ED47C0</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2232,7 +2227,7 @@ $10$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -2347,11 +2342,11 @@ Work out $\dfrac{2}{5} + \dfrac{3}{8}$
 
 $
 \begin{aligned}
-&= \dfrac{2}{5} + \dfrac{3}{8} \\\\
-&= \dfrac{2 \times 8}{5 \times 8} + \dfrac{3 \times 5}{8 \times 5} \\\\
-&= \dfrac{16}{40} + \dfrac{15}{40} \\\\
-&= \dfrac{16 + 15}{40} \\\\
-&= \dfrac{31}{40}
+&= \dfrac {2} {5} + \dfrac {3} {8} \\\\
+&= \dfrac {2 \times 8} {5 \times 8} + \dfrac {3 \times 5} {8 \times 5} \\\\
+&= \dfrac{ 16} {40} + \dfrac {15} {40} \\\\
+&= \dfrac {16 + 15} {40} \\\\
+&= \dfrac {31} {40}
 \end{aligned}
 $
 
@@ -2383,10 +2378,10 @@ Simplify $\dfrac{12}{60}$
 
 $
 \begin{aligned}
-&= \dfrac{12}{60} \\\\
-&= \dfrac{12}{12 \times 5} \\\\
-&= \dfrac{\cancel{12}}{\cancel{12} \times 5} \\\\
-&= \dfrac{1} {5} 
+&= \dfrac {12} {60} \\\\
+&= \dfrac {12} {12 \times 5} \\\\
+&= \dfrac {\cancel{12}} {\cancel{12} \times 5} \\\\
+&= \dfrac {1} {5} 
 \end{aligned}
 $
 
@@ -2485,16 +2480,7 @@ $2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tmoney
-</li>
-<li>
-tinequality
+torder
 </li>
 </ul>
 </div>

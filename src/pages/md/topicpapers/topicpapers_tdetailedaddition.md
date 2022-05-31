@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedaddition"
 title: "TopicPaper - Detailedaddition"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -569,6 +569,53 @@ $6.919$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g2 question'>
+<div class='uuid'>
+<p>FEB6FF21-DA3C-4EA7-9BFC-D865EE4C110A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $546 + 287$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   5   &   4   &   6 \\
+{}+ &   2   &   8   &   7 \\
+\hline
+    &   8   &   3   &   3
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$833$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tdetailedaddition</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g2</p>
 </div>
 </div>
 </li>
@@ -1441,6 +1488,53 @@ $1130$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g2 question'>
+<div class='uuid'>
+<p>7C019C3E-AD26-40DA-B445-DA91FABB7060</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $572 + 2639$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &       &   5   &   7   &   2 \\
+{}+ &   2   &   6   &   3   &   9 \\
+\hline
+    &   3   &   2   &   1   &   1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3211$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tdetailedaddition</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g2</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nc_g1 question'>
 <div class='uuid'>
 <p>087796C3-8F32-4D8C-888C-47E29D33BAED</p>
@@ -1644,7 +1738,7 @@ $11.021$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
 </div>
@@ -1696,7 +1790,7 @@ $624$
 <p>topicpapers_tdetailedaddition</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -3955,6 +4049,53 @@ $9134$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>19341413-65A3-4BC8-B57B-2F00FE94B081</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $2567 + 824$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   2   &   5   &   6   &   7 \\
+{}+ &       &   8   &   2   &   4 \\
+\hline
+    &   3   &   3   &   9   &   1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3391$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tdetailedaddition</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

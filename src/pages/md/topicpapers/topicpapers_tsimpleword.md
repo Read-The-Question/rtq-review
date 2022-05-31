@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword"
 title: "TopicPaper - Simpleword"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -336,7 +336,7 @@ $\pounds  90$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_red question'>
 <div class='uuid'>
 <p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
 </div>
@@ -385,7 +385,7 @@ $\pounds 57.50$
 <p>topicpapers_tsimpleword</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_red</p>
 </div>
 </div>
 </li>
@@ -1840,7 +1840,7 @@ $600 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E</p>
 </div>
@@ -2120,7 +2120,7 @@ $613$
 <p>topicpapers_tsimpleword</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2525,7 +2525,7 @@ $\pounds 46200$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>4BE31404-8368-4FC0-AD60-34110662E9C4</p>
 </div>
@@ -2569,7 +2569,7 @@ $\pounds 92320$
 <p>topicpapers_tsimpleword</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

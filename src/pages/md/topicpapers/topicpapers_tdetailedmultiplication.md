@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication"
 title: "TopicPaper - Detailedmultiplication"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -37,7 +37,7 @@ Work out $235 \times 68$.
 $
 \begin{array}{cccccccccccccc}
          &      &       &       2       & 3     & 5     \\
-{}\times   &      &     &              & 6     & 8     \\
+ &      &       &     {}\times          & 6     & 8     \\
 \hline 
          &       &  1    &       8       & 8     & 0     \\
          &  1    &  4    &       1       & 0     & 0     \\
@@ -1117,6 +1117,53 @@ $44.22$
 </div>
 <div class='rag'>
 <p>rag_nj_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g2 question'>
+<div class='uuid'>
+<p>7A87870C-E164-4B36-9CBB-AC2494C502C8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $546 \times 4$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+            &    5   &   4   &   6 \\
+{}\times    &        &       &   4 \\
+\hline
+        2   &    1   &   8   &   4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2184$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tdetailedmultiplication</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g2</p>
 </div>
 </div>
 </li>
@@ -2494,6 +2541,56 @@ $4608$
 </div>
 <div class='rag'>
 <p>rag_nm_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g2 question'>
+<div class='uuid'>
+<p>E397ADA6-9AD9-4F8E-BC83-A772525062F7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $893 \times 87$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+           &            &   8   &   9   &   3 \\
+           &   \times   &       &   8   &   7 \\
+\hline
+           &   6        &   2   &   5   &   1 \\
+       7   &   1        &   4   &   4   &   0 \\
+\hline
+       7   &   7        &   6   &   9   &   1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$77691$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tdetailedmultiplication</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g2</p>
 </div>
 </div>
 </li>
@@ -4517,6 +4614,51 @@ $71685$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>D9347C26-F870-4B64-A4DA-BD4DEBB0941E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Multiply $6.4$ by $2.7$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  {6.24} \times {2.7} \\\\
+&=  16.848
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16.848$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tdetailedmultiplication</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>0FCDA851-B2B2-4FFB-A955-50509068409F</p>
@@ -5752,7 +5894,7 @@ $6489$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F2D84620-5FC8-4469-A7DA-4FEFD38284C0</p>
 </div>
@@ -5904,7 +6046,7 @@ $30$
 <p>topicpapers_tdetailedmultiplication</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -6435,6 +6577,53 @@ $2303$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>5F719424-B3ED-46B5-B82A-249942EEFDD3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $578 \times 4$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+            &   5   &   7   &   8 \\
+   \times   &       &       &   4 \\
+\hline
+   2        &   3   &   1   &   2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2312$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tdetailedmultiplication</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

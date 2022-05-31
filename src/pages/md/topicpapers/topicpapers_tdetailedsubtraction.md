@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction"
 title: "TopicPaper - Detailedsubtraction"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -792,6 +792,53 @@ $1.44$
 <li>
 <div class='question_envelope rag_nm_g2 question'>
 <div class='uuid'>
+<p>04D4056B-29EC-445B-A107-DD6BFEDEE894</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $546 - 287$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   5   &   4   &   6 \\
+{}- &   2   &   8   &   7 \\
+\hline
+    &   2   &   5   &   9
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$259$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tdetailedsubtraction</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g2 question'>
+<div class='uuid'>
 <p>A66876D3-CDD6-4440-AF47-2B2BF2AFFA4F</p>
 </div>
 <div class='topics'>
@@ -1520,6 +1567,53 @@ $487$
 </div>
 <div class='rag'>
 <p>rag_nm_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g2 question'>
+<div class='uuid'>
+<p>E427496D-BA02-4978-B12F-F605393AAD5C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $6431 - 729$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   6   &   4   &   3   &   1 \\
+{}- &       &   7   &   2   &   9 \\
+\hline
+    &   5   &   7   &   0   &   2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5702$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tdetailedsubtraction</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g2</p>
 </div>
 </div>
 </li>
@@ -3522,6 +3616,53 @@ $8760$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>216012EB-546B-44EF-A879-DBC7E51CF37C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $8709 - 637$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   8   &   7   &   0   &   9 \\
+{}- &       &   6   &   3   &   7 \\
+\hline
+    &   8   &   0   &   7   &   2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8072$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tdetailedsubtraction</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgeometry"
 title: "TopicPaper - Geometry"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -210,6 +210,139 @@ Label both vertices with $*$.
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>0C657190-6716-4EA4-B662-51AE68C07DC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+An equilateral triangle is divided into smaller equilateral triangles as shown below. State out how many angles of $60\degree$ there 
+are in the diagram.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As shown in the figure,
+
+There are total $8$ triangles.
+
+In equilateral triangles no. of $60 \degree = 3$.
+
+Then,
+
+$
+\begin{aligned}
+&= 3 \times 8 \\\\
+&= 24
+\end{aligned}
+$
+
+Total no. of $60 \degree$ $= 24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The diagram is now squashed to make the top angle $90\degree$, turning all the triangles into right angled isosceles triangles. 
+Calculate how many acute angles there are in the diagram now.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know,
+
+Every right angled isosceles triangle has $2$ acute angles.
+
+And there is total $8$ triangles.
+
+Then,
+
+$
+\begin{aligned}
+&= 2 \times 8 \\\\
+&= 16
+\end{aligned}
+$
+
+Total no. of acute angles $= 16$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tgeometry</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
 </div>
 </div>
 </li>

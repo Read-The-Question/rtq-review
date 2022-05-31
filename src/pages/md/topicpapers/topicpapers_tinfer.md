@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer"
 title: "TopicPaper - Infer"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1575,6 +1575,355 @@ TODOANSWER
 <div class='answer'>
 
 TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tinfer</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>689EE484-9EC6-44EB-9485-1E95D171BEA8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a **prod sequence**, a number in the sequence is the product of some of the previous terms. So in a **$2$ prod sequence** we start with $2$ numbers and then each number that follows after is the product of the previous $2$ numbers.
+
+For example $1, 2, 2, 4, 8\ ...$
+
+Similarly, where we start with the three numbers $1, 2$ and $3$ then a **$3$ prod sequence** would be
+
+$1, 2, 3, 6, 36, 648\ ...$
+
+Fill in the missing numbers in the following sequences
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2$ prod sequence 
+
+$2, \quad 3, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad \text{\textunderscore \textunderscore \textunderscore}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2 \times 3 = 6$
+
+$3 \times 6 = 18$
+
+The $2$ prod sequence is 
+
+$2, \quad 3, \quad \underline {6},  \quad \underline {18}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6, \ 18$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3$ prod sequence 
+
+$2, \quad 3, \quad 3, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad \text{\textunderscore \textunderscore \textunderscore}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$2 \times 3 \times 3 = 18$
+
+
+$3 \times 3  \times 18 = 162$
+
+The $3$ prod sequence is 
+
+
+$2, \quad 3, \quad 3, \quad \underline {18}\underline {162}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18, \ 162$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4$ prod sequence 
+
+$2, \quad 3, \quad 5, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad 210$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let's take the missing number as $x$
+
+$
+\begin{aligned}
+210 &= 2 \times 3 \times 5 \times x \\
+    &= 30 \times x \text {  or,}\\\\
+  x &= \dfrac {210}{30} \\\\
+    &= \dfrac{\cancel {210} \raisebox{0.9em}{7}} {\cancel {30}\raisebox{-0.9em}{1}}\\\\
+  x &= 7
+\end{aligned}
+$
+
+The missing number is $7$
+
+The $4$ prod sequence is 
+
+$2, \quad 3, \quad 5, \quad \underline {7}, \quad 210$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2$ prod sequence
+
+$2, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad 500$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's take the first missing number as $x$
+
+So the $2$ prod sequence will look like,
+
+$2, \quad \underline x, \quad \underline {2 \times x}, \quad \underline {x \times 2 \times x}, \quad 500$
+
+$2, \quad \underline x, \quad \underline {2x}, \quad \underline {2x^2}, \quad 500$
+
+$
+\begin{aligned}
+2x \times 2x \times  2x^2&= 500\\
+2x \times 2x \times x^2 &= 500\\
+4x \times x^2 &= 500 \\
+4x^3 &= 500 \\
+x^3 &= \dfrac {500}{4}  \\\\
+x^3 &= \dfrac {500}{4}  \\
+x^3 &= \dfrac {5 \times 100}{4}  \\
+    &= \dfrac{5 \times {\cancel {100} \raisebox{0.9em}{25}}} {\cancel {4}\raisebox{-0.9em}{1}}\\\\
+    &= 5 \times 25
+    &= 5^3
+  x &=5
+\end{aligned}
+$
+
+$2, \quad 5, \quad \underline {10}, \quad \underline {50}, \quad 500$
+
+
+</div>
+<div class='working'>
+
+
+Let's take missing numbers as $M_1$, $M_2$ and $M_3$
+
+$2, \quad M_1, \quad M_2, \quad M_3, \quad 500$
+
+$
+\begin{aligned}
+M_1 \times M_2 \times M_3 &= \dfrac {500}{2} \\
+M_1 \times M_2 \times M_3 &= 250 \\
+&= 25 \times 10 \\
+&= 5 \times 5 \times 5 \times 2 \\
+\end{aligned}
+$
+
+
+$M_1$ cannot be $2$. It has to be $5$.
+
+Let's substitute, in the sequence assuming $M_1 = 5$
+
+$2, \quad 5, \quad \underline {10}, \quad \underline {50}, \quad 500$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$ then $10$ then $50$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4$ prod sequence 
+
+$2, \quad 2, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad 7, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad 3528$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$2, \quad 2, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad 7, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad 3528$
+
+Let's take the first missing number as $x$
+and second missing number as $y$
+
+So the $4$ prod sequence will look like,
+
+$2, \quad 2, \quad {\underline x}, \quad 7, \quad {\underline y},\quad 3528$
+
+$
+\begin{aligned}
+y &= 2 \times 2 \times \times x \times 7 \\
+3528 &=  2 \times x \times \times 7 \times y \\
+\end{aligned}
+$
+
+Let's substitute $y$ in the above equation. 
+
+$
+\begin{aligned}
+3528 &= 2 \times x \times \times 7 \times (2 \times 2 \times \times x \times 7) \\
+     &= (2 \times  7 \times 2 \times 2 \times \times 7) (x \times x \times) \\
+     &= (2 \times  7 \times 2 \times 2 \times \times 7) (x^2)
+\end{aligned}
+$
+
+Or,
+
+$
+\begin{aligned}
+x^2 &= \dfrac{\cancel {3528} \raisebox{0.9em}{504}} {2 \times {\cancel {7}\raisebox{-0.9em}{1}} \times 2 \times 2 \times \times 7}\\\\
+    &= \dfrac{\cancel {504} \raisebox{0.9em}{72}} {(2 \times \times 2 \times 2) 
+ \times {\cancel {7}\raisebox{-0.9em}{1}}}\\\\ 
+    &= \dfrac{\cancel {72} \raisebox{0.9em}{9}} {{\cancel {8}\raisebox{-0.9em}{1}}}\\\\
+    &= 9 \\
+    &= 3^2 \\
+  x &= 3
+\end{aligned}
+$
+
+Let' substitute $x$ with $3$ in the sequence and then find $y$.
+
+$2, \quad 2, \quad {\underline 3}, \quad 7, \quad {\underline y},\quad 3528$
+
+$
+\begin{aligned}
+y &= 2 \times \times 2 \times 3 \times 7 \\
+  &= 4 \times 21 \\
+  &= 84 
+\end{aligned}
+$
+
+$2, \quad 2, \quad {\underline 3}, \quad 7, \quad {\underline 84},\quad 3528$
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$ and $84$
 
 </div>
 </div>

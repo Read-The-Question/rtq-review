@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber"
 title: "TopicPaper - Number"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2300,7 +2300,7 @@ $7.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>32CCF206-C0DE-480B-BDD6-BAA8DE6F3758</p>
 </div>
@@ -2338,12 +2338,12 @@ $60$
 <p>topicpapers_tnumber</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>362B2010-9590-466F-8D23-A4DCD45A3669</p>
 </div>
@@ -2381,7 +2381,7 @@ $0.2$
 <p>topicpapers_tnumber</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2426,7 +2426,7 @@ $2569$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>51895EF4-90DD-4CC5-B028-99ED8D291204</p>
 </div>
@@ -2464,7 +2464,7 @@ $0.7$
 <p>topicpapers_tnumber</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2558,6 +2558,58 @@ $30.282$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>8DFE2F8B-77F8-41DA-966A-76830F037639</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate how much bigger is $3\dfrac{1}{4}$ is than $1\dfrac{3}{4}$ writing your answer as a **decimal**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3 \dfrac {1} {4} - 1 \dfrac {3} {4} \\\\
+&= \dfrac {13} {4} - \dfrac {7} {4} \\\\
+&= \dfrac {13 - 7} {4} \\\\
+&= \dfrac {6} {4} \\\\
+&= \dfrac {3 \times 2} {2 \times 2} \\\\
+&= \dfrac {3 \times \cancel {2}} {2 \times \cancel {2}} \\\\
+&= \dfrac {3} {2} \\\\
+&= 1 \dfrac {1} {2} \\\\
+&= 1.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
 </div>
 </div>
 </li>
@@ -3916,6 +3968,192 @@ $0.005$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>1EA0EDB9-277D-4979-AC2C-B24FE106F900</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This calculation is correct: $396 \times 279 = 110484$
+
+Use this result to answer these questions: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3.96 \times 2.79$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+396 \times 279                               &= 110484 \\\\
+\dfrac {396} {100} \times \dfrac {279} {100} &= \dfrac {110484} {10000} \\\\
+3.96 \times 2.79                             &= 11.0484
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11.0484$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$110484 \div 279$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+396 \times 279        &= 110484 \\\\
+396                   &= \dfrac {110484} {279} \\\\
+\dfrac {110484} {279} &= 396 \\\\
+110484 \div 279       &= 396
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$396$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1104.84 \div 2.79$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+396 \times 279                                &= 110484 \\\\
+396                                           &= \dfrac {110484} {279} \\\\
+\dfrac {110484} {279}                         &= 396 \\\\
+110484 \div 279                               &= 396 \\\\
+\dfrac {110484} {100} \div \dfrac {279} {100} &= \dfrac {396} {100} \\\\
+1104.84 \div 2.79                             &= 3.96
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.96$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1104.84 \div 396$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+396 \times 279                &= 110484 \\\\
+\dfrac {396 \times 279} {100} &= \dfrac {110484} {100} \\\\
+\dfrac {396 \times 279} {100} &= 1104.84 \\\\
+\dfrac {279} {100}            &= \dfrac {1104.84} {396} \\\\
+\dfrac {1104.84} {396}        &= \dfrac {279} {100} \\\\
+1104.84 \div 396              &= 2.79
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.79$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
 <p>A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D</p>
@@ -3941,6 +4179,20 @@ TODOWORKING
 <div class='working'>
 
 TODOWORKING
+
+</div>
+<div class='working'>
+
+Remember to line up the decimal points.
+
+$
+\begin{array}{cccccccccccccc}
+    &    2  &    0 \ .  &    0  &    0 \\
+{}- &    1  &    2 \ .  &    5  &    3 \\
+\hline
+  &         &    7 \ .  &    4  &    7
+\end{array}
+$
 
 </div>
 </div>
@@ -4055,7 +4307,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$469$
 
 </div>
 </div>
@@ -4076,13 +4328,15 @@ $402 \div 6 =$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 402 \div 6 \\\\
-&= \dfrac{402}{6} \\\\
-&=  \dfrac{67 \times 6}{6} \\\\
-&=  \dfrac{67 \times \cancel 6}{\cancel 6} \\\\
+&= \dfrac {402} {6} \\\\
+&=  \dfrac {67 \times 6} {6} \\\\
+&=  \dfrac {67 \times \cancel {6}} {\cancel {6}} \\\\
 &=  67
 \end{aligned}
+$
 
 </div>
 </div>
@@ -4107,16 +4361,7 @@ $67$
 $\pounds 20 - \pounds 12.53$
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-\begin{aligned}
-&= \pounds 20 - \pounds 12.53 \\\\
-&= \pounds 7.47
-\end{aligned}
-
-</div>
-</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -4881,10 +5126,10 @@ Divide $1898$ by $26$
 
 $
 \begin{aligned}
-1898 \div 26 \\\\
-&= \dfrac{1898}{26} \\\\
-&=  \dfrac{73 \times 26}{26} \\\\
-&=  \dfrac{73 \times \cancel {26}}{\cancel {26}} \\\\
+&=  1898 \div 26 \\\\
+&=  \dfrac {1898} {26} \\\\
+&=  \dfrac {73 \times 26} {26} \\\\
+&=  \dfrac {73 \times \cancel {26}} {\cancel {26}} \\\\
 &=  73
 \end{aligned}
 $
@@ -5271,10 +5516,10 @@ $259 \div 7$
 
 $
 \begin{aligned}
-&=  259 \div 7 \\\\
-&=  \dfrac {259} {7} \\\\
-&=  \dfrac {37 \times 7} {7} \\\\
-&=  \dfrac {37 \times \cancel {7}} {\cancel {7}} \\\\
+259 \div 7 \\\\
+&=  \dfrac{259}{7} \\\\
+&=  \dfrac{37 \times 7}{7} \\\\
+&=  \dfrac{37 \times \cancel 7}{\cancel 7} \\\\
 &=   37
 \end{aligned}
 $
@@ -5617,10 +5862,10 @@ $53 \times 9$
 
 $
 \begin{array}{cccccccccccccc}
-       &              &   5   &   3 \\
-       &    \times    &       &   9 \\
+               &   5   &   3 \\
+    \times     &       &   9 \\
 \hline
-       &    4         &   7   &   7
+           4   &   7   &   7
 \end{array}
 $
 
@@ -5652,13 +5897,13 @@ $37 \times 23$
 
 $
 \begin{array}{cccccccccccccc}
-       &              &   3   &   7 \\
-       &    \times    &   2   &   3 \\
+                     &   3   &   7 \\
+           \times    &   2   &   3 \\
 \hline
-       &    1         &   1   &   1 \\
-       &    7         &   4   &   0 \\
+           1         &   1   &   1 \\
+           7         &   4   &   0 \\
 \hline
-       &    8         &   5   &   1     
+           8         &   5   &   1     
 \end{array}
 $
 
@@ -5690,10 +5935,10 @@ $238 \div 7$
 
 $
 \begin{aligned}
-238 \div 7 \\\\
-&=  \dfrac{238}{7} \\\\
-&=  \dfrac{34 \times 7}{7} \\\\
-&=  \dfrac{34 \times \cancel 7}{\cancel 7} \\\\
+&=  238 \div 7 \\\\
+&=  \dfrac {238} {7} \\\\
+&=  \dfrac {34 \times 7} {7} \\\\
+&=  \dfrac {34 \times \cancel {7}} {\cancel {7}} \\\\
 &=   34
 \end{aligned}
 $
@@ -5726,10 +5971,10 @@ $442 \div 17$
 
 $
 \begin{aligned}
-442 \div 17 \\\\
-&=  \dfrac{442}{17} \\\\
-&=  \dfrac{26 \times 17}{17} \\\\
-&=  \dfrac{26 \times \cancel {17}}{\cancel {17}} \\\\
+&=  442 \div 17 \\\\
+&=  \dfrac {442} {17} \\\\
+&=  \dfrac {26 \times 17} {17} \\\\
+&=  \dfrac {26 \times \cancel {17} {\cancel {17}} \\\\
 &=   26
 \end{aligned}
 $
@@ -7166,6 +7411,27 @@ $
 $
 
 </div>
+<div class='working'>
+
+Alternative solution 
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
+&= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
+&= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
+&= \dfrac {0.4 + 0.5} {2} \\\\
+&= \dfrac {0.9} {2} \\\\
+&= \dfrac {0.9 \times 10} {2 \times 10} \\\\
+&= \dfrac {9} {20}
+&= \dfrac {9} {20}\\\\
+&= 0.45
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -7723,6 +7989,26 @@ tmiddlenumber
 %empty%
 
 </div>
+<div class='working'>
+
+Let's first list down other percentages between $75\%$ and $80\%$ and then convert the same into decimal.
+
+$
+\begin{aligned}
+&= 75 \%, \quad \underline{76\%}, \quad \underline{77\%}, \quad \underline{78\%}, \quad \underline{79\%}, \quad 80\% \\\\
+\end{aligned}
+$
+
+Let's convert 76\% into decimal.
+
+$
+\begin{aligned}
+&= \dfrac {76} {100}\\\\
+&= 0.76
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -7761,7 +8047,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.775
+$0.76 \ \text{or} \ 0.775$
 
 </div>
 </div>
@@ -8461,20 +8747,20 @@ Write down a decimal between $90\%$ and $95\%$
 <div class='workings'>
 <div class='working'>
 
-Let's first list down other percentages between $90\%$ and $95\%$ and then convert one of them into decimal, as asked in the question.
+Let's first list down other percentages between $90\%$ and $95\%$ and then convert the same into decimal.
 
-
+$
 \begin{aligned}
 &= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
 \end{aligned}
+$
 
+Let's convert 91\% into decimal.
 
-Let's convert 92\% into decimal.
-
-
+$
 \begin{aligned}
-&= \dfrac {92} {100}\\\\
-&= 0.92
+&= \dfrac {91} {100}\\\\
+&= 0.91
 \end{aligned}
 $
 
@@ -8496,7 +8782,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.925$
+$0.91 \ \text{or} \ 0.925$
 
 </div>
 </div>
@@ -10191,6 +10477,55 @@ $\pounds 1.85$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>5AD1D649-ADC0-4830-A4DB-A96DBBC66358</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add $\text{twelve thousand and sixty seven and nine thousandone hundred and four}$. Give your answer in words.  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+&  1  &  2  &  0   &  6  &  7 \\
+{}+    &  &   9  &  1  &  0  &  4 \\
+\hline
+&  2   & 1  &    1 & 7  & 1  \\\\
+\end{array}
+$
+
+Twenty one thousand one hundred seventy one
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Twenty one thousand one hundred seventy one}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>7B4003E7-EBF5-425C-9D44-B0E047531A36</p>
@@ -10971,6 +11306,325 @@ $11106$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>C04D3FE2-1ED5-42C3-B47B-B379F41605E8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alex enjoys taking photographs.
+
+He takes $86$ photographs on Monday and $58$ photographs on Tuesday
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many photographs does he take altogether?
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 86 + 58 \\\\
+&= 144
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$144$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Alex puts his photographs in an album. $6$ photographs fit on each page.
+
+How many pages does he use?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {144} {6} \\\\
+&= \dfrac {24 \times 6} {6} \\\\
+&= \dfrac {24 \times \cancel {6}} {\cancel {6}} \\\\
+&= 24
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+An enlargement costs $\pounds 2.65$ Alex buys $7$ enlargements.
+
+How much do his enlargements cost in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2.65 \times 7 \\\\
+&= \pounds 18.55
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 18.55$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Alex pays with a $\pounds 20$ note.
+
+How much change does he get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 20 - 18.55 \\\\
+&= \pounds 1.45
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.45$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>AD57A4A4-8FE4-4DA9-A0F6-F9AACDC3C9FD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$18.7 \quad 18.67 \quad 20.3 \quad 20.27 \quad 18.706$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the largest number from the list above.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$20.3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20.3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the smallest number from the list above.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$18.67$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18.67$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the difference between the largest and the smallest numbers in the list.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 20.3 - 18.67 \\\\
+&= 1.63
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.63$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -13611,6 +14265,384 @@ $5.78$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ac_g2 question'>
+<div class='uuid'>
+<p>B09594F6-C583-4EFB-8072-0453A8DD522A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate each of the following 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8547 + 929$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   8   &   5   &   4   &   7 \\
+{}+ &       &   9   &   2   &   9 \\
+\hline
+    &   9   &   4   &   7   &   6
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9476$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3712 - 1821$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   3   &   7   &   1   &   2 \\
+{}- &   1   &   8   &   2   &   1 \\
+\hline
+    &   1   &   8   &   9   &   1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1891$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3.6 \times 9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let's first multiply the numbers ignoring the decimal points.
+
+$
+\begin{array}{cccccccccccccc}
+            &   3   &   6 \\
+{} \times   &       &   9 \\
+\hline
+3           &   2   &   4
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is one.
+
+Let's account for the decimal point now.
+
+$= 32.4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32.4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>49BFC6D9-BB28-4B8F-8410-7C6507972FBB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the number nearest to $0.1$
+
+$0.2\:\:\: 0.101\:\:\: 0.11\:\:\: 0.99\:\:\: 0.0998\:\:\: 1.0$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages.
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 0.2, \quad 0.101, \quad 0.11, \quad 0.99, \quad 0.0998, \quad 1.0 \\\\
+&= 0.0998, \quad 0.99, \quad 0.101, \quad 0.11, \quad 0.2, \quad 1.0 \\\\
+\end{aligned}
+$
+
+$0.1$ lies between $0.101$ and $0.11$
+
+The number nearest to $0.1$ = $0.101$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.101$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g2 question'>
+<div class='uuid'>
+<p>97E2F6D8-8D94-4DD1-BE98-4E320C69642D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $8.72 \times 0.1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let's first multiply the numbers ignoring the decimal points.
+
+$
+872 \times 1 = 872 \\
+$
+
+Between the two numbers, the total number of digits after the decimal point is three.
+
+Let's account for the decimal point now.
+
+$
+= 0.872
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.872$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_g1 question'>
+<div class='uuid'>
+<p>CF222902-2477-42D2-AE75-3A8396F1AAC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$28 \times 97 = 2716$
+
+Use this result to write down the answers to each of the following:
+ 
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$28 \times 970$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+28 \times 97            &= 2716 \\\\
+28 \times 97 \times 10  &= 2716 \times 10 \\\\
+28 \times 970           &= 27160
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27160$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2.8 \times 0.97$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+28 \times 97                                &= 2716 \\\\
+\dfrac{28} {10} \times \dfrac {97} {100}    &= \dfrac {2716} {1000} \\\\
+2.8 \times 0.97                               &= 2.716
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.716$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tnumber</p>
+</div>
+<div class='rag'>
+<p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>0EA3BEDE-E412-4145-A773-4FA982A65BAB</p>
@@ -14497,7 +15529,7 @@ $18.87$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>5A02BFDB-4654-4CDA-8AB3-4762789C5789</p>
 </div>
@@ -14555,7 +15587,7 @@ $\dfrac {8} {9}$
 <p>topicpapers_tnumber</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

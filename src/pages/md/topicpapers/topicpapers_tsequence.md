@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence"
 title: "TopicPaper - Sequence"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2548,7 +2548,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C</p>
 </div>
@@ -2747,7 +2747,7 @@ $39, \quad 52$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -5418,6 +5418,157 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>470380B7-B2D2-4F6D-A6F5-B325F66A8144</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing number of these sequences:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$14, \quad 17, \quad 20, \quad 23, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad \text{\textunderscore \textunderscore \textunderscore}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+3)} } 
+&&  \footnotesize {\maroonC {(+3)} }  
+&&  \footnotesize {\maroonC {(+3)} }   
+&&  \footnotesize {\maroonC {(+3)} }    
+&&  \footnotesize {\maroonC {(+3)} }  \\
+14,  &&   17,  &&  20, &&  23, && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+1 \text{st missing number} &= 23 + 3 \\\\
+                           &= 26
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2 \text{nd missing number} &= 26 + 3 \\\\
+                           &= 29
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$26 \quad 29$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$14, \quad 13.25, \quad 12.5, \quad 11.75, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad \text{\textunderscore \textunderscore \textunderscore}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $-0.75$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(-0.75)} } 
+&&  \footnotesize {\maroonC {(-0.75)} }  
+&&  \footnotesize {\maroonC {(-0.75)} }   
+&&  \footnotesize {\maroonC {(-0.75)} }    
+&&  \footnotesize {\maroonC {(-0.75)} }  \\
+14, && 13.25, && 12.5, && 11.75, && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+1 \text {st missing number} &= 11.75 - 0.75 \\\\
+                            &= 11
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2 \text {nd missing number} &= 11 - 0.75 \\\\
+                            &= 10.25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11 \quad 10.25$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tsequence</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
 </div>
 </div>
 </li>
@@ -9363,7 +9514,7 @@ $233$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>3D3967D6-262B-4CC9-8544-EC70D5B72197</p>
 </div>
@@ -9670,7 +9821,7 @@ $64$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -9981,7 +10132,7 @@ $\dfrac {20} {32}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>3E2622D7-39D2-4869-AA49-57F537C5C296</p>
 </div>
@@ -10173,7 +10324,7 @@ $16, -32$
 <p>topicpapers_tsequence</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -15834,7 +15985,7 @@ $
 &&  \footnotesize{\maroonC{(+3)}}  
 &&  \footnotesize{\maroonC{(+3)}}   
 &&  \footnotesize{\maroonC{(+3)}}  \\
-4,  &&      \ldots  &&      10,   &&      13,  &&      \ldots 
+4,  &&      \ldots , &&      10,   &&      13,  &&      \ldots 
 \end{matrix}
 $
 
@@ -15932,11 +16083,9 @@ $
 &&  \footnotesize{\maroonC{(-3)}}  
 &&  \footnotesize{\maroonC{(-3)}}   
 &&  \footnotesize{\maroonC{(-3)}}  \\
-\ldots,  &&      6  &&      3,   &&      0,  &&      -3
+\ldots,  &&      6 , &&      3,   &&      0,  &&      -3
 \end{matrix}
 $
-
-Missing number is 
 
 $
 \begin{aligned}
@@ -18986,6 +19135,145 @@ $24, 3$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>219E449F-2516-48DE-B763-E1C74A1FC8E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next two numbers in the following sequences? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+8   4    2   1  ______     ________
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $\dfrac{1}{2}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{\dfrac{1}{2}}} 
+&&  \footnotesize{\maroonC{\dfrac{1}{2}}}  
+&&  \footnotesize{\maroonC{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC{\dfrac{1}{2}}}  \\
+8,  &&    4,  &&  2,  &&   1, &&    \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= \dfrac{1}{2} \\\\
+\text{Second missing number}       &= \dfrac{1}{4} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{1}{2}, \dfrac{1}{4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+23   17   11   5   _________   _________
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $-6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(-6)}} 
+&&  \footnotesize{\maroonC{(-6)}}  
+&&  \footnotesize{\maroonC{(-6)}}   
+&&  \footnotesize{\maroonC{(-6)}}   
+&&  \footnotesize{\maroonC{(-6)}}  \\
+23,  &&    17,  &&  11,  &&   5, &&    \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 5 - 6 \\\\
+&= -1
+\text{Second missing number}       &= -1 -6 \\\\
+& -7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-1, -7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tsequence</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>0E67D44A-5CEB-4D9A-884E-E749B2C1F9D0</p>
@@ -20731,6 +21019,239 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>90763832-ECB2-4C3C-A9A0-2FB5F05FE9AA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here Is the? start of a number pattern:
+$1 \quad  4  \quad  7 \quad 10 \quad 13 \quad  16  \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+From the numbers in the list above, write down:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+a factor of $8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+the product of $2$ and $5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+a prime number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$13$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the next $2$ numbers in the pattern.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{matrix}
+&   \footnotesize{ \red{ (+3) } } 
+&&  \footnotesize{ \red{ (+3) } }  
+&&  \footnotesize{ \red{ (+3) } }   
+&&  \footnotesize{ \red{ (+3) } }   
+&&  \footnotesize{ \red{ (+3) } }
+&&  \footnotesize{ \red{ (+3) } }  \\
+1,  &&    4,  &&  7,  &&  10,  &&  13   &&  16  &&  \ldots && \ldots 
+\end{matrix}
+$
+$
+\begin{aligned}
+\text{Missing first number}   &= 16 + 3 \\\\
+                              &= 19
+\end{aligned}
+$
+$
+\begin{aligned}
+\text{Missing second number}   &= 16 + 3 \\\\
+                               &= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19, 22$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the largest number in the pattern which is less than $40$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$37$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$37$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tsequence</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -22582,6 +23103,364 @@ $20$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>3EA2B2B0-ECDC-49E5-AC93-A0CB15B62B35</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the next two numbers in each sequence:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$98, \quad 92, \quad 86, \quad 80,
+\quad \ldots,
+\quad \ldots
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $-6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(-6)} } 
+&&  \footnotesize {\maroonC {(-6)} }  
+&&  \footnotesize {\maroonC {(-6)} }   
+&&  \footnotesize {\maroonC {(-6)} }   
+&&  \footnotesize {\maroonC {(-6)} }  \\
+98,  &&  92,  &&  86,  &&   80,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 80 - 6 \\\\
+                                  &= 74 \\\\
+\text{Second missing number}      &= 74 - 6 \\\\
+                                  &= 68
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$74, \ 68$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1, \quad 2, \quad 4, \quad 7, \quad 11,
+\quad \ldots,
+\quad \ldots
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+1)} } 
+&&  \footnotesize {\maroonC {(+2)} }  
+&&  \footnotesize {\maroonC {(+3)} }   
+&&  \footnotesize {\maroonC {(+4)} }   
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+6)} }  \\
+1,  &&  2,  &&  4,  &&   7,  &&   11  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 11 + 5 \\\\
+                                  &= 16 \\\\
+\text{Second missing number}      &= 16 + 6 \\\\
+                                  &= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16, \ 22$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tsequence</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3F19815A-2C4E-4CB0-94F9-6F8E4842569C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This is the start of a pattern of shapes:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the picture below which would be the $9 \text{th}$ shape in the pattern.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Circle the picture below which would be the $14 \text{th}$ shape in the pattern.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which is the first shape in the pattern (after shape $1$) which is identical to shape $1$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the picture below to show the $27 \text{th}$ shape in the pattern.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tsequence</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -24440,6 +25319,93 @@ As it leaves a remainder, it is not a multiple of 30. Hence it is not in the seq
 <div class='answer'>
 
 As 1330 is not a multiple of 30, it is not in the sequence given.
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tsequence</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>0B7ECBC1-8D3F-45E4-9633-04391991C44B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bob is making a sequence of numbers. The first number is three. The last number is $31$. Bob gets his sequence by adding the same number each time.
+
+
+$3$, ______ , _____ , _____ , $31$
+
+
+Write in the missing numbers of the sequence.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The difference between the terms is $a$. 
+
+As per the question, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+a)}}  
+&&  \footnotesize{\maroonC{(+a)}} 
+&&  \footnotesize{\maroonC{(+a)}}   
+&&  \footnotesize{\maroonC{(+a)}} \\
+3,  &&    3 + a,  &&  3 + 2a,  &&   3 + 3a,  &&   31 \ldots
+\end{matrix}
+$
+$
+\begin{aligned}
+3 + 3a + a                      &= 31 \\\\
+3 + 4a                          &= 31 \\\\
+4a                              &= 31 - 3 \\\\
+4a                              &= 28 \\\\
+a                               &= \dfrac {28} {4} \\\\
+a                               &= \dfrac {4 \times 7} {4} \\\\
+a                               &= \dfrac {\cancel {4} \times 7} {\cancel {4}} \\\\
+a                               &= 7
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 3 + a \\\\
+                                &= 3 + 7 \\\\
+                                &= 10 \\\\
+\text{Second missing number}    &= 3 + 2a \\\\
+                                &= 3 + 2 \times 7 \\\\ 
+                                &= 17
+\text{Second missing number}    &= 3 + 3a \\\\
+                                &= 3 + 3 \times 7 \\\\ 
+                                &= 24
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Missing numbers : 10, 17, 24
 
 </div>
 </div>

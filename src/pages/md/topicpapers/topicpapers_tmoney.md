@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney"
 title: "TopicPaper - Money"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-05-31 00:01:01
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>05561C2E-68D5-42DC-876C-EC372F879900</p>
 </div>
@@ -77,7 +77,7 @@ Deal A
 <p>topicpapers_tmoney</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -2193,7 +2193,7 @@ $\pounds 182$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>ED073E19-C259-4CCE-9247-955B9E693C10</p>
 </div>
@@ -2236,7 +2236,7 @@ $\pounds 8.10$
 <p>topicpapers_tmoney</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2739,6 +2739,66 @@ $\pounds 18$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>1B8867E6-DD66-4F3F-811C-A4B71ADFBF90</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A multipack of $12$ cans of Ned's cola cost $\pounds 6.95$. 
+
+A single can of Ned's cola costs $65 \ \text{pence}$ if bought individually. 
+
+Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12$ cans individually, giving your answer in pence.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. 
+
+$
+\begin {aligned}
+\text {Cost of 12 cans}                 &= 12 \times 65 \ \text {pence} \\\\
+                                        &= 780 \ \text {pence} \\\\
+\text {Difference in cost}              &= 780 \ \text {pence} - \pounds 6.95 \\\\
+                                        &= 780 \ \text {pence} - 6.95 \times 100 \ \text {pence} \\\\
+                                        &= 780 - 695 \\\\
+                                        &= 85 \ \text {pence}
+\end {aligned}
+$
+
+It is $85 \ \text {pence}$ cheaper to buy a multipack of $12$ cans than to buy $12$ cans individually.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$85 \ \text {pence}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tmoney</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
 </div>
 </div>
 </li>
@@ -4870,6 +4930,60 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>F4D77903-BECE-4A44-88EA-1781F5A261B0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Gavin buys four bottles of cola at $\pounds 1.09$ each and $8$ chocolate bars at $62 \text{p}$. How much change should he receive from a ten-pound note? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+
+Price of Cola $= \pounds 1.09$
+
+Price of $8$ Chocolate bars $= 62 \text{p}$
+
+$
+\begin{aligned}
+\text {Change received} &= \pounds 10 - (\text{Cost of cola} + \text{Cost of chocolate bars}) \\\\
+                        &= \pounds 10 - (4 \times \pounds 1.09 + 62 \text{p}) \\\\
+                        &= \pounds 10 - (\pounds 4.36 + \pounds 0.62) \\\\
+                        &= 10 - 4.98 \\\\
+                        &= \pounds 5.02
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 5.02$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tmoney</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>00C311D7-5CAB-401B-AE03-78A75AFA3E88</p>
@@ -5047,7 +5161,7 @@ $641 \ \text {pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3396FC7D-CAC5-48DF-9EEA-02DC624906F5</p>
 </div>
@@ -5194,7 +5308,7 @@ $13$
 <p>topicpapers_tmoney</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -8445,7 +8559,7 @@ $\pounds 18.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197</p>
 </div>
@@ -8501,7 +8615,7 @@ $\pounds 18.29$
 <p>topicpapers_tmoney</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -8726,16 +8840,16 @@ If Ian pays with a $\pounds 2$ coin how much change would Ian get? Give your ans
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - (3 \times \text{Cost (Bananas)} + 5 \times \text{Cost (Apples)}) \\\\
-                                                &= \pounds 2 - (3 \times 12 \text{p} + 5 \times 11 \text{p}) \\\\
-                                                &= \pounds 2 - (36 \text{p} + 55 \text{p}) \\\\
+\text{Change he will get}                       &= \text{Total money} - 3 \times \text{Cost of a banana} - 5 \times \text{Cost of an apple} \\\\
+                                                &= \pounds 2 - 3 \times 12 \text{p} - 5 \times 11 \text{p} \\\\
+                                                &= \pounds 2 - 36 \text{p} - 55 \text{p} \\\\
                                                 &= \pounds 2 - 91 \text{p} \\\\
-                                                &= \pounds 2 - \pounds \dfrac {91} {100} \\\\
-                                                &= 2 - 0.91 \\\\
+                                                &= \pounds 2 - \pounds 0.91 \\\\
                                                 &= \pounds 1.09 \\\\
-                                                &= 1.09 \times 100 \text{p} \\\\
                                                 &= 109 \ \text{pence}
 \end{aligned}
 $
@@ -8784,14 +8898,16 @@ If Imogen pays with a £5 note how much change would Imogen get?
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.
+
+
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - (4 \times \text{Cost (Star)} + 7 \times \text{Cost (Imogen)}) \\\\
+\text{Change he will get}                       &= \text{Total money} - (4 \times \text{Cost of a star sticker} + 7 \times \text{Cost of a moon sticker}) \\\\
                                                 &= \pounds 5 - (4 \times 15 \text{p} + 7 \times 16 \text{p}) \\\\
                                                 &= \pounds 5 - (60 \text{p} + 112 \text{p}) \\\\
                                                 &= \pounds 5 - 172 \text{p} \\\\
-                                                &= \pounds 5 - \pounds \dfrac {172} {100} \\\\
-                                                &= 5 - 1.72 \\\\
+                                                &= \pounds 5 - \pounds 1.72 \\\\
                                                 &= \pounds 3.28
 \end{aligned}
 $
@@ -9870,6 +9986,118 @@ $\pounds 0.71$
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>55A10623-F378-4E8A-9E0E-162217DDCF11</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ruth wants to buy three bracelets at $\pounds 1.29$ each and a birthday card for $\pounds 1.85$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much does this cost her altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total Cost} &=  \text{Cost (3 Bracelets)} + \text{Cost (1 Card)} \\\\
+&= 3\times \pounds 1.29 + 1.85 \\\\
+&=   3 \times{1.29} + 1.85 \\\\
+&=  3.87 + 1.85\\\\
+&=  \pounds 4.72
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4.72$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+She only has $\pounds 3.20$. How much does she need to borrow to buy these things?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Money (to borrow) = Money(required) - Money (in hand) 
+
+$ 
+\begin{aligned}
+&=   4.72 - 3.20 \\\\ 
+&=   \pounds 1.52 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds1.52$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tmoney</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -11091,6 +11319,198 @@ $\text {Impossible}$
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>E8E2954E-2B81-496C-A114-5CD60C19FAC3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Anne buys a cone and a drink. 
+
+How much does she spend?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {She spend} &= 1.50 + 0.65 \\\\
+                  &= \pounds 21.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 21.5 $
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Brian buys $4$ tubs.
+
+How much does he pay?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {He pays} &= 4 \times 1.90 \\\\
+                &= \pounds 7.6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7.6$
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+He pays with a $\pounds 10$ note.
+
+How much change does he receive?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {He received} &= 10 - 7.6 \\\\
+                    &= \pounds 2.4  
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Caley buys $3$ identical ice lollies and pays $\pounds 1.92$. 
+
+What is the cost, in pence, of one ice lolly?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {cost of one ice lolly} &= \dfrac {\pounds 1.92} {3} \\\\
+                              &= \dfrac {1.92 \times 100 \ \text {p}} {3} \\\\
+                              &= \dfrac {192} {3} \\\\
+                              &= \dfrac {3 \times 64} {3} \\\\
+                              &= \dfrac {\cancel {3} \times 64} {\cancel {3}} \\\\
+                              &= 64 \ \text {p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$64 \ \text {p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tmoney</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -13185,7 +13605,7 @@ One $2 \text{p}$ coin.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>43EF5D79-3FD1-422A-BD9F-D7DC37283EA9</p>
 </div>
@@ -13242,7 +13662,7 @@ $189 \text{p}$
 <p>topicpapers_tmoney</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

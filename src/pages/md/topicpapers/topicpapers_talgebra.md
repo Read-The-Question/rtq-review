@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra"
 title: "TopicPaper - Algebra"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1438,10 +1438,11 @@ As per the question,
 
 $
 \begin{aligned}
-s \times s      &= 81 \\\\
-s^2             &= 81 \\\\
-s               &= \sqrt{81} \\\\
-s               &= 9  \ \text{m}
+\text{side} \times \text{side}      &= 81 \\\\
+s^2                                 &= 81 \\\\
+s                                   &= \sqrt{81} \\\\
+s                                   &= \sqrt{9 \times 9} \\\\
+s                                   &= 9 \text{m}
 \end{aligned}
 $
 
@@ -5586,7 +5587,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>9BC445B0-E60B-4C43-9A3B-131B9EE3AD28</p>
 </div>
@@ -5637,7 +5638,7 @@ $4$
 <p>topicpapers_talgebra</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -7648,7 +7649,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A2F4CE02-CC08-4549-9659-71797B3FFB94</p>
 </div>
@@ -7694,7 +7695,7 @@ $\pounds 1500$
 <p>topicpapers_talgebra</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -8996,7 +8997,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money (Martin)} + \text{Money (Gary)}             &= \text{Total money} \\\\
+\text{Money Martin have} + \text{Money Gary have}       &= \text{Total money} \\\\
 a + 13 + a                                              &= \pounds 51 \\\\
 2a                                                      &= 51 - 13 \\\\
 2a                                                      &= 38 \\\\
@@ -9008,14 +9009,11 @@ a                                                       &= \pounds 19
 \end{aligned}
 $
 
-Money Gary have $= \pounds 19$
-
-Let's calculate for Martin
-
 $
 \begin{aligned}
-\text{Money Martin have}                                 &= \pounds 51 - \pounds 19 \\\\
-                                                        &= \pounds 32
+\text{Money Gary have}                                   &= \pounds 19 \\\\
+\text{Money Martin have}                                 &= \pounds 19 + 13 \\\\
+                                                         &= \pounds 32
 \end{aligned}
 $
 
@@ -10022,6 +10020,56 @@ $\pounds 2.6$
 </div>
 <div class='rag'>
 <p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>70495CDE-A694-44BF-9BDE-E42271978492</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Kevin gets paid $\pounds 500$ for each match he plays plus $\pounds 100$ for each goal he scores. In a seasons he plays 20 games and averages two goals per game.
+How much does he earn over the season?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per question,
+
+$
+\begin{aligned}
+\text{Total earning} &= \text{(No. of games x pounds 500 )} + \text{(2 x No. of games x pounds 100)} \\\\
+&= (20 \times 500) + (2 \times 20 \times 100)  \\\\
+&= 10000 + 4000 \\\\
+&=  \pounds 14000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 14,000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_talgebra</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -12368,6 +12416,123 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>23036B78-59C9-4958-A9D7-2BEF6461A408</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A pineapple costs $\pounds 2.47$.
+
+James has a $\pounds 10$ note.
+
+He buys as many pineapples as he can with his $\pounds 10$ note.   
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many pineapples does James buy?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total pineapples he buys} &= \dfrac {10} {2.47} \\\\
+                                 &= 4.0485 \\\\
+                                 &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much change should James receive from his $\pounds 10$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Change received} &= 10 - 4 \times 2.47 \\\\
+                        &= 10 - 9.88 \\\\
+                        &= \pounds 0.12 \\\\
+                        &= 0.12 \times 100 \text{p} \\\\
+                        &= 12 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_talgebra</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>139515A2-06C2-4784-A793-112DD4CB90CD</p>
@@ -13716,6 +13881,324 @@ $16$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>271C8CFC-140E-47D7-B956-A1833C472BB4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ollie the sports coach wanted to take groups of children and their parents to see a range of sporting fixtures. 
+When he made enquiries about the tickets there were always two types of ticket available, one for adults and one for children.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+For football at Rovers ground an adult ticket costs $\pounds 15$ and a child's ticket costs $\pounds 4$. Find the total cost for $20$ adults and $12$ children.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Cost of an adult ticket $ \ a = \pounds 15$
+
+Cost of a child ticket $ \ b = \pounds 4$
+
+Total cost = (No. of adults $\times$ a) + (No. of children Adults $\times$ b) 
+
+$
+\begin{aligned}
+&= (20 \times 15) + (12 \times 4) \\
+&= 300 + 48 \\
+&= \pounds 348
+\end{aligned}
+$
+
+The total cost of $20$ adults and $12$ children tickets is $\pounds 348$.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 348$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+For a rugby match, $30$ adults and $16$ children paid $\pounds 408$ to see the game. A child's ticket cost $\pounds 3$. Work out the cost of one adult ticket.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+\text {No. of childeren}           &= 16 \\
+\text {Total cost of tickets}      &= \pounds 408 \\
+\text {Cost of a child ticket} \ b &= \pounds 3 \\
+\end{aligned}
+$
+
+Total cost of children tickets = (No. of children $\ \times \ b$)
+
+$
+\begin{aligned}
+&= 16 \times \pounds 3 \\
+&= 48 \\
+&= \pounds 48 \\
+\end{aligned}
+$
+
+Total costs of children tickets is $\pounds 48$
+
+Total cost of adult and children tickets is $\pounds 408$ 
+
+Total cost of adult tickets
+
+$\quad =$ Total cost - Total cost of children tickets
+
+$
+\begin{aligned}
+&= 408 - 48 \\
+&= 360 
+\end{aligned}
+$
+
+Total cost of adult tickets is $\pounds 360$
+
+Let's take the cost of one adult ticket as $a$.
+
+As per question, No. of adults is $30$ 
+
+$
+\begin{aligned}
+             360 &= 30 \times a   \\\\
+\dfrac {360}{30} &=a \text {  or, } \\\\
+               a &= \dfrac {360}{30} \\\\
+                 &= \dfrac{\cancel {360} \raisebox{0.9em}{60}} {\cancel {30}\raisebox{-0.9em}{5}}\\\\
+                 &= \dfrac{\cancel {60} \raisebox{0.9em}{12}} {\cancel {5}\raisebox{-0.9em}{1}}\\\\
+                 &= 12 \\
+               a &= \pounds 12 \\
+\end{aligned}
+$
+
+One adult ticket costs $\pounds 12$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$50$ adults and $40$ children went to the velodrome for the cycling championships. The total bill for the tickets was $\pounds 760$. An adult ticket cost three times as much as a child's ticket. Work out the cost of an adult ticket.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+As per question, 
+
+$
+\begin{aligned}
+\text {No. of adults}          &= 50 \\
+\text {No. of children}        &= 40 \\
+\text {Total cost of tickets}  &= \pounds 760 \\
+\end{aligned}
+$
+
+Let's take the cost of a child ticket as $c$.
+
+Cost of an adult ticket is $3 \times x$. 
+
+Total cost = Total cost adults + total cost children.
+
+Total cost of adult ticket = No. of adults $\times$ cost of an adult ticket.
+
+Total cost of children's ticket = No. of children $\times$ cost of a child ticket.
+
+$
+\begin{aligned}
+                                760 &= (50 \times 3x) + (40 \times x) \\
+                                    &= 150x + 40x \\
+                                    &= 190x \\
+                  \dfrac {760}{190} &= x  \\\\
+\dfrac {76 \cancel 0}{19 \cancel 0} &= x\\\\
+                    \dfrac {76}{19} &= x\\\\
+                                  4 &= x\\
+                         \pounds 4  &= x
+\end{aligned}
+$
+
+Cost of an adult ticket is $\pounds 4$
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At the swimming tournament a child's ticket cost $\pounds 6$ less than an adult ticket. 
+The total cost of the tickets for $25$ adults and $30$ children was $\pounds 370$. Work out the cost of one child ticket.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per question, 
+
+$
+\begin{aligned}
+\text {No. of adults}          &= 25 \\
+\text {No. of children}        &= 30 \\
+\text {Total cost of tickets}  &= \pounds 370 \\
+\end{aligned}
+$
+
+Let's take the cost of an adult ticket as $a$.
+
+Cost of a child ticket is $a - 6$. 
+
+Total cost = Total cost adults + total cost children.
+
+Total cost of child ticket = No. of children $\times$ cost of a child ticket.
+
+Total cost of an adult ticket = No. of adults $\times$ cost of an adult ticket.
+
+$
+\begin{aligned}
+         (25 \times a) + 30 (a - 6) &= 370 \\
+25a + (30 \times a) - (30 \times 6) &=    \\
+                    25a + 30a - 180 &=    \\
+                          55a - 180 &= 370  \\
+                                55a &= 370 + 180 \\
+                                55a &= 550  \\
+                                  a &= \dfrac {550}{55} \\\\
+                                  a &= \dfrac{\cancel {550} \raisebox{0.9em}{10}} {\cancel {55}\raisebox{-0.9em}{1}}\\\\
+                                  a &= 10 \\
+                                  a &= \pounds 10 \\
+\end{aligned}
+$
+
+Cost of an adult ticket is $\pounds 10$
+
+Let's calculate the cost of a child ticket.
+
+Cost of a child ticket is $a - 6$. 
+
+$
+\begin{aligned}
+&= (a - 6) \\
+&= 10 - 6 \\
+&= 4 \\
+&= \pounds 4 \\
+\end{aligned}
+$
+
+Cost of a child ticket is $\pounds 4$. 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_talgebra</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>A31A6436-9C6D-4A0E-B943-F8626DF8E8C7</p>
@@ -14503,6 +14986,284 @@ $60$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C3BE9AFF-3897-4101-88BA-E1C514952C0C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alison buys $6$ cups of coffee which cost $\pounds 2.20$ each, $4$ glasses of juice which cost $\pounds 1.15$ each 
+and some packets of crisps which cost $55 \text{p}$ each. She pays by giving the member of staff $\pounds 25$ and receives $\pounds 2.80$ in change.
+
+Using this information, complete the bill below by filling in the five spaces
+
+| $6$ cups of coffee costing $\pounds 2.20$ each         | $\pounds$ |
+|--------------------------------------------------------|-----------|
+| $4$ glasses of juice costing $\pounds 1.15$ each       | $\pounds$ |
+| $\ldots$ packets of crisps costing $55 \text{p}$ each  | $\pounds$ |
+| Total                                                  | $\pounds$ |
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_talgebra</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>75194A1F-473A-4C38-BC62-99DC9DA43047</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The company Clearglass makes and fits window units and has the following scale of charges for its work.
+
+It charges $\pounds 500$ for each square metre of glass in the window unit and there is a fixed charge of $\pounds 150$ for making each window unit.
+
+For example:- the cost of making a unit $2 \ \text{m}$ wide by $1.5 \ \text{m}$ high will be calculated as:
+
+$2 \times 1.5 \times 500 + 150 = 1500 + 150 = \pounds 1650$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the total cost of one window unit which measures $1.5 \ \text{m}$ by $1.8 \ \text{m}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the total cost of a different window unit is $\pounds 1050$, what is its area in $\ \text{m}^2$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the window unit in part b) is $1.5 \ \text{m}$ high, how wide is it?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+
+![missing image](/papers/missing_image.svg)
+
+The diagram above shows a plan of the front window in a house which has to be made and fitted as **three separate** window units. 
+The middle section of the window is $2.2 \ \text{m}$ wide and the side sections are each $0.5 \ \text{m}$ wide. 
+The whole front window is $1.5 \ \text{m}$ high.
+Calculate the total cost of making the three window units for this front window.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_talgebra</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>0D7C430D-B032-4DD3-A97B-F5008B1947C3</p>
@@ -14555,7 +15316,7 @@ $60000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
 </div>
@@ -14694,12 +15455,12 @@ $45p$
 <p>topicpapers_talgebra</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>FEF8AADE-2D7B-4940-99BD-A18E327E4D0F</p>
 </div>
@@ -14857,7 +15618,7 @@ $\pounds 290.43$
 <p>topicpapers_talgebra</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

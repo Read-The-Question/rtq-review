@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvenn"
 title: "TopicPaper - Venn"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -140,7 +140,7 @@ tvenn
 </div>
 <div class='question question'>
 
-In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars are blue. How many cares are there that are neither red nor blue?
+In a car park there are $60$ cars.  of the cars are red and $20\%$ of the cars are blue. How many cars are there that are neither red nor blue?
 
 </div>
 <div class='workings'>
@@ -150,7 +150,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cars (Neither blue nor red)}            &= \text{Total Cars - Red Cars - Blue Cars}  \\\\
+\text{Cars neither red nor blue}              &= \text{Total cars - Red cars - Blue cars}  \\\\
                                               &= 60 - \dfrac {5} {12} \times 60 - 20\% \times 60 \\\\
                                               &= 60 - \dfrac {5 \times 60} {12} - \dfrac {20 \times 60} {100} \\\\
                                               &= 60 - \dfrac {5 \times 5 \times 12} {12} -  \dfrac {20 \times 5 \times 12} {20 \times 5} \\\\

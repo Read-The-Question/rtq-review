@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprobability"
 title: "TopicPaper - Probability"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2495,6 +2495,155 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>5599581A-7917-4CD2-B3A4-F822DE51034E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Here is an octagonal spinner:
+
+![missing image](/papers/missing_image.svg)
+
+For each statement put a tick $(\checkmark)$ if it is true or a cross $(\text{X})$ if it is false.
+
+$3$ is the most likely score $\text{\textunderscore \textunderscore \textunderscore}$
+
+$3$ and $4$ are equally likely scores $\text{\textunderscore \textunderscore \textunderscore}$
+
+Odd and even scores are equally likely $\text{\textunderscore \textunderscore \textunderscore}$
+
+A score of less than $2$ is more likely than a score of $2$ or more $\text{\textunderscore \textunderscore \textunderscore}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+John is designing a spinner. He wants it to only have the numbers $1, 2, 3$ and $4$ on.
+
+He wants the probability of getting a $4$ to be $0.5$.
+
+He wants the probability of getting a $2$ and a $3$ to be equally likely.
+
+He wants the probability of getting a $1$ to be greater than the probability of getting a $3$.
+
+Enter the number(s) $1, 2, 3$ or $4$ into each of the eight sections of the spinner.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tprobability</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>001E0882-A1BE-4150-98B8-37FADECCA6BB</p>
 </div>
 <div class='topics'>
@@ -4053,7 +4202,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_red question'>
+<div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>48808E0F-DECB-4D83-B293-06E1EB8FC2E4</p>
 </div>
@@ -4072,9 +4221,11 @@ I have $6$ blue counters and $4$ red counters in a bag. What is the probability 
 <div class='workings'>
 <div class='working'>
 
+Probability $= \dfrac{\text {Number of favorable outcomes}} {\text{Total number of outcomes}}$
+
 $
 \begin{aligned}
-\text{Probability of red counter}               &= \dfrac {\text{Total red counters}} {\text{Total counters}} \\\\
+\text{Probability of choosing red counter}      &= \dfrac {4} {6 + 4} \\\\
                                                 &= \dfrac {4} {10} \\\\
                                                 &= \dfrac {2 \times 2} {2 \times 5} \\\\
                                                 &= \dfrac {\cancel{2} \times 2} {\cancel{2} \times 5} \\\\
@@ -4096,7 +4247,7 @@ $\dfrac {2} {5}$
 <p>topicpapers_tprobability</p>
 </div>
 <div class='rag'>
-<p>rag_sc_red</p>
+<p>rag_sc_pr</p>
 </div>
 </div>
 </li>
@@ -6030,6 +6181,124 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>843F06E7-DEA4-416D-81A0-B9328792593D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mr Prime has these numbered discs face down on a table:
+
+![missing image](/papers/missing_image.svg)
+
+He turns one over at random.
+
+On the line below, mark the following probabilities with the letters shown:
+
+- the number on his disc is a square number
+
+- the number on his disc is a prime number
+
+- the number on his disc is a multiple of $12$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Even chance}, \text{Certain}, \text{Even chance}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Even chance}, \text{Certain}, \text{Even chance}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tprobability</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>DB4102CE-672D-4D86-95D0-C8DAB8549A61</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Lucy has some fair dice.
+
+She picks one and rolls it.
+
+On the line below, mark the following probabilities with the letters shown:
+
+![missing image](/papers/missing_image.svg)
+
+-   she gets an even number on the top face
+
+-    she gets a $6$ on the top face
+
+-    she gets a number less than $7$ on the top face
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_tprobability</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>4337ACF5-2389-4C33-9973-506F6B0927A3</p>
@@ -6500,6 +6769,181 @@ TODOWORKING
 </div>
 </div>
 <div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tprobability</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>33BEE346-8214-454A-8E9A-33DE4B99AC89</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Each diagram below shows a fair spinner.
+
+It is equally likely to land on any of the $6$ sections.
+
+For each spinner, write a number in each section so that
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+it is certain to land on $2$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+there is an even chance of it landing on $5$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+it is twice as likely to land on $4$ as on $3$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
 <div class='answer'>
 
 TODOANSWER
@@ -7476,6 +7920,137 @@ TODOANSWER
 </div>
 </div>
 
+<div class='papername'>
+<p>topicpapers_tprobability</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>19C6EEF9-9BBD-4ECC-BA1F-1DAEF71D9632</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The spinner below is divided into seven equal sections.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which two numbers are equally likely to come up?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Bob says “$3$ has a less than even change of coming up”.
+
+![missing image](/papers/missing_image.svg)
+
+Is he right?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>topicpapers_tprobability</p>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder"
 title: "TopicPaper - Order"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -155,10 +155,10 @@ Let's calculate the first value.
 
 $
 \begin{aligned}
-&= 15\% \text{ of } \pounds 300 \\\\
-&= \dfrac{15}{100} \times 300 \\\\
-&= \dfrac{15 \times 300}{100}  \\\\
-&= \dfrac{15 \times 3\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 15\% \text{of} \pounds 300 \\\\
+&= \dfrac {15} {100} \times 300 \\\\
+&= \dfrac {15 \times 300} {100}  \\\\
+&= \dfrac {15 \times 3\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
 &= 15 \times 3  \\\\
 &= \pounds 45
 \end{aligned}
@@ -168,10 +168,10 @@ Let's calculate the second value.
 
 $
 \begin{aligned}
-&= 20\% \text{ of } \pounds 240 \\\\
-&= \dfrac{20}{100} \times 240 \\\\
-&= \dfrac{20 \times 240}{100}  \\\\
-&= \dfrac{2\cancel{0} \times 24\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 20\% \text{of} \pounds 240 \\\\
+&= \dfrac {20} {100} \times 240 \\\\
+&= \dfrac {20 \times 240} {100}  \\\\
+&= \dfrac {2\cancel{0} \times 24\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
 &= 2 \times 24  \\\\
 &= \pounds 48
 \end{aligned}
@@ -211,10 +211,10 @@ Let's calculate the first value.
 
 $
 \begin{aligned}
-&= \dfrac {2}{5} \text{ of } \pounds 40 \\\\
-&= \dfrac{2 \times 40}{5} \\\\
-&= \dfrac{2 \times 5 \times 8}{5} \\\\
-&= \dfrac{2 \times \cancel{5} \times 8}{\cancel{5}} \\\\
+&= \dfrac {2} {5} \text{ of } \pounds 40 \\\\
+&= \dfrac {2 \times 40} {5} \\\\
+&= \dfrac{2 \times 5 \times 8} {5} \\\\
+&= \dfrac {2 \times \cancel{5} \times 8} {\cancel{5}} \\\\
 &= 2 \times 8 \\\\
 &= \pounds 16
 \end{aligned}
@@ -225,10 +225,10 @@ Let's calculate the second value.
 $
 \begin{aligned}
 &= 25\% \text{ of } \pounds 64 \\\\
-&= \dfrac{25}{100} \times 64 \\\\
-&= \dfrac{25 \times 64}{100}  \\\\
-&= \dfrac{1600}{100}  \\\\
-&= \dfrac{16\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= \dfrac {25} {100} \times 64 \\\\
+&= \dfrac {25 \times 64} {100}  \\\\
+&= \dfrac {1600} {100}  \\\\
+&= \dfrac {16\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
 &= \pounds 16
 \end{aligned}
 $
@@ -1872,7 +1872,7 @@ $0.067, \quad 0.106, \quad 0.161, \quad 0.601$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE</p>
 </div>
@@ -1928,7 +1928,66 @@ $\dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4
 <p>topicpapers_torder</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>93DF6EBE-0DD9-4615-82AC-50B838D89EAC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Arrange the following fraction in numerical size order, starting with the smallest. 
+
+$\dfrac{3}{10}, \quad \dfrac{1}{5}, \quad \dfrac{3}{2}, \quad \dfrac{1}{20}, \quad \dfrac{1}{4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+$
+\begin{aligned}
+&= \dfrac {3} {10}, \quad \dfrac {1} {5}, \quad \dfrac {3} {2}, \quad \dfrac {1} {20}, \quad \dfrac {1} {4} \\\\
+&= \dfrac {3 \times 2} {10 \times 2}, \quad \dfrac {1 \times 4} {5 \times 4}, \quad \dfrac {3 \times 10} {2 \times 10}, \quad \dfrac {1} {20}, \quad \dfrac {1 \times 5} {4 \times 5} \\\\
+&= \dfrac {6} {20}, \quad \dfrac {4} {20}, \quad \dfrac {30} {20}, \quad \dfrac {1} {20}, \quad \dfrac {5} {20}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac {1} {20}, \quad \dfrac {4} {20}, \quad \dfrac {5} {20}, \quad \dfrac {6} {20}, \quad \dfrac {30} {20} \\\\
+&= \dfrac {1} {20}, \quad \dfrac {1} {5}, \quad \dfrac {1} {4}, \quad \dfrac {3} {10}, \quad \dfrac {3} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {20}, \quad \dfrac {1} {5}, \quad \dfrac {1} {4}, \quad \dfrac {3} {10}, \quad \dfrac {3} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_torder</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
 </div>
 </div>
 </li>
@@ -4822,7 +4881,7 @@ $0.015  \ < \quad  0.1  \ < \quad  0.101  \ < \quad  0.105   \ < \quad 0.11   \ 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>8B6FD361-A184-4175-AE28-7BB1566311AB</p>
 </div>
@@ -4950,7 +5009,55 @@ $\dfrac {2} {5}, \quad 0.467, \quad 48\%, \quad \dfrac {1} {2}, \quad 0.55$
 <p>topicpapers_torder</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>06C36DDD-4E1C-4C82-9BFD-56DF015652DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Arrange the following numbers in order from smallest to largest 
+
+9.7 , 9.63 , 9.099 , 9.199 , 9.20001 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's put them in ascending order.
+
+$
+\begin{aligned}
+&= 9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_torder</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -5312,6 +5419,61 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Arrange these distances in size order, from smallest to largest.
+
+$250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m}$
+
+Let's convert them to same units
+
+$
+\begin{aligned}
+&= 250 \ \text {m} \quad  520 \ \text {m}    \quad 500 \ \text {m} \quad 2050 \ \text {m} \quad 502 \ \text {m} \\\\
+&= 250 \text {m} \ < \quad 500 \ \text {m} \ < \quad 502 \ \text {m} \ < \quad 520 \ \text {m} \ < \quad 2050 \ \text {m} \\\\
+&= 250 \ \text{m} \ < \quad 0.5 \ \text{km} \ < \quad 502 \ \text{m} \ < \quad 0.52 \ \text{km} \ < \quad 2.05 \ \text{km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.52 \ \text{km} \ , \quad 2.05 \ \text{km}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_torder</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -5955,6 +6117,48 @@ $52.4  \quad 52.402 \quad 52.42$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>5702F561-6E2E-4760-BBD8-682C0DF387A6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write these decimals in order of size, starting with the smallest:
+
+$2.3 \quad 2.23 \quad 2.303 \quad 2.203$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2.203, \quad 2.23, \quad 2.3, \quad 2.303$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.203, \quad 2.23, \quad 2.3, \quad 2.303$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>topicpapers_torder</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>CD389F37-64A4-45DB-AE0F-1858129962AE</p>
@@ -6238,7 +6442,7 @@ $\dfrac{3}{4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BE673146-6558-409C-B19C-DD7DE3740A33</p>
 </div>
@@ -6293,7 +6497,7 @@ $\dfrac {2} {3}$
 <p>topicpapers_torder</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

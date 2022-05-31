@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tstatistics"
 title: "TopicPaper - Statistics"
-date: 2022-05-31 00:01:01
+date: 2022-05-31 06:21:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2674,6 +2674,127 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_ej_amber</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>B650F2F1-1FB6-4F45-872E-045F8838014C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The cost of a bottle of lemonade in four different shops is
+
+$42 \text{p}, 38 \text{p}, 40 \text{p}$ and $36 \text{p}$.
+
+Calculate the mean price of a bottle of lemonade.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {40 + 42 + 38 + 36} {4} \\\\
+&= \dfrac {156} {4} \\\\
+&= \dfrac {39 \times 4} {4} \\\\
+&= \dfrac {39 \times \cancel{4}} {\cancel{4}} \\\\
+&= 39
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$39$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Freshly-squeezed lemonade costs $57 \text{p}$ a bottle.
+
+How much would $13$ bottles of this lemonade cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.57 \times 13 \\\\
+&= \pounds 7.14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7.14$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>topicpapers_tstatistics</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>

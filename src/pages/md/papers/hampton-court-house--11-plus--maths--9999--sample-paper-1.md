@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-1"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -992,7 +992,7 @@ $1 \ \dfrac {7} {24}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>F0836808-8AF5-4835-91C5-C018A57F70CC</p>
 </div>
@@ -1126,7 +1126,7 @@ $25, 36$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -1141,10 +1141,7 @@ $25, 36$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1520,9 +1517,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

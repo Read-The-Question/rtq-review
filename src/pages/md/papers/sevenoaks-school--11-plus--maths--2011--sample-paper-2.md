@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2011-sample-paper-2"
 title: "Sevenoaks School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-30 23:47:59
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4CF06226-1747-426B-BA82-C10BCDC5B86E</p>
 </div>
@@ -63,9 +63,9 @@ Work out $36 - 89 + 126$
 
 $
 \begin{aligned}
-&= 36 - 89 + 126 \\\\ 
-&= -52 + 126 \\\\ 
-&= 74 
+&= 36 - 89 + 126 \\\\
+&= -53 + 126 \\\\
+&= 73
 \end{aligned}
 $
 
@@ -74,7 +74,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$74$
+$73$
 
 </div>
 </div>
@@ -96,10 +96,16 @@ Work out $253 \times 180$
 <div class='working'>
 
 $
-\begin{aligned}
-&= 253 \times 180 \\\\
-&= 45,540
-\end{aligned}
+\begin{array}{cccccccccccccc}
+     &              &   2    &   5   &   3 \\
+     &   \times     &   1    &   8   &   0 \\
+\hline
+     &              &   0    &   0   &   0 \\
+2    &   0          &   2    &   4   &   0 \\
+2    &   5          &   3    &   0   &   0 \\
+\hline
+4    &   5          &   5    &   4   &   0
+\end{array}
 $
 
 </div>
@@ -107,7 +113,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$45,540$
+$45540$
 
 </div>
 </div>
@@ -134,7 +140,7 @@ $
 &=  \dfrac {20514} {26} \\\\
 &=  \dfrac{789 \times 26} {26} \\\\
 &=  \dfrac {789 \times \cancel{26} } { \cancel{26} } \\\\
-&=  789 
+&=  789
 \end{aligned}
 $
 
@@ -165,10 +171,12 @@ Subtract six hundred and nine from one thousand and eleven.
 <div class='working'>
 
 $
-\begin{aligned}
-&= 1011 - 609 \\\\
-&= 402
-\end{aligned}
+\begin{array}{cccccccccccccc}
+    &   1   &    0    &    1    &    1 \\
+{}- &       &    6    &    0    &    9 \\
+\hline
+    &       &    4    &    0    &    2
+\end{array}
 $
 
 </div>
@@ -188,12 +196,12 @@ $402$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>0E978EF0-5AA5-41D7-BA1E-A165B13DC328</p>
 </div>
@@ -212,12 +220,11 @@ Maya made three purchases for $\pounds 1.08, \pounds 5.04$ and $\pounds 9.89$. W
 <div class='workings'>
 <div class='working'>
 
-
-
 $
 \begin{aligned}
-\text{Amount spent} &= 1.08 + 5.04 + 9.89 \\\\
-                    &= \pounds 16.01
+\text {Amount spent}  &= 1.08 + 5.04 + 9.89 \\\\
+                      &= \pounds 16.01 \\\\
+                      &= \pounds 16
 \end{aligned}
 $
 
@@ -226,7 +233,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 16.01$
+$\pounds 16$
 
 </div>
 </div>
@@ -235,20 +242,17 @@ $\pounds 16.01$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>0069FF49-93FC-4210-AE5C-E85491840B4B</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -294,9 +298,9 @@ $
 \dfrac{9a} {6}         &= 6 \\\\
 9a                     &= 36 \\\\
 a                      &= \dfrac {36} {9} \\\\
-a                      &= \dfrac {9 \times 3} {9} \\\\
-a                      &= \dfrac {\cancel {9} \times 3} { \cancel {9} } \\\\
-a                      &= 3
+a                      &= \dfrac {9 \times 4} {9} \\\\
+a                      &= \dfrac {\cancel {9} \times 4} { \cancel {9} } \\\\
+a                      &= 4
 \end{aligned}
 $
 
@@ -305,7 +309,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3$
+$4$
 
 </div>
 </div>
@@ -366,12 +370,12 @@ $(19 \times c) + 25 = 101$,    Find $c$.
 
 $
 \begin{aligned}
-(19 \times c)+25  &= 101 \\\\ 
-19c               &= 101 - 25 \\\\ 
-c                 &= \dfrac{76} {19} \\\\ 
-c                 &= \dfrac{19 \times 4} {19} \\\\ 
-c                 &= \dfrac{\cancel {19} \times 4} {\cancel {19} } \\\\ 
-c                 &= 4
+(19 \times c) + 25  &= 101 \\\\
+19c                 &= 101 - 25 \\\\
+c                   &= \dfrac {76} {19} \\\\
+c                   &= \dfrac {19 \times 4} {19} \\\\
+c                   &= \dfrac {\cancel {19} \times 4} {\cancel {19} } \\\\
+c                   &= 4
 \end{aligned}
 $
 
@@ -392,7 +396,7 @@ $4$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -450,17 +454,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>2D3887D2-B353-4878-B512-D95F4548DFE8</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -502,7 +503,7 @@ $17$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
@@ -623,9 +624,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -673,7 +671,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>FEDF1274-F3D1-48A8-9364-946A301048E2</p>
 </div>
@@ -722,12 +720,12 @@ $22$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>A62FD050-8CF5-4180-9976-6E1B8C2FC613</p>
 </div>
@@ -779,10 +777,9 @@ $
 \begin{aligned}
 &= \dfrac {2} {5} \text { of } \pounds{2.50} \\\\
 &= \dfrac {2} {5} \times 2.50 \\\\
-&= \dfrac {2} {5} \times \dfrac{25}{10} \\\\
-&= \dfrac{2 \times 5 \times 5 } {5 \times 5 \times 2} \\\\
-&= \dfrac{\cancel{2} \times \cancel{5} \times \cancel{5} } {\cancel{5} \times \cancel{5} \times \cancel{2}} \\\\
-&= \pounds 1
+&= \dfrac {2 \times 2.50} {5} \\\\
+&= \dfrac {5} {5} \\\\
+&= 1
 \end{aligned}
 $
 
@@ -841,7 +838,7 @@ $15$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -916,7 +913,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -1406,7 +1403,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>BD685B1C-24D9-4333-832A-AC45353FEB89</p>
 </div>
@@ -1462,7 +1459,7 @@ $\dfrac {1} {12}$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>

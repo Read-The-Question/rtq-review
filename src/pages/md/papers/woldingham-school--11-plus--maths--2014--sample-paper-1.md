@@ -1,7 +1,7 @@
 ---
 slug: "papers/woldingham-school-11-plus-maths-2014-sample-paper-1"
 title: "Woldingham School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1447,7 +1447,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
 </div>
@@ -1658,10 +1658,12 @@ $
 &= (50\% + 5\% + 1\%) \times 80 \\\\
 &= 50\% \times 80 + 5\% \times 80 + 1\% \times 80 \\\\
 &= 40 + 4 + \dfrac {4} {5}  \\\\
-&= \dfrac {40 \times 5} {5} + \dfrac {4 \times 5} {5} + \dfrac {4} {5} \\\\
-&= \dfrac {200 + 20 + 4} {5} \\\\
+&= 44 + \dfrac {4} {5}  \\\\
+&= \dfrac {44 \times 5} {1 \times 5} + \dfrac {4} {5} \\\\
+&= \dfrac {220} {5} + \dfrac {4} {5} \\\\
+&= \dfrac {220 + 4} {5} \\\\
 &= \dfrac {224} {5} \\\\
-&= 44\dfrac{4}{5}
+&= 44 \dfrac {4} {5}
 \end{aligned}
 $
 
@@ -1682,7 +1684,7 @@ $44 \dfrac {4} {5}$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -1693,9 +1695,6 @@ $44 \dfrac {4} {5}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2260,15 +2259,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>225E084E-3E8B-41BC-8F2E-8117437E9AF8</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2349,10 +2345,10 @@ $b/a$ = .....................
 
 $
 \begin{aligned}
-&= \dfrac{b}{a} \\\\
-&= \dfrac{28}{7} \\\\
-&= \dfrac{7 \times 4}{7} \\\\
-&= \dfrac{\cancel {7} \times 4}{\cancel {7}} \\\\
+&= \dfrac {b} {a} \\\\
+&= \dfrac {28} {7} \\\\
+&= \dfrac {7 \times 4} {7} \\\\
+&= \dfrac {\cancel {7} \times 4} {\cancel {7}} \\\\
 &= 4
 \end{aligned}
 $
@@ -2409,7 +2405,7 @@ $1125$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -2838,7 +2834,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>6C90D298-28FD-41C8-A233-C293F44572FA</p>
 </div>
@@ -2866,25 +2862,25 @@ How old is the father?
 
 Let the age of father $= a$
 
-Age of daughter $= \dfrac{a}{2}$
+Age of daughter $= \dfrac {a} {2}$
 
-Age of brother $= \dfrac{a}{4}$
+Age of brother $= \dfrac {a} {4}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{age of father} + \text{age of daughter} + \text{age of 2 sons}                            &= 96 \\\\
-a + \dfrac{a}{2} + \dfrac{a}{4} + \dfrac{a}{4}                                                  &= 96 \\\\
-\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a}{4} + \dfrac{a}{4}        &= 96 \\\\
-\dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\ 
+\text{Age of father} + \text{Age of daughter} + \text{Age of 2 sons}                            &= 96 \\\\
+a + \dfrac {a} {2} + \dfrac {a} {4} + \dfrac{a} {4}                                             &= 96 \\\\
+\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a} {4} + \dfrac{a} {4}      &= 96 \\\\
+\dfrac {4a} {4} + \dfrac {2a} {4} + \dfrac {a} {4} + \dfrac {a} {4}                             &= 96 \\\\ 
 \dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
 \dfrac {8a} {4}                                                                                 &= 96 \\\\
 8a                                                                                              &= 96 \times 4 \\\\
-a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{8 \times 12 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
+a                                                                                               &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {8 \times 12 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
 a                                                                                               &= 12 \times 4 \\\\
 a                                                                                               &= 48
 \end{aligned}
@@ -2904,7 +2900,7 @@ $48$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

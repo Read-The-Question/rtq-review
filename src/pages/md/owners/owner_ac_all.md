@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-all"
 title: "Owner - Chiliveru Aravind - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -834,9 +834,6 @@ $594$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1170,9 +1167,6 @@ $600$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1424,10 +1418,7 @@ $32$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1594,72 +1585,6 @@ $81 \text{cm}^2$
 <li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
-<p>53399A4A-DF80-4EFD-BEC4-3F8DC5B49C23</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There is a number of coins on a table. One quarter of them are showing heads. If I turn over two more coins to show heads then one third of the coins now show heads. How many coins are on the table?  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of coins on the table $= c$
-
-Number of coins showing head $= \dfrac {c} {4}$
-
-After turning $2$ more coins on head, i.e., $\dfrac {c} {4} + 2 $
-
-Number of coins showing heads changes to $=\dfrac {c} {3}$ 
-
-Let's form an equation, 
-
-$
-\begin{aligned}
-\dfrac {c} {3}                                                              &= \dfrac {c} {4} + 2 \\\\ 
-\dfrac {c} {3} - \dfrac {c} {4}                                             &= 2 \\\\
-\dfrac {c \times 4} {3 \times 4} - \dfrac {c \times 3} {4 \times 3}         &= 2 \\\\
-\dfrac {4c} {12} - \dfrac {3c} {12}                                         &= 2 \\\\
-\dfrac {4c - 3c} {12}                                                       &= 2 \\\\
-\dfrac {c} {12}                                                             &= 2 \\\\
-c                                                                           &= 2 \times 12 \\\\
-c                                                                           &= 24
-\end{aligned}
-$
-
-The number of coins on the table are $=24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
 <p>7133C4B6-24EB-4420-92C7-0A0CC3F6411E</p>
 </div>
 <div class='topics'>
@@ -1668,7 +1593,7 @@ $24$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1791,7 +1716,7 @@ $6$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>
@@ -2638,9 +2563,6 @@ $\pounds 13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2861,9 +2783,6 @@ $70$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -3431,10 +3350,7 @@ $21, 34$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4130,9 +4046,6 @@ $\pounds 10$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -4191,15 +4104,6 @@ $60$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-tformula
-</li>
 <li>
 talgebra
 </li>
@@ -4462,9 +4366,6 @@ $498$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -4537,7 +4438,7 @@ $36$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4774,272 +4675,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>4C17A102-B152-4344-95F9-A972131EDBC2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The combined age of Alan and Ben is forty three. 
-
-The combined age of Alan and Carl is fifty five and the combined age of Ben and Carl is sixty-six.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the combined age of Alan, Ben and Carl?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the age of Alan $= a$
-
-Let the age of Ben $= b$
-
-Let the age of Carl $= c$
-
-As per the question,
-
-$
-\begin{aligned}
-a + b       &= 43 \\\\
-a + c       &= 45 \\\\
-b + c       &= 66 \\\\
-(a + b) + (b + c) + (a + c)     &= 43 + 66 + 45 \\\\
-2a + 2b + 2c        &= 154 \\\\
-2(a + b + c)        &= 154 \\\\
-a + b + c           &= \dfrac{154}{2} \\\\
-a + b + c           &= \dfrac{77 \times 2}{2} \\\\
-a + b + c           &= \dfrac{77 \times \cancel{2}}{\cancel{2}} \\\\
-a + b + c           &= 77
-\end{aligned}
-$
-
-The combined age of Alan, Ben and Carl $= 77$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$77$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How old is Alan?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-\begin{aligned}
-a + b + c   &= 77 \\\\
-a + 66      &= 77 \\\\
-a           &= 77 - 66 \\\\
-a           &= 11
-\end{aligned}
-
-Age of Alan $= 11$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>59782F67-CD3A-4562-8A32-D1EC35290808</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-After a card game, four gamblers had $\pounds 234$ between them. Harry had $\pounds 20$ more than Dana, 
-Charlotte had $\pounds 53$ more than Dana and Sid had $\pounds 71$ more than Dana.
-
-How much did each of them have?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the amount with Dana $= \pounds d$
-
-Amount with Harry $= \pounds d + 20$
-
-Amount with Charlotte $= \pounds d + 53$
-
-Amount with Sid $= \pounds d + 71$
-
-Total amount $= \pounds 234$
-
-As per the question,
-
-$
-\begin{aligned}
-d + d + 20 + d + 53 + d + 71        &= 234 \\\\
-4d + 144                            &= 234 \\\\
-4d                                  &= 234 - 144 \\\\
-4d                                  &= 90 \\\\
-d                                   &= \dfrac{90}{4} \\\\
-d                                   &= \pounds 22.5
-\end{aligned}
-$
-
-Amount with Dana $= \pounds 22.5$
-
-Amount with Harry $= \pounds 22.5 + 20 = \pounds 42.5$
-
-Amount with Charlotte $= \pounds 22.5 + 53 = \pounds 75.5$
-
-Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Dana $= \pounds 22.5$, Harry $ \pounds 42.5$, Charlotte $= \pounds 75.5$, Sid $= \pounds 93.5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>D29C2F36-7EB5-46B2-8EF3-61D8FC17FEFD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write, in the box, the missing numbers:
-
-$\boxed{\phantom{111}}+ 121 = 212$
-
-$6 \times \boxed{\phantom{111}} = 96$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Mising number $= 212 -121$
-$= 91$
-
-$\boxed{78}+ 121 = 212$
-
-Missing number $
-\begin{aligned}
-&= \dfrac{96} {6} \\\\
-&= \dfrac{6 \times 16} {6} \\\\
-&= \dfrac{\cancel{6} \times 16} {\cancel{6}} \\\\
-&= 16
-\end{aligned}
-$
-
-$6 \times \boxed{16} = 96$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$91, 16$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>B7931AAD-CC40-434A-B67C-9F5D390398BC</p>
 </div>
@@ -5090,7 +4726,7 @@ $\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -5142,70 +4778,6 @@ $5.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>FB54FC28-0CE7-4805-A51B-22A1806749EC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tcircleanswer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put a circle around all the numbers that are between $2.2$ and $2.6$
-
-$2 \dfrac{1}{2} \quad 2 \dfrac{1}{7} \quad 2 \dfrac{6}{11} \quad 2 \dfrac{2}{5} \quad 2 \dfrac{1}{10}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's convert all the frations into decimals.
-
-$
-\begin{aligned}
-2 \dfrac{1}{2}      &= \dfrac{5}{2} = 2.5 \\\\
-2 \dfrac{1}{7}      &= \dfrac{15}{7} = 2.14 \\\\
-2 \dfrac{6}{11}     &= \dfrac{28}{11} = 2.55 \\\\
-2 \dfrac{2}{5}      &= \dfrac{12}{5} = 2.4 \\\\
-2 \dfrac{1}{10}     &= \dfrac{21}{10} = 2.1 \\\\
-\end{aligned}
-$
-
-Numbers between $2.2$ and $2.6$
-
-$
-\begin{aligned}
-&= 2.5, \quad 2.55, \quad 2.4 \\\\
-&= 2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
@@ -5213,13 +4785,7 @@ $2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -5264,77 +4830,6 @@ $8{:}45 \ \text{am}$
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>4D8E25F8-9D3B-41E4-A587-01F4188FD3F2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Alysha and Julia each have some money. 
-
-Altogether they have $\pounds 3.20$. 
-
-Alysha gives Julia $20 \text{p}$ so that they both have the same amount. 
-
-How much money did each have at the start?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the money with Alysha $= a \pounds$
-
-As per the question,
-
-Money with Julia $= 3.2 - a$
-
-Alysha gives $20 \text{p} = 0.2 \pounds$ to Julia to have same amount.
-
-$
-\begin{aligned}
-a - 0.2     &= 3.2 - a + 0.2 \\\\
-a           &= 3.6 - a \\\\
-2a          &= 3.6 \\\\
-a           &= \dfrac{3.6}{2} \\\\
-a           &= \dfrac{36}{20} \\\\
-a           &= \dfrac{18 \times 2}{10 \times 2} \\\\
-a           &= \dfrac{18 \times \cancel{2}}{10 \times \cancel{2}} \\\\
-a           &= \dfrac{18}{10} \\\\
-a           &= \pounds 1.8
-\end{aligned}
-$
-
-Money with Alysha $= \pounds 1.8$
-
-Money with Julia $= 3.2 - 1.8 = \pounds 1.4$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1.8, \pounds 1.4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
 </div>
 </div>
 </li>
@@ -6432,7 +5927,7 @@ $7 \ \text{Alphas} + 17 \ \text{Betas} + 4 \ \text{Gammas}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -7430,9 +6925,6 @@ $\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -7634,7 +7126,7 @@ $15$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -7754,7 +7246,7 @@ $14$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -7874,7 +7366,7 @@ $\pounds 120$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -8766,71 +8258,6 @@ $\dfrac {22} {5} \ \text{or} \ 4 \dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>4B61C938-79C7-44C1-871D-5818101388C0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-My garden centre sells Summer bedding plants at $85 \text{p}$ each. I have $\pounds 30$ to spend. How many plants can I buy? Show your working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-Let's convert the total amount into pence.
-
-$
-\begin{aligned}
-\text{Total amount} &= \pounds 30 \\\\
-&= 30 \times 100 \text{p} \\\\
-&= 3000 \text{p}
-\end{aligned}
-$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Number of plants}     &= \dfrac{\text{Total amount}} {\text{Amount per plant}} \\\\
-                            &= \dfrac {3000} {85} \\\\
-                            &= \dfrac {6 \times 5 \times 100} {17 \times 5} \\\\
-                            &= \dfrac {6 \times \cancel {5} \times 100} {17 \times \cancel {5}} \\\\
-                            &= \dfrac {600} {17} \\\\
-                            &= 39.29
-\end{aligned}
-$
-
-Number of plants that can be brought = $39$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$39$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
 <p>338BD9F0-E09D-4540-A23F-773F26F2E6B6</p>
@@ -8902,9 +8329,6 @@ $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9074,13 +8498,7 @@ $\dfrac {31} {120}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -9256,15 +8674,6 @@ $5, 7, 11$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tfactor
-</li>
 <li>
 tnumber
 </li>
@@ -9817,7 +9226,7 @@ $\text{The missing numbers are :} 39, 187, 112, 10, 112$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -10559,265 +9968,6 @@ $-6 \degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>EA27B9DD-790C-44A0-8752-26E1204AF515</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ben wants to buy $17$ small bottles of drink for a party. A shop sells them at: $15 \text{p}$$ for $1$ bottle; $28 \text{p}$$ for two bottles; $60 \text{p}$$ for a pack of $5$ bottles. What is the smallest amount of money he needs to spend?  [Give your answer in $\pounds s]
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To spend the smallest amount Ben needs to buy maximum possible pack of 5 bottles.
-
-$
-\begin{aligned}
-\text{Bottles needed}   &= 17 \\\\
-&= 15 \ \text{bottles} + 2 \ \text{bottles} \\\\
-&= 3 x 5 \ \text{pack} + 1 x 2 \ \text{pack}
-\end{aligned}
-$
-
-Let's calculate the amount of money he needs to spend.
-
-$
-\begin{aligned}
-\text{Smallest amount he spends}        &= 3 \times \text{Cost of 5 packs} + 1 \times \text{Cost of 2 packs} \\\\
-                                        &= 3 \times 60 \text{p} + 1 \times 28 \text{p} \\\\
-                                        &= 180 \text{p} + 28 \text{p} \\\\
-                                        &= 208 \text{p} \\\\
-                                        &= \pounds \dfrac {208} {100} \\\\
-                                        &= \pounds 2.08
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2.08$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>3CC14E76-50F8-4F46-9B87-410B0584474A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This sequence of numbers goes up by $30$ each time.
-
-$30,\:\:\:\: 60,\:\:\:\: 90,\:\:\:\: 120,\:\:\:\: 150,\:\:\:\: …….$
-
-The sequence continues.
-
-Will the number $1330$ be in the sequence? 
-
-Explain how you know:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-The difference between the terms is $30$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(30+30 \times 1)}}  
-&&  \footnotesize{\maroonC{(30+30 \times 2)}}    
-&&  \footnotesize{\maroonC{(30+30 \times 3)}}
-&&  \footnotesize{\maroonC{(30+30 \times 4)}} \\
-30,  &&    60,  &&  90,  &&   120, &&  150 \ldots
-\end{matrix}
-$
-
-As the sequence goes on increasing in the multiples of 30,
-
-For 1330 to be in the sequence, it should be a multiple of 30.
-
-$
-\begin{aligned}
-&= \dfrac {1330} {30} \\\\
-&= \dfrac {133 \cancel {0}} {3 \cancel {0}} \\\\
-&= \dfrac {133} {3} \\\\
-&= 44 \dfrac {1} {3} \\\\
-\end{aligned}
-$
-
-As it leaves a remainder, it is not a multiple of 30. Hence it is not in the sequence given.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-As 1330 is not a multiple of 30, it is not in the sequence given.
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>94669F97-3EC9-472D-9A7F-01E61D890604</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The four numbers $8,\:\: 3,\:\: 9\:\: and\:\:\:\Box$ have an average of $6$.
-
-
-What number goes in the box?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {8 + 3 + 9 + a} {4}              &= 6 \\\\
-\dfrac {20 + a} {4}                     &= 6 \\\\
-20 + a                                  &= 6 \times 4 \\\\
-20 + a                                  &= 24 \\\\
-a                                       &= 24 - 20 \\\\
-a                                       &= 4
-\end{aligned}
-$
-
-The missing number $= 4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>D3C5761E-89B9-4E65-945B-16E81E23F067</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On the planet Zog, all numbers are written with the digits in reverse order. For example, forty-five is written as $54$. Pluto, an inhabitant of Zog, was given the subtraction $729-26$. If no mistakes were made, what answer did Pluto write down?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-On planet Zog, all numbers are written in reverse order.
-
-So,
-$
-\begin{aligned}
-&= 729 - 26 \\\\
-&= 927 - 62 \\\\
-&= 865
-\end{aligned}
-$
-
-​$865$ will be also written in reverse order $= 568$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$568$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>96DD8910-785D-4B50-83AD-76D577DE0D35</p>
@@ -10888,71 +10038,6 @@ $\text{Both are equal}$
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>9FBBD942-5D1D-4C22-990D-69A275C0ADF1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tpower
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The **$\underline{same}$** number if missing from all three boxes.
-
-Write the same missing number in each box.
-
-$\Box\:\:\:\:\times\:\:\:\:\Box\:\:\:\:\times\:\:\:\:\Box= \:\:\:512$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a^3 &=  2 \times 256 \\\\
-a^3 &= 4 \times 128 \\\\
-a^3 &= 8 \times 64 \\\\
-a^3 &= 8 \times 8 \times 8 \\\\
-a^3 &= 8^3 \\\\
-a &= 8
-\end{aligned}
-$
-
-The number in the missing box $= 8$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
 </div>
 </div>
 </li>
@@ -11076,70 +10161,12 @@ $5.78$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>B7E6722C-8E5D-45BB-B4A4-AF3B197B4FD2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the smallest whole number, above $120$, which when divided by $53$, leaves a remainder of two.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-The number leaves a remainder $2$ when divided by $53$ and is less than $120$
-
-$53 \times 2 = 106$
-$106 < 120$
-
-$53 \times 3 = 159$
-$159 > 120$ So,
-
-$159 + 2 = 161$
-
-The smallest whole number, above $120$ , which when divided by $53$ , leaves a remainder of two $= 161$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$161$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>82081F61-AF8E-4357-8AF9-7FC59FE52137</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -11164,7 +10191,7 @@ Write in the missing numbers:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11357,393 +10384,6 @@ $\text{D}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>2960FFC6-FBA2-447C-BF04-E3648C9CB1C2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I am five years older than my brother. Our ages add up to $23$. How old am I? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let my age $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{My age} + \text{Brother's age}      &= \text{Total age} \\\\
-a + a - 5                   &= 23 \\\\
-2a - 5                      &= 23 \\\\
-2a                          &= 23 + 5 \\\\
-2a                          &= 28 \\\\
-a                           &= \dfrac{28} {2} \\\\
-a                           &= \dfrac{2 \times 14} {2} \\\\
-a                           &= \dfrac{\cancel 2 \times 14} {\cancel 2} \\\\
-a                           &= 14
-\end{aligned}
-$
-
-I am $ = 14 \ \text{years old}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14 \ \text{years}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>10D44C55-4639-4E1B-933F-702EB8DE1D6F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bob’s bucket weighs $21\,kg$ when full of water. After he pours half the water from the bucket, it weighs $12\,kg$. What is the weight of the empty bucket?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the weight of empty bucket $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Weight of empty bucket} + \dfrac{\text{Weight of water}}{2} &= 12 \\\\
-\dfrac{a + 21} {2}                                              &= 12 \\\\
-a + 21                                                          &= 12 \times 2 \\\\
-a + 21                                                          &= 24 \\\\
-a                                                               &= 24 - 21 \\\\
-a                                                               &= 3 \ \text{kg}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{kg}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>E9FF9787-440D-4FF4-81D1-4D7C427F8BD2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
-<li>
-tperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bob has one rectangular tile and one triangular tile like those shown below. **[Diagrams not drawn to scale]**
-
-![missing image](/papers/missing_image.svg)       ![missing image](/papers/missing_image.svg)
-
-He uses them to make this shape.
-
-![missing image](/papers/missing_image.svg)
-
-What is the perimeter of Bob’s shape?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Perimeter of shape}       &= \text{Sum of all sides} \\\\
-                                &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
-                                &= 9 + 6 + 9 + 6 \\\\
-\text{Perimeter of shape}       &= 30 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>B8D6BAFA-557D-451D-BA17-5723EF73E965</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the following list of numbers
-
-$-5\:\:\: -4\:\:\: -3\:\:\: -2\:\:\: -1\:\:\: 0\:\:\: 1\:\:\: 2\:\:\: 3\:\:\: 4\:\:\: 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down two of these numbers with a difference of $8$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Difference between $4$ and $-4$ 
-$
-\begin{aligned}
-&= 4-(-4) \\\\
-&= 4+4 \\\\
-&= 8
-\end{aligned}
-$
-
-Difference between $3$ and $-5$ 
-$
-\begin{aligned}
-&= 3-(-5) \\\\
-&= 3+5 \\\\
-&= 8
-\end{aligned}
-$
-
-Difference between $5$ and $-3$ 
-$
-\begin{aligned}
-&= 5-(-3) \\\\
-&= 5+3 \\\\
-&= 8
-\end{aligned}
-$
-
-The numbers with difference $8$ = $4, -4 \ \text{or} \ 3, -5 \ \text{or} \ 5, -3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4, -4 \ \text{or} \ 3, -5 \ \text{or} \ 5, -3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down two of these numbers which have a sum of $-3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Sum of $-1$ and $-2$ 
-$
-\begin{aligned}
-&= -1-2 \\\\
-&= -3 \\\\
-\end{aligned}
-$
-
-Sum of $-3$ and $0$ 
-$
-\begin{aligned}
-&= -3+0 \\\\
-&= -3 \\\\
-\end{aligned}
-$
-
-Sum of $-4$ and $1$ 
-$
-\begin{aligned}
-&= -4+1 \\\\
-&= -3 \\\\\
-\end{aligned}
-$
-
-The numbers whose sum is $-3$ are $-1, -2 \ \text{or} \ -3, 0 \ \text{or} \ -4, 1$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-1, -2 \ \text{or} \ -3, 0 \ \text{or} \ -4, 1$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>C8B5AFE0-229B-4D30-9B2B-06F02E360468</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is half of $299$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {1} {2} \times 299 \\\\
-&= \dfrac {299} {2} \\\\
-&= \dfrac {300 - 1} {2} \\\\
-&= \dfrac {300} {2} - \dfrac {1} {2} \\\\
-&= \dfrac {2 \times 150} {2} - \dfrac {1} {2} \\\\
-&= \dfrac {\cancel 2 \times 150} {\cancel 2} - \dfrac {1} {2} \\\\
-&= 150 - 0.5 \\\\
-&= 149.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$149.5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_g2 question'>
 <div class='uuid'>
 <p>B09594F6-C583-4EFB-8072-0453A8DD522A</p>
@@ -11774,7 +10414,7 @@ Calculate each of the following
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11937,7 +10577,7 @@ An ant is travelling along the straight line AC as shown below. The distance fro
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12041,7 +10681,7 @@ $640 \text { mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>49BFC6D9-BB28-4B8F-8410-7C6507972FBB</p>
 </div>
@@ -12091,12 +10731,12 @@ $0.101$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>D1877BC6-DBDD-470A-9061-101346F1F6A4</p>
 </div>
@@ -12155,7 +10795,7 @@ $5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -12233,7 +10873,7 @@ $30 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>0B7ECBC1-8D3F-45E4-9633-04391991C44B</p>
 </div>
@@ -12315,7 +10955,7 @@ Missing numbers : 10, 17, 24
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -12353,7 +10993,7 @@ Calculate each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12523,7 +11163,7 @@ Use this result to write down the answers to each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -12659,7 +11299,7 @@ $2.848 \text { kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3</p>
 </div>
@@ -12711,7 +11351,7 @@ $C$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -12908,7 +11548,7 @@ $4.32$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>FD0DC878-E1F6-4200-96B6-EF2237097FF7</p>
 </div>
@@ -13066,7 +11706,7 @@ $6 \ \text{kg}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -13358,9 +11998,6 @@ $16$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -13658,9 +12295,6 @@ $0.008 \ \text{mm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -14890,7 +13524,7 @@ $22 \degree$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -15090,9 +13724,6 @@ $13464$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -15538,7 +14169,7 @@ $\dfrac {13} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>33AA7283-9415-4362-9D2D-CD9DC7BD0B4A</p>
 </div>
@@ -15812,7 +14443,7 @@ Missing number = $1.75$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -16304,10 +14935,7 @@ $4446$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -16376,7 +15004,7 @@ $28 \ \text{m}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>A1E3093E-6A93-4CB8-A627-77D10D5C257A</p>
 </div>
@@ -16582,7 +15210,7 @@ $3$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -17138,7 +15766,7 @@ $5.1 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>F66494CC-21E4-467E-8FDE-DF463E2439E5</p>
 </div>
@@ -17148,7 +15776,7 @@ $5.1 \ \text{m}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tfraction
@@ -17218,7 +15846,7 @@ TODOANSWER
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -18226,9 +16854,6 @@ Any number between $795$ to $805$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

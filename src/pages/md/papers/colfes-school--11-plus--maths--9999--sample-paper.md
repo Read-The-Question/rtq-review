@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -464,7 +464,7 @@ $858$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_pr question'>
+<div class='question_envelope rag_nc_blocked question'>
 <div class='uuid'>
 <p>B7872B8A-9943-4EDF-A994-E7E5E984DD66</p>
 </div>
@@ -508,7 +508,7 @@ $146$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_nc_pr</p>
+<p>rag_nc_blocked</p>
 </div>
 </div>
 </li>
@@ -727,7 +727,7 @@ $25100 \ \text{mm}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -928,9 +928,6 @@ $69, 60$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1328,9 +1325,6 @@ $\pounds 20.90$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1403,7 +1397,7 @@ tunassigned
 tgraph
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tsymmetry
@@ -1726,7 +1720,7 @@ $35 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_pr question'>
+<div class='question_envelope rag_nc_blocked question'>
 <div class='uuid'>
 <p>41469334-E26E-4288-858D-B1A86B728DBC</p>
 </div>
@@ -1819,7 +1813,7 @@ $400$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_nc_pr</p>
+<p>rag_nc_blocked</p>
 </div>
 </div>
 </li>
@@ -2189,13 +2183,7 @@ $-40$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -2350,10 +2338,7 @@ $9.8$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2491,7 +2476,7 @@ $48 \ \text {cm} ^ 2$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-1"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -358,7 +358,7 @@ $\dfrac {22} {5} \ \text{or} \ 4 \dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>4B61C938-79C7-44C1-871D-5818101388C0</p>
 </div>
@@ -381,35 +381,28 @@ It is really important to use the right units in calculations and convert where 
 
 Let's convert the total amount into pence.
 
-$
-\begin{aligned}
-\text{Total amount} &= \pounds 30 \\\\
-&= 30 \times 100 \text{p} \\\\
-&= 3000 \text{p}
-\end{aligned}
-$
-
 As per the question,
 
 $
 \begin{aligned}
-\text{Number of plants}     &= \dfrac{\text{Total amount}} {\text{Amount per plant}} \\\\
-                            &= \dfrac {3000} {85} \\\\
+\text{Number of plants}     &= \dfrac{\text {Total amount}} {\text {Amount per plant}} \\\\
+                            &= \dfrac {\pounds 30} {85} \\\\
+                            &= \dfrac {30 \times 100 \text {p}} {85} \\\\
                             &= \dfrac {6 \times 5 \times 100} {17 \times 5} \\\\
                             &= \dfrac {6 \times \cancel {5} \times 100} {17 \times \cancel {5}} \\\\
                             &= \dfrac {600} {17} \\\\
-                            &= 39.29
+                            &= 35 \dfrac {5} {17}
 \end{aligned}
 $
 
-Number of plants that can be brought = $39$
+Number of plants that can be brought = $35$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$39$
+$35$
 
 </div>
 </div>
@@ -418,7 +411,7 @@ $39$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -626,9 +619,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -797,13 +787,7 @@ $\dfrac {31} {120}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -1130,15 +1114,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tfactor
-</li>
 <li>
 tnumber
 </li>
@@ -1867,7 +1842,7 @@ $\text{The missing numbers are :} 39, 187, 112, 10, 112$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry

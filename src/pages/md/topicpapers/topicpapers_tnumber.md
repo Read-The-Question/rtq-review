@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber"
 title: "TopicPaper - Number"
-date: 2022-05-31 06:21:51
+date: 2022-05-31 16:11:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -203,7 +203,7 @@ $7$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -347,7 +347,7 @@ $\dfrac {4} {5}$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -395,7 +395,7 @@ $1.54$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -442,7 +442,7 @@ $1870$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -498,7 +498,7 @@ $333$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
@@ -626,7 +626,7 @@ $0.575$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:10</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -671,7 +671,7 @@ $59757$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -916,7 +916,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1196,7 +1196,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1242,7 +1242,7 @@ $1778$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -1302,7 +1302,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:25</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1509,7 +1509,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1620,7 +1620,7 @@ $\dfrac {9} {20}$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:0:1</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
@@ -1628,7 +1628,7 @@ $\dfrac {9} {20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>7EEED2AD-4ACE-4231-9E6C-501375169A8F</p>
 </div>
@@ -1772,10 +1772,10 @@ $73188$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -1830,7 +1830,7 @@ $1.1$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
@@ -1883,7 +1883,7 @@ $0.7112$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:0</p>
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
@@ -1938,7 +1938,7 @@ $4.20$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
@@ -1993,7 +1993,7 @@ $1.1$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
@@ -2043,7 +2043,7 @@ $0.7112$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:0</p>
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
@@ -2097,7 +2097,7 @@ $4.20$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
@@ -2243,7 +2243,7 @@ $5.031$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>csse--11-plus--maths--2017--sample-paper-4:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -2292,7 +2292,7 @@ $7.25$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:28</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -2335,7 +2335,7 @@ $60$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -2378,7 +2378,7 @@ $0.2$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -2418,7 +2418,7 @@ $2569$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -2461,7 +2461,7 @@ $0.7$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -2504,7 +2504,7 @@ $76.60$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:31</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -2554,7 +2554,7 @@ $30.282$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:32</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -2606,7 +2606,7 @@ $1.5$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -2720,7 +2720,7 @@ $12.5 \%$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:0:9</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -2833,7 +2833,7 @@ $0.7$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -2948,7 +2948,7 @@ $0.16$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -3061,7 +3061,7 @@ $0.3$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -3248,7 +3248,7 @@ $26.18$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_nm_red</p>
@@ -3363,7 +3363,7 @@ $0.85$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -3427,7 +3427,7 @@ $0.73$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -3542,7 +3542,7 @@ $485$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g2</p>
@@ -3690,7 +3690,7 @@ $\dfrac {3} {5}$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>epsom-college--11-plus--maths--9999--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -3751,7 +3751,7 @@ $0.142$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>forest-school--11-plus--maths--2020--sample-paper-3:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -3861,7 +3861,7 @@ $0.45$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -3909,7 +3909,7 @@ $0.06$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:23</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -3960,7 +3960,7 @@ $0.005$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>forest-school--11-plus--maths--9999--sample-paper-2:0:36</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -4146,7 +4146,7 @@ $2.79$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:21</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -4412,7 +4412,7 @@ $2583$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -4463,7 +4463,7 @@ $17.01$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>king-edwards-school--11-plus--maths--9999--sample-paper-1:0:1</p>
 </div>
 <div class='rag'>
 <p>rag_nc_g1</p>
@@ -4519,7 +4519,7 @@ $71 \ \text {seconds}$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>king-edwards-school--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -4566,7 +4566,7 @@ $1.03$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:23</p>
 </div>
 <div class='rag'>
 <p>rag_nc_g1</p>
@@ -4619,7 +4619,7 @@ $120$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:28</p>
 </div>
 <div class='rag'>
 <p>rag_nc_g1</p>
@@ -4838,7 +4838,7 @@ $\pounds 3.0825$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_nc_g1</p>
@@ -4846,7 +4846,7 @@ $\pounds 3.0825$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>086D94CB-886E-4ACA-8DCD-B35E5C030E87</p>
 </div>
@@ -4883,10 +4883,10 @@ Hundredths
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -4933,7 +4933,7 @@ $84$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
@@ -4991,7 +4991,7 @@ $69977$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -5148,7 +5148,7 @@ $73$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -5382,7 +5382,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_ad_amber</p>
@@ -5538,7 +5538,7 @@ $37$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -5546,7 +5546,117 @@ $37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>02AE8DFB-4F87-46DA-95B0-D6783C21CA17</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A return train ticket for an adult travelling from Leicester to Cambridge costs $\pounds29.40$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the cost of $3$ adult return tickets.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Cost of 3 adult tickets} &= 29.40 \times 3 \\\\
+                                &= \pounds 88.2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 88.2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The price of a childrens ticket is half that of an adult ticket. What is the cost of a return ticket for a child travelling from Leicester to Cambridge?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Cost of a child ticket}  &= \dfrac {29.40} {2} \\\\
+                                &= \pounds 14.7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 14.7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D1915A62-7372-477D-A35A-78B2C0261ECE</p>
 </div>
@@ -5667,14 +5777,15 @@ $600 \div ............. = 50$
 <div class='workings'>
 <div class='working'>
 
-Given
-
 $
 \begin{aligned}
-600 \div 24            &= 25 \\\\
-(600 \div 24) \times 2 &= 25 \times 2 \\\\
-600 \div 24 \times 2   &= 50 \\\\
-600 \div 48            &= 50
+600 \div 24                                             &= 25 \\\\
+\dfrac {600} {24}                                       &= 25 \\\\
+\dfrac {600 \times 2} {24}                              &= 25 \times 2 \\\\
+\dfrac {600 \times 2} {12 \times 2}                     &= 50 \\\\
+\dfrac {600 \times \cancel {2}} {12 \times \cancel {2}} &= 50 \\\\
+\dfrac {600} {12}                                       &= 50 \\\\
+600 \div 12                                             &= 50
 \end{aligned}
 $
 
@@ -5683,7 +5794,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$48$
+$12$
 
 </div>
 </div>
@@ -5692,10 +5803,10 @@ $48$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5993,7 +6104,7 @@ $26$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -6110,7 +6221,7 @@ $85 \ \text{centimeters}$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -6162,7 +6273,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:22</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6407,7 +6518,7 @@ $\dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -6534,7 +6645,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6792,7 +6903,7 @@ $8$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>oundle-school--11-plus--maths--2016--sample-paper-3:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -7081,7 +7192,7 @@ $2338.3$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_ks_amber</p>
@@ -7141,7 +7252,7 @@ $24.12$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -7193,7 +7304,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_sc_red</p>
@@ -7303,7 +7414,7 @@ $13.579$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -7445,7 +7556,7 @@ $0.45$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
@@ -7591,7 +7702,7 @@ $0.014$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:27</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g2</p>
@@ -7640,7 +7751,7 @@ $22.121$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -7761,7 +7872,7 @@ $0.875$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
@@ -7907,7 +8018,7 @@ $0.0075$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:27</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -7956,7 +8067,7 @@ $30.03$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -8095,7 +8206,7 @@ $\dfrac {13} {20}$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
@@ -8160,7 +8271,7 @@ $1.407$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:23</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -8300,7 +8411,7 @@ $\dfrac {707} {1000}$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:27</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -8446,7 +8557,7 @@ $0.06$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:28</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -8486,7 +8597,7 @@ $2.34$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:36</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -8546,7 +8657,7 @@ $50.75$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g2</p>
@@ -8717,7 +8828,7 @@ $75$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_sc_red</p>
@@ -8828,7 +8939,7 @@ $\dfrac {17} {20}$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>
@@ -8883,7 +8994,7 @@ $1.354$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:23</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -9029,7 +9140,7 @@ $0.175$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:28</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -9141,7 +9252,7 @@ $0.125$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -9253,7 +9364,7 @@ $0.6$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -9558,7 +9669,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -9566,7 +9677,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>41E24F51-54D1-465E-BE3F-59870A03565B</p>
 </div>
@@ -9648,7 +9759,7 @@ $1\frac {3} {8}$
 
 $
 \begin{aligned}
-&= 1 \dfrac{3}{5}
+&= 1 \dfrac{3}{5} \\\\
 &= \dfrac {5 + 3} {5} \\\\
 &= \dfrac {8} {5} \\\\
 &= \dfrac {8 \times 2} {5 \times 2} \\\\
@@ -9671,10 +9782,10 @@ $1.6$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -9800,7 +9911,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:13</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -9998,7 +10109,7 @@ $6.00$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -10044,7 +10155,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -10094,7 +10205,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -10145,7 +10256,7 @@ $9.61$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
@@ -10192,7 +10303,7 @@ $0.55$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
@@ -10369,7 +10480,7 @@ $4.23$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
@@ -10417,7 +10528,7 @@ $1.881$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
@@ -10469,7 +10580,7 @@ $\pounds 1.85$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
@@ -10518,7 +10629,7 @@ $\text{Twenty one thousand one hundred seventy one}$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:1</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -10565,7 +10676,7 @@ $5.5$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -10629,7 +10740,7 @@ $2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>
@@ -10739,7 +10850,7 @@ $90$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -10788,7 +10899,7 @@ $\dfrac{2}{3}$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -10837,7 +10948,7 @@ $5.7$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -10982,7 +11093,7 @@ $6666666667$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ac_amber</p>
@@ -11041,7 +11152,7 @@ $9899$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -11138,7 +11249,7 @@ $0.392$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -11190,7 +11301,7 @@ $35$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:13</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -11241,7 +11352,7 @@ $3102019$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:13</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -11302,7 +11413,7 @@ $11106$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
@@ -11491,7 +11602,7 @@ $\pounds 1.45$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
@@ -11621,7 +11732,7 @@ $1.63$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
@@ -11816,7 +11927,7 @@ $60 \pounds$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:0:1</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>
@@ -12043,7 +12154,7 @@ $\pounds 1.85$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g1</p>
@@ -12173,7 +12284,7 @@ $100.08$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g1</p>
@@ -12369,7 +12480,7 @@ $96$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g1</p>
@@ -12558,7 +12669,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_np_amber</p>
@@ -12603,7 +12714,7 @@ $0.5, 0.6$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
@@ -12800,7 +12911,7 @@ $211$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -12854,7 +12965,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -12905,7 +13016,7 @@ $14002$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
@@ -12954,7 +13065,7 @@ $290  \ \text{cm}$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:7</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -12997,7 +13108,7 @@ $20$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
@@ -13043,7 +13154,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -13098,7 +13209,7 @@ $2.4 \text{m}$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -13152,7 +13263,7 @@ $9012213$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:9</p>
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
@@ -13201,7 +13312,7 @@ $51$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
@@ -13209,7 +13320,7 @@ $51$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>09B08DAF-540F-4115-B9CB-3DA13E21C2F3</p>
 </div>
@@ -13298,10 +13409,10 @@ $\pounds 2.80$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -13346,7 +13457,7 @@ $-108$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
@@ -13392,7 +13503,7 @@ $-72$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -13400,7 +13511,7 @@ $-72$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>051EA915-77B1-4C90-B44F-067124622F8F</p>
 </div>
@@ -13439,10 +13550,10 @@ $0.35$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -13487,7 +13598,7 @@ $51$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:7</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
@@ -13546,7 +13657,7 @@ $7050$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -13593,7 +13704,7 @@ $0.72$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -13639,7 +13750,7 @@ $83$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -13688,7 +13799,7 @@ $\dfrac {18} {25}$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -13745,7 +13856,7 @@ $\dfrac {31} {120}$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:9</p>
 </div>
 <div class='rag'>
 <p>rag_ac_pr</p>
@@ -13930,7 +14041,7 @@ $82$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -14076,7 +14187,7 @@ $584$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g2</p>
@@ -14138,7 +14249,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:18</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -14257,7 +14368,7 @@ $5.78$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:23</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -14412,7 +14523,7 @@ $32.4$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g2</p>
@@ -14420,7 +14531,7 @@ $32.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>49BFC6D9-BB28-4B8F-8410-7C6507972FBB</p>
 </div>
@@ -14467,10 +14578,10 @@ $0.101$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -14520,7 +14631,7 @@ $0.872$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:22</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g2</p>
@@ -14635,7 +14746,7 @@ $2.716$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:25</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -14827,7 +14938,7 @@ $4.32$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -14887,7 +14998,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -14944,7 +15055,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -15149,7 +15260,7 @@ $0.78$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -15471,7 +15582,7 @@ $0.09$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -15521,7 +15632,7 @@ $18.87$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -15584,7 +15695,7 @@ $\dfrac {8} {9}$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
 <p>rag_na_g1</p>
@@ -15653,7 +15764,7 @@ $8.4$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:19</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -15750,7 +15861,7 @@ $10.47$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -15883,7 +15994,7 @@ $146700$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:19</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -16075,7 +16186,7 @@ $3 \ratio 7$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -16124,7 +16235,7 @@ $7.9$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_ac_red</p>
@@ -16360,7 +16471,7 @@ $4446$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -16485,7 +16596,7 @@ $\pounds 90,100$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_na_amber</p>
@@ -16530,7 +16641,7 @@ $432$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g2</p>
@@ -16575,7 +16686,7 @@ $9800$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tnumber</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g2</p>

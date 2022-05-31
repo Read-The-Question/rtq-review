@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nc-g1"
 title: "Owner - Neel Chalke - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1228,9 +1228,6 @@ $25100 \ \text{mm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1465,13 +1462,7 @@ $-40$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -3531,9 +3522,6 @@ $14$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -3779,9 +3767,6 @@ $\dfrac {37} {7}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

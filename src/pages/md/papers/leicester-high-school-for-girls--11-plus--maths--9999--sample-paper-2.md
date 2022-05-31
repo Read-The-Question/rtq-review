@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -400,15 +400,12 @@ $4 \text{metres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>9B9050C1-533D-4992-A903-6BF6255CBEA5</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -452,8 +449,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Leena brought}  &= 28 + 13 \\\\
-                       &= 15 \\\\                    
+\text {Leena brought}  &= 28 - 13 \\\\
+                       &= 15
 \end{aligned}
 $
 
@@ -488,7 +485,7 @@ As per the question,
 $
 \begin{aligned}
 \text {Total tokens}  &= 28 + (28 - 13) + (28 + 7) \\\\
-                      &= 78 \\\\                    
+                      &= 78
 \end{aligned}
 $
 
@@ -509,7 +506,7 @@ $78$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -712,14 +709,17 @@ $700$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>02AE8DFB-4F87-46DA-95B0-D6783C21CA17</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tratio
+tnumber
+</li>
+<li>
+tmoney
 </li>
 </ul>
 </div>
@@ -793,7 +793,7 @@ The price of a childrens ticket is half that of an adult ticket. What is the cos
 $
 \begin{aligned}
 \text {Cost of a child ticket}  &= \dfrac {29.40} {2} \\\\
-                                &= \pounds 14.7 \\\\
+                                &= \pounds 14.7
 \end{aligned}
 $
 
@@ -814,7 +814,7 @@ $\pounds 14.7$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1058,7 +1058,7 @@ $306$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>94482E8F-6F8C-4F2F-9BC0-B991B1CFBDB9</p>
 </div>
@@ -1097,7 +1097,7 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -1108,9 +1108,6 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1605,7 +1602,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

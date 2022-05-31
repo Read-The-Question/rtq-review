@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-g2"
 title: "Owner - Nitin Joshi - G2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1049,7 +1049,7 @@ $121$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

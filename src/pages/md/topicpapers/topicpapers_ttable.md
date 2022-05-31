@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttable"
 title: "TopicPaper - Table"
-date: 2022-05-31 06:21:51
+date: 2022-05-31 16:11:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -145,7 +145,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_ttable</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -283,7 +283,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_ttable</p>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ej-g1"
 title: "Owner - Eshudhi Jangid - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -121,9 +121,6 @@ $1610.344$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -470,10 +467,7 @@ $800 \ \text{kilometres per hour}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -648,10 +642,7 @@ $30, 10, 3$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1705,9 +1696,6 @@ $\dfrac {5} {16}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1832,9 +1820,6 @@ $6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2827,9 +2812,6 @@ $21$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -3162,9 +3144,6 @@ $\pounds 288$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -4113,6 +4092,139 @@ $11\degree C$
 <li>
 <div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
+<p>8B6FD361-A184-4175-AE28-7BB1566311AB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the following in order of size, smallest first 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2.34\:\:\:  2.4\:\:\:   3.42\:\:\:   2.43\:\:\:   4.3\:\:\:$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Since all values ae in similar form i.e. decimal 
+
+So, we can write directly in acending order
+
+$
+2.34\:\:\:  2.4\:\:\:   2.43\:\:\:   3.42\:\:\:   4.3\:\:\:
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$ 2.34\:\:\:  2.4\:\:\:   2.43\:\:\:   3.42\:\:\:   4.3\:\:\: $
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{2}\:\:\:    0.55\:\:\:   48\%\:\:\:     \dfrac{2}{5}\:\:\:       0.467$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+In this case, there are more fractions, so let's convert all the numbers into fractions.
+$
+\begin{aligned}
+&= \dfrac {1} {2}, \quad 0.55, \quad 48\%, \quad \dfrac {2} {5}, \quad 0.467 \\\\
+&= \dfrac {1} {2}, \quad \dfrac {55} {100}, \quad \dfrac {48} {100}, \quad \dfrac {2} {5}, \quad \dfrac {467} {1000}
+\end{aligned}
+$
+
+LCM for $2, 100, 100, 5, 1000 = 1000$
+
+Let's use the LCM result to make the denominator the same for all the fractions. 
+$
+\begin{aligned}
+&= \dfrac {1 \times 500} {2 \times 500}, \quad \dfrac {55 \times 10} {100 \times 10}, \quad \dfrac {48 \times 10} {100 \times 10}, \quad \dfrac {2 \times 200} {5 \times 200}, \quad \dfrac {467 } {1000 } \\\\
+&= \dfrac {500} {1000}, \quad \dfrac {550} {1000}, \quad \dfrac {480} {1000}, \quad \dfrac {400} {1000}, \quad \dfrac {467} {1000}
+\end{aligned}
+$
+
+Now let's put them in ascending order.
+
+$
+\begin{aligned}
+&= \dfrac {400} {1000}, \quad \dfrac {467} {1000}, \quad \dfrac {480} {1000}, \quad \dfrac {500} {1000}, \quad \dfrac {550} {1000} \\\\
+\end{aligned}
+$
+
+$
+&= \dfrac {2} {5}, \quad 0.467, \quad 48\%, \quad \dfrac {1} {2}, \quad 0.55 
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {5}, \quad 0.467, \quad 48\%, \quad \dfrac {1} {2}, \quad 0.55$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
 <p>61455771-DC15-4F7F-9217-66DE0D6D1226</p>
 </div>
 <div class='topics'>
@@ -4566,10 +4678,7 @@ $156$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4742,9 +4851,6 @@ $29$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -5959,7 +6065,7 @@ $1 \quad  4  \quad  7 \quad 10 \quad 13 \quad  16  \ldots$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5985,7 +6091,7 @@ From the numbers in the list above, write down:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -6195,7 +6301,7 @@ He takes $86$ photographs on Monday and $58$ photographs on Tuesday
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6266,7 +6372,7 @@ $24$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -6380,7 +6486,7 @@ $18.7 \quad 18.67 \quad 20.3 \quad 20.27 \quad 18.706$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6513,7 +6619,7 @@ The population of Sumford is $9080$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6617,7 +6723,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-all"
 title: "Owner - Sahil Choudhary - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1621,9 +1621,6 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1874,7 +1871,7 @@ tnumber
 tgeometry
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2220,9 +2217,6 @@ $(4.65 \div 15) \times 19$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2442,7 +2436,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3342,7 +3336,7 @@ $\dfrac {1} {2}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3402,7 +3396,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3460,9 +3454,6 @@ $12.5$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -3604,7 +3595,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -4095,9 +4086,6 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -4657,9 +4645,6 @@ $26 \ \text{km}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -4821,7 +4806,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -5655,13 +5640,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfactor
 </li>
 </ul>
 </div>
@@ -6859,9 +6838,6 @@ $428 \text {p}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -6919,12 +6895,6 @@ $501$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 talgebra
 </li>
@@ -7327,7 +7297,7 @@ $\dfrac {3} {8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_blocked question'>
 <div class='uuid'>
 <p>A3E2A396-36A1-43D4-9B0A-20559805248E</p>
 </div>
@@ -7376,7 +7346,7 @@ $3 \ \text{and} \ 0$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_blocked</p>
 </div>
 </div>
 </li>
@@ -7388,13 +7358,7 @@ $3 \ \text{and} \ 0$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -7453,9 +7417,6 @@ $6x + 4y$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -7741,13 +7702,7 @@ $0.014$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -9565,9 +9520,6 @@ $0.0075$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -9628,9 +9580,6 @@ $4 \ \text{and} \ 7$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -12254,9 +12203,6 @@ $0.73$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -14172,9 +14118,6 @@ $60$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -14821,10 +14764,7 @@ $\text{Closest number to} \ 60 = 58 \\\\
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -15489,13 +15429,7 @@ $804 \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -15854,7 +15788,7 @@ $7$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -16809,9 +16743,6 @@ $53.71$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -17684,9 +17615,6 @@ Height $= 35 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -17744,9 +17672,6 @@ $36$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -18266,10 +18191,7 @@ $8$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -20077,7 +19999,7 @@ $8 \ \text{km}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -20363,10 +20285,7 @@ $\pounds 4.30$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -20925,7 +20844,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -21103,7 +21022,7 @@ $40 \degree$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -21273,7 +21192,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_blocked question'>
 <div class='uuid'>
 <p>F0E5AC4B-9543-44E6-BAB8-0991A9B073BD</p>
 </div>
@@ -21318,7 +21237,7 @@ $10$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_blocked</p>
 </div>
 </div>
 </li>
@@ -21532,9 +21451,6 @@ $2100 \ \text{m}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -21837,9 +21753,6 @@ $2, \ 3, \ \text{and} \ 5$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -23944,9 +23857,6 @@ $40 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -24010,9 +23920,6 @@ $24 \ \text{Balloons}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

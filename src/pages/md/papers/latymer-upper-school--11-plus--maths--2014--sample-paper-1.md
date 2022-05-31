@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2014-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-30 23:47:59
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
 </div>
@@ -65,7 +65,7 @@ $624$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -488,9 +488,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1129,7 +1126,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1310,7 +1307,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>3E2622D7-39D2-4869-AA49-57F537C5C296</p>
 </div>
@@ -1502,7 +1499,7 @@ $16, -32$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -1974,9 +1971,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2146,7 +2140,7 @@ $14$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

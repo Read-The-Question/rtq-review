@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-e"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper E"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1170,7 +1170,7 @@ tdraw
 tsymmetry
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tpercentageadvance
@@ -1605,10 +1605,7 @@ $90 \ \text {ml}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1674,7 +1671,7 @@ $158 \ \text {cm}^2, \ 76 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_pr question'>
+<div class='question_envelope rag_nm_blocked question'>
 <div class='uuid'>
 <p>7108AA2C-B831-419E-BE02-D136ECF3569E</p>
 </div>
@@ -1813,7 +1810,7 @@ $8 \ \text{minutes}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_nm_pr</p>
+<p>rag_nm_blocked</p>
 </div>
 </div>
 </li>
@@ -2012,7 +2009,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tinfer

@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -144,7 +144,7 @@ $4693$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -769,7 +769,7 @@ $88.5$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1645,7 +1645,7 @@ $\pounds 120.00$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1929,9 +1929,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2179,9 +2176,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2511,7 +2505,7 @@ $22$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>6C22BF99-C3EE-4BB0-97A7-2F1DB20CA8EC</p>
 </div>
@@ -2574,12 +2568,12 @@ $28$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>DF77EE8C-A65D-4822-811C-A05C8B8B987E</p>
 </div>
@@ -2656,12 +2650,12 @@ $49$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>03062397-6A4C-462F-A913-57F1FA0E1B4A</p>
 </div>
@@ -2719,7 +2713,7 @@ $49$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -3117,7 +3111,7 @@ $0$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3185,7 +3179,7 @@ $80 \ \text{cm}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

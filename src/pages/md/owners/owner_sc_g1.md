@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-sc-g1"
 title: "Owner - Sahil Choudhary - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -954,9 +954,6 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1149,7 +1146,7 @@ tnumber
 tgeometry
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1495,9 +1492,6 @@ $(4.65 \div 15) \times 19$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1717,7 +1711,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2497,7 +2491,7 @@ $\dfrac {1} {2}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2555,9 +2549,6 @@ $12.5$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2732,9 +2723,6 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -3240,9 +3228,6 @@ $26 \ \text{km}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -3304,7 +3289,7 @@ $9$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4367,9 +4352,6 @@ $428 \text {p}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -4427,12 +4409,6 @@ $501$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 talgebra
 </li>
@@ -4700,9 +4676,6 @@ $\dfrac {3} {8}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -4841,13 +4814,7 @@ $\dfrac {1} {3}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -5817,9 +5784,6 @@ $0.0075$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -7091,9 +7055,6 @@ $119$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -8183,9 +8144,6 @@ $60$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -8832,10 +8790,7 @@ $\text{Closest number to} \ 60 = 58 \\\\
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -9566,7 +9521,7 @@ $7$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -10521,9 +10476,6 @@ $53.71$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -11396,9 +11348,6 @@ Height $= 35 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -11456,9 +11405,6 @@ $36$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -11978,10 +11924,7 @@ $8$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -13739,7 +13682,7 @@ $8 \ \text{km}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -14025,10 +13968,7 @@ $\pounds 4.30$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -14639,9 +14579,6 @@ $60 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -14943,9 +14880,6 @@ $2, \ 3, \ \text{and} \ 5$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -16343,9 +16277,6 @@ $40 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -16409,9 +16340,6 @@ $24 \ \text{Balloons}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

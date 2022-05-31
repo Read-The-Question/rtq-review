@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-ttrialerror-all"
 title: "Topic - Trialerror - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>B281E4BD-D74F-47C1-9CA7-E354CB7604AA</p>
 </div>
@@ -53,12 +53,12 @@ $3 + (5 \times 2) + 3$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_blocked question'>
 <div class='uuid'>
 <p>F7F2FFC1-D62D-4514-9BEE-0D066D637BB9</p>
 </div>
@@ -105,7 +105,7 @@ $ (3 \times (4 - 2)) + 3 = 9$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_blocked</p>
 </div>
 </div>
 </li>
@@ -740,60 +740,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_red question'>
-<div class='uuid'>
-<p>68B5F9D8-6802-4D8A-9E11-07B4B6B7DBB1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tquadraticprompt
-</li>
-<li>
-ttrialerror
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down two numbers which differ by $2$ and multiply to $168$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
- 14 - 12  & = 2 \\\\
- 14 \times 12 &= 168 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14, 12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_np_red</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>651FA161-719C-4CEA-8415-BD9C2BEF8759</p>
@@ -856,13 +802,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 <li>
 ttrialerror
@@ -999,7 +939,7 @@ Total CDs = 7 + 3
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>74DBCD36-37BB-4856-BF34-7C3AA8E7DF0E</p>
 </div>
@@ -1012,13 +952,10 @@ tunassigned
 talgebra
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tquadraticprompt
-</li>
-<li>
-tperimeter
 </li>
 <li>
 ttrialerror
@@ -1086,7 +1023,7 @@ $34 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -1192,9 +1129,6 @@ $91$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1457,10 +1391,7 @@ tunassigned
 tquadraticprompt
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 <li>
 ttrialerror

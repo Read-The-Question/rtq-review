@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-30 23:47:59
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>78014A49-10F8-489D-B6FC-B8F15474740B</p>
 </div>
@@ -171,7 +171,7 @@ $75 \%$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -668,12 +668,6 @@ $11$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 talgebra
 </li>
@@ -1335,10 +1329,7 @@ $\pounds 40.8$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

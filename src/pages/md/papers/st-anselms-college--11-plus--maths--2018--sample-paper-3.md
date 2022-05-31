@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -727,9 +727,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -920,7 +917,7 @@ $\text{angle Q}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>CA1A895E-6265-45AE-9284-3A2A9AD27F9C</p>
 </div>
@@ -1167,7 +1164,7 @@ $0.16, 0.032$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>

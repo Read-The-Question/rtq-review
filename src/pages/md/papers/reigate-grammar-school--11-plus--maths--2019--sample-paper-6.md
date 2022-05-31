@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -325,10 +325,7 @@ $8$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2323,7 +2320,7 @@ $8 \ \text{km}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-g1"
 title: "Topic - Time - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -363,6 +363,57 @@ $155 \ \text{minutes}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>E910C2F9-6456-4BBC-AFDD-535BDC142506</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Freya’s bus leaves at $08{:}05$. She arrives $12 \ \text{minutes}$ early 
+for the bus. When does she arrive?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Arrival Time}  &= 8 {:} 05 - 12 \ \text{minutes} \\\\
+                     &= 7 {:} 58
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 {:} 58$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
 <p>FF8DD05C-B551-450C-9DFF-1AF6454C83A6</p>
@@ -417,6 +468,62 @@ $210 \text{ minutes}$
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>D1E91C2C-7808-4EE0-BABC-FC7615F5E3D4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How long is it, in hours and minutes, between $09{:}34$ and $13{:}21$?
+
+-  $4 \ \text{hrs} 57 \ \text{mins}$ 
+-  $3 \ \text{hrs} 47 \ \text{mins}$ 
+-  $4 \ \text{hrs} 37 \ \text{mins}$
+-  $22 \ \text{hrs} 55 \ \text{mins}$ 
+-  $4 \ \text{hrs} 13 \ \text{mins}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Difference}   &= 13{:}21 - 9{:}34 \\\\
+                     &= 4 \ \text {hours} \ 47 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$ 4 \ \text{hours} \ 47 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -920,6 +1027,67 @@ $7{:}35 \ \text{a.m}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>FF15893E-F772-4830-8CA9-E540E52C0887</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**For question $\bold{25}$ and $\bold{26}$ use the information provided in this box.**
+
+![missing table](/papers/missing_table.svg)
+
+For how many hours is it open each week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+| Day                | Opening hours   |
+|--------------------|-----------------|
+| SAT                | 9 Till 5        |
+| SUN                | 1 Till 5        |
+| WEDS and FRI       | 2 Till 5        |
+
+Let's calculate the total hours it is open in each week.
+
+$
+\begin{aligned}
+\text{Total hours}   &= \text {Sat} + \text {Sun} + \text {Wed} + \text {Fri} \\\\
+                     &= 8 \ \text {hours}  +  4 \ \text {hours} +  3 \ \text {hours} +  3 \ \text {hours} \\\\
+                     &= 18 \ \text{hours}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18 \text{hours}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>437B376F-722B-4F93-B234-58C2F593FE92</p>
 </div>
 <div class='topics'>
@@ -1081,6 +1249,59 @@ $742  \ \text{minutes}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>CAB14175-FD8C-4B4B-8845-6C9DD350BC9F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of an hour is $5$ minutes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text {Fraction}    &= \dfrac {5} {60} \\\\
+                    &= \dfrac {5} {5 \times 12} \\\\
+                    &= \dfrac {\cancel {5}} {\cancel {5} \times 12} \\\\
+                    &= \dfrac {1} {12}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {12}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>6758134C-A670-44FB-BDD8-5A6BEBD3402C</p>
 </div>
 <div class='topics'>
@@ -1231,6 +1452,60 @@ $16.30$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>3452FC7B-6354-498B-9BE2-BF8B78CD5FC9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of a day is $15 \ \text{minutes}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text {Fraction}    &= \dfrac {15} {3600} \times 24 \\\\
+                    &= \dfrac {15 \times 24} {3600} \\\\
+                    &= \dfrac {15 \times 24} {15 \times 24 \times 10} \\\\
+                    &= \dfrac {\cancel {15} \times \cancel {24}} {\cancel {15} \times \cancel {24} \times {10}} \\\\
+                    &= \dfrac {1} {10}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {10}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>58963C70-4BF5-4BBC-9722-C4DB92F81077</p>
 </div>
 <div class='topics'>
@@ -1276,6 +1551,59 @@ $385  \ \text{minutes}$
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>68822C6B-6F06-415B-8DA6-B4B68895040B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of an hour is $4 \ \text{minutes}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text {Fraction}    &= \dfrac {4} {60} \\\\
+                    &= \dfrac {4} {4 \times 15} \\\\
+                    &= \dfrac {\cancel {4}} {\cancel {4} \times 15} \\\\
+                    &= \dfrac {1} {15}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {15}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -1800,9 +2128,6 @@ $2 \ \text {hours} \ 30 \ \text {minutes}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2599,6 +2924,193 @@ $6 \ \text {hours} \ 12 \ \text {minutes}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>95AA3A28-967A-4FCB-91EC-525305242C25</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A train leaves Carlisle station at $3.37 \ \text{pm}$ and arrives in London at $6.48 \ \text{pm}$.
+
+
+How long did the journey take?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Time taken} &= 6.48 \ \text{pm} - 3.37 \ \text{pm} \\\\
+                  &= 3 \ \text {hours} 11 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text {hours} 11 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>2703C7F6-30C9-4C88-BEED-BD1AB762A00C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Some people use this rule to work out how many hours’ sleep each night young children need.
+
+Subtract the child’s age in years from $30$, then divide the result by $2$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sanjay is $8$ years old.
+
+Use the rule to work out how many hours’ sleep he needs.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the rule,
+
+$
+\begin{aligned}
+\text {Number of hours}   &= \dfrac {30 - 8} {2} \\\\
+                          &= \dfrac {22} {2} \\\\
+                          &= \dfrac {11 \times 2} {2} \\\\
+                          &= \dfrac {11 \times \cancel {2}} {\cancel {2}} \\\\
+                          &= 11 \ \text {hours}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11 \ \text {hours}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Lisa is $6$ years old.
+
+She wakes up every morning at $7 \ \text{am}$.
+
+Use the rule to work out what time she needs to go to sleep.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the rule,
+
+$
+\begin{aligned}
+\text {Number of hours}    &= \dfrac {30 - 6} {2} \\\\
+                           &= \dfrac {24} {2} \\\\
+                           &= \dfrac {2 \times 12} {2} \\\\
+                           &= \dfrac {\cancel {2} \times 12} {\cancel {2}} \\\\
+                           &= 12 \ \text {hours}
+\end{aligned}
+$
+
+$\text {So she needs to go to sleep} = 7 \ \text {pm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 \ \text {pm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>F432AD9A-242A-4CE5-A114-1BB951BB20B5</p>
@@ -2895,6 +3407,67 @@ $2{:}11 \ \text {pm}$
 
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>3206AC5E-10AC-4792-AC6F-6BBD072B959C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Femi takes $2\ \text{hours}$ and $53\ \text{minutes}$ to cycle from London to Reading. If he arrived at $3:21 \ \text{pm}$, at what time must he have set off? 
+
+A: $12:24 \ \text{pm}$ 
+
+B: $1:24 \ \text{pm}$ 
+
+C: $12:28 \ \text{pm}$ 
+
+D: $12:18 \ \text{pm}$ 
+
+E: $1:28 \ \text{pm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Start time}   &= 3{:}21 \text{pm} - 2 \ \text{hours} 53 \ \text{minutes} \\\\
+                     &= 12{:}28 \ \text {pm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12{:}28 \ \text {pm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -4505,13 +5078,7 @@ $01{:}52 \ \text {P.M}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -4894,6 +5461,131 @@ $112 \ \text{minutes}$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>42B09AC3-796B-4A16-B123-5A18D316FA38</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The opening hours of my local supermarket are $7 \ \text{am}$ to $9 \ \text{pm}$ Mondays to Saturdays and 
+$10{:}30 \ \text{am}$ to $4{:}30 \ \text{pm}$ on Sundays. For how many hours does this supermarket open each week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Opening hours from Monday to Saturday} &= 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} \\\\
+                                             &= 14 \ \text{hours}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Opening hours on Sunday} &= 4{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
+                               &= 6 \ \text{hours}
+\end{aligned}
+$
+
+Number of hours from Monday to Saturday $= 14 \times 6$
+
+Number of hours on Sunday $= 6$
+
+$
+\begin{aligned}
+\text{Total hours}  &= 14 \times 6 + 6 \\\\
+                    &= 84 + 6 \\\\
+                    &= 90 \ \text {hours}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90 \ \text {hours}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>5C8F5D72-0C11-4187-B036-6028A9F59B70</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A concert performance of Mahler's third symphony begins at $7{:}35 \ \text{pm}$ and ends at 
+$9{:}11 \ \text{pm}$. 
+How many minutes does it last?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Concert performance lasted}          &= \text{End time} - \text{Start time} \\\\
+                                           &= 9{:}11 \ \text{pm} - 7{:}35 \ \text{pm} \\\\
+                                           &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
+                                           &= 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
+                                           &= 96 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$96 \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -6164,6 +6856,72 @@ $35 \ \text{minutes}$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>08CCE0CE-B784-477D-8641-E1FBE38BAD33</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alison watches two quiz programmes on TV. The first 
+is on from $6.35 \ \text{pm}$ until $7.15 \ \text{pm}$, the 
+second lasts for half an hour. Later on, she watches 
+a film from $9.30 \ \text{pm}$ until $11.25 \ \text{pm}$. In 
+hours and minutes, how long has she spent watching TV?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{First quiz duration}  &= 7.15 \ \text{pm} - 6.35 \ \text{pm} \\\\
+                            &= 40 \ \text{min} \\\\
+\text{Second quiz duration} &= 30 \ \text{min} \\\\
+\text{Film duration}        &= 11.25 \ \text{pm} - 9.30 \ \text{pm} \\\\
+                            &= 1 \ \text{hour} \ 55 \ \text{min}
+\end{aligned}
+$
+
+Let's calculate the total time spent watching TV.
+
+$
+\begin{aligned}
+\text{Total time}   &= 40 \ \text{min} + 30 \ \text{min} + 1 \ \text{hour} \ 55 \ \text{min} \\\\
+                    &= 3 \ \text{hour} \ 5 \ \text{minutes} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$ hours $5$ minutes
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

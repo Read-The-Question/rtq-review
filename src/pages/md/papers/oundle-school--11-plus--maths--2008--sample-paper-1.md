@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -896,7 +896,7 @@ $600000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>662D8D5A-FC30-4723-82E2-9B0B4ED1FDE9</p>
 </div>
@@ -934,7 +934,7 @@ $56 p , So 10*5 and 5*5 and 1*1$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -1043,7 +1043,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>AC3AC204-80D4-4019-BF9B-79C535481A56</p>
 </div>
@@ -1258,12 +1258,12 @@ $1012$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>F6E507E4-5513-450C-A164-F9F381B9B8BE</p>
 </div>
@@ -1273,7 +1273,7 @@ $1012$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1321,20 +1321,17 @@ $72$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>C2047E1E-44EC-45A8-8D46-B84E3ACCC574</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1373,7 +1370,7 @@ $36 days$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -1476,7 +1473,7 @@ $34587$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>C2E4602D-7614-4602-B0C7-6BE05EC0D2F4</p>
 </div>
@@ -1527,7 +1524,7 @@ $9,12$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -1578,15 +1575,12 @@ $\text {Wednesday}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>2225AC51-DD9D-4735-95C7-96330E32FE3A</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1643,7 +1637,7 @@ $147$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-pr"
 title: "Topic - Detailedmultiplication - PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -106,7 +106,7 @@ $10010$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>469D229E-728D-4AC5-9C0D-417EB0BBF6F7</p>
 </div>
@@ -127,13 +127,13 @@ Work out $813 \times 72$
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       8       & 1     & 3     \\
-{}\times    &       &               & 7     & 2     \\
+     &        &   8         &   1   &   3 \\
+     &        &   \times    &   7   &   2 \\
 \hline
-            &  1    &       6       & 2     & 6     \\
-5           &      6&       9       & 1     & 0     \\
+     &   1    &   6         &   2   &   6 \\
+5    &   6    &   9         &   1   &   0 \\
 \hline
-5           &      8&       5       & 3     & 6
+5    &   8    &   5         &   3   &   6
 \end{array}
 $
 
@@ -142,7 +142,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$58,536$
+$58536$
 
 </div>
 </div>
@@ -151,7 +151,7 @@ $58,536$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -478,163 +478,6 @@ $1 \ \text{and} 8$
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>F2D84620-5FC8-4469-A7DA-4FEFD38284C0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tnumber
-</li>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$15 \times 34 = 510$
-
-Use this information to work out:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$150 \times 340$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-15 \times 34                     &= 510 \\\\
-15 \times 10 \times 34 \times 10 &= 510 \times 100 \\\\
-150 \times 340                   &= 51000
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51000$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$15 \times 17$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-15 \times 34          &= 510 \\\\
-15 \times 17 \times 2 &= 510 \\\\
-15 \times 17          &= \dfrac {510} {2} \\\\
-15 \times 17          &= \dfrac {255 \times 2} {2} \\\\
-15 \times 17          &= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
-15 \times 17          &= 255
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$255$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$510 + 17$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-15 \times 34          &= 510 \\\\
-15 \times 17 \times 2 &= 510 \\\\
-15 \times 2           &= \dfrac {510} {17} \\\\
-\dfrac {510} {17}     &= 15 \times 2 \\\\
-\dfrac {510} {17}     &= 30 \\\\
-510 \div 17           &= 30
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -977,56 +820,6 @@ $19764$
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>E3B1DC3D-1BD8-4BE9-A7C2-49FC9CB61D1F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $294 \times 70$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-            &       &       2       & 9     & 4     \\
-            &       &     {}\times  & 7     & 0     \\
-\hline
-            &       &       0       & 0     & 0     \\
-2           &      0&       5       & 8     & 0     \\
-\hline
-2           &      0&       5       & 8     & 0
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20580$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
 <p>592A7270-AE5F-46DD-A5CD-5293B41C79F7</p>
 </div>
 <div class='topics'>
@@ -1068,117 +861,6 @@ $11220$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>41576BB3-630B-4093-87FE-EF0A153AB637</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedmultiplication
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $418 \times 70$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-            &       &       4       & 1     & 8     \\
-            &       &     \times    & 7     & 0     \\
-\hline
-            &       &       0       & 0     & 0     \\
-2           &      9&       2       & 6     & 0     \\
-\hline
-2           &      9&       2       & 6     & 0
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$29260$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>A9D3F12F-85C8-4CF8-8225-C1BB3ABCA272</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $2.42 \times 1.6$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first multiply the numbers ignoring the decimal points.
-
-$
-\begin{array}{cccccccccccccc}
-            &   2   &   4    &    2 \\
-\times      &       &   1    &    6 \\
-\hline  
-1           &   4   &   5    &    2 \\ 
-2           &   4   &   2    &    0 \\
-\hline  
-3           &   8   &   7    &    2
-\end{array}
-$
-
-Between the two numbers, the total number of digits after the decimal point is three.
-
-Let's account for the decimal point now.
-
-$= 3.872$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.872$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>

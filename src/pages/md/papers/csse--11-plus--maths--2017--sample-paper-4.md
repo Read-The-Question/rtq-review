@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2017-sample-paper-4"
 title: "Csse - 11 Plus - Maths - 2017 - Sample Paper 4"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1808,7 +1808,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -2688,10 +2688,7 @@ tunassigned
 ttable
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

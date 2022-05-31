@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-1"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -895,7 +895,7 @@ tsymmetry
 tgraph
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1670,7 +1670,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>66F3BB48-9E07-49F4-B6BC-D5FF57B45B59</p>
 </div>
@@ -1901,7 +1901,7 @@ $\text {Impossible}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -2593,9 +2593,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -2820,10 +2817,7 @@ $\text {square}$
 <div class='topics'>
 <ul>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -331,9 +331,6 @@ $18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -396,7 +393,7 @@ $25 \ \text{cm}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -710,7 +707,7 @@ $42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>91042F17-061F-4256-AC8C-8BE46A41FCD2</p>
 </div>
@@ -756,7 +753,7 @@ $\dfrac {9} {25}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -857,9 +854,6 @@ $56$ coins
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -974,15 +968,12 @@ $30 \ \text{pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>BFE40D96-8522-4C51-9255-AA907949965E</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1109,12 +1100,12 @@ $\pounds 7$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>74DBCD36-37BB-4856-BF34-7C3AA8E7DF0E</p>
 </div>
@@ -1127,13 +1118,10 @@ tunassigned
 talgebra
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tquadraticprompt
-</li>
-<li>
-tperimeter
 </li>
 <li>
 ttrialerror
@@ -1201,7 +1189,7 @@ $34 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

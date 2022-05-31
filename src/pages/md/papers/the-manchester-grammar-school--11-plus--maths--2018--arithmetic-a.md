@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic A"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -609,10 +609,7 @@ tunassigned
 tquadraticprompt
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 <li>
 ttrialerror
@@ -688,9 +685,6 @@ $5 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -751,15 +745,12 @@ $35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>815AB33A-E6F1-4432-B03B-F60E812D1A18</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -818,7 +809,7 @@ $43$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -903,9 +894,6 @@ $\pounds 144$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1119,7 +1107,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>64D05414-BEA8-4226-8051-BDA5464DA810</p>
 </div>
@@ -1167,12 +1155,12 @@ $4$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>19528BB0-C11D-48F8-8DAB-32D249EC8D2D</p>
 </div>
@@ -1256,7 +1244,7 @@ $119$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>

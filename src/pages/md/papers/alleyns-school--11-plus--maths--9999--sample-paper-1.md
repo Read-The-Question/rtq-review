@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-1"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -418,7 +418,7 @@ $1:4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>D1E91C2C-7808-4EE0-BABC-FC7615F5E3D4</p>
 </div>
@@ -469,7 +469,7 @@ $ 4 \ \text{hours} \ 47 \ \text {minutes}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -568,8 +568,8 @@ a + a + 50   &= 110 \\\\
 2a           &= 110 - 50 \\\\
 a            &= \dfrac {60} {2} \\\\
 a            &= \dfrac {30 \times 2} {2} \\\\
-a            &= \dfrac {30 \times \cancel{2} } {\cancel {2} } \\\\
-a            &= 30 \ \text{p}
+a            &= \dfrac {30 \times \cancel{2}} {\cancel {2}} \\\\
+a            &= 30 \text{p}
 \end{aligned}
 $
 
@@ -2000,7 +2000,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tunit
@@ -2190,7 +2190,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>647F4ED9-464B-42F6-AD07-9DEACD207E79</p>
 </div>
@@ -2200,7 +2200,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2243,7 +2243,7 @@ $44$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -2522,7 +2522,7 @@ tunassigned
 tgraph
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

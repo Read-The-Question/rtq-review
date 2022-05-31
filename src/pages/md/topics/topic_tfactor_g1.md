@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-g1"
 title: "Topic - Factor - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2824,7 +2824,7 @@ $1 \quad 2 \quad 4 \quad \dots \quad 14 \quad 28$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

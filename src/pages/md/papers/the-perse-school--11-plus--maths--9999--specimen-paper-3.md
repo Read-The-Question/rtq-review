@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-3"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -11,7 +11,7 @@ date: 2022-05-30 23:47:59
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
@@ -19,9 +19,6 @@ date: 2022-05-30 23:47:59
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -46,7 +43,7 @@ Write in the missing numbers:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -144,7 +141,7 @@ tunassigned
 tpercentage
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tdraw
@@ -360,15 +357,12 @@ $\text{D}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>2960FFC6-FBA2-447C-BF04-E3648C9CB1C2</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -388,26 +382,26 @@ As per the question,
 
 $
 \begin{aligned}
-\text{My age} + \text{Brother's age}      &= \text{Total age} \\\\
-a + a - 5                   &= 23 \\\\
-2a - 5                      &= 23 \\\\
-2a                          &= 23 + 5 \\\\
-2a                          &= 28 \\\\
-a                           &= \dfrac{28} {2} \\\\
-a                           &= \dfrac{2 \times 14} {2} \\\\
-a                           &= \dfrac{\cancel 2 \times 14} {\cancel 2} \\\\
-a                           &= 14
+\text {My age} + \text {Brother's age}      &= \text {Total age} \\\\
+a + a - 5                                   &= 23 \\\\
+2a - 5                                      &= 23 \\\\
+2a                                          &= 23 + 5 \\\\
+2a                                          &= 28 \\\\
+a                                           &= \dfrac {28} {2} \\\\
+a                                           &= \dfrac {2 \times 14} {2} \\\\
+a                                           &= \dfrac {\cancel {2} \times 14} {\cancel {2}} \\\\
+a                                           &= 14
 \end{aligned}
 $
 
-I am $ = 14 \ \text{years old}$
+I am $ = 14 \ \text {years old}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$14 \ \text{years}$
+$14 \ \text {years}$
 
 </div>
 </div>
@@ -416,7 +410,7 @@ $14 \ \text{years}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -461,7 +455,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -552,15 +546,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>10D44C55-4639-4E1B-933F-702EB8DE1D6F</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -580,12 +571,12 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Weight of empty bucket} + \dfrac{\text{Weight of water}}{2} &= 12 \\\\
-\dfrac{a + 21} {2}                                              &= 12 \\\\
-a + 21                                                          &= 12 \times 2 \\\\
-a + 21                                                          &= 24 \\\\
-a                                                               &= 24 - 21 \\\\
-a                                                               &= 3 \ \text{kg}
+\text {Weight of empty bucket} + \dfrac {\text {Weight of water}} {2} &= 12 \\\\
+\dfrac{a + 21} {2}                                                    &= 12 \\\\
+a + 21                                                                &= 12 \times 2 \\\\
+a + 21                                                                &= 24 \\\\
+a                                                                     &= 24 - 21 \\\\
+a                                                                     &= 3 \ \text{kg}
 \end{aligned}
 $
 
@@ -603,12 +594,12 @@ $3 \ \text{kg}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E9FF9787-440D-4FF4-81D1-4D7C427F8BD2</p>
 </div>
@@ -621,7 +612,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -645,7 +636,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter of shape}       &= \text{Sum of all sides} \\\\
+\text {Perimeter of shape}      &= \text {Sum of all sides} \\\\
                                 &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
                                 &= 9 + 6 + 9 + 6 \\\\
 \text{Perimeter of shape}       &= 30 \ \text{cm}
@@ -666,12 +657,12 @@ $30 \ \text{cm}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B8D6BAFA-557D-451D-BA17-5723EF73E965</p>
 </div>
@@ -706,7 +697,7 @@ $-5\:\:\: -4\:\:\: -3\:\:\: -2\:\:\: -1\:\:\: 0\:\:\: 1\:\:\: 2\:\:\: 3\:\:\: 4\
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -722,24 +713,27 @@ Write down two of these numbers with a difference of $8$
 <div class='working'>
 
 Difference between $4$ and $-4$ 
+
 $
 \begin{aligned}
-&= 4-(-4) \\\\
-&= 4+4 \\\\
+&= 4 - (-4) \\\\
+&= 4 + 4 \\\\
 &= 8
 \end{aligned}
 $
 
-Difference between $3$ and $-5$ 
+Difference between $3$ and $-5$
+
 $
 \begin{aligned}
-&= 3-(-5) \\\\
-&= 3+5 \\\\
+&= 3 - (-5) \\\\
+&= 3 + 5 \\\\
 &= 8
 \end{aligned}
 $
 
-Difference between $5$ and $-3$ 
+Difference between $5$ and $-3$
+
 $
 \begin{aligned}
 &= 5-(-3) \\\\
@@ -748,14 +742,14 @@ $
 \end{aligned}
 $
 
-The numbers with difference $8$ = $4, -4 \ \text{or} \ 3, -5 \ \text{or} \ 5, -3$
+The numbers with difference $8$ = $4, -4 \ \text {or} \ 3, -5 \ \text {or} \ 5, -3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4, -4 \ \text{or} \ 3, -5 \ \text{or} \ 5, -3$
+$4, -4 \ \text {or} \ 3, -5 \ \text {or} \ 5, -3$
 
 </div>
 </div>
@@ -776,10 +770,11 @@ Write down two of these numbers which have a sum of $-3$
 <div class='workings'>
 <div class='working'>
 
-Sum of $-1$ and $-2$ 
+Sum of $-1$ and $-2$
+
 $
 \begin{aligned}
-&= -1-2 \\\\
+&= -1 - 2 \\\\
 &= -3 \\\\
 \end{aligned}
 $
@@ -787,7 +782,7 @@ $
 Sum of $-3$ and $0$ 
 $
 \begin{aligned}
-&= -3+0 \\\\
+&= -3 + 0 \\\\
 &= -3 \\\\
 \end{aligned}
 $
@@ -795,19 +790,19 @@ $
 Sum of $-4$ and $1$ 
 $
 \begin{aligned}
-&= -4+1 \\\\
+&= -4 + 1 \\\\
 &= -3 \\\\\
 \end{aligned}
 $
 
-The numbers whose sum is $-3$ are $-1, -2 \ \text{or} \ -3, 0 \ \text{or} \ -4, 1$
+The numbers whose sum is $-3$ are $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-1, -2 \ \text{or} \ -3, 0 \ \text{or} \ -4, 1$
+$-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
 
 </div>
 </div>
@@ -819,12 +814,12 @@ $-1, -2 \ \text{or} \ -3, 0 \ \text{or} \ -4, 1$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>C8B5AFE0-229B-4D30-9B2B-06F02E360468</p>
 </div>
@@ -873,7 +868,7 @@ $149.5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -908,7 +903,7 @@ Calculate each of the following
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1071,7 +1066,7 @@ An ant is travelling along the straight line AC as shown below. The distance fro
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1175,7 +1170,7 @@ $640 \text { mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>49BFC6D9-BB28-4B8F-8410-7C6507972FBB</p>
 </div>
@@ -1225,7 +1220,7 @@ $0.101$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -1283,7 +1278,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>D1877BC6-DBDD-470A-9061-101346F1F6A4</p>
 </div>
@@ -1342,7 +1337,7 @@ $5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -1420,7 +1415,7 @@ $30 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>0B7ECBC1-8D3F-45E4-9633-04391991C44B</p>
 </div>
@@ -1502,7 +1497,7 @@ Missing numbers : 10, 17, 24
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -1735,7 +1730,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1893,7 +1888,7 @@ Calculate each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2140,7 +2135,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2259,7 +2254,7 @@ Use this result to write down the answers to each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2394,7 +2389,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

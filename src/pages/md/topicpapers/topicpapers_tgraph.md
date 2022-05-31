@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph"
 title: "TopicPaper - Graph"
-date: 2022-05-31 06:21:51
+date: 2022-05-31 16:11:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -136,7 +136,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tgraph</p>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -187,7 +187,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tgraph</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:24</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -403,7 +403,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tgraph</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:25</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -507,7 +507,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tgraph</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:21</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -848,7 +848,7 @@ $200$ cards
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tgraph</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -979,7 +979,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tgraph</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:7</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

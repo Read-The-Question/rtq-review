@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedaddition-all"
 title: "Topic - Detailedaddition - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1728,7 +1728,7 @@ $11.021$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
 </div>
@@ -1780,7 +1780,7 @@ $624$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>

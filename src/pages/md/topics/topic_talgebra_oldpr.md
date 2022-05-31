@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-oldpr"
 title: "Topic - Algebra - Old PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -182,9 +182,6 @@ $\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for m
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -254,9 +251,6 @@ $11$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -407,9 +401,6 @@ $56$ coins
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -475,9 +466,6 @@ $16$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tstatistics
 </li>
@@ -553,9 +541,6 @@ $11\ \text {mm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -622,12 +607,6 @@ $130 \ \text {grams}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
 <li>
 talgebra
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1322,9 +1322,6 @@ $\pounds 2.900$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1377,12 +1374,6 @@ $14$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 talgebra
 </li>
@@ -1444,7 +1435,7 @@ $150 \ \text {grams}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6</p>
 </div>
@@ -1496,7 +1487,7 @@ $36$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -2043,7 +2034,7 @@ tgeometry
 tdraw
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2700,7 +2691,7 @@ $10{:}40$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3051,7 +3042,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

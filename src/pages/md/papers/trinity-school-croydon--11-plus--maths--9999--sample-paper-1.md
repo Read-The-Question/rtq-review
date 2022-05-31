@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -420,12 +420,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -596,9 +590,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -649,9 +640,6 @@ $15 \text{rounds}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1000,7 +988,7 @@ $\text {Largest} = 0.84, \text {Smallest} =  0.087$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>37279E76-7207-4B08-84B9-07B10F2972FD</p>
 </div>
@@ -1024,9 +1012,9 @@ Add together $3.7\, metres$ and $64\, cm$ and then subtract $2\, metres$ $7\,cm$
 
 It is really important to use the right units in calculations and convert where required. The measurement is given in meters and centimeteres but the answer has to be in meters.
 
-$1 \ \text{m} = 100 \text{cm}$
+$1 \ \text{m} = 100 \ \text{cm}$
 
-$\dfrac {1} {100} \ \text{m} = 1 \text{cm}$
+$\dfrac {1} {100} \ \text{m} = 1 \ \text{cm}$
 
 $
 \begin{aligned}
@@ -1052,7 +1040,7 @@ $2.27 \ \text{m}$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -1291,7 +1279,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tdraw
@@ -2368,9 +2356,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

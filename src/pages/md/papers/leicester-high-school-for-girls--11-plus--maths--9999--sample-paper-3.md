@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -461,10 +461,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -935,7 +932,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>7ED0E8A6-8797-4138-A006-85F2D567D9C5</p>
 </div>
@@ -964,6 +961,8 @@ Calculate how much change she will receive if she pays with a $\pounds20$ note.
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
+
 $\pounds 1 = 100 \text{p}$
 
 $
@@ -989,7 +988,7 @@ $\pounds 15.42$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1201,17 +1200,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B20CFC99-E249-43D4-A797-25BD87D1FC06</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1252,7 +1248,7 @@ $6, \ 0.67 \ \text{cm}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1375,7 +1371,7 @@ $450$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A2F4CE02-CC08-4549-9659-71797B3FFB94</p>
 </div>
@@ -1421,7 +1417,7 @@ $\pounds 1500$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1719,9 +1715,6 @@ $60$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2278,7 +2271,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 ttable

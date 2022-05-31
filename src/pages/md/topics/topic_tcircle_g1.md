@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircle-g1"
 title: "Topic - Circle - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -219,7 +219,7 @@ In each part below, circle the most sensible unit to measure
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -548,7 +548,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tcircle
@@ -1081,6 +1081,69 @@ $\dfrac {5} {9}$
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>5A02BFDB-4654-4CDA-8AB3-4762789C5789</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the fraction from this list, which is closest to $1$.
+
+$\frac {5} {7},\:\:\:\frac {2} {3},\:\:\:\frac {3} {5},\:\:\:\frac {7} {8},\:\:\:\frac {8} {9},\:\:\:\frac {7} {10}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert all the numbers into decimals..
+
+$
+\begin{aligned}
+&= \dfrac {5} {7}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {7} {8}, \quad \dfrac {8} {9}, \quad \dfrac {7} {10} \\\\
+&= 0.714, \quad 0.666, \quad 0.6, \quad 0.875, \quad 0.888, \quad 0.7
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 0.6, \quad 0.666, \quad 0.7, \quad 0.714, \quad 0.875, \quad 0.888 \\\\
+&= \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}, \quad \dfrac {5} {7}, \quad \dfrac {7} {8}, \quad \boxed {\dfrac {8} {9}}
+\end{aligned}
+$
+
+The fraction closest to $1$ is $= \dfrac {8} {9}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {8} {9}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

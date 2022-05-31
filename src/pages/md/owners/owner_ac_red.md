@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-red"
 title: "Owner - Chiliveru Aravind - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -259,13 +259,7 @@ $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -603,7 +597,7 @@ An ant is travelling along the straight line AC as shown below. The distance fro
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1288,9 +1282,6 @@ $22 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

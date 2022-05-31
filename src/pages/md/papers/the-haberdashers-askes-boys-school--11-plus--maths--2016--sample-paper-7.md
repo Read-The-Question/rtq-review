@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2016-sample-paper-7"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -604,7 +604,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>17EBE603-FE66-4DF1-A566-229E356FE83D</p>
 </div>
@@ -652,7 +652,7 @@ $11908368$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -988,9 +988,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1685,9 +1682,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdate
 </li>
 <li>
@@ -1825,7 +1819,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tdraw

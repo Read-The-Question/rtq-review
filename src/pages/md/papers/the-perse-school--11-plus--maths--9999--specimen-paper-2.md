@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-2"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1161,7 +1161,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>EA27B9DD-790C-44A0-8752-26E1204AF515</p>
 </div>
@@ -1184,9 +1184,9 @@ To spend the smallest amount Ben needs to buy maximum possible pack of 5 bottles
 
 $
 \begin{aligned}
-\text{Bottles needed}   &= 17 \\\\
-&= 15 \ \text{bottles} + 2 \ \text{bottles} \\\\
-&= 3 x 5 \ \text{pack} + 1 x 2 \ \text{pack}
+\text {Bottles needed}    &= 17 \\\\
+                          &= 15 \ \text {bottles} + 2 \ \text {bottles} \\\\
+                          &= 3 \times 5 \ \text {pack} + 1 \times 2 \ \text {pack}
 \end{aligned}
 $
 
@@ -1194,10 +1194,10 @@ Let's calculate the amount of money he needs to spend.
 
 $
 \begin{aligned}
-\text{Smallest amount he spends}        &= 3 \times \text{Cost of 5 packs} + 1 \times \text{Cost of 2 packs} \\\\
-                                        &= 3 \times 60 \text{p} + 1 \times 28 \text{p} \\\\
-                                        &= 180 \text{p} + 28 \text{p} \\\\
-                                        &= 208 \text{p} \\\\
+\text{Smallest amount he spends}        &= 3 \times \text {Cost of 5 packs} + 1 \times \text {Cost of 2 packs} \\\\
+                                        &= 3 \times 60 \text {p} + 1 \times 28 \text {p} \\\\
+                                        &= 180 \text {p} + 28 \text {p} \\\\
+                                        &= 208 \text {p} \\\\
                                         &= \pounds \dfrac {208} {100} \\\\
                                         &= \pounds 2.08
 \end{aligned}
@@ -1217,12 +1217,12 @@ $\pounds 2.08$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>3CC14E76-50F8-4F46-9B87-410B0584474A</p>
 </div>
@@ -1254,17 +1254,7 @@ Explain how you know:
 
 As per the question,
 
-The difference between the terms is $30$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(30+30 \times 1)}}  
-&&  \footnotesize{\maroonC{(30+30 \times 2)}}    
-&&  \footnotesize{\maroonC{(30+30 \times 3)}}
-&&  \footnotesize{\maroonC{(30+30 \times 4)}} \\
-30,  &&    60,  &&  90,  &&   120, &&  150 \ldots
-\end{matrix}
-$
+The difference between the terms is $30$. Hence, the sequence would be multiples of $30$.
 
 As the sequence goes on increasing in the multiples of 30,
 
@@ -1279,14 +1269,14 @@ $
 \end{aligned}
 $
 
-As it leaves a remainder, it is not a multiple of 30. Hence it is not in the sequence given.
+$44 \dfrac {1} {3}$ is not a whole number, as such $1330$ is not a multiple of 30. Hence, the number 1330 will not be in the sequence.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-As 1330 is not a multiple of 30, it is not in the sequence given.
+No
 
 </div>
 </div>
@@ -1295,7 +1285,7 @@ As 1330 is not a multiple of 30, it is not in the sequence given.
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1375,20 +1365,17 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>94669F97-3EC9-472D-9A7F-01E61D890604</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tstatistics
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -1434,7 +1421,7 @@ $4$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1508,10 +1495,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tdraw
@@ -1674,7 +1658,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D3C5761E-89B9-4E65-945B-16E81E23F067</p>
 </div>
@@ -1701,6 +1685,7 @@ As per the question,
 On planet Zog, all numbers are written in reverse order.
 
 So,
+
 $
 \begin{aligned}
 &= 729 - 26 \\\\
@@ -1709,7 +1694,7 @@ $
 \end{aligned}
 $
 
-​$865$ will be also written in reverse order $= 568$
+$865$ will be also written in reverse order $= 568$
 
 </div>
 </div>
@@ -1725,7 +1710,7 @@ $568$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1804,20 +1789,14 @@ $\text{Both are equal}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>9FBBD942-5D1D-4C22-990D-69A275C0ADF1</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tpower
 </li>
 </ul>
 </div>
@@ -1844,7 +1823,7 @@ a^3 &= 4 \times 128 \\\\
 a^3 &= 8 \times 64 \\\\
 a^3 &= 8 \times 8 \times 8 \\\\
 a^3 &= 8^3 \\\\
-a &= 8
+a   &= 8
 \end{aligned}
 $
 
@@ -1864,7 +1843,7 @@ $8$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1988,7 +1967,7 @@ $5.78$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B7E6722C-8E5D-45BB-B4A4-AF3B197B4FD2</p>
 </div>
@@ -2038,7 +2017,7 @@ $161$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

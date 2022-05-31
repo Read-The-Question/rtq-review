@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttable-red"
 title: "Topic - Table - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -543,7 +543,7 @@ For example $-3$ means that the dog lost $3 \ \text{kilograms}$ in weight.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -680,7 +680,7 @@ There are two maths classes in Year $8$, called $6A$ and $6B$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

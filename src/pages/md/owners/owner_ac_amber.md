@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-amber"
 title: "Owner - Chiliveru Aravind - Amber"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -875,7 +875,7 @@ $7 \ \text{Alphas} + 17 \ \text{Betas} + 4 \ \text{Gammas}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1824,9 +1824,6 @@ $\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2028,7 +2025,7 @@ $15$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2148,7 +2145,7 @@ $14$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2268,7 +2265,7 @@ $\pounds 120$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

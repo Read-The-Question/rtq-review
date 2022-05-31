@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -810,7 +810,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>CA7496F0-AC19-4F69-A814-6D5085DFDDE2</p>
 </div>
@@ -987,7 +987,7 @@ $1700000 \ \text{cm}$
 <p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -1246,9 +1246,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2088,7 +2085,7 @@ $8 \dfrac{19} {20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>4DFDE872-CA9D-4835-9FCF-E33BB1673E98</p>
 </div>
@@ -2217,7 +2214,7 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -2527,7 +2524,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

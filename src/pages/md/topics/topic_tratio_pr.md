@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-pr"
 title: "Topic - Ratio - PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -58,60 +58,6 @@ $25$
 
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tratio
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How much will $46$ lollipops cost if they cost $\pounds 1.25$ each?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-This can be solved using ratios. 
-
-$
-\begin{aligned}
-1  \text{ lollipop}                 &: \pounds 1.25 \\\\
-1 \times 46  \text{ lollipops}         &: \pounds 1.25 \times 46 \\\\
-46  \text{ lollipops}                 &: \pounds 57.50
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 57.50$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -276,68 +222,9 @@ $138 \ \text{months}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-At the school medical centre, there are enough plasters to patch up $12$ cut knees per day for $30 \ \text{days}$. 
-Work out how long the plasters would last if the medical centre were having to treat $20$ boys with cut knees a day.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-12 \ \text {cut/day}                                                  &: 30 \ \text{days} \\\\
-12 \times \dfrac {1} {12} \ \text {cut/day}                           &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-\cancel {12} \times \dfrac {1} {\cancel {12}} \ \text {cut/day}       &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-1 \ \text {cut/day}                                                   &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
-1 \times 20 \ \text {cut/day}                                         &: 30 \times \dfrac {1} {12} \times 20 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {30 \times 1 \times 20} {12} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 50 \ \text {days} \\\\
-\end{aligned}
-$
-
-So, the number of days plaster would last if we patch 20 cut knees per day $= 50$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$50 \ \text{days}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>02AE8DFB-4F87-46DA-95B0-D6783C21CA17</p>
+<p>4EC0680A-34C3-42F7-A969-84F026ED93EE</p>
 </div>
 <div class='topics'>
 <ul>
@@ -348,441 +235,55 @@ tratio
 </div>
 <div class='question question'>
 
-A return train ticket for an adult travelling from Leicester to Cambridge costs $\pounds29.40$. 
+Four rabbits weigh the same as three cats, and two cats weigh the same as four guinea pigs.
+How many rabbits weigh the same as six guinea pigs?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+Let the weight of a rabbit $= r$.
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
+Let the weight of a cat $= c$.
 
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the cost of $3$ adult return tickets.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Cost of 3 adult tickets} &= 29.40 \times 3 \\\\
-                                &= \pounds 88.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 88.2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The price of a childrens ticket is half that of an adult ticket. What is the cost of a return ticket for a child travelling from Leicester to Cambridge?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Cost of a child ticket}  &= \dfrac {29.40} {2} \\\\
-                                &= \pounds 14.7 \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 14.7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>BB2373FF-1D5B-413C-8160-D9BBA4F4E551</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mrs Jones prints books.
-
-![missing image](/papers/missing_image.svg)
-
-Jon pays $\bold{\pounds 4.35}$ for his book, **including the cover**.
-
-How many **pages** are in his book?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of pages $=a$
+Let the weight of a guinea pig $= p$.
 
 As per the question,
 
+$3 c = 4 r$
+
+$2 c = 4 p$
+
+Or,
+
+$1 c = 2 p$  So, 
+
 $
-\begin{aligned}
-3 \times a + 75 &= 435 \\\\
-3 \times a      &= 435 - 75 \\\\
-3 \times a      &= 360 \\\\
-a               &= \dfrac {360} {3} \\\\
-a               &= \dfrac {120 \times 3} {3} \\\\
-a               &= \dfrac {120 \times \cancel {3}} {\cancel {3}} \\\\
-a               &= 120
-\end{aligned}
+\begin {aligned}
+4 r      &= 3 c \\\\
+         &= 2 c + 1 c \\\\
+         &= 4 p + 2 p \\\\
+         &= 6 p
+\end {aligned}
 $
+
+Number of rabbits that weigh the same as six guinea pigs $= 4$ rabbits.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$120$
+$4$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the following 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The lengths of two pencils are $9.76 \ \text{cm}$ and $14.57 \ \text{cm}$. If the pencils are laid end to end, what is the total length?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total length} &= 9.76 + 14.57 \\\\
-                    &= 24.33 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24.33 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In a shop there are $43$ bags of potatoes. Each bag contains $37$ potatoes. What is the total number of potatoes in the bags?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total number of potatoes} &= 43 \times 37 \\\\
-                                &= 1591
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1591$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-There are $1.6 \ \text{kilometers}$ in a mile. How many kilometres are in $31240 \ \text{miles}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total kilometers} &= 31240 \times 1.6 \\\\
-                        &= 49984 \ \text{kilometers}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$49984 \ \text{kilometers}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-There are $0.91\ \text{metres}$ in $1  \ \text{yard}$. How many metres are there in $0.075  \ \text{yards}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total yards} &= 0.075 \times 0.91 \\\\
-                   &= 0.06825 \ \text{metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.06825 \ \text{metres}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The total length of five cars is $16.35\ \text{metres}$. What is the average length of these cars?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Average length} &= \dfrac {16.35} {5} \\\\
-                      &= \dfrac {3.27 \times 5} {5} \\\\
-                      &= \dfrac {3.27 \times \cancel {5}} {\cancel {5}} \\\\
-                      &= 3.27 \ \text{metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.27 \ \text{metres}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $13 + 54 \div 6 - 5 \times 7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-According to BIDMAS
-
-$
-\begin{aligned}
-&= 13 + 54 \div 6 - 5 \times 7 \\\\
-&= 13 + 9 - 5 \times 7 \\\\
-&= 13 + 9 - 35 \\\\
-&= 22 - 35 \\\\
-&= - 13
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$- 13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$16\%$ of gift cards that are bought are never redeemed. In Oundle Beans sells $730$ gift cards one year. How many of these should it expect to be redeemed?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total cards redeemed} &= 84 \% \ \text{of} \ 730 \\\\
-                            &= \dfrac {84} {100} \times 730 \\\\
-                            &= \dfrac {84 \times 730} {100} \\\\
-                            &= \dfrac {61320} {100} \\\\
-                            &= 613.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$613$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1005,6 +506,135 @@ $\pounds {36.60}$
 </div>
 <div class='rag'>
 <p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>069669D4-0614-4FCA-A2AF-20506A369CB1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+To cook a joint of beef, you leave it in the oven for $30 \ \text{minutes}$ for every kilogram it weighs plus 
+$20 \ \text{minutes}$ extra. Find how long you should cook a joint weighing:  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2 \ \text{kg}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time taken for} 1 \  \text{kg} = 30 \ \text{mins} \\
+\text{Time take for >1 kg =  Time taken for 1 kg + (Extra kg x 30 mins ) + 20} \\
+\text{Time take for 2 kg} = 30 + (1 \times 30) + 20 \\
+&= 30 + 30 + 20 \\
+&= 80 \ \text{mins} \\
+&= 1\ \text{hr} \ 20 \ \text{mins}
+\end{aligned}
+$
+
+For $2$ kg it takes $80$ minutes
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80 \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3.5 \ \text{kg}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let time be x for $\dfrac {1}{2} \text{kg}$
+
+Time for 1 kg of joint of beef = $30$ minutes
+
+Time for extra 1 kg of joint of beef = $20$ minutes
+
+As per the question,
+
+$
+\begin{aligned} 
+\text{Let time be x for 3.5 kg} \\
+\text{then}\ \ &  x = \dfrac {3.5 \times 30}{1} \\\\
+               &  x = 150 \text{min} \\\\
+               \text{time} = 105+20\ \\\
+               &= 125 \text{minutes}
+\end{aligned}
+$
+
+For $3 \dfrac{1}{2}$ kg it takes $125$ minutes
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$125 \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -1253,13 +883,7 @@ $\pounds 54$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-g1"
 title: "Owner - Abhay Kandpal - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -479,7 +479,7 @@ $24$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -721,7 +721,7 @@ $91, 350$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3173,7 +3173,7 @@ $4$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3350,7 +3350,7 @@ $\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top 
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4491,9 +4491,6 @@ $12 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -4556,10 +4553,7 @@ tunassigned
 tdraw
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -5115,7 +5109,7 @@ $\dfrac {1} {2}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -5516,7 +5510,7 @@ $48$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tunit
@@ -5932,7 +5926,7 @@ $60 \%$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -6148,9 +6142,6 @@ $3, \ 17$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -6416,7 +6407,7 @@ $24 \div 3 + 7$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -6475,9 +6466,6 @@ $144 \ \text {cm} ^ 2$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -6959,9 +6947,6 @@ $233$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -7512,9 +7497,6 @@ $65 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -7850,9 +7832,6 @@ $0.7, \quad 75 \%, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -8088,12 +8067,6 @@ $11$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 talgebra
 </li>
@@ -10768,9 +10741,6 @@ $0, 1$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -11362,9 +11332,6 @@ $108 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -11418,9 +11385,6 @@ $42$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -11648,13 +11612,10 @@ $30$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tvolume
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -12728,9 +12689,6 @@ $\pounds 5.04$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -12794,16 +12752,10 @@ $28$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -12883,7 +12835,7 @@ tunassigned
 talgebra
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -12945,6 +12897,111 @@ $48 \ \text{cm}^2$
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
+<p>E18F355F-E6B9-4D2A-922F-0959DD6D4280</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Nancy bought five oranges and two apples and they cost $\pounds 3.40$. At the same shop, 
+David bought three oranges and one apple and paid $\pounds 2.00$. 
+
+What would Steve have paid if he bought four oranges and two apples from this shop?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of an apple (in pence) $= a$
+
+Let the cost of an orange (in pence) $= b$
+
+It is really important to convert into the right units. Let's convert all the costs into pence.
+
+As per the question,
+
+$
+\begin{aligned} 
+5b + 2a &= 340 \\\\
+3b + a  &= 200
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+
+Multiply the second equation by $2$.
+
+$
+\begin{aligned} 
+2 \times 3b + 2 \times a &= 2 \times 200 \\\\
+6b + 2a                  &= 400
+\end{aligned}
+$
+
+Subtract the first equation from the second below to reduce it to one variable.
+
+$
+\begin{aligned} 
+5b + 2a                 &= 340 \\\\
+6b + 2a                 &= 400 \\\\
+6b + 2a - (5b + 2a)     &= 400 - 340 \\\\
+6b + 2a - 5b - 2a       &= 60 \\\\
+b                       &= 60 \ \text{pence}
+\end{aligned}
+$
+
+Cost of an orange $= 60 \ \text{pence}$.
+
+Let's substitute the value of $b$ in one of the initial equations to find the cost of an apple.
+
+$
+\begin{aligned} 
+3b + a           &= 200 \\\\
+3 \times 60 + a  &= 200 \\\\
+180 + a          &= 200 \\\\
+a                &= 200 - 180 \\\\
+a                &= 20 \ \text{pence}
+\end{aligned}
+$
+
+
+$
+\begin{aligned} 
+\text{Steve paid}   &= 4b + 2a \\\\
+                    &= 4 \times 60 + 2 \times 20 \\\\
+                    &= 240 + 40 \\\\
+                    &= 280 \ \text{pence} \\\\
+                    &= \pounds 2.80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.80$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
 <p>728683E0-0172-4C1B-B996-DE78A22F8120</p>
 </div>
 <div class='topics'>
@@ -12953,7 +13010,7 @@ $48 \ \text{cm}^2$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -13554,9 +13611,6 @@ $60000$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -13738,7 +13792,7 @@ $\dfrac {11} {20}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -13796,16 +13850,154 @@ $150 \ \text {cm}^2$
 <li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
-<p>26E16C3C-4AED-4018-A4B3-041DDC0C4959</p>
+<p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
-tvolume
+tmoney
 </li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two bottles of water and three small bags of fruit cost a total of $\pounds 2.55$. If a bottle of water costs $15 \text{p}$ **more** than a bag of fruit, what is the cost of a bag of fruit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of a bottle of water (in pence) $= w$
+
+Let the cost of a bag of fruit (in pence) $= f$
+
+It is really important to use the right units in calculations and convert where required.
+
+The cost is given in pounds and pence. Let's convert all the costs into pence.
+
+As per the question,
+
+$
+\begin{aligned}
+2w + 3f      &= 255 \\\\
+w - f        &= 15
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+But which one should we eliminate? 
+
+If we look at the question again, we only need the 
+
+cost for a bag of fruit, so let's eliminate $w$ so we can directly calculate the value for $f$.
+
+Multiply the second equation by $2$.
+
+$
+\begin{aligned}
+w - f                           &= 15 \\\\
+w \times 2 - f  \times 2        &= 15 \times 2 \\\\
+2w - 2f                         &= 30
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2w + 3f             &= 255 \\\\
+2w - 2f             &= 30 \\\\
+2w + 3f - (2w - 2f) &= 255 - 30 \\\\
+2w + 3f - 2w + 2f   &= 225 \\\\
+5f                  &= 225 \\\\
+f                   &= \dfrac{225}{5} \\\\
+f                   &= 45 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bag of fruit $= 45 \ \text {pence}$.
+
+</div>
+<div class='working'>
+
+What if we eliminate $f$ instead?
+
+This approach is less efficient as we will have to calculate one extra value to get the answer.
+
+Let's eliminate to reduce it to just one variable. 
+
+Multiply the second equation by $3$.
+
+$
+\begin{aligned} 
+w - f                           &= 15 \\\\
+w \times 3 - f  \times 3        &= 15 \times 3 \\\\
+3w - 3f                         &= 45
+\end{aligned}
+$
+
+Add second equation to the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2w + 3f                 &= 255 \\\\
+3w - 3f                 &= 45 \\\\
+2w + 3f + (3w - 3f)     &= 255 + 45 \\\\
+2w + 3f + 3w - 3f       &= 300 \\\\
+5w                      &= 300 \\\\
+w                       &= \dfrac{300}{5} \\\\
+w                       &= 60 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bottle of water $= 60 \ \text{pence}$. 
+
+Let's substitute the value of $w$ in one of the initial equations to find the cost of a bag of fruit.
+
+$
+\begin{aligned} 
+w - f               &= 15 \\\\
+60 -f               &= 15 \\\\
+-f                  &= 15 - 60 \\\\
+-f                  &= -45 \\\\
+f                   &= 45 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bag of fruit $= 45 \ \text {pence}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45p$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>26E16C3C-4AED-4018-A4B3-041DDC0C4959</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 talgebra
 </li>
@@ -13854,6 +14046,387 @@ $8 \ \text{cm}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>FEF8AADE-2D7B-4940-99BD-A18E327E4D0F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The gas meter reading on Andrew's smart meter in October was $5475$ units. 
+Exactly **three** months later, in January, the reading was $6045$ units. 
+M-power charge a fixed amount of $\pounds 16.20$ **each month** plus $40\text{p}$ for **each unit** used during the three months between the two readings.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many units of gas has Andrew used in the three month period from October to January?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+January reading = $6045$ 
+
+October reading = $5475$ 
+
+$
+\begin {aligned}
+&= 6045 - 5475 \\\\
+&= 570
+\end {aligned}
+$
+
+$570$ units of gas has Andrew used in the three month period from October to January.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$570 \ \text {units}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the **total** amount Andrew has to pay for that three month period.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text {Total amount for three months}   &= 3 \times \text {Fixed amount for each month} + 570 \times \text {Cost of a unit} \\\\
+                                        &= 3 \times \pounds 16.20 + 570 \times 40 \ \text {p} \\\\
+                                        &= \pounds 48.60 + 570 \times \pounds \dfrac {40} {100} \\\\
+                                        &= \pounds 48.60 + 570 \times \pounds 0.40 \\\\
+                                        &= 48.60 + 228 \\\\
+                                        &= \pounds 276.60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 276.60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In fact, M-power also have to add $5\%$ to Andrew's bill which is the tax known as VAT. What will be the **final** bill that Andrew has to pay for his gas?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Final Bill}      &= \text {Total bill} + \text {VAT} \\\\
+                        &= \pounds 276.60 + (5 \% \ \text {of} 276.60) \\\\
+                        &= 276.60 + (5 \% \times 276.60) \\\\
+                        &= 276.60 + (\dfrac {5} {100} \times 276.60) \\\\
+                        &= 276.60 + (\dfrac {276.60 \times 5}{100}) \\\\
+                        &= 276.60 + \dfrac {1383} {100} \\\\
+                        &= 276.60 + 13.83 \\\\
+                        &= \pounds 290.43
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 290.43$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>DD136C6F-448A-43DA-AEFE-3AF5F79B1533</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The **Blast** of a two digit number is obtained as follows:
+
+The Blast of $63$ is $216$ because $6 \times 6 \times 6 = 216$ 
+
+and the Blast of $27$ is $128$ because $2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 = 128$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the Blast of the two digit number $34$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Blast of 34}     &= 3 ^ 4 \\\\
+                        &= 3 \times 3 \times 3 \times 3 \\\\
+                        &= 81
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which two digit number has a Blast of $125$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$125$ As the unit place is $5$ the original number is a multiple of $5$. So,
+
+$
+\begin{aligned}
+&= 5 \times 5 \\\\
+&= 25 \\\\
+&= 25 \times 5 \\\\
+&= 125 \\\\
+&= 5^3
+\end{aligned}
+$
+
+$125$ is a blast of $53$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$53$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out another two digit number which has the **same** Blast as $24$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Blast of 24}     &= 2 \times 2 \times 2 \times 2 \\\\
+                        &= 16
+\end {aligned}
+$
+
+Let's find the another number with the Blast of 16.
+
+$
+\begin{aligned}
+16   &= 4 \times 4 \\\\
+16   &= 4 ^ 2
+\end{aligned}
+$
+
+$16$ is also a blast of $42$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A particular two digit number is blasted and then that answer is also Blasted. If the final answer is $9$, what was the **original** number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's frist find $9$ is a blast of which two digit number,
+
+$
+\begin {aligned}
+9       &= 3 \times 3 \\\\
+9       &= 3^2
+\end {aligned}
+$
+
+$9$ is a blast of $32$
+
+Now, we need to find $32$ is a blast of which two digit number to find our original number,
+
+$
+\begin {aligned}
+32      &= 8 \times 4 \\\\
+32      &= (4 \times 2) \times (2 \times 2) \\\\
+32      &= 2 \times 2 \times 2 \times 2 \times 2 \\\\
+32      &= 2^5
+\end {aligned}
+$
+
+$32$ is a blast of $25$
+
+The original number is $25$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>

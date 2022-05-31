@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1412,7 +1412,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F2D84620-5FC8-4469-A7DA-4FEFD38284C0</p>
 </div>
@@ -1564,7 +1564,7 @@ $30$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2176,7 +2176,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2198,17 +2198,21 @@ Let the side of the square $= s$
 
 $
 \begin{aligned}
-\text{Area} &= 144 \\\\
-a ^ 2       &= 144 \\\\
-a           &= \sqrt 144 \\\\
-a           &= 12
+\text{Area}     &= 144 \\\\
+9 \times a ^ 2  &= 144 \\\\
+a ^ 2           &= \dfrac {144} {9} \\\
+a ^ 2           &= \dfrac {16 \times 9} {9} \\\\
+a ^ 2           &= \dfrac {16 \times \cancel {9}} {\cancel {9}} \\\\
+a ^ 2           &= 16 \\\\
+a               &= \sqrt 16 \\\\
+a               &= 4 \ \text{cm}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Perimeter} &= 28 \times 9 \\\\
-                 &= 252 \ \text{cm} ^ 2
+\text{Perimeter} &= 20 \times 4 \\\\
+                 &= 80 \ \text{cm}
 \end{aligned}
 $
 
@@ -2217,7 +2221,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$252 \ \text{cm} ^ 2$
+$80 \ \text{cm}$
 
 </div>
 </div>

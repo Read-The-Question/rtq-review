@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-red"
 title: "Topic - Fraction - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -91,7 +91,7 @@ The pie chart below represents data collected in a survey by a PE teacher about 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1373,7 +1373,7 @@ $3$ lines of symmetry have been drawn on this equilateral triangle, dividing it 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1751,7 +1751,7 @@ There are two maths classes in Year $8$, called $6A$ and $6B$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

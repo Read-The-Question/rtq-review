@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-all"
 title: "Topic - Volume - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -333,7 +333,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tvolume
@@ -458,7 +458,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>88578F99-F6DE-4070-9731-34BD962C4B0A</p>
 </div>
@@ -570,7 +570,7 @@ $130 \text{ cm}$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
@@ -1111,7 +1111,7 @@ $60$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tvolume
@@ -1243,7 +1243,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A</p>
 </div>
@@ -1291,7 +1291,7 @@ $192$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1407,7 +1407,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>BD685B1C-24D9-4333-832A-AC45353FEB89</p>
 </div>
@@ -1463,7 +1463,7 @@ $\dfrac {1} {12}$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
@@ -2178,7 +2178,7 @@ tunassigned
 tvolume
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2306,7 +2306,7 @@ $144 \text {cm}^2$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tvolume
@@ -2332,7 +2332,7 @@ The base of Sarah's fish tank is $60\,cm$ long and $20\,cm$ wide.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3015,7 +3015,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>1492EF2C-7CE8-40A6-8461-43DC10B50E61</p>
 </div>
@@ -3058,7 +3058,7 @@ $0.25 \text{ liters}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
@@ -3132,7 +3132,7 @@ tunassigned
 tvolume
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3257,7 +3257,7 @@ This small box measures $2 \ \text{cm}$ by $2 \ \text{cm}$ by $3 \ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3611,7 +3611,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4158,7 +4158,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tvolume
@@ -4406,13 +4406,10 @@ $200$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tvolume
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -4692,7 +4689,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4851,73 +4848,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_g1 question'>
-<div class='uuid'>
-<p>26E16C3C-4AED-4018-A4B3-041DDC0C4959</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tvolume
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bilal has made a box in the shape of a cuboid with sides $4 \ \text{cm}, 5 \ \text{cm}$ and $32 \ \text{cm}$. 
-He wants to make another **different** shaped box but with the **same** volume. 
-This box will have a height of $10 \ \text{cm}$ and a square base. What will be the length of the base?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length of the base (in $\text{cm}$) $= a$
-
-$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
-
-As per the question, the two boxes have the same volume. Using that we get,
-
-$
-\begin{aligned}
-10 \times a \times a    &= 4 \times 5 \times 32 \\\\
-a^{2}                   &= \dfrac {4 \times 5 \times 32} {10} \\\\
-a^{2}                   &= \dfrac {2 \times 2 \times 5 \times 32} {2 \times 5} \\\\
-a^{2}                   &= \dfrac {2 \times \cancel{2} \times \cancel{5} \times 32} {\cancel{2} \times \cancel{5}} \\\\
-a^{2}                   &= 2 \times 32 \\\\
-a^{2}                   &= 64 \\\\
-a                       &= \sqrt{64} \\\\
-a                       &= 8 \ \text{cm}
-\end{aligned}
-$
-
-Length of the base $= 8 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-4"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-30 23:47:59
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D1915A62-7372-477D-A35A-78B2C0261ECE</p>
 </div>
@@ -134,14 +134,15 @@ $600 \div ............. = 50$
 <div class='workings'>
 <div class='working'>
 
-Given
-
 $
 \begin{aligned}
-600 \div 24            &= 25 \\\\
-(600 \div 24) \times 2 &= 25 \times 2 \\\\
-600 \div 24 \times 2   &= 50 \\\\
-600 \div 48            &= 50
+600 \div 24                                             &= 25 \\\\
+\dfrac {600} {24}                                       &= 25 \\\\
+\dfrac {600 \times 2} {24}                              &= 25 \times 2 \\\\
+\dfrac {600 \times 2} {12 \times 2}                     &= 50 \\\\
+\dfrac {600 \times \cancel {2}} {12 \times \cancel {2}} &= 50 \\\\
+\dfrac {600} {12}                                       &= 50 \\\\
+600 \div 12                                             &= 50
 \end{aligned}
 $
 
@@ -150,7 +151,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$48$
+$12$
 
 </div>
 </div>
@@ -162,7 +163,7 @@ $48$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -710,7 +711,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>E613AD24-EE97-4825-9545-2EBD62F74520</p>
 </div>
@@ -842,20 +843,17 @@ $48 \text { kg}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>03B1D61C-7CBC-4E0B-A194-696178602F1C</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1002,7 +1000,7 @@ $-30, -32, 100$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1203,9 +1201,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1313,15 +1308,12 @@ $-x + 23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D283FA4A-33AB-496A-950F-B2EB59FA6F01</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1502,7 +1494,7 @@ $\dfrac {1} {2}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1517,10 +1509,7 @@ $\dfrac {1} {2}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1564,11 +1553,28 @@ What is the **side length** of this square?
 <div class='workings'>
 <div class='working'>
 
+$\text{Area} = \text{length} \times \text{width}$
+
+As per the diagram,
+
 $
 \begin{aligned}
 \text {Area of rectangle}      &= 8 \times 2 \\\\
-                               &= 16 \text {cm}^2 \\\\
-\text {Side length of square}  &= 4 \text {cm}
+                               &= 16 \ \text {cm}^2
+\end{aligned}
+$
+
+$\text{Area} = \text{side} \times \text{side}$
+
+Let the side of square $= s$
+
+$
+\begin{aligned}
+\text{Area of square} &= \text{Area of rectangle} \\\\
+s \times s            &= 16 \\\\
+s ^ 2                 &= 16 \\\\
+s                     &= \sqrt {16} \\\\
+s                     &= 4 \ \text{cm}
 \end{aligned}
 $
 
@@ -1577,7 +1583,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4 \text {cm}$
+$4 \ \text{cm}$
 
 </div>
 </div>
@@ -1600,11 +1606,28 @@ What is the **side length** of this square?
 <div class='workings'>
 <div class='working'>
 
+\text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
+As per the diagram,
+
 $
 \begin{aligned}
-\text {Perimeter of rectangle} &= 8 + 2 \\\\
-                               &= 10 \text {cm} \\\\
-\text {Side length of square}  &= 5 \text {cm}
+\text {Perimeter of rectangle} &= 2 \times (8 + 2) \\\\
+                               &= 2 \times 10 \\\\
+                               &= 20 \ \text{cm}
+\end{aligned}
+$
+
+Let the side of square $= s$
+
+$
+\begin{aligned}
+\text {Perimeter of square} &= \text{Perimeter of rectangle} \\\\
+4 \times s                  &= 20 \\\\
+s                           &= \dfrac {20} {4} \\\\
+s                           &= \dfrac {5 \times 4} {4} \\\\
+s                           &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
+s                           &= 5 \ \text{cm}
 \end{aligned}
 $
 
@@ -1613,7 +1636,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5 \text {cm}$
+$5 \ \text {cm}$
 
 </div>
 </div>
@@ -2304,9 +2327,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -2484,7 +2504,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tvolume
@@ -2626,7 +2646,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -2799,9 +2819,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-g1"
 title: "Topic - Percentageadvance - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1022,7 +1022,7 @@ $ \begin{aligned}
 &= \dfrac {20 \times 20} {100} \\\\
 &= \dfrac {2 \cancel {0} \times 2 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
 &= 2 \times 2 \\\\
-&= 4 \  \text {teachers}
+&= 4 \ \text {teachers}
 \end{aligned}
 
 Teachers who were given socks and tie $= 4$

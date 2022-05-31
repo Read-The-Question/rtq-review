@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -877,9 +877,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1763,7 +1760,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3852614B-1AE4-4DBC-B778-EAC0383CA0FA</p>
 </div>
@@ -1867,7 +1864,7 @@ $90 \degree$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2326,7 +2323,12 @@ For how many $\text{minutes}$ does the programme Smart Guy last?
 <div class='workings'>
 <div class='working'>
 
-$25 \ \text {minutes}$
+$
+\begin{aligned}
+\text{Smart Guy last for} &= 9{:}15 - 8{:}50 \\\\
+                          &= 25 \ \text {minutes}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2356,8 +2358,15 @@ Carla wants to record *Live* and *Kicking*. She thinks that the $180\ \text{minu
 
 $
 \begin{aligned}
-\text {Left spare minutes} &= 180 - 175 \\\\
-                           &= 5 \ \text{minutes}
+\text{Duration for L & K}  &= 12{:}10 - 9{:}15 \\\\
+                           &= 175 \ \text{minutes}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Minutes left on the tape} &= 180 - 175 \\\\
+                                 &= 5 \ \text{minutes}
 \end{aligned}
 $
 
@@ -2393,10 +2402,7 @@ $5 \ \text{minutes}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2943,7 +2949,7 @@ $\text {Perfect square}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8C2424AB-3B93-4D99-9DE3-E12FB4CE2FA1</p>
 </div>
@@ -3106,7 +3112,7 @@ $11 \ \text {m}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

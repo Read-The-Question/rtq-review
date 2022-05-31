@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -386,7 +386,7 @@ $99$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>212E224E-5582-4831-B6B2-47F9B128497C</p>
 </div>
@@ -449,7 +449,7 @@ $7$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -722,7 +722,7 @@ $\dfrac {1} {15}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -802,12 +802,15 @@ E: $\pounds4.81$
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
+
 $
 \begin{aligned}
-\text {Change received} &= \pounds 10 - (65 \ \text {pence} \times 4 + 83\ \text{pence} \times 3) \\\\
-                        &= \pounds 10 - (260 \ \text {pence} + 249 \ \text {pence}) \\\\
-                        &= \pounds 10 - 509 \ \text {pence} \\\\
-                        &= \pounds 10 - \pounds 5.09 \\\\
+\text {Change received} &= \text{Total money} - (\text{Cost of 4 Mega Bars} + \text{Cost of 3 Star Bars}) \\\\
+                        &= \pounds 10 - (65 \ \text {pence} \times 4 + 83 \ \text{pence} \times 3) \\\\
+                        &= \pounds 10 - (\pounds \dfrac {260} {100} + \pounds \dfrac {249} {100}) \\\\
+                        &= 10 - (2.6 + 2.49) \\\\
+                        &= 10 - 5.09 \\\\
                         &= \pounds 4.91
 \end{aligned}
 $
@@ -1119,7 +1122,7 @@ $21$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1239,15 +1242,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>D56F8DBA-B650-4C56-ACF8-4B5BF0829AB6</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1303,7 +1303,7 @@ $20$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -1831,12 +1831,6 @@ $\dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2132,9 +2126,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2305,7 +2296,7 @@ $15$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

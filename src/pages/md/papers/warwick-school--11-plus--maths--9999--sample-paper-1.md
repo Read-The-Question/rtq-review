@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -352,7 +352,7 @@ $\dfrac {13} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>33AA7283-9415-4362-9D2D-CD9DC7BD0B4A</p>
 </div>
@@ -626,7 +626,7 @@ Missing number = $1.75$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -1219,7 +1219,7 @@ $64$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -1586,9 +1586,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1941,10 +1938,7 @@ $63$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2274,7 +2268,7 @@ $\pounds 27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>A1E3093E-6A93-4CB8-A627-77D10D5C257A</p>
 </div>
@@ -2480,7 +2474,7 @@ $3$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -2926,7 +2920,7 @@ $2n + 7$
 <div class='topics'>
 <ul>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-all"
 title: "Topic - Decimal - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3229,7 +3229,7 @@ $1.746$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>A9D3F12F-85C8-4CF8-8225-C1BB3ABCA272</p>
 </div>
@@ -3285,7 +3285,7 @@ $3.872$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

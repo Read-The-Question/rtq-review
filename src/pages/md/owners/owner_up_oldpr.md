@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-up-oldpr"
 title: "Owner - Uday Pandey - Old PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1098,9 +1098,6 @@ $52.4  \quad 52.402 \quad 52.42$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1436,9 +1433,6 @@ $18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1501,7 +1495,7 @@ $25 \ \text{cm}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1861,9 +1855,6 @@ $56$ coins
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2082,9 +2073,6 @@ $7$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tstatistics
 </li>
@@ -2568,9 +2556,6 @@ $15$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -2845,12 +2830,6 @@ $11, 13, 17, 31, 37, 71, 73, 79, 97$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
 <li>
 talgebra
 </li>

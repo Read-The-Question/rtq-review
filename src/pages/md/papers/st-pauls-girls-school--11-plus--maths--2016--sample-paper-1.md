@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -794,9 +794,6 @@ $\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -867,9 +864,6 @@ Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -992,9 +986,6 @@ $0.15 \ \text{grams}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1060,13 +1051,7 @@ $8 \ \text {oranges}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -1119,7 +1104,7 @@ $63 \ \text{girls}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1413,9 +1398,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1675,7 +1657,7 @@ $11 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4C17A102-B152-4344-95F9-A972131EDBC2</p>
 </div>
@@ -1737,18 +1719,21 @@ $
 \begin{aligned}
 a + b       &= 43 \\\\
 a + c       &= 45 \\\\
-b + c       &= 66 \\\\
-(a + b) + (b + c) + (a + c)     &= 43 + 66 + 45 \\\\
-2a + 2b + 2c        &= 154 \\\\
-2(a + b + c)        &= 154 \\\\
-a + b + c           &= \dfrac{154}{2} \\\\
-a + b + c           &= \dfrac{77 \times 2}{2} \\\\
-a + b + c           &= \dfrac{77 \times \cancel{2}}{\cancel{2}} \\\\
-a + b + c           &= 77
+b + c       &= 66
 \end{aligned}
 $
 
-The combined age of Alan, Ben and Carl $= 77$
+Let’s find the combined age of Alan, Ben and Carl
+
+$
+(a + b) - (b + c) + (a + c) &= 43 + 66 + 45 \\\\
+2 \times (a + b + c)        &= 154 \\\\
+a + b + c                   &= \dfrac {154} {2} \\\\
+a + b + c                   &= \dfrac {\cancel {2} \times 77} {\cancel {2}} \\\\
+a + b + c                   &= 77
+$
+
+The combined age of Alan, Ben and Carl is seventy seven.
 
 </div>
 </div>
@@ -1790,7 +1775,7 @@ Age of Alan $= 11$
 <div class='answers'>
 <div class='answer'>
 
-$11$
+$Alan is $11 \ \text {years}$ old.$
 
 </div>
 </div>
@@ -1802,7 +1787,7 @@ $11$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1865,7 +1850,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>59782F67-CD3A-4562-8A32-D1EC35290808</p>
 </div>
@@ -1887,15 +1872,7 @@ How much did each of them have?
 <div class='workings'>
 <div class='working'>
 
-Let the amount with Dana $= \pounds d$
-
-Amount with Harry $= \pounds d + 20$
-
-Amount with Charlotte $= \pounds d + 53$
-
-Amount with Sid $= \pounds d + 71$
-
-Total amount $= \pounds 234$
+Let the amount with Dana $= d$
 
 As per the question,
 
@@ -1905,7 +1882,7 @@ d + d + 20 + d + 53 + d + 71        &= 234 \\\\
 4d + 144                            &= 234 \\\\
 4d                                  &= 234 - 144 \\\\
 4d                                  &= 90 \\\\
-d                                   &= \dfrac{90}{4} \\\\
+d                                   &= \dfrac {90} {4} \\\\
 d                                   &= \pounds 22.5
 \end{aligned}
 $
@@ -1923,7 +1900,10 @@ Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
 <div class='answers'>
 <div class='answer'>
 
-Dana $= \pounds 22.5$, Harry $ \pounds 42.5$, Charlotte $= \pounds 75.5$, Sid $= \pounds 93.5$
+$\text {Dana} = \pounds 22.5 \\
+\text {Harry} = \pounds 42.5 \\
+\text {Charlotte} = \pounds 75.5 \\
+\text {Sid} = 93.5$
 
 </div>
 </div>
@@ -1932,7 +1912,7 @@ Dana $= \pounds 22.5$, Harry $ \pounds 42.5$, Charlotte $= \pounds 75.5$, Sid $=
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

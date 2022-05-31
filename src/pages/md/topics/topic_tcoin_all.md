@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-all"
 title: "Topic - Coin - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -537,7 +537,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>662D8D5A-FC30-4723-82E2-9B0B4ED1FDE9</p>
 </div>
@@ -575,12 +575,12 @@ $56 p , So 10*5 and 5*5 and 1*1$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>53399A4A-DF80-4EFD-BEC4-3F8DC5B49C23</p>
 </div>
@@ -604,13 +604,7 @@ There is a number of coins on a table. One quarter of them are showing heads. If
 
 Let the number of coins on the table $= c$
 
-Number of coins showing head $= \dfrac {c} {4}$
-
-After turning $2$ more coins on head, i.e., $\dfrac {c} {4} + 2 $
-
-Number of coins showing heads changes to $=\dfrac {c} {3}$ 
-
-Let's form an equation, 
+As per the question,
 
 $
 \begin{aligned}
@@ -641,7 +635,7 @@ $24$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -714,7 +708,7 @@ $42 \ \text{coins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>66F3BB48-9E07-49F4-B6BC-D5FF57B45B59</p>
 </div>
@@ -945,7 +939,7 @@ $\text {Impossible}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -1324,7 +1318,7 @@ $278$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>5F9005A4-253A-4F6B-A77C-60B2BD7ABAE0</p>
 </div>
@@ -1434,12 +1428,12 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>E41C3B84-B13C-4220-B083-2712C0B5265C</p>
 </div>
@@ -1506,7 +1500,7 @@ $20 \ \text{coins}$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

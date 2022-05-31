@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-oldpr"
 title: "Topic - Statistics - Old PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -201,9 +201,6 @@ $44 \ \text{kg}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tstatistics
 </li>
 <li>
@@ -334,9 +331,6 @@ $5.4 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -390,66 +384,6 @@ $130 \ \text {grams}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The **average** weight of five parcels is $3.7 \  \text{kg}$. Four of the parcels are identical and each weigh $3.5 \  \text{kg}$. What is the weight of the fifth parcel?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the weight of the fifth parcel (in kg) $= w$
-
-$
-\begin{aligned}
-\text{Average weight}           &= \dfrac {\text{Weight of all the parcels}} {\text{Total parcels}} \\\\
-3.7                             &= \dfrac {3.5 \times 4 + w} {5} \\\\
-3.7 \times 5                    &= 3.5 \times 4 + w \\\\
-3.5 \times 4 + w                &= 3.7 \times 5 \\\\
-14 + w                          &= 18.5 \\\\
-w                               &= 18.5 - 14  \\\\
-w                               &= 4.5  \ \text{kg}
-\end{aligned}
-$
-
-Weight of the fifth parcel $= 4.5 \ \text {kg}$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4.5 \ \text {kg}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>

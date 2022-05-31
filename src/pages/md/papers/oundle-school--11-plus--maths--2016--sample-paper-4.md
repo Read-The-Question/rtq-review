@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-4"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 4"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-30 23:47:59
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E</p>
 </div>
@@ -293,7 +293,7 @@ $613$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -513,9 +513,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -656,15 +653,12 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>D7186894-D434-4DCA-9C80-DE0355633F24</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -708,7 +702,7 @@ $65$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -719,9 +713,6 @@ $65$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1036,7 +1027,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>E1F1B279-AD58-4BAB-9F64-310389A407AC</p>
 </div>
@@ -1091,7 +1082,7 @@ $\dfrac{5}{11}$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-30 23:47:59
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E</p>
 </div>
@@ -54,7 +54,7 @@ $400$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -214,7 +214,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>7C315FF4-DCE5-464B-AACC-96D15E4B1B6B</p>
 </div>
@@ -261,7 +261,7 @@ $48000 \ \text {times per minute}$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -272,9 +272,6 @@ $48000 \ \text {times per minute}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -515,7 +512,7 @@ $720, 5040$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D0234A9E-B354-49F2-86CF-030A38955623</p>
 </div>
@@ -657,7 +654,7 @@ ${} \div 3 \ \text {and} \ {} - 16$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -767,7 +764,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>E0077BDA-7CE4-4354-A2D2-C673F42B2CFD</p>
 </div>
@@ -881,7 +878,7 @@ $15$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -1479,7 +1476,7 @@ $120 \degree$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2064,9 +2061,6 @@ $8, 28$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2342,10 +2336,7 @@ $10$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -2641,9 +2632,6 @@ $27$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

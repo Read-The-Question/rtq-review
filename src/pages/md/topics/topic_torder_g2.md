@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-g2"
 title: "Topic - Order - G2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>

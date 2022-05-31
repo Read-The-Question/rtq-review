@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -11,7 +11,7 @@ date: 2022-05-30 23:47:59
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
@@ -46,7 +46,7 @@ Calculate
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -284,7 +284,7 @@ A jumbo jet can take 324 passengers.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -409,7 +409,7 @@ Convert
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -621,7 +621,7 @@ Ruth wants to buy three bracelets at $\pounds 1.29$ each and a birthday card for
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -736,7 +736,7 @@ Write down
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -874,7 +874,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1067,7 +1067,7 @@ Write down the next two numbers in the following sequences?
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1210,7 +1210,7 @@ by a cycling stage and finishes with a running stage.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1335,9 +1335,6 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1450,10 +1447,7 @@ $\pounds 54$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1583,7 +1577,7 @@ Helen spends half her money on a dress. She then spends one-third of what is lef
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1686,7 +1680,7 @@ $\dfrac{1}{3}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tvolume
@@ -1712,7 +1706,7 @@ The base of Sarah's fish tank is $60\,cm$ long and $20\,cm$ wide.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1867,7 +1861,7 @@ Simplify your answer where possible.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2149,9 +2143,6 @@ $16.848$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2204,7 +2195,7 @@ $36 \ \text{cm}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2229,7 +2220,7 @@ Geraldo's rectangular garden has $4$ equally sized triangular-shaped flower beds
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

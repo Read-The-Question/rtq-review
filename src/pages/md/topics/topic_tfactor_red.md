@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-red"
 title: "Topic - Factor - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,55 +59,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_red question'>
-<div class='uuid'>
-<p>FA67D082-5CDC-4989-99AB-D53A992CDC1B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When my age is divided by $2, 3, 4$ or $6$ there is always a remainder of $1$. 
-But when divided by $7$ there is no remainder.
-
-How old am I? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_sc_red</p>

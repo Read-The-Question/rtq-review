@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -894,7 +894,7 @@ tgraph
 tsymmetry
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2676,7 +2676,7 @@ $\dfrac {5} {8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C</p>
 </div>
@@ -2794,7 +2794,7 @@ $30 \degree, 150 \degree, 150 \degree$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -2946,10 +2946,7 @@ $10 {:} 30$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -3292,9 +3289,6 @@ $23.33 \ \text {litres}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

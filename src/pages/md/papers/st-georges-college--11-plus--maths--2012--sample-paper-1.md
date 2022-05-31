@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -588,10 +588,7 @@ $5.1 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tratio
 </li>
 </ul>
 </div>
@@ -882,7 +879,7 @@ $
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1343,9 +1340,6 @@ $8.85 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

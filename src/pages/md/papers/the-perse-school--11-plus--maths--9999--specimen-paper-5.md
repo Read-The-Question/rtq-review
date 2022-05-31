@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-5"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 5"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -260,9 +260,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -766,9 +763,6 @@ Missing Numbers : $3 , 27 , 81$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -994,7 +988,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1343,7 +1337,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_blocked question'>
 <div class='uuid'>
 <p>6A0EC9AD-0A91-465C-9D77-92C64E1E72BC</p>
 </div>
@@ -1561,7 +1555,7 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_blocked</p>
 </div>
 </div>
 </li>
@@ -1785,9 +1779,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2075,9 +2066,6 @@ D
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2012-sample-paper-3"
 title: "Sevenoaks School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-30 23:47:59
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>930108AD-9249-4113-9637-92942C51C01F</p>
 </div>
@@ -102,20 +102,20 @@ Let's first multiply the numbers ignoring the zeroes.
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       1       & 2     & 5     \\
-{}\times    &       &               & 1     & 6     \\
+            &       &   1   &   2     &   5 \\
+\times      &       &       &   1     &   6 \\
 \hline
-            &      &       7       & 5     & 0     \\
-            &      1&       2       & 5     & 0     \\
+            &       &   7   &   5     &   0 \\
+            &   1   &   2   &   5     &   0 \\
                                     
 \hline
-            &      2&       0       & 0     & 0
+            &   2   &   0   &   0     &   0
 \end{array}
 $
 
 Let's account for the one zeroes now.
 
-&= 20000
+$= 20000$
 
 </div>
 </div>
@@ -147,8 +147,9 @@ $
 \begin{aligned}
 &= 20\% \text{ of } \pounds 640 \\\\
 &= \dfrac {20} {100} \times 640 \\\\
-&= \dfrac {2\cancel {0} } {1 \cancel{0} \cancel {0} } \times 64 \cancel {0} \\\\
-&= 64 \times 2 \\\\
+&= \dfrac {20 \times 640} {100} \\\\
+&= \dfrac {2 \cancel {0} \times 64 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= 2 \times 64 \\\\
 &= \pounds 128
 \end{aligned}
 $
@@ -252,18 +253,22 @@ Subtract $\text{two thousand seven hundred and eighteen}$ from $\text{three thou
 <div class='working'>
 
 $
-\begin{aligned}
-&= 3143 - 2718 \\\\
-&= 425
-\end{aligned}
+\begin{array}{cccccccccccccc}
+        &   3   &   1   &   4   &   3 \\  
+{}-     &   2   &   7   &   1   &   8 \\ 
+\hline
+        &       &   4   &   2   &   5 
+\end{array}
 $
+
+$\text {four hundred twenty five}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$425$
+$\text {four hundred twenty five}$
 
 </div>
 </div>
@@ -275,12 +280,12 @@ $425$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>81AADA28-3EE1-4D17-82EE-CBBF6BF4E0D7</p>
 </div>
@@ -303,8 +308,8 @@ What did he spend in total, to the nearest pound?
 
 $
 \begin{aligned}
-\text{Amount spent} &=  3.12 +  10.25 +  4.80 \\\\
-&= \pounds 18.2
+\text {Amount spent} &=  3.12 +  10.25 +  4.80 \\\\
+                     &= \pounds 18.2
 \end{aligned}
 $
 
@@ -322,7 +327,7 @@ $\pounds 18.2$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -463,15 +468,12 @@ $6, 7, 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>B5C73911-F262-422F-8F91-C2B9B4CF5D09</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -485,7 +487,7 @@ Find $x$:
 <div class='workings'>
 <div class='working'>
 
-
+%empty%
 
 </div>
 </div>
@@ -513,11 +515,11 @@ $(x \times 18) \div 9 = 16$
 
 $
 \begin{aligned}
- (x \times 18) \div 9                               &=  16 \\\\
- \dfrac {x \times 18} {9}                           &= 16 \\\\
-x                                                   &= \frac{16 \times 9}{18} \\\\
-x                                                   &=  \dfrac {18 \times 8} {18} \\\\
-x                                                   &=  \dfrac {\cancel {18} \times 8} {\cancel{18} } \\\\
+(x \times 18) \div 9                                &= 16 \\\\
+\dfrac {x \times 18} {9}                            &= 16 \\\\
+x                                                   &= \dfrac {16 \times 9} {18} \\\\
+x                                                   &= \dfrac {2 \times 8 \times 9} {2 \times 9} \\\\
+x                                                   &= \dfrac {\cancel {2} \times 8 \times \cancel {9}} {\cancel {2} \times \cancel {9}} \\\\
 x                                                   &= 8
 \end{aligned}
 $
@@ -550,14 +552,14 @@ $(x + 12) \times 4 + 2 = 62$
 
 $
 \begin{aligned}
-(x + 12)\times 4 + 2     &= 62 \\\\
-(x + 12)\times 4         &= 62 - 2\\\\
-(x + 12)\times 4         &= 60 \\\\
+(x + 12) \times 4 + 2    &= 62 \\\\
+(x + 12) \times 4        &= 62 - 2\\\\
+(x + 12) \times 4        &= 60 \\\\
 x                        &= \dfrac {60} {4} - 12 \\\\
 x                        &= \dfrac {15 \times 4} {4} - 12 \\\\
-x                        &= \dfrac {15 \times \cancel {4} } {\cancel {4} } \\\\
-x                        &=  15 -12 \\\\
-x                        &=  3
+x                        &= \dfrac {15 \times \cancel {4} } {\cancel {4} } - 12 \\\\
+x                        &= 15 - 12 \\\\
+x                        &= 3
 \end{aligned}
 $
 
@@ -590,7 +592,7 @@ $(5x - 3) - (4x - 5) = 12$
 $
 \begin{aligned}
 (5x - 3) - (4x - 5) &= 12 \\\\
-(5x - 3) -4x + 5    &= 12   \\\\
+(5x - 3) -4x + 5    &= 12 \\\\
 x + 2               &= 12 \\\\
 x                   &= 12 - 2 \\\\
 x                   &= 10
@@ -631,9 +633,9 @@ $
 9x -23                             &= 13 \\\\
 9x                                 &= 13 + 23 \\\\
 x                                  &= \dfrac {36} {9} \\\\
-x                                  &= \dfrac {9 \times 3} {9} \\\\
-x                                  &= \dfrac { \cancel{9} \times 3} {\cancel {9} } \\\\
-x                                  &= 3
+x                                  &= \dfrac {9 \times 4} {9} \\\\
+x                                  &= \dfrac { \cancel{9} \times 4} {\cancel {9} } \\\\
+x                                  &= 4
 \end{aligned}
 $
 
@@ -642,7 +644,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3$
+$4$
 
 </div>
 </div>
@@ -654,7 +656,7 @@ $3$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

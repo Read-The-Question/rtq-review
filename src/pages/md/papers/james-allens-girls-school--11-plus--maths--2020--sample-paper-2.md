@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -820,12 +820,6 @@ $52$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 talgebra
 </li>
@@ -2032,7 +2026,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>A20AFDC2-95C4-452E-9FD1-E1DA45F1399F</p>
 </div>
@@ -2042,10 +2036,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2112,7 +2103,7 @@ $100 \text{ cm}^2$
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>

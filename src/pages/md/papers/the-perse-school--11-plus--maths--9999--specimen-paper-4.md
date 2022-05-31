@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-4"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 4"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -238,7 +238,7 @@ $2.848 \text { kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3</p>
 </div>
@@ -290,7 +290,7 @@ $C$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -1381,7 +1381,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_blocked question'>
 <div class='uuid'>
 <p>3F019B2C-E891-4AAA-8B78-0E0DF81B8489</p>
 </div>
@@ -1493,12 +1493,12 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>FD0DC878-E1F6-4200-96B6-EF2237097FF7</p>
 </div>
@@ -1656,7 +1656,7 @@ $6 \ \text{kg}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>

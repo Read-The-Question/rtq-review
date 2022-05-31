@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-all"
 title: "Topic - Temperature - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1247,7 +1247,7 @@ $- 18 \degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>DBECDDB1-535A-40FF-A1A8-ACD4A67D5EC9</p>
 </div>
@@ -1383,7 +1383,7 @@ $-13$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -2828,7 +2828,7 @@ The table below shows the maximum temperatures in New York City last year.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2869,7 +2869,7 @@ $26$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -3923,7 +3923,7 @@ At the same time, the temperature in Tropical Town was $20 \degree \text{C}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

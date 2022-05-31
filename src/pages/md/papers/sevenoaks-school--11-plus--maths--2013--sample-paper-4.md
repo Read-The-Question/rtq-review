@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2013-sample-paper-4"
 title: "Sevenoaks School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -287,7 +287,7 @@ $\dfrac {15} {28}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197</p>
 </div>
@@ -343,7 +343,7 @@ $\pounds 18.29$
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -400,7 +400,7 @@ $0.72$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>BE851320-29AB-491D-B295-527BA7C9A21D</p>
 </div>
@@ -416,8 +416,20 @@ tsequence
 Fill in the missing numbers in the following sequences:
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+%empty%
 
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
@@ -441,8 +453,9 @@ $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+2)}}
 &&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
 &&  \footnotesize{\maroonC{(+2)}}  \\
-1,  &&    3,  &&  5,  && \ldots
+1,  &&    3,  &&  5,  && \ldots,  && \ldots
 \end{matrix}
 $
 
@@ -454,8 +467,6 @@ $
                               &= 9                             
 \end{aligned}
 $
-
-The missing numbers are $21$ and $33$.
 
 </div>
 </div>
@@ -489,9 +500,12 @@ The next term is calculated  by $\text{difference between consecutive terms} \ti
 
 $
 \begin{matrix}
-&   \footnotesize{{(+2)}} 
-&&  \footnotesize{{(+4)}} \\
-&&  \footnotesize{{(+6)}} \\
+&   \footnotesize{{(+2)}}
+&&  \footnotesize{{(+4)}}
+&&  \footnotesize{{(+6)}}
+&&  \footnotesize{{(+8)}}
+&&  \footnotesize{{(+10)}}
+&&  \footnotesize{{(+12)}} \\
 1,  &&    3,  &&  7,  &&  13,  &&  \dots, && \dots, && 43
 \end{matrix}
 $
@@ -500,20 +514,17 @@ $
 \begin{aligned}
 \text{First missing number}    &= 13 + 8 \\\\
                                &= 21 \\\\
-
-\text{Second missing number}   &= 21 + 12 \\\\
-                               &= 33
+\text{Second missing number}   &= 21 + 10 \\\\
+                               &= 31
 \end{aligned}
 $
-
-The missing numbers are $21$ and $33$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$21,33$
+$21,31$
 
 </div>
 </div>
@@ -537,34 +548,33 @@ $1, 2, 0, 3, -1, 4, \text{\textunderscore \textunderscore \textunderscore}, \tex
 Let's find the sum of the two consecutive terms of the sequence
 
 $
-begin{aligned}
-1 + 2    &=3
-2 + 0    &=2
-0 + 3    &=3
-3 + (-1) &=2
--1 + 4   &=3
-end{aligned}
+\begin{matrix}
+&   \footnotesize{{(+1)}}
+&&  \footnotesize{{(-2)}}
+&&  \footnotesize{{(+3)}}
+&&  \footnotesize{{(-4)}}
+&&  \footnotesize{{(+5)}}
+&&  \footnotesize{{(-6)}}
+&&  \footnotesize{{(+7)}} \\
+1,  &&    2,  &&  0,  &&   3,  &&  -1,  &&  4,  &&  \dots,  &&  \dots
+\end{matrix}
 $
 
-The next addition answer should give $3$.
-
 $
 begin{aligned}
-\text {First missing number}  &= 3 - 4 \\\\
-                              &= -1 \\\\
-\text {Second missing number} &= 2 - (-1) \\\\
-                              &= 3 \\\\                             
+\text {First missing number}  &= 4 - 6 \\\\
+                              &= -2 \\\\
+\text {Second missing number} &= -2 + 7 \\\\
+                              &= 5 \\\\                             
 end{aligned}                             
 $
-
-The missing numbers are $-1$ and $3$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
--1,3
+$-2,5$
 
 </div>
 </div>
@@ -576,7 +586,7 @@ The missing numbers are $-1$ and $3$.
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -587,9 +597,6 @@ The missing numbers are $-1$ and $3$.
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -770,9 +777,6 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -907,9 +911,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

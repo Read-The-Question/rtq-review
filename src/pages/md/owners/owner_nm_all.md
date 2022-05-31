@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nm-all"
 title: "Owner - Neeraj Mani - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -278,7 +278,7 @@ Fill in the missing number of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -420,7 +420,7 @@ tfraction
 </div>
 
 
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -653,7 +653,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -766,10 +766,7 @@ $16$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -792,7 +789,7 @@ tperimeter
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2166,10 +2163,7 @@ $\pounds 0.45$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tunitprompt
@@ -3124,10 +3118,7 @@ $35 \degree$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3927,7 +3918,7 @@ $90 \ \text {ml}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_pr question'>
+<div class='question_envelope rag_nm_blocked question'>
 <div class='uuid'>
 <p>7108AA2C-B831-419E-BE02-D136ECF3569E</p>
 </div>
@@ -4066,7 +4057,7 @@ $8 \ \text{minutes}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_nm_pr</p>
+<p>rag_nm_blocked</p>
 </div>
 </div>
 </li>
@@ -4699,7 +4690,7 @@ $\dfrac {11} {35}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4749,12 +4740,6 @@ $58 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
 <li>
 tpower
 </li>
@@ -5559,7 +5544,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_pr question'>
+<div class='question_envelope rag_nm_blocked question'>
 <div class='uuid'>
 <p>22918995-BD89-462E-840F-56972A76677B</p>
 </div>
@@ -5569,10 +5554,7 @@ $7$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -5722,7 +5704,7 @@ $2 (h + w)$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
 </div>
 <div class='rag'>
-<p>rag_nm_pr</p>
+<p>rag_nm_blocked</p>
 </div>
 </div>
 </li>
@@ -6086,9 +6068,6 @@ $36 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -7049,10 +7028,7 @@ $200 \ \text {miles}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -7176,7 +7152,7 @@ $196 \ \text {cm} ^2$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -7383,7 +7359,7 @@ $1768$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_pr question'>
+<div class='question_envelope rag_nm_blocked question'>
 <div class='uuid'>
 <p>19CC0602-FEEF-46E8-9116-96B6CF3464D9</p>
 </div>
@@ -7557,7 +7533,7 @@ $(2 + 3) \times (4 + 5) = 45$
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nm_pr</p>
+<p>rag_nm_blocked</p>
 </div>
 </div>
 </li>
@@ -8654,9 +8630,6 @@ $\dfrac {1} {6}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -8814,10 +8787,7 @@ $111 \ \text {minutes}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -9048,9 +9018,6 @@ $8 \dfrac {4} {12}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -9117,7 +9084,7 @@ $3$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -9817,9 +9784,6 @@ $33.33$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -10042,10 +10006,7 @@ $480$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -10306,9 +10267,6 @@ $2, 5, 11$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -10441,7 +10399,7 @@ $92 \ \text{minutes}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -10488,7 +10446,7 @@ $80 \ \text {cm} ^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_pr question'>
+<div class='question_envelope rag_nm_blocked question'>
 <div class='uuid'>
 <p>963BEC59-6DAD-42B4-A251-A32822C591F6</p>
 </div>
@@ -10532,7 +10490,7 @@ $10$
 <p>forest-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nm_pr</p>
+<p>rag_nm_blocked</p>
 </div>
 </div>
 </li>
@@ -11053,9 +11011,6 @@ $\dfrac {11} {4}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -11109,9 +11064,6 @@ $6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -11267,9 +11219,6 @@ $20$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -11391,9 +11340,6 @@ $22$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

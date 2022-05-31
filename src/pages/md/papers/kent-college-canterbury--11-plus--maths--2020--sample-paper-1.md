@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -890,6 +890,15 @@ How much does a balloon pump and eight packs of balloons cost?
 
 $
 \begin{aligned}
+\text{Cost of a balloon pump} &= \text {Cost of a balloon pump and four packs of balloons} - \text{Cost of four packs of balloons} \\\\
+                              &= 11 - 4 \times 2 \\\\
+                              &= 11 - 8 \\\\
+                              &= \pounds 3
+\end{aligned}
+$
+
+$
+\begin{aligned}
 \text {Cost of a balloon pump and eight packs of balloons} &= \text {Cost of a balloon pump} + 8 \times \text {Cost of a pack of balloons} \\\\
                                                            &= 3 + 8 \times 2 \\\\
                                                            &= 3 + 16 \\\\
@@ -1577,7 +1586,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3396FC7D-CAC5-48DF-9EEA-02DC624906F5</p>
 </div>
@@ -1724,7 +1733,7 @@ $13$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1804,7 +1813,7 @@ $- 1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>95AA3A28-967A-4FCB-91EC-525305242C25</p>
 </div>
@@ -1853,7 +1862,7 @@ $3 \ \text {hours} 11 \ \text {minutes}$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1977,7 +1986,7 @@ $90 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>86D69B78-1710-4435-AEAC-2D24127B485D</p>
 </div>
@@ -1987,7 +1996,7 @@ $90 \%$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -2028,7 +2037,7 @@ $25$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -2046,7 +2055,7 @@ tunassigned
 tgraph
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2498,7 +2507,7 @@ $46 \ \text{years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>2703C7F6-30C9-4C88-BEED-BD1AB762A00C</p>
 </div>
@@ -2607,11 +2616,7 @@ $
 \end{aligned}
 $
 
-$
-\begin{aligned}
-\text {So she needs to go to sleep} &= 7 \ \text {pm}
-\end{aligned}
-$
+$\text {So she needs to go to sleep} = 7 \ \text {pm}$
 
 </div>
 </div>
@@ -2630,12 +2635,12 @@ $7 \ \text {pm}$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>51F26F12-4636-4241-A2E6-BF22B6A0DD2F</p>
 </div>
@@ -2668,7 +2673,7 @@ Show your working.
 <div class='workings'>
 <div class='working'>
 
-Let the space between the planks $=a$
+Let the space between the planks (in $\text{cm}$) $= a$
 
 As per the question,
 
@@ -2699,7 +2704,7 @@ $3 \ \text {cm}$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2710,9 +2715,6 @@ $3 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

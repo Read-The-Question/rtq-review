@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-red"
 title: "Topic - Algebra - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -60,7 +60,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -119,13 +119,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfactor
 </li>
 </ul>
 </div>
@@ -301,9 +295,6 @@ $150\degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -357,16 +348,10 @@ $42 \text{toffees}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
 tquadraticprompt
-</li>
-<li>
-ttrialerror
 </li>
 </ul>
 </div>
@@ -410,9 +395,6 @@ $14, 12$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -631,169 +613,6 @@ $\text {square}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_red question'>
-<div class='uuid'>
-<p>85996BB9-38D6-49C8-BE67-8D9631433764</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tratio
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A tea leaf weighs $0.008 \ \text{grams}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What would be the mass of $1000$ tea leaves?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Mass of 1000 tea leaves}  &= \text {Mass of one tea leaf} \times 1000 \\\\
-                                 &= 0.008 \ \text {grams} \times 1000 \\\\
-                                 &= 8 \ \text {grams}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 \ \text {grams}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many tea leaves would you expect there to be in a $1 \ \text{kg}$ pack of tea?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A tea bag contains $250$ tea leaves.
-
-The tissue covering weighs $0.5 \ \text{g}$.
-
-How many tea bags will there be in a $250 \text{g}$ packet of tea bags?
-
-(The $250 \text{g}$ includes the mass of the bags and not just the tea leaves.)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Mass of 1 tea bag}                              &= \text {Mass of 250 tea leaves} + \text {Mass of tissue} \\\\
-                                                       &= 250 \times 0.008 \ \text {grams} + 0.5 \ \text {grams} \\\\
-                                                       &= 250 \times \dfrac {0.008 \times 1000} {1 \times 1000} + 0.5 \\\\
-                                                       &= 250 \times \dfrac {8} {1000} + 0.5 \\\\
-                                                       &= \dfrac {8 \times 250} {1000} + 0.5 \\\\
-                                                       &= \dfrac {2 \times 4 \times 25 \times 10} {25 \times 4 \times 10} + 0.5 \\\\
-                                                       &= \dfrac {2 \times \cancel {4} \times \cancel {25} \times \cancel {10}} {\cancel {25} \times \cancel {4} \times \cancel {10}} + 0.5 \\\\
-                                                       &= 2 + 0.5 \\\\
-                                                       &= 2.5 \ \text {grams} \\\\
-\text {Number of tea bags in 250 grams packet of bag}  &= \dfrac {\text {Total Mass of packet}} {\text {Mass of one tea bag}} \\\\
-                                                       &= \dfrac {250 \ \text {grams}} {2.5 \ \text {grams}} \\\\
-                                                       &= \dfrac {25 \times 10 \times 10} {2.5 \times 10} \\\\
-                                                       &= \dfrac {25 \times 100} {25} \\\\
-                                                       &= \dfrac {\cancel {25} \times 100} {\cancel {25}} \\\\
-                                                       &= 100 \ \text {bags}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$100 \ \text {bags}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_red</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_red question'>
 <div class='uuid'>
 <p>71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7</p>
@@ -929,9 +748,6 @@ $\pounds 7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -1037,329 +853,6 @@ $59$
 </div>
 <div class='rag'>
 <p>rag_up_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_red question'>
-<div class='uuid'>
-<p>6692F471-DA27-4415-ADF6-727EF20ED385</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a special code, words are replaced by the **product** of the **whole** numbers assigned to the letters. In the code, each letter is given a different number.
-
-For example:- if $\text{S} = 3$, $\text{P} = 4$ and $\text{Y} = 6$ then the word $\text{SPY} = 3 \times 4 \times 6 = 72$
-
-**Using this same method of creating our special code**, work out the answers to the following **four** questions.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If $\text{TEE} = 20$, find the values of $\text{T}$ and $\text{E}$, if **neither** of the letters has the value $1$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-T \times E \times E &= 20 \\\\
-T \times 2E         &= 20 \\\\
-T \times E          &= \dfrac{20} {2} \\\\
-T \times E          &= \dfrac{10 \times 2} {2} \\\\
-T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
-T \times E          &= 10
-\end{aligned}
-$
-
-LCM of $10$ is $2$ and $5$
-
-So,
-
-T = $5$
-
-E = $2$
-
-$5 \times 2 \times 2 = 20$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5, \ 2$ 
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Then with those values for $\text{T}$ and $\text{E}$, if $\text{TEA} = 70$, find the value of $\text{A}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-T \times E \times A &= 70 \\\\
-5 \times 2 \times A &= 70 \\\\
-10 \times A         &= 70 \\\\
-A                   &= \dfrac {70} {10} \\\\
-A                   &= \dfrac {7 \cancel {0}} {1 \cancel {0}} \\\\
-A                   &= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Now work out the value of the word $\text{SEAT}$ with the letter values you have, including those in the example at the start.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{SEAT} &= S \times E \times A  \times T \\\\
-            &= 3 \times 2 \times 7  \times 5 \\\\
-            &= 210
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$210$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Finally, if the value of the word $\text{FOAL} = 504$, work out the value of the word $\text{LOAF}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-FOAL and LOAF contain the same alphabets. LOAF is an anagram of FOAL
-
-So, LOAF = $504$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$504$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
-</div>
-<div class='rag'>
-<p>rag_ad_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_red question'>
-<div class='uuid'>
-<p>DD38D637-4C88-49D5-A00B-F650F7D2F6F7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tratio
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Susan is making a necklace of beads, using red and yellow beads in the ratio 2 : 3. She has $56$ red beads altogether.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many yellow beads will she need:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Ratio of red beads and yellow beads = 2 : 3.
-
-She has 56 red beads altogether. i.e.,
-
-$
-\begin{aligned}
-2 \ \text{red beads} : 3 \ \text{yellow beads} \\\\
-2 \times 28 \ \text{red beads} : 3 \times 28 \ \text{yellow beads} \\\\
-56 \ \text{red beads} : 84 \ \text{yellow beads}
-\end{aligned}
-$
-
-Number of yellow beads required = $84 \ \text{beads}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$84 \ \text{beads}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many beads will she use altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total number of beads = Number of red beads + Number of yellow beads
-
-$
-\begin{aligned}
-&= 56 + 84 \\\\
-&= 140 \ \text{beads}
-\end{aligned}
-$
-
-Total number of beads = $140 \ \text{beads}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$140 \ \text{beads}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_red</p>
 </div>
 </div>
 </li>
@@ -1509,7 +1002,7 @@ An ant is travelling along the straight line AC as shown below. The distance fro
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1861,9 +1354,6 @@ $22 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

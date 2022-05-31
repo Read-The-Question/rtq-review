@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-g1"
 title: "Topic - Detailedmultiplication - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3071,6 +3071,163 @@ $6489$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>F2D84620-5FC8-4469-A7DA-4FEFD38284C0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+<li>
+tnumber
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$15 \times 34 = 510$
+
+Use this information to work out:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$150 \times 340$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+15 \times 34                     &= 510 \\\\
+15 \times 10 \times 34 \times 10 &= 510 \times 100 \\\\
+150 \times 340                   &= 51000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15 \times 17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 17          &= \dfrac {510} {2} \\\\
+15 \times 17          &= \dfrac {255 \times 2} {2} \\\\
+15 \times 17          &= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
+15 \times 17          &= 255
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$255$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$510 + 17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 2           &= \dfrac {510} {17} \\\\
+\dfrac {510} {17}     &= 15 \times 2 \\\\
+\dfrac {510} {17}     &= 30 \\\\
+510 \div 17           &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>48CC7C13-DA2B-4CE6-A050-04C92A669FCA</p>
@@ -3688,6 +3845,56 @@ $26082$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>E3B1DC3D-1BD8-4BE9-A7C2-49FC9CB61D1F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $294 \times 70$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+            &       &       2       & 9     & 4     \\
+            &       &     {}\times  & 7     & 0     \\
+\hline
+            &       &       0       & 0     & 0     \\
+2           &      0&       5       & 8     & 0     \\
+\hline
+2           &      0&       5       & 8     & 0
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20580$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>81BA3970-5760-49CF-8C0B-A874CA881372</p>
@@ -3842,6 +4049,117 @@ $4.23$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>41576BB3-630B-4093-87FE-EF0A153AB637</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $418 \times 70$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+            &       &       4       & 1     & 8     \\
+            &       &     \times    & 7     & 0     \\
+\hline
+            &       &       0       & 0     & 0     \\
+2           &      9&       2       & 6     & 0     \\
+\hline
+2           &      9&       2       & 6     & 0
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$29260$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>A9D3F12F-85C8-4CF8-8225-C1BB3ABCA272</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $2.42 \times 1.6$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first multiply the numbers ignoring the decimal points.
+
+$
+\begin{array}{cccccccccccccc}
+            &   2   &   4    &    2 \\
+\times      &       &   1    &    6 \\
+\hline  
+1           &   4   &   5    &    2 \\ 
+2           &   4   &   2    &    0 \\
+\hline  
+3           &   8   &   7    &    2
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is three.
+
+Let's account for the decimal point now.
+
+$= 3.872$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.872$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

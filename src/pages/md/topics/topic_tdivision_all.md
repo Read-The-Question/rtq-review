@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-all"
 title: "Topic - Division - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -925,7 +925,7 @@ $702$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_pr question'>
+<div class='question_envelope rag_nc_blocked question'>
 <div class='uuid'>
 <p>B7872B8A-9943-4EDF-A994-E7E5E984DD66</p>
 </div>
@@ -969,7 +969,7 @@ $146$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_nc_pr</p>
+<p>rag_nc_blocked</p>
 </div>
 </div>
 </li>
@@ -7280,7 +7280,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F2D84620-5FC8-4469-A7DA-4FEFD38284C0</p>
 </div>
@@ -7432,7 +7432,7 @@ $30$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

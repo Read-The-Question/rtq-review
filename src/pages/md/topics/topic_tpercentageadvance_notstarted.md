@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-notstarted"
 title: "Topic - Percentageadvance - Not Started"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -474,7 +474,7 @@ tdraw
 tsymmetry
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tpercentageadvance

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpower-g1"
 title: "Topic - Power - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -403,12 +403,6 @@ $9, 81$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
 <li>
 tpower
 </li>
@@ -885,6 +879,236 @@ $-4$
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>105EE389-55BC-40FE-B8E3-BEF5386BE7DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tpower
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8 + 5 \times 21$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 8 + 5 \times 21 \\\\
+&= 8 + 105 \\\\
+&= 113
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$113$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8 - 5 + 21$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 8 - 5 + 21 \\\\
+&= 8 + 16 \\\\
+&= 24
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$21 \div (5 - 8)$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 21 \div (5 - 8)             \\\\
+&= 21 \div (-3)                \\\\
+&= \dfrac {21} {-3}            \\\\
+&= \dfrac {7 \times 3} {-3}    \\\\
+&= \dfrac {7 \times \cancel{3}} { - \cancel{3} }    \\\\
+&= -7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(-8) + (-5)$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= (-8) + (-5)             \\\\
+&= -8 - 5                  \\\\
+&= -13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(-8)^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= (-8)^2             \\\\
+&= -8 \times -8       \\\\
+&= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

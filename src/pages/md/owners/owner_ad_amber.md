@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-amber"
 title: "Owner - Arun Dalakoti - Amber"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -338,7 +338,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -560,12 +560,6 @@ $\dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -753,13 +747,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -1298,7 +1286,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2059,10 +2047,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -2431,7 +2416,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2895,7 +2880,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3640,7 +3625,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3690,9 +3675,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -4259,10 +4241,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4287,7 +4266,7 @@ Below are some shapes drawn on a centimetre-squared grid.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4346,7 +4325,7 @@ $14 \ \text{cm}$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -4498,7 +4477,7 @@ Here is a pie chart showing her results:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4589,7 +4568,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>

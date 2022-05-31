@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2010-sample-paper-1"
 title: "Sevenoaks School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -62,7 +62,7 @@ $298$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>469D229E-728D-4AC5-9C0D-417EB0BBF6F7</p>
 </div>
@@ -83,13 +83,13 @@ Work out $813 \times 72$
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       8       & 1     & 3     \\
-{}\times    &       &               & 7     & 2     \\
+     &        &   8         &   1   &   3 \\
+     &        &   \times    &   7   &   2 \\
 \hline
-            &  1    &       6       & 2     & 6     \\
-5           &      6&       9       & 1     & 0     \\
+     &   1    &   6         &   2   &   6 \\
+5    &   6    &   9         &   1   &   0 \\
 \hline
-5           &      8&       5       & 3     & 6
+5    &   8    &   5         &   3   &   6
 \end{array}
 $
 
@@ -98,7 +98,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$58,536$
+$58536$
 
 </div>
 </div>
@@ -107,7 +107,7 @@ $58,536$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -219,7 +219,7 @@ $219$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>8F3E92C0-9732-4BFC-95E8-656CBEBD6653</p>
 </div>
@@ -251,10 +251,10 @@ $a\ \ \Box\ \ a = a^2$
 
 $
 \begin{aligned}
- a \ \boxed- \ a      &= 0 \\\\
- a \ \boxed\div \ a   &= 1 \\\\
- a \ \boxed+ \ a      &= 2a \\\\
- a \ \boxed\times \ a &= a^2
+a \ \boxed {-} \ a      &= 0 \\\\
+a \ \boxed {\div} \ a   &= 1 \\\\
+a \ \boxed {+} \ a      &= 2a \\\\
+a \ \boxed {\times} \ a &= a^2
 \end{aligned}
 $
 
@@ -272,20 +272,17 @@ $-,\div, +, \times$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>7025FD21-D901-49E5-BD69-BFFDCA9D731C</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -437,11 +434,11 @@ $\frac{x - 7}{4} = 12$
 
 $
 \begin{aligned}
-& \dfrac{x - 7}{4} = 12 \\\\
-&  x - 7 = 12 \times 4 \\\\
-&  x - 7 = 48 \\\\
-&  x  =  48 + 7 \\\\
-&  x  =  55 \\\\
+\dfrac{x - 7}{4} &= 12 \\\\
+x - 7            &= 12 \times 4 \\\\
+x - 7            &= 48 \\\\
+x                &= 48 + 7 \\\\
+x                &= 55
 \end{aligned}
 $
 
@@ -462,12 +459,12 @@ $55$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>BA7E261E-10D9-4C7B-8591-880AD1DD4EF9</p>
 </div>
@@ -521,7 +518,7 @@ Write down the prime numbers between $10$ and $20$
 <div class='workings'>
 <div class='working'>
 
-11, 13, 17, 19
+$11, 13, 17, 19$
 
 </div>
 </div>
@@ -549,7 +546,7 @@ Write down the first three multiples of $15$
 <div class='workings'>
 <div class='working'>
 
-15, 30, 45
+$15, 30, 45$
 
 </div>
 </div>
@@ -577,7 +574,7 @@ Write down the factors of $49$
 <div class='workings'>
 <div class='working'>
 
-1, 7, 49
+$1, 7, 49$
 
 </div>
 </div>
@@ -596,12 +593,12 @@ $1, 7, 49$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>41E24F51-54D1-465E-BE3F-59870A03565B</p>
 </div>
@@ -683,7 +680,7 @@ $1\frac {3} {8}$
 
 $
 \begin{aligned}
-&= 1 \dfrac{3}{5}
+&= 1 \dfrac{3}{5} \\\\
 &= \dfrac {5 + 3} {5} \\\\
 &= \dfrac {8} {5} \\\\
 &= \dfrac {8 \times 2} {5 \times 2} \\\\
@@ -709,12 +706,12 @@ $1.6$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6D64BD13-96F2-4FFB-B6AA-B83638EF2A64</p>
 </div>
@@ -742,10 +739,13 @@ If the height is increased by $10\%$ then new height will be $100 + 10 = 110\%$ 
 
 $
 \begin{aligned}
-\text{New Height}  &= 150  + 110 \% \text{ of} 150 \\\\
-                   &= 150  + \dfrac {11 \cancel{0} } {1 \cancel {0} \cancel{0} } \times 15 \cancel {0} \\\\
-                   &= 150 +  165 \\\\
-                   &= 315 \text{ cm}   
+\text{New Height}  &= 150  + 110 \% \text { of} \ 150 \\\\
+                   &= 150 + \dfrac {110} {100} \times 150 \\\\
+                   &= 150 + \dfrac {110 \times 150} {100} \\\\
+                   &= 150 + \dfrac {11 \cancel {0} \times 15 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                   &= 150 + 11 \times 15 \\\\
+                   &= 150 + 165 \\\\
+                   &= 315 \ \text {cm}
 \end{aligned}
 $
 
@@ -754,7 +754,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$315 \text{ cm}$
+$315 \ \text{cm}$
 
 </div>
 </div>
@@ -763,12 +763,12 @@ $315 \text{ cm}$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>4C1B8DCB-8650-45C7-B21F-9B7053AD00F7</p>
 </div>
@@ -823,7 +823,7 @@ $\dfrac {a} {3}$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
@@ -1032,7 +1032,7 @@ $9,\: \: \: 16,\: \: \: 25,\: \: \: 27$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1296,7 +1296,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6F88E47C-D07C-48F0-9094-F886FF0D2CFA</p>
 </div>
@@ -1333,10 +1333,10 @@ $
 2a + a + 90     &= 180 \\\\
 3a + 90         &= 180 \\\\
 3a              &= 180 - 90 \\\\
-a               &= \dfrac{90}{3} \\\\
-a               &= \dfrac{30 \times 3}{3} \\\\
-a               &= \dfrac{30 \times \cancel{3}}{ \cancel{3}} \\\\
-a               &= 30\degree
+a               &= \dfrac {90} {3} \\\\
+a               &= \dfrac {30 \times 3} {3} \\\\
+a               &= \dfrac {30 \times \cancel{3}} { \cancel{3}} \\\\
+a               &= 30 \degree
 \end{aligned}
 $
 
@@ -1351,7 +1351,7 @@ $
 b                   &= \dfrac {30} {2} \\\\
 b                   &= \dfrac {15 \times 2} {2} \\\\
 b                   &= \dfrac {15 \times \cancel {2} } {\cancel {2} } \\\\
-b                   &= 15
+b                   &= 15 \degree
 \end{aligned}
 $
 
@@ -1360,12 +1360,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$30\degree$
+$30 \degree$
 
 </div>
 <div class='answer'>
 
-$15\degree$
+$15 \degree$
 
 </div>
 </div>
@@ -1374,7 +1374,7 @@ $15\degree$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1395,10 +1395,7 @@ tinfer
 ttable
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2019-sample-paper-4"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2019 - Sample Paper 4"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -178,9 +178,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -467,7 +464,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>362B2010-9590-466F-8D23-A4DCD45A3669</p>
 </div>
@@ -505,25 +502,19 @@ $0.2$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>A7B86F61-CB41-4218-B297-AB8668CF3287</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -566,7 +557,7 @@ $15$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -682,7 +673,7 @@ ${}- 17$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1273,7 +1264,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>68822C6B-6F06-415B-8DA6-B4B68895040B</p>
 </div>
@@ -1321,12 +1312,12 @@ $\dfrac {1} {15}$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>5C659920-A7EE-45CC-A45F-690D44F8A92E</p>
 </div>
@@ -1369,7 +1360,7 @@ $132$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -1380,9 +1371,6 @@ $132$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1858,7 +1846,7 @@ $4.565$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>9BC445B0-E60B-4C43-9A3B-131B9EE3AD28</p>
 </div>
@@ -1909,7 +1897,7 @@ $4$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>

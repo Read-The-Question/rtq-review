@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-all"
 title: "Topic - Factor - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -482,187 +482,6 @@ TODOANSWER
 <div class='question subquestion'>
 
 Which of these outcomes is are equally likely to happen?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>C7A1D76E-EA0F-48C2-8F3E-2D754DB4B6AD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-talgebra
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The difference between $\dfrac{1}{3}$ of a certain number and $\dfrac{1}{4}$ of the same number is 3. 
-
-What is the number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$383$ and $6226$ are examples of palindromic numbers as they read the 
-same when the order of their digits is reversed. 
-
-Write down the largest five-digit palindromic number that is a multiple of $5$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The order of the digits is reversed in a certain two-digit whole number. 
-
-This gives a new whole number which is one less than half of the original number. What is the original number?
 
 </div>
 <div class='workings'>
@@ -1956,7 +1775,7 @@ $42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0</p>
 </div>
@@ -2002,7 +1821,7 @@ $84$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -2113,7 +1932,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>5C659920-A7EE-45CC-A45F-690D44F8A92E</p>
 </div>
@@ -2156,7 +1975,7 @@ $132$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -2594,55 +2413,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_red question'>
-<div class='uuid'>
-<p>FA67D082-5CDC-4989-99AB-D53A992CDC1B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When my age is divided by $2, 3, 4$ or $6$ there is always a remainder of $1$. 
-But when divided by $7$ there is no remainder.
-
-How old am I? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_sc_red</p>
@@ -4700,7 +4470,7 @@ $2, \ 3, \ \text{and} \ 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>BA7E261E-10D9-4C7B-8591-880AD1DD4EF9</p>
 </div>
@@ -4754,7 +4524,7 @@ Write down the prime numbers between $10$ and $20$
 <div class='workings'>
 <div class='working'>
 
-11, 13, 17, 19
+$11, 13, 17, 19$
 
 </div>
 </div>
@@ -4782,7 +4552,7 @@ Write down the first three multiples of $15$
 <div class='workings'>
 <div class='working'>
 
-15, 30, 45
+$15, 30, 45$
 
 </div>
 </div>
@@ -4810,7 +4580,7 @@ Write down the factors of $49$
 <div class='workings'>
 <div class='working'>
 
-1, 7, 49
+$1, 7, 49$
 
 </div>
 </div>
@@ -4829,7 +4599,7 @@ $1, 7, 49$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -5696,7 +5466,7 @@ $\text{Prime Number}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>143C7006-44B5-49D4-BF75-6AB0ECEAF105</p>
 </div>
@@ -5850,7 +5620,7 @@ $11$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -6079,7 +5849,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>B1BA2CCE-3F25-4A59-984C-E51B0A041057</p>
 </div>
@@ -6122,7 +5892,7 @@ $None (or) 0$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -6680,7 +6450,7 @@ $1 \quad 2 \quad 4 \quad \dots \quad 14 \quad 28$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7783,70 +7553,6 @@ $195$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>AF41292A-EA87-4917-AA96-255A70031420</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Make a list of all the whole numbers which leave a remainder of $7$ when divided into $46$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-The whole number leaves a remainder $7$ when divided into $46$.
-
-As such, the number will be a factor of $= 46 - 7 = 39$
-
-Factors of $39 = {1 , 3 , 13 , 39}$
-
-The number has to be greater than $7$ as it  leaves a remainder $7$.
-
-Let's check $13$ and $39$ fulfil the criteria.
-
-$= \dfrac {46} {13} = \text{Quotient} \ 3 \ \text{Remainder} \ 7$
-
-$= \dfrac {46} {39} = \text{Quotient} \ 1 \ \text{Remainder} \ 7$
-
-The whole numbers which leave a remainder of $7$ when divided into $46$ = $13$ and $39$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13, 39$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
 </div>
 </div>
 </li>

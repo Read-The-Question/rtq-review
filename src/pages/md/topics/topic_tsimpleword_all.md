@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-all"
 title: "Topic - Simpleword - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -326,7 +326,7 @@ $\pounds  90$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_red question'>
 <div class='uuid'>
 <p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
 </div>
@@ -375,7 +375,7 @@ $\pounds 57.50$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_red</p>
 </div>
 </div>
 </li>
@@ -956,7 +956,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>3C95D06E-7409-49E6-A01C-9229FC71E90B</p>
 </div>
@@ -1002,7 +1002,214 @@ $504$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_blocked question'>
+<div class='uuid'>
+<p>CCCD812A-24DA-4BD6-91D0-49B271B1F8BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A train has $6$ carriages, Each carriage holds $88$ passengers. How many seats has the train have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, the number of seats in a carriage = 88,
+
+$
+\begin{aligned}
+\text{Total seats in the train}  &= 88 \times 6 \\\\
+                                 &= 528
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$528$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_blocked question'>
+<div class='uuid'>
+<p>1F8DFCED-55B0-441C-B4D6-0CEFC9911351</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A stationery shop sells $6851$ pens in $31$ days. How many pens per day did they sell?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of pens sold in a day $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 31     &= 6851 \\\\
+a               &= \dfrac {6851} {31} \\\\
+a               &= \dfrac {221 \times \cancel {31}} {\cancel {31}} \\\\
+a               &= 221
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$221$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>32AD190F-BC19-4308-B41D-C508037F0B80</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Grace plants a row of daffodils.
+
+There is a gap of $1.1$ metres between each daffodil, and the row begins and ends with a daffodil.
+
+She has $8$ daffodils.
+
+How long is the row of daffodils when she has finished? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+No. of daffodils $= 8$
+
+No. of gaps between daffodils $= 7$
+
+Length of gap $= 1.1 \text{m}$
+
+$
+\begin{aligned}
+\text {Length of the row}   &= 7 \times 1.1 \ \text {m} \\\\\
+                            &= 7.7 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.7 \ \text {m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>023389AE-3402-4C39-A59D-560327B4A49B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One quire of paper is equal to $24$ sheets.
+One ream is equal to $20$ quires.
+How many sheets are there in $2$ ream?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Number of Sheets in two ream}    &= 2 \times 20 \times 24 \\\\
+                                        &= 40 \times 24 \\\\
+                                        &= 960
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$960$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
 </div>
 </div>
 </li>
@@ -1706,6 +1913,59 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>B20CFC99-E249-43D4-A797-25BD87D1FC06</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A ball of string is $2\ \text{metres}$ long. Pieces of length $30\ \text{cm}$ are cut from the ball. How many whole pieces may be cut and what length is left over?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of pieces} &= \dfrac {\text{Length of string}} {\text{Length of a piece}} \\\\
+                        &= \dfrac {2 \ \text{metres}} {30  \ \text{cm}} \\\\
+                        &= \dfrac {2 \times 100 \ \text{cm}} {30 \ \text{cm}} \\\\
+                        &= \dfrac {2 \times 10 \cancel {0}} {3 \cancel {0}} \\\\
+                        &= \dfrac {20} {3} \\\\
+                        &= 6 \dfrac {2} {3}
+\end{aligned}
+$
+
+Number of pieces $= 6$
+
+Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6, \ 0.67 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>87808858-372B-4F74-AE78-99248501465B</p>
 </div>
 <div class='topics'>
@@ -2059,7 +2319,119 @@ $600 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
+<div class='uuid'>
+<p>1FE964D6-D452-462B-99A5-E639ED97A120</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+An egg box holds $6$ eggs. How many boxes are needed for $100$ eggs?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Boxes needed for 100 eggs} &= \dfrac {100} {6} \\\\
+                                  &= \dfrac {50 \times 2} {2 \times 3} \\\\
+                                  &= \dfrac {50 \times \cancel {2}} {\cancel {2} \times 3} \\\\
+                                  &= \dfrac {50} {3} \\\\
+                                  &= 16.66
+\end{aligned}
+$
+
+17 boxes are required for 100 eggs
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A toy train travels $6 \ \text{metres}$ in two seconds. How far will it travel in one minute?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Toy train can travel} &= 30 \times 6 \\\\
+                             &= 180 \text { metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$180 \text { metres}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ad_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E</p>
 </div>
@@ -2339,7 +2711,298 @@ $613$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>F4ED2C3C-A52E-4DFA-B9E5-EDA177B567AC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the first week of the screening of a new film a cinema sells $2140$ tickets. 
+
+In the second week it sells $320$ less tickets than the first week.
+
+In the third week it sells $210$ less tickets than the second week.
+
+How many tickets are sold over the three weeks?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, tickets sold
+
+$
+\begin{aligned}
+\text{Total ticket sold }                                         &= \text{First week} + \text{Second week} + \text{Third week} \\\\
+                                                                  &= 2140 + (2140 - 320) + (2140 - 320 - 210) \\\\                                                                 
+                                                                  &= 2140 + 1820 + 1610 \\\\
+                                                                  &= 3960 + 1610 \\\\
+                                                                  &= 5570
+\end{aligned}
+$
+
+Total tickets sold over three weeks $= 5570$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5570$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_blocked question'>
+<div class='uuid'>
+<p>2D3887D2-B353-4878-B512-D95F4548DFE8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One display cabinet holds $38$ DVDs. How many cabinets will be needed to hold $646$ DVDs? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let the cabinets holding 646 DVDs $= a$,
+
+38 DVDs hold by one display cabinet,
+
+So,
+
+$
+\begin{aligned}
+a &= \dfrac {646} {38} \\\\
+a &= \dfrac {17 \times 38} {38} \\\\
+a &= \dfrac {17 \times \cancel {38} } {\cancel{38} } \\\\
+a &= 17
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_np_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>85AF4A82-D8F4-4C46-A7A4-17F82A02167C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ben's Dad was making a fence for their garden. He needed to buy a piece of wood that he could cut into $14$ equal parts. If each part had to be $114 \ \text{cm}$ long, what length would the piece of wood need to be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Length of wood needed}           &= \text{Number of equal parts} \times \text{length of each part} 
+                                       &= 14 \times 114 \ \text{cm} \\\\
+                                       &= 1596 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1596 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>E0F69367-13D4-422E-A7ED-7CE21DF00DB8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The cost of a calculator is $\pounds 6.79$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the cost of $28$ of these calculators.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Cost of 28 calculators $= \pounds 6.79 \times 28$
+
+Multiplying with decimal points is same as multiplying with two whole numbers. 
+
+$
+\begin{array}{cccccccccccccc}
+          &          &            & 6          & 7          & 9      \\
+{}        &          & \times     &            & 2          & 8      \\
+\hline                
+          &          & 5          & 4          & 3          & 2       \\
+          & 1        & 3          & 5          & 8          & 0       \\
+\hline                
+          & 1        & 9          & 0          & 1          & 2       \\
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now.
+
+$= \pounds 190.12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 190.12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A college wants to buy $570$ calculators. They are sold in boxes of $50$. Work out the number of boxes the college should buy.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of boxes}             &= \dfrac {\text{Total calculatos to buy}} {\text{Calculators per box}} \\\\
+                                   &= \dfrac {570} {50} \\\\
+                                   &= \dfrac {57 \cancel 0} {5 \cancel 0} \\\\
+                                   &= \dfrac {57} {5} \\\\
+                                   &= 11 \dfrac {2} {5}
+\end{aligned}
+$
+
+For $570$ calculators the college needs,  $11$ whole boxes and $1$ more box for the remaining $20$ calculators = $12$ boxes.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$ Boxes
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -2588,6 +3251,111 @@ $8.85 \ \text{cm}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2085300E-35CB-4683-B8A1-2619BA04C321</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jennifer is assembling a wardrobe. The measurements for the 3 sections are given in different units. The first section is $30\,cm$ wide; the second section is $1.5\,m$ wide and the third section $150\,mm$ wide.How wide is whole wardrobe?Give your answer in cm. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+As the answer is to be given in cm, let's convert all measurements into cms.
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total Width}& = \text{First (Section)} + \text{Second (Section)} + \text{Third (Section)} \\\\
+&= 30 \ \text{cm} + 1.5 \ \text{m} + 150 \ \text{mm} \\\\
+&= 30 \ \text{cm} + 1.5 \times 10 \ \text{cm} + \dfrac{150}{10}\ \text{cm} \\\\
+&= 30 + 15 + \dfrac{150}{10} \\\\
+&= 60 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>D7A80376-0605-421E-8C3B-6A9A36B38446</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sarah won a large jar of sweets in a Christmas raffle. If there are $486$ sweets in the jar and she shares them equally with her $17$ classmates, how many do they each get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Sweets per person}       &= \dfrac {\text{Total sweets}} {\text{Total people}} \\\\
+                                &= \dfrac {486} {18} \\\\
+                                &= \dfrac {27 \times 18} {18} \\\\
+                                &= \dfrac {27 \times \cancel{18}} {\cancel{18}} \\\\
+                                &= 27
+
+\end{aligned}
+$
+
+Each person gets $27$ Sweets each.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ar_amber question'>
 <div class='uuid'>
 <p>D315CB50-201F-44CC-B34C-D567BD5B3098</p>
@@ -2746,6 +3514,63 @@ $33.6 \ \text{m}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1C1407AB-FAA5-4405-B150-73807FC42C74</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The Crystal Palace bridge has carried $300$ million cars since it was opened in 1964. 
+On average, roughly how many vehicles is this per month?
+
+- $50{,}000$
+- $500{,}000$
+- $5{,}000{,}000$
+- $6{,}000{,}000$
+- $60{,}000{,}000$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A01A640F-EDFD-4999-9FB4-D5CB13DE99BE</p>
@@ -2797,7 +3622,7 @@ $\pounds 46200$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>4BE31404-8368-4FC0-AD60-34110662E9C4</p>
 </div>
@@ -2841,7 +3666,48 @@ $\pounds 92320$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D9F5E368-303E-4350-B374-E1004752976E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Nikita pays $\pounds 9.50$ a month for her mobile phone and an extra $17 \text{p}$ for each call that she makes. 
+How much does she pay in a month when she makes $50$ calls?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -3585,6 +4451,219 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>40511CB4-2926-4FAB-88C3-80D38B031B18</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Groups of car enthusiasts are going to a car festival. To get to the place where the festival is happening they have a number of different sizes of car available as follows:
+
+**Two** seater sports cars
+
+**Four** seater cars
+
+**Six** seater people carriers
+
+In order to keep the cost down, **__each vehicle used on the journey is always full__**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The first group use four sports cars, $6$ four seater cars and two people carriers. How many are there in the group?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The second group has $76$ people in it. How many four seater cars will they need if they take $5$ sports cars and $7$ people carriers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The third group has $112$ people in it. They use $8$ four seater cars and equal numbers of sports cars and people carriers. How many of each do they need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the fourth group there are $66$ people. 
+They need twice as many sports cars as four seater cars and twice as many four seater cars as people carriers.  
+How many four seater cars do they use?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

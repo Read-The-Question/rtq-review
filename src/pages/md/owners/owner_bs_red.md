@@ -1,9 +1,63 @@
 ---
 slug: "owners/owner-bs-red"
 title: "Owner - Banoth Sairam - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_bs_red question'>
+<div class='uuid'>
+<p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much will $46$ lollipops cost if they cost $\pounds 1.25$ each?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios. 
+
+$
+\begin{aligned}
+1  \text{ lollipop}                 &: \pounds 1.25 \\\\
+1 \times 46  \text{ lollipops}         &: \pounds 1.25 \times 46 \\\\
+46  \text{ lollipops}                 &: \pounds 57.50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 57.50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_bs_red</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_bs_red question'>
 <div class='uuid'>
@@ -280,9 +334,6 @@ $4 \leq x > 8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -339,7 +390,7 @@ $42 \text{toffees}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

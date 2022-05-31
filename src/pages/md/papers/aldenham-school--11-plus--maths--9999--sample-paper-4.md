@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-4"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1921,7 +1921,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_red question'>
 <div class='uuid'>
 <p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
 </div>
@@ -1970,7 +1970,7 @@ $\pounds 57.50$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_red</p>
 </div>
 </div>
 </li>
@@ -2528,7 +2528,7 @@ $4$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>

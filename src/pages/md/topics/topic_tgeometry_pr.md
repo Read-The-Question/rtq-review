@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-pr"
 title: "Topic - Geometry - PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -359,411 +359,6 @@ $6$
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>E52F477B-FFCA-4102-95D0-AD1EFD89B90D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tarea
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate the size of the area left when a square side length $2 \ \text{metres}$ is removed from the rectangle below
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Area Left} &= \text { Area of Rectangle} - \text { Area of Square} \\\\
-                  &= (\text {Length} \times \text {Width}) - (\text {Side} \times \text {Side}) \\\\
-                  &= (8 \text {m} \times 6 \text {m}) - (2 \text {m} \times 2 \text {m}) \\\\
-                  &= 48 \text {m}^2 - 4 \text {m}^2 \\\\
-                  &= 44 \text {m}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$44 \text {m}^2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the area of the biggest square that would fit completely inside the original rectangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The biggest square with side length $6$ metres would fit completely inside the original rectangle
-
-$
-\begin{aligned}
-\text {Area of Square} &= \text {Side} \times \text {Side} \\\\
-                       &= 6 \text {m} \times 6 \text {m} \\\\
-                       &= 36 \text {m}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36 \text {m}^2$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>DFE28FF1-618F-43C0-9BCB-05877CC899BC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The angles are all the same size, because it is regular. What is the special name given to an angle of this size?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Obtuse angle
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Obtuse angle
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>66777738-C618-4271-96E5-1C9214C9F392</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tperimeter
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A tile in the shape of a cross is made by drawing a square of length $10 \ \text{cm}$ 
-and then removing four squares of length $2 \ \text{cm}$ from each corner. 
-
-What is the perimeter of the cross shape tile?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Perimeter of cross shape tile} &= 4 \times (10 - 2 - 2) + 8 \times 2 \\\\
-                                     &= 4 \times 6 + 16 \\\\
-                                     &= 24 + 16 \\\\
-                                     &= 40 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \ \text{cm}$
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Robert puts three tiles together to make the shape below. What is the perimeter of his shape?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Perimeter} &= 2 \times \text{Perimeter of outer tiles} + \text{Perimeter of inner tile} \\\\
-                 &= 2 \times (3 \times 6 + 8 \times 2) + (2 \times 6 + 8 \times 2) \\\\
-                 &= 2 \times (18 + 16) + 12 + 16 \\\\
-                 &= 2 \times 34 + 28 \\\\
-                 &= 68 + 28 \\\\
-                 &= 96 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$96 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Ravi put ten tiles together in a similar way. What is the perimeter of his shape?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Perimeter of 10 tiles} &= 2 \times \text{Perimeter of outer tiles} + 8 \times \text{Perimeter of inner tile} \\\\
-                             &= 2 \times (3 \times 6 + 8 \times 2) + 8 \times (2 \times 6 + 8 \times 2) \\\\
-                             &= 2 \times (18 + 16) + 8 \times (12 + 16) \\\\
-                             &= 2 \times 34 + 8 \times 28 \\\\
-                             &= 68 + 224 \\\\
-                             &= 292 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$292 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>86D69B78-1710-4435-AEAC-2D24127B485D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tarea
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows four identical white rectangles around a shaded square. 
-
-![missing image](/papers/missing_image.svg)
-
-What is the area of the shaded square?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Area of shaded square} &= \text {side} \times \text {side} \\\\
-                              &= 5 \times 5 \\\\
-                              &= 25
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$25$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>089D6C31-614E-4F6B-B848-598F8A107060</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-*Explain carefully* why it is not possible to construct a triangle with side lengths of 2,3 and $6\,cm$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-\text {As We Know Sum Of Two Sides Of A Triangle Must Be Greater Than The Third Side .
- The Given Measurements Are 2cm , 3cm And 6cm . Here The Sum Of The Two Sides Is Less Than Third Side . 
- Hence A Triangle Cannot Be Constructed }
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {As We Know Sum Of Two Sides Of A Triangle Must Be Greater Than The Third Side .
- The Given Measurements Are 2cm , 3cm And 6cm . Here The Sum Of The Two Sides Is Less Than Third Side . 
- Hence A Triangle Cannot Be Constructed }$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -1212,7 +807,7 @@ $\text {Octagon}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -1276,7 +871,7 @@ $13 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>E9FF9787-440D-4FF4-81D1-4D7C427F8BD2</p>
 </div>
@@ -1289,7 +884,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1313,7 +908,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter of shape}       &= \text{Sum of all sides} \\\\
+\text {Perimeter of shape}      &= \text {Sum of all sides} \\\\
                                 &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
                                 &= 9 + 6 + 9 + 6 \\\\
 \text{Perimeter of shape}       &= 30 \ \text{cm}
@@ -1334,7 +929,7 @@ $30 \ \text{cm}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

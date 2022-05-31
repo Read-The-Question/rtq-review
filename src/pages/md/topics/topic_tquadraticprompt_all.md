@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tquadraticprompt-all"
 title: "Topic - Quadraticprompt - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,16 +12,10 @@ date: 2022-05-30 23:47:59
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
 tquadraticprompt
-</li>
-<li>
-ttrialerror
 </li>
 </ul>
 </div>
@@ -59,7 +53,7 @@ $14, 12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>74DBCD36-37BB-4856-BF34-7C3AA8E7DF0E</p>
 </div>
@@ -72,13 +66,10 @@ tunassigned
 talgebra
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tquadraticprompt
-</li>
-<li>
-tperimeter
 </li>
 <li>
 ttrialerror
@@ -146,7 +137,7 @@ $34 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -229,10 +220,7 @@ tunassigned
 tquadraticprompt
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 <li>
 ttrialerror

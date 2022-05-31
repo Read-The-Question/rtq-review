@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-g1"
 title: "Topic - Noexplanation - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2263,6 +2263,49 @@ $9987$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>32CCF206-C0DE-480B-BDD6-BAA8DE6F3758</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What does the $6$ in the number $3567.23$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$60$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>413E7F5B-FC19-4848-9BAC-79DB92410E6E</p>
 </div>
 <div class='topics'>
@@ -2497,6 +2540,49 @@ $17$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>362B2010-9590-466F-8D23-A4DCD45A3669</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What does the $2$ in the number $3567.23$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>7F2C95B7-384B-400F-BF00-494243FAD21F</p>
 </div>
 <div class='topics'>
@@ -2534,6 +2620,49 @@ $9760$
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>51895EF4-90DD-4CC5-B028-99ED8D291204</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the number $236.751$, what does the $7$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -3163,6 +3292,60 @@ $3, \ 17$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>95AA3A28-967A-4FCB-91EC-525305242C25</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A train leaves Carlisle station at $3.37 \ \text{pm}$ and arrives in London at $6.48 \ \text{pm}$.
+
+
+How long did the journey take?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Time taken} &= 6.48 \ \text{pm} - 3.37 \ \text{pm} \\\\
+                  &= 3 \ \text {hours} 11 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text {hours} 11 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>7A3EB116-901D-4C60-9906-5C7ECB21025B</p>
@@ -3550,6 +3733,203 @@ $10236$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
+<p>212E224E-5582-4831-B6B2-47F9B128497C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which digit should replace the * below?
+
+![missing image](/papers/missing_image.svg) 
+
+A: $1$ 
+
+B: $2$ 
+
+C: $4$ 
+
+D: $6$ 
+
+E: $7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   \red {7}   &   5   &   7 \\
+{}- &   2          &   8   &   3 \\
+\hline
+    &   4          &   7   &   4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>17EF20AA-D366-45EE-BEAA-69CF13C7B2AD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What digit should replace the * below?
+
+![missing image](/papers/missing_image.svg) 
+
+A: $8$ 
+
+B: $7$ 
+
+C: $6$ 
+
+D: $5$ 
+
+E: $4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   \red {8}   &   3   &   9 \\
+{}- &   2          &   6   &   1 \\
+\hline
+    &   5          &   7   &   8
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>3206AC5E-10AC-4792-AC6F-6BBD072B959C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Femi takes $2\ \text{hours}$ and $53\ \text{minutes}$ to cycle from London to Reading. If he arrived at $3:21 \ \text{pm}$, at what time must he have set off? 
+
+A: $12:24 \ \text{pm}$ 
+
+B: $1:24 \ \text{pm}$ 
+
+C: $12:28 \ \text{pm}$ 
+
+D: $12:18 \ \text{pm}$ 
+
+E: $1:28 \ \text{pm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Start time}   &= 3{:}21 \text{pm} - 2 \ \text{hours} 53 \ \text{minutes} \\\\
+                     &= 12{:}28 \ \text {pm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12{:}28 \ \text {pm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
 <p>F3144B09-1621-4BF8-A18D-56C923A48403</p>
 </div>
 <div class='topics'>
@@ -3710,6 +4090,199 @@ $76 \times 8$
 </ul>
 <div class='papername'>
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down what the $4$ stands for in $3427$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$400$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$400$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>D0234A9E-B354-49F2-86CF-030A38955623</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing operations in the boxes:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+2 \longrightarrow \boxed{\ \times 5 \ } 
+\longrightarrow \boxed{\phantom {\ \times 3 \ }} 
+\longrightarrow \boxed{\ \times 3 \ } 
+\longrightarrow 39
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+${} +3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+${} +3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+7 \longrightarrow \boxed{\phantom {\ \times 3 \ }} 
+\longrightarrow \boxed{\ \div 3 \ }  
+\longrightarrow 5
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+${} +8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+${} +8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Give **both** solutions:
+
+$
+24 \longrightarrow \boxed{\phantom {\ \times 3 \ }} 
+\longrightarrow \boxed{\ \times 4 \ }
+\longrightarrow \boxed{\ - 6 \ } 
+\longrightarrow 26
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+${} \div 3 \ \text {and} \ {} - 16$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+${} \div 3 \ \text {and} \ {} - 16$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -5879,7 +6452,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5905,7 +6478,7 @@ Write in figures the number:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -6309,7 +6882,7 @@ $1 \quad 2 \quad 4 \quad \dots \quad 14 \quad 28$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

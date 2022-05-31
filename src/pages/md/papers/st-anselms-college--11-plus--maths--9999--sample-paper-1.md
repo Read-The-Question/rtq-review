@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -57,7 +57,7 @@ $\text {One hundred eighty six thousand miles per second}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379</p>
 </div>
@@ -95,7 +95,7 @@ $text {Two hundred ninety-nine million seven hundred ninety-two thousand four hu
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -232,7 +232,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>13EB25A7-7018-4055-A4AC-53AE6FFF28FA</p>
 </div>
@@ -329,7 +329,7 @@ $\pounds 155.1$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -454,7 +454,7 @@ $2 \text {miles}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>AE067221-B6FD-46E9-9DF9-17DEE2A3A824</p>
 </div>
@@ -566,7 +566,7 @@ $30 \ \text {minutes}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -577,9 +577,6 @@ $30 \ \text {minutes}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2102,7 +2099,7 @@ $1.8 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>7AB1C6A0-22A3-4EBC-A247-55F381AF4F47</p>
 </div>
@@ -2162,7 +2159,7 @@ $\pounds 0.95$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>

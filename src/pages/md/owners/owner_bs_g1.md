@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-g1"
 title: "Owner - Banoth Sairam - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -279,6 +279,73 @@ $26$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>05561C2E-68D5-42DC-876C-EC372F879900</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The original price of a bicycle is $\pounds 260$. Which of these is the better deal?
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+Show workings. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Original price $= \pounds 260$
+
+Let's look at Deal A. 
+
+If the price is reduced by $25 \%$, then the sale price will be $100 - 25 = 75 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text{Deal A}     &= 75 \% \ \text{of} \ 260 \\\\
+                  &= \dfrac {75} {100} \times 260   \\\\
+                  &= \dfrac {75 \times 260 } {100}  \\\\
+                  &= \dfrac {25 \times 3 \times 4 \times 65 } {25 \times 4}  \\\\
+                  &= \dfrac {\cancel{25} \times 3 \times \cancel{4} \times 65 } {\cancel{25}  \times \cancel{4}}   \\\\
+                  &= 3 \times 65 \\\\
+                  &= \pounds 195
+\end{aligned}
+$
+
+Deal B $= \pounds 205$
+
+
+From the above calcuation, we can see that Deal A is better than Deal B.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Deal A
+
+</div>
+</div>
+
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
@@ -672,6 +739,181 @@ $10$
 </ul>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>269CAEB1-ECC7-4634-9068-42EF39354F2F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The table shows the size of population for five Derbyshire villages.
+
+|   Village       | Population     |
+|:-----------:    |:----------:    |
+|   Ashover       |   $1796$       |
+|   Bamford       |   $14320$       |
+|    Clowne       |   $6152$       |
+| Darley Dale     |   $9517$       |
+|  Eckington      |   $22315$       |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the population of Darley Dale in words.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Nine thousand five hundred and seventeen
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Nine thousand five hundred and seventeen
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the population of Clowne correct to the nearest $100$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Population of Clowne $= 6152$
+
+After rounding up to the nearest $100 = 6200$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6200$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the population of Eckington to the nearest $1000$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Population of Eckington $= 22315$
+
+After rounding down to the nearest $1000 = 22000$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many more people live in Eckington than Bamford?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Difference}    &=  22315 - 14320 \\\\
+                    &=  7995 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7995$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
@@ -1207,6 +1449,63 @@ $492$
 </ul>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $148 + 476$?
+
+A: $514$
+
+B: $524$
+
+C: $614$
+
+D: $624$
+
+E: $634$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &   1   &   4   &   8 \\
+{}+     &   4   &   7   &   6 \\
+\hline
+        &   6   &   2   & 4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$624$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
@@ -2273,10 +2572,7 @@ $58 \degree$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3278,10 +3574,7 @@ $\pounds 1.70$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3725,9 +4018,6 @@ $\dfrac{9}{20}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -3788,7 +4078,7 @@ $6c - 3d$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4094,9 +4384,6 @@ $4693$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

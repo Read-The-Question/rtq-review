@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpower-all"
 title: "Topic - Power - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -592,12 +592,6 @@ $9, 81$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
 tpower
 </li>
 </ul>
@@ -1145,7 +1139,7 @@ $-4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>105EE389-55BC-40FE-B8E3-BEF5386BE7DE</p>
 </div>
@@ -1370,220 +1364,7 @@ $64$
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>4CED6511-C49B-4229-A375-35FEA63D3656</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpower
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $2^4 \times 3^1 = 2 \times 2 \times 2 \times 2 \times 3 = 48$
-
-and $2^0 \times 3^2 = 3 \times 3 = 9$
-
-Using this method to set out your work, or otherwise.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $2^2 \times 3^3$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the **largest** value of $b$ for which $2^0 \times 3^b$ is **less** than $100$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the **smallest** value of $c$ for which $2^c \times 3^1$ is **greater** than $100$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the values of $d$ and $e$ for which $2^d \times 3^e = 144$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -1789,71 +1570,6 @@ $
 First line : $5^2 + 11 = 36$
 
 Second line : $6^2 + 13 = 49$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>9FBBD942-5D1D-4C22-990D-69A275C0ADF1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tpower
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The **$\underline{same}$** number if missing from all three boxes.
-
-Write the same missing number in each box.
-
-$\Box\:\:\:\:\times\:\:\:\:\Box\:\:\:\:\times\:\:\:\:\Box= \:\:\:512$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a^3 &=  2 \times 256 \\\\
-a^3 &= 4 \times 128 \\\\
-a^3 &= 8 \times 64 \\\\
-a^3 &= 8 \times 8 \times 8 \\\\
-a^3 &= 8^3 \\\\
-a &= 8
-\end{aligned}
-$
-
-The number in the missing box $= 8$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-jn-g1"
 title: "Reviewer - Jaishree Nair - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -988,10 +988,7 @@ $85 \%$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2548,10 +2545,7 @@ $4.20$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2616,7 +2610,7 @@ $18,14$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3197,10 +3191,7 @@ $-2$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3263,7 +3254,7 @@ $18,14$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3711,9 +3702,6 @@ $656$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -3768,13 +3756,7 @@ $3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -4235,7 +4217,7 @@ $821$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4536,6 +4518,115 @@ $\pounds 182$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>FF15893E-F772-4830-8CA9-E540E52C0887</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**For question $\bold{25}$ and $\bold{26}$ use the information provided in this box.**
+
+![missing table](/papers/missing_table.svg)
+
+For how many hours is it open each week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+| Day                | Opening hours   |
+|--------------------|-----------------|
+| SAT                | 9 Till 5        |
+| SUN                | 1 Till 5        |
+| WEDS and FRI       | 2 Till 5        |
+
+Let's calculate the total hours it is open in each week.
+
+$
+\begin{aligned}
+\text{Total hours}   &= \text {Sat} + \text {Sun} + \text {Wed} + \text {Fri} \\\\
+                     &= 8 \ \text {hours}  +  4 \ \text {hours} +  3 \ \text {hours} +  3 \ \text {hours} \\\\
+                     &= 18 \ \text{hours}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18 \text{hours}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>ED073E19-C259-4CCE-9247-955B9E693C10</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much change would there be from a $\pounds 20$ note for Alice, Owen, Mum, Dad and Gran if they use the car park?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total charges}    &= (1.60 \times 2) + (2.40 \times 3) + 1.50 \\\\
+                        &= 3.20 + 7.20 + 1.50 \\\\
+                        &= \pounds 11.90 \\\\
+\text{Change left }     &= 20 - 11.90 \\\\
+                        &= \pounds 8.10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 8.10$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>9765422F-8002-4C2D-B4DF-7DA87D35A226</p>
 </div>
 <div class='topics'>
@@ -4656,7 +4747,7 @@ $\text {Octagon}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4809,13 +4900,7 @@ $60 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -4917,9 +5002,6 @@ $\pounds 57.85$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -5076,13 +5158,7 @@ $500$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -5623,9 +5699,6 @@ $42$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -6097,9 +6170,6 @@ $\pounds 140.55$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -6156,13 +6226,7 @@ $9$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -6543,9 +6607,6 @@ $\pounds 2.03$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -7012,9 +7073,6 @@ $16.30$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -7679,9 +7737,6 @@ $150 \ \text {miles}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -7995,9 +8050,6 @@ $\pounds 161.35$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -8321,9 +8373,6 @@ $31.02$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9634,9 +9683,6 @@ $\pounds 4.54$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -9693,7 +9739,7 @@ $1430$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -9799,7 +9845,7 @@ $\pounds 18$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -9925,7 +9971,7 @@ Fill in the missing number of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10067,7 +10113,7 @@ tfraction
 </div>
 
 
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10300,7 +10346,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11136,10 +11182,7 @@ $\pounds 0.45$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tunitprompt
@@ -12376,7 +12419,7 @@ $\dfrac {11} {35}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -13055,9 +13098,6 @@ $36 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -13761,10 +13801,7 @@ $200 \ \text {miles}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -13888,7 +13925,7 @@ $196 \ \text {cm} ^2$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -14705,9 +14742,6 @@ $\dfrac {1} {6}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -14865,10 +14899,7 @@ $111 \ \text {minutes}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -15044,9 +15075,6 @@ $9 \ \text {hours}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -15113,7 +15141,7 @@ $3$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -15672,9 +15700,6 @@ $33.33$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -15897,10 +15922,7 @@ $480$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -16161,9 +16183,6 @@ $2, 5, 11$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -16296,7 +16315,7 @@ $92 \ \text{minutes}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -16663,9 +16682,6 @@ $\dfrac {11} {4}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -16719,9 +16735,6 @@ $6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -16877,9 +16890,6 @@ $20$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -17001,9 +17011,6 @@ $22$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -17899,10 +17906,7 @@ $1 \ \dfrac {7} {24}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -18106,9 +18110,6 @@ $11.025$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -18722,9 +18723,6 @@ $2 \times 3 \times 17$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -18769,9 +18767,6 @@ $-3x + 30y$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -19235,7 +19230,7 @@ $\dfrac {-9} {28}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -21207,9 +21202,6 @@ $14$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -21455,9 +21447,6 @@ $\dfrac {37} {7}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -23536,7 +23525,7 @@ $75 \ \text {m}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -24277,7 +24266,7 @@ $- 4 \degree \text {C}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -25627,9 +25616,6 @@ $15.81$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -25699,9 +25685,6 @@ a = 2,b = 12$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -26151,9 +26134,6 @@ $45321176$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -26539,9 +26519,6 @@ $402.6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -27003,9 +26980,6 @@ $2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -27184,9 +27158,6 @@ $117$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -27423,10 +27394,7 @@ $20 \degree$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -27651,9 +27619,6 @@ $\dfrac{19}{10}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -27851,10 +27816,7 @@ $1.3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tnumber
 </li>
 </ul>
 </div>
@@ -28327,9 +28289,6 @@ $dfrac{-1}{6}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -28767,9 +28726,6 @@ $\dfrac {5} {9}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -28917,7 +28873,7 @@ $42$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -29252,9 +29208,6 @@ $610$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -29647,9 +29600,6 @@ $1$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -29831,9 +29781,6 @@ $-11$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -29999,13 +29946,7 @@ $4.5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -30127,10 +30068,7 @@ tunassigned
 talgebra
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -30444,9 +30382,6 @@ $0.72$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

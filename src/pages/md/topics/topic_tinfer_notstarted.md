@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-notstarted"
 title: "Topic - Infer - Not Started"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -945,7 +945,7 @@ tunassigned
 tinfer
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1324,157 +1324,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>84822D8F-EA5C-49F0-97FB-8F065EFA3D25</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Bags $A$ and $B$ contain some counters.
-
-![missing image](/papers/missing_image.svg)
-
-Bag A: $6y + 1$ counters
-
-Bage B: $4y + 7$ counters
-
-The number of counters in each bag **is the same**.
-
-Work out the value of $y$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Bag $C$ contains more counters than bag $D$.
-
-![missing image](/papers/missing_image.svg)
-
-Bag C: $4k$ counters
-
-Bage D: $k + 12$ counters
-
-What is the **smallest** possible value of $k$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>C795B046-748D-4039-892F-949F9A2909FB</p>
 </div>
 <div class='topics'>
@@ -1794,7 +1643,7 @@ tunassigned
 tinfer
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2135,7 +1984,7 @@ tunassigned
 tinfer
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3929,7 +3778,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tinfer
@@ -7555,70 +7404,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>7CC32475-A16A-455F-BA91-8C314800A5D0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Each shape in this grid is hiding a particular number so that the three shapes in any row or column add up to the value written 
-at the end of that row or column. 
-
-| Diamond |   Sun   |   Sun   | $16$ |
-|:-------:|:-------:|:-------:|:----:|
-| Diamond | Diamond | Diamond | $12$ |
-|  Clove  | Diamond |  Clove  | $18$ |
-|   $15$  |   $14$  |   $?$   |  $+$ |
-Work out the number that should replace the question mark.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>5743D96D-D40B-4E87-8774-99FCA17BCEB5</p>
 </div>
 <div class='topics'>
@@ -7627,10 +7412,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tinfer
@@ -8930,7 +8712,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tinfer
@@ -9582,224 +9364,10 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>C55AA26F-20D8-4941-8786-92B13C746230</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The instruction $x \ \spadesuit \ y$ means double $x$ and add $y$.
-
-For example: $5 \ \spadesuit \ 3 = 2 \times 5 + 3 = 13$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the value of $14 \ \spadesuit \ 55$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the value of $a$ if $9 \ \spadesuit \ a = 31$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the value of $b$ if $b \ \spadesuit \ 10 = 16 \ \spadesuit \ b$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The numbers $c$ and $d$ are such that $c \ \spadesuit \ d = d \ \spadesuit \ c$. Work out the value of $d - c$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-f</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>DBB8AAA3-8E4B-4E8E-B062-598C9668FDFC</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9977,7 +9545,7 @@ tunassigned
 tinfer
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -12160,7 +11728,7 @@ tunassigned
 tinfer
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -12559,63 +12127,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>FCC40EC8-3FDD-4BFA-B17E-BF9F97D55479</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jonathan thinks of a whole number, multiplies it by itself  and adds $9$. He says that the answer is $47$.
-Daisy think Jonathan has made a mistake. Do you agree? Explain your reasoning. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>464C68A6-30E1-4FB7-9F2A-1F485F1C4F73</p>
 </div>
 <div class='topics'>
@@ -12973,7 +12484,7 @@ tinfer
 tprobability
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -13330,7 +12841,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -15564,143 +15075,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>1F0FD520-2214-45CF-BFA5-2CDD7CBDAADE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A lady has some dogs and some kennels for them to sleep in.
-
-If she puts $3$ dogs in each kennel, there are $2$ dogs left over. 
-
-If she puts $4$ dogs in each kennel, $1$ kennel is left empty.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many dogs are there ?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many kennels are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>374A4BD9-3FE6-44D2-8C7B-F6B423ED0C7B</p>
 </div>
 <div class='topics'>
@@ -16007,62 +15381,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>8F027A1E-78A4-45E0-BB41-9FAAB4D6B88A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a barn there are only horses and people. If there are $12$ heads and $34$ legs how many horses and how many people are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>9B6496FA-879D-4143-A8F4-4F7EC16CCC67</p>
 </div>
 <div class='topics'>
@@ -16184,7 +15502,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tinfer
@@ -16689,9 +16007,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -17492,9 +16807,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -19576,10 +18888,7 @@ tinfer
 ttable
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -21693,260 +21002,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>480AC0B2-6C51-47B1-9F2D-FB2D3727A855</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-tformula
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A rule for numbers is to $\textbf {add } 12 \textbf{ and divide the answer by } 2$.
-
-For example if you start with $10$ you add $12$ and get $22$ and then you divide by $2$ to get $11$.
-
-So applying the rule to the number $10$ you get the answer $11$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the answer if you apply the rule to the number $30$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the number if you apply the rule twice starting with the number $20$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If the rule is applied to a number the answer is $15$. What was the starting number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If the rule is applied twice the answer is $50$. What was the starting number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The rule is applied once to the number $N$ and the answer you get is also $N$. What is the number $N$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>54031DD7-DAC6-44A3-A2F6-593F6B620F71</p>
 </div>
 <div class='topics'>
@@ -22531,62 +21586,6 @@ tinfer
 <div class='question question'>
 
 Which multiple of $11$ is nearest to $1000$? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>67963BA0-C06F-4161-8F38-66A34F3EC3EB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I am thinking of a number less than $50$. When I divide my number by $7$ I get a remainder of $3$. When I divide my number by $5$ I get a remainder of $2$. What is my number? 
 
 </div>
 <div class='workings'>
@@ -26593,7 +25592,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tinfer
@@ -27984,7 +26983,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -28793,139 +27792,6 @@ TODOANSWER
 <div class='question subquestion'>
 
 A pattern has $45$ squares in total. How many of them are white?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>A67D7588-E7DB-4FED-BE14-65225495941A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $a$ and $b$ are whole numbers, then $a \ \clubsuit \ b$ means $(b \times  b) \div (a + 1)$
-
-So for example, $2 \ \clubsuit \ 6 = (6 \times 6) \div (2 + 1) = 36 \div 3 = 12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $1 \ \clubsuit \ 10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $(3 \ \clubsuit \ 4) \ \clubsuit \ 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If $6  \ \clubsuit \  y = 7$, what is the value of $y$?
 
 </div>
 <div class='workings'>
@@ -30092,148 +28958,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>E2CE5C41-401D-471B-B868-C50B3E4DD99A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $a$ and $b$ are numbers, then $a \ \hearts \ b$ means **'multiply $a$ by itself and then subtract $b$'**.
-
-For example
-
-$
-\begin{aligned}
-2 \ \hearts \  3 &= 2 \times 2 - 3 \\
-                 &= 4 - 3 \\
-                 &= 1
-\end{aligned}
-$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate $3 \ \hearts \ 4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $a$ when $a \ \hearts \ 4 = 32$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $x$ when $x \ \hearts \ x = 72$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>51656C94-CF31-4FBB-94BD-BDD4145FBB17</p>
 </div>
 <div class='topics'>
@@ -30696,7 +29420,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tinfer
@@ -32492,146 +31216,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>2E3B46A6-87E6-4075-8126-F70E278BA5D1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$c*d$ means multiply $c$ by itself and then add $c$ times $d$
-
-$
-\begin{array}{rr}
-\text{eg}                          &  3 * 4                     \\
-\text{means}                     & 3 \times 3 + 3 \times 4     \\
-\text{which equals}             & 9 + 12                     \\
-\text{which gives an answer of} & 21 
-\end{array}
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the value of $6 * \dfrac{1}{3}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3 * x$ gives $24$. What is $x$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$y * y$ gives $32$. What is $y$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>0981AA4D-AD7A-4B34-ABA3-714E1CB3B9F2</p>
 </div>
 <div class='topics'>
@@ -33914,62 +32498,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>38BA54B1-2465-413D-86CA-0E4B69E83BBB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-At SuperMart, a packet of jam tarts costs $\pounds 1.20$.
-
-This week, there is a special offer:
-
-*If you buy one packet, you can buy a second packet at half price.*
-
-Erika needs to buy $13$ packets of jam tarts.
-
-Using the special offer, how much will it cost Erika to buy $13$ packets?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>63ADFBFF-1873-48A5-8FA0-912118441B65</p>
 </div>
 <div class='topics'>
@@ -34719,9 +33247,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -38355,156 +36880,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>4DACC7C4-808D-4D5B-9F08-E7D2914E09BD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-<li>
-ttrialerror
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Nigel spent $\pounds 71$ on CDs, some costing $\pounds 8$ each, and the rest $\pounds 5$ each. He bought more of the dearer ones. How many CDs did he buy altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the count of the expensive CDs $= d$
-
-Let the count of the cheaper CDs $= c$
-
-As per the question,
-
-$
-\begin{aligned}
-8d + 5c     &= 71 \\\\
-d           &> c
-\end{aligned}
-$
-
-We have got $2$ variables and so we need $2$ equations to solve them. 
-Here we have got $2$ equations but the second one is an inequality equation, so we 
-can't use elimination or substitution to solve the equations.
-
-This can be solved instead by using trial and error but applying conditions to narrow down options.
-
-We know $d > c$, so let's start with the biggest value possible for $d$.
-If $d$ is $9$, that will equate to $8 \times 9 = 72$ and thats more than total spent $71$, so the biggest possible value for $d$ is $8$.
-
-
-Let's try for $d = 8$.
-
-$
-\begin{aligned}
-8d + 5c             &= 71 \\\\
-8 \times 8 + 5c     &= 71 \\\\
-64 + 5c             &= 71 \\\\
-5c                  &= 71 - 64 \\\\
-5c                  &= 7
-\end{aligned}
-$
-
-$7$ is not exactly divisible by $5$ and so this value of $d$ is not the solution.
-
-Let's try for $d = 7$.
-
-$
-\begin{aligned}
-8d + 5c             &= 71 \\\\
-8 \times 7 + 5c     &= 71 \\\\
-56 + 5c             &= 71 \\\\
-5c                  &= 71 - 56 \\\\
-5c                  &= 15 \\\\
-c                   &= \dfrac{15}{5} \\\\
-c                   &= \dfrac{5 \times 3}{5} \\\\
-c                   &= \dfrac{\cancel{5} \times 3}{\cancel{5}} \\\\
-c                   &= 3
-\end{aligned}
-$
-
-For $d = 7$, we have a solution where $c = 3$ and it satisfies the inequality $d > c$ too. So we have our solution.
-
-Let's find the total CDs count.
-
-$
-\begin{aligned}
-c                    &= 3 \\\\
-d                    &= 7 \\\\
-\text{Total CDs}     &= 7 + 3 \\\\
-                     &= 10
-\end{aligned}
-$
-
-<!--
-Bebs explanation
-
-We know that the total of the CDs was $\pounds 71. If we name the number of the more expensive CDs a and the cheaper CDs b, we can form an equation.
-8a + 5b = 71
-a > b
-As the cost of the cheaper CDs are $\pounds 5, however many of these CDs Nigel buys, the cost of them will always be a multiple of 5. This means it will end in 5 or 0.
-If $\pounds 71 and the total cost of the expensive CDs Nigel buys, don't subtract to a result which is a multiple of 5, some money would be left over.
-This means that we need to find which numbers the cost of the expensive CDs could end with so all the $\pounds 71 is spent.
-To get from 71 to a number ending with 0, you could subtract 1.
-To get from 71 to a number ending with 5, you could subtract 6.
-This means that the total cost of the expensive CDs will either end in the number 6 or 1. We now need to find a multiple of 8 ending in 6 0r 1 which is less than 71.
-8 * 1 = 8 (doesn't end in 6 or 1)
-8 * 2 = 16 (ends in 6)
-8 * 3 = 24 (doesn't end in 6 or 1)
-8 * 4 = 32 (doesn't end in 6 or 1)
-8 * 5 = 40 (doesn't end in 6 or 1)
-8 * 6 = 48 (doesn't end in 6 or 1)
-8 * 7 = 56 (ends in 6)
-8 * 8 = 64 (doesn't end in 6 or 1)
-8 * 9 = 72 (greater than 71)
-8 * 10 = 80 (greater than 71)
-We have now discovered that there are either 2 or 7 of the more expensive CDs.
-If there were 2, the cost of them would be $\pounds 16. This would mean that the cost of the cheaper CDs would be $\pounds 71 - $\pounds 16 which is $\pounds 55. There would be 11 of the cheaper CDs.
-However, the questions states that he bought more of the dearer (more expensive) CDs. This means that he bought 7 of the more expensive CDs which would cost $\pounds 56. The cost of the cheaper CDs would be $\pounds 71 - $\pounds 56 which is $\pounds 15. There would be 3 of the cheaper CDs.
-We need to find the total number of the CDs which would be 7 + 3 which is 10 CDs.
-
-answer = 10
-
-d = 7
-c = 3
-
-Total CDs = 7 + 3
-
-= 10 CDs 
--->
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-10
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>7713A57E-353D-4AE2-8061-4BD786B060FA</p>
 </div>
 <div class='topics'>
@@ -39849,7 +38224,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -40109,7 +38484,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -40274,436 +38649,6 @@ b = $6$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>FF304983-407B-4F08-A1A7-266719ACE0F0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The ancient "Viva" tribe of Central America combined numbers in a particular way. Their method used the following symbol $(.)$ and worked like this
-
-$a\ (.)\ b = 5$ times $a$ plus $b$ (ie $5 \times a + b$)
-
-so
-
-$2\ (.)\ 7 = 5 \times 2 + 7 = 17$ and $9\ (.)\ 3 = 5 \times 9 + 3 = 48$
-
-Work out what the answer would be for these Viva calculations
-
-Work out what value the letter would have to have to give the following results in these Viva problems
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3\ (.)\ 4 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-
-$3\ (.)\ 4$
-
-$
-\begin{aligned}
-&= (5 \times 3) + 4\\
-&= 15 + 4\\
-&= 19
-\end{aligned}
-$
-
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5\ (.)\ 3 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$5\ (.)\ 3$
-
-$
-\begin{aligned}
-&= (5 \times 5) + 3\\
-&= 25 + 3\\
-&= 28
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$28$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If $m\ (.)\ 2 = 37$, what number must $m$ be?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$m\ (.)\ 2 = 37$
-
-$
-\begin{aligned}
-           37 &= 5 \times m + 2\\
-              &= (5 \times m) + 2\\
-              &= 5m + 2\\
-       37 - 2 &= 5m \\
-           35 &= 5m \\
-\dfrac{35}{5} &= m \\
-            7 &= m
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$m = 7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If $n\ (.)\ 4 = 8\ (.)\ n$, what number must $n$ be?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$n\ (.)\ 4 = 8\ (.)\ n$
-
-$
-\begin{aligned}
-  5 \times n + 4 &= 5 \times 8 + n \\
-(5 \times n) + 4 &= (5 \times 8) + n \\
-          5n + 4 &= 40 + n \\ 
-          5n - n &= 40 - 4 \\           
-              4n &= 36 \\
-               n &= 9 \\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$N = 9$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>0F87C3AF-04E1-4CE4-95B8-6058896522BF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When a ball is dropped, the relationship between the speed ($S$) of the ball in $\text{m/s}$ and the distance ($d$) in $\text{m}$ it has fallen is
-
-$S^2 = 20 \times d$ where $S^2 = S \times S$
-
-So after dropping $5 \ \text{m}$, $S^2 = 20 \times 5 = 100$ and therefore the speed would be $10 \ \text{m/s}$ as $10 \times 10 = 100$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion TODO'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the speed when the ball has dropped $45 \ \text{m}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$S^2 = 20 \times d$ where 
-
-$S^2 = S \times S$
-
-Speed ($S$) of the ball in $\text{m/s}$
-
-Distance ($d$) in $\text{m}$
-
-Let's substitute
-
-$
-\begin{aligned}
-  d &= 45 \ \text{m} \\
-S^2 &= 20 \times 45 \\
-    &= 900 \\
-    &= 9 \times 100 \\
-    &= 3^2 \times 10^2 \\
-    &= 30^2 \\
-  S &= 30
-\end{aligned}
-$
-
-The speed of the ball is $30 \ \text{m/s}$ when it has dropped 45m.
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text{m/s}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-When the speed is $40 \ \text{m/s}$, how far has the ball fallen?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$S^2 = 20 \times d$ where 
-
-$S^2 = S \times S$
-
-Let's substitute
-
-$
-\begin{aligned}
-   S &= 40 \ \text{m/s} \\
-40^2 &= 20 \times d \\
-   d &= \dfrac {40^2}{20} \\\\
-     &= \dfrac {40 \times 40}{20} \\\\
-     &= \dfrac{\cancel {40} \raisebox{0.9em}{2} \times 40} {\cancel {20}\raisebox{-0.9em}{1}}\\\\
-     &= 2 \times 40 \\
-     &= 80 \\
-   d &= 80 \ \text{m}
-\end{aligned}
-$
-
-The ball has fallen $80 \ \text{m}$ when the speed is $40 \ \text{m/s}$.
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$80 \ \text{m}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much further would the ball have to fall to be travelling at twice the speed that the ball had in part (b)?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{aligned}
-\text{Speed  in} (b) &= 40 \ \text{m/s} \\
-\text{Speed in} (c)  &= (40 \times 2) \ \text{m/s} \\
-              &= 80  \ \text{m/s}
-\end{aligned}
-$
-
-$S^2 = 20 \times d$ where 
-
-$S^2 = S \times S$
-
-Let's substitute
-
-$
-\begin{aligned}
-   S &= 80 \ \text{m/s} \\
-80^2 &= 20 \times d \\
-   d &= \dfrac {80^2}{20} \\\\
-     &= \dfrac {80 \times 80}{20} \\\\
-     &= \dfrac{\cancel {80} \raisebox{0.9em}{4} \times 80} {\cancel {20}\raisebox{-0.9em}{1}}\\\\
-     &= 40 \times 80 \\
-     &= 240 \\
-   d &= 240 \ \text{m}
-\end{aligned}
-$
-
-The ball has to fall $240 \ \text{m}$ to be travelling at twice the speed than speed in (b).
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$240 \ \text{m}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>689EE484-9EC6-44EB-9485-1E95D171BEA8</p>
 </div>
 <div class='topics'>
@@ -40753,7 +38698,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41126,7 +39071,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41453,7 +39398,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -41995,7 +39940,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -42283,223 +40228,6 @@ $\dfrac{21}{36} \ $ Or $\ \ \dfrac{7}{12}$
 </ul>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>84DF03D9-35BF-4360-B6DC-B1BC22506A5E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Farmer Burrows owns four chickens, each of which he knows by name. 
-
-Anna lays $2$ eggs each day.
-
-Bethan lays $3$ eggs each day.
-
-Connie lays $4$ eggs each day 
-
-but Deborah lays $1$ egg **every other day**, starting on day $1$. (ie on day $1$, then day $3$ etc)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many eggs are laid on day $1$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many eggs are laid on day $8$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-One chicken is ill on a particular day, so Farmer Burrows is only able to collect $8$ eggs.  Which chicken is ill?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many eggs were laid in total on all the days $1$ to $8$, if no chickens were ill on those days?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -43767,225 +41495,6 @@ TODOANSWER
 <div class='question subquestion'>
 
 Find the angle if a building $100 \ \text{m}$ away is $270 \ \text{m}$m high.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>40511CB4-2926-4FAB-88C3-80D38B031B18</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Groups of car enthusiasts are going to a car festival. To get to the place where the festival is happening they have a number of different sizes of car available as follows:
-
-**Two** seater sports cars
-
-**Four** seater cars
-
-**Six** seater people carriers
-
-In order to keep the cost down, **__each vehicle used on the journey is always full__**.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The first group use four sports cars, $6$ four seater cars and two people carriers. How many are there in the group?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The second group has $76$ people in it. How many four seater cars will they need if they take $5$ sports cars and $7$ people carriers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The third group has $112$ people in it. They use $8$ four seater cars and equal numbers of sports cars and people carriers. How many of each do they need?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In the fourth group there are $66$ people. 
-They need twice as many sports cars as four seater cars and twice as many four seater cars as people carriers.  
-How many four seater cars do they use?
 
 </div>
 <div class='workings'>
@@ -46052,10 +43561,7 @@ tinfer
 talgebra
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -46094,7 +43600,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -46237,7 +43743,7 @@ talgebra
 tinfer
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -46275,7 +43781,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -46996,7 +44502,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -47173,7 +44679,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -47324,9 +44830,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -48432,9 +45935,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

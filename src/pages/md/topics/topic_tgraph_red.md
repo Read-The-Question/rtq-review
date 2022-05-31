@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-red"
 title: "Topic - Graph - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -385,7 +385,7 @@ The pie chart below represents data collected in a survey by a PE teacher about 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1185,7 +1185,7 @@ Here is a graph to convert between gallons and litres:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1211,7 +1211,7 @@ Showing clearly how you take your readings, use your graph to find:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -1324,7 +1324,7 @@ One day, Julie's Juice Bar sells $1000 \ \text{litres}$ of orange juice.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>

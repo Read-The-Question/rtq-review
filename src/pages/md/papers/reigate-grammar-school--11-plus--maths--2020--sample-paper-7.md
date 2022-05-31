@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7"
 title: "Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -77,10 +77,7 @@ $\pounds 4.30$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -821,7 +818,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1137,7 +1134,7 @@ $40 \degree$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1480,7 +1477,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_blocked question'>
 <div class='uuid'>
 <p>F0E5AC4B-9543-44E6-BAB8-0991A9B073BD</p>
 </div>
@@ -1525,7 +1522,7 @@ $10$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_blocked</p>
 </div>
 </div>
 </li>

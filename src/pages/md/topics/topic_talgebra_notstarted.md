@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-notstarted"
 title: "Topic - Algebra - Not Started"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -372,12 +372,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -647,13 +641,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
 talgebra
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -2195,12 +2186,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2336,16 +2321,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfactor
 </li>
 </ul>
 </div>
@@ -2947,12 +2923,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tratio
-</li>
 <li>
 talgebra
 </li>
@@ -3601,9 +3571,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -3931,9 +3898,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -4180,13 +4144,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -4515,9 +4473,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -4730,12 +4685,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 talgebra
 </li>
@@ -5328,12 +5277,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -5538,9 +5481,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -5774,13 +5714,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -5885,9 +5822,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -5941,9 +5875,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -6066,9 +5997,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -6124,9 +6052,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -6180,9 +6105,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -6238,13 +6160,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -6252,127 +6168,6 @@ tinfer
 
 Jonathan thinks of a whole number, multiplies it by itself  and adds $9$. He says that the answer is $47$.
 Daisy think Jonathan has made a mistake. Do you agree? Explain your reasoning. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>CB65FC73-DF41-475D-8FB9-CAF0848A6185</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$4$ oranges and $7$ apples weigh $51 \ \text{ounces}$.
-$7$ oranges and $4$ apples weigh $48 \ \text{ounces}$.
-
-What do $1$ apple and $1$ orange weigh?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>A534F61C-8A5A-4BCD-9D29-C6FDECC215A4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Chrystine's candle is $42 \ \text{cm}$ tall and burns at a rate of $3 \ \text{cm}$ every $30 \ \text{minutes}$.
-Kieran's candle is $30 \ \text{cm}$ tall and burns at a rate of $2 \ \text{cm}$ every $40 \ \text{minutes}$.
-They both light their candles at the same time.
-
-How much longer does Kieran's candle take to burn completely down than Chrystine's candle?
-
-After how many minutes were the candles the same height?
 
 </div>
 <div class='workings'>
@@ -7148,9 +6943,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -7645,12 +7437,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -7944,9 +7730,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -8090,9 +7873,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -8289,9 +8069,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -8627,9 +8404,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tstatistics
 </li>
 <li>
@@ -8794,12 +8568,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -8930,12 +8698,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 talgebra
 </li>
@@ -9087,9 +8849,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -9218,9 +8977,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9407,12 +9163,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -9464,9 +9214,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9523,9 +9270,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9632,9 +9376,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -9694,9 +9435,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -9748,9 +9486,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9806,9 +9541,6 @@ $40$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -10217,9 +9949,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -10277,7 +10006,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -10386,9 +10115,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -10651,13 +10377,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tstatistics
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -10752,13 +10475,7 @@ How many magazines does she buy?
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-tformula
+tnumber
 </li>
 <li>
 talgebra
@@ -11006,13 +10723,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -11399,146 +11110,10 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>D7E4878B-A2D4-4A97-97AD-C9FAC3289EA2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tratio
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$3$ cats can catch $3$ mice in $3 \ \text{hours}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long would it take $3$ cats to catch $1$ mouse?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long would it take for $1$ cat to catch $1$ mouse?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>F4262879-AD95-4756-AC5F-82180439F2CC</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -11663,9 +11238,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -11727,73 +11299,10 @@ $8$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>1C1407AB-FAA5-4405-B150-73807FC42C74</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The Crystal Palace bridge has carried $300$ million cars since it was opened in 1964. 
-On average, roughly how many vehicles is this per month?
-
-- $50{,}000$
-- $500{,}000$
-- $5{,}000{,}000$
-- $6{,}000{,}000$
-- $60{,}000{,}000$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>51FA34A0-EEA9-468D-9DD3-11BB4CBBF4D0</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -11837,92 +11346,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>09D647CA-9C8E-4833-A62A-BBDB22D588C1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tvenn
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Of the $26$ boys in a class, $21$ are right-handed. If $10$ of the boys in the class wear glasses, 
-what is the least number of boys in the class who are both right-handed and wear glasses?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-As per the question not all boys in the class are right-handed. The rest are then left-handed boys.
-
-
-Let's take the total boys $= t =26$
-
-Let's take the total right-handed boys $=r = 21$
-
-Let's take the total left-handed boys $=l$
-
-$l = t - r$
-
-$
-\begin{aligned} 
-&= t - r \\\\
-&= 26 - 21 \\\\
-&= 5    
-\end{aligned}
-$
-
-Total left-handed boys in the class $5$
-
-Total boys who weare glasses $=10$
-
-Let's assume that the total of $5$ left-handed boys all wear glasses.
-
-So, total of right-handed boys who wear glasses = Total boys with glasses - Left-handed boys with glasses 
-
-
-$
-\begin{aligned} 
-&= 10 - 5 \\\\
-&= 5    
-\end{aligned}
-$
-
-Total of right-handed boys who wear glasses $=5$
-
-The least number of boys in the class who are both right-handed and wear glasses $=5$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -12248,12 +11671,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -12499,12 +11916,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 talgebra
 </li>
@@ -12797,9 +12208,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -12931,9 +12339,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdate
 </li>
@@ -13190,12 +12595,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -13333,9 +12732,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -13442,9 +12838,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -13559,12 +12952,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 talgebra
 </li>
@@ -13885,50 +13272,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>D9F5E368-303E-4350-B374-E1004752976E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Nikita pays $\pounds 9.50$ a month for her mobile phone and an extra $17 \text{p}$ for each call that she makes. 
-How much does she pay in a month when she makes $50$ calls?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>115CB135-A9EE-40E1-B989-BEDFDFB53FEE</p>
 </div>
 <div class='topics'>
@@ -13980,9 +13323,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -14026,12 +13366,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 talgebra
 </li>
@@ -14113,9 +13447,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -14159,12 +13490,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 talgebra
 </li>
@@ -14292,9 +13617,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -14426,13 +13748,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -14578,9 +13894,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -14687,13 +14000,10 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 talgebra
-</li>
-<li>
-tarea
 </li>
 </ul>
 </div>
@@ -14824,10 +14134,7 @@ tunassigned
 talgebra
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -15008,9 +14315,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -15058,12 +14362,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 talgebra
 </li>
@@ -15259,9 +14557,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -15322,9 +14617,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -15376,12 +14668,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -15427,9 +14713,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -16158,12 +15441,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -16368,9 +15645,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -16416,9 +15690,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -16468,9 +15739,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -16601,9 +15869,6 @@ How much did Claire spend on Thursday?
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -16655,13 +15920,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -16881,7 +16140,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -16930,9 +16189,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -17073,9 +16329,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -17140,9 +16393,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -17243,61 +16493,10 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>614F23B2-E8EA-4EB8-83F5-64E2D37B50E5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Becca is thinking of a prime number bigger than $20$
-
-When she writes its digits in reverse order, the new number is also prime.
-
-
-What is the smallest number Becca could be thinking of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>AFB999E3-6C2D-410C-B1AC-5FC2B01FD318</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -17451,9 +16650,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -17732,115 +16928,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>61203874-93D1-480D-901B-66CBB79D41D3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Zoya has a jug of capacity $1.5 \ \text{litres}$ which is full of lemonade.
-
-She has eight cups each of capacity $150 \ \text{ml}$.
-
-Zoya fills the cups with lemonade from her jug.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What volume of lemonade is left in the jug?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Zoya has five $2 \ \text{litre}$ bottles of lemonade
-
-How many times could Zoya completely fill her jug from these bottles?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>5777C924-5686-4F39-B664-8811F6230813</p>
 </div>
 <div class='topics'>
@@ -17957,9 +17044,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -18008,9 +17092,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -18070,13 +17151,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 <li>
 ttrialerror
@@ -18219,9 +17294,6 @@ Total CDs = 7 + 3
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -18525,13 +17597,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -18771,9 +17837,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -19049,263 +18112,10 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>E96F9980-E746-44A5-BF5E-740293EF65A9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tratio
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A festival in Platt Fields attracted a huge crowd and all the people attending brought food with them to share out. Some people brought bread with them, others brought fish while the remainder brought fruit in the form of apples.
-
-Everyone agreed that they would share their food with each other according to the following rules.
-
-Two loaves of bread could be swapped for one fish and one loaf could be swapped for three apples.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's take Loaves as $l$, fish as $f$ and apples as $a$
-
-$
-\begin{aligned}
-2l &= 1f \\\\
-1l &= 3a \text { \ \ so,} \\\\
-1f &= 2 \ l  \\\\
-      &= 2 (3a) \\\\
-      &= 6a \\\\
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Oliver brought two fish and firstly swapped them for loaves of bread. Then he decided to change the loaves for apples.
-
-How many apples did he get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{aligned}
-2f &= 2 \times 2l \\\\
-4l &= 4 \times 3a \\\\
-   &= 12a \\\\
-\end{aligned}
-$
-
-Oliver has $12$ apples.
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$ apples
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many loaves could Irfan have for three fish and twelve apples?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{aligned}
- 3f &= 3 \times 2l \\\\
-    &= 6l \\\\
-12a &= 12 \div 3l \\\\
-12a &= 4l \\\\
-\end{aligned}
-$
-
-
-
-Irfan bought $3f + 12a$. Now let's substitute,
-
-$
-\begin{aligned}
-&= 6l + 4l \\\\
-&= 10l \\\\
-\end{aligned}
-$
-
-Irfan had $10$ loaves of bread.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10$ loaves
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Aidan wanted four fish to go with each loaf, how many loaves and fish could he exchange for $54$ apples?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let's exchange $54$ apples into fish.
-
-$
-\begin{aligned}
- 6a &= 1f \text {so,} \\\\
-54a &= \dfrac {54}{6} f \\\\
-    &= 9f\\\\
-\end{aligned}
-$
-
-for $54$ apples Aidan gets $9$ fish.
-
-Now for $1$ loaf he needs $4$ fish. 
-
-$
-\begin{aligned}
-2l &= 1f \\\\
-9f &= 8f + 2l \\\\
-\end{aligned}
-$
-
-Aidan exchanges $54$ apples and gets $2$ loafes and $8$ fish as he wanted.
-
-
-
-</div>
-<div class='working'>
-
-
-Let's take number of fish as $4x$
-
-and number of loaf as $x$ 
-
-As per the question 
-
-$
-\begin{aligned}
-1f &= 6a \\\\
-1l &= 3a \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-54 &= (4x \times 6) + (x \times 3) \\\\
-   &= 24x + 3x \\\\
-   &= 27x \\\\
- x &= \dfrac{54}{27}   \\\\
- x &= 2 \\\\
-\end{aligned}
-$
-
-Let's substitute
-
-$
-\begin{aligned}
- \text {loaf} &= x = 2 \\\\
- \text {fish} &= 4x \\\\
-              &= 4 \times 2 \\\\
-              &= 8 \\\\
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2$ loaves
-
-</div>
-<div class='answer'>
-
-$8$ fish
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>FF304983-407B-4F08-A1A7-266719ACE0F0</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 talgebra
 </li>
@@ -19340,7 +18150,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19514,12 +18324,6 @@ $N = 9$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -19557,7 +18361,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19765,7 +18569,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -20049,13 +18853,7 @@ $\pounds 4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -20265,9 +19063,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -20773,62 +19568,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>429BC7A1-F12E-43F9-8EFD-D9F1BEE76328</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tratio
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-*Lathes Engineering* produces ten boxes of screws every minute. It has to produce $48{,}000$ boxes of screws in five days. If its machines work an equal amount of time each day, work out the number of hours which will be needed **__each day__** to produce the boxes of screws needed.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>2C26352A-4AA1-46CE-9387-78C69FD25973</p>
 </div>
 <div class='topics'>
@@ -20837,7 +19576,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -20963,225 +19702,6 @@ TODOANSWER
 
 Chris has an area of $23 \ \text{cm}^2$ of paper left when he cuts a square with sides of $7 \ \text{cm}$ from his sheet of paper.
 If his rectangular sheet of paper is $8 \ \text{cm}$ wide, how long is it?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>40511CB4-2926-4FAB-88C3-80D38B031B18</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Groups of car enthusiasts are going to a car festival. To get to the place where the festival is happening they have a number of different sizes of car available as follows:
-
-**Two** seater sports cars
-
-**Four** seater cars
-
-**Six** seater people carriers
-
-In order to keep the cost down, **__each vehicle used on the journey is always full__**.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The first group use four sports cars, $6$ four seater cars and two people carriers. How many are there in the group?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The second group has $76$ people in it. How many four seater cars will they need if they take $5$ sports cars and $7$ people carriers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The third group has $112$ people in it. They use $8$ four seater cars and equal numbers of sports cars and people carriers. How many of each do they need?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In the fourth group there are $66$ people. 
-They need twice as many sports cars as four seater cars and twice as many four seater cars as people carriers.  
-How many four seater cars do they use?
 
 </div>
 <div class='workings'>
@@ -21567,10 +20087,7 @@ tinfer
 talgebra
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -21609,7 +20126,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21743,12 +20260,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpower
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -21786,7 +20297,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21965,7 +20476,7 @@ talgebra
 tinfer
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -22003,7 +20514,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22177,7 +20688,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22396,7 +20907,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22535,16 +21046,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tprofit
-</li>
-<li>
 talgebra
-</li>
-<li>
-tratio
 </li>
 </ul>
 </div>
@@ -22652,9 +21154,6 @@ $50p$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -22852,9 +21351,6 @@ $4 \ \text {m}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -23153,9 +21649,6 @@ $110 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -23701,9 +22194,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

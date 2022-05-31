@@ -1,7 +1,7 @@
 ---
 slug: "papers/brentwood-school-11-plus-maths-9999-sample-paper-1"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -547,7 +547,7 @@ $\dfrac {7} {32}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>82E53172-BBB9-4193-AC4C-4D206B9D794C</p>
 </div>
@@ -604,7 +604,7 @@ $9 \text { hours } 40 \text { minutes}$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -796,7 +796,7 @@ $1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C</p>
 </div>
@@ -995,7 +995,7 @@ $39, \quad 52$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -1397,7 +1397,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>E52F477B-FFCA-4102-95D0-AD1EFD89B90D</p>
 </div>
@@ -1407,7 +1407,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -1513,7 +1513,7 @@ $36 \text {m}^2$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -1919,16 +1919,7 @@ $
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tdate
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -1966,7 +1957,7 @@ $1$ January
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>7EEED2AD-4ACE-4231-9E6C-501375169A8F</p>
 </div>
@@ -2113,7 +2104,7 @@ $73188$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -2555,7 +2546,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>18F0ED79-1C13-4B24-A57C-C53F88E71603</p>
 </div>
@@ -2629,7 +2620,7 @@ $80 \%$ of $20 \%$ of $200$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -3194,9 +3185,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

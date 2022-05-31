@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-f"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper F"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1073,7 +1073,7 @@ tgraph
 tgeometry
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1301,7 +1301,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1351,12 +1351,6 @@ $58 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
 <li>
 tpower
 </li>
@@ -1935,12 +1929,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2145,9 +2133,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2387,7 +2372,7 @@ tunassigned
 tinfer
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2013-sample-paper-1"
 title: "Bancrofts School - 11 Plus - Maths - 2013 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1842,7 +1842,7 @@ tunassigned
 tinfer
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1899,10 +1899,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3571,7 +3568,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

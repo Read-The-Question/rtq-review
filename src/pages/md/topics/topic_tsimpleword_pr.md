@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-pr"
 title: "Topic - Simpleword - PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -220,60 +220,6 @@ $105  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tratio
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How much will $46$ lollipops cost if they cost $\pounds 1.25$ each?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-This can be solved using ratios. 
-
-$
-\begin{aligned}
-1  \text{ lollipop}                 &: \pounds 1.25 \\\\
-1 \times 46  \text{ lollipops}         &: \pounds 1.25 \times 46 \\\\
-46  \text{ lollipops}                 &: \pounds 57.50
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 57.50$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
 <p>1F535340-0428-42BD-88F5-40CC8436C8ED</p>
@@ -431,57 +377,6 @@ $138 \ \text{months}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
-<div class='uuid'>
-<p>3C95D06E-7409-49E6-A01C-9229FC71E90B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Chocolate bars are packed in boxes of $36$.
-
-A shop buys $14$ boxes.
-
-How many chocolate bars are in $14$ boxes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question, chocolate bar in a box $= 36$. So,
-
-$
-\begin{aligned}
-\text{chocolate bar in 14 boxes} &= 36 \times 14 \\\\
-                                 &= 504
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$504$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>55B8B2F1-C1CC-4DD0-BDF6-5C287D5A33FF</p>
@@ -545,23 +440,68 @@ $151 \ \text {years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E</p>
+<p>85AF4A82-D8F4-4C46-A7A4-17F82A02167C</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tsimpleword
 </li>
+</ul>
+</div>
+<div class='question question'>
+
+Ben's Dad was making a fence for their garden. He needed to buy a piece of wood that he could cut into $14$ equal parts. If each part had to be $114 \ \text{cm}$ long, what length would the piece of wood need to be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Length of wood needed}           &= \text{Number of equal parts} \times \text{length of each part} 
+                                       &= 14 \times 114 \ \text{cm} \\\\
+                                       &= 1596 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1596 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
 <li>
-tratio
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>E0F69367-13D4-422E-A7ED-7CE21DF00DB8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Work out the following 
+The cost of a calculator is $\pounds 6.79$.
 
 </div>
 <div class='workings'>
@@ -587,25 +527,42 @@ Work out the following
 </div>
 <div class='question subquestion'>
 
-The lengths of two pencils are $9.76 \ \text{cm}$ and $14.57 \ \text{cm}$. If the pencils are laid end to end, what is the total length?
+Work out the cost of $28$ of these calculators.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+Cost of 28 calculators $= \pounds 6.79 \times 28$
+
+Multiplying with decimal points is same as multiplying with two whole numbers. 
+
 $
-\begin{aligned}
-\text{Total length} &= 9.76 + 14.57 \\\\
-                    &= 24.33 \ \text{cm}
-\end{aligned}
+\begin{array}{cccccccccccccc}
+          &          &            & 6          & 7          & 9      \\
+{}        &          & \times     &            & 2          & 8      \\
+\hline                
+          &          & 5          & 4          & 3          & 2       \\
+          & 1        & 3          & 5          & 8          & 0       \\
+\hline                
+          & 1        & 9          & 0          & 1          & 2       \\
+\end{array}
 $
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now.
+
+$= \pounds 190.12$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$24.33 \ \text{cm}$
+$\pounds 190.12$
 
 </div>
 </div>
@@ -620,200 +577,32 @@ $24.33 \ \text{cm}$
 </div>
 <div class='question subquestion'>
 
-In a shop there are $43$ bags of potatoes. Each bag contains $37$ potatoes. What is the total number of potatoes in the bags?
+A college wants to buy $570$ calculators. They are sold in boxes of $50$. Work out the number of boxes the college should buy.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Total number of potatoes} &= 43 \times 37 \\\\
-                                &= 1591
+\text{Number of boxes}             &= \dfrac {\text{Total calculatos to buy}} {\text{Calculators per box}} \\\\
+                                   &= \dfrac {570} {50} \\\\
+                                   &= \dfrac {57 \cancel 0} {5 \cancel 0} \\\\
+                                   &= \dfrac {57} {5} \\\\
+                                   &= 11 \dfrac {2} {5}
 \end{aligned}
 $
+
+For $570$ calculators the college needs,  $11$ whole boxes and $1$ more box for the remaining $20$ calculators = $12$ boxes.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1591$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-There are $1.6 \ \text{kilometers}$ in a mile. How many kilometres are in $31240 \ \text{miles}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total kilometers} &= 31240 \times 1.6 \\\\
-                        &= 49984 \ \text{kilometers}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$49984 \ \text{kilometers}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-There are $0.91\ \text{metres}$ in $1  \ \text{yard}$. How many metres are there in $0.075  \ \text{yards}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total yards} &= 0.075 \times 0.91 \\\\
-                   &= 0.06825 \ \text{metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.06825 \ \text{metres}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The total length of five cars is $16.35\ \text{metres}$. What is the average length of these cars?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Average length} &= \dfrac {16.35} {5} \\\\
-                      &= \dfrac {3.27 \times 5} {5} \\\\
-                      &= \dfrac {3.27 \times \cancel {5}} {\cancel {5}} \\\\
-                      &= 3.27 \ \text{metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.27 \ \text{metres}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $13 + 54 \div 6 - 5 \times 7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-According to BIDMAS
-
-$
-\begin{aligned}
-&= 13 + 54 \div 6 - 5 \times 7 \\\\
-&= 13 + 9 - 5 \times 7 \\\\
-&= 13 + 9 - 35 \\\\
-&= 22 - 35 \\\\
-&= - 13
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$- 13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$16\%$ of gift cards that are bought are never redeemed. In Oundle Beans sells $730$ gift cards one year. How many of these should it expect to be redeemed?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total cards redeemed} &= 84 \% \ \text{of} \ 730 \\\\
-                            &= \dfrac {84} {100} \times 730 \\\\
-                            &= \dfrac {84 \times 730} {100} \\\\
-                            &= \dfrac {61320} {100} \\\\
-                            &= 613.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$613$
+$12$ Boxes
 
 </div>
 </div>
@@ -822,10 +611,10 @@ $613$
 </li>
 </ul>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -1003,6 +792,111 @@ $8.85 \ \text{cm}$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
+<p>2085300E-35CB-4683-B8A1-2619BA04C321</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jennifer is assembling a wardrobe. The measurements for the 3 sections are given in different units. The first section is $30\,cm$ wide; the second section is $1.5\,m$ wide and the third section $150\,mm$ wide.How wide is whole wardrobe?Give your answer in cm. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+As the answer is to be given in cm, let's convert all measurements into cms.
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total Width}& = \text{First (Section)} + \text{Second (Section)} + \text{Third (Section)} \\\\
+&= 30 \ \text{cm} + 1.5 \ \text{m} + 150 \ \text{mm} \\\\
+&= 30 \ \text{cm} + 1.5 \times 10 \ \text{cm} + \dfrac{150}{10}\ \text{cm} \\\\
+&= 30 + 15 + \dfrac{150}{10} \\\\
+&= 60 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>D7A80376-0605-421E-8C3B-6A9A36B38446</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sarah won a large jar of sweets in a Christmas raffle. If there are $486$ sweets in the jar and she shares them equally with her $17$ classmates, how many do they each get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Sweets per person}       &= \dfrac {\text{Total sweets}} {\text{Total people}} \\\\
+                                &= \dfrac {486} {18} \\\\
+                                &= \dfrac {27 \times 18} {18} \\\\
+                                &= \dfrac {27 \times \cancel{18}} {\cancel{18}} \\\\
+                                &= 27
+
+\end{aligned}
+$
+
+Each person gets $27$ Sweets each.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
 <p>2D3F5E62-8FD7-4F33-8609-8208FED8B677</p>
 </div>
 <div class='topics'>
@@ -1048,55 +942,6 @@ $33.6 \ \text{m}$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>4BE31404-8368-4FC0-AD60-34110662E9C4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A hospital nurse earns $\pounds 23080$ a year. Work out the annual salary of a consultant who earns four times 
-as much as a nurse.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Annual salary of a consultant } &= 4 \times \text{Annual salary of a nurse} \\\\
-                                       &= 4 \times \pounds 23080 \\\\
-                                       &= \pounds 92320
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 92320$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

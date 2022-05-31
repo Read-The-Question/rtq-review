@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-all"
 title: "Topic - Noexplanation - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1430,60 +1430,6 @@ $9909999$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tdate
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The day before yesterday my daughter was $10$ years old. Next year she will be $13$ years old. What is the date today?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Date of birth of daughter}       &= 31 \ \text{December} \\\\
-\text{Today's date}                    &= 1 \ \text{January}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$ January
-
-</div>
-</div>
-
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>8B1ACA24-9EE4-4663-9DCB-44F675B5931A</p>
@@ -2315,7 +2261,7 @@ $9987$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>32CCF206-C0DE-480B-BDD6-BAA8DE6F3758</p>
 </div>
@@ -2353,12 +2299,12 @@ $60$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>F2FDC331-149E-4CB3-868A-C1F1F4C2C8C0</p>
 </div>
@@ -2404,7 +2350,7 @@ $84$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -2643,7 +2589,7 @@ $17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>362B2010-9590-466F-8D23-A4DCD45A3669</p>
 </div>
@@ -2681,7 +2627,7 @@ $0.2$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2732,7 +2678,7 @@ $9760$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>51895EF4-90DD-4CC5-B028-99ED8D291204</p>
 </div>
@@ -2770,7 +2716,7 @@ $0.7$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3267,7 +3213,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3615,7 +3561,7 @@ $0.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>95AA3A28-967A-4FCB-91EC-525305242C25</p>
 </div>
@@ -3664,7 +3610,7 @@ $3 \ \text {hours} 11 \ \text {minutes}$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -4054,7 +4000,7 @@ $10236$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>212E224E-5582-4831-B6B2-47F9B128497C</p>
 </div>
@@ -4117,12 +4063,12 @@ $7$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>17EF20AA-D366-45EE-BEAA-69CF13C7B2AD</p>
 </div>
@@ -4185,12 +4131,12 @@ $8$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3206AC5E-10AC-4792-AC6F-6BBD072B959C</p>
 </div>
@@ -4246,7 +4192,7 @@ $12{:}28 \ \text {pm}$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5161,7 +5107,7 @@ $76 \times 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E</p>
 </div>
@@ -5202,7 +5148,7 @@ $400$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5309,7 +5255,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D0234A9E-B354-49F2-86CF-030A38955623</p>
 </div>
@@ -5451,7 +5397,7 @@ ${} \div 3 \ \text {and} \ {} - 16$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -6960,7 +6906,7 @@ $2 \times 3 \times 5 \times 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>BA7E261E-10D9-4C7B-8591-880AD1DD4EF9</p>
 </div>
@@ -7014,7 +6960,7 @@ Write down the prime numbers between $10$ and $20$
 <div class='workings'>
 <div class='working'>
 
-11, 13, 17, 19
+$11, 13, 17, 19$
 
 </div>
 </div>
@@ -7042,7 +6988,7 @@ Write down the first three multiples of $15$
 <div class='workings'>
 <div class='working'>
 
-15, 30, 45
+$15, 30, 45$
 
 </div>
 </div>
@@ -7070,7 +7016,7 @@ Write down the factors of $49$
 <div class='workings'>
 <div class='working'>
 
-1, 7, 49
+$1, 7, 49$
 
 </div>
 </div>
@@ -7089,7 +7035,7 @@ $1, 7, 49$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -8086,7 +8032,7 @@ $53018$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>61B40AEF-EFDA-4820-87CB-C04AE14F150A</p>
 </div>
@@ -8226,7 +8172,7 @@ $\text {sometimes}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -8557,7 +8503,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8583,7 +8529,7 @@ Write in figures the number:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -8987,7 +8933,7 @@ $1 \quad 2 \quad 4 \quad \dots \quad 14 \quad 28$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11303,7 +11249,7 @@ $0.603$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6</p>
 </div>
@@ -11355,7 +11301,7 @@ $36$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>

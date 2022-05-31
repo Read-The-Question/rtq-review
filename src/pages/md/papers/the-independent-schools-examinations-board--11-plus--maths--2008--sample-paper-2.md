@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-2"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -11,7 +11,7 @@ date: 2022-05-30 23:47:59
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
@@ -49,7 +49,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -75,7 +75,7 @@ Write in figures the number:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -302,7 +302,7 @@ $1 \quad  4  \quad  7 \quad 10 \quad 13 \quad  16  \ldots$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -328,7 +328,7 @@ From the numbers in the list above, write down:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -538,7 +538,7 @@ He takes $86$ photographs on Monday and $58$ photographs on Tuesday
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -609,7 +609,7 @@ $24$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -733,7 +733,7 @@ $3$ lines of symmetry have been drawn on this equilateral triangle, dividing it 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -883,7 +883,7 @@ $18.7 \quad 18.67 \quad 20.3 \quad 20.27 \quad 18.706$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1033,7 +1033,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1313,7 +1313,7 @@ For example $-3$ means that the dog lost $3 \ \text{kilograms}$ in weight.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1422,7 +1422,7 @@ tunassigned
 tdraw
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tsymmetry
@@ -1463,7 +1463,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1706,7 +1706,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1769,7 +1769,7 @@ Write down, in grams, the masses represented by the arrows on these scales.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -1950,7 +1950,7 @@ These pie charts show the proportion of each colour in their bags.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2216,7 +2216,7 @@ This small box measures $2 \ \text{cm}$ by $2 \ \text{cm}$ by $3 \ \text{cm}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2340,7 +2340,7 @@ Here is a graph to convert between gallons and litres:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2366,7 +2366,7 @@ Showing clearly how you take your readings, use your graph to find:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2479,7 +2479,7 @@ One day, Julie's Juice Bar sells $1000 \ \text{litres}$ of orange juice.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2562,7 +2562,7 @@ $325 \ \text{oranges}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>843F06E7-DEA4-416D-81A0-B9328792593D</p>
 </div>
@@ -2611,7 +2611,7 @@ $\text{Even chance}, \text{Certain}, \text{Even chance}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -2652,7 +2652,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2680,7 +2680,7 @@ The number machine below changes numbers according to the rule **multiply by $2$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2849,7 +2849,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3042,7 +3042,7 @@ Find the median and mode of these numbers:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3096,7 +3096,7 @@ Three children have a median age of $10$ and the range of their ages is $5$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -3238,7 +3238,7 @@ A set of five numbers has a mean of $7$, a median of $6$ and a mode of $5$.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>

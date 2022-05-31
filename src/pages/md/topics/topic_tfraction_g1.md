@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-g1"
 title: "Topic - Fraction - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1627,231 +1627,6 @@ $\dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_g1 question'>
-<div class='uuid'>
-<p>9E8AAB54-3D43-4819-A635-1CBDDE99E66B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Solve each equation
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$x + 80 = 15$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-x + 80   &= 15 \\\\
-x        &= 15 - 80 \\\\
-x        &= -65
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-65$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$6y - 20 = 46$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-6y - 20   &= 46 \\\\
-6y        &= 46 + 20 \\\\
-6y        &= 66 \\\\
-y         &= \dfrac {66} {6} \\\\
-y         &= \dfrac {11 \times 6} {6} \\\\
-y         &= \dfrac {11 \times \cancel{6}} {\cancel{6}} \\\\
-y         &= 11
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$10g + 400 = 645 - 15g$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-10g + 400         &= 645 - 15g \\\\
-10g + 15g         &= 645 - 400 \\\\
-25g               &= 245 \\\\
-g                 &= \dfrac {245} {25} \\\\
-g                 &= \dfrac {49 \times 5} {5 \times 5} \\\\
-g                 &= \dfrac {49 \times \cancel {5}} {5 \times \cancel{5}} \\\\
-g                 &= \dfrac {49} {5} \\\\
-g                 &= 9.8
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9.8$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper</p>
-</div>
-<div class='rag'>
-<p>rag_nc_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>B28E8CC8-5960-4268-94EF-1CA3A276FABA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I am thinking of a number. One fifth of my number is $8$.
-
-What is one tenth of my number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {1} {5} \times a                       &= 8 \\\\
-a                                             &= 8 \times 5 \\\\
-a                                             &= 40
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{One tenth of the number}  &= \dfrac {1} {10} \times a \\\\
-                                &= \dfrac {1} {10} \times 40 \\\\
-                                &= \dfrac {40} {10} \\\\
-                                &= 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>437B376F-722B-4F93-B234-58C2F593FE92</p>
@@ -1911,7 +1686,7 @@ $\dfrac {1} {5}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>CE54E1C3-FEFC-401E-BEA5-7DF8F88FFE0E</p>
+<p>CAB14175-FD8C-4B4B-8845-6C9DD350BC9F</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1919,7 +1694,7 @@ $\dfrac {1} {5}$
 tunassigned
 </li>
 <li>
-talgebra
+ttime
 </li>
 <li>
 tfraction
@@ -1928,32 +1703,18 @@ tfraction
 </div>
 <div class='question question'>
 
-I am thinking of a number. One quarter of my number is $5$.
-
-What is one tenth of my number?
+What fraction of an hour is $5$ minutes?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the number $= a$
-
-As per the question,
-
 $
-\begin{aligned}
-\dfrac {1} {4} \times a             &= 5 \\\\ 
-a                                   &= 5 \times 4 \\\\
-a                                   &= 20
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {one tenth of the number}     &= \dfrac {1} {10} \times a \\\\
-                                    &= \dfrac {1} {10} \times 20 \\\\
-                                    &= \dfrac {20} {10} \\\\
-                                    &= 2
+\begin{aligned} 
+\text {Fraction}    &= \dfrac {5} {60} \\\\
+                    &= \dfrac {5} {5 \times 12} \\\\
+                    &= \dfrac {\cancel {5}} {\cancel {5} \times 12} \\\\
+                    &= \dfrac {1} {12}
 \end{aligned}
 $
 
@@ -1962,7 +1723,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2$
+$\dfrac {1} {12}$
 
 </div>
 </div>
@@ -2033,6 +1794,60 @@ $40 \ \%$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>3452FC7B-6354-498B-9BE2-BF8B78CD5FC9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of a day is $15 \ \text{minutes}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text {Fraction}    &= \dfrac {15} {3600} \times 24 \\\\
+                    &= \dfrac {15 \times 24} {3600} \\\\
+                    &= \dfrac {15 \times 24} {15 \times 24 \times 10} \\\\
+                    &= \dfrac {\cancel {15} \times \cancel {24}} {\cancel {15} \times \cancel {24} \times {10}} \\\\
+                    &= \dfrac {1} {10}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {10}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>576FEBF3-4204-4EE6-B775-864A333384B2</p>
 </div>
 <div class='topics'>
@@ -2079,6 +1894,59 @@ $264$
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>68822C6B-6F06-415B-8DA6-B4B68895040B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of an hour is $4 \ \text{minutes}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text {Fraction}    &= \dfrac {4} {60} \\\\
+                    &= \dfrac {4} {4 \times 15} \\\\
+                    &= \dfrac {\cancel {4}} {\cancel {4} \times 15} \\\\
+                    &= \dfrac {1} {15}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {15}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -2209,7 +2077,7 @@ tfraction
 </div>
 
 
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4077,6 +3945,71 @@ $48$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>66CC3FAD-48FE-44E8-87CF-70E572E82771</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down two fractions which are equivalent to $4$ where one of the numbers is twenty.                               5 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Lets make the numerator to be 20.
+
+As per the question,
+
+$
+\begin{aligned}
+&= \dfrac {4} {5} \\\\
+&= \dfrac {4 \times 5} {5 \times 5} \\\\
+&= \dfrac {20} {25}
+\end{aligned}
+$
+
+Lets make the denominator to be 20.
+
+As per the question,
+
+$
+\begin{aligned}
+&= \dfrac {4} {5} \\\\
+&= \dfrac {4 \times 4} {5 \times 4} \\\\
+&= \dfrac {16} {20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {20} {25}, \dfrac {16} {20}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nc_g1 question'>
 <div class='uuid'>
 <p>B9F4F87F-4C7E-4CA3-9194-171A12F074D3</p>
@@ -5443,489 +5376,6 @@ $\dfrac {5} {9}$
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>473D7359-5460-4A81-BD40-81A0A3A69215</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Solve the following equations, leaving your answers as improper fractions where necessary. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5x - 11 = 34$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-5x - 11  &= 34 \\\\
-5x       &= 34 + 11 \\\\
-5x       &= 45 \\\\
-x        &= \dfrac{45} {5} \\\\
-x        &= \dfrac{9 \times 5} {5} \\\\
-x        &= \dfrac{9 \times \cancel {5}} {\cancel {5}} \\\\
-x        &= 9
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{x}{2} - 3 = \dfrac{1}{2}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\dfrac {x} {2} - 3   &= \dfrac {1} {2} \\\\
-\dfrac {x} {2}       &= \dfrac {1} {2} + 3 \\\\
-\dfrac {x} {2}       &= \dfrac {1} {2} + \dfrac{3 \times 2} {1 \times 2} \\\\
-\dfrac {x} {2}       &= \dfrac {1} {2} + \dfrac{6} {2} \\\\
-\dfrac {x} {2}       &= \dfrac {1 + 6} {2} \\\\
-\dfrac {x} {2}       &= \dfrac {7} {2} \\\\
-x                    &= \dfrac {7} {2} \times 2 \\\\
-x                    &= \dfrac {7 \times 2} {2} \\\\
-x                    &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-x                    &= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3 + \dfrac{2x - 3}{7}  = 8$
-  
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-3 + \dfrac {2x - 3} {7} &= 8 \\\\
-\dfrac {2x - 3} {7}     &= 8 - 3 \\\\
-\dfrac {2x - 3} {7}     &= 5 \\\\
-2x - 3                  &= 5 \times 7 \\\\
-2x - 3                  &= 35 \\\\
-2x                      &= 35 + 3 \\\\
-2x                      &= 38 \\\\
-x                       &= \dfrac {38} {2} \\\\
-x                       &= \dfrac {19 \times 2} {2} \\\\
-x                       &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
-x                       &= 19
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$6x - 9 = 15 - 7x$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-6x - 9      &= 15 - 7x \\\\
-6x + 7x     &= 15 + 9 \\\\
-13x         &= 24 \\\\
-x           &= \dfrac {24} {13} \\\\
-x           &= 1 \ \dfrac {11} {13}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1 \ \dfrac {11} {13}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5(x - 6) = 25$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-5(x - 6)      &= 25 \\\\
-x - 6         &= \dfrac{25} {5} \\\\
-x - 6         &= \dfrac {5 \times 5} {5} \\\\
-x - 6         &= \dfrac {\cancel{5} \times 5} {\cancel{5}} \\\\
-x - 6         &= 5 \\\\
-x             &= 5 + 6 \\\\
-x             &= 11
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3x - 9 = \dfrac{1}{4}x + \dfrac{1}{2}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-3x - 9                                              &= \dfrac {1} {4}x + \dfrac {1} {2} \\\\
-3x - \dfrac {x} {4}                                 &= \dfrac {1} {2} + 9 \\\\
-\dfrac {3x \times 4} {1 \times 4} - \dfrac {x} {4}  &= \dfrac {1} {2} + \dfrac {9 \times 2} {1 \times 2} \\\\
-\dfrac {12x} {4} - \dfrac {x} {4}                   &= \dfrac {1} {2} + \dfrac {18} {2} \\\\
-\dfrac {12x - x} {4}                                &= \dfrac {1 + 18} {2} \\\\
-\dfrac {11 x} {4}                                   &= \dfrac {19} {2} \\\\
-x                                                   &= \dfrac {19 \times 4} {2 \times 11} \\\\
-x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 11} \\\\
-x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 11} \\\\
-x                                                   &= \dfrac {19 \times 2} {11} \\\\
-x                                                   &= \dfrac {38} {11} \\\\
-x                                                   &= 3 \dfrac {5} {11}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \dfrac {5} {11}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_g1 question'>
-<div class='uuid'>
-<p>5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Solve the following equations, giving your answers as whole numbers or fractions. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3x -7 = 5x + 7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-3 x - 7    &= 5 x + 7 \\\\
-3 x - 5 x  &= 7 + 7 \\\\
-- 2 x      &= 14 \\\\
-x          &= - \dfrac {14} {2} \\\\
-x          &= - \dfrac {7 \times 2} {2} \\\\
-x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-x          &= - 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{1}{2}x - 3 = \dfrac{x}{3} + 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5
-\dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
-\dfrac{x \times 3 - \dfrac x \times 2}{6}                       &= 8 \\\\
-\dfrac{x}{6}                                                    &= 8 \\\\
-x                                                               &= 8 \times 6 \\\\
-                                                                &= 48
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
-</div>
-<div class='rag'>
-<p>rag_ks_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_g1 question'>
-<div class='uuid'>
-<p>72FCEF04-0FAC-4FF2-B835-201FE7548490</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$\dfrac {2} {5}$ of the children in a class are boys. There are $12$ girls in the class. How many boys are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the total number of children $= c$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Total children}                                &= \text{Total boys} + \text{Total girls} \\\\
-c                                                    &= \dfrac {2} {5} \times c + 12 \\\\
-c                                                    &= \dfrac {2a} {5} + 12 \\\\
-c - \dfrac {2c} {5}                                  &= 12 \\\\
-\dfrac {c \times 5} {1 \times 5} - \dfrac {2c} {5}   &= 12 \\\\
-\dfrac {5c - 2c} {5}                                 &= 12 \\\\
-3c                                                   &= 12 \times 5 \\\\
-c                                                    &= \dfrac {12 \times 5} {3} \\\\
-c                                                    &= \dfrac {3 \times 4 \times 5} {3} \\\\
-c                                                    &= \dfrac {\cancel{3} \times 4 \times 5} {\cancel{3}} \\\\
-c                                                    &= 20
-\end{aligned}
-$
-
-The total number of children in class $= 20$
-
-Let's find the total number of boys.
-
-$
-\begin{aligned}
-\text{Total number of boys}                     &= \text{Total children} - \text{Total girls} \\\\
-                                                &= 20 - 12 \\\\
-                                                &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -8207,6 +7657,59 @@ $
 <div class='answer'>
 
 $12 \dfrac {3} {4} \text{m}$ or $\dfrac {51} {4} \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>15AB3B3D-E805-4DE3-9701-7E1997E30FB3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Dan has to walk $1\dfrac {3} {4} \ \text{km}$ to school. How far has he walked when he is halfway?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Distance walked (Halfway)}         &= \text{Total distance} \div 2 \\\\
+                                         &= 1 \dfrac {3} {4} \div 2 \\\\
+                                         &= \dfrac {7} {4} \times \dfrac {1} {2} \\\\
+                                         &= \dfrac {7 \times 1} {4 \times 2} \\\\
+                                         &= \dfrac {7} {8} \ \text{km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {8} \ \text{km}$
 
 </div>
 </div>
@@ -11066,68 +10569,6 @@ $\dfrac{2}{3}$
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
-<p>DCF1FE2D-8937-40A2-8F2F-5103646889A4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A box contains $48$ pieces of fruit. Five eighths of them are apples and the rest of them are pears. How many pears are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Number of apples} &= \dfrac {5} {8} \times 48 \\\\
-                        &= \dfrac {5 \times 48} {8} \\\\
-                        &= \dfrac {5 \times 6 \times 8} {8} \\\\
-                        &= \dfrac {5 \times 6 \times \cancel {8}} {\cancel {8}} \\\\
-                        &= 5 \times 6 \\\\
-                        &= 30
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of pears}  &= 48 - 30 \\\\
-                        &= 18
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
 <p>7A748D7C-3D23-4AF2-9630-1A0D40C6DB68</p>
 </div>
 <div class='topics'>
@@ -11576,79 +11017,6 @@ $\dfrac {5} {9}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>4E3F385A-D69B-41D1-A8C0-0B1AB628B01A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Belinda ate $\dfrac{3}{5}$ of a bar of chocolate.
-
-$60 \ \text{grams}$ of chocolate remained.
-
-What was the original mass of the chocolate bar?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the original mass of the chocolate bar $= a \ \text {grams}$.
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {3} {5} \ \text {of} \ a + 60                    &= a \\\\
-\dfrac {3} {5} \times a + 60                            &= a \\\\
-\dfrac {3 a} {5} + 60                                   &= a \\\\
-a - \dfrac {3 a} {5}                                    &= 60 \\\\
-\dfrac {a \times 5} {1 \times 5} - \dfrac {3 a} {5}     &= 60 \\\\
-\dfrac {5 a} {5} - \dfrac {3 a} {5}                     &= 60 \\\\
-\dfrac {5 a - 3 a} {5}                                  &= 60 \\\\
-\dfrac {2 a} {5}                                        &= 60 \\\\
-a                                                       &= 60 \times \dfrac {5} {2} \\\\
-a                                                       &= \dfrac {60 \times 5} {2} \\\\
-a                                                       &= \dfrac {2 \times 30 \times 5} {2} \\\\\
-a                                                       &= \dfrac {\cancel {2} \times 30 \times 5} {\cancel {2}} \\\\
-a                                                       &= 30 \times 5 \\\\
-a                                                       &= 150 \ \text {grams}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150 \ \text {grams}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
 <p>3E354580-E360-40DE-9965-73067BBCFACC</p>
 </div>
 <div class='topics'>
@@ -11691,142 +11059,6 @@ $60$
 </div>
 </div>
 
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_nj_g1 question'>
-<div class='uuid'>
-<p>B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Barbara buys a box containing a selection of three types of biscuit.
-
-There are eight chocolate biscuits.
-
-A third of the other biscuits are custard creams.
-
-There are twelve ginger biscuits. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many custard creams are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Custard biscuit are a third of other biscuits then chocolate biscuits so they are a third of ginger biscuits. Using that,
-
-$
-\begin{aligned}
-\text {Total custard creams}    &= \dfrac {1} {3} \times 12 \\\\
-                                &= \dfrac {12} {3} \\\\
-                                &= \dfrac {4 \times 3} {3} \\\\
-                                &= \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
-                                &= 4
-\end{aligned}
-$
-
-There are $4$ custard creams.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many biscuits are in the box?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Total biscuits in the box}    &= 8 + 12 + \dfrac {1} {3} \times 12 \\\\
-                                     &= 20 + \dfrac {12} {3} \\\\
-                                     &= 20 + \dfrac {4 \times 3} {3} \\\\
-                                     &= 20 + \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
-                                     &= 20+ 4 \\\\
-                                     &= 24
-\end{aligned}
-$
-
-There are $24$ biscuits in the box.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
@@ -11900,7 +11132,7 @@ tunassigned
 tfraction
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -11988,6 +11220,57 @@ $
 <div class='answer'>
 
 $\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>91042F17-061F-4256-AC8C-8BE46A41FCD2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write $0.36$ as a fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.36 \\\\
+&= \dfrac {36} {100} \\\\
+&= \dfrac {4 \times 9} {4 \times 25} \\\\
+&= \dfrac {\cancel{4} \times 9} {\cancel{4} \times 25} \\\\
+&= \dfrac {9} {25}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {9} {25}$
 
 </div>
 </div>
@@ -12307,6 +11590,112 @@ $\dfrac{16}{25}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>DD9DD726-1CE0-4DDC-863C-8DB9621C8BC0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of a day is $9 \ \text{hours}$? Write your fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+  
+There are $24 \ \text{hours}$ in a day, so
+
+$
+\begin{aligned}
+&= \dfrac {9} {24} \\\\
+&= \dfrac {3 \times 3} {3 \times 8} \\\\
+&= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 8} \\\\
+&= \dfrac {3} {8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{3}{8}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>C135697D-F7AA-4A2E-9224-953D73C4FFCC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $4 \dfrac{1}{4} - 1 \dfrac{3}{5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4 \dfrac {1} {4} - 1 \dfrac {3} {5} \\\\
+&= \dfrac {17} {4} - \dfrac {8} {5} \\\\
+&= \dfrac {17 \times 5} {4 \times 5} - \dfrac {8 \times 4} {5 \times 4} \\\\
+&= \dfrac {85} {20} - \dfrac {32} {20} \\\\
+&= \dfrac {85} {20} - \dfrac {32} {20} \\\\
+&= \dfrac {53} {20} \\\\
+&= 2 \dfrac {13} {20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \dfrac{13}{20}$ or $\dfrac{53}{20}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
@@ -12946,7 +12335,7 @@ Calculate each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13384,7 +12773,7 @@ $ \begin{aligned}
 &= \dfrac {20 \times 20} {100} \\\\
 &= \dfrac {2 \cancel {0} \times 2 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
 &= 2 \times 2 \\\\
-&= 4 \  \text {teachers}
+&= 4 \ \text {teachers}
 \end{aligned}
 
 Teachers who were given socks and tie $= 4$
@@ -13601,79 +12990,6 @@ $2\dfrac{2} {3}$
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_g1 question'>
-<div class='uuid'>
-<p>F4722F0A-FE19-4DC1-BE2D-4BA0FACA8523</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When two fifths of the class are absent, there are $18$ pupil; present. What is the total number of pupils in the class?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the total number of pupils be $t$
-
-As per the question,
-
-Pupil present = $18$
-
-Pupil absent = $\dfrac {2} {5} \ \text{of} \ t$
-
-Total pupil = pupil present + pupil absent
-
-$
-\begin{aligned}
-t                                                               &= 18 + \dfrac {2} {5} \times t \\\\
-t                                                               &= 18 + \dfrac {2t} {5} \\\\
-t - \dfrac {2t} {5}                                             &= 18 \\\\
-\dfrac{t \times 5} {1 \times 5} - \dfrac {2t} {5}               &= 18 \\\\
-\dfrac{5t - 2t} {5}                                             &= 18 \\\\
-\dfrac{3t} {5}                                                  &= 18 \\\\
-3t                                                              &= 18 \times 5 \\\\
-t                                                               &= \dfrac {18 \times 5} {3} \\\\
-t                                                               &= \dfrac {3 \times 6 \times 5} {3} \\\\
-t                                                               &= \dfrac {\cancel {3} \times 6 \times 5} {\cancel {3}} \\\\
-t                                                               &= 6 \times 5 \\\\
-t                                                               &= 30
-\end{aligned}
-$
-
-Total number of pupils in the class = $30$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_g1</p>
 </div>
 </div>
 </li>

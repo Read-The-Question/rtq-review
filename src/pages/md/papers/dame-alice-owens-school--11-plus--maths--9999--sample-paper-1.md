@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -115,7 +115,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>6053AC7E-A234-4868-BF46-DDF058218EC1</p>
 </div>
@@ -161,7 +161,7 @@ $378$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -584,7 +584,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -639,7 +639,7 @@ $12 \ \text{cm}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -738,7 +738,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>FEEA7D17-856F-460C-80DB-83CFB61B8A34</p>
 </div>
@@ -787,7 +787,7 @@ $760 \ \text{g}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -1202,7 +1202,7 @@ $\pounds 182$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>BE1E370B-4981-405A-9E07-B8FEE8DB45BE</p>
 </div>
@@ -1247,12 +1247,12 @@ $2800$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>FF15893E-F772-4830-8CA9-E540E52C0887</p>
 </div>
@@ -1308,12 +1308,12 @@ $18 \text{hours}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>ED073E19-C259-4CCE-9247-955B9E693C10</p>
 </div>
@@ -1356,7 +1356,7 @@ $\pounds 8.10$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1577,7 +1577,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>B7CDC218-814A-4291-B812-C2C813D385FB</p>
 </div>
@@ -1627,7 +1627,7 @@ $40 \ \text{inches}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1745,7 +1745,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1784,7 +1784,7 @@ $48 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>DFE28FF1-618F-43C0-9BCB-05877CC899BC</p>
 </div>
@@ -1822,7 +1822,7 @@ Obtuse angle
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -2535,13 +2535,7 @@ $60 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>

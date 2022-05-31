@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-amber"
 title: "Topic - Number - Amber"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -910,134 +910,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_nc_amber</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_amber question'>
-<div class='uuid'>
-<p>82F136F6-5184-409C-BDA6-5C0D88B646FF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-For each part of this question you should try to find **all** the possible answers 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Three different positive odd numbers add up to $15$. What could the three numbers be?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the three numbers $= a, \ a + 2, \ a + 4$
-
-As per the question,
-
-$
-a + a + 2 + a + 4 &= 15 \\\\
-3 a + 6           &= 15 \\\\
-3 a               &= 15 - 6 \\\\
-3 a               &= 9 \\\\
-a                 &= \dfrac {9} {3} \\\\
-a                 &= \dfrac {3 \times 3} {3} \\\\
-a                 &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
-a                 &= 3
-$
-
-Three numbers $= 3, \ 5, \ 7$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3, \ 5, \ 7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Jenny has two younger brothers. The total of all three of their ages is $15$, and Jenny’s brothers are both an even number of years old. What could the ages of Jenny and her brothers be?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_amber</p>
 </div>
 </div>
 </li>
@@ -3444,7 +3316,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3652,7 +3524,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3781,7 +3653,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -5400,7 +5272,7 @@ Here is a pie chart showing her results:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

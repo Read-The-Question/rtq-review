@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-g1"
 title: "Topic - Division - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1424,6 +1424,163 @@ $13$
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>F2D84620-5FC8-4469-A7DA-4FEFD38284C0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+<li>
+tnumber
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$15 \times 34 = 510$
+
+Use this information to work out:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$150 \times 340$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+15 \times 34                     &= 510 \\\\
+15 \times 10 \times 34 \times 10 &= 510 \times 100 \\\\
+150 \times 340                   &= 51000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15 \times 17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 17          &= \dfrac {510} {2} \\\\
+15 \times 17          &= \dfrac {255 \times 2} {2} \\\\
+15 \times 17          &= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
+15 \times 17          &= 255
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$255$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$510 + 17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 2           &= \dfrac {510} {17} \\\\
+\dfrac {510} {17}     &= 15 \times 2 \\\\
+\dfrac {510} {17}     &= 30 \\\\
+510 \div 17           &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-all"
 title: "Topic - Ratio - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -120,7 +120,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_red question'>
 <div class='uuid'>
 <p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
 </div>
@@ -169,7 +169,7 @@ $\pounds 57.50$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_red</p>
 </div>
 </div>
 </li>
@@ -937,66 +937,68 @@ $138 \ \text{months}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>8FD4F287-E8F1-42F2-B909-FC3B822573A4</p>
+<p>4EC0680A-34C3-42F7-A969-84F026ED93EE</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Paddy is leading in a race. 
-
-He is $81 \ \text{metres}$ in front of Sam who is in last place. 
-
-Martin is between Paddy and Sam. 
-
-Martin is $40 \ \text{metres}$ from the finish line and is twice as far away from Sam as he is from Paddy. 
-
-How far has Sam left to run?
+Four rabbits weigh the same as three cats, and two cats weigh the same as four guinea pigs.
+How many rabbits weigh the same as six guinea pigs?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the weight of a rabbit $= r$.
 
-</div>
-<div class='working'>
+Let the weight of a cat $= c$.
 
-TODOWORKING
+Let the weight of a guinea pig $= p$.
+
+As per the question,
+
+$3 c = 4 r$
+
+$2 c = 4 p$
+
+Or,
+
+$1 c = 2 p$  So, 
+
+$
+\begin {aligned}
+4 r      &= 3 c \\\\
+         &= 2 c + 1 c \\\\
+         &= 4 p + 2 p \\\\
+         &= 6 p
+\end {aligned}
+$
+
+Number of rabbits that weigh the same as six guinea pigs $= 4$ rabbits.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$4$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -2370,7 +2372,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
 </div>
@@ -2424,7 +2426,7 @@ $50 \ \text{days}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -2780,12 +2782,6 @@ $\pounds 2500$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
 <li>
 tratio
 </li>
@@ -3149,9 +3145,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -3906,113 +3899,6 @@ $4 \text{metres}$
 </div>
 <div class='rag'>
 <p>rag_ad_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>02AE8DFB-4F87-46DA-95B0-D6783C21CA17</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A return train ticket for an adult travelling from Leicester to Cambridge costs $\pounds29.40$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the cost of $3$ adult return tickets.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Cost of 3 adult tickets} &= 29.40 \times 3 \\\\
-                                &= \pounds 88.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 88.2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The price of a childrens ticket is half that of an adult ticket. What is the cost of a return ticket for a child travelling from Leicester to Cambridge?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Cost of a child ticket}  &= \dfrac {29.40} {2} \\\\
-                                &= \pounds 14.7 \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 14.7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -5086,67 +4972,7 @@ $\pounds 4.55$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>BB2373FF-1D5B-413C-8160-D9BBA4F4E551</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mrs Jones prints books.
-
-![missing image](/papers/missing_image.svg)
-
-Jon pays $\bold{\pounds 4.35}$ for his book, **including the cover**.
-
-How many **pages** are in his book?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of pages $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-3 \times a + 75 &= 435 \\\\
-3 \times a      &= 435 - 75 \\\\
-3 \times a      &= 360 \\\\
-a               &= \dfrac {360} {3} \\\\
-a               &= \dfrac {120 \times 3} {3} \\\\
-a               &= \dfrac {120 \times \cancel {3}} {\cancel {3}} \\\\
-a               &= 120
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$120$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E</p>
 </div>
@@ -5426,7 +5252,7 @@ $613$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5974,7 +5800,7 @@ tunassigned
 tratio
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -6028,13 +5854,7 @@ $98$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -7390,6 +7210,135 @@ $\pounds {36.60}$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
+<p>069669D4-0614-4FCA-A2AF-20506A369CB1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+To cook a joint of beef, you leave it in the oven for $30 \ \text{minutes}$ for every kilogram it weighs plus 
+$20 \ \text{minutes}$ extra. Find how long you should cook a joint weighing:  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2 \ \text{kg}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time taken for} 1 \  \text{kg} = 30 \ \text{mins} \\
+\text{Time take for >1 kg =  Time taken for 1 kg + (Extra kg x 30 mins ) + 20} \\
+\text{Time take for 2 kg} = 30 + (1 \times 30) + 20 \\
+&= 30 + 30 + 20 \\
+&= 80 \ \text{mins} \\
+&= 1\ \text{hr} \ 20 \ \text{mins}
+\end{aligned}
+$
+
+For $2$ kg it takes $80$ minutes
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80 \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3.5 \ \text{kg}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let time be x for $\dfrac {1}{2} \text{kg}$
+
+Time for 1 kg of joint of beef = $30$ minutes
+
+Time for extra 1 kg of joint of beef = $20$ minutes
+
+As per the question,
+
+$
+\begin{aligned} 
+\text{Let time be x for 3.5 kg} \\
+\text{then}\ \ &  x = \dfrac {3.5 \times 30}{1} \\\\
+               &  x = 150 \text{min} \\\\
+               \text{time} = 105+20\ \\\
+               &= 125 \text{minutes}
+\end{aligned}
+$
+
+For $3 \dfrac{1}{2}$ kg it takes $125$ minutes
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$125 \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
 <p>1219A3ED-0814-4A5C-AA62-80C6F0E44674</p>
 </div>
 <div class='topics'>
@@ -7632,13 +7581,7 @@ $\pounds 54$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -7688,13 +7631,7 @@ $63 \ \text{girls}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -9140,7 +9077,7 @@ Ten calculators have a total mass of $1500 \ \text{g}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9200,7 +9137,7 @@ $150 \ \text{g}$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -9368,7 +9305,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9497,7 +9434,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -9618,7 +9555,7 @@ There are two maths classes in Year $8$, called $6A$ and $6B$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10378,9 +10315,6 @@ $\pounds 208$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -10648,9 +10582,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -12564,13 +12495,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -12954,13 +12879,7 @@ $121$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -13262,13 +13181,7 @@ $27 \ \text{zebras}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -13436,124 +13349,6 @@ $\pounds 5.04$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>0DDB7D8E-8C0B-4FC8-872C-52FBE4C7EC8F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tprofit
-</li>
-<li>
-talgebra
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A shopkeeper buys a box of $60 \ \text{apples}$ for $\pounds 12$. 
-If he finds that $\dfrac{1}{10}$ of the apples are bad and can't be sold, at what price must he sell each of the good apples so that he makes a total **profit** of $\pounds 15$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total apples = $60$
-
-Bad apples = $\dfrac {1}{10}$ of total apples. 
-
-Let's find how many bad apples are there.
-
-No. of bad apples is:  
-
-$
-\begin{aligned}
-&= 60 \times \dfrac {1}{10}  \\\\
-&= \dfrac {60}{10} \\\\
-&= \dfrac {6{\cancel{0}}} {1{\cancel{0}}}\\\\
-&= {6} \text{ apples}\\
-\end{aligned}
-$
-
-There are $6$ bad apples.
-
-
-Let's find number of good apples
-
-$
-\begin{aligned}
-&= 60 - 6 \\
-&= 54  \text{ apples}\\
-\end{aligned}
-$
-
-There are $54$ good apples.
-
-Now let's figure out the selling price.
-
-As per the question,
-
-Cost price $= \pounds 12$
-Profit     $= \pounds 15$
-
-Selling price - Cost Price = Profit
-
-$\quad \text {or,}$
-
-Selling price = Profit + Cost price
-
-$
-\begin{aligned} 
-&= 15 + 12 \\
-&= \pounds 27\\  
-\end{aligned}
-$
-
-He sold $54$ good apples, earned $\pounds 27$ and spend $\pounds 12$ to buy it.
-
-Let's calculate the selling price of each apple.
-
-$\text{Selling price of good apples} = \dfrac {\text{money earned}} {\text{no. of apples sold}}$
-
-$
-\begin{aligned}
-&= \dfrac {27}{54}\\\\
-&= \dfrac{\cancel{27}\raisebox{0.9em}{1}}{\cancel{54}\raisebox{-0.9em}{2}}\\\\
-&= \dfrac {\pounds 1}{2\ \text  {apples}}\\\\
-\end{aligned}
-$
-
-For $\pounds 1$ he sells $2$ apples.
-
-So his selling price for $1$ apples is $50$ pence. 
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$50p$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ac_red question'>
 <div class='uuid'>
 <p>DD38D637-4C88-49D5-A00B-F650F7D2F6F7</p>
@@ -13561,13 +13356,7 @@ $50p$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -13850,7 +13639,7 @@ $13 \text{packets}$
 tratio
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

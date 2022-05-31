@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1028,10 +1028,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1572,7 +1569,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>B1BA2CCE-3F25-4A59-984C-E51B0A041057</p>
 </div>
@@ -1615,7 +1612,7 @@ $None (or) 0$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -1630,7 +1627,7 @@ $None (or) 0$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2405,7 +2402,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>24E931CE-2E50-4E79-B7A8-54956CD7E71A</p>
 </div>
@@ -2526,7 +2523,7 @@ $9 \ \text{hrs} \ \  33 \ \text{mins}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -2736,10 +2733,7 @@ $\pounds 1.70$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2930,13 +2924,7 @@ $60$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>

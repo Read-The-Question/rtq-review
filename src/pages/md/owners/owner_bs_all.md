@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-bs-all"
 title: "Owner - Banoth Sairam - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -905,7 +905,7 @@ $42 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>05561C2E-68D5-42DC-876C-EC372F879900</p>
 </div>
@@ -967,7 +967,7 @@ Deal A
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -1371,7 +1371,7 @@ $\pounds  90$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1997,7 +1997,7 @@ $\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>269CAEB1-ECC7-4634-9068-42EF39354F2F</p>
 </div>
@@ -2167,7 +2167,7 @@ $7995$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -3685,10 +3685,7 @@ $25$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4141,7 +4138,7 @@ $492$
 talgebra
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4340,7 +4337,7 @@ $12 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_red question'>
 <div class='uuid'>
 <p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
 </div>
@@ -4389,7 +4386,7 @@ $\pounds 57.50$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_red</p>
 </div>
 </div>
 </li>
@@ -5000,7 +4997,7 @@ $2583$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_g1 question'>
 <div class='uuid'>
 <p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
 </div>
@@ -5052,7 +5049,7 @@ $624$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>
@@ -5779,7 +5776,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>78CECFB3-9153-42DC-8BA2-8610EB45BC1A</p>
 </div>
@@ -5862,7 +5859,7 @@ $5, \ 4, \ 1, \ 3, \ 2$
 <p>oundle-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -6973,10 +6970,7 @@ $5.1 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tratio
 </li>
 </ul>
 </div>
@@ -7267,7 +7261,7 @@ $
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -7728,9 +7722,6 @@ $8.85 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -8695,7 +8686,7 @@ Calculate
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8933,7 +8924,7 @@ A jumbo jet can take 324 passengers.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9058,7 +9049,7 @@ Convert
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9270,7 +9261,7 @@ Ruth wants to buy three bracelets at $\pounds 1.29$ each and a birthday card for
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9385,7 +9376,7 @@ Write down
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9510,7 +9501,7 @@ Write down the next two numbers in the following sequences?
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9653,7 +9644,7 @@ by a cycling stage and finishes with a running stage.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9778,9 +9769,6 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -9893,10 +9881,7 @@ $\pounds 54$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -10026,7 +10011,7 @@ Helen spends half her money on a dress. She then spends one-third of what is lef
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10129,7 +10114,7 @@ $\dfrac{1}{3}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tvolume
@@ -10155,7 +10140,7 @@ The base of Sarah's fish tank is $60\,cm$ long and $20\,cm$ wide.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10310,7 +10295,7 @@ Simplify your answer where possible.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10537,9 +10522,6 @@ $16.848$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -10592,7 +10574,7 @@ $36 \ \text{cm}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -10617,7 +10599,7 @@ Geraldo's rectangular garden has $4$ equally sized triangular-shaped flower beds
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11691,10 +11673,7 @@ $377$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -12235,7 +12214,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>B1BA2CCE-3F25-4A59-984C-E51B0A041057</p>
 </div>
@@ -12278,7 +12257,7 @@ $None (or) 0$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -12293,7 +12272,7 @@ $None (or) 0$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -13068,7 +13047,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>24E931CE-2E50-4E79-B7A8-54956CD7E71A</p>
 </div>
@@ -13189,7 +13168,7 @@ $9 \ \text{hrs} \ \  33 \ \text{mins}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -13399,10 +13378,7 @@ $\pounds 1.70$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -13593,13 +13569,7 @@ $60$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -14432,7 +14402,7 @@ $\dfrac{9}{20}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -14553,7 +14523,7 @@ $52.55$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>420E188E-519C-42A7-A5F9-D5C0C4417ED1</p>
 </div>
@@ -14608,7 +14578,7 @@ $86{,}400$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -14619,9 +14589,6 @@ $86{,}400$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -14685,9 +14652,6 @@ $14$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -14748,7 +14712,7 @@ $6c - 3d$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -14941,7 +14905,7 @@ $3,-1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>10C36790-C347-40B9-9147-58FE1E31EBEC</p>
 </div>
@@ -14997,7 +14961,7 @@ $54 \ \text{mins}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -15068,13 +15032,7 @@ $576$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -15133,7 +15091,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>F1B80E8B-8F3D-4D7C-B004-64E862ADAB50</p>
 </div>
@@ -15143,7 +15101,7 @@ $4$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -15198,7 +15156,7 @@ $36$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -15277,9 +15235,6 @@ $4.272$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -15750,7 +15705,7 @@ $9899$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -15892,12 +15847,6 @@ $U$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 talgebra
 </li>
@@ -16093,7 +16042,7 @@ $4693$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -16659,7 +16608,7 @@ $88.5$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -17253,7 +17202,7 @@ $\pounds 120.00$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -17395,9 +17344,6 @@ $528 \text{m}^2$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -17587,9 +17533,6 @@ $60 \%$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -17915,7 +17858,7 @@ $22$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>6C22BF99-C3EE-4BB0-97A7-2F1DB20CA8EC</p>
 </div>
@@ -17978,12 +17921,12 @@ $28$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>DF77EE8C-A65D-4822-811C-A05C8B8B987E</p>
 </div>
@@ -18060,12 +18003,12 @@ $49$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>03062397-6A4C-462F-A913-57F1FA0E1B4A</p>
 </div>
@@ -18123,7 +18066,7 @@ $49$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -18521,7 +18464,7 @@ $0$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -18589,7 +18532,7 @@ $80 \ \text{cm}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -19280,9 +19223,6 @@ $318$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -20792,9 +20732,6 @@ $1.009$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -21330,9 +21267,6 @@ $20306$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -22034,10 +21968,7 @@ tunassigned
 talgebra
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer"
 title: "TopicPaper - Infer"
-date: 2022-05-31 06:21:51
+date: 2022-05-31 16:11:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -145,7 +145,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -199,7 +199,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:23</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -335,7 +335,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:36</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -393,7 +393,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -401,7 +401,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>C3A742AC-6B5D-47FB-8A76-E187A7C93BDE</p>
 </div>
@@ -454,10 +454,10 @@ $50$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -637,7 +637,7 @@ $\text {B}, \text {E}, \text {G}$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>csse--11-plus--maths--2015--sample-paper-1:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -658,7 +658,7 @@ tinfer
 tprobability
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -902,7 +902,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>highgate-school--11-plus--maths--9999--sample-paper-b:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1109,7 +1109,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>oundle-school--11-plus--maths--2018--sample-paper-8:0:9</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1277,7 +1277,7 @@ Point D
 </div>
 
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_ga_red</p>
@@ -1410,7 +1410,7 @@ $6$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:29</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -1583,7 +1583,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:24</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1932,7 +1932,7 @@ $3$ and $84$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tinfer</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-all"
 title: "Topic - Time - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -420,7 +420,7 @@ $155 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>E910C2F9-6456-4BBC-AFDD-535BDC142506</p>
 </div>
@@ -466,7 +466,7 @@ $7 {:} 58$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -529,7 +529,7 @@ $210 \text{ minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>D1E91C2C-7808-4EE0-BABC-FC7615F5E3D4</p>
 </div>
@@ -580,7 +580,7 @@ $ 4 \ \text{hours} \ 47 \ \text {minutes}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -2154,7 +2154,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>82E53172-BBB9-4193-AC4C-4D206B9D794C</p>
 </div>
@@ -2211,7 +2211,7 @@ $9 \text { hours } 40 \text { minutes}$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -2922,7 +2922,7 @@ $7{:}35 \ \text{a.m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>FF15893E-F772-4830-8CA9-E540E52C0887</p>
 </div>
@@ -2978,7 +2978,7 @@ $18 \text{hours}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3144,7 +3144,7 @@ $742  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>CAB14175-FD8C-4B4B-8845-6C9DD350BC9F</p>
 </div>
@@ -3192,7 +3192,7 @@ $\dfrac {1} {12}$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3347,7 +3347,7 @@ $16.30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>3452FC7B-6354-498B-9BE2-BF8B78CD5FC9</p>
 </div>
@@ -3396,7 +3396,7 @@ $\dfrac {1} {10}$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3511,7 +3511,7 @@ $385  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>68822C6B-6F06-415B-8DA6-B4B68895040B</p>
 </div>
@@ -3559,7 +3559,7 @@ $\dfrac {1} {15}$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3982,7 +3982,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4117,7 +4117,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4456,9 +4456,6 @@ $2 \ \text {hours} \ 30 \ \text {minutes}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -4756,7 +4753,7 @@ $800 \ \text{kilometres per hour}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_pr question'>
+<div class='question_envelope rag_nm_blocked question'>
 <div class='uuid'>
 <p>7108AA2C-B831-419E-BE02-D136ECF3569E</p>
 </div>
@@ -4895,7 +4892,7 @@ $8 \ \text{minutes}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_nm_pr</p>
+<p>rag_nm_blocked</p>
 </div>
 </div>
 </li>
@@ -5735,9 +5732,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -6735,7 +6729,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>95AA3A28-967A-4FCB-91EC-525305242C25</p>
 </div>
@@ -6784,12 +6778,12 @@ $3 \ \text {hours} 11 \ \text {minutes}$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>2703C7F6-30C9-4C88-BEED-BD1AB762A00C</p>
 </div>
@@ -6898,11 +6892,7 @@ $
 \end{aligned}
 $
 
-$
-\begin{aligned}
-\text {So she needs to go to sleep} &= 7 \ \text {pm}
-\end{aligned}
-$
+$\text {So she needs to go to sleep} = 7 \ \text {pm}$
 
 </div>
 </div>
@@ -6921,7 +6911,7 @@ $7 \ \text {pm}$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -7909,7 +7899,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3206AC5E-10AC-4792-AC6F-6BBD072B959C</p>
 </div>
@@ -7965,7 +7955,7 @@ $12{:}28 \ \text {pm}$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -8159,7 +8149,12 @@ For how many $\text{minutes}$ does the programme Smart Guy last?
 <div class='workings'>
 <div class='working'>
 
-$25 \ \text {minutes}$
+$
+\begin{aligned}
+\text{Smart Guy last for} &= 9{:}15 - 8{:}50 \\\\
+                          &= 25 \ \text {minutes}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -8189,8 +8184,15 @@ Carla wants to record *Live* and *Kicking*. She thinks that the $180\ \text{minu
 
 $
 \begin{aligned}
-\text {Left spare minutes} &= 180 - 175 \\\\
-                           &= 5 \ \text{minutes}
+\text{Duration for L & K}  &= 12{:}10 - 9{:}15 \\\\
+                           &= 175 \ \text{minutes}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Minutes left on the tape} &= 180 - 175 \\\\
+                                 &= 5 \ \text{minutes}
 \end{aligned}
 $
 
@@ -8801,7 +8803,7 @@ $5{:}55 \ \text{am}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>7C315FF4-DCE5-464B-AACC-96D15E4B1B6B</p>
 </div>
@@ -8848,7 +8850,7 @@ $48000 \ \text {times per minute}$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -12492,7 +12494,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>AE067221-B6FD-46E9-9DF9-17DEE2A3A824</p>
 </div>
@@ -12604,7 +12606,7 @@ $30 \ \text {minutes}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -13538,7 +13540,7 @@ by a cycling stage and finishes with a running stage.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13857,13 +13859,7 @@ $16 \ \text {seconds}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -14268,7 +14264,7 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>24E931CE-2E50-4E79-B7A8-54956CD7E71A</p>
 </div>
@@ -14389,12 +14385,12 @@ $9 \ \text{hrs} \ \  33 \ \text{mins}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>420E188E-519C-42A7-A5F9-D5C0C4417ED1</p>
 </div>
@@ -14449,12 +14445,12 @@ $86{,}400$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>10C36790-C347-40B9-9147-58FE1E31EBEC</p>
 </div>
@@ -14510,7 +14506,7 @@ $54 \ \text{mins}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -15060,7 +15056,7 @@ $1 \text{st February}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>93C342F0-9B02-467D-85DA-8B6AB128FA9C</p>
 </div>
@@ -15292,7 +15288,7 @@ $0719$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -15669,7 +15665,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>42B09AC3-796B-4A16-B123-5A18D316FA38</p>
 </div>
@@ -15693,6 +15689,20 @@ $10{:}30 \ \text{am}$ to $4{:}30 \ \text{pm}$ on Sundays. For how many hours doe
 <div class='working'>
 
 As per the question,
+
+$
+\begin{aligned}
+\text{Opening hours from Monday to Saturday} &= 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} \\\\
+                                             &= 14 \ \text{hours}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Opening hours on Sunday} &= 4{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
+                               &= 6 \ \text{hours}
+\end{aligned}
+$
 
 Number of hours from Monday to Saturday $= 14 \times 6$
 
@@ -15720,7 +15730,7 @@ $90 \ \text {hours}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -15959,139 +15969,6 @@ $10:30$
 </div>
 <div class='rag'>
 <p>rag_np_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>1DBE30B7-4FEB-411A-8173-16E4131A8B9B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-It takes a team of four people six hours to paint my fence.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long would a team of eight people have taken?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-One of my neighbours has a similar fence which is twice as long as mine.  She would like the work to be completed in less than five hours.  What is the minimum number of people that she should employ?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -16480,7 +16357,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tlogic
@@ -16649,7 +16526,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>5C8F5D72-0C11-4187-B036-6028A9F59B70</p>
 </div>
@@ -16699,7 +16576,7 @@ $96 \ \text{minutes}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -17768,7 +17645,7 @@ Harry spends $\dfrac{1}{3}$ of his lunch break eating his lunch.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19206,7 +19083,7 @@ The time in Addis Ababa is $2 \ \text{hours}$ ahead of the time in London.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -19256,8 +19133,9 @@ When it is $12.37$ in New York, what time is it in Addis Ababa?
 
 $
 \begin{aligned}
-\text{Time in Addis Ababa} &= 12{:}37 - 3 \\\\
-                           &= 9{:}37
+\text{Time in Addis Ababa} &= 12{:}37 + 5 + 2 \\\\
+                           &= 12{:}37 + 7 \\\\
+                           &= 19{:}37
 \end{aligned}
 $
 
@@ -19266,7 +19144,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9{:}37$
+$19{:}37$
 
 </div>
 </div>
@@ -19293,20 +19171,20 @@ At what time and on which day does it arrive in New York?
 
 $
 \begin{aligned}
-\text{Time at which it arrives in New York} &= 19{:}00 + 14 - 3 \\\\
-                                            &= 19{:}00 + 11 \\\\
-                                            &= 6{:}00
+\text{Time at which it arrives in New York} &= 19{:}00 + 14 - 7 \\\\
+                                            &= 19{:}00 + 7 \\\\
+                                            &= 2{:}00
 \end{aligned}
 $
 
-It arrives on Wednesday at $6{:}00$
+It arrives on Wednesday at $2{:}00$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Wednesday}, \ 6{:}00$
+$\text{Wednesday}, \ 2{:}00$
 
 </div>
 </div>
@@ -20959,7 +20837,7 @@ $4\ \text{hrs} \ 2 \ \text{min}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>08CCE0CE-B784-477D-8641-E1FBE38BAD33</p>
 </div>
@@ -21020,7 +20898,7 @@ $3$ hours $5$ minutes
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -21275,7 +21153,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -21362,7 +21240,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>FD0DC878-E1F6-4200-96B6-EF2237097FF7</p>
 </div>
@@ -21520,7 +21398,7 @@ $6 \ \text{kg}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>

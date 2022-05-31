@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -950,9 +950,6 @@ $594$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1510,9 +1507,6 @@ $600$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2332,10 +2326,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3128,13 +3119,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-tformula
+tnumber
 </li>
 <li>
 talgebra
@@ -3565,7 +3550,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>53399A4A-DF80-4EFD-BEC4-3F8DC5B49C23</p>
 </div>
@@ -3589,13 +3574,7 @@ There is a number of coins on a table. One quarter of them are showing heads. If
 
 Let the number of coins on the table $= c$
 
-Number of coins showing head $= \dfrac {c} {4}$
-
-After turning $2$ more coins on head, i.e., $\dfrac {c} {4} + 2 $
-
-Number of coins showing heads changes to $=\dfrac {c} {3}$ 
-
-Let's form an equation, 
+As per the question,
 
 $
 \begin{aligned}
@@ -3626,12 +3605,12 @@ $24$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
 <p>7133C4B6-24EB-4420-92C7-0A0CC3F6411E</p>
 </div>
@@ -3641,7 +3620,7 @@ $24$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3764,7 +3743,7 @@ $6$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_g1</p>
 </div>
 </div>
 </li>

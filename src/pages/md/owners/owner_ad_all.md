@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ad-all"
 title: "Owner - Arun Dalakoti - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1143,7 +1143,7 @@ $\pounds 10.08$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tnumber
@@ -1203,10 +1203,7 @@ $240$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1467,7 +1464,7 @@ $2450$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>798006C1-EFFC-4CDE-A766-6D959CB23317</p>
 </div>
@@ -1537,7 +1534,7 @@ $2 \dfrac {1} {2} \ \text{jugs of water required}$
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2965,7 +2962,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3240,7 +3237,7 @@ $63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F4D77903-BECE-4A44-88EA-1781F5A261B0</p>
 </div>
@@ -3248,6 +3245,9 @@ $63$
 <ul>
 <li>
 tmoney
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -3289,7 +3289,7 @@ $\pounds 5.02$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3385,7 +3385,7 @@ $36 + 32 = 49 + \underline{19}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3562,9 +3562,6 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -3667,7 +3664,7 @@ $155 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3482F384-C0E0-4164-8CFD-2035B993DC4E</p>
 </div>
@@ -3717,12 +3714,12 @@ $6233 \ \text{g}$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>66CC3FAD-48FE-44E8-87CF-70E572E82771</p>
 </div>
@@ -3782,12 +3779,12 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>37C2EF16-4356-40F4-BE05-0A1854428588</p>
 </div>
@@ -3797,7 +3794,10 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
+</li>
+<li>
+tdraw
 </li>
 </ul>
 </div>
@@ -3840,7 +3840,7 @@ $292 \ \text {cm}^2$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3946,7 +3946,7 @@ Use this result to answer these questions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4100,7 +4100,7 @@ $2.79$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>66777738-C618-4271-96E5-1C9214C9F392</p>
 </div>
@@ -4110,7 +4110,7 @@ $2.79$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -4132,10 +4132,10 @@ What is the perimeter of the cross shape tile?
 
 $
 \begin{aligned}
-\text{Perimeter of cross shape tile} &= 4 \times (10 - 2 - 2) + 8 \times 2 \\\\
-                                     &= 4 \times 6 + 16 \\\\
-                                     &= 24 + 16 \\\\
-                                     &= 40 \ \text{cm}
+\text{Perimeter of cross shape tile} &= \text {Perimeter of the big square} - 8 \times \text {Corner squares} \\\\
+                                     &= 4 \times 10 - 8 \times 2 \\\\
+                                     &= 40 - 16 \\\\
+                                     &= 24 \ \text{cm}
 \end{aligned}
 $
 
@@ -4144,11 +4144,11 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$40 \ \text{cm}$
+$24 \ \text{cm}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4167,12 +4167,11 @@ Robert puts three tiles together to make the shape below. What is the perimeter 
 
 $
 \begin{aligned}
-\text{Perimeter} &= 2 \times \text{Perimeter of outer tiles} + \text{Perimeter of inner tile} \\\\
-                 &= 2 \times (3 \times 6 + 8 \times 2) + (2 \times 6 + 8 \times 2) \\\\
-                 &= 2 \times (18 + 16) + 12 + 16 \\\\
-                 &= 2 \times 34 + 28 \\\\
-                 &= 68 + 28 \\\\
-                 &= 96 \ \text{cm}
+\text{Perimeter} &= 3 \times \text{Perimeter of tile} - 4 \times \text{Common side between tiles} \\\\
+                 &= 3 \times 24 - 4 \times (10 - 4) \\\\
+                 &= 72 - 4 \times 6 \\\\
+                 &= 72 - 24 \\\\
+                 &= 48 \ \text{cm}
 \end{aligned}
 $
 
@@ -4181,7 +4180,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$96 \ \text{cm}$
+$48 \ \text{cm}$
 
 </div>
 </div>
@@ -4204,12 +4203,11 @@ Ravi put ten tiles together in a similar way. What is the perimeter of his shape
 
 $
 \begin{aligned}
-\text{Perimeter of 10 tiles} &= 2 \times \text{Perimeter of outer tiles} + 8 \times \text{Perimeter of inner tile} \\\\
-                             &= 2 \times (3 \times 6 + 8 \times 2) + 8 \times (2 \times 6 + 8 \times 2) \\\\
-                             &= 2 \times (18 + 16) + 8 \times (12 + 16) \\\\
-                             &= 2 \times 34 + 8 \times 28 \\\\
-                             &= 68 + 224 \\\\
-                             &= 292 \ \text{cm}
+\text{Perimeter of 10 tiles} &= 10 \times \text{Perimeter of tile} - 18 \times \text{Common side between tiles} \\\\
+                             &= 10 \times 24 - 18 \times (10 - 4) \\\\
+                             &= 240 - 18 \times 6 \\\\
+                             &= 240 - 108 \\\\
+                             &= 132 \ \text{cm}
 \end{aligned}
 $
 
@@ -4218,7 +4216,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$292 \ \text{cm}$
+$132 \ \text{cm}$
 
 </div>
 </div>
@@ -4230,7 +4228,7 @@ $292 \ \text{cm}$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -4790,6 +4788,15 @@ How much does a balloon pump and eight packs of balloons cost?
 </div>
 <div class='workings'>
 <div class='working'>
+
+$
+\begin{aligned}
+\text{Cost of a balloon pump} &= \text {Cost of a balloon pump and four packs of balloons} - \text{Cost of four packs of balloons} \\\\
+                              &= 11 - 4 \times 2 \\\\
+                              &= 11 - 8 \\\\
+                              &= \pounds 3
+\end{aligned}
+$
 
 $
 \begin{aligned}
@@ -5422,7 +5429,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3396FC7D-CAC5-48DF-9EEA-02DC624906F5</p>
 </div>
@@ -5569,7 +5576,7 @@ $13$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5649,7 +5656,7 @@ $- 1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>95AA3A28-967A-4FCB-91EC-525305242C25</p>
 </div>
@@ -5698,7 +5705,7 @@ $3 \ \text {hours} 11 \ \text {minutes}$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5822,7 +5829,7 @@ $90 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>86D69B78-1710-4435-AEAC-2D24127B485D</p>
 </div>
@@ -5832,7 +5839,7 @@ $90 \%$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -5873,7 +5880,7 @@ $25$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -6116,7 +6123,7 @@ $46 \ \text{years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>2703C7F6-30C9-4C88-BEED-BD1AB762A00C</p>
 </div>
@@ -6225,11 +6232,7 @@ $
 \end{aligned}
 $
 
-$
-\begin{aligned}
-\text {So she needs to go to sleep} &= 7 \ \text {pm}
-\end{aligned}
-$
+$\text {So she needs to go to sleep} = 7 \ \text {pm}$
 
 </div>
 </div>
@@ -6248,12 +6251,12 @@ $7 \ \text {pm}$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>51F26F12-4636-4241-A2E6-BF22B6A0DD2F</p>
 </div>
@@ -6286,7 +6289,7 @@ Show your working.
 <div class='workings'>
 <div class='working'>
 
-Let the space between the planks $=a$
+Let the space between the planks (in $\text{cm}$) $= a$
 
 As per the question,
 
@@ -6317,7 +6320,7 @@ $3 \ \text {cm}$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -6642,7 +6645,7 @@ $99$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>212E224E-5582-4831-B6B2-47F9B128497C</p>
 </div>
@@ -6705,7 +6708,7 @@ $7$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -6978,7 +6981,7 @@ $\dfrac {1} {15}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -7058,12 +7061,15 @@ E: $\pounds4.81$
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
+
 $
 \begin{aligned}
-\text {Change received} &= \pounds 10 - (65 \ \text {pence} \times 4 + 83\ \text{pence} \times 3) \\\\
-                        &= \pounds 10 - (260 \ \text {pence} + 249 \ \text {pence}) \\\\
-                        &= \pounds 10 - 509 \ \text {pence} \\\\
-                        &= \pounds 10 - \pounds 5.09 \\\\
+\text {Change received} &= \text{Total money} - (\text{Cost of 4 Mega Bars} + \text{Cost of 3 Star Bars}) \\\\
+                        &= \pounds 10 - (65 \ \text {pence} \times 4 + 83 \ \text{pence} \times 3) \\\\
+                        &= \pounds 10 - (\pounds \dfrac {260} {100} + \pounds \dfrac {249} {100}) \\\\
+                        &= 10 - (2.6 + 2.49) \\\\
+                        &= 10 - 5.09 \\\\
                         &= \pounds 4.91
 \end{aligned}
 $
@@ -7312,7 +7318,7 @@ $21$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -7369,15 +7375,12 @@ $132 \ \text{cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>D56F8DBA-B650-4C56-ACF8-4B5BF0829AB6</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -7433,7 +7436,7 @@ $20$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -7796,12 +7799,6 @@ $\dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -7923,9 +7920,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -8097,7 +8091,7 @@ $15$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -8268,9 +8262,6 @@ $3648$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -8456,7 +8447,7 @@ $35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>17EF20AA-D366-45EE-BEAA-69CF13C7B2AD</p>
 </div>
@@ -8519,7 +8510,7 @@ $8$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -8593,7 +8584,7 @@ $99$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3206AC5E-10AC-4792-AC6F-6BBD072B959C</p>
 </div>
@@ -8649,7 +8640,7 @@ $12{:}28 \ \text {pm}$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -8660,9 +8651,6 @@ $12{:}28 \ \text {pm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -8799,7 +8787,7 @@ $\dfrac {13} {15}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -8823,13 +8811,16 @@ E: $\text{More information needed}$
 <div class='workings'>
 <div class='working'>
 
+We can divide the shape into 2 rectangle as per the diagram shown below.
+
+$\text{Area} = \text{length} \times \text{width}$
+
 $
 \begin{aligned}
-\text {Area of the shaded region} &= \text {Area of first rectangle} + \text {Area of second rectangle} \\\\
-                                  &= \text {length1} \times \text {width1} + \text {length2} \times \text {width2} \\\\
+\text {Area of the shaded region} &= \text {Area of first Rectangle} + \text {Area of second Rectangle} \\\\
                                   &= 5 \times 3 + 13 \times 2 \\\\
                                   &= 15 + 26 \\\\
-                                  &= 41 \text { cm}^2
+                                  &= 41 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -8838,7 +8829,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$41 \text { cm}^2$
+$41 \ \text {cm}^2$
 
 </div>
 </div>
@@ -8881,12 +8872,15 @@ E: $\pounds{6.37}$
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
+
 $
 \begin{aligned}
-\text {Change received} &= \pounds 10 - (7 \times 55 \text {p} + 4 \times 63 \text {p}) \\\\
-                        &= \pounds 10 - (385 \text {p} + 252 \text {p}) \\\\
-                        &= \pounds 10 - 637 \text {p} \\\\
-                        &= \pounds 10 - \pounds 6.37 \\\\
+\text {Change received} &= \text{Total money} - (\text{Cost of 7 bags of Cheezos} + \text{4 bags of Nuttees}) \\\\
+                        &= \pounds 10 - (7 \times 55 \text {p} + 4 \times 63 \text {p}) \\\\
+                        &= \pounds 10 - (\pounds \dfrac {385} {100} + \pounds {252} {100}) \\\\
+                        &= 10 - (3.85 + 2.52) \\\\
+                        &= 10 - 6.37 \\\\
                         &= \pounds 3.63
 \end{aligned}
 $
@@ -9038,9 +9032,6 @@ $1400 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -9104,7 +9095,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>1B8CFA67-79EE-4405-AF7C-75703EDA343B</p>
 </div>
@@ -9114,7 +9105,7 @@ $20$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -9138,24 +9129,28 @@ E: $17.5 \ cm^2$
 <div class='workings'>
 <div class='working'>
 
+$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 $
 \begin{aligned}
 \text {Area of the shaded triangle} &= \text {Area of first triangle} + \text {Area of second triangle} \\\\
-                                    &= \dfrac {1} {2} \times \text {height1} \times \text {base1} + \dfrac {1} {2} \text {height2} \times \text {base2} \\\\
                                     &= \dfrac {1} {2} \times 3.5 \times 2 + \dfrac {1} {2} \times 3.5 \times 6 \\\\
                                     &= \dfrac {3.5 \times 2} {2} + \dfrac {3.5 \times 2 \times 3} {2} \\\\
                                     &= \dfrac {3.5 \times \cancel {2}} {\cancel {2}} + \dfrac {3.5 \times \cancel {2} \times 3} {\cancel {2}} \\\\
                                     &= 3.5 + 10.5 \\\\
-                                    &= 14 \text { cm}^2
+                                    &= 14 \ \text {cm}^2
 \end{aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
 <div class='answer'>
 
-$14 \text { cm}^2$
+$14 \ \text {cm}^2$
 
 </div>
 </div>
@@ -9164,7 +9159,7 @@ $14 \text { cm}^2$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -9175,9 +9170,6 @@ $14 \text { cm}^2$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9251,13 +9243,7 @@ $64$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -9438,9 +9424,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -9602,7 +9585,7 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F39DD2AD-6A07-4797-A7BC-FA6F904C2A63</p>
 </div>
@@ -9612,7 +9595,7 @@ $14$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -9628,8 +9611,8 @@ Sid the spider goes for a walk around the whole perimeter of the shape below, st
 
 $
 \begin{aligned}
-\text{Perimeter} &= 4 + 9 + 5 + 9 + 14 + 12 + 14 \\\\
-                 &= 67 \ \text{cm}
+\text{Perimeter} &= 4 + 9 + 5 + 9 + (12 - (5 + 4)) + 14 + 12 + 14 \\\\
+                 &= 70 \ \text{cm}
 \end{aligned}
 $
 
@@ -9638,7 +9621,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$67 \ \text{cm}$
+$70 \ \text{cm}$
 
 </div>
 </div>
@@ -9647,7 +9630,7 @@ $67 \ \text{cm}$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -10175,9 +10158,6 @@ $24$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -10505,7 +10485,7 @@ $45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3852614B-1AE4-4DBC-B778-EAC0383CA0FA</p>
 </div>
@@ -10609,7 +10589,7 @@ $90 \degree$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -10670,7 +10650,12 @@ For how many $\text{minutes}$ does the programme Smart Guy last?
 <div class='workings'>
 <div class='working'>
 
-$25 \ \text {minutes}$
+$
+\begin{aligned}
+\text{Smart Guy last for} &= 9{:}15 - 8{:}50 \\\\
+                          &= 25 \ \text {minutes}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -10700,8 +10685,15 @@ Carla wants to record *Live* and *Kicking*. She thinks that the $180\ \text{minu
 
 $
 \begin{aligned}
-\text {Left spare minutes} &= 180 - 175 \\\\
-                           &= 5 \ \text{minutes}
+\text{Duration for L & K}  &= 12{:}10 - 9{:}15 \\\\
+                           &= 175 \ \text{minutes}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Minutes left on the tape} &= 180 - 175 \\\\
+                                 &= 5 \ \text{minutes}
 \end{aligned}
 $
 
@@ -11037,7 +11029,7 @@ $\text {Perfect square}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8C2424AB-3B93-4D99-9DE3-E12FB4CE2FA1</p>
 </div>
@@ -11200,7 +11192,7 @@ $11 \ \text {m}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -11436,15 +11428,12 @@ $4 \text{metres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>9B9050C1-533D-4992-A903-6BF6255CBEA5</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -11488,8 +11477,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Leena brought}  &= 28 + 13 \\\\
-                       &= 15 \\\\                    
+\text {Leena brought}  &= 28 - 13 \\\\
+                       &= 15
 \end{aligned}
 $
 
@@ -11524,7 +11513,7 @@ As per the question,
 $
 \begin{aligned}
 \text {Total tokens}  &= 28 + (28 - 13) + (28 + 7) \\\\
-                      &= 78 \\\\                    
+                      &= 78
 \end{aligned}
 $
 
@@ -11545,7 +11534,7 @@ $78$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -11748,14 +11737,17 @@ $700$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>02AE8DFB-4F87-46DA-95B0-D6783C21CA17</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tratio
+tnumber
+</li>
+<li>
+tmoney
 </li>
 </ul>
 </div>
@@ -11829,7 +11821,7 @@ The price of a childrens ticket is half that of an adult ticket. What is the cos
 $
 \begin{aligned}
 \text {Cost of a child ticket}  &= \dfrac {29.40} {2} \\\\
-                                &= \pounds 14.7 \\\\
+                                &= \pounds 14.7
 \end{aligned}
 $
 
@@ -11850,7 +11842,7 @@ $\pounds 14.7$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -12094,7 +12086,7 @@ $306$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>94482E8F-6F8C-4F2F-9BC0-B991B1CFBDB9</p>
 </div>
@@ -12133,7 +12125,7 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -12144,9 +12136,6 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -12335,7 +12324,7 @@ $12$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -13223,10 +13212,7 @@ $135 \degree$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -13335,7 +13321,7 @@ $25 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>7ED0E8A6-8797-4138-A006-85F2D567D9C5</p>
 </div>
@@ -13364,6 +13350,8 @@ Calculate how much change she will receive if she pays with a $\pounds20$ note.
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
+
 $\pounds 1 = 100 \text{p}$
 
 $
@@ -13389,22 +13377,19 @@ $\pounds 15.42$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>B20CFC99-E249-43D4-A797-25BD87D1FC06</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -13445,7 +13430,7 @@ $6, \ 0.67 \ \text{cm}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -13568,7 +13553,7 @@ $450$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>A2F4CE02-CC08-4549-9659-71797B3FFB94</p>
 </div>
@@ -13614,7 +13599,7 @@ $\pounds 1500$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -13802,9 +13787,6 @@ $60$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -14221,7 +14203,7 @@ $9, 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D1915A62-7372-477D-A35A-78B2C0261ECE</p>
 </div>
@@ -14342,14 +14324,15 @@ $600 \div ............. = 50$
 <div class='workings'>
 <div class='working'>
 
-Given
-
 $
 \begin{aligned}
-600 \div 24            &= 25 \\\\
-(600 \div 24) \times 2 &= 25 \times 2 \\\\
-600 \div 24 \times 2   &= 50 \\\\
-600 \div 48            &= 50
+600 \div 24                                             &= 25 \\\\
+\dfrac {600} {24}                                       &= 25 \\\\
+\dfrac {600 \times 2} {24}                              &= 25 \times 2 \\\\
+\dfrac {600 \times 2} {12 \times 2}                     &= 50 \\\\
+\dfrac {600 \times \cancel {2}} {12 \times \cancel {2}} &= 50 \\\\
+\dfrac {600} {12}                                       &= 50 \\\\
+600 \div 12                                             &= 50
 \end{aligned}
 $
 
@@ -14358,7 +14341,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$48$
+$12$
 
 </div>
 </div>
@@ -14370,7 +14353,7 @@ $48$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -14436,7 +14419,7 @@ $\dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5}, \quad \dfrac {3} {4
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>E613AD24-EE97-4825-9545-2EBD62F74520</p>
 </div>
@@ -14568,20 +14551,17 @@ $48 \text { kg}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>03B1D61C-7CBC-4E0B-A194-696178602F1C</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -14728,7 +14708,7 @@ $-30, -32, 100$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -14739,9 +14719,6 @@ $-30, -32, 100$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -14850,15 +14827,12 @@ $-x + 23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D283FA4A-33AB-496A-950F-B2EB59FA6F01</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -15039,7 +15013,7 @@ $\dfrac {1} {2}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -15054,10 +15028,7 @@ $\dfrac {1} {2}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -15101,11 +15072,28 @@ What is the **side length** of this square?
 <div class='workings'>
 <div class='working'>
 
+$\text{Area} = \text{length} \times \text{width}$
+
+As per the diagram,
+
 $
 \begin{aligned}
 \text {Area of rectangle}      &= 8 \times 2 \\\\
-                               &= 16 \text {cm}^2 \\\\
-\text {Side length of square}  &= 4 \text {cm}
+                               &= 16 \ \text {cm}^2
+\end{aligned}
+$
+
+$\text{Area} = \text{side} \times \text{side}$
+
+Let the side of square $= s$
+
+$
+\begin{aligned}
+\text{Area of square} &= \text{Area of rectangle} \\\\
+s \times s            &= 16 \\\\
+s ^ 2                 &= 16 \\\\
+s                     &= \sqrt {16} \\\\
+s                     &= 4 \ \text{cm}
 \end{aligned}
 $
 
@@ -15114,7 +15102,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4 \text {cm}$
+$4 \ \text{cm}$
 
 </div>
 </div>
@@ -15137,11 +15125,28 @@ What is the **side length** of this square?
 <div class='workings'>
 <div class='working'>
 
+\text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
+As per the diagram,
+
 $
 \begin{aligned}
-\text {Perimeter of rectangle} &= 8 + 2 \\\\
-                               &= 10 \text {cm} \\\\
-\text {Side length of square}  &= 5 \text {cm}
+\text {Perimeter of rectangle} &= 2 \times (8 + 2) \\\\
+                               &= 2 \times 10 \\\\
+                               &= 20 \ \text{cm}
+\end{aligned}
+$
+
+Let the side of square $= s$
+
+$
+\begin{aligned}
+\text {Perimeter of square} &= \text{Perimeter of rectangle} \\\\
+4 \times s                  &= 20 \\\\
+s                           &= \dfrac {20} {4} \\\\
+s                           &= \dfrac {5 \times 4} {4} \\\\
+s                           &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
+s                           &= 5 \ \text{cm}
 \end{aligned}
 $
 
@@ -15150,7 +15155,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5 \text {cm}$
+$5 \ \text {cm}$
 
 </div>
 </div>
@@ -15230,9 +15235,6 @@ $\dfrac {7} {16}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -15411,10 +15413,7 @@ $\dfrac {t ^ 2} {4}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -15428,22 +15427,28 @@ Find the perimeter and area of this shape:
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text {Perimeter} &= 6 + 5 + 9 + 4 \\\\
-                  &= 24 \text {cm}
-\end{aligned}
-$
+The shape is a trapezium. So,
 
 $
 \begin{aligned}
-\text {Area} &= \text {Area of rectangle} + \text {Area of triangle} \\\\
-             &= \text {length} \times \text {width} + \dfrac {1} {2} \times \text {base} \times \text {height} \\\\
-             &= 6 \times 4 + \dfrac {1} {2} \times 3 \times 4 \\\\
-             &= 24 + \dfrac {3 \times 2 \times 2} {2} \\\\
-             &= 24 + \dfrac {3 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
-             &= 24 + 6 \\\\
-             &= 30 \text {cm}^2
+\text {Perimeter} &= 6 + 5 + 9 + 4 \\\\
+                  &= 24 \ \text {cm}
+\end{aligned}
+$
+
+Let the parallel sides of trapezium $= a, b$
+
+And let height of trapezium $= h$
+
+$
+\begin{aligned}
+\text {Area of trapezium} &= \dfrac {a + b} {2} \times h \\\\
+                          &= \dfrac {6 + 9} {2} \times 4 \\\\
+                          &= \dfrac {15 \times 4} {2} \\\\
+                          &= \dfrac {15 \times 2 \times 2} {2} \\\\
+                          &= \dfrac {15 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                          &= 15 \times 2 \\\\
+                          &= 30 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -15452,7 +15457,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24 \text {cm}, \ 30 \text {cm}^2$
+$24 \ \text {cm}, \ 30 \ \text {cm}^2$
 
 </div>
 </div>
@@ -15739,7 +15744,7 @@ $\pounds 28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
 </div>
@@ -15798,14 +15803,14 @@ As per the diagram,
 
 $
 \begin{aligned}
-c + 62 + 90 &= 180 \\\\
+c + 62 + 90  &= 180 \\\\
 c + 152      &= 180 \\\\
 c            &= 180 - 152 \\\\
 c            &= 28 \degree
 \end{aligned}
 $
 
-The value of d will also be equal to 28 because they are opposite angles
+The value of $d$ will also be equal to $28$ because they are opposite angles.
 
 </div>
 </div>
@@ -15826,7 +15831,7 @@ $28 \degree, \ 28 \degree$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -16517,7 +16522,7 @@ $76 \times 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E</p>
 </div>
@@ -16558,7 +16563,7 @@ $400$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -16665,7 +16670,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>7C315FF4-DCE5-464B-AACC-96D15E4B1B6B</p>
 </div>
@@ -16712,7 +16717,7 @@ $48000 \ \text {times per minute}$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -16723,9 +16728,6 @@ $48000 \ \text {times per minute}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -16966,7 +16968,7 @@ $720, 5040$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D0234A9E-B354-49F2-86CF-030A38955623</p>
 </div>
@@ -17108,7 +17110,7 @@ ${} \div 3 \ \text {and} \ {} - 16$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -17218,7 +17220,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>E0077BDA-7CE4-4354-A2D2-C673F42B2CFD</p>
 </div>
@@ -17332,7 +17334,7 @@ $15$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -17930,7 +17932,7 @@ $120 \degree$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -18378,9 +18380,6 @@ $8, 28$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -18656,10 +18655,7 @@ $10$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -18955,9 +18951,6 @@ $27$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -19961,7 +19954,7 @@ $0.04, \quad 0.042, \quad 0.204, \quad 0.24, \quad 0.40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>DBECDDB1-535A-40FF-A1A8-ACD4A67D5EC9</p>
 </div>
@@ -20097,7 +20090,7 @@ $-13$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -20303,7 +20296,7 @@ $162, 486$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -20770,9 +20763,6 @@ $28$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -20933,20 +20923,17 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>E9A0FA5F-BD86-427B-91F1-7D0A086BB6AE</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
 talgebra
+</li>
+<li>
+tnumber
 </li>
 </ul>
 </div>
@@ -21185,12 +21172,19 @@ p       &= 19 \quad \text{and} \quad q = 1
 \end{aligned}
 $
 
+$
+\begin{aligned}
+(p + 1) &= 1 \quad \text{and} \quad q = 20 \\\\
+p       &= 0 \quad \text{and} \quad q = 20
+\end{aligned}
+$
+
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$(3,5), \ (4,4), \ (9,2), \ (1,10), \ (19,1)$
+$(3,5), \ (4,4), \ (9,2), \ (1,10), \ (19,1), \ (0,20)$
 
 </div>
 </div>
@@ -21202,7 +21196,7 @@ $(3,5), \ (4,4), \ (9,2), \ (1,10), \ (19,1)$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -21529,7 +21523,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A</p>
 </div>
@@ -21577,7 +21571,7 @@ $192$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -22388,9 +22382,6 @@ $\text{German}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -22456,7 +22447,7 @@ $600 \ \text{g}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -22670,9 +22661,6 @@ $\pounds 110$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -22785,7 +22773,7 @@ $a - 4b$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -22889,9 +22877,6 @@ $\pounds 8.19$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -23423,12 +23408,6 @@ $110 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -23481,9 +23460,6 @@ $60 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -23534,7 +23510,7 @@ $240 \ \text{g}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -24480,9 +24456,6 @@ $- 4 \degree \text {C}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -24826,7 +24799,7 @@ $512, 2048$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -24876,7 +24849,7 @@ $\text {3cm, \ 3cm, \ 8cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>AC854B93-AB29-484A-A714-B3FAAEEFAC01</p>
 </div>
@@ -24971,12 +24944,12 @@ $17$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>490F1D53-1692-491B-A090-53ACC2775F94</p>
 </div>
@@ -25125,7 +25098,7 @@ $64 \ \text {and} \ 729$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -25136,9 +25109,6 @@ $64 \ \text {and} \ 729$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -25241,7 +25211,7 @@ $600 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>2B60E137-B7D3-4928-80E0-5B838ED84D0C</p>
 </div>
@@ -25251,7 +25221,7 @@ $600 \ \text{g}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -25287,22 +25257,19 @@ $4x + 3$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>1FE964D6-D452-462B-99A5-E639ED97A120</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -25402,7 +25369,7 @@ $180 \text { metres}$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -26222,14 +26189,14 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BB2373FF-1D5B-413C-8160-D9BBA4F4E551</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tratio
+talgebra
 </li>
 </ul>
 </div>
@@ -26249,17 +26216,21 @@ How many **pages** are in his book?
 
 Let the number of pages $=a$
 
+It is really important to use the right units in calculations and convert where required.. Let's convert pounds in pence.
+
 As per the question,
 
 $
 \begin{aligned}
-3 \times a + 75 &= 435 \\\\
-3 \times a      &= 435 - 75 \\\\
-3 \times a      &= 360 \\\\
-a               &= \dfrac {360} {3} \\\\
-a               &= \dfrac {120 \times 3} {3} \\\\
-a               &= \dfrac {120 \times \cancel {3}} {\cancel {3}} \\\\
-a               &= 120
+3 \times a + 75 \text{p} &= \pounds 4.35 \\\\
+3 \times a + 75 \text{p} &= 4.35 \times 100 \text{p} \\\\
+3 \times a + 75          &= 435 \\\\
+3 \times a               &= 435 - 75 \\\\
+3 \times a               &= 360 \\\\
+a                        &= \dfrac {360} {3} \\\\
+a                        &= \dfrac {120 \times 3} {3} \\\\
+a                        &= \dfrac {120 \times \cancel {3}} {\cancel {3}} \\\\
+a                        &= 120
 \end{aligned}
 $
 
@@ -26277,7 +26248,7 @@ $120$
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -26614,7 +26585,7 @@ $13, \ 21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>AC3AC204-80D4-4019-BF9B-79C535481A56</p>
 </div>
@@ -26829,7 +26800,7 @@ $1012$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -27426,9 +27397,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -27873,7 +27841,7 @@ $176.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E</p>
 </div>
@@ -28153,7 +28121,7 @@ $613$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -28164,9 +28132,6 @@ $613$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -28314,9 +28279,6 @@ $3$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -29022,7 +28984,7 @@ $39$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>7D0B690C-BD90-4E67-8AEA-2C900707DE0A</p>
 </div>
@@ -29117,7 +29079,7 @@ $((3 \times  7) - (6 \times (4 - 3)))$
 <p>oundle-school--11-plus--maths--2017--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -29383,15 +29345,12 @@ $3 \dfrac {1} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>4BCDEBB4-C5C3-44DB-A1DD-D9936C5BD615</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -29603,7 +29562,7 @@ $-16.25$
 <p>oundle-school--11-plus--maths--2017--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -30001,12 +29960,6 @@ $\dfrac {35} {33}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 talgebra
 </li>
@@ -31313,7 +31266,7 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>42B09AC3-796B-4A16-B123-5A18D316FA38</p>
 </div>
@@ -31337,6 +31290,20 @@ $10{:}30 \ \text{am}$ to $4{:}30 \ \text{pm}$ on Sundays. For how many hours doe
 <div class='working'>
 
 As per the question,
+
+$
+\begin{aligned}
+\text{Opening hours from Monday to Saturday} &= 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} \\\\
+                                             &= 14 \ \text{hours}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Opening hours on Sunday} &= 4{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
+                               &= 6 \ \text{hours}
+\end{aligned}
+$
 
 Number of hours from Monday to Saturday $= 14 \times 6$
 
@@ -31364,7 +31331,7 @@ $90 \ \text {hours}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -32656,7 +32623,7 @@ $111 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F2D84620-5FC8-4469-A7DA-4FEFD38284C0</p>
 </div>
@@ -32808,7 +32775,7 @@ $30$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -33234,7 +33201,7 @@ $11{:}11, \ 08{:}08$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -33256,17 +33223,21 @@ Let the side of the square $= s$
 
 $
 \begin{aligned}
-\text{Area} &= 144 \\\\
-a ^ 2       &= 144 \\\\
-a           &= \sqrt 144 \\\\
-a           &= 12
+\text{Area}     &= 144 \\\\
+9 \times a ^ 2  &= 144 \\\\
+a ^ 2           &= \dfrac {144} {9} \\\
+a ^ 2           &= \dfrac {16 \times 9} {9} \\\\
+a ^ 2           &= \dfrac {16 \times \cancel {9}} {\cancel {9}} \\\\
+a ^ 2           &= 16 \\\\
+a               &= \sqrt 16 \\\\
+a               &= 4 \ \text{cm}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Perimeter} &= 28 \times 9 \\\\
-                 &= 252 \ \text{cm} ^ 2
+\text{Perimeter} &= 20 \times 4 \\\\
+                 &= 80 \ \text{cm}
 \end{aligned}
 $
 
@@ -33275,7 +33246,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$252 \ \text{cm} ^ 2$
+$80 \ \text{cm}$
 
 </div>
 </div>
@@ -34337,9 +34308,6 @@ $31 \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -34463,12 +34431,6 @@ $18$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 talgebra
 </li>
@@ -34660,7 +34622,7 @@ $5 - 5 = 4 - 4$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -34723,7 +34685,7 @@ $20 \ \text{cm} ^ 2$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -34955,9 +34917,6 @@ $0{:}1$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -35661,12 +35620,6 @@ $8 \dfrac {1} {20}, \ 8.05$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -36032,9 +35985,6 @@ $9{:}40, \ 21{:}40$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -36716,7 +36666,7 @@ $3, \ 5$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -36989,7 +36939,7 @@ $34 \text{p}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -37178,9 +37128,6 @@ $6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -38110,7 +38057,7 @@ Write the next two numbers in each sequence:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -38232,12 +38179,6 @@ $16, \ 22$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 talgebra
 </li>
@@ -38463,7 +38404,7 @@ Fill in the boxes below
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -38589,7 +38530,7 @@ $152$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>23036B78-59C9-4958-A9D7-2BEF6461A408</p>
 </div>
@@ -38625,7 +38566,7 @@ He buys as many pineapples as he can with his $\pounds 10$ note.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -38701,7 +38642,7 @@ $12 \text{p}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -38743,7 +38684,7 @@ At the same time, the temperature in Tropical Town was $20 \degree \text{C}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -38829,9 +38770,6 @@ $-7 \degree C$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -39042,7 +38980,7 @@ $4$ eggs
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -39295,7 +39233,7 @@ $
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -39321,7 +39259,7 @@ Put all $4$ cards together to make
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -39492,7 +39430,7 @@ In each part below, circle the most sensible unit to measure
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -39636,10 +39574,7 @@ $600 \ \text{ml}$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -39664,7 +39599,7 @@ Below are some shapes drawn on a centimetre-squared grid.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -39723,7 +39658,7 @@ $14 \ \text{cm}$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -39875,7 +39810,7 @@ Here is a pie chart showing her results:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -40012,7 +39947,7 @@ $38$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D9392A40-884A-464D-8238-386B5F1D4905</p>
 </div>
@@ -40050,7 +39985,7 @@ When Helen hangs out her washing on the line, she always uses $3$ pegs for a shi
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -40188,7 +40123,7 @@ $13, \ 13$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -40230,7 +40165,7 @@ The time in Addis Ababa is $2 \ \text{hours}$ ahead of the time in London.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -40280,8 +40215,9 @@ When it is $12.37$ in New York, what time is it in Addis Ababa?
 
 $
 \begin{aligned}
-\text{Time in Addis Ababa} &= 12{:}37 - 3 \\\\
-                           &= 9{:}37
+\text{Time in Addis Ababa} &= 12{:}37 + 5 + 2 \\\\
+                           &= 12{:}37 + 7 \\\\
+                           &= 19{:}37
 \end{aligned}
 $
 
@@ -40290,7 +40226,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9{:}37$
+$19{:}37$
 
 </div>
 </div>
@@ -40317,20 +40253,20 @@ At what time and on which day does it arrive in New York?
 
 $
 \begin{aligned}
-\text{Time at which it arrives in New York} &= 19{:}00 + 14 - 3 \\\\
-                                            &= 19{:}00 + 11 \\\\
-                                            &= 6{:}00
+\text{Time at which it arrives in New York} &= 19{:}00 + 14 - 7 \\\\
+                                            &= 19{:}00 + 7 \\\\
+                                            &= 2{:}00
 \end{aligned}
 $
 
-It arrives on Wednesday at $6{:}00$
+It arrives on Wednesday at $2{:}00$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Wednesday}, \ 6{:}00$
+$\text{Wednesday}, \ 2{:}00$
 
 </div>
 </div>
@@ -40357,7 +40293,7 @@ $\text{Wednesday}, \ 6{:}00$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -40375,24 +40311,17 @@ What area of red card is showing?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text {Length of the red card} &= 15 + 3 + 3
-                               &= 21 \ \text{cm}
-\end{aligned} 
-$
+$\text{Area} = \text{length} \times \text{width}$
 
 $
 \begin{aligned}
-\text {Width of the red card}  &= 12 + 3 + 3
-                               &= 18 \ \text{cm}
-\end{aligned} 
-$
-
-$
-\begin{aligned}
-\text {Area of the red card}  &= 21 \times 18 \\\\
-                              &= 378 \ \text{cm} ^ 2
+\text{Area of the red card} &= \text{Area of left and right border} + \text{Area of top and bottom border} \\\\
+                            &= 2 \times \text{Area of left border} + 2 \times \text{Area of top border} \\\\
+                            &= 2 \times (15 - 3 - 3) \times 3 + 2 \times 12 \times 3 \\\\
+                            &= 6 \times (15 - 6) + 24 \times 3 \\\\
+                            &= 6 \times 9 + 72 \\\\
+                            &= 54 + 72 \\\\
+                            &= 126 \ \text{cm} ^ 2
 \end{aligned} 
 $
 
@@ -40401,7 +40330,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$378 \ \text{cm} ^ 2$
+$126 \ \text{cm} ^ 2$
 
 </div>
 </div>
@@ -41052,7 +40981,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tcircle
@@ -41707,16 +41636,7 @@ $4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tprofit
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -41773,9 +41693,6 @@ $\pounds 75$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -41883,7 +41800,7 @@ $\pounds 1.40$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -42047,7 +41964,7 @@ $35 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BE673146-6558-409C-B19C-DD7DE3740A33</p>
 </div>
@@ -42102,7 +42019,7 @@ $\dfrac {2} {3}$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -42518,9 +42435,6 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -42770,13 +42684,7 @@ $3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
+tnumber
 </li>
 </ul>
 </div>
@@ -43131,7 +43039,7 @@ $40 \text{p}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>

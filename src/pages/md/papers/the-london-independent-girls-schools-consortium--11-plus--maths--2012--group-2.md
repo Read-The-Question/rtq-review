@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -11,7 +11,7 @@ date: 2022-05-30 23:47:59
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
@@ -280,7 +280,7 @@ Write the next two numbers in each sequence:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -402,12 +402,6 @@ $16, \ 22$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 talgebra
 </li>
@@ -633,7 +627,7 @@ Fill in the boxes below
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -759,7 +753,7 @@ $152$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>23036B78-59C9-4958-A9D7-2BEF6461A408</p>
 </div>
@@ -795,7 +789,7 @@ He buys as many pineapples as he can with his $\pounds 10$ note.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -871,7 +865,7 @@ $12 \text{p}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -925,7 +919,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1093,7 +1087,7 @@ At the same time, the temperature in Tropical Town was $20 \degree \text{C}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1219,7 +1213,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1259,7 +1253,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -1401,9 +1395,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1614,7 +1605,7 @@ $4$ eggs
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1867,7 +1858,7 @@ $
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1893,7 +1884,7 @@ Put all $4$ cards together to make
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2074,7 +2065,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2201,7 +2192,7 @@ In each part below, circle the most sensible unit to measure
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2381,7 +2372,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2562,10 +2553,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2590,7 +2578,7 @@ Below are some shapes drawn on a centimetre-squared grid.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2649,7 +2637,7 @@ $14 \ \text{cm}$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2804,7 +2792,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2976,7 +2964,7 @@ Here is a pie chart showing her results:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3101,7 +3089,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3400,7 +3388,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3697,7 +3685,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3864,7 +3852,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D9392A40-884A-464D-8238-386B5F1D4905</p>
 </div>
@@ -3902,7 +3890,7 @@ When Helen hangs out her washing on the line, she always uses $3$ pegs for a shi
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4040,7 +4028,7 @@ $13, \ 13$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -4082,7 +4070,7 @@ The time in Addis Ababa is $2 \ \text{hours}$ ahead of the time in London.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4132,8 +4120,9 @@ When it is $12.37$ in New York, what time is it in Addis Ababa?
 
 $
 \begin{aligned}
-\text{Time in Addis Ababa} &= 12{:}37 - 3 \\\\
-                           &= 9{:}37
+\text{Time in Addis Ababa} &= 12{:}37 + 5 + 2 \\\\
+                           &= 12{:}37 + 7 \\\\
+                           &= 19{:}37
 \end{aligned}
 $
 
@@ -4142,7 +4131,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9{:}37$
+$19{:}37$
 
 </div>
 </div>
@@ -4169,20 +4158,20 @@ At what time and on which day does it arrive in New York?
 
 $
 \begin{aligned}
-\text{Time at which it arrives in New York} &= 19{:}00 + 14 - 3 \\\\
-                                            &= 19{:}00 + 11 \\\\
-                                            &= 6{:}00
+\text{Time at which it arrives in New York} &= 19{:}00 + 14 - 7 \\\\
+                                            &= 19{:}00 + 7 \\\\
+                                            &= 2{:}00
 \end{aligned}
 $
 
-It arrives on Wednesday at $6{:}00$
+It arrives on Wednesday at $2{:}00$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Wednesday}, \ 6{:}00$
+$\text{Wednesday}, \ 2{:}00$
 
 </div>
 </div>
@@ -4274,7 +4263,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4292,24 +4281,17 @@ What area of red card is showing?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text {Length of the red card} &= 15 + 3 + 3
-                               &= 21 \ \text{cm}
-\end{aligned} 
-$
+$\text{Area} = \text{length} \times \text{width}$
 
 $
 \begin{aligned}
-\text {Width of the red card}  &= 12 + 3 + 3
-                               &= 18 \ \text{cm}
-\end{aligned} 
-$
-
-$
-\begin{aligned}
-\text {Area of the red card}  &= 21 \times 18 \\\\
-                              &= 378 \ \text{cm} ^ 2
+\text{Area of the red card} &= \text{Area of left and right border} + \text{Area of top and bottom border} \\\\
+                            &= 2 \times \text{Area of left border} + 2 \times \text{Area of top border} \\\\
+                            &= 2 \times (15 - 3 - 3) \times 3 + 2 \times 12 \times 3 \\\\
+                            &= 6 \times (15 - 6) + 24 \times 3 \\\\
+                            &= 6 \times 9 + 72 \\\\
+                            &= 54 + 72 \\\\
+                            &= 126 \ \text{cm} ^ 2
 \end{aligned} 
 $
 
@@ -4318,7 +4300,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$378 \ \text{cm} ^ 2$
+$126 \ \text{cm} ^ 2$
 
 </div>
 </div>
@@ -4371,7 +4353,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

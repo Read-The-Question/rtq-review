@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -261,7 +261,7 @@ $80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>51895EF4-90DD-4CC5-B028-99ED8D291204</p>
 </div>
@@ -299,7 +299,7 @@ $0.7$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1405,7 +1405,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE</p>
 </div>
@@ -1461,7 +1461,7 @@ $\dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -1776,9 +1776,6 @@ $\pounds 4.54$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1835,7 +1832,7 @@ $1430$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1938,7 +1935,7 @@ $\dfrac {19} {10}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2212,7 +2209,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>

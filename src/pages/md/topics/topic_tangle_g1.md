@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-g1"
 title: "Topic - Angle - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1337,6 +1337,207 @@ $51 \degree$
 
 <div class='papername'>
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>3852614B-1AE4-4DBC-B778-EAC0383CA0FA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+This diagram shows two angles A and B. One is acute and one is obtuse. 
+
+Complete the statement below with the letter A or B.
+
+![missing image](/papers/missing_image.svg)
+
+The acute angle is _______________
+
+The obtuse angle is ______________
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The acute angle is $B$.
+
+The obtuse angle is $A$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+The acute angle is $B$.
+
+The obtuse angle is $A$.
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many degrees are there in a right angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$90 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the missing angles (diagrams not to scale):
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 100 + 30 &= 180 \\\\
+a + 130      &= 180 \\\\
+a            &= 180 - 130 \\\\
+a            &= 50 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+$
+\begin{aligned}
+a + b        &= 180 \\\\
+50 + b       &= 180 \\\\
+b            &= 180 - 50 \\\\
+b            &= 130 \degree
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
+
+$
+\begin{aligned}
+c + 62 + 90  &= 180 \\\\
+c + 152      &= 180 \\\\
+c            &= 180 - 152 \\\\
+c            &= 28 \degree
+\end{aligned}
+$
+
+The value of $d$ will also be equal to $28$ because they are opposite angles.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50 \degree, \ 130 \degree$
+
+</div>
+<div class='answer'>
+
+$28 \degree, \ 28 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -3248,6 +3449,77 @@ $40 \degree$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One of the angles in a triangle is $40 \degree$. One of the remaining two angles is three times larger than the other angle. What is the largest angle in the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the smaller angle $= a$
+
+As per the question, the second angle $= 3a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 3a + 40 \degree     &= 180 \degree \\\\
+4a + 40                 &= 180  \\\\
+4a                      &= 180 - 40  \\\\
+4a                      &= 140  \\\\
+a                       &= \dfrac {140} {4}  \\\\
+a                       &= \dfrac {35 \times 4} {4}  \\\\
+a                       &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
+a                       &= 35 \degree
+\end{aligned}
+$
+
+We know the size of the third angle now.
+However, we need to find the largest angle which is the second angle.
+
+$
+\begin{aligned}
+\text{Largest angle}         &= 3a  \\\\
+                             &= 3 \times 35  \\\\
+                             &= 105  \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$105 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

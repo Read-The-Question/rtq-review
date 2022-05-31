@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-all"
 title: "Topic - Order - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2045,7 +2045,7 @@ $0.067, \quad 0.106, \quad 0.161, \quad 0.601$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE</p>
 </div>
@@ -2101,7 +2101,7 @@ $\dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_g1</p>
 </div>
 </div>
 </li>
@@ -3087,7 +3087,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>94482E8F-6F8C-4F2F-9BC0-B991B1CFBDB9</p>
 </div>
@@ -3126,7 +3126,7 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -3305,7 +3305,7 @@ $0.04, \quad 0.042, \quad 0.204, \quad 0.24, \quad 0.40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>DBECDDB1-535A-40FF-A1A8-ACD4A67D5EC9</p>
 </div>
@@ -3441,7 +3441,7 @@ $-13$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -4634,7 +4634,7 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>44A7CEDA-D2B0-4146-96A4-531150F642F1</p>
 </div>
@@ -4687,7 +4687,7 @@ $\boxed {\dfrac {5} {6}} \quad \boxed {\dfrac {4} {5}} \quad \boxed {70\%} \quad
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -5054,7 +5054,7 @@ $0.015  \ < \quad  0.1  \ < \quad  0.101  \ < \quad  0.105   \ < \quad 0.11   \ 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>8B6FD361-A184-4175-AE28-7BB1566311AB</p>
 </div>
@@ -5182,7 +5182,7 @@ $\dfrac {2} {5}, \quad 0.467, \quad 48\%, \quad \dfrac {1} {2}, \quad 0.55$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -6615,7 +6615,7 @@ $\dfrac{3}{4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BE673146-6558-409C-B19C-DD7DE3740A33</p>
 </div>
@@ -6670,7 +6670,7 @@ $\dfrac {2} {3}$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

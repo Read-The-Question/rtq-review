@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -894,7 +894,7 @@ $11\degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_g1 question'>
 <div class='uuid'>
 <p>8B6FD361-A184-4175-AE28-7BB1566311AB</p>
 </div>
@@ -1022,7 +1022,7 @@ $\dfrac {2} {5}, \quad 0.467, \quad 48\%, \quad \dfrac {1} {2}, \quad 0.55$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_g1</p>
 </div>
 </div>
 </li>
@@ -1434,7 +1434,7 @@ $43, 37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>143C7006-44B5-49D4-BF75-6AB0ECEAF105</p>
 </div>
@@ -1588,7 +1588,7 @@ $11$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -2531,10 +2531,7 @@ $156$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2594,7 +2591,7 @@ $63 \text{m}^2, 32 \text {m}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2914,9 +2911,6 @@ $29$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -3596,7 +3590,7 @@ $103$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>06CD3DA8-2B58-436D-A89E-76C09A15DD66</p>
 </div>
@@ -3634,7 +3628,7 @@ $13$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>

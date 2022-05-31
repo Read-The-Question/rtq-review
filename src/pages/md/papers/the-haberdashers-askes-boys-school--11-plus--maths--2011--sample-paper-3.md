@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -499,7 +499,7 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>42B09AC3-796B-4A16-B123-5A18D316FA38</p>
 </div>
@@ -523,6 +523,20 @@ $10{:}30 \ \text{am}$ to $4{:}30 \ \text{pm}$ on Sundays. For how many hours doe
 <div class='working'>
 
 As per the question,
+
+$
+\begin{aligned}
+\text{Opening hours from Monday to Saturday} &= 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} \\\\
+                                             &= 14 \ \text{hours}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Opening hours on Sunday} &= 4{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
+                               &= 6 \ \text{hours}
+\end{aligned}
+$
 
 Number of hours from Monday to Saturday $= 14 \times 6$
 
@@ -550,7 +564,7 @@ $90 \ \text {hours}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2666,7 +2680,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tinfer

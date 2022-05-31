@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2019-sample-paper-10"
 title: "Sevenoaks School - 11 Plus - Maths - 2019 - Sample Paper 10"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -181,7 +181,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>105EE389-55BC-40FE-B8E3-BEF5386BE7DE</p>
 </div>
@@ -406,7 +406,7 @@ $64$
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -684,7 +684,7 @@ $7 \dfrac{7}{12}$ or $\dfrac{91}{12}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>44A7CEDA-D2B0-4146-96A4-531150F642F1</p>
 </div>
@@ -737,7 +737,7 @@ $\boxed {\dfrac {5} {6}} \quad \boxed {\dfrac {4} {5}} \quad \boxed {70\%} \quad
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -1311,7 +1311,7 @@ $
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1558,7 +1558,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

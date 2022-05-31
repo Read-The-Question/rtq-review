@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-8"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 8"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -699,9 +699,6 @@ $610$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -771,7 +768,7 @@ tunassigned
 tratio
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>

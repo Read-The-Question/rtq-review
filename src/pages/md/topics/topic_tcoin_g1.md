@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-g1"
 title: "Topic - Coin - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -108,7 +108,7 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>53399A4A-DF80-4EFD-BEC4-3F8DC5B49C23</p>
 </div>
@@ -132,13 +132,7 @@ There is a number of coins on a table. One quarter of them are showing heads. If
 
 Let the number of coins on the table $= c$
 
-Number of coins showing head $= \dfrac {c} {4}$
-
-After turning $2$ more coins on head, i.e., $\dfrac {c} {4} + 2 $
-
-Number of coins showing heads changes to $=\dfrac {c} {3}$ 
-
-Let's form an equation, 
+As per the question,
 
 $
 \begin{aligned}
@@ -169,7 +163,7 @@ $24$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_g1</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -289,6 +283,78 @@ $278$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>E41C3B84-B13C-4220-B083-2712C0B5265C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sum of $90$ pence is made up of equal numbers of $1 \text{p}$ coins, $2 \text{p}$ coins, $5 \text{p}$ coins and $10 \text{p}$ coins. How many coins are there in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of coins of each denomination $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+1 \times c + 2 \times c + 5 \times c + 10 \times c       &= 90\\\\
+c + 2c + 5c + 10c                                        &= 90 \\\\
+18c                                                      &= 90 \\\\
+c                                                        &= \dfrac {90} {18} \\\\
+c                                                        &= \dfrac {5 \times 18} { 18} \\\\
+c                                                        &= \dfrac {5 \times \cancel{18}} { \cancel{18} } \\\\
+c                                                        &= 5
+\end{aligned}
+$
+
+There are $5$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}     &=  5 \times 4  \\\\
+                       &= 20 \ \text{coins}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text{coins}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

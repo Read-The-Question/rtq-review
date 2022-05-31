@@ -1,7 +1,7 @@
 ---
 slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
 title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -324,10 +324,7 @@ $26$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -341,22 +338,28 @@ Find the perimeter and area of this shape:
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text {Perimeter} &= 6 + 5 + 9 + 4 \\\\
-                  &= 24 \text {cm}
-\end{aligned}
-$
+The shape is a trapezium. So,
 
 $
 \begin{aligned}
-\text {Area} &= \text {Area of rectangle} + \text {Area of triangle} \\\\
-             &= \text {length} \times \text {width} + \dfrac {1} {2} \times \text {base} \times \text {height} \\\\
-             &= 6 \times 4 + \dfrac {1} {2} \times 3 \times 4 \\\\
-             &= 24 + \dfrac {3 \times 2 \times 2} {2} \\\\
-             &= 24 + \dfrac {3 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
-             &= 24 + 6 \\\\
-             &= 30 \text {cm}^2
+\text {Perimeter} &= 6 + 5 + 9 + 4 \\\\
+                  &= 24 \ \text {cm}
+\end{aligned}
+$
+
+Let the parallel sides of trapezium $= a, b$
+
+And let height of trapezium $= h$
+
+$
+\begin{aligned}
+\text {Area of trapezium} &= \dfrac {a + b} {2} \times h \\\\
+                          &= \dfrac {6 + 9} {2} \times 4 \\\\
+                          &= \dfrac {15 \times 4} {2} \\\\
+                          &= \dfrac {15 \times 2 \times 2} {2} \\\\
+                          &= \dfrac {15 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                          &= 15 \times 2 \\\\
+                          &= 30 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -365,7 +368,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24 \text {cm}, \ 30 \text {cm}^2$
+$24 \ \text {cm}, \ 30 \ \text {cm}^2$
 
 </div>
 </div>
@@ -652,7 +655,7 @@ $\pounds 28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
 </div>
@@ -711,14 +714,14 @@ As per the diagram,
 
 $
 \begin{aligned}
-c + 62 + 90 &= 180 \\\\
+c + 62 + 90  &= 180 \\\\
 c + 152      &= 180 \\\\
 c            &= 180 - 152 \\\\
 c            &= 28 \degree
 \end{aligned}
 $
 
-The value of d will also be equal to 28 because they are opposite angles
+The value of $d$ will also be equal to $28$ because they are opposite angles.
 
 </div>
 </div>
@@ -739,7 +742,7 @@ $28 \degree, \ 28 \degree$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1713,9 +1716,6 @@ $60 \%,  \quad 0.66, \quad \dfrac {2} {3}, \quad \dfrac {17} {25}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tstatistics
 </li>

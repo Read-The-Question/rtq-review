@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-g1"
 title: "Topic - Percentage - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -113,6 +113,126 @@ $85 \%$
 </div>
 <div class='rag'>
 <p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>416925A5-F078-4A2D-BB8E-871E9D3B167B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $5 \%$ of $360$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5\% \text { of } 360 \\\\
+&= \dfrac {5} {100} \times 360 \\\\
+&= \dfrac {5 \times 360} {100} \\\\
+&= \dfrac {5 \times 2 \times 18 \times 10} {2 \times 5 \times 10} \\\\
+&= \dfrac {\cancel {5} \times \cancel {2} \times 18 \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+&= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $15 \%$ of $360$.
+
+You can use part (a) to help you.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 15\% \text { of } 360 \\\\
+&= \dfrac {15} {100} \times 360 \\\\
+&= \dfrac {15 \times 360} {100} \\\\
+&= \dfrac {5 \times 3 \times 2 \times 18 \times 10} {2 \times 5 \times 10} \\\\
+&= \dfrac {\cancel {5} \times 3 \times \cancel {2} \times 18 \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+&= 54
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1713,64 +1833,6 @@ $\pounds 212$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>1B75D1B9-5669-4840-977E-AF67A1065F16</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-To make porridge, Goldilocks mixes $3$ bags of oats with $1$ bag containing $20\%$ wheat bran and $80\%$ oats. 
-All the bags have the same volume. What percentage of the porridge mix is wheat bran?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Percentage} &= 3 \times 20 \% \\\\
-                  &= 3 \times \dfrac {20} {100} \\\\
-                  &= \dfrac {20 \times 3} {100} \\\\
-                  &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
-                  &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
-                  &= \dfrac {3} {5} \\\\
-                  &= 0.6 \times 100 \\\\
-                  &= 60 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60 \%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ks_g1 question'>
 <div class='uuid'>
 <p>55EE8A7B-471C-4247-BC0B-6023B61F7656</p>
@@ -3253,73 +3315,6 @@ $28 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>123B050C-DB35-4294-97F0-0DCBAFF89F1E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tprofit
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-*"Comfyclothes"* in the Arndale Centre reduces its prices by $20 \%$ in its winter sale. Ian bought a coat for $\pounds 60$ in the sale. 
-
-How much would it have cost before the sale started?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the original price $= p$
-
-Sale price $= 80 \%$ of the original price.
-
-As per the question,
-
-$
-\begin{aligned}
-80\% \text{ of } p              &= 60 \\\\
-\dfrac {80 } { 100 } \times p   &= 60 \\\\
-p                               &= \dfrac {60 \times 100 } { 80 } \\\\
-p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\
-p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\
-p                               &= 3 \times 25 \\\\
-p                               &= \pounds 75
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 75$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>BB8814B0-A089-4B86-80BD-8BE739CA4A8C</p>
@@ -3494,6 +3489,248 @@ $\text{Both are equal}$
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Percentages**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the missing numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$50\%$ of $80$ =
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 50\% \ \text{of} \ 80 \\\\
+&= \dfrac {50} {100} \times 80 \\\\
+&= \dfrac {50 \times 80}{100}  \\\\
+&= \dfrac {5 \cancel {0} \times 8 \cancel {0}} {1 \cancel {0} \cancel {0}}  \\\\
+&= 5 \times 8 \\\\
+&= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$5\%$ of $80$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using previous answer
+
+$50\% \ \text{of} \ 80 = 40$ ,
+
+$
+\begin{aligned}
+&= 5\% \ \text{of} \ 80 \\\\
+&= \dfrac {5\% \times 10} {1 \times 10} \times 80 \\\\
+&= \dfrac {50\% \times 80} {100}  \\\\
+&= \dfrac {40}{10} \\\\
+&= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
+&= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$1\%$ of $80$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using previous answer
+
+$5\% \ \text{of} \ 80 = 4$ ,
+
+$
+\begin{aligned}
+&= 1\% \text{ of } 80 \\\\
+&= \dfrac {1\% \times 5} {1 \times 5} \times 80 \\\\
+&= \dfrac {5 \%}{5} \times 80  \\\\
+&= \dfrac {5\% \times 80} {5} \\\\
+&= \dfrac {4} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{4}{5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $56\%$ of $80$
+
+You can use part (a) to help you.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using previous answers
+
+$50\% \ \text{of} \ 8 = 40$
+
+$5\% \ \text{of} \ 8 = 4$
+
+$1\% \ \text{of} \ 8 = \dfrac {4} {5}$
+
+$
+\begin{aligned}
+&= 56\% \text{ of } 80 \\\\
+&= (50\% + 5\% + 1\%) \times 80 \\\\
+&= 50\% \times 80 + 5\% \times 80 + 1\% \times 80 \\\\
+&= 40 + 4 + \dfrac {4} {5}  \\\\
+&= 44 + \dfrac {4} {5}  \\\\
+&= \dfrac {44 \times 5} {1 \times 5} + \dfrac {4} {5} \\\\
+&= \dfrac {220} {5} + \dfrac {4} {5} \\\\
+&= \dfrac {220 + 4} {5} \\\\
+&= \dfrac {224} {5} \\\\
+&= 44 \dfrac {4} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44 \dfrac {4} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

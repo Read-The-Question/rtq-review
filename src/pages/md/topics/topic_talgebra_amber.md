@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-amber"
 title: "Topic - Algebra - Amber"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -261,12 +261,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -389,13 +383,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -748,10 +736,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -955,66 +940,6 @@ $81$
 </div>
 <div class='rag'>
 <p>rag_ad_amber</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ks_amber question'>
-<div class='uuid'>
-<p>F4C49E6C-6442-483E-A6A8-7B917E8F9472</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tratio
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a class the ratio of boys to girls is 3 : 5.
-
-If there are $6$ less boys than girls, how any pupils are in the class in total? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{let the number of boys = x, and number of girls=y}
-y                                                               &= \dfrac{5x}{3} \\\\
-x + 6                                                           &= y \\\\
-x + 6                                                           &= \dfrac{5x}{3} \\\\
-x - \dfrac{5x}{3}                                               &= -6 \\\\
-\dfrac{3x - 5x}{3}                                              &= -6 \\\\
-\dfrac{-2x}{3}                                                  &= \dfrac{-6 \times 3}{-2} \\\\ 
-x                                                               &= 9
-
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
-</div>
-<div class='rag'>
-<p>rag_ks_amber</p>
 </div>
 </div>
 </li>
@@ -1269,9 +1194,6 @@ $24 \ \text{coins}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1386,9 +1308,6 @@ $\pounds 120$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

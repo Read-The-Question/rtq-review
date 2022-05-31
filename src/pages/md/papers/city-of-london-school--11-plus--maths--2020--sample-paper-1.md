@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2020-sample-paper-1"
 title: "City Of London School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-30 23:47:59
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>AF9C3C70-A6C3-43E8-B655-896DA47448FB</p>
 </div>
@@ -125,7 +125,7 @@ $27400, 169, 7, 5, 64, 0.8, 1634$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
@@ -1082,7 +1082,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>37241372-32CF-4C98-A54E-BBD279C33AA8</p>
 </div>
@@ -1092,10 +1092,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1164,7 +1161,7 @@ $400 \text{ cm}^2$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
@@ -1367,10 +1364,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1481,7 +1475,7 @@ $7.5 \text { cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>88578F99-F6DE-4070-9731-34BD962C4B0A</p>
 </div>
@@ -1593,7 +1587,7 @@ $130 \text{ cm}$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
@@ -2091,11 +2085,9 @@ As per the question,
 
 $
 \begin{aligned}
-&= 233343 \div 99 \\\\
-&= \dfrac {233343} {99} \\\\
-&=  \dfrac {2357 \times 99} {99} \\\\
-&=  \dfrac {2357 \times \cancel {99} } {\cancel {99} } \\\\
-&= 2357
+2357 \times 99 &= 233343 \\\\
+2357           &= 233343 \div 99 \\\\
+233343 \div 99 &= 2357
 \end{aligned}
 $
 
@@ -2127,10 +2119,9 @@ $235.7 \times 99$
 
 $
 \begin{aligned}
-&= 235.7 \times 99 \\\\
-&= (\dfrac {2357 \times 99} {10} )\\\\
-&= \dfrac {233343} {10} \\\\
-&= 23334.3
+2357 \times 99                               &= 233343 \\\\
+\dfrac {2357} {10} \times 99                 &= \dfrac {233343} {10} \\\\
+235.7 \times 99                              &= 23334.3
 \end{aligned}
 $
 

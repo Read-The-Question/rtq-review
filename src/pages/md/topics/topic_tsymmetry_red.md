@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsymmetry-red"
 title: "Topic - Symmetry - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -306,7 +306,7 @@ $3$ lines of symmetry have been drawn on this equilateral triangle, dividing it 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdraw-g1"
 title: "Topic - Draw - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -18,10 +18,7 @@ tunassigned
 tdraw
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -275,6 +272,67 @@ $1610.344$
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>37C2EF16-4356-40F4-BE05-0A1854428588</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tareaperimeter
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the area of this shape?
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We can divide the shape into $2$ rectangle as per the diagram shown below.
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of the shape} &= \text {Area of Rectangle 1} + \text {Area of Rectangle 2} \\\\
+                          &= 24 \times 11 + 7 \times 4 \\\\
+                          &= 264 + 28 \\\\
+                          &= 292 \ \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$292 \ \text {cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

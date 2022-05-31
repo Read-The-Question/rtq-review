@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-05-30 23:47:59
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>D29C2F36-7EB5-46B2-8EF3-61D8FC17FEFD</p>
 </div>
@@ -41,21 +41,30 @@ $6 \times \boxed{\phantom{111}} = 96$
 <div class='workings'>
 <div class='working'>
 
-Mising number $= 212 -121$
-$= 91$
+Let the missing number $= a$
 
-$\boxed{78}+ 121 = 212$
+As per the question,
 
-Missing number $
+$
 \begin{aligned}
-&= \dfrac{96} {6} \\\\
-&= \dfrac{6 \times 16} {6} \\\\
-&= \dfrac{\cancel{6} \times 16} {\cancel{6}} \\\\
-&= 16
+a + 121 &= 212 \\\\
+a       &= 91
 \end{aligned}
 $
 
-$6 \times \boxed{16} = 96$
+Let the missing number $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+6 \times b &= 96 \\\\
+b          &= \dfrac {96} {6} \\\\
+b          &= \dfrac {6 \times 16} {6} \\\\
+b          &= \dfrac {\cancel {6} \times 16} {\cancel {6}} \\\\
+b          &= 16
+\end{aligned}
+$
 
 </div>
 </div>
@@ -71,7 +80,7 @@ $91, 16$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -134,7 +143,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>B7931AAD-CC40-434A-B67C-9F5D390398BC</p>
 </div>
@@ -185,7 +194,7 @@ $\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -458,7 +467,7 @@ $\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>FB54FC28-0CE7-4805-A51B-22A1806749EC</p>
 </div>
@@ -468,7 +477,7 @@ $\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {
 tnumber
 </li>
 <li>
-tcircleanswer
+tcircle
 </li>
 </ul>
 </div>
@@ -486,11 +495,9 @@ Let's convert all the frations into decimals.
 
 $
 \begin{aligned}
-2 \dfrac{1}{2}      &= \dfrac{5}{2} = 2.5 \\\\
-2 \dfrac{1}{7}      &= \dfrac{15}{7} = 2.14 \\\\
-2 \dfrac{6}{11}     &= \dfrac{28}{11} = 2.55 \\\\
-2 \dfrac{2}{5}      &= \dfrac{12}{5} = 2.4 \\\\
-2 \dfrac{1}{10}     &= \dfrac{21}{10} = 2.1 \\\\
+&= 2 \dfrac {1} {2} \quad 2 \dfrac {1} {7} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5} \quad 2 \dfrac {1} {10} \\\\
+&= \dfrac {5} {2} \quad \dfrac {15} {7} \quad \dfrac {28} {11} \quad \dfrac {12} {5} \quad \dfrac {21} {10} \\\\
+&= 2.5 \quad \dfrac 2.14 \quad \dfrac 2.55 \quad 2.4 \quad 2.1
 \end{aligned}
 $
 
@@ -499,7 +506,7 @@ Numbers between $2.2$ and $2.6$
 $
 \begin{aligned}
 &= 2.5, \quad 2.55, \quad 2.4 \\\\
-&= 2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}
+&= 2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}
 \end{aligned}
 $
 
@@ -508,7 +515,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}$
+$2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 
 </div>
 </div>
@@ -517,7 +524,7 @@ $2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -764,13 +771,7 @@ $315, 240$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -935,7 +936,7 @@ $17 \ \text {p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4D8E25F8-9D3B-41E4-A587-01F4188FD3F2</p>
 </div>
@@ -962,30 +963,35 @@ How much money did each have at the start?
 
 Let the money with Alysha $= a \pounds$
 
-As per the question,
+Let the money with Julia $= b \pounds$
 
-Money with Julia $= 3.2 - a$
-
-Alysha gives $20 \text{p} = 0.2 \pounds$ to Julia to have same amount.
+As per the question, at the end they have same amount. So at the end,
 
 $
 \begin{aligned}
-a - 0.2     &= 3.2 - a + 0.2 \\\\
-a           &= 3.6 - a \\\\
-2a          &= 3.6 \\\\
-a           &= \dfrac{3.6}{2} \\\\
-a           &= \dfrac{36}{20} \\\\
-a           &= \dfrac{18 \times 2}{10 \times 2} \\\\
-a           &= \dfrac{18 \times \cancel{2}}{10 \times \cancel{2}} \\\\
-a           &= \dfrac{18}{10} \\\\
-a           &= \pounds 1.8
+a + b       &= \pounds 3.20 \\\\
+2 \times a  &= 3.20 \\\\
+a           &= dfrac {3.20} {2} \\\\
+a           &= \pounds 1.60
 \end{aligned}
 $
 
-Money with Alysha $= \pounds 1.8$
+Alysha gave Julia 20 \text{p} 20 p. So at start,
 
-Money with Julia $= 3.2 - 1.8 = \pounds 1.4$
+$
+\begin{aligned}
+a + b                             &= \pounds 3. 20 \\\\
+\pounds 1.60 + 0.20 \text {p} + b &= \pounds 3. 20 \\\\
+b                                 &= 3.20 - 1.80 \\\\
+b                                 &= \pounds 1.40
+\end{aligned}
+$
 
+At the start, 
+
+The money Alysha had $= \pounds 1.80$.
+
+The money Julia had $= \pounds 1.40$.
 
 </div>
 </div>
@@ -1001,7 +1007,7 @@ $\pounds 1.8, \pounds 1.4$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -1198,9 +1204,6 @@ $45, 53$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1325,9 +1328,6 @@ $42 \ \text{coins}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2110,13 +2110,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>

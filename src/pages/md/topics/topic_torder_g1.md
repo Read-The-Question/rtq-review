@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-g1"
 title: "Topic - Order - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1054,6 +1054,67 @@ $0.067, \quad 0.106, \quad 0.161, \quad 0.601$
 <div class='answer'>
 
 $0.067, \quad 0.106, \quad 0.161, \quad 0.601$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put these fractions in size order, smallest to largest
+
+$\dfrac {1} {2}, \dfrac {1} {4} , \dfrac {1} {8} , \dfrac {3} {4} , \dfrac {3} {8}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $2, 4, 8 = 8$
+
+$
+\begin{aligned}
+&= \dfrac {1} {2}, \quad \dfrac {1} {4}, \quad \dfrac {1} {8}, \quad \dfrac {3} {4}, \quad \dfrac {3} {8} \\\\
+&= \dfrac {1 \times 4} {2 \times 4}, \quad \dfrac {1 \times 2} {4 \times 2}, \quad \dfrac {1} {8}, \quad \dfrac {3 \times 2} {4 \times 2}, \quad \dfrac {3} {8} \\\\
+&= \dfrac {4} {8}, \quad \dfrac {2} {8}, \quad \dfrac {1} {8}, \quad \dfrac {6} {8}, \quad \dfrac {3} {8}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac {6} {8}, \quad \dfrac {4} {8}, \quad \dfrac {3} {8}, \quad \dfrac {2} {8}, \quad \dfrac {1} {8} \\\\
+&= \dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4}, \quad \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4}, \quad \dfrac {1} {2}$
 
 </div>
 </div>
@@ -2478,6 +2539,139 @@ $0.2, \quad 0.21, \quad \dfrac {3} {10}, \quad 0.36, \quad \dfrac {37} {100}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ej_g1 question'>
+<div class='uuid'>
+<p>8B6FD361-A184-4175-AE28-7BB1566311AB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the following in order of size, smallest first 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2.34\:\:\:  2.4\:\:\:   3.42\:\:\:   2.43\:\:\:   4.3\:\:\:$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Since all values ae in similar form i.e. decimal 
+
+So, we can write directly in acending order
+
+$
+2.34\:\:\:  2.4\:\:\:   2.43\:\:\:   3.42\:\:\:   4.3\:\:\:
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$ 2.34\:\:\:  2.4\:\:\:   2.43\:\:\:   3.42\:\:\:   4.3\:\:\: $
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{2}\:\:\:    0.55\:\:\:   48\%\:\:\:     \dfrac{2}{5}\:\:\:       0.467$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+In this case, there are more fractions, so let's convert all the numbers into fractions.
+$
+\begin{aligned}
+&= \dfrac {1} {2}, \quad 0.55, \quad 48\%, \quad \dfrac {2} {5}, \quad 0.467 \\\\
+&= \dfrac {1} {2}, \quad \dfrac {55} {100}, \quad \dfrac {48} {100}, \quad \dfrac {2} {5}, \quad \dfrac {467} {1000}
+\end{aligned}
+$
+
+LCM for $2, 100, 100, 5, 1000 = 1000$
+
+Let's use the LCM result to make the denominator the same for all the fractions. 
+$
+\begin{aligned}
+&= \dfrac {1 \times 500} {2 \times 500}, \quad \dfrac {55 \times 10} {100 \times 10}, \quad \dfrac {48 \times 10} {100 \times 10}, \quad \dfrac {2 \times 200} {5 \times 200}, \quad \dfrac {467 } {1000 } \\\\
+&= \dfrac {500} {1000}, \quad \dfrac {550} {1000}, \quad \dfrac {480} {1000}, \quad \dfrac {400} {1000}, \quad \dfrac {467} {1000}
+\end{aligned}
+$
+
+Now let's put them in ascending order.
+
+$
+\begin{aligned}
+&= \dfrac {400} {1000}, \quad \dfrac {467} {1000}, \quad \dfrac {480} {1000}, \quad \dfrac {500} {1000}, \quad \dfrac {550} {1000} \\\\
+\end{aligned}
+$
+
+$
+&= \dfrac {2} {5}, \quad 0.467, \quad 48\%, \quad \dfrac {1} {2}, \quad 0.55 
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {5}, \quad 0.467, \quad 48\%, \quad \dfrac {1} {2}, \quad 0.55$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ej_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>EBCA6760-D0CE-4FA4-BA50-308D963A2254</p>
@@ -3175,6 +3369,66 @@ $\dfrac{3}{4}$
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>BE673146-6558-409C-B19C-DD7DE3740A33</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If the following numbers were put in order which number would be in the middle?
+
+$0.66, \quad \dfrac{3}{4}, \quad 70\%, \quad \dfrac{2}{3}, \quad \dfrac{6}{10}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert all the numbers into decimals.
+
+$
+\begin{aligned}
+&= 0.66, \quad \dfrac {3} {4}, \quad 70\%, \quad \dfrac {2} {3}, \quad \dfrac {6} {10} \\\\
+&= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60
+\end{aligned}
+$
+
+Now let's put them in ascending order.
+
+$
+\begin{aligned}
+&= 0.60, \quad 0.66, \quad 0.666, \quad  0.70, \quad 0.75 \\\\
+&= \dfrac {6} {10}, \quad 0.66, \quad \dfrac {2} {3}, \quad 70 \%, \quad \dfrac {3} {4}
+\end{aligned}
+$
+
+The number in the middle $= \dfrac {2} {3}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {3}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

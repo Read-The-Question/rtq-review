@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1176,7 +1176,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>5A02BFDB-4654-4CDA-8AB3-4762789C5789</p>
 </div>
@@ -1234,7 +1234,7 @@ $\dfrac {8} {9}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -1249,7 +1249,7 @@ $\dfrac {8} {9}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1451,7 +1451,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>43EF5D79-3FD1-422A-BD9F-D7DC37283EA9</p>
 </div>
@@ -1508,7 +1508,7 @@ $189 \text{p}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -1764,9 +1764,6 @@ $\pounds 38.75$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1930,7 +1927,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2003,7 +2000,7 @@ $40 \ \text{cm}^2$
 tratio
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2194,9 +2191,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

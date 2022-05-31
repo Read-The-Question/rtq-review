@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-g1"
 title: "Topic - Unitprompt - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -793,10 +793,7 @@ $85 \ \text {pence}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tunitprompt
@@ -1039,6 +1036,118 @@ $\pounds 15$
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>F4D77903-BECE-4A44-88EA-1781F5A261B0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Gavin buys four bottles of cola at $\pounds 1.09$ each and $8$ chocolate bars at $62 \text{p}$. How much change should he receive from a ten-pound note? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+
+Price of Cola $= \pounds 1.09$
+
+Price of $8$ Chocolate bars $= 62 \text{p}$
+
+$
+\begin{aligned}
+\text {Change received} &= \pounds 10 - (\text{Cost of cola} + \text{Cost of chocolate bars}) \\\\
+                        &= \pounds 10 - (4 \times \pounds 1.09 + 62 \text{p}) \\\\
+                        &= \pounds 10 - (\pounds 4.36 + \pounds 0.62) \\\\
+                        &= 10 - 4.98 \\\\
+                        &= \pounds 5.02
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 5.02$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>3482F384-C0E0-4164-8CFD-2035B993DC4E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunitprompt
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3$ masses are measured to be $720 \ \text{g}$, $3.46 \ \text{kg}$, and $2 \ \text{kg } 53 \ \text{g}$. 
+What is their total mass, give your answer in grams. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. Let's convert all the masses into $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total mass} &= 720 \ \text{g} + 3.46 \ \text{kg} + 2 \ \text{kg} \ 53 \ \text{g} \\\\
+                   &= 720 \ \text{g} + 3460 \ \text{g} + 2053 \ \text{g} \\\\
+                   &= 6233 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6233 \ \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1534,6 +1643,56 @@ $7400 \ \text{grams}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>AFF5896F-8064-498C-8114-C2B6BAFEF3AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many millimetres are there in a kilometre? 
+Give your answer in words.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \text { Kilometre}        &= 1000000 \ \text {millimetres} \\\\
+                            &= 10^6 \ \text {millimetres} \\\\
+                            &= \text {One million millimetres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+One million millimetres
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>ADEAD8D0-2747-44BF-901C-F26BADA4C02C</p>
@@ -1570,7 +1729,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1633,7 +1792,7 @@ Write down, in grams, the masses represented by the arrows on these scales.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -1921,7 +2080,7 @@ Ten calculators have a total mass of $1500 \ \text{g}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1981,7 +2140,7 @@ $150 \ \text{g}$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2172,7 +2331,7 @@ $2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tunitprompt
@@ -2230,15 +2389,84 @@ $135$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>E41C3B84-B13C-4220-B083-2712C0B5265C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sum of $90$ pence is made up of equal numbers of $1 \text{p}$ coins, $2 \text{p}$ coins, $5 \text{p}$ coins and $10 \text{p}$ coins. How many coins are there in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of coins of each denomination $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+1 \times c + 2 \times c + 5 \times c + 10 \times c       &= 90\\\\
+c + 2c + 5c + 10c                                        &= 90 \\\\
+18c                                                      &= 90 \\\\
+c                                                        &= \dfrac {90} {18} \\\\
+c                                                        &= \dfrac {5 \times 18} { 18} \\\\
+c                                                        &= \dfrac {5 \times \cancel{18}} { \cancel{18} } \\\\
+c                                                        &= 5
+\end{aligned}
+$
+
+There are $5$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}     &=  5 \times 4  \\\\
+                       &= 20 \ \text{coins}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text{coins}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>1A6AB009-2F49-47AF-BA34-6312AA658C67</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2374,6 +2602,67 @@ $16$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>4D18C421-3F30-45CC-ACE9-047E6EF86035</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ollie is making some small snacks for a party. He cuts 
+$1.2 \ \text{kg}$ of cheese into a number 
+of $15 \ \text{g}$ pieces.  How many pieces does he have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
+
+$
+\begin{aligned}
+\text{Number of pieces}     &= \dfrac {\text{Weight of cheese} } {\text{Weight of a piece}} \\\\
+                            &= \dfrac { 1.2 \ \text{kg} } { 15 \ \text{g}} \\\\
+                            &= \dfrac { 1.2 \times 1000 \ \text{g} } { 15 \ \text{g}} \\\\
+                            &= \dfrac { 1200 } { 15 } \\\\
+                            &= \dfrac {80 \times 15} {15} \\\\
+                            &= \dfrac {80 \times \cancel{15}} {\cancel{15}} \\\\
+                            &= 80
+\end{aligned}
+$
+
+Number of pieces $= 80$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>F990AB7B-48EF-4668-8814-D68C1917C568</p>
@@ -2429,6 +2718,207 @@ $231 \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_g1 question'>
+<div class='uuid'>
+<p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two bottles of water and three small bags of fruit cost a total of $\pounds 2.55$. If a bottle of water costs $15 \text{p}$ **more** than a bag of fruit, what is the cost of a bag of fruit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of a bottle of water (in pence) $= w$
+
+Let the cost of a bag of fruit (in pence) $= f$
+
+It is really important to use the right units in calculations and convert where required.
+
+The cost is given in pounds and pence. Let's convert all the costs into pence.
+
+As per the question,
+
+$
+\begin{aligned}
+2w + 3f      &= 255 \\\\
+w - f        &= 15
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+But which one should we eliminate? 
+
+If we look at the question again, we only need the 
+
+cost for a bag of fruit, so let's eliminate $w$ so we can directly calculate the value for $f$.
+
+Multiply the second equation by $2$.
+
+$
+\begin{aligned}
+w - f                           &= 15 \\\\
+w \times 2 - f  \times 2        &= 15 \times 2 \\\\
+2w - 2f                         &= 30
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2w + 3f             &= 255 \\\\
+2w - 2f             &= 30 \\\\
+2w + 3f - (2w - 2f) &= 255 - 30 \\\\
+2w + 3f - 2w + 2f   &= 225 \\\\
+5f                  &= 225 \\\\
+f                   &= \dfrac{225}{5} \\\\
+f                   &= 45 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bag of fruit $= 45 \ \text {pence}$.
+
+</div>
+<div class='working'>
+
+What if we eliminate $f$ instead?
+
+This approach is less efficient as we will have to calculate one extra value to get the answer.
+
+Let's eliminate to reduce it to just one variable. 
+
+Multiply the second equation by $3$.
+
+$
+\begin{aligned} 
+w - f                           &= 15 \\\\
+w \times 3 - f  \times 3        &= 15 \times 3 \\\\
+3w - 3f                         &= 45
+\end{aligned}
+$
+
+Add second equation to the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2w + 3f                 &= 255 \\\\
+3w - 3f                 &= 45 \\\\
+2w + 3f + (3w - 3f)     &= 255 + 45 \\\\
+2w + 3f + 3w - 3f       &= 300 \\\\
+5w                      &= 300 \\\\
+w                       &= \dfrac{300}{5} \\\\
+w                       &= 60 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bottle of water $= 60 \ \text{pence}$. 
+
+Let's substitute the value of $w$ in one of the initial equations to find the cost of a bag of fruit.
+
+$
+\begin{aligned} 
+w - f               &= 15 \\\\
+60 -f               &= 15 \\\\
+-f                  &= 15 - 60 \\\\
+-f                  &= -45 \\\\
+f                   &= 45 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bag of fruit $= 45 \ \text {pence}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45p$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>37279E76-7207-4B08-84B9-07B10F2972FD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add together $3.7\, metres$ and $64\, cm$ and then subtract $2\, metres$ $7\,cm$. Give your answer in metres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. The measurement is given in meters and centimeteres but the answer has to be in meters.
+
+$1 \ \text{m} = 100 \ \text{cm}$
+
+$\dfrac {1} {100} \ \text{m} = 1 \ \text{cm}$
+
+$
+\begin{aligned}
+&= 3.7 \ \text{m} + 64 \ \text{cm} - 2 \ \text {m} + 7 \ \text{cm}  \\\\
+&= 3.7 \ \text{m} + \dfrac {64} {100} \ \text{m} - 2 \ \text{m} + \dfrac {7} {100} \ \text{m} \\\\
+&= 3.7 \ \text{m} + 0.64 \ \text{m}  -  2 \ \text{m} + 0.07 \ \text{m} \\\\
+&= 4.34 \ \text{m} - 2.07 \ \text{m} \\\\
+&= 2.27 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.27 \ \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -458,7 +458,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>76EE240E-E3B0-4269-A3BB-7FF0D66152EC</p>
 </div>
@@ -500,7 +500,7 @@ $2 \times 3 \times 7 = 42$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -713,7 +713,7 @@ $72 \div \boxed{4} = 17 - 5 + 6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>5F9005A4-253A-4F6B-A77C-60B2BD7ABAE0</p>
 </div>
@@ -823,7 +823,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -1850,7 +1850,7 @@ How many millilitres of liquid are in this container?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>65A996BA-1ABC-470D-B822-F72E0A1706DD</p>
 </div>
@@ -1860,10 +1860,7 @@ How many millilitres of liquid are in this container?
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1980,7 +1977,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -2744,7 +2741,7 @@ tunassigned
 tspeed
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>

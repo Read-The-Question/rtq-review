@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-b"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper B"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -758,7 +758,7 @@ tinfer
 tprobability
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

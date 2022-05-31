@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tage-pr"
 title: "Topic - Age - PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -162,7 +162,7 @@ $151 \ \text {years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>4C17A102-B152-4344-95F9-A972131EDBC2</p>
 </div>
@@ -224,18 +224,21 @@ $
 \begin{aligned}
 a + b       &= 43 \\\\
 a + c       &= 45 \\\\
-b + c       &= 66 \\\\
-(a + b) + (b + c) + (a + c)     &= 43 + 66 + 45 \\\\
-2a + 2b + 2c        &= 154 \\\\
-2(a + b + c)        &= 154 \\\\
-a + b + c           &= \dfrac{154}{2} \\\\
-a + b + c           &= \dfrac{77 \times 2}{2} \\\\
-a + b + c           &= \dfrac{77 \times \cancel{2}}{\cancel{2}} \\\\
-a + b + c           &= 77
+b + c       &= 66
 \end{aligned}
 $
 
-The combined age of Alan, Ben and Carl $= 77$
+Let’s find the combined age of Alan, Ben and Carl
+
+$
+(a + b) - (b + c) + (a + c) &= 43 + 66 + 45 \\\\
+2 \times (a + b + c)        &= 154 \\\\
+a + b + c                   &= \dfrac {154} {2} \\\\
+a + b + c                   &= \dfrac {\cancel {2} \times 77} {\cancel {2}} \\\\
+a + b + c                   &= 77
+$
+
+The combined age of Alan, Ben and Carl is seventy seven.
 
 </div>
 </div>
@@ -277,7 +280,7 @@ Age of Alan $= 11$
 <div class='answers'>
 <div class='answer'>
 
-$11$
+$Alan is $11 \ \text {years}$ old.$
 
 </div>
 </div>
@@ -289,72 +292,7 @@ $11$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>872AF346-F083-464D-8D78-F9ED85CC0CD9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Alison, Bethany and Catherine are three sisters. 
-They are $6$ years old, $7$ years old and $12$ years old. 
-
-Bethany is older than Alison. 
-Catherine's age is a prime number. 
-
-What is each girls' age?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Catherine’s age is a prime number.
-
-Catherine’s age    $= 7$ years
-
-Bethany is older than Alison.
-
-Bethany’s age      $= 12$ years
-
-Alison’s age       $= 6$ years
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$
-\begin{aligned}
-\text{Alison’s age}       &= 6 \ \text{years} \\
-\text{Bethany’s age}      &= 12 \ \text{years} \\
-\text{Catherine’s age}    &= 7 \ \text{years}
-\end{aligned}
-$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -473,77 +411,6 @@ $1 \text {st} \ \text {November} \ 1998$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>6C90D298-28FD-41C8-A233-C293F44572FA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The total of the ages of a father, his daughter and his two sons is $96$ years. 
-
-The daughter is half the father's age and double the age of her two brothers. 
-
-How old is the father?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the age of father $= a$
-
-Age of daughter $= \dfrac{a}{2}$
-
-Age of brother $= \dfrac{a}{4}$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{age of father} + \text{age of daughter} + \text{age of 2 sons}                            &= 96 \\\\
-a + \dfrac{a}{2} + \dfrac{a}{4} + \dfrac{a}{4}                                                  &= 96 \\\\
-\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a}{4} + \dfrac{a}{4}        &= 96 \\\\
-\dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\ 
-\dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
-\dfrac {8a} {4}                                                                                 &= 96 \\\\
-8a                                                                                              &= 96 \times 4 \\\\
-a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{8 \times 12 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
-a                                                                                               &= 12 \times 4 \\\\
-a                                                                                               &= 48
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
 </div>
 </div>
 </li>

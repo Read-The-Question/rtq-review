@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdirection"
 title: "TopicPaper - Direction"
-date: 2022-05-31 06:21:51
+date: 2022-05-31 16:11:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -74,7 +74,7 @@ Angle $= 60\ \text{degrees}$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tdirection</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_nj_amber</p>

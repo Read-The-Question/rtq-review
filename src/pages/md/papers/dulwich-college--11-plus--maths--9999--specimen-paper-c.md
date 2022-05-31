@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-c"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper C"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1225,7 +1225,7 @@ $\pounds 0.45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
 </div>
@@ -1279,7 +1279,7 @@ $50 \ \text{days}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -1437,10 +1437,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tunitprompt

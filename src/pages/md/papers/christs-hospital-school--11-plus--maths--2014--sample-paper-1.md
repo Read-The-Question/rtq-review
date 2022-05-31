@@ -1,7 +1,7 @@
 ---
 slug: "papers/christs-hospital-school-11-plus-maths-2014-sample-paper-1"
 title: "Christs Hospital School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -819,7 +819,7 @@ $142$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>363E5CBB-213E-4351-8897-5C4B37E23565</p>
 </div>
@@ -976,12 +976,12 @@ Hence, Molly is WRONG.
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>BF227024-E5C0-4BCC-BD28-9FF20E31D978</p>
 </div>
@@ -1038,7 +1038,7 @@ $\text {One-quarter}$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -1525,9 +1525,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1933,10 +1930,7 @@ tunassigned
 tdraw
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2732,13 +2726,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -579,7 +579,7 @@ $\pounds 1158$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -649,10 +649,7 @@ $30 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
+tratio
 </li>
 </ul>
 </div>
@@ -946,7 +943,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1987,7 +1984,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>C3A742AC-6B5D-47FB-8A76-E187A7C93BDE</p>
 </div>
@@ -2043,7 +2040,7 @@ $50$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -2054,9 +2051,6 @@ $50$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2107,7 +2101,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>E5744F01-344F-4332-80A7-8B3713A8ADA2</p>
 </div>
@@ -2157,7 +2151,7 @@ $18 \ \text {pence}$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>

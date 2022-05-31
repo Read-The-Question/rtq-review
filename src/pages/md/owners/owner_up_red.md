@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-up-red"
 title: "Owner - Uday Pandey - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -432,9 +432,6 @@ $107$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircle-all"
 title: "Topic - Circle - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -71,7 +71,7 @@ $240$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>BF227024-E5C0-4BCC-BD28-9FF20E31D978</p>
 </div>
@@ -128,7 +128,7 @@ $\text {One-quarter}$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -190,6 +190,68 @@ $12 \%$
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>FB54FC28-0CE7-4805-A51B-22A1806749EC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put a circle around all the numbers that are between $2.2$ and $2.6$
+
+$2 \dfrac{1}{2} \quad 2 \dfrac{1}{7} \quad 2 \dfrac{6}{11} \quad 2 \dfrac{2}{5} \quad 2 \dfrac{1}{10}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert all the frations into decimals.
+
+$
+\begin{aligned}
+&= 2 \dfrac {1} {2} \quad 2 \dfrac {1} {7} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5} \quad 2 \dfrac {1} {10} \\\\
+&= \dfrac {5} {2} \quad \dfrac {15} {7} \quad \dfrac {28} {11} \quad \dfrac {12} {5} \quad \dfrac {21} {10} \\\\
+&= 2.5 \quad \dfrac 2.14 \quad \dfrac 2.55 \quad 2.4 \quad 2.1
+\end{aligned}
+$
+
+Numbers between $2.2$ and $2.6$
+
+$
+\begin{aligned}
+&= 2.5, \quad 2.55, \quad 2.4 \\\\
+&= 2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -281,7 +343,7 @@ In each part below, circle the most sensible unit to measure
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -402,7 +464,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -889,7 +951,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tcircle
@@ -1478,7 +1540,7 @@ $\dfrac {5} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>5A02BFDB-4654-4CDA-8AB3-4762789C5789</p>
 </div>
@@ -1536,7 +1598,7 @@ $\dfrac {8} {9}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

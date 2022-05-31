@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-all"
 title: "Topic - Sequence - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3067,7 +3067,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C</p>
 </div>
@@ -3266,7 +3266,7 @@ $39, \quad 52$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -6220,7 +6220,7 @@ Fill in the missing number of these sequences:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8792,7 +8792,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_pr question'>
+<div class='question_envelope rag_nm_blocked question'>
 <div class='uuid'>
 <p>963BEC59-6DAD-42B4-A251-A32822C591F6</p>
 </div>
@@ -8836,7 +8836,7 @@ $10$
 <p>forest-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nm_pr</p>
+<p>rag_nm_blocked</p>
 </div>
 </div>
 </li>
@@ -9101,7 +9101,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>F0836808-8AF5-4835-91C5-C018A57F70CC</p>
 </div>
@@ -9235,7 +9235,7 @@ $25, 36$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -11011,7 +11011,7 @@ $233$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>3D3967D6-262B-4CC9-8544-EC70D5B72197</p>
 </div>
@@ -11318,7 +11318,7 @@ $64$
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -11629,7 +11629,7 @@ $\dfrac {20} {32}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>3E2622D7-39D2-4869-AA49-57F537C5C296</p>
 </div>
@@ -11821,7 +11821,7 @@ $16, -32$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -17575,7 +17575,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>BE851320-29AB-491D-B295-527BA7C9A21D</p>
 </div>
@@ -17591,8 +17591,20 @@ tsequence
 Fill in the missing numbers in the following sequences:
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+%empty%
 
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
@@ -17616,8 +17628,9 @@ $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+2)}}
 &&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
 &&  \footnotesize{\maroonC{(+2)}}  \\
-1,  &&    3,  &&  5,  && \ldots
+1,  &&    3,  &&  5,  && \ldots,  && \ldots
 \end{matrix}
 $
 
@@ -17629,8 +17642,6 @@ $
                               &= 9                             
 \end{aligned}
 $
-
-The missing numbers are $21$ and $33$.
 
 </div>
 </div>
@@ -17664,9 +17675,12 @@ The next term is calculated  by $\text{difference between consecutive terms} \ti
 
 $
 \begin{matrix}
-&   \footnotesize{{(+2)}} 
-&&  \footnotesize{{(+4)}} \\
-&&  \footnotesize{{(+6)}} \\
+&   \footnotesize{{(+2)}}
+&&  \footnotesize{{(+4)}}
+&&  \footnotesize{{(+6)}}
+&&  \footnotesize{{(+8)}}
+&&  \footnotesize{{(+10)}}
+&&  \footnotesize{{(+12)}} \\
 1,  &&    3,  &&  7,  &&  13,  &&  \dots, && \dots, && 43
 \end{matrix}
 $
@@ -17675,20 +17689,17 @@ $
 \begin{aligned}
 \text{First missing number}    &= 13 + 8 \\\\
                                &= 21 \\\\
-
-\text{Second missing number}   &= 21 + 12 \\\\
-                               &= 33
+\text{Second missing number}   &= 21 + 10 \\\\
+                               &= 31
 \end{aligned}
 $
-
-The missing numbers are $21$ and $33$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$21,33$
+$21,31$
 
 </div>
 </div>
@@ -17712,34 +17723,33 @@ $1, 2, 0, 3, -1, 4, \text{\textunderscore \textunderscore \textunderscore}, \tex
 Let's find the sum of the two consecutive terms of the sequence
 
 $
-begin{aligned}
-1 + 2    &=3
-2 + 0    &=2
-0 + 3    &=3
-3 + (-1) &=2
--1 + 4   &=3
-end{aligned}
+\begin{matrix}
+&   \footnotesize{{(+1)}}
+&&  \footnotesize{{(-2)}}
+&&  \footnotesize{{(+3)}}
+&&  \footnotesize{{(-4)}}
+&&  \footnotesize{{(+5)}}
+&&  \footnotesize{{(-6)}}
+&&  \footnotesize{{(+7)}} \\
+1,  &&    2,  &&  0,  &&   3,  &&  -1,  &&  4,  &&  \dots,  &&  \dots
+\end{matrix}
 $
 
-The next addition answer should give $3$.
-
 $
 begin{aligned}
-\text {First missing number}  &= 3 - 4 \\\\
-                              &= -1 \\\\
-\text {Second missing number} &= 2 - (-1) \\\\
-                              &= 3 \\\\                             
+\text {First missing number}  &= 4 - 6 \\\\
+                              &= -2 \\\\
+\text {Second missing number} &= -2 + 7 \\\\
+                              &= 5 \\\\                             
 end{aligned}                             
 $
-
-The missing numbers are $-1$ and $3$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
--1,3
+$-2,5$
 
 </div>
 </div>
@@ -17751,7 +17761,7 @@ The missing numbers are $-1$ and $3$.
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -20143,7 +20153,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>CA1A895E-6265-45AE-9284-3A2A9AD27F9C</p>
 </div>
@@ -20390,7 +20400,7 @@ $0.16, 0.032$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -21492,7 +21502,7 @@ Write down the next two numbers in the following sequences?
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -22850,7 +22860,7 @@ $A = 14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_bs_blocked question'>
 <div class='uuid'>
 <p>6C22BF99-C3EE-4BB0-97A7-2F1DB20CA8EC</p>
 </div>
@@ -22913,7 +22923,7 @@ $28$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_bs_blocked</p>
 </div>
 </div>
 </li>
@@ -24167,7 +24177,7 @@ $1 \quad  4  \quad  7 \quad 10 \quad 13 \quad  16  \ldots$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -24193,7 +24203,7 @@ From the numbers in the list above, write down:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -27252,7 +27262,7 @@ Write the next two numbers in each sequence:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -27413,7 +27423,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29512,7 +29522,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -29930,15 +29940,12 @@ $5.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>CE0DC367-FC2F-48CA-A2AC-370BA4DBBEAF</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -29986,7 +29993,7 @@ $129$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -30330,7 +30337,7 @@ Second line : $6^2 + 13 = 49$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>3CC14E76-50F8-4F46-9B87-410B0584474A</p>
 </div>
@@ -30362,17 +30369,7 @@ Explain how you know:
 
 As per the question,
 
-The difference between the terms is $30$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(30+30 \times 1)}}  
-&&  \footnotesize{\maroonC{(30+30 \times 2)}}    
-&&  \footnotesize{\maroonC{(30+30 \times 3)}}
-&&  \footnotesize{\maroonC{(30+30 \times 4)}} \\
-30,  &&    60,  &&  90,  &&   120, &&  150 \ldots
-\end{matrix}
-$
+The difference between the terms is $30$. Hence, the sequence would be multiples of $30$.
 
 As the sequence goes on increasing in the multiples of 30,
 
@@ -30387,14 +30384,14 @@ $
 \end{aligned}
 $
 
-As it leaves a remainder, it is not a multiple of 30. Hence it is not in the sequence given.
+$44 \dfrac {1} {3}$ is not a whole number, as such $1330$ is not a multiple of 30. Hence, the number 1330 will not be in the sequence.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-As 1330 is not a multiple of 30, it is not in the sequence given.
+No
 
 </div>
 </div>
@@ -30403,12 +30400,12 @@ As 1330 is not a multiple of 30, it is not in the sequence given.
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>0B7ECBC1-8D3F-45E4-9633-04391991C44B</p>
 </div>
@@ -30490,7 +30487,7 @@ Missing numbers : 10, 17, 24
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
@@ -31111,7 +31108,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>33AA7283-9415-4362-9D2D-CD9DC7BD0B4A</p>
 </div>
@@ -31385,7 +31382,7 @@ Missing number = $1.75$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>

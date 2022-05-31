@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-na-all"
 title: "Owner - Naman Pant - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -693,7 +693,7 @@ $25$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2671,7 +2671,7 @@ $73 \degree, 107 \degree$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3041,9 +3041,6 @@ $21$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -3673,7 +3670,7 @@ $47, 53$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_blocked question'>
 <div class='uuid'>
 <p>3F019B2C-E891-4AAA-8B78-0E0DF81B8489</p>
 </div>
@@ -3785,7 +3782,7 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_blocked</p>
 </div>
 </div>
 </li>
@@ -3899,9 +3896,6 @@ $504$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -4291,7 +4285,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4402,7 +4396,7 @@ $16 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_blocked question'>
 <div class='uuid'>
 <p>6A0EC9AD-0A91-465C-9D77-92C64E1E72BC</p>
 </div>
@@ -4620,7 +4614,7 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_blocked</p>
 </div>
 </div>
 </li>
@@ -5408,7 +5402,7 @@ $ \begin{aligned}
 &= \dfrac {20 \times 20} {100} \\\\
 &= \dfrac {2 \cancel {0} \times 2 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
 &= 2 \times 2 \\\\
-&= 4 \  \text {teachers}
+&= 4 \ \text {teachers}
 \end{aligned}
 
 Teachers who were given socks and tie $= 4$
@@ -5441,9 +5435,6 @@ $4$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -6088,7 +6079,7 @@ $0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>5A02BFDB-4654-4CDA-8AB3-4762789C5789</p>
 </div>
@@ -6146,7 +6137,7 @@ $\dfrac {8} {9}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -6161,7 +6152,7 @@ $\dfrac {8} {9}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -6213,7 +6204,7 @@ $36 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>43EF5D79-3FD1-422A-BD9F-D7DC37283EA9</p>
 </div>
@@ -6270,7 +6261,7 @@ $189 \text{p}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -6281,9 +6272,6 @@ $189 \text{p}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -6390,7 +6378,7 @@ $\dfrac {1} {3}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -6463,7 +6451,7 @@ $40 \ \text{cm}^2$
 tratio
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -6522,9 +6510,6 @@ $\pounds 1600$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -6901,9 +6886,6 @@ $0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -7130,9 +7112,6 @@ $\dfrac {11} {2} \ \ \text{or} \ \ 5 \dfrac {1} {2}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -7572,9 +7551,6 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -7880,12 +7856,6 @@ $\pounds 51$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -7952,9 +7922,6 @@ $30$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -8197,7 +8164,7 @@ $\text {Largest} = 0.84, \text {Smallest} =  0.087$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>37279E76-7207-4B08-84B9-07B10F2972FD</p>
 </div>
@@ -8221,9 +8188,9 @@ Add together $3.7\, metres$ and $64\, cm$ and then subtract $2\, metres$ $7\,cm$
 
 It is really important to use the right units in calculations and convert where required. The measurement is given in meters and centimeteres but the answer has to be in meters.
 
-$1 \ \text{m} = 100 \text{cm}$
+$1 \ \text{m} = 100 \ \text{cm}$
 
-$\dfrac {1} {100} \ \text{m} = 1 \text{cm}$
+$\dfrac {1} {100} \ \text{m} = 1 \ \text{cm}$
 
 $
 \begin{aligned}
@@ -8249,7 +8216,7 @@ $2.27 \ \text{m}$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
@@ -8393,9 +8360,6 @@ $146700$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9071,7 +9035,7 @@ $64$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -9252,9 +9216,6 @@ $-9 \degree C$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -9497,7 +9458,7 @@ $\pounds 27$
 <div class='topics'>
 <ul>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -9945,7 +9906,7 @@ $789 \quad < \quad 798 \quad < \quad 879 \quad < \quad 897 \quad < \quad 978 \qu
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -10281,7 +10242,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
 </div>
@@ -10492,10 +10453,12 @@ $
 &= (50\% + 5\% + 1\%) \times 80 \\\\
 &= 50\% \times 80 + 5\% \times 80 + 1\% \times 80 \\\\
 &= 40 + 4 + \dfrac {4} {5}  \\\\
-&= \dfrac {40 \times 5} {5} + \dfrac {4 \times 5} {5} + \dfrac {4} {5} \\\\
-&= \dfrac {200 + 20 + 4} {5} \\\\
+&= 44 + \dfrac {4} {5}  \\\\
+&= \dfrac {44 \times 5} {1 \times 5} + \dfrac {4} {5} \\\\
+&= \dfrac {220} {5} + \dfrac {4} {5} \\\\
+&= \dfrac {220 + 4} {5} \\\\
 &= \dfrac {224} {5} \\\\
-&= 44\dfrac{4}{5}
+&= 44 \dfrac {4} {5}
 \end{aligned}
 $
 
@@ -10516,20 +10479,17 @@ $44 \dfrac {4} {5}$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>225E084E-3E8B-41BC-8F2E-8117437E9AF8</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -10610,10 +10570,10 @@ $b/a$ = .....................
 
 $
 \begin{aligned}
-&= \dfrac{b}{a} \\\\
-&= \dfrac{28}{7} \\\\
-&= \dfrac{7 \times 4}{7} \\\\
-&= \dfrac{\cancel {7} \times 4}{\cancel {7}} \\\\
+&= \dfrac {b} {a} \\\\
+&= \dfrac {28} {7} \\\\
+&= \dfrac {7 \times 4} {7} \\\\
+&= \dfrac {\cancel {7} \times 4} {\cancel {7}} \\\\
 &= 4
 \end{aligned}
 $
@@ -10670,12 +10630,12 @@ $1125$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>6C90D298-28FD-41C8-A233-C293F44572FA</p>
 </div>
@@ -10703,25 +10663,25 @@ How old is the father?
 
 Let the age of father $= a$
 
-Age of daughter $= \dfrac{a}{2}$
+Age of daughter $= \dfrac {a} {2}$
 
-Age of brother $= \dfrac{a}{4}$
+Age of brother $= \dfrac {a} {4}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{age of father} + \text{age of daughter} + \text{age of 2 sons}                            &= 96 \\\\
-a + \dfrac{a}{2} + \dfrac{a}{4} + \dfrac{a}{4}                                                  &= 96 \\\\
-\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a}{4} + \dfrac{a}{4}        &= 96 \\\\
-\dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\ 
+\text{Age of father} + \text{Age of daughter} + \text{Age of 2 sons}                            &= 96 \\\\
+a + \dfrac {a} {2} + \dfrac {a} {4} + \dfrac{a} {4}                                             &= 96 \\\\
+\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a} {4} + \dfrac{a} {4}      &= 96 \\\\
+\dfrac {4a} {4} + \dfrac {2a} {4} + \dfrac {a} {4} + \dfrac {a} {4}                             &= 96 \\\\ 
 \dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
 \dfrac {8a} {4}                                                                                 &= 96 \\\\
 8a                                                                                              &= 96 \times 4 \\\\
-a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{8 \times 12 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
+a                                                                                               &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {8 \times 12 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
 a                                                                                               &= 12 \times 4 \\\\
 a                                                                                               &= 48
 \end{aligned}
@@ -10741,7 +10701,7 @@ $48$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-g1"
 title: "Topic - Simpleword - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -275,6 +275,115 @@ $\pounds 29.95$
 <li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
+<p>32AD190F-BC19-4308-B41D-C508037F0B80</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Grace plants a row of daffodils.
+
+There is a gap of $1.1$ metres between each daffodil, and the row begins and ends with a daffodil.
+
+She has $8$ daffodils.
+
+How long is the row of daffodils when she has finished? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+No. of daffodils $= 8$
+
+No. of gaps between daffodils $= 7$
+
+Length of gap $= 1.1 \text{m}$
+
+$
+\begin{aligned}
+\text {Length of the row}   &= 7 \times 1.1 \ \text {m} \\\\\
+                            &= 7.7 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.7 \ \text {m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>023389AE-3402-4C39-A59D-560327B4A49B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One quire of paper is equal to $24$ sheets.
+One ream is equal to $20$ quires.
+How many sheets are there in $2$ ream?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Number of Sheets in two ream}    &= 2 \times 20 \times 24 \\\\
+                                        &= 40 \times 24 \\\\
+                                        &= 960
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$960$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
 <p>5628A8F8-B6F9-4B5F-A53D-63CCA2DEEBAC</p>
 </div>
 <div class='topics'>
@@ -321,6 +430,59 @@ $53$
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>B20CFC99-E249-43D4-A797-25BD87D1FC06</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A ball of string is $2\ \text{metres}$ long. Pieces of length $30\ \text{cm}$ are cut from the ball. How many whole pieces may be cut and what length is left over?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of pieces} &= \dfrac {\text{Length of string}} {\text{Length of a piece}} \\\\
+                        &= \dfrac {2 \ \text{metres}} {30  \ \text{cm}} \\\\
+                        &= \dfrac {2 \times 100 \ \text{cm}} {30 \ \text{cm}} \\\\
+                        &= \dfrac {2 \times 10 \cancel {0}} {3 \cancel {0}} \\\\
+                        &= \dfrac {20} {3} \\\\
+                        &= 6 \dfrac {2} {3}
+\end{aligned}
+$
+
+Number of pieces $= 6$
+
+Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6, \ 0.67 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -473,6 +635,349 @@ $600 \ \text{g}$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the following 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The lengths of two pencils are $9.76 \ \text{cm}$ and $14.57 \ \text{cm}$. If the pencils are laid end to end, what is the total length?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total length} &= 9.76 + 14.57 \\\\
+                    &= 24.33 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24.33 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In a shop there are $43$ bags of potatoes. Each bag contains $37$ potatoes. What is the total number of potatoes in the bags?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total number of potatoes} &= 43 \times 37 \\\\
+                                &= 1591
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1591$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+There are $1.6 \ \text{kilometers}$ in a mile. How many kilometres are in $31240 \ \text{miles}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total kilometers} &= 31240 \times 1.6 \\\\
+                        &= 49984 \ \text{kilometers}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$49984 \ \text{kilometers}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+There are $0.91\ \text{metres}$ in $1  \ \text{yard}$. How many metres are there in $0.075  \ \text{yards}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total yards} &= 0.075 \times 0.91 \\\\
+                   &= 0.06825 \ \text{metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.06825 \ \text{metres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The total length of five cars is $16.35\ \text{metres}$. What is the average length of these cars?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Average length} &= \dfrac {16.35} {5} \\\\
+                      &= \dfrac {3.27 \times 5} {5} \\\\
+                      &= \dfrac {3.27 \times \cancel {5}} {\cancel {5}} \\\\
+                      &= 3.27 \ \text{metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.27 \ \text{metres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $13 + 54 \div 6 - 5 \times 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to BIDMAS
+
+$
+\begin{aligned}
+&= 13 + 54 \div 6 - 5 \times 7 \\\\
+&= 13 + 9 - 5 \times 7 \\\\
+&= 13 + 9 - 35 \\\\
+&= 22 - 35 \\\\
+&= - 13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- 13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$16\%$ of gift cards that are bought are never redeemed. In Oundle Beans sells $730$ gift cards one year. How many of these should it expect to be redeemed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total cards redeemed} &= 84 \% \ \text{of} \ 730 \\\\
+                            &= \dfrac {84} {100} \times 730 \\\\
+                            &= \dfrac {84 \times 730} {100} \\\\
+                            &= \dfrac {61320} {100} \\\\
+                            &= 613.2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$613$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_g1 question'>
+<div class='uuid'>
+<p>F4ED2C3C-A52E-4DFA-B9E5-EDA177B567AC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the first week of the screening of a new film a cinema sells $2140$ tickets. 
+
+In the second week it sells $320$ less tickets than the first week.
+
+In the third week it sells $210$ less tickets than the second week.
+
+How many tickets are sold over the three weeks?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, tickets sold
+
+$
+\begin{aligned}
+\text{Total ticket sold }                                         &= \text{First week} + \text{Second week} + \text{Third week} \\\\
+                                                                  &= 2140 + (2140 - 320) + (2140 - 320 - 210) \\\\                                                                 
+                                                                  &= 2140 + 1820 + 1610 \\\\
+                                                                  &= 3960 + 1610 \\\\
+                                                                  &= 5570
+\end{aligned}
+$
+
+Total tickets sold over three weeks $= 5570$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5570$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_sc_g1</p>
 </div>
 </div>
 </li>
@@ -651,6 +1156,55 @@ $\pounds 46200$
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>4BE31404-8368-4FC0-AD60-34110662E9C4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A hospital nurse earns $\pounds 23080$ a year. Work out the annual salary of a consultant who earns four times 
+as much as a nurse.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Annual salary of a consultant } &= 4 \times \text{Annual salary of a nurse} \\\\
+                                       &= 4 \times \pounds 23080 \\\\
+                                       &= \pounds 92320
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 92320$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

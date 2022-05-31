@@ -1,7 +1,7 @@
 ---
 slug: "papers/john-lyon-school-11-plus-maths-9999-sample-paper-1"
 title: "John Lyon School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -11,7 +11,7 @@ date: 2022-05-30 23:47:59
 <h3></h3>
 <h3>TODO</h3>
 </div>
-<ul class='question TODO'>
+<ul class='question decimal'>
 <li>
 <div class='question_envelope rag_ad_g2 question'>
 <div class='uuid'>
@@ -49,7 +49,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -377,7 +377,7 @@ $63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F4D77903-BECE-4A44-88EA-1781F5A261B0</p>
 </div>
@@ -385,6 +385,9 @@ $63$
 <ul>
 <li>
 tmoney
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -426,7 +429,7 @@ $\pounds 5.02$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -522,7 +525,7 @@ $36 + 32 = 49 + \underline{19}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -698,9 +701,6 @@ $6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -904,7 +904,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1073,7 +1073,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3482F384-C0E0-4164-8CFD-2035B993DC4E</p>
 </div>
@@ -1123,7 +1123,7 @@ $6233 \ \text{g}$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1234,7 +1234,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1397,7 +1397,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>66CC3FAD-48FE-44E8-87CF-70E572E82771</p>
 </div>
@@ -1457,7 +1457,7 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1507,7 +1507,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1723,7 +1723,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>37C2EF16-4356-40F4-BE05-0A1854428588</p>
 </div>
@@ -1733,7 +1733,10 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
+</li>
+<li>
+tdraw
 </li>
 </ul>
 </div>
@@ -1776,7 +1779,7 @@ $292 \ \text {cm}^2$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1882,7 +1885,7 @@ Use this result to answer these questions:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2036,7 +2039,7 @@ $2.79$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>66777738-C618-4271-96E5-1C9214C9F392</p>
 </div>
@@ -2046,7 +2049,7 @@ $2.79$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -2068,10 +2071,10 @@ What is the perimeter of the cross shape tile?
 
 $
 \begin{aligned}
-\text{Perimeter of cross shape tile} &= 4 \times (10 - 2 - 2) + 8 \times 2 \\\\
-                                     &= 4 \times 6 + 16 \\\\
-                                     &= 24 + 16 \\\\
-                                     &= 40 \ \text{cm}
+\text{Perimeter of cross shape tile} &= \text {Perimeter of the big square} - 8 \times \text {Corner squares} \\\\
+                                     &= 4 \times 10 - 8 \times 2 \\\\
+                                     &= 40 - 16 \\\\
+                                     &= 24 \ \text{cm}
 \end{aligned}
 $
 
@@ -2080,11 +2083,11 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$40 \ \text{cm}$
+$24 \ \text{cm}$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2103,12 +2106,11 @@ Robert puts three tiles together to make the shape below. What is the perimeter 
 
 $
 \begin{aligned}
-\text{Perimeter} &= 2 \times \text{Perimeter of outer tiles} + \text{Perimeter of inner tile} \\\\
-                 &= 2 \times (3 \times 6 + 8 \times 2) + (2 \times 6 + 8 \times 2) \\\\
-                 &= 2 \times (18 + 16) + 12 + 16 \\\\
-                 &= 2 \times 34 + 28 \\\\
-                 &= 68 + 28 \\\\
-                 &= 96 \ \text{cm}
+\text{Perimeter} &= 3 \times \text{Perimeter of tile} - 4 \times \text{Common side between tiles} \\\\
+                 &= 3 \times 24 - 4 \times (10 - 4) \\\\
+                 &= 72 - 4 \times 6 \\\\
+                 &= 72 - 24 \\\\
+                 &= 48 \ \text{cm}
 \end{aligned}
 $
 
@@ -2117,7 +2119,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$96 \ \text{cm}$
+$48 \ \text{cm}$
 
 </div>
 </div>
@@ -2140,12 +2142,11 @@ Ravi put ten tiles together in a similar way. What is the perimeter of his shape
 
 $
 \begin{aligned}
-\text{Perimeter of 10 tiles} &= 2 \times \text{Perimeter of outer tiles} + 8 \times \text{Perimeter of inner tile} \\\\
-                             &= 2 \times (3 \times 6 + 8 \times 2) + 8 \times (2 \times 6 + 8 \times 2) \\\\
-                             &= 2 \times (18 + 16) + 8 \times (12 + 16) \\\\
-                             &= 2 \times 34 + 8 \times 28 \\\\
-                             &= 68 + 224 \\\\
-                             &= 292 \ \text{cm}
+\text{Perimeter of 10 tiles} &= 10 \times \text{Perimeter of tile} - 18 \times \text{Common side between tiles} \\\\
+                             &= 10 \times 24 - 18 \times (10 - 4) \\\\
+                             &= 240 - 18 \times 6 \\\\
+                             &= 240 - 108 \\\\
+                             &= 132 \ \text{cm}
 \end{aligned}
 $
 
@@ -2154,7 +2155,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$292 \ \text{cm}$
+$132 \ \text{cm}$
 
 </div>
 </div>
@@ -2166,7 +2167,7 @@ $292 \ \text{cm}$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -2211,7 +2212,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2366,7 +2367,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>

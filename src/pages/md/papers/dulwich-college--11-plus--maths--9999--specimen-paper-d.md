@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-d"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper D"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1487,10 +1487,7 @@ $800 \ \text{kilometres per hour}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1865,7 +1862,7 @@ $35 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>E968A4AB-9158-45EC-BEFC-4C7850264B5F</p>
 </div>
@@ -1961,7 +1958,7 @@ $\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -1976,10 +1973,7 @@ $\text{In the balls the even numbers balls are 6 whereas the balls multiple of 3
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>

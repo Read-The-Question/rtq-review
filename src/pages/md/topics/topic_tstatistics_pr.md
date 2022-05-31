@@ -1,128 +1,9 @@
 ---
 slug: "topics/topic-tstatistics-pr"
 title: "Topic - Statistics - PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>E0077BDA-7CE4-4354-A2D2-C673F42B2CFD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The following table shows the runs that Michael scored in each of the $11$ cricket matches he played for the school team.
-
-
-
-| Runs     | $0$     | $25$     | $15$     | $40$     | $52$     | $15$     | $6$     | $8$     | $25$     | $35$     | $10$     |
-|------    |---    |----    |----    |----    |----    |----    |---    |---    |----    |----    |----    |
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What was the mean number of runs he scored per innings?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Mean number of run scored} &= \dfrac {0 + 25 + 15 + 40 + 52 + 15 + 6 + 8 + 25 + 35 + 10} {11} \\\\
-                                  &= \dfrac {231} {11} \\\\
-                                  &= \dfrac {11 \times 21} {11} \\\\
-                                  &= \dfrac {\cancel {11} \times 21} {\cancel {11}} \\\\
-                                  &= 21
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$21$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What was the median number of runs scored?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Run scored per innings in ascending order} &= \text {0, 6, 8, 10, 15, 15, 25, 25, 35, 40, 52} \\\\
-\text {Median}                                    &= 15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
@@ -463,20 +344,17 @@ $6.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>94669F97-3EC9-472D-9A7F-01E61D890604</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tstatistics
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -522,7 +400,7 @@ $4$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-g1"
 title: "Topic - Volume - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -239,6 +239,59 @@ $60$
 </ul>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many $3 \ \text{cm}$ cubes can be made by cutting up a block $12 \ \text{cm}$ by $24 \ \text{cm}$ by $18 \ \text{cm}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of cubes} &= \dfrac {\text{Volume of cuboid}} {\text{Volume of cube}} \\\\
+                       &= \dfrac {12 \times 24 \times 18} {3 \times 3 \times 3} \\\\
+                       &= \dfrac {3 \times 4 \times 3 \times 8 \times 6 \times 3} {3 \times 3 \times 3} \\\\
+                       &= \dfrac {\cancel {3} \times 4 \times \cancel {3} \times 8 \times 6 \times \cancel{3}} {\cancel {3} \times \cancel {3} \times \cancel {3}} \\\\
+                       &= 4 \times 8 \times 6 \\\\
+                       &= 32 \times 6 \\\\
+                       &= 192
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$192$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -507,13 +560,10 @@ $200$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tvolume
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -559,73 +609,6 @@ $24 \ \text{cm}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g1</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_g1 question'>
-<div class='uuid'>
-<p>26E16C3C-4AED-4018-A4B3-041DDC0C4959</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tvolume
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bilal has made a box in the shape of a cuboid with sides $4 \ \text{cm}, 5 \ \text{cm}$ and $32 \ \text{cm}$. 
-He wants to make another **different** shaped box but with the **same** volume. 
-This box will have a height of $10 \ \text{cm}$ and a square base. What will be the length of the base?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length of the base (in $\text{cm}$) $= a$
-
-$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
-
-As per the question, the two boxes have the same volume. Using that we get,
-
-$
-\begin{aligned}
-10 \times a \times a    &= 4 \times 5 \times 32 \\\\
-a^{2}                   &= \dfrac {4 \times 5 \times 32} {10} \\\\
-a^{2}                   &= \dfrac {2 \times 2 \times 5 \times 32} {2 \times 5} \\\\
-a^{2}                   &= \dfrac {2 \times \cancel{2} \times \cancel{5} \times 32} {\cancel{2} \times \cancel{5}} \\\\
-a^{2}                   &= 2 \times 32 \\\\
-a^{2}                   &= 64 \\\\
-a                       &= \sqrt{64} \\\\
-a                       &= 8 \ \text{cm}
-\end{aligned}
-$
-
-Length of the base $= 8 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>

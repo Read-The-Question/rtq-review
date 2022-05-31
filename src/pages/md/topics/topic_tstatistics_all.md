@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-all"
 title: "Topic - Statistics - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3424,7 +3424,7 @@ $7$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7097,9 +7097,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tstatistics
 </li>
 <li>
@@ -7151,7 +7148,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>E0077BDA-7CE4-4354-A2D2-C673F42B2CFD</p>
 </div>
@@ -7265,7 +7262,7 @@ $15$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -7625,9 +7622,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -8019,13 +8013,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tstatistics
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -10721,9 +10712,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -10991,7 +10979,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11265,7 +11253,7 @@ Find the median and mode of these numbers:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11319,7 +11307,7 @@ Three children have a median age of $10$ and the range of their ages is $5$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -11461,7 +11449,7 @@ A set of five numbers has a mean of $7$, a median of $6$ and a mode of $5$.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -11934,7 +11922,7 @@ The table below shows the maximum temperatures in New York City last year.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -11975,7 +11963,7 @@ $26$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -12096,7 +12084,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -13683,9 +13671,6 @@ $3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tstatistics
 </li>
 <li>
@@ -13816,9 +13801,6 @@ $5.4 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -13872,66 +13854,6 @@ $130 \ \text {grams}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_oldpr question'>
-<div class='uuid'>
-<p>5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The **average** weight of five parcels is $3.7 \  \text{kg}$. Four of the parcels are identical and each weigh $3.5 \  \text{kg}$. What is the weight of the fifth parcel?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the weight of the fifth parcel (in kg) $= w$
-
-$
-\begin{aligned}
-\text{Average weight}           &= \dfrac {\text{Weight of all the parcels}} {\text{Total parcels}} \\\\
-3.7                             &= \dfrac {3.5 \times 4 + w} {5} \\\\
-3.7 \times 5                    &= 3.5 \times 4 + w \\\\
-3.5 \times 4 + w                &= 3.7 \times 5 \\\\
-14 + w                          &= 18.5 \\\\
-w                               &= 18.5 - 14  \\\\
-w                               &= 4.5  \ \text{kg}
-\end{aligned}
-$
-
-Weight of the fifth parcel $= 4.5 \ \text {kg}$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4.5 \ \text {kg}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_oldpr</p>
@@ -14092,20 +14014,17 @@ $1.34m$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>94669F97-3EC9-472D-9A7F-01E61D890604</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
 tstatistics
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -14151,7 +14070,7 @@ $4$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

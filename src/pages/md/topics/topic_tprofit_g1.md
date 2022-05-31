@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-g1"
 title: "Topic - Profit - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -697,16 +697,7 @@ $\pounds 1193.4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tprofit
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>

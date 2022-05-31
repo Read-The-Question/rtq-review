@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinequality-all"
 title: "Topic - Inequality - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -200,7 +200,7 @@ $4 \times 5 + 7 \ \quad  =  \quad  (5 + 4) \times (7 - 4)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>490F1D53-1692-491B-A090-53ACC2775F94</p>
 </div>
@@ -349,7 +349,7 @@ $64 \ \text {and} \ 729$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -494,7 +494,7 @@ $\dfrac {8} {7} \quad  >  \quad \dfrac {11} {13}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>DD14245F-A3C5-45CD-BE86-17DADA5C844C</p>
 </div>
@@ -541,7 +541,7 @@ $2^5 < 5^2$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tquadraticprompt-red"
 title: "Topic - Quadraticprompt - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,16 +12,10 @@ date: 2022-05-30 23:47:59
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
 tquadraticprompt
-</li>
-<li>
-ttrialerror
 </li>
 </ul>
 </div>

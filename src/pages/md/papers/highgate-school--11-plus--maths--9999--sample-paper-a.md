@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-a"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -285,7 +285,7 @@ $\pounds 3.60, \pounds 1.20$
 <div class='topics'>
 <ul>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tmoney

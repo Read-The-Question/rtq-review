@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-all"
 title: "Topic - Profit - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1622,7 +1622,7 @@ $\pounds 30000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>7AB1C6A0-22A3-4EBC-A247-55F381AF4F47</p>
 </div>
@@ -1682,7 +1682,7 @@ $\pounds 0.95$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -2534,16 +2534,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tprofit
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -2675,124 +2666,6 @@ $\pounds 25.50$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>0DDB7D8E-8C0B-4FC8-872C-52FBE4C7EC8F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tprofit
-</li>
-<li>
-talgebra
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A shopkeeper buys a box of $60 \ \text{apples}$ for $\pounds 12$. 
-If he finds that $\dfrac{1}{10}$ of the apples are bad and can't be sold, at what price must he sell each of the good apples so that he makes a total **profit** of $\pounds 15$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total apples = $60$
-
-Bad apples = $\dfrac {1}{10}$ of total apples. 
-
-Let's find how many bad apples are there.
-
-No. of bad apples is:  
-
-$
-\begin{aligned}
-&= 60 \times \dfrac {1}{10}  \\\\
-&= \dfrac {60}{10} \\\\
-&= \dfrac {6{\cancel{0}}} {1{\cancel{0}}}\\\\
-&= {6} \text{ apples}\\
-\end{aligned}
-$
-
-There are $6$ bad apples.
-
-
-Let's find number of good apples
-
-$
-\begin{aligned}
-&= 60 - 6 \\
-&= 54  \text{ apples}\\
-\end{aligned}
-$
-
-There are $54$ good apples.
-
-Now let's figure out the selling price.
-
-As per the question,
-
-Cost price $= \pounds 12$
-Profit     $= \pounds 15$
-
-Selling price - Cost Price = Profit
-
-$\quad \text {or,}$
-
-Selling price = Profit + Cost price
-
-$
-\begin{aligned} 
-&= 15 + 12 \\
-&= \pounds 27\\  
-\end{aligned}
-$
-
-He sold $54$ good apples, earned $\pounds 27$ and spend $\pounds 12$ to buy it.
-
-Let's calculate the selling price of each apple.
-
-$\text{Selling price of good apples} = \dfrac {\text{money earned}} {\text{no. of apples sold}}$
-
-$
-\begin{aligned}
-&= \dfrac {27}{54}\\\\
-&= \dfrac{\cancel{27}\raisebox{0.9em}{1}}{\cancel{54}\raisebox{-0.9em}{2}}\\\\
-&= \dfrac {\pounds 1}{2\ \text  {apples}}\\\\
-\end{aligned}
-$
-
-For $\pounds 1$ he sells $2$ apples.
-
-So his selling price for $1$ apples is $50$ pence. 
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$50p$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

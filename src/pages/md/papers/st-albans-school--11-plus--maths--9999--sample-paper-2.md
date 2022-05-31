@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-9999-sample-paper-2"
 title: "St Albans School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -827,9 +827,6 @@ $21$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1319,7 +1316,7 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>997305C0-43E0-414C-9637-DF71FC2B8CF8</p>
 </div>
@@ -1329,13 +1326,10 @@ $0$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tdraw
-</li>
-<li>
-tperimeter
 </li>
 </ul>
 </div>
@@ -1438,7 +1432,7 @@ $32 \text {cm}$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -1503,7 +1497,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2009,7 +2003,7 @@ $72$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>F309BCDF-1E65-486A-B43C-4F8547E68817</p>
 </div>
@@ -2178,12 +2172,12 @@ $\text {No, it does not make sense to use the formula for older people because a
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>301495E4-984D-4E5B-B022-507BD60D3235</p>
 </div>
@@ -2235,20 +2229,17 @@ $1800 \text {metres}$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>C47BB056-BB47-49E9-A0DC-50131CC6D1FE</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2306,7 +2297,7 @@ $10 \text{chickens}, 20 \text{cows}$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>

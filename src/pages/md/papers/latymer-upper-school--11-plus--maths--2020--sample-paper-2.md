@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-2"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -140,9 +140,6 @@ $3648$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -391,7 +388,7 @@ $35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>17EF20AA-D366-45EE-BEAA-69CF13C7B2AD</p>
 </div>
@@ -454,7 +451,7 @@ $8$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -528,7 +525,7 @@ $99$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3206AC5E-10AC-4792-AC6F-6BBD072B959C</p>
 </div>
@@ -584,7 +581,7 @@ $12{:}28 \ \text {pm}$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -595,9 +592,6 @@ $12{:}28 \ \text {pm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -734,7 +728,7 @@ $\dfrac {13} {15}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -758,13 +752,16 @@ E: $\text{More information needed}$
 <div class='workings'>
 <div class='working'>
 
+We can divide the shape into 2 rectangle as per the diagram shown below.
+
+$\text{Area} = \text{length} \times \text{width}$
+
 $
 \begin{aligned}
-\text {Area of the shaded region} &= \text {Area of first rectangle} + \text {Area of second rectangle} \\\\
-                                  &= \text {length1} \times \text {width1} + \text {length2} \times \text {width2} \\\\
+\text {Area of the shaded region} &= \text {Area of first Rectangle} + \text {Area of second Rectangle} \\\\
                                   &= 5 \times 3 + 13 \times 2 \\\\
                                   &= 15 + 26 \\\\
-                                  &= 41 \text { cm}^2
+                                  &= 41 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -773,7 +770,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$41 \text { cm}^2$
+$41 \ \text {cm}^2$
 
 </div>
 </div>
@@ -816,12 +813,15 @@ E: $\pounds{6.37}$
 <div class='workings'>
 <div class='working'>
 
+It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
+
 $
 \begin{aligned}
-\text {Change received} &= \pounds 10 - (7 \times 55 \text {p} + 4 \times 63 \text {p}) \\\\
-                        &= \pounds 10 - (385 \text {p} + 252 \text {p}) \\\\
-                        &= \pounds 10 - 637 \text {p} \\\\
-                        &= \pounds 10 - \pounds 6.37 \\\\
+\text {Change received} &= \text{Total money} - (\text{Cost of 7 bags of Cheezos} + \text{4 bags of Nuttees}) \\\\
+                        &= \pounds 10 - (7 \times 55 \text {p} + 4 \times 63 \text {p}) \\\\
+                        &= \pounds 10 - (\pounds \dfrac {385} {100} + \pounds {252} {100}) \\\\
+                        &= 10 - (3.85 + 2.52) \\\\
+                        &= 10 - 6.37 \\\\
                         &= \pounds 3.63
 \end{aligned}
 $
@@ -1036,9 +1036,6 @@ $1400 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1102,7 +1099,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>1B8CFA67-79EE-4405-AF7C-75703EDA343B</p>
 </div>
@@ -1112,7 +1109,7 @@ $20$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1136,24 +1133,28 @@ E: $17.5 \ cm^2$
 <div class='workings'>
 <div class='working'>
 
+$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 $
 \begin{aligned}
 \text {Area of the shaded triangle} &= \text {Area of first triangle} + \text {Area of second triangle} \\\\
-                                    &= \dfrac {1} {2} \times \text {height1} \times \text {base1} + \dfrac {1} {2} \text {height2} \times \text {base2} \\\\
                                     &= \dfrac {1} {2} \times 3.5 \times 2 + \dfrac {1} {2} \times 3.5 \times 6 \\\\
                                     &= \dfrac {3.5 \times 2} {2} + \dfrac {3.5 \times 2 \times 3} {2} \\\\
                                     &= \dfrac {3.5 \times \cancel {2}} {\cancel {2}} + \dfrac {3.5 \times \cancel {2} \times 3} {\cancel {2}} \\\\
                                     &= 3.5 + 10.5 \\\\
-                                    &= 14 \text { cm}^2
+                                    &= 14 \ \text {cm}^2
 \end{aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
 <div class='answer'>
 
-$14 \text { cm}^2$
+$14 \ \text {cm}^2$
 
 </div>
 </div>
@@ -1162,7 +1163,7 @@ $14 \text { cm}^2$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1236,9 +1237,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1469,13 +1467,7 @@ $73$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -1928,9 +1920,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2092,7 +2081,7 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>F39DD2AD-6A07-4797-A7BC-FA6F904C2A63</p>
 </div>
@@ -2102,7 +2091,7 @@ $14$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2118,8 +2107,8 @@ Sid the spider goes for a walk around the whole perimeter of the shape below, st
 
 $
 \begin{aligned}
-\text{Perimeter} &= 4 + 9 + 5 + 9 + 14 + 12 + 14 \\\\
-                 &= 67 \ \text{cm}
+\text{Perimeter} &= 4 + 9 + 5 + 9 + (12 - (5 + 4)) + 14 + 12 + 14 \\\\
+                 &= 70 \ \text{cm}
 \end{aligned}
 $
 
@@ -2128,7 +2117,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$67 \ \text{cm}$
+$70 \ \text{cm}$
 
 </div>
 </div>
@@ -2137,7 +2126,7 @@ $67 \ \text{cm}$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>

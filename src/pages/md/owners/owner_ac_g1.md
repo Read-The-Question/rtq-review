@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ac-g1"
 title: "Owner - Chiliveru Aravind - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -495,9 +495,6 @@ $204035082$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -614,9 +611,6 @@ $8$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -861,61 +855,133 @@ $32$
 <li>
 <div class='question_envelope rag_ac_g1 question'>
 <div class='uuid'>
-<p>53399A4A-DF80-4EFD-BEC4-3F8DC5B49C23</p>
+<p>7133C4B6-24EB-4420-92C7-0A0CC3F6411E</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tunassigned
 </li>
 <li>
-tcoin
+tareaperimeter
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-There is a number of coins on a table. One quarter of them are showing heads. If I turn over two more coins to show heads then one third of the coins now show heads. How many coins are on the table?  
+I want to draw a square in which the perimeter (total length around the outside) is equal in size to the area. 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the number of coins on the table $= c$
-
-Number of coins showing head $= \dfrac {c} {4}$
-
-After turning $2$ more coins on head, i.e., $\dfrac {c} {4} + 2 $
-
-Number of coins showing heads changes to $=\dfrac {c} {3}$ 
-
-Let's form an equation, 
-
-$
-\begin{aligned}
-\dfrac {c} {3}                                                              &= \dfrac {c} {4} + 2 \\\\ 
-\dfrac {c} {3} - \dfrac {c} {4}                                             &= 2 \\\\
-\dfrac {c \times 4} {3 \times 4} - \dfrac {c \times 3} {4 \times 3}         &= 2 \\\\
-\dfrac {4c} {12} - \dfrac {3c} {12}                                         &= 2 \\\\
-\dfrac {4c - 3c} {12}                                                       &= 2 \\\\
-\dfrac {c} {12}                                                             &= 2 \\\\
-c                                                                           &= 2 \times 12 \\\\
-c                                                                           &= 24
-\end{aligned}
-$
-
-The number of coins on the table are $=24$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$24$
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the side length of the square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side length of the square $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of square}       &= \text{Perimeter of square} \\\\
+a \times a                  &= a + a + a + a \\\\
+a \times a                  &= 4 a \\\\
+a                           &= \dfrac {4 a} {a} \\\\
+a                           &= \dfrac {4 \cancel{a}} {\cancel{a}} \\\\
+a                           &= 4
+\end{aligned}
+$
+
+Side length of the square $= 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Now I want to draw a rectangle that is twice as long as it is wide. However, its perimeter is still equal in size to its area. What will the length of the rectangle be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle $= a$
+
+As per the question,
+
+Length of the rectangle $= 2 \times a$
+
+$
+\begin{aligned}
+\text{Area of rectangle}            &= \text{Perimeter of rectangle} \\\\
+\text{length} \times \text{width}   &= 2 \times (\text{length} + \text{width}) \\\\
+2a \times a                         &= 2 \times (2a + a) \\\\
+2a \times a                         &= 2 \times 3a \\\\
+a                                   &= \dfrac{2 \times 3 \times a} {2 \times a} \\\\
+a                                   &= \dfrac{\cancel{2} \times 3 \times \cancel{a}} {\cancel{2} \times \cancel{a}} \\\\
+a                                   &= 3
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Length of rectangle} &= 2 \times a \\\\
+                            &= 2 \times 3 \\\\
+                            &= 6
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1767,9 +1833,6 @@ $\pounds 13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1990,9 +2053,6 @@ $70$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2557,9 +2617,6 @@ $21, 34$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -2671,9 +2728,6 @@ $498$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2862,13 +2916,7 @@ $5.5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -3473,9 +3521,6 @@ $\dfrac {22} {5} \ \text{or} \ 4 \dfrac {2} {5}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -4252,9 +4297,6 @@ $5.78$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -4278,7 +4320,7 @@ Write in the missing numbers:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4577,7 +4619,7 @@ Calculate each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4694,7 +4736,7 @@ Use this result to write down the answers to each of the following:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -5096,9 +5138,6 @@ $16$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -5211,9 +5250,6 @@ $\dfrac {11} {12}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -6218,7 +6254,7 @@ $2\dfrac{2} {3}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -7105,10 +7141,7 @@ $4446$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -8102,9 +8135,6 @@ Any number between $795$ to $805$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

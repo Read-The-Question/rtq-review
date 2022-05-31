@@ -1,9 +1,60 @@
 ---
 slug: "owners/owner-ar-g1"
 title: "Owner - Aryan Rawat - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>E910C2F9-6456-4BBC-AFDD-535BDC142506</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Freya’s bus leaves at $08{:}05$. She arrives $12 \ \text{minutes}$ early 
+for the bus. When does she arrive?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Arrival Time}  &= 8 {:} 05 - 12 \ \text{minutes} \\\\
+                     &= 7 {:} 58
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 {:} 58$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
@@ -104,6 +155,126 @@ D
 </div>
 </div>
 
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>416925A5-F078-4A2D-BB8E-871E9D3B167B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $5 \%$ of $360$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5\% \text { of } 360 \\\\
+&= \dfrac {5} {100} \times 360 \\\\
+&= \dfrac {5 \times 360} {100} \\\\
+&= \dfrac {5 \times 2 \times 18 \times 10} {2 \times 5 \times 10} \\\\
+&= \dfrac {\cancel {5} \times \cancel {2} \times 18 \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+&= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $15 \%$ of $360$.
+
+You can use part (a) to help you.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 15\% \text { of } 360 \\\\
+&= \dfrac {15} {100} \times 360 \\\\
+&= \dfrac {15 \times 360} {100} \\\\
+&= \dfrac {5 \times 3 \times 2 \times 18 \times 10} {2 \times 5 \times 10} \\\\
+&= \dfrac {\cancel {5} \times 3 \times \cancel {2} \times 18 \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+&= 54
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -293,6 +464,62 @@ $7$
 <li>
 <div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
+<p>D1E91C2C-7808-4EE0-BABC-FC7615F5E3D4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How long is it, in hours and minutes, between $09{:}34$ and $13{:}21$?
+
+-  $4 \ \text{hrs} 57 \ \text{mins}$ 
+-  $3 \ \text{hrs} 47 \ \text{mins}$ 
+-  $4 \ \text{hrs} 37 \ \text{mins}$
+-  $22 \ \text{hrs} 55 \ \text{mins}$ 
+-  $4 \ \text{hrs} 13 \ \text{mins}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Difference}   &= 13{:}21 - 9{:}34 \\\\
+                     &= 4 \ \text {hours} \ 47 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$ 4 \ \text{hours} \ 47 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
 <p>8F66D2BA-D78E-4C07-BD24-B7741E19A525</p>
 </div>
 <div class='topics'>
@@ -333,6 +560,64 @@ $nine tenths$
 <div class='answer'>
 
 $nine tenths$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>647F4ED9-464B-42F6-AD07-9DEACD207E79</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On my wall I want to put some stickers of my favourite pop star Singing Steve. 
+The space I have available is $55 \ \text{cm}$ by $60 \ \text{cm}$ and the stickers are each $15 \ \text{cm}$ by $5 \ \ text{cm}$. 
+What is the maximum number of stickers I can fit on the wall?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Area} = \text{length} \times \text{width}$
+
+$
+\begin{aligned}
+\text{Number of stickers}  &= \dfrac {\text{Area of the space}} {\text{Area of sticker}}
+                           &= \dfrac {55 \times 60} {15 \times 5} \\\\
+                           &= \dfrac {5 \times 11 \times 15 \times 4} {15 \times 5} \\\\
+                           &= \dfrac {\cancel {5} \times 11 \times \cancel {15} \times 4} {\cancel {15} \times \cancel {5} } \\\\
+                           &= 11 \times 4 \\\\
+                           &= 44
+\end{aligned}
+$
+
+Number of stickers $= 44$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44$
 
 </div>
 </div>
@@ -1167,6 +1452,318 @@ $21.6 \ \text{kilometer per hour}$
 <li>
 <div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
+<p>B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If I buy $6$ pens at $\pounds 1.15$ each and 10 refills at $56 \text{p}$ each, how much change will I get if I pay with a $\pounds 20$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert all amounts into pence.
+
+$
+\begin{aligned}
+\text {Total amount spent}   &= 1.15 \times 100 \text {p} + 56p \\\\\
+                             &= 115 \text {p} + 56p \\\\
+                             &= 171 \text {p} \\\\
+\pounds 20 \text {in pence}  &= \pounds 20 \times 100p \\\\
+                             &=  2000 \text {p}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Change}     &= 2000 \text {p} - 171 \text {p} \\\\
+                   &= 1829 \text {p}
+                   &= \dfrac {1829} {100} \\\\
+                   &= \pounds 18.29
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 18.29$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>BE851320-29AB-491D-B295-527BA7C9A21D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing numbers in the following sequences:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1, 3, 5, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}, 11$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}
+&&  \footnotesize{\maroonC{(+2)}}  \\
+1,  &&    3,  &&  5,  && \ldots,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}   &= 5 + 2 \\\\
+                              &= 7 \\\\
+\text{Second missing number}  &= 7 + 2 \\\\
+                              &= 9                             
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7,9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1, 3, 7, 13, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}, 43$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence
+
+The next term is calculated  by $\text{difference between consecutive terms} \times 2$, Hence the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{{(+2)}}
+&&  \footnotesize{{(+4)}}
+&&  \footnotesize{{(+6)}}
+&&  \footnotesize{{(+8)}}
+&&  \footnotesize{{(+10)}}
+&&  \footnotesize{{(+12)}} \\
+1,  &&    3,  &&  7,  &&  13,  &&  \dots, && \dots, && 43
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 13 + 8 \\\\
+                               &= 21 \\\\
+\text{Second missing number}   &= 21 + 10 \\\\
+                               &= 31
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21,31$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1, 2, 0, 3, -1, 4, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the sum of the two consecutive terms of the sequence
+
+$
+\begin{matrix}
+&   \footnotesize{{(+1)}}
+&&  \footnotesize{{(-2)}}
+&&  \footnotesize{{(+3)}}
+&&  \footnotesize{{(-4)}}
+&&  \footnotesize{{(+5)}}
+&&  \footnotesize{{(-6)}}
+&&  \footnotesize{{(+7)}} \\
+1,  &&    2,  &&  0,  &&   3,  &&  -1,  &&  4,  &&  \dots,  &&  \dots
+\end{matrix}
+$
+
+$
+begin{aligned}
+\text {First missing number}  &= 4 - 6 \\\\
+                              &= -2 \\\\
+\text {Second missing number} &= -2 + 7 \\\\
+                              &= 5 \\\\                             
+end{aligned}                             
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-2,5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>53399A4A-DF80-4EFD-BEC4-3F8DC5B49C23</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There is a number of coins on a table. One quarter of them are showing heads. If I turn over two more coins to show heads then one third of the coins now show heads. How many coins are on the table?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of coins on the table $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {c} {3}                                                              &= \dfrac {c} {4} + 2 \\\\ 
+\dfrac {c} {3} - \dfrac {c} {4}                                             &= 2 \\\\
+\dfrac {c \times 4} {3 \times 4} - \dfrac {c \times 3} {4 \times 3}         &= 2 \\\\
+\dfrac {4c} {12} - \dfrac {3c} {12}                                         &= 2 \\\\
+\dfrac {4c - 3c} {12}                                                       &= 2 \\\\
+\dfrac {c} {12}                                                             &= 2 \\\\
+c                                                                           &= 2 \times 12 \\\\
+c                                                                           &= 24
+\end{aligned}
+$
+
+The number of coins on the table are $=24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
 <p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
 </div>
 <div class='topics'>
@@ -1652,7 +2249,7 @@ $20$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1829,7 +2426,7 @@ tnoexplanation
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -1855,7 +2452,7 @@ Write in figures the number:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2087,7 +2684,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2150,7 +2747,7 @@ Write down, in grams, the masses represented by the arrows on these scales.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -3241,7 +3838,7 @@ Ten calculators have a total mass of $1500 \ \text{g}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3301,7 +3898,7 @@ $150 \ \text{g}$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -3448,7 +4045,7 @@ tmoney
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3520,7 +4117,7 @@ $\pounds 7.6$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -3651,7 +4248,7 @@ $1 \quad 2 \quad 4 \quad \dots \quad 14 \quad 28$
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4819,10 +5416,7 @@ $\dfrac {5} {8}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -5063,9 +5657,6 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -5252,6 +5843,64 @@ $7$
 </ul>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_g1 question'>
+<div class='uuid'>
+<p>4B61C938-79C7-44C1-871D-5818101388C0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+My garden centre sells Summer bedding plants at $85 \text{p}$ each. I have $\pounds 30$ to spend. How many plants can I buy? Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert the total amount into pence.
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of plants}     &= \dfrac{\text {Total amount}} {\text {Amount per plant}} \\\\
+                            &= \dfrac {\pounds 30} {85} \\\\
+                            &= \dfrac {30 \times 100 \text {p}} {85} \\\\
+                            &= \dfrac {6 \times 5 \times 100} {17 \times 5} \\\\
+                            &= \dfrac {6 \times \cancel {5} \times 100} {17 \times \cancel {5}} \\\\
+                            &= \dfrac {600} {17} \\\\
+                            &= 35 \dfrac {5} {17}
+\end{aligned}
+$
+
+Number of plants that can be brought = $35$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g1</p>

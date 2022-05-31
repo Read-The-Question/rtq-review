@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedaddition-g1"
 title: "Topic - Detailedaddition - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -830,6 +830,63 @@ $11.021$
 </div>
 <div class='rag'>
 <p>rag_nc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_g1 question'>
+<div class='uuid'>
+<p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $148 + 476$?
+
+A: $514$
+
+B: $524$
+
+C: $614$
+
+D: $624$
+
+E: $634$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+        &   1   &   4   &   8 \\
+{}+     &   4   &   7   &   6 \\
+\hline
+        &   6   &   2   & 4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$624$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_g1</p>
 </div>
 </div>
 </li>

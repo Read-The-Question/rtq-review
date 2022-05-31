@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2014-sample-paper-5"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -526,16 +526,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
 tquadraticprompt
-</li>
-<li>
-ttrialerror
 </li>
 </ul>
 </div>
@@ -573,7 +567,7 @@ $14, 12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>4C1FFBEC-5A20-4587-B402-F509D681C586</p>
 </div>
@@ -616,12 +610,12 @@ $36$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>AA1C5578-EC4D-41B3-8D56-14B948934F9D</p>
 </div>
@@ -728,7 +722,7 @@ $25 \ \text {miles}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -849,12 +843,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 talgebra
 </li>
@@ -1941,7 +1929,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tlogic
@@ -2386,7 +2374,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

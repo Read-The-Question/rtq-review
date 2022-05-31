@@ -1,63 +1,9 @@
 ---
 slug: "topics/topic-tdate-pr"
 title: "Topic - Date - PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tdate
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The day before yesterday my daughter was $10$ years old. Next year she will be $13$ years old. What is the date today?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Date of birth of daughter}       &= 31 \ \text{December} \\\\
-\text{Today's date}                    &= 1 \ \text{January}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$ January
-
-</div>
-</div>
-
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-g1"
 title: "Topic - Unit - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -543,6 +543,61 @@ $500 \ \text{mm}^2$
 </ul>
 <div class='papername'>
 <p>csse--11-plus--maths--2017--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>B7CDC218-814A-4291-B812-C2C813D385FB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunit
+</li>
+<li>
+tfakeratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One inch is about $2.5 \ \text{centimetres}$. How many inches are roughly equal to $1 \ \text{metre}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \ \text {centimetres}               &= \dfrac {1} {2.5} \ \text {inches} \\\\
+1 \times 100 \ \text {centimetres}    &= \dfrac {100} {2.5} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {1000} {25} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {40 \times 25} {25} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {40 \times \cancel {25}} {\cancel {25}} \ \text {inches} \\\\
+1 \ \text {metre}                     &= 40 \ \text {inches} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text{inches}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -1464,7 +1519,7 @@ $12{:}43$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tunit
@@ -2183,9 +2238,6 @@ $\text{litres}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

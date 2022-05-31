@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-all"
 title: "Topic - Angle - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -570,7 +570,7 @@ $
 49 + 52 + a    &= 180 \\\\
 101 + a        &= 180 \\\\
 a              &= 180 - 101 \\\\
-a              &= 79 \ \degree
+a              &= 79 \degree
 \end{aligned}
 $
 
@@ -579,7 +579,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$79 \ \degree$
+$79 \degree$
 
 </div>
 </div>
@@ -834,7 +834,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>4DFDE872-CA9D-4835-9FCF-E33BB1673E98</p>
 </div>
@@ -963,7 +963,7 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -1834,7 +1834,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>DA636143-50D9-44F2-92E7-6E0251062FF1</p>
 </div>
@@ -1884,7 +1884,7 @@ $60 \degree$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -2694,7 +2694,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>FB2B0EDB-09F8-45CB-A665-24A641A13C3B</p>
 </div>
@@ -2776,7 +2776,7 @@ $a = 68 \degree$
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -3646,7 +3646,7 @@ $38 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3852614B-1AE4-4DBC-B778-EAC0383CA0FA</p>
 </div>
@@ -3750,7 +3750,7 @@ $90 \degree$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -4120,7 +4120,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
 </div>
@@ -4179,14 +4179,14 @@ As per the diagram,
 
 $
 \begin{aligned}
-c + 62 + 90 &= 180 \\\\
+c + 62 + 90  &= 180 \\\\
 c + 152      &= 180 \\\\
 c            &= 180 - 152 \\\\
 c            &= 28 \degree
 \end{aligned}
 $
 
-The value of d will also be equal to 28 because they are opposite angles
+The value of $d$ will also be equal to $28$ because they are opposite angles.
 
 </div>
 </div>
@@ -4207,7 +4207,7 @@ $28 \degree, \ 28 \degree$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5073,7 +5073,7 @@ $60 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6F88E47C-D07C-48F0-9094-F886FF0D2CFA</p>
 </div>
@@ -5110,10 +5110,10 @@ $
 2a + a + 90     &= 180 \\\\
 3a + 90         &= 180 \\\\
 3a              &= 180 - 90 \\\\
-a               &= \dfrac{90}{3} \\\\
-a               &= \dfrac{30 \times 3}{3} \\\\
-a               &= \dfrac{30 \times \cancel{3}}{ \cancel{3}} \\\\
-a               &= 30\degree
+a               &= \dfrac {90} {3} \\\\
+a               &= \dfrac {30 \times 3} {3} \\\\
+a               &= \dfrac {30 \times \cancel{3}} { \cancel{3}} \\\\
+a               &= 30 \degree
 \end{aligned}
 $
 
@@ -5128,7 +5128,7 @@ $
 b                   &= \dfrac {30} {2} \\\\
 b                   &= \dfrac {15 \times 2} {2} \\\\
 b                   &= \dfrac {15 \times \cancel {2} } {\cancel {2} } \\\\
-b                   &= 15
+b                   &= 15 \degree
 \end{aligned}
 $
 
@@ -5137,12 +5137,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$30\degree$
+$30 \degree$
 
 </div>
 <div class='answer'>
 
-$15\degree$
+$15 \degree$
 
 </div>
 </div>
@@ -5151,7 +5151,7 @@ $15\degree$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -6609,7 +6609,7 @@ $136 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>A9712DDD-B6B1-40F8-80F2-D8628FB0991D</p>
 </div>
@@ -6675,7 +6675,7 @@ $110\degree$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -6981,7 +6981,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7400,7 +7400,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -7501,7 +7501,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C</p>
 </div>
@@ -7619,7 +7619,7 @@ $30 \degree, 150 \degree, 150 \degree$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -8324,7 +8324,7 @@ $40 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
 </div>
@@ -8390,7 +8390,7 @@ $105 \degree$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-all"
 title: "Topic - Percentage - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -219,7 +219,7 @@ $85 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>416925A5-F078-4A2D-BB8E-871E9D3B167B</p>
 </div>
@@ -334,7 +334,7 @@ $54$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -1090,7 +1090,7 @@ $80 \ %$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>18F0ED79-1C13-4B24-A57C-C53F88E71603</p>
 </div>
@@ -1164,7 +1164,7 @@ $80 \%$ of $20 \%$ of $200$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -1553,7 +1553,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_pr question'>
+<div class='question_envelope rag_nc_blocked question'>
 <div class='uuid'>
 <p>41469334-E26E-4288-858D-B1A86B728DBC</p>
 </div>
@@ -1646,7 +1646,7 @@ $400$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_nc_pr</p>
+<p>rag_nc_blocked</p>
 </div>
 </div>
 </li>
@@ -2396,7 +2396,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>8CF1FA33-107D-436D-852E-0527BD6EE663</p>
 </div>
@@ -2485,7 +2485,7 @@ $30\% \text{ of } \ 30$
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -3209,7 +3209,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_blocked question'>
 <div class='uuid'>
 <p>E613AD24-EE97-4825-9545-2EBD62F74520</p>
 </div>
@@ -3341,7 +3341,7 @@ $48 \text { kg}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_blocked</p>
 </div>
 </div>
 </li>
@@ -3583,64 +3583,6 @@ $\dfrac {6} {5}$
 </div>
 <div class='rag'>
 <p>rag_ad_g2</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>1B75D1B9-5669-4840-977E-AF67A1065F16</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-To make porridge, Goldilocks mixes $3$ bags of oats with $1$ bag containing $20\%$ wheat bran and $80\%$ oats. 
-All the bags have the same volume. What percentage of the porridge mix is wheat bran?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Percentage} &= 3 \times 20 \% \\\\
-                  &= 3 \times \dfrac {20} {100} \\\\
-                  &= \dfrac {20 \times 3} {100} \\\\
-                  &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
-                  &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
-                  &= \dfrac {3} {5} \\\\
-                  &= 0.6 \times 100 \\\\
-                  &= 60 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60 \%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -5136,7 +5078,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>930108AD-9249-4113-9637-92942C51C01F</p>
 </div>
@@ -5225,20 +5167,20 @@ Let's first multiply the numbers ignoring the zeroes.
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       1       & 2     & 5     \\
-{}\times    &       &               & 1     & 6     \\
+            &       &   1   &   2     &   5 \\
+\times      &       &       &   1     &   6 \\
 \hline
-            &      &       7       & 5     & 0     \\
-            &      1&       2       & 5     & 0     \\
+            &       &   7   &   5     &   0 \\
+            &   1   &   2   &   5     &   0 \\
                                     
 \hline
-            &      2&       0       & 0     & 0
+            &   2   &   0   &   0     &   0
 \end{array}
 $
 
 Let's account for the one zeroes now.
 
-&= 20000
+$= 20000$
 
 </div>
 </div>
@@ -5270,8 +5212,9 @@ $
 \begin{aligned}
 &= 20\% \text{ of } \pounds 640 \\\\
 &= \dfrac {20} {100} \times 640 \\\\
-&= \dfrac {2\cancel {0} } {1 \cancel{0} \cancel {0} } \times 64 \cancel {0} \\\\
-&= 64 \times 2 \\\\
+&= \dfrac {20 \times 640} {100} \\\\
+&= \dfrac {2 \cancel {0} \times 64 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= 2 \times 64 \\\\
 &= \pounds 128
 \end{aligned}
 $
@@ -5375,18 +5318,22 @@ Subtract $\text{two thousand seven hundred and eighteen}$ from $\text{three thou
 <div class='working'>
 
 $
-\begin{aligned}
-&= 3143 - 2718 \\\\
-&= 425
-\end{aligned}
+\begin{array}{cccccccccccccc}
+        &   3   &   1   &   4   &   3 \\  
+{}-     &   2   &   7   &   1   &   8 \\ 
+\hline
+        &       &   4   &   2   &   5 
+\end{array}
 $
+
+$\text {four hundred twenty five}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$425$
+$\text {four hundred twenty five}$
 
 </div>
 </div>
@@ -5398,7 +5345,7 @@ $425$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -5456,7 +5403,7 @@ $35 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>78014A49-10F8-489D-B6FC-B8F15474740B</p>
 </div>
@@ -5614,7 +5561,7 @@ $75 \%$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -6915,7 +6862,7 @@ Convert
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -8449,7 +8396,7 @@ Harry spends $\dfrac{1}{3}$ of his lunch break eating his lunch.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9252,7 +9199,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -9427,7 +9374,7 @@ Here is a pie chart showing her results:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -10416,320 +10363,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>27D02444-74FB-437E-803D-BEE8B6392DD0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Irfan is going to cut a stick $80 \ \text{cm}$ long into pieces.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If he cuts it into sixteen equal pieces, how long is each piece? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If each piece is $25 \ \text{mm}$ long, how many pieces are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If he cuts it into three pieces, so that one piece is $30 \%$ of the stick and the other two pieces are the same length as each other, what are the three lengths?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If he cuts it into three pieces so that one piece is $10 \ \text{cm}$ longer than the shortest piece and the longest piece is $25 \ \text{cm}$ longer than the shortest piece. What are the three lengths?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If there are four pieces, such that one is $\dfrac{1}{5}$ of the stick, one is $\dfrac{3}{10}$, and another $\dfrac{1}{8}$ of the stick, what are the four lengths?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_g1 question'>
-<div class='uuid'>
-<p>123B050C-DB35-4294-97F0-0DCBAFF89F1E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tprofit
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-*"Comfyclothes"* in the Arndale Centre reduces its prices by $20 \%$ in its winter sale. Ian bought a coat for $\pounds 60$ in the sale. 
-
-How much would it have cost before the sale started?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the original price $= p$
-
-Sale price $= 80 \%$ of the original price.
-
-As per the question,
-
-$
-\begin{aligned}
-80\% \text{ of } p              &= 60 \\\\
-\dfrac {80 } { 100 } \times p   &= 60 \\\\
-p                               &= \dfrac {60 \times 100 } { 80 } \\\\
-p                               &= \dfrac {2 \times 3 \times 10 \times 4 \times 25 } { 2 \times 4 \times 10} \\\\
-p                               &= \dfrac {\cancel{2} \times 3 \times \cancel{10} \times \cancel{4} \times 25 } { \cancel{2} \times \cancel{4} \times \cancel{10}} \\\\
-p                               &= 3 \times 25 \\\\
-p                               &= \pounds 75
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 75$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g1</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>BB8814B0-A089-4B86-80BD-8BE739CA4A8C</p>
@@ -10921,7 +10554,7 @@ tunassigned
 tpercentage
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tdraw
@@ -11130,7 +10763,7 @@ $63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ac_blocked question'>
 <div class='uuid'>
 <p>A1E3093E-6A93-4CB8-A627-77D10D5C257A</p>
 </div>
@@ -11336,12 +10969,12 @@ $3$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ac_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
 </div>
@@ -11552,10 +11185,12 @@ $
 &= (50\% + 5\% + 1\%) \times 80 \\\\
 &= 50\% \times 80 + 5\% \times 80 + 1\% \times 80 \\\\
 &= 40 + 4 + \dfrac {4} {5}  \\\\
-&= \dfrac {40 \times 5} {5} + \dfrac {4 \times 5} {5} + \dfrac {4} {5} \\\\
-&= \dfrac {200 + 20 + 4} {5} \\\\
+&= 44 + \dfrac {4} {5}  \\\\
+&= \dfrac {44 \times 5} {1 \times 5} + \dfrac {4} {5} \\\\
+&= \dfrac {220} {5} + \dfrac {4} {5} \\\\
+&= \dfrac {220 + 4} {5} \\\\
 &= \dfrac {224} {5} \\\\
-&= 44\dfrac{4}{5}
+&= 44 \dfrac {4} {5}
 \end{aligned}
 $
 
@@ -11576,7 +11211,7 @@ $44 \dfrac {4} {5}$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

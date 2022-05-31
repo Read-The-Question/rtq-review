@@ -1,7 +1,7 @@
 ---
 slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1542,9 +1542,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1850,10 +1847,7 @@ $2, \ 3, \ \text{and} \ 5$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2543,9 +2537,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -3136,7 +3127,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>

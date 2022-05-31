@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-red"
 title: "Topic - Infer - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -46,7 +46,7 @@ The pie chart below represents data collected in a survey by a PE teacher about 
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2169,7 +2169,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -2197,7 +2197,7 @@ The number machine below changes numbers according to the rule **multiply by $2$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -2582,9 +2582,6 @@ $4\ \text{hrs} \ 2 \ \text{min}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -2690,205 +2687,6 @@ $59$
 </div>
 <div class='rag'>
 <p>rag_up_red</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_red question'>
-<div class='uuid'>
-<p>6692F471-DA27-4415-ADF6-727EF20ED385</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a special code, words are replaced by the **product** of the **whole** numbers assigned to the letters. In the code, each letter is given a different number.
-
-For example:- if $\text{S} = 3$, $\text{P} = 4$ and $\text{Y} = 6$ then the word $\text{SPY} = 3 \times 4 \times 6 = 72$
-
-**Using this same method of creating our special code**, work out the answers to the following **four** questions.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If $\text{TEE} = 20$, find the values of $\text{T}$ and $\text{E}$, if **neither** of the letters has the value $1$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-T \times E \times E &= 20 \\\\
-T \times 2E         &= 20 \\\\
-T \times E          &= \dfrac{20} {2} \\\\
-T \times E          &= \dfrac{10 \times 2} {2} \\\\
-T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
-T \times E          &= 10
-\end{aligned}
-$
-
-LCM of $10$ is $2$ and $5$
-
-So,
-
-T = $5$
-
-E = $2$
-
-$5 \times 2 \times 2 = 20$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5, \ 2$ 
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Then with those values for $\text{T}$ and $\text{E}$, if $\text{TEA} = 70$, find the value of $\text{A}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-T \times E \times A &= 70 \\\\
-5 \times 2 \times A &= 70 \\\\
-10 \times A         &= 70 \\\\
-A                   &= \dfrac {70} {10} \\\\
-A                   &= \dfrac {7 \cancel {0}} {1 \cancel {0}} \\\\
-A                   &= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Now work out the value of the word $\text{SEAT}$ with the letter values you have, including those in the example at the start.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{SEAT} &= S \times E \times A  \times T \\\\
-            &= 3 \times 2 \times 7  \times 5 \\\\
-            &= 210
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$210$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Finally, if the value of the word $\text{FOAL} = 504$, work out the value of the word $\text{LOAF}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-FOAL and LOAF contain the same alphabets. LOAF is an anagram of FOAL
-
-So, LOAF = $504$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$504$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
-</div>
-<div class='rag'>
-<p>rag_ad_red</p>
 </div>
 </div>
 </li>

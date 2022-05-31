@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -375,7 +375,7 @@ $\dfrac{6}{8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_blocked question'>
 <div class='uuid'>
 <p>F7F2FFC1-D62D-4514-9BEE-0D066D637BB9</p>
 </div>
@@ -422,7 +422,7 @@ $ (3 \times (4 - 2)) + 3 = 9$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_blocked</p>
 </div>
 </div>
 </li>
@@ -476,7 +476,7 @@ $\pounds 16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>E910C2F9-6456-4BBC-AFDD-535BDC142506</p>
 </div>
@@ -522,7 +522,7 @@ $7 {:} 58$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -622,7 +622,7 @@ $\pounds 2.76$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_blocked question'>
 <div class='uuid'>
 <p>756BF331-A51F-4A21-87F9-88110C57C73D</p>
 </div>
@@ -669,7 +669,7 @@ $9$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_blocked</p>
 </div>
 </div>
 </li>
@@ -1134,7 +1134,7 @@ $
 49 + 52 + a    &= 180 \\\\
 101 + a        &= 180 \\\\
 a              &= 180 - 101 \\\\
-a              &= 79 \ \degree
+a              &= 79 \degree
 \end{aligned}
 $
 
@@ -1143,7 +1143,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$79 \ \degree$
+$79 \degree$
 
 </div>
 </div>
@@ -1167,10 +1167,7 @@ $79 \ \degree$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2615,7 +2612,7 @@ tdraw
 tgeometry
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2736,10 +2733,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 ttable
@@ -2907,7 +2901,7 @@ $250 \ \text{milliliters}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_ar_g1 question'>
 <div class='uuid'>
 <p>416925A5-F078-4A2D-BB8E-871E9D3B167B</p>
 </div>
@@ -3022,7 +3016,7 @@ $54$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 </div>
 </li>
@@ -3085,7 +3079,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_np_blocked question'>
 <div class='uuid'>
 <p>60839863-C27D-417A-8192-15977402CF7C</p>
 </div>
@@ -3095,7 +3089,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tinfer
@@ -3136,7 +3130,7 @@ $\text{1. } 8 \text{ cm} \times 3 \text{ cm}, \text{2. } 4 \text{ cm} \times 6 \
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_np_blocked</p>
 </div>
 </div>
 </li>
@@ -3645,7 +3639,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4126,7 +4120,7 @@ tunassigned
 tinfer
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4570,12 +4564,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 talgebra
 </li>

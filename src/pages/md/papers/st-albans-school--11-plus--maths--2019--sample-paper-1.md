@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-2019-sample-paper-1"
 title: "St Albans School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -215,7 +215,7 @@ $\dfrac {11} {12} $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>DF9419EB-F3A8-4D2F-B496-2C8B22A3750C</p>
 </div>
@@ -344,7 +344,7 @@ $9.72$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -1288,7 +1288,7 @@ tunassigned
 tvolume
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1567,9 +1567,6 @@ $2 \times 7 \times 2 \times 5 \times 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1806,9 +1803,6 @@ $\text {A}, \quad  \text {B}, \quad \text {D}, \quad \text {E}, \quad \text {F},
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2290,7 +2284,7 @@ $570$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>FC4F6CFA-9375-4C0E-8FA7-3428B8E1BD56</p>
 </div>
@@ -2377,20 +2371,17 @@ $\pounds 50$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>B9D7A048-0361-4F81-A8A8-64EC81D6A373</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2435,7 +2426,7 @@ $25, 5$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>

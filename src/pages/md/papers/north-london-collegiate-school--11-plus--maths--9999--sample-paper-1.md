@@ -1,7 +1,7 @@
 ---
 slug: "papers/north-london-collegiate-school-11-plus-maths-9999-sample-paper-1"
 title: "North London Collegiate School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -504,7 +504,7 @@ $81, 243$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1017,12 +1017,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1081,7 +1075,7 @@ tunassigned
 tdraw
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1276,9 +1270,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1328,14 +1319,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>BB2373FF-1D5B-413C-8160-D9BBA4F4E551</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tratio
+talgebra
 </li>
 </ul>
 </div>
@@ -1355,17 +1346,21 @@ How many **pages** are in his book?
 
 Let the number of pages $=a$
 
+It is really important to use the right units in calculations and convert where required.. Let's convert pounds in pence.
+
 As per the question,
 
 $
 \begin{aligned}
-3 \times a + 75 &= 435 \\\\
-3 \times a      &= 435 - 75 \\\\
-3 \times a      &= 360 \\\\
-a               &= \dfrac {360} {3} \\\\
-a               &= \dfrac {120 \times 3} {3} \\\\
-a               &= \dfrac {120 \times \cancel {3}} {\cancel {3}} \\\\
-a               &= 120
+3 \times a + 75 \text{p} &= \pounds 4.35 \\\\
+3 \times a + 75 \text{p} &= 4.35 \times 100 \text{p} \\\\
+3 \times a + 75          &= 435 \\\\
+3 \times a               &= 435 - 75 \\\\
+3 \times a               &= 360 \\\\
+a                        &= \dfrac {360} {3} \\\\
+a                        &= \dfrac {120 \times 3} {3} \\\\
+a                        &= \dfrac {120 \times \cancel {3}} {\cancel {3}} \\\\
+a                        &= 120
 \end{aligned}
 $
 
@@ -1383,7 +1378,7 @@ $120$
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1398,7 +1393,7 @@ $120$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tinfer
@@ -1648,7 +1643,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1697,9 +1692,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2687,9 +2679,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -2752,7 +2741,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2807,9 +2796,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-na-g1"
 title: "Owner - Naman Pant - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -693,7 +693,7 @@ $25$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2179,7 +2179,7 @@ $73 \degree, 107 \degree$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2549,9 +2549,6 @@ $21$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -3122,9 +3119,6 @@ $1996$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -3456,7 +3450,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3896,7 +3890,7 @@ $ \begin{aligned}
 &= \dfrac {20 \times 20} {100} \\\\
 &= \dfrac {2 \cancel {0} \times 2 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
 &= 2 \times 2 \\\\
-&= 4 \  \text {teachers}
+&= 4 \ \text {teachers}
 \end{aligned}
 
 Teachers who were given socks and tie $= 4$
@@ -3925,6 +3919,69 @@ $4$
 <li>
 <div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
+<p>5A02BFDB-4654-4CDA-8AB3-4762789C5789</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the fraction from this list, which is closest to $1$.
+
+$\frac {5} {7},\:\:\:\frac {2} {3},\:\:\:\frac {3} {5},\:\:\:\frac {7} {8},\:\:\:\frac {8} {9},\:\:\:\frac {7} {10}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert all the numbers into decimals..
+
+$
+\begin{aligned}
+&= \dfrac {5} {7}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {7} {8}, \quad \dfrac {8} {9}, \quad \dfrac {7} {10} \\\\
+&= 0.714, \quad 0.666, \quad 0.6, \quad 0.875, \quad 0.888, \quad 0.7
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 0.6, \quad 0.666, \quad 0.7, \quad 0.714, \quad 0.875, \quad 0.888 \\\\
+&= \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}, \quad \dfrac {5} {7}, \quad \dfrac {7} {8}, \quad \boxed {\dfrac {8} {9}}
+\end{aligned}
+$
+
+The fraction closest to $1$ is $= \dfrac {8} {9}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {8} {9}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
 <p>879257AD-7CA0-4670-881E-438490A5C1DC</p>
 </div>
 <div class='topics'>
@@ -3933,7 +3990,7 @@ $4$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3987,13 +4044,72 @@ $36 \ \text{cm}$
 <li>
 <div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
-<p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
+<p>43EF5D79-3FD1-422A-BD9F-D7DC37283EA9</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
+</ul>
+</div>
+<div class='question question'>
+
+Alison went to the supermarket. 
+
+![missing image](/papers/missing_image.svg)
+
+She bought two cans of cola costing $53 \text{p}$$ each, three packets of crisps costing $27 \text{p}$$ each and a large bar of chocolate that costs $$\pounds 1.24$.
+
+How much change did she get from $$\pounds 5$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the change Alison recieved $= a$
+
+$\pounds 5$ = $5 \times 100 \text{p}$ = $500 \text{p}$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times 53 \text{p} + 3 \times 27 \text{p} + 124 \text{p} + a              &= 500 \text{p} \\\\
+106 + 81 + 124 + a                                                          &= 500 \\\\
+311 + a                                                                     &= 500 \\\\
+a                                                                           &= 500 - 311 \\\\
+a                                                                           &= 189  \text{p}
+\end{aligned}
+$
+
+Change Alison recieved $= 189 \text{p}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$189 \text{p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 talgebra
 </li>
@@ -4100,7 +4216,7 @@ $\dfrac {1} {3}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4173,7 +4289,7 @@ $40 \ \text{cm}^2$
 tratio
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4232,9 +4348,6 @@ $\pounds 1600$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -4405,12 +4518,6 @@ $\pounds 51$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -4473,6 +4580,63 @@ $30$
 <li>
 <div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
+<p>37279E76-7207-4B08-84B9-07B10F2972FD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add together $3.7\, metres$ and $64\, cm$ and then subtract $2\, metres$ $7\,cm$. Give your answer in metres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. The measurement is given in meters and centimeteres but the answer has to be in meters.
+
+$1 \ \text{m} = 100 \ \text{cm}$
+
+$\dfrac {1} {100} \ \text{m} = 1 \ \text{cm}$
+
+$
+\begin{aligned}
+&= 3.7 \ \text{m} + 64 \ \text{cm} - 2 \ \text {m} + 7 \ \text{cm}  \\\\
+&= 3.7 \ \text{m} + \dfrac {64} {100} \ \text{m} - 2 \ \text{m} + \dfrac {7} {100} \ \text{m} \\\\
+&= 3.7 \ \text{m} + 0.64 \ \text{m}  -  2 \ \text{m} + 0.07 \ \text{m} \\\\
+&= 4.34 \ \text{m} - 2.07 \ \text{m} \\\\
+&= 2.27 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.27 \ \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
 <p>36E95BDA-CF7B-4EEC-AF73-C18EE5638591</p>
 </div>
 <div class='topics'>
@@ -4481,7 +4645,7 @@ $30$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -4609,7 +4773,7 @@ $\pounds 27$
 <div class='topics'>
 <ul>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4811,6 +4975,470 @@ $6$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Percentages**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the missing numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$50\%$ of $80$ =
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 50\% \ \text{of} \ 80 \\\\
+&= \dfrac {50} {100} \times 80 \\\\
+&= \dfrac {50 \times 80}{100}  \\\\
+&= \dfrac {5 \cancel {0} \times 8 \cancel {0}} {1 \cancel {0} \cancel {0}}  \\\\
+&= 5 \times 8 \\\\
+&= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$5\%$ of $80$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using previous answer
+
+$50\% \ \text{of} \ 80 = 40$ ,
+
+$
+\begin{aligned}
+&= 5\% \ \text{of} \ 80 \\\\
+&= \dfrac {5\% \times 10} {1 \times 10} \times 80 \\\\
+&= \dfrac {50\% \times 80} {100}  \\\\
+&= \dfrac {40}{10} \\\\
+&= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
+&= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$1\%$ of $80$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using previous answer
+
+$5\% \ \text{of} \ 80 = 4$ ,
+
+$
+\begin{aligned}
+&= 1\% \text{ of } 80 \\\\
+&= \dfrac {1\% \times 5} {1 \times 5} \times 80 \\\\
+&= \dfrac {5 \%}{5} \times 80  \\\\
+&= \dfrac {5\% \times 80} {5} \\\\
+&= \dfrac {4} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{4}{5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $56\%$ of $80$
+
+You can use part (a) to help you.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using previous answers
+
+$50\% \ \text{of} \ 8 = 40$
+
+$5\% \ \text{of} \ 8 = 4$
+
+$1\% \ \text{of} \ 8 = \dfrac {4} {5}$
+
+$
+\begin{aligned}
+&= 56\% \text{ of } 80 \\\\
+&= (50\% + 5\% + 1\%) \times 80 \\\\
+&= 50\% \times 80 + 5\% \times 80 + 1\% \times 80 \\\\
+&= 40 + 4 + \dfrac {4} {5}  \\\\
+&= 44 + \dfrac {4} {5}  \\\\
+&= \dfrac {44 \times 5} {1 \times 5} + \dfrac {4} {5} \\\\
+&= \dfrac {220} {5} + \dfrac {4} {5} \\\\
+&= \dfrac {220 + 4} {5} \\\\
+&= \dfrac {224} {5} \\\\
+&= 44 \dfrac {4} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44 \dfrac {4} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>225E084E-3E8B-41BC-8F2E-8117437E9AF8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Value**
+
+Use **a = 7** and **b = 28** to work out the value of these expressions.
+
+The first one is done for you.
+
+ $a + b$ = ......**35**.....
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$ab$ = .....................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 \times 28 \\\\
+&= 196
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$196$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$b/a$ = .....................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {b} {a} \\\\
+&= \dfrac {28} {7} \\\\
+&= \dfrac {7 \times 4} {7} \\\\
+&= \dfrac {\cancel {7} \times 4} {\cancel {7}} \\\\
+&= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(a+b)^2$ =  ................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (a+b)^2 \\\\
+&= (7+28)^2 \\\\
+&= (35)^2 \\\\
+&= 1125
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1125$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_g1 question'>
+<div class='uuid'>
+<p>6C90D298-28FD-41C8-A233-C293F44572FA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The total of the ages of a father, his daughter and his two sons is $96$ years. 
+
+The daughter is half the father's age and double the age of her two brothers. 
+
+How old is the father?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of father $= a$
+
+Age of daughter $= \dfrac {a} {2}$
+
+Age of brother $= \dfrac {a} {4}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Age of father} + \text{Age of daughter} + \text{Age of 2 sons}                            &= 96 \\\\
+a + \dfrac {a} {2} + \dfrac {a} {4} + \dfrac{a} {4}                                             &= 96 \\\\
+\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a} {4} + \dfrac{a} {4}      &= 96 \\\\
+\dfrac {4a} {4} + \dfrac {2a} {4} + \dfrac {a} {4} + \dfrac {a} {4}                             &= 96 \\\\ 
+\dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
+\dfrac {8a} {4}                                                                                 &= 96 \\\\
+8a                                                                                              &= 96 \times 4 \\\\
+a                                                                                               &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {8 \times 12 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
+a                                                                                               &= 12 \times 4 \\\\
+a                                                                                               &= 48
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>

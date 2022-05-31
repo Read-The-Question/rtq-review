@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2010-sample-paper-1"
 title: "Reigate Grammar School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1097,9 +1097,6 @@ $428 \text {p}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -1157,12 +1154,6 @@ $501$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 talgebra
 </li>
@@ -1756,7 +1747,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_sc_blocked question'>
 <div class='uuid'>
 <p>A3E2A396-36A1-43D4-9B0A-20559805248E</p>
 </div>
@@ -1805,7 +1796,7 @@ $3 \ \text{and} \ 0$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_sc_blocked</p>
 </div>
 </div>
 </li>
@@ -1817,13 +1808,7 @@ $3 \ \text{and} \ 0$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -1882,9 +1867,6 @@ $6x + 4y$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -2170,13 +2152,7 @@ $0.014$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>

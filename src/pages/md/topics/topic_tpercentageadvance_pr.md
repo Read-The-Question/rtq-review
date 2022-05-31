@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-pr"
 title: "Topic - Percentageadvance - PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -64,7 +64,7 @@ $64 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6D64BD13-96F2-4FFB-B6AA-B83638EF2A64</p>
 </div>
@@ -92,10 +92,13 @@ If the height is increased by $10\%$ then new height will be $100 + 10 = 110\%$ 
 
 $
 \begin{aligned}
-\text{New Height}  &= 150  + 110 \% \text{ of} 150 \\\\
-                   &= 150  + \dfrac {11 \cancel{0} } {1 \cancel {0} \cancel{0} } \times 15 \cancel {0} \\\\
-                   &= 150 +  165 \\\\
-                   &= 315 \text{ cm}   
+\text{New Height}  &= 150  + 110 \% \text { of} \ 150 \\\\
+                   &= 150 + \dfrac {110} {100} \times 150 \\\\
+                   &= 150 + \dfrac {110 \times 150} {100} \\\\
+                   &= 150 + \dfrac {11 \cancel {0} \times 15 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                   &= 150 + 11 \times 15 \\\\
+                   &= 150 + 165 \\\\
+                   &= 315 \ \text {cm}
 \end{aligned}
 $
 
@@ -104,7 +107,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$315 \text{ cm}$
+$315 \ \text{cm}$
 
 </div>
 </div>
@@ -113,7 +116,7 @@ $315 \text{ cm}$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

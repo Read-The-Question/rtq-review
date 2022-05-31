@@ -1,7 +1,7 @@
 ---
 slug: "papers/epsom-college-11-plus-maths-9999-sample-paper-1"
 title: "Epsom College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -380,7 +380,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nm_pr question'>
+<div class='question_envelope rag_nm_blocked question'>
 <div class='uuid'>
 <p>19CC0602-FEEF-46E8-9116-96B6CF3464D9</p>
 </div>
@@ -554,7 +554,7 @@ $(2 + 3) \times (4 + 5) = 45$
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nm_pr</p>
+<p>rag_nm_blocked</p>
 </div>
 </div>
 </li>

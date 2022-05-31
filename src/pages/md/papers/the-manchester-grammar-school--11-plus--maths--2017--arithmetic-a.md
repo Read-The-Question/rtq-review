@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic A"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -579,12 +579,6 @@ $\pounds 5.04$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tstatistics
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -719,9 +713,6 @@ $18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -785,16 +776,10 @@ $28$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -874,7 +859,7 @@ tunassigned
 talgebra
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -934,15 +919,12 @@ $48 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>E18F355F-E6B9-4D2A-922F-0959DD6D4280</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -1037,7 +1019,7 @@ $\pounds 2.80$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -1052,7 +1034,7 @@ $\pounds 2.80$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra

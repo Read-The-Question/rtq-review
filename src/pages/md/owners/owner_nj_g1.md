@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-nj-g1"
 title: "Owner - Nitin Joshi - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3418,9 +3418,6 @@ $130$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -5806,7 +5803,7 @@ $8$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -6263,6 +6260,115 @@ $\pounds 182$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>FF15893E-F772-4830-8CA9-E540E52C0887</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**For question $\bold{25}$ and $\bold{26}$ use the information provided in this box.**
+
+![missing table](/papers/missing_table.svg)
+
+For how many hours is it open each week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+| Day                | Opening hours   |
+|--------------------|-----------------|
+| SAT                | 9 Till 5        |
+| SUN                | 1 Till 5        |
+| WEDS and FRI       | 2 Till 5        |
+
+Let's calculate the total hours it is open in each week.
+
+$
+\begin{aligned}
+\text{Total hours}   &= \text {Sat} + \text {Sun} + \text {Wed} + \text {Fri} \\\\
+                     &= 8 \ \text {hours}  +  4 \ \text {hours} +  3 \ \text {hours} +  3 \ \text {hours} \\\\
+                     &= 18 \ \text{hours}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18 \text{hours}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>ED073E19-C259-4CCE-9247-955B9E693C10</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much change would there be from a $\pounds 20$ note for Alice, Owen, Mum, Dad and Gran if they use the car park?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total charges}    &= (1.60 \times 2) + (2.40 \times 3) + 1.50 \\\\
+                        &= 3.20 + 7.20 + 1.50 \\\\
+                        &= \pounds 11.90 \\\\
+\text{Change left }     &= 20 - 11.90 \\\\
+                        &= \pounds 8.10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 8.10$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>9765422F-8002-4C2D-B4DF-7DA87D35A226</p>
 </div>
 <div class='topics'>
@@ -6374,6 +6480,61 @@ $7.25$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>B7CDC218-814A-4291-B812-C2C813D385FB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunit
+</li>
+<li>
+tfakeratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One inch is about $2.5 \ \text{centimetres}$. How many inches are roughly equal to $1 \ \text{metre}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \ \text {centimetres}               &= \dfrac {1} {2.5} \ \text {inches} \\\\
+1 \times 100 \ \text {centimetres}    &= \dfrac {100} {2.5} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {1000} {25} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {40 \times 25} {25} \ \text {inches} \\\\
+1 \ \text {metre}                     &= \dfrac {40 \times \cancel {25}} {\cancel {25}} \ \text {inches} \\\\
+1 \ \text {metre}                     &= 40 \ \text {inches} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text{inches}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>7DF50E0E-627E-4080-A886-C2724978A151</p>
 </div>
 <div class='topics'>
@@ -6432,7 +6593,7 @@ $\text {Octagon}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -6458,6 +6619,49 @@ $
 <div class='answer'>
 
 $48 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>DFE28FF1-618F-43C0-9BCB-05877CC899BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The angles are all the same size, because it is regular. What is the special name given to an angle of this size?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Obtuse angle
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Obtuse angle
 
 </div>
 </div>
@@ -6955,13 +7159,7 @@ $60 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -7063,9 +7261,6 @@ $\pounds 57.85$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -7222,13 +7417,7 @@ $500$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -7768,9 +7957,6 @@ $42$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -8348,9 +8534,6 @@ $\pounds 140.55$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -8402,7 +8585,7 @@ $9$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>CE54E1C3-FEFC-401E-BEA5-7DF8F88FFE0E</p>
+<p>B1035CFF-9D27-4291-9D78-74E41193350E</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8410,10 +8593,99 @@ $9$
 tunassigned
 </li>
 <li>
-talgebra
+tfakeratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A minibus carries $14$ pupils.
+How many buses would be needed to take $300$ pupils?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Buses needed}     &= \dfrac {300} {14} \\\\
+                        &= 21.\dot{4} \\\\
+                        &= 22
+\end{aligned}
+$
+
+Rounding up, $22$ buses are needed to carry $300$ pupils.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
 </li>
 <li>
-tfraction
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>32CCF206-C0DE-480B-BDD6-BAA8DE6F3758</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What does the $6$ in the number $3567.23$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$60$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>CE54E1C3-FEFC-401E-BEA5-7DF8F88FFE0E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -8454,6 +8726,57 @@ $
 <div class='answer'>
 
 $2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>96E4D14B-256B-459C-BF7E-0AF75C382FD0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many times can $137$ be subtracted from $1024$ before we get to zero?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of times}  &= \dfrac {1024} {137} \\\\
+                        &= 7.47 \\\\
+                        &= 7
+\end{aligned}
+$
+
+$137$ can be subtracted seven times from $1024$ before we get to zero.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
 
 </div>
 </div>
@@ -8790,13 +9113,63 @@ $\pounds 2.03$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>3A513985-D1D3-40B2-B05F-CC9885D680E6</p>
+<p>CAB14175-FD8C-4B4B-8845-6C9DD350BC9F</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tunassigned
 </li>
+<li>
+ttime
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of an hour is $5$ minutes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text {Fraction}    &= \dfrac {5} {60} \\\\
+                    &= \dfrac {5} {5 \times 12} \\\\
+                    &= \dfrac {\cancel {5}} {\cancel {5} \times 12} \\\\
+                    &= \dfrac {1} {12}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {12}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>3A513985-D1D3-40B2-B05F-CC9885D680E6</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 talgebra
 </li>
@@ -9369,9 +9742,6 @@ $16.30$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -9610,6 +9980,57 @@ $
 <div class='answer'>
 
 $57{,}702{,}000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>C354CC85-6043-4133-9B50-EDA130A479B3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many times can $147$ be subtracted from $1270$ before we get to zero?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of times}  &= \dfrac {1270} {147} \\\\
+                        &= 8.63 \\\\
+                        &= 8
+\end{aligned}
+$
+
+$147$ can be subtracted eight times from $1270$ before we get to zero. 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
 
 </div>
 </div>
@@ -10030,13 +10451,64 @@ $150 \ \text {miles}$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>8AD4D8C4-1AB8-45CD-AF1F-11030CCEC600</p>
+<p>3452FC7B-6354-498B-9BE2-BF8B78CD5FC9</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tunassigned
 </li>
+<li>
+tfraction
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of a day is $15 \ \text{minutes}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text {Fraction}    &= \dfrac {15} {3600} \times 24 \\\\
+                    &= \dfrac {15 \times 24} {3600} \\\\
+                    &= \dfrac {15 \times 24} {15 \times 24 \times 10} \\\\
+                    &= \dfrac {\cancel {15} \times \cancel {24}} {\cancel {15} \times \cancel {24} \times {10}} \\\\
+                    &= \dfrac {1} {10}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {10}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>8AD4D8C4-1AB8-45CD-AF1F-11030CCEC600</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 talgebra
 </li>
@@ -10451,9 +10923,6 @@ $\pounds 161.35$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -10489,6 +10958,104 @@ $
 <div class='answer'>
 
 $8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>362B2010-9590-466F-8D23-A4DCD45A3669</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What does the $2$ in the number $3567.23$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>A7B86F61-CB41-4218-B297-AB8668CF3287</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I am thinking of a number. One fifth of my number is $6$.
+
+What is one half of my number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {One half of the number}      &= \dfrac {1} {2} \times a \\\\
+                                    &= \dfrac {1} {2} \times 30 \\\\
+                                    &= \dfrac {30} {2} \\\\
+                                    &= \dfrac {15 \times 2} {2} \\\\
+                                    &= \dfrac {15 \times \cancel {2}} {\cancel {2}} \\\\
+                                    &= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
 
 </div>
 </div>
@@ -10772,13 +11339,63 @@ $31.02$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
-<p>A41FF430-EBAD-4ACB-9835-13382E26129B</p>
+<p>68822C6B-6F06-415B-8DA6-B4B68895040B</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tunassigned
 </li>
+<li>
+tfraction
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of an hour is $4 \ \text{minutes}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text {Fraction}    &= \dfrac {4} {60} \\\\
+                    &= \dfrac {4} {4 \times 15} \\\\
+                    &= \dfrac {\cancel {4}} {\cancel {4} \times 15} \\\\
+                    &= \dfrac {1} {15}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {15}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>A41FF430-EBAD-4ACB-9835-13382E26129B</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 talgebra
 </li>
@@ -10964,6 +11581,62 @@ $
 <div class='answer'>
 
 $933  \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>9BC445B0-E60B-4C43-9A3B-131B9EE3AD28</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For a train journey $t$ tickets cost $c = 6 + 10t$. How many tickets can I get for $\pounds 50$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+c       &= 6 + 10 t \\\\
+50      &= 6 + 10 t \\\\
+10t     &= 50 - 6 \\\\
+10t     &= 44 \\\\
+t       &= \dfrac {44} {10} \\\\
+t       &= 4 \text { remainder } 4
+\end{aligned}
+$
+
+Max $4$ tickets can be bought with $\pounds 50$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
 
 </div>
 </div>
@@ -11322,6 +11995,49 @@ $
 <div class='answer'>
 
 $80$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>51895EF4-90DD-4CC5-B028-99ED8D291204</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the number $236.751$, what does the $7$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.7$
 
 </div>
 </div>
@@ -11999,6 +12715,67 @@ $121$
 <li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
+<p>F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put these fractions in size order, smallest to largest
+
+$\dfrac {1} {2}, \dfrac {1} {4} , \dfrac {1} {8} , \dfrac {3} {4} , \dfrac {3} {8}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $2, 4, 8 = 8$
+
+$
+\begin{aligned}
+&= \dfrac {1} {2}, \quad \dfrac {1} {4}, \quad \dfrac {1} {8}, \quad \dfrac {3} {4}, \quad \dfrac {3} {8} \\\\
+&= \dfrac {1 \times 4} {2 \times 4}, \quad \dfrac {1 \times 2} {4 \times 2}, \quad \dfrac {1} {8}, \quad \dfrac {3 \times 2} {4 \times 2}, \quad \dfrac {3} {8} \\\\
+&= \dfrac {4} {8}, \quad \dfrac {2} {8}, \quad \dfrac {1} {8}, \quad \dfrac {6} {8}, \quad \dfrac {3} {8}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac {6} {8}, \quad \dfrac {4} {8}, \quad \dfrac {3} {8}, \quad \dfrac {2} {8}, \quad \dfrac {1} {8} \\\\
+&= \dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4}, \quad \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4}, \quad \dfrac {1} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
 <p>8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2</p>
 </div>
 <div class='topics'>
@@ -12250,9 +13027,6 @@ $\pounds 4.54$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -12309,7 +13083,7 @@ $1430$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -12415,7 +13189,7 @@ $\pounds 18$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -12644,9 +13418,6 @@ $\pounds 450$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -12726,7 +13497,7 @@ tunassigned
 talgebra
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -13063,7 +13834,7 @@ $\pounds 3.60, \pounds 1.20$
 <div class='topics'>
 <ul>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tmoney
@@ -13448,9 +14219,6 @@ $85$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -13840,12 +14608,6 @@ $34$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
 <li>
 talgebra
 </li>
@@ -14267,9 +15029,6 @@ $78$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -16845,9 +17604,6 @@ $608$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -17381,9 +18137,6 @@ $0.80$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -18769,9 +19522,6 @@ $16$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -19746,9 +20496,6 @@ $\pounds 2.900$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -19801,12 +20548,6 @@ $14$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 talgebra
 </li>
@@ -20392,7 +21133,7 @@ $10{:}40$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -21718,13 +22459,7 @@ $2847.5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -21853,9 +22588,6 @@ $24$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -22335,9 +23067,6 @@ $\pounds 4000$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -22589,10 +23318,7 @@ $8{:}08 \ \text {a.m.}$
 tunassigned
 </li>
 <li>
-tperimeter
-</li>
-<li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -22717,13 +23443,7 @@ $38 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
@@ -23568,9 +24288,6 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -23711,9 +24428,6 @@ $\pounds 144$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

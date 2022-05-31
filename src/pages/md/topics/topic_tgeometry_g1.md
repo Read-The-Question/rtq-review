@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-g1"
 title: "Topic - Geometry - G1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,6 +59,127 @@ D
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ga_g1 question'>
+<div class='uuid'>
+<p>E52F477B-FFCA-4102-95D0-AD1EFD89B90D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tareaperimeter
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the size of the area left when a square side length $2 \ \text{metres}$ is removed from the rectangle below
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area Left} &= \text { Area of Rectangle} - \text { Area of Square} \\\\
+                  &= (\text {Length} \times \text {Width}) - (\text {Side} \times \text {Side}) \\\\
+                  &= (8 \text {m} \times 6 \text {m}) - (2 \text {m} \times 2 \text {m}) \\\\
+                  &= 48 \text {m}^2 - 4 \text {m}^2 \\\\
+                  &= 44 \text {m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44 \text {m}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of the biggest square that would fit completely inside the original rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The biggest square with side length $6$ metres would fit completely inside the original rectangle
+
+$
+\begin{aligned}
+\text {Area of Square} &= \text {Side} \times \text {Side} \\\\
+                       &= 6 \text {m} \times 6 \text {m} \\\\
+                       &= 36 \text {m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36 \text {m}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nj_g1 question'>
 <div class='uuid'>
 <p>7DF50E0E-627E-4080-A886-C2724978A151</p>
@@ -109,6 +230,49 @@ $\text {Octagon}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_nj_g1 question'>
+<div class='uuid'>
+<p>DFE28FF1-618F-43C0-9BCB-05877CC899BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The angles are all the same size, because it is regular. What is the special name given to an angle of this size?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Obtuse angle
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Obtuse angle
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g1</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
 <p>0C657190-6716-4EA4-B662-51AE68C07DC7</p>
@@ -139,7 +303,7 @@ tgeometry
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -258,7 +422,7 @@ tnumber
 tgeometry
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -351,7 +515,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -451,6 +615,139 @@ $2$
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>66777738-C618-4271-96E5-1C9214C9F392</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tareaperimeter
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A tile in the shape of a cross is made by drawing a square of length $10 \ \text{cm}$ 
+and then removing four squares of length $2 \ \text{cm}$ from each corner. 
+
+What is the perimeter of the cross shape tile?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Perimeter of cross shape tile} &= \text {Perimeter of the big square} - 8 \times \text {Corner squares} \\\\
+                                     &= 4 \times 10 - 8 \times 2 \\\\
+                                     &= 40 - 16 \\\\
+                                     &= 24 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text{cm}$
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Robert puts three tiles together to make the shape below. What is the perimeter of his shape?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Perimeter} &= 3 \times \text{Perimeter of tile} - 4 \times \text{Common side between tiles} \\\\
+                 &= 3 \times 24 - 4 \times (10 - 4) \\\\
+                 &= 72 - 4 \times 6 \\\\
+                 &= 72 - 24 \\\\
+                 &= 48 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Ravi put ten tiles together in a similar way. What is the perimeter of his shape?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Perimeter of 10 tiles} &= 10 \times \text{Perimeter of tile} - 18 \times \text{Common side between tiles} \\\\
+                             &= 10 \times 24 - 18 \times (10 - 4) \\\\
+                             &= 240 - 18 \times 6 \\\\
+                             &= 240 - 108 \\\\
+                             &= 132 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$132 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -726,7 +1023,7 @@ $\text {Parallelogram}$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -907,10 +1204,7 @@ tunassigned
 talgebra
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tgeometry
@@ -1321,7 +1615,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tcircle
@@ -1584,7 +1878,7 @@ tunassigned
 tgeometry
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1705,7 +1999,7 @@ $16 \ \text{cm}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tgeometry

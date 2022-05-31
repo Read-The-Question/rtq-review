@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic A"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -536,9 +536,6 @@ $60000$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 </ul>
@@ -717,16 +714,7 @@ $\dfrac {11} {20}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tprofit
-</li>
-<li>
 talgebra
-</li>
-<li>
-tratio
 </li>
 </ul>
 </div>
@@ -838,7 +826,7 @@ $50p$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -894,7 +882,7 @@ $150 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
 </div>
@@ -1033,7 +1021,7 @@ $45p$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -1044,12 +1032,6 @@ $45p$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tvolume
-</li>
 <li>
 talgebra
 </li>

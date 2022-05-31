@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-pr"
 title: "Topic - Profit - PR"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -162,71 +162,6 @@ $\pounds 290$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ej_pr question'>
-<div class='uuid'>
-<p>7AB1C6A0-22A3-4EBC-A247-55F381AF4F47</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprofit
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A calculator normally costs $\pounds 3.80$. It is offered in a sale at $25\%$ off. What is the sale price?  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 25 \% \ \text {of} \pounds 3.80 \\\\
-&= \dfrac {25} {100} \times 3.80 \\\\
-&= 0.25 \times 3.80 \\\\
-&= \pounds 0.95
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Sales Price} &= \text{Original Cost - Discount} \\\\
-                   &= 3.80 - (25 \% \ \text {of} \ \pounds 3.80 )\\\\
-                   &= \dfrac {25} {100} \times 3.80 \\\\
-                   &= \dfrac {25 \times 3.80} {100} \\\\
-                   &= \dfrac {25 \times 2 \times 2 \times 0.95} {2 \times 2 \times 25} \\\\
-                   &= \dfrac {\cancel{25} \times \cancel{2} \times \cancel{2} \times 0.95} {\cancel{2} \times \cancel{2} \times \cancel{25}} \\\\
-                   &= \pounds 0.95 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 0.95$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ej_pr</p>
 </div>
 </div>
 </li>

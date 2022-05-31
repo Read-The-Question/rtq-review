@@ -1,7 +1,7 @@
 ---
 slug: "papers/blackheath-high-school-11-plus-maths-2007-sample-paper-1"
 title: "Blackheath High School - 11 Plus - Maths - 2007 - Sample Paper 1"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -70,7 +70,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>798006C1-EFFC-4CDE-A766-6D959CB23317</p>
 </div>
@@ -140,7 +140,7 @@ $2 \dfrac {1} {2} \ \text{jugs of water required}$
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -1324,7 +1324,7 @@ $1,6,21,20$
 tunassigned
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tdraw
@@ -1915,7 +1915,7 @@ TODOANSWER
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tdraw

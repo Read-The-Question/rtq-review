@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-all"
 title: "Topic - Unitprompt - All"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -242,6 +242,136 @@ $250 \ \text{milliliters}$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>49AD1A8F-44C5-4AA8-8600-14F8B353DC88</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+An icicle measured $2.14 \ \text{m}$ at the start of a sunny day, but only $87 \ \text{cm}$ at the end of the day. What length of icicle had melted?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When I lay a new patio in my back garden, I will need $290 \ \text{kg}$ of gravel. How many $12 \ \text{kg}$ bags do I need to buy?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -617,7 +747,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>BF227024-E5C0-4BCC-BD28-9FF20E31D978</p>
 </div>
@@ -674,7 +804,7 @@ $\text {One-quarter}$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -730,7 +860,7 @@ $25100 \ \text{mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>366615BC-8C29-4BAC-A992-39C9C243AA0F</p>
 </div>
@@ -740,13 +870,10 @@ $25100 \ \text{mm}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tperimeter
 </li>
 </ul>
 </div>
@@ -930,7 +1057,7 @@ $3.6 \ \text {m} ^ 2$
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -1613,10 +1740,7 @@ $85 \ \text {pence}$
 tunassigned
 </li>
 <li>
-tarea
-</li>
-<li>
-tperimeter
+tareaperimeter
 </li>
 <li>
 tunitprompt
@@ -2084,7 +2208,64 @@ $19.9 \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
+<div class='uuid'>
+<p>F4D77903-BECE-4A44-88EA-1781F5A261B0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Gavin buys four bottles of cola at $\pounds 1.09$ each and $8$ chocolate bars at $62 \text{p}$. How much change should he receive from a ten-pound note? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+
+Price of Cola $= \pounds 1.09$
+
+Price of $8$ Chocolate bars $= 62 \text{p}$
+
+$
+\begin{aligned}
+\text {Change received} &= \pounds 10 - (\text{Cost of cola} + \text{Cost of chocolate bars}) \\\\
+                        &= \pounds 10 - (4 \times \pounds 1.09 + 62 \text{p}) \\\\
+                        &= \pounds 10 - (\pounds 4.36 + \pounds 0.62) \\\\
+                        &= 10 - 4.98 \\\\
+                        &= \pounds 5.02
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 5.02$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>3482F384-C0E0-4164-8CFD-2035B993DC4E</p>
 </div>
@@ -2134,7 +2315,7 @@ $6233 \ \text{g}$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3218,7 +3399,7 @@ $7400 \ \text{grams}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>AA1C5578-EC4D-41B3-8D56-14B948934F9D</p>
 </div>
@@ -3325,12 +3506,12 @@ $25 \ \text {miles}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>AFF5896F-8064-498C-8114-C2B6BAFEF3AE</p>
 </div>
@@ -3375,7 +3556,7 @@ One million millimetres
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -3828,7 +4009,7 @@ tnumber
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -3891,7 +4072,7 @@ Write down, in grams, the masses represented by the arrows on these scales.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -4066,7 +4247,7 @@ Here is a graph to convert between gallons and litres:
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4092,7 +4273,7 @@ Showing clearly how you take your readings, use your graph to find:
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -4205,7 +4386,7 @@ One day, Julie's Juice Bar sells $1000 \ \text{litres}$ of orange juice.
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -4342,7 +4523,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4653,7 +4834,7 @@ Ten calculators have a total mass of $1500 \ \text{g}$.
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -4713,7 +4894,7 @@ $150 \ \text{g}$
 
 </div>
 </div>
-<ul class='subsubquestion TODO'>
+<ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_red subsubquestion'>
 <div class='topics'>
@@ -5010,9 +5191,6 @@ $2.4 \text{m}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>
@@ -5495,7 +5673,7 @@ $600 \ \text{m}$
 tunassigned
 </li>
 <li>
-tarea
+tareaperimeter
 </li>
 <li>
 tunitprompt
@@ -5553,7 +5731,7 @@ $135$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>E41C3B84-B13C-4220-B083-2712C0B5265C</p>
 </div>
@@ -5620,7 +5798,7 @@ $20 \ \text{coins}$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -6054,9 +6232,6 @@ $56$ coins
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -6234,7 +6409,7 @@ TODOANSWER
 
 </div>
 </div>
-<ul class='subquestion TODO'>
+<ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_red subquestion'>
 <div class='topics'>
@@ -6402,7 +6577,7 @@ $litres$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>4D18C421-3F30-45CC-ACE9-047E6EF86035</p>
 </div>
@@ -6458,7 +6633,7 @@ $80$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -6663,7 +6838,7 @@ $231 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_g1 question'>
 <div class='uuid'>
 <p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
 </div>
@@ -6802,7 +6977,7 @@ $45p$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_g1</p>
 </div>
 </div>
 </li>
@@ -6860,7 +7035,7 @@ $2.848 \text { kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_na_g1 question'>
 <div class='uuid'>
 <p>37279E76-7207-4B08-84B9-07B10F2972FD</p>
 </div>
@@ -6884,9 +7059,9 @@ Add together $3.7\, metres$ and $64\, cm$ and then subtract $2\, metres$ $7\,cm$
 
 It is really important to use the right units in calculations and convert where required. The measurement is given in meters and centimeteres but the answer has to be in meters.
 
-$1 \ \text{m} = 100 \text{cm}$
+$1 \ \text{m} = 100 \ \text{cm}$
 
-$\dfrac {1} {100} \ \text{m} = 1 \text{cm}$
+$\dfrac {1} {100} \ \text{m} = 1 \ \text{cm}$
 
 $
 \begin{aligned}
@@ -6912,7 +7087,7 @@ $2.27 \ \text{m}$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_na_g1</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle"
 title: "TopicPaper - Angle"
-date: 2022-05-31 06:21:51
+date: 2022-05-31 16:11:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -69,7 +69,7 @@ $42 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -127,7 +127,7 @@ $67 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
@@ -181,7 +181,7 @@ $300 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -260,7 +260,7 @@ $27 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:18</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -370,7 +370,7 @@ $135 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:13</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -539,7 +539,7 @@ $16 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -580,7 +580,7 @@ $
 49 + 52 + a    &= 180 \\\\
 101 + a        &= 180 \\\\
 a              &= 180 - 101 \\\\
-a              &= 79 \ \degree
+a              &= 79 \degree
 \end{aligned}
 $
 
@@ -589,13 +589,13 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$79 \ \degree$
+$79 \degree$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:21</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -656,7 +656,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:7</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -715,7 +715,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -778,7 +778,7 @@ $48 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g1</p>
@@ -836,7 +836,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>benenden-school--11-plus--maths--2020--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -844,7 +844,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_blocked question'>
 <div class='uuid'>
 <p>4DFDE872-CA9D-4835-9FCF-E33BB1673E98</p>
 </div>
@@ -970,10 +970,10 @@ $
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_blocked</p>
 </div>
 </div>
 </li>
@@ -1049,7 +1049,7 @@ $
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
@@ -1104,7 +1104,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:21</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1157,7 +1157,7 @@ $60 \ \text {degrees}$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -1289,7 +1289,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:18</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1359,7 +1359,7 @@ $48,63$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
@@ -1429,7 +1429,7 @@ $48, \63$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:2</p>
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
@@ -1484,7 +1484,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1540,7 +1540,7 @@ $62 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g1</p>
@@ -1601,7 +1601,7 @@ $35 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:23</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -1609,7 +1609,7 @@ $35 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_pr question'>
+<div class='question_envelope rag_nj_blocked question'>
 <div class='uuid'>
 <p>DA636143-50D9-44F2-92E7-6E0251062FF1</p>
 </div>
@@ -1656,10 +1656,10 @@ $60 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_nj_pr</p>
+<p>rag_nj_blocked</p>
 </div>
 </div>
 </li>
@@ -1709,7 +1709,7 @@ $43 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -1764,7 +1764,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1817,7 +1817,7 @@ $131 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -1871,7 +1871,7 @@ $122 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:23</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -1926,7 +1926,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1979,7 +1979,7 @@ $91 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g1</p>
@@ -2034,7 +2034,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2163,7 +2163,7 @@ $35 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:18</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -2208,7 +2208,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_nm_red</p>
@@ -2331,7 +2331,7 @@ $36 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
@@ -2400,7 +2400,7 @@ $64$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2:0:7</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -2408,7 +2408,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_ak_blocked question'>
 <div class='uuid'>
 <p>FB2B0EDB-09F8-45CB-A665-24A641A13C3B</p>
 </div>
@@ -2487,10 +2487,10 @@ $a = 68 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_blocked</p>
 </div>
 </div>
 </li>
@@ -2609,7 +2609,7 @@ $111 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
@@ -2743,7 +2743,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:15</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2812,7 +2812,7 @@ $51 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -2939,7 +2939,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>kent-college--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -3105,7 +3105,7 @@ $60 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>kent-college--11-plus--maths--9999--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -3352,7 +3352,7 @@ $38 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
@@ -3461,7 +3461,7 @@ $90 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -3593,7 +3593,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:9</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -3652,7 +3652,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:22</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -3660,7 +3660,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
+<div class='question_envelope rag_ad_g1 question'>
 <div class='uuid'>
 <p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
 </div>
@@ -3719,14 +3719,14 @@ As per the diagram,
 
 $
 \begin{aligned}
-c + 62 + 90 &= 180 \\\\
+c + 62 + 90  &= 180 \\\\
 c + 152      &= 180 \\\\
 c            &= 180 - 152 \\\\
 c            &= 28 \degree
 \end{aligned}
 $
 
-The value of d will also be equal to 28 because they are opposite angles
+The value of $d$ will also be equal to $28$ because they are opposite angles.
 
 </div>
 </div>
@@ -3744,10 +3744,10 @@ $28 \degree, \ 28 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ad_pr</p>
+<p>rag_ad_g1</p>
 </div>
 </div>
 </li>
@@ -3799,7 +3799,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:26</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -3845,7 +3845,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:29</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -4026,7 +4026,7 @@ $110 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:25</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -4201,7 +4201,7 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g1</p>
@@ -4261,7 +4261,7 @@ $42$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:29</p>
 </div>
 <div class='rag'>
 <p>rag_ad_g2</p>
@@ -4332,7 +4332,7 @@ $20 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ks_g1</p>
@@ -4385,7 +4385,7 @@ $75 \degrees$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -4440,7 +4440,7 @@ $55 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:26</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -4495,7 +4495,7 @@ $75 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:26</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -4550,7 +4550,7 @@ $40 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -4605,7 +4605,7 @@ $60 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -4613,7 +4613,7 @@ $60 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>6F88E47C-D07C-48F0-9094-F886FF0D2CFA</p>
 </div>
@@ -4650,10 +4650,10 @@ $
 2a + a + 90     &= 180 \\\\
 3a + 90         &= 180 \\\\
 3a              &= 180 - 90 \\\\
-a               &= \dfrac{90}{3} \\\\
-a               &= \dfrac{30 \times 3}{3} \\\\
-a               &= \dfrac{30 \times \cancel{3}}{ \cancel{3}} \\\\
-a               &= 30\degree
+a               &= \dfrac {90} {3} \\\\
+a               &= \dfrac {30 \times 3} {3} \\\\
+a               &= \dfrac {30 \times \cancel{3}} { \cancel{3}} \\\\
+a               &= 30 \degree
 \end{aligned}
 $
 
@@ -4668,7 +4668,7 @@ $
 b                   &= \dfrac {30} {2} \\\\
 b                   &= \dfrac {15 \times 2} {2} \\\\
 b                   &= \dfrac {15 \times \cancel {2} } {\cancel {2} } \\\\
-b                   &= 15
+b                   &= 15 \degree
 \end{aligned}
 $
 
@@ -4677,21 +4677,21 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$30\degree$
+$30 \degree$
 
 </div>
 <div class='answer'>
 
-$15\degree$
+$15 \degree$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_np_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -4750,7 +4750,7 @@ $
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
@@ -4878,7 +4878,7 @@ $36 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -5015,7 +5015,7 @@ $105 \ \text {degrees}$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:13</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -5087,7 +5087,7 @@ $
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:9</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
@@ -5205,7 +5205,7 @@ $140 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:23</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -5266,7 +5266,7 @@ $150 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:26</p>
 </div>
 <div class='rag'>
 <p>rag_sc_g1</p>
@@ -5319,7 +5319,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:28</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -5395,7 +5395,7 @@ $150\degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:25</p>
 </div>
 <div class='rag'>
 <p>rag_ej_red</p>
@@ -5532,7 +5532,7 @@ $90 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_na_g1</p>
@@ -5606,7 +5606,7 @@ $\text{angle Q}$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_ej_g1</p>
@@ -5765,7 +5765,7 @@ $73 \degree, 107 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:22</p>
 </div>
 <div class='rag'>
 <p>rag_na_g1</p>
@@ -5820,7 +5820,7 @@ $58 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
@@ -5882,7 +5882,7 @@ $56 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
@@ -5947,7 +5947,7 @@ $85 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_bs_g1</p>
@@ -6014,7 +6014,7 @@ $190$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -6078,7 +6078,7 @@ $136 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -6086,7 +6086,7 @@ $136 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>A9712DDD-B6B1-40F8-80F2-D8628FB0991D</p>
 </div>
@@ -6149,10 +6149,10 @@ $110\degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -6274,7 +6274,7 @@ $30 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:26</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -6339,7 +6339,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:25</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6396,7 +6396,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:26</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6606,7 +6606,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:0:7</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6614,7 +6614,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_ej_blocked question'>
 <div class='uuid'>
 <p>2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C</p>
 </div>
@@ -6729,10 +6729,10 @@ $30 \degree, 150 \degree, 150 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_ej_blocked</p>
 </div>
 </div>
 </li>
@@ -6784,7 +6784,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6840,7 +6840,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6889,7 +6889,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:28</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6960,7 +6960,7 @@ $100 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_ga_g1</p>
@@ -7160,7 +7160,7 @@ $45 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
@@ -7230,7 +7230,7 @@ $108 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -7429,7 +7429,7 @@ $40 \degree$
 </li>
 </ul>
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:0:1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -7437,7 +7437,7 @@ $40 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_ga_g1 question'>
 <div class='uuid'>
 <p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
 </div>
@@ -7500,10 +7500,10 @@ $105 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_ga_g1</p>
 </div>
 </div>
 </li>
@@ -7573,7 +7573,7 @@ $108 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -7643,7 +7643,7 @@ $x = 117 \degree, \ \ y = 29 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -7716,7 +7716,7 @@ $30 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:15</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -7780,7 +7780,7 @@ $110 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:18</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -7837,7 +7837,7 @@ $27 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -7889,7 +7889,7 @@ TODOANSWER
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -7970,7 +7970,7 @@ $22 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_ac_red</p>
@@ -8031,7 +8031,7 @@ $16 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:21</p>
 </div>
 <div class='rag'>
 <p>rag_ac_g1</p>
@@ -8097,7 +8097,7 @@ $67 \degree$
 </div>
 
 <div class='papername'>
-<p>topicpapers_tangle</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_na_amber</p>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-red"
 title: "Owner - Abhay Kandpal - Red"
-date: 2022-05-30 23:47:59
+date: 2022-05-31 16:01:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -259,13 +259,7 @@ $2.9 \ \text{inches}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-talgebra
 </li>
 </ul>
 </div>
